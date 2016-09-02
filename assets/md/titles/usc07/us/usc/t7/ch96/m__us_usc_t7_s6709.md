@@ -15,7 +15,7 @@
 
 ## § 6709. Interagency cooperation to maximize biomass growth
 
-The Secretary may enter into an agreement with the Secretary of Defense to—
+    The Secretary may enter into an agreement with the Secretary of Defense to—
 
     (1) conduct a study of reforestation and improved management of Department of Defense military installations and lands; and
 

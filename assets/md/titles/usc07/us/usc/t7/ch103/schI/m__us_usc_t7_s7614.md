@@ -15,7 +15,7 @@
 
 ## § 7614. Definitions
 
-Except as otherwise provided in this section and sections 7614a to 7614c of this title, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  in this section and sections 7614a to 7614c of this title:  <sup>\[1\]</sup> 
+    Except as otherwise provided in this section and sections 7614a to 7614c of this title, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  in this section and sections 7614a to 7614c of this title:  <sup>\[1\]</sup> 
 
     (1) __Capacity and infrastructure program__ 
 

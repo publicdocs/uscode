@@ -15,7 +15,7 @@
 
 ## § 1379. Reconstitution of farms
 
-In any case in which the ownership of a tract of land is transferred from a parent farm, the acreage allotments, history acreages, and base acreages for the farm shall be divided between such tract and the parent farm in the same proportion that the cropland acreage in such tract bears to the cropland acreage in the parent farm, except that the Secretary shall provide by regulation the method to be used in determining the division, if any, of the acreage allotments, histories, and bases in any case in which—
+    In any case in which the ownership of a tract of land is transferred from a parent farm, the acreage allotments, history acreages, and base acreages for the farm shall be divided between such tract and the parent farm in the same proportion that the cropland acreage in such tract bears to the cropland acreage in the parent farm, except that the Secretary shall provide by regulation the method to be used in determining the division, if any, of the acreage allotments, histories, and bases in any case in which—
 
     (1) the tract of land transferred from the parent farm has been or is being transferred to any agency having the right to acquire it by eminent domain;
 

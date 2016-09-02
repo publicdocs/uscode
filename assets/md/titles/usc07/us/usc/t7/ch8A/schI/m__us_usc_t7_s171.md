@@ -15,7 +15,7 @@
 
 ## § 171. Program for development of guayule and other rubber-bearing plants
 
-The Secretary of Agriculture (hereinafter called the “Secretary”) is authorized—
+    The Secretary of Agriculture (hereinafter called the “Secretary”) is authorized—
 
     (1) To acquire by purchase, license, or other agreement, the right to operate under processes or patents relating to the growing and harvesting of guayule or the extraction of rubber therefrom, and such properties, processes, records, and data as are necessary to such operation, including but not limited to any such rights owned or controlled by the Intercontinental Rubber Company, or any of its subsidiaries, and all equipment, materials, structures, factories, real property, seed, seedlings, growing shrub, and other facilities, patents and processes of the Intercontinental Rubber Company, or any of its subsidiaries, located in California, and for such rights, properties, and facilities of the Intercontinental Rubber Company or any of its subsidiaries, the Secretary is authorized to pay not to exceed $2,000,000;
 

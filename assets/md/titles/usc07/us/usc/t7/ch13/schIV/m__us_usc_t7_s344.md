@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch13/schIV/m__us_usc_t7_s343f, 343g.md) | [Next](./../../../../..//us/usc/t7/ch13/schIV/m__us_usc_t7_s345.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs344)
+[Previous](./../../../../..//us/usc/t7/ch13/schIV/m__us_usc_t7_s343e.md) | [Next](./../../../../..//us/usc/t7/ch13/schIV/m__us_usc_t7_s345.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs344)
 
 ## § 344. Ascertainment of entitlement of State to funds; time and manner of payment; State reporting requirements; plans of work
 
@@ -73,7 +73,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch13/schIV/m__us_usc_t7_s343f, 343g.md) | [Next](./../../../../..//us/usc/t7/ch13/schIV/m__us_usc_t7_s345.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs344)
+[Previous](./../../../../..//us/usc/t7/ch13/schIV/m__us_usc_t7_s343e.md) | [Next](./../../../../..//us/usc/t7/ch13/schIV/m__us_usc_t7_s345.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs344)
 
 ----------
 ----------

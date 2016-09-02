@@ -15,7 +15,7 @@
 
 ## § 3121. Responsibilities of Secretary and Department of Agriculture
 
-The Department of Agriculture is designated as the lead agency of the Federal Government for agricultural research (except with respect to the biomedical aspects of human nutrition concerned with diagnosis or treatment of disease), extension, and teaching in the food and agricultural sciences, and the Secretary, in carrying out the Secretary’s responsibilities, shall—
+    The Department of Agriculture is designated as the lead agency of the Federal Government for agricultural research (except with respect to the biomedical aspects of human nutrition concerned with diagnosis or treatment of disease), extension, and teaching in the food and agricultural sciences, and the Secretary, in carrying out the Secretary’s responsibilities, shall—
 
     (1) establish jointly with the Secretary of Health and Human Services procedures for coordination with respect to nutrition research in areas of mutual interest;
 

@@ -15,7 +15,7 @@
 
 ## § 2282. Definitions
 
-When used in this chapter—
+    When used in this chapter—
 
     (1) the term “Secretary” means the Secretary of Agriculture of the United States;
 

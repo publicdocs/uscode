@@ -15,7 +15,7 @@
 
 ## § 2612. Definitions
 
-As used in this chapter:
+    As used in this chapter:
 
     (a) The term “Secretary” means the Secretary of Agriculture.
 

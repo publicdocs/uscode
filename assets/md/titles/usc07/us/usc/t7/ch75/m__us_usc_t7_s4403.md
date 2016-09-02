@@ -15,7 +15,7 @@
 
 ## § 4403. Duties of Secretary of Agriculture
 
-The Secretary of Agriculture of the United States shall be the competent authority to implement the agreement. To ensure compliance with the standards specified in the agreement, the Secretary of Agriculture may—
+    The Secretary of Agriculture of the United States shall be the competent authority to implement the agreement. To ensure compliance with the standards specified in the agreement, the Secretary of Agriculture may—
 
     (1) designate appropriate organizations to inspect or test equipment, or both;
 

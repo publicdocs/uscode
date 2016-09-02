@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch35A/schII/m__us_usc_t7_s1445–3.md) | [Next](./../../../../..//us/usc/t7/ch35A/schII/m__us_usc_t7_s1445b, 1445b–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1445a)
+[Previous](./../../../../..//us/usc/t7/ch35A/schII/m__us_usc_t7_s1445–3.md) | [Next](./../../../../..//us/usc/t7/ch35A/schII/m__us_usc_t7_s1445b–2.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1445a)
 
 ## § 1445a. Wheat price support levels; “cooperator” defined
 
-Notwithstanding the provisions of [section 1441 of this title][/us/usc/t7/s1441], beginning with the 1964 crop—
+    Notwithstanding the provisions of [section 1441 of this title][/us/usc/t7/s1441], beginning with the 1964 crop—
 
     (1) Price support for wheat accompanied by domestic certificates shall be at such level not less than 65 per centum or more than 90 per centum of the parity price therefor as the Secretary determines appropriate, taking into consideration the factors specified in [section 1421(b) of this title][/us/usc/t7/s1421/b].
 
@@ -99,9 +99,19 @@ Notwithstanding the provisions of [section 1441 of this title][/us/usc/t7/s1441]
 
 > “Except as otherwise provided in section 401 of this Act \[enacting section 1445b(a)–(c) of this title effective only for the 1977 through 1981 crops of wheat\], section 107 of the Agricultural Act of 1949, as added by the Agricultural Act of 1970, as amended \[this section as amended by [Pub. L. 91–524][/us/pl/91/524], as amended\], to be effective only for the 1974 through 1977 crops of wheat, shall not be applicable to the 1977 crop of wheat.”
 
+§§ 1445b, 1445b–1. __Repealed.__  __[__  __Pub. L. 101–624, title III, § 301(1)__  __][/us/pl/101/624/s301/1]__  __,__  __Nov. 28, 1990__  __,__  __[__  __104 Stat. 3382__  __][/us/stat/104/3382]__ 
+
+    Section 1445b, [act Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title I, § 107A, as added Sept. 29, 1977, [Pub. L. 95–113, title IV][/us/pl/95/113], §§ 401, 402, [91 Stat. 921][/us/stat/91/921], 924; amended Mar. 18, 1980, [Pub. L. 96–213][/us/pl/96/213], §§ 3, 4(d), [94 Stat. 119][/us/stat/94/119], 120; Sept. 26, 1980, [Pub. L. 96–365, title II, § 201(d)][/us/pl/96/365/s201/d], [94 Stat. 1320][/us/stat/94/1320]; Dec. 3, 1980, [Pub. L. 96–494, title II, § 202(b)][/us/pl/96/494/s202/b], [94 Stat. 2570][/us/stat/94/2570], related to loan rates and target prices for the 1977 through 1981 crops of wheat.
+
+    Section 1445b–1, [act Oct. 31, 1949, ch. 792][/us/act/1949-10-31/ch792], title I, § 107B, as added Dec. 22, 1981, [Pub. L. 97–98, title III, § 301][/us/pl/97/98/s301], [95 Stat. 1221][/us/stat/95/1221]; Sept. 8, 1982, [Pub. L. 97–253, title I][/us/pl/97/253], §§ 121, 122, [96 Stat. 768][/us/stat/96/768]; amended Sept. 29, 1983, [Pub. L. 98–100, § 1(b)][/us/pl/98/100/s1/b], [97 Stat. 718][/us/stat/97/718]; Apr. 10, 1984, [Pub. L. 98–258, title I][/us/pl/98/258], §§ 101–103, [98 Stat. 130][/us/stat/98/130], 131, related to loan rates and target prices for 1982 through 1985 wheat crops.
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective beginning with 1991 crop of an agricultural commodity, with provision for prior crops, see [section 1171 of Pub. L. 101–624][/us/pl/101/624/s1171], set out as an Effective Date of 1990 Amendment note under [section 1421 of this title][/us/usc/t7/s1421].
+
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch35A/schII/m__us_usc_t7_s1445–3.md) | [Next](./../../../../..//us/usc/t7/ch35A/schII/m__us_usc_t7_s1445b, 1445b–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1445a)
+[Previous](./../../../../..//us/usc/t7/ch35A/schII/m__us_usc_t7_s1445–3.md) | [Next](./../../../../..//us/usc/t7/ch35A/schII/m__us_usc_t7_s1445b–2.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1445a)
 
 ----------
 ----------
@@ -170,5 +180,27 @@ Notwithstanding the provisions of [section 1441 of this title][/us/usc/t7/s1441]
 [/us/pl/95/113/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113%2Fs410
 [/us/stat/91/928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F928
 [/us/pl/91/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F524
+[/us/pl/101/624/s301/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs301%2F1
+[/us/stat/104/3382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3382
+[/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
+[/us/pl/95/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F113
+[/us/stat/91/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F921
+[/us/pl/96/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F213
+[/us/stat/94/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F119
+[/us/pl/96/365/s201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F365%2Fs201%2Fd
+[/us/stat/94/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1320
+[/us/pl/96/494/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F494%2Fs202%2Fb
+[/us/stat/94/2570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2570
+[/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
+[/us/pl/97/98/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F98%2Fs301
+[/us/stat/95/1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1221
+[/us/pl/97/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253
+[/us/stat/96/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F768
+[/us/pl/98/100/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F100%2Fs1%2Fb
+[/us/stat/97/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F718
+[/us/pl/98/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F258
+[/us/stat/98/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F130
+[/us/pl/101/624/s1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1171
+[/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
 
 

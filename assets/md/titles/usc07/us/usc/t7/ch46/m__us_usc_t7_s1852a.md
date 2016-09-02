@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch46/m__us_usc_t7_s1851, 1852.md) | [Next](./../../../..//us/usc/t7/ch46/m__us_usc_t7_s1853.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1852a)
+[Previous](./../../../..//us/usc/t7/ch46/m__us_usc_t7_ch46.md) | [Next](./../../../..//us/usc/t7/ch46/m__us_usc_t7_s1853.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1852a)
 
 ## § 1852a. Repealed. [Pub. L. 90–475, § 8][/us/pl/90/475/s8], Aug. 11, 1968, [82 Stat. 703][/us/stat/82/703]
 
@@ -23,7 +23,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch46/m__us_usc_t7_s1851, 1852.md) | [Next](./../../../..//us/usc/t7/ch46/m__us_usc_t7_s1853.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1852a)
+[Previous](./../../../..//us/usc/t7/ch46/m__us_usc_t7_ch46.md) | [Next](./../../../..//us/usc/t7/ch46/m__us_usc_t7_s1853.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1852a)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 3103. Definitions
 
-When used in this chapter:
+    When used in this chapter:
 
     (1) The term “Advisory Board” means the National Agricultural Research, Extension, Education, and Economics Advisory Board.
 

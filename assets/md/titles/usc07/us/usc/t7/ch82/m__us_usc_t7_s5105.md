@@ -15,7 +15,7 @@
 
 ## § 5105. Report
 
-Not later than January 1, 1998, the Secretary of Agriculture shall report to Congress on—
+    Not later than January 1, 1998, the Secretary of Agriculture shall report to Congress on—
 
     (1) the effectiveness of the State mediation programs receiving matching grants under this chapter;
 

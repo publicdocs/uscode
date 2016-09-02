@@ -171,9 +171,9 @@
 
 > “SEC. 1305. __COUNTRY OF ORIGIN LABELING PROGRAMS.__ 
 
->     “(a) __Grown in the U.S. Program.—__ 
+>     “(a) __Grown in the U.__ 
 
->     The Secretary of Agriculture (hereafter referred to in this section as the ‘Secretary’) shall implement a program defining the conditions under which non-perishable agricultural products may be designated as ‘grown in the U.S.’.
+>     S. Program.—The Secretary of Agriculture (hereafter referred to in this section as the ‘Secretary’) shall implement a program defining the conditions under which non-perishable agricultural products may be designated as ‘grown in the U.S.’.
 
 >     “(b) __Pilot Program.—__ 
 

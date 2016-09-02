@@ -73,9 +73,7 @@
 
         (2)
 
-         Payments shall be made for each crop of cotton to the producers on each farm at a rate equal to the amount by which the higher of—
-
-            (1) the average market price received by farmers for upland cotton during the calendar year which includes the first five months of the marketing year for such crop, as determined by the Secretary, or
+         Payments shall be made for each crop of cotton to the producers on each farm at a rate equal to the amount by which the higher of—    (1) the average market price received by farmers for upland cotton during the calendar year which includes the first five months of the marketing year for such crop, as determined by the Secretary, or
 
             (2) the loan level determined under paragraph (1) for such crop
 

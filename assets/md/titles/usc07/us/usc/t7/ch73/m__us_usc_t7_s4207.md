@@ -15,7 +15,7 @@
 
 ## § 4207. Reporting requirement
 
-On January 1, 1987, and at the beginning of each subsequent calendar year. <sup>\[1\]</sup>  <sup><sup> 1 So in original. The period probably should be a comma. </sup></sup>  the Secretary of Agriculture shall report to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives on the progress made in implementing the provisions of this chapter. Such report shall include information on—
+    On January 1, 1987, and at the beginning of each subsequent calendar year. <sup>\[1\]</sup>  <sup><sup> 1 So in original. The period probably should be a comma. </sup></sup>  the Secretary of Agriculture shall report to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives on the progress made in implementing the provisions of this chapter. Such report shall include information on—
 
     (1) the effects, if any, of Federal programs, authorities, and administrative activities with respect to the protection of United States farmland; and
 

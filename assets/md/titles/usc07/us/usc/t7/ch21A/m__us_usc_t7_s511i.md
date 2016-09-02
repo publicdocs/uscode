@@ -15,7 +15,7 @@
 
 ## § 511i. Offenses
 
-It shall be unlawful—
+    It shall be unlawful—
 
     (a) For any person to use the words “United States”, “Government”, or “Federal”, or any abbreviation thereof, in, or in connection with, any statement relating to the grade of tobacco when such grade is not, in fact, one of the grades for tobacco according to the standards of the United States.
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 391.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs391" data-uslm-ref="/us/usc/t7/s391">391.</a>  </td>
 
     <td> Establishment of bureau; appointment of chief; duties.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 392.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs392" data-uslm-ref="/us/usc/t7/s392">392.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 393.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs393" data-uslm-ref="/us/usc/t7/s393">393.</a>  </td>
 
     <td> Sale of pathological and zoological specimens; disposition of moneys.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 394.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs394" data-uslm-ref="/us/usc/t7/s394">394.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 394a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs394a" data-uslm-ref="/us/usc/t7/s394a">394a.</a>  </td>
 
     <td> Overtime of employees working at establishments which prepare virus, serum, toxin, and analogous products.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 395.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs395" data-uslm-ref="/us/usc/t7/s395">395.</a>  </td>
 
     <td> Fees for rabies diagnoses; disposition of moneys.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 396.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs396" data-uslm-ref="/us/usc/t7/s396">396.</a>  </td>
 
     <td> Inspection of livestock, hides, animal products, etc.; place; charges; disposition of funds.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 397.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs397" data-uslm-ref="/us/usc/t7/s397">397.</a>  </td>
 
     <td> Omitted.  </td>
 

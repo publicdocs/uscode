@@ -15,7 +15,7 @@
 
 ## § 75. Definitions
 
-When used in this chapter, except where the context requires otherwise—
+    When used in this chapter, except where the context requires otherwise—
 
     (a) the term “Secretary” means the Secretary of Agriculture of the United States or delegates of the Secretary;
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 591.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs591" data-uslm-ref="/us/usc/t7/s591">591.</a>  </td>
 
     <td> Standards of export; establishment; shipping without certificate forbidden; hearings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 592.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs592" data-uslm-ref="/us/usc/t7/s592">592.</a>  </td>
 
     <td> Notice of establishment of standards; shipments under contracts made before adoption of standards.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 593.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs593" data-uslm-ref="/us/usc/t7/s593">593.</a>  </td>
 
     <td> Foreign standards; certification of compliance.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 594.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs594" data-uslm-ref="/us/usc/t7/s594">594.</a>  </td>
 
     <td> Exemption of minimum quantities.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 595.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs595" data-uslm-ref="/us/usc/t7/s595">595.</a>  </td>
 
     <td> Fees for inspection and certification; certificates as prima facie evidence.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 596.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs596" data-uslm-ref="/us/usc/t7/s596">596.</a>  </td>
 
     <td> Refusal of certificates for violations of law; penalties for violations.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 597.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs597" data-uslm-ref="/us/usc/t7/s597">597.</a>  </td>
 
     <td> Rules and regulations; cooperation with other agencies; compensation of officers and employees; effect on other laws.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 598.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs598" data-uslm-ref="/us/usc/t7/s598">598.</a>  </td>
 
     <td> Separability.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 599.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs599" data-uslm-ref="/us/usc/t7/s599">599.</a>  </td>
 
     <td> Definitions.  </td>
 

@@ -33,7 +33,7 @@ SUBCHAPTER I—DECLARATION OF CONDITIONS AND POLICY  </td>
 
   <tr>
 
-    <td> 601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs601" data-uslm-ref="/us/usc/t7/s601">601.</a>  </td>
 
     <td> Declaration of conditions.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—DECLARATION OF CONDITIONS AND POLICY  </td>
 
   <tr>
 
-    <td> 602.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs602" data-uslm-ref="/us/usc/t7/s602">602.</a>  </td>
 
     <td> Declaration of policy; establishment of price basing period; marketing standards; orderly supply flow; circumstances for continued regulation.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER II—COTTON OPTION CONTRACTS  </td>
 
   <tr>
 
-    <td> 603.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs603" data-uslm-ref="/us/usc/t7/s603">603.</a>  </td>
 
     <td> Government owned cotton; transfer to Secretary of Agriculture; powers of Secretary.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER II—COTTON OPTION CONTRACTS  </td>
 
   <tr>
 
-    <td> 604.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs604" data-uslm-ref="/us/usc/t7/s604">604.</a>  </td>
 
     <td> Borrowing money; expenditures; authority of Secretary.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—COTTON OPTION CONTRACTS  </td>
 
   <tr>
 
-    <td> 605, 606.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs605" data-uslm-ref="/us/usc/t7/s605">605</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs606" data-uslm-ref="/us/usc/t7/s606">606.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—COTTON OPTION CONTRACTS  </td>
 
   <tr>
 
-    <td> 607.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs607" data-uslm-ref="/us/usc/t7/s607">607.</a>  </td>
 
     <td> Sale by Secretary; additional options; validation of assignments; publication of information.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER III—COMMODITY BENEFITS  </td>
 
   <tr>
 
-    <td> 608.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs608" data-uslm-ref="/us/usc/t7/s608">608.</a>  </td>
 
     <td> Powers of Secretary.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER III—COMMODITY BENEFITS  </td>
 
   <tr>
 
-    <td> 608–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs608%E2%80%931" data-uslm-ref="/us/usc/t7/s608–1">608–1.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER III—COMMODITY BENEFITS  </td>
 
   <tr>
 
-    <td> 608a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs608a" data-uslm-ref="/us/usc/t7/s608a">608a.</a>  </td>
 
     <td> Enforcement of chapter.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER III—COMMODITY BENEFITS  </td>
 
   <tr>
 
-    <td> 608a–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs608a%E2%80%931" data-uslm-ref="/us/usc/t7/s608a–1">608a–1.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER III—COMMODITY BENEFITS  </td>
 
   <tr>
 
-    <td> 608b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs608b" data-uslm-ref="/us/usc/t7/s608b">608b.</a>  </td>
 
     <td> Marketing agreements; exemption from antitrust laws; inspection requirements for handlers not subject to agreements.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER III—COMMODITY BENEFITS  </td>
 
   <tr>
 
-    <td> 608c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs608c" data-uslm-ref="/us/usc/t7/s608c">608c.</a>  </td>
 
     <td> Orders.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER III—COMMODITY BENEFITS  </td>
 
   <tr>
 
-    <td> 608c–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs608c%E2%80%931" data-uslm-ref="/us/usc/t7/s608c–1">608c–1.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER III—COMMODITY BENEFITS  </td>
 
   <tr>
 
-    <td> 608d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs608d" data-uslm-ref="/us/usc/t7/s608d">608d.</a>  </td>
 
     <td> Books and records.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER III—COMMODITY BENEFITS  </td>
 
   <tr>
 
-    <td> 608e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs608e" data-uslm-ref="/us/usc/t7/s608e">608e.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER III—COMMODITY BENEFITS  </td>
 
   <tr>
 
-    <td> 608e–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs608e%E2%80%931" data-uslm-ref="/us/usc/t7/s608e–1">608e–1.</a>  </td>
 
     <td> Import prohibitions on specified foreign produce.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER III—COMMODITY BENEFITS  </td>
 
   <tr>
 
-    <td> 608f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs608f" data-uslm-ref="/us/usc/t7/s608f">608f.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER III—COMMODITY BENEFITS  </td>
 
   <tr>
 
-    <td> 609.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs609" data-uslm-ref="/us/usc/t7/s609">609.</a>  </td>
 
     <td> Processing tax; methods of computation; rate; what constitutes processing; publicity as to tax to avoid profiteering.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER III—COMMODITY BENEFITS  </td>
 
   <tr>
 
-    <td> 610.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs610" data-uslm-ref="/us/usc/t7/s610">610.</a>  </td>
 
     <td> Administration.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER III—COMMODITY BENEFITS  </td>
 
   <tr>
 
-    <td> 611.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs611" data-uslm-ref="/us/usc/t7/s611">611.</a>  </td>
 
     <td> “Basic agricultural commodity” defined; exclusion of commodities.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER III—COMMODITY BENEFITS  </td>
 
   <tr>
 
-    <td> 612.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs612" data-uslm-ref="/us/usc/t7/s612">612.</a>  </td>
 
     <td> Appropriation; use of revenues; administrative expenses.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER III—COMMODITY BENEFITS  </td>
 
   <tr>
 
-    <td> 612a, 612b.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs612a" data-uslm-ref="/us/usc/t7/s612a">612a</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs612b" data-uslm-ref="/us/usc/t7/s612b">612b.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER III—COMMODITY BENEFITS  </td>
 
   <tr>
 
-    <td> 612c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs612c" data-uslm-ref="/us/usc/t7/s612c">612c.</a>  </td>
 
     <td> Appropriation to encourage exportation and domestic consumption of agricultural products.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER III—COMMODITY BENEFITS  </td>
 
   <tr>
 
-    <td> 612c–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs612c%E2%80%931" data-uslm-ref="/us/usc/t7/s612c–1">612c–1.</a>  </td>
 
     <td> Authorization for appropriations to increase domestic consumption of surplus farm commodities.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER III—COMMODITY BENEFITS  </td>
 
   <tr>
 
-    <td> 612c–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs612c%E2%80%932" data-uslm-ref="/us/usc/t7/s612c–2">612c–2.</a>  </td>
 
     <td> Technical support to exporters and importers of United States agricultural products; scope of support provided by Department of Agriculture.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER III—COMMODITY BENEFITS  </td>
 
   <tr>
 
-    <td> 612c–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs612c%E2%80%933" data-uslm-ref="/us/usc/t7/s612c–3">612c–3.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER III—COMMODITY BENEFITS  </td>
 
   <tr>
 
-    <td> 612c–4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs612c%E2%80%934" data-uslm-ref="/us/usc/t7/s612c–4">612c–4.</a>  </td>
 
     <td> Purchase of specialty crops.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER III—COMMODITY BENEFITS  </td>
 
   <tr>
 
-    <td> 612c–5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs612c%E2%80%935" data-uslm-ref="/us/usc/t7/s612c–5">612c–5.</a>  </td>
 
     <td> Section 612c funds for purchase of fruits, vegetables, and nuts to support domestic nutrition assistance programs.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER III—COMMODITY BENEFITS  </td>
 
   <tr>
 
-    <td> 612c–6.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs612c%E2%80%936" data-uslm-ref="/us/usc/t7/s612c–6">612c–6.</a>  </td>
 
     <td> Domestic food assistance programs.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER III—COMMODITY BENEFITS  </td>
 
   <tr>
 
-    <td> 613.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs613" data-uslm-ref="/us/usc/t7/s613">613.</a>  </td>
 
     <td> Termination date; investigations and reports.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER III—COMMODITY BENEFITS  </td>
 
   <tr>
 
-    <td> 613a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs613a" data-uslm-ref="/us/usc/t7/s613a">613a.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER III—COMMODITY BENEFITS  </td>
 
   <tr>
 
-    <td> 614.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs614" data-uslm-ref="/us/usc/t7/s614">614.</a>  </td>
 
     <td> Separability.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER III—COMMODITY BENEFITS  </td>
 
   <tr>
 
-    <td> 615.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs615" data-uslm-ref="/us/usc/t7/s615">615.</a>  </td>
 
     <td> Refunds of tax; exemptions from tax; compensating tax; compensating tax on foreign goods; covering into Treasury.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER III—COMMODITY BENEFITS  </td>
 
   <tr>
 
-    <td> 616.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs616" data-uslm-ref="/us/usc/t7/s616">616.</a>  </td>
 
     <td> Stock on hand when tax takes effect or terminates.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER III—COMMODITY BENEFITS  </td>
 
   <tr>
 
-    <td> 617.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs617" data-uslm-ref="/us/usc/t7/s617">617.</a>  </td>
 
     <td> Refund on goods exported; bond to suspend tax on commodity intended for export.  </td>
 
@@ -329,7 +329,7 @@ SUBCHAPTER III—COMMODITY BENEFITS  </td>
 
   <tr>
 
-    <td> 618.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs618" data-uslm-ref="/us/usc/t7/s618">618.</a>  </td>
 
     <td> Existing contracts; imposition of tax on vendee; collection.  </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER III—COMMODITY BENEFITS  </td>
 
   <tr>
 
-    <td> 619.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs619" data-uslm-ref="/us/usc/t7/s619">619.</a>  </td>
 
     <td> Collection of tax; provisions of internal revenue laws applicable; returns.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER III—COMMODITY BENEFITS  </td>
 
   <tr>
 
-    <td> 619a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs619a" data-uslm-ref="/us/usc/t7/s619a">619a.</a>  </td>
 
     <td> Cotton tax, time for payment.  </td>
 
@@ -353,7 +353,7 @@ SUBCHAPTER III—COMMODITY BENEFITS  </td>
 
   <tr>
 
-    <td> 620.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs620" data-uslm-ref="/us/usc/t7/s620">620.</a>  </td>
 
     <td> Falsely ascribing deductions or charges to taxes; penalty.  </td>
 
@@ -361,7 +361,7 @@ SUBCHAPTER III—COMMODITY BENEFITS  </td>
 
   <tr>
 
-    <td> 621.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs621" data-uslm-ref="/us/usc/t7/s621">621.</a>  </td>
 
     <td> Machinery belting processed from cotton; exemption from tax.  </td>
 
@@ -369,7 +369,7 @@ SUBCHAPTER III—COMMODITY BENEFITS  </td>
 
   <tr>
 
-    <td> 622.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs622" data-uslm-ref="/us/usc/t7/s622">622.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -377,7 +377,7 @@ SUBCHAPTER III—COMMODITY BENEFITS  </td>
 
   <tr>
 
-    <td> 623.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs623" data-uslm-ref="/us/usc/t7/s623">623.</a>  </td>
 
     <td> Actions relating to tax; legalization of prior taxes.  </td>
 
@@ -385,7 +385,7 @@ SUBCHAPTER III—COMMODITY BENEFITS  </td>
 
   <tr>
 
-    <td> 624.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs624" data-uslm-ref="/us/usc/t7/s624">624.</a>  </td>
 
     <td> Limitation on imports; authority of President.  </td>
 
@@ -393,7 +393,7 @@ SUBCHAPTER III—COMMODITY BENEFITS  </td>
 
   <tr>
 
-    <td> 625.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs625" data-uslm-ref="/us/usc/t7/s625">625.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -401,7 +401,7 @@ SUBCHAPTER III—COMMODITY BENEFITS  </td>
 
   <tr>
 
-    <td> 626.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs626" data-uslm-ref="/us/usc/t7/s626">626.</a>  </td>
 
     <td> Import inventory.  </td>
 
@@ -409,7 +409,7 @@ SUBCHAPTER III—COMMODITY BENEFITS  </td>
 
   <tr>
 
-    <td> 627.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs627" data-uslm-ref="/us/usc/t7/s627">627.</a>  </td>
 
     <td> Dairy forward pricing pilot program.  </td>
 
@@ -425,7 +425,7 @@ SUBCHAPTER IV—REFUNDS  </td>
 
   <tr>
 
-    <td> 641 to 659.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs641" data-uslm-ref="/us/usc/t7/s641">641</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs659" data-uslm-ref="/us/usc/t7/s659">659.</a>  </td>
 
     <td> Omitted.  </td>
 

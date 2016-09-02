@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch17/m__us_usc_t7_s412, 413.md) | [Next](./../../../..//us/usc/t7/ch17/m__us_usc_t7_s414a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs414)
+[Previous](./../../../..//us/usc/t7/ch17/m__us_usc_t7_s411b.md) | [Next](./../../../..//us/usc/t7/ch17/m__us_usc_t7_s414a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs414)
 
 ## § 414. Repealed. [Aug. 9, 1955, ch. 632, § 2][/us/act/1955-08-09/ch632/s2], [69 Stat. 553][/us/stat/69/553]
 
@@ -75,7 +75,7 @@ Section, [act July 28, 1953, ch. 251][/us/act/1953-07-28/ch251], title I, [67 St
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch17/m__us_usc_t7_s412, 413.md) | [Next](./../../../..//us/usc/t7/ch17/m__us_usc_t7_s414a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs414)
+[Previous](./../../../..//us/usc/t7/ch17/m__us_usc_t7_s411b.md) | [Next](./../../../..//us/usc/t7/ch17/m__us_usc_t7_s414a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs414)
 
 ----------
 ----------

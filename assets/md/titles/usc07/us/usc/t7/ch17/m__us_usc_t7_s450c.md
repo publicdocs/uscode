@@ -15,7 +15,7 @@
 
 ## § 450c. Delegation of regulatory functions of Secretary of Agriculture; definitions
 
-As used in sections 450c to 450g of this title—
+    As used in sections 450c to 450g of this title—
 
     (a) The term “regulatory order” means an order, marketing agreement, standard, permit, license, registration, suspension or revocation of a permit, license, or registration, certificate, award, rule or regulation, if it has the force and effect of law, and if it may be made, prescribed, issued, or promulgated only after notice and hearing or opportunity for hearing have been given.
 

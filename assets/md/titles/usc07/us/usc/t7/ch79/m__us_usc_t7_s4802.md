@@ -15,7 +15,7 @@
 
 ## § 4802. Definitions
 
-For purposes of this chapter:
+    For purposes of this chapter:
 
     (1) The term “Board” means the National Pork Board established under [section 4808 of this title][/us/usc/t7/s4808].
 

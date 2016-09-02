@@ -15,7 +15,7 @@
 
 ## § 3402. Definitions
 
-For the purposes of this chapter:
+    For the purposes of this chapter:
 
     (a) The term “wheat” means all classes of wheat grains grown in the United States.
 

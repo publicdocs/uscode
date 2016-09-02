@@ -15,7 +15,7 @@
 
 ## § 2422. Content of application
 
-An application for a certificate recognizing plant variety rights shall contain:
+    An application for a certificate recognizing plant variety rights shall contain:
 
     (1) The name of the variety except that a temporary designation will suffice until the certificate is to be issued. The variety shall be named in accordance with regulations issued by the Secretary.
 

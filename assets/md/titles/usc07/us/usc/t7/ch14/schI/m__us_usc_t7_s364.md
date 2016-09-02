@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch14/schI/m__us_usc_t7_s362, 363.md) | [Next](./../../../../..//us/usc/t7/ch14/schI/m__us_usc_t7_s365.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs364)
+[Previous](./../../../../..//us/usc/t7/ch14/schI/m__us_usc_t7_s361i.md) | [Next](./../../../../..//us/usc/t7/ch14/schI/m__us_usc_t7_s365.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs364)
 
 ## § 364. Repealed. [Aug. 11, 1955, ch. 790, § 2][/us/act/1955-08-11/ch790/s2], [69 Stat. 675][/us/stat/69/675]
 
@@ -23,7 +23,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch14/schI/m__us_usc_t7_s362, 363.md) | [Next](./../../../../..//us/usc/t7/ch14/schI/m__us_usc_t7_s365.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs364)
+[Previous](./../../../../..//us/usc/t7/ch14/schI/m__us_usc_t7_s361i.md) | [Next](./../../../../..//us/usc/t7/ch14/schI/m__us_usc_t7_s365.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs364)
 
 ----------
 ----------

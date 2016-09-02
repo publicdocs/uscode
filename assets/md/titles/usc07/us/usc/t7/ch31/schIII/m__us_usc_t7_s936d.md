@@ -15,7 +15,7 @@
 
 ## § 936d. Eligibility of distribution borrowers for loans, loan guarantees, and lien accommodations
 
-For the purpose of determining the eligibility of a distribution borrower not in default on the repayment of a loan made or guaranteed under this chapter for a loan, loan guarantee, or lien accommodation under this subchapter, a default by a borrower from which the distribution borrower purchases wholesale power shall not—
+    For the purpose of determining the eligibility of a distribution borrower not in default on the repayment of a loan made or guaranteed under this chapter for a loan, loan guarantee, or lien accommodation under this subchapter, a default by a borrower from which the distribution borrower purchases wholesale power shall not—
 
     (1) be considered a default by the distribution borrower;
 

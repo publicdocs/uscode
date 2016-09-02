@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t7/ch35/schII/ptE/m__us_usc_t7_s1380a to 1380p.md) | [Next](./../../../../../..//us/usc/t7/ch35/schII/ptF/spti/m__us_usc_t7_ch35_schII_ptF_spti.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch35%2FschII%2FptF)
+[Previous](./../../../../../..//us/usc/t7/ch35/schII/ptE/m__us_usc_t7_ch35_schII_ptE.md) | [Next](./../../../../../..//us/usc/t7/ch35/schII/ptF/spti/m__us_usc_t7_ch35_schII_ptF_spti.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch35%2FschII%2FptF)
 
 #### Part F—Miscellaneous Provisions and Appropriations
 
@@ -23,7 +23,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t7/ch35/schII/ptE/m__us_usc_t7_s1380a to 1380p.md) | [Next](./../../../../../..//us/usc/t7/ch35/schII/ptF/spti/m__us_usc_t7_ch35_schII_ptF_spti.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch35%2FschII%2FptF)
+[Previous](./../../../../../..//us/usc/t7/ch35/schII/ptE/m__us_usc_t7_ch35_schII_ptE.md) | [Next](./../../../../../..//us/usc/t7/ch35/schII/ptF/spti/m__us_usc_t7_ch35_schII_ptF_spti.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch35%2FschII%2FptF)
 
 ----------
 ----------

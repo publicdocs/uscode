@@ -15,7 +15,7 @@
 
 ## § 6l. Commodity trading advisors and commodity pool operators; Congressional finding
 
-It is hereby found that the activities of commodity trading advisors and commodity pool operators are affected with a national public interest in that, among other things—
+    It is hereby found that the activities of commodity trading advisors and commodity pool operators are affected with a national public interest in that, among other things—
 
     (1) their advice, counsel, publications, writings, analyses, and reports are furnished and distributed, and their contracts, solicitations, subscriptions, agreements, and other arrangements with clients take place and are negotiated and performed by the use of the mails and other means and instrumentalities of interstate commerce;
 

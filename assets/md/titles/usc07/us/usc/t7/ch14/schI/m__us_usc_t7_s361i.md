@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch14/schI/m__us_usc_t7_s361h.md) | [Next](./../../../../..//us/usc/t7/ch14/schI/m__us_usc_t7_s362, 363.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs361i)
+[Previous](./../../../../..//us/usc/t7/ch14/schI/m__us_usc_t7_s361h.md) | [Next](./../../../../..//us/usc/t7/ch14/schI/m__us_usc_t7_s364.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs361i)
 
 ## § 361i. Power to amend, repeal, etc., reserved
 
@@ -27,9 +27,15 @@
 
     1955—Act Aug. 11, 1955, amended section generally to reserve the right to Congress to amend, suspend, or repeal any or all of the provisions of sections 361a to 361i of this title, and to strike out provisions which subjected grants of moneys to the legislative assent of the several States and Territories.
 
+§§ 362, 363. __Transferred__ 
+
+ __Codification__ 
+
+    Sections, [act Mar. 2, 1887, ch. 314][/us/act/1887-03-02/ch314], §§ 1, 2, [24 Stat. 440][/us/stat/24/440], as amended, were transferred to sections 361a and 361b, respectively, of this title.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch14/schI/m__us_usc_t7_s361h.md) | [Next](./../../../../..//us/usc/t7/ch14/schI/m__us_usc_t7_s362, 363.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs361i)
+[Previous](./../../../../..//us/usc/t7/ch14/schI/m__us_usc_t7_s361h.md) | [Next](./../../../../..//us/usc/t7/ch14/schI/m__us_usc_t7_s364.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs361i)
 
 ----------
 ----------
@@ -40,5 +46,7 @@
 [/us/stat/69/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F674
 [/us/usc/t7/s368b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs368b
 [/us/usc/t7/s361i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs361i
+[/us/act/1887-03-02/ch314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1887-03-02%2Fch314
+[/us/stat/24/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F440
 
 

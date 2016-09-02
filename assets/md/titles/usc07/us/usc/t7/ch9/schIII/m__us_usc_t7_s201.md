@@ -15,7 +15,7 @@
 
 ## § 201. “Stockyard owner”; “stockyard services”; “market agency”; “dealer”; defined
 
-When used in this chapter—
+    When used in this chapter—
 
     (a) The term “stockyard owner” means any person engaged in the business of conducting or operating a stockyard;
 

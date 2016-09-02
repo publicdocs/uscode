@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch33/schIV/m__us_usc_t7_s1027 to 1029.md) | [Next](./../../../../..//us/usc/t7/ch33/schIV/m__us_usc_t7_s1031.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1030)
+[Previous](./../../../../..//us/usc/t7/ch33/schIV/m__us_usc_t7_s1026.md) | [Next](./../../../../..//us/usc/t7/ch33/schIV/m__us_usc_t7_s1031.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1030)
 
 ## § 1030. Consolidation of agricultural credit and service offices
 
@@ -29,7 +29,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch33/schIV/m__us_usc_t7_s1027 to 1029.md) | [Next](./../../../../..//us/usc/t7/ch33/schIV/m__us_usc_t7_s1031.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1030)
+[Previous](./../../../../..//us/usc/t7/ch33/schIV/m__us_usc_t7_s1026.md) | [Next](./../../../../..//us/usc/t7/ch33/schIV/m__us_usc_t7_s1031.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1030)
 
 ----------
 ----------

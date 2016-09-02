@@ -15,7 +15,7 @@
 
 ## § 5202. Policy
 
-It is the policy of the United States—
+    It is the policy of the United States—
 
     (1) to provide, through all possible means, agricultural commodities and products for export at competitive prices, with full assurance of quality and reliability of supply;
 

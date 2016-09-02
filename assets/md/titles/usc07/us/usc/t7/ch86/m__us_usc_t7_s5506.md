@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch86/m__us_usc_t7_s5501 to 5505.md) | [Next](./../../../..//us/usc/t7/ch87/m__us_usc_t7_ch87.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5506)
+[Previous](./../../../..//us/usc/t7/ch86/m__us_usc_t7_ch86.md) | [Next](./../../../..//us/usc/t7/ch87/m__us_usc_t7_ch87.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5506)
 
 ## § 5506. Water policy with respect to agrichemicals
 
@@ -71,7 +71,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch86/m__us_usc_t7_s5501 to 5505.md) | [Next](./../../../..//us/usc/t7/ch87/m__us_usc_t7_ch87.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5506)
+[Previous](./../../../..//us/usc/t7/ch86/m__us_usc_t7_ch86.md) | [Next](./../../../..//us/usc/t7/ch87/m__us_usc_t7_ch87.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5506)
 
 ----------
 ----------

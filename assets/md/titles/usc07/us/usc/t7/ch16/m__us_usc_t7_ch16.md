@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs401" data-uslm-ref="/us/usc/t7/s401">401.</a>  </td>
 
     <td> Establishment of bureau.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 402.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs402" data-uslm-ref="/us/usc/t7/s402">402.</a>  </td>
 
     <td> Chief of bureau; appointment and duties.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 403.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs403" data-uslm-ref="/us/usc/t7/s403">403.</a>  </td>
 
     <td> Transfer of activities of Department of Agriculture to bureau; employment of clerks, etc.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 404.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs404" data-uslm-ref="/us/usc/t7/s404">404.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

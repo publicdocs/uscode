@@ -15,7 +15,7 @@
 
 ## § 602. Declaration of policy; establishment of price basing period; marketing standards; orderly supply flow; circumstances for continued regulation
 
-It is declared to be the policy of Congress—
+    It is declared to be the policy of Congress—
 
     (1) Through the exercise of the powers conferred upon the Secretary of Agriculture under this chapter, to establish and maintain such orderly marketing conditions for agricultural commodities in interstate commerce as will establish, as the prices to farmers, parity prices as defined by [section 1301(a)(1) of this title][/us/usc/t7/s1301/a/1].
 

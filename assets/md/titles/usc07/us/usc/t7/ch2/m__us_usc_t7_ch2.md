@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 51.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs51" data-uslm-ref="/us/usc/t7/s51">51.</a>  </td>
 
     <td> Short title.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 51a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs51a" data-uslm-ref="/us/usc/t7/s51a">51a.</a>  </td>
 
     <td> Extension of classification facilities to cotton growers.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 51a–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs51a%E2%80%931" data-uslm-ref="/us/usc/t7/s51a–1">51a–1.</a>  </td>
 
     <td> Contracts with cooperatives furnishing classers; amount and type of payment.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 51b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs51b" data-uslm-ref="/us/usc/t7/s51b">51b.</a>  </td>
 
     <td> Licensing samplers; revocation and suspension of license.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 52.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs52" data-uslm-ref="/us/usc/t7/s52">52.</a>  </td>
 
     <td> Use of nonofficial standards prohibited; sales by sample excepted.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 53.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs53" data-uslm-ref="/us/usc/t7/s53">53.</a>  </td>
 
     <td> Licensing classifiers; revocation and suspension of license.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 54.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs54" data-uslm-ref="/us/usc/t7/s54">54.</a>  </td>
 
     <td> Classification by Department of Agriculture; certification thereof; effect of certificate; regulations for classification.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 55.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs55" data-uslm-ref="/us/usc/t7/s55">55.</a>  </td>
 
     <td> Fees and charges for cotton classing and related services; criteria; disposition of moneys and samples.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 56.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs56" data-uslm-ref="/us/usc/t7/s56">56.</a>  </td>
 
     <td> Establishment of cotton standards; furnishing copies of established standards sold.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 57.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs57" data-uslm-ref="/us/usc/t7/s57">57.</a>  </td>
 
     <td> Disposition of proceeds of sale of cotton and of copies of standards.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 57a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs57a" data-uslm-ref="/us/usc/t7/s57a">57a.</a>  </td>
 
     <td> Agreements with cotton associations, etc., in foreign countries to establish cotton standards.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 58.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs58" data-uslm-ref="/us/usc/t7/s58">58.</a>  </td>
 
     <td> General inspection and sampling of cotton.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 59.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs59" data-uslm-ref="/us/usc/t7/s59">59.</a>  </td>
 
     <td> Offenses in relation to cotton standards.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 60.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs60" data-uslm-ref="/us/usc/t7/s60">60.</a>  </td>
 
     <td> Penalties for violations.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 61.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs61" data-uslm-ref="/us/usc/t7/s61">61.</a>  </td>
 
     <td> General regulations, investigations, tests, etc., by Secretary.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 61a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs61a" data-uslm-ref="/us/usc/t7/s61a">61a.</a>  </td>
 
     <td> Annual review meetings with cotton industry representatives; purposes, etc.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 62.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs62" data-uslm-ref="/us/usc/t7/s62">62.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 63.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs63" data-uslm-ref="/us/usc/t7/s63">63.</a>  </td>
 
     <td> Liability of principal for act of agent.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 64.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs64" data-uslm-ref="/us/usc/t7/s64">64.</a>  </td>
 
     <td> Appropriation for expenses; appointment by Secretary of officers and agents; compensation.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 65.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs65" data-uslm-ref="/us/usc/t7/s65">65.</a>  </td>
 
     <td> Separability.  </td>
 

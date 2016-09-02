@@ -15,7 +15,7 @@
 
 ## § 5235. Authorization of additional appropriations
 
-There are authorized to be appropriated for the Service, in addition to any sums otherwise authorized to be appropriated by any provision of law other than this section, $20,000,000 for each of the fiscal years 1988, 1989, and 1990 for market development activities, including—
+    There are authorized to be appropriated for the Service, in addition to any sums otherwise authorized to be appropriated by any provision of law other than this section, $20,000,000 for each of the fiscal years 1988, 1989, and 1990 for market development activities, including—
 
     (1) expansion of the agricultural attache service;
 

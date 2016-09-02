@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch21B/m__us_usc_t7_s516, 517.md) | [Next](./../../../..//us/usc/t7/ch21C/schI/m__us_usc_t7_ch21C_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch21C)
+[Previous](./../../../..//us/usc/t7/ch21B/m__us_usc_t7_ch21B.md) | [Next](./../../../..//us/usc/t7/ch21C/schI/m__us_usc_t7_ch21C_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch21C)
 
 ## CHAPTER 21C—TOBACCO REFORM
 
@@ -33,7 +33,7 @@ SUBCHAPTER I—TRANSITIONAL PAYMENTS TO TOBACCO QUOTA HOLDERS AND PRODUCERS OF T
 
   <tr>
 
-    <td> 518.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs518" data-uslm-ref="/us/usc/t7/s518">518.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—TRANSITIONAL PAYMENTS TO TOBACCO QUOTA HOLDERS AND PRODUCERS OF T
 
   <tr>
 
-    <td> 518a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs518a" data-uslm-ref="/us/usc/t7/s518a">518a.</a>  </td>
 
     <td> Contract payments to tobacco quota holders.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—TRANSITIONAL PAYMENTS TO TOBACCO QUOTA HOLDERS AND PRODUCERS OF T
 
   <tr>
 
-    <td> 518b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs518b" data-uslm-ref="/us/usc/t7/s518b">518b.</a>  </td>
 
     <td> Contract payments for producers of quota tobacco.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—TRANSITIONAL PAYMENTS TO TOBACCO QUOTA HOLDERS AND PRODUCERS OF T
 
   <tr>
 
-    <td> 518c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs518c" data-uslm-ref="/us/usc/t7/s518c">518c.</a>  </td>
 
     <td> Administration.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—TRANSITIONAL PAYMENTS TO TOBACCO QUOTA HOLDERS AND PRODUCERS OF T
 
   <tr>
 
-    <td> 518d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs518d" data-uslm-ref="/us/usc/t7/s518d">518d.</a>  </td>
 
     <td> Use of assessments as source of funds for payments.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—TRANSITIONAL PAYMENTS TO TOBACCO QUOTA HOLDERS AND PRODUCERS OF T
 
   <tr>
 
-    <td> 518e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs518e" data-uslm-ref="/us/usc/t7/s518e">518e.</a>  </td>
 
     <td> Tobacco Trust Fund.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—TRANSITIONAL PAYMENTS TO TOBACCO QUOTA HOLDERS AND PRODUCERS OF T
 
   <tr>
 
-    <td> 518f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs518f" data-uslm-ref="/us/usc/t7/s518f">518f.</a>  </td>
 
     <td> Limitation on total expenditures.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—IMPLEMENTATION AND TRANSITION  </td>
 
   <tr>
 
-    <td> 519.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs519" data-uslm-ref="/us/usc/t7/s519">519.</a>  </td>
 
     <td> Treatment of tobacco loan pool stocks and outstanding loan costs.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—IMPLEMENTATION AND TRANSITION  </td>
 
   <tr>
 
-    <td> 519a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs519a" data-uslm-ref="/us/usc/t7/s519a">519a.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -115,7 +115,7 @@ SUBCHAPTER II—IMPLEMENTATION AND TRANSITION  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch21B/m__us_usc_t7_s516, 517.md) | [Next](./../../../..//us/usc/t7/ch21C/schI/m__us_usc_t7_ch21C_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch21C)
+[Previous](./../../../..//us/usc/t7/ch21B/m__us_usc_t7_ch21B.md) | [Next](./../../../..//us/usc/t7/ch21C/schI/m__us_usc_t7_ch21C_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch21C)
 
 ----------
 ----------

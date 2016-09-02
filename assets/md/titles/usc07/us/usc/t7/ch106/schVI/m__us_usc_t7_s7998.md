@@ -15,7 +15,7 @@
 
 ## § 7998. Estimates of net farm income
 
-In each issuance of projections of net farm income, the Secretary shall include (as determined by the Secretary)—
+    In each issuance of projections of net farm income, the Secretary shall include (as determined by the Secretary)—
 
     (1) an estimate of the net farm income earned by commercial producers in the United States; and
 

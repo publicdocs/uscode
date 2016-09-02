@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 8501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs8501" data-uslm-ref="/us/usc/t7/s8501">8501.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 8502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs8502" data-uslm-ref="/us/usc/t7/s8502">8502.</a>  </td>
 
     <td> Sense of Congress regarding need for improved and better coordinated Federal policy for brown tree snake introduction, control, and eradication.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 8503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs8503" data-uslm-ref="/us/usc/t7/s8503">8503.</a>  </td>
 
     <td> Brown tree snake control, interdiction, research and eradication.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 8504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs8504" data-uslm-ref="/us/usc/t7/s8504">8504.</a>  </td>
 
     <td> Establishment of quarantine protocols to control the introduction and spread of the brown tree snake.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 8505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs8505" data-uslm-ref="/us/usc/t7/s8505">8505.</a>  </td>
 
     <td> Treatment of brown tree snakes as nonmailable matter.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 8506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs8506" data-uslm-ref="/us/usc/t7/s8506">8506.</a>  </td>
 
     <td> Role of brown tree snake Technical Working Group.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 8507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs8507" data-uslm-ref="/us/usc/t7/s8507">8507.</a>  </td>
 
     <td> Miscellaneous matters.  </td>
 

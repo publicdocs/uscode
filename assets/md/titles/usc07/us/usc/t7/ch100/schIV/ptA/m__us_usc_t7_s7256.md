@@ -15,7 +15,7 @@
 
 ## § 7256. Northeast Interstate Dairy Compact
 
-Congress hereby consents to the Northeast Interstate Dairy Compact entered into among the States of Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island and Vermont as specified in section 1(b) Senate  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “of”. </sup></sup>  Joint Resolution 28 of the 104th Congress, as placed on the calendar of the Senate, subject to the following conditions:
+    Congress hereby consents to the Northeast Interstate Dairy Compact entered into among the States of Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island and Vermont as specified in section 1(b) Senate  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “of”. </sup></sup>  Joint Resolution 28 of the 104th Congress, as placed on the calendar of the Senate, subject to the following conditions:
 
     (1) __Finding of compelling public interest__ 
 

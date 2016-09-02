@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch59/schI/m__us_usc_t7_s2651 to 2654.md) | [Next](./../../../../..//us/usc/t7/ch59/schII/m__us_usc_t7_ch59_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2655)
+[Previous](./../../../../..//us/usc/t7/ch59/schI/m__us_usc_t7_ch59_schI.md) | [Next](./../../../../..//us/usc/t7/ch59/schII/m__us_usc_t7_ch59_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2655)
 
 ## § 2655. Rural firefighters and emergency medical service assistance program
 
@@ -141,7 +141,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch59/schI/m__us_usc_t7_s2651 to 2654.md) | [Next](./../../../../..//us/usc/t7/ch59/schII/m__us_usc_t7_ch59_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2655)
+[Previous](./../../../../..//us/usc/t7/ch59/schI/m__us_usc_t7_ch59_schI.md) | [Next](./../../../../..//us/usc/t7/ch59/schII/m__us_usc_t7_ch59_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2655)
 
 ----------
 ----------

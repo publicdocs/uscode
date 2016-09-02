@@ -15,7 +15,7 @@
 
 ## § 2662. Programs authorized
 
-The Secretary of Agriculture may conduct, in cooperation and coordination with colleges and universities, the following programs to carry out the purposes and achieve the goals of this subchapter.
+    The Secretary of Agriculture may conduct, in cooperation and coordination with colleges and universities, the following programs to carry out the purposes and achieve the goals of this subchapter.
 
     (a) __Rural development extension programs__ 
 

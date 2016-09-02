@@ -289,7 +289,11 @@
 
 >                 “(ii) make such information available through an appropriate agency of the Department of Agriculture to agribusinesses and agricultural institutions in the United States and other agencies of the United States Government; and
 
->                 “(iii) carry out a program—         “(I) to review available agricultural information resources, to determine which would be useful for the purposes of this program;
+>                 “(iii)
+
+>                  carry out a program—
+
+>                          “(I) to review available agricultural information resources, to determine which would be useful for the purposes of this program;
 
 >                          “(II) to arrange for the exchange of persons associated with such agricultural institutions and agribusinesses with experience or interest in the areas of need identified in clause (i);
 

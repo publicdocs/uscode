@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7701" data-uslm-ref="/us/usc/t7/s7701">7701.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7702" data-uslm-ref="/us/usc/t7/s7702">7702.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—PLANT PROTECTION  </td>
 
   <tr>
 
-    <td> 7711.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7711" data-uslm-ref="/us/usc/t7/s7711">7711.</a>  </td>
 
     <td> Regulation of movement of plant pests.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—PLANT PROTECTION  </td>
 
   <tr>
 
-    <td> 7712.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7712" data-uslm-ref="/us/usc/t7/s7712">7712.</a>  </td>
 
     <td> Regulation of movement of plants, plant products, biological control organisms, noxious weeds, articles, and means of conveyance.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—PLANT PROTECTION  </td>
 
   <tr>
 
-    <td> 7712a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7712a" data-uslm-ref="/us/usc/t7/s7712a">7712a.</a>  </td>
 
     <td> Reduction in backlog of agricultural export petitions.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—PLANT PROTECTION  </td>
 
   <tr>
 
-    <td> 7713.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7713" data-uslm-ref="/us/usc/t7/s7713">7713.</a>  </td>
 
     <td> Notification and holding requirements upon arrival.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—PLANT PROTECTION  </td>
 
   <tr>
 
-    <td> 7714.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7714" data-uslm-ref="/us/usc/t7/s7714">7714.</a>  </td>
 
     <td> General remedial measures for new plant pests and noxious weeds.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—PLANT PROTECTION  </td>
 
   <tr>
 
-    <td> 7715.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7715" data-uslm-ref="/us/usc/t7/s7715">7715.</a>  </td>
 
     <td> Declaration of extraordinary emergency and resulting authorities.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—PLANT PROTECTION  </td>
 
   <tr>
 
-    <td> 7716.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7716" data-uslm-ref="/us/usc/t7/s7716">7716.</a>  </td>
 
     <td> Recovery of compensation for unauthorized activities.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—PLANT PROTECTION  </td>
 
   <tr>
 
-    <td> 7717.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7717" data-uslm-ref="/us/usc/t7/s7717">7717.</a>  </td>
 
     <td> Control of grasshoppers and Mormon crickets.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—PLANT PROTECTION  </td>
 
   <tr>
 
-    <td> 7718.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7718" data-uslm-ref="/us/usc/t7/s7718">7718.</a>  </td>
 
     <td> Certification for exports.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER I—PLANT PROTECTION  </td>
 
   <tr>
 
-    <td> 7719.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7719" data-uslm-ref="/us/usc/t7/s7719">7719.</a>  </td>
 
     <td> Methyl bromide.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER I—PLANT PROTECTION  </td>
 
   <tr>
 
-    <td> 7720.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7720" data-uslm-ref="/us/usc/t7/s7720">7720.</a>  </td>
 
     <td> National plan for control and management of Sudden Oak Death.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER I—PLANT PROTECTION  </td>
 
   <tr>
 
-    <td> 7721.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7721" data-uslm-ref="/us/usc/t7/s7721">7721.</a>  </td>
 
     <td> Plant pest and disease management and disaster prevention.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—INSPECTION AND ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 7731.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7731" data-uslm-ref="/us/usc/t7/s7731">7731.</a>  </td>
 
     <td> Inspections, seizures, and warrants.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—INSPECTION AND ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 7732.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7732" data-uslm-ref="/us/usc/t7/s7732">7732.</a>  </td>
 
     <td> Collection of information.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—INSPECTION AND ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 7733.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7733" data-uslm-ref="/us/usc/t7/s7733">7733.</a>  </td>
 
     <td> Subpoena authority.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER II—INSPECTION AND ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 7734.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7734" data-uslm-ref="/us/usc/t7/s7734">7734.</a>  </td>
 
     <td> Penalties for violation.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER II—INSPECTION AND ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 7735.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7735" data-uslm-ref="/us/usc/t7/s7735">7735.</a>  </td>
 
     <td> Enforcement actions of Attorney General.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER II—INSPECTION AND ENFORCEMENT  </td>
 
   <tr>
 
-    <td> 7736.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7736" data-uslm-ref="/us/usc/t7/s7736">7736.</a>  </td>
 
     <td> Court jurisdiction.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 7751.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7751" data-uslm-ref="/us/usc/t7/s7751">7751.</a>  </td>
 
     <td> Cooperation.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 7752.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7752" data-uslm-ref="/us/usc/t7/s7752">7752.</a>  </td>
 
     <td> Buildings, land, people, claims, and agreements.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 7753.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7753" data-uslm-ref="/us/usc/t7/s7753">7753.</a>  </td>
 
     <td> Reimbursable agreements.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 7754.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7754" data-uslm-ref="/us/usc/t7/s7754">7754.</a>  </td>
 
     <td> Regulations and orders.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 7755.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7755" data-uslm-ref="/us/usc/t7/s7755">7755.</a>  </td>
 
     <td> Protection for mail handlers.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 7756.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7756" data-uslm-ref="/us/usc/t7/s7756">7756.</a>  </td>
 
     <td> Preemption.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 7757.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7757" data-uslm-ref="/us/usc/t7/s7757">7757.</a>  </td>
 
     <td> Severability.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 7758.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7758" data-uslm-ref="/us/usc/t7/s7758">7758.</a>  </td>
 
     <td> Repeal of superseded laws.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 7759.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7759" data-uslm-ref="/us/usc/t7/s7759">7759.</a>  </td>
 
     <td> Fees for inspection of plants for exporting or transiting.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 7760.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7760" data-uslm-ref="/us/usc/t7/s7760">7760.</a>  </td>
 
     <td> State terminal inspection; transmission of mailed packages for State inspection; nonmailable matter; punishment for violations; rules and regulations by United States Postal Service.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 7761.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7761" data-uslm-ref="/us/usc/t7/s7761">7761.</a>  </td>
 
     <td> National Clean Plant Network.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER IV—AUTHORIZATION OF APPROPRIATIONS  </td>
 
   <tr>
 
-    <td> 7771.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7771" data-uslm-ref="/us/usc/t7/s7771">7771.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER IV—AUTHORIZATION OF APPROPRIATIONS  </td>
 
   <tr>
 
-    <td> 7772.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7772" data-uslm-ref="/us/usc/t7/s7772">7772.</a>  </td>
 
     <td> Transfer authority.  </td>
 
@@ -329,7 +329,7 @@ SUBCHAPTER V—NOXIOUS WEED CONTROL AND ERADICATION  </td>
 
   <tr>
 
-    <td> 7781.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7781" data-uslm-ref="/us/usc/t7/s7781">7781.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER V—NOXIOUS WEED CONTROL AND ERADICATION  </td>
 
   <tr>
 
-    <td> 7782.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7782" data-uslm-ref="/us/usc/t7/s7782">7782.</a>  </td>
 
     <td> Establishment of program.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER V—NOXIOUS WEED CONTROL AND ERADICATION  </td>
 
   <tr>
 
-    <td> 7783.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7783" data-uslm-ref="/us/usc/t7/s7783">7783.</a>  </td>
 
     <td> Grants to weed management entities.  </td>
 
@@ -353,7 +353,7 @@ SUBCHAPTER V—NOXIOUS WEED CONTROL AND ERADICATION  </td>
 
   <tr>
 
-    <td> 7784.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7784" data-uslm-ref="/us/usc/t7/s7784">7784.</a>  </td>
 
     <td> Agreements.  </td>
 
@@ -361,7 +361,7 @@ SUBCHAPTER V—NOXIOUS WEED CONTROL AND ERADICATION  </td>
 
   <tr>
 
-    <td> 7785.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7785" data-uslm-ref="/us/usc/t7/s7785">7785.</a>  </td>
 
     <td> Relationship to other programs.  </td>
 
@@ -369,7 +369,7 @@ SUBCHAPTER V—NOXIOUS WEED CONTROL AND ERADICATION  </td>
 
   <tr>
 
-    <td> 7786.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7786" data-uslm-ref="/us/usc/t7/s7786">7786.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

@@ -15,7 +15,7 @@
 
 ## § 3405. Wheat Industry Council
 
-Any order issued pursuant to this chapter shall contain such terms and conditions as to provide—
+    Any order issued pursuant to this chapter shall contain such terms and conditions as to provide—
 
     (a) __Establishment; powers__ 
 

@@ -15,7 +15,7 @@
 
 ## § 5302. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (1) the term “comprehensive plan” means the comprehensive plan prepared under [section 5313 of this title][/us/usc/t7/s5313];
 

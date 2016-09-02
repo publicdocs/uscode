@@ -15,7 +15,7 @@
 
 ## § 2009l. Duties of Rural Economic and Community Development State Offices
 
-In carrying out this subchapter, the Director of a Rural Economic and Community Development State Office shall—
+    In carrying out this subchapter, the Director of a Rural Economic and Community Development State Office shall—
 
     (1) to the maximum extent practicable, ensure that the State strategic plan referred to in [section 2009c of this title][/us/usc/t7/s2009c] is implemented;
 

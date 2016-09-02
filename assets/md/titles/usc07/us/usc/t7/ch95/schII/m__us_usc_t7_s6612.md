@@ -15,7 +15,7 @@
 
 ## § 6612. Definitions
 
-As used in this subchapter:
+    As used in this subchapter:
 
     (1) The term “action team” means a rural natural resources and economic diversification action team established by the Secretary pursuant to [section 6613(b) of this title][/us/usc/t7/s6613/b].
 

@@ -37,9 +37,7 @@
 
         (5) The term “foreign commerce” means commerce between the United States, its possessions, or any Territory of the United States, and any foreign country.
 
-        (6)
-
-            (a) The term “district court of the United States” means any court exercising the powers of a district court of the United States.
+        (6)    (a) The term “district court of the United States” means any court exercising the powers of a district court of the United States.
 
             (b) Omitted
 

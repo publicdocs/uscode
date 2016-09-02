@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch26/schIV/m__us_usc_t7_s641 to 659.md) | [Next](./../../../..//us/usc/t7/ch26A/m__us_usc_t7_s671.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch26A)
+[Previous](./../../../..//us/usc/t7/ch26/schIV/m__us_usc_t7_ch26_schIV.md) | [Next](./../../../..//us/usc/t7/ch26A/m__us_usc_t7_s671.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch26A)
 
 ## CHAPTER 26A—AGRICULTURAL MARKETING AGREEMENTS
 
@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 671.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs671" data-uslm-ref="/us/usc/t7/s671">671.</a>  </td>
 
     <td> Arbitration of disputes concerning milk.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 672.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs672" data-uslm-ref="/us/usc/t7/s672">672.</a>  </td>
 
     <td> Agreements; licenses, regulations, programs, etc., unaffected.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 673.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs673" data-uslm-ref="/us/usc/t7/s673">673.</a>  </td>
 
     <td> Taxes under Agricultural Adjustment Act; laws unaffected.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 674.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs674" data-uslm-ref="/us/usc/t7/s674">674.</a>  </td>
 
     <td> Short title.  </td>
 
@@ -59,7 +59,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch26/schIV/m__us_usc_t7_s641 to 659.md) | [Next](./../../../..//us/usc/t7/ch26A/m__us_usc_t7_s671.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch26A)
+[Previous](./../../../..//us/usc/t7/ch26/schIV/m__us_usc_t7_ch26_schIV.md) | [Next](./../../../..//us/usc/t7/ch26A/m__us_usc_t7_s671.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch26A)
 
 ----------
 ----------

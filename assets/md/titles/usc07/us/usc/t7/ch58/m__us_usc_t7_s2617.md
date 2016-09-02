@@ -15,7 +15,7 @@
 
 ## § 2617. Required terms and conditions of plans
 
-Any plan issued pursuant to this chapter shall contain the following terms and conditions:
+    Any plan issued pursuant to this chapter shall contain the following terms and conditions:
 
     (a) __National Potato Promotion Board; establishment; powers and duties__ 
 

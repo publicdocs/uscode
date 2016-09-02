@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch50/schII/m__us_usc_t7_s1945.md) | [Next](./../../../../..//us/usc/t7/ch50/schII/m__us_usc_t7_s1947, 1948.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1946)
+[Previous](./../../../../..//us/usc/t7/ch50/schII/m__us_usc_t7_s1945.md) | [Next](./../../../../..//us/usc/t7/ch50/schII/m__us_usc_t7_s1949.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1946)
 
 ## § 1946. Liability of borrower
 
@@ -99,9 +99,15 @@
 
     Amendment by [Pub. L. 97–35][/us/pl/97/35] applicable to loans made after Sept. 30, 1981, see [section 160(c) of Pub. L. 97–35][/us/pl/97/35/s160/c], set out as a note under [section 1927 of this title][/us/usc/t7/s1927].
 
+§§ 1947, 1948. __Repealed.__  __[__  __Pub. L. 104–127, title VI__  __][/us/pl/104/127]__  __, §§ 615, 616(a),__  __Apr. 4, 1996__  __,__  __[__  __110 Stat. 1090__  __][/us/stat/110/1090]__ 
+
+    Section 1947, [Pub. L. 87–128, title III, § 317][/us/pl/87/128/s317], as added [Pub. L. 92–419, title I, § 123][/us/pl/92/419/s123], Aug. 30, 1972, [86 Stat. 665][/us/stat/86/665], related to insured operating loans.
+
+    Section 1948, [Pub. L. 87–128, title III, § 318][/us/pl/87/128/s318], as added [Pub. L. 102–554, § 8][/us/pl/102/554/s8], Oct. 28, 1992, [106 Stat. 4146][/us/stat/106/4146], related to special assistance to certain qualified beginning farmers and ranchers.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch50/schII/m__us_usc_t7_s1945.md) | [Next](./../../../../..//us/usc/t7/ch50/schII/m__us_usc_t7_s1947, 1948.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1946)
+[Previous](./../../../../..//us/usc/t7/ch50/schII/m__us_usc_t7_s1945.md) | [Next](./../../../../..//us/usc/t7/ch50/schII/m__us_usc_t7_s1949.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1946)
 
 ----------
 ----------
@@ -136,5 +142,13 @@
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35/s160/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs160%2Fc
 [/us/usc/t7/s1927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1927
+[/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/stat/110/1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1090
+[/us/pl/87/128/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs317
+[/us/pl/92/419/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F419%2Fs123
+[/us/stat/86/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F665
+[/us/pl/87/128/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128%2Fs318
+[/us/pl/102/554/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F554%2Fs8
+[/us/stat/106/4146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4146
 
 

@@ -15,7 +15,7 @@
 
 ## § 7482. Definitions
 
-In this subchapter (unless the context otherwise requires):
+    In this subchapter (unless the context otherwise requires):
 
     (1) __Board__ 
 

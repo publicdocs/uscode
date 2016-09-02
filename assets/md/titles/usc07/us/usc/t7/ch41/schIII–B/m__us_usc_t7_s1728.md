@@ -15,7 +15,7 @@
 
 ## § 1728. Findings regarding emergency food assistance
 
-The Congress finds that—
+    The Congress finds that—
 
     (1) acute food crises continue to cause loss of life, severe malnutrition, and general human suffering in many areas of the Third World, especially in sub-Saharan Africa;
 

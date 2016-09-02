@@ -15,7 +15,7 @@
 
 ## § 2131. Congressional statement of policy
 
-The Congress finds that animals and activities which are regulated under this chapter are either in interstate or foreign commerce or substantially affect such commerce or the free flow thereof, and that regulation of animals and activities as provided in this chapter is necessary to prevent and eliminate burdens upon such commerce and to effectively regulate such commerce, in order—
+    The Congress finds that animals and activities which are regulated under this chapter are either in interstate or foreign commerce or substantially affect such commerce or the free flow thereof, and that regulation of animals and activities as provided in this chapter is necessary to prevent and eliminate burdens upon such commerce and to effectively regulate such commerce, in order—
 
     (1) to insure that animals intended for use in research facilities or for exhibition purposes or for use as pets are provided humane care and treatment;
 
@@ -23,7 +23,7 @@ The Congress finds that animals and activities which are regulated under this ch
 
     (3) to protect the owners of animals from the theft of their animals by preventing the sale or use of animals which have been stolen.
 
-        The Congress further finds that it is essential to regulate, as provided in this chapter, the transportation, purchase, sale, housing, care, handling, and treatment of animals by carriers or by persons or organizations engaged in using them for research or experimental purposes or for exhibition purposes or holding them for sale as pets or for any such purpose or use.
+    The Congress further finds that it is essential to regulate, as provided in this chapter, the transportation, purchase, sale, housing, care, handling, and treatment of animals by carriers or by persons or organizations engaged in using them for research or experimental purposes or for exhibition purposes or holding them for sale as pets or for any such purpose or use.
 
 ([Pub. L. 89–544, § 1(b)][/us/pl/89/544/s1/b], formerly § 1, Aug. 24, 1966, [80 Stat. 350][/us/stat/80/350]; [Pub. L. 91–579, § 2][/us/pl/91/579/s2], Dec. 24, 1970, [84 Stat. 1560][/us/stat/84/1560]; renumbered and amended [Pub. L. 94–279, § 2][/us/pl/94/279/s2], Apr. 22, 1976, [90 Stat. 417][/us/stat/90/417].)
 

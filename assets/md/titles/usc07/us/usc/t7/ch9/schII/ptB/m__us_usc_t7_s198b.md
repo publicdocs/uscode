@@ -53,7 +53,7 @@
 
  __Termination of Section__ 
 
-For termination of section by [section 942 of Pub. L. 106–78][/us/pl/106/78/s942], see Livestock Mandatory Reporting note set out under [section 1635 of this title][/us/usc/t7/s1635].
+    For termination of section by [section 942 of Pub. L. 106–78][/us/pl/106/78/s942], see Livestock Mandatory Reporting note set out under [section 1635 of this title][/us/usc/t7/s1635].
 
  __References in Text__ 
 

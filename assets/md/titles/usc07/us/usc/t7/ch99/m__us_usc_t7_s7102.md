@@ -15,7 +15,7 @@
 
 ## § 7102. Definitions
 
-As used in this chapter (unless the context clearly requires otherwise):
+    As used in this chapter (unless the context clearly requires otherwise):
 
     (1) __Board__ 
 

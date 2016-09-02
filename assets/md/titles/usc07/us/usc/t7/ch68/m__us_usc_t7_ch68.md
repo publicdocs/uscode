@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs3701" data-uslm-ref="/us/usc/t7/s3701">3701.</a>  </td>
 
     <td> Congressional findings and declarations.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs3702" data-uslm-ref="/us/usc/t7/s3702">3702.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs3703" data-uslm-ref="/us/usc/t7/s3703">3703.</a>  </td>
 
     <td> State and regional plans.  </td>
 

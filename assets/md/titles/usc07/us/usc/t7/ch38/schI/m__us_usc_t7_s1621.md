@@ -81,51 +81,75 @@
 
 >     “(3) The term ‘State department of agriculture’ means the agency, commission, or department of a State government responsible for agriculture within the State.
 
- __“TITLE I—STATE ASSISTANCE FOR SPECIALTY CROPS__ 
+> “TITLE I— __STATE ASSISTANCE FOR SPECIALTY CROPS__ 
 
-    “SEC. 101. SPECIALTY CROP BLOCK GRANTS.
+> “SEC. 101. __SPECIALTY CROP BLOCK GRANTS.__ 
 
-    “(a) Availability and Purpose of Grants.—Using the funds made available under subsection (j), the Secretary of Agriculture shall make grants to States for each of the fiscal years 2005 through 2012 to be used by State departments of agriculture solely to enhance the competitiveness of specialty crops.
+>     “(a) __Availability and Purpose of Grants.—__ 
 
-    “(b) Grants Based on Value of Production.—Subject to subsection (c), the amount of the grant for a fiscal year to a State under this section shall bear the same ratio to the total amount made available under subsection (j) for that fiscal year as the value of specialty crop production in the State during the preceding calendar year bears to the value of specialty crop production during the preceding calendar year in all States whose application for a grant for that fiscal year is accepted by the Secretary under subsection (f).
+>     Using the funds made available under subsection (j), the Secretary of Agriculture shall make grants to States for each of the fiscal years 2005 through 2012 to be used by State departments of agriculture solely to enhance the competitiveness of specialty crops.
 
-    “(c) Minimum Grant Amount.—Notwithstanding subsection (b), each State shall receive a grant under this section for each fiscal year in an amount that is at least equal to the higher of—
+>     “(b) __Grants Based on Value of Production.—__ 
 
-    “(1) $100,000; or
+>     Subject to subsection (c), the amount of the grant for a fiscal year to a State under this section shall bear the same ratio to the total amount made available under subsection (j) for that fiscal year as the value of specialty crop production in the State during the preceding calendar year bears to the value of specialty crop production during the preceding calendar year in all States whose application for a grant for that fiscal year is accepted by the Secretary under subsection (f).
 
-    “(2) ⅓ of 1 percent of the total amount of funding made available to carry out this section for the fiscal year.
+>     “(c) __Minimum Grant Amount.—__ 
 
-    “(d) Eligibility.—To be eligible to receive a grant under this section, a State department of agriculture shall prepare and submit, for approval by the Secretary of Agriculture, an application at such time, in such a manner, and containing such information as the Secretary shall require by regulation, including—
+>     Notwithstanding subsection (b), each State shall receive a grant under this section for each fiscal year in an amount that is at least equal to the higher of—
 
-    “(1) a State plan that meets the requirements of subsection (e);
+>         “(1) $100,000; or
 
-    “(2) an assurance that the State will comply with the requirements of the plan; and
+>         “(2) ⅓ of 1 percent of the total amount of funding made available to carry out this section for the fiscal year.
 
-    “(3) an assurance that grant funds received under this section shall supplement the expenditure of State funds in support of specialty crops grown in that State, rather than replace State funds.
+>     “(d) __Eligibility.—__ 
 
-    “(e) Plan Requirements.—The State plan shall identify the lead agency charged with the responsibility of carrying out the plan and indicate how the grant funds will be utilized to enhance the competitiveness of specialty crops.
+>     To be eligible to receive a grant under this section, a State department of agriculture shall prepare and submit, for approval by the Secretary of Agriculture, an application at such time, in such a manner, and containing such information as the Secretary shall require by regulation, including—
 
-    “(f) Review of Application.—In reviewing the application of a State submitted under subsection (d), the Secretary of Agriculture shall ensure that the State plan would carry out the purpose of grant program, as specified in subsection (a). The Secretary may accept or reject applications for a grant under this section.
+>         “(1) a State plan that meets the requirements of subsection (e);
 
-    “(g) Effect of Noncompliance.—If the Secretary of Agriculture, after reasonable notice to a State, finds that there has been a failure by the State to comply substantially with any provision or requirement of the State plan, the Secretary may disqualify, for one or more years, the State from receipt of future grants under this section.
+>         “(2) an assurance that the State will comply with the requirements of the plan; and
 
-    “(h) Audit Requirements.—For each year that a State receives a grant under this section, the State shall conduct an audit of the expenditures of grant funds by the State. Not later than 30 days after the completion of the audit, the State shall submit a copy of the audit to the Secretary of Agriculture.
+>         “(3) an assurance that grant funds received under this section shall supplement the expenditure of State funds in support of specialty crops grown in that State, rather than replace State funds.
 
-    “(i) Reallocation.—
+>     “(e) __Plan Requirements.—__ 
 
-    “(1) In general.—The Secretary shall reallocate to other States in accordance with paragraph (2) any amounts made available for a fiscal year under this section that are not obligated or expended by a date during that fiscal year determined by the Secretary.
+>     The State plan shall identify the lead agency charged with the responsibility of carrying out the plan and indicate how the grant funds will be utilized to enhance the competitiveness of specialty crops.
 
-    “(2) Pro rata allocation.—The Secretary shall allocate funds described in paragraph (1) pro rata to the remaining States that applied during the specified grant application period.
+>     “(f) __Review of Application.—__ 
 
-    “(3) Use of reallocated funds.—Funds allocated to a State under this subsection shall be used by the State only to carry out projects that were previously approved in the State plan of the State.
+>     In reviewing the application of a State submitted under subsection (d), the Secretary of Agriculture shall ensure that the State plan would carry out the purpose of grant program, as specified in subsection (a). The Secretary may accept or reject applications for a grant under this section.
 
-    “(j) Funding.—Of the funds of the Commodity Credit Corporation, the Secretary of Agriculture shall make grants under this section, using—
+>     “(g) __Effect of Noncompliance.—__ 
 
-    “(1) $10,000,000 for fiscal year 2008;
+>     If the Secretary of Agriculture, after reasonable notice to a State, finds that there has been a failure by the State to comply substantially with any provision or requirement of the State plan, the Secretary may disqualify, for one or more years, the State from receipt of future grants under this section.
 
-    “(2) $49,000,000 for fiscal year 2009; and
+>     “(h) __Audit Requirements.—__ 
 
-    “(3) $55,000,000 for each of fiscal years 2010 through 2012.”
+>     For each year that a State receives a grant under this section, the State shall conduct an audit of the expenditures of grant funds by the State. Not later than 30 days after the completion of the audit, the State shall submit a copy of the audit to the Secretary of Agriculture.
+
+>     “(i) __Reallocation.—__ 
+
+>         “(1) __In general.—__ 
+
+>         The Secretary shall reallocate to other States in accordance with paragraph (2) any amounts made available for a fiscal year under this section that are not obligated or expended by a date during that fiscal year determined by the Secretary.
+
+>         “(2) __Pro rata allocation.—__ 
+
+>         The Secretary shall allocate funds described in paragraph (1) pro rata to the remaining States that applied during the specified grant application period.
+
+>         “(3) __Use of reallocated funds.—__ 
+
+>         Funds allocated to a State under this subsection shall be used by the State only to carry out projects that were previously approved in the State plan of the State.
+
+>     “(j) __Funding.—__ 
+
+>     Of the funds of the Commodity Credit Corporation, the Secretary of Agriculture shall make grants under this section, using—
+
+>         “(1) $10,000,000 for fiscal year 2008;
+
+>         “(2) $49,000,000 for fiscal year 2009; and
+
+>         “(3) $55,000,000 for each of fiscal years 2010 through 2012.”
 
  __National Commission on Food Marketing__ 
 

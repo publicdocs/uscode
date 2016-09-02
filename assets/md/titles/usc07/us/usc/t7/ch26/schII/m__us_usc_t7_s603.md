@@ -15,7 +15,7 @@
 
 ## § 603. Government owned cotton; transfer to Secretary of Agriculture; powers of Secretary
 
-The Farm Credit Administration and all departments and other agencies of the Government, not including the Federal intermediate credit banks are directed—
+    The Farm Credit Administration and all departments and other agencies of the Government, not including the Federal intermediate credit banks are directed—
 
     (a) To sell to the Secretary of Agriculture at such price as may be agreed upon, not in excess of the market price, all cotton now owned by them.
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch64/schXII/m__us_usc_t7_s3334, 3335.md) | [Next](./../../../../..//us/usc/t7/ch64/schXIII/m__us_usc_t7_ch64_schXIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3336)
+[Previous](./../../../../..//us/usc/t7/ch64/schXII/m__us_usc_t7_s3333.md) | [Next](./../../../../..//us/usc/t7/ch64/schXIII/m__us_usc_t7_ch64_schXIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3336)
 
 ## § 3336. Authorization of appropriations; allocation of funds
 
@@ -47,7 +47,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch64/schXII/m__us_usc_t7_s3334, 3335.md) | [Next](./../../../../..//us/usc/t7/ch64/schXIII/m__us_usc_t7_ch64_schXIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3336)
+[Previous](./../../../../..//us/usc/t7/ch64/schXII/m__us_usc_t7_s3333.md) | [Next](./../../../../..//us/usc/t7/ch64/schXIII/m__us_usc_t7_ch64_schXIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs3336)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 4307. Permissive terms in orders
 
-Orders issued pursuant to this chapter may contain one or more of the following terms and conditions:
+    Orders issued pursuant to this chapter may contain one or more of the following terms and conditions:
 
     (1) Providing for the establishment, issuance, effectuation, and administration of appropriate plans or projects for advertising, sales promotion, urban beautification, and consumer education with respect to the use of flowers and plants, and for the disbursement of necessary funds for such purposes: Provided, That any such plan or project shall be directed toward increasing the general demand for flowers and plants and shall make no reference to a private brand or trade name: Provided further, That no such advertising, consumer education, urban beautification, or sales promotion program shall make use of unfair or deceptive acts or practices with respect to the quality, value, or use of any competing product.
 

@@ -33,7 +33,7 @@ SUBCHAPTER I—SHORT TITLE, PURPOSE, AND DEFINITIONS  </td>
 
   <tr>
 
-    <td> 7201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7201" data-uslm-ref="/us/usc/t7/s7201">7201.</a>  </td>
 
     <td> Short title and purpose.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—SHORT TITLE, PURPOSE, AND DEFINITIONS  </td>
 
   <tr>
 
-    <td> 7202.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7202" data-uslm-ref="/us/usc/t7/s7202">7202.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER II—PRODUCTION FLEXIBILITY CONTRACTS  </td>
 
   <tr>
 
-    <td> 7211.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7211" data-uslm-ref="/us/usc/t7/s7211">7211.</a>  </td>
 
     <td> Authorization for use of production flexibility contracts.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER II—PRODUCTION FLEXIBILITY CONTRACTS  </td>
 
   <tr>
 
-    <td> 7212.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7212" data-uslm-ref="/us/usc/t7/s7212">7212.</a>  </td>
 
     <td> Elements of contracts.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—PRODUCTION FLEXIBILITY CONTRACTS  </td>
 
   <tr>
 
-    <td> 7213.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7213" data-uslm-ref="/us/usc/t7/s7213">7213.</a>  </td>
 
     <td> Amounts available for contract payments.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—PRODUCTION FLEXIBILITY CONTRACTS  </td>
 
   <tr>
 
-    <td> 7214.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7214" data-uslm-ref="/us/usc/t7/s7214">7214.</a>  </td>
 
     <td> Determination of contract payments under contracts.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—PRODUCTION FLEXIBILITY CONTRACTS  </td>
 
   <tr>
 
-    <td> 7215.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7215" data-uslm-ref="/us/usc/t7/s7215">7215.</a>  </td>
 
     <td> Applicability of payment limitations.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—PRODUCTION FLEXIBILITY CONTRACTS  </td>
 
   <tr>
 
-    <td> 7216.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7216" data-uslm-ref="/us/usc/t7/s7216">7216.</a>  </td>
 
     <td> Violations of contract.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—PRODUCTION FLEXIBILITY CONTRACTS  </td>
 
   <tr>
 
-    <td> 7217.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7217" data-uslm-ref="/us/usc/t7/s7217">7217.</a>  </td>
 
     <td> Transfer or change of interest in lands subject to contract.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—PRODUCTION FLEXIBILITY CONTRACTS  </td>
 
   <tr>
 
-    <td> 7218.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7218" data-uslm-ref="/us/usc/t7/s7218">7218.</a>  </td>
 
     <td> Planting flexibility.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER III—NONRECOURSE MARKETING ASSISTANCE LOANS AND LOAN DEFICIENCY PAYM
 
   <tr>
 
-    <td> 7231.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7231" data-uslm-ref="/us/usc/t7/s7231">7231.</a>  </td>
 
     <td> Availability of nonrecourse marketing assistance loans.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER III—NONRECOURSE MARKETING ASSISTANCE LOANS AND LOAN DEFICIENCY PAYM
 
   <tr>
 
-    <td> 7232.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7232" data-uslm-ref="/us/usc/t7/s7232">7232.</a>  </td>
 
     <td> Loan rates for marketing assistance loans.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER III—NONRECOURSE MARKETING ASSISTANCE LOANS AND LOAN DEFICIENCY PAYM
 
   <tr>
 
-    <td> 7233.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7233" data-uslm-ref="/us/usc/t7/s7233">7233.</a>  </td>
 
     <td> Term of loans.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER III—NONRECOURSE MARKETING ASSISTANCE LOANS AND LOAN DEFICIENCY PAYM
 
   <tr>
 
-    <td> 7234.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7234" data-uslm-ref="/us/usc/t7/s7234">7234.</a>  </td>
 
     <td> Repayment of loans.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER III—NONRECOURSE MARKETING ASSISTANCE LOANS AND LOAN DEFICIENCY PAYM
 
   <tr>
 
-    <td> 7235.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7235" data-uslm-ref="/us/usc/t7/s7235">7235.</a>  </td>
 
     <td> Loan deficiency payments.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER III—NONRECOURSE MARKETING ASSISTANCE LOANS AND LOAN DEFICIENCY PAYM
 
   <tr>
 
-    <td> 7236.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7236" data-uslm-ref="/us/usc/t7/s7236">7236.</a>  </td>
 
     <td> Special marketing loan provisions for upland cotton.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER III—NONRECOURSE MARKETING ASSISTANCE LOANS AND LOAN DEFICIENCY PAYM
 
   <tr>
 
-    <td> 7236a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7236a" data-uslm-ref="/us/usc/t7/s7236a">7236a.</a>  </td>
 
     <td> Special competitive provisions for extra long staple cotton.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER III—NONRECOURSE MARKETING ASSISTANCE LOANS AND LOAN DEFICIENCY PAYM
 
   <tr>
 
-    <td> 7237.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7237" data-uslm-ref="/us/usc/t7/s7237">7237.</a>  </td>
 
     <td> Availability of recourse loans for high moisture feed grains and seed cotton and other fibers.  </td>
 
@@ -209,7 +209,7 @@ Part A—Dairy  </td>
 
   <tr>
 
-    <td> 7251.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7251" data-uslm-ref="/us/usc/t7/s7251">7251.</a>  </td>
 
     <td> Milk price support program.  </td>
 
@@ -217,7 +217,7 @@ Part A—Dairy  </td>
 
   <tr>
 
-    <td> 7252.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7252" data-uslm-ref="/us/usc/t7/s7252">7252.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -225,7 +225,7 @@ Part A—Dairy  </td>
 
   <tr>
 
-    <td> 7253.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7253" data-uslm-ref="/us/usc/t7/s7253">7253.</a>  </td>
 
     <td> Consolidation and reform of Federal milk marketing orders.  </td>
 
@@ -233,7 +233,7 @@ Part A—Dairy  </td>
 
   <tr>
 
-    <td> 7254.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7254" data-uslm-ref="/us/usc/t7/s7254">7254.</a>  </td>
 
     <td> Effect on fluid milk standards in State of California.  </td>
 
@@ -241,7 +241,7 @@ Part A—Dairy  </td>
 
   <tr>
 
-    <td> 7255.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7255" data-uslm-ref="/us/usc/t7/s7255">7255.</a>  </td>
 
     <td> Milk manufacturing marketing adjustment.  </td>
 
@@ -249,7 +249,7 @@ Part A—Dairy  </td>
 
   <tr>
 
-    <td> 7256.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7256" data-uslm-ref="/us/usc/t7/s7256">7256.</a>  </td>
 
     <td> Northeast Interstate Dairy Compact.  </td>
 
@@ -257,7 +257,7 @@ Part A—Dairy  </td>
 
   <tr>
 
-    <td> 7257.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7257" data-uslm-ref="/us/usc/t7/s7257">7257.</a>  </td>
 
     <td> Authority to assist in establishment and maintenance of one or more export trading companies.  </td>
 
@@ -265,7 +265,7 @@ Part A—Dairy  </td>
 
   <tr>
 
-    <td> 7258.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7258" data-uslm-ref="/us/usc/t7/s7258">7258.</a>  </td>
 
     <td> Standby authority to indicate entity best suited to provide international market development and export services.  </td>
 
@@ -273,7 +273,7 @@ Part A—Dairy  </td>
 
   <tr>
 
-    <td> 7259.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7259" data-uslm-ref="/us/usc/t7/s7259">7259.</a>  </td>
 
     <td> Study and report regarding potential impact of Uruguay Round on prices, income, and government purchases.  </td>
 
@@ -289,7 +289,7 @@ Part B—Sugar  </td>
 
   <tr>
 
-    <td> 7271.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7271" data-uslm-ref="/us/usc/t7/s7271">7271.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -297,7 +297,7 @@ Part B—Sugar  </td>
 
   <tr>
 
-    <td> 7272.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7272" data-uslm-ref="/us/usc/t7/s7272">7272.</a>  </td>
 
     <td> Sugar program.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER V—ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 7281.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7281" data-uslm-ref="/us/usc/t7/s7281">7281.</a>  </td>
 
     <td> Administration.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER V—ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 7282.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7282" data-uslm-ref="/us/usc/t7/s7282">7282.</a>  </td>
 
     <td> Adjustments of loans.  </td>
 
@@ -329,7 +329,7 @@ SUBCHAPTER V—ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 7283.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7283" data-uslm-ref="/us/usc/t7/s7283">7283.</a>  </td>
 
     <td> Commodity Credit Corporation interest rate.  </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER V—ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 7284.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7284" data-uslm-ref="/us/usc/t7/s7284">7284.</a>  </td>
 
     <td> Personal liability of producers for deficiencies.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER V—ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 7285.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7285" data-uslm-ref="/us/usc/t7/s7285">7285.</a>  </td>
 
     <td> Commodity Credit Corporation sales price restrictions.  </td>
 
@@ -353,7 +353,7 @@ SUBCHAPTER V—ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 7286.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7286" data-uslm-ref="/us/usc/t7/s7286">7286.</a>  </td>
 
     <td> Commodity certificates.  </td>
 
@@ -361,7 +361,7 @@ SUBCHAPTER V—ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 7287.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7287" data-uslm-ref="/us/usc/t7/s7287">7287.</a>  </td>
 
     <td> Commodity Credit Corporation storage payments.  </td>
 
@@ -377,7 +377,7 @@ SUBCHAPTER VI—PERMANENT PRICE SUPPORT AUTHORITY  </td>
 
   <tr>
 
-    <td> 7301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7301" data-uslm-ref="/us/usc/t7/s7301">7301.</a>  </td>
 
     <td> Suspension and repeal of permanent price support authority.  </td>
 
@@ -385,7 +385,7 @@ SUBCHAPTER VI—PERMANENT PRICE SUPPORT AUTHORITY  </td>
 
   <tr>
 
-    <td> 7302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7302" data-uslm-ref="/us/usc/t7/s7302">7302.</a>  </td>
 
     <td> Effect of chapter.  </td>
 
@@ -401,7 +401,7 @@ SUBCHAPTER VII—COMMISSION ON 21st CENTURY PRODUCTION AGRICULTURE  </td>
 
   <tr>
 
-    <td> 7311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7311" data-uslm-ref="/us/usc/t7/s7311">7311.</a>  </td>
 
     <td> Establishment.  </td>
 
@@ -409,7 +409,7 @@ SUBCHAPTER VII—COMMISSION ON 21st CENTURY PRODUCTION AGRICULTURE  </td>
 
   <tr>
 
-    <td> 7312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7312" data-uslm-ref="/us/usc/t7/s7312">7312.</a>  </td>
 
     <td> Composition.  </td>
 
@@ -417,7 +417,7 @@ SUBCHAPTER VII—COMMISSION ON 21st CENTURY PRODUCTION AGRICULTURE  </td>
 
   <tr>
 
-    <td> 7313.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7313" data-uslm-ref="/us/usc/t7/s7313">7313.</a>  </td>
 
     <td> Comprehensive review of past and future of production agriculture.  </td>
 
@@ -425,7 +425,7 @@ SUBCHAPTER VII—COMMISSION ON 21st CENTURY PRODUCTION AGRICULTURE  </td>
 
   <tr>
 
-    <td> 7314.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7314" data-uslm-ref="/us/usc/t7/s7314">7314.</a>  </td>
 
     <td> Reports.  </td>
 
@@ -433,7 +433,7 @@ SUBCHAPTER VII—COMMISSION ON 21st CENTURY PRODUCTION AGRICULTURE  </td>
 
   <tr>
 
-    <td> 7315.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7315" data-uslm-ref="/us/usc/t7/s7315">7315.</a>  </td>
 
     <td> Powers.  </td>
 
@@ -441,7 +441,7 @@ SUBCHAPTER VII—COMMISSION ON 21st CENTURY PRODUCTION AGRICULTURE  </td>
 
   <tr>
 
-    <td> 7316.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7316" data-uslm-ref="/us/usc/t7/s7316">7316.</a>  </td>
 
     <td> Commission procedures.  </td>
 
@@ -449,7 +449,7 @@ SUBCHAPTER VII—COMMISSION ON 21st CENTURY PRODUCTION AGRICULTURE  </td>
 
   <tr>
 
-    <td> 7317.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7317" data-uslm-ref="/us/usc/t7/s7317">7317.</a>  </td>
 
     <td> Personnel matters.  </td>
 
@@ -457,7 +457,7 @@ SUBCHAPTER VII—COMMISSION ON 21st CENTURY PRODUCTION AGRICULTURE  </td>
 
   <tr>
 
-    <td> 7318.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7318" data-uslm-ref="/us/usc/t7/s7318">7318.</a>  </td>
 
     <td> Termination of Commission.  </td>
 
@@ -473,7 +473,7 @@ SUBCHAPTER VIII—MISCELLANEOUS COMMODITY PROVISIONS  </td>
 
   <tr>
 
-    <td> 7331.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7331" data-uslm-ref="/us/usc/t7/s7331">7331.</a>  </td>
 
     <td> Options pilot program.  </td>
 
@@ -481,7 +481,7 @@ SUBCHAPTER VIII—MISCELLANEOUS COMMODITY PROVISIONS  </td>
 
   <tr>
 
-    <td> 7332.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7332" data-uslm-ref="/us/usc/t7/s7332">7332.</a>  </td>
 
     <td> Risk management education.  </td>
 
@@ -489,7 +489,7 @@ SUBCHAPTER VIII—MISCELLANEOUS COMMODITY PROVISIONS  </td>
 
   <tr>
 
-    <td> 7333.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7333" data-uslm-ref="/us/usc/t7/s7333">7333.</a>  </td>
 
     <td> Administration and operation of noninsured crop assistance program.  </td>
 
@@ -497,7 +497,7 @@ SUBCHAPTER VIII—MISCELLANEOUS COMMODITY PROVISIONS  </td>
 
   <tr>
 
-    <td> 7334.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7334" data-uslm-ref="/us/usc/t7/s7334">7334.</a>  </td>
 
     <td> Flood risk reduction.  </td>
 

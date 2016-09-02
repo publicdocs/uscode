@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL PROVISIONS; AGRICULTURAL COUNSELORS AND AGRICULTURAL ATTA
 
   <tr>
 
-    <td> 1761.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1761" data-uslm-ref="/us/usc/t7/s1761">1761.</a>  </td>
 
     <td> Foreign markets; collection of information.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL PROVISIONS; AGRICULTURAL COUNSELORS AND AGRICULTURAL ATTA
 
   <tr>
 
-    <td> 1762.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1762" data-uslm-ref="/us/usc/t7/s1762">1762.</a>  </td>
 
     <td> Personnel.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL PROVISIONS; AGRICULTURAL COUNSELORS AND AGRICULTURAL ATTA
 
   <tr>
 
-    <td> 1763.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1763" data-uslm-ref="/us/usc/t7/s1763">1763.</a>  </td>
 
     <td> Transferred.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERAL PROVISIONS; AGRICULTURAL COUNSELORS AND AGRICULTURAL ATTA
 
   <tr>
 
-    <td> 1764.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1764" data-uslm-ref="/us/usc/t7/s1764">1764.</a>  </td>
 
     <td> Reports and dispatches.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—GENERAL PROVISIONS; AGRICULTURAL COUNSELORS AND AGRICULTURAL ATTA
 
   <tr>
 
-    <td> 1765.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1765" data-uslm-ref="/us/usc/t7/s1765">1765.</a>  </td>
 
     <td> Foreign service appropriations; applicability.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—UNITED STATES AGRICULTURAL TRADE OFFICES  </td>
 
   <tr>
 
-    <td> 1765a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1765a" data-uslm-ref="/us/usc/t7/s1765a">1765a.</a>  </td>
 
     <td> Agricultural Trade Offices.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—UNITED STATES AGRICULTURAL TRADE OFFICES  </td>
 
   <tr>
 
-    <td> 1765b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1765b" data-uslm-ref="/us/usc/t7/s1765b">1765b.</a>  </td>
 
     <td> Functions.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—UNITED STATES AGRICULTURAL TRADE OFFICES  </td>
 
   <tr>
 
-    <td> 1765b–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1765b%E2%80%931" data-uslm-ref="/us/usc/t7/s1765b–1">1765b–1.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—UNITED STATES AGRICULTURAL TRADE OFFICES  </td>
 
   <tr>
 
-    <td> 1765c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1765c" data-uslm-ref="/us/usc/t7/s1765c">1765c.</a>  </td>
 
     <td> Performance of functions in foreign localities.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—UNITED STATES AGRICULTURAL TRADE OFFICES  </td>
 
   <tr>
 
-    <td> 1765d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1765d" data-uslm-ref="/us/usc/t7/s1765d">1765d.</a>  </td>
 
     <td> Acquisition of property.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—UNITED STATES AGRICULTURAL TRADE OFFICES  </td>
 
   <tr>
 
-    <td> 1765d–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1765d%E2%80%931" data-uslm-ref="/us/usc/t7/s1765d–1">1765d–1.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—UNITED STATES AGRICULTURAL TRADE OFFICES  </td>
 
   <tr>
 
-    <td> 1765e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1765e" data-uslm-ref="/us/usc/t7/s1765e">1765e.</a>  </td>
 
     <td> Location of offices.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—UNITED STATES AGRICULTURAL TRADE OFFICES  </td>
 
   <tr>
 
-    <td> 1765f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1765f" data-uslm-ref="/us/usc/t7/s1765f">1765f.</a>  </td>
 
     <td> Availability of agency services, personnel, and facilities.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—UNITED STATES AGRICULTURAL TRADE OFFICES  </td>
 
   <tr>
 
-    <td> 1765g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1765g" data-uslm-ref="/us/usc/t7/s1765g">1765g.</a>  </td>
 
     <td> Availability of reports and dispatches.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER III—REPRESENTATION ALLOWANCES, REGULATIONS, GENERAL PROVISIONS, AND
 
   <tr>
 
-    <td> 1765h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1765h" data-uslm-ref="/us/usc/t7/s1765h">1765h.</a>  </td>
 
     <td> Representation allowance.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER III—REPRESENTATION ALLOWANCES, REGULATIONS, GENERAL PROVISIONS, AND
 
   <tr>
 
-    <td> 1766.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1766" data-uslm-ref="/us/usc/t7/s1766">1766.</a>  </td>
 
     <td> Rules and regulations; advance payment for rent and other service; funds for courtesies to foreign representatives.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER III—REPRESENTATION ALLOWANCES, REGULATIONS, GENERAL PROVISIONS, AND
 
   <tr>
 
-    <td> 1766a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1766a" data-uslm-ref="/us/usc/t7/s1766a">1766a.</a>  </td>
 
     <td> Presidential regulations.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER III—REPRESENTATION ALLOWANCES, REGULATIONS, GENERAL PROVISIONS, AND
 
   <tr>
 
-    <td> 1766b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1766b" data-uslm-ref="/us/usc/t7/s1766b">1766b.</a>  </td>
 
     <td> Language training for families of officers and employees assigned abroad.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER III—REPRESENTATION ALLOWANCES, REGULATIONS, GENERAL PROVISIONS, AND
 
   <tr>
 
-    <td> 1766c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1766c" data-uslm-ref="/us/usc/t7/s1766c">1766c.</a>  </td>
 
     <td> Allowances and benefits.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER III—REPRESENTATION ALLOWANCES, REGULATIONS, GENERAL PROVISIONS, AND
 
   <tr>
 
-    <td> 1767.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1767" data-uslm-ref="/us/usc/t7/s1767">1767.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER III—REPRESENTATION ALLOWANCES, REGULATIONS, GENERAL PROVISIONS, AND
 
   <tr>
 
-    <td> 1768.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1768" data-uslm-ref="/us/usc/t7/s1768">1768.</a>  </td>
 
     <td> Foreign Operations Administration unaffected.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER III—REPRESENTATION ALLOWANCES, REGULATIONS, GENERAL PROVISIONS, AND
 
   <tr>
 
-    <td> 1769.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1769" data-uslm-ref="/us/usc/t7/s1769">1769.</a>  </td>
 
     <td> “Agricultural commodity” defined.  </td>
 

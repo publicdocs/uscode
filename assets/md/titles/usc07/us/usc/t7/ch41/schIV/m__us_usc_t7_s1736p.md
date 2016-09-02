@@ -15,7 +15,7 @@
 
 ## § 1736p. Trade policy declaration
 
-It is hereby declared to be the agricultural trade policy of the United States to—
+    It is hereby declared to be the agricultural trade policy of the United States to—
 
     (1) be the premier supplier of agricultural and food products to world markets and expand exports of high value products;
 

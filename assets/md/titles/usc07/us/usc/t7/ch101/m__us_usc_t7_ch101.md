@@ -33,7 +33,7 @@ SUBCHAPTER I—COMMODITY PROMOTION AND EVALUATION  </td>
 
   <tr>
 
-    <td> 7401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7401" data-uslm-ref="/us/usc/t7/s7401">7401.</a>  </td>
 
     <td> Commodity promotion and evaluation.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER II—ISSUANCE OF ORDERS FOR PROMOTION, RESEARCH, AND INFORMATION ACTI
 
   <tr>
 
-    <td> 7411.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7411" data-uslm-ref="/us/usc/t7/s7411">7411.</a>  </td>
 
     <td> Findings and purpose.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER II—ISSUANCE OF ORDERS FOR PROMOTION, RESEARCH, AND INFORMATION ACTI
 
   <tr>
 
-    <td> 7412.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7412" data-uslm-ref="/us/usc/t7/s7412">7412.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER II—ISSUANCE OF ORDERS FOR PROMOTION, RESEARCH, AND INFORMATION ACTI
 
   <tr>
 
-    <td> 7413.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7413" data-uslm-ref="/us/usc/t7/s7413">7413.</a>  </td>
 
     <td> Issuance of orders.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—ISSUANCE OF ORDERS FOR PROMOTION, RESEARCH, AND INFORMATION ACTI
 
   <tr>
 
-    <td> 7414.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7414" data-uslm-ref="/us/usc/t7/s7414">7414.</a>  </td>
 
     <td> Required terms in orders.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—ISSUANCE OF ORDERS FOR PROMOTION, RESEARCH, AND INFORMATION ACTI
 
   <tr>
 
-    <td> 7415.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7415" data-uslm-ref="/us/usc/t7/s7415">7415.</a>  </td>
 
     <td> Permissive terms in orders.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—ISSUANCE OF ORDERS FOR PROMOTION, RESEARCH, AND INFORMATION ACTI
 
   <tr>
 
-    <td> 7416.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7416" data-uslm-ref="/us/usc/t7/s7416">7416.</a>  </td>
 
     <td> Assessments.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—ISSUANCE OF ORDERS FOR PROMOTION, RESEARCH, AND INFORMATION ACTI
 
   <tr>
 
-    <td> 7416a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7416a" data-uslm-ref="/us/usc/t7/s7416a">7416a.</a>  </td>
 
     <td> Confirmation of authority of Secretary of Agriculture to collect State commodity assessments.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—ISSUANCE OF ORDERS FOR PROMOTION, RESEARCH, AND INFORMATION ACTI
 
   <tr>
 
-    <td> 7417.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7417" data-uslm-ref="/us/usc/t7/s7417">7417.</a>  </td>
 
     <td> Referenda.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—ISSUANCE OF ORDERS FOR PROMOTION, RESEARCH, AND INFORMATION ACTI
 
   <tr>
 
-    <td> 7418.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7418" data-uslm-ref="/us/usc/t7/s7418">7418.</a>  </td>
 
     <td> Petition and review of orders.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—ISSUANCE OF ORDERS FOR PROMOTION, RESEARCH, AND INFORMATION ACTI
 
   <tr>
 
-    <td> 7419.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7419" data-uslm-ref="/us/usc/t7/s7419">7419.</a>  </td>
 
     <td> Enforcement.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—ISSUANCE OF ORDERS FOR PROMOTION, RESEARCH, AND INFORMATION ACTI
 
   <tr>
 
-    <td> 7420.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7420" data-uslm-ref="/us/usc/t7/s7420">7420.</a>  </td>
 
     <td> Investigations and power to subpoena.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—ISSUANCE OF ORDERS FOR PROMOTION, RESEARCH, AND INFORMATION ACTI
 
   <tr>
 
-    <td> 7421.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7421" data-uslm-ref="/us/usc/t7/s7421">7421.</a>  </td>
 
     <td> Suspension or termination.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—ISSUANCE OF ORDERS FOR PROMOTION, RESEARCH, AND INFORMATION ACTI
 
   <tr>
 
-    <td> 7422.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7422" data-uslm-ref="/us/usc/t7/s7422">7422.</a>  </td>
 
     <td> Amendments to orders.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—ISSUANCE OF ORDERS FOR PROMOTION, RESEARCH, AND INFORMATION ACTI
 
   <tr>
 
-    <td> 7423.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7423" data-uslm-ref="/us/usc/t7/s7423">7423.</a>  </td>
 
     <td> Effect on other laws.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—ISSUANCE OF ORDERS FOR PROMOTION, RESEARCH, AND INFORMATION ACTI
 
   <tr>
 
-    <td> 7424.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7424" data-uslm-ref="/us/usc/t7/s7424">7424.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—ISSUANCE OF ORDERS FOR PROMOTION, RESEARCH, AND INFORMATION ACTI
 
   <tr>
 
-    <td> 7425.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7425" data-uslm-ref="/us/usc/t7/s7425">7425.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER III—CANOLA AND RAPESEED  </td>
 
   <tr>
 
-    <td> 7441.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7441" data-uslm-ref="/us/usc/t7/s7441">7441.</a>  </td>
 
     <td> Findings and declaration of policy.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER III—CANOLA AND RAPESEED  </td>
 
   <tr>
 
-    <td> 7442.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7442" data-uslm-ref="/us/usc/t7/s7442">7442.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER III—CANOLA AND RAPESEED  </td>
 
   <tr>
 
-    <td> 7443.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7443" data-uslm-ref="/us/usc/t7/s7443">7443.</a>  </td>
 
     <td> Issuance and amendment of orders.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER III—CANOLA AND RAPESEED  </td>
 
   <tr>
 
-    <td> 7444.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7444" data-uslm-ref="/us/usc/t7/s7444">7444.</a>  </td>
 
     <td> Required terms in orders.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER III—CANOLA AND RAPESEED  </td>
 
   <tr>
 
-    <td> 7445.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7445" data-uslm-ref="/us/usc/t7/s7445">7445.</a>  </td>
 
     <td> Assessments.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER III—CANOLA AND RAPESEED  </td>
 
   <tr>
 
-    <td> 7446.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7446" data-uslm-ref="/us/usc/t7/s7446">7446.</a>  </td>
 
     <td> Referenda.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER III—CANOLA AND RAPESEED  </td>
 
   <tr>
 
-    <td> 7447.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7447" data-uslm-ref="/us/usc/t7/s7447">7447.</a>  </td>
 
     <td> Petition and review.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER III—CANOLA AND RAPESEED  </td>
 
   <tr>
 
-    <td> 7448.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7448" data-uslm-ref="/us/usc/t7/s7448">7448.</a>  </td>
 
     <td> Enforcement.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER III—CANOLA AND RAPESEED  </td>
 
   <tr>
 
-    <td> 7449.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7449" data-uslm-ref="/us/usc/t7/s7449">7449.</a>  </td>
 
     <td> Investigations and power to subpoena.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER III—CANOLA AND RAPESEED  </td>
 
   <tr>
 
-    <td> 7450.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7450" data-uslm-ref="/us/usc/t7/s7450">7450.</a>  </td>
 
     <td> Suspension or termination.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER III—CANOLA AND RAPESEED  </td>
 
   <tr>
 
-    <td> 7451.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7451" data-uslm-ref="/us/usc/t7/s7451">7451.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER III—CANOLA AND RAPESEED  </td>
 
   <tr>
 
-    <td> 7452.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7452" data-uslm-ref="/us/usc/t7/s7452">7452.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER IV—KIWIFRUIT  </td>
 
   <tr>
 
-    <td> 7461.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7461" data-uslm-ref="/us/usc/t7/s7461">7461.</a>  </td>
 
     <td> Findings and purposes.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER IV—KIWIFRUIT  </td>
 
   <tr>
 
-    <td> 7462.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7462" data-uslm-ref="/us/usc/t7/s7462">7462.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER IV—KIWIFRUIT  </td>
 
   <tr>
 
-    <td> 7463.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7463" data-uslm-ref="/us/usc/t7/s7463">7463.</a>  </td>
 
     <td> Issuance of orders.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER IV—KIWIFRUIT  </td>
 
   <tr>
 
-    <td> 7464.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7464" data-uslm-ref="/us/usc/t7/s7464">7464.</a>  </td>
 
     <td> National Kiwifruit Board.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER IV—KIWIFRUIT  </td>
 
   <tr>
 
-    <td> 7465.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7465" data-uslm-ref="/us/usc/t7/s7465">7465.</a>  </td>
 
     <td> Required terms in order.  </td>
 
@@ -329,7 +329,7 @@ SUBCHAPTER IV—KIWIFRUIT  </td>
 
   <tr>
 
-    <td> 7466.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7466" data-uslm-ref="/us/usc/t7/s7466">7466.</a>  </td>
 
     <td> Permissive terms in order.  </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER IV—KIWIFRUIT  </td>
 
   <tr>
 
-    <td> 7467.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7467" data-uslm-ref="/us/usc/t7/s7467">7467.</a>  </td>
 
     <td> Petition and review.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER IV—KIWIFRUIT  </td>
 
   <tr>
 
-    <td> 7468.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7468" data-uslm-ref="/us/usc/t7/s7468">7468.</a>  </td>
 
     <td> Enforcement.  </td>
 
@@ -353,7 +353,7 @@ SUBCHAPTER IV—KIWIFRUIT  </td>
 
   <tr>
 
-    <td> 7469.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7469" data-uslm-ref="/us/usc/t7/s7469">7469.</a>  </td>
 
     <td> Investigations and power to subpoena.  </td>
 
@@ -361,7 +361,7 @@ SUBCHAPTER IV—KIWIFRUIT  </td>
 
   <tr>
 
-    <td> 7470.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7470" data-uslm-ref="/us/usc/t7/s7470">7470.</a>  </td>
 
     <td> Referenda.  </td>
 
@@ -369,7 +369,7 @@ SUBCHAPTER IV—KIWIFRUIT  </td>
 
   <tr>
 
-    <td> 7471.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7471" data-uslm-ref="/us/usc/t7/s7471">7471.</a>  </td>
 
     <td> Suspension or termination.  </td>
 
@@ -377,7 +377,7 @@ SUBCHAPTER IV—KIWIFRUIT  </td>
 
   <tr>
 
-    <td> 7472.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7472" data-uslm-ref="/us/usc/t7/s7472">7472.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -385,7 +385,7 @@ SUBCHAPTER IV—KIWIFRUIT  </td>
 
   <tr>
 
-    <td> 7473.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7473" data-uslm-ref="/us/usc/t7/s7473">7473.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -401,7 +401,7 @@ SUBCHAPTER V—POPCORN  </td>
 
   <tr>
 
-    <td> 7481.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7481" data-uslm-ref="/us/usc/t7/s7481">7481.</a>  </td>
 
     <td> Findings and declaration of policy.  </td>
 
@@ -409,7 +409,7 @@ SUBCHAPTER V—POPCORN  </td>
 
   <tr>
 
-    <td> 7482.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7482" data-uslm-ref="/us/usc/t7/s7482">7482.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -417,7 +417,7 @@ SUBCHAPTER V—POPCORN  </td>
 
   <tr>
 
-    <td> 7483.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7483" data-uslm-ref="/us/usc/t7/s7483">7483.</a>  </td>
 
     <td> Issuance of orders.  </td>
 
@@ -425,7 +425,7 @@ SUBCHAPTER V—POPCORN  </td>
 
   <tr>
 
-    <td> 7484.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7484" data-uslm-ref="/us/usc/t7/s7484">7484.</a>  </td>
 
     <td> Required terms in orders.  </td>
 
@@ -433,7 +433,7 @@ SUBCHAPTER V—POPCORN  </td>
 
   <tr>
 
-    <td> 7485.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7485" data-uslm-ref="/us/usc/t7/s7485">7485.</a>  </td>
 
     <td> Referenda.  </td>
 
@@ -441,7 +441,7 @@ SUBCHAPTER V—POPCORN  </td>
 
   <tr>
 
-    <td> 7486.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7486" data-uslm-ref="/us/usc/t7/s7486">7486.</a>  </td>
 
     <td> Petition and review.  </td>
 
@@ -449,7 +449,7 @@ SUBCHAPTER V—POPCORN  </td>
 
   <tr>
 
-    <td> 7487.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7487" data-uslm-ref="/us/usc/t7/s7487">7487.</a>  </td>
 
     <td> Enforcement.  </td>
 
@@ -457,7 +457,7 @@ SUBCHAPTER V—POPCORN  </td>
 
   <tr>
 
-    <td> 7488.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7488" data-uslm-ref="/us/usc/t7/s7488">7488.</a>  </td>
 
     <td> Investigations and power to subpoena.  </td>
 
@@ -465,7 +465,7 @@ SUBCHAPTER V—POPCORN  </td>
 
   <tr>
 
-    <td> 7489.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7489" data-uslm-ref="/us/usc/t7/s7489">7489.</a>  </td>
 
     <td> Relation to other programs.  </td>
 
@@ -473,7 +473,7 @@ SUBCHAPTER V—POPCORN  </td>
 
   <tr>
 
-    <td> 7490.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7490" data-uslm-ref="/us/usc/t7/s7490">7490.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -481,7 +481,7 @@ SUBCHAPTER V—POPCORN  </td>
 
   <tr>
 
-    <td> 7491.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7491" data-uslm-ref="/us/usc/t7/s7491">7491.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

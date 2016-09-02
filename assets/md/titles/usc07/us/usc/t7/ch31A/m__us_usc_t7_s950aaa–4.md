@@ -21,7 +21,7 @@
 
  __Termination of Section__ 
 
-For termination of section by [section 1(b) of Pub. L. 102–551][/us/pl/102/551/s1/b], see Termination of Chapter note set out under [section 950aaa of this title][/us/usc/t7/s950aaa].
+    For termination of section by [section 1(b) of Pub. L. 102–551][/us/pl/102/551/s1/b], see Termination of Chapter note set out under [section 950aaa of this title][/us/usc/t7/s950aaa].
 
  __Prior Provisions__ 
 

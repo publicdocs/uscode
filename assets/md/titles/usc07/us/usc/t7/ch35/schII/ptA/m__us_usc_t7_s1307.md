@@ -15,7 +15,7 @@
 
 ## § 1307. Limitation on payments under wheat, feed grains, and cotton programs for 1974 through 1977 crops
 
-Notwithstanding any other provision of law—
+    Notwithstanding any other provision of law—
 
     (1) The total amount of payments which a person shall be entitled to receive under one or more of the annual programs established by titles IV, V, and VI of this Act for the 1974 through 1976 crops of the commodities and by titles IV and V of the Food and Agriculture Act of 1977 and titles IV, V, and VI of this Act for the 1977 crop of the commodities shall not exceed $20,000.
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch36/schI/m__us_usc_t7_s1505.md) | [Next](./../../../../..//us/usc/t7/ch36/schI/m__us_usc_t7_s1506a, 1506b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1506)
+[Previous](./../../../../..//us/usc/t7/ch36/schI/m__us_usc_t7_s1505.md) | [Next](./../../../../..//us/usc/t7/ch36/schI/m__us_usc_t7_s1507.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1506)
 
 ## § 1506. General powers
 
@@ -407,9 +407,17 @@
 
 >         The Comptroller General shall have the power to subpoena information relevant to the evaluation required by this section from any private insurance provider. The Comptroller General shall allow the Corporation access to the information subpoenaed taking into consideration the necessity of preserving the privacy of proprietary information.”
 
+§§ 1506a, 1506b. __Omitted__ 
+
+ __Codification__ 
+
+    Section 1506a, [act July 30, 1947, ch. 356][/us/act/1947-07-30/ch356], title II, § 202, [61 Stat. 550][/us/stat/61/550], which related to authority of Federal Crop Insurance Corporation to make expenditures, was from the Department of Agriculture Appropriation Act, 1948, and was not repeated in subsequent appropriation acts.
+
+    Section 1506b, acts [June 29, 1954, ch. 409][/us/act/1954-06-29/ch409], title II, § 201, [68 Stat. 317][/us/stat/68/317]; [May 23, 1955, ch. 43][/us/act/1955-05-23/ch43], title II, § 201, [69 Stat. 60][/us/stat/69/60]; [June 4, 1956, ch. 355][/us/act/1956-06-04/ch355], title II, § 201, [70 Stat. 238][/us/stat/70/238], which provided that crop inspection costs and loss adjustments could be considered as nonadministrative or nonoperating expenses, was from the Department of Agriculture and Farm Credit Administration Appropriation Acts for fiscal years 1955–57, and was not repeated in subsequent appropriation acts.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch36/schI/m__us_usc_t7_s1505.md) | [Next](./../../../../..//us/usc/t7/ch36/schI/m__us_usc_t7_s1506a, 1506b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1506)
+[Previous](./../../../../..//us/usc/t7/ch36/schI/m__us_usc_t7_s1505.md) | [Next](./../../../../..//us/usc/t7/ch36/schI/m__us_usc_t7_s1507.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1506)
 
 ----------
 ----------
@@ -541,5 +549,13 @@
 [/us/pl/103/354/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F354%2Fs118
 [/us/stat/108/3205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3205
 [/us/usc/t7/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1501
+[/us/act/1947-07-30/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-30%2Fch356
+[/us/stat/61/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F550
+[/us/act/1954-06-29/ch409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-06-29%2Fch409
+[/us/stat/68/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F317
+[/us/act/1955-05-23/ch43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-05-23%2Fch43
+[/us/stat/69/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F60
+[/us/act/1956-06-04/ch355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-04%2Fch355
+[/us/stat/70/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F238
 
 

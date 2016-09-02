@@ -15,7 +15,7 @@
 
 ## § 3801. Congressional findings and declaration of purpose
 
-The Congress hereby finds and declares that—
+    The Congress hereby finds and declares that—
 
     (1) raw garbage is one of the primary media through which numerous infectious or communicable diseases of swine are transmitted;
 

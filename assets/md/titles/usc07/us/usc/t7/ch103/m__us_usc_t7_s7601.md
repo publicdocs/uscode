@@ -15,7 +15,7 @@
 
 ## § 7601. Definitions
 
-In this Act:
+    In this Act:
 
     (1) __1862 Institution__ 
 

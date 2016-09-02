@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch14/schI/m__us_usc_t7_s386 to 386f.md) | [Next](./../../../../..//us/usc/t7/ch14/schII/m__us_usc_t7_ch14_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs386g)
+[Previous](./../../../../..//us/usc/t7/ch14/schI/m__us_usc_t7_s385a.md) | [Next](./../../../../..//us/usc/t7/ch14/schII/m__us_usc_t7_ch14_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs386g)
 
 ## § 386g. Repealed. [Oct. 31, 1951, ch. 654, § 1(10)][/us/act/1951-10-31/ch654/s1/10], [65 Stat. 701][/us/stat/65/701]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch14/schI/m__us_usc_t7_s386 to 386f.md) | [Next](./../../../../..//us/usc/t7/ch14/schII/m__us_usc_t7_ch14_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs386g)
+[Previous](./../../../../..//us/usc/t7/ch14/schI/m__us_usc_t7_s385a.md) | [Next](./../../../../..//us/usc/t7/ch14/schII/m__us_usc_t7_ch14_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs386g)
 
 ----------
 ----------

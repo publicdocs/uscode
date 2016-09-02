@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 91.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs91" data-uslm-ref="/us/usc/t7/s91">91.</a>  </td>
 
     <td> Short title.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 92.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs92" data-uslm-ref="/us/usc/t7/s92">92.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 93.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs93" data-uslm-ref="/us/usc/t7/s93">93.</a>  </td>
 
     <td> Establishment of official naval stores standards.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 94.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs94" data-uslm-ref="/us/usc/t7/s94">94.</a>  </td>
 
     <td> Supplying duplicates of standards; examination, etc., of naval stores and certification thereof.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 95.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs95" data-uslm-ref="/us/usc/t7/s95">95.</a>  </td>
 
     <td> Prohibition of acts deemed injurious to commerce in naval stores.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 96.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs96" data-uslm-ref="/us/usc/t7/s96">96.</a>  </td>
 
     <td> Punishment for violation of prohibition.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 97.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs97" data-uslm-ref="/us/usc/t7/s97">97.</a>  </td>
 
     <td> Purchase and analysis by Secretary of samples of spirits of turpentine to detect violations; reports to Department of Justice; publication of results of analysis, etc.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 98.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs98" data-uslm-ref="/us/usc/t7/s98">98.</a>  </td>
 
     <td> Fees and charges for naval stores inspection and related services; establishment; collection, etc.; authorization of appropriations; administrative expenses.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 99.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs99" data-uslm-ref="/us/usc/t7/s99">99.</a>  </td>
 
     <td> Separability.  </td>
 

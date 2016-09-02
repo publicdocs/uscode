@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7501" data-uslm-ref="/us/usc/t7/s7501">7501.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7502" data-uslm-ref="/us/usc/t7/s7502">7502.</a>  </td>
 
     <td> Availability of CCC commodities.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7503" data-uslm-ref="/us/usc/t7/s7503">7503.</a>  </td>
 
     <td> State plan.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 7504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7504" data-uslm-ref="/us/usc/t7/s7504">7504.</a>  </td>
 
     <td> Initial processing costs.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 7505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7505" data-uslm-ref="/us/usc/t7/s7505">7505.</a>  </td>
 
     <td> Federal and State responsibilities.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 7506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7506" data-uslm-ref="/us/usc/t7/s7506">7506.</a>  </td>
 
     <td> Assurances; anticipated use.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 7507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7507" data-uslm-ref="/us/usc/t7/s7507">7507.</a>  </td>
 
     <td> State and local supplementation of commodities.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 7508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7508" data-uslm-ref="/us/usc/t7/s7508">7508.</a>  </td>
 
     <td> Authorization and appropriations.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 7509.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7509" data-uslm-ref="/us/usc/t7/s7509">7509.</a>  </td>
 
     <td> Relationship to other programs.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 7510.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7510" data-uslm-ref="/us/usc/t7/s7510">7510.</a>  </td>
 
     <td> Commodities not income.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 7511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7511" data-uslm-ref="/us/usc/t7/s7511">7511.</a>  </td>
 
     <td> Prohibition against certain State charges.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 7511a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7511a" data-uslm-ref="/us/usc/t7/s7511a">7511a.</a>  </td>
 
     <td> Emergency food program infrastructure grants.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 7512.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7512" data-uslm-ref="/us/usc/t7/s7512">7512.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 7513.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7513" data-uslm-ref="/us/usc/t7/s7513">7513.</a>  </td>
 
     <td> Finality of determinations.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 7514.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7514" data-uslm-ref="/us/usc/t7/s7514">7514.</a>  </td>
 
     <td> Incorporation of additional commodities.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 7515.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7515" data-uslm-ref="/us/usc/t7/s7515">7515.</a>  </td>
 
     <td> Allotment and delivery of commodities.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 7516.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7516" data-uslm-ref="/us/usc/t7/s7516">7516.</a>  </td>
 
     <td> Settlement and adjustment of claims.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 7517.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs7517" data-uslm-ref="/us/usc/t7/s7517">7517.</a>  </td>
 
     <td> Hunger-free communities.  </td>
 

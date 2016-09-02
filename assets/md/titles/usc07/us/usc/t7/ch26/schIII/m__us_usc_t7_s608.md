@@ -17,9 +17,7 @@
 
     (1) __Investigations; proclamation of findings__ 
 
-    Whenever the Secretary of Agriculture has reason to believe that:
-
-        (a) The current average farm price for any basic agricultural commodity is less than the fair exchange value thereof, or the average farm price of such commodity is likely to be less than the fair exchange value thereof for the period in which the production of such commodity during the current or next succeeding marketing year is normally marketed, and
+    Whenever the Secretary of Agriculture has reason to believe that:    (a) The current average farm price for any basic agricultural commodity is less than the fair exchange value thereof, or the average farm price of such commodity is likely to be less than the fair exchange value thereof for the period in which the production of such commodity during the current or next succeeding marketing year is normally marketed, and
 
         (b) The conditions of and factors relating to the production, marketing, and consumption of such commodity are such that the exercise of any one or more of the powers conferred upon the Secretary under subsections (2) and (3) of this section would tend to effectuate the declared policy of this chapter,
 
@@ -27,17 +25,13 @@
 
     (2) __Agreements for adjustment of acreage or production and for rental or benefit payments__ 
 
-    Subject to the provisions of subsection (1) of this section, the Secretary of Agriculture shall provide, through agreements with producers or by other voluntary methods,
-
-        (a) For such adjustment in the acreage or in the production for market, or both, of any basic agricultural commodity, as he finds, upon the basis of the investigation made pursuant to subsection (1) of this section, will tend to effectuate the declared policy of this chapter, and to make such adjustment program practicable to operate and administer, and
+    Subject to the provisions of subsection (1) of this section, the Secretary of Agriculture shall provide, through agreements with producers or by other voluntary methods,    (a) For such adjustment in the acreage or in the production for market, or both, of any basic agricultural commodity, as he finds, upon the basis of the investigation made pursuant to subsection (1) of this section, will tend to effectuate the declared policy of this chapter, and to make such adjustment program practicable to operate and administer, and
 
         (b) For rental or benefit payments in connection with such agreements or methods in such amounts as he finds, upon the basis of such investigation, to be fair and reasonable and best calculated to effectuate the declared policy of this chapter, and to make such program practicable to operate and administer, to be paid out of any moneys available for such payments or, subject to the consent of the producer, to be made in quantities of one or more basic agricultural commodities acquired by the Secretary pursuant to this chapter.
 
     (3) __Payments by Secretary__ 
 
-    Subject to the provisions of subsection (1) of this section, the Secretary of Agriculture shall make payments, out of any moneys available for such payments, in such amounts as he finds, upon the basis of the investigation made pursuant to subsection (1) of this section, to be fair and reasonable and best calculated to effectuate the declared policy of this chapter:
-
-        (a) To remove from the normal channels of trade and commerce quantities of any basic agricultural commodity or product thereof;
+    Subject to the provisions of subsection (1) of this section, the Secretary of Agriculture shall make payments, out of any moneys available for such payments, in such amounts as he finds, upon the basis of the investigation made pursuant to subsection (1) of this section, to be fair and reasonable and best calculated to effectuate the declared policy of this chapter:    (a) To remove from the normal channels of trade and commerce quantities of any basic agricultural commodity or product thereof;
 
         (b) To expand domestic or foreign markets for any basic agricultural commodity or product thereof;
 
@@ -45,9 +39,7 @@
 
     (4) __Additional investigation; suspension of exercise of powers__ 
 
-    Whenever, during a period during which any of the powers conferred in subsection (2) or (3) of this section is being exercised, the Secretary of Agriculture has reason to believe that, with respect to any basic agricultural commodity:
-
-        (a) The current average farm price for such commodity is not less than the fair exchange value thereof, and the average farm price for such commodity is not likely to be less than the fair exchange value thereof for the period in which the production of such commodity during the current or next succeeding marketing year is normally marketed, or
+    Whenever, during a period during which any of the powers conferred in subsection (2) or (3) of this section is being exercised, the Secretary of Agriculture has reason to believe that, with respect to any basic agricultural commodity:    (a) The current average farm price for such commodity is not less than the fair exchange value thereof, and the average farm price for such commodity is not likely to be less than the fair exchange value thereof for the period in which the production of such commodity during the current or next succeeding marketing year is normally marketed, or
 
         (b) The conditions of and factors relating to the production, marketing, and consumption of such commodity are such that none of the powers conferred in subsections (2) and (3) of this section, and no combination of such powers, would, if exercised, tend to effectuate the declared policy of this chapter,
 

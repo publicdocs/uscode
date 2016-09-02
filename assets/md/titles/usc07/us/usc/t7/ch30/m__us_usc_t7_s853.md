@@ -15,7 +15,7 @@
 
 ## § 853. Terms and conditions of marketing agreements
 
-Marketing agreements entered into pursuant to [section 852 of this title][/us/usc/t7/s852] shall contain such one or more of the following terms and conditions and no others as the Secretary finds, upon the basis of the hearing provided for in [section 852 of this title][/us/usc/t7/s852], will tend to effectuate the policy declared in [section 851 of this title][/us/usc/t7/s851]:
+    Marketing agreements entered into pursuant to [section 852 of this title][/us/usc/t7/s852] shall contain such one or more of the following terms and conditions and no others as the Secretary finds, upon the basis of the hearing provided for in [section 852 of this title][/us/usc/t7/s852], will tend to effectuate the policy declared in [section 851 of this title][/us/usc/t7/s851]:
 
     (a) One or more of the terms and conditions specified in subsection (7) of [section 608c of this title][/us/usc/t7/s608c].
 

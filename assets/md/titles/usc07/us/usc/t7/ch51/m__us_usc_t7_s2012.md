@@ -15,7 +15,7 @@
 
 ## § 2012. Definitions
 
-As used in this chapter, the term:
+    As used in this chapter, the term:
 
     (a) “Access device” means any card, plate, code, account number, or other means of access, including point of sale devices, that can be used, alone or in conjunction with another access device, to obtain payments, allotments, benefits, money, goods, or other things of value, or that can be used to initiate a transfer of funds under this chapter.
 

@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch45/schIII/m__us_usc_t7_s1832 to 1837.md) | [Next](./../../../../..//us/usc/t7/ch45/schIV/m__us_usc_t7_s1838.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch45%2FschIV)
+[Previous](./../../../../..//us/usc/t7/ch45/schIII/m__us_usc_t7_s1831a.md) | [Next](./../../../../..//us/usc/t7/ch45/schIV/m__us_usc_t7_s1838.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch45%2FschIV)
 
 ### SUBCHAPTER IV—CROPLAND ADJUSTMENTS
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch45/schIII/m__us_usc_t7_s1832 to 1837.md) | [Next](./../../../../..//us/usc/t7/ch45/schIV/m__us_usc_t7_s1838.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch45%2FschIV)
+[Previous](./../../../../..//us/usc/t7/ch45/schIII/m__us_usc_t7_s1831a.md) | [Next](./../../../../..//us/usc/t7/ch45/schIV/m__us_usc_t7_s1838.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch45%2FschIV)
 
 ----------
 ----------

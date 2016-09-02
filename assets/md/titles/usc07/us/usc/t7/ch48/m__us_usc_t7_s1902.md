@@ -15,7 +15,7 @@
 
 ## § 1902. Humane methods
 
-No method of slaughtering or handling in connection with slaughtering shall be deemed to comply with the public policy of the United States unless it is humane. Either of the following two methods of slaughtering and handling are hereby found to be humane:
+    No method of slaughtering or handling in connection with slaughtering shall be deemed to comply with the public policy of the United States unless it is humane. Either of the following two methods of slaughtering and handling are hereby found to be humane:
 
     (a) in the case of cattle, calves, horses, mules, sheep, swine, and other livestock, all animals are rendered insensible to pain by a single blow or gunshot or an electrical, chemical or other means that is rapid and effective, before being shackled, hoisted, thrown, cast, or cut; or
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t7/ch35/schII/ptB/sptvi/m__us_usc_t7_s1357 to 1359a.md) | [Next](./../../../../../../..//us/usc/t7/ch35/schII/ptB/sptvii/m__us_usc_t7_s1359aa.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch35%2FschII%2FptB%2Fsptvii)
+[Previous](./../../../../../../..//us/usc/t7/ch35/schII/ptB/sptvi/m__us_usc_t7_ch35_schII_ptB_sptvi.md) | [Next](./../../../../../../..//us/usc/t7/ch35/schII/ptB/sptvii/m__us_usc_t7_s1359aa.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch35%2FschII%2FptB%2Fsptvii)
 
 ##### subpart vii—flexible marketing allotments for sugar
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t7/ch35/schII/ptB/sptvi/m__us_usc_t7_s1357 to 1359a.md) | [Next](./../../../../../../..//us/usc/t7/ch35/schII/ptB/sptvii/m__us_usc_t7_s1359aa.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch35%2FschII%2FptB%2Fsptvii)
+[Previous](./../../../../../../..//us/usc/t7/ch35/schII/ptB/sptvi/m__us_usc_t7_ch35_schII_ptB_sptvi.md) | [Next](./../../../../../../..//us/usc/t7/ch35/schII/ptB/sptvii/m__us_usc_t7_s1359aa.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch35%2FschII%2FptB%2Fsptvii)
 
 ----------
 ----------

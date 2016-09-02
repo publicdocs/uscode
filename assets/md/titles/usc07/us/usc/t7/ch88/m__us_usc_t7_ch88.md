@@ -33,7 +33,7 @@ SUBCHAPTER I—SUSTAINABLE AGRICULTURE RESEARCH AND EDUCATION  </td>
 
   <tr>
 
-    <td> 5801.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5801" data-uslm-ref="/us/usc/t7/s5801">5801.</a>  </td>
 
     <td> Purpose and definitions.  </td>
 
@@ -49,7 +49,7 @@ Part A—Best Utilization of Biological Applications  </td>
 
   <tr>
 
-    <td> 5811.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5811" data-uslm-ref="/us/usc/t7/s5811">5811.</a>  </td>
 
     <td> Research and extension projects.  </td>
 
@@ -57,7 +57,7 @@ Part A—Best Utilization of Biological Applications  </td>
 
   <tr>
 
-    <td> 5812.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5812" data-uslm-ref="/us/usc/t7/s5812">5812.</a>  </td>
 
     <td> Program administration.  </td>
 
@@ -65,7 +65,7 @@ Part A—Best Utilization of Biological Applications  </td>
 
   <tr>
 
-    <td> 5813.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5813" data-uslm-ref="/us/usc/t7/s5813">5813.</a>  </td>
 
     <td> Federal-State matching grant program.  </td>
 
@@ -73,7 +73,7 @@ Part A—Best Utilization of Biological Applications  </td>
 
   <tr>
 
-    <td> 5814.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5814" data-uslm-ref="/us/usc/t7/s5814">5814.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -89,7 +89,7 @@ Part B—Integrated Management Systems  </td>
 
   <tr>
 
-    <td> 5821.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5821" data-uslm-ref="/us/usc/t7/s5821">5821.</a>  </td>
 
     <td> Integrated management systems.  </td>
 
@@ -97,7 +97,7 @@ Part B—Integrated Management Systems  </td>
 
   <tr>
 
-    <td> 5822.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5822" data-uslm-ref="/us/usc/t7/s5822">5822.</a>  </td>
 
     <td> Integrated Farm Management Program Option.  </td>
 
@@ -113,7 +113,7 @@ Part C—Sustainable Agriculture Technology Development and Transfer Program  </
 
   <tr>
 
-    <td> 5831.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5831" data-uslm-ref="/us/usc/t7/s5831">5831.</a>  </td>
 
     <td> Technical guides and handbooks.  </td>
 
@@ -121,7 +121,7 @@ Part C—Sustainable Agriculture Technology Development and Transfer Program  </
 
   <tr>
 
-    <td> 5832.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5832" data-uslm-ref="/us/usc/t7/s5832">5832.</a>  </td>
 
     <td> National Training Program.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—NATIONAL GENETIC RESOURCES PROGRAM  </td>
 
   <tr>
 
-    <td> 5841.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5841" data-uslm-ref="/us/usc/t7/s5841">5841.</a>  </td>
 
     <td> Establishment, purpose, and functions of National Genetic Resources Program.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—NATIONAL GENETIC RESOURCES PROGRAM  </td>
 
   <tr>
 
-    <td> 5842.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5842" data-uslm-ref="/us/usc/t7/s5842">5842.</a>  </td>
 
     <td> Appointment and authority of Director.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—NATIONAL GENETIC RESOURCES PROGRAM  </td>
 
   <tr>
 
-    <td> 5843.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5843" data-uslm-ref="/us/usc/t7/s5843">5843.</a>  </td>
 
     <td> Advisory council.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—NATIONAL GENETIC RESOURCES PROGRAM  </td>
 
   <tr>
 
-    <td> 5844.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5844" data-uslm-ref="/us/usc/t7/s5844">5844.</a>  </td>
 
     <td> Definitions and authorization of appropriations.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER III—NATIONAL AGRICULTURAL WEATHER INFORMATION SYSTEM  </td>
 
   <tr>
 
-    <td> 5851.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5851" data-uslm-ref="/us/usc/t7/s5851">5851.</a>  </td>
 
     <td> Short title and purposes.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER III—NATIONAL AGRICULTURAL WEATHER INFORMATION SYSTEM  </td>
 
   <tr>
 
-    <td> 5852.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5852" data-uslm-ref="/us/usc/t7/s5852">5852.</a>  </td>
 
     <td> Agricultural Weather Office.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER III—NATIONAL AGRICULTURAL WEATHER INFORMATION SYSTEM  </td>
 
   <tr>
 
-    <td> 5853.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5853" data-uslm-ref="/us/usc/t7/s5853">5853.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER III—NATIONAL AGRICULTURAL WEATHER INFORMATION SYSTEM  </td>
 
   <tr>
 
-    <td> 5854.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5854" data-uslm-ref="/us/usc/t7/s5854">5854.</a>  </td>
 
     <td> State agricultural weather information systems.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER III—NATIONAL AGRICULTURAL WEATHER INFORMATION SYSTEM  </td>
 
   <tr>
 
-    <td> 5855.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5855" data-uslm-ref="/us/usc/t7/s5855">5855.</a>  </td>
 
     <td> Funding.  </td>
 
@@ -225,7 +225,9 @@ SUBCHAPTER IV—RESEARCH REGARDING PRODUCTION, PREPARATION, PROCESSING, HANDLING
 
   <tr>
 
-    <td> 5871 to 5874. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5871" data-uslm-ref="/us/usc/t7/s5871">5871</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5874" data-uslm-ref="/us/usc/t7/s5874">5874.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -239,7 +241,9 @@ SUBCHAPTER V—PLANT AND ANIMAL PEST AND DISEASE CONTROL PROGRAM  </td>
 
   <tr>
 
-    <td> 5881 to 5885. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5881" data-uslm-ref="/us/usc/t7/s5881">5881</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5885" data-uslm-ref="/us/usc/t7/s5885">5885.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -253,7 +257,9 @@ SUBCHAPTER VI—ALTERNATIVE AGRICULTURAL RESEARCH AND COMMERCIALIZATION  </td>
 
   <tr>
 
-    <td> 5901 to 5909. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5901" data-uslm-ref="/us/usc/t7/s5901">5901</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5909" data-uslm-ref="/us/usc/t7/s5909">5909.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -267,7 +273,7 @@ SUBCHAPTER VII—MISCELLANEOUS RESEARCH PROVISIONS  </td>
 
   <tr>
 
-    <td> 5921.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5921" data-uslm-ref="/us/usc/t7/s5921">5921.</a>  </td>
 
     <td> Biotechnology risk assessment research.  </td>
 
@@ -275,7 +281,7 @@ SUBCHAPTER VII—MISCELLANEOUS RESEARCH PROVISIONS  </td>
 
   <tr>
 
-    <td> 5921a, 5922.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5921a" data-uslm-ref="/us/usc/t7/s5921a">5921a</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5922" data-uslm-ref="/us/usc/t7/s5922">5922.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -283,7 +289,7 @@ SUBCHAPTER VII—MISCELLANEOUS RESEARCH PROVISIONS  </td>
 
   <tr>
 
-    <td> 5923.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5923" data-uslm-ref="/us/usc/t7/s5923">5923.</a>  </td>
 
     <td> Rural electronic commerce extension program.  </td>
 
@@ -291,7 +297,7 @@ SUBCHAPTER VII—MISCELLANEOUS RESEARCH PROVISIONS  </td>
 
   <tr>
 
-    <td> 5924.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5924" data-uslm-ref="/us/usc/t7/s5924">5924.</a>  </td>
 
     <td> Agricultural Genome Initiative.  </td>
 
@@ -299,7 +305,7 @@ SUBCHAPTER VII—MISCELLANEOUS RESEARCH PROVISIONS  </td>
 
   <tr>
 
-    <td> 5925.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5925" data-uslm-ref="/us/usc/t7/s5925">5925.</a>  </td>
 
     <td> High-priority research and extension initiatives.  </td>
 
@@ -307,7 +313,7 @@ SUBCHAPTER VII—MISCELLANEOUS RESEARCH PROVISIONS  </td>
 
   <tr>
 
-    <td> 5925a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5925a" data-uslm-ref="/us/usc/t7/s5925a">5925a.</a>  </td>
 
     <td> Nutrient management research and extension initiative.  </td>
 
@@ -315,7 +321,7 @@ SUBCHAPTER VII—MISCELLANEOUS RESEARCH PROVISIONS  </td>
 
   <tr>
 
-    <td> 5925b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5925b" data-uslm-ref="/us/usc/t7/s5925b">5925b.</a>  </td>
 
     <td> Organic agriculture research and extension initiative.  </td>
 
@@ -323,7 +329,7 @@ SUBCHAPTER VII—MISCELLANEOUS RESEARCH PROVISIONS  </td>
 
   <tr>
 
-    <td> 5925c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5925c" data-uslm-ref="/us/usc/t7/s5925c">5925c.</a>  </td>
 
     <td> Organic production and market data initiatives.  </td>
 
@@ -331,7 +337,7 @@ SUBCHAPTER VII—MISCELLANEOUS RESEARCH PROVISIONS  </td>
 
   <tr>
 
-    <td> 5925d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5925d" data-uslm-ref="/us/usc/t7/s5925d">5925d.</a>  </td>
 
     <td> International organic research collaboration.  </td>
 
@@ -339,7 +345,7 @@ SUBCHAPTER VII—MISCELLANEOUS RESEARCH PROVISIONS  </td>
 
   <tr>
 
-    <td> 5925e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5925e" data-uslm-ref="/us/usc/t7/s5925e">5925e.</a>  </td>
 
     <td> Agricultural bioenergy feedstock and energy efficiency research and extension initiative.  </td>
 
@@ -347,7 +353,7 @@ SUBCHAPTER VII—MISCELLANEOUS RESEARCH PROVISIONS  </td>
 
   <tr>
 
-    <td> 5925f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5925f" data-uslm-ref="/us/usc/t7/s5925f">5925f.</a>  </td>
 
     <td> Farm business management.  </td>
 
@@ -355,7 +361,7 @@ SUBCHAPTER VII—MISCELLANEOUS RESEARCH PROVISIONS  </td>
 
   <tr>
 
-    <td> 5926 to 5928.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5926" data-uslm-ref="/us/usc/t7/s5926">5926</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5928" data-uslm-ref="/us/usc/t7/s5928">5928.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -363,7 +369,7 @@ SUBCHAPTER VII—MISCELLANEOUS RESEARCH PROVISIONS  </td>
 
   <tr>
 
-    <td> 5929.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5929" data-uslm-ref="/us/usc/t7/s5929">5929.</a>  </td>
 
     <td> Red meat safety research center.  </td>
 
@@ -371,7 +377,7 @@ SUBCHAPTER VII—MISCELLANEOUS RESEARCH PROVISIONS  </td>
 
   <tr>
 
-    <td> 5930.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5930" data-uslm-ref="/us/usc/t7/s5930">5930.</a>  </td>
 
     <td> Reservation extension agents.  </td>
 
@@ -379,7 +385,7 @@ SUBCHAPTER VII—MISCELLANEOUS RESEARCH PROVISIONS  </td>
 
   <tr>
 
-    <td> 5931, 5932.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5931" data-uslm-ref="/us/usc/t7/s5931">5931</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5932" data-uslm-ref="/us/usc/t7/s5932">5932.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -387,7 +393,7 @@ SUBCHAPTER VII—MISCELLANEOUS RESEARCH PROVISIONS  </td>
 
   <tr>
 
-    <td> 5933.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5933" data-uslm-ref="/us/usc/t7/s5933">5933.</a>  </td>
 
     <td> Assistive technology program for farmers with disabilities.  </td>
 
@@ -395,7 +401,7 @@ SUBCHAPTER VII—MISCELLANEOUS RESEARCH PROVISIONS  </td>
 
   <tr>
 
-    <td> 5934.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5934" data-uslm-ref="/us/usc/t7/s5934">5934.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -403,7 +409,7 @@ SUBCHAPTER VII—MISCELLANEOUS RESEARCH PROVISIONS  </td>
 
   <tr>
 
-    <td> 5935.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5935" data-uslm-ref="/us/usc/t7/s5935">5935.</a>  </td>
 
     <td> Use of remote sensing data and other data to anticipate potential food, feed, and fiber shortages or excesses and to provide timely information to assist farmers with planting decisions.  </td>
 
@@ -411,7 +417,7 @@ SUBCHAPTER VII—MISCELLANEOUS RESEARCH PROVISIONS  </td>
 
   <tr>
 
-    <td> 5936.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5936" data-uslm-ref="/us/usc/t7/s5936">5936.</a>  </td>
 
     <td> Farm and Ranch Stress Assistance Network.  </td>
 
@@ -419,7 +425,7 @@ SUBCHAPTER VII—MISCELLANEOUS RESEARCH PROVISIONS  </td>
 
   <tr>
 
-    <td> 5937.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5937" data-uslm-ref="/us/usc/t7/s5937">5937.</a>  </td>
 
     <td> Natural products research program.  </td>
 
@@ -427,7 +433,7 @@ SUBCHAPTER VII—MISCELLANEOUS RESEARCH PROVISIONS  </td>
 
   <tr>
 
-    <td> 5938.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5938" data-uslm-ref="/us/usc/t7/s5938">5938.</a>  </td>
 
     <td> Agricultural and rural transportation research and education.  </td>
 

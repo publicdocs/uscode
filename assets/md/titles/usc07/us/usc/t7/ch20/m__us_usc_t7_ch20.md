@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 491.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs491" data-uslm-ref="/us/usc/t7/s491">491.</a>  </td>
 
     <td> Destruction or dumping of farm produce received in interstate commerce by commission merchants, etc.; penalty.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 492.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs492" data-uslm-ref="/us/usc/t7/s492">492.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 493.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs493" data-uslm-ref="/us/usc/t7/s493">493.</a>  </td>
 
     <td> Enforcement of provisions; prosecution of cases.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 494.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs494" data-uslm-ref="/us/usc/t7/s494">494.</a>  </td>
 
     <td> Rules and regulations; cooperation with States, etc., officers and employees; expenditures.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 495.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs495" data-uslm-ref="/us/usc/t7/s495">495.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 496.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs496" data-uslm-ref="/us/usc/t7/s496">496.</a>  </td>
 
     <td> Validity of other statutes dealing with same subject.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 497.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs497" data-uslm-ref="/us/usc/t7/s497">497.</a>  </td>
 
     <td> Separability.  </td>
 

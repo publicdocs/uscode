@@ -15,7 +15,7 @@
 
 ## § 8203. Assistance
 
-Subject to [section 8204 of this title][/us/usc/t7/s8204], the assistance provided by the Secretary to eligible orchardists for losses described in [section 8202 of this title][/us/usc/t7/s8202] shall consist of—
+    Subject to [section 8204 of this title][/us/usc/t7/s8204], the assistance provided by the Secretary to eligible orchardists for losses described in [section 8202 of this title][/us/usc/t7/s8202] shall consist of—
 
     (1) reimbursement of 75 percent of the cost of replanting trees lost due to a natural disaster, as determined by the Secretary, in excess of 15 percent mortality (adjusted for normal mortality); or
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t7/ch35/schII/ptB/spti/m__us_usc_t7_s1314b to 1314j.md) | [Next](./../../../../../../..//us/usc/t7/ch35/schII/ptB/spti/m__us_usc_t7_s1316.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1315)
+[Previous](./../../../../../../..//us/usc/t7/ch35/schII/ptB/spti/m__us_usc_t7_s1314a.md) | [Next](./../../../../../../..//us/usc/t7/ch35/schII/ptB/spti/m__us_usc_t7_s1316.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1315)
 
 ## § 1315. Repealed. [Pub. L. 108–357, title VI, § 611(o)][/us/pl/108/357/s611/o], Oct. 22, 2004, [118 Stat. 1523][/us/stat/118/1523]
 
@@ -27,7 +27,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t7/ch35/schII/ptB/spti/m__us_usc_t7_s1314b to 1314j.md) | [Next](./../../../../../../..//us/usc/t7/ch35/schII/ptB/spti/m__us_usc_t7_s1316.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1315)
+[Previous](./../../../../../../..//us/usc/t7/ch35/schII/ptB/spti/m__us_usc_t7_s1314a.md) | [Next](./../../../../../../..//us/usc/t7/ch35/schII/ptB/spti/m__us_usc_t7_s1316.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1315)
 
 ----------
 ----------

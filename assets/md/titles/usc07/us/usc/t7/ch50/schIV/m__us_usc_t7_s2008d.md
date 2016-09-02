@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch50/schIV/m__us_usc_t7_s2008a to 2008c.md) | [Next](./../../../../..//us/usc/t7/ch50/schIV/m__us_usc_t7_s2008e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2008d)
+[Previous](./../../../../..//us/usc/t7/ch50/schIV/m__us_usc_t7_s2008.md) | [Next](./../../../../..//us/usc/t7/ch50/schIV/m__us_usc_t7_s2008e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2008d)
 
 ## § 2008d. Recordkeeping of loans by borrower’s gender
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch50/schIV/m__us_usc_t7_s2008a to 2008c.md) | [Next](./../../../../..//us/usc/t7/ch50/schIV/m__us_usc_t7_s2008e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2008d)
+[Previous](./../../../../..//us/usc/t7/ch50/schIV/m__us_usc_t7_s2008.md) | [Next](./../../../../..//us/usc/t7/ch50/schIV/m__us_usc_t7_s2008e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2008d)
 
 ----------
 ----------

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch62/m__us_usc_t7_s2912 to 2918.md) | [Next](./../../../..//us/usc/t7/ch63/m__us_usc_t7_s3001.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch63)
+[Previous](./../../../..//us/usc/t7/ch62/m__us_usc_t7_s2911.md) | [Next](./../../../..//us/usc/t7/ch63/m__us_usc_t7_s3001.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch63)
 
 ## CHAPTER 63—FARMER–TO–CONSUMER DIRECT MARKETING
 
@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs3001" data-uslm-ref="/us/usc/t7/s3001">3001.</a>  </td>
 
     <td> Congressional statement of purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3002.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs3002" data-uslm-ref="/us/usc/t7/s3002">3002.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3003.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs3003" data-uslm-ref="/us/usc/t7/s3003">3003.</a>  </td>
 
     <td> Survey.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3004.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs3004" data-uslm-ref="/us/usc/t7/s3004">3004.</a>  </td>
 
     <td> Direct marketing assistance within the States.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3005.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs3005" data-uslm-ref="/us/usc/t7/s3005">3005.</a>  </td>
 
     <td> Farmers’ Market Promotion Program.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3006.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs3006" data-uslm-ref="/us/usc/t7/s3006">3006.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3007.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs3007" data-uslm-ref="/us/usc/t7/s3007">3007.</a>  </td>
 
     <td> Seniors farmers’ market nutrition program.  </td>
 
@@ -83,7 +83,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch62/m__us_usc_t7_s2912 to 2918.md) | [Next](./../../../..//us/usc/t7/ch63/m__us_usc_t7_s3001.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch63)
+[Previous](./../../../..//us/usc/t7/ch62/m__us_usc_t7_s2911.md) | [Next](./../../../..//us/usc/t7/ch63/m__us_usc_t7_s3001.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch63)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 3601. Definitions
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (1) The term “Agreement” means the International Sugar Agreement, 1977, signed at New York City on December 9, 1977.
 

@@ -117,7 +117,9 @@
 
 >                 “(i) __In general.—__ 
 
->                 Consideration provided for a lease under this section shall be—         “(I) deposited in a capital asset account to be established by the Secretary; and
+>                 Consideration provided for a lease under this section shall be—
+
+>                          “(I) deposited in a capital asset account to be established by the Secretary; and
 
 >                          “(II) available until expended, without further appropriation, for maintenance, capital revitalization, and improvements of the Department properties and facilities at the Beltsville Agricultural Research Center and National Agricultural Library.
 

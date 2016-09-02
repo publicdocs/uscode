@@ -15,7 +15,7 @@
 
 ## § 4502. Definitions
 
-As used in this subchapter—
+    As used in this subchapter—
 
     (a) the term “Board” means the National Dairy Promotion and Research Board established under [section 4504 of this title][/us/usc/t7/s4504];
 

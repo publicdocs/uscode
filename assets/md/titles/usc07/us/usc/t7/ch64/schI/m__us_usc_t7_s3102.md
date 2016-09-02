@@ -15,7 +15,7 @@
 
 ## § 3102. Additional purposes of agricultural research and extension
 
-The purposes of this chapter are to—
+    The purposes of this chapter are to—
 
     (1) establish firmly the Department of Agriculture as the lead agency in the Federal Government for the food and agricultural sciences, and to emphasize that agricultural research, extension, and teaching are distinct missions of the Department of Agriculture;
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 138.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs138" data-uslm-ref="/us/usc/t7/s138">138.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 138a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs138a" data-uslm-ref="/us/usc/t7/s138a">138a.</a>  </td>
 
     <td> National Laboratory Accreditation Program.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 138b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs138b" data-uslm-ref="/us/usc/t7/s138b">138b.</a>  </td>
 
     <td> Accreditation.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 138c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs138c" data-uslm-ref="/us/usc/t7/s138c">138c.</a>  </td>
 
     <td> Samples.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 138d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs138d" data-uslm-ref="/us/usc/t7/s138d">138d.</a>  </td>
 
     <td> Application.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 138e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs138e" data-uslm-ref="/us/usc/t7/s138e">138e.</a>  </td>
 
     <td> Reporting.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 138f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs138f" data-uslm-ref="/us/usc/t7/s138f">138f.</a>  </td>
 
     <td> Fees.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 138g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs138g" data-uslm-ref="/us/usc/t7/s138g">138g.</a>  </td>
 
     <td> Public disclosure.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 138h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs138h" data-uslm-ref="/us/usc/t7/s138h">138h.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 138i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs138i" data-uslm-ref="/us/usc/t7/s138i">138i.</a>  </td>
 
     <td> Effect of other laws.  </td>
 

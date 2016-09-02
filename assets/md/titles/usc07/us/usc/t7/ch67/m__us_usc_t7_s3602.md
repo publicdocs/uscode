@@ -15,7 +15,7 @@
 
 ## § 3602. Implementation of Agreement
 
-On and after the entering into force of the Agreement with respect to the United States, and for such period before January 1, 1985, as the Agreement remains in force, the President may, in order to carry out and enforce the provisions of the Agreement—
+    On and after the entering into force of the Agreement with respect to the United States, and for such period before January 1, 1985, as the Agreement remains in force, the President may, in order to carry out and enforce the provisions of the Agreement—
 
     (1)
 

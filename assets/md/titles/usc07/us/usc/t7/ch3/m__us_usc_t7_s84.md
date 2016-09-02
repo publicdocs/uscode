@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch3/m__us_usc_t7_s80 to 83.md) | [Next](./../../../..//us/usc/t7/ch3/m__us_usc_t7_s85.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs84)
+[Previous](./../../../..//us/usc/t7/ch3/m__us_usc_t7_s79d.md) | [Next](./../../../..//us/usc/t7/ch3/m__us_usc_t7_s85.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs84)
 
 ## § 84. Licensing of inspectors
 
@@ -103,7 +103,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch3/m__us_usc_t7_s80 to 83.md) | [Next](./../../../..//us/usc/t7/ch3/m__us_usc_t7_s85.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs84)
+[Previous](./../../../..//us/usc/t7/ch3/m__us_usc_t7_s79d.md) | [Next](./../../../..//us/usc/t7/ch3/m__us_usc_t7_s85.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs84)
 
 ----------
 ----------

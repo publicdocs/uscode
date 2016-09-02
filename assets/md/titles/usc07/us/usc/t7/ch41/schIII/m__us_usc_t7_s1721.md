@@ -15,7 +15,7 @@
 
 ## § 1721. General authority
 
-The President shall establish a program under this subchapter to provide agricultural commodities to foreign countries on behalf of the people of the United States to—
+    The President shall establish a program under this subchapter to provide agricultural commodities to foreign countries on behalf of the people of the United States to—
 
     (1) address famine and food crises, and respond to emergency food needs, arising from man-made and natural disasters;
 
@@ -31,7 +31,7 @@ The President shall establish a program under this subchapter to provide agricul
 
     (7) promote economic and nutritional security by increasing educational, training, and other productive activities.
 
-        Such program shall be implemented by the Administrator.
+    Such program shall be implemented by the Administrator.
 
 ([July 10, 1954, ch. 469][/us/act/1954-07-10/ch469], title II, § 201, [68 Stat. 457][/us/stat/68/457]; [May 28, 1956, ch. 327][/us/act/1956-05-28/ch327], title II, § 208(b), [70 Stat. 201][/us/stat/70/201]; [Aug. 3, 1956, ch. 933, § 4][/us/act/1956-08-03/ch933/s4], [70 Stat. 988][/us/stat/70/988]; [Pub. L. 89–808, § 2(C)][/us/pl/89/808/s2/C], Nov. 11, 1966, [80 Stat. 1534][/us/stat/80/1534]; [Pub. L. 94–161, title II, § 208][/us/pl/94/161/s208], Dec. 20, 1975, [89 Stat. 853][/us/stat/89/853]; [Pub. L. 95–88, title II, § 206][/us/pl/95/88/s206], Aug. 3, 1977, [91 Stat. 547][/us/stat/91/547]; [Pub. L. 97–113, title IV, § 404][/us/pl/97/113/s404], Dec. 29, 1981, [95 Stat. 1538][/us/stat/95/1538]; [Pub. L. 99–83, title X, § 1002][/us/pl/99/83/s1002], Aug. 8, 1985, [99 Stat. 270][/us/stat/99/270]; [Pub. L. 99–198, title XI][/us/pl/99/198], §§ 1102, 1103, Dec. 23, 1985, [99 Stat. 1465][/us/stat/99/1465]; [Pub. L. 101–624, title XV, § 1512][/us/pl/101/624/s1512], Nov. 28, 1990, [104 Stat. 3636][/us/stat/104/3636]; [Pub. L. 110–246, title III, § 3007][/us/pl/110/246/s3007], June 18, 2008, [122 Stat. 1823][/us/stat/122/1823].)
 

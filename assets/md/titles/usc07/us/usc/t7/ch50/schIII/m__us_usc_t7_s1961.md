@@ -173,7 +173,7 @@
 
 >     “(2) the reduction in the time limit on subsequent emergency loans under section 330 of the Consolidated Farm and Rural Development Act \[[section 1971 of this title][/us/usc/t7/s1971]\] made by subsection (b)(2) of this section \[amending [section 1971 of this title][/us/usc/t7/s1971]\]
 
->         shall not apply to subsequent emergency loans under section 330 (as in effect on the date preceding the date of enactment of this Act) that are made to such borrowers for the disasters for which the borrowers obtained loans under subtitle C prior to December 16, 1979.”
+>     shall not apply to subsequent emergency loans under section 330 (as in effect on the date preceding the date of enactment of this Act) that are made to such borrowers for the disasters for which the borrowers obtained loans under subtitle C prior to December 16, 1979.”
 
     Amendment by [Pub. L. 96–302][/us/pl/96/302] effective Oct. 1, 1980, see [section 507 of Pub. L. 96–302][/us/pl/96/302/s507], set out as a note under [section 631 of Title 15][/us/usc/t15/s631], Commerce and Trade.
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 951.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs951" data-uslm-ref="/us/usc/t7/s951">951.</a>  </td>
 
     <td> Collection and publication; facts required; submission of report.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 952.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs952" data-uslm-ref="/us/usc/t7/s952">952.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 953.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs953" data-uslm-ref="/us/usc/t7/s953">953.</a>  </td>
 
     <td> Reports; by whom made; penalties.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 954.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs954" data-uslm-ref="/us/usc/t7/s954">954.</a>  </td>
 
     <td> Grades and standards for classification.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 955.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs955" data-uslm-ref="/us/usc/t7/s955">955.</a>  </td>
 
     <td> Limitation on use of statistical information.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 956.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs956" data-uslm-ref="/us/usc/t7/s956">956.</a>  </td>
 
     <td> Rules and regulations; cooperation with departments, etc.; officers and employees; expenses of administration; authorization of appropriations.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 957.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs957" data-uslm-ref="/us/usc/t7/s957">957.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 958.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs958" data-uslm-ref="/us/usc/t7/s958">958.</a>  </td>
 
     <td> Repealed.  </td>
 

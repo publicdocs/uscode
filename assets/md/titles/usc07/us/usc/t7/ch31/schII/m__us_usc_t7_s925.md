@@ -15,7 +15,7 @@
 
 ## § 925. Loan feasibility
 
-The Secretary and the Governor of the telephone bank may not, as a condition of making a telephone loan to an applicant therefor, require the applicant to—
+    The Secretary and the Governor of the telephone bank may not, as a condition of making a telephone loan to an applicant therefor, require the applicant to—
 
     (1) increase the rates charged to the applicant’s customers or subscribers; or
 

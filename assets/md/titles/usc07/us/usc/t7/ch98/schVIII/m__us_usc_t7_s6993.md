@@ -15,7 +15,7 @@
 
 ## § 6993. Transfer of functions
 
-There are transferred to the Division all functions exercised and all administrative appeals pending before the effective date of this subchapter (including all related functions of any officer or employee) of or relating to—
+    There are transferred to the Division all functions exercised and all administrative appeals pending before the effective date of this subchapter (including all related functions of any officer or employee) of or relating to—
 
     (1) the National Appeals Division established by section 1433e(c)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title (as in effect on the day before October 13, 1994);
 

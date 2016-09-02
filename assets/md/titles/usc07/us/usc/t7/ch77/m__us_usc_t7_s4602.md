@@ -15,7 +15,7 @@
 
 ## § 4602. Definitions
 
-As used in this chapter:
+    As used in this chapter:
 
     (1) The term “Committee” means the National Honey Nominations Committee provided for under [section 4606(b) of this title][/us/usc/t7/s4606/b].
 

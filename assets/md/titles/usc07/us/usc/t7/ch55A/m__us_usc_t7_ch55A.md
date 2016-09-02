@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2281.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2281" data-uslm-ref="/us/usc/t7/s2281">2281.</a>  </td>
 
     <td> Congressional declaration of purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2282.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2282" data-uslm-ref="/us/usc/t7/s2282">2282.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2283.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2283" data-uslm-ref="/us/usc/t7/s2283">2283.</a>  </td>
 
     <td> Membership on advisory committees.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2284.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2284" data-uslm-ref="/us/usc/t7/s2284">2284.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2285.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2285" data-uslm-ref="/us/usc/t7/s2285">2285.</a>  </td>
 
     <td> Budget prohibitions.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2286.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2286" data-uslm-ref="/us/usc/t7/s2286">2286.</a>  </td>
 
     <td> Termination of committees.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2287 to 2289.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2287" data-uslm-ref="/us/usc/t7/s2287">2287</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2289" data-uslm-ref="/us/usc/t7/s2289">2289.</a>  </td>
 
     <td> Omitted.  </td>
 

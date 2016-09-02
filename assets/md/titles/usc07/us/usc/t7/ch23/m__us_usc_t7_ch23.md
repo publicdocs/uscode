@@ -11,16 +11,30 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch22/m__us_usc_t7_s521 to 535.md) | [Next](./../../../..//us/usc/t7/ch23/m__us_usc_t7_s541 to 545.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch23)
+[Previous](./../../../..//us/usc/t7/ch22/m__us_usc_t7_ch22.md) | [Next](./../../../..//us/usc/t7/ch24/m__us_usc_t7_ch24.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch23)
 
 ## CHAPTER 23—FOREIGN AGRICULTURAL SERVICE
 
+§§ 541 to 545. __Repealed.__  __[__  __Aug. 13, 1946, ch. 957__  __][/us/act/1946-08-13/ch957]__  __, title XI, § 1131(56),__  __[__  __60 Stat. 1039__  __][/us/stat/60/1039]__ 
+
+    Sections 541 to 545, [act June 5, 1930, ch. 399][/us/act/1930-06-05/ch399], [46 Stat. 497–499][/us/stat/46/497-499], related to Foreign Agricultural Service.
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective three months following Aug. 13, 1946, see section 1141 of [act Aug. 13, 1946, ch. 957][/us/act/1946-08-13/ch957], title XI, [60 Stat. 1040][/us/stat/60/1040].
+
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch22/m__us_usc_t7_s521 to 535.md) | [Next](./../../../..//us/usc/t7/ch23/m__us_usc_t7_s541 to 545.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch23)
+[Previous](./../../../..//us/usc/t7/ch22/m__us_usc_t7_ch22.md) | [Next](./../../../..//us/usc/t7/ch24/m__us_usc_t7_ch24.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch23)
 
 ----------
 ----------
 
+[/us/act/1946-08-13/ch957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch957
+[/us/stat/60/1039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1039
+[/us/act/1930-06-05/ch399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-05%2Fch399
+[/us/stat/46/497-499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F497-499
+[/us/act/1946-08-13/ch957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch957
+[/us/stat/60/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1040
 
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t7/ch35/schII/ptF/spti/m__us_usc_t7_s1381 to 1382.md) | [Next](./../../../../../../..//us/usc/t7/ch35/schII/ptF/spti/m__us_usc_t7_s1383a.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1383)
+[Previous](./../../../../../../..//us/usc/t7/ch35/schII/ptF/spti/m__us_usc_t7_ch35_schII_ptF_spti.md) | [Next](./../../../../../../..//us/usc/t7/ch35/schII/ptF/spti/m__us_usc_t7_s1383a.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1383)
 
 ## § 1383. Insurance of cotton; reconcentration
 
@@ -31,7 +31,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t7/ch35/schII/ptF/spti/m__us_usc_t7_s1381 to 1382.md) | [Next](./../../../../../../..//us/usc/t7/ch35/schII/ptF/spti/m__us_usc_t7_s1383a.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1383)
+[Previous](./../../../../../../..//us/usc/t7/ch35/schII/ptF/spti/m__us_usc_t7_ch35_schII_ptF_spti.md) | [Next](./../../../../../../..//us/usc/t7/ch35/schII/ptF/spti/m__us_usc_t7_s1383a.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1383)
 
 ----------
 ----------

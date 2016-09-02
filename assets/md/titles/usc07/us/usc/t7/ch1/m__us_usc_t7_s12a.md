@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch1/m__us_usc_t7_s12–1 to 12–3.md) | [Next](./../../../..//us/usc/t7/ch1/m__us_usc_t7_s12b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs12a)
+[Previous](./../../../..//us/usc/t7/ch1/m__us_usc_t7_s12.md) | [Next](./../../../..//us/usc/t7/ch1/m__us_usc_t7_s12b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs12a)
 
 ## § 12a. Registration of commodity dealers and associated persons; regulation of registered entities
 
-The Commission is authorized—
+    The Commission is authorized—
 
     (1) to register futures commission merchants, associated persons of futures commission merchants, introducing brokers, associated persons of introducing brokers, commodity trading advisors, associated persons of commodity trading advisors, commodity pool operators, associated persons of commodity pool operators, floor brokers, and floor traders upon application in accordance with rules and regulations and in the form and manner to be prescribed by the Commission, which may require the applicant, and such persons associated with the applicant as the Commission may specify, to be fingerprinted and to submit, or cause to be submitted, such fingerprints to the Attorney General for identification and appropriate processing, and in connection therewith to fix and establish from time to time reasonable fees and charges for registrations and renewals thereof: Provided, That notwithstanding any provision of this chapter, the Commission may grant a temporary license to any applicant for registration with the Commission pursuant to such rules, regulations, or orders as the Commission may adopt, except that the term of any such temporary license shall not exceed six months from the date of its issuance;
 
@@ -279,7 +279,7 @@ The Commission is authorized—
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch1/m__us_usc_t7_s12–1 to 12–3.md) | [Next](./../../../..//us/usc/t7/ch1/m__us_usc_t7_s12b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs12a)
+[Previous](./../../../..//us/usc/t7/ch1/m__us_usc_t7_s12.md) | [Next](./../../../..//us/usc/t7/ch1/m__us_usc_t7_s12b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs12a)
 
 ----------
 ----------

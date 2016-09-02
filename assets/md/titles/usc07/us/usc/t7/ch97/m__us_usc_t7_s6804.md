@@ -101,9 +101,13 @@
 
                     As used in this clause:
 
-                        (aa) Floral supplier    The term “floral supplier” means a person engaged in acquiring cut flowers or cut greens to be manufactured into floral articles or otherwise processed for resale.
+                        (aa) __Floral supplier__ 
 
-                        (bb) Floral wholesale jobber    The term “floral wholesale jobber” means a person who conducts a commission or other wholesale business in buying and selling cut flowers or cut greens.
+                            The term “floral supplier” means a person engaged in acquiring cut flowers or cut greens to be manufactured into floral articles or otherwise processed for resale.
+
+                        (bb) __Floral wholesale jobber__ 
+
+                            The term “floral wholesale jobber” means a person who conducts a commission or other wholesale business in buying and selling cut flowers or cut greens.
 
             (C) __Distribution of qualified wholesale handler appointments__ 
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch50/schX/m__us_usc_t7_s2009ee to 2009ee–3.md) | [Next](./../../../..//us/usc/t7/ch51/m__us_usc_t7_s2011.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch51)
+[Previous](./../../../..//us/usc/t7/ch50/schX/m__us_usc_t7_ch50_schX.md) | [Next](./../../../..//us/usc/t7/ch51/m__us_usc_t7_s2011.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch51)
 
 ## CHAPTER 51—SUPPLEMENTAL NUTRITION ASSISTANCE PROGRAM
 
@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2011.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2011" data-uslm-ref="/us/usc/t7/s2011">2011.</a>  </td>
 
     <td> Congressional declaration of policy.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2012.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2012" data-uslm-ref="/us/usc/t7/s2012">2012.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2012a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2012a" data-uslm-ref="/us/usc/t7/s2012a">2012a.</a>  </td>
 
     <td> Publicly operated community health centers.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2013.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2013" data-uslm-ref="/us/usc/t7/s2013">2013.</a>  </td>
 
     <td> Establishment of supplemental nutrition assistance program.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2014.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2014" data-uslm-ref="/us/usc/t7/s2014">2014.</a>  </td>
 
     <td> Eligible households.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2015.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2015" data-uslm-ref="/us/usc/t7/s2015">2015.</a>  </td>
 
     <td> Eligibility disqualifications.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2016.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2016" data-uslm-ref="/us/usc/t7/s2016">2016.</a>  </td>
 
     <td> Issuance and use of program benefits.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2017.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2017" data-uslm-ref="/us/usc/t7/s2017">2017.</a>  </td>
 
     <td> Value of allotment.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2018.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2018" data-uslm-ref="/us/usc/t7/s2018">2018.</a>  </td>
 
     <td> Approval of retail food stores and wholesale food concerns.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2019.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2019" data-uslm-ref="/us/usc/t7/s2019">2019.</a>  </td>
 
     <td> Redemption of program benefits.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2020.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2020" data-uslm-ref="/us/usc/t7/s2020">2020.</a>  </td>
 
     <td> Administration.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 2021.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2021" data-uslm-ref="/us/usc/t7/s2021">2021.</a>  </td>
 
     <td> Civil penalties and disqualification of retail food stores and wholesale food concerns.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 2022.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2022" data-uslm-ref="/us/usc/t7/s2022">2022.</a>  </td>
 
     <td> Disposition of claims.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 2023.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2023" data-uslm-ref="/us/usc/t7/s2023">2023.</a>  </td>
 
     <td> Administrative and judicial review; restoration of rights.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 2024.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2024" data-uslm-ref="/us/usc/t7/s2024">2024.</a>  </td>
 
     <td> Violations and enforcement.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 2025.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2025" data-uslm-ref="/us/usc/t7/s2025">2025.</a>  </td>
 
     <td> Administrative cost-sharing and quality control.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 2026.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2026" data-uslm-ref="/us/usc/t7/s2026">2026.</a>  </td>
 
     <td> Research, demonstration, and evaluations.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 2027.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2027" data-uslm-ref="/us/usc/t7/s2027">2027.</a>  </td>
 
     <td> Appropriations and allotments.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 2028.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2028" data-uslm-ref="/us/usc/t7/s2028">2028.</a>  </td>
 
     <td> Consolidated block grants for Puerto Rico and American Samoa.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 2029.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2029" data-uslm-ref="/us/usc/t7/s2029">2029.</a>  </td>
 
     <td> Workfare.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 2030.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2030" data-uslm-ref="/us/usc/t7/s2030">2030.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 2031.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2031" data-uslm-ref="/us/usc/t7/s2031">2031.</a>  </td>
 
     <td> Minnesota Family Investment Project.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 2032.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2032" data-uslm-ref="/us/usc/t7/s2032">2032.</a>  </td>
 
     <td> Automated data processing and information retrieval systems.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 2033.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2033" data-uslm-ref="/us/usc/t7/s2033">2033.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 2034.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2034" data-uslm-ref="/us/usc/t7/s2034">2034.</a>  </td>
 
     <td> Assistance for community food projects.  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> 2035.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2035" data-uslm-ref="/us/usc/t7/s2035">2035.</a>  </td>
 
     <td> Simplified supplemental nutrition assistance program.  </td>
 
@@ -233,7 +233,7 @@
 
   <tr>
 
-    <td> 2036.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2036" data-uslm-ref="/us/usc/t7/s2036">2036.</a>  </td>
 
     <td> Availability of commodities for emergency food assistance program.  </td>
 
@@ -241,7 +241,7 @@
 
   <tr>
 
-    <td> 2036a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2036a" data-uslm-ref="/us/usc/t7/s2036a">2036a.</a>  </td>
 
     <td> Nutrition education and obesity prevention grant program.  </td>
 
@@ -251,7 +251,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch50/schX/m__us_usc_t7_s2009ee to 2009ee–3.md) | [Next](./../../../..//us/usc/t7/ch51/m__us_usc_t7_s2011.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch51)
+[Previous](./../../../..//us/usc/t7/ch50/schX/m__us_usc_t7_ch50_schX.md) | [Next](./../../../..//us/usc/t7/ch51/m__us_usc_t7_s2011.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch51)
 
 ----------
 ----------

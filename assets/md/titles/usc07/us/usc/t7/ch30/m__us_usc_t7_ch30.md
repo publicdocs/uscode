@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch29/m__us_usc_t7_s801 to 833.md) | [Next](./../../../..//us/usc/t7/ch30/m__us_usc_t7_s851.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch30)
+[Previous](./../../../..//us/usc/t7/ch29/m__us_usc_t7_ch29.md) | [Next](./../../../..//us/usc/t7/ch30/m__us_usc_t7_s851.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch30)
 
 ## CHAPTER 30—ANTI-HOG-CHOLERA SERUM AND HOG-CHOLERA VIRUS
 
@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 851.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs851" data-uslm-ref="/us/usc/t7/s851">851.</a>  </td>
 
     <td> Declaration of policy.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 852.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs852" data-uslm-ref="/us/usc/t7/s852">852.</a>  </td>
 
     <td> Marketing agreements with handlers; exemption from antitrust laws.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 853.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs853" data-uslm-ref="/us/usc/t7/s853">853.</a>  </td>
 
     <td> Terms and conditions of marketing agreements.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 854.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs854" data-uslm-ref="/us/usc/t7/s854">854.</a>  </td>
 
     <td> Order regulating handlers; issuance and terms.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 855.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs855" data-uslm-ref="/us/usc/t7/s855">855.</a>  </td>
 
     <td> Applicability of other laws.  </td>
 
@@ -67,7 +67,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch29/m__us_usc_t7_s801 to 833.md) | [Next](./../../../..//us/usc/t7/ch30/m__us_usc_t7_s851.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch30)
+[Previous](./../../../..//us/usc/t7/ch29/m__us_usc_t7_ch29.md) | [Next](./../../../..//us/usc/t7/ch30/m__us_usc_t7_s851.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch30)
 
 ----------
 ----------

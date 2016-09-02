@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch33/schII/m__us_usc_t7_s1008, 1009.md) | [Next](./../../../../..//us/usc/t7/ch33/schIII/m__us_usc_t7_s1010.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch33%2FschIII)
+[Previous](./../../../../..//us/usc/t7/ch33/schII/m__us_usc_t7_s1007a.md) | [Next](./../../../../..//us/usc/t7/ch33/schIII/m__us_usc_t7_s1010.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch33%2FschIII)
 
 ### SUBCHAPTER III—LAND CONSERVATION AND LAND UTILIZATION
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch33/schII/m__us_usc_t7_s1008, 1009.md) | [Next](./../../../../..//us/usc/t7/ch33/schIII/m__us_usc_t7_s1010.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch33%2FschIII)
+[Previous](./../../../../..//us/usc/t7/ch33/schII/m__us_usc_t7_s1007a.md) | [Next](./../../../../..//us/usc/t7/ch33/schIII/m__us_usc_t7_s1010.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch33%2FschIII)
 
 ----------
 ----------

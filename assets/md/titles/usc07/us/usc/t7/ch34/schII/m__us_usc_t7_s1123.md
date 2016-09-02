@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch34/schII/m__us_usc_t7_s1111 to 1122.md) | [Next](./../../../../..//us/usc/t7/ch34/schIII/m__us_usc_t7_ch34_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1123)
+[Previous](./../../../../..//us/usc/t7/ch34/schII/m__us_usc_t7_ch34_schII.md) | [Next](./../../../../..//us/usc/t7/ch34/schIII/m__us_usc_t7_ch34_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1123)
 
 ## § 1123. Repealed. [Pub. L. 89–331, § 10][/us/pl/89/331/s10], Nov. 8, 1965, [79 Stat. 1278][/us/stat/79/1278]
 
@@ -23,7 +23,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch34/schII/m__us_usc_t7_s1111 to 1122.md) | [Next](./../../../../..//us/usc/t7/ch34/schIII/m__us_usc_t7_ch34_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1123)
+[Previous](./../../../../..//us/usc/t7/ch34/schII/m__us_usc_t7_ch34_schII.md) | [Next](./../../../../..//us/usc/t7/ch34/schIII/m__us_usc_t7_ch34_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1123)
 
 ----------
 ----------

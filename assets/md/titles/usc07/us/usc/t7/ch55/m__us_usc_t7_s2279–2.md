@@ -15,7 +15,7 @@
 
 ## § 2279–2. Report of civil rights complaints, resolutions, and actions
 
-Each year, the Secretary shall—
+    Each year, the Secretary shall—
 
     (1)
 

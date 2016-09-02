@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t7/ch35/schII/ptB/sptii/m__us_usc_t7_s1327 to 1329.md) | [Next](./../../../../../../..//us/usc/t7/ch35/schII/ptB/sptii/m__us_usc_t7_s1330.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1329a)
+[Previous](./../../../../../../..//us/usc/t7/ch35/schII/ptB/sptii/m__us_usc_t7_s1326.md) | [Next](./../../../../../../..//us/usc/t7/ch35/schII/ptB/sptii/m__us_usc_t7_s1330.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1329a)
 
 ## § 1329a. Discontinuance of acreage allotments on corn
 
@@ -31,7 +31,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t7/ch35/schII/ptB/sptii/m__us_usc_t7_s1327 to 1329.md) | [Next](./../../../../../../..//us/usc/t7/ch35/schII/ptB/sptii/m__us_usc_t7_s1330.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1329a)
+[Previous](./../../../../../../..//us/usc/t7/ch35/schII/ptB/sptii/m__us_usc_t7_s1326.md) | [Next](./../../../../../../..//us/usc/t7/ch35/schII/ptB/sptii/m__us_usc_t7_s1330.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1329a)
 
 ----------
 ----------

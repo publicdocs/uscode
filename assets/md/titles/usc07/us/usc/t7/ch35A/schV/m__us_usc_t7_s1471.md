@@ -15,7 +15,7 @@
 
 ## § 1471. Definitions
 
-As used in this subchapter:
+    As used in this subchapter:
 
     (1)
 

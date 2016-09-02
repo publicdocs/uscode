@@ -15,7 +15,7 @@
 
 ## § 1981b. Farm loan interest rates
 
-Any loan for farm ownership purposes under subchapter I of this chapter, farm operating purposes under subchapter II of this chapter, or disaster emergency purposes under subchapter III of this chapter, other than a guaranteed loan, that is deferred, consolidated, rescheduled, or reamortized under this chapter shall, notwithstanding any other provision of this chapter, bear interest on the balance of the original loan and for the term of the original loan at a rate that is the lowest of—
+    Any loan for farm ownership purposes under subchapter I of this chapter, farm operating purposes under subchapter II of this chapter, or disaster emergency purposes under subchapter III of this chapter, other than a guaranteed loan, that is deferred, consolidated, rescheduled, or reamortized under this chapter shall, notwithstanding any other provision of this chapter, bear interest on the balance of the original loan and for the term of the original loan at a rate that is the lowest of—
 
     (1) the rate of interest on the original loan;
 

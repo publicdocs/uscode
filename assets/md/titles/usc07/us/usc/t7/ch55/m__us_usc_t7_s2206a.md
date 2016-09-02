@@ -15,7 +15,7 @@
 
 ## § 2206a. Conveyance of excess Federal personal property
 
-Notwithstanding any other provision of law, the Secretary of Agriculture may—
+    Notwithstanding any other provision of law, the Secretary of Agriculture may—
 
     (1)
 

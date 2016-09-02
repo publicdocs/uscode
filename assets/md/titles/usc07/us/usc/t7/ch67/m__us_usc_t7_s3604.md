@@ -15,7 +15,7 @@
 
 ## § 3604. Criminal offenses
 
-Any person who—
+    Any person who—
 
     (1) knowingly fails to keep any information, or to submit any report, required under [section 3602 of this title][/us/usc/t7/s3602];
 
@@ -23,7 +23,7 @@ Any person who—
 
     (3) knowingly violates any rule or regulation issued to carry out this chapter;
 
-        is guilty of an offense and upon conviction thereof is punishable by a fine of not more than $1,000.
+    is guilty of an offense and upon conviction thereof is punishable by a fine of not more than $1,000.
 
 ([Pub. L. 96–236, § 4][/us/pl/96/236/s4], Apr. 22, 1980, [94 Stat. 337][/us/stat/94/337].)
 

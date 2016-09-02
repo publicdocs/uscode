@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 950aaa.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs950aaa" data-uslm-ref="/us/usc/t7/s950aaa">950aaa.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 950aaa–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs950aaa%E2%80%931" data-uslm-ref="/us/usc/t7/s950aaa–1">950aaa–1.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 950aaa–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs950aaa%E2%80%932" data-uslm-ref="/us/usc/t7/s950aaa–2">950aaa–2.</a>  </td>
 
     <td> Telemedicine and distance learning services in rural areas.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 950aaa–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs950aaa%E2%80%933" data-uslm-ref="/us/usc/t7/s950aaa–3">950aaa–3.</a>  </td>
 
     <td> Administration.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 950aaa–4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs950aaa%E2%80%934" data-uslm-ref="/us/usc/t7/s950aaa–4">950aaa–4.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 950aaa–5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs950aaa%E2%80%935" data-uslm-ref="/us/usc/t7/s950aaa–5">950aaa–5.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -75,7 +75,7 @@
 
  __Termination of Chapter__ 
 
-For termination of chapter by [section 1(b) of Pub. L. 102–551][/us/pl/102/551/s1/b], see note set out under [section 950aaa of this title][/us/usc/t7/s950aaa].
+    For termination of chapter by [section 1(b) of Pub. L. 102–551][/us/pl/102/551/s1/b], see note set out under [section 950aaa of this title][/us/usc/t7/s950aaa].
 
 ----------
 

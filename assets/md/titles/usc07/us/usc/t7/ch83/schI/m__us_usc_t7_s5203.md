@@ -15,7 +15,7 @@
 
 ## § 5203. Purpose
 
-It is the purpose of this chapter—
+    It is the purpose of this chapter—
 
     (1) to increase the effectiveness of the Department of Agriculture in agricultural trade policy formulation and implementation and in assisting United States agricultural producers to participate in international agricultural trade, by strengthening the operations of the Department of Agriculture; and
 

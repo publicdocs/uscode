@@ -15,7 +15,7 @@
 
 ## § 1308–3. Foreign persons made ineligible for program benefits
 
-Notwithstanding any other provision of law:
+    Notwithstanding any other provision of law:
 
     (a) __In general__ 
 

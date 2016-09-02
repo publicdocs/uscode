@@ -15,7 +15,7 @@
 
 ## § 7901. Definitions
 
-In this chapter (other than subchapter III of this chapter):
+    In this chapter (other than subchapter III of this chapter):
 
     (1) __Agricultural Act of 1949__ 
 

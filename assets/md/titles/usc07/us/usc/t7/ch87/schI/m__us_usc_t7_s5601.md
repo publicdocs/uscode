@@ -15,7 +15,7 @@
 
 ## § 5601. Purpose
 
-It is the purpose of this chapter to increase the profitability of farming and to increase opportunities for United States farms and agricultural enterprises by—
+    It is the purpose of this chapter to increase the profitability of farming and to increase opportunities for United States farms and agricultural enterprises by—
 
     (1) increasing the effectiveness of the Department of Agriculture in agricultural export policy formulation and implementation;
 

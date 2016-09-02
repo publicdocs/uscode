@@ -15,425 +15,425 @@
 
 ## § 1441. Price support levels
 
-The Secretary of Agriculture (hereinafter called the “Secretary”) is authorized and directed to make available through loans, purchases, or other operations, price support to cooperators for any crop of any basic agricultural commodity, if producers have not disapproved marketing quotas for such crop, at a level not in excess of 90 per centum of the parity price of the commodity nor less than the level provided in subsections (a) to (c) of this section as follows:
+    The Secretary of Agriculture (hereinafter called the “Secretary”) is authorized and directed to make available through loans, purchases, or other operations, price support to cooperators for any crop of any basic agricultural commodity, if producers have not disapproved marketing quotas for such crop, at a level not in excess of 90 per centum of the parity price of the commodity nor less than the level provided in subsections (a) to (c) of this section as follows:
 
 <table>
 
-  <tr>
+      <tr>
 
-    <td> 
+        <td> 
 
-(a) For corn and wheat, if the supply percentage as of the beginning of the marketing year is:  </td>
+    (a) For corn and wheat, if the supply percentage as of the beginning of the marketing year is:  </td>
 
-    <td> 
+        <td> 
 
-The level of support shall be not less than the following percentage of the parity price:  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-Not more than 102  </td>
-
-    <td> 
-
-90  </td>
+    The level of support shall be not less than the following percentage of the parity price:  </td>
 
   </tr>
 
-  <tr>
+      <tr>
 
-    <td> 
+        <td> 
 
-More than 102 but not more than 104  </td>
+    Not more than 102  </td>
 
-    <td> 
+        <td> 
 
-89  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-More than 104 but not more than 106  </td>
-
-    <td> 
-
-88  </td>
+    90  </td>
 
   </tr>
 
-  <tr>
+      <tr>
 
-    <td> 
+        <td> 
 
-More than 106 but not more than 108  </td>
+    More than 102 but not more than 104  </td>
 
-    <td> 
+        <td> 
 
-87  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-More than 108 but not more than 110  </td>
-
-    <td> 
-
-86  </td>
+    89  </td>
 
   </tr>
 
-  <tr>
+      <tr>
 
-    <td> 
+        <td> 
 
-More than 110 but not more than 112  </td>
+    More than 104 but not more than 106  </td>
 
-    <td> 
+        <td> 
 
-85  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-More than 112 but not more than 114  </td>
-
-    <td> 
-
-84  </td>
+    88  </td>
 
   </tr>
 
-  <tr>
+      <tr>
 
-    <td> 
+        <td> 
 
-More than 114 but not more than 116  </td>
+    More than 106 but not more than 108  </td>
 
-    <td> 
+        <td> 
 
-83  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-More than 116 but not more than 118  </td>
-
-    <td> 
-
-82  </td>
+    87  </td>
 
   </tr>
 
-  <tr>
+      <tr>
 
-    <td> 
+        <td> 
 
-More than 118 but not more than 120  </td>
+    More than 108 but not more than 110  </td>
 
-    <td> 
+        <td> 
 
-81  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-More than 120 but not more than 122  </td>
-
-    <td> 
-
-80  </td>
+    86  </td>
 
   </tr>
 
-  <tr>
+      <tr>
 
-    <td> 
+        <td> 
 
-More than 122 but not more than 124  </td>
+    More than 110 but not more than 112  </td>
 
-    <td> 
+        <td> 
 
-79  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-More than 124 but not more than 126  </td>
-
-    <td> 
-
-78  </td>
+    85  </td>
 
   </tr>
 
-  <tr>
+      <tr>
 
-    <td> 
+        <td> 
 
-More than 126 but not more than 128  </td>
+    More than 112 but not more than 114  </td>
 
-    <td> 
+        <td> 
 
-77  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-More than 128 but not more than 130  </td>
-
-    <td> 
-
-76  </td>
+    84  </td>
 
   </tr>
 
-  <tr>
+      <tr>
 
-    <td> 
+        <td> 
 
-More than 130  </td>
+    More than 114 but not more than 116  </td>
 
-    <td> 
+        <td> 
 
-75  </td>
+    83  </td>
 
   </tr>
 
-</table>
+      <tr>
 
-For rice of the 1959 and 1960 crops, the level of support shall be not less than 75 per centum of the parity price. For rice of the 1961 crop the level of support shall be not less than 70 per centum of the parity price. For the 1962 and subsequent crops of rice the level of support shall be not less than 65 per centum of the parity price.
+        <td> 
+
+    More than 116 but not more than 118  </td>
+
+        <td> 
+
+    82  </td>
+
+  </tr>
+
+      <tr>
+
+        <td> 
+
+    More than 118 but not more than 120  </td>
+
+        <td> 
+
+    81  </td>
+
+  </tr>
+
+      <tr>
+
+        <td> 
+
+    More than 120 but not more than 122  </td>
+
+        <td> 
+
+    80  </td>
+
+  </tr>
+
+      <tr>
+
+        <td> 
+
+    More than 122 but not more than 124  </td>
+
+        <td> 
+
+    79  </td>
+
+  </tr>
+
+      <tr>
+
+        <td> 
+
+    More than 124 but not more than 126  </td>
+
+        <td> 
+
+    78  </td>
+
+  </tr>
+
+      <tr>
+
+        <td> 
+
+    More than 126 but not more than 128  </td>
+
+        <td> 
+
+    77  </td>
+
+  </tr>
+
+      <tr>
+
+        <td> 
+
+    More than 128 but not more than 130  </td>
+
+        <td> 
+
+    76  </td>
+
+  </tr>
+
+      <tr>
+
+        <td> 
+
+    More than 130  </td>
+
+        <td> 
+
+    75  </td>
+
+  </tr>
+
+    </table>
+
+    For rice of the 1959 and 1960 crops, the level of support shall be not less than 75 per centum of the parity price. For rice of the 1961 crop the level of support shall be not less than 70 per centum of the parity price. For the 1962 and subsequent crops of rice the level of support shall be not less than 65 per centum of the parity price.
 
 <table>
 
-  <tr>
+      <tr>
 
-    <td> 
+        <td> 
 
-(b) For cotton, if the supply percentage as of the beginning of the marketing year is:  </td>
+    (b) For cotton, if the supply percentage as of the beginning of the marketing year is:  </td>
 
-    <td> 
+        <td> 
 
-The level of support shall be not less than the following percentage of the parity price:  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-Not more than 108  </td>
-
-    <td> 
-
-90  </td>
+    The level of support shall be not less than the following percentage of the parity price:  </td>
 
   </tr>
 
-  <tr>
+      <tr>
 
-    <td> 
+        <td> 
 
-More than 108 but not more than 110  </td>
+    Not more than 108  </td>
 
-    <td> 
+        <td> 
 
-89  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-More than 110 but not more than 112  </td>
-
-    <td> 
-
-88  </td>
+    90  </td>
 
   </tr>
 
-  <tr>
+      <tr>
 
-    <td> 
+        <td> 
 
-More than 112 but not more than 114  </td>
+    More than 108 but not more than 110  </td>
 
-    <td> 
+        <td> 
 
-87  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-More than 114 but not more than 116  </td>
-
-    <td> 
-
-86  </td>
+    89  </td>
 
   </tr>
 
-  <tr>
+      <tr>
 
-    <td> 
+        <td> 
 
-More than 116 but not more than 118  </td>
+    More than 110 but not more than 112  </td>
 
-    <td> 
+        <td> 
 
-85  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-More than 118 but not more than 120  </td>
-
-    <td> 
-
-84  </td>
+    88  </td>
 
   </tr>
 
-  <tr>
+      <tr>
 
-    <td> 
+        <td> 
 
-More than 120 but not more than 122  </td>
+    More than 112 but not more than 114  </td>
 
-    <td> 
+        <td> 
 
-83  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-More than 122 but not more than 124  </td>
-
-    <td> 
-
-82  </td>
+    87  </td>
 
   </tr>
 
-  <tr>
+      <tr>
 
-    <td> 
+        <td> 
 
-More than 124 but not more than 125  </td>
+    More than 114 but not more than 116  </td>
 
-    <td> 
+        <td> 
 
-81  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-More than 125 but not more than 126  </td>
-
-    <td> 
-
-80  </td>
+    86  </td>
 
   </tr>
 
-  <tr>
+      <tr>
 
-    <td> 
+        <td> 
 
-More than 126 but not more than 127  </td>
+    More than 116 but not more than 118  </td>
 
-    <td> 
+        <td> 
 
-79  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-More than 127 but not more than 128  </td>
-
-    <td> 
-
-78  </td>
+    85  </td>
 
   </tr>
 
-  <tr>
+      <tr>
 
-    <td> 
+        <td> 
 
-More than 128 but not more than 129  </td>
+    More than 118 but not more than 120  </td>
 
-    <td> 
+        <td> 
 
-77  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-More than 129 but not more than 130  </td>
-
-    <td> 
-
-76  </td>
+    84  </td>
 
   </tr>
 
-  <tr>
+      <tr>
 
-    <td> 
+        <td> 
 
-More than 130  </td>
+    More than 120 but not more than 122  </td>
 
-    <td> 
+        <td> 
 
-75  </td>
+    83  </td>
 
   </tr>
 
-</table>
+      <tr>
+
+        <td> 
+
+    More than 122 but not more than 124  </td>
+
+        <td> 
+
+    82  </td>
+
+  </tr>
+
+      <tr>
+
+        <td> 
+
+    More than 124 but not more than 125  </td>
+
+        <td> 
+
+    81  </td>
+
+  </tr>
+
+      <tr>
+
+        <td> 
+
+    More than 125 but not more than 126  </td>
+
+        <td> 
+
+    80  </td>
+
+  </tr>
+
+      <tr>
+
+        <td> 
+
+    More than 126 but not more than 127  </td>
+
+        <td> 
+
+    79  </td>
+
+  </tr>
+
+      <tr>
+
+        <td> 
+
+    More than 127 but not more than 128  </td>
+
+        <td> 
+
+    78  </td>
+
+  </tr>
+
+      <tr>
+
+        <td> 
+
+    More than 128 but not more than 129  </td>
+
+        <td> 
+
+    77  </td>
+
+  </tr>
+
+      <tr>
+
+        <td> 
+
+    More than 129 but not more than 130  </td>
+
+        <td> 
+
+    76  </td>
+
+  </tr>
+
+      <tr>
+
+        <td> 
+
+    More than 130  </td>
+
+        <td> 
+
+    75  </td>
+
+  </tr>
+
+    </table>
 
     (c)
 

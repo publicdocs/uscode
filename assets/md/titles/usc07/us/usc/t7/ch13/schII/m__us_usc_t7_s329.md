@@ -15,7 +15,7 @@
 
 ## § 329. Additional appropriation for agricultural colleges
 
-In order to provide for the more complete endowment and support of the colleges in the several States, Puerto Rico, the Virgin Islands, Guam, and the Northern Mariana Islands entitled to the benefits of this subchapter and subchapter I of this title, there are authorized to be appropriated annually, out of any money in the Treasury not otherwise appropriated, the following amounts:
+    In order to provide for the more complete endowment and support of the colleges in the several States, Puerto Rico, the Virgin Islands, Guam, and the Northern Mariana Islands entitled to the benefits of this subchapter and subchapter I of this title, there are authorized to be appropriated annually, out of any money in the Treasury not otherwise appropriated, the following amounts:
 
     (a) For the first fiscal year beginning after the date of enactment of this Act, and for each fiscal year thereafter, $8,250,000; and
 

@@ -15,7 +15,7 @@
 
 ## § 928. Prompt processing of telephone loans
 
-Within ten days after the end of the second and fourth calendar quarters of each year, the Secretary shall submit to the Committee on Agriculture and the Committee on Appropriations of the House of Representatives, and to the Committee on Agriculture, Nutrition, and Forestry and the Committee on Appropriations of the Senate, a report—
+    Within ten days after the end of the second and fourth calendar quarters of each year, the Secretary shall submit to the Committee on Agriculture and the Committee on Appropriations of the House of Representatives, and to the Committee on Agriculture, Nutrition, and Forestry and the Committee on Appropriations of the Senate, a report—
 
     (1) identifying each completed application for a telephone loan under [section 935 of this title][/us/usc/t7/s935], a guarantee of a telephone loan under [section 936 of this title][/us/usc/t7/s936], or a loan under [section 948 of this title][/us/usc/t7/s948], that has not been finally acted upon within ninety days after the date the completed application is submitted; and
 

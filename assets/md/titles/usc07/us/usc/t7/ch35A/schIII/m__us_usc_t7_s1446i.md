@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch35A/schIII/m__us_usc_t7_s1446f to 1446h.md) | [Next](./../../../../..//us/usc/t7/ch35A/schIII/m__us_usc_t7_s1447.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1446i)
+[Previous](./../../../../..//us/usc/t7/ch35A/schIII/m__us_usc_t7_s1446e–1.md) | [Next](./../../../../..//us/usc/t7/ch35A/schIII/m__us_usc_t7_s1447.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1446i)
 
 ## § 1446i. Repealed. [Pub. L. 103–354, title I, § 119(a)(6)][/us/pl/103/354/s119/a/6], Oct. 13, 1994, [108 Stat. 3208][/us/stat/108/3208]
 
@@ -23,7 +23,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch35A/schIII/m__us_usc_t7_s1446f to 1446h.md) | [Next](./../../../../..//us/usc/t7/ch35A/schIII/m__us_usc_t7_s1447.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1446i)
+[Previous](./../../../../..//us/usc/t7/ch35A/schIII/m__us_usc_t7_s1446e–1.md) | [Next](./../../../../..//us/usc/t7/ch35A/schIII/m__us_usc_t7_s1447.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1446i)
 
 ----------
 ----------

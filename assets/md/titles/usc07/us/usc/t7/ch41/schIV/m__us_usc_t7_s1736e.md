@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch41/schIV/m__us_usc_t7_s1736c, 1736d.md) | [Next](./../../../../..//us/usc/t7/ch41/schIV/m__us_usc_t7_s1736f.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1736e)
+[Previous](./../../../../..//us/usc/t7/ch41/schIV/m__us_usc_t7_s1736b.md) | [Next](./../../../../..//us/usc/t7/ch41/schIV/m__us_usc_t7_s1736f.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1736e)
 
 ## § 1736e. Debt forgiveness
 
@@ -81,7 +81,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch41/schIV/m__us_usc_t7_s1736c, 1736d.md) | [Next](./../../../../..//us/usc/t7/ch41/schIV/m__us_usc_t7_s1736f.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1736e)
+[Previous](./../../../../..//us/usc/t7/ch41/schIV/m__us_usc_t7_s1736b.md) | [Next](./../../../../..//us/usc/t7/ch41/schIV/m__us_usc_t7_s1736f.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1736e)
 
 ----------
 ----------

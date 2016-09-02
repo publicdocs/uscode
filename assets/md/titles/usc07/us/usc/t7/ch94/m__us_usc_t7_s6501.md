@@ -15,7 +15,7 @@
 
 ## § 6501. Purposes
 
-It is the purpose of this chapter—
+    It is the purpose of this chapter—
 
     (1) to establish national standards governing the marketing of certain agricultural products as organically produced products;
 

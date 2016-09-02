@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch17/m__us_usc_t7_s427a to 427h.md) | [Next](./../../../..//us/usc/t7/ch17/m__us_usc_t7_s427j.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs427i)
+[Previous](./../../../..//us/usc/t7/ch17/m__us_usc_t7_s427.md) | [Next](./../../../..//us/usc/t7/ch17/m__us_usc_t7_s427j.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs427i)
 
 ## § 427i. Agricultural research; authorization of additional appropriations; administrative expenses; availability of special research fund
 
@@ -77,7 +77,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch17/m__us_usc_t7_s427a to 427h.md) | [Next](./../../../..//us/usc/t7/ch17/m__us_usc_t7_s427j.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs427i)
+[Previous](./../../../..//us/usc/t7/ch17/m__us_usc_t7_s427.md) | [Next](./../../../..//us/usc/t7/ch17/m__us_usc_t7_s427j.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs427i)
 
 ----------
 ----------

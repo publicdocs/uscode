@@ -15,7 +15,7 @@
 
 ## § 1622. Duties of Secretary relating to agricultural products
 
-The Secretary of Agriculture is directed and authorized:
+    The Secretary of Agriculture is directed and authorized:
 
     (a) __Determination of methods of processing, packaging, marketing, etc.; publication of results__ 
 

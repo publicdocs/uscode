@@ -15,7 +15,7 @@
 
 ## § 5693. Duties of Foreign Agricultural Service
 
-The Service shall assist the Secretary in carrying out the agricultural trade policy and international cooperation policy of the United States by—
+    The Service shall assist the Secretary in carrying out the agricultural trade policy and international cooperation policy of the United States by—
 
     (1) acquiring information pertaining to agricultural trade;
 

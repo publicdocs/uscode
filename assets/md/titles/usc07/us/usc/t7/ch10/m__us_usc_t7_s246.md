@@ -15,7 +15,7 @@
 
 ## § 246. Maintenance of records
 
-To facilitate the administration of this chapter, the following persons shall maintain such records and make such reports, as the Secretary may by regulation require:
+    To facilitate the administration of this chapter, the following persons shall maintain such records and make such reports, as the Secretary may by regulation require:
 
     (1) A warehouse operator that is licensed under this chapter.
 

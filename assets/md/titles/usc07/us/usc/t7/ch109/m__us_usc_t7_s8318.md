@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch109/m__us_usc_t7_s8317.md) | [Next](./../../../..//us/usc/t7/ch109/m__us_usc_t7_s § 8319.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8318)
+[Previous](./../../../..//us/usc/t7/ch109/m__us_usc_t7_s8317.md) | [Next](./../../../..//us/usc/t7/ch109/m__us_usc_t7_s8319.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8318)
 
 ## § 8318. Veterinary training
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch109/m__us_usc_t7_s8317.md) | [Next](./../../../..//us/usc/t7/ch109/m__us_usc_t7_s § 8319.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8318)
+[Previous](./../../../..//us/usc/t7/ch109/m__us_usc_t7_s8317.md) | [Next](./../../../..//us/usc/t7/ch109/m__us_usc_t7_s8319.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8318)
 
 ----------
 ----------

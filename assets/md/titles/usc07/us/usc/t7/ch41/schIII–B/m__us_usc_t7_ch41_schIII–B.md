@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch41/schIII–A/m__us_usc_t7_s1727f, 1727g.md) | [Next](./../../../../..//us/usc/t7/ch41/schIII–B/m__us_usc_t7_s1728.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch41%2FschIII%E2%80%93B)
+[Previous](./../../../../..//us/usc/t7/ch41/schIII–A/m__us_usc_t7_s1727e.md) | [Next](./../../../../..//us/usc/t7/ch41/schIII–B/m__us_usc_t7_s1728.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch41%2FschIII%E2%80%93B)
 
 ### SUBCHAPTER III–B—EMERGENCY FOOD ASSISTANCE
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch41/schIII–A/m__us_usc_t7_s1727f, 1727g.md) | [Next](./../../../../..//us/usc/t7/ch41/schIII–B/m__us_usc_t7_s1728.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch41%2FschIII%E2%80%93B)
+[Previous](./../../../../..//us/usc/t7/ch41/schIII–A/m__us_usc_t7_s1727e.md) | [Next](./../../../../..//us/usc/t7/ch41/schIII–B/m__us_usc_t7_s1728.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch41%2FschIII%E2%80%93B)
 
 ----------
 ----------

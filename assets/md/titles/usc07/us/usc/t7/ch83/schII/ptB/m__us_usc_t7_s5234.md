@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t7/ch83/schII/ptB/m__us_usc_t7_s5231 to 5233.md) | [Next](./../../../../../..//us/usc/t7/ch83/schII/ptB/m__us_usc_t7_s5235.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5234)
+[Previous](./../../../../../..//us/usc/t7/ch83/schII/ptB/m__us_usc_t7_ch83_schII_ptB.md) | [Next](./../../../../../..//us/usc/t7/ch83/schII/ptB/m__us_usc_t7_s5235.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5234)
 
 ## § 5234. Cooperator organizations
 
@@ -39,7 +39,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t7/ch83/schII/ptB/m__us_usc_t7_s5231 to 5233.md) | [Next](./../../../../../..//us/usc/t7/ch83/schII/ptB/m__us_usc_t7_s5235.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5234)
+[Previous](./../../../../../..//us/usc/t7/ch83/schII/ptB/m__us_usc_t7_ch83_schII_ptB.md) | [Next](./../../../../../..//us/usc/t7/ch83/schII/ptB/m__us_usc_t7_s5235.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5234)
 
 ----------
 ----------

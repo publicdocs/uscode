@@ -15,7 +15,7 @@
 
 ## § 3101. Purposes of agricultural research, extension, and education
 
-The purposes of federally supported agricultural research, extension, and education are to—
+    The purposes of federally supported agricultural research, extension, and education are to—
 
     (1) enhance the competitiveness of the United States agriculture and food industry in an increasingly competitive world environment;
 

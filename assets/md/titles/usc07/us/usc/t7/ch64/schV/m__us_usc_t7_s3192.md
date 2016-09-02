@@ -15,7 +15,7 @@
 
 ## § 3192. Definitions
 
-When used in this subchapter—
+    When used in this subchapter—
 
     (1) the term “eligible institution” means an accredited school or college of veterinary medicine or a State agricultural experiment station that conducts animal health and disease research;
 

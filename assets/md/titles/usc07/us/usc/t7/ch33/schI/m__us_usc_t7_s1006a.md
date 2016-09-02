@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch33/schI/m__us_usc_t7_s1001 to 1006.md) | [Next](./../../../../..//us/usc/t7/ch33/schI/m__us_usc_t7_s1006b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1006a)
+[Previous](./../../../../..//us/usc/t7/ch33/schI/m__us_usc_t7_ch33_schI.md) | [Next](./../../../../..//us/usc/t7/ch33/schI/m__us_usc_t7_s1006b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1006a)
 
 ## § 1006a. Loans to homestead or desertland entrymen and purchasers of lands in reclamation projects; security; first repayment installment
 
@@ -35,7 +35,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch33/schI/m__us_usc_t7_s1001 to 1006.md) | [Next](./../../../../..//us/usc/t7/ch33/schI/m__us_usc_t7_s1006b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1006a)
+[Previous](./../../../../..//us/usc/t7/ch33/schI/m__us_usc_t7_ch33_schI.md) | [Next](./../../../../..//us/usc/t7/ch33/schI/m__us_usc_t7_s1006b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1006a)
 
 ----------
 ----------

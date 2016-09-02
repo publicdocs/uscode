@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs501" data-uslm-ref="/us/usc/t7/s501">501.</a>  </td>
 
     <td> Collection and publication; facts required; deteriorated tobacco.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs502" data-uslm-ref="/us/usc/t7/s502">502.</a>  </td>
 
     <td> Standards for classification; returns and blanks.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs503" data-uslm-ref="/us/usc/t7/s503">503.</a>  </td>
 
     <td> Reports; necessity; by whom made; penalties.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs504" data-uslm-ref="/us/usc/t7/s504">504.</a>  </td>
 
     <td> “Person” defined.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs505" data-uslm-ref="/us/usc/t7/s505">505.</a>  </td>
 
     <td> Access to internal-revenue records.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs506" data-uslm-ref="/us/usc/t7/s506">506.</a>  </td>
 
     <td> Returns under oath; administration.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs507" data-uslm-ref="/us/usc/t7/s507">507.</a>  </td>
 
     <td> Limitation on use of statistical information.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs508" data-uslm-ref="/us/usc/t7/s508">508.</a>  </td>
 
     <td> Separability.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 509.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs509" data-uslm-ref="/us/usc/t7/s509">509.</a>  </td>
 
     <td> Repealed.  </td>
 

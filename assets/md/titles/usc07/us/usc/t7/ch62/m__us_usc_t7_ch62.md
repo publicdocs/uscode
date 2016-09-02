@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2901" data-uslm-ref="/us/usc/t7/s2901">2901.</a>  </td>
 
     <td> Congressional findings and declaration of policy.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2902" data-uslm-ref="/us/usc/t7/s2902">2902.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2903" data-uslm-ref="/us/usc/t7/s2903">2903.</a>  </td>
 
     <td> Issuance of orders.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2904.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2904" data-uslm-ref="/us/usc/t7/s2904">2904.</a>  </td>
 
     <td> Required terms in orders.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2905.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2905" data-uslm-ref="/us/usc/t7/s2905">2905.</a>  </td>
 
     <td> Certification of organizations to nominate.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2906.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2906" data-uslm-ref="/us/usc/t7/s2906">2906.</a>  </td>
 
     <td> Requirement of referendum.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2907.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2907" data-uslm-ref="/us/usc/t7/s2907">2907.</a>  </td>
 
     <td> Refunds.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2908.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2908" data-uslm-ref="/us/usc/t7/s2908">2908.</a>  </td>
 
     <td> Enforcement.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2909.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2909" data-uslm-ref="/us/usc/t7/s2909">2909.</a>  </td>
 
     <td> Investigations by Secretary; oaths and affirmations; subpenas; judicial enforcement; contempt proceedings; service of process.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2910.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2910" data-uslm-ref="/us/usc/t7/s2910">2910.</a>  </td>
 
     <td> Preemption of other Federal and State programs; applicability of provisions to amendments to orders.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2911.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2911" data-uslm-ref="/us/usc/t7/s2911">2911.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 2912 to 2918.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2912" data-uslm-ref="/us/usc/t7/s2912">2912</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2918" data-uslm-ref="/us/usc/t7/s2918">2918.</a>  </td>
 
     <td> Omitted.  </td>
 

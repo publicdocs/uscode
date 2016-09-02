@@ -15,7 +15,7 @@
 
 ## § 940h. Bonding requirements
 
-The Secretary shall review the bonding requirements for all programs administered by the Rural Utilities Service under this chapter to ensure that bonds are not required if—
+    The Secretary shall review the bonding requirements for all programs administered by the Rural Utilities Service under this chapter to ensure that bonds are not required if—
 
     (1) the interests of the Secretary are adequately protected by product warranties; or
 

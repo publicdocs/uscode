@@ -15,7 +15,7 @@
 
 ## § 2707. Required terms and conditions in orders
 
-Orders issued pursuant to this chapter shall contain the following conditions:
+    Orders issued pursuant to this chapter shall contain the following conditions:
 
     (a) __Egg Board; establishment; appointment and terms of membership; powers and duties__ 
 

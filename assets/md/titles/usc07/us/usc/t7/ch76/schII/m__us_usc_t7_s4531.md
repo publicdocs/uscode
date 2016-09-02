@@ -15,7 +15,7 @@
 
 ## § 4531. Definitions
 
-For purposes of this subchapter—
+    For purposes of this subchapter—
 
     (1) the term “board” means the board of trustees of the Institute;
 

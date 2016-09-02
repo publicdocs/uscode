@@ -15,7 +15,7 @@
 
 ## § 6802. Definitions
 
-As used in this chapter:
+    As used in this chapter:
 
     (1) __Consumer information__ 
 
@@ -91,9 +91,13 @@ As used in this chapter:
 
                 As used in this paragraph:
 
-                    (aa) Importer    The term “importer” has the meaning provided in [section 6804(b)(2)(B)(i)(I) of this title][/us/usc/t7/s6804/b/2/B/i/I].
+                    (aa) __Importer__ 
 
-                    (bb) Producer    The term “producer” has the meaning provided in [section 6804(b)(2)(B)(ii)(I) of this title][/us/usc/t7/s6804/b/2/B/ii/I].
+                        The term “importer” has the meaning provided in [section 6804(b)(2)(B)(i)(I) of this title][/us/usc/t7/s6804/b/2/B/i/I].
+
+                    (bb) __Producer__ 
+
+                        The term “producer” has the meaning provided in [section 6804(b)(2)(B)(ii)(I) of this title][/us/usc/t7/s6804/b/2/B/ii/I].
 
         (B) __Exempt handler__ 
 

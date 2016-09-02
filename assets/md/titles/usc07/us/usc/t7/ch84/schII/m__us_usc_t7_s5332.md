@@ -15,7 +15,7 @@
 
 ## § 5332. Functions of Council
 
-The Council shall—
+    The Council shall—
 
     (1) provide scientific and technical advice on the development and implementation of all components of the coordinated program and the comprehensive plan;
 

@@ -15,7 +15,7 @@
 
 ## § 7735. Enforcement actions of Attorney General
 
-The Attorney General may—
+    The Attorney General may—
 
     (1) prosecute, in the name of the United States, all criminal violations of this chapter that are referred to the Attorney General by the Secretary or are brought to the notice of the Attorney General by any person;
 

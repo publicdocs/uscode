@@ -15,7 +15,7 @@
 
 ## § 599. Definitions
 
-When used in this chapter—
+    When used in this chapter—
 
     (1) The term “person” includes individuals, partnerships, corporations, and associations.
 

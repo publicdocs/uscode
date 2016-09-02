@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 8201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs8201" data-uslm-ref="/us/usc/t7/s8201">8201.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 8202.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs8202" data-uslm-ref="/us/usc/t7/s8202">8202.</a>  </td>
 
     <td> Eligibility.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 8203.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs8203" data-uslm-ref="/us/usc/t7/s8203">8203.</a>  </td>
 
     <td> Assistance.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 8204.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs8204" data-uslm-ref="/us/usc/t7/s8204">8204.</a>  </td>
 
     <td> Limitations on assistance.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 8205.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs8205" data-uslm-ref="/us/usc/t7/s8205">8205.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

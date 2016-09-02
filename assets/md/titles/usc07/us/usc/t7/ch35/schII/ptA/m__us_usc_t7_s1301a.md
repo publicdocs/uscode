@@ -15,7 +15,7 @@
 
 ## § 1301a. References to parity prices, etc., in other laws after January 1, 1950
 
-All references in other laws to—
+    All references in other laws to—
 
     (1) parity,
 
@@ -25,7 +25,7 @@ All references in other laws to—
 
     (4) prices to be determined in the same manner as provided by this chapter prior to January 1, 1950 for the determination of parity prices,
 
-        with respect to prices for agricultural commodities and products thereof, shall after January 1, 1950 be deemed to refer to parity prices as determined in accordance with the provisions of [section 1301(a)(1) of this title][/us/usc/t7/s1301/a/1].
+    with respect to prices for agricultural commodities and products thereof, shall after January 1, 1950 be deemed to refer to parity prices as determined in accordance with the provisions of [section 1301(a)(1) of this title][/us/usc/t7/s1301/a/1].
 
 ([July 3, 1948, ch. 827][/us/act/1948-07-03/ch827], title III, § 302(f), [62 Stat. 1258][/us/stat/62/1258].)
 

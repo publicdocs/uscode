@@ -33,7 +33,7 @@ SUBCHAPTER I—FEDERAL CROP INSURANCE  </td>
 
   <tr>
 
-    <td> 1501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1501" data-uslm-ref="/us/usc/t7/s1501">1501.</a>  </td>
 
     <td> Short title and application of other provisions.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—FEDERAL CROP INSURANCE  </td>
 
   <tr>
 
-    <td> 1502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1502" data-uslm-ref="/us/usc/t7/s1502">1502.</a>  </td>
 
     <td> Purpose; definitions; protection of information; relation to other laws.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—FEDERAL CROP INSURANCE  </td>
 
   <tr>
 
-    <td> 1503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1503" data-uslm-ref="/us/usc/t7/s1503">1503.</a>  </td>
 
     <td> Federal Crop Insurance Corporation; creation; offices.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—FEDERAL CROP INSURANCE  </td>
 
   <tr>
 
-    <td> 1504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1504" data-uslm-ref="/us/usc/t7/s1504">1504.</a>  </td>
 
     <td> Capital stock of Corporation.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—FEDERAL CROP INSURANCE  </td>
 
   <tr>
 
-    <td> 1504a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1504a" data-uslm-ref="/us/usc/t7/s1504a">1504a.</a>  </td>
 
     <td> Capitalization of Corporation.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—FEDERAL CROP INSURANCE  </td>
 
   <tr>
 
-    <td> 1505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1505" data-uslm-ref="/us/usc/t7/s1505">1505.</a>  </td>
 
     <td> Management of Corporation.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—FEDERAL CROP INSURANCE  </td>
 
   <tr>
 
-    <td> 1506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1506" data-uslm-ref="/us/usc/t7/s1506">1506.</a>  </td>
 
     <td> General powers.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—FEDERAL CROP INSURANCE  </td>
 
   <tr>
 
-    <td> 1506a, 1506b.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1506a" data-uslm-ref="/us/usc/t7/s1506a">1506a</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1506b" data-uslm-ref="/us/usc/t7/s1506b">1506b.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—FEDERAL CROP INSURANCE  </td>
 
   <tr>
 
-    <td> 1507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1507" data-uslm-ref="/us/usc/t7/s1507">1507.</a>  </td>
 
     <td> Personnel of Corporation.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—FEDERAL CROP INSURANCE  </td>
 
   <tr>
 
-    <td> 1508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1508" data-uslm-ref="/us/usc/t7/s1508">1508.</a>  </td>
 
     <td> Crop insurance.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—FEDERAL CROP INSURANCE  </td>
 
   <tr>
 
-    <td> 1508a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1508a" data-uslm-ref="/us/usc/t7/s1508a">1508a.</a>  </td>
 
     <td> Double insurance and prevented planting.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER I—FEDERAL CROP INSURANCE  </td>
 
   <tr>
 
-    <td> 1509.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1509" data-uslm-ref="/us/usc/t7/s1509">1509.</a>  </td>
 
     <td> Exemption of indemnities from levy.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER I—FEDERAL CROP INSURANCE  </td>
 
   <tr>
 
-    <td> 1510.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1510" data-uslm-ref="/us/usc/t7/s1510">1510.</a>  </td>
 
     <td> Deposit and investment of funds; Federal Reserve banks as fiscal agents.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER I—FEDERAL CROP INSURANCE  </td>
 
   <tr>
 
-    <td> 1511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1511" data-uslm-ref="/us/usc/t7/s1511">1511.</a>  </td>
 
     <td> Tax exemption.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER I—FEDERAL CROP INSURANCE  </td>
 
   <tr>
 
-    <td> 1512.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1512" data-uslm-ref="/us/usc/t7/s1512">1512.</a>  </td>
 
     <td> Corporation as fiscal agent of Government.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER I—FEDERAL CROP INSURANCE  </td>
 
   <tr>
 
-    <td> 1513.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1513" data-uslm-ref="/us/usc/t7/s1513">1513.</a>  </td>
 
     <td> Books of account and annual reports of Corporation.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER I—FEDERAL CROP INSURANCE  </td>
 
   <tr>
 
-    <td> 1514.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1514" data-uslm-ref="/us/usc/t7/s1514">1514.</a>  </td>
 
     <td> Crimes and offenses.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER I—FEDERAL CROP INSURANCE  </td>
 
   <tr>
 
-    <td> 1515.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1515" data-uslm-ref="/us/usc/t7/s1515">1515.</a>  </td>
 
     <td> Program compliance and integrity.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER I—FEDERAL CROP INSURANCE  </td>
 
   <tr>
 
-    <td> 1516.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1516" data-uslm-ref="/us/usc/t7/s1516">1516.</a>  </td>
 
     <td> Funding.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER I—FEDERAL CROP INSURANCE  </td>
 
   <tr>
 
-    <td> 1517.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1517" data-uslm-ref="/us/usc/t7/s1517">1517.</a>  </td>
 
     <td> Separability.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER I—FEDERAL CROP INSURANCE  </td>
 
   <tr>
 
-    <td> 1518.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1518" data-uslm-ref="/us/usc/t7/s1518">1518.</a>  </td>
 
     <td> “Agricultural commodity” defined.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER I—FEDERAL CROP INSURANCE  </td>
 
   <tr>
 
-    <td> 1519.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1519" data-uslm-ref="/us/usc/t7/s1519">1519.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER I—FEDERAL CROP INSURANCE  </td>
 
   <tr>
 
-    <td> 1520.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1520" data-uslm-ref="/us/usc/t7/s1520">1520.</a>  </td>
 
     <td> Producer eligibility.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER I—FEDERAL CROP INSURANCE  </td>
 
   <tr>
 
-    <td> 1521.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1521" data-uslm-ref="/us/usc/t7/s1521">1521.</a>  </td>
 
     <td> Ineligibility for catastrophic risk and noninsured assistance payments.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER I—FEDERAL CROP INSURANCE  </td>
 
   <tr>
 
-    <td> 1522.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1522" data-uslm-ref="/us/usc/t7/s1522">1522.</a>  </td>
 
     <td> Research and development.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER I—FEDERAL CROP INSURANCE  </td>
 
   <tr>
 
-    <td> 1523.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1523" data-uslm-ref="/us/usc/t7/s1523">1523.</a>  </td>
 
     <td> Pilot programs.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER I—FEDERAL CROP INSURANCE  </td>
 
   <tr>
 
-    <td> 1524.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1524" data-uslm-ref="/us/usc/t7/s1524">1524.</a>  </td>
 
     <td> Education and risk management assistance.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER II—SUPPLEMENTAL AGRICULTURAL DISASTER ASSISTANCE  </td>
 
   <tr>
 
-    <td> 1531.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1531" data-uslm-ref="/us/usc/t7/s1531">1531.</a>  </td>
 
     <td> Supplemental agricultural disaster assistance.  </td>
 

@@ -15,7 +15,7 @@
 
 ## § 2106. Required terms and conditions in orders
 
-Orders issued pursuant to this chapter shall contain the following terms and conditions:
+    Orders issued pursuant to this chapter shall contain the following terms and conditions:
 
     (a)
 

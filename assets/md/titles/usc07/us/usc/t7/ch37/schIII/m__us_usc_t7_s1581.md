@@ -15,7 +15,7 @@
 
 ## § 1581. Prohibitions relating to importations
 
-The importation into the United States is prohibited of—
+    The importation into the United States is prohibited of—
 
     (1) any agricultural or vegetable seeds if any such seed contains noxious-weed seeds or the labeling of which is false or misleading in any respect;
 

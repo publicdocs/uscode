@@ -15,7 +15,7 @@
 
 ## § 1983. Special conditions and limitations on loans
 
-In connection with loans made or insured under this chapter, the Secretary shall require—
+    In connection with loans made or insured under this chapter, the Secretary shall require—
 
     (1) the applicant (A) to certify in writing, and the Secretary shall determine, that he is unable to obtain sufficient credit elsewhere to finance his actual needs at reasonable rates and terms, taking into consideration prevailing private and cooperative rates and terms in the community in or near which the applicant resides for loans for similar purposes and periods of time, and (B) to furnish an appropriate written financial statement;
 

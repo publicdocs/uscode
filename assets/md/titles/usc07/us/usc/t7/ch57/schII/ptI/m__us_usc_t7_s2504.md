@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t7/ch57/schII/ptI/m__us_usc_t7_s2502, 2503.md) | [Next](./../../../../../..//us/usc/t7/ch57/schIII/m__us_usc_t7_ch57_schIII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2504)
+[Previous](./../../../../../..//us/usc/t7/ch57/schII/ptI/m__us_usc_t7_s2501.md) | [Next](./../../../../../..//us/usc/t7/ch57/schIII/m__us_usc_t7_ch57_schIII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2504)
 
 ## § 2504. Interfering plant variety protection
 
@@ -41,7 +41,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t7/ch57/schII/ptI/m__us_usc_t7_s2502, 2503.md) | [Next](./../../../../../..//us/usc/t7/ch57/schIII/m__us_usc_t7_ch57_schIII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2504)
+[Previous](./../../../../../..//us/usc/t7/ch57/schII/ptI/m__us_usc_t7_s2501.md) | [Next](./../../../../../..//us/usc/t7/ch57/schIII/m__us_usc_t7_ch57_schIII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2504)
 
 ----------
 ----------

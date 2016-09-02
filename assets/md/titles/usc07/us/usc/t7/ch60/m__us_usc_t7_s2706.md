@@ -15,7 +15,7 @@
 
 ## § 2706. Permissive terms and conditions in orders
 
-Orders issued pursuant to this chapter shall contain one or more of the following terms and conditions, and except as provided in [section 2707 of this title][/us/usc/t7/s2707], no others.
+    Orders issued pursuant to this chapter shall contain one or more of the following terms and conditions, and except as provided in [section 2707 of this title][/us/usc/t7/s2707], no others.
 
     (a) __Advertising, sales promotion, and consumer education plans or projects; prohibition on reference to private brand or trade name and use of unfair or deceptive acts or practices__ 
 

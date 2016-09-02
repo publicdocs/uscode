@@ -15,13 +15,15 @@
 
 ## § 2302. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) __Agricultural products__ 
 
         The term “agricultural products” shall not include cotton or tobacco or their products.
 
-    (2) __(2)__  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original.__  __ </sup></sup> __  __Association of producers__ 
+    (2)
+
+    (2)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  Association of producers
 
         (A) __In general__ 
 
@@ -31,7 +33,9 @@ In this chapter:
 
             The term “association of producers” includes an organization whose membership is exclusively limited to agricultural producers and dedicated to promoting the common interest and general welfare of producers of agricultural products.
 
-    (3) __(3)__  __1__  __Handler__ 
+    (3)
+
+    (3) 1 Handler
 
         (A) __In general__ 
 

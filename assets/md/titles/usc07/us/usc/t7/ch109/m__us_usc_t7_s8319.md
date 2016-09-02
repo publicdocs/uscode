@@ -1,7 +1,7 @@
 ---
 ---
 
-# 7 U.S.C., USLM ref /us/usc/t7/s § 8319
+# 7 U.S.C., USLM ref /us/usc/t7/s8319
 
 * Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
   Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch109/m__us_usc_t7_s8318.md) | [Next](./../../../..//us/usc/t7/ch109/m__us_usc_t7_s8320.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs+%C2%A7%E2%80%AF8319)
+[Previous](./../../../..//us/usc/t7/ch109/m__us_usc_t7_s8318.md) | [Next](./../../../..//us/usc/t7/ch109/m__us_usc_t7_s8320.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8319)
 
 ##  § 8319. Surveillance of zoonotic diseases
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch109/m__us_usc_t7_s8318.md) | [Next](./../../../..//us/usc/t7/ch109/m__us_usc_t7_s8320.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs+%C2%A7%E2%80%AF8319)
+[Previous](./../../../..//us/usc/t7/ch109/m__us_usc_t7_s8318.md) | [Next](./../../../..//us/usc/t7/ch109/m__us_usc_t7_s8320.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8319)
 
 ----------
 ----------

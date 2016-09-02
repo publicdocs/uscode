@@ -15,7 +15,7 @@
 
 ## § 1571. Prohibitions relating to interstate commerce in certain seeds
 
-It shall be unlawful for any person to transport or deliver for transportation in interstate commerce—
+    It shall be unlawful for any person to transport or deliver for transportation in interstate commerce—
 
     (a)
 

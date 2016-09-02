@@ -15,7 +15,7 @@
 
 ## § 1445g. Production of commodities for conversion into industrial hydrocarbons; terms and conditions; incentive payments; regulations; appropriations; effective date
 
-Notwithstanding any other provision of this Act—
+    Notwithstanding any other provision of this Act—
 
     (a) The Secretary may permit, subject to such terms and conditions as the Secretary may prescribe, all or any part of the acreage set aside or diverted from the production of a commodity for any crop year under this subchapter to be devoted to the production of any commodity (other than the commodities for which acreage is being set aside or diverted) for conversion into industrial hydrocarbons and blending with gasoline or other fossil fuels for use as motor or industrial fuel, if the Secretary determines that such production is desirable in order to provide an adequate supply of commodities for such purpose, is not likely to increase the cost of the price support programs, and will not adversely affect farm income.
 

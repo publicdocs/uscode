@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2260, 2260a.md) | [Next](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2262.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2261)
+[Previous](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2259.md) | [Next](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2262.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2261)
 
 ## § 2261. Credit of donations and proceeds from exhibitions to appropriations concerned with foreign market development programs
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2260, 2260a.md) | [Next](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2262.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2261)
+[Previous](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2259.md) | [Next](./../../../..//us/usc/t7/ch55/m__us_usc_t7_s2262.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2261)
 
 ----------
 ----------

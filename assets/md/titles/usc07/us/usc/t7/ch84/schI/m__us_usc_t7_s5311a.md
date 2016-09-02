@@ -15,7 +15,7 @@
 
 ## § 5311a. Joint nutrition monitoring and related research activities
 
-The Secretary and the Secretary of Health and Human Services shall continue to provide jointly for national nutrition monitoring and related research activities carried out as of the date of enactment of this Act—
+    The Secretary and the Secretary of Health and Human Services shall continue to provide jointly for national nutrition monitoring and related research activities carried out as of the date of enactment of this Act—
 
     (1) to collect continuous dietary, health, physical activity, and diet and health knowledge data on a nationally representative sample;
 

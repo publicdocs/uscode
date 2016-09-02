@@ -15,7 +15,7 @@
 
 ## § 5672. Development of plans to alleviate adverse impact of embargoes
 
-To alleviate, to the maximum extent possible, the adverse impact on farmers, elevator operators, common carriers, and exporters of agricultural commodities of the President or other member of the executive branch of the Federal Government causing the export of any agricultural commodity to any country or area of the world to be suspended or restricted, the Secretary of Agriculture shall—
+    To alleviate, to the maximum extent possible, the adverse impact on farmers, elevator operators, common carriers, and exporters of agricultural commodities of the President or other member of the executive branch of the Federal Government causing the export of any agricultural commodity to any country or area of the world to be suspended or restricted, the Secretary of Agriculture shall—
 
     (1)
 

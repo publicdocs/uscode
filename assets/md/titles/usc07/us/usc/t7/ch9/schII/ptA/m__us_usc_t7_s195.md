@@ -15,7 +15,7 @@
 
 ## § 195. Punishment for violation of order
 
-Any packer or swine contractor, or any officer, director, agent, or employee of a packer or swine contractor, who fails to obey any order of the Secretary issued under the provisions of [section 193 of this title][/us/usc/t7/s193], or such order as modified—
+    Any packer or swine contractor, or any officer, director, agent, or employee of a packer or swine contractor, who fails to obey any order of the Secretary issued under the provisions of [section 193 of this title][/us/usc/t7/s193], or such order as modified—
 
     (1) After the expiration of the time allowed for filing a petition in the court of appeals to set aside or modify such order, if no such petition has been filed within such time; or
 

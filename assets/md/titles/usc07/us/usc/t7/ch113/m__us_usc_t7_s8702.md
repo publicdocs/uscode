@@ -15,7 +15,7 @@
 
 ## § 8702. Definitions
 
-In this chapter (other than subchapter III):
+    In this chapter (other than subchapter III):
 
     (1) __Average crop revenue election payment__ 
 

@@ -183,7 +183,11 @@
 
 >                 “(i) the formula used to perform the calculations described in paragraph (1);
 
->                 “(ii) the aggregate results that the use of the calculation would have pursuant to subsection (b), in terms of—         “(I) the total reduction in the amount of refunds;
+>                 “(ii)
+
+>                  the aggregate results that the use of the calculation would have pursuant to subsection (b), in terms of—
+
+>                          “(I) the total reduction in the amount of refunds;
 
 >                          “(II) the number of producers affected; and
 

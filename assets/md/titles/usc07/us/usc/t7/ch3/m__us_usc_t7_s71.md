@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch3/m__us_usc_t7_ch3.md) | [Next](./../../../..//us/usc/t7/ch3/m__us_usc_t7_s72, 73.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs71)
+[Previous](./../../../..//us/usc/t7/ch3/m__us_usc_t7_ch3.md) | [Next](./../../../..//us/usc/t7/ch3/m__us_usc_t7_s74.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs71)
 
 ## § 71. Short title
 
@@ -69,9 +69,19 @@
 
 > “That this Act \[enacting sections 75a, 79a, 79b, 87e–1, 87f–1, and 87f–2 of this title, amending sections 74, 75, 76, 77, 78, 79, 84, 85, 86, 87, 87a, 87b, 87c, 87e, 87f, 87g, and 87h of this title, [section 5316 of Title 5][/us/usc/t5/s5316], Government Organization and Employees, and [section 1114 of Title 18][/us/usc/t18/s1114], Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 74, 75a, 76, and 79 of this title\] may be cited as the ‘United States Grain Standards Act of 1976’.”
 
+§§ 72, 73. __Omitted__ 
+
+ __Codification__ 
+
+    Sections were omitted in the general reorganization of this chapter by [Pub. L. 90–487, § 1][/us/pl/90/487/s1], Aug. 15, 1968, [82 Stat. 761][/us/stat/82/761].
+
+    Section 72, [act Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 1 (part), [39 Stat. 482][/us/stat/39/482], defined the words “person” and “in interstate or foreign commerce”. See [section 75 of this title][/us/usc/t7/s75].
+
+    Section 73, [act Aug. 11, 1916, ch. 313][/us/act/1916-08-11/ch313], pt. B, § 1 (part), [39 Stat. 482][/us/stat/39/482], made associations, partnerships, and corporations liable for the acts of their agents within the scope of their employment or office. See [section 87d of this title][/us/usc/t7/s87d].
+
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch3/m__us_usc_t7_ch3.md) | [Next](./../../../..//us/usc/t7/ch3/m__us_usc_t7_s72, 73.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs71)
+[Previous](./../../../..//us/usc/t7/ch3/m__us_usc_t7_ch3.md) | [Next](./../../../..//us/usc/t7/ch3/m__us_usc_t7_s74.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs71)
 
 ----------
 ----------
@@ -105,5 +115,13 @@
 [/us/stat/90/2867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2867
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
 [/us/usc/t18/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1114
+[/us/pl/90/487/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F487%2Fs1
+[/us/stat/82/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F761
+[/us/act/1916-08-11/ch313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-11%2Fch313
+[/us/stat/39/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F482
+[/us/usc/t7/s75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs75
+[/us/act/1916-08-11/ch313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-11%2Fch313
+[/us/stat/39/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F482
+[/us/usc/t7/s87d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs87d
 
 

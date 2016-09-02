@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch3/m__us_usc_t7_s72, 73.md) | [Next](./../../../..//us/usc/t7/ch3/m__us_usc_t7_s75.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs74)
+[Previous](./../../../..//us/usc/t7/ch3/m__us_usc_t7_s71.md) | [Next](./../../../..//us/usc/t7/ch3/m__us_usc_t7_s75.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs74)
 
 ## § 74. Congressional findings and declaration of policy
 
@@ -67,7 +67,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch3/m__us_usc_t7_s72, 73.md) | [Next](./../../../..//us/usc/t7/ch3/m__us_usc_t7_s75.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs74)
+[Previous](./../../../..//us/usc/t7/ch3/m__us_usc_t7_s71.md) | [Next](./../../../..//us/usc/t7/ch3/m__us_usc_t7_s75.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs74)
 
 ----------
 ----------

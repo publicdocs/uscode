@@ -15,7 +15,7 @@
 
 ## § 4306. Required terms in orders
 
-Orders issued pursuant to this chapter shall contain the following terms and conditions and, except as provided in [section 4307 of this title][/us/usc/t7/s4307], no others:
+    Orders issued pursuant to this chapter shall contain the following terms and conditions and, except as provided in [section 4307 of this title][/us/usc/t7/s4307], no others:
 
     (1) Providing for the establishment and appointment by the Secretary of a board to be named “Floraboard”, which shall consist of not more than seventy-five voting members, and defining its powers and duties, which shall include only the powers to (A) administer such order in accordance with its terms and provisions, (B) make rules and regulations to effectuate the terms and provisions of such order, (C) receive, investigate, and report to the Secretary complaints of violations of such order, and (D) recommend to the Secretary amendments of such order. The term of an appointment to the Floraboard shall be for three years with no member serving more than two consecutive three-year terms: Provided, That of the initial appointments, one-third shall be for a term of one year and one-third shall be for a term of two years. The Floraboard shall appoint from its members an executive committee, consisting of not more than fifteen members, whose membership shall, to the maximum extent practicable, reflect the membership composition of the Floraboard, and whose commodity group representation shall be proportional to that of the Floraboard. Such executive committee shall have the authority to employ a staff and conduct routine business within the policies determined by the Floraboard.
 

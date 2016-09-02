@@ -15,7 +15,7 @@
 
 ## § 3178a. Nutrition monitoring
 
-The Secretary of Agriculture shall—
+    The Secretary of Agriculture shall—
 
     (1) in conducting the Department of Agriculture’s continuing survey of food intakes of individuals and any nationwide food consumption survey, include a sample that is representative of low-income individuals and, to the extent practicable, the collection of information on food purchases and other household expenditures by such individuals;
 

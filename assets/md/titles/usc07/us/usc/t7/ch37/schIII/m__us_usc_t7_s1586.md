@@ -15,7 +15,7 @@
 
 ## § 1586. Certain acts prohibited
 
-It shall be unlawful for any person—
+    It shall be unlawful for any person—
 
     (a)
 

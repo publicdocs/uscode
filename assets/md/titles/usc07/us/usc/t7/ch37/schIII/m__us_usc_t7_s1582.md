@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch37/schIII/m__us_usc_t7_s1581.md) | [Next](./../../../../..//us/usc/t7/ch37/schIII/m__us_usc_t7_s1583, 1584.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1582)
+[Previous](./../../../../..//us/usc/t7/ch37/schIII/m__us_usc_t7_s1581.md) | [Next](./../../../../..//us/usc/t7/ch37/schIII/m__us_usc_t7_s1585.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1582)
 
 ## § 1582. Procedure relating to importations; disposal of refuse; exceptions
 
@@ -39,7 +39,7 @@
 
  __Amendment of Section__ 
 
-For termination of amendment by [section 501(c) of Pub. L. 100–449][/us/pl/100/449/s501/c], see Effective and Termination Dates of 1988 Amendment note below.
+    For termination of amendment by [section 501(c) of Pub. L. 100–449][/us/pl/100/449/s501/c], see Effective and Termination Dates of 1988 Amendment note below.
 
  __Amendments__ 
 
@@ -87,9 +87,15 @@ For termination of amendment by [section 501(c) of Pub. L. 100–449][/us/pl/100
 
     For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this subchapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].
 
+§§ 1583, 1584. __Repealed.__  __[__  __Pub. L. 97–439, § 5(b)(4)__  __][/us/pl/97/439/s5/b/4]__  __,__  __Jan. 8, 1983__  __,__  __[__  __96 Stat. 2288__  __][/us/stat/96/2288]__ 
+
+    Section 1583, [act Aug. 9, 1939, ch. 615][/us/act/1939-08-09/ch615], title III, § 303, [53 Stat. 1283][/us/stat/53/1283], related to adulterated seed.
+
+    Section 1584, acts [Aug. 9, 1939, ch. 615][/us/act/1939-08-09/ch615], title III, § 304, [53 Stat. 1284][/us/stat/53/1284]; Oct. 15, 1966, [Pub. L. 89–686, § 18][/us/pl/89/686/s18], [80 Stat. 979][/us/stat/80/979], related to seed unfit for seeding purposes.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch37/schIII/m__us_usc_t7_s1581.md) | [Next](./../../../../..//us/usc/t7/ch37/schIII/m__us_usc_t7_s1583, 1584.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1582)
+[Previous](./../../../../..//us/usc/t7/ch37/schIII/m__us_usc_t7_s1581.md) | [Next](./../../../../..//us/usc/t7/ch37/schIII/m__us_usc_t7_s1585.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1582)
 
 ----------
 ----------
@@ -140,5 +146,13 @@ For termination of amendment by [section 501(c) of Pub. L. 100–449][/us/pl/100
 [/us/usc/t19/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112
 [/us/usc/t7/s1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1610
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
+[/us/pl/97/439/s5/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F439%2Fs5%2Fb%2F4
+[/us/stat/96/2288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2288
+[/us/act/1939-08-09/ch615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-09%2Fch615
+[/us/stat/53/1283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1283
+[/us/act/1939-08-09/ch615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-09%2Fch615
+[/us/stat/53/1284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1284
+[/us/pl/89/686/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F686%2Fs18
+[/us/stat/80/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F979
 
 

@@ -15,7 +15,7 @@
 
 ## § 6504. National standards for organic production
 
-To be sold or labeled as an organically produced agricultural product under this chapter, an agricultural product shall—
+    To be sold or labeled as an organically produced agricultural product under this chapter, an agricultural product shall—
 
     (1) have been produced and handled without the use of synthetic chemicals, except as otherwise provided in this chapter;
 

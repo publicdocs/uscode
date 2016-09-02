@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs6701" data-uslm-ref="/us/usc/t7/s6701">6701.</a>  </td>
 
     <td> Global Climate Change Program.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs6702" data-uslm-ref="/us/usc/t7/s6702">6702.</a>  </td>
 
     <td> Study of global climate change, agriculture, and forestry.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs6703" data-uslm-ref="/us/usc/t7/s6703">6703.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs6704" data-uslm-ref="/us/usc/t7/s6704">6704.</a>  </td>
 
     <td> Office of International Forestry.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 6705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs6705" data-uslm-ref="/us/usc/t7/s6705">6705.</a>  </td>
 
     <td> Line item.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 6706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs6706" data-uslm-ref="/us/usc/t7/s6706">6706.</a>  </td>
 
     <td> Institutes of Tropical Forestry.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 6707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs6707" data-uslm-ref="/us/usc/t7/s6707">6707.</a>  </td>
 
     <td> Urban forestry demonstration projects.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 6708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs6708" data-uslm-ref="/us/usc/t7/s6708">6708.</a>  </td>
 
     <td> Biomass energy demonstration projects.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 6709.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs6709" data-uslm-ref="/us/usc/t7/s6709">6709.</a>  </td>
 
     <td> Interagency cooperation to maximize biomass growth.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 6710.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs6710" data-uslm-ref="/us/usc/t7/s6710">6710.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 6711.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs6711" data-uslm-ref="/us/usc/t7/s6711">6711.</a>  </td>
 
     <td> Carbon cycle research.  </td>
 

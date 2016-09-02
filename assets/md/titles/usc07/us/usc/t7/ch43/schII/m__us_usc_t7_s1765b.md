@@ -15,7 +15,7 @@
 
 ## § 1765b. Functions
 
-The functions of each United States Agricultural Trade Office shall be to—
+    The functions of each United States Agricultural Trade Office shall be to—
 
     (1) increase the effectiveness of agricultural export promotion efforts through consolidation of activities, providing services and facilities for foreign buyers and United States trade representatives, and coordination of market development activities sponsored by the Department of Agriculture;
 

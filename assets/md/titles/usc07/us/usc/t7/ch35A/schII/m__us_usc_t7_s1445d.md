@@ -15,7 +15,7 @@
 
 ## § 1445d. Special wheat acreage grazing and hay program for 1978 through 1990 crop years
 
-Notwithstanding any other provision of law—
+    Notwithstanding any other provision of law—
 
     (a) __Authorization for program; acreage designation; payment__ 
 

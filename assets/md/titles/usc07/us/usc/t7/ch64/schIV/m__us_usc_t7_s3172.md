@@ -15,7 +15,7 @@
 
 ## § 3172. Duties of Secretary of Agriculture
 
-In order to carry out the policy of this subchapter, the Secretary shall develop and implement a national food and human nutrition research and extension program that shall include, but not be limited to—
+    In order to carry out the policy of this subchapter, the Secretary shall develop and implement a national food and human nutrition research and extension program that shall include, but not be limited to—
 
     (1) research on human nutritional requirements;
 

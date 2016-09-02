@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch1/m__us_usc_t7_s2a to 4a.md) | [Next](./../../../..//us/usc/t7/ch1/m__us_usc_t7_s6.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5)
+[Previous](./../../../..//us/usc/t7/ch1/m__us_usc_t7_s2.md) | [Next](./../../../..//us/usc/t7/ch1/m__us_usc_t7_s6.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5)
 
 ## § 5. Findings and purpose
 
@@ -31,7 +31,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch1/m__us_usc_t7_s2a to 4a.md) | [Next](./../../../..//us/usc/t7/ch1/m__us_usc_t7_s6.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5)
+[Previous](./../../../..//us/usc/t7/ch1/m__us_usc_t7_s2.md) | [Next](./../../../..//us/usc/t7/ch1/m__us_usc_t7_s6.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5)
 
 ----------
 ----------

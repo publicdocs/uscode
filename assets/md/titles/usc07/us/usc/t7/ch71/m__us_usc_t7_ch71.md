@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs4001" data-uslm-ref="/us/usc/t7/s4001">4001.</a>  </td>
 
     <td> Trade suspension reserves.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4002.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs4002" data-uslm-ref="/us/usc/t7/s4002">4002.</a>  </td>
 
     <td> Alcohol processor grain reserve program.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4003.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs4003" data-uslm-ref="/us/usc/t7/s4003">4003.</a>  </td>
 
     <td> Study of potential for expansion of United States agricultural export markets; report to President and Congress.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4004.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs4004" data-uslm-ref="/us/usc/t7/s4004">4004.</a>  </td>
 
     <td> Food bank special nutrition projects.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 4004a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs4004a" data-uslm-ref="/us/usc/t7/s4004a">4004a.</a>  </td>
 
     <td> Applicability of supplemental nutrition assistance requirements.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 4005.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs4005" data-uslm-ref="/us/usc/t7/s4005">4005.</a>  </td>
 
     <td> “Fuel conversion price” defined.  </td>
 

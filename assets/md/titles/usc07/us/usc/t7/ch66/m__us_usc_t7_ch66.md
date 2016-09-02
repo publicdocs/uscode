@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs3501" data-uslm-ref="/us/usc/t7/s3501">3501.</a>  </td>
 
     <td> Reporting requirements.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs3502" data-uslm-ref="/us/usc/t7/s3502">3502.</a>  </td>
 
     <td> Civil penalty.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs3503" data-uslm-ref="/us/usc/t7/s3503">3503.</a>  </td>
 
     <td> Investigative actions.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs3504" data-uslm-ref="/us/usc/t7/s3504">3504.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs3505" data-uslm-ref="/us/usc/t7/s3505">3505.</a>  </td>
 
     <td> Reports to the States.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs3506" data-uslm-ref="/us/usc/t7/s3506">3506.</a>  </td>
 
     <td> Public inspection.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs3507" data-uslm-ref="/us/usc/t7/s3507">3507.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 3508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs3508" data-uslm-ref="/us/usc/t7/s3508">3508.</a>  </td>
 
     <td> Definitions.  </td>
 

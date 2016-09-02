@@ -15,7 +15,7 @@
 
 ## § 6205. Permissive terms in orders
 
-On the recommendation of the Board and with the approval of the Secretary, an order issued under [section 6203(a) of this title][/us/usc/t7/s6203/a] may—
+    On the recommendation of the Board and with the approval of the Secretary, an order issued under [section 6203(a) of this title][/us/usc/t7/s6203/a] may—
 
     (1) provide authority to the Board to exempt from such order limes exported from the United States, subject to such safeguards as the Board may establish to ensure proper use of the exemption;
 

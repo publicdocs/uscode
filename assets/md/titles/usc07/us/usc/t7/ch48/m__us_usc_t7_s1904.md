@@ -15,7 +15,7 @@
 
 ## § 1904. Methods research; designation of methods
 
-In furtherance of the policy expressed herein the Secretary is authorized and directed—
+    In furtherance of the policy expressed herein the Secretary is authorized and directed—
 
     (a) to conduct, assist, and foster research, investigation, and experimentation to develop and determine methods of slaughter and the handling of livestock in connection with slaughter which are practicable with reference to the speed and scope of slaughtering operations and humane with reference to other existing methods and then current scientific knowledge; and
 

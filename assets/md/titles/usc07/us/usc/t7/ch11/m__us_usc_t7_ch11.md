@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 281.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs281" data-uslm-ref="/us/usc/t7/s281">281.</a>  </td>
 
     <td> Honeybee importation.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 282.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs282" data-uslm-ref="/us/usc/t7/s282">282.</a>  </td>
 
     <td> Punishment for unlawful importation.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 283.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs283" data-uslm-ref="/us/usc/t7/s283">283.</a>  </td>
 
     <td> Propagation of stock and release of germ plasm.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 284.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs284" data-uslm-ref="/us/usc/t7/s284">284.</a>  </td>
 
     <td> Eradication and control of undesirable species and subspecies.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 285.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs285" data-uslm-ref="/us/usc/t7/s285">285.</a>  </td>
 
     <td> Uses of funds.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 286.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs286" data-uslm-ref="/us/usc/t7/s286">286.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

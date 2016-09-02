@@ -15,7 +15,7 @@
 
 ## § 2105. Permissive terms and conditions in orders
 
-Orders issued pursuant to this chapter shall contain one or more of the following terms and conditions, and except as provided in [section 2106 of this title][/us/usc/t7/s2106], no others.
+    Orders issued pursuant to this chapter shall contain one or more of the following terms and conditions, and except as provided in [section 2106 of this title][/us/usc/t7/s2106], no others.
 
     (a) Providing for the establishment, issuance, effectuation, and administration of appropriate plans or projects for the advertising and sales promotion of cotton and its products and for the disbursement of necessary funds for such purposes: Provided, however, That any such plan or project shall be directed toward increasing the general demand for cotton or its products but no reference to a private brand or trade name shall be made if the Secretary determines that such reference will result in undue discrimination against the cotton products of other persons: And provided further, That no such advertising or sales promotion programs shall make use of false or unwarranted claims in behalf of cotton or its products or false or unwarranted statements with respect to the quality, value, or use of any competing product.
 

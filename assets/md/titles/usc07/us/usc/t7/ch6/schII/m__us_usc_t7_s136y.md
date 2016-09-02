@@ -15,7 +15,7 @@
 
 ## § 136y. Authorization of appropriations
 
-There is authorized to be appropriated to carry out this subchapter (other than [section 136u(a) of this title][/us/usc/t7/s136u/a])—
+    There is authorized to be appropriated to carry out this subchapter (other than [section 136u(a) of this title][/us/usc/t7/s136u/a])—
 
     (1) $83,000,000 for fiscal year 1989, of which not more than $13,735,500 shall be available for research under this subchapter;
 

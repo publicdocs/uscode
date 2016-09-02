@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1641.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1641" data-uslm-ref="/us/usc/t7/s1641">1641.</a>  </td>
 
     <td> Availability of wheat for export; utilization of funds and facilities; prices; authorization of appropriations.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1642.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1642" data-uslm-ref="/us/usc/t7/s1642">1642.</a>  </td>
 
     <td> Enforcement by President.  </td>
 

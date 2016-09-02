@@ -15,7 +15,7 @@
 
 ## § 943. Special provisions governing telephone bank as a Federal agency until conversion of ownership, control, and operation
 
-Until the ownership, control, and operation of the telephone bank is converted as provided in [section 950(a) of this title][/us/usc/t7/s950/a] and not thereafter—
+    Until the ownership, control, and operation of the telephone bank is converted as provided in [section 950(a) of this title][/us/usc/t7/s950/a] and not thereafter—
 
     (a) __Supervision and direction of Secretary of Agriculture; free postage and priority of debts restrictions__ 
 

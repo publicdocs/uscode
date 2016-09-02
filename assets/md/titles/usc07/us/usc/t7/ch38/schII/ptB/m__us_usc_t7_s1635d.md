@@ -15,7 +15,7 @@
 
 ## § 1635d. Definitions
 
-In this part:
+    In this part:
 
     (1) __Cattle committed__ 
 

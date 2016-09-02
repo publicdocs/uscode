@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch7/m__us_usc_t7_s148c to 148e.md) | [Next](./../../../..//us/usc/t7/ch7/m__us_usc_t7_s149.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs148f)
+[Previous](./../../../..//us/usc/t7/ch7/m__us_usc_t7_s148b.md) | [Next](./../../../..//us/usc/t7/ch7/m__us_usc_t7_s149.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs148f)
 
 ## § 148f. Repealed. [Pub. L. 106–224, title IV, § 438(a)(9)][/us/pl/106/224/s438/a/9], June 20, 2000, [114 Stat. 454][/us/stat/114/454]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch7/m__us_usc_t7_s148c to 148e.md) | [Next](./../../../..//us/usc/t7/ch7/m__us_usc_t7_s149.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs148f)
+[Previous](./../../../..//us/usc/t7/ch7/m__us_usc_t7_s148b.md) | [Next](./../../../..//us/usc/t7/ch7/m__us_usc_t7_s149.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs148f)
 
 ----------
 ----------

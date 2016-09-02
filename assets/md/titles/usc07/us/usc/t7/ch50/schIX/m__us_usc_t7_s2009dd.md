@@ -15,7 +15,7 @@
 
 ## § 2009dd. Purpose
 
-The purpose of this subchapter is to establish a regional rural collaborative investment program—
+    The purpose of this subchapter is to establish a regional rural collaborative investment program—
 
     (1) to provide rural regions with a flexible investment vehicle, allowing for local control with Federal oversight, assistance, and accountability;
 

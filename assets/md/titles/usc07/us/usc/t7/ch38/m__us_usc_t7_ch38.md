@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1621.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1621" data-uslm-ref="/us/usc/t7/s1621">1621.</a>  </td>
 
     <td> Congressional declaration of purpose; use of existing facilities; cooperation with States.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1622.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1622" data-uslm-ref="/us/usc/t7/s1622">1622.</a>  </td>
 
     <td> Duties of Secretary relating to agricultural products.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1622a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1622a" data-uslm-ref="/us/usc/t7/s1622a">1622a.</a>  </td>
 
     <td> Authority to assist farmers and elevator operators.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1622b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1622b" data-uslm-ref="/us/usc/t7/s1622b">1622b.</a>  </td>
 
     <td> Specialty crops market news allocation.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1622c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1622c" data-uslm-ref="/us/usc/t7/s1622c">1622c.</a>  </td>
 
     <td> Grant program to improve movement of specialty crops.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1623.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1623" data-uslm-ref="/us/usc/t7/s1623">1623.</a>  </td>
 
     <td> Authorization of appropriations; allotments to States.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1623a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1623a" data-uslm-ref="/us/usc/t7/s1623a">1623a.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1624.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1624" data-uslm-ref="/us/usc/t7/s1624">1624.</a>  </td>
 
     <td> Cooperation with Government and State agencies, private research organizations, etc.; rules and regulations.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1625.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1625" data-uslm-ref="/us/usc/t7/s1625">1625.</a>  </td>
 
     <td> Transfer and consolidation of functions, powers, bureaus, etc.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1626.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1626" data-uslm-ref="/us/usc/t7/s1626">1626.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1627.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1627" data-uslm-ref="/us/usc/t7/s1627">1627.</a>  </td>
 
     <td> Appointment of personnel; compensation; employment of specialists.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1628.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1628" data-uslm-ref="/us/usc/t7/s1628">1628.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1629.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1629" data-uslm-ref="/us/usc/t7/s1629">1629.</a>  </td>
 
     <td> Establishment of committees to assist in research and service programs.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1630.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1630" data-uslm-ref="/us/usc/t7/s1630">1630.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1631.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1631" data-uslm-ref="/us/usc/t7/s1631">1631.</a>  </td>
 
     <td> Protection for purchasers of farm products.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1632.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1632" data-uslm-ref="/us/usc/t7/s1632">1632.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1632a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1632a" data-uslm-ref="/us/usc/t7/s1632a">1632a.</a>  </td>
 
     <td> Value-added agricultural product market development grants.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1632b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1632b" data-uslm-ref="/us/usc/t7/s1632b">1632b.</a>  </td>
 
     <td> Agriculture Innovation Center Demonstration Program.  </td>
 
@@ -193,7 +193,7 @@ Part A—Purpose; Definitions  </td>
 
   <tr>
 
-    <td> 1635.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1635" data-uslm-ref="/us/usc/t7/s1635">1635.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -201,7 +201,7 @@ Part A—Purpose; Definitions  </td>
 
   <tr>
 
-    <td> 1635a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1635a" data-uslm-ref="/us/usc/t7/s1635a">1635a.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -217,7 +217,7 @@ Part B—Cattle Reporting  </td>
 
   <tr>
 
-    <td> 1635d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1635d" data-uslm-ref="/us/usc/t7/s1635d">1635d.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -225,7 +225,7 @@ Part B—Cattle Reporting  </td>
 
   <tr>
 
-    <td> 1635e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1635e" data-uslm-ref="/us/usc/t7/s1635e">1635e.</a>  </td>
 
     <td> Mandatory reporting for live cattle.  </td>
 
@@ -233,7 +233,7 @@ Part B—Cattle Reporting  </td>
 
   <tr>
 
-    <td> 1635f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1635f" data-uslm-ref="/us/usc/t7/s1635f">1635f.</a>  </td>
 
     <td> Mandatory packer reporting of boxed beef sales.  </td>
 
@@ -249,7 +249,7 @@ Part C—Swine Reporting  </td>
 
   <tr>
 
-    <td> 1635i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1635i" data-uslm-ref="/us/usc/t7/s1635i">1635i.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -257,7 +257,7 @@ Part C—Swine Reporting  </td>
 
   <tr>
 
-    <td> 1635j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1635j" data-uslm-ref="/us/usc/t7/s1635j">1635j.</a>  </td>
 
     <td> Mandatory reporting for swine.  </td>
 
@@ -265,7 +265,7 @@ Part C—Swine Reporting  </td>
 
   <tr>
 
-    <td> § 1635k.  </td>
+    <td> § <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1635k" data-uslm-ref="/us/usc/t7/s1635k">1635k.</a>  </td>
 
     <td> Mandatory reporting of wholesale pork cuts.  </td>
 
@@ -281,7 +281,7 @@ Part D—Lamb Reporting  </td>
 
   <tr>
 
-    <td> 1635m.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1635m" data-uslm-ref="/us/usc/t7/s1635m">1635m.</a>  </td>
 
     <td> Mandatory reporting for lambs.  </td>
 
@@ -297,7 +297,7 @@ Part E—Administration  </td>
 
   <tr>
 
-    <td> 1636.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1636" data-uslm-ref="/us/usc/t7/s1636">1636.</a>  </td>
 
     <td> General provisions.  </td>
 
@@ -305,7 +305,7 @@ Part E—Administration  </td>
 
   <tr>
 
-    <td> 1636a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1636a" data-uslm-ref="/us/usc/t7/s1636a">1636a.</a>  </td>
 
     <td> Unlawful acts.  </td>
 
@@ -313,7 +313,7 @@ Part E—Administration  </td>
 
   <tr>
 
-    <td> 1636b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1636b" data-uslm-ref="/us/usc/t7/s1636b">1636b.</a>  </td>
 
     <td> Enforcement.  </td>
 
@@ -321,7 +321,7 @@ Part E—Administration  </td>
 
   <tr>
 
-    <td> 1636c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1636c" data-uslm-ref="/us/usc/t7/s1636c">1636c.</a>  </td>
 
     <td> Fees.  </td>
 
@@ -329,7 +329,7 @@ Part E—Administration  </td>
 
   <tr>
 
-    <td> 1636d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1636d" data-uslm-ref="/us/usc/t7/s1636d">1636d.</a>  </td>
 
     <td> Recordkeeping.  </td>
 
@@ -337,7 +337,7 @@ Part E—Administration  </td>
 
   <tr>
 
-    <td> 1636e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1636e" data-uslm-ref="/us/usc/t7/s1636e">1636e.</a>  </td>
 
     <td> Voluntary reporting.  </td>
 
@@ -345,7 +345,7 @@ Part E—Administration  </td>
 
   <tr>
 
-    <td> 1636f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1636f" data-uslm-ref="/us/usc/t7/s1636f">1636f.</a>  </td>
 
     <td> Publication of information on retail purchase prices for representative meat products.  </td>
 
@@ -353,7 +353,7 @@ Part E—Administration  </td>
 
   <tr>
 
-    <td> 1636g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1636g" data-uslm-ref="/us/usc/t7/s1636g">1636g.</a>  </td>
 
     <td> Suspension authority regarding specific terms of price reporting requirements.  </td>
 
@@ -361,7 +361,7 @@ Part E—Administration  </td>
 
   <tr>
 
-    <td> 1636h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1636h" data-uslm-ref="/us/usc/t7/s1636h">1636h.</a>  </td>
 
     <td> Federal preemption.  </td>
 
@@ -377,7 +377,7 @@ SUBCHAPTER III—DAIRY PRODUCT MANDATORY REPORTING  </td>
 
   <tr>
 
-    <td> 1637.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1637" data-uslm-ref="/us/usc/t7/s1637">1637.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -385,7 +385,7 @@ SUBCHAPTER III—DAIRY PRODUCT MANDATORY REPORTING  </td>
 
   <tr>
 
-    <td> 1637a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1637a" data-uslm-ref="/us/usc/t7/s1637a">1637a.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -393,7 +393,7 @@ SUBCHAPTER III—DAIRY PRODUCT MANDATORY REPORTING  </td>
 
   <tr>
 
-    <td> 1637b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1637b" data-uslm-ref="/us/usc/t7/s1637b">1637b.</a>  </td>
 
     <td> Mandatory reporting for dairy products.  </td>
 
@@ -409,7 +409,7 @@ SUBCHAPTER IV—COUNTRY OF ORIGIN LABELING  </td>
 
   <tr>
 
-    <td> 1638.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1638" data-uslm-ref="/us/usc/t7/s1638">1638.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -417,7 +417,7 @@ SUBCHAPTER IV—COUNTRY OF ORIGIN LABELING  </td>
 
   <tr>
 
-    <td> 1638a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1638a" data-uslm-ref="/us/usc/t7/s1638a">1638a.</a>  </td>
 
     <td> Notice of country of origin.  </td>
 
@@ -425,7 +425,7 @@ SUBCHAPTER IV—COUNTRY OF ORIGIN LABELING  </td>
 
   <tr>
 
-    <td> 1638b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1638b" data-uslm-ref="/us/usc/t7/s1638b">1638b.</a>  </td>
 
     <td> Enforcement.  </td>
 
@@ -433,7 +433,7 @@ SUBCHAPTER IV—COUNTRY OF ORIGIN LABELING  </td>
 
   <tr>
 
-    <td> 1638c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1638c" data-uslm-ref="/us/usc/t7/s1638c">1638c.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -441,7 +441,7 @@ SUBCHAPTER IV—COUNTRY OF ORIGIN LABELING  </td>
 
   <tr>
 
-    <td> 1638d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1638d" data-uslm-ref="/us/usc/t7/s1638d">1638d.</a>  </td>
 
     <td> Applicability.  </td>
 

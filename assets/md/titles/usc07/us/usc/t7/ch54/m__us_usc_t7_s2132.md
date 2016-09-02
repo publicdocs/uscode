@@ -15,7 +15,7 @@
 
 ## § 2132. Definitions
 
-When used in this chapter—
+    When used in this chapter—
 
     (a) The term “person” includes any individual, partnership, firm, joint stock company, corporation, association, trust, estate, or other legal entity;
 

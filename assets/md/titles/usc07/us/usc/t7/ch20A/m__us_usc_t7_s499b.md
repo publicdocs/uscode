@@ -15,7 +15,7 @@
 
 ## § 499b. Unfair conduct
 
-It shall be unlawful in or in connection with any transaction in interstate or foreign commerce:
+    It shall be unlawful in or in connection with any transaction in interstate or foreign commerce:
 
     (1) For any commission merchant, dealer, or broker to engage in or use any unfair, unreasonable, discriminatory, or deceptive practice in connection with the weighing, counting, or in any way determining the quantity of any perishable agricultural commodity received, bought, sold, shipped, or handled in interstate or foreign commerce.
 

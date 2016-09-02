@@ -15,7 +15,7 @@
 
 ## § 92. Definitions
 
-When used in this chapter—
+    When used in this chapter—
 
     (a) “Naval stores” means spirits of turpentine and rosin.
 

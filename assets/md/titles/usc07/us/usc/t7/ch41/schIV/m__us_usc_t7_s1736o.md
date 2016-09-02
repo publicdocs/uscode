@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch41/schIV/m__us_usc_t7_s1736m, 1736n.md) | [Next](./../../../../..//us/usc/t7/ch41/schIV/m__us_usc_t7_s1736o–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1736o)
+[Previous](./../../../../..//us/usc/t7/ch41/schIV/m__us_usc_t7_s1736l.md) | [Next](./../../../../..//us/usc/t7/ch41/schIV/m__us_usc_t7_s1736o–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1736o)
 
 ## § 1736o. Food for progress
 
@@ -419,7 +419,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch41/schIV/m__us_usc_t7_s1736m, 1736n.md) | [Next](./../../../../..//us/usc/t7/ch41/schIV/m__us_usc_t7_s1736o–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1736o)
+[Previous](./../../../../..//us/usc/t7/ch41/schIV/m__us_usc_t7_s1736l.md) | [Next](./../../../../..//us/usc/t7/ch41/schIV/m__us_usc_t7_s1736o–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1736o)
 
 ----------
 ----------

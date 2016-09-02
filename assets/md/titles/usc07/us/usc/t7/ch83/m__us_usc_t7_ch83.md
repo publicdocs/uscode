@@ -33,7 +33,7 @@ SUBCHAPTER I—FINDINGS, POLICY, AND PURPOSE  </td>
 
   <tr>
 
-    <td> 5201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5201" data-uslm-ref="/us/usc/t7/s5201">5201.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—FINDINGS, POLICY, AND PURPOSE  </td>
 
   <tr>
 
-    <td> 5202.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5202" data-uslm-ref="/us/usc/t7/s5202">5202.</a>  </td>
 
     <td> Policy.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—FINDINGS, POLICY, AND PURPOSE  </td>
 
   <tr>
 
-    <td> 5203.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5203" data-uslm-ref="/us/usc/t7/s5203">5203.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -73,7 +73,7 @@ Part A—General Provisions  </td>
 
   <tr>
 
-    <td> 5211, 5212.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5211" data-uslm-ref="/us/usc/t7/s5211">5211</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5212" data-uslm-ref="/us/usc/t7/s5212">5212.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -81,7 +81,7 @@ Part A—General Provisions  </td>
 
   <tr>
 
-    <td> 5213.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5213" data-uslm-ref="/us/usc/t7/s5213">5213.</a>  </td>
 
     <td> Joint development assistance agreements with certain trading partners.  </td>
 
@@ -89,7 +89,7 @@ Part A—General Provisions  </td>
 
   <tr>
 
-    <td> 5214.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5214" data-uslm-ref="/us/usc/t7/s5214">5214.</a>  </td>
 
     <td> Reorganization evaluation.  </td>
 
@@ -97,7 +97,9 @@ Part A—General Provisions  </td>
 
   <tr>
 
-    <td> 5215, 5216. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5215" data-uslm-ref="/us/usc/t7/s5215">5215</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5216" data-uslm-ref="/us/usc/t7/s5216">5216.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -111,7 +113,7 @@ Part B—Foreign Agricultural Service  </td>
 
   <tr>
 
-    <td> 5231 to 5233.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5231" data-uslm-ref="/us/usc/t7/s5231">5231</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5233" data-uslm-ref="/us/usc/t7/s5233">5233.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -119,7 +121,7 @@ Part B—Foreign Agricultural Service  </td>
 
   <tr>
 
-    <td> 5234.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5234" data-uslm-ref="/us/usc/t7/s5234">5234.</a>  </td>
 
     <td> Cooperator organizations.  </td>
 
@@ -127,7 +129,7 @@ Part B—Foreign Agricultural Service  </td>
 
   <tr>
 
-    <td> 5235.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5235" data-uslm-ref="/us/usc/t7/s5235">5235.</a>  </td>
 
     <td> Authorization of additional appropriations.  </td>
 

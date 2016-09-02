@@ -15,7 +15,7 @@
 
 ## § 1520. Producer eligibility
 
-Except as otherwise provided in this subchapter, a producer shall not be denied insurance under this subchapter if—
+    Except as otherwise provided in this subchapter, a producer shall not be denied insurance under this subchapter if—
 
     (1) for purposes of catastrophic risk protection coverage, the producer is a “person” (as defined by the Secretary); and
 

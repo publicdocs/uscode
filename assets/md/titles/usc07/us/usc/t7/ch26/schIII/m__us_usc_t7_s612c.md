@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch26/schIII/m__us_usc_t7_s612a, 612b.md) | [Next](./../../../../..//us/usc/t7/ch26/schIII/m__us_usc_t7_s612c–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs612c)
+[Previous](./../../../../..//us/usc/t7/ch26/schIII/m__us_usc_t7_s612.md) | [Next](./../../../../..//us/usc/t7/ch26/schIII/m__us_usc_t7_s612c–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs612c)
 
 ## § 612c. Appropriation to encourage exportation and domestic consumption of agricultural products
 
@@ -261,7 +261,11 @@
 
 >                 “(ii) to purchase surplus agriculture commodities through section 32 of the Agricultural Adjustment Act ([7 U.S.C. 601][/us/usc/t7/s601] et seq.) \[probably means section 32 of act Aug. 24, 1935, which is classified to [section 612c of this title][/us/usc/t7/s612c]\]; and
 
->                 “(iii) to make direct purchases of agricultural commodities and other foods for distribution to recipient agencies under—         “(I) the commodity distribution and commodity supplemental food programs established under sections 4(a) and 5 of the Agriculture and Consumer Protection Act of 1973 \[[Pub. L. 93–86][/us/pl/93/86]\] ([7 U.S.C. 612c][/us/usc/t7/s612c] note);
+>                 “(iii)
+
+>                  to make direct purchases of agricultural commodities and other foods for distribution to recipient agencies under—
+
+>                          “(I) the commodity distribution and commodity supplemental food programs established under sections 4(a) and 5 of the Agriculture and Consumer Protection Act of 1973 \[[Pub. L. 93–86][/us/pl/93/86]\] ([7 U.S.C. 612c][/us/usc/t7/s612c] note);
 
 >                          “(II) the program established under section 4(b) of the Food Stamp Act of 1977 \[now the Food and Nutrition Act of 2008\] ([7 U.S.C. 2013(b)][/us/usc/t7/s2013/b]);
 
@@ -349,7 +353,11 @@
 
 >                 “(ii) to purchase surplus agricultural commodities through section 32 of the Act entitled ‘An Act to amend the Agricultural Adjustment Act, and for other purposes’, approved August 24, 1935 ([7 U.S.C. 612c][/us/usc/t7/s612c]); and
 
->                 “(iii) to make direct purchases of agricultural commodities and other foods for distribution to recipient agencies under—         “(I) the commodity distribution and commodity supplemental food programs established under sections 4(a) and 5 of the Agriculture and Consumer Protection Act of 1973 \[[Pub. L. 93–86][/us/pl/93/86]\] ([7 U.S.C. 612c][/us/usc/t7/s612c] note);
+>                 “(iii)
+
+>                  to make direct purchases of agricultural commodities and other foods for distribution to recipient agencies under—
+
+>                          “(I) the commodity distribution and commodity supplemental food programs established under sections 4(a) and 5 of the Agriculture and Consumer Protection Act of 1973 \[[Pub. L. 93–86][/us/pl/93/86]\] ([7 U.S.C. 612c][/us/usc/t7/s612c] note);
 
 >                          “(II) the program established under section 4(b) of the Food Stamp Act of 1977 \[now the Food and Nutrition Act of 2008\] ([7 U.S.C. 2013(b)][/us/usc/t7/s2013/b]); and
 
@@ -851,7 +859,7 @@ Acts [June 25, 1940, ch. 421, § 1][/us/act/1940-06-25/ch421/s1], [54 Stat. 56
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch26/schIII/m__us_usc_t7_s612a, 612b.md) | [Next](./../../../../..//us/usc/t7/ch26/schIII/m__us_usc_t7_s612c–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs612c)
+[Previous](./../../../../..//us/usc/t7/ch26/schIII/m__us_usc_t7_s612.md) | [Next](./../../../../..//us/usc/t7/ch26/schIII/m__us_usc_t7_s612c–1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs612c)
 
 ----------
 ----------

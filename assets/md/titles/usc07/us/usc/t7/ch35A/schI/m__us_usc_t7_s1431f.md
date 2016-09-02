@@ -15,7 +15,7 @@
 
 ## § 1431f. Assistance to foreign countries to mitigate effects of HIV and AIDS
 
-On and after November 10, 2005, of any shipments of commodities made pursuant to [section 1431(b) of this title][/us/usc/t7/s1431/b], the Secretary of Agriculture shall, to the extent practicable, direct that tonnage equal in value to not more than $25,000,000 shall be made available to foreign countries to assist in mitigating the effects of the Human Immunodeficiency Virus and Acquired Immune Deficiency Syndrome on communities, including the provision of—
+    On and after November 10, 2005, of any shipments of commodities made pursuant to [section 1431(b) of this title][/us/usc/t7/s1431/b], the Secretary of Agriculture shall, to the extent practicable, direct that tonnage equal in value to not more than $25,000,000 shall be made available to foreign countries to assist in mitigating the effects of the Human Immunodeficiency Virus and Acquired Immune Deficiency Syndrome on communities, including the provision of—
 
     (1)
 

@@ -15,7 +15,7 @@
 
 ## § 473c–1. Offenses in relation to sampling of cotton for classification
 
-It shall be unlawful—
+    It shall be unlawful—
 
     (a) for any person sampling cotton for classification under this chapter knowingly to sample cotton improperly, or to identify cotton samples improperly, or to accept money or other consideration, directly or indirectly, for any neglect or improper performance of duty as a sampler;
 

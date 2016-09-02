@@ -15,7 +15,7 @@
 
 ## § 1428. Definitions
 
-For the purposes of this Act—
+    For the purposes of this Act—
 
     (a) A commodity shall be considered storable upon determination by the Secretary that, in normal trade practice, it is stored for substantial periods of time and that it can be stored under the price-support program without excessive loss through deterioration or spoilage or without excessive cost for storage for such periods as will permit its disposition without substantial impairment of the effectiveness of the price-support program.
 

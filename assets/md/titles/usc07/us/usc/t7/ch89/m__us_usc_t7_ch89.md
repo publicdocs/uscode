@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs6001" data-uslm-ref="/us/usc/t7/s6001">6001.</a>  </td>
 
     <td> Findings and declaration of policy.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6002.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs6002" data-uslm-ref="/us/usc/t7/s6002">6002.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6003.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs6003" data-uslm-ref="/us/usc/t7/s6003">6003.</a>  </td>
 
     <td> Issuance of plans.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6004.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs6004" data-uslm-ref="/us/usc/t7/s6004">6004.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 6005.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs6005" data-uslm-ref="/us/usc/t7/s6005">6005.</a>  </td>
 
     <td> Required terms in plans.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 6006.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs6006" data-uslm-ref="/us/usc/t7/s6006">6006.</a>  </td>
 
     <td> Permissive terms in plans.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 6007.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs6007" data-uslm-ref="/us/usc/t7/s6007">6007.</a>  </td>
 
     <td> Assessments.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 6008.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs6008" data-uslm-ref="/us/usc/t7/s6008">6008.</a>  </td>
 
     <td> Petition and review.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 6009.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs6009" data-uslm-ref="/us/usc/t7/s6009">6009.</a>  </td>
 
     <td> Enforcement.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 6010.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs6010" data-uslm-ref="/us/usc/t7/s6010">6010.</a>  </td>
 
     <td> Investigations and power to subpoena.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 6011.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs6011" data-uslm-ref="/us/usc/t7/s6011">6011.</a>  </td>
 
     <td> Requirement of referendum.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 6012.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs6012" data-uslm-ref="/us/usc/t7/s6012">6012.</a>  </td>
 
     <td> Suspension or termination of plan.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 6013.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs6013" data-uslm-ref="/us/usc/t7/s6013">6013.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

@@ -15,7 +15,7 @@
 
 ## § 4315. Certification of organizations; applicable criteria and considerations
 
-The eligibility of any organization to represent producers of flowers and plants of any producing area of the United States or importers of flowers and plants, for purposes of requesting the issuance of an order under [section 4304 of this title][/us/usc/t7/s4304], or making nominations under [section 4306(2) of this title][/us/usc/t7/s4306/2], shall be certified by the Secretary. Certification shall be based, in addition to other available information, upon a factual report submitted by the organization which shall contain information deemed relevant and specified by the Secretary for the making of such determination, including, but not limited to, the following:
+    The eligibility of any organization to represent producers of flowers and plants of any producing area of the United States or importers of flowers and plants, for purposes of requesting the issuance of an order under [section 4304 of this title][/us/usc/t7/s4304], or making nominations under [section 4306(2) of this title][/us/usc/t7/s4306/2], shall be certified by the Secretary. Certification shall be based, in addition to other available information, upon a factual report submitted by the organization which shall contain information deemed relevant and specified by the Secretary for the making of such determination, including, but not limited to, the following:
 
     (1) geographic territory covered by the organization’s active membership;
 
@@ -33,7 +33,7 @@ The eligibility of any organization to represent producers of flowers and plants
 
     (8) the organization’s ability and willingness to further the aims and objectives of this chapter.
 
-        The primary consideration in determining the eligibility of any organization shall be whether its membership consists of a substantial number of producers and importers who produce and import a substantial volume of flowers and plants. The Secretary shall certify any organization which is found to be eligible under this section, and the Secretary’s determination as to eligibility shall be final. Whenever more than one organization is certified in any geographic area, such organizations may caucus to determine the area’s nominations under [section 4306(2) of this title][/us/usc/t7/s4306/2].
+    The primary consideration in determining the eligibility of any organization shall be whether its membership consists of a substantial number of producers and importers who produce and import a substantial volume of flowers and plants. The Secretary shall certify any organization which is found to be eligible under this section, and the Secretary’s determination as to eligibility shall be final. Whenever more than one organization is certified in any geographic area, such organizations may caucus to determine the area’s nominations under [section 4306(2) of this title][/us/usc/t7/s4306/2].
 
 ([Pub. L. 97–98, title XVII, § 1716][/us/pl/97/98/s1716], Dec. 22, 1981, [95 Stat. 1357][/us/stat/95/1357].)
 

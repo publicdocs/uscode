@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch24/m__us_usc_t7_s551 to 568.md) | [Next](./../../../..//us/usc/t7/ch25/m__us_usc_t7_s581.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch25)
+[Previous](./../../../..//us/usc/t7/ch24/m__us_usc_t7_ch24.md) | [Next](./../../../..//us/usc/t7/ch25/m__us_usc_t7_s581.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch25)
 
 ## CHAPTER 25—EXPORT STANDARDS FOR APPLES
 
@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 581.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs581" data-uslm-ref="/us/usc/t7/s581">581.</a>  </td>
 
     <td> Standards of export; establishment; shipping without certificate forbidden; hearings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 582.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs582" data-uslm-ref="/us/usc/t7/s582">582.</a>  </td>
 
     <td> Notice of establishment of standards; shipments under contracts made before adoption of standards.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 583.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs583" data-uslm-ref="/us/usc/t7/s583">583.</a>  </td>
 
     <td> Foreign standards; certification of compliance.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 584.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs584" data-uslm-ref="/us/usc/t7/s584">584.</a>  </td>
 
     <td> Shipments of less than carload lots; exemptions.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 585.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs585" data-uslm-ref="/us/usc/t7/s585">585.</a>  </td>
 
     <td> Fees for inspection and certification; certificates as prima facie evidence.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 586.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs586" data-uslm-ref="/us/usc/t7/s586">586.</a>  </td>
 
     <td> Refusal of certificates for violations of laws; penalties for violations.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 587.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs587" data-uslm-ref="/us/usc/t7/s587">587.</a>  </td>
 
     <td> Rules and regulations; cooperation with other agencies; compensation of officers and employees; effect on other laws.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 588.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs588" data-uslm-ref="/us/usc/t7/s588">588.</a>  </td>
 
     <td> Separability.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 589.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs589" data-uslm-ref="/us/usc/t7/s589">589.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 590.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs590" data-uslm-ref="/us/usc/t7/s590">590.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -107,7 +107,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch24/m__us_usc_t7_s551 to 568.md) | [Next](./../../../..//us/usc/t7/ch25/m__us_usc_t7_s581.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch25)
+[Previous](./../../../..//us/usc/t7/ch24/m__us_usc_t7_ch24.md) | [Next](./../../../..//us/usc/t7/ch25/m__us_usc_t7_s581.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch25)
 
 ----------
 ----------

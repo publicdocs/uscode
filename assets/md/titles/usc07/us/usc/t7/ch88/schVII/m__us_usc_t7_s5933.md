@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch88/schVII/m__us_usc_t7_s5931, 5932.md) | [Next](./../../../../..//us/usc/t7/ch88/schVII/m__us_usc_t7_s5934.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5933)
+[Previous](./../../../../..//us/usc/t7/ch88/schVII/m__us_usc_t7_s5930.md) | [Next](./../../../../..//us/usc/t7/ch88/schVII/m__us_usc_t7_s5934.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5933)
 
 ## § 5933. Assistive technology program for farmers with disabilities
 
@@ -97,7 +97,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch88/schVII/m__us_usc_t7_s5931, 5932.md) | [Next](./../../../../..//us/usc/t7/ch88/schVII/m__us_usc_t7_s5934.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5933)
+[Previous](./../../../../..//us/usc/t7/ch88/schVII/m__us_usc_t7_s5930.md) | [Next](./../../../../..//us/usc/t7/ch88/schVII/m__us_usc_t7_s5934.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5933)
 
 ----------
 ----------

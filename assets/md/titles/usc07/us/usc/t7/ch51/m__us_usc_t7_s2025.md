@@ -123,9 +123,13 @@
 
                     (II) __Alternative method of collection__ 
 
-                        (aa) In general    If the chief executive officer of the State fails to make the payment under subclause (I) within a reasonable period of time determined by the Secretary, the Secretary may reduce any amount due to the State agency under any other provision of this section by the amount required to be paid under clause (i).
+                        (aa) __In general__ 
 
-                        (bb) Accrual of interest    During any period of time determined by the Secretary under item (aa), interest on the payment under subclause (I) shall not accrue under [section 2022(a)(2) of this title][/us/usc/t7/s2022/a/2].
+                            If the chief executive officer of the State fails to make the payment under subclause (I) within a reasonable period of time determined by the Secretary, the Secretary may reduce any amount due to the State agency under any other provision of this section by the amount required to be paid under clause (i).
+
+                        (bb) __Accrual of interest__ 
+
+                            During any period of time determined by the Secretary under item (aa), interest on the payment under subclause (I) shall not accrue under [section 2022(a)(2) of this title][/us/usc/t7/s2022/a/2].
 
             (F) __Use of portion of liability amount for new investment__ 
 

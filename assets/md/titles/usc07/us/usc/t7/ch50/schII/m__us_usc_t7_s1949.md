@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch50/schII/m__us_usc_t7_s1947, 1948.md) | [Next](./../../../../..//us/usc/t7/ch50/schIII/m__us_usc_t7_ch50_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1949)
+[Previous](./../../../../..//us/usc/t7/ch50/schII/m__us_usc_t7_s1946.md) | [Next](./../../../../..//us/usc/t7/ch50/schIII/m__us_usc_t7_ch50_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1949)
 
 ## § 1949. Graduation of borrowers with operating loans or guarantees to private commercial credit
 
@@ -43,7 +43,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch50/schII/m__us_usc_t7_s1947, 1948.md) | [Next](./../../../../..//us/usc/t7/ch50/schIII/m__us_usc_t7_ch50_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1949)
+[Previous](./../../../../..//us/usc/t7/ch50/schII/m__us_usc_t7_s1946.md) | [Next](./../../../../..//us/usc/t7/ch50/schIII/m__us_usc_t7_ch50_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1949)
 
 ----------
 ----------

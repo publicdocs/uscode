@@ -15,7 +15,7 @@
 
 ## § 178h. Powers of Secretary of Commerce
 
-In carrying out the provisions of this subchapter, the Secretary of Commerce is authorized to—
+    In carrying out the provisions of this subchapter, the Secretary of Commerce is authorized to—
 
     (a) make grants to States, education institutions, scientific organizations, and Indian tribes as defined in the Indian Self-Determination and Education Assistance Act ([Public Law 93–638][/us/pl/93/638], [25 U.S.C. 450][/us/usc/t25/s450]), and enter into contracts with such institutions and organizations and with industrial or engineering firms;
 

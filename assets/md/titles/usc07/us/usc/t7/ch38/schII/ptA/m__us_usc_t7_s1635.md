@@ -15,7 +15,7 @@
 
 ## § 1635. Purpose
 
-The purpose of this subchapter is to establish a program of information regarding the marketing of cattle, swine, lambs, and products of such livestock that—
+    The purpose of this subchapter is to establish a program of information regarding the marketing of cattle, swine, lambs, and products of such livestock that—
 
     (1) provides information that can be readily understood by producers, packers, and other market participants, including information with respect to the pricing, contracting for purchase, and supply and demand conditions for livestock, livestock production, and livestock products;
 
@@ -33,123 +33,157 @@ The purpose of this subchapter is to establish a program of information regardin
 
 >     “This title \[enacting sections 198 to 198b and 1635 to 1636h of this title and this note, amending sections 192 and 5712 of this title, repealing [section 229a of this title][/us/usc/t7/s229a], and amending provisions set out as a note under [section 1421 of this title][/us/usc/t7/s1421]\] may be cited as the ‘Livestock Mandatory Reporting Act of 1999’.
 
- __“Subtitle A—Livestock Mandatory Reporting__ 
+> “Subtitle A— __Livestock Mandatory Reporting__ 
 
-    “SEC. 911. LIVESTOCK MANDATORY REPORTING.
+> “SEC. 911. __LIVESTOCK MANDATORY REPORTING.__ 
 
-    “\[Enacted this subchapter.\]
+>     “\[Enacted this subchapter.\]
 
-    “SEC. 912. UNJUST DISQUALIFICATION.
+> “SEC. 912. __UNJUST DISQUALIFICATION.__ 
 
-    “\[Amended [section 192 of this title][/us/usc/t7/s192].\]
+>     “\[Amended [section 192 of this title][/us/usc/t7/s192].\]
 
-    “SEC. 913. CONFORMING AMENDMENTS.
+> “SEC. 913. __CONFORMING AMENDMENTS.__ 
 
-    “(a) \[Repealed [section 229a of this title][/us/usc/t7/s229a].\]
+>     “(a) __\[Repealed__  __[__  __section 229a of this title__  __][/us/usc/t7/s229a]__  __.\]__ 
 
-    “(b) \[Amended section 101(a) \[title XI, § 1127\] of [Pub. L. 105–277][/us/pl/105/277], former [7 U.S.C. 1421][/us/usc/t7/s1421] note.\]
+>     “(b) \[Amended section 101(a) \[title XI, § 1127\] of [Pub. L. 105–277][/us/pl/105/277], former [7 U.S.C. 1421][/us/usc/t7/s1421] note.\]
 
- __“Subtitle B—Related Beef Reporting Provisions__ 
+> “Subtitle B— __Related Beef Reporting Provisions__ 
 
-    “SEC. 921. BEEF EXPORT REPORTING.
+> “SEC. 921. __BEEF EXPORT REPORTING.__ 
 
-    “\[Amended [section 5712 of this title][/us/usc/t7/s5712].\]
+>     “\[Amended [section 5712 of this title][/us/usc/t7/s5712].\]
 
-    “SEC. 922. EXPORT CERTIFICATES FOR MEAT AND MEAT FOOD PRODUCTS.
+> “SEC. 922. __EXPORT CERTIFICATES FOR MEAT AND MEAT FOOD PRODUCTS.__ 
 
-    “Not later than 1 year after the date of the enactment of this Act \[Oct. 22, 1999\], the Secretary of Agriculture shall fully implement a program, through the use of a streamlined electronic online system, to issue and report export certificates for all meat and meat products.
+>     “Not later than 1 year after the date of the enactment of this Act \[Oct. 22, 1999\], the Secretary of Agriculture shall fully implement a program, through the use of a streamlined electronic online system, to issue and report export certificates for all meat and meat products.
 
-    “SEC. 923. IMPORTS OF BEEF, BEEF VARIETY MEATS, AND CATTLE.
+> “SEC. 923. __IMPORTS OF BEEF, BEEF VARIETY MEATS, AND CATTLE.__ 
 
-    “(a) In General.—The Secretary of Agriculture shall—
+>     “(a) __In General.—__ 
 
-    “(1) obtain information regarding the import of beef and beef variety meats (consistent with the information categories reported for beef exports under section 602(a) of the Agricultural Trade Act of 1978 ([7 U.S.C. 5712(a)][/us/usc/t7/s5712/a])) and cattle using available information sources; and
+>     The Secretary of Agriculture shall—
 
-    “(2) publish the information in a timely manner weekly and in a form that maximizes the utility of the information to beef producers, packers, and other market participants.
+>         “(1) obtain information regarding the import of beef and beef variety meats (consistent with the information categories reported for beef exports under section 602(a) of the Agricultural Trade Act of 1978 ([7 U.S.C. 5712(a)][/us/usc/t7/s5712/a])) and cattle using available information sources; and
 
-    “(b) Content.—The published information shall include information reporting the year-to-date cumulative annual imports of beef, beef variety meats, and cattle for the current and prior marketing years.
+>         “(2) publish the information in a timely manner weekly and in a form that maximizes the utility of the information to beef producers, packers, and other market participants.
 
-    “SEC. 924. AUTHORIZATION OF APPROPRIATIONS.
+>     “(b) __Content.—__ 
 
-    “There are authorized to be appropriated such sums as are necessary to carry out sections 922 and 923.
+>     The published information shall include information reporting the year-to-date cumulative annual imports of beef, beef variety meats, and cattle for the current and prior marketing years.
 
- __“Subtitle C—Related Swine Reporting Provisions__ 
+> “SEC. 924. __AUTHORIZATION OF APPROPRIATIONS.__ 
 
-    “SEC. 931. IMPROVEMENT OF HOGS AND PIGS INVENTORY REPORT.
+>     “There are authorized to be appropriated such sums as are necessary to carry out sections 922 and 923.
 
-    “(a) In General.—Effective beginning not later than 90 days after the date of the enactment of this Act \[Oct. 22, 1999\], the Secretary of Agriculture shall publish on a monthly basis the Hogs and Pigs Inventory Report.
+> “Subtitle C— __Related Swine Reporting Provisions__ 
 
-    “(b) Gestating Sows.—The Secretary shall include in a separate category of the Report the number of bred female swine that are assumed, or have been confirmed, to be pregnant during the reporting period.
+> “SEC. 931. __IMPROVEMENT OF HOGS AND PIGS INVENTORY REPORT.__ 
 
-    “(c) Phase-Out.—Effective for a period of eight quarters after the implementation of the monthly report required under subsection (a), the Secretary shall continue to maintain and publish on a quarterly basis the Hogs and Pigs Inventory Report published on or before the date of the enactment of this Act.
+>     “(a) __In General.—__ 
 
-    “SEC. 932. BARROW AND GILT SLAUGHTER.
+>     Effective beginning not later than 90 days after the date of the enactment of this Act \[Oct. 22, 1999\], the Secretary of Agriculture shall publish on a monthly basis the Hogs and Pigs Inventory Report.
 
-    “(a) In General.—The Secretary of Agriculture shall promptly obtain and maintain, through an appropriate collection system or valid sampling system at packing plants, information on the total slaughter of swine that reflects differences in numbers between barrows and gilts, as determined by the Secretary.
+>     “(b) __Gestating Sows.—__ 
 
-    “(b) Availability.—The information shall be made available to swine producers, packers, and other market participants in a report published by the Secretary not less frequently than weekly.
+>     The Secretary shall include in a separate category of the Report the number of bred female swine that are assumed, or have been confirmed, to be pregnant during the reporting period.
 
-    “(c) Administration.—
+>     “(c) __Phase-Out.—__ 
 
-    “(1) In general.—The Secretary shall administer the collection and compilation of information, and the publication of the report, required by this section.
+>     Effective for a period of eight quarters after the implementation of the monthly report required under subsection (a), the Secretary shall continue to maintain and publish on a quarterly basis the Hogs and Pigs Inventory Report published on or before the date of the enactment of this Act.
 
-    “(2) Nondelegation.—The Secretary shall not delegate the collection, compilation, or administration of the information required by this section to any packer (as defined in section 201 of the Packers and Stockyards Act, 1921 ([7 U.S.C. 191][/us/usc/t7/s191])).
+> “SEC. 932. __BARROW AND GILT SLAUGHTER.__ 
 
-    “SEC. 933. AVERAGE TRIM LOSS CORRELATION STUDY AND REPORT.
+>     “(a) __In General.—__ 
 
-    “(a) In General.—The Secretary of Agriculture shall contract with a qualified contractor to conduct a correlation study and prepare a report establishing a baseline and standards for determining and improving average trim loss measurements and processing techniques for pork processors to employ in the slaughter of swine.
+>     The Secretary of Agriculture shall promptly obtain and maintain, through an appropriate collection system or valid sampling system at packing plants, information on the total slaughter of swine that reflects differences in numbers between barrows and gilts, as determined by the Secretary.
 
-    “(b) Correlation Study and Report.—The study and report shall—
+>     “(b) __Availability.—__ 
 
-    “(1) analyze processing techniques that would assist the pork processing industry in improving procedures for uniformity and transparency in how trim loss is discounted (in dollars per hundred pounds carcass weight) by different packers and processors;
+>     The information shall be made available to swine producers, packers, and other market participants in a report published by the Secretary not less frequently than weekly.
 
-    “(2) analyze slaughter inspection procedures that could be improved so that trimming procedures and policies of the Secretary are uniform to the maximum extent determined practicable by the Secretary;
+>     “(c) __Administration.—__ 
 
-    “(3) determine how the Secretary may be able to foster improved breeding techniques and animal handling and transportation procedures through training programs made available to swine producers so as to minimize trim loss in slaughter processing; and
+>         “(1) __In general.—__ 
 
-    “(4) make recommendations that are designed to effect changes in the pork industry so as to achieve continuous improvement in average trim losses and discounts.
+>         The Secretary shall administer the collection and compilation of information, and the publication of the report, required by this section.
 
-    “(c) Subsequent Reports on Status of Improvements and Updates in Baseline.—Not less frequently than once every 2 years after the initial publication of the report required under this section, the Secretary shall make subsequent periodic reports that—
+>         “(2) __Nondelegation.—__ 
 
-    “(1) examine the status of the improvement in reducing trim loss discounts in the pork processing industry; and
+>         The Secretary shall not delegate the collection, compilation, or administration of the information required by this section to any packer (as defined in section 201 of the Packers and Stockyards Act, 1921 ([7 U.S.C. 191][/us/usc/t7/s191])).
 
-    “(2) update the baseline to reflect changes in trim loss discounts.
+> “SEC. 933. __AVERAGE TRIM LOSS CORRELATION STUDY AND REPORT.__ 
 
-    “(d) Submission of Reports to Congress, Producers, Packers, and Others.—The reports required under this section shall be made available to—
+>     “(a) __In General.—__ 
 
-    “(1) the public on the Internet;
+>     The Secretary of Agriculture shall contract with a qualified contractor to conduct a correlation study and prepare a report establishing a baseline and standards for determining and improving average trim loss measurements and processing techniques for pork processors to employ in the slaughter of swine.
 
-    “(2) the Committee on Agriculture of the House of Representatives;
+>     “(b) __Correlation Study and Report.—__ 
 
-    “(3) the Committee on Agriculture, Nutrition, and Forestry of the Senate;
+>     The study and report shall—
 
-    “(4) producers and packers; and
+>         “(1) analyze processing techniques that would assist the pork processing industry in improving procedures for uniformity and transparency in how trim loss is discounted (in dollars per hundred pounds carcass weight) by different packers and processors;
 
-    “(5) other market participants.
+>         “(2) analyze slaughter inspection procedures that could be improved so that trimming procedures and policies of the Secretary are uniform to the maximum extent determined practicable by the Secretary;
 
-    “SEC. 934. SWINE PACKER MARKETING CONTRACTS.
+>         “(3) determine how the Secretary may be able to foster improved breeding techniques and animal handling and transportation procedures through training programs made available to swine producers so as to minimize trim loss in slaughter processing; and
 
-    “\[Enacted sections 198 to 198b of this title.\]
+>         “(4) make recommendations that are designed to effect changes in the pork industry so as to achieve continuous improvement in average trim losses and discounts.
 
-    “SEC. 935. AUTHORIZATION OF APPROPRIATIONS.
+>     “(c) __Subsequent Reports on Status of Improvements and Updates in Baseline.—__ 
 
-    “There are authorized to be appropriated such sums as are necessary to carry out this subtitle and the amendments made by this subtitle.
+>     Not less frequently than once every 2 years after the initial publication of the report required under this section, the Secretary shall make subsequent periodic reports that—
 
- __“Subtitle D—Implementation__ 
+>         “(1) examine the status of the improvement in reducing trim loss discounts in the pork processing industry; and
 
-    “SEC. 941. REGULATIONS.
+>         “(2) update the baseline to reflect changes in trim loss discounts.
 
-    “(a) In General.—Not later than 180 days after the date of the enactment of this Act \[Oct. 22, 1999\], the Secretary of Agriculture shall publish final regulations to implement this title and the amendments made by this title.
+>     “(d) __Submission of Reports to Congress, Producers, Packers, and Others.—__ 
 
-    “(b) Publication of Proposed Regulations.—Not later than 90 days after the date of the enactment of this Act, the Secretary shall publish proposed regulations to implement this title and the amendments made by this title.
+>     The reports required under this section shall be made available to—
 
-    “(c) Comment Period.—The Secretary shall provide an opportunity for comment on the proposed regulations during the 30-day period beginning on the date of the publication of the proposed regulations.
+>         “(1) the public on the Internet;
 
-    “(d) Final Regulations.—Not later than 60 days after the conclusion of the comment period, the Secretary shall publish the final regulations and implement this title and the amendments made by this title.
+>         “(2) the Committee on Agriculture of the House of Representatives;
 
-    “SEC. 942. TERMINATION OF AUTHORITY.
+>         “(3) the Committee on Agriculture, Nutrition, and Forestry of the Senate;
 
-    “The authority provided by this title \[enacting sections 198 to 198b and 1635 to 1636h of this title and this note, amending sections 192 and 5712 of this title, repealing [section 229a of this title][/us/usc/t7/s229a], and amending provisions set out as a note under [section 1421 of this title][/us/usc/t7/s1421]\] and the amendments made by this title (other than section 911 of subtitle A \[enacting this subchapter\] and the amendments made by that section) terminate on September 30, 2015.”
+>         “(4) producers and packers; and
+
+>         “(5) other market participants.
+
+> “SEC. 934. __SWINE PACKER MARKETING CONTRACTS.__ 
+
+>     “\[Enacted sections 198 to 198b of this title.\]
+
+> “SEC. 935. __AUTHORIZATION OF APPROPRIATIONS.__ 
+
+>     “There are authorized to be appropriated such sums as are necessary to carry out this subtitle and the amendments made by this subtitle.
+
+> “Subtitle D— __Implementation__ 
+
+> “SEC. 941. __REGULATIONS.__ 
+
+>     “(a) __In General.—__ 
+
+>     Not later than 180 days after the date of the enactment of this Act \[Oct. 22, 1999\], the Secretary of Agriculture shall publish final regulations to implement this title and the amendments made by this title.
+
+>     “(b) __Publication of Proposed Regulations.—__ 
+
+>     Not later than 90 days after the date of the enactment of this Act, the Secretary shall publish proposed regulations to implement this title and the amendments made by this title.
+
+>     “(c) __Comment Period.—__ 
+
+>     The Secretary shall provide an opportunity for comment on the proposed regulations during the 30-day period beginning on the date of the publication of the proposed regulations.
+
+>     “(d) __Final Regulations.—__ 
+
+>     Not later than 60 days after the conclusion of the comment period, the Secretary shall publish the final regulations and implement this title and the amendments made by this title.
+
+> “SEC. 942. __TERMINATION OF AUTHORITY.__ 
+
+>     “The authority provided by this title \[enacting sections 198 to 198b and 1635 to 1636h of this title and this note, amending sections 192 and 5712 of this title, repealing [section 229a of this title][/us/usc/t7/s229a], and amending provisions set out as a note under [section 1421 of this title][/us/usc/t7/s1421]\] and the amendments made by this title (other than section 911 of subtitle A \[enacting this subchapter\] and the amendments made by that section) terminate on September 30, 2015.”
 
 ----------
 

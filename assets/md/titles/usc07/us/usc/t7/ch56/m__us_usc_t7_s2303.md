@@ -15,7 +15,7 @@
 
 ## § 2303. Prohibited practices
 
-It shall be unlawful for any handler knowingly to engage or permit any employee or agent to engage in the following practices:
+    It shall be unlawful for any handler knowingly to engage or permit any employee or agent to engage in the following practices:
 
     (a) To coerce any producer in the exercise of his right to join and belong to or to refrain from joining or belonging to an association of producers, or to refuse to deal with any producer because of the exercise of his right to join and belong to such an association; or
 

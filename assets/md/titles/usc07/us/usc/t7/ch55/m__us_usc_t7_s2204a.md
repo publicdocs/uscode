@@ -15,7 +15,7 @@
 
 ## § 2204a. Rural development; utilization of non-Federal offices; location of field units; interchange of personnel and facilities
 
-The Secretary of Agriculture shall utilize to the maximum extent practicable State, regional, district, county, local, or other Department of Agriculture offices to enhance rural development, and shall to the maximum extent practicable provide directly, or, in the case of agencies outside of the Department of Agriculture, through arrangements with the heads of such agencies, for—
+    The Secretary of Agriculture shall utilize to the maximum extent practicable State, regional, district, county, local, or other Department of Agriculture offices to enhance rural development, and shall to the maximum extent practicable provide directly, or, in the case of agencies outside of the Department of Agriculture, through arrangements with the heads of such agencies, for—
 
     (1) the location of all field units of the Federal Government concerned with rural development in the appropriate Department of Agriculture offices covering the geographical areas most similar to those covered by such field units, and
 

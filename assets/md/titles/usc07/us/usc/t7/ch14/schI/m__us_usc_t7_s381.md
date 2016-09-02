@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch14/schI/m__us_usc_t7_s380.md) | [Next](./../../../../..//us/usc/t7/ch14/schI/m__us_usc_t7_s382, 383.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs381)
+[Previous](./../../../../..//us/usc/t7/ch14/schI/m__us_usc_t7_s380.md) | [Next](./../../../../..//us/usc/t7/ch14/schI/m__us_usc_t7_s384.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs381)
 
 ## § 381. Omitted
 
@@ -19,9 +19,19 @@
 
     Section was from [act Mar. 2, 1901, ch. 805][/us/act/1901-03-02/ch805], [31 Stat. 935][/us/stat/31/935], the Agricultural Appropriation Act, 1902, and authorized the Secretary of Agriculture to employ personnel and to incur administrative expenses in carrying out the objects of the agricultural experiment station program. See [section 361g of this title][/us/usc/t7/s361g]. Similar provisions were contained in several prior appropriation acts.
 
+§§ 382, 383. __Repealed.__  __[__  __Aug. 11, 1955, ch. 790, § 2__  __][/us/act/1955-08-11/ch790/s2]__  __,__  __[__  __69 Stat. 674__  __][/us/stat/69/674]__  __, 675__ 
+
+    Section 382, acts [Mar. 16, 1906, ch. 951, § 6][/us/act/1906-03-16/ch951/s6], [34 Stat. 64][/us/stat/34/64]; [Feb. 24, 1925, ch. 308, § 6][/us/act/1925-02-24/ch308/s6], [43 Stat. 972][/us/stat/43/972], reserved the right to Congress to amend, suspend or repeal any and all of the provisions of act Mar. 16, 1906. See [section 361i of this title][/us/usc/t7/s361i].
+
+    Section 383, [act Oct. 1, 1918, ch. 178][/us/act/1918-10-01/ch178], [40 Stat. 998][/us/stat/40/998], authorized appropriations for the Georgia Experiment Station. See [section 361c of this title][/us/usc/t7/s361c].
+
+ __Existing Rights and Liabilities__ 
+
+    Any rights or liabilities existing under these sections as unaffected by repeal, see section 2 of act Aug. 11, 1955, set out as a note under former [section 361 of this title][/us/usc/t7/s361].
+
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch14/schI/m__us_usc_t7_s380.md) | [Next](./../../../../..//us/usc/t7/ch14/schI/m__us_usc_t7_s382, 383.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs381)
+[Previous](./../../../../..//us/usc/t7/ch14/schI/m__us_usc_t7_s380.md) | [Next](./../../../../..//us/usc/t7/ch14/schI/m__us_usc_t7_s384.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs381)
 
 ----------
 ----------
@@ -29,5 +39,16 @@
 [/us/act/1901-03-02/ch805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-02%2Fch805
 [/us/stat/31/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F935
 [/us/usc/t7/s361g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs361g
+[/us/act/1955-08-11/ch790/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch790%2Fs2
+[/us/stat/69/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F674
+[/us/act/1906-03-16/ch951/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-03-16%2Fch951%2Fs6
+[/us/stat/34/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F64
+[/us/act/1925-02-24/ch308/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-24%2Fch308%2Fs6
+[/us/stat/43/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F972
+[/us/usc/t7/s361i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs361i
+[/us/act/1918-10-01/ch178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-10-01%2Fch178
+[/us/stat/40/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F998
+[/us/usc/t7/s361c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs361c
+[/us/usc/t7/s361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs361
 
 

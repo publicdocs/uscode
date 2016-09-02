@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch41/schII/m__us_usc_t7_s1705, 1706.md) | [Next](./../../../../..//us/usc/t7/ch41/schII/m__us_usc_t7_s1707a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1707)
+[Previous](./../../../../..//us/usc/t7/ch41/schII/m__us_usc_t7_s1704c.md) | [Next](./../../../../..//us/usc/t7/ch41/schII/m__us_usc_t7_s1707a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1707)
 
 ## § 1707. Omitted
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch41/schII/m__us_usc_t7_s1705, 1706.md) | [Next](./../../../../..//us/usc/t7/ch41/schII/m__us_usc_t7_s1707a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1707)
+[Previous](./../../../../..//us/usc/t7/ch41/schII/m__us_usc_t7_s1704c.md) | [Next](./../../../../..//us/usc/t7/ch41/schII/m__us_usc_t7_s1707a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1707)
 
 ----------
 ----------

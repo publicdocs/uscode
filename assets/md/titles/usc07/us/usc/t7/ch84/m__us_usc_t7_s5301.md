@@ -15,7 +15,7 @@
 
 ## § 5301. Congressional statement of purposes
 
-The purposes of this chapter are to—
+    The purposes of this chapter are to—
 
     (1) make more effective use of Federal and State expenditures for nutrition monitoring, and enhance the performance and benefits of current Federal nutrition monitoring and related research activities;
 

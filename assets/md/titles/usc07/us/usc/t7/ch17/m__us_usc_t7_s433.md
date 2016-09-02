@@ -15,7 +15,7 @@
 
 ## § 433. Domestic raising of fur-bearing animals; classification
 
-For the purposes of all classification and administration of Acts of Congress, Executive orders, administrative orders, and regulations pertaining to—
+    For the purposes of all classification and administration of Acts of Congress, Executive orders, administrative orders, and regulations pertaining to—
 
     (a) fox, rabbit, mink, chinchilla, marten, fisher, muskrat, karakul and all other fur-bearing animals, raised in captivity for breeding or other useful purposes shall be deemed domestic animals;
 

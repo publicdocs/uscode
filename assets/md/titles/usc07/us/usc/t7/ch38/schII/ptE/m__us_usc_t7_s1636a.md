@@ -15,7 +15,7 @@
 
 ## § 1636a. Unlawful acts
 
-It shall be unlawful and a violation of this subchapter for any packer or other person subject to this subchapter (in the submission of information required under part B, C, or D of this subchapter, as determined by the Secretary) to willfully—
+    It shall be unlawful and a violation of this subchapter for any packer or other person subject to this subchapter (in the submission of information required under part B, C, or D of this subchapter, as determined by the Secretary) to willfully—
 
     (1) fail or refuse to provide, or delay the timely reporting of, accurate information to the Secretary (including estimated information);
 

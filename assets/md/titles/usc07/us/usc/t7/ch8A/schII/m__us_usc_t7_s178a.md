@@ -15,7 +15,7 @@
 
 ## § 178a. Definitions
 
-As used in this subchapter—
+    As used in this subchapter—
 
     (a) The term “State” means each of the fifty States, the District of Columbia, and the Commonwealth of Puerto Rico.
 

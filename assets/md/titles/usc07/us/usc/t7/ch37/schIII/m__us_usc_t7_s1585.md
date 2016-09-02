@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch37/schIII/m__us_usc_t7_s1583, 1584.md) | [Next](./../../../../..//us/usc/t7/ch37/schIII/m__us_usc_t7_s1586.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1585)
+[Previous](./../../../../..//us/usc/t7/ch37/schIII/m__us_usc_t7_s1582.md) | [Next](./../../../../..//us/usc/t7/ch37/schIII/m__us_usc_t7_s1586.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1585)
 
 ## § 1585. Certain seeds not adapted for general agricultural use
 
@@ -33,7 +33,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch37/schIII/m__us_usc_t7_s1583, 1584.md) | [Next](./../../../../..//us/usc/t7/ch37/schIII/m__us_usc_t7_s1586.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1585)
+[Previous](./../../../../..//us/usc/t7/ch37/schIII/m__us_usc_t7_s1582.md) | [Next](./../../../../..//us/usc/t7/ch37/schIII/m__us_usc_t7_s1586.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1585)
 
 ----------
 ----------

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch8/m__us_usc_t7_s156 to 161.md) | [Next](./../../../..//us/usc/t7/ch8/m__us_usc_t7_s162 to 164a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs161a)
+[Previous](./../../../..//us/usc/t7/ch8/m__us_usc_t7_s155.md) | [Next](./../../../..//us/usc/t7/ch8/m__us_usc_t7_s165.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs161a)
 
 ## § 161a. Omitted
 
@@ -23,9 +23,19 @@ Section was from the Department of Agriculture Appropriation Act, 1945, [act Jun
 
     [July 22, 1942, ch. 516][/us/act/1942-07-22/ch516], [56 Stat. 686][/us/stat/56/686].
 
+§§ 162 to 164a. __Repealed.__  __[__  __Pub. L. 106–224, title IV, § 438(a)(1)__  __][/us/pl/106/224/s438/a/1]__  __,__  __June 20, 2000__  __,__  __[__  __114 Stat. 454__  __][/us/stat/114/454]__ 
+
+    Section 162, [act Aug. 20, 1912, ch. 308, § 9][/us/act/1912-08-20/ch308/s9], [37 Stat. 318][/us/stat/37/318], authorized rules and regulations as necessary for carrying out the purposes of this chapter.
+
+    Section 163, acts [Aug. 20, 1912, ch. 308, § 10][/us/act/1912-08-20/ch308/s10], [37 Stat. 318][/us/stat/37/318]; [Pub. L. 97–461, § 2][/us/pl/97/461/s2], Jan. 12, 1983, [96 Stat. 2523][/us/stat/96/2523], set forth penalties for violations of provisions of this chapter or regulations promulgated thereunder.
+
+    Section 164, [act Aug. 20, 1912, ch. 308, § 10][/us/act/1912-08-20/ch308/s10], [37 Stat. 318][/us/stat/37/318], set forth duty of United States attorneys to prosecute violations of this chapter.
+
+    Section 164a, [act Aug. 20, 1912, ch. 308, § 10][/us/act/1912-08-20/ch308/s10], as added [May 1, 1928, ch. 462][/us/act/1928-05-01/ch462], [45 Stat. 468][/us/stat/45/468], authorized search and seizure of nursery stock and plant products by Department of Agriculture employees.
+
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch8/m__us_usc_t7_s156 to 161.md) | [Next](./../../../..//us/usc/t7/ch8/m__us_usc_t7_s162 to 164a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs161a)
+[Previous](./../../../..//us/usc/t7/ch8/m__us_usc_t7_s155.md) | [Next](./../../../..//us/usc/t7/ch8/m__us_usc_t7_s165.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs161a)
 
 ----------
 ----------
@@ -36,5 +46,18 @@ Section was from the Department of Agriculture Appropriation Act, 1945, [act Jun
 [/us/stat/57/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F408
 [/us/act/1942-07-22/ch516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-07-22%2Fch516
 [/us/stat/56/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F686
+[/us/pl/106/224/s438/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F224%2Fs438%2Fa%2F1
+[/us/stat/114/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F454
+[/us/act/1912-08-20/ch308/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-20%2Fch308%2Fs9
+[/us/stat/37/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F318
+[/us/act/1912-08-20/ch308/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-20%2Fch308%2Fs10
+[/us/stat/37/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F318
+[/us/pl/97/461/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F461%2Fs2
+[/us/stat/96/2523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2523
+[/us/act/1912-08-20/ch308/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-20%2Fch308%2Fs10
+[/us/stat/37/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F318
+[/us/act/1912-08-20/ch308/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-20%2Fch308%2Fs10
+[/us/act/1928-05-01/ch462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-01%2Fch462
+[/us/stat/45/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F468
 
 

@@ -15,7 +15,7 @@
 
 ## § 4804. Notice and hearing
 
-During the period beginning on January 1, 1986, and ending 30 days after receipt of a proposal for an initial order submitted by any person affected by this chapter, the Secretary shall—
+    During the period beginning on January 1, 1986, and ending 30 days after receipt of a proposal for an initial order submitted by any person affected by this chapter, the Secretary shall—
 
     (1) publish such proposed order; and
 

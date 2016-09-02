@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2131.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2131" data-uslm-ref="/us/usc/t7/s2131">2131.</a>  </td>
 
     <td> Congressional statement of policy.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2132.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2132" data-uslm-ref="/us/usc/t7/s2132">2132.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2133.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2133" data-uslm-ref="/us/usc/t7/s2133">2133.</a>  </td>
 
     <td> Licensing of dealers and exhibitors.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2134.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2134" data-uslm-ref="/us/usc/t7/s2134">2134.</a>  </td>
 
     <td> Valid license for dealers and exhibitors required.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2135.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2135" data-uslm-ref="/us/usc/t7/s2135">2135.</a>  </td>
 
     <td> Time period for disposal of dogs or cats by dealers or exhibitors.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2136.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2136" data-uslm-ref="/us/usc/t7/s2136">2136.</a>  </td>
 
     <td> Registration of research facilities, handlers, carriers and unlicensed exhibitors.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2137.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2137" data-uslm-ref="/us/usc/t7/s2137">2137.</a>  </td>
 
     <td> Purchase of dogs or cats by research facilities prohibited except from authorized operators of auction sales and licensed dealers or exhibitors.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2138.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2138" data-uslm-ref="/us/usc/t7/s2138">2138.</a>  </td>
 
     <td> Purchase of dogs or cats by United States Government facilities prohibited except from authorized operators of auction sales and licensed dealers or exhibitors.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2139.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2139" data-uslm-ref="/us/usc/t7/s2139">2139.</a>  </td>
 
     <td> Principal-agent relationship established.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2140.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2140" data-uslm-ref="/us/usc/t7/s2140">2140.</a>  </td>
 
     <td> Recordkeeping by dealers, exhibitors, research facilities, intermediate handlers, and carriers.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2141.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2141" data-uslm-ref="/us/usc/t7/s2141">2141.</a>  </td>
 
     <td> Marking and identification of animals.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 2142.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2142" data-uslm-ref="/us/usc/t7/s2142">2142.</a>  </td>
 
     <td> Humane standards and recordkeeping requirements at auction sales.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 2143.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2143" data-uslm-ref="/us/usc/t7/s2143">2143.</a>  </td>
 
     <td> Standards and certification process for humane handling, care, treatment, and transportation of animals.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 2144.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2144" data-uslm-ref="/us/usc/t7/s2144">2144.</a>  </td>
 
     <td> Humane standards for animals by United States Government facilities.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 2145.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2145" data-uslm-ref="/us/usc/t7/s2145">2145.</a>  </td>
 
     <td> Consultation and cooperation with Federal, State, and local governmental bodies by Secretary of Agriculture.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 2146.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2146" data-uslm-ref="/us/usc/t7/s2146">2146.</a>  </td>
 
     <td> Administration and enforcement by Secretary.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 2147.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2147" data-uslm-ref="/us/usc/t7/s2147">2147.</a>  </td>
 
     <td> Inspection by legally constituted law enforcement agencies.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 2148.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2148" data-uslm-ref="/us/usc/t7/s2148">2148.</a>  </td>
 
     <td> Importation of live dogs.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 2149.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2149" data-uslm-ref="/us/usc/t7/s2149">2149.</a>  </td>
 
     <td> Violations by licensees.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 2150.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2150" data-uslm-ref="/us/usc/t7/s2150">2150.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 2151.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2151" data-uslm-ref="/us/usc/t7/s2151">2151.</a>  </td>
 
     <td> Rules and regulations.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 2152.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2152" data-uslm-ref="/us/usc/t7/s2152">2152.</a>  </td>
 
     <td> Separability.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 2153.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2153" data-uslm-ref="/us/usc/t7/s2153">2153.</a>  </td>
 
     <td> Fees and authorization of appropriations.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 2154.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2154" data-uslm-ref="/us/usc/t7/s2154">2154.</a>  </td>
 
     <td> Effective dates.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 2155.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2155" data-uslm-ref="/us/usc/t7/s2155">2155.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> 2156.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2156" data-uslm-ref="/us/usc/t7/s2156">2156.</a>  </td>
 
     <td> Animal fighting venture prohibition.  </td>
 
@@ -233,7 +233,7 @@
 
   <tr>
 
-    <td> 2157.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2157" data-uslm-ref="/us/usc/t7/s2157">2157.</a>  </td>
 
     <td> Release of trade secrets.  </td>
 
@@ -241,7 +241,7 @@
 
   <tr>
 
-    <td> 2158.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2158" data-uslm-ref="/us/usc/t7/s2158">2158.</a>  </td>
 
     <td> Protection of pets.  </td>
 
@@ -249,7 +249,7 @@
 
   <tr>
 
-    <td> 2159.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2159" data-uslm-ref="/us/usc/t7/s2159">2159.</a>  </td>
 
     <td> Authority to apply for injunctions.  </td>
 

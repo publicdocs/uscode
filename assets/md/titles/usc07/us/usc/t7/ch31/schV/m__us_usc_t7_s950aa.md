@@ -15,7 +15,7 @@
 
 ## § 950aa. Additional powers and duties
 
-The Secretary shall—
+    The Secretary shall—
 
     (1) provide advice and guidance to electric borrowers under this chapter concerning the effective and prudent use by such borrowers of the investment authority under [section 940b of this title][/us/usc/t7/s940b] to promote rural development;
 

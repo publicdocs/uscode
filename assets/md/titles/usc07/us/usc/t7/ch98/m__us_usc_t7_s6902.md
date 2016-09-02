@@ -15,7 +15,7 @@
 
 ## § 6902. Definitions
 
-Except where the context requires otherwise, for purposes of this chapter:
+    Except where the context requires otherwise, for purposes of this chapter:
 
     (1) __Department__ 
 

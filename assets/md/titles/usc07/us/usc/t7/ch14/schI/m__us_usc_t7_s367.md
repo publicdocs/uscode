@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch14/schI/m__us_usc_t7_s366.md) | [Next](./../../../../..//us/usc/t7/ch14/schI/m__us_usc_t7_s368 to 368b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs367)
+[Previous](./../../../../..//us/usc/t7/ch14/schI/m__us_usc_t7_s366.md) | [Next](./../../../../..//us/usc/t7/ch14/schI/m__us_usc_t7_s368c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs367)
 
 ## § 367. Omitted
 
@@ -75,9 +75,19 @@ Section was from [act July 28, 1953, ch. 251][/us/act/1953-07-28/ch251], title I
 
     [Feb. 10, 1925, ch. 200][/us/act/1925-02-10/ch200], [43 Stat. 824][/us/stat/43/824].
 
+§§ 368 to 368b. __Transferred__ 
+
+ __Codification__ 
+
+    Section 368, [act Mar. 2, 1887, ch. 314, § 3][/us/act/1887-03-02/ch314/s3], [24 Stat. 441][/us/stat/24/441], as amended, was transferred to [section 361c of this title][/us/usc/t7/s361c]. For provisions of section 368 which provided for assistance and advice by the Secretary of Agriculture, see [section 361g of this title][/us/usc/t7/s361g].
+
+    Section 368a, [act Mar. 2, 1887, ch. 314, § 5][/us/act/1887-03-02/ch314/s5], [24 Stat. 441][/us/stat/24/441], as amended, was transferred to [section 361e of this title][/us/usc/t7/s361e]. For provisions of section 368a which authorized appropriations for investigations and experiments, see sections 361c and 361d of this title.
+
+    Section 368b, [act Mar. 8, 1887, ch. 314, § 9][/us/act/1887-03-08/ch314/s9], 24 Stat, 442, as amended, was transferred to [section 361i of this title][/us/usc/t7/s361i]. Former provisions of section 368b making grants of money authorized by [section 368a of this title][/us/usc/t7/s368a] subject to the legislative assent of the States and Territories were eliminated from section 361i.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch14/schI/m__us_usc_t7_s366.md) | [Next](./../../../../..//us/usc/t7/ch14/schI/m__us_usc_t7_s368 to 368b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs367)
+[Previous](./../../../../..//us/usc/t7/ch14/schI/m__us_usc_t7_s366.md) | [Next](./../../../../..//us/usc/t7/ch14/schI/m__us_usc_t7_s368c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs367)
 
 ----------
 ----------
@@ -141,5 +151,15 @@ Section was from [act July 28, 1953, ch. 251][/us/act/1953-07-28/ch251], title I
 [/us/stat/44/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F502
 [/us/act/1925-02-10/ch200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-10%2Fch200
 [/us/stat/43/824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F824
+[/us/act/1887-03-02/ch314/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1887-03-02%2Fch314%2Fs3
+[/us/stat/24/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F441
+[/us/usc/t7/s361c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs361c
+[/us/usc/t7/s361g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs361g
+[/us/act/1887-03-02/ch314/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1887-03-02%2Fch314%2Fs5
+[/us/stat/24/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F441
+[/us/usc/t7/s361e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs361e
+[/us/act/1887-03-08/ch314/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1887-03-08%2Fch314%2Fs9
+[/us/usc/t7/s361i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs361i
+[/us/usc/t7/s368a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs368a
 
 

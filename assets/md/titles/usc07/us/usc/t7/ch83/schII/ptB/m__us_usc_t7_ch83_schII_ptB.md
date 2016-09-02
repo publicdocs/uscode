@@ -11,16 +11,34 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t7/ch83/schII/ptA/m__us_usc_t7_s5215, 5216.md) | [Next](./../../../../../..//us/usc/t7/ch83/schII/ptB/m__us_usc_t7_s5231 to 5233.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch83%2FschII%2FptB)
+[Previous](./../../../../../..//us/usc/t7/ch83/schII/ptA/m__us_usc_t7_s5214.md) | [Next](./../../../../../..//us/usc/t7/ch83/schII/ptB/m__us_usc_t7_s5234.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch83%2FschII%2FptB)
 
 #### Part B—Foreign Agricultural Service
 
+§§ 5231 to 5233. __Repealed.__  __[__  __Pub. L. 101–624, title XV, § 1571__  __][/us/pl/101/624/s1571]__  __,__  __Nov. 28, 1990__  __,__  __[__  __104 Stat. 3702__  __][/us/stat/104/3702]__ 
+
+    Section 5231, [Pub. L. 100–418, title IV, § 4211][/us/pl/100/418/s4211], Aug. 23, 1988, [102 Stat. 1393][/us/stat/102/1393], provided for staffing of Foreign Agricultural Service. See [section 5694 of this title][/us/usc/t7/s5694].
+
+    Section 5232, [Pub. L. 100–418, title IV, § 4212][/us/pl/100/418/s4212], Aug. 23, 1988, [102 Stat. 1394][/us/stat/102/1394], provided for an agricultural attaché educational program. See [section 1749 of this title][/us/usc/t7/s1749].
+
+    Section 5233, [Pub. L. 100–418, title IV, § 4213][/us/pl/100/418/s4213], Aug. 23, 1988, [102 Stat. 1394][/us/stat/102/1394], provided for the allocation of agricultural attaché resource time.
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t7/ch83/schII/ptA/m__us_usc_t7_s5215, 5216.md) | [Next](./../../../../../..//us/usc/t7/ch83/schII/ptB/m__us_usc_t7_s5231 to 5233.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch83%2FschII%2FptB)
+[Previous](./../../../../../..//us/usc/t7/ch83/schII/ptA/m__us_usc_t7_s5214.md) | [Next](./../../../../../..//us/usc/t7/ch83/schII/ptB/m__us_usc_t7_s5234.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fch83%2FschII%2FptB)
 
 ----------
 ----------
 
+[/us/pl/101/624/s1571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1571
+[/us/stat/104/3702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3702
+[/us/pl/100/418/s4211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs4211
+[/us/stat/102/1393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1393
+[/us/usc/t7/s5694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5694
+[/us/pl/100/418/s4212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs4212
+[/us/stat/102/1394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1394
+[/us/usc/t7/s1749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1749
+[/us/pl/100/418/s4213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs4213
+[/us/stat/102/1394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1394
 
 

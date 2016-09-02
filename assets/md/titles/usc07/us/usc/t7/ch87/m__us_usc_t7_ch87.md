@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 5601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5601" data-uslm-ref="/us/usc/t7/s5601">5601.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 5602.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5602" data-uslm-ref="/us/usc/t7/s5602">5602.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 5603.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5603" data-uslm-ref="/us/usc/t7/s5603">5603.</a>  </td>
 
     <td> Agricultural export promotion strategy.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 5603a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5603a" data-uslm-ref="/us/usc/t7/s5603a">5603a.</a>  </td>
 
     <td> Global market strategy.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 5604.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5604" data-uslm-ref="/us/usc/t7/s5604">5604.</a>  </td>
 
     <td> Preservation of traditional markets.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 5605.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5605" data-uslm-ref="/us/usc/t7/s5605">5605.</a>  </td>
 
     <td> Independence of authorities.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 5606.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5606" data-uslm-ref="/us/usc/t7/s5606">5606.</a>  </td>
 
     <td> Implementation of commitments under Uruguay Round Agreements.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 5607.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5607" data-uslm-ref="/us/usc/t7/s5607">5607.</a>  </td>
 
     <td> Exporter assistance initiative.  </td>
 
@@ -113,7 +113,7 @@ Part A—Programs  </td>
 
   <tr>
 
-    <td> 5621.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5621" data-uslm-ref="/us/usc/t7/s5621">5621.</a>  </td>
 
     <td> Direct credit sales program.  </td>
 
@@ -121,7 +121,7 @@ Part A—Programs  </td>
 
   <tr>
 
-    <td> 5622.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5622" data-uslm-ref="/us/usc/t7/s5622">5622.</a>  </td>
 
     <td> Export credit guarantee program.  </td>
 
@@ -129,7 +129,7 @@ Part A—Programs  </td>
 
   <tr>
 
-    <td> 5623.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5623" data-uslm-ref="/us/usc/t7/s5623">5623.</a>  </td>
 
     <td> Market access program.  </td>
 
@@ -137,7 +137,7 @@ Part A—Programs  </td>
 
   <tr>
 
-    <td> 5624.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5624" data-uslm-ref="/us/usc/t7/s5624">5624.</a>  </td>
 
     <td> Barter of agricultural commodities.  </td>
 
@@ -145,7 +145,7 @@ Part A—Programs  </td>
 
   <tr>
 
-    <td> 5625.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5625" data-uslm-ref="/us/usc/t7/s5625">5625.</a>  </td>
 
     <td> Combination of programs.  </td>
 
@@ -161,7 +161,7 @@ Part B—Implementation  </td>
 
   <tr>
 
-    <td> 5641.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5641" data-uslm-ref="/us/usc/t7/s5641">5641.</a>  </td>
 
     <td> Funding levels.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER III—BARRIERS TO EXPORTS  </td>
 
   <tr>
 
-    <td> 5651.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5651" data-uslm-ref="/us/usc/t7/s5651">5651.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER III—BARRIERS TO EXPORTS  </td>
 
   <tr>
 
-    <td> 5652.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5652" data-uslm-ref="/us/usc/t7/s5652">5652.</a>  </td>
 
     <td> Relief from unfair trade practices.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER III—BARRIERS TO EXPORTS  </td>
 
   <tr>
 
-    <td> 5653.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5653" data-uslm-ref="/us/usc/t7/s5653">5653.</a>  </td>
 
     <td> Equitable treatment of high-value and value-added United States agricultural commodities.  </td>
 
@@ -217,7 +217,7 @@ Part A—Program Controls  </td>
 
   <tr>
 
-    <td> 5661.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5661" data-uslm-ref="/us/usc/t7/s5661">5661.</a>  </td>
 
     <td> Program controls for export programs.  </td>
 
@@ -225,7 +225,7 @@ Part A—Program Controls  </td>
 
   <tr>
 
-    <td> 5662.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5662" data-uslm-ref="/us/usc/t7/s5662">5662.</a>  </td>
 
     <td> Compliance provisions.  </td>
 
@@ -233,7 +233,7 @@ Part A—Program Controls  </td>
 
   <tr>
 
-    <td> 5663.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5663" data-uslm-ref="/us/usc/t7/s5663">5663.</a>  </td>
 
     <td> Departmental administration system.  </td>
 
@@ -241,7 +241,7 @@ Part A—Program Controls  </td>
 
   <tr>
 
-    <td> 5664.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5664" data-uslm-ref="/us/usc/t7/s5664">5664.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -257,7 +257,7 @@ Part B—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 5671.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5671" data-uslm-ref="/us/usc/t7/s5671">5671.</a>  </td>
 
     <td> Agricultural embargo protection.  </td>
 
@@ -265,7 +265,7 @@ Part B—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 5672.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5672" data-uslm-ref="/us/usc/t7/s5672">5672.</a>  </td>
 
     <td> Development of plans to alleviate adverse impact of embargoes.  </td>
 
@@ -273,7 +273,7 @@ Part B—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 5673.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5673" data-uslm-ref="/us/usc/t7/s5673">5673.</a>  </td>
 
     <td> Contracting authority to expand agricultural export markets.  </td>
 
@@ -281,7 +281,7 @@ Part B—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 5674.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5674" data-uslm-ref="/us/usc/t7/s5674">5674.</a>  </td>
 
     <td> Trade consultations concerning imports.  </td>
 
@@ -289,7 +289,7 @@ Part B—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 5675.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5675" data-uslm-ref="/us/usc/t7/s5675">5675.</a>  </td>
 
     <td> Technical assistance in trade negotiations.  </td>
 
@@ -297,7 +297,7 @@ Part B—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 5676.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5676" data-uslm-ref="/us/usc/t7/s5676">5676.</a>  </td>
 
     <td> Limitation on use of certain export promotion programs.  </td>
 
@@ -305,7 +305,7 @@ Part B—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 5677.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5677" data-uslm-ref="/us/usc/t7/s5677">5677.</a>  </td>
 
     <td> Trade compensation and assistance programs.  </td>
 
@@ -313,7 +313,7 @@ Part B—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 5678.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5678" data-uslm-ref="/us/usc/t7/s5678">5678.</a>  </td>
 
     <td> Edward R. Madigan United States Agricultural Export Excellence Award.  </td>
 
@@ -321,7 +321,7 @@ Part B—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 5679.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5679" data-uslm-ref="/us/usc/t7/s5679">5679.</a>  </td>
 
     <td> Biotechnology and agricultural trade program.  </td>
 
@@ -329,7 +329,7 @@ Part B—Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 5680.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5680" data-uslm-ref="/us/usc/t7/s5680">5680.</a>  </td>
 
     <td> Technical assistance for specialty crops.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER V—FOREIGN AGRICULTURAL SERVICE  </td>
 
   <tr>
 
-    <td> 5691.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5691" data-uslm-ref="/us/usc/t7/s5691">5691.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -353,7 +353,7 @@ SUBCHAPTER V—FOREIGN AGRICULTURAL SERVICE  </td>
 
   <tr>
 
-    <td> 5692.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5692" data-uslm-ref="/us/usc/t7/s5692">5692.</a>  </td>
 
     <td> Administrator of Foreign Agricultural Service.  </td>
 
@@ -361,7 +361,7 @@ SUBCHAPTER V—FOREIGN AGRICULTURAL SERVICE  </td>
 
   <tr>
 
-    <td> 5693.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5693" data-uslm-ref="/us/usc/t7/s5693">5693.</a>  </td>
 
     <td> Duties of Foreign Agricultural Service.  </td>
 
@@ -369,7 +369,7 @@ SUBCHAPTER V—FOREIGN AGRICULTURAL SERVICE  </td>
 
   <tr>
 
-    <td> 5694.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5694" data-uslm-ref="/us/usc/t7/s5694">5694.</a>  </td>
 
     <td> Staff of Foreign Agricultural Service.  </td>
 
@@ -377,7 +377,7 @@ SUBCHAPTER V—FOREIGN AGRICULTURAL SERVICE  </td>
 
   <tr>
 
-    <td> 5695.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5695" data-uslm-ref="/us/usc/t7/s5695">5695.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -393,7 +393,7 @@ SUBCHAPTER VI—REPORTS  </td>
 
   <tr>
 
-    <td> 5711.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5711" data-uslm-ref="/us/usc/t7/s5711">5711.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -401,7 +401,7 @@ SUBCHAPTER VI—REPORTS  </td>
 
   <tr>
 
-    <td> 5712.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5712" data-uslm-ref="/us/usc/t7/s5712">5712.</a>  </td>
 
     <td> Export reporting and contract sanctity.  </td>
 
@@ -409,7 +409,7 @@ SUBCHAPTER VI—REPORTS  </td>
 
   <tr>
 
-    <td> 5713.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5713" data-uslm-ref="/us/usc/t7/s5713">5713.</a>  </td>
 
     <td> Other reports to Congress.  </td>
 
@@ -425,7 +425,7 @@ SUBCHAPTER VII—FOREIGN MARKET DEVELOPMENT COOPERATOR PROGRAM  </td>
 
   <tr>
 
-    <td> 5721.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5721" data-uslm-ref="/us/usc/t7/s5721">5721.</a>  </td>
 
     <td> “Eligible trade organization” defined.  </td>
 
@@ -433,7 +433,7 @@ SUBCHAPTER VII—FOREIGN MARKET DEVELOPMENT COOPERATOR PROGRAM  </td>
 
   <tr>
 
-    <td> 5722.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5722" data-uslm-ref="/us/usc/t7/s5722">5722.</a>  </td>
 
     <td> Foreign market development cooperator program.  </td>
 
@@ -441,7 +441,7 @@ SUBCHAPTER VII—FOREIGN MARKET DEVELOPMENT COOPERATOR PROGRAM  </td>
 
   <tr>
 
-    <td> 5723.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs5723" data-uslm-ref="/us/usc/t7/s5723">5723.</a>  </td>
 
     <td> Funding.  </td>
 

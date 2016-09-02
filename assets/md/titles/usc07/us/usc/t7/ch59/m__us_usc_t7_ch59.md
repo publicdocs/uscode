@@ -33,7 +33,7 @@ SUBCHAPTER I—RURAL COMMUNITY FIRE PROTECTION  </td>
 
   <tr>
 
-    <td> 2651 to 2654.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2651" data-uslm-ref="/us/usc/t7/s2651">2651</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2654" data-uslm-ref="/us/usc/t7/s2654">2654.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—RURAL COMMUNITY FIRE PROTECTION  </td>
 
   <tr>
 
-    <td> 2655.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2655" data-uslm-ref="/us/usc/t7/s2655">2655.</a>  </td>
 
     <td> Rural firefighters and emergency medical service assistance program.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER II—RURAL DEVELOPMENT AND SMALL FARM RESEARCH AND EDUCATION  </td>
 
   <tr>
 
-    <td> 2661.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2661" data-uslm-ref="/us/usc/t7/s2661">2661.</a>  </td>
 
     <td> Statement of purposes and goals.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER II—RURAL DEVELOPMENT AND SMALL FARM RESEARCH AND EDUCATION  </td>
 
   <tr>
 
-    <td> 2662.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2662" data-uslm-ref="/us/usc/t7/s2662">2662.</a>  </td>
 
     <td> Programs authorized.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—RURAL DEVELOPMENT AND SMALL FARM RESEARCH AND EDUCATION  </td>
 
   <tr>
 
-    <td> 2662a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2662a" data-uslm-ref="/us/usc/t7/s2662a">2662a.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—RURAL DEVELOPMENT AND SMALL FARM RESEARCH AND EDUCATION  </td>
 
   <tr>
 
-    <td> 2663.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2663" data-uslm-ref="/us/usc/t7/s2663">2663.</a>  </td>
 
     <td> Funding.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—RURAL DEVELOPMENT AND SMALL FARM RESEARCH AND EDUCATION  </td>
 
   <tr>
 
-    <td> 2664.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2664" data-uslm-ref="/us/usc/t7/s2664">2664.</a>  </td>
 
     <td> Cooperating colleges and universities.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—RURAL DEVELOPMENT AND SMALL FARM RESEARCH AND EDUCATION  </td>
 
   <tr>
 
-    <td> 2665.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2665" data-uslm-ref="/us/usc/t7/s2665">2665.</a>  </td>
 
     <td> Withholding funds.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—RURAL DEVELOPMENT AND SMALL FARM RESEARCH AND EDUCATION  </td>
 
   <tr>
 
-    <td> 2666.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2666" data-uslm-ref="/us/usc/t7/s2666">2666.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—RURAL DEVELOPMENT AND SMALL FARM RESEARCH AND EDUCATION  </td>
 
   <tr>
 
-    <td> 2667.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2667" data-uslm-ref="/us/usc/t7/s2667">2667.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—RURAL DEVELOPMENT AND SMALL FARM RESEARCH AND EDUCATION  </td>
 
   <tr>
 
-    <td> 2668.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2668" data-uslm-ref="/us/usc/t7/s2668">2668.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—RURAL DEVELOPMENT AND SMALL FARM RESEARCH AND EDUCATION  </td>
 
   <tr>
 
-    <td> 2669.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2669" data-uslm-ref="/us/usc/t7/s2669">2669.</a>  </td>
 
     <td> Pilot projects for production and marketing of industrial hydrocarbons and alcohols from agricultural commodities and forest products.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—RURAL DEVELOPMENT AND SMALL FARM RESEARCH AND EDUCATION  </td>
 
   <tr>
 
-    <td> 2670.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs2670" data-uslm-ref="/us/usc/t7/s2670">2670.</a>  </td>
 
     <td> Repealed.  </td>
 

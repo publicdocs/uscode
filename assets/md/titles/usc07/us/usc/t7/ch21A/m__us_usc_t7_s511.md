@@ -15,7 +15,7 @@
 
 ## § 511. Definitions
 
-When used in this chapter—
+    When used in this chapter—
 
     (a) “Person” includes partnerships, associations, and corporations, as well as individuals.
 

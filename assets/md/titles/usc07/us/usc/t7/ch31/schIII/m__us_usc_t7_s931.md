@@ -15,7 +15,7 @@
 
 ## § 931. Rural Electrification and Telephone Revolving Fund
 
-There is hereby established in the Treasury of the United States a fund, to be known as the Rural Electrification and Telephone Revolving Fund (hereinafter referred to as the “fund”), consisting of:
+    There is hereby established in the Treasury of the United States a fund, to be known as the Rural Electrification and Telephone Revolving Fund (hereinafter referred to as the “fund”), consisting of:
 
     (1) all notes, bonds, obligations, liens, mortgages, and property delivered or assigned to the Secretary pursuant to loans heretofore or hereafter made under sections 904, 905, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and 922 of this title and under this subchapter, as of May 11, 1973, and all proceeds from the sales hereunder of such notes, bonds, obligations, liens, mortgages, and property, which shall be transferred to and be assets of the funds;
 

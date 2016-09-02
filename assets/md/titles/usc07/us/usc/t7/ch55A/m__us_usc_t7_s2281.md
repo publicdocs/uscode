@@ -15,7 +15,7 @@
 
 ## § 2281. Congressional declaration of purpose
 
-The purposes of this chapter are to—
+    The purposes of this chapter are to—
 
     (1) require strict financial and program accounting by advisory committees of the Department of Agriculture;
 

@@ -15,7 +15,7 @@
 
 ## § 95. Prohibition of acts deemed injurious to commerce in naval stores
 
-The following acts are hereby declared injurious to commerce in naval stores and are hereby prohibited and made unlawful:
+    The following acts are hereby declared injurious to commerce in naval stores and are hereby prohibited and made unlawful:
 
     (a) The sale in commerce of any naval stores, or of anything offered as such, except under or by reference to United States standards.
 

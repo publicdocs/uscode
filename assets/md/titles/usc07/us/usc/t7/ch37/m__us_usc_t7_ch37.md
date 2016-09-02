@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1551.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1551" data-uslm-ref="/us/usc/t7/s1551">1551.</a>  </td>
 
     <td> Short title.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—DEFINITIONS  </td>
 
   <tr>
 
-    <td> 1561.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1561" data-uslm-ref="/us/usc/t7/s1561">1561.</a>  </td>
 
     <td> Definition of terms.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—DEFINITIONS  </td>
 
   <tr>
 
-    <td> 1562.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1562" data-uslm-ref="/us/usc/t7/s1562">1562.</a>  </td>
 
     <td> False representations as certified seed; required provisions.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER II—INTERSTATE COMMERCE  </td>
 
   <tr>
 
-    <td> 1571.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1571" data-uslm-ref="/us/usc/t7/s1571">1571.</a>  </td>
 
     <td> Prohibitions relating to interstate commerce in certain seeds.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—INTERSTATE COMMERCE  </td>
 
   <tr>
 
-    <td> 1572.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1572" data-uslm-ref="/us/usc/t7/s1572">1572.</a>  </td>
 
     <td> Records.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—INTERSTATE COMMERCE  </td>
 
   <tr>
 
-    <td> 1573.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1573" data-uslm-ref="/us/usc/t7/s1573">1573.</a>  </td>
 
     <td> Exemptions.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—INTERSTATE COMMERCE  </td>
 
   <tr>
 
-    <td> 1574.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1574" data-uslm-ref="/us/usc/t7/s1574">1574.</a>  </td>
 
     <td> Disclaimers, limited warranties and nonwarranties.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—INTERSTATE COMMERCE  </td>
 
   <tr>
 
-    <td> 1575.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1575" data-uslm-ref="/us/usc/t7/s1575">1575.</a>  </td>
 
     <td> False advertising.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER III—FOREIGN COMMERCE  </td>
 
   <tr>
 
-    <td> 1581.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1581" data-uslm-ref="/us/usc/t7/s1581">1581.</a>  </td>
 
     <td> Prohibitions relating to importations.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER III—FOREIGN COMMERCE  </td>
 
   <tr>
 
-    <td> 1582.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1582" data-uslm-ref="/us/usc/t7/s1582">1582.</a>  </td>
 
     <td> Procedure relating to importations; disposal of refuse; exceptions.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER III—FOREIGN COMMERCE  </td>
 
   <tr>
 
-    <td> 1583, 1584.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1583" data-uslm-ref="/us/usc/t7/s1583">1583</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1584" data-uslm-ref="/us/usc/t7/s1584">1584.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER III—FOREIGN COMMERCE  </td>
 
   <tr>
 
-    <td> 1585.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1585" data-uslm-ref="/us/usc/t7/s1585">1585.</a>  </td>
 
     <td> Certain seeds not adapted for general agricultural use.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER III—FOREIGN COMMERCE  </td>
 
   <tr>
 
-    <td> 1586.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1586" data-uslm-ref="/us/usc/t7/s1586">1586.</a>  </td>
 
     <td> Certain acts prohibited.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER IV—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1591.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1591" data-uslm-ref="/us/usc/t7/s1591">1591.</a>  </td>
 
     <td> Delegation of duties.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER IV—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1592.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1592" data-uslm-ref="/us/usc/t7/s1592">1592.</a>  </td>
 
     <td> Rules and regulations.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER IV—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1593.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1593" data-uslm-ref="/us/usc/t7/s1593">1593.</a>  </td>
 
     <td> Standards, tests, tolerances.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER IV—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1593a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1593a" data-uslm-ref="/us/usc/t7/s1593a">1593a.</a>  </td>
 
     <td> Seed variety information and survey.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER IV—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1594.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1594" data-uslm-ref="/us/usc/t7/s1594">1594.</a>  </td>
 
     <td> Prohibition against alterations.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER IV—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1595.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1595" data-uslm-ref="/us/usc/t7/s1595">1595.</a>  </td>
 
     <td> Seizure.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER IV—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1596.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1596" data-uslm-ref="/us/usc/t7/s1596">1596.</a>  </td>
 
     <td> Penalties.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER IV—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1597.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1597" data-uslm-ref="/us/usc/t7/s1597">1597.</a>  </td>
 
     <td> Agent’s acts as binding principal.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER IV—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1598.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1598" data-uslm-ref="/us/usc/t7/s1598">1598.</a>  </td>
 
     <td> Notice of intention to prosecute.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER IV—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1599.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1599" data-uslm-ref="/us/usc/t7/s1599">1599.</a>  </td>
 
     <td> Cease and desist proceedings.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER IV—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1600.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1600" data-uslm-ref="/us/usc/t7/s1600">1600.</a>  </td>
 
     <td> Appeal to court of appeals.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER IV—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1601" data-uslm-ref="/us/usc/t7/s1601">1601.</a>  </td>
 
     <td> Enforcement of order.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER IV—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1602.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1602" data-uslm-ref="/us/usc/t7/s1602">1602.</a>  </td>
 
     <td> Separability.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER IV—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1603.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1603" data-uslm-ref="/us/usc/t7/s1603">1603.</a>  </td>
 
     <td> Procedural powers; witness fees and mileage.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER IV—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1604.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1604" data-uslm-ref="/us/usc/t7/s1604">1604.</a>  </td>
 
     <td> Publication.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER IV—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1605.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1605" data-uslm-ref="/us/usc/t7/s1605">1605.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER IV—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1606.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1606" data-uslm-ref="/us/usc/t7/s1606">1606.</a>  </td>
 
     <td> Authorization of expenditures.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER IV—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1607.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1607" data-uslm-ref="/us/usc/t7/s1607">1607.</a>  </td>
 
     <td> Cooperation with other governmental agencies.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER IV—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1608.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1608" data-uslm-ref="/us/usc/t7/s1608">1608.</a>  </td>
 
     <td> Separability.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER IV—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1609.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1609" data-uslm-ref="/us/usc/t7/s1609">1609.</a>  </td>
 
     <td> Repeals.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER IV—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1610.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1610" data-uslm-ref="/us/usc/t7/s1610">1610.</a>  </td>
 
     <td> Effective date.  </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER V—SALE OF UNCERTIFIED SEED OF PROTECTED VARIETY  </td>
 
   <tr>
 
-    <td> 1611.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs1611" data-uslm-ref="/us/usc/t7/s1611">1611.</a>  </td>
 
     <td> Illegal sales of uncertified seed.  </td>
 

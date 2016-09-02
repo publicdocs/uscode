@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t7/ch57/schII/ptI/m__us_usc_t7_ch57_schII_ptI.md) | [Next](./../../../../../..//us/usc/t7/ch57/schII/ptI/m__us_usc_t7_s2502, 2503.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2501)
+[Previous](./../../../../../..//us/usc/t7/ch57/schII/ptI/m__us_usc_t7_ch57_schII_ptI.md) | [Next](./../../../../../..//us/usc/t7/ch57/schII/ptI/m__us_usc_t7_s2504.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2501)
 
 ## § 2501. Reexamination after issue
 
@@ -33,9 +33,19 @@
 
     Amendment by [Pub. L. 103–349][/us/pl/103/349] effective 180 days after Oct. 6, 1994, see [section 15 of Pub. L. 103–349][/us/pl/103/349/s15], set out as a note under [section 2401 of this title][/us/usc/t7/s2401].
 
+§§ 2502, 2503. __Repealed.__  __[__  __Pub. L. 103–349, § 8(a)__  __][/us/pl/103/349/s8/a]__  __,__  __Oct. 6, 1994__  __,__  __[__  __108 Stat. 3140__  __][/us/stat/108/3140]__ 
+
+    Section 2502, [Pub. L. 91–577, title II, § 92][/us/pl/91/577/s92], Dec. 24, 1970, [84 Stat. 1553][/us/stat/84/1553], related to priority contest.
+
+    Section 2503, [Pub. L. 91–577, title II, § 93][/us/pl/91/577/s93], Dec. 24, 1970, [84 Stat. 1553][/us/stat/84/1553]; [Pub. L. 96–574, § 18][/us/pl/96/574/s18], Dec. 22, 1980, [94 Stat. 3351][/us/stat/94/3351], related to effect of adverse final judgment or of nonaction.
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective 180 days after Oct. 6, 1994, see [section 15 of Pub. L. 103–349][/us/pl/103/349/s15], set out as an Effective Date of 1994 Amendment note under [section 2401 of this title][/us/usc/t7/s2401].
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t7/ch57/schII/ptI/m__us_usc_t7_ch57_schII_ptI.md) | [Next](./../../../../../..//us/usc/t7/ch57/schII/ptI/m__us_usc_t7_s2502, 2503.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2501)
+[Previous](./../../../../../..//us/usc/t7/ch57/schII/ptI/m__us_usc_t7_ch57_schII_ptI.md) | [Next](./../../../../../..//us/usc/t7/ch57/schII/ptI/m__us_usc_t7_s2504.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2501)
 
 ----------
 ----------
@@ -49,6 +59,16 @@
 [/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
 [/us/pl/96/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F574
 [/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
+[/us/pl/103/349/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs15
+[/us/usc/t7/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2401
+[/us/pl/103/349/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs8%2Fa
+[/us/stat/108/3140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3140
+[/us/pl/91/577/s92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs92
+[/us/stat/84/1553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1553
+[/us/pl/91/577/s93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs93
+[/us/stat/84/1553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1553
+[/us/pl/96/574/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F574%2Fs18
+[/us/stat/94/3351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3351
 [/us/pl/103/349/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs15
 [/us/usc/t7/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2401
 

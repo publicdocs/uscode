@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 291.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs291" data-uslm-ref="/us/usc/t7/s291">291.</a>  </td>
 
     <td> Authorization of associations; powers.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 292.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs292" data-uslm-ref="/us/usc/t7/s292">292.</a>  </td>
 
     <td> Monopolizing or restraining trade and unduly enhancing prices prohibited; remedy and procedure.  </td>
 

@@ -15,7 +15,7 @@
 
 ## § 2270. Authority of Office of Inspector General
 
-Any person who is employed in the Office of the Inspector General, Department of Agriculture, who conducts investigations of alleged or suspected felony criminal violations of statutes, including but not limited to the Food and Nutrition Act of 2008 \[[7 U.S.C. 2011][/us/usc/t7/s2011] et seq.\], administered by the Secretary of Agriculture or any agency of the Department of Agriculture and who is designated by the Inspector General of the Department of Agriculture may—
+    Any person who is employed in the Office of the Inspector General, Department of Agriculture, who conducts investigations of alleged or suspected felony criminal violations of statutes, including but not limited to the Food and Nutrition Act of 2008 \[[7 U.S.C. 2011][/us/usc/t7/s2011] et seq.\], administered by the Secretary of Agriculture or any agency of the Department of Agriculture and who is designated by the Inspector General of the Department of Agriculture may—
 
     (1) make an arrest without a warrant for any such criminal felony violation if such violation is committed, or if such employee has probable cause to believe that such violation is being committed, in the presence of such employee;
 
@@ -23,7 +23,7 @@ Any person who is employed in the Office of the Inspector General, Department of
 
     (3) carry a firearm;
 
-        in accordance with rules issued by the Secretary of Agriculture, while such employee is engaged in the performance of official duties under the authority provided in section 6, or described in section 9, of the Inspector General Act of 1978 (5 U.S.C. App. 6, 9). The Attorney General of the United States may disapprove any designation made by the Inspector General under this section.
+    in accordance with rules issued by the Secretary of Agriculture, while such employee is engaged in the performance of official duties under the authority provided in section 6, or described in section 9, of the Inspector General Act of 1978 (5 U.S.C. App. 6, 9). The Attorney General of the United States may disapprove any designation made by the Inspector General under this section.
 
 ([Pub. L. 97–98, title XIII, § 1337][/us/pl/97/98/s1337], Dec. 22, 1981, [95 Stat. 1294][/us/stat/95/1294]; [Pub. L. 110–234, title IV, § 4002(b)(1)(B)][/us/pl/110/234/s4002/b/1/B], (2)(II), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1098; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(B), (2)(II), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1859.)
 

@@ -15,7 +15,7 @@
 
 ## § 2009cc–2. Establishment
 
-In accordance with this subchapter, the Secretary shall establish a Rural Business Investment Program, under which the Secretary may—
+    In accordance with this subchapter, the Secretary shall establish a Rural Business Investment Program, under which the Secretary may—
 
     (1) enter into participation agreements with companies granted final approval under [section 2009cc–3(e) of this title][/us/usc/t7/s2009cc–3/e] for the purposes set forth in [section 2009cc–1 of this title][/us/usc/t7/s2009cc–1];
 

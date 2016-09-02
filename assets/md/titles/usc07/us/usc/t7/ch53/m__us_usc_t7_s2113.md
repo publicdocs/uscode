@@ -15,7 +15,7 @@
 
 ## § 2113. Certification of cotton producer organizations
 
-The eligibility of each cotton producer organization to represent cotton producers of a cotton producing State to request the issuance of an order under [section 2103 of this title][/us/usc/t7/s2103], and to participate in the making of nominations under [section 2106(b) of this title][/us/usc/t7/s2106/b] shall be certified by the Secretary and shall be based in addition to other available information upon a factual report submitted by the organization which shall contain information deemed relevant and specified by the Secretary for the making of such determination, including the following:
+    The eligibility of each cotton producer organization to represent cotton producers of a cotton producing State to request the issuance of an order under [section 2103 of this title][/us/usc/t7/s2103], and to participate in the making of nominations under [section 2106(b) of this title][/us/usc/t7/s2106/b] shall be certified by the Secretary and shall be based in addition to other available information upon a factual report submitted by the organization which shall contain information deemed relevant and specified by the Secretary for the making of such determination, including the following:
 
     (a) Geographic territory within the State covered by the organization’s active membership;
 
@@ -31,7 +31,7 @@ The eligibility of each cotton producer organization to represent cotton produce
 
     (g) The organization’s ability and willingness to further the aims and objectives of this chapter:
 
-        Provided, however, That the primary consideration in determining the eligibility of an organization shall be whether its cotton farmer membership consists of a sufficiently large number of the cotton producers who produce a relatively significant volume of cotton to reasonably warrant its participation in the nomination of members for the Cotton Board. The Secretary shall certify any cotton producer organization which he finds to be eligible under this section, and his determination as to eligibility shall be final.
+    Provided, however, That the primary consideration in determining the eligibility of an organization shall be whether its cotton farmer membership consists of a sufficiently large number of the cotton producers who produce a relatively significant volume of cotton to reasonably warrant its participation in the nomination of members for the Cotton Board. The Secretary shall certify any cotton producer organization which he finds to be eligible under this section, and his determination as to eligibility shall be final.
 
 ([Pub. L. 89–502, § 14][/us/pl/89/502/s14], July 13, 1966, [80 Stat. 284][/us/stat/80/284].)
 

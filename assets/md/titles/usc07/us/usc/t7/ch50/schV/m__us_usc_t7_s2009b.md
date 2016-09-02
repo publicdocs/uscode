@@ -15,7 +15,7 @@
 
 ## § 2009b. National objectives
 
-The national objectives of the program established under this subchapter shall be to—
+    The national objectives of the program established under this subchapter shall be to—
 
     (1) promote strategic development activities and collaborative efforts by State and local communities, and federally recognized Indian tribes, to maximize the impact of Federal assistance;
 

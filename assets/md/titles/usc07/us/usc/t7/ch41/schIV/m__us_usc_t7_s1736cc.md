@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch41/schIV/m__us_usc_t7_s1736bb to 1736bb–6.md) | [Next](./../../../../..//us/usc/t7/ch41/schV/m__us_usc_t7_ch41_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1736cc)
+[Previous](./../../../../..//us/usc/t7/ch41/schIV/m__us_usc_t7_s1736y.md) | [Next](./../../../../..//us/usc/t7/ch41/schV/m__us_usc_t7_ch41_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1736cc)
 
 ## § 1736cc. Repealed. [Pub. L. 101–624, title XV, § 1577][/us/pl/101/624/s1577], Nov. 28, 1990, [104 Stat. 3702][/us/stat/104/3702]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t7/ch41/schIV/m__us_usc_t7_s1736bb to 1736bb–6.md) | [Next](./../../../../..//us/usc/t7/ch41/schV/m__us_usc_t7_ch41_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1736cc)
+[Previous](./../../../../..//us/usc/t7/ch41/schIV/m__us_usc_t7_s1736y.md) | [Next](./../../../../..//us/usc/t7/ch41/schV/m__us_usc_t7_ch41_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1736cc)
 
 ----------
 ----------

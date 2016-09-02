@@ -15,7 +15,7 @@
 
 ## § 228b–4. Violation of final order by live poultry dealer; penalty
 
-Any live poultry dealer, or any officer, director, agent, or employee of a live poultry dealer, who fails to obey any order of the Secretary issued under the provisions of [section 228b–2 of this title][/us/usc/t7/s228b–2], or such order as modified—
+    Any live poultry dealer, or any officer, director, agent, or employee of a live poultry dealer, who fails to obey any order of the Secretary issued under the provisions of [section 228b–2 of this title][/us/usc/t7/s228b–2], or such order as modified—
 
     (1) after the expiration of the time allowed for filing a petition in the court of appeals to set aside or modify such order, if no such petition has been filed within such time;
 
@@ -23,7 +23,7 @@ Any live poultry dealer, or any officer, director, agent, or employee of a live 
 
     (3) after such order, or such order as modified, has been sustained by the courts as provided in [section 228b–3 of this title][/us/usc/t7/s228b–3];
 
-        shall on conviction be fined not less than $1,000 nor more than $20,000. Each day during which such failure continues shall be deemed a separate offense.
+    shall on conviction be fined not less than $1,000 nor more than $20,000. Each day during which such failure continues shall be deemed a separate offense.
 
 ([Aug. 15, 1921, ch. 64][/us/act/1921-08-15/ch64], title IV, § 413, as added [Pub. L. 100–173, § 9(2)][/us/pl/100/173/s9/2], Nov. 23, 1987, [101 Stat. 922][/us/stat/101/922].)
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t7/ch83/schII/ptA/m__us_usc_t7_s5211, 5212.md) | [Next](./../../../../../..//us/usc/t7/ch83/schII/ptA/m__us_usc_t7_s5214.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5213)
+[Previous](./../../../../../..//us/usc/t7/ch83/schII/ptA/m__us_usc_t7_ch83_schII_ptA.md) | [Next](./../../../../../..//us/usc/t7/ch83/schII/ptA/m__us_usc_t7_s5214.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5213)
 
 ## § 5213. Joint development assistance agreements with certain trading partners
 
@@ -27,7 +27,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t7/ch83/schII/ptA/m__us_usc_t7_s5211, 5212.md) | [Next](./../../../../../..//us/usc/t7/ch83/schII/ptA/m__us_usc_t7_s5214.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5213)
+[Previous](./../../../../../..//us/usc/t7/ch83/schII/ptA/m__us_usc_t7_ch83_schII_ptA.md) | [Next](./../../../../../..//us/usc/t7/ch83/schII/ptA/m__us_usc_t7_s5214.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5213)
 
 ----------
 ----------

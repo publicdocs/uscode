@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch109/m__us_usc_t7_s § 8319.md) | [Next](./../../../..//us/usc/t7/ch109/m__us_usc_t7_s8321.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8320)
+[Previous](./../../../..//us/usc/t7/ch109/m__us_usc_t7_s8319.md) | [Next](./../../../..//us/usc/t7/ch109/m__us_usc_t7_s8321.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8320)
 
 ## § 8320. Expansion of Animal and Plant Health Inspection Service activities
 
@@ -57,7 +57,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t7/ch109/m__us_usc_t7_s § 8319.md) | [Next](./../../../..//us/usc/t7/ch109/m__us_usc_t7_s8321.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8320)
+[Previous](./../../../..//us/usc/t7/ch109/m__us_usc_t7_s8319.md) | [Next](./../../../..//us/usc/t7/ch109/m__us_usc_t7_s8321.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8320)
 
 ----------
 ----------

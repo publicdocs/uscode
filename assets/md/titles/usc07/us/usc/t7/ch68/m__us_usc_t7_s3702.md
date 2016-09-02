@@ -15,7 +15,7 @@
 
 ## § 3702. Definitions
 
-As used in this chapter, the term—
+    As used in this chapter, the term—
 
     (1) “bulk agricultural commodity” means any agricultural commodity that can be transported in bulk and can be temporarily stored in bulk quantities without undergoing processing or packaging. Such term also includes any commodity or product that is used by producers in the production of agricultural commodities and that can be stored or shipped in bulk, such as fertilizer and fuel;
 

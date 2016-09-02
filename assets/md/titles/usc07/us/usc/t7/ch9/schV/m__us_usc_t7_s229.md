@@ -53,7 +53,7 @@
 
  __Repeal of Section__ 
 
-[Pub. L. 110–246, title XI, § 11004(b)][/us/pl/110/246/s11004/b], June 18, 2008, [122 Stat. 2118][/us/stat/122/2118], provided that, effective Sept. 30, 2012, this section is repealed.
+    [Pub. L. 110–246, title XI, § 11004(b)][/us/pl/110/246/s11004/b], June 18, 2008, [122 Stat. 2118][/us/stat/122/2118], provided that, effective Sept. 30, 2012, this section is repealed.
 
  __Codification__ 
 
