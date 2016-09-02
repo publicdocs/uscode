@@ -459,7 +459,7 @@
 
     (h) __Rights against third parties who caused or contributed to discharge__ 
 
-        The liabilities established by this section shall in no way affect any rights which (1) the owner or operator of a vessel or of an onshore facility or an offshore facility may have against any third party whose acts may in any way have caused or contributed to such discharge, or (2) the United States Government may have against any third party whose actions may in any way have caused or contributed to the discharge of oil or hazardous substance.
+        The liabilities established by this section shall in no way affect any rights which (1) the owner or operator of a vessel or of an onshore facility or an offshore facility may have against any third party whose acts may in any way have caused or contributed to such discharge, or (2) The  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should not be capitalized. </sup></sup>  United States Government may have against any third party whose actions may in any way have caused or contributed to the discharge of oil or hazardous substance.
 
     (i) __Recovery of removal costs__ 
 
@@ -1239,7 +1239,7 @@
 
                     (I) in the State of Alabama, the Alabama Gulf Coast Recovery Council established under paragraph (1)(F)(i);
 
-                    (II) in the State of Florida, a consortia  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “consortium”. </sup></sup>  of local political subdivisions that includes at a minimum 1 representative of each affected county;
+                    (II) in the State of Florida, a consortia  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be “consortium”. </sup></sup>  of local political subdivisions that includes at a minimum 1 representative of each affected county;
 
                     (III) in the State of Louisiana, the Coastal Protection and Restoration Authority of Louisiana;
 
@@ -1301,7 +1301,7 @@
 
     The Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States Act of 2012, referred to in subsecs. (a)(35) and (t)(2)(C)(vii)(IV), (VII)(ee), (D)(ii)(III), (IV)(bb), (E)(ii)(II), (4)(A), is subtitle F (§§ 1601–1608) of title I of div. A of [Pub. L. 112–141][/us/pl/112/141], July 6, 2012, [126 Stat. 588][/us/stat/126/588], which is set out as a note below.
 
-    The Outer Continental Shelf Lands Act, referred to in subsecs. (b)(1), (2)(A), (3) and (r), is [act Aug. 7, 1953, ch. 345][/us/act/1953-08-07/ch345], [67 Stat. 462][/us/stat/67/462], as amended, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1331 of Title 43][/us/usc/t43/s1331] and Tables.
+    The Outer Continental Shelf Lands Act, referred to in subsecs. (b)(1), (2)(A), (3) and (r), is [act Aug. 7, 1953, ch. 345][/us/act/1953-08-07/ch345], [67 Stat. 462][/us/stat/67/462], as amended, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43][/us/usc/t43/s1301] and Tables.
 
     The Deepwater Port Act of 1974, referred to in subsecs. (b)(1), (2)(A), (3) and (r), is [Pub. L. 93–627][/us/pl/93/627], Jan. 3, 1975, [88 Stat. 2126][/us/stat/88/2126], as amended, which is classified generally to chapter 29 (§ 1501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1501 of this title][/us/usc/t33/s1501] and Tables.
 
@@ -2207,7 +2207,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/stat/126/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F588
 [/us/act/1953-08-07/ch345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-07%2Fch345
 [/us/stat/67/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F462
-[/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
+[/us/usc/t43/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1301
 [/us/pl/93/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F627
 [/us/stat/88/2126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2126
 [/us/usc/t33/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1501

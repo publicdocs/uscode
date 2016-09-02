@@ -255,7 +255,7 @@
 
     Presidential Proclamation Numbered 5030, referred to in par. (8), is Proc. No. 5030, Mar. 10, 1983, 48 F.R. 10605, which is set out as a note under [section 1453 of Title 16][/us/usc/t16/s1453], Conservation.
 
-    The Outer Continental Shelf Lands Act, referred to in pars. (16) and (32)(C), is [act Aug. 7, 1953, ch. 345][/us/act/1953-08-07/ch345], [67 Stat. 462][/us/stat/67/462], as amended, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1331 of Title 43][/us/usc/t43/s1331] and Tables.
+    The Outer Continental Shelf Lands Act, referred to in pars. (16) and (32)(C), is [act Aug. 7, 1953, ch. 345][/us/act/1953-08-07/ch345], [67 Stat. 462][/us/stat/67/462], as amended, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43][/us/usc/t43/s1301] and Tables.
 
     The Comprehensive Environmental Response, Compensation, and Liability Act, referred to in par. (23), probably means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, [Pub. L. 96–510][/us/pl/96/510], Dec. 11, 1980, [94 Stat. 2767][/us/stat/94/2767], as amended, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of Title 42][/us/usc/t42/s9601] and Tables.
 
@@ -350,7 +350,7 @@
 [/us/usc/t16/s1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1453
 [/us/act/1953-08-07/ch345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-07%2Fch345
 [/us/stat/67/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F462
-[/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
+[/us/usc/t43/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1301
 [/us/pl/96/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510
 [/us/stat/94/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2767
 [/us/usc/t42/s9601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601

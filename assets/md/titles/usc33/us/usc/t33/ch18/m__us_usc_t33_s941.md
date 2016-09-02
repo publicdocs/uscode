@@ -63,7 +63,7 @@
 
     Act of June 15, 1917, referred to in subsec. (a), is [act June 15, 1917, ch. 30][/us/act/1917-06-15/ch30], [40 Stat. 217][/us/stat/40/217], as amended. For complete classification of this Act to the Code, see Tables.
 
-    Act of August 7, 1953, referred to in subsec. (g)(1), is known as the Outer Continental Shelf Lands Act, and is classified to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1331 of Title 43][/us/usc/t43/s1331] and Tables.
+    Act of August 7, 1953, referred to in subsec. (g)(1), is known as the Outer Continental Shelf Lands Act, and is classified to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43][/us/usc/t43/s1301] and Tables.
 
     Act of May 22, 1953, referred to in subsec. (g)(1), is known as the Submerged Lands Act, and is classified generally to subchapters I and II (§§ 1301 et seq., 1311 et seq.) of chapter 29 of Title 43. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43][/us/usc/t43/s1301] and Tables.
 
@@ -124,7 +124,7 @@ As originally enacted, subsec. (e) contained the phrase “, together with the
 [/us/usc/t46/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs101
 [/us/act/1917-06-15/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-06-15%2Fch30
 [/us/stat/40/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F217
-[/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
+[/us/usc/t43/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1301
 [/us/usc/t43/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1301
 [/us/usc/t42/s1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1651
 [/us/usc/t41/s6507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6507

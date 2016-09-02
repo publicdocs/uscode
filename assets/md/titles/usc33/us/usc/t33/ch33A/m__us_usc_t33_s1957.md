@@ -23,7 +23,7 @@
 
     This chapter, referred to in text, was in the original “this Act”, meaning [Pub. L. 109–449][/us/pl/109/449], Dec. 22, 2006, [120 Stat. 3333][/us/stat/120/3333], which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1951 of this title][/us/usc/t33/s1951] and Tables.
 
-    The Outer Continental Shelf Lands Act, referred to in text, is [act Aug. 7, 1953, ch. 345][/us/act/1953-08-07/ch345], [67 Stat. 462][/us/stat/67/462], which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1331 of Title 43][/us/usc/t43/s1331] and Tables.
+    The Outer Continental Shelf Lands Act, referred to in text, is [act Aug. 7, 1953, ch. 345][/us/act/1953-08-07/ch345], [67 Stat. 462][/us/stat/67/462], which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43][/us/usc/t43/s1301] and Tables.
 
 ----------
 
@@ -40,6 +40,6 @@
 [/us/usc/t33/s1951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1951
 [/us/act/1953-08-07/ch345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-07%2Fch345
 [/us/stat/67/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F462
-[/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
+[/us/usc/t43/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1301
 
 

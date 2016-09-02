@@ -41,7 +41,7 @@
 
     Section 14 of the Federal Advisory Committee Act, referred to in subsec. (b), is [section 14 of Pub. L. 92–463][/us/pl/92/463/s14], which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-    The Outer Continental Shelf Lands Act, referred to in subsec. (c), is [act Aug. 7, 1953, ch. 345][/us/act/1953-08-07/ch345], [67 Stat. 462][/us/stat/67/462], which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1331 of Title 43][/us/usc/t43/s1331] and Tables.
+    The Outer Continental Shelf Lands Act, referred to in subsec. (c), is [act Aug. 7, 1953, ch. 345][/us/act/1953-08-07/ch345], [67 Stat. 462][/us/stat/67/462], which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43][/us/usc/t43/s1301] and Tables.
 
 ----------
 
@@ -57,6 +57,6 @@
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/act/1953-08-07/ch345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-07%2Fch345
 [/us/stat/67/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F462
-[/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
+[/us/usc/t43/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1301
 
 
