@@ -243,7 +243,7 @@ Black Revolutionary War Patriots Memorial.—Pub. L. 99–500, § 101(h) [titl
 
     <td> 
 
-Brigadier General Francis Marion Commemorative Work.—Pub. L. 110–229, title III, § 331, May 8, 2008, 122 Stat. 781.  </td>
+Brigadier General Francis Marion Commemorative Work.—Pub. L. 110–229, title III, § 331, May 8, 2008, 122 Stat. 781; Pub. L. 114–92, div. B, title XXVIII, § 2852, Nov. 25, 2015, 129 Stat. 1184.  </td>
 
   </tr>
 
