@@ -55,19 +55,19 @@
 
 [Pub. L. 107–228, div. A, title VI, § 699][/us/pl/107/228/s699], Sept. 30, 2002, [116 Stat. 1418][/us/stat/116/1418], provided that:
 
->     “(a) __Determination Regarding Transfers.—__ 
+>     “(a)  __Determination Regarding Transfers__  __.—__ 
 
 >     If the President determines, based on a preponderance of the evidence, that a foreign person or entity has knowingly transferred proscribed weapons to Palestinian entities in the West Bank or Gaza, then, for the period specified in subsection (b), no assistance may be provided to the person or entity under part II of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2301][/us/usc/t22/s2301] et seq.\] and no sales of defense articles or defense services may be made to the person or entity under section 23 of the Arms Export Control Act \[[22 U.S.C. 2763][/us/usc/t22/s2763]\].
 
->     “(b) __Duration of Prohibition.—__ 
+>     “(b)  __Duration of Prohibition__  __.—__ 
 
 >     The period referred to in subsection (a) is the period commencing on the date on which a notification of a determination under subsection (a) is submitted to the appropriate congressional committees and ending on the date that is two years after such date.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     In conjunction with the report required under title VIII of the P.L.O. Commitments Compliance Act of 1989 ([Public Law 101–246][/us/pl/101/246]) \[[104 Stat. 76][/us/stat/104/76]\], the President shall submit a report to the appropriate congressional committees on transfers reviewed pursuant to subsection (a).
 
->     “(d) __Definition.—__ 
+>     “(d)  __Definition__  __.—__ 
 
 >     In this section, the term ‘proscribed weapons’ means arms, ammunition, and equipment the transfer of which is not in compliance with the Agreement on the Gaza Strip and the Jericho Area of May 4, 1994, its annexes, or subsequent agreements between Israel and the PLO, or Palestinian Authority, as appropriate.”
 

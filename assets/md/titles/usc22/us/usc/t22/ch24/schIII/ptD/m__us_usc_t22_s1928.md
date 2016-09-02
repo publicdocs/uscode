@@ -183,27 +183,27 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >     “(a) __Designation.—__ 
 
->         “(1) __Albania.—__ 
+>         “(1)  __Albania__  __.—__ 
 
 >         The Republic of Albania is designated as eligible to receive assistance under the program established under section 203(a) of the NATO Participation Act of 1994 (title II of [Public Law 103–447][/us/pl/103/447]; [22 U.S.C. 1928][/us/usc/t22/s1928] note), and shall be deemed to have been so designated pursuant to section 203(d)(1) of such Act.
 
->         “(2) __Croatia.—__ 
+>         “(2)  __Croatia__  __.—__ 
 
 >         The Republic of Croatia is designated as eligible to receive assistance under the program established under section 203(a) of the NATO Participation Act of 1994, and shall be deemed to have been so designated pursuant to section 203(d)(1) of such Act.
 
->         “(3) __Georgia.—__ 
+>         “(3)  __Georgia__  __.—__ 
 
 >         Georgia is designated as eligible to receive assistance under the program established under section 203(a) of the NATO Participation Act of 1994, and shall be deemed to have been so designated pursuant to section 203(d)(1) of such Act.
 
->         “(4) __Macedonia (fyrom).—__ 
+>         “(4)  __Macedonia (fyrom)__  __.—__ 
 
 >         The Republic of Macedonia (FYROM) is designated as eligible to receive assistance under the program established under section 203(a) of the NATO Participation Act of 1994, and shall be deemed to have been so designated pursuant to section 203(d)(1) of such Act.
 
->         “(5) __Ukraine.—__ 
+>         “(5)  __Ukraine__  __.—__ 
 
 >         Ukraine is designated as eligible to receive assistance under the program established under section 203(a) of the NATO Participation Act of 1994, and shall be deemed to have been so designated pursuant to section 203(d)(1) of such Act.
 
->     “(b) __Rule of Construction.—__ 
+>     “(b)  __Rule of Construction__  __.—__ 
 
 >     The designation of the Republic of Albania, the Republic of Croatia, Georgia, the Republic of Macedonia (FYROM), and Ukraine pursuant to subsection (a) as eligible to receive assistance under the program established under section 203(a) of the NATO Participation Act of 1994—
 
@@ -219,7 +219,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [Pub. L. 108–136, div. A, title XII, § 1231][/us/pl/108/136/s1231], Nov. 24, 2003, [117 Stat. 1654][/us/stat/117/1654], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress makes the following findings:
 
@@ -247,7 +247,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(3) The NATO Response Force is envisioned to be a technologically advanced, flexible, deployable, interoperable, and sustainable force that includes land, sea, and air elements ready to move quickly to wherever needed, as determined by the North Atlantic Council. The NATO Response Force is also intended to be a catalyst for focusing and promoting improvements in NATO’s military capabilities. It is expected to have initial operational capability by October 2004, and full operational capability by October 2006.
 
->     “(b) __Annual Report.—__ 
+>     “(b)  __Annual Report__  __.—__ 
 
 >         (1) Not later than January 31 of each year through 2008, the Secretary of Defense shall submit to the congressional committees specified in paragraph (5) a report, to be prepared in consultation with the Secretary of State, on implementation of the Prague Capabilities Commitment and development of the NATO Response Force by the member nations of the North Atlantic Treaty Organization (NATO).
 
@@ -293,11 +293,11 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [Pub. L. 108–136, div. C, title XXXVI, § 3623][/us/pl/108/136/s3623], Nov. 24, 2003, [117 Stat. 1824][/us/stat/117/1824], provided that:
 
->     “(a) __Sense of Congress.—__ 
+>     “(a)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of Congress that the President should, in conjunction with the North Atlantic Treaty Organization, encourage appropriate cooperative relationships between the Russian Federation and the United States and North Atlantic Treaty Organization with respect to the development and deployment of ballistic missile defenses.
 
->     “(b) __Report to Congress.—__ 
+>     “(b)  __Report to Congress__  __.—__ 
 
 >     Not later than one year after the date of the enactment of this Act \[Nov. 24, 2003\], the Secretary of Defense shall transmit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report (in unclassified or classified form as necessary) on the feasibility of increasing cooperation between the Russian Federation and the United States and the North Atlantic Treaty Organization on the subject of ballistic missile defense. The report shall include—
 
@@ -349,11 +349,11 @@ Similar provisions were contained in the following prior appropriation acts:
 
 > “SEC. 4. __DESIGNATION OF SLOVAKIA TO RECEIVE ASSISTANCE UNDER THE NATO PARTICIPATION ACT OF 1994.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Slovakia is designated as eligible to receive assistance under the program established under section 203(a) of the NATO Participation Act of 1994 (title II of [Public Law 103–447][/us/pl/103/447]; [22 U.S.C. 1928][/us/usc/t22/s1928] note) and shall be deemed to have been so designated pursuant to section 203(d)(1) of such Act.
 
->     “(b) __Rule of Construction.—__ 
+>     “(b)  __Rule of Construction__  __.—__ 
 
 >     The designation of Slovakia pursuant to subsection (a) as eligible to receive assistance under the program established under section 203(a) of the NATO Participation Act of 1994—
 
@@ -363,7 +363,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 > “SEC. 5. __AUTHORIZATION OF SECURITY ASSISTANCE FOR COUNTRIES DESIGNATED UNDER THE NATO PARTICIPATION ACT OF 1994.__ 
 
->     “(a) __Authorization of Foreign Military Financing.—__ 
+>     “(a)  __Authorization of Foreign Military Financing__  __.—__ 
 
 >     Of the amounts made available for fiscal year 2002 under section 23 of the Arms Export Control Act ([22 U.S.C. 2763][/us/usc/t22/s2763])—
 
@@ -381,7 +381,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(7) $11,500,000 is authorized to be available on a grant basis for Romania.
 
->     “(b) __Conforming Amendment.—__ 
+>     “(b)  __Conforming Amendment__  __.—__ 
 
 >     Subsection (a) of section 515 of the Security Assistance Act of 2000 ([Public Law 106–280][/us/pl/106/280]) \[[114 Stat. 858][/us/stat/114/858]\] is amended by striking paragraphs (1), (5), (6), (7), and (8) and redesignating paragraphs (2), (3), (4), and (9) as paragraphs (1) through (4), respectively.”
 
@@ -389,7 +389,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XII, § 1221(b)–(d)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–328, provided that:
 
->     “(b) __Report on Burdensharing of Future NATO Operations.—__ 
+>     “(b)  __Report on Burdensharing of Future NATO Operations__  __.—__ 
 
 >     Whenever the North Atlantic Treaty Organization undertakes a military operation, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report describing—
 
@@ -397,11 +397,11 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(2) the contributions that each of the member nations of the North Atlantic Treaty Organization are making or have pledged to make during any follow-on operation.
 
->     “(c) __Time for Submission of Report.—__ 
+>     “(c)  __Time for Submission of Report__  __.—__ 
 
 >     A report under subsection (b) shall be submitted not later than 90 days after the completion of the military operation.
 
->     “(d) __Applicability.—__ 
+>     “(d)  __Applicability__  __.—__ 
 
 >     Subsection (b) shall apply only with respect to military operations begun after the date of the enactment of this Act \[Oct. 30, 2000\].”
 
@@ -415,7 +415,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 > “SEC. 2702. __STATEMENT OF POLICY.__ 
 
->     “(a) __Policy With Respect to NATO Enlargement.—__ 
+>     “(a)  __Policy With Respect to NATO Enlargement__  __.—__ 
 
 >     Congress urges the President to outline a clear and complete strategic rationale for the enlargement of the North Atlantic Treaty Organization (NATO), and declares that—
 
@@ -435,11 +435,11 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >     “(b) __Policy With Respect to Negotiations With Russia.—__ 
 
->         “(1) __Implementation.—__ 
+>         “(1)  __Implementation__  __.—__ 
 
 >         NATO enlargement should be carried out in such a manner as to underscore the Alliance’s defensive nature and demonstrate to Russia that NATO enlargement will enhance the security of all countries in Europe, including Russia. Accordingly, the United States and its NATO allies should make this intention clear in negotiations with Russia, including negotiations regarding adaptation of the Conventional Armed Forces in Europe (CFE) Treaty of November 19, 1990.
 
->         “(2) __Limitations on commitments to russia.—__ 
+>         “(2)  __Limitations on commitments to russia__  __.—__ 
 
 >         In seeking to demonstrate to Russia NATO’s defensive and security-enhancing intentions, it is essential that neither fundamental United States security interests in Europe nor the effectiveness and flexibility of NATO as a defensive alliance be jeopardized. In particular, no commitments should be made to Russia that would have the effect of—
 
@@ -457,7 +457,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >             “(G) legitimizing Russian efforts to link concessions in arms control negotiations to NATO enlargement.
 
->         “(3) __Commitments from russia.—__ 
+>         “(3)  __Commitments from russia__  __.—__ 
 
 >         In order to enhance security and stability in Europe, the United States should seek commitments from Russia—
 
@@ -469,37 +469,37 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >             “(D) to take steps to reduce further its nuclear and conventional forces in Kaliningrad.
 
->         “(4) __Consultations.—__ 
+>         “(4)  __Consultations__  __.—__ 
 
 >         As negotiations on adaptation of the Treaty on Conventional Armed Forces in Europe proceed, the United States should engage in close and continuous consultations not only with its NATO allies, but also with the emerging democracies of Central and Eastern Europe, Ukraine, and the South Caucasus.
 
->     “(c) __Policy With Respect to Ballistic Missile Defense Cooperation.—__ 
+>     “(c)  __Policy With Respect to Ballistic Missile Defense Cooperation__  __.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         As the United States proceeds with efforts to develop defenses against ballistic missile attack, it should seek to foster a climate of cooperation with Russia on matters related to missile defense. In particular, the United States and its NATO allies should seek to cooperate with Russia in such areas as early warning.
 
->         “(2) __Discussions with nato allies.—__ 
+>         “(2)  __Discussions with nato allies__  __.—__ 
 
 >         The United States should initiate discussions with its NATO allies for the purpose of examining the feasibility of deploying a ballistic missile defense capable of protecting NATO’s southern and eastern flanks from a limited ballistic missile attack.
 
->         “(3) __Constitutional prerogatives.—__ 
+>         “(3)  __Constitutional prerogatives__  __.—__ 
 
 >         Even as the Congress seeks to promote ballistic missile defense cooperation with Russia, it must insist on its constitutional prerogatives regarding consideration of arms control agreements with Russia that bear on ballistic missile defense.
 
 > “SEC. 2703. __AUTHORITIES RELATING TO NATO ENLARGEMENT.__ 
 
->     “(a) __Policy of Section.—__ 
+>     “(a)  __Policy of Section__  __.—__ 
 
 >     This section is enacted in order to implement the policy set forth in section 2702(a).
 
 >     “(b) __Designation of Additional Countries Eligible for NATO Enlargement Assistance.—__ 
 
->         “(1) __Designation of additional countries.—__ 
+>         “(1)  __Designation of additional countries__  __.—__ 
 
 >         Romania, Estonia, Latvia, Lithuania, and Bulgaria are each designated as eligible to receive assistance under the program established under section 203(a) of the NATO Participation Act of 1994 \[[Pub. L. 103–447, title II][/us/pl/103/447]\] ([22 U.S.C. 1928][/us/usc/t22/s1928] note) and shall be deemed to have been so designated pursuant to section 203(d)(1) of such Act.
 
->         “(2) __Rule of construction.—__ 
+>         “(2)  __Rule of construction__  __.—__ 
 
 >         The designation of countries pursuant to paragraph (1) as eligible to receive assistance under the program established under section 203(a) of the NATO Participation Act of 1994—
 
@@ -507,7 +507,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >             “(B) shall not preclude the designation by the President of other emerging democracies in Central and Eastern Europe pursuant to section 203(d)(2) of such Act as eligible to receive assistance under the program established under section 203(a) of such Act.
 
->         “(3) __Sense of congress.—__ 
+>         “(3)  __Sense of congress__  __.—__ 
 
 >         It is the sense of Congress that Romania, Estonia, Latvia, Lithuania, and Bulgaria—
 
@@ -519,7 +519,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >     “(c) __Regional Airspace Initiative and Partnership for Peace Information Management System.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Funds described in paragraph (2) are authorized to be made available to support the implementation of the Regional Airspace Initiative and the Partnership for Peace Information Management System, including—
 
@@ -527,7 +527,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >             “(B) the transfer of such items to countries participating in these programs.
 
->         “(2) __Funds described.—__ 
+>         “(2)  __Funds described__  __.—__ 
 
 >         Funds described in this paragraph are funds that are available—
 
@@ -535,11 +535,11 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >             “(B) during fiscal year 1998 under any Act to carry out the Warsaw Initiative.
 
->     “(d) __Extension of Authority Regarding Excess Defense Articles.—__ 
+>     “(d)  __Extension of Authority Regarding Excess Defense Articles__  __.—__ 
 
 >     \[Amended [section 105 of Pub. L. 104–164][/us/pl/104/164/s105], [110 Stat. 1427][/us/stat/110/1427].\]
 
->     “(e) __Conforming Amendments to the NATO Participation Act of 1994.—__ 
+>     “(e)  __Conforming Amendments to the NATO Participation Act of__  __1994.—__ 
 
 >     \[Amended [section 203(c) of Pub. L. 103–447][/us/pl/103/447/s203/c], set out in a note below.\]
 
@@ -557,17 +557,17 @@ Similar provisions were contained in the following prior appropriation acts:
 
 > “SEC. 2705. __RESTRICTIONS AND REQUIREMENTS RELATING TO BALLISTIC MISSILE DEFENSE.__ 
 
->     “(a) __Policy of Section.—__ 
+>     “(a)  __Policy of Section__  __.—__ 
 
 >     This section is enacted in order to implement the policy set forth in section 2702(c).
 
->     “(b) __Restriction on Entry Into Force of ABM/TMD Demarcation Agreements.—__ 
+>     “(b)  __Restriction on Entry Into Force of ABM/TMD Demarcation Agreements__  __.—__ 
 
 >     An ABM/TMD demarcation agreement shall not be binding on the United States, and shall not enter into force with respect to the United States, unless, after the date of enactment of this Act \[Oct. 21, 1998\], that agreement is specifically approved with the advice and consent of the United States Senate pursuant to Article II, section 2, clause 2 of the Constitution.
 
 >     “(c) __Sense of Congress With Respect to Demarcation Agreements.—__ 
 
->         “(1) __Relationship to multilateralization of abm treaty.—__ 
+>         “(1)  __Relationship to multilateralization of abm treaty__  __.—__ 
 
 >         It is the sense of Congress that no ABM/TMD demarcation agreement will be considered for advice and consent to ratification unless, consistent with the certification of the President pursuant to condition (9) of the resolution of ratification of the CFE Flank Document, the President submits for Senate advice and consent to ratification any agreement, arrangement, or understanding that would—
 
@@ -575,35 +575,35 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >             “(B) change the geographic scope or coverage of the ABM Treaty, or otherwise modify the meaning of the term ‘national territory’ as used in Article VI and Article IX of the ABM Treaty.
 
->         “(2) __Preservation of united states theater ballistic missile defense potential.—__ 
+>         “(2)  __Preservation of united states theater ballistic missile defense potential__  __.—__ 
 
 >         It is the sense of Congress that no ABM/TMD demarcation agreement that would reduce the capabilities of United States theater missile defense systems, or the numbers or deployment patterns of such systems, will be approved for entry into force with respect to the United States.
 
->     “(d) __Report on Cooperative Projects With Russia.—__ 
+>     “(d)  __Report on Cooperative Projects With Russia__  __.—__ 
 
 >     Not later than January 1, 1999, January 1, 2000, and January 1, 2001, the President shall submit to the Committees on International Relations, National Security \[now Armed Services\], and Appropriations of the House of Representatives and the Committees on Foreign Relations, Armed Services, and Appropriations of the Senate a report on cooperative projects with Russia in the area of ballistic missile defense, including in the area of early warning. Each such report shall include the following:
 
->         “(1) __Cooperative projects.—__ 
+>         “(1)  __Cooperative projects__  __.—__ 
 
 >         A description of all cooperative projects conducted in the area of early warning and ballistic missile defense during the preceding fiscal year and the fiscal year during which the report is submitted.
 
->         “(2) __Funding.—__ 
+>         “(2)  __Funding__  __.—__ 
 
 >         A description of the funding for such projects during the preceding fiscal year and the year during which the report is submitted and the proposed funding for such projects for the next fiscal year.
 
->         “(3) __Status of dialogue or discussions.—__ 
+>         “(3)  __Status of dialogue or discussions__  __.—__ 
 
 >         A description of the status of any dialogue or discussions conducted during the preceding fiscal year between the United States and Russia aimed at exploring the potential for mutual accommodation of outstanding issues between the two nations on matters relating to ballistic missile defense and the ABM Treaty, including the possibility of developing a strategic relationship not based on mutual nuclear threats.
 
->     “(e) __Definitions.—__ 
+>     “(e)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __ABM/TMD demarcation agreement.—__ 
+>         “(1)  __ABM/TMD demarcation agreement__  __.—__ 
 
 >         The term ‘ABM/TMD demarcation agreement’ means any agreement that establishes a demarcation between theater ballistic missile defense systems and strategic antiballistic missile defense systems for purposes of the ABM Treaty.
 
->         “(2) __ABM treaty.—__ 
+>         “(2)  __ABM treaty__  __.—__ 
 
 >         The term ‘ABM Treaty’ means the Treaty Between the United States of America and the Union of Soviet Socialist Republics on the Limitation of Anti-Ballistic Missile Systems, signed at Moscow on May 26, 1972 (23 UST 3435), and includes the Protocols to that Treaty, signed at Moscow on July 3, 1974 (27 UST 1645).”
 
@@ -613,7 +613,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [Pub. L. 105–261, div. A, title XII, § 1221][/us/pl/105/261/s1221], Oct. 17, 1998, [112 Stat. 2152][/us/stat/112/2152], provided that:
 
->     “(a) __Limitation.—__ 
+>     “(a)  __Limitation__  __.—__ 
 
 >     The United States share of defined NATO expansion costs may not exceed the lesser of—
 
@@ -621,7 +621,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(2) $2,000,000,000.
 
->     “(b) __Defined NATO Expansion Costs.—__ 
+>     “(b)  __Defined NATO Expansion Costs__  __.—__ 
 
 >     For purposes of subsection (a), the term ‘defined NATO expansion costs’ means the commonly funded costs of the North Atlantic Treaty Organization (NATO) during fiscal years 1999 through 2011 for enlargement of NATO due to the admission to NATO of Poland, Hungary, and the Czech Republic.”
 
@@ -727,15 +727,15 @@ Similar provisions were contained in the following prior appropriation acts:
 
 > “SEC. 606. __DESIGNATION OF COUNTRIES ELIGIBLE FOR NATO ENLARGEMENT ASSISTANCE.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The following countries are designated as eligible to receive assistance under the program established under section 203(a) of the NATO Participation Act of 1994 \[[Pub. L. 103–447][/us/pl/103/447], set out in a note below\] and shall be deemed to have been so designated pursuant to section 203(d)(1) of such Act: Poland, Hungary, and the Czech Republic.
 
->     “(b) __Designation of Slovenia.—__ 
+>     “(b)  __Designation of Slovenia__  __.—__ 
 
 >     Effective 90 days after the date of enactment of this Act \[Sept. 30, 1996\], Slovenia is designated as eligible to receive assistance under the program established under section 203(a) of the NATO Participation Act of 1994, and shall be deemed to have been so designated pursuant to section 203(d) of such Act, unless the President certifies to Congress prior to such effective date that Slovenia fails to meet the criteria under section 203(d)(3) of such Act.
 
->     “(c) __Designation of Other Countries.—__ 
+>     “(c)  __Designation of Other Countries__  __.—__ 
 
 >     The President shall designate other emerging democracies in Central and Eastern Europe as eligible to receive assistance under the program established under section 203(a) of such Act if such countries—
 
@@ -747,17 +747,17 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(4) meet the other criteria outlined in section 203(d)(3) of the NATO Participation Act of 1994 (title II of [Public Law 103–447][/us/pl/103/447]; [22 U.S.C. 1928][/us/usc/t22/s1928] note).
 
->     “(d) __Rule of Construction.—__ 
+>     “(d)  __Rule of Construction__  __.—__ 
 
 >     Nothing in this section precludes the designation by the President of Estonia, Latvia, Lithuania, Romania, Slovakia, Bulgaria, Albania, Moldova, Ukraine, or any other emerging democracy in Central and Eastern Europe pursuant to section 203(d) of the NATO Participation Act of 1994 as eligible to receive assistance under the program established under section 203(a) of such Act.
 
 > “SEC. 607. __AUTHORIZATION OF APPROPRIATIONS FOR NATO ENLARGEMENT ASSISTANCE.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     There are authorized to be appropriated $60,000,000 for fiscal year 1997 for the program established under section 203(a) of the NATO Participation Act of 1994 \[[Pub. L. 103–447][/us/pl/103/447], set out in a note below\].
 
->     “(b) __Availability.—__ 
+>     “(b)  __Availability__  __.—__ 
 
 >     Of the funds authorized to be appropriated by subsection (a)—
 
@@ -767,13 +767,13 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(3) not more than $10,000,000 shall be available for assistance pursuant to the authority of section 203(c)(3) of the NATO Participation Act of 1994 (relating to international military education and training).
 
->     “(c) __Rule of Construction.—__ 
+>     “(c)  __Rule of Construction__  __.—__ 
 
 >     Amounts authorized to be appropriated under this section are authorized to be appropriated in addition to such amounts as otherwise may be available for such purposes.
 
 > “SEC. 608. __REGIONAL AIRSPACE INITIATIVE AND PARTNERSHIP FOR PEACE INFORMATION MANAGEMENT SYSTEM.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     To the extent provided in advance in appropriations acts for such purposes, funds described in subsection (b) are authorized to be made available to support the implementation of the Regional Airspace Initiative and the Partnership for Peace Information Management System, including—
 
@@ -781,7 +781,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(2) the transfer of such items to countries participating in these programs.
 
->     “(b) __Funds Described.—__ 
+>     “(b)  __Funds Described__  __.—__ 
 
 >     Funds described in this subsection are funds that are available—
 
@@ -791,11 +791,11 @@ Similar provisions were contained in the following prior appropriation acts:
 
 > “SEC. 609. __EXCESS DEFENSE ARTICLES.__ 
 
->     “(a) __Priority Delivery.—__ 
+>     “(a)  __Priority Delivery__  __.—__ 
 
 >     Notwithstanding any other provision of law, the delivery of excess defense articles under the authority of section 203(c)(1) and (2) of the NATO Participation Act of 1994 \[[Pub. L. 103–447][/us/pl/103/447], set out in a note below\] and section 516 of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2321j][/us/usc/t22/s2321j]\] shall be given priority to the maximum extent feasible over the delivery of such excess defense articles to all other countries except those countries referred to in section 541 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1995 ([Public Law 103–306][/us/pl/103/306]; [108 Stat. 1640][/us/stat/108/1640]).
 
->     “(b) __Cooperative Regional Peacekeeping Initiatives.—__ 
+>     “(b)  __Cooperative Regional Peacekeeping Initiatives__  __.—__ 
 
 >     The Congress encourages the President to provide excess defense articles and other appropriate assistance to cooperative regional peacekeeping initiatives involving emerging democracies in Central and Eastern Europe that have expressed an interest in joining NATO in order to enhance their ability to contribute to European peace and security and international peacekeeping efforts.
 
@@ -805,11 +805,11 @@ Similar provisions were contained in the following prior appropriation acts:
 
 > “SEC. 611. __TERMINATION OF ELIGIBILITY.__ 
 
->     “(a) __Termination of Eligibility.—__ 
+>     “(a)  __Termination of Eligibility__  __.—__ 
 
 >     The eligibility of a country designated pursuant to subsection (a) or (b) of section 606 or pursuant to section 203(d) of the NATO Participation Act of 1994 \[[Pub. L. 103–447][/us/pl/103/447], set out in a note below\] may be terminated upon a determination by the President that such country does not meet the criteria set forth in section 203(d)(3) of the NATO Participation Act of 1994.
 
->     “(b) __Notification.—__ 
+>     “(b)  __Notification__  __.—__ 
 
 >     At least 15 days before terminating the eligibility of any country pursuant to subsection (a), the President shall notify the congressional committees specified in section 634A of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2394–1][/us/usc/t22/s2394–1]\] in accordance with the procedures applicable to reprogramming notifications under that section.
 
@@ -821,7 +821,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [Pub. L. 105–85, div. A, title XII, § 1221][/us/pl/105/85/s1221], Nov. 18, 1997, [111 Stat. 1935][/us/stat/111/1935], as amended by [Pub. L. 105–261, div. A, title XII, § 1233][/us/pl/105/261/s1233], Oct. 17, 1998, [112 Stat. 2156][/us/stat/112/2156]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(e)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–293, provided that:
 
->     “(a) __Efforts To Increase Allied Burdensharing.—__ 
+>     “(a)  __Efforts To Increase Allied Burdensharing__  __.—__ 
 
 >     The President shall seek to have each nation that has cooperative military relations with the United States (including security agreements, basing arrangements, or mutual participation in multinational military organizations or operations) take one or more of the following actions:
 
@@ -833,7 +833,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(4) Increase the military assets (including personnel, equipment, logistics, support and other resources) that it contributes or has pledged to contribute to multinational military activities worldwide by 10 percent by September 30, 1999.
 
->     “(b) __Authorities To Encourage Actions by United States Allies.—__ 
+>     “(b)  __Authorities To Encourage Actions by United States Allies__  __.—__ 
 
 >     In seeking the actions described in subsection (a) with respect to any nation, or in response to a failure by any nation to undertake one or more of such actions, the President may take any of the following measures to the extent otherwise authorized by law:
 
@@ -849,7 +849,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(6) Take any other action the President determines to be appropriate as authorized by law.
 
->     “(c) __Report on Progress in Increasing Allied Burdensharing.—__ 
+>     “(c)  __Report on Progress in Increasing Allied Burdensharing__  __.—__ 
 
 >     Not later than March 1, 1999, the Secretary of Defense shall submit to Congress a report on—
 
@@ -861,7 +861,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(4) the budgetary savings to the United States that are expected to accrue as a result of the steps described under paragraph (1).
 
->     “(d) __Report on National Security Bases for Forward Deployment and Burdensharing Relationships.—__ 
+>     “(d)  __Report on National Security Bases for Forward Deployment and Burdensharing Relationships__  __.—__ 
 
 >         (1)
 
@@ -919,11 +919,11 @@ Similar provisions were contained in the following prior appropriation acts:
 
 > “SEC. 203. __AUTHORITY FOR PROGRAM TO FACILITATE TRANSITION TO NATO MEMBERSHIP.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The President may establish a program to assist the transition to full NATO membership of Poland, Hungary, the Czech Republic, Slovakia, and other Partnership for Peace emerging democracies in Central and Eastern Europe designated pursuant to subsection (d).
 
->     “(b) __Conduct of Program.—__ 
+>     “(b)  __Conduct of Program__  __.—__ 
 
 >     The program established under subsection (a) shall facilitate the transition to full NATO membership of the countries designated under subsection (d) by supporting and encouraging, inter alia—
 
@@ -933,7 +933,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(3) conformity of military doctrine.
 
->     “(c) __Type of Assistance.—__ 
+>     “(c)  __Type of Assistance__  __.—__ 
 
 >     In carrying out the program established under subsection (a), the President may provide to the countries designated under subsection (d) the following types of security assistance:
 
@@ -953,15 +953,15 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >     “(d) __Designation of Eligible Countries.—__ 
 
->         “(1) __Initial presidential review and designation.—__ 
+>         “(1)  __Initial presidential review and designation__  __.—__ 
 
 >         Within 60 days of the enactment of the NATO Participation Act Amendments of 1995 \[NATO Participation Act Amendments of 1995 was contained in S. 602 and title VII of H.R. 1868 which were predecessor versions of provisions enacted into law by [section 585 of Pub. L. 104–107][/us/pl/104/107/s585], which was approved Feb. 12, 1996\], the President should evaluate the degree to which any emerging democracies in Central and Eastern Europe which has expressed its interest in joining NATO meets the criteria set forth in paragraph (3), and may designate one or more of these countries as eligible to receive assistance under the program established under subsection (a). The President shall, at the time of designation of any country pursuant to this paragraph, determine and report to the Committees on International Relations and Appropriations of the House of Representatives and the Committees on Foreign Relations and Appropriations of the Senate with respect to each country so designated that such country meets the criteria set forth in paragraph (3).
 
->         “(2) __Other european countries emerging from communist domination.—__ 
+>         “(2)  __Other european countries emerging from communist domination__  __.—__ 
 
 >         In addition to the countries designated pursuant to paragraph (1), the President may at any time designate other European emerging democracies in Central and Eastern Europe as eligible to receive assistance under the program established under subsection (a). The President shall, at the time of designation of any country pursuant to this paragraph, determine and report to the Committees on International Relations and Appropriations of the House of Representatives and the Committees on Foreign Relations and Appropriations of the Senate with respect to each country so designated that such country meets the criteria set forth in paragraph (3).
 
->         “(3) __Criteria.—__ 
+>         “(3)  __Criteria__  __.—__ 
 
 >         The criteria referred to in paragraphs (1) and (2) are, with respect to each country, that the country—
 
@@ -991,29 +991,29 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >             “(C) is not ineligible to receive assistance under section 552 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1996 \[[110 Stat. 741][/us/stat/110/741]\], with respect to transfers of equipment to a country the government of which the Secretary of State has determined is a terrorist government for purposes of section 40(d) of the Arms Export Control Act \[[22 U.S.C. 2780(d)][/us/usc/t22/s2780/d]\].
 
->     “(e) __Notification.—__ 
+>     “(e)  __Notification__  __.—__ 
 
 >     At least 15 days before designating any country pursuant to subsection (d), the President shall notify the appropriate congressional committees in accordance with the procedures applicable under section 634A of the Foreign Assistance Act of 1961 ([22 U.S.C. 2394–1][/us/usc/t22/s2394–1]), and shall include with such notification a memorandum of justification with respect to the proposed designation.
 
->     “(f) __Determination.—__ 
+>     “(f)  __Determination__  __.—__ 
 
 >     It is hereby determined that Poland, Hungary, the Czech Republic, and Slovakia meet the criteria required in paragraphs (1), (2), and (3) of subsection (d).
 
->     “(g) __Effect on Other Authorities.—__ 
+>     “(g)  __Effect on Other Authorities__  __.—__ 
 
 >     Nothing in this Act \[title\] shall affect the eligibility of countries to participate under other provisions of law in programs described in this Act \[title\].
 
 > “SEC. 204. __ADDITIONAL AUTHORITIES.__ 
 
->     “(a) __Arms Export Control Act.—__ 
+>     “(a)  __Arms Export Control Act__  __.—__ 
 
 >     The President is authorized to exercise the authority of sections 63 and 65 of the Arms Export Control Act \[[22 U.S.C. 2796b][/us/usc/t22/s2796b], 2796d\] with respect to any country designated under [section 203(d) of this title][/us/usc/t22/s203/d] on the same basis authorized with respect to NATO countries.
 
->     “(b) __Other NATO Authorities.—__ 
+>     “(b)  __Other NATO Authorities__  __.—__ 
 
 >     The President should designate any country designated under [section 203(d) of this title][/us/usc/t22/s203/d] as eligible under sections 2350c and 2350f of title 10, United States Code.
 
->     “(c) __Sense of Congress.—__ 
+>     “(c)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of Congress that, in the interest of maintaining stability and promoting democracy in Poland, Hungary, the Czech Republic, Slovakia, and any other Partnership for Peace country designated under [section 203(d) of this title][/us/usc/t22/s203/d], those countries should be included in all activities under [section 2457 of title 10][/us/usc/t10/s2457], United States Code, related to the increased standardization and enhanced interoperability of equipment and weapons systems, through coordinated training and procurement activities, as well as other means, undertaken by the North Atlantic Treaty Organization members and other allied countries.
 
@@ -1029,15 +1029,15 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [Pub. L. 103–337, div. A, title XIII, § 1313(a)][/us/pl/103/337/s1313/a]–(d), Oct. 5, 1994, [108 Stat. 2894][/us/stat/108/2894], 2895, as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XII, § 1238(b), Oct. 14, 2008, [122 Stat. 4644][/us/stat/122/4644], provided that:
 
->     “(a) __Policy.—__ 
+>     “(a)  __Policy__  __.—__ 
 
 >     It is the policy of the United States that the North Atlantic Treaty Organization (NATO) allies should assist the United States in paying the incremental costs incurred by the United States for maintaining members of the Armed Forces in assignments to permanent duty ashore in European member nations of NATO solely for support of NATO roles and missions.
 
->     “(b) __Implementation.—__ 
+>     “(b)  __Implementation__  __.—__ 
 
 >     The President shall take all necessary actions to ensure the effective implementation of the policy set forth in subsection (a).
 
->     “(c) __Incremental Costs Defined.—__ 
+>     “(c)  __Incremental Costs Defined__  __.—__ 
 
 >     For purposes of subsection (a), the definition provided for the term ‘incremental costs’ in section 1046 of the National Defense Authorization Act for Fiscal Years 1992 and 1993 \[[Pub. L. 102–190][/us/pl/102/190], set out below\], as added by subsection (e), shall apply with respect to maintaining members of the Armed Forces in assignments to permanent duty ashore in European member nations of NATO in the same manner as such term applies with respect to permanent stationing ashore of United States forces in foreign nations for purposes of subsection (e)(4) of such section 1046.
 
@@ -1049,7 +1049,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >     “\[(a) Repealed. [Pub. L. 112–74, div. I, title VII, § 7034(n)][/us/pl/112/74/s7034/n], Dec. 23, 2011, [125 Stat. 1217][/us/stat/125/1217].\]
 
->     “(b) __Authority of the President.—__ 
+>     “(b)  __Authority of the President__  __.—__ 
 
 >     The President is authorized to confer, pursuant to agreement with any country eligible to participate in the Partnership for Peace, rights in respect of the military and related civilian personnel (including dependents of any such personnel) and activities of that country in the United States comparable to the rights conferred by that country in respect of the military and related civilian personnel (including dependents of any such personnel) and activities of the United States in that country.”
 
@@ -1059,7 +1059,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [Pub. L. 102–190, div. A, title X, § 1046][/us/pl/102/190/s1046], Dec. 5, 1991, [105 Stat. 1466][/us/stat/105/1466], as amended by [Pub. L. 103–160, div. A, title XIV, § 1412(b)][/us/pl/103/160/s1412/b], Nov. 30, 1993, [107 Stat. 1829][/us/stat/107/1829]; [Pub. L. 103–337, div. A, title XIII, § 1313(e)][/us/pl/103/337/s1313/e], Oct. 5, 1994, [108 Stat. 2895][/us/stat/108/2895], provided that:
 
->     “(a) __Defense Cost-Sharing Agreements.—__ 
+>     “(a)  __Defense Cost-Sharing Agreements__  __.—__ 
 
 >         (1) The President shall consult with the foreign nations described in paragraph (2) to seek to achieve, within 12 months after the date of the enactment of this Act \[Dec. 5, 1991\], an agreement on equitable defense cost-sharing with each such nation.
 
@@ -1073,15 +1073,15 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(3) Each defense cost-sharing agreement entered into under paragraph (1) should provide that the foreign nation agrees to share equitably with the United States, through cash compensation or in-kind contributions, or a combination thereof, the costs to the United States that arise solely from the implementation of the provisions of the bilateral or multilateral defense agreement with that nation.
 
->     “(b) __Exception.—__ 
+>     “(b)  __Exception__  __.—__ 
 
 >     The provisions of subsection (a) shall not apply to those foreign nations that receive assistance under section 23 of the Arms Export Control Act ([22 U.S.C. 2763][/us/usc/t22/s2763]) relating to the foreign military financing program or under chapter 4 of part II of the Foreign Assistance Act of 1961 ([22 U.S.C. 2346][/us/usc/t22/s2346] et seq.) relating to the Economic Support Fund.
 
->     “(c) __Consultations.—__ 
+>     “(c)  __Consultations__  __.—__ 
 
 >     In conducting the consultations required under subsection (a), the President should make maximum feasible use of the Department of Defense and the post of Ambassador-at-Large created by section 8125(c) of the Department of Defense Appropriations Act, 1989 \[[Pub. L. 100–463][/us/pl/100/463]\] ([10 U.S.C. 113][/us/usc/t10/s113] note).
 
->     “(d) __Allies Mutual Defense Payments Account.—__ 
+>     “(d)  __Allies Mutual Defense Payments Account__  __.—__ 
 
 >     The Secretary of Defense shall maintain an accounting for defense cost-sharing under each agreement entered into with a foreign nation pursuant to subsection (a). The accounting shall show for each foreign nation the amount and nature of the—
 
@@ -1097,7 +1097,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(6) costs to the United States that arise solely from the implementation of the provisions of the bilateral or multilateral defense agreement with the nation.
 
->     “(e) __Reporting Requirements.—__ 
+>     “(e)  __Reporting Requirements__  __.—__ 
 
 >     The Secretary of Defense shall include in each Report on Allied Contributions to the Common Defense prepared under [section 1003 of Public Law 98–525][/us/pl/98/525/s1003] ([22 U.S.C. 1928][/us/usc/t22/s1928] note) information, in classified and unclassified form—
 
@@ -1109,7 +1109,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(4) specifying the incremental costs to the United States associated with the permanent stationing ashore of United States forces in foreign nations.
 
->     “(f) __Incremental Costs Defined.—__ 
+>     “(f)  __Incremental Costs Defined__  __.—__ 
 
 >     In this section, the term ‘incremental costs’, with respect to permanent stationing ashore of United States forces in foreign nations, means the difference between the costs associated with maintaining United States military forces in assignments to permanent duty ashore in the foreign nations and the costs associated with maintaining those same military forces at military bases in the United States.”
 
@@ -1121,7 +1121,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [Pub. L. 100–456, div. A, title X, § 1004][/us/pl/100/456/s1004], Sept. 29, 1988, [102 Stat. 2039][/us/stat/102/2039], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress makes the following findings:
 
@@ -1137,7 +1137,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(6) The NATO Nuclear Planning Group recently reaffirmed its endorsement of development by the United States of a new missile for delivery of theater nuclear weapons as a follow-on to the current Lance missile, with a view toward an eventual decision on deployment of such a follow-on missile.
 
->     “(b) __Sense of Congress.—__ 
+>     “(b)  __Sense of Congress__  __.—__ 
 
 >     In light of the findings in subsection (a), it is the sense of Congress that—
 
@@ -1157,7 +1157,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [Pub. L. 99–93, title VIII, § 812][/us/pl/99/93/s812], Aug. 16, 1985, [99 Stat. 453][/us/stat/99/453], as amended by [Pub. L. 103–236, title I, § 139(14)][/us/pl/103/236/s139/14], Apr. 30, 1994, [108 Stat. 398][/us/stat/108/398], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress hereby finds—
 
@@ -1175,7 +1175,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(7) Japan, however, in recent years consistently has not provided sufficient funding and resources to meet its self-defense needs and to meet common United States-Japan defense objectives and alliance responsibilities.
 
->     “(b) __Sense of Congress.—__ 
+>     “(b)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of the Congress that Japan, to fulfill its self-defense responsibilities pursuant to the 1960 Mutual Cooperation and Security Treaty with the United States, and in accordance with the national policy declaration made by its Prime Minister in May 1981, to develop a 1,000-mile airspace and sea­lanes defense capability, should implement a 1986–1990 Mid-Term Defense Plan containing sufficient funding, program acquisition, and force development resources to obtain the agreed-upon 1,000 mile self-defense capabilities by the end of the decade, including the allocation of sufficient budgetary resources annually to reduce substantially the ammunition, logistics, and sustainability shortfalls of its self-defense forces.”
 

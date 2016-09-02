@@ -73,11 +73,11 @@
 
 [Pub. L. 99–93, title I, § 130][/us/pl/99/93/s130], Aug. 16, 1985, [99 Stat. 420][/us/stat/99/420], provided that:
 
->     “(a) __Congressional Review.—__ 
+>     “(a)  __Congressional Review__  __.—__ 
 
 >     It is the sense of the Congress that the United States should not accept a gift of any house or other place of residence for the purpose of providing an official residence for the Secretary of State unless the Congress has had an opportunity to review the proposed gift.
 
->     “(b) __Study and Report.—__ 
+>     “(b)  __Study and Report__  __.—__ 
 
 >     The Secretary of State shall conduct a study of any offer of a gift for the purpose of providing a place of official residence for the Secretary of State. Such study shall include an examination of the costs to the United States associated with accepting such gift, including the costs of acquisition, maintenance, security, and daily operation of a residence. The Secretary shall report the results of any study conducted under this section to the Committee on Foreign Affairs and the Committee on Public Works and Transportation \[now Committee on Transportation and Infrastructure\] of the House of Representatives and to the Committee on Foreign Relations and the Committee on Environment and Public Works of the Senate.”
 

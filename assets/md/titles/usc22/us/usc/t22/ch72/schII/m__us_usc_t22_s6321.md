@@ -45,7 +45,7 @@
 
 [Pub. L. 108–136, div. C, title XXXVI, § 3631][/us/pl/108/136/s3631], Nov. 24, 2003, [117 Stat. 1825][/us/stat/117/1825], provided that:
 
->     “(a) __Sense of Congress Regarding Initiation of Dialogue Between the IAEA and the OECD.—__ 
+>     “(a)  __Sense of Congress Regarding Initiation of Dialogue Between the IAEA and the OECD__  __.—__ 
 
 >     It is the sense of Congress that—
 
@@ -53,7 +53,7 @@
 
 >         “(2) the discussions referred to in paragraph (1) should also provide a forum to explore possible sources of funds in support of the G–8 Global Partnership Against the Spread of Weapons and Materials of Mass Destruction.
 
->     “(b) __Contingent Report.—__ 
+>     “(b)  __Contingent Report__  __.—__ 
 
 >         (1)
 

@@ -55,11 +55,11 @@
 
 [Pub. L. 100–204, title I, § 133][/us/pl/100/204/s133], Dec. 22, 1987, [101 Stat. 1344][/us/stat/101/1344], provided that:
 
->     “(a) __Finding.—__ 
+>     “(a)  __Finding__  __.—__ 
 
 >     Congress finds that the United States Department of State, on September 15, 1987, declared itself to be a temporary foreign diplomatic mission for the purpose of denying free speech to American citizens who planned to protest the tyranny of the Soviet regime.
 
->     “(b) __Prohibition.—__ 
+>     “(b)  __Prohibition__  __.—__ 
 
 >     It is not in the national security interest of the United States for the Department of State to declare, and it shall not declare, itself to be a foreign diplomatic mission.”
 

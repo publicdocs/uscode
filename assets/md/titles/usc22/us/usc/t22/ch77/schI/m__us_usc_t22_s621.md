@@ -17,19 +17,19 @@
 
 ## “SEC. 621. UNITED STATES SPECIAL COORDINATOR FOR TIBETAN ISSUES.
 
->     “(a) __United States Special Coordinator for Tibetan Issues.—__ 
+>     “(a)  __United States Special Coordinator for Tibetan Issues__  __.—__ 
 
 >     There shall be within the Department a United States Special Coordinator for Tibetan Issues (in this section referred to as the ‘Special Coordinator’).
 
->     “(b) __Consultation.—__ 
+>     “(b)  __Consultation__  __.—__ 
 
 >     The Secretary shall consult with the chairmen and ranking minority members of the appropriate congressional committees prior to the designation of the Special Coordinator.
 
->     “(c) __Central Objective.—__ 
+>     “(c)  __Central Objective__  __.—__ 
 
 >     The central objective of the Special Coordinator is to promote substantive dialogue between the Government of the People’s Republic of China and the Dalai Lama or his representatives.
 
->     “(d) __Duties and Responsibilities.—__ 
+>     “(d)  __Duties and Responsibilities__  __.—__ 
 
 >     The Special Coordinator shall—
 
@@ -59,7 +59,7 @@
 
 > “SEC. 202. __FINDINGS AND DECLARATIONS; SENSE OF CONGRESS.__ 
 
->     “(a) __Findings and Declarations.—__ 
+>     “(a)  __Findings and Declarations__  __.—__ 
 
 >     Congress makes the following findings and declarations:
 
@@ -73,7 +73,7 @@
 
 >         “(5) Human rights also serve as a basis for Macau’s continued economic prosperity, and Congress takes note of Macau’s adherence to the International Covenant on Civil and Political Rights and the International Convention on Economic, Social, and Cultural Rights.
 
->     “(b) __Sense of Congress.—__ 
+>     “(b)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of Congress that—
 
@@ -87,37 +87,37 @@
 
 >     “(a) __Continued Application.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Notwithstanding any change in the exercise of sovereignty over Macau, and subject to subsections (b) and (c), the laws of the United States shall continue to apply with respect to Macau in the same manner as the laws of the United States were applied with respect to Macau before December 20, 1999, unless otherwise expressly provided by law or by Executive order issued pursuant to paragraph (2).
 
->         “(2) __Exception.—__ 
+>         “(2)  __Exception__  __.—__ 
 
 >         Whenever the President determines that Macau is not sufficiently autonomous to justify treatment under a particular law of the United States, or any provision thereof, different from that accorded the People’s Republic of China, the President may issue an Executive order suspending the application of paragraph (1) to such law or provision of law. The President shall promptly notify the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate concerning any such determination and shall publish the Executive order in the Federal Register.
 
 >     “(b) __Export Controls.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The export control laws, regulations, and practices of the United States shall apply to Macau in the same manner and to the same extent that such laws, regulations, and practices apply to the People’s Republic of China, and in no case shall such laws, regulations, and practices be applied less restrictively to exports to Macau than to exports to the People’s Republic of China.
 
->         “(2) __Rule of construction.—__ 
+>         “(2)  __Rule of construction__  __.—__ 
 
 >         Paragraph (1) shall not be construed as prohibiting the provision of export control assistance to Macau.
 
 >     “(c) __International Agreements.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to subsection (b) and paragraph (2), for all purposes, including actions in any court of the United States, Congress approves of the continuation in force after December 20, 1999, of all treaties and other international agreements, including multilateral conventions, entered into before such date between the United States and Macau, or entered into force before such date between the United States and the Republic of Portugal and applied to Macau, unless or until terminated in accordance with law.
 
->         “(2) __Exception.—__ 
+>         “(2)  __Exception__  __.—__ 
 
 >         If, in carrying out this subsection, the President determines that Macau is not legally competent to carry out its obligations under any such treaty or other international agreement, or that the continuation of Macau’s obligations or rights under any such treaty or other international agreement is not appropriate under the circumstances, the President shall take appropriate action to modify or terminate such treaty or other international agreement. The President shall promptly notify the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate concerning such determination.
 
 > “SEC. 204. __REPORTING REQUIREMENT.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 90 days after the date of the enactment of this Act \[Dec. 27, 2000\], and not later than March 31 of each of the years 2001, 2002, and 2003, the Secretary of State shall transmit to the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate a report on conditions in Macau of interest to the United States. The report shall describe—
 
@@ -131,7 +131,7 @@
 
 >         “(5) the nature and extent of Macau’s participation in multilateral forums.
 
->     “(b) __Separate Part of Country Reports.—__ 
+>     “(b)  __Separate Part of Country Reports__  __.—__ 
 
 >     Whenever a report is transmitted to Congress on a country-by-country basis, there shall be included in such report, where applicable, a separate subreport on Macau under the heading of the country that exercises sovereignty over Macau.
 
@@ -139,11 +139,11 @@
 
 > “In this title:
 
->     “(1) __Joint declaration.—__ 
+>     “(1)  __Joint declaration__  __.—__ 
 
 >     The term ‘Joint Declaration’ means the Joint Declaration of the Government of the People’s Republic of China and the Government of the Republic of Portugal on the Question of Macau, dated April 13, 1987.
 
->     “(2) __Macau.—__ 
+>     “(2)  __Macau__  __.—__ 
 
 >     The term ‘Macau’ means the territory that prior to December 20, 1999, was the Portuguese Dependent Territory of Macau and after December 20, 1999, became the Macau Special Administrative Region of the People’s Republic of China.”
 

@@ -321,11 +321,11 @@
 
 [Pub. L. 110–161, div. J, title VI, § 664(b)][/us/pl/110/161/s664/b], (c), Dec. 26, 2007, [121 Stat. 2349][/us/stat/121/2349], provided that:
 
->     “(b) __Coordinator.—__ 
+>     “(b)  __Coordinator__  __.—__ 
 
 >     There shall be established within the Department of State in the immediate office of the Director of United States Foreign Assistance, a Coordinator of United States Government activities to provide basic education assistance in developing countries (hereinafter in this section referred to as the ‘Coordinator’).
 
->     “(c) __Responsibilities.—__ 
+>     “(c)  __Responsibilities__  __.—__ 
 
 >     That \[sic\] the Coordinator shall have primary responsibility for the oversight and coordination of all resources and international activities of the United States Government that provide assistance in developing countries for basic education. The individual serving as the Coordinator may not hold any other position in the Federal Government during the individual’s time of service as Coordinator.”
 
@@ -349,11 +349,11 @@
 
 [Pub. L. 110–161, div. J, title VI, § 699B][/us/pl/110/161/s699B], Dec. 26, 2007, [121 Stat. 2369][/us/stat/121/2369], provided that:
 
->     “(a) __Advisor.—__ 
+>     “(a)  __Advisor__  __.—__ 
 
 >     After consultation with the Committees on Appropriations and not later than 90 days after the enactment of this Act \[Dec. 26, 2007\], there shall be established within the Department of State in the immediate office of the Director of United States Foreign Assistance an Advisor for Activities Relating to Indigenous Peoples Internationally (hereinafter in this section referred to as the ‘Advisor’), who shall be appointed by the Director. The Advisor shall report directly to the Director.
 
->     “(b) __Responsibilities.—__ 
+>     “(b)  __Responsibilities__  __.—__ 
 
 >     The Advisor shall:
 
@@ -363,11 +363,11 @@
 
 >         “(3) Develop and coordinate assistance strategies with specific goals, guidelines, benchmarks, and impact assessments (including support for local indigenous peoples’ organizations).
 
->     “(c) __Funds.—__ 
+>     “(c)  __Funds__  __.—__ 
 
 >     Of the funds appropriated by this Act under the heading ‘Diplomatic and Consular Programs’ \[[121 Stat. 2277][/us/stat/121/2277]\], not less than $250,000 shall be made available for implementing the provisions of this section.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     Not later than one year after the enactment of this Act \[Dec. 26, 2007\], the Secretary shall submit a report to the Committees on Appropriations describing progress made in implementing this section.”
 
@@ -405,11 +405,11 @@
 
 >     “(a) __‘Rightsizing’ at the Department of State.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary shall establish a task force within the Department on the issue of ‘rightsizing’ overseas posts.
 
->         “(2) __Preliminary report.—__ 
+>         “(2)  __Preliminary report__  __.—__ 
 
 >         Not later than 120 days after the date of the enactment of this Act \[Sept. 30, 2002\], the Secretary shall submit to the appropriate congressional committees a report that outlines the status, plans, and activities of the task force. In addition to such other information as the Secretary considers appropriate, the report shall include the following:
 
@@ -421,17 +421,17 @@
 
 >             “(D) The plans of the Department for the reallocation of staff and resources based on changing needs at overseas posts and in the metropolitan Washington, D.C., area.
 
->         “(3) __Report.—__ 
+>         “(3)  __Report__  __.—__ 
 
 >         Not later than one year after the date of the enactment of this Act, the Secretary shall submit to the appropriate congressional committees a report reviewing the activities and progress of the task force established under paragraph (1).
 
 >     “(b) __Interagency Working Group.—__ 
 
->         “(1) __Establishment.—__ 
+>         “(1)  __Establishment__  __.—__ 
 
 >         The Secretary shall establish an interagency working group on the issue of ‘rightsizing’ the overseas presence of the United States Government.
 
->         “(2) __Preliminary report.—__ 
+>         “(2)  __Preliminary report__  __.—__ 
 
 >         Not later than 120 days after the date of the enactment of this Act \[Sept. 30, 2002\], the Secretary shall submit to the appropriate congressional committees a report which outlines the status, plans, and activities of the interagency working group. In addition to such other information as the Secretary considers appropriate, the report shall include the following:
 
@@ -441,7 +441,7 @@
 
 >             “(C) Identification of the official of each agency with primary responsibility for the issue of ‘rightsizing’.
 
->         “(3) __Report.—__ 
+>         “(3)  __Report__  __.—__ 
 
 >         Not later than 180 days after the date of the enactment of this Act, the Secretary shall submit to the appropriate congressional committees a report reviewing the activities and progress of the working group established under paragraph (1).”
 
@@ -455,19 +455,19 @@
 
 >     “(a) __Conduct of Recruitment Activities.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Amounts authorized to be appropriated for minority recruitment under section 111(1)(D) \[probably means [section 111(a)(1)(D) of Pub. L. 107–228][/us/pl/107/228/s111/a/1/D], [116 Stat. 1356][/us/stat/116/1356]\] shall be used only for activities directly related to minority recruitment, such as recruitment materials designed to target members of minority groups and the travel expenses of recruitment trips to colleges, universities, and other institutions or locations.
 
->         “(2) __Limitation.—__ 
+>         “(2)  __Limitation__  __.—__ 
 
 >         Amounts authorized to be appropriated for minority recruitment under section 111(1)(D) may not be used to pay salaries of employees of the Department.
 
->     “(b) __Recruitment Activities at Academic Institutions.—__ 
+>     “(b)  __Recruitment Activities at Academic Institutions__  __.—__ 
 
 >     The Secretary shall expand the recruitment efforts of the Department to include not less than 25 percent of the part B institutions (as defined under section 322 of the Higher Education Act of 1965 \[[20 U.S.C. 1061][/us/usc/t20/s1061]\]) in the United States and not less than 25 percent of the Hispanic-serving institutions (as defined in section 502(a)(5) of such Act \[[20 U.S.C. 1101a(a)(5)][/us/usc/t20/s1101a/a/5]\]) in the United States.
 
->     “(c) __Evaluation of Recruitment Efforts.—__ 
+>     “(c)  __Evaluation of Recruitment Efforts__  __.—__ 
 
 >     The Secretary shall establish a database relating to efforts to recruit members of minority groups into the Foreign Service and the Civil Service and shall report to the appropriate congressional committees on the evaluation of efforts to recruit such individuals, including an analysis of the information collected in the database created under this subsection. Such report shall be included in each of the two reports required under section 324 \[set out as a note above\].”
 
@@ -481,11 +481,11 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title III, § 303\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–434, provided that:
 
->     “(a) __Designation.—__ 
+>     “(a)  __Designation__  __.—__ 
 
 >     The Secretary of State shall designate a senior-level official of the Department of State as the Science and Technology Adviser to the Secretary of State (in this section referred to as the ‘Adviser’). The Adviser shall have substantial experience in the area of science and technology. The Adviser shall report to the Secretary of State through the appropriate Under Secretary of State.
 
->     “(b) __Duties.—__ 
+>     “(b)  __Duties__  __.—__ 
 
 >     The Adviser shall—
 

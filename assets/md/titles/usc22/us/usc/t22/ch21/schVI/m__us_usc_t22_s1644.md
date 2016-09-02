@@ -29,25 +29,25 @@
 
 Section 119 of H.R. 2076, One Hundred Fourth Congress, as passed by the House of Representatives on Dec. 6, 1995, and as enacted into law by [Pub. L. 104–91, title I, § 101(a)][/us/pl/104/91/s101/a], Jan. 6, 1996, [110 Stat. 11][/us/stat/110/11], as amended by [Pub. L. 104–99, title II, § 211][/us/pl/104/99/s211], Jan. 26, 1996, [110 Stat. 37][/us/stat/110/37], provided that:
 
->     “(a) __Authority of the Foreign Claims Settlement Commission.—__ 
+>     “(a)  __Authority of the Foreign Claims Settlement Commission__  __.—__ 
 
 >     The Foreign Claims Settlement Commission of the United States (the ‘Commission’) is authorized to receive and determine the validity and amount of claims by nationals of the United States against the Federal Republic of Germany covered by Article 2(2) of the Agreement Between the Government of the Federal Republic of Germany and the Government of the United States of America Concerning Final Benefits to Certain United States Nationals Who Were Victims of National Socialist Measures of Persecution, entered into force September 19, 1995 (the ‘Agreement’). In deciding such claims, the Commission shall be guided by the criteria applied by the Department of State in determining the validity and amount of the claims covered by and settled under Article 2(1) of the Agreement.
 
->     “(b) __Application of Other Laws.—__ 
+>     “(b)  __Application of Other Laws__  __.—__ 
 
 >     Except to the extent inconsistent with the provisions of this section, the provisions of title I of the International Claims Settlement Act of 1949 ([22 U.S.C. 1621][/us/usc/t22/s1621] et sec. \[sic\]), except for section 7(b) ([22 U.S.C. 1626(b)][/us/usc/t22/s1626/b]), shall apply with respect to claims under this section. Any reference in such provisions to ‘this title’ \[‘this subchapter’\] shall be deemed to refer to those provisions and to this section.
 
->     “(c) __Certification and Payment.—__ 
+>     “(c)  __Certification and Payment__  __.—__ 
 
 >         “(1) Not later than two years after the entry into force of the Agreement, the Commission shall certify to the Secretary of State, in writing, its determinations as to the validity and amount of the claims authorized for decision under subsection (a).
 
 >         “(2) In the case of claims found to be compensable under subsection (a), the Commission shall certify the awards entered in the claims to the Secretary of the Treasury in accordance with section 5 of title I of the International Claims Settlement Act of 1949 ([22 U.S.C. 1624][/us/usc/t22/s1624]). Such awards shall be paid in accordance with subsections (a) and (c)–(f) of section 7 of such title ([22 U.S.C. 1626][/us/usc/t22/s1626]) out of a special fund established in accordance with section 8 of such title ([22 U.S.C. 1627][/us/usc/t22/s1627]), following conclusion of the negotiations provided for in Article 2(2) of the Agreement.
 
->     “(d) __Confidentiality of Records.—__ 
+>     “(d)  __Confidentiality of Records__  __.—__ 
 
 >     Records pertaining to the claims received by the Commission pursuant to subsection (a) shall not be publicly disclosed and shall not be required to be disclosed pursuant to [section 552 of title 5][/us/usc/t5/s552], United States Code.
 
->     “(e) __Separability.—__ 
+>     “(e)  __Separability__  __.—__ 
 
 >     If any provision of this section or the application thereof to any person or circumstances is held invalid, the remainder of this section or the application of such provision to other persons or circumstances shall not be affected.”
 

@@ -17,7 +17,7 @@
 
 ## “SEC. 620. RELIGIOUS PERSECUTION IN TIBET.
 
->     “(a) __High-Level Contacts.—__ 
+>     “(a)  __High-Level Contacts__  __.—__ 
 
 >     Pursuant to section 105 of the International Religious Freedom Act of 1998 ([22 U.S.C. 6414][/us/usc/t22/s6414]), the United States Ambassador to the People’s Republic of China should—
 
@@ -25,7 +25,7 @@
 
 >         “(2) request that the Government of the People’s Republic of China release the 11th Panchen Lama and allow him to pursue his religious studies without interference and according to tradition.
 
->     “(b) __Promotion of Increased Advocacy.—__ 
+>     “(b)  __Promotion of Increased Advocacy__  __.—__ 
 
 >     Pursuant to section 108(a) of the International Religious Freedom Act of 1998 ([22 U.S.C. 6417(a)][/us/usc/t22/s6417/a]), it is the sense of Congress that representatives of the United States Government in exchanges with officials of the Government of the People’s Republic of China should call for and otherwise promote the cessation of all interference by the Government of the People’s Republic of China or the Communist Party in the religious affairs of the Tibetan people.
 

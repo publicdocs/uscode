@@ -81,15 +81,15 @@
 
 [Pub. L. 103–236, title I, § 173(a)][/us/pl/103/236/s173/a]–(c), Apr. 30, 1994, [108 Stat. 412][/us/stat/108/412], as amended by [Pub. L. 103–415, § 1(gg)][/us/pl/103/415/s1/gg], Oct. 25, 1994, [108 Stat. 4303][/us/stat/108/4303], provided that:
 
->     “(a) __Prohibition on Awards.—__ 
+>     “(a)  __Prohibition on Awards__  __.—__ 
 
 >     Notwithstanding any other provision of law, the Secretary of State may not award or pay performance payments for fiscal years 1994 and 1995 under section 405 of the Foreign Service Act of 1980 ([22 U.S.C. 3965][/us/usc/t22/s3965]), unless the Secretary awards or pays performance awards to other Federal employees for such fiscal years.
 
->     “(b) __Awards in Subsequent Fiscal Years.—__ 
+>     “(b)  __Awards in Subsequent Fiscal Years__  __.—__ 
 
 >     The Secretary may not make a performance award or payment in any fiscal year after a fiscal year referred to in subsection (a) for the purpose of providing an individual with a performance award or payment to which the individual would otherwise have been entitled in a fiscal year referred to in such subsection but for the prohibition described in such subsection.
 
->     “(c) __Application to USIA, AID, and ACDA.—__ 
+>     “(c)  __Application to USIA, AID, and ACDA__  __.—__ 
 
 >     Subsections (a) and (b) shall apply to the United States Information Agency, the Agency for International Development, and the United States Arms Control and Disarmament Agency in the same manner as such subsections apply to the Department of State, except that the Director of the United States Information Agency, the Administrator of the Agency for International Development, and the Director of the United States Arms Control and Disarmament Agency shall be subject to the limitations and authority of the Secretary of State under subsections (a) and (b) for their respective agencies.”
 
@@ -99,11 +99,11 @@
 
 [Pub. L. 100–204, title I, § 175(a)][/us/pl/100/204/s175/a], Dec. 22, 1987, [101 Stat. 1361][/us/stat/101/1361], provided that:
 
->     “(1) __Suspension of awards during review.—__ 
+>     “(1)  __Suspension of awards during review__  __.—__ 
 
 >     During the period beginning on the date of enactment of this Act \[Dec. 22, 1987\], and ending on the date on which the Inspector General of the Department of State reports to the Congress pursuant to paragraph (2), performance pay may not be awarded under section 405 of the Foreign Service Act of 1980 ([22 U.S.C. 3965][/us/usc/t22/s3965]) to any member of the Senior Foreign Service in the Department of State.
 
->     “(2) __Review by inspector general.—__ 
+>     “(2)  __Review by inspector general__  __.—__ 
 
 >     The Inspector General of the Department of State shall conduct a complete and thorough review of—
 
@@ -113,7 +113,7 @@
 
 >         The review should be conducted in accordance with generally accepted Government auditing standards. The Inspector General shall report the results of this review to the Secretary of State and to the Congress no later than May 1, 1988.
 
->     “(3) __Report by secretary of state.—__ 
+>     “(3)  __Report by secretary of state__  __.—__ 
 
 >     No later than 60 days after the report of the Inspector General is submitted to the Secretary of State under paragraph (2), the Secretary shall submit to the Congress a report containing the comments of the Secretary on the report of the Inspector General and describing the actions taken and proposed to be taken by the Secretary as a result of the report.”
 

@@ -69,19 +69,19 @@
 
 [Pub. L. 110–246, title III, § 3205][/us/pl/110/246/s3205], June 18, 2008, [122 Stat. 1838][/us/stat/122/1838], provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Child labor.—__ 
+>         “(1)  __Child labor__  __.—__ 
 
 >         The term ‘child labor’ means the worst forms of child labor as defined in International Labor Convention 182, the Convention Concerning the Prohibition and Immediate Action for the Elimination of the Worst Forms of Child Labor, done at Geneva on June 17, 1999.
 
->         “(2) __Consultative group.—__ 
+>         “(2)  __Consultative group__  __.—__ 
 
 >         The term ‘Consultative Group’ means the Consultative Group to Eliminate the Use of Child Labor and Forced Labor in Imported Agricultural Products established under subsection (b).
 
->         “(3) __Forced labor.—__ 
+>         “(3)  __Forced labor__  __.—__ 
 
 >         The term ‘forced labor’ means all work or service—
 
@@ -95,27 +95,27 @@
 
 >             “(B) by 1 or more individuals who, at the time of performing the work or service, were being subjected to a severe form of trafficking in persons (as that term is defined in that section).
 
->     “(b) __Establishment.—__ 
+>     “(b)  __Establishment__  __.—__ 
 
 >     There is established a group to be known as the ‘Consultative Group to Eliminate the Use of Child Labor and Forced Labor in Imported Agricultural Products’ to develop recommendations relating to guidelines to reduce the likelihood that agricultural products or commodities imported into the United States are produced with the use of forced labor and child labor.
 
 >     “(c) __Duties.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 2 years after the date of enactment of this Act \[June 18, 2008\] and in accordance with section 105(d) of the Trafficking Victims Protection Act of 2000 ([22 U.S.C. 7103(d)][/us/usc/t22/s7103/d]), as applicable to the importation of agricultural products made with the use of child labor or forced labor, the Consultative Group shall develop, and submit to the Secretary \[of Agriculture\], recommendations relating to a standard set of practices for independent, third-party monitoring and verification for the production, processing, and distribution of agricultural products or commodities to reduce the likelihood that agricultural products or commodities imported into the United States are produced with the use of forced labor or child labor.
 
 >         “(2) __Guidelines.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Not later than 1 year after the date on which the Secretary receives recommendations under paragraph (1), the Secretary shall release guidelines for a voluntary initiative to enable entities to address issues raised by the Trafficking Victims Protection Act of 2000 ([22 U.S.C. 7101][/us/usc/t22/s7101] et seq.).
 
->             “(B) __Requirements.—__ 
+>             “(B)  __Requirements__  __.—__ 
 
 >             Guidelines released under subparagraph (A) shall be published in the Federal Register and made available for public comment for a period of 90 days.
 
->     “(d) __Membership.—__ 
+>     “(d)  __Membership__  __.—__ 
 
 >     The Consultative Group shall be composed of not more than 13 individuals, of whom—
 
@@ -133,23 +133,23 @@
 
 >         “(7) 3 members shall represent organizations described in section 501(c)(3) of the Internal Revenue Code of 1986 \[[26 U.S.C. 501(c)(3)][/us/usc/t26/s501/c/3]\] that have expertise on the issues of international child labor and do not possess a conflict of interest associated with establishment of the guidelines issued under subsection (c)(2), as determined by the Bureau of International Labor Affairs of the Department of Labor, including representatives from consumer organizations and trade unions, if appropriate.
 
->     “(e) __Chairperson.—__ 
+>     “(e)  __Chairperson__  __.—__ 
 
 >     A representative of the Department of Agriculture appointed under subsection (d)(1), as determined by the Secretary, shall serve as the chairperson of the Consultative Group.
 
->     “(f) __Requirements.—__ 
+>     “(f)  __Requirements__  __.—__ 
 
 >     Not less than 4 times per year, the Consultative Group shall meet at the call of the Chairperson, after reasonable notice to all members, to develop recommendations described in subsection (c)(1).
 
->     “(g) __Nonapplicability of FACA.—__ 
+>     “(g)  __Nonapplicability of__  __FACA.—__ 
 
 >     The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Consultative Group.
 
->     “(h) __Annual Reports.—__ 
+>     “(h)  __Annual Reports__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[June 18, 2008\], and annually thereafter through December 31, 2012, the Secretary \[of Agriculture\] shall submit to the Committees on Agriculture and Foreign Affairs of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the activities and recommendations of the Consultative Group.
 
->     “(i) __Termination of Authority.—__ 
+>     “(i)  __Termination of Authority__  __.—__ 
 
 >     The Consultative Group shall terminate on December 31, 2012.”
 

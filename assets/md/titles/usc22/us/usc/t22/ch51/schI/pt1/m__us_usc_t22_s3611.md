@@ -33,11 +33,11 @@
 
 [Pub. L. 102–484, div. C, title XXXV, § 3522][/us/pl/102/484/s3522], Oct. 23, 1992, [106 Stat. 2657][/us/stat/106/2657], provided that:
 
->     “(a) __Report.—__ 
+>     “(a)  __Report__  __.—__ 
 
 >     The President shall conduct a study and, if warranted, develop a plan setting forth recommendations for such changes, if any, to the Panama Canal Commission for the operation of the Panama Canal during the period before the termination of the Panama Canal Treaty of 1977 as the President determines would facilitate and encourage the operation of the canal through an autonomous entity under the Government of Panama after the transfer of the canal on December 31, 1999, pursuant to the Panama Canal Treaty of 1977 and related agreements. The President shall submit the study and, if warranted, plan to Congress, together with a legislative proposal containing any changes to existing law required to implement the plan, not later than one year after the date of the enactment of this Act \[Oct. 23, 1992\].
 
->     “(b) __Preparation of Plan.—__ 
+>     “(b)  __Preparation of Plan__  __.—__ 
 
 >     Recommendations to the President for purposes of the study and plan required by subsection (a) shall be prepared with the participation of a representative of each of the following:
 
@@ -53,7 +53,7 @@
 
 >         “(6) The Panama Canal Commission.
 
->     “(c) __Plan To Be Consistent With Panama Canal Treaty.—__ 
+>     “(c)  __Plan To Be Consistent With Panama Canal Treaty__  __.—__ 
 
 >     The study and, if warranted, plan submitted by the President pursuant to subsection (a) shall be consistent with the Panama Canal Treaty of 1977 and related agreements.”
 
@@ -61,11 +61,11 @@
 
 [Pub. L. 102–484, div. C, title XXXV, § 3523][/us/pl/102/484/s3523], Oct. 23, 1992, [106 Stat. 2658][/us/stat/106/2658], provided that:
 
->     “(a) __Report.—__ 
+>     “(a)  __Report__  __.—__ 
 
 >     The Comptroller General shall submit to Congress a report analyzing the effectiveness of the fiscal, operational, and management structure of the Panama Canal Commission and setting forth recommendations for such changes to that structure as the Comptroller General determines would, if implemented, enable the Commission to operate more efficiently and, thereby, serve as a model for the Government of Panama for the operation of the Panama Canal after the transfer of the Panama Canal on December 31, 1999, pursuant to the Panama Canal Treaty of 1977 and related agreements. The Comptroller General shall submit the report to Congress not later than one year after the date of the enactment of this Act \[Oct. 23, 1992\].
 
->     “(b) __Preparation of Report.—__ 
+>     “(b)  __Preparation of Report__  __.—__ 
 
 >     In developing the report required by subsection (a), the Comptroller General shall seek the views of each of the following:
 
@@ -81,7 +81,7 @@
 
 >         “(6) The Panama Canal Commission.
 
->     “(c) __Report To Be Consistent With Panama Canal Treaty.—__ 
+>     “(c)  __Report To Be Consistent With Panama Canal Treaty__  __.—__ 
 
 >     The recommendations in the report submitted by the Comptroller General pursuant to subsection (a) shall be consistent with the Panama Canal Treaty of 1977 and related agreements.”
 

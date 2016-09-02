@@ -133,15 +133,15 @@
 
 [Pub. L. 111–84, div. A, title XII, § 1262][/us/pl/111/84/s1262], Oct. 28, 2009, [123 Stat. 2553][/us/stat/123/2553], provided that:
 
->     “(a) __International Broadcasting Operations Fund.—__ 
+>     “(a)  __International Broadcasting Operations Fund__  __.—__ 
 
 >     In addition to amounts otherwise authorized for the Broadcasting Board of Governors’ International Broadcasting Operations Fund, there is authorized to be appropriated $15,000,000 to expand Farsi language programming and to provide for the dissemination of accurate and independent information to the Iranian people through radio, television, Internet, cellular telephone, short message service, and other communications.
 
->     “(b) __Broadcasting Capital Improvements Fund.—__ 
+>     “(b)  __Broadcasting Capital Improvements Fund__  __.—__ 
 
 >     In addition to amounts otherwise authorized for the Broadcasting Board of Governors’ Broadcasting Capital Improvements Fund, there is authorized to be appropriated $15,000,000 to expand transmissions of Farsi language programs to Iran.
 
->     “(c) __Use of Amounts.—__ 
+>     “(c)  __Use of Amounts__  __.—__ 
 
 >     In pursuit of the objectives described in subsections (a) and (b), amounts in the International Broadcasting Operations Fund and the Capital Improvements Fund may be used to—
 
@@ -161,15 +161,15 @@
 
 [Pub. L. 111–84, div. A, title XII, § 1263][/us/pl/111/84/s1263], Oct. 28, 2009, [123 Stat. 2553][/us/stat/123/2553], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     There is established in the Treasury of the United States the Iranian Electronic Education, Exchange, and Media Fund (referred to in this section as the ‘Fund’), consisting of amounts appropriated to the Fund pursuant to subsection (f).
 
->     “(b) __Administration.—__ 
+>     “(b)  __Administration__  __.—__ 
 
 >     The Fund shall be administered by the Secretary of State.
 
->     “(c) __Objective.—__ 
+>     “(c)  __Objective__  __.—__ 
 
 >     The objective of the Fund shall be to support the development of technologies, including Internet Web sites, that will aid the ability of the Iranian people to—
 
@@ -187,7 +187,7 @@
 
 >             “(B) to disrupt or monitor cellular phone networks or SMS text exchanges.
 
->     “(d) __Use of Amounts.—__ 
+>     “(d)  __Use of Amounts__  __.—__ 
 
 >     In pursuit of the objective described in subsection (c), amounts in the Fund may be used for grants to United States or foreign universities, nonprofit organizations, or companies for targeted projects that advance the purpose of the Fund, including projects that—
 
@@ -205,11 +205,11 @@
 
 >         “(4) promote Internet-based, people-to-people educational, professional, religious, or cultural exchanges and dialogues between United States citizens and Iranians.
 
->     “(e) __Transfers.—__ 
+>     “(e)  __Transfers__  __.—__ 
 
 >     Amounts in the Fund may be transferred to the United States Agency for International Development, the Broadcasting Board of Governors, or any other agency of the Federal Government to the extent that such amounts are used to carry out activities that will further the objective described in subsection (c).
 
->     “(f) __Authorization of Appropriations.—__ 
+>     “(f)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated $20,000,000 to the Fund.”
 
@@ -223,19 +223,19 @@
 
 [Pub. L. 110–53, title XX, § 2032][/us/pl/110/53/s2032], Aug. 3, 2007, [121 Stat. 516][/us/stat/121/516], provided that:
 
->     “(a) __Transcription of Persian and Arabic Language Broadcasts.—__ 
+>     “(a)  __Transcription of Persian and Arabic Language Broadcasts__  __.—__ 
 
 >     Not later than 90 days after the date of the enactment of this Act \[Aug. 3, 2007\], the Broadcasting Board of Governors shall initiate a pilot project to transcribe into the English language news and information programming broadcast by Radio Farda, Radio Sawa, the Persian Service of the Voice of America, and Alhurra.
 
->     “(b) __Random Sampling; Public Availability.—__ 
+>     “(b)  __Random Sampling; Public Availability__  __.—__ 
 
 >     The transcription required under subsection (a) shall consist of a random sampling of such programming. The transcripts shall be available to Congress and the public on the Internet site of the Board.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than May 1, 2008, the Chairman of the Broadcasting Board of Governors shall submit to the Committee on Foreign Affairs of the House of Representatives and Committee on Foreign Relations of the Senate a report on the feasibility and utility of continuing the pilot project required under subsection (a).
 
->     “(d) __Authorization of Appropriations.—__ 
+>     “(d)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to the ‘International Broadcasting Operations’ account of the Broadcasting Board of Governors $2,000,000 for fiscal year 2008 to carry out the pilot project required under subsection (a).”
 

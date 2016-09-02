@@ -75,15 +75,15 @@
 
 [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXIII, § 2311(b), Oct. 21, 1998, [112 Stat. 2681–826][/us/stat/112/2681-826], provided that:
 
->     “(1) __Separation of lowest ranked foreign service members.—__ 
+>     “(1)  __Separation of lowest ranked foreign service members__  __.—__ 
 
 >     Not later than 90 days after the date of enactment of this Act \[Oct. 21, 1998\], the Secretary of State shall develop and implement procedures to identify, and recommend for separation, any member of the Foreign Service ranked by promotion boards of the Department of State in the bottom 5 percent of his or her class for 2 or more of the 5 years preceding the date of enactment of this Act (in this subsection referred to as the ‘years of lowest ranking’) if the rating official for such member was not the same individual for any two of the years of lowest ranking.
 
->     “(2) __Special internal reviews.—__ 
+>     “(2)  __Special internal reviews__  __.—__ 
 
 >     In any case where the member was evaluated by the same rating official in any 2 of the years of lowest ranking, an internal review of the member’s file shall be conducted to determine whether the member should be considered for action leading to separation.
 
->     “(3) __Procedures.—__ 
+>     “(3)  __Procedures__  __.—__ 
 
 >     The Secretary of State shall develop procedures for the internal reviews required under paragraph (2).”
 

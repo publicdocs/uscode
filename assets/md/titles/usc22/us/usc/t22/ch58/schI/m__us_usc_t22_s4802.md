@@ -139,7 +139,7 @@
 
 [Pub. L. 100–204, title I, § 155][/us/pl/100/204/s155], Dec. 22, 1987, [101 Stat. 1353][/us/stat/101/1353], provided that:
 
->     “(a) __Special Security Program.—__ 
+>     “(a)  __Special Security Program__  __.—__ 
 
 >     The Secretary of State shall develop and implement, within three months after the date of enactment of this Act \[Dec. 22, 1987\], a special personnel security program for personnel of the Department of State assigned to United States diplomatic and consular posts in high intelligence threat countries who are responsible for security at those posts and for any individuals performing guard functions at those posts. Such program shall include—
 
@@ -151,11 +151,11 @@
 
 >         “(4) length of duty criteria and policies regarding rest and recuperative absences.
 
->     “(b) __Report to Congress.—__ 
+>     “(b)  __Report to Congress__  __.—__ 
 
 >     Not later than 6 months after the date of enactment of this subsection \[Dec. 22, 1987\], the Secretary of State shall report to the Congress on the special personnel security program required by subsection (a).
 
->     “(c) __Definition.—__ 
+>     “(c)  __Definition__  __.—__ 
 
 >     As used in subsection (a), the term ‘high intelligence threat country’ means—
 

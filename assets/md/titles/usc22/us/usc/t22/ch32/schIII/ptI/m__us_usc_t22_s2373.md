@@ -93,7 +93,7 @@ Provisions similar to those in subsec. (e) of this section were contained in the
 
 [Pub. L. 100–202, § 101(e)][/us/pl/100/202/s101/e] \[title V, § 586\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–185, provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 
@@ -105,15 +105,15 @@ Provisions similar to those in subsec. (e) of this section were contained in the
 
 >         “(4) it is also in the national interest of the United States to undertake a diplomatic initiative to promote the peaceful and equitable resolution of differences between Greece and Turkey in the Aegean by fostering a renewed and sustained bilateral dialogue between those countries on such issues as: the delineation of the continental shelf, the definition of the territorial seas, air traffic control over the Aegean, NATO command and control arrangements in the Aegean, and the status of Lemnos and NATO exercises in the Aegean.
 
->     “(b) __Appointment of Special Ambassador.—__ 
+>     “(b)  __Appointment of Special Ambassador__  __.—__ 
 
 >     The President is authorized to appoint a special ambassadorial level envoy who shall be responsible for representing the United States in direct negotiations with the parties to the Cyprus dispute, for representing the United States in negotiations through international intermediaries and, generally, lending the good offices of the United States to the parties in this dispute in order to facilitate a peaceful settlement on Cyprus. As agreed to by Greece and Turkey, the special envoy shall also represent the United States in promoting mutual discussions between those countries concerning their differences on Aegean issues. The special ambassador appointed under this section shall have available the services of two deputies (one to specialize on the Cyprus question, the other on general Aegean issues) and such senior level Department of State personnel as may be required by the special ambassador in order to carry out his responsibilities.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than June 1, 1988, the President shall submit a report to the Congress describing in detail the activities being undertaken by the special ambassador, the progress being made toward achievement of a peaceful resolution of the Cyprus dispute, an assessment of the obstacles to achievement of such a resolution and of the future role of the United States in acheiving \[sic\] a settlement on Cyprus, and an assessment of the progress being made toward resolution of issues affecting the Aegean region.
 
->     “(d) __Funding.—__ 
+>     “(d)  __Funding__  __.—__ 
 
 >     Up to $500,000 of the funds appropriated under any heading of this Act \[Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1988, as enacted by [section 101(e) of Pub. L. 101–202][/us/pl/101/202/s101/e]\] which are allocated for Greece and up to $500,000 of the funds appropriated under any heading of this Act which are allocated for Turkey, may be used by the Department of State for any administrative costs associated with the activities of the special ambassador and supporting personnel, including transportation, salaries and per diem.”
 

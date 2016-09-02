@@ -51,11 +51,11 @@
 
 [Pub. L. 103–236, title I, § 179][/us/pl/103/236/s179], Apr. 30, 1994, [108 Stat. 415][/us/stat/108/415], as amended by [Pub. L. 103–415, § 1(g)][/us/pl/103/415/s1/g], Oct. 25, 1994, [108 Stat. 4300][/us/stat/108/4300], provided that:
 
->     “(a) __Referral System.—__ 
+>     “(a)  __Referral System__  __.—__ 
 
 >     Certain members of the Foreign Service (as described in subsection (b)), may participate in the Office of Personnel Management’s Interagency Placement programs or any successor program. Such members of the Foreign Service shall be treated in the same manner as employees participating in such a program as of the effective date of this Act \[Apr. 30, 1994\].
 
->     “(b) __Certain Members of the Foreign Service.—__ 
+>     “(b)  __Certain Members of the Foreign Service__  __.—__ 
 
 >     For purposes of this section, the term ‘members of the Foreign Service’ means any individuals holding career or career candidate appointments under chapter 3 of the Foreign Service Act of 1980 \[[22 U.S.C. 3941][/us/usc/t22/s3941] et seq.\].”
 

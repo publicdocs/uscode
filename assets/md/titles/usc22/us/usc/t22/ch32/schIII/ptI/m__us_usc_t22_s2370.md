@@ -351,17 +351,17 @@
 
 [Pub. L. 101–513, title V, § 531][/us/pl/101/513/s531], Nov. 5, 1990, [104 Stat. 2009][/us/stat/104/2009], as amended by [Pub. L. 103–236, title I, § 139(22)][/us/pl/103/236/s139/22], Apr. 30, 1994, [108 Stat. 399][/us/stat/108/399], provided that:
 
->     “(a) __Statement of Policy.—__ 
+>     “(a)  __Statement of Policy__  __.—__ 
 
 >     United States military assistance to the Government of El Salvador shall seek three principal foreign policy objectives, as follows: (1) to promote a permanent settlement and cease-fire to the conflict in El Salvador, with the Secretary General of the United Nations serving as an active mediator between the opposing parties; (2) to foster greater respect for basic human rights, and the rule of law; and (3) to advance political accommodation and national reconciliation.
 
->     “(b) __Maximum Level of Military Assistance.—__ 
+>     “(b)  __Maximum Level of Military Assistance__  __.—__ 
 
 >     Of the funds available for United States military assistance for fiscal year 1991, not more than $85,000,000 shall be made available for El Salvador.
 
->     “(c) __Prohibition of Military Assistance.—__ 
+>     “(c)  __Prohibition of Military Assistance__  __.—__ 
 
->         (1) __Prohibition.—__ 
+>         (1)  __Prohibition__  __.—__ 
 
 >         Subject to paragraph (2), no United States military assistance may be furnished to the Government of El Salvador if the President determines and reports in writing to the Congress that—
 
@@ -385,17 +385,17 @@
 
 >             “(F) the Government of El Salvador has failed to actively seek and encourage a law enforcement service from outside El Salvador, such as Scotland Yard or INTERPOL, to accompany and monitor investigators of the Government of El Salvador in their investigation into the eight murders at the University of Central America on November 16, 1989.
 
->         “(2) __Requirement for resumption of assistance.—__ 
+>         “(2)  __Requirement for resumption of assistance__  __.—__ 
 
 >         Assistance prohibited under paragraph (1) may only be resumed pursuant to a law subsequently enacted by the Congress.
 
->     “(d) __Withholding of Military Assistance.—__ 
+>     “(d)  __Withholding of Military Assistance__  __.—__ 
 
->         (1) __In General.—__ 
+>         (1)  __In General__  __.—__ 
 
 >         Fifty per centum of the total United States military assistance allocated for El Salvador for fiscal year 1991 shall be withheld from obligation or expenditure (as the case may be) except as provided in paragraphs (2) and (3).
 
->         “(2) __Release of Assistance.—__ 
+>         “(2)  __Release of Assistance__  __.—__ 
 
 >         The United States military assistance withheld pursuant to paragraph (1) may be obligated and expended only if the President determines and reports in writing to the Congress that—
 
@@ -423,59 +423,59 @@
 
 >             “(E) the FMLN is assassinating or abducting civilian noncombatants, is engaging in other acts of violence directed at civilian targets, or is failing to control such activities by elements subject to FMLN control.
 
->         “(3) __Exception.—__ 
+>         “(3)  __Exception__  __.—__ 
 
 >         Notwithstanding any other provision of law, funds withheld pursuant to paragraph (1) of this subsection may be disbursed to pay the cost of any contract penalties which may be incurred as a result of such withholding of funds under this subsection.
 
->     “(e) __Condition for Termination of All United States Assistance.—__ 
+>     “(e)  __Condition for Termination of All United States Assistance__  __.—__ 
 
->         (1) __Prohibition.—__ 
+>         (1)  __Prohibition__  __.—__ 
 
 >         Subject to paragraph (2), no United States assistance may be furnished to El Salvador if the duly-elected head of Government of El Salvador is deposed by military coup or decree.
 
->         “(2) __Requirement for Resumption of Assistance.—__ 
+>         “(2)  __Requirement for Resumption of Assistance__  __.—__ 
 
 >         Assistance prohibited under paragraph (1) may only be resumed pursuant to a law subsequently enacted by the Congress.
 
->     “(f) __Establishment of a Fund for Cease-Fire Monitoring, Demobilization, and Transition to Peace.—__ 
+>     “(f)  __Establishment of a Fund for Cease-Fire Monitoring, Demobilization, and Transition to Peace__  __.—__ 
 
->         (1) __Establishment of Fund.—__ 
+>         (1)  __Establishment of Fund__  __.—__ 
 
 >         There is hereby established in the Treasury of the United States a fund to assist with the costs of monitoring a permanent settlement of the conflict, including a cease-fire, and the demobilization of combatants in the conflict in El Salvador, and their transition to peaceful pursuits, which shall be known as the ‘Demobilization and Transition Fund’ (hereafter in this section referred to as the ‘Fund’). Amounts in this Fund shall be available for obligation and expenditure only upon notification by the President to the Congress that the Government of El Salvador and representatives of the FMLN have reached a permanent settlement of the conflict, including a final agreement on a cease-fire.
 
->         “(2) __Transfer of Certain Military Assistance Funds.—__ 
+>         “(2)  __Transfer of Certain Military Assistance Funds__  __.—__ 
 
 >         Upon notification of the Congress of a permanent settlement of the conflict, including an agreement on a cease-fire, or on September 30, 1991, if no such notification has occurred prior to that date, the President shall transfer to the Fund any United States military assistance funds withheld pursuant to subsection (d) of this section.
 
->         “(3) __Use of the Fund.—__ 
+>         “(3)  __Use of the Fund__  __.—__ 
 
 >         Notwithstanding any other provision of law, amounts in the Fund shall be available for El Salvador solely to support costs of demobilization, retraining, relocation, and reemployment in civilian pursuits of former combatants in the conflict in El Salvador, and of the monitoring of the permanent settlement and cease-fire.
 
->         “(4) __Duration of Availability of Funds.—__ 
+>         “(4)  __Duration of Availability of Funds__  __.—__ 
 
 >         Notwithstanding any other provision of law, amounts transferred to the Fund shall remain available until expended.
 
->     “(g) __Strengthening Civilian Control Over the Military.—__ 
+>     “(g)  __Strengthening Civilian Control Over the Military__  __.—__ 
 
 >     In order to strengthen the control of the democratically-elected civilian Government of El Salvador over the armed forces of that country, United States military assistance for any fiscal year may be delivered to the armed forces of El Salvador only with the prior approval of the duly elected President of El Salvador.
 
->     “(h) __Support for Democracy.—__ 
+>     “(h)  __Support for Democracy__  __.—__ 
 
->         (1) __Establishing a Program.—__ 
+>         (1)  __Establishing a Program__  __.—__ 
 
 >         The Secretary of State, through agreement with the National Endowment for Democracy or other qualified organizations, shall establish and carry out a program of education, training, and dialogue for the purpose of strengthening democratic political and legal institutions in El Salvador.
 
->         “(2) __Election Monitoring.—__ 
+>         “(2)  __Election Monitoring__  __.—__ 
 
 >         Of the amounts made available to carry out this subsection, up to $2,000,000 may be used for support for monitoring the 1991 municipal and National Assembly elections in El Salvador, and for monitoring the registration and campaign processes leading up to those elections, by appropriate organizations such as the United Nations, the Organization of American States, the Carter Center, the National Democratic Institute for International Affairs, the National Republican Institute for International Affairs, and the Center for Electoral Assistance and Promotion (CAPEL) of San Jose, Costa Rica.
 
->         “(3) __Assistance.—__ 
+>         “(3)  __Assistance__  __.—__ 
 
 >         Up to $10,000,000 of funds appropriated under the heading ‘Economic Support Fund’ for fiscal year 1991 may be used to carry out this subsection.
 
 >     “(i) __\[Repealed.__  __[__  __Pub. L. 103–236, title I, § 139(22)__  __][/us/pl/103/236/s139/22]__  __,__  __Apr. 30, 1994__  __,__  __[__  __108 Stat. 399__  __][/us/stat/108/399]__  __.\]__ 
 
->     “(j) __Definitions.—__ 
+>     “(j)  __Definitions__  __.—__ 
 
 >     For purposes of this section—
 

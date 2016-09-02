@@ -295,11 +295,11 @@
 
 [Pub. L. 99–335, title IV, § 417][/us/pl/99/335/s417], June 6, 1986, [100 Stat. 622][/us/stat/100/622], provided that:
 
->     “(a) __Regulations.—__ 
+>     “(a)  __Regulations__  __.—__ 
 
 >     Notwithstanding section 702 of this Act \[[5 U.S.C. 8401][/us/usc/t5/s8401] note\], the authority of the Secretary of State to issue regulations under subchapter II of title 8 \[probably means subchapter II of chapter 8 of title I\] of the Foreign Service Act of 1980 \[part II of this subchapter\] shall take effect on the date of enactment of this Act \[June 6, 1986\].
 
->     “(b) __18-Month Period to Elect Survivor Annuity.—__ 
+>     “(b) __18-__  __Month Period to Elect Survivor Annuity__  __.—__ 
 
 >         (1) Notwithstanding section 702 of this Act, the amendment made by section 407 \[enacting subsec. (n) of this section\] shall take effect 3 months after the date of enactment of this Act.
 
@@ -321,7 +321,7 @@
 
 [Pub. L. 100–238, title II, § 203][/us/pl/100/238/s203], Jan. 8, 1988, [101 Stat. 1769][/us/stat/101/1769], provided that:
 
->     “(a) __Election.—__ 
+>     “(a)  __Election__  __.—__ 
 
 >     A former participant who married his or her current spouse before the effective date of the Foreign Service Act of 1980 \[see Effective Date note set out under [section 3901 of this title][/us/usc/t22/s3901]\] and who married such spouse after retirement under the Foreign Service Retirement and Disability System and who was unable to provide a survivor annuity for such spouse because—
 
@@ -345,27 +345,27 @@
 
 >         “(2) For the purposes of paragraph (1), the annual rate of interest shall be 6 percent for each year during which the annuity would have been reduced if the election had been in effect on and after the date the annuity commenced.
 
->     “(c) __Offset.—__ 
+>     “(c)  __Offset__  __.—__ 
 
 >     If the participant does not make the deposit referred to in subsection (b)(1)(C), the Secretary of State shall collect such amount by offset against such participant’s annuity, up to a maximum of 25 percent of the net annuity otherwise payable to such participant. Such participant is deemed to consent to such offset.
 
->     “(d) __Notice.—__ 
+>     “(d)  __Notice__  __.—__ 
 
 >     The Secretary of State shall provide for notice to the general public of the right to make an election under this section.
 
->     “(e) __Proof of Attempted Election.—__ 
+>     “(e)  __Proof of Attempted Election__  __.—__ 
 
 >     In any case in which subsection (a)(2) applies, the retired employee or Member shall provide the Secretary of State with such documentation as the Secretary of State shall decide is appropriate, to show that such participant attempted to elect a reduced annuity with survivor benefit for his or her current spouse and that such election was rejected by the Secretary of State because it was untimely filed.
 
->     “(f) __Deposit.—__ 
+>     “(f)  __Deposit__  __.—__ 
 
 >     A deposit required by this subsection may be made by the surviving spouse of the participant.
 
->     “(g) __Limitation.—__ 
+>     “(g)  __Limitation__  __.—__ 
 
 >     The election authorized in subsection (a) may only be made within one year after the date of enactment of this title \[Jan. 8, 1988\] in accordance with procedures prescribed by the Secretary of State.
 
->     “(h) __Definitions.—__ 
+>     “(h)  __Definitions__  __.—__ 
 
 >     For the purposes of this section, the terms ‘participant’ and ‘surviving spouse’ have the same meaning given such terms in subchapter I of chapter 8 of the Foreign Service Act of 1980 \[this part\].”
 

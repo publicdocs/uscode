@@ -81,27 +81,27 @@
 
 > “SEC. 4. __FOREIGN TREATMENT CENTERS.__ 
 
->     “(a) __Amendments to the Foreign Assistance Act of 1961.—__ 
+>     “(a)  __Amendments to the Foreign Assistance Act of__  __1961.—__ 
 
 >     \[Enacted this section.\]
 
 >     “(b) __Funding.—__ 
 
->         “(1) __Authorization of appropriations.—__ 
+>         “(1)  __Authorization of appropriations__  __.—__ 
 
 >         Of the amounts authorized to be appropriated for fiscal years 2006 and 2007 pursuant to chapter 1 of part I of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2151][/us/usc/t22/s2151] et seq.\], there are authorized to be appropriated to the President to carry out section 130 of such Act \[this section\] $12,000,000 for fiscal year 2006 and $13,000,000 for fiscal year 2007.
 
->         “(2) __Availability of funds.—__ 
+>         “(2)  __Availability of funds__  __.—__ 
 
 >         Amounts appropriated pursuant to this subsection shall remain available until expended.
 
->     “(c) __Effective Date.—__ 
+>     “(c)  __Effective Date__  __.—__ 
 
 >     The amendment made by subsection (a) shall take effect October 1, 1998.
 
 > “SEC. 5. __DOMESTIC TREATMENT CENTERS.__ 
 
->     “(a) __Assistance for Treatment of Torture Victims.—__ 
+>     “(a)  __Assistance for Treatment of Torture Victims__  __.—__ 
 
 >     The Secretary of Health and Human Services may provide grants to programs in the United States to cover the cost of the following services:
 
@@ -113,33 +113,33 @@
 
 >     “(b) __Funding.—__ 
 
->         “(1) __Authorization of appropriations.—__ 
+>         “(1)  __Authorization of appropriations__  __.—__ 
 
 >         Of the amounts authorized to be appropriated for the Department of Health and Human Services for fiscal years 2006 and 2007, there are authorized to be appropriated to carry out subsection (a) $25,000,000 for each of the fiscal years 2006 and 2007.
 
->         “(2) __Availability of funds.—__ 
+>         “(2)  __Availability of funds__  __.—__ 
 
 >         Amounts appropriated pursuant to this subsection shall remain available until expended.
 
 > “SEC. 6. __MULTILATERAL ASSISTANCE.__ 
 
->     “(a) __Funding.—__ 
+>     “(a)  __Funding__  __.—__ 
 
 >     Of the amounts authorized to be appropriated for fiscal years 1999 and 2000 pursuant to chapter 3 of part I of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2221][/us/usc/t22/s2221] et seq.\], there are authorized to be appropriated to the United Nations Voluntary Fund for Victims of Torture (in this section referred to as the ‘Fund’) the following amounts for the following fiscal years:
 
->         “(1) __Fiscal year 1999.—__ 
+>         “(1)  __Fiscal year 1999__  __.—__ 
 
 >         For fiscal year 1999, $3,000,000.
 
->         “(2) __Fiscal year 2000.—__ 
+>         “(2)  __Fiscal year 2000__  __.—__ 
 
 >         For fiscal year 2000, $3,000,000.
 
->     “(b) __Availability of Funds.—__ 
+>     “(b)  __Availability of Funds__  __.—__ 
 
 >     Amounts appropriated pursuant to subsection (a) shall remain available until expended.
 
->     “(c) __Sense of the Congress.—__ 
+>     “(c)  __Sense of the Congress__  __.—__ 
 
 >     It is the sense of the Congress that the President, acting through the United States Permanent Representative to the United Nations, should—
 
@@ -157,7 +157,7 @@
 
 > “SEC. 7. __SPECIALIZED TRAINING FOR FOREIGN SERVICE OFFICERS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of State shall provide training for foreign service officers with respect to—
 
@@ -171,7 +171,7 @@
 
 >         “(5) the manner of interviewing victims of torture so as not to retraumatize them, eliciting the necessary information to document the torture experience, and understanding the difficulties victims often have in recounting their torture experience.
 
->     “(b) __Gender-Related Considerations.—__ 
+>     “(b)  __Gender-Related Considerations__  __.—__ 
 
 >     In conducting training under subsection (a)(4) or (5), gender-specific training shall be provided on the subject of interacting with women and men who are victims of torture by rape or any other form of sexual violence.”
 

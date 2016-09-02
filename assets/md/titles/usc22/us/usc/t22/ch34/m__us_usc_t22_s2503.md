@@ -67,27 +67,27 @@
 
 [Pub. L. 112–57, § 7][/us/pl/112/57/s7], Nov. 21, 2011, [125 Stat. 744][/us/stat/125/744], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Nov. 21, 2011\], the Director of the Peace Corps shall consult with the Assistant Secretary of State for Diplomatic Security and enter into a memorandum of understanding that specifies the duties and obligations of the Peace Corps and the Bureau of Diplomatic Security of the Department of State with respect to the protection of Peace Corps volunteers and staff members serving in foreign countries, including with respect to investigations of safety and security incidents and crimes committed against volunteers and staff members.
 
->     “(b) __Inspector General Review.—__ 
+>     “(b)  __Inspector General Review__  __.—__ 
 
->         “(1) __Review.—__ 
+>         “(1)  __Review__  __.—__ 
 
 >         The Inspector General of the Peace Corps shall review the memorandum of understanding described in subsection (a) and be afforded the opportunity to recommend changes that advance the safety and security of Peace Corps volunteers before entry into force of the memorandum of understanding.
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         The Director of the Peace Corps shall consider the recommendations of the Inspector General of the Peace Corps regarding the memorandum of understanding described in subsection (a). If the Director enters into the memorandum of understanding without implementing a recommendation of the Inspector General, the Director shall submit to the Inspector General a written explanation relating thereto.
 
->     “(c) __Failure to Meet Deadline.—__ 
+>     “(c)  __Failure to Meet Deadline__  __.—__ 
 
->         “(1) __Requirement to submit report.—__ 
+>         “(1)  __Requirement to submit report__  __.—__ 
 
 >         If, by the date that is 180 days after the date of the enactment of this Act, the Director of the Peace Corps is unable to obtain agreement with the Assistant Secretary of State for Diplomatic Security and certification by the Inspector General of the Peace Corps, the Director shall submit to the committees of Congress specified in paragraph (2) a report explaining the reasons for such failure and a certification that substantial steps are being taken to make progress toward agreement.
 
->         “(2) __Committees of congress specified.—__ 
+>         “(2)  __Committees of congress specified__  __.—__ 
 
 >         The committees of Congress specified in this paragraph are the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.”
 

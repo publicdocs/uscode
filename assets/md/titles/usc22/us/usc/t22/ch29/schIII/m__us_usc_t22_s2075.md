@@ -63,11 +63,11 @@
 
 [Pub. L. 106–29, § 2][/us/pl/106/29/s2], May 21, 1999, [113 Stat. 54][/us/stat/113/54], provided that:
 
->     “(a) __Center.—__ 
+>     “(a)  __Center__  __.—__ 
 
 >     Any reference in any other provision of law to the educational institution in Florida known as the North/South Center shall be deemed to be a reference to the ‘Dante B. Fascell North-South Center’.
 
->     “(b) __Short Title.—__ 
+>     “(b)  __Short Title__  __.—__ 
 
 >     Any reference in any other provision of law to the North/South Center Act of 1991 shall be deemed to be a reference to the ‘Dante B. Fascell North-South Center Act of 1991’.”
 

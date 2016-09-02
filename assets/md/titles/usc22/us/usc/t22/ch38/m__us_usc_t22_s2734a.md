@@ -37,27 +37,27 @@
 
 > “In this title \[enacting this section, sections 2368 and 2734 of this title, and provisions set out as notes under sections 2151 and 2368 of this title\]:
 
->     “(1) __Administrator.—__ 
+>     “(1)  __Administrator__  __.—__ 
 
 >     The term ‘Administrator’ means the Administrator of the United States Agency for International Development.
 
->     “(2) __Agency.—__ 
+>     “(2)  __Agency__  __.—__ 
 
 >     The term ‘agency’ means any entity included in chapter 1 of title 5, United States Code.
 
->     “(3) __Appropriate congressional committees.—__ 
+>     “(3)  __Appropriate congressional committees__  __.—__ 
 
 >     The term ‘appropriate congressional committees’ means the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
 
->     “(4) __Department.—__ 
+>     “(4)  __Department__  __.—__ 
 
 >     Except as otherwise provided in this title, the term ‘Department’ means the Department of State.
 
->     “(5) __Personnel.—__ 
+>     “(5)  __Personnel__  __.—__ 
 
 >     The term ‘personnel’ means individuals serving in any service described in [section 2101 of title 5][/us/usc/t5/s2101], United States Code, other than in the legislative or judicial branch.
 
->     “(6) __Secretary.—__ 
+>     “(6)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of State.”
 

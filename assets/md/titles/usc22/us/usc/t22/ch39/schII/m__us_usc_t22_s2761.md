@@ -339,7 +339,7 @@
 
 [Pub. L. 104–106, div. D, title XLIII, § 4303(b)][/us/pl/104/106/s4303/b]–(d), Feb. 10, 1996, [110 Stat. 659][/us/stat/110/659], provided that:
 
->     “(b) __Conditions.—__ 
+>     “(b)  __Conditions__  __.—__ 
 
 >     Subsection (a) \[amending this section\] shall be effective only if—
 
@@ -347,11 +347,11 @@
 
 >         “(2) there is enacted qualifying offsetting legislation.
 
->     “(c) __Effective Date.—__ 
+>     “(c)  __Effective Date__  __.—__ 
 
 >     If the conditions in subsection (b) are met, then the amendments made by subsection (a) shall take effect on the date of the enactment of qualifying offsetting legislation \[Sept. 23, 1996\].
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     For purposes of this section:
 

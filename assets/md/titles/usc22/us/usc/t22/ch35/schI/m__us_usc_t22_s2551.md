@@ -107,15 +107,15 @@
 
 > “SEC. 1262. __INTERNATIONAL ARMS SALES CODE OF CONDUCT.__ 
 
->     “(a) __Negotiations.—__ 
+>     “(a)  __Negotiations__  __.—__ 
 
 >     The President shall attempt to achieve the foreign policy goal of an international arms sales code of conduct. The President shall take the necessary steps to begin negotiations within appropriate international fora not later than 120 days after the date of the enactment of this Act \[Nov. 29, 1999\]. The purpose of these negotiations shall be to establish an international regime to promote global transparency with respect to arms transfers, including participation by countries in the United Nations Register of Conventional Arms, and to limit, restrict, or prohibit arms transfers to countries that do not observe certain fundamental values of human liberty, peace, and international stability.
 
->     “(b) __Criteria.—__ 
+>     “(b)  __Criteria__  __.—__ 
 
 >     The President shall consider the following criteria in the negotiations referred to in subsection (a):
 
->         “(1) __Promotes democracy.—__ 
+>         “(1)  __Promotes democracy__  __.—__ 
 
 >         The government of the country—
 
@@ -127,7 +127,7 @@
 
 >             “(D) promotes the strengthening of political, legislative, and civil institutions of democracy, as well as autonomous institutions to monitor the conduct of public officials and to combat corruption.
 
->         “(2) __Respects human rights.—__ 
+>         “(2)  __Respects human rights__  __.—__ 
 
 >         The government of the country—
 
@@ -157,29 +157,29 @@
 
 >             “(F) provides access on a regular basis to humanitarian organizations in situations of conflict or famine.
 
->         “(3) __Not engaged in certain acts of armed aggression.—__ 
+>         “(3)  __Not engaged in certain acts of armed aggression__  __.—__ 
 
 >         The government of the country is not engaged in acts of armed aggression in violation of international law.
 
->         “(4) __Not supporting terrorism.—__ 
+>         “(4)  __Not supporting terrorism__  __.—__ 
 
 >         The government of the country does not provide support for international terrorism.
 
->         “(5) __Not contributing to proliferation of weapons of mass destruction.—__ 
+>         “(5)  __Not contributing to proliferation of weapons of mass destruction__  __.—__ 
 
 >         The government of the country does not contribute to the proliferation of weapons of mass destruction.
 
->         “(6) __Regional location of country.—__ 
+>         “(6)  __Regional location of country__  __.—__ 
 
 >         The country is not located in a region in which arms transfers would exacerbate regional arms races or international tensions that present a danger to international peace and stability.
 
 >     “(c) __Reports to Congress.—__ 
 
->         “(1) __Report relating to negotiations.—__ 
+>         “(1)  __Report relating to negotiations__  __.—__ 
 
 >         Not later than 6 months after the commencement of the negotiations under subsection (a), and not later than the end of every 6-month period thereafter until an agreement described in subsection (a) is concluded, the President shall report to the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate on the progress made during these negotiations.
 
->         “(2) __Human rights reports.—__ 
+>         “(2)  __Human rights reports__  __.—__ 
 
 >         In the report required in sections 116(d) and 502B(b) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2151n(b)][/us/usc/t22/s2151n/b] and 2304(b)), the Secretary of State shall describe the extent to which the practices of each country evaluated meet the criteria in paragraphs (1)(A) and (2) of subsection (a).”
 

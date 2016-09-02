@@ -97,7 +97,7 @@
 
 [Pub. L. 100–204, title I, § 160][/us/pl/100/204/s160], Dec. 22, 1987, [101 Stat. 1356][/us/stat/101/1356], as amended by [Pub. L. 101–246, title I, § 135][/us/pl/101/246/s135], Feb. 16, 1990, [104 Stat. 33][/us/stat/104/33], provided that:
 
->     “(a) __Certification.—__ 
+>     “(a)  __Certification__  __.—__ 
 
 >     Before undertaking any new construction or major renovation project in any foreign facility intended for the storage of classified materials or the conduct of classified activities, or approving occupancy of a similar facility for which construction or major renovation began before the effective date of this section \[Dec. 22, 1987\], the Secretary of State, after consultation with the Director of Central Intelligence, shall certify to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate that—
 
@@ -113,15 +113,15 @@
 
 >         “(3) a plan has been put into place for the continued evaluation and maintenance of adequate security at such facility, which plan shall specify the physical security methods and technical countermeasures necessary to ensure secure operations, including any personnel requirements for such purposes.
 
->     “(b) __Availability of Documentation.—__ 
+>     “(b)  __Availability of Documentation__  __.—__ 
 
 >     All documentation with respect to a certification referred to in subsection (a) and any dissenting views thereto shall be available, in an appropriately classified form, to the Chairman of the Committee on Foreign Affairs of the House of Representatives and the Chairman of the Committee on Foreign Relations of the Senate.
 
->     “(c) __Director of Central Intelligence.—__ 
+>     “(c)  __Director of Central Intelligence__  __.—__ 
 
 >     The Director of Central Intelligence shall provide to the Secretary of State such assistance with respect to the implementation of this section as the Secretary of State may request.
 
->     “(d) __Dissenting Views.—__ 
+>     “(d)  __Dissenting Views__  __.—__ 
 
 >     If the Director of Central Intelligence disagrees with the Secretary of State with respect to any project certification made pursuant to subsection (a), the Director shall submit in writing disagreeing views to the Secretary of State.”
 

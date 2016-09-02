@@ -51,15 +51,15 @@
 
 > “In this chapter:
 
->     “(1) __Biological weapons convention.—__ 
+>     “(1)  __Biological weapons convention__  __.—__ 
 
 >     The term ‘Biological Weapons Convention’ means the 1972 Convention on the Prohibition of the Development, Production and Stockpiling of Bacteriological (Biological) and Toxin Weapons and on their Destruction.
 
->     “(2) __Compliance protocol.—__ 
+>     “(2)  __Compliance protocol__  __.—__ 
 
 >     The term ‘compliance protocol’ means that segment of a bilateral or multilateral agreement that enables investigation of questions of compliance entailing written data or visits to facilities to monitor compliance.
 
->     “(3) __Industry.—__ 
+>     “(3)  __Industry__  __.—__ 
 
 >     The term ‘industry’ means any corporate or private sector entity engaged in the research, development, production, import, and export of peaceful pharmaceuticals and bio-technological and related products.
 
@@ -103,15 +103,15 @@
 
 > “SEC. 1124. __TRIAL INVESTIGATIONS AND TRIAL VISITS.__ 
 
->     “(a) __National Security Trial Investigations and Trial Visits.—__ 
+>     “(a)  __National Security Trial Investigations and Trial Visits__  __.—__ 
 
 >     The President shall conduct a series of national security trial investigations and trial visits, both during and following negotiations to develop a compliance protocol to the Biological Weapons Convention, with the objective of ensuring that the compliance procedures of the protocol are effective and adequately protect the national security of the United States. These trial investigations and trial visits shall be conducted at such sites as United States Government facilities, installations, and national laboratories.
 
->     “(b) __United States Industry Trial Investigations and Trial Visits.—__ 
+>     “(b)  __United States Industry Trial Investigations and Trial Visits__  __.—__ 
 
 >     The President shall take all appropriate steps to conduct or sponsor a series of United States industry trial investigations and trial visits, both during and following negotiations to develop a compliance protocol to the Biological Weapons Convention, with the objective of ensuring that the compliance procedures of the protocol are effective and adequately protect the national security and the concerns of affected United States industries and research institutions. These trial investigations and trial visits shall be conducted at such sites as academic institutions, vaccine production facilities, and pharmaceutical and biotechnology firms in the United States.
 
->     “(c) __Participation by Defense Department and Other Appropriate Personnel.—__ 
+>     “(c)  __Participation by Defense Department and Other Appropriate Personnel__  __.—__ 
 
 >     The Secretary of Defense and, as appropriate, the Director of the Federal Bureau of Investigation shall make available specialized personnel to participate—
 
@@ -123,7 +123,7 @@
 
 >     “(d) __Study.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The President shall conduct a study on the need for investigations and visits under the compliance protocol to the Biological Weapons Convention, including—
 
@@ -131,7 +131,7 @@
 
 >             “(B) an assessment of the monitoring results that can be expected from such investigations and visits.
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         Not later than the date on which a compliance protocol to the Biological Weapons Convention is submitted to the Senate for its advice and consent to ratification, the President shall submit to the Committee on Foreign Relations of the Senate a report, in both unclassified and classified form, setting forth—
 

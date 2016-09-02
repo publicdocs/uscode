@@ -43,11 +43,11 @@
 
 [Pub. L. 100–204, title I, § 158][/us/pl/100/204/s158], Dec. 22, 1987, [101 Stat. 1355][/us/stat/101/1355], provided that:
 
->     “(a) __Termination.—__ 
+>     “(a)  __Termination__  __.—__ 
 
 >     The Secretary of State shall exercise the authorities available to him to ensure that the United States does not provide, directly or indirectly, any retirement benefits of any kind to any present or former foreign national employee of a United States diplomatic or consular post against whom the Secretary has convincing evidence that such employee has engaged in intelligence activities directed against the United States. To the extent practicable, the Secretary shall provide due process in implementing this section.
 
->     “(b) __Waiver.—__ 
+>     “(b)  __Waiver__  __.—__ 
 
 >     The Secretary of State may waive the applicability of subsection (a) on a case-by-case basis with respect to an employee if he determines that it is vital to the national security of the United States to do so and he reports such waiver to the appropriate committees of the Congress.”
 

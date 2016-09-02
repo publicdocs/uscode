@@ -37,7 +37,7 @@
 
 >     “(a) __In General.—__ 
 
->         “(1) __Regulations.—__ 
+>         “(1)  __Regulations__  __.—__ 
 
 >         Not later than 1 year after the date of the enactment of this Act \[Nov. 29, 1999\], the Secretary of State shall issue regulations providing that before a child under the age of 14 years is issued a passport the requirements under paragraph (2) shall apply under penalty of perjury.
 
@@ -55,7 +55,7 @@
 
 >                 “(iii) is in loco parentis and has the consent of both parents, of a parent with sole custody over the child, or of the child’s legal guardian, to the issuance of the passport.
 
->     “(b) __Exceptions.—__ 
+>     “(b)  __Exceptions__  __.—__ 
 
 >     The regulations required by subsection (a) may provide for exceptions in exigent circumstances, such as those involving the health or welfare of the child, or when the Secretary determines that issuance of a passport is warranted by special family circumstances.”
 

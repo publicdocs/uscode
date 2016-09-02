@@ -35,19 +35,19 @@
 
 [Pub. L. 112–239, div. A, title XII, § 1225][/us/pl/112/239/s1225], Jan. 2, 2013, [126 Stat. 1999][/us/stat/126/1999], provided that:
 
->     “(a) __Consultations Required.—__ 
+>     “(a)  __Consultations Required__  __.—__ 
 
 >     Commencing not later than 30 days after the date of the enactment of this Act \[Jan. 2, 2013\], the President shall consult periodically with the appropriate committees of Congress on the status of the negotiations on a bilateral security agreement between the United States of America and the Islamic Republic of Afghanistan. Such consultations shall include a briefing summarizing the purpose, objectives, and key issues relating to the agreement.
 
->     “(b) __Availability of Agreement Text.—__ 
+>     “(b)  __Availability of Agreement Text__  __.—__ 
 
 >     Before entering into any bilateral security agreement with Afghanistan, the President shall make available to the appropriate committees of Congress the text of such agreement.
 
->     “(c) __Termination of Consultations.—__ 
+>     “(c)  __Termination of Consultations__  __.—__ 
 
 >     The requirements of this section shall terminate on the date on which the United States and Afghanistan enter into a bilateral security agreement or the President notifies Congress that negotiations on such an agreement have been terminated.
 
->     “(d) __Appropriate Committees of Congress Defined.—__ 
+>     “(d)  __Appropriate Committees of Congress Defined__  __.—__ 
 
 >     In this section, the term ‘appropriate committees of Congress’ means—
 
@@ -59,7 +59,7 @@
 
 [Pub. L. 110–53, title XX, § 2041][/us/pl/110/53/s2041], Aug. 3, 2007, [121 Stat. 518][/us/stat/121/518], provided that:
 
->     “(a) __Congressional Findings.—__ 
+>     “(a)  __Congressional Findings__  __.—__ 
 
 >     Congress finds the following:
 
@@ -91,7 +91,7 @@
 
 >         “(4) The United States and the international community must significantly increase political, economic, and military support to Afghanistan to ensure its long-term stability and prosperity, and to deny violent extremist groups such as al Qaeda sanctuary in Afghanistan.
 
->     “(b) __Statements of Policy.—__ 
+>     “(b)  __Statements of Policy__  __.—__ 
 
 >     The following shall be the policies of the United States:
 
@@ -111,17 +111,17 @@
 
 >             “(B) Urging the Government of Afghanistan to enter into a political dialogue with Pakistan with respect to all issues relating to the border between the two countries, with the aim of establishing a mutually-recognized and monitored border, open to human and economic exchange, and with both countries fully responsible for border security.
 
->     “(c) __Statement of Congress.—__ 
+>     “(c)  __Statement of Congress__  __.—__ 
 
 >     Congress strongly urges that the Afghanistan Freedom Support Act of 2002 ([22 U.S.C. 7501][/us/usc/t22/s7501] et seq.) be reauthorized and updated to take into account new developments in Afghanistan and in the region so as to demonstrate the continued support by the United States for the people and Government of Afghanistan.
 
 >     “(d) __Emergency Increase in Effective Police Training and Policing Operations.—__ 
 
->         “(1) __Congressional finding.—__ 
+>         “(1)  __Congressional finding__  __.—__ 
 
 >         Congress finds that police training programs in Afghanistan have achieved far less return on substantial investment to date and require a substantive review and justification of the means and purposes of such assistance, consequent to any provision of additional resources.
 
->         “(2) __Assistance authorized.—__ 
+>         “(2)  __Assistance authorized__  __.—__ 
 
 >         The President shall make increased efforts, on an urgent basis, to—
 
@@ -131,7 +131,7 @@
 
 >             “(C) assist the Government of Afghanistan, in conjunction with the Afghanistan civil security forces and their leadership, in addressing the corruption crisis that is threatening to undermine Afghanistan’s future.
 
->         “(3) __Report.—__ 
+>         “(3)  __Report__  __.—__ 
 
 >         Not later than 180 days after the date of the enactment of this Act \[Aug. 3, 2007\], and every 6 months thereafter until September 30, 2010, the President shall transmit to the appropriate congressional committees a report on United States efforts to fulfill the requirements of this subsection. The report required by this paragraph may be transmitted concurrently with any similar report required by the Afghanistan Freedom Support Act of 2002 \[[22 U.S.C. 7501][/us/usc/t22/s7501] et seq.\].”
 
@@ -143,7 +143,7 @@
 
 [Pub. L. 108–458, title VII, § 7104(b)][/us/pl/108/458/s7104/b], Dec. 17, 2004, [118 Stat. 3780][/us/stat/118/3780], provided that:
 
->     “(1) __Findings.—__ 
+>     “(1)  __Findings__  __.—__ 
 
 >     Consistent with the report of the National Commission on Terrorist Attacks Upon the United States, Congress makes the following findings:
 
@@ -169,7 +169,7 @@
 
 >         “(C) The United States and the international community must make a long-term commitment to addressing the unstable security situation in Afghanistan and the burgeoning narcotics trade, endemic poverty, and other serious problems in Afghanistan in order to prevent that country from relapsing into a sanctuary for international terrorism.
 
->     “(2) __Sense of congress.—__ 
+>     “(2)  __Sense of congress__  __.—__ 
 
 >     It is the sense of Congress that the United States Government should take, with respect to Afghanistan, the following actions:
 

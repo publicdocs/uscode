@@ -261,7 +261,7 @@
 
 [Pub. L. 112–158, title III, § 312(d)][/us/pl/112/158/s312/d], Aug. 10, 2012, [126 Stat. 1250][/us/stat/126/1250], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     If an exception to sanctions described in clause (i) or (ii) of paragraph (4)(C) of section 104(c) of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 \[[22 U.S.C. 8513(c)][/us/usc/t22/s8513/c]\], as added by subsection (b), applies to a person that engages in a transaction described in paragraph (2) at the time of the transaction, the President is authorized not to impose sanctions with respect to the transaction under—
 
@@ -271,7 +271,7 @@
 
 >         “(C) any other applicable provision of law authorizing the imposition of sanctions with respect to Iran.
 
->     “(2) __Transaction described.—__ 
+>     “(2)  __Transaction described__  __.—__ 
 
 >     A transaction described in this paragraph is a transaction—
 

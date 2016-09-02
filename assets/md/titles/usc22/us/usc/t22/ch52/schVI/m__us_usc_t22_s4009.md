@@ -61,11 +61,11 @@
 
 [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXIII, § 2312(c), Oct. 21, 1998, [112 Stat. 2681–827][/us/stat/112/2681-827], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and [section 4071d of this title][/us/usc/t22/s4071d]\] shall take effect on the date of the enactment of this Act \[Oct. 21, 1998\].
 
->     “(2) __Exceptions.—__ 
+>     “(2)  __Exceptions__  __.—__ 
 
 >     The amendments made by paragraphs (2) and (3) of subsection (a) and paragraphs (1)(A) and (2) of subsection (b) \[amending this section and [section 4071d of this title][/us/usc/t22/s4071d]\] shall apply with respect to any actions taken under section 611 of the Foreign Service Act of 1980 \[[22 U.S.C. 4010a][/us/usc/t22/s4010a]\] on or after January 1, 1996.”
 

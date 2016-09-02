@@ -299,7 +299,7 @@
 
 [Pub. L. 105–33, title VII, § 7001(d)(1)][/us/pl/105/33/s7001/d/1]–(2)(B), Aug. 5, 1997, [111 Stat. 659][/us/stat/111/659], 660, as amended by [Pub. L. 106–346, § 101(a)][/us/pl/106/346/s101/a] \[title V, § 505(d)(1)\], Oct. 23, 2000, [114 Stat. 1356][/us/stat/114/1356], 1356A–53, provided that:
 
->     “(1) __Agency contributions.—__ 
+>     “(1)  __Agency contributions__  __.—__ 
 
 >     Notwithstanding section 805(a)(1) and (2) of the Foreign Service Act of 1980 ([22 U.S.C. 4045(a)(1)][/us/usc/t22/s4045/a/1] and (2)), during the period beginning on October 1, 1997, through September 30, 2002, each agency employing a participant in the Foreign Service Retirement and Disability System shall contribute to the Foreign Service Retirement and Disability Fund—
 
@@ -311,7 +311,7 @@
 
 >     “(2) __Individual deductions, withholdings, and deposits.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Notwithstanding section 805(a)(1) of the Foreign Service Act of 1980 ([22 U.S.C. 4045(a)(1)][/us/usc/t22/s4045/a/1]), beginning on January 1, 1999, through December 31, 2000, the amount withheld and deducted from the basic pay of a participant in the Foreign Service Retirement and Disability System shall be as follows:
 
@@ -363,7 +363,7 @@
 
 >         </table>
 
->         “(B) __Foreign service criminal investigators/inspectors of the office of the inspector general, agency for international development.—__ 
+>         “(B)  __Foreign service criminal investigators/inspectors of the office of the inspector general, agency for international development__  __.—__ 
 
 >         Notwithstanding section 805(a)(2) of the Foreign Service Act of 1980 ([22 U.S.C. 4045(a)(2)][/us/usc/t22/s4045/a/2]), beginning on January 1, 1999, through December 31, 2000, the amount withheld and deducted from the basic pay of an eligible Foreign Service criminal investigator/inspector of the Office of the Inspector General, Agency for International Development participating in the Foreign Service Retirement and Disability System shall be as follows:
 

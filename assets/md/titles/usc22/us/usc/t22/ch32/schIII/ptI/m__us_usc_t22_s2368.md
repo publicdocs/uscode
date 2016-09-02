@@ -65,11 +65,11 @@
 
 [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XVI, § 1607, Oct. 14, 2008, [122 Stat. 4657][/us/stat/122/4657], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of State, in consultation with the Administrator of the United States Agency for International Development, shall develop an interagency strategy to respond to reconstruction and stabilization operations.
 
->     “(b) __Contents.—__ 
+>     “(b)  __Contents__  __.—__ 
 
 >     The strategy required under subsection (a) shall include the following:
 

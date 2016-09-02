@@ -141,13 +141,13 @@
 
 [Pub. L. 105–277, div. A, § 101(d)][/us/pl/105/277/s101/d] \[title VI, § 603\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–220, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of the Treasury shall establish an International Financial Institution Advisory Commission (in this section referred to as the ‘Commission’).
 
 >     “(b) __Membership.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Commission shall be composed of 11 members, as follows:
 
@@ -157,29 +157,29 @@
 
 >             “(C) 5 members appointed jointly by the Minority Leader of the House of Representatives and the Minority Leader of the Senate.
 
->         “(2) __Timing of appointments.—__ 
+>         “(2)  __Timing of appointments__  __.—__ 
 
 >         All appointments to the Commission shall be made not later than 45 days after the date of enactment of this Act \[Oct. 21, 1998\].
 
->         “(3) __Chairman.—__ 
+>         “(3)  __Chairman__  __.—__ 
 
 >         The Majority Leader of the Senate, after consultation with the Speaker of the House of Representatives and the Minority Leaders of the House of Representatives and the Senate, shall designate 1 of the members of the Commission to serve as Chairman of the Commission.
 
 >     “(c) __Qualifications.—__ 
 
->         “(1) __Expertise.—__ 
+>         “(1)  __Expertise__  __.—__ 
 
 >         Members of the Commission shall be appointed from among those with knowledge and expertise in the workings of the international financial institutions (as defined in section 1701(c)(2) of the International Financial Institutions Act \[[22 U.S.C. 262r(c)(2)][/us/usc/t22/s262r/c/2]\]), the World Trade Organization, and the Bank for International Settlements.
 
->         “(2) __Former affiliation.—__ 
+>         “(2)  __Former affiliation__  __.—__ 
 
 >         At least 4 members of the Commission shall be individuals who were officers or employees of the Executive Branch before January 20, 1992, and not more than half of such 4 members shall have served under Presidents from the same political party.
 
->     “(d) __Period of Appointment; Vacancies.—__ 
+>     “(d)  __Period of Appointment; Vacancies__  __.—__ 
 
 >     Members shall be appointed for the life of the Commission. Any vacancy in the Commission shall be filled in the same manner as the original appointment was made.
 
->     “(e) __Duties of the Commission.—__ 
+>     “(e)  __Duties of the Commission__  __.—__ 
 
 >     The Commission shall advise and report to the Congress on the future role and responsibilities of the international financial institutions (as defined in section 1701(c)(2) of the International Financial Institutions Act \[[22 U.S.C. 262r(c)(2)][/us/usc/t22/s262r/c/2]\]), the World Trade Organization, and the Bank for International Settlements. In carrying out such duties, the Commission shall meet with and advise the Secretary of the Treasury or the Deputy Secretary of the Treasury, and shall examine—
 
@@ -193,19 +193,19 @@
 
 >     “(f) __Powers and Procedures of the Commission.—__ 
 
->         “(1) __Hearings.—__ 
+>         “(1)  __Hearings__  __.—__ 
 
 >         The Commission or, at its direction, any panel or member of the Commission may, for the purpose of carrying out the provisions of this section, hold hearings, sit and act at times and places, take testimony, receive evidence, and administer oaths to the extent that the Commission or any panel or member considers advisable.
 
->         “(2) __Information.—__ 
+>         “(2)  __Information__  __.—__ 
 
 >         The Commission may secure directly information that the Commission considers necessary to enable the Commission to carry out its responsibilities under this section.
 
->         “(3) __Meetings.—__ 
+>         “(3)  __Meetings__  __.—__ 
 
 >         The Commission shall meet at the call of the Chairman.
 
->     “(g) __Report.—__ 
+>     “(g)  __Report__  __.—__ 
 
 >     On the termination of the Commission, the Commission shall submit to the Secretary of the Treasury and the appropriate committees a report that contains recommendations regarding the following matters:
 
@@ -219,7 +219,7 @@
 
 >         “(5) Any additional changes necessary to stabilize currencies, promote continued trade liberalization and to avoid future financial crises.
 
->     “(h) __Termination.—__ 
+>     “(h)  __Termination__  __.—__ 
 
 >     The Commission shall terminate 6 months after the first meeting of the Commission, which shall be not later than 30 days after the appointment of all members of the Commission.
 

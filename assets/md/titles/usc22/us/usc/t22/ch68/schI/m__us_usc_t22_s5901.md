@@ -51,7 +51,7 @@
 
 [Pub. L. 102–484, div. A, title XIII, § 1321][/us/pl/102/484/s1321], Oct. 23, 1992, [106 Stat. 2549][/us/stat/106/2549], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress makes the following findings:
 
@@ -75,7 +75,7 @@
 
 >         “(7) In a 1991 study, a committee of the National Academy of Sciences concluded that: ‘The appropriate new levels of nuclear weapons cannot be specified at this time, but it seems reasonable to the committee that U.S. strategic forces could in time be reduced to 1,000–2,000 nuclear warheads, provided that such a multilateral agreement included appropriate levels and verification measures for the other nations that possess nuclear weapons. This step would require successful implementation of our proposed post-START U.S.-Soviet reductions, related confidence-building measures in all the countries involved, and multilateral security cooperation in areas such as conventional force deployments and planning.’.
 
->     “(b) __United States Policy.—__ 
+>     “(b)  __United States Policy__  __.—__ 
 
 >     It shall be the goal of the United States—
 
@@ -93,7 +93,7 @@
 
 >         “(7) to ensure that the United States assistance to securely transport and store, and ultimately dismantle, former Soviet nuclear weapons and missiles for such weapons is being properly and effectively utilized.
 
->     “(c) __Annual Report.—__ 
+>     “(c)  __Annual Report__  __.—__ 
 
 >     By February 1 of each year, the President shall submit to the Congress a report on—
 

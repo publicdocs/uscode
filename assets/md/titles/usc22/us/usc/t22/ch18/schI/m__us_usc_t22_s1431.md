@@ -65,7 +65,7 @@
 
 >     “(a) __Promotion of United States Values Through Broadcast Media.—__ 
 
->         “(1) __Findings.—__ 
+>         “(1)  __Findings__  __.—__ 
 
 >         Consistent with the report of the National Commission on Terrorist Attacks Upon the United States, Congress makes the following findings:
 
@@ -75,7 +75,7 @@
 
 >             “(C) Recognizing that many Muslim audiences rely on satellite television and radio, the United States Government has launched promising initiatives in television and radio broadcasting to the Islamic world, including Iran and Afghanistan.
 
->         “(2) __Sense of congress.—__ 
+>         “(2)  __Sense of congress__  __.—__ 
 
 >         It is the sense of Congress that—
 
@@ -89,7 +89,7 @@
 
 >     “(b) __Enhancing Free and Independent Media.—__ 
 
->         “(1) __Findings.—__ 
+>         “(1)  __Findings__  __.—__ 
 
 >         Congress makes the following findings:
 
@@ -103,7 +103,7 @@
 
 >             “(E) Foreign governments have a responsibility to actively and publicly discourage and rebut unprofessional and unethical media while respecting journalistic integrity and editorial independence.
 
->         “(2) __Statement of policy.—__ 
+>         “(2)  __Statement of policy__  __.—__ 
 
 >         It shall be the policy of the United States, acting through the Secretary of State, to—
 
@@ -115,11 +115,11 @@
 
 >     “(c) __Establishment of Media Network.—__ 
 
->         “(1) __Grants for establishment of network.—__ 
+>         “(1)  __Grants for establishment of network__  __.—__ 
 
 >         The Secretary of State shall, utilizing amounts authorized to be appropriated by subsection (e)(2) \[(d)(2)\], make grants to the National Endowment for Democracy (NED) under the National Endowment for Democracy Act ([22 U.S.C. 4411][/us/usc/t22/s4411] et seq.) for utilization by the Endowment to provide funding to a private sector group to establish and manage a free and independent media network as specified in paragraph (2).
 
->         “(2) __Media network.—__ 
+>         “(2)  __Media network__  __.—__ 
 
 >         The media network established using funds under paragraph (1) shall provide an effective forum to convene a broad range of individuals, organizations, and governmental participants involved in journalistic activities and the development of free and independent media in order to—
 
@@ -133,11 +133,11 @@
 
 >     “(d) __Authorizations of Appropriations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         There are authorized to be appropriated for each of fiscal years 2005 and 2006, unless otherwise authorized by Congress, such sums as may be necessary to carry out United States Government broadcasting activities consistent with this section under the United States Information and Educational Exchange Act of 1948 ([22 U.S.C. 1431][/us/usc/t22/s1431] et seq.), the United States International Broadcasting Act of 1994 ([22 U.S.C. 6201][/us/usc/t22/s6201] et seq.), and the Foreign Affairs Reform and Restructuring Act of 1998 ([22 U.S.C. 6501][/us/usc/t22/s6501] et seq.), and to carry out other activities under this section consistent with the purposes of such Acts, unless otherwise authorized by Congress.
 
->         “(2) __Grants for media network.—__ 
+>         “(2)  __Grants for media network__  __.—__ 
 
 >         In addition to the amounts authorized to be appropriated under paragraph (1), there are authorized to be appropriated for each of fiscal years 2005 and 2006, unless otherwise authorized by Congress, such sums as may be necessary for grants under subsection (c)(1) for the establishment of the media network described in subsection (c)(2).”
 

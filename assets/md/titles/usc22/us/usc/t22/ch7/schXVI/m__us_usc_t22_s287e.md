@@ -101,11 +101,11 @@ Similar provisions were contained in the following appropriation acts:
 
 [Pub. L. 101–246, title IV, § 414][/us/pl/101/246/s414], Feb. 16, 1990, [104 Stat. 70][/us/stat/104/70], provided that:
 
->     “(a) __Prohibition.—__ 
+>     “(a)  __Prohibition__  __.—__ 
 
 >     No funds authorized to be appropriated by this Act or any other Act shall be available for the United Nations or any specialized agency thereof which accords the Palestine Liberation Organization the same standing as member states.
 
->     “(b) __Transfer or Reprogramming.—__ 
+>     “(b)  __Transfer or Reprogramming__  __.—__ 
 
 >     Funds subject to the prohibition contained in subsection (a) which would be available for the United Nations or any specialized agency thereof (but for that prohibition) are authorized to remain available until expended and may be reprogrammed or transferred to any other account of the Department of State or the Agency for International Development to carry out the general purposes for which such funds were authorized.”
 
@@ -113,7 +113,7 @@ Similar provisions were contained in the following appropriation acts:
 
 [Pub. L. 100–204, title VII, § 701][/us/pl/100/204/s701], Dec. 22, 1987, [101 Stat. 1383][/us/stat/101/1383], as amended by [Pub. L. 102–138, title I, § 163][/us/pl/102/138/s163], Oct. 28, 1991, [105 Stat. 676][/us/stat/105/676], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress makes the following findings:
 
@@ -149,7 +149,7 @@ Similar provisions were contained in the following appropriation acts:
 
 >         “(16) The United Nations has not yet achieved its reform goals and there is no indication that the United Nations can afford to make such large exceptions to such hiring freeze.
 
->     “(b) __Sense of the Congress.—__ 
+>     “(b)  __Sense of the Congress__  __.—__ 
 
 >     It is the sense of the Congress that—
 
@@ -175,7 +175,7 @@ Similar provisions were contained in the following appropriation acts:
 
 >         “(7) if the Soviet Union and the Soviet-bloc intend to remain member-nations of the United Nations, they should adhere to Articles 100, 101, and all other principles of the United Nations Charter to which every other member-nation must adhere.
 
->     “(c) __Definition.—__ 
+>     “(c)  __Definition__  __.—__ 
 
 >     For the purposes of this section, the term ‘Soviet-bloc’ means the countries of Bulgaria, Cuba, Czechoslovakia, East Germany, Hungary, Nicaragua, North Korea, Poland, and Romania.”
 
@@ -183,11 +183,11 @@ Similar provisions were contained in the following appropriation acts:
 
 [Pub. L. 100–204, title VII, § 703][/us/pl/100/204/s703], Dec. 22, 1987, [101 Stat. 1389][/us/stat/101/1389], provided that:
 
->     “(a) __United States Policy.—__ 
+>     “(a)  __United States Policy__  __.—__ 
 
 >     It is the policy of the United States to seek the implementation by the United Nations of the recommendation by the International Civil Service Commission to deduct from the pay (commonly referred to as a ‘rental deduction’) of an international civil servant the amount of any housing allowance or payment which is provided by any member state to that international civil servant, in accordance with Article 100 of the Charter of the United Nations and regulations thereunder.
 
->     “(b) __United States Ambassador to the United Nations.—__ 
+>     “(b)  __United States Ambassador to the United Nations__  __.—__ 
 
 >     The United States Ambassador to the United Nations shall seek to promote the adoption of the recommendation described in subsection (a).”
 
@@ -195,15 +195,15 @@ Similar provisions were contained in the following appropriation acts:
 
 [Pub. L. 103–236, title IV, § 409(a)][/us/pl/103/236/s409/a]–(d), Apr. 30, 1994, [108 Stat. 454][/us/stat/108/454], as amended by [Pub. L. 107–228, div. A, title IV, § 405(b)(2)][/us/pl/107/228/s405/b/2], Sept. 30, 2002, [116 Stat. 1391][/us/stat/116/1391], provided that:
 
->     “(a) __Assessed Contributions.—__ 
+>     “(a)  __Assessed Contributions__  __.—__ 
 
 >     For assessed contributions authorized to be appropriated for ‘Assessed Contributions to International Organizations’ by this Act \[[108 Stat. 382][/us/stat/108/382], 388\], the President may withhold 20 percent of the funds appropriated for the United States assessed contribution to the United Nations or to any of its specialized agencies for any calendar year if the United Nations or any such agency has failed to implement or to continue to implement consensus-based decisionmaking procedures on budgetary matters which assure that sufficient attention is paid to the views of the United States and other member states that are the major financial contributors to such assessed budgets.
 
->     “(b) __Notice to Congress.—__ 
+>     “(b)  __Notice to Congress__  __.—__ 
 
 >     The President shall notify the Congress when a decision is made to withhold any share of the United States assessed contribution to the United Nations or its specialized agencies pursuant to subsection (a) and shall notify the Congress when the decision is made to pay any previously withheld assessed contribution. A notification under this subsection shall include appropriate consultation between the President (or the President’s representative) and the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
 
->     “(c) __Contributions for Prior Years.—__ 
+>     “(c)  __Contributions for Prior Years__  __.—__ 
 
 >     Subject to the availability of appropriations, payment of assessed contributions for prior years may be made to the United Nations or any of its specialized agencies notwithstanding subsection (a) if such payment would further United States interests in that organization.
 
@@ -223,19 +223,19 @@ Similar provisions were contained in the following appropriation acts:
 
 [Pub. L. 99–93, title I, § 151][/us/pl/99/93/s151], Aug. 16, 1985, [99 Stat. 428][/us/stat/99/428], provided that:
 
->     “(a) __Initial Report.—__ 
+>     “(a)  __Initial Report__  __.—__ 
 
 >     Not later than 90 days after the date of enactment of this Act \[Aug. 16, 1985\], the Secretary of State shall report to the Congress on whether, and the extent to which, international civil servants employed by the United Nations, including those seconded to the United Nations, are required to return all or part of their salaries to their respective governments. The Secretary shall also include in this report a description of the steps taken by the Department of State and by the United States Representative to the United Nations to correct this practice.
 
->     “(b) __Report on Steps to Correct Practice.—__ 
+>     “(b)  __Report on Steps to Correct Practice__  __.—__ 
 
 >     The Secretary of State shall determine and report to the Congress on whether substantial progress has been made by June 1, 1986, in correcting the practice of international civil servants employed by the United Nations being required to return all or part of their salaries to their respective governments.
 
->     “(c) __Reduction in Contribution if Substantial Progess \[sic\] Not Made.—__ 
+>     “(c)  __Reduction in Contribution if Substantial Progess__  __\[sic\]__  __Not Made__  __.—__ 
 
 >     If the Secretary of State determines pursuant to subsection (b) that substantial progress has not been made in correcting this practice, the United States shall thereafter reduce the amount of its annual assessed contributions to the United Nations by the amount of that contribution which is the United States proportionate share of the salaries of those international civil servants employed by the United Nations who are returning any portion of their salaries to their respective governments.
 
->     “(d) __National Taxation.—__ 
+>     “(d)  __National Taxation__  __.—__ 
 
 >     This section does not apply with respect to payments made for purposes of national taxation in accordance with formal treaty reservations concerning such taxation by a member state of the United Nations.”
 
@@ -279,17 +279,17 @@ Similar provisions were contained in the following appropriation acts:
 
 [Pub. L. 103–236, title IV, § 404(b)(1)][/us/pl/103/236/s404/b/1], (2), Apr. 30, 1994, [108 Stat. 447][/us/stat/108/447], as amended by [Pub. L. 107–228, div. A, title IV, § 402(a)][/us/pl/107/228/s402/a], Sept. 30, 2002, [116 Stat. 1388][/us/stat/116/1388]; [Pub. L. 110–161, div. J, title I, § 113][/us/pl/110/161/s113], Dec. 26, 2007, [121 Stat. 2288][/us/stat/121/2288]; [Pub. L. 111–8, div. H, title VII, § 7051][/us/pl/111/8/s7051], Mar. 11, 2009, [123 Stat. 893][/us/stat/123/893]; [Pub. L. 111–117, div. F, title VII, § 7051][/us/pl/111/117/s7051], Dec. 16, 2009, [123 Stat. 3378][/us/stat/123/3378], provided that:
 
->     “(1) __Fiscal years 1994 and 1995.—__ 
+>     “(1)  __Fiscal years 1994 and 1995__  __.—__ 
 
 >     Funds authorized to be appropriated for ‘Contributions for International Peacekeeping Activities’ for fiscal years 1994 and 1995 shall not be available for the payment of the United States assessed contribution for a United Nations peacekeeping operation in an amount which is greater than 30.4 percent of the total of all assessed contributions for that operation, notwithstanding the last sentence of the paragraph headed ‘Contributions to International Organizations’ in [Public Law 92–544][/us/pl/92/544], as amended by section 203 of the Foreign Relations Authorization Act, Fiscal Year 1976 ([22 U.S.C. 287e][/us/usc/t22/s287e] note).
 
->     “(2) __Subsequent fiscal years.—__ 
+>     “(2)  __Subsequent fiscal years__  __.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Except as provided in subparagraph (B), funds authorized to be appropriated for ‘Contributions for International Peacekeeping Activities’ for any fiscal year after fiscal year 1995 shall not be available for the payment of the United States assessed contribution for a United Nations peacekeeping operation in an amount which is greater than 25 percent of the total of all assessed contributions for that operation.
 
->         “(B) __Reduction in united states share of assessed contributions.—__ 
+>         “(B)  __Reduction in united states share of assessed contributions__  __.—__ 
 
 >         Notwithstanding the percentage limitation contained in subparagraph (A), the United States share of assessed contributions for each United Nations peacekeeping operation during the following periods is authorized to be as follows:
 

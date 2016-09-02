@@ -191,11 +191,11 @@
 
 [Pub. L. 102–565, § 3][/us/pl/102/565/s3], Oct. 28, 1992, [106 Stat. 4266][/us/stat/106/4266], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Director of the Peace Corps shall contract with an eligible organization or organizations to conduct before January 1, 1997, a total of three evaluations of the health-care needs of the Peace Corps volunteers and the adequacy of the system through which the Peace Corps provides health-care services in meeting those needs.
 
->     “(b) __Requirements of the Evaluations.—__ 
+>     “(b)  __Requirements of the Evaluations__  __.—__ 
 
 >     Each evaluation shall include an assessment of the adequacy of the Peace Corps health-care system—
 
@@ -203,15 +203,15 @@
 
 >         “(2) to conduct health examinations of applicants for enrollment as Peace Corps volunteers and to provide immunization and dental care preparatory to service of applicants for enrollment who have accepted an invitation to begin a period of training for service as a Peace Corps volunteer.
 
->     “(c) __Reports to the Peace Corps.—__ 
+>     “(c)  __Reports to the Peace Corps__  __.—__ 
 
 >     An organization making an evaluation under this section shall submit to the Director of the Peace Corps a report containing its findings and recommendations not later than May 31, 1993, December 31, 1994, and December 31, 1996, as the case may be. Each report shall include recommendations regarding appropriate standards and procedures for ensuring the furnishing of quality medical care and for measuring the quality of care provided to Peace Corps volunteers.
 
->     “(d) __Report to Congress.—__ 
+>     “(d)  __Report to Congress__  __.—__ 
 
 >     Not later than 90 days after receipt of a report required by subsection (c), the Director of the Peace Corps shall transmit the report, together with the Director’s comments, to the appropriate congressional committees.
 
->     “(e) __Definitions.—__ 
+>     “(e)  __Definitions__  __.—__ 
 
 >     For purposes of this section—
 

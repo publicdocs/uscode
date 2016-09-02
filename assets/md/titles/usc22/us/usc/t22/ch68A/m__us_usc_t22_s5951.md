@@ -53,15 +53,15 @@
 
 [Pub. L. 112–239, div. A, title XII, § 1282][/us/pl/112/239/s1282], Jan. 2, 2013, [126 Stat. 2034][/us/stat/126/2034], provided that:
 
->     “(a) __Briefings.—__ 
+>     “(a)  __Briefings__  __.—__ 
 
 >     Not later than 60 days after the date of the enactment of this Act \[Jan. 2, 2013\], and not less than twice each year thereafter, the President, or the President’s designee, shall brief the Committee on Foreign Relations and the Committee on Armed Services of the Senate on the dialogue between the United States and the Russian Federation on issues related to limits or controls on nuclear arms, missile defense systems, or long-range conventional strike systems.
 
->     “(b) __Sense of Congress on Certain Agreements.—__ 
+>     “(b)  __Sense of Congress on Certain Agreements__  __.—__ 
 
 >     It is the sense of Congress that any agreement between the United States and the Russian Federation related to nuclear arms, missile defense systems, or long-range conventional strike systems obligating the United States to reduce or limit the Armed Forces or armaments of the United States in any militarily significant manner may be made only pursuant to the treaty-making power of the President as set forth in Article II, section 2, clause 2 of the Constitution of the United States.
 
->     “(c) __Rule of Construction.—__ 
+>     “(c)  __Rule of Construction__  __.—__ 
 
 >     Nothing in this section shall be construed to be inconsistent with or to interfere with the practices, precedents, or oversight of the House of Representatives.”
 
@@ -69,15 +69,15 @@
 
 [Pub. L. 108–136, div. C, title XXXVI, § 3622][/us/pl/108/136/s3622], Nov. 24, 2003, [117 Stat. 1824][/us/stat/117/1824], provided that:
 
->     “(a) __Establishment of Working Group.—__ 
+>     “(a)  __Establishment of Working Group__  __.—__ 
 
 >     There is hereby established a working group to be known as the ‘Threat Reduction Working Group’ as an interparliamentary group of the Congress of the United States and the legislature of the Russian Federation.
 
->     “(b) __Purpose of Working Group.—__ 
+>     “(b)  __Purpose of Working Group__  __.—__ 
 
 >     The purpose of the working group established by subsection (a) shall be to explore means to enhance cooperation between the United States and the Russian Federation with respect to nuclear nonproliferation and security and such other issues related to reducing the dangers of weapons of mass destruction as the members of the working group consider appropriate.
 
->     “(c) __Membership.—__ 
+>     “(c)  __Membership__  __.—__ 
 
 >         (1) The majority leader of the Senate, after consultation with the minority leader of the Senate, shall appoint not more than 10 Senators to the working group established by subsection (a).
 

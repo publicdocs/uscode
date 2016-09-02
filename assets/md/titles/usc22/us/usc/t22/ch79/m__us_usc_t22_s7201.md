@@ -93,11 +93,11 @@
 
 [Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title IX, § 911\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–72, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), this title \[enacting this chapter\] shall take effect on the date of enactment of this Act \[Oct. 28, 2000\], and shall apply thereafter in any fiscal year.
 
->     “(b) __Existing Sanctions.—__ 
+>     “(b)  __Existing Sanctions__  __.—__ 
 
 >     In the case of any unilateral agricultural sanction or unilateral medical sanction that is in effect as of the date of enactment of this Act, this title shall take effect 120 days after the date of enactment of this Act, and shall apply thereafter in any fiscal year.”
 

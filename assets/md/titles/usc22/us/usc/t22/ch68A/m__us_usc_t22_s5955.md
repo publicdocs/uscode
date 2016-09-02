@@ -63,11 +63,11 @@
 
 > “SEC. 1201. __SPECIFICATION OF COOPERATIVE THREAT REDUCTION PROGRAMS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     For purposes of section 301 \[[110 Stat. 245][/us/stat/110/245]\] and other provisions of this Act \[see Tables for classification\], Cooperative Threat Reduction programs are the programs specified in subsection (b).
 
->     “(b) __Specified Programs.—__ 
+>     “(b)  __Specified Programs__  __.—__ 
 
 >     The programs referred to in subsection (a) are the following programs with respect to states of the former Soviet Union:
 
@@ -81,7 +81,7 @@
 
 > “SEC. 1205. __PRIOR NOTICE TO CONGRESS OF OBLIGATION OF FUNDS.__ 
 
->     “(a) __Annual Requirement.—__ 
+>     “(a)  __Annual Requirement__  __.—__ 
 
 >         (1) Not less than 15 days before any obligation of any funds appropriated for any fiscal year for a program specified under section 1201 as a Cooperative Threat Reduction program, the Secretary of Defense shall submit to the congressional committees specified in paragraph (2) a report on that proposed obligation for that program for that fiscal year.
 
@@ -93,7 +93,7 @@
 
 >             “(B) The Committee on Armed Services, the Committee on International Relations \[now Committee on Foreign Affairs\], and the Committee on Appropriations of the House of Representatives.
 
->     “(b) __Matters To Be Specified in Reports.—__ 
+>     “(b)  __Matters To Be Specified in Reports__  __.—__ 
 
 >     Each such report shall specify—
 

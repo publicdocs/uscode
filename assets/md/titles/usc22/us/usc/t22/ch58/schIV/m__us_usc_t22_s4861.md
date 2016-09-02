@@ -51,11 +51,11 @@
 
 [Pub. L. 107–306, title VIII, § 832][/us/pl/107/306/s832], Nov. 27, 2002, [116 Stat. 2431][/us/stat/116/2431], provided that:
 
->     “(a) __Evaluation Required.—__ 
+>     “(a)  __Evaluation Required__  __.—__ 
 
 >     Not later than December 31 of 2002, 2003, and 2004, the Inspector General of the Department of State shall conduct an evaluation of the policies and procedures of the Department on the protection of classified information at the Headquarters of the Department, including compliance with the directives of the Director of Central Intelligence (DCIDs) regarding the storage and handling of Sensitive Compartmented Information (SCI) material.
 
->     “(b) __Annual Report.—__ 
+>     “(b)  __Annual Report__  __.—__ 
 
 >     Except as provided in subsection (c), not later than February 1 of 2003, 2004, and 2005, the Inspector General shall submit to the following committees a report on the evaluation conducted under subsection (a) during the preceding year:
 
@@ -63,11 +63,11 @@
 
 >         “(2) The Committee on Foreign Relations of the Senate and the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives.
 
->     “(c) __Exception.—__ 
+>     “(c)  __Exception__  __.—__ 
 
 >     The date each year for the submittal of a report under subsection (b) may be postponed in accordance with section 507(d) of the National Security Act of 1947 \[[50 U.S.C. 3106(d)][/us/usc/t50/s3106/d]\], as added by section 811 of this Act.
 
->     “(d) __Congressional Intelligence Committees Defined.—__ 
+>     “(d)  __Congressional Intelligence Committees Defined__  __.—__ 
 
 >     In this section, the term ‘congressional intelligence committees’ means—
 

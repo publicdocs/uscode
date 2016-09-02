@@ -159,11 +159,11 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title IV, § 404(c)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–447, provided that:
 
->     “(1) __Reenactment.—__ 
+>     “(1)  __Reenactment__  __.—__ 
 
 >     The provisions of law repealed by section 1334 \[[22 U.S.C. 6553][/us/usc/t22/s6553]\] of the Foreign Affairs Reform and Restructuring Act of 1998 \[repealing this section and section 8 of Reorganization Plan No. 2 of 1977, set out under [section 1461 of this title][/us/usc/t22/s1461] and in the Appendix to Title 5, Government Organization and Employees\], as in effect before the date of the enactment of this Act \[Nov. 29, 1999\], are hereby reenacted into law.
 
->     “(2) __Repeal.—__ 
+>     “(2)  __Repeal__  __.—__ 
 
 >     Effective September 30, 2001, section 604 of the United States Information and Educational Exchange Act of 1948 ([22 U.S.C. 1469][/us/usc/t22/s1469]) and section 8 of the Reorganization Plan Numbered 2 of 1977 are repealed.”
 

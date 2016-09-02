@@ -113,15 +113,15 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title VII, § 721\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–462, provided that:
 
->     “(a) __Congressional Statement.—__ 
+>     “(a)  __Congressional Statement__  __.—__ 
 
 >     It shall be the policy of the United States to promote an end to the persistent inequity experienced by Israel in the United Nations whereby Israel is the only longstanding member of the organization to be denied acceptance into any of the United Nations regional blocs.
 
->     “(b) __Policy on Abolition of Certain United Nations Groups.—__ 
+>     “(b)  __Policy on Abolition of Certain United Nations Groups__  __.—__ 
 
 >     It shall be the policy of the United States to seek the abolition of certain United Nations groups the existence of which is inimical to the ongoing Middle East peace process, those groups being the Special Committee to Investigate Israeli Practices Affecting the Human Rights of the Palestinian People and other Arabs of the Occupied Territories; the Committee on the Exercise of the Inalienable Rights of the Palestinian People; the Division for the Palestinian Rights; and the Division on Public Information on the Question of Palestine.
 
->     “(c) __Annual Reports.—__ 
+>     “(c)  __Annual Reports__  __.—__ 
 
 >     On January 15 of each year, the Secretary of State shall submit a report to the appropriate congressional committees \[Committee on Foreign Affairs of the House of Representatives and Committee on Foreign Relations of the Senate\] (in classified or unclassified form as appropriate) on—
 
@@ -131,7 +131,7 @@
 
 >         “(3) steps taken by the United States under subsection (b) to secure abolition by the United Nations of groups described in that subsection.
 
->     “(d) __Annual Consultation.—__ 
+>     “(d)  __Annual Consultation__  __.—__ 
 
 >     At the time of the submission of each annual report under subsection (c), the Secretary of State shall consult with the appropriate congressional committees on specific responses received by the Secretary of State from each of the nations of the Western Europe and Others Group (WEOG) on their position concerning Israel’s acceptance into their organization.”
 

@@ -469,37 +469,37 @@
 
 [Pub. L. 110–429, title II, § 201][/us/pl/110/429/s201], Oct. 15, 2008, [122 Stat. 4843][/us/stat/122/4843], provided that:
 
->     “(a) __Assessment Required.—__ 
+>     “(a)  __Assessment Required__  __.—__ 
 
 >     The President shall carry out an empirical and qualitative assessment on an ongoing basis of the extent to which Israel possesses a qualitative military edge over military threats to Israel. The assessment required under this subsection shall be sufficiently robust so as to facilitate comparability of data over concurrent years.
 
->     “(b) __Use of Assessment.—__ 
+>     “(b)  __Use of Assessment__  __.—__ 
 
 >     The President shall ensure that the assessment required under subsection (a) is used to inform the review by the United States of applications to sell defense articles and defense services under the Arms Export Control Act ([22 U.S.C. 2751][/us/usc/t22/s2751] et seq.) to countries in the Middle East.
 
 >     “(c) __Reports.—__ 
 
->         “(1) __Initial report.—__ 
+>         “(1)  __Initial report__  __.—__ 
 
 >         Not later than June 30, 2009, the President shall transmit to the appropriate congressional committees a report on the initial assessment required under subsection (a).
 
->         “(2) __Quadrennial report.—__ 
+>         “(2)  __Quadrennial report__  __.—__ 
 
 >         Not later than four years after the date on which the President transmits the initial report under paragraph (1), and every four years thereafter, the President shall transmit to the appropriate congressional committees a report on the most recent assessment required under subsection (a).
 
->     “(d) __Certification.—__ 
+>     “(d)  __Certification__  __.—__ 
 
 >     \[Amended this section.\]
 
->     “(e) __Definitions.—__ 
+>     “(e)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Appropriate congressional committees.—__ 
+>         “(1)  __Appropriate congressional committees__  __.—__ 
 
 >         The term ‘appropriate congressional committees’ means the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
 
->         “(2) __Qualitative military edge.—__ 
+>         “(2)  __Qualitative military edge__  __.—__ 
 
 >         The term ‘qualitative military edge’ has the meaning given the term in section 36(h) of the Arms Export Control Act, as added by subsection (d) of this section \[[22 U.S.C. 2776(h)][/us/usc/t22/s2776/h]\].”
 

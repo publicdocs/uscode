@@ -263,39 +263,39 @@
 
 > “The United States-China Commission shall focus, in lieu of any other areas of work or study, on the following:
 
->     “(A) __Proliferation practices.—__ 
+>     “(A)  __Proliferation practices__  __.—__ 
 
 >     The Commission shall analyze and assess the Chinese role in the proliferation of weapons of mass destruction and other weapons (including dual use technologies) to terrorist-sponsoring states, and suggest possible steps which the United States might take, including economic sanctions, to encourage the Chinese to stop such practices.
 
->     “(B) __Economic reforms and united states economic transfers.—__ 
+>     “(B)  __Economic reforms and united states economic transfers__  __.—__ 
 
 >     The Commission shall analyze and assess the qualitative and quantitative nature of the shift of United States production activities to China, including the relocation of high-technology, manufacturing, and R&D facilities; the impact of these transfers on United States national security, including political influence by the Chinese Government over American firms, dependence of the United States national security industrial base on Chinese imports, the adequacy of United States export control laws, and the effect of these transfers on United States economic security, employment, and the standard of living of the American people; analyze China’s national budget and assess China’s fiscal strength to address internal instability problems and assess the likelihood of externalization of such problems.
 
->     “(C) __Energy.—__ 
+>     “(C)  __Energy__  __.—__ 
 
 >     The Commission shall evaluate and assess how China’s large and growing economy will impact upon world energy supplies and the role the United States can play, including joint R&D efforts and technological assistance, in influencing China’s energy policy.
 
->     “(D) __United states capital markets.—__ 
+>     “(D)  __United states capital markets__  __.—__ 
 
 >     The Commission shall evaluate the extent of Chinese access to, and use of United States capital markets, and whether the existing disclosure and transparency rules are adequate to identify Chinese companies which are active in United States markets and are also engaged in proliferation activities or other activities harmful to United States security interests.
 
->     “(E) __Corporate reporting.—__ 
+>     “(E)  __Corporate reporting__  __.—__ 
 
 >     The Commission shall assess United States trade and investment relationship with China, including the need for corporate reporting on United States investments in China and incentives that China may be offering to United States corporations to relocate production and R&D to China.
 
->     “(F) __Regional economic and security impacts.—__ 
+>     “(F)  __Regional economic and security impacts__  __.—__ 
 
 >     The Commission shall assess the extent of China’s ‘hollowing-out’ of Asian manufacturing economies, and the impact on United States economic and security interests in the region; review the triangular economic and security relationship among the United States, Taipei and Beijing, including Beijing’s military modernization and force deployments aimed at Taipei, and the adequacy of United States executive branch coordination and consultation with Congress on United States arms sales and defense relationship with Taipei.
 
->     “(G) __United states-china bilateral programs.—__ 
+>     “(G)  __United states-china bilateral programs__  __.—__ 
 
 >     The Commission shall assess science and technology programs to evaluate if the United States is developing an adequate coordinating mechanism with appropriate review by the intelligence community with Congress; assess the degree of non-compliance by China and United States-China agreements on prison labor imports and intellectual property rights; evaluate United States enforcement policies; and recommend what new measures the United States Government might take to strengthen our laws and enforcement activities and to encourage compliance by the Chinese.
 
->     “(H) __World trade organization compliance.—__ 
+>     “(H)  __World trade organization compliance__  __.—__ 
 
 >     The Commission shall review China’s record of compliance to date with its accession agreement to the WTO, and explore what incentives and policy initiatives should be pursued to promote further compliance by China.
 
->     “(I) __Media control.—__ 
+>     “(I)  __Media control__  __.—__ 
 
 >     The Commission shall evaluate Chinese government efforts to influence and control perceptions of the United States and its policies through the internet, the Chinese print and electronic media, and Chinese internal propaganda.”
 

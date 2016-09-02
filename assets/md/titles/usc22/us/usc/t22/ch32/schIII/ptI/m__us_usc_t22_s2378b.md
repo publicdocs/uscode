@@ -131,7 +131,7 @@
 
 > “SEC. 2. __LIMITATION ON ASSISTANCE TO THE PALESTINIAN AUTHORITY.__ 
 
->     “(a) __Declaration of Policy.—__ 
+>     “(a)  __Declaration of Policy__  __.—__ 
 
 >     It shall be the policy of the United States—
 
@@ -143,43 +143,43 @@
 
 >         “(4) to urge members of the international community to avoid contact with and refrain from supporting the terrorist organization Hamas until it agrees to recognize Israel, renounce violence, disarm, and accept prior agreements, including the Roadmap.
 
->     “(b) __Amendments.—__ 
+>     “(b)  __Amendments__  __.—__ 
 
 >         “(1) __\[Amended__  __[__  __section 2378a of this title__  __][/us/usc/t22/s2378a]__  __.\]__ 
 
 >         “(2) __\[Enacted this section.\]__ 
 
->     “(c) __Previously Obligated Funds.—__ 
+>     “(c)  __Previously Obligated Funds__  __.—__ 
 
 >     The provisions of section 620K of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2378b][/us/usc/t22/s2378b]\], as added by subsection (b), shall be applicable to the unexpended balances of funds obligated prior to the date of the enactment of this Act \[Dec. 21, 2006\].
 
 > “SEC. 3. __LIMITATION ON ASSISTANCE FOR THE WEST BANK AND GAZA.__ 
 
->     “(a) __Amendment.—__ 
+>     “(a)  __Amendment__  __.—__ 
 
 >     \[Enacted [section 2378c of this title][/us/usc/t22/s2378c].\]
 
 >     “(b) __Oversight and Related Requirements.—__ 
 
->         “(1) __Oversight.—__ 
+>         “(1)  __Oversight__  __.—__ 
 
 >         For each of the fiscal years 2007 and 2008, the Secretary of State shall certify to the appropriate congressional committees not later than 30 days prior to the initial obligation of amounts for assistance to nongovernmental organizations for the West Bank or Gaza under the Foreign Assistance Act of 1961 \[[22 U.S.C. 2151][/us/usc/t22/s2151] et seq.\] that procedures have been established to ensure that the Comptroller General of the United States will have access to appropriate United States financial information in order to review the use of such assistance.
 
->         “(2) __Vetting.—__ 
+>         “(2)  __Vetting__  __.—__ 
 
 >         Prior to any obligation of amounts for each of the fiscal years 2007 and 2008 for assistance to nongovernmental organizations for the West Bank or Gaza under the Foreign Assistance Act of 1961, the Secretary of State shall take all appropriate steps to ensure that such assistance is not provided to or through any individual or entity that the Secretary knows, or has reason to believe, advocates, plans, sponsors, engages in, or has engaged in, terrorist activity. The Secretary shall, as appropriate, establish procedures specifying the steps to be taken in carrying out this paragraph and shall terminate assistance to any individual or entity that the Secretary has determined advocates, plans, sponsors, or engages in terrorist activity.
 
->         “(3) __Prohibition.—__ 
+>         “(3)  __Prohibition__  __.—__ 
 
 >         No amounts made available for fiscal year 2007 or 2008 for assistance to nongovernmental organizations for the West Bank or Gaza under the Foreign Assistance Act of 1961 may be made available for the purpose of recognizing or otherwise honoring individuals who commit, or have committed, acts of terrorism.
 
 >         “(4) __Audits.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Administrator of the United States Agency for International Development shall ensure that Federal or non-Federal audits of all contractors and grantees, and significant subcontractors and subgrantees, that receive amounts for assistance to nongovernmental organizations for the West Bank or Gaza under the Foreign Assistance Act of 1961 are conducted for each of the fiscal years 2007 and 2008 to ensure, among other things, compliance with this subsection.
 
->             “(B) __Audits by inspector general of usaid.—__ 
+>             “(B)  __Audits by inspector general of usaid__  __.—__ 
 
 >             Of the amounts available for each of the fiscal years 2007 and 2008 for assistance to nongovernmental organizations for the West Bank or Gaza under the Foreign Assistance Act of 1961, up to $1,000,000 for each such fiscal year may be used by the Office of the Inspector General of the United States Agency for International Development for audits, inspections, and other activities in furtherance of the requirements of subparagraph (A). Such amounts are in addition to amounts otherwise available for such purposes.
 
@@ -189,11 +189,11 @@
 
 > “SEC. 5. __DENIAL OF VISAS FOR OFFICIALS OF THE PALESTINIAN AUTHORITY.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), a visa should not be issued to any alien who is an official of, under the control of, or serving as a representative of the Hamas-led Palestinian Authority during any period for which a certification described in section 620K(b) of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2378b(b)][/us/usc/t22/s2378b/b]\] (as added by section 2(b)(2) of this Act) is not in effect with respect to the Palestinian Authority.
 
->     “(b) __Exception.—__ 
+>     “(b)  __Exception__  __.—__ 
 
 >     The restriction under subsection (a) should not apply to—
 
@@ -203,41 +203,41 @@
 
 > “SEC. 6. __TRAVEL RESTRICTIONS ON OFFICIALS AND REPRESENTATIVES OF THE PALESTINIAN AUTHORITY AND THE PALESTINE LIBERATION ORGANIZATION STATIONED AT THE UNITED NATIONS IN NEW YORK CITY.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding any other provision of law, and except as provided in subsection (b), the President should restrict the travel of officials and representatives of the Palestinian Authority and of the Palestine Liberation Organization, who are stationed at the United Nations in New York City to a 25-mile radius of the United Nations headquarters building during any period for which a certification described in section 620K(b) of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2378b(b)][/us/usc/t22/s2378b/b]\] (as added by section 2(b)(2) of this Act) is not in effect with respect to the Palestinian Authority.
 
->     “(b) __Exception.—__ 
+>     “(b)  __Exception__  __.—__ 
 
 >     The travel restrictions described in subsection (a) should not apply to the President of the Palestinian Authority and his or her personal representatives, provided that the President and his or her personal representatives are not affiliated with Hamas or any other foreign terrorist organization.
 
 > “SEC. 7. __PROHIBITION ON PALESTINIAN AUTHORITY REPRESENTATION IN THE UNITED STATES.__ 
 
->     “(a) __Prohibition.—__ 
+>     “(a)  __Prohibition__  __.—__ 
 
 >     Notwithstanding any other provision of law, it shall be unlawful to establish or maintain an office, headquarters, premises, or other facilities or establishments within the jurisdiction of the United States at the behest or direction of, or with funds provided by, the Palestinian Authority during any period for which a certification described in section 620K(b) of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2378b(b)][/us/usc/t22/s2378b/b]\] (as added by section 2(b)(2) of this Act) is not in effect with respect to the Palestinian Authority.
 
 >     “(b) __Enforcement.—__ 
 
->         “(1) __Attorney general.—__ 
+>         “(1)  __Attorney general__  __.—__ 
 
 >         The Attorney General shall take the necessary steps and institute the necessary legal action to effectuate the policies and provisions of subsection (a).
 
->         “(2) __Relief.—__ 
+>         “(2)  __Relief__  __.—__ 
 
 >         Any district court of the United States for a district in which a violation of subsection (a) occurs shall have authority, upon petition of relief by the Attorney General, to grant injunctive and such other equitable relief as it shall deem necessary to enforce the provisions of subsection (a).
 
->     “(c) __Waiver.—__ 
+>     “(c)  __Waiver__  __.—__ 
 
 >     Subsection (a) shall not apply if the President determines and certifies to the appropriate congressional committees that the establishment or maintenance of an office, headquarters, premises, or other facilities is vital to the national security interests of the United States.
 
 > “SEC. 8. __INTERNATIONAL FINANCIAL INSTITUTIONS.__ 
 
->     “(a) __Requirement.—__ 
+>     “(a)  __Requirement__  __.—__ 
 
 >     The President should direct the United States Executive Director at each international financial institution to use the voice, vote, and influence of the United States to prohibit assistance to the Palestinian Authority (other than assistance described under subsection (b)) during any period for which a certification described in section 620K(b) of the Foreign Assistance of 1961 \[[22 U.S.C. 2378b(b)][/us/usc/t22/s2378b/b]\] (as added by section 2(b)(2) of this Act) is not in effect with respect to the Palestinian Authority.
 
->     “(b) __Exceptions.—__ 
+>     “(b)  __Exceptions__  __.—__ 
 
 >     The prohibition on assistance described in subsection (a) should not apply with respect to the following types of assistance:
 
@@ -245,7 +245,7 @@
 
 >         “(2) Assistance to promote democracy, human rights, freedom of the press, non-violence, reconciliation, and peaceful coexistence, provided that such assistance does not directly benefit Hamas or other foreign terrorist organizations.
 
->     “(c) __Definition.—__ 
+>     “(c)  __Definition__  __.—__ 
 
 >     In this section, the term ‘international financial institution’ has the meaning given the term in section 1701(c)(2) of the International Financial Institutions Act ([22 U.S.C. 262r(c)(2)][/us/usc/t22/s262r/c/2]).
 
@@ -263,15 +263,15 @@
 
 > “SEC. 10. __ISRAELI–PALESTINIAN PEACE, RECONCILIATION AND DEMOCRACY FUND.__ 
 
->     “(a) __Establishment of Fund.—__ 
+>     “(a)  __Establishment of Fund__  __.—__ 
 
 >     Not later than 60 days after the date of the enactment of this Act \[Dec. 21, 2006\], the Secretary of State shall establish a fund to be known as the ‘Israeli-Palestinian Peace, Reconciliation and Democracy Fund’ (in this section referred to as the ‘Fund’). The purpose of the Fund shall be to support, primarily, through Palestinian and Israeli organizations, the promotion of democracy, human rights, freedom of the press, and non-violence among Palestinians, and peaceful coexistence and reconciliation between Israelis and Palestinians.
 
->     “(b) __Annual Report.—__ 
+>     “(b)  __Annual Report__  __.—__ 
 
 >     Not later than 60 days after the date of the enactment of this Act \[Dec. 21, 2006\], and annually thereafter for so long as the Fund remains in existence, the Secretary of State shall submit to the appropriate congressional committees a report on programs sponsored and proposed to be sponsored by the Fund.
 
->     “(c) __Authorization of Appropriations.—__ 
+>     “(c)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to the Secretary of State $20,000,000 for fiscal year 2007 for purposes of the Fund.
 
@@ -287,7 +287,7 @@
 
 > “In this Act:
 
->     “(1) __Appropriate congressional committees.—__ 
+>     “(1)  __Appropriate congressional committees__  __.—__ 
 
 >     The term ‘appropriate congressional committees’ means—
 
@@ -295,7 +295,7 @@
 
 >         “(B) the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
 
->     “(2) __Palestinian authority.—__ 
+>     “(2)  __Palestinian authority__  __.—__ 
 
 >     The term ‘Palestinian Authority’ has the meaning given the term in section 620K(e)(2) of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2378b(e)(2)][/us/usc/t22/s2378b/e/2]\] (as added by section 2(b)(2) of this Act).”
 

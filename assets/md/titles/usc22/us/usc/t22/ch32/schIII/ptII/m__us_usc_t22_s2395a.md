@@ -41,11 +41,11 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(5)][/us/pl/106/113/s1000/a/5] \[title V, § 501\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–311, as amended by [Pub. L. 108–447, div. D, title V, § 591(b)][/us/pl/108/447/s591/b], Dec. 8, 2004, [118 Stat. 3037][/us/stat/118/3037]; [Pub. L. 109–102, title V, § 578][/us/pl/109/102/s578], Nov. 14, 2005, [119 Stat. 2232][/us/stat/119/2232]; [Pub. L. 110–161, div. J, title VI, § 699H(b)(1)][/us/pl/110/161/s699H/b/1], Dec. 26, 2007, [121 Stat. 2372][/us/stat/121/2372], provided that:
 
->     “(a) __Cancellation of Debt.—__ 
+>     “(a)  __Cancellation of Debt__  __.—__ 
 
 >     Subject to the availability of amounts provided in advance in appropriations Acts, the President shall cancel all amounts owed to the United States (or any agency of the United States) by any country eligible for debt reduction under this section, as a result of loans made or credits extended prior to June 20, 1999, under any of the provisions of law specified in subsection (b).
 
->     “(b) __Provisions of Law.—__ 
+>     “(b)  __Provisions of Law__  __.—__ 
 
 >     The provisions of law referred to in subsection (a) are the following:
 
@@ -59,11 +59,11 @@
 
 >         “(5) The Act of March 11, 1941 (chapter 11; [55 Stat. 31][/us/stat/55/31]; [22 U.S.C. 411][/us/usc/t22/s411] et seq.; commonly known as the ‘Lend-Lease Act’).
 
->     “(c) __Other Debt Reduction Authorities.—__ 
+>     “(c)  __Other Debt Reduction Authorities__  __.—__ 
 
 >     The authority provided in this section is in addition to any other debt relief authority and does not in any way limit such authority.
 
->     “(d) __Eligible Countries.—__ 
+>     “(d)  __Eligible Countries__  __.—__ 
 
 >     A country that is performing satisfactorily under an economic reform program shall be eligible for cancellation of debt under this section if—
 
@@ -81,11 +81,11 @@
 
 >                 “(ii) the country has outstanding public and publicly guaranteed debt, the net present value of which, as of the date the President determines that the country is eligible for debt relief under this section, is at least 250 percent of the annual fiscal revenues of the country, and has minimum ratios of exports to Gross Domestic Product of 30 percent, and of fiscal revenues to Gross Domestic Product of 15 percent.
 
->     “(e) __Priority.—__ 
+>     “(e)  __Priority__  __.—__ 
 
 >     In carrying out subsection (a), the President should seek to leverage scarce foreign assistance and give priority to heavily indebted poor countries with demonstrated need and the capacity to use such relief effectively.
 
->     “(f) __Exceptions.—__ 
+>     “(f)  __Exceptions__  __.—__ 
 
 >     A country shall not be eligible for cancellation of debt under this section if the government of the country—
 
@@ -97,7 +97,7 @@
 
 >         “(4) (including its military or other security forces), engages in a consistent pattern of gross violations of internationally recognized human rights.
 
->     “(g) __Additional Requirement.—__ 
+>     “(g)  __Additional Requirement__  __.—__ 
 
 >     A country which is otherwise eligible to receive cancellation of debt under this section may receive such cancellation only if the country has committed, in connection with a social and economic reform program—
 
@@ -115,15 +115,15 @@
 
 >         “(7) to promote the participation of citizens and nongovernmental organizations in the economic policy choices of the government.
 
->     “(h) __Certain Prohibitions Inapplicable.—__ 
+>     “(h)  __Certain Prohibitions Inapplicable__  __.—__ 
 
 >     Except as the President may otherwise determine for reasons of national security, a cancellation of debt under this section shall not be considered to be assistance for purposes of any provision of law limiting assistance to a country. The authority to provide for cancellation of debt under this section may be exercised notwithstanding section 620(r) of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2370(r)][/us/usc/t22/s2370/r]\], or any similar provision of law.
 
->     “(i) __Authorization of Appropriations.—__ 
+>     “(i)  __Authorization of Appropriations__  __.—__ 
 
 >     For the cost (as defined in section 502(5) of the Federal Credit Reform Act of 1990 \[[2 U.S.C. 661a(5)][/us/usc/t2/s661a/5]\]) of the cancellation of any debt under this section, there are authorized to be appropriated to the President such sums as may be necessary for each of the fiscal years 2000–2010, which shall remain available until expended.
 
->     “(j) __Annual Reports to the Congress.—__ 
+>     “(j)  __Annual Reports to the Congress__  __.—__ 
 
 >     Not later than December 31 of each year, the President shall prepare and transmit to the Committees on Banking and Financial Services \[now Committee on Financial Services\], Appropriations, and International Relations \[now Committee on Foreign Affairs\] of the House of Representatives, and the Committees on Banking, Housing, and Urban Affairs, Foreign Relations, and Appropriations of the Senate a report, which shall be made available to the public, concerning the cancellation of debt under subsection (a), and a detailed description of debt relief provided by the United States as a member of the Paris Club of Official Creditors for the prior fiscal year.”
 

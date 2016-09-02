@@ -67,11 +67,11 @@
 
 > “In this subtitle:
 
->     “(1) __Distance learning.—__ 
+>     “(1)  __Distance learning__  __.—__ 
 
 >     The term ‘distance learning’ means training through computers, interactive videos, teleconferencing, and videoconferencing between and among students and teachers.
 
->     “(2) __Eligible enterprise.—__ 
+>     “(2)  __Eligible enterprise__  __.—__ 
 
 >     The term ‘eligible enterprise’ means—
 
@@ -91,15 +91,15 @@
 
 >             “(ii) a private enterprise that is being formed or operated by former officers of the Ukrainian armed forces in Ukraine.
 
->     “(3) __Eligible national.—__ 
+>     “(3)  __Eligible national__  __.—__ 
 
 >     The term ‘eligible national’ means the employee of an eligible enterprise who is employed in the program country.
 
->     “(4) __Program.—__ 
+>     “(4)  __Program__  __.—__ 
 
 >     The term ‘program’ means the program of technical assistance established under section 423.
 
->     “(5) __Program country.—__ 
+>     “(5)  __Program country__  __.—__ 
 
 >     The term ‘program country’ means—
 
@@ -111,11 +111,11 @@
 
 >     “(a) __Training Program.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The President is authorized to establish a program of technical assistance to provide the training described in section 421 to eligible enterprises.
 
->         “(2) __Implementation.—__ 
+>         “(2)  __Implementation__  __.—__ 
 
 >         Training shall be carried out by United States nationals having expertise in business administration, accounting, and marketing or by eligible nationals who have been trained under the program. Such training may be carried out—
 
@@ -123,7 +123,7 @@
 
 >             “(B) by ‘distance learning’ programs originating in the United States or in European branches of United States institutions.
 
->     “(b) __Internships With United States Domestic Business Concerns.—__ 
+>     “(b)  __Internships With United States Domestic Business Concerns__  __.—__ 
 
 >     Authorized program costs may include the travel expenses and appropriate in-country business English language training, if needed, of eligible nationals who have completed training under the program to undertake short-term internships with business concerns in the United States.
 
@@ -131,15 +131,15 @@
 
 >     “(a) __Procedures.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Each eligible enterprise that desires to receive training for its employees and managers under this subtitle shall submit an application to the clearinghouse under subsection (c), at such time, in such manner, and accompanied by such additional information as may reasonably be required.
 
->         “(2) __Joint applications.—__ 
+>         “(2)  __Joint applications__  __.—__ 
 
 >         A consortium of eligible enterprises may file a joint application under the provisions of paragraph (1).
 
->     “(b) __Contents.—__ 
+>     “(b)  __Contents__  __.—__ 
 
 >     An application under subsection (a) may be approved only if the application—
 
@@ -153,7 +153,7 @@
 
 >         “(5) provides such additional assurances as are determined to be essential to ensure compliance with the requirements of this subtitle.
 
->     “(c) __Clearinghouse.—__ 
+>     “(c)  __Clearinghouse__  __.—__ 
 
 >     A clearinghouse shall be established or designated in each program country to manage and execute the program in that country. The clearinghouse shall screen applications, provide information regarding training and teachers, monitor performance of the program, and coordinate appropriate post-program follow-on activities.
 
@@ -163,11 +163,11 @@
 
 > “SEC. 426. __AUTHORIZATION OF APPROPRIATIONS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     There is authorized to be appropriated $10,000,000 for the fiscal year 2000 and $10,000,000 for the fiscal year 2001 to carry out this subtitle.
 
->     “(b) __Availability of Funds.—__ 
+>     “(b)  __Availability of Funds__  __.—__ 
 
 >     Amounts appropriated under subsection (a) are authorized to remain available until expended.”
 
@@ -213,15 +213,15 @@
 
 [Pub. L. 102–511, title X, § 1004][/us/pl/102/511/s1004], Oct. 24, 1992, [106 Stat. 3360][/us/stat/106/3360], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     In order to promote macroeconomic stabilization and the integration of the independent states of the former Soviet Union into the international financial system, enhance the opportunities for trade, improve the climate for foreign investment, and strengthen the process of transformation of the former socialist economies into free enterprise systems and thereby progressively enhance the well-being of the citizens of these states, the United States should in appropriate circumstances take a leading role in organizing and supporting multilateral efforts at macroeconomic stabilization and debt rescheduling, conditioned on the appropriate development and implementation of comprehensive economic reform programs.
 
->     “(b) __Currency Stabilization.—__ 
+>     “(b)  __Currency Stabilization__  __.—__ 
 
 >     In furtherance of the purposes and consistent with the conditions described in subsection (a), the Congress expresses its support for United States participation, in sums of up to $3,000,000,000, in a currency stabilization fund or funds for the independent states of the former Soviet Union.
 
->     “(c) __Study of the Need for and Feasibility of a Currency Stabilization Fund for Ukraine.—__ 
+>     “(c)  __Study of the Need for and Feasibility of a Currency Stabilization Fund for Ukraine__  __.—__ 
 
 >     The Secretary of the Treasury shall instruct the United States Executive Director of the International Monetary Fund to use the voice and vote of the United States to urge the Fund to conduct a study of the need for and feasibility of a currency stabilization fund for Ukraine, and, if it is found that such a fund is needed and is feasible, which considers and makes recommendations with respect to the economic and policy conditions required for the success of such a fund.”
 

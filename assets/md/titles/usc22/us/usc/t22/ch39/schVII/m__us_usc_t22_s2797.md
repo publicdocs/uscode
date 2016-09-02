@@ -77,7 +77,7 @@
 
 [Pub. L. 108–375, div. A, title XII, § 1212][/us/pl/108/375/s1212], Oct. 28, 2004, [118 Stat. 2087][/us/stat/118/2087], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress makes the following findings:
 
@@ -87,11 +87,11 @@
 
 >         “(3) The spread of ballistic missiles and related technologies worldwide has been slowed by a combination of national and international export controls, forward-looking diplomacy, and multilateral interdiction activities to restrict the development and transfer of such missiles and technologies.
 
->     “(b) __Policy.—__ 
+>     “(b)  __Policy__  __.—__ 
 
 >     It is the policy of the United States to develop, support, and strengthen international accords and other cooperative efforts to curtail the proliferation of ballistic missiles and related technologies which could threaten the territory of the United States, allies of the United States and other friendly foreign countries, and deployed members of the Armed Forces of the United States with weapons of mass destruction.
 
->     “(c) __Sense of Congress.—__ 
+>     “(c)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of Congress that—
 

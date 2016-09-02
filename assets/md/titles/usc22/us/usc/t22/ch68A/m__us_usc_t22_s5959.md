@@ -171,23 +171,23 @@
 
 [Pub. L. 108–136, div. A, title X, § 1033][/us/pl/108/136/s1033], Nov. 24, 2003, [117 Stat. 1605][/us/stat/117/1605], provided that:
 
->     “(a) __Annual Report.—__ 
+>     “(a)  __Annual Report__  __.—__ 
 
 >     Concurrent with the submission of the President’s budget request to Congress each year, the Director of Central Intelligence shall submit to the committees specified in subsection (e) a report concerning dismantlement of Russian strategic nuclear warheads under the Moscow Treaty. Each such report shall discuss nuclear weapons dismantled by Russia during the prior fiscal year and the Director’s projections for nuclear weapons to be dismantled by Russia during the current fiscal year and the fiscal year covered by the budget.
 
->     “(b) __Classification.—__ 
+>     “(b)  __Classification__  __.—__ 
 
 >     The annual report under this section shall be transmitted in an unclassified form when possible and classified form as necessary.
 
->     “(c) __Termination of Report Requirement.—__ 
+>     “(c)  __Termination of Report Requirement__  __.—__ 
 
 >     The requirement to submit an annual report under this section terminates when the Moscow Treaty is no longer in effect.
 
->     “(d) __Moscow Treaty Defined.—__ 
+>     “(d)  __Moscow Treaty Defined__  __.—__ 
 
 >     For purposes of this section, the term ‘Moscow Treaty’ means the Treaty Between the United States of America and the Russian Federation on Strategic Offensive Reductions, done at Moscow on May 24, 2002.
 
->     “(e) __Committees Specified.—__ 
+>     “(e)  __Committees Specified__  __.—__ 
 
 >     The committees to which annual reports are to be submitted under this section are the following:
 
@@ -199,11 +199,11 @@
 
 [Pub. L. 108–136, div. C, title XXXVI, § 3621][/us/pl/108/136/s3621], Nov. 24, 2003, [117 Stat. 1824][/us/stat/117/1824], provided that:
 
->     “(a) __Sense of Congress.—__ 
+>     “(a)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of Congress that the United States should, to the extent the President considers prudent, seek to work with the Russian Federation to develop a comprehensive inventory of Russian tactical nuclear weapons.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 12 months after the date of the enactment of this Act \[Nov. 24, 2003\], the President shall submit to Congress a report, in both classified and unclassified form as necessary, describing the progress that has been made toward creating such an inventory.”
 
@@ -211,11 +211,11 @@
 
 [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XIII, § 1301(a), (b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–338, 1654A–339, provided that:
 
->     “(a) __Specification of CTR Programs.—__ 
+>     “(a)  __Specification of CTR Programs__  __.—__ 
 
 >     For purposes of section 301 \[[114 Stat. 1654][/us/stat/114/1654]A–52\] and other provisions of this Act \[H.R. 5408, as enacted by [section 1 of Pub. L. 106–398][/us/pl/106/398/s1], see Tables for classification\], Cooperative Threat Reduction programs are the programs specified in section 1501(b) of the National Defense Authorization Act for Fiscal Year 1997 ([Public Law 104–201][/us/pl/104/201]; [110 Stat. 2731][/us/stat/110/2731]; [50 U.S.C. 2362][/us/usc/t50/s2362] note).
 
->     “(b) __Fiscal Year 2001 Cooperative Threat Reduction Funds Defined.—__ 
+>     “(b)  __Fiscal Year__  __2001__  __Cooperative Threat Reduction Funds Defined__  __.—__ 
 
 >     As used in this title \[enacting this section, repealing [section 5656 of this title][/us/usc/t22/s5656], enacting provisions set out as notes under [section 5952 of this title][/us/usc/t22/s5952], and amending provisions set out as notes under sections 5952 and 5955 of this title\], the term ‘fiscal year 2001 Cooperative Threat Reduction funds’ means the funds appropriated pursuant to the authorization of appropriations in section 301 for Cooperative Threat Reduction programs.”
 

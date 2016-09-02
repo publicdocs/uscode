@@ -459,11 +459,11 @@
 
 > “SEC. 1261. __REMOVAL OF SATELLITES AND RELATED ITEMS FROM THE UNITED STATES MUNITIONS LIST.__ 
 
->     “(a) __Repeal.—__ 
+>     “(a)  __Repeal__  __.—__ 
 
 >     \[Amended [section 1513 of Pub. L. 105–261][/us/pl/105/261/s1513], set out in a note below.\]
 
->     “(b) __Additional Determination and Report.—__ 
+>     “(b)  __Additional Determination and Report__  __.—__ 
 
 >     Accompanying but separate from the submission to Congress of the first notification after the date of the enactment of this Act \[Jan. 2, 2013\] under section 38(f) of the Arms Export Control Act ([22 U.S.C. 2778(f)][/us/usc/t22/s2778/f]) relating to the removal of satellites and related items from the United States Munitions List, the President shall also submit to Congress—
 
@@ -479,7 +479,7 @@
 
 >     “(c) __Prohibition.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to paragraph (3), no satellites or related items that are made subject to the Export Administration Regulations (15 CFR part 730 et seq.) as a result of the enactment of subsection (a) of this section, whether or not enumerated on the Commerce Control List—
 
@@ -493,7 +493,7 @@
 
 >             “(B) may be launched in a country described in paragraph (2) or as part of a launch vehicle owned, operated, or manufactured by the government of such country or any entity or person in or acting for or on behalf of such government, entity, or person.
 
->         “(2) __Countries described.—__ 
+>         “(2)  __Countries described__  __.—__ 
 
 >         The countries referred to in paragraph (1) are the following:
 
@@ -503,7 +503,7 @@
 
 >             “(C) Any country that is a state sponsor of terrorism.
 
->         “(3) __Waiver.—__ 
+>         “(3)  __Waiver__  __.—__ 
 
 >         The President may waive the prohibition in paragraph (1) on a case-by-case basis if not later than 30 days before doing so the President—
 
@@ -511,27 +511,27 @@
 
 >             “(B) notifies the appropriate congressional committees of such determination.
 
->     “(d) __Presumption of Denial.—__ 
+>     “(d)  __Presumption of Denial__  __.—__ 
 
 >     Any license or other authorization to export satellites and related items to a country with respect to which the United States maintains a comprehensive arms embargo shall be subject to a presumption of denial.
 
 >     “(e) __Report.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than one year after the date of the enactment of this Act, and annually thereafter, the Director of National Intelligence, in consultation with the Secretary of State, shall submit to the appropriate congressional committees a report on efforts of state sponsors of terrorism, other foreign countries, or entities to illicitly acquire satellites and related items.
 
->         “(2) __Form.—__ 
+>         “(2)  __Form__  __.—__ 
 
 >         The report required by paragraph (1) shall be submitted in unclassified form, but may contain a classified annex.
 
 > “SEC. 1262. __REPORT ON LICENSES AND OTHER AUTHORIZATIONS TO EXPORT CERTAIN SATELLITES AND RELATED ITEMS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 60 days after the end of each calendar year through 2020, the President shall submit to the committees of Congress specified in subsection (b) a report summarizing all licenses and other authorizations to export satellites and related items that are subject to the Export Administration Regulations (15 CFR part 730 et seq.) as a result of the enactment of section 1261(a).
 
->     “(b) __Committees of Congress Specified.—__ 
+>     “(b)  __Committees of Congress Specified__  __.—__ 
 
 >     The committees of Congress specified in this subsection are—
 
@@ -541,41 +541,41 @@
 
 > “SEC. 1263. __REPORT ON COUNTRY EXEMPTIONS FOR LICENSING OF EXPORTS OF CERTAIN SATELLITES AND RELATED ITEMS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 120 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Secretary of Commerce, in consultation with the Attorney General, the Secretary of Homeland Security, and the heads of other Federal departments and agencies as appropriate, shall submit to the appropriate congressional committees a report that contains an assessment of the extent to which the terms and conditions of exemptions for foreign countries to the licensing requirements and other authorizations to export satellites and related items that are subject to the Export Administration Regulations (15 CFR part 730 et seq.) as a result of the enactment of section 1261(a) contain strong safeguards.
 
->     “(b) __Matters to Be Included.—__ 
+>     “(b)  __Matters to Be Included__  __.—__ 
 
 >     The report required by subsection (a) shall include a description of the extent to which the terms and conditions of exemptions described in subsection (a), including other relevant laws, regulations, and practices, support law enforcement efforts to detect, prevent, and prosecute criminal, administrative, and other violations of any provision of the Export Administration Regulations (15 CFR part 730 et seq.), including efforts on the part of state sponsors of terrorism, organizations determined by the Secretary of State to have provided support for international terrorism, or other foreign countries, to acquire illicitly satellites and related items from the United States.
 
 > “SEC. 1264. __END-USE MONITORING OF CERTAIN SATELLITES AND RELATED ITEMS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     In order to ensure accountability with respect to the export of satellites and related items that become subject to the Export Administration Regulations (15 CFR part 730 et seq.) as a result of the enactment of section 1261(a), the President shall provide for the end-use monitoring of such satellites and related items.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 120 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Secretary of Commerce, in consultation with the heads of other Federal departments and agencies as appropriate, shall submit to Congress a report describing the actions taken to implement this section, including identification of resource shortfalls or other constraints on effective end-use monitoring of satellites and related items described in subsection (a).
 
 > “SEC. 1265. __INTERAGENCY REVIEW OF MODIFICATIONS TO CATEGORY XV OF THE UNITED STATES MUNITIONS LIST.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Subject to section 38(f) of the Arms Export Control Act ([22 U.S.C. 2778(f)][/us/usc/t22/s2778/f]), the President shall ensure that the Secretary of State, the Secretary of Defense, the Secretary of Commerce and, as appropriate, the Director of National Intelligence and the heads of other appropriate Federal departments and agencies, will review any removal or addition of an item to Category XV of the United States Munitions List (relating to spacecraft systems and associated equipment).
 
->     “(b) __Effective Date.—__ 
+>     “(b)  __Effective Date__  __.—__ 
 
 >     The requirement of subsection (a) shall apply with respect to any item described in subsection (a) that is proposed to be removed or added to Category XV of the United States Munitions List on or after the date of the enactment of this Act \[Jan. 2, 2013\].
 
 > “SEC. 1266. __RULES OF CONSTRUCTION.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Subtitle B of title XV of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 ([Public Law 105–261][/us/pl/105/261]; [112 Stat. 2173][/us/stat/112/2173]; [22 U.S.C. 2778][/us/usc/t22/s2778] note) shall continue to apply to satellites and related items that are subject to the Export Administration Regulations (15 CFR part 730 et seq.) as a result of the enactment of section 1261(a).
 
->     “(b) __Additional Rule.—__ 
+>     “(b)  __Additional Rule__  __.—__ 
 
 >     Nothing in this subtitle or any amendment made by this subtitle shall be construed as removing or limiting the authorities of the President under subsection (a) or (b) of section 1514 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 ([Public Law 105–261][/us/pl/105/261]; [112 Stat. 2175][/us/stat/112/2175]; [22 U.S.C. 2778][/us/usc/t22/s2778] note) with respect to defense articles and defense services that remain subject to the jurisdiction of the International Traffic in Arms Regulations.
 
@@ -583,7 +583,7 @@
 
 > “In this subtitle:
 
->     “(1) __Appropriate congressional committees.—__ 
+>     “(1)  __Appropriate congressional committees__  __.—__ 
 
 >     The term ‘appropriate congressional committees’ means—
 
@@ -591,7 +591,7 @@
 
 >         “(B) the Committee on Foreign Affairs, the Committee on Armed Services, and the Permanent Select Committee on Intelligence of the House of Representatives.
 
->     “(2) __State sponsor of terrorism.—__ 
+>     “(2)  __State sponsor of terrorism__  __.—__ 
 
 >     The term ‘state sponsor of terrorism’ means any country the government of which the Secretary of State has determined has repeatedly provided support for international terrorism pursuant to—
 
@@ -603,7 +603,7 @@
 
 >         “(D) any other provision of law.
 
->     “(3) __United states munitions list.—__ 
+>     “(3)  __United states munitions list__  __.—__ 
 
 >     The term ‘United States Munitions List’ means the list referred to in section 38(a)(1) of the Arms Export Control Act ([22 U.S.C. 2778(a)(1)][/us/usc/t22/s2778/a/1]).”
 
@@ -611,19 +611,19 @@
 
 [Pub. L. 111–266, title I, § 105][/us/pl/111/266/s105], Oct. 8, 2010, [124 Stat. 2800][/us/stat/124/2800], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     No amendment to an implementing arrangement concluded pursuant to a treaty referred to in section 38(j)(1)(C)(i) of the Arms Export Control Act, as added by this Act \[[22 U.S.C. 2778(j)(1)(C)(i)][/us/usc/t22/s2778/j/1/C/i]\], shall enter into effect for the United States unless the Congress adopts, and there is enacted, legislation approving the entry into effect of that amendment for the United States.
 
 >     “(b) __Covered Amendments.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The requirements specified in subsection (a) shall apply to any amendment other than an amendment that addresses an administrative or technical matter. The requirements in subsection (a) shall not apply to any amendment that solely addresses an administrative or technical matter.
 
->         “(2) __U.__ 
+>         “(2)  __U.S.-UK implementing arrangement__  __.—__ 
 
->         S.-UK implementing arrangement.—In the case of the Implementing Arrangement Pursuant to the Treaty Between the Government of the United States of America and the Government of the United Kingdom of Great Britain and Northern Ireland Concerning Defense Trade Cooperation, signed at Washington February 14, 2008, amendments to which the requirements specified in subsection (a) apply shall include—
+>         In the case of the Implementing Arrangement Pursuant to the Treaty Between the Government of the United States of America and the Government of the United Kingdom of Great Britain and Northern Ireland Concerning Defense Trade Cooperation, signed at Washington February 14, 2008, amendments to which the requirements specified in subsection (a) apply shall include—
 
 >             “(A) any amendment to section 2, paragraphs (1), (2), or (3) that modifies the criteria governing operations, programs, and projects to which the treaty applies;
 
@@ -643,9 +643,9 @@
 
 >             “(I) any amendment to section 11, paragraph (4)(b) that modifies conditions of entry to the United Kingdom community under the treaty.
 
->         “(3) __U.__ 
+>         “(3)  __U.S.-Australia implementing arrangement__  __.—__ 
 
->         S.-Australia implementing arrangement.—In the case of the Implementing Arrangement Pursuant to the Treaty Between the Government of the United States of America and the Government of the \[sic\] Australia Concerning Defense Trade Cooperation, signed at Washington March 14, 2008, amendments to which the requirements specified in subsection (a) apply shall include—
+>         In the case of the Implementing Arrangement Pursuant to the Treaty Between the Government of the United States of America and the Government of the \[sic\] Australia Concerning Defense Trade Cooperation, signed at Washington March 14, 2008, amendments to which the requirements specified in subsection (a) apply shall include—
 
 >             “(A) any amendment to section 2, paragraphs (1), (2), or (3) that modifies the criteria governing operations, programs, and projects to which the treaty applies;
 
@@ -665,7 +665,7 @@
 
 >             “(I) any amendment to section 11, paragraph (6) that modifies conditions of entry to the Australian community under the treaty.
 
->     “(c) __Congressional Notification for Other Amendments To Implementing Arrangements.—__ 
+>     “(c)  __Congressional Notification for Other Amendments To Implementing Arrangements__  __.—__ 
 
 >     Not later than 15 days before any amendment to an implementing arrangement to which subsection (a) does not apply shall take effect, the President shall provide to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report containing—
 
@@ -681,11 +681,11 @@
 
 [Pub. L. 107–228, div. B, title XIV, § 1403][/us/pl/107/228/s1403], Sept. 30, 2002, [116 Stat. 1453][/us/stat/116/1453], provided that:
 
->     “(a) __Objective.—__ 
+>     “(a)  __Objective__  __.—__ 
 
 >     The Secretary shall establish a secure, Internet-based system for the filing and review of applications for export of Munitions List items.
 
->     “(b) __Establishment of an Electronic System.—__ 
+>     “(b)  __Establishment of an Electronic System__  __.—__ 
 
 >     Of the amount made available pursuant to section 1402 of this Act \[[116 Stat. 1453][/us/stat/116/1453]\], $3,000,000 is authorized to be available to fully automate the Defense Trade Application System, and to ensure that the system—
 
@@ -705,7 +705,7 @@
 
 >             “(D) the Proliferation Information Network System of the Department of Energy.
 
->     “(c) __Munitions List Defined.—__ 
+>     “(c)  __Munitions List Defined__  __.—__ 
 
 >     In this section, the term ‘Munitions List’ means the United States Munitions List of defense articles and defense services controlled under section 38 of the Arms Export Control Act ([22 U.S.C. 2778][/us/usc/t22/s2778]).”
 
@@ -717,11 +717,11 @@
 
 >     “(a) __Licensing regime.—__ 
 
->         “(1) __Establishment.—__ 
+>         “(1)  __Establishment__  __.—__ 
 
 >         The Secretary of State shall establish a regulatory regime for the licensing for export of commercial satellites, satellite technologies, their components, and systems which shall include expedited approval, as appropriate, of the licensing for export by United States companies of commercial satellites, satellite technologies, their components, and systems, to NATO allies and major non-NATO allies (as used within the meaning of section 644(q) of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2403(q)][/us/usc/t22/s2403/q]\]).
 
->         “(2) __Requirements.—__ 
+>         “(2)  __Requirements__  __.—__ 
 
 >         For proposed exports to those nations which meet the requirements of paragraph (1), the regime should include expedited processing of requests for export authorizations that—
 
@@ -733,7 +733,7 @@
 
 >             “(D) are required to obtain launch and on-orbit insurance.
 
->         “(3) __Additional requirements.—__ 
+>         “(3)  __Additional requirements__  __.—__ 
 
 >         In establishing the regulatory regime under paragraph (1), the Secretary of State shall ensure that—
 
@@ -741,11 +741,11 @@
 
 >             “(B) such time is afforded as is necessary for the Department of Defense, the Department of State, and the United States intelligence community to conduct a review of any license.
 
->     “(b) __Financial and Personnel Resources.—__ 
+>     “(b)  __Financial and Personnel Resources__  __.—__ 
 
 >     Of the funds authorized to be appropriated in section 101(1)(A) \[[113 Stat. 1501][/us/stat/113/1501]A–410\], $9,000,000 is authorized to be appropriated for the Office of Defense Trade Controls of the Department of State for each of the fiscal years 2000 and 2001, to enable that office to carry out its responsibilities.
 
->     “(c) __Improvement and Assessment.—__ 
+>     “(c)  __Improvement and Assessment__  __.—__ 
 
 >     The Secretary of State should, not later than 6 months after the date of the enactment of this Act \[Nov. 29, 1999\], submit to the Congress a plan for—
 
@@ -759,11 +759,11 @@
 
 > “SEC. 1402. __ANNUAL REPORT ON TRANSFERS OF MILITARILY SENSITIVE TECHNOLOGY TO COUNTRIES AND ENTITIES OF CONCERN__ 
 
->     “(a) __Annual Report.—__ 
+>     “(a)  __Annual Report__  __.—__ 
 
 >     Not later than March 30 of each year beginning in the year 2000 and ending in the year 2007, the President shall transmit to Congress a report on transfers to countries and entities of concern during the preceding calendar year of the most significant categories of United States technologies and technical information with potential military applications.
 
->     “(b) __Contents of Report.—__ 
+>     “(b)  __Contents of Report__  __.—__ 
 
 >     The report required by subsection (a) shall include, at a minimum, the following:
 
@@ -781,19 +781,19 @@
 
 >         “(4) The status of the implementation or other disposition of recommendations included in reports of audits by Inspectors General that have been set forth in a previous annual report under this section pursuant to paragraph (3).
 
->     “(c) __Additional Requirement for First Report.—__ 
+>     “(c)  __Additional Requirement for First Report__  __.—__ 
 
 >     The first annual report required by subsection (a) shall include an assessment by the Inspectors General of the Departments of State, Defense, Commerce, and the Treasury and the Inspector General of the Central Intelligence Agency of the adequacy of current export controls and counterintelligence measures to protect against the acquisition by countries and entities of concern of United States technology and technical information referred to in subsection (a).
 
->     “(d) __Support of Other Agencies.—__ 
+>     “(d)  __Support of Other Agencies__  __.—__ 
 
 >     Upon the request of the officials responsible for preparing the assessments required by subsection (b), the heads of other departments and agencies shall make available to those officials all information necessary to carry out the requirements of this section.
 
->     “(e) __Classified and Unclassified Reports.—__ 
+>     “(e)  __Classified and Unclassified Reports__  __.—__ 
 
 >     Each report required by this section shall be submitted in classified form and unclassified form.
 
->     “(f) __Definition.—__ 
+>     “(f)  __Definition__  __.—__ 
 
 >     As used in this section, the term ‘countries and entities of concern’ means—
 
@@ -819,19 +819,19 @@
 
 >     “(a) __Office of Defense Trade Controls.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of State shall take the necessary steps to ensure that, in any fiscal year, adequate resources are allocated to the functions of the Office of Defense Trade Controls of the Department of State relating to the review and processing of export license applications so as to ensure that those functions are performed in a thorough and timely manner.
 
->         “(2) __Availability of existing appropriations.—__ 
+>         “(2)  __Availability of existing appropriations__  __.—__ 
 
 >         The Secretary of State shall take the necessary steps to ensure that those funds made available under the heading ‘Administration of Foreign Affairs, Diplomatic and Consular Programs’ in title IV of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1999, as contained in the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999 ([Public Law 105–277][/us/pl/105/277]) \[[112 Stat. 2681–92][/us/stat/112/2681-92]\] are made available, upon the enactment of this Act, to the Office of Defense Trade Controls of the Department of State to carry out the purposes of the Office.
 
->     “(b) __Defense Threat Reduction Agency.—__ 
+>     “(b)  __Defense Threat Reduction Agency__  __.—__ 
 
 >     The Secretary of Defense shall take the necessary steps to ensure that, in any fiscal year, adequate resources are allocated to the functions of the Defense Threat Reduction Agency of the Department of Defense relating to the review of export license applications so as to ensure that those functions are performed in a thorough and timely manner.
 
->     “(c) __Updating of State Department Report.—__ 
+>     “(c)  __Updating of State Department Report__  __.—__ 
 
 >     Not later than March 1, 2000, the Secretary of State, in consultation with the Secretary of Defense and the Secretary of Commerce, shall transmit to Congress a report updating the information reported to Congress under section 1513(d)(3) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 \[[Pub. L. 105–261][/us/pl/105/261]\] ([22 U.S.C. 2778][/us/usc/t22/s2778] note).
 
@@ -859,39 +859,39 @@
 
 > “SEC. 1405. __REPORTING OF TECHNOLOGY TRANSMITTED TO PEOPLE’S REPUBLIC OF CHINA AND OF FOREIGN LAUNCH SECURITY VIOLATIONS__ 
 
->     “(a) __Monitoring of Information.—__ 
+>     “(a)  __Monitoring of Information__  __.—__ 
 
 >     The Secretary of Defense shall require that space launch monitors of the Department of Defense assigned to monitor launches in the People’s Republic of China maintain records of all information authorized to be transmitted to the People’s Republic of China with regard to each space launch that the monitors are responsible for monitoring, including copies of any documents authorized for such transmission, and reports on launch-related activities.
 
->     “(b) __Transmission to Other Agencies.—__ 
+>     “(b)  __Transmission to Other Agencies__  __.—__ 
 
 >     The Secretary of Defense shall ensure that records under subsection (a) are transmitted on a current basis to appropriate elements of the Department of Defense and to the Department of State, the Department of Commerce, and the Central Intelligence Agency.
 
->     “(c) __Retention of Records.—__ 
+>     “(c)  __Retention of Records__  __.—__ 
 
 >     Records described in subsection (a) shall be retained for at least the period of the statute of limitations for violations of the Arms Export Control Act \[[22 U.S.C. 2751][/us/usc/t22/s2751] et seq.\].
 
->     “(d) __Guidelines.—__ 
+>     “(d)  __Guidelines__  __.—__ 
 
 >     The Secretary of Defense shall prescribe guidelines providing space launch monitors of the Department of Defense with the responsibility and the ability to report serious security violations, problems, or other issues at an overseas launch site directly to the headquarters office of the responsible Department of Defense component.
 
 > “SEC. 1408. __ENHANCED MULTILATERAL EXPORT CONTROLS__ 
 
->     “(a) __New International Controls.—__ 
+>     “(a)  __New International Controls__  __.—__ 
 
 >     The President shall seek to establish new enhanced international controls on technology transfers that threaten international peace and United States national security.
 
->     “(b) __Improved Sharing of Information.—__ 
+>     “(b)  __Improved Sharing of Information__  __.—__ 
 
 >     The President shall take appropriate actions to improve the sharing of information by nations that are major exporters of technology so that the United States can track movements of technology covered by the Wassenaar Arrangement and enforce technology controls and re-export requirements for such technology.
 
->     “(c) __Definition.—__ 
+>     “(c)  __Definition__  __.—__ 
 
 >     As used in this section, the term ‘Wassenaar Arrangement’ means the multilateral export control regime covering conventional armaments and sensitive dual-use goods and technologies that was agreed to by 33 co-founding countries in July 1996 and began operation in September 1996.
 
 > “SEC. 1409. __ENHANCEMENT OF ACTIVITIES OF DEFENSE THREAT REDUCTION AGENCY__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Oct. 5, 1999\], the Secretary of Defense shall prescribe regulations to—
 
@@ -933,7 +933,7 @@
 
 >         “(11) establish a counterintelligence program within the Agency as part of its satellite launch monitoring program.
 
->     “(b) __Annual Report on Implementation of Satellite Technology Safeguards.—__ 
+>     “(b)  __Annual Report on Implementation of Satellite Technology Safeguards__  __.—__ 
 
 >         (1)
 
@@ -955,11 +955,11 @@
 
 > “SEC. 1411. __ENHANCED INTELLIGENCE CONSULTATION ON SATELLITE LICENSE APPLICATIONS__ 
 
->     “(a) __Consultation During Review of Applications.—__ 
+>     “(a)  __Consultation During Review of Applications__  __.—__ 
 
 >     The Secretary of State and Secretary of Defense, as appropriate, shall consult with the Director of Central Intelligence during the review of any application for a license involving the overseas launch of a commercial satellite of United States origin. The purpose of the consultation is to assure that the launch of the satellite, if the license is approved, will meet the requirements necessary to protect the national security interests of the United States.
 
->     “(b) __Advisory Group.—__ 
+>     “(b)  __Advisory Group__  __.—__ 
 
 >         (1) The Director of Central Intelligence shall establish within the intelligence community an advisory group to provide information and analysis to Congress, and to appropriate departments and agencies of the Federal Government, on the national security implications of granting licenses involving the overseas launch of commercial satellites of United States origin.
 
@@ -981,13 +981,13 @@
 
 >             “(B) The first annual report under subparagraph (A) shall be submitted not later than one year after the date of the enactment of this Act \[Oct. 5, 1999\].
 
->     “(c) __Intelligence Community Defined.—__ 
+>     “(c)  __Intelligence Community Defined__  __.—__ 
 
 >     In this section, the term ‘intelligence community’ has the meaning given that term in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 401a(4)][/us/usc/t50/s401a/4]) \[now [50 U.S.C. 3003(4)][/us/usc/t50/s3003/4]\].
 
 > “SEC. 1412. __INVESTIGATIONS OF VIOLATIONS OF EXPORT CONTROLS BY UNITED STATES SATELLITE MANUFACTURERS__ 
 
->     “(a) __Notice to Congress of Investigations.—__ 
+>     “(a)  __Notice to Congress of Investigations__  __.—__ 
 
 >     The President shall promptly notify the appropriate committees of Congress whenever an investigation is undertaken by the Department of Justice of—
 
@@ -995,27 +995,27 @@
 
 >         “(2) an alleged violation of United States export control laws in connection with an item controlled under section 38 of the Arms Export Control Act ([22 U.S.C. 2778][/us/usc/t22/s2778]) that is likely to cause significant harm or damage to the national security interests of the United States.
 
->     “(b) __Notice to Congress of Certain Export Waivers.—__ 
+>     “(b)  __Notice to Congress of Certain Export Waivers__  __.—__ 
 
 >     The President shall promptly notify the appropriate committees of Congress whenever an export waiver pursuant to section 902 of the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991 \[[Pub. L. 101–246][/us/pl/101/246]\] ([22 U.S.C. 2151][/us/usc/t22/s2151] note) is granted on behalf of any United States person that is the subject of an investigation described in subsection (a). The notice shall include a justification for the waiver.
 
->     “(c) __Exception.—__ 
+>     “(c)  __Exception__  __.—__ 
 
 >     The requirements in subsections (a) and (b) shall not apply if the President determines that notification of the appropriate committees of Congress under such subsections would jeopardize an on-going criminal investigation. If the President makes such a determination, the President shall provide written notification of such determination to the Speaker of the House of Representatives, the majority leader of the Senate, the minority leader of the House of Representatives, and the minority leader of the Senate. The notification shall include a justification for the determination.
 
->     “(d) __Identification of Persons Subject to Investigation.—__ 
+>     “(d)  __Identification of Persons Subject to Investigation__  __.—__ 
 
 >     The Secretary of State and the Attorney General shall develop appropriate mechanisms to identify, for the purposes of processing export licenses for commercial satellites, persons who are the subject of an investigation described in subsection (a).
 
->     “(e) __Protection of Classified and Other Sensitive Information.—__ 
+>     “(e)  __Protection of Classified and Other Sensitive Information__  __.—__ 
 
 >     The appropriate committees of Congress shall ensure that appropriate procedures are in place to protect from unauthorized disclosure classified information, information relating to intelligence sources and methods, and sensitive law enforcement information that is furnished to those committees pursuant to this section.
 
->     “(f) __Statutory Construction.—__ 
+>     “(f)  __Statutory Construction__  __.—__ 
 
 >     Nothing in this section shall be construed to modify or supersede any other requirement to report information on intelligence activities to Congress, including the requirement under section 501 of the National Security Act of 1947 ([50 U.S.C. 413][/us/usc/t50/s413]) \[now [50 U.S.C. 3091][/us/usc/t50/s3091]\].
 
->     “(g) __Definitions.—__ 
+>     “(g)  __Definitions__  __.—__ 
 
 >     As used in this section:
 
@@ -1059,7 +1059,7 @@
 
 > “SEC. 1512. __CERTIFICATION OF EXPORTS OF MISSILE EQUIPMENT OR TECHNOLOGY TO CHINA.__ 
 
->     “(a) __Certification.—__ 
+>     “(a)  __Certification__  __.—__ 
 
 >     The President shall certify to the Congress at least 15 days in advance of any export to the People’s Republic of China of missile equipment or technology (as defined in section 74 of the Arms Export Control Act ([22 U.S.C. 2797c][/us/usc/t22/s2797c])) that—
 
@@ -1067,7 +1067,7 @@
 
 >         “(2) the missile equipment or technology, including any indirect technical benefit that could be derived from such export, will not measurably improve the missile or space launch capabilities of the People’s Republic of China.
 
->     “(b) __Exception.—__ 
+>     “(b)  __Exception__  __.—__ 
 
 >     The certification requirement contained in subsection (a) shall not apply to the export of inertial reference units and components in manned civilian aircraft or supplied as spare or replacement parts for such aircraft.
 
@@ -1075,15 +1075,15 @@
 
 >     “\[(a) Repealed. [Pub. L. 112–239, div. A, title XII, § 1261(a)(1)][/us/pl/112/239/s1261/a/1], Jan. 2, 2013, [126 Stat. 2018][/us/stat/126/2018].\]
 
->     “(b) __Defense Trade Controls Registration Fees.—__ 
+>     “(b)  __Defense Trade Controls Registration Fees__  __.—__ 
 
 >     \[Amended [section 2717 of this title][/us/usc/t22/s2717].\]
 
->     “(c) __Effective Date.—__ 
+>     “(c)  __Effective Date__  __.—__ 
 
 >     The amendments made by subsection (b) \[amending [section 2717 of this title][/us/usc/t22/s2717]\] shall be effective as of October 1, 1998.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     Not later than January 1, 1999, the Secretary of State, in consultation with the Secretary of Defense and the Secretary of Commerce, shall submit to Congress a report containing—
 
@@ -1097,21 +1097,21 @@
 
 > “SEC. 1514. __NATIONAL SECURITY CONTROLS ON SATELLITE EXPORT LICENSING.__ 
 
->     “(a) __Actions by the President.—__ 
+>     “(a)  __Actions by the President__  __.—__ 
 
 >     Notwithstanding any other provision of law, the President shall take such actions as are necessary to implement the following requirements for improving national security controls in the export licensing of satellites and related items:
 
->         “(1) __Mandatory technology control plans.—__ 
+>         “(1)  __Mandatory technology control plans__  __.—__ 
 
 >         All export licenses shall require a technology transfer control plan approved by the Secretary of Defense and an encryption technology transfer control plan approved by the Director of the National Security Agency.
 
 >         “(2) __Mandatory monitors and reimbursement.—__ 
 
->             “(A) __Monitoring of proposed foreign launch of satellites.—__ 
+>             “(A)  __Monitoring of proposed foreign launch of satellites__  __.—__ 
 
 >             In any case in which a license is approved for the export of a satellite or related items for launch in a foreign country, the Secretary of Defense shall monitor all aspects of the launch in order to ensure that no unauthorized transfer of technology occurs, including technical assistance and technical data. The costs of such monitoring services shall be fully reimbursed to the Department of Defense by the person or entity receiving such services. All reimbursements received under this subparagraph shall be credited to current appropriations available for the payment of the costs incurred in providing such services.
 
->             “(B) __Contents of monitoring.—__ 
+>             “(B)  __Contents of monitoring__  __.—__ 
 
 >             The monitoring under subparagraph (A) shall cover, but not be limited to—
 
@@ -1123,7 +1123,7 @@
 
 >                 “(iv) all other aspects of the launch.
 
->         “(3) __Mandatory licenses for crash-investigations.—__ 
+>         “(3)  __Mandatory licenses for crash-investigations__  __.—__ 
 
 >         In the event of the failure of a launch from a foreign country of a satellite of United States origin—
 
@@ -1133,41 +1133,41 @@
 
 >             “(C) the Secretary of Defense shall establish and implement a technology transfer control plan for the conduct of the investigation to prevent the transfer of information that could be used by the foreign country to improve its missile or space launch capabilities.
 
->         “(4) __Mandatory notification and certification.—__ 
+>         “(4)  __Mandatory notification and certification__  __.—__ 
 
 >         All technology transfer control plans for satellites or related items shall require any United States person or entity involved in the export of a satellite of United States origin or related items to notify the Department of Defense in advance of all meetings and interactions with any foreign person or entity providing launch services and require the United States person or entity to certify after the launch that it has complied with this notification requirement.
 
->         “(5) __Mandatory intelligence community review.—__ 
+>         “(5)  __Mandatory intelligence community review__  __.—__ 
 
 >         The Secretary of Commerce and the Secretary of State shall provide to the Secretary of Defense and the Director of Central Intelligence copies of all export license applications and technical assistance agreements submitted for approval in connection with launches in foreign countries of satellites to verify the legitimacy of the stated end-user or end-users.
 
->         “(6) __Mandatory sharing of approved licenses and agreements.—__ 
+>         “(6)  __Mandatory sharing of approved licenses and agreements__  __.—__ 
 
 >         The Secretary of State shall provide copies of all approved export licenses and technical assistance agreements associated with launches in foreign countries of satellites to the Secretaries of Defense and Energy, the Director of Central Intelligence, and the Director of the Arms Control and Disarmament Agency.
 
->         “(7) __Mandatory notification to congress on licenses.—__ 
+>         “(7)  __Mandatory notification to congress on licenses__  __.—__ 
 
 >         Upon issuing a license for the export of a satellite or related items for launch in a foreign country, the head of the department or agency issuing the license shall so notify Congress.
 
->         “(8) __Mandatory reporting on monitoring activities.—__ 
+>         “(8)  __Mandatory reporting on monitoring activities__  __.—__ 
 
 >         The Secretary of Defense shall provide to Congress an annual report on the monitoring of all launches in foreign countries of satellites of United States origin.
 
->         “(9) __Establishing safeguards program.—__ 
+>         “(9)  __Establishing safeguards program__  __.—__ 
 
 >         The Secretary of Defense shall establish a program for recruiting, training, and maintaining a staff dedicated to monitoring launches in foreign countries of satellites and related items of United States origin.
 
->     “(b) __Exception.—__ 
+>     “(b)  __Exception__  __.—__ 
 
 >     This section shall not apply to the export of a satellite or related items for launch in, or by nationals of, a country that is a member of the North Atlantic Treaty Organization or that is a major non-NATO ally of the United States.
 
->     “(c) __Effective Date.—__ 
+>     “(c)  __Effective Date__  __.—__ 
 
 >     The President shall take the actions required by subsection (a) not later than 45 days after the date of the enactment of this Act \[Oct. 17, 1998\].
 
 > “SEC. 1515. __REPORT ON EXPORT OF SATELLITES FOR LAUNCH BY PEOPLE’S REPUBLIC OF CHINA.__ 
 
->     “(a) __Requirement for Report.—__ 
+>     “(a)  __Requirement for Report__  __.—__ 
 
 >     Each report to Congress submitted pursuant to subsection (b) of section 902 of the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991 ([22 U.S.C. 2151][/us/usc/t22/s2151] note; [Public Law 101–246][/us/pl/101/246]) to waive the restrictions contained in subsection (a) of that section on the export to the People’s Republic of China of any satellite of United States origin or related items shall be accompanied by a detailed justification setting forth the following:
 
@@ -1201,7 +1201,7 @@
 
 >         “(13) The impact of the proposed export on the willingness of the People’s Republic of China to reduce formal and informal trade barriers and tariffs, duties, and other fees on United States-made goods and services entering that country.
 
->     “(b) __Militarily Sensitive Characteristics Defined.—__ 
+>     “(b)  __Militarily Sensitive Characteristics Defined__  __.—__ 
 
 >     In this section, the term ‘militarily sensitive characteristics’ includes antijamming capability, antennas, crosslinks, baseband processing, encryption devices, radiation-hardened devices, propulsion systems, pointing accuracy, kick motors, and other such characteristics as are specified by the Secretary of Defense.
 
@@ -1239,7 +1239,7 @@
 
 [Pub. L. 102–484, div. A, title XIII, § 1365][/us/pl/102/484/s1365], Oct. 23, 1992, [106 Stat. 2561][/us/stat/106/2561], as amended by [Pub. L. 103–160, div. A, title XI, § 1182(c)(3)][/us/pl/103/160/s1182/c/3], title XIV, § 1423(c), Nov. 30, 1993, [107 Stat. 1772][/us/stat/107/1772], 1832; [Pub. L. 104–107, title V, § 558][/us/pl/104/107/s558], Feb. 12, 1996, [110 Stat. 743][/us/stat/110/743]; [Pub. L. 104–208, div. A, title I, § 101(c)][/us/pl/104/208/s101/c] \[title V, § 556\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–161; [Pub. L. 106–113, div. B, § 1000(a)(2)][/us/pl/106/113/s1000/a/2] \[title V, § 553\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–99; [Pub. L. 107–115, title V, § 548][/us/pl/107/115/s548], Jan. 10, 2002, [115 Stat. 2156][/us/stat/115/2156]; [Pub. L. 110–161, div. J, title VI, § 634(j)][/us/pl/110/161/s634/j], Dec. 26, 2007, [121 Stat. 2329][/us/stat/121/2329], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress makes the following findings:
 
@@ -1257,13 +1257,13 @@
 
 >         “(7) The United States should set an example for other countries in such negotiations, by implementing a one-year moratorium on the sale, transfer or export of anti-personnel landmines.
 
->     “(b) __Statement of Policy.—__ 
+>     “(b)  __Statement of Policy__  __.—__ 
 
 >         (1) It shall be the policy of the United States to seek verifiable international agreements prohibiting the sale, transfer, or export, and further limiting the use, production, possession, and deployment of anti-personnel landmines.
 
 >         “(2) It is the sense of the Congress that the President should actively seek to negotiate under United Nations auspices or other auspices an international agreement, or a modification of the Convention, to prohibit the sale, transfer, or export of anti-personnel landmines.
 
->     “(c) __Moratorium on Transfers of Anti-Personnel Landmines Abroad.—__ 
+>     “(c)  __Moratorium on Transfers of Anti-Personnel Landmines Abroad__  __.—__ 
 
 >     During the 22 year period beginning on October 23, 1992—
 
@@ -1271,7 +1271,7 @@
 
 >         “(2) no assistance may be provided under the Foreign Assistance Act of 1961 \[[22 U.S.C. 2151][/us/usc/t22/s2151] et seq.\], with respect to the provision of any anti-personnel landmine.
 
->     “(d) __Definition.—__ 
+>     “(d)  __Definition__  __.—__ 
 
 >     For purposes of this section, the term ‘anti-personnel landmine’ means—
 
@@ -1327,15 +1327,15 @@
 
 >     “(a) __Implementation of the Regime.—__ 
 
->         “(1) __Continuing negotiations.—__ 
+>         “(1)  __Continuing negotiations__  __.—__ 
 
 >         The President shall continue negotiations among the 5 permanent members of the United Nations Security Council and commit the United States to a multilateral arms transfer and control regime for the Middle East and Persian Gulf region.
 
->         “(2) __Proposing a temporary moratorium during negotiations.—__ 
+>         “(2)  __Proposing a temporary moratorium during negotiations__  __.—__ 
 
 >         In the context of these negotiations, the President should propose to the 5 permanent members of the United Nations Security Council a temporary moratorium on the sale and transfer of major military equipment to nations in the Middle East and Persian Gulf region until such time as the 5 permanent members agree to a multilateral arms transfer and control regime.
 
->     “(b) __Purpose of the Regime.—__ 
+>     “(b)  __Purpose of the Regime__  __.—__ 
 
 >     The purpose of the multilateral arms transfer and control regime should be—
 
@@ -1359,7 +1359,7 @@
 
 >     “(c) __Achieving the Purposes of the Regime.—__ 
 
->         “(1) __Controlling proliferation of conventional weapons.—__ 
+>         “(1)  __Controlling proliferation of conventional weapons__  __.—__ 
 
 >         In order to achieve the purposes described in subsection (b)(1), the United States should pursue the development of a multilateral arms transfer and control regime which includes—
 
@@ -1369,7 +1369,7 @@
 
 >             “(C) other strict controls on the proliferation of conventional major military equipment to the Middle East and Persian Gulf region.
 
->         “(2) __Halting proliferation of unconventional weapons.—__ 
+>         “(2)  __Halting proliferation of unconventional weapons__  __.—__ 
 
 >         In order to achieve the purposes described in subsections (b)(2) and (3), the United States should build on existing and future agreements among supplier nations by pursuing the development of a multilateral arms transfer and control regime which includes—
 
@@ -1383,7 +1383,7 @@
 
 >             “(E) other appropriate controls that serve to halt the flow of unconditional \[unconventional\] weapons to the Middle East and Persian Gulf region.
 
->         “(3) __Promotion of regional arms control agreements.—__ 
+>         “(3)  __Promotion of regional arms control agreements__  __.—__ 
 
 >         In order to achieve the purposes described in subsections (b)(4) and (5), the United States should pursue with nations in the Middle East and Persian Gulf region—
 
@@ -1393,7 +1393,7 @@
 
 >             “(C) other useful arms control measures.
 
->     “(d) __Major Military Equipment.—__ 
+>     “(d)  __Major Military Equipment__  __.—__ 
 
 >     As used in this title, the term ‘major military equipment’ means—
 
@@ -1421,7 +1421,7 @@
 
 > “SEC. 404. __REPORTS TO THE CONGRESS.__ 
 
->     “(a) __Quarterly Reports.—__ 
+>     “(a)  __Quarterly Reports__  __.—__ 
 
 >     Beginning on January 15, 1992, and quarterly thereafter through October 15, 1993, the President shall submit to the relevant congressional committees a report—
 
@@ -1429,7 +1429,7 @@
 
 >         “(2) describing efforts by the United States and progress made to induce other countries to curtail significantly the volume of their arms sales to the Middle East and Persian Gulf region, and if such efforts were not made, the justification for not making such efforts.
 
->     “(b) __Initial Report on Transfers and Regional Military Balance.—__ 
+>     “(b)  __Initial Report on Transfers and Regional Military Balance__  __.—__ 
 
 >     Not later than 60 days after the date of enactment of the International Cooperation Act of 1991 or the Foreign Relations Authorization Act, Fiscal Years 1992 and 1993, whichever is enacted first, the President shall submit to the relevant congressional committee a report—
 
@@ -1443,7 +1443,7 @@
 
 >         “(5) identifying supplier nations that have refused to participate in such a regime or that have engaged in conduct that violates or undermines such a regime.
 
->     “(c) __Annual Reports on Transfers and Regional Military Balance.—__ 
+>     “(c)  __Annual Reports on Transfers and Regional Military Balance__  __.—__ 
 
 >     Beginning July 15, 1992, and every 12 months thereafter, the President shall submit to the relevant congressional committees a report—
 

@@ -81,15 +81,15 @@
 
 [Pub. L. 101–623, § 13][/us/pl/101/623/s13], Nov. 21, 1990, [104 Stat. 3356][/us/stat/104/3356], provided that:
 
->     “(a) __Instruction Program.—__ 
+>     “(a)  __Instruction Program__  __.—__ 
 
 >     Not less than 90 days after the date of enactment of this Act \[Nov. 21, 1990\], the President shall implement, under chapter 8 of part I of the Foreign Assistance Act of 1961 ([22 U.S.C. 2291][/us/usc/t22/s2291] and following; relating to international narcotics control assistance), a detailed program of instruction to train host country pilots, and other flight crew members, to fly host country aircraft involved in counternarcotics efforts in Andean countries. Such program shall be designed to eliminate direct participation of the United States Government (including participation through the use of either direct hire or contract personnel) in the operation of such aircraft.
 
->     “(b) __Requirement for Replacement of United States Government Pilots by Host Country Pilots.—__ 
+>     “(b)  __Requirement for Replacement of United States Government Pilots by Host Country Pilots__  __.—__ 
 
 >     The President shall ensure that, within 18 months after the date of enactment of this Act \[Nov. 21, 1990\], flight crews composed of host country personnel replace all United States Government pilots and other flight crew members (including both direct hire or contract personnel) for host country aircraft involved in airborne counternarcotics operations in the Andean countries.
 
->     “(c) __Aircraft Subject to Requirements.—__ 
+>     “(c)  __Aircraft Subject to Requirements__  __.—__ 
 
 >     As used in this section, the term ‘host country aircraft’ means any aircraft made available to an Andean country by the United States Government under chapter 8 of part I of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2291][/us/usc/t22/s2291] et seq.\], or any other provision of law, for use by that country for narcotics-related purposes.”
 

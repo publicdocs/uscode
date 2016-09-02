@@ -71,7 +71,7 @@
 
 [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXVIII, § 2809(b), (c), Oct. 21, 1998, [112 Stat. 2681–850][/us/stat/112/2681-850], provided that:
 
->     “(b) __Opposition to Certain Programs or Projects.—__ 
+>     “(b)  __Opposition to Certain Programs or Projects__  __.—__ 
 
 >     The Secretary of State shall direct the United States representative to the International Atomic Energy Agency to oppose the following:
 
@@ -81,11 +81,11 @@
 
 >     “(c) __Reporting Requirements.—__ 
 
->         “(1) __Request for iaea reports.—__ 
+>         “(1)  __Request for iaea reports__  __.—__ 
 
 >         The Secretary of State shall direct the United States representative to the International Atomic Energy Agency to request the Director-General of the Agency to submit to the United States all reports prepared with respect to all programs or projects of the Agency that are of concern to the United States, including the programs or projects described in subsection (b).
 
->         “(2) __Annual reports to the congress.—__ 
+>         “(2)  __Annual reports to the congress__  __.—__ 
 
 >         Not later than 180 days after the date of the enactment of this Act \[Oct. 21, 1998\], and on an annual basis thereafter, the Secretary of State, in consultation with the United States representative to the International Atomic Energy Agency, shall prepare and submit to the Congress a report containing a description of all programs or projects of the Agency in each country described in section 307(a) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2227(a)][/us/usc/t22/s2227/a]).”
 

@@ -149,15 +149,15 @@
 
 >     “(a) __Assessment of Risk Required.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than two days after the President transmits a certification to Congress pursuant to section 27(f) of the Arms Export Control Act ([22 U.S.C. 2767(f)][/us/usc/t22/s2767/f]) regarding a proposed cooperative project agreement that is expected to result in the award of a Department of Defense contract for the engineering and manufacturing development of a major weapon system, the Secretary of Defense shall submit to the Chairmen of the Committees on Armed Services of the Senate and the House of Representatives a report setting forth a risk assessment of the proposed cooperative project.
 
->         “(2) __Preparation.—__ 
+>         “(2)  __Preparation__  __.—__ 
 
 >         The Secretary shall prepare each report required by paragraph (1) in consultation with the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Assistant Secretary of Defense for Research and Engineering, and the Director of Cost Assessment and Program Evaluation of the Department of Defense.
 
->     “(b) __Elements.—__ 
+>     “(b)  __Elements__  __.—__ 
 
 >     The risk assessment on a cooperative project under subsection (a) shall include the following:
 
@@ -169,7 +169,7 @@
 
 >         “(4) A listing of which, if any, requirements associated with the oversight and management of a major defense acquisition program (as prescribed under Department of Defense Instruction 5000.02 or related authorities) will be waived, or in any way modified, in carrying out the development contract to be entered into under \[subsection\] (a)(1), and a full explanation why such requirements need to be waived or modified.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     In this section:
 

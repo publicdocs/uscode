@@ -53,7 +53,7 @@
 
         (5) __Investigations.—__ 
 
-            (A) __Conduct of investigations.—__ 
+            (A)  __Conduct of investigations__  __.—__ 
 
             In conducting investigations of potential violations of Federal criminal law or Federal regulations, the Inspector General shall—
 
@@ -61,7 +61,7 @@
 
                 (ii) make every reasonable effort to permit each subject of an investigation an opportunity to provide exculpatory information.
 
-            (B) __Final reports of investigations.—__ 
+            (B)  __Final reports of investigations__  __.—__ 
 
             In order to ensure that final reports of investigations are thorough and accurate, the Inspector General shall—
 

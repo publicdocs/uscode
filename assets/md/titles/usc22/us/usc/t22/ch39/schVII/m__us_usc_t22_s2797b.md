@@ -181,21 +181,21 @@
 
 >     “(a) __Annual Certification.—__ 
 
->         “(1) __Requirement.—__ 
+>         “(1)  __Requirement__  __.—__ 
 
 >         The President shall submit each year to the appropriate committees of Congress \[Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives\], with respect to each Russian person described in paragraph (2), a certification that the reports required to be submitted to Congress during the preceding calendar year under section 2 of the Iran and Syria Nonproliferation Act ([Public Law 106–178][/us/pl/106/178]) \[now Iran, North Korea, and Syria Nonproliferation Act\] \[[50 U.S.C. 1701][/us/usc/t50/s1701] note\] do not identify that person on account of a transfer to Iran of goods, services, or technology described in section 2(a)(1)(B) of such Act.
 
->         “(2) __Applicability.—__ 
+>         “(2)  __Applicability__  __.—__ 
 
 >         The certification requirement under paragraph (1) applies with respect to each Russian person that, as of the date of the certification, is a party to an agreement relating to commercial cooperation on MTCR equipment or technology with a United States person pursuant to an arms export license that was issued at any time since January 1, 2000.
 
->         “(3) __Exemption.—__ 
+>         “(3)  __Exemption__  __.—__ 
 
 >         No activity or transfer which specifically has been the subject of a Presidential determination pursuant to section 5(a)(1), (2), or (3) of the Iran and Syria Nonproliferation Act ([Public Law 106–178][/us/pl/106/178]) \[now Iran, North Korea, and Syria Nonproliferation Act\] \[[50 U.S.C. 1701][/us/usc/t50/s1701] note\] shall cause a Russian person to be considered as having been identified in the reports submitted during the preceding calendar year under section 2 of that Act for the purposes of the certification required under paragraph (1).
 
 >         “(4) __Commencement and termination of requirement.—__ 
 
->             “(A) __Times for submission.—__ 
+>             “(A)  __Times for submission__  __.—__ 
 
 >             The President shall submit—
 
@@ -203,35 +203,35 @@
 
 >                 “(ii) each annual certification thereafter on the anniversary of the first submission.
 
->             “(B) __Termination of requirement.—__ 
+>             “(B)  __Termination of requirement__  __.—__ 
 
 >             No certification is required under paragraph (1) after termination of cooperation under the specific license, or 5 years after the date on which the first certification is submitted, whichever is the earlier date.
 
->     “(b) __Termination of Existing Licenses.—__ 
+>     “(b)  __Termination of Existing Licenses__  __.—__ 
 
 >     If, at any time after the issuance of a license under section 36(c) of the Arms Export Control Act \[[22 U.S.C. 2776(c)][/us/usc/t22/s2776/c]\] relating to the use, development, or co-production of commercial rocket engine technology with a foreign person, the President determines that the foreign person has engaged in any action described in section 73(a)(1) of the Arms Export Control Act ([22 U.S.C. 2797b(a)(1)][/us/usc/t22/s2797b/a/1]) since the date the license was issued, the President may terminate the license.
 
->     “(c) __Report on Export Licensing of MTCR Items Under $50,000,000.—__ 
+>     “(c)  __Report on Export Licensing of MTCR Items Under__  __$50,000,000.—__ 
 
 >     \[Amended [section 2797 of this title][/us/usc/t22/s2797].\]
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Foreign person.—__ 
+>         “(1)  __Foreign person__  __.—__ 
 
 >         The term ‘foreign person’ has the meaning given the term in section 74(7) of the Arms Export Control Act ([22 U.S.C. 2797c(7)][/us/usc/t22/s2797c/7]).
 
->         “(2) __MTCR equipment or technology.—__ 
+>         “(2) __MTCR__  __equipment or technology__  __.—__ 
 
 >         The term ‘MTCR equipment or technology’ has the meaning given the term in section 74(5) of the Arms Export Control Act ([22 U.S.C. 2797c(5)][/us/usc/t22/s2797c/5]).
 
->         “(3) __Person.—__ 
+>         “(3)  __Person__  __.—__ 
 
 >         The term ‘person’ has the meaning given the term in section 74(8) of the Arms Export Control Act ([22 U.S.C. 2797c(8)][/us/usc/t22/s2797c/8]).
 
->         “(4) __United states person.—__ 
+>         “(4)  __United states person__  __.—__ 
 
 >         The term ‘United States person’ has the meaning given the term in section 74(6) of the Arms Export Control Act ([22 U.S.C. 2797c(6)][/us/usc/t22/s2797c/6]).”
 

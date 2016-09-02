@@ -69,7 +69,7 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title VII, § 704\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–460, provided that:
 
->     “(a) __Reports Required.—__ 
+>     “(a)  __Reports Required__  __.—__ 
 
 >     Not later than 60 days after the date of enactment of this Act \[Nov. 29, 1999\], and every 6 months thereafter for fiscal years 2000 and 2001, the Secretary of State shall submit to Congress a report in a classified and unclassified manner on the status of efforts by the United States Government to support—
 
@@ -77,7 +77,7 @@
 
 >         “(2) the appropriate level of participation by Taiwan in international organizations that may require statehood as a prerequisite to full membership.
 
->     “(b) __Report Elements.—__ 
+>     “(b)  __Report Elements__  __.—__ 
 
 >     Each report under subsection (a) shall—
 

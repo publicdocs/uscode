@@ -177,33 +177,33 @@
 
 > “SEC. 5. __ASSISTANCE TO PROVIDE SAFE WATER AND SANITATION.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     \[Enacted this section.\]
 
->     “(b) __Conforming Amendment.—__ 
+>     “(b)  __Conforming Amendment__  __.—__ 
 
 >     \[Amended [section 1704 of Title 7][/us/usc/t7/s1704], Agriculture.\]
 
 > “SEC. 6. __SAFE WATER AND SANITATION STRATEGY.__ 
 
->     “(a) __Strategy.—__ 
+>     “(a)  __Strategy__  __.—__ 
 
 >     The President, acting through the Secretary of State, shall develop a strategy to further the United States foreign assistance objective to provide affordable and equitable access to safe water and sanitation in developing countries, as described in section 135 of the Foreign Assistance Act of 1961 \[this section\], as added by section 5(a) of this Act.
 
->     “(b) __Consultation.—__ 
+>     “(b)  __Consultation__  __.—__ 
 
 >     The strategy required by subsection (a) shall be developed in consultation with the Administrator of the United States Agency for International Development, the heads of other appropriate Federal departments and agencies, international organizations, international financial institutions, recipient governments, United States and international nongovernmental organizations, indigenous civil society, and other appropriate entities.
 
->     “(c) __Implementation.—__ 
+>     “(c)  __Implementation__  __.—__ 
 
 >     The Secretary of State, acting through the Administrator of the United States Agency for International Development, shall implement the strategy required by subsection (a). The strategy may also be implemented in part by other Federal departments and agencies, as appropriate.
 
->     “(d) __Consistent With Safe Water and Sanitation Policy.—__ 
+>     “(d)  __Consistent With Safe Water and Sanitation Policy__  __.—__ 
 
 >     The strategy required by subsection (a) shall be consistent with the policy stated in section 3 of this Act.
 
->     “(e) __Content.—__ 
+>     “(e)  __Content__  __.—__ 
 
 >     The strategy required by subsection (a) shall include—
 
@@ -219,7 +219,7 @@
 
 >         “(6) an assessment of the commitment of governments of countries that receive assistance under section 135 of the Foreign Assistance Act of 1961, as added by section 5(a) of this Act, to policies or policy reforms that support affordable and equitable access by the people of such countries to safe water and sanitation.
 
->     “(f) __Designation of High Priority Countries.—__ 
+>     “(f)  __Designation of High Priority Countries__  __.—__ 
 
 >     The strategy required by subsection (a) shall further include the designation of high priority countries for assistance under section 135 of the Foreign Assistance Act of 1961, as added by section 5(a) of this Act. This designation shall be made on the basis of—
 
@@ -229,21 +229,21 @@
 
 >     “(g) __Reports.—__ 
 
->         “(1) __Initial report.—__ 
+>         “(1)  __Initial report__  __.—__ 
 
 >         Not later than 180 days after the date of the enactment of this Act \[Dec. 1, 2005\], the Secretary of State shall submit to the appropriate congressional committees a report that describes the strategy required by subsection (a).
 
 >         “(2) __Subsequent reports.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Not less than once every year after the submission of the initial report under paragraph (1) until 2015, the Secretary of State shall submit to the appropriate congressional committees a report on the status of the implementation of the strategy, progress made in achieving the objective described in subsection (a), and any changes to the strategy since the date of the submission of the last report.
 
->             “(B) __Additional information.—__ 
+>             “(B)  __Additional information__  __.—__ 
 
 >             Such reports shall include information on the amount of funds expended in each country or program, disaggregated by purpose of assistance, including information on capital investments, and the source of such funds by account.
 
->         “(3) __Definition.—__ 
+>         “(3)  __Definition__  __.—__ 
 
 >         In this subsection, the term ‘appropriate congressional committees’ means—
 
@@ -269,25 +269,25 @@
 
 > “SEC. 10. __REPORT REGARDING WATER FOR PEACE AND SECURITY.__ 
 
->     “(a) __Sense of Congress.—__ 
+>     “(a)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of Congress that United States programs to support and encourage efforts around the world to develop river basin, aquifer, and other watershed-wide mechanisms for governance and cooperation are critical components of long-term United States national security and should be expanded.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     The Secretary of State, in consultation with the Administrator of the United States Agency for International Development, shall submit to the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate a report on efforts that the United States is making to support and promote programs that develop river basin, aquifer, and other watershed-wide mechanisms for governance and cooperation.
 
 > “SEC. 11. __AUTHORIZATION OF APPROPRIATIONS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     There are authorized to be appropriated for fiscal year 2006 and each subsequent fiscal year such sums as may be necessary to carry out this Act and the amendments made by this Act.
 
->     “(b) __Other Amounts.—__ 
+>     “(b)  __Other Amounts__  __.—__ 
 
 >     Amounts appropriated pursuant to the authorization of appropriations in subsection (a) shall be in addition to the amounts otherwise available to carry out this Act and the amendments made by this Act.
 
->     “(c) __Availability.—__ 
+>     “(c)  __Availability__  __.—__ 
 
 >     Amounts appropriated pursuant to the authorization of appropriations under subsection (a) are authorized to remain available until expended.”
 

@@ -63,7 +63,7 @@
 
 [Pub. L. 107–314, div. A, title XII, § 1207][/us/pl/107/314/s1207], Dec. 2, 2002, [116 Stat. 2666][/us/stat/116/2666], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of State shall—
 
@@ -75,15 +75,15 @@
 
 >         “(4) ensure that all activities conducted under the Agreement comply with applicable laws and regulations concerning the transfer of militarily sensitive technologies and dual-use technologies.
 
->     “(b) __Responsibilities of the Office of Science and Technology Cooperation.—__ 
+>     “(b)  __Responsibilities of the Office of Science and Technology Cooperation__  __.—__ 
 
 >     Except as otherwise provided by the Secretary of State, the functions of the Secretary under this section shall be carried out through the Director of the Office of Science and Technology Cooperation of the Department of State.
 
->     “(c) __Agreement Defined.—__ 
+>     “(c)  __Agreement Defined__  __.—__ 
 
 >     For purposes of this section, the term ‘Agreement’ means the agreement between the United States and the People’s Republic of China known as the ‘Agreement between the Government of the United States of America and the Government of the People’s Republic of China on Cooperation in Science and Technology’, signed in Washington on January 31, 1979, and its protocols.
 
->     “(d) __Biennial Report to Congress.—__ 
+>     “(d)  __Biennial Report to Congress__  __.—__ 
 
 >         (1) Not later than April 1 of each even-numbered year, the Secretary of State shall submit to Congress a report on the implementation of the Agreement and on activities under the Agreement. Each such report shall be submitted in both classified and unclassified form, as necessary.
 
@@ -113,7 +113,7 @@
 
 >         “(3) The Secretary of State shall prepare each report under this subsection in consultation with the Secretary of Defense, the Secretary of Energy, the Director of Central Intelligence, the Director of the Federal Bureau of Investigation, and the Director of the National Science Foundation.
 
->     “(e) __Interagency Working Group.—__ 
+>     “(e)  __Interagency Working Group__  __.—__ 
 
 >     The President shall establish an interagency working group to oversee the implementation of the Agreement by departments and agencies of the United States. The working group shall consist of representatives of such departments, agencies, and offices of the executive branch as the President considers appropriate. The working group shall perform the following functions:
 
@@ -143,15 +143,15 @@
 
 >     “(a) __Policy.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The President and the Secretary should encourage the Government of the People’s Republic of China to enter into a dialogue with the Dalai Lama or his representatives leading to a negotiated agreement on Tibet.
 
->         “(2) __Compliance.—__ 
+>         “(2)  __Compliance__  __.—__ 
 
 >         After such an agreement is reached, the President and the Secretary should work to ensure compliance with the agreement.
 
->     “(b) __Periodic Reports.—__ 
+>     “(b)  __Periodic Reports__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Sept. 30, 2002\], and every 12 months thereafter, the President shall transmit to the appropriate congressional committees a report on—
 

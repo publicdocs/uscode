@@ -155,7 +155,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [Pub. L. 99–83, title III, § 311][/us/pl/99/83/s311], Aug. 8, 1985, [99 Stat. 216][/us/stat/99/216], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Administrator of the Agency for International Development shall undertake a comprehensive study of additional ways to provide development assistance through nongovernmental organizations, including United States and indigenous private and voluntary organizations, cooperatives, the business community, and other private entities. Such study shall include—
 
@@ -165,7 +165,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(3) an analysis of the comparative economic benefits of governmental and nongovernmental programs.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     The Administrator shall report the results of this study to the Congress no later than September 30, 1986.”
 

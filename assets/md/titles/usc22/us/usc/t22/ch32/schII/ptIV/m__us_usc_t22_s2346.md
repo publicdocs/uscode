@@ -69,7 +69,7 @@
 
 [Pub. L. 107–228, div. B, title XII, § 1224][/us/pl/107/228/s1224], Sept. 30, 2002, [116 Stat. 1432][/us/stat/116/1432], provided that:
 
->     “(a) __Prohibition.—__ 
+>     “(a)  __Prohibition__  __.—__ 
 
 >     Notwithstanding any other provision of law, $10,000,000 of the amounts made available for fiscal year 2003 or any subsequent fiscal year that are allocated for assistance to Lebanon under chapter 4 of part II of the Foreign Assistance Act of 1961 ([22 U.S.C. 2346][/us/usc/t22/s2346] et seq.; relating to the economic support fund) may not be obligated unless and until the President certifies to the appropriate congressional committees that—
 
@@ -77,7 +77,7 @@
 
 >         “(2) the Government of Lebanon is effectively asserting its authority in the area in which such armed forces have been deployed.
 
->     “(b) __Requirement Relating to Funds Withheld.—__ 
+>     “(b)  __Requirement Relating to Funds Withheld__  __.—__ 
 
 >     Notwithstanding any other provision of law, any funds withheld pursuant to subsection (a) may not be programmed in order to be used for a purpose other than for assistance to Lebanon until the last month of the fiscal year in which the authority to obligate such funds lapses.”
 
@@ -87,15 +87,15 @@
 
 [Pub. L. 99–83, title IX, § 904][/us/pl/99/83/s904], Aug. 8, 1985, [99 Stat. 268][/us/stat/99/268], provided that:
 
->     “(a) __Authorization.—__ 
+>     “(a)  __Authorization__  __.—__ 
 
 >     The President may make available funds authorized to be appropriated to carry out chapter 4 of part II of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2346][/us/usc/t22/s2346] et seq.\] (relating to the economic support fund) for the provision of food, medicine, or other humanitarian assistance to the Afghan people, notwithstanding any other provision of law.
 
->     “(b) __Earmarking of Funds.—__ 
+>     “(b)  __Earmarking of Funds__  __.—__ 
 
 >     Each fiscal year, not less than $15,000,000 of the aggregate amount of funds available to carry out chapter 4 of part II of the Foreign Assistance Act of 1961 shall be available only for humanitarian assistance to the Afghan people pursuant to subsection (a) of this section.
 
->     “(c) __Effective Dates.—__ 
+>     “(c)  __Effective Dates__  __.—__ 
 
 >     This section shall take effect on the date of enactment of this Act \[Aug. 8, 1985\], except that subsection (b) shall not apply to fiscal year 1985.”
 
@@ -103,11 +103,11 @@
 
 [Pub. L. 99–83, title XII, § 1205][/us/pl/99/83/s1205], Aug. 8, 1985, [99 Stat. 277][/us/stat/99/277], provided that:
 
->     “(a) __External Debt Burden of Certain Countries Receiving United States Assistance.—__ 
+>     “(a)  __External Debt Burden of Certain Countries Receiving United States Assistance__  __.—__ 
 
 >     The Congress finds that the Governments of Egypt, Israel, Turkey, and Portugal each have an enormous external debt burden which may be made more difficult by virtue of financing provided for those governments under various United States assistance programs.
 
->     “(b) __Annual Reports on Economic Conditions.—__ 
+>     “(b)  __Annual Reports on Economic Conditions__  __.—__ 
 
 >     In order to assist the Congress in examining United States assistance for these countries, the President shall report to Speaker of the House of Representatives and to the chairman of the Committee on Foreign Relations of the Senate, not later than January 15 of each year, regarding economic conditions prevailing in Egypt, Israel, Turkey, and Portugal which may affect their respective ability to meet their international debt obligations and to stabilize their economies.”
 

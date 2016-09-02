@@ -77,17 +77,17 @@
 
 > “SEC. 2. __ESTABLISHMENT OF COMMISSION.__ 
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     There is established a Presidential Commission, to be known as the ‘Presidential Advisory Commission on Holocaust Assets in the United States’ (hereafter in this Act referred to as the ‘Commission’).
 
 >     “(b) __Membership.—__ 
 
->         “(1) __Number.—__ 
+>         “(1)  __Number__  __.—__ 
 
 >         The Commission shall be composed of 21 members, appointed in accordance with paragraph (2).
 
->         “(2) __Appointments.—__ 
+>         “(2)  __Appointments__  __.—__ 
 
 >         Of the 21 members of the Commission—
 
@@ -105,35 +105,35 @@
 
 >             “(G) one shall be the Chairperson of the United States Holocaust Memorial Council.
 
->         “(3) __Criteria for membership.—__ 
+>         “(3)  __Criteria for membership__  __.—__ 
 
 >         Each private citizen appointed to the Commission shall be an individual who has a record of demonstrated leadership on issues relating to the Holocaust or in the fields of commerce, culture, or education that would assist the Commission in analyzing the disposition of the assets of Holocaust victims.
 
->         “(4) __Advisory panels.—__ 
+>         “(4)  __Advisory panels__  __.—__ 
 
 >         The Chairperson of the Commission may, in the discretion of the Chairperson, establish advisory panels to the Commission, including State or local officials, representatives of organizations having an interest in the work of the Commission, or others having expertise that is relevant to the purposes of the Commission.
 
->         “(5) __Date.—__ 
+>         “(5)  __Date__  __.—__ 
 
 >         The appointments of the members of the Commission shall be made not later than 90 days after the date of enactment of this Act \[June 23, 1998\].
 
->     “(c) __Chairperson.—__ 
+>     “(c)  __Chairperson__  __.—__ 
 
 >     The Chairperson of the Commission shall be selected by the President from among the members of the Commission appointed under subparagraph (A) or (B) of subsection (b)(2).
 
->     “(d) __Period of Appointment.—__ 
+>     “(d)  __Period of Appointment__  __.—__ 
 
 >     Members of the Commission shall be appointed for the life of the Commission.
 
->     “(e) __Vacancies.—__ 
+>     “(e)  __Vacancies__  __.—__ 
 
 >     Any vacancy in the membership of the Commission shall not affect its powers, but shall be filled in the same manner as the original appointment.
 
->     “(f) __Meetings.—__ 
+>     “(f)  __Meetings__  __.—__ 
 
 >     The Commission shall meet at the call of the Chairperson at any time after the date of appointment of the Chairperson.
 
->     “(g) __Quorum.—__ 
+>     “(g)  __Quorum__  __.—__ 
 
 >     11 members of the Commission shall constitute a quorum, but a lesser number of members may hold meetings.
 
@@ -141,7 +141,7 @@
 
 >     “(a) __Original Research.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as otherwise provided in paragraph (3), the Commission shall conduct a thorough study and develop a historical record of the collection and disposition of the assets described in paragraph (2), if such assets came into the possession or control of the Federal Government, including the Board of Governors of the Federal Reserve System and any Federal reserve bank, at any time after January 30, 1933—
 
@@ -151,7 +151,7 @@
 
 >             “(C) in the case of assets consisting of gold bullion, monetary gold, or similar assets, after such assets had been obtained by the Nazi government of Germany from governmental institutions in any area occupied by the military forces of the Nazi government of Germany.
 
->         “(2) __Types of assets.—__ 
+>         “(2)  __Types of assets__  __.—__ 
 
 >         Assets described in this paragraph include—
 
@@ -171,13 +171,13 @@
 
 >             “(H) books, manuscripts, and religious objects.
 
->         “(3) __Coordination of activities.—__ 
+>         “(3)  __Coordination of activities__  __.—__ 
 
 >         In carrying out its duties under paragraph (1), the Commission shall, to the maximum extent practicable, coordinate its activities with, and not duplicate similar activities already being undertaken by, private individuals, private entities, or government entities, whether domestic or foreign.
 
 >         “(4) __Insurance policies.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             In carrying out its duties under this Act, the Commission shall take note of the work of the National Association of Insurance Commissioners with regard to Holocaust-era insurance issues and shall encourage the National Association of Insurance Commissioners to prepare a report on the Holocaust-related claims practices of all insurance companies, both domestic and foreign, doing business in the United States at any time after January 30, 1933, that issued any individual life, health, or property-casualty insurance policy to any individual on any list of Holocaust victims, including the following lists:
 
@@ -185,7 +185,7 @@
 
 >                 “(ii) The list maintained by the Yad Vashem Holocaust Memorial Authority in its Hall of Names of individuals who died in the Holocaust.
 
->             “(B) __Information to be included.—__ 
+>             “(B)  __Information to be included__  __.—__ 
 
 >             The report on insurance companies prepared pursuant to subparagraph (A) should include the following, to the degree the information is available:
 
@@ -197,11 +197,11 @@
 
 >                 “(iv) The total present-day value of assets in the United States of each company.
 
->             “(C) __Coordination.—__ 
+>             “(C)  __Coordination__  __.—__ 
 
 >             The Commission shall coordinate its work on insurance issues with that of the international Washington Conference on Holocaust-Era Assets, to be convened by the Department of State and the United States Holocaust Memorial Council.
 
->     “(b) __Comprehensive Review of Other Research.—__ 
+>     “(b)  __Comprehensive Review of Other Research__  __.—__ 
 
 >     Upon receiving permission from any relevant individuals or entities, the Commission shall review comprehensively any research by private individuals, private entities, and non-Federal government entities, whether domestic or foreign, into the collection and disposition of the assets described in subsection (a)(2), to the extent that such research focuses on assets that came into the possession or control of private individuals, private entities, or non-Federal government entities within the United States at any time after January 30, 1933, either—
 
@@ -209,7 +209,7 @@
 
 >         “(2) because such assets were left unclaimed as the result of actions taken by, on behalf of, or under authority of a government referred to in subsection (c).
 
->     “(c) __Governments Included.—__ 
+>     “(c)  __Governments Included__  __.—__ 
 
 >     A government referred to in this subsection includes, as in existence during the period beginning on March 23, 1933, and ending on May 8, 1945—
 
@@ -223,33 +223,33 @@
 
 >     “(d) __Reports.—__ 
 
->         “(1) __Submission to the president.—__ 
+>         “(1)  __Submission to the president__  __.—__ 
 
 >         Not later than December 31, 2000, the Commission shall submit a final report to the President that shall contain any recommendations for such legislative, administrative, or other action as it deems necessary or appropriate. The Commission may submit interim reports to the President as it deems appropriate.
 
->         “(2) __Submission to the congress.—__ 
+>         “(2)  __Submission to the congress__  __.—__ 
 
 >         After receipt of the final report under paragraph (1), the President shall submit to the Congress any recommendations for legislative, administrative, or other action that the President considers necessary or appropriate.
 
 > “SEC. 4. __POWERS OF THE COMMISSION.__ 
 
->     “(a) __Hearings.—__ 
+>     “(a)  __Hearings__  __.—__ 
 
 >     The Commission may hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as the Commission considers advisable to carry out this Act.
 
->     “(b) __Information From Federal Agencies.—__ 
+>     “(b)  __Information From Federal Agencies__  __.—__ 
 
 >     The Commission may secure directly from any Federal department or agency such information as the Commission considers necessary to carry out this Act. Upon request of the Chairperson of the Commission, the head of any such department or agency shall furnish such information to the Commission as expeditiously as possible.
 
->     “(c) __Postal Services.—__ 
+>     “(c)  __Postal Services__  __.—__ 
 
 >     The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the Federal Government.
 
->     “(d) __Gifts.—__ 
+>     “(d)  __Gifts__  __.—__ 
 
 >     The Commission may accept, use, and dispose of gifts or donations of services or property.
 
->     “(e) __Administrative Services.—__ 
+>     “(e)  __Administrative Services__  __.—__ 
 
 >     For the purposes of obtaining administrative services necessary to carry out the purposes of this Act, including the leasing of real property for use by the Commission as an office, the Commission shall have the power to—
 
@@ -259,25 +259,25 @@
 
 > “SEC. 5. __COMMISSION PERSONNEL MATTERS.__ 
 
->     “(a) __Compensation.—__ 
+>     “(a)  __Compensation__  __.—__ 
 
 >     No member of the Commission who is a private citizen shall be compensated for service on the Commission. All members of the Commission who are officers or employees of the United States shall serve without compensation in addition to that received for their services as officers or employees of the United States.
 
->     “(b) __Travel Expenses.—__ 
+>     “(b)  __Travel Expenses__  __.—__ 
 
 >     The members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Commission.
 
 >     “(c) __Executive Director, Deputy Executive Director, General Counsel, and Other Staff.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 90 days after the selection of the Chairperson of the Commission under section 2, the Chairperson shall, without regard to the civil service laws and regulations, appoint an executive director, a deputy executive director, and a general counsel of the Commission, and such other additional personnel as may be necessary to enable the Commission to perform its duties under this Act.
 
->         “(2) __Qualifications.—__ 
+>         “(2)  __Qualifications__  __.—__ 
 
 >         The executive director, deputy executive director, and general counsel of the Commission shall be appointed without regard to political affiliation, and shall possess all necessary security clearances for such positions.
 
->         “(3) __Duties of executive director.—__ 
+>         “(3)  __Duties of executive director__  __.—__ 
 
 >         The executive director of the Commission shall—
 
@@ -287,7 +287,7 @@
 
 >             “(C) be responsible for coordinating all official activities of the Commission.
 
->         “(4) __Compensation.—__ 
+>         “(4)  __Compensation__  __.—__ 
 
 >         The Chairperson of the Commission may fix the compensation of the executive director, deputy executive director, general counsel, and other personnel employed by the Commission, without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that—
 
@@ -297,15 +297,15 @@
 
 >         “(5) __Employee benefits.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             An employee of the Commission shall be an employee for purposes of chapters 83, 84, 85, 87, and 89 of title 5, United States Code, and service as an employee of the Commission shall be service for purposes of such chapters.
 
->             “(B) __Nonapplication to members.—__ 
+>             “(B)  __Nonapplication to members__  __.—__ 
 
 >             This paragraph shall not apply to a member of the Commission.
 
->         “(6) __Office of personnel management.—__ 
+>         “(6)  __Office of personnel management__  __.—__ 
 
 >         The Office of Personnel Management—
 
@@ -319,29 +319,29 @@
 
 >                 “(ii) other personnel needs of the Commission.
 
->     “(d) __Detail of Government Employees.—__ 
+>     “(d)  __Detail of Government Employees__  __.—__ 
 
 >     Any Federal Government employee may be detailed to the Commission without reimbursement to the agency of that employee, and such detail shall be without interruption or loss of civil service status or privilege.
 
->     “(e) __Procurement of Temporary and Intermittent Services.—__ 
+>     “(e)  __Procurement of Temporary and Intermittent Services__  __.—__ 
 
 >     The Chairperson of the Commission may procure temporary and intermittent services under [section 3109(b) of title 5][/us/usc/t5/s3109/b], United States Code, at rates for individuals which do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of such title.
 
->     “(f) __Staff Qualifications.—__ 
+>     “(f)  __Staff Qualifications__  __.—__ 
 
 >     Any person appointed to the staff of or employed by the Commission shall be an individual of integrity and impartiality.
 
 >     “(g) __Conditional Employment.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Commission may offer employment on a conditional basis to a prospective employee pending the completion of any necessary security clearance background investigation. During the pendency of any such investigation, the Commission shall ensure that such conditional employee is not given and does not have access to or responsibility involving classified or otherwise restricted material.
 
->         “(2) __Termination.—__ 
+>         “(2)  __Termination__  __.—__ 
 
 >         If a person hired on a conditional basis as described in paragraph (1) is denied or otherwise does not qualify for all security clearances necessary for the fulfillment of the responsibilities of that person as an employee of the Commission, the Commission shall immediately terminate the employment of that person with the Commission.
 
->     “(h) __Expedited Security Clearance Procedures.—__ 
+>     “(h)  __Expedited Security Clearance Procedures__  __.—__ 
 
 >     A candidate for executive director or deputy executive director of the Commission and any potential employee of the Commission shall, to the maximum extent possible, be investigated or otherwise evaluated for and granted, if applicable, any necessary security clearances on an expedited basis.
 
@@ -355,11 +355,11 @@
 
 > “SEC. 8. __MISCELLANEOUS PROVISIONS.__ 
 
->     “(a) __Inapplicability of FACA.—__ 
+>     “(a)  __Inapplicability of FACA__  __.—__ 
 
 >     The Federal Advisory Committee Act (5 U.S.C. App.) does not apply to the Commission.
 
->     “(b) __Public Attendance.—__ 
+>     “(b)  __Public Attendance__  __.—__ 
 
 >     To the maximum extent practicable, each meeting of the Commission shall be open to members of the public.
 

@@ -325,7 +325,7 @@
 
 [Pub. L. 112–283, § 2][/us/pl/112/283/s2], Jan. 15, 2013, [126 Stat. 2492][/us/stat/126/2492], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress makes the following findings:
 
@@ -343,7 +343,7 @@
 
 >         “(3) The program has been credited with providing information in several high-profile cases, including the arrest of Ramzi Yousef, who was convicted in the 1993 bombing of the World Trade Center, the deaths of Uday and Qusay Hussein, who United States military forces located and killed in Iraq after receiving information about their locations, and the arrests or deaths of several members of the Abu Sayyaf group, believed to be responsible for the kidnappings and deaths of United States citizens and Filipinos in the Philippines.
 
->     “(b) __Sense of Congress.—__ 
+>     “(b)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of Congress that the rewards program of the Department of State should be expanded in order to—
 
@@ -361,7 +361,7 @@
 
 [Pub. L. 105–323, title I, § 102][/us/pl/105/323/s102], Oct. 30, 1998, [112 Stat. 3032][/us/stat/112/3032], as amended by [Pub. L. 106–277, § 1][/us/pl/106/277/s1], Oct. 2, 2000, [114 Stat. 813][/us/stat/114/813]; [Pub. L. 107–228, div. A, title VI, § 697(d)][/us/pl/107/228/s697/d], Sept. 30, 2002, [116 Stat. 1418][/us/stat/116/1418], provided that:
 
->     “(a) __Authority.—__ 
+>     “(a)  __Authority__  __.—__ 
 
 >     In the sole discretion of the Secretary of State (except as provided in subsection (b)(2)) and in consultation, as appropriate, with the Attorney General, the Secretary may pay a reward to any individual who furnishes information leading to—
 
@@ -393,7 +393,7 @@
 
 >         “(3) Rewards under this section shall be subject to any requirements or limitations that apply to rewards under section 36 of the State Department Basic Authorities Act of 1956 ([22 U.S.C. 2708][/us/usc/t22/s2708]) with respect to the ineligibility of government employees for rewards, maximum reward amount, and procedures for the approval and certification of rewards for payment.
 
->     “(c) __Reference.—__ 
+>     “(c)  __Reference__  __.—__ 
 
 >         (1) For the purposes of subsection (a), the statute of the International Criminal Tribunal for the Former Yugoslavia means the Annex to the Report of the Secretary General of the United Nations pursuant to paragraph 2 of Security Council Resolution 827 (1993) (S/25704).
 
@@ -401,15 +401,15 @@
 
 >         “(3) For the purposes of subsection (a), the Statute of the Special Court for Sierra Leone means the Statute contained in the Annex to the Agreement Between the United Nations and the Government of Sierra Leone on the Establishment of a Special Court for Sierra Leone.
 
->     “(d) __Determination of the Secretary.—__ 
+>     “(d)  __Determination of the Secretary__  __.—__ 
 
 >     A determination made by the Secretary of State under this section shall be final and conclusive and shall not be subject to judicial review.
 
->     “(e) __Priority.—__ 
+>     “(e)  __Priority__  __.—__ 
 
 >     Rewards under this section may be paid from funds authorized to carry out section 36 of the State Department Basic Authorities Act of 1956 \[[22 U.S.C. 2708][/us/usc/t22/s2708]\]. In the Administration and payment of rewards under the rewards program of section 36 of the State Department Basic Authorities Act of 1956, the Secretary of State shall ensure that priority is given for payments to individuals described in section 36 of that Act and that funds paid under this section are paid only after any and all due and payable demands are met under section 36 of that Act.
 
->     “(f) __Reports.—__ 
+>     “(f)  __Reports__  __.—__ 
 
 >     The Secretary shall inform the appropriate committees of rewards paid under this section in the same manner as required by section 36(g) of the State Department Basic Authorities Act of 1956.”
 

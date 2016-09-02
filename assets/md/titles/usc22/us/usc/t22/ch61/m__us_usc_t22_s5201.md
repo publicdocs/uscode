@@ -43,11 +43,11 @@
 
 [Pub. L. 100–204, title X, § 1005][/us/pl/100/204/s1005], Dec. 22, 1987, [101 Stat. 1407][/us/stat/101/1407], provided that:
 
->     “(a) __Effective Date.—__ 
+>     “(a)  __Effective Date__  __.—__ 
 
 >     Provisions of this title \[enacting this chapter\] shall take effect 90 days after the date of enactment of this Act \[Dec. 22, 1987\].
 
->     “(b) __Termination.—__ 
+>     “(b)  __Termination__  __.—__ 
 
 >     The provisions of this title shall cease to have effect if the President certifies in writing to the President pro tempore of the Senate and the Speaker of the House that the Palestine Liberation Organization, its agents, or constituent groups thereof no longer practice or support terrorist actions anywhere in the world.”
 

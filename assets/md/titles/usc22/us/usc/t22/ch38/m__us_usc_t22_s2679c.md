@@ -43,7 +43,7 @@
 
         (1) Except as provided in paragraph (2) of this subsection, the Secretary of State shall ensure that any response to a solicitation for a bid or a request for a proposal, with respect to a contract covered by subsection (a) of this section, includes the following clause, in substantially the following form:“arab league boycott of israel
 
-    “(a) __Definitions.—__ 
+    “(a)  __Definitions__  __.—__ 
 
     As used in this clause—
 
@@ -51,7 +51,7 @@
 
         “(2) the term ‘United States person’ means any United States resident or national (other than an individual resident outside the United States and employed by other than a United States person), any domestic concern (including any permanent domestic establishment of any foreign concern), and any foreign subsidiary or affiliate (including any permanent foreign establishment) of any domestic concern which is controlled in fact by such domestic concern, as determined under regulations of the President.
 
-    “(b) __Certification.—__ 
+    “(b)  __Certification__  __.—__ 
 
     By submitting this offer, the Offeror certifies that it is not—
 

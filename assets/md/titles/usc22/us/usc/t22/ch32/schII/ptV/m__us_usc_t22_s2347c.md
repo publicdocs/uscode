@@ -51,11 +51,11 @@
 
 [Pub. L. 101–189, div. A, title IX, § 935][/us/pl/101/189/s935], Nov. 29, 1989, [103 Stat. 1538][/us/stat/103/1538], provided that:
 
->     “(a) __Authority.—__ 
+>     “(a)  __Authority__  __.—__ 
 
 >     The United States Army Russian Institute in Garmisch-Partenkirchen, Federal Republic of Germany, shall be treated for purposes of section 544 of the Foreign Assistance Act of 1961 ([22 U.S.C. 2347c][/us/usc/t22/s2347c]) as if it were located in the United States.
 
->     “(b) __Expiration of Authority.—__ 
+>     “(b)  __Expiration of Authority__  __.—__ 
 
 >     Subsection (a) shall cease to be in effect upon the enactment in foreign assistance authorizing legislation of an amendment to section 544 of the Foreign Assistance Act of 1961 that provides the same authority as is provided by subsection (a).”
 

@@ -37,7 +37,7 @@
 
 [Pub. L. 110–53, title XX, § 2043][/us/pl/110/53/s2043], Aug. 3, 2007, [121 Stat. 524][/us/stat/121/524], provided that:
 
->     “(a) __Congressional Findings.—__ 
+>     “(a)  __Congressional Findings__  __.—__ 
 
 >     Congress finds that:
 
@@ -53,7 +53,7 @@
 
 >         “(6) It is in the national security interest of the United States to support the Government of Saudi Arabia in undertaking a number of political and economic reforms, including increasing anti-terrorism operations conducted by law enforcement agencies, providing more political and religious rights to its citizens, increasing the rights of women, engaging in comprehensive educational reform, enhancing monitoring of charitable organizations, and promulgating and enforcing domestic laws and regulation on terrorist financing.
 
->     “(b) __Statement of Policy.—__ 
+>     “(b)  __Statement of Policy__  __.—__ 
 
 >     It is the policy of the United States—
 
@@ -65,7 +65,7 @@
 
 >     “(c) __Progress in Counterterrorism and Other Cooperation.—__ 
 
->         “(1) __Report.—__ 
+>         “(1)  __Report__  __.—__ 
 
 >         Not later than 180 days after the date of the enactment of this Act \[Aug. 3, 2007\], the President shall transmit to the appropriate congressional committees a report that—
 
@@ -85,7 +85,7 @@
 
 >                 “(ii) the activities and authority of the Saudi Nongovernmental National Commission for Relief and Charity Work Abroad.
 
->         “(2) __Form.—__ 
+>         “(2)  __Form__  __.—__ 
 
 >         The report required by paragraph (1) shall be transmitted in unclassified form, but may include a classified annex, if necessary.”
 
@@ -111,7 +111,7 @@
 
 [Pub. L. 108–458, title VII, § 7117][/us/pl/108/458/s7117], Dec. 17, 2004, [118 Stat. 3799][/us/stat/118/3799], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Consistent with the report of the National Commission on Terrorist Attacks Upon the United States, Congress makes the following findings:
 
@@ -119,13 +119,13 @@
 
 >         “(2) Since September 11, 2001, the number and scope of United States Government contacts with foreign governments concerning counterterrorism have expanded significantly, but such contacts have often been ad hoc and not integrated as a comprehensive and unified approach to counterterrorism.
 
->     “(b) __In General.—__ 
+>     “(b)  __In General__  __.—__ 
 
 >     The Secretary of State is authorized in consultation with relevant United States Government agencies, to negotiate on a bilateral or multilateral basis, as appropriate, international agreements under which parties to an agreement work in partnership to address and interdict acts of international terrorism.
 
 >     “(c) __International Contact Group on Counterterrorism.—__ 
 
->         “(1) __Sense of congress.—__ 
+>         “(1)  __Sense of congress__  __.—__ 
 
 >         It is the sense of Congress that the President—
 
@@ -133,7 +133,7 @@
 
 >             “(B) to that end, should seek to establish an international counterterrorism policy contact group with the leaders of governments providing leadership in global counterterrorism efforts and governments of countries with sizable Muslim populations, to be used as a ready and flexible international means for discussing and coordinating the development of important counterterrorism policies by the participating governments.
 
->         “(2) __Authority.—__ 
+>         “(2)  __Authority__  __.—__ 
 
 >         The President is authorized to establish an international counterterrorism policy contact group with the leaders of governments referred to in paragraph (1) for the following purposes:
 
@@ -145,7 +145,7 @@
 
 [Pub. L. 108–458, title VII, § 7204][/us/pl/108/458/s7204], Dec. 17, 2004, [118 Stat. 3814][/us/stat/118/3814], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress makes the following findings:
 
@@ -165,11 +165,11 @@
 
 >     “(b) __International Agreements To Track and Curtail Terrorist Travel.—__ 
 
->         “(1) __International agreement on lost, stolen, or falsified documents.—__ 
+>         “(1)  __International agreement on lost, stolen, or falsified documents__  __.—__ 
 
 >         The President should lead efforts to track and curtail the travel of terrorists by supporting the drafting, adoption, and implementation of international agreements, and relevant United Nations Security Council resolutions to track and stop international travel by terrorists and other criminals through the use of lost, stolen, or falsified documents to augment United Nations and other international anti-terrorism efforts.
 
->         “(2) __Contents of international agreement.—__ 
+>         “(2)  __Contents of international agreement__  __.—__ 
 
 >         The President should seek, as appropriate, the adoption or full implementation of effective international measures to—
 
@@ -223,17 +223,17 @@
 
 >                 “(iii) to detain and investigate such traveler upon the return of the traveler to the sending country.
 
->         “(3) __International civil aviation organization.—__ 
+>         “(3)  __International civil aviation organization__  __.—__ 
 
 >         The United States shall lead efforts to track and curtail the travel of terrorists by supporting efforts at the International Civil Aviation Organization to continue to strengthen the security features of passports and other travel documents.
 
 >     “(c) __Report.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 1 year after the date of enactment of this Act \[Dec. 17, 2004\], and at least annually thereafter, the President shall submit to the appropriate congressional committees a report on progress toward achieving the goals described in subsection (b).
 
->         “(2) __Termination.—__ 
+>         “(2)  __Termination__  __.—__ 
 
 >         Paragraph (1) shall cease to be effective when the President certifies to the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate that the goals described in subsection (b) have been fully achieved.”
 
@@ -249,7 +249,7 @@
 
 > “SEC. 632. __BILATERAL ASSISTANCE.__ 
 
->     “(a) __Authority.—__ 
+>     “(a)  __Authority__  __.—__ 
 
 >     The President, acting through the Administrator of the United States Agency for International Development, is authorized to—
 
@@ -269,11 +269,11 @@
 
 >     “(b) __Authorization of Appropriations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         There is authorized to be appropriated to the President to carry out this section $25,000,000 for the fiscal year 2003.
 
->         “(2) __Availability.—__ 
+>         “(2)  __Availability__  __.—__ 
 
 >         Amounts appropriated pursuant to the authorization of appropriations under paragraph (1) are authorized to remain available until expended.
 
@@ -283,27 +283,27 @@
 
 > “SEC. 634. __TRADE AND INVESTMENT ASSISTANCE.__ 
 
->     “(a) __OPIC.—__ 
+>     “(a)  __OPIC__  __.—__ 
 
 >     The President should initiate negotiations with the Government of East Timor to enter into a new agreement authorizing the Overseas Private Investment Corporation to carry out programs with respect to East Timor in order to expand United States investment in East Timor, emphasizing partnerships with local East Timorese enterprises.
 
 >     “(b) __Trade and Development Agency.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Director of the Trade and Development Agency is authorized to carry out projects in East Timor under section 661 of the Foreign Assistance Act of 1961 ([22 U.S.C. 2421][/us/usc/t22/s2421]).
 
 >         “(2) __Authorization of appropriations.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             There are authorized to be appropriated to the Trade and Development Agency to carry out this subsection $1,000,000 for fiscal year 2003.
 
->             “(B) __Availability.—__ 
+>             “(B)  __Availability__  __.—__ 
 
 >             Amounts appropriated pursuant to the authorization of appropriations under subparagraph (A) are authorized to remain available until expended.
 
->     “(c) __Export-Import Bank.—__ 
+>     “(c)  __Export-Import Bank__  __.—__ 
 
 >     The Export-Import Bank of the United States should expand its activities in connection with exports to East Timor to the extent such activities are requested and to the extent there is a reasonable assurance of repayment.
 
@@ -319,7 +319,7 @@
 
 >     “(a) __Study and Report.—__ 
 
->         “(1) __Study.—__ 
+>         “(1)  __Study__  __.—__ 
 
 >         The President shall conduct a study to determine—
 
@@ -329,13 +329,13 @@
 
 >             “(C) the terms and conditions under which such defense articles or training, as appropriate, should be provided.
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         Not later than 180 days after the date of the enactment of this Act \[Sept. 30, 2002\], the President shall transmit to the appropriate congressional committees a report that contains the findings of the study conducted under paragraph (1).
 
 >     “(b) __Authorization of Assistance.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Beginning on the date on which Congress receives the report transmitted under subsection (a)(2), or the date on which Congress receives the certification transmitted under paragraph (2), whichever occurs later, the President is authorized—
 
@@ -343,7 +343,7 @@
 
 >             “(B) to provide military education and training under chapter 5 of part II of such Act ([22 U.S.C. 2347][/us/usc/t22/s2347] et seq.) for the armed forces of East Timor in accordance with such chapter.
 
->         “(2) __Certification.—__ 
+>         “(2)  __Certification__  __.—__ 
 
 >         A certification described in this paragraph is a certification that—
 
@@ -359,11 +359,11 @@
 
 > “SEC. 638. __REPORTING REQUIREMENT.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 180 days after the date of enactment of this Act \[Sept. 30, 2002\], and every 12 months thereafter for the next five years, the Secretary shall prepare and transmit to the appropriate congressional committees a report that contains the information described in subsection (b).
 
->     “(b) __Information.—__ 
+>     “(b)  __Information__  __.—__ 
 
 >     The report required by subsection (a) shall include—
 
@@ -403,51 +403,51 @@
 
 [Pub. L. 106–429, § 101(a)][/us/pl/106/429/s101/a] \[title V, § 564(e), (g), (j), (k)\], Nov. 6, 2000, [114 Stat. 1900][/us/stat/114/1900], 1900A–48 to 1900A–50, as amended by [Pub. L. 112–74, div. I, title VII, § 7034(n)][/us/pl/112/74/s7034/n], Dec. 23, 2011, [125 Stat. 1217][/us/stat/125/1217], provided that:
 
->     “(e) __Sanctioned Country, Entity, or Municipality.—__ 
+>     “(e)  __Sanctioned Country, Entity, or Municipality__  __.—__ 
 
 >     A sanctioned country, entity, or municipality described in this section \[[114 Stat. 1900][/us/stat/114/1900]A–46\] is one whose competent authorities have failed, as determined by the Secretary of State, to take necessary and significant steps to apprehend and transfer to the Tribunal all persons who have been publicly indicted by the Tribunal.
 
 >     “(g) __Current Record of War Criminals and Sanctioned Countries, Entities, and Municipalities.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of State shall establish and maintain a current record of the location, including the municipality, if known, of publicly indicted war criminals and a current record of sanctioned countries, entities, and municipalities.
 
->         “(2) __Information of the dci and the secretary of defense.—__ 
+>         “(2)  __Information of the dci and the secretary of defense__  __.—__ 
 
 >         The Director of Central Intelligence and the Secretary of Defense should collect and provide to the Secretary of State information concerning the location, including the municipality, of publicly indicted war criminals.
 
->         “(3) __Information of the tribunal.—__ 
+>         “(3)  __Information of the tribunal__  __.—__ 
 
 >         The Secretary of State shall request that the Tribunal and other international organizations and governments provide the Secretary of State information concerning the location, including the municipality, of publicly indicted war criminals and concerning country, entity and municipality authorities known to have obstructed the work of the Tribunal.
 
 >         “\[(4) Repealed. [Pub. L. 112–74, div. I, title VII, § 7034(n)][/us/pl/112/74/s7034/n], Dec. 23, 2011, [125 Stat. 1217][/us/stat/125/1217].\]
 
->         “(5) __Information to congress.—__ 
+>         “(5)  __Information to congress__  __.—__ 
 
 >         Upon the request of the chairman or ranking minority member of any of the appropriate congressional committees, the Secretary of State shall make available to that committee the information recorded under paragraph (1) in a report submitted to the committee in classified and unclassified form.
 
->     “(j) __Definitions.—__ 
+>     “(j)  __Definitions__  __.—__ 
 
 >     As used in this section—
 
->         “(1) __Country.—__ 
+>         “(1)  __Country__  __.—__ 
 
 >         The term ‘country’ means Bosnia-Herzegovina, Croatia, and Serbia.
 
->         “(2) __Entity.—__ 
+>         “(2)  __Entity__  __.—__ 
 
 >         The term ‘entity’ refers to the Federation of Bosnia and Herzegovina, Kosova, Montenegro, and the Republika Srpska.
 
->         “(3) __Dayton agreement.—__ 
+>         “(3)  __Dayton agreement__  __.—__ 
 
 >         The term ‘Dayton Agreement’ means the General Framework Agreement for Peace in Bosnia and Herzegovina, together with annexes relating thereto, done at Dayton, November 10 through 16, 1995.
 
->         “(4) __Tribunal.—__ 
+>         “(4)  __Tribunal__  __.—__ 
 
 >         The term ‘Tribunal’ means the International Criminal Tribunal for the Former Yugoslavia.
 
->     “(k) __Role of Human Rights Organizations and Government Agencies.—__ 
+>     “(k)  __Role of Human Rights Organizations and Government Agencies__  __.—__ 
 
 >     In carrying out this section, the Secretary of State, the Administrator of the Agency for International Development, and the executive directors of the international financial institutions shall consult with representatives of human rights organizations and all government agencies with relevant information to help prevent publicly indicted war criminals from benefiting from any financial or technical assistance or grants provided to any country or entity described in subsection (e).”
 
@@ -465,15 +465,15 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title VIII, § 873\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–474, provided that:
 
->     “(a) __Requirement.—__ 
+>     “(a)  __Requirement__  __.—__ 
 
 >     The Secretary of State shall establish and maintain a registry which shall, to the extent practicable, provide information on all political prisoners, prisoners of conscience, and prisoners of faith in the People’s Republic of China. The registry shall be known as the ‘Prisoner Information Registry for the People’s Republic of China’.
 
->     “(b) __Information in Registry.—__ 
+>     “(b)  __Information in Registry__  __.—__ 
 
 >     The registry required by subsection (a) shall include information on the charges, judicial processes, administrative actions, uses of forced labor, incidents of torture, lengths of imprisonment, physical and health conditions, and other matters associated with the incarceration of prisoners in the People’s Republic of China referred to in that subsection.
 
->     “(c) __Availability of Funds.—__ 
+>     “(c)  __Availability of Funds__  __.—__ 
 
 >     The Secretary may make a grant to nongovernmental organizations currently engaged in monitoring activities regarding political prisoners in the People’s Republic of China in order to assist in the establishment and maintenance of the registry required by subsection (a).”
 
@@ -513,7 +513,7 @@ Similar provisions were contained in the following appropriation acts:
 
 [Pub. L. 103–236, title V, § 536][/us/pl/103/236/s536], Apr. 30, 1994, [108 Stat. 481][/us/stat/108/481], provided that:
 
->     “(a) __Report on United States-Tibet Relations.—__ 
+>     “(a)  __Report on United States-Tibet Relations__  __.—__ 
 
 >     Because Congress has determined that Tibet is an occupied sovereign country under international law and that its true representatives are the Dalai Lama and the Tibetan Government in exile—
 
@@ -537,11 +537,11 @@ Similar provisions were contained in the following appropriation acts:
 
 > “SEC. 572. __POLICY.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Consistent with international law, it is the policy of the United States to support efforts to bring to justice members of the Khmer Rouge for their crimes against humanity committed in Cambodia between April 17, 1975, and January 7, 1979.
 
->     “(b) __Specific Actions Urged.—__ 
+>     “(b)  __Specific Actions Urged__  __.—__ 
 
 >     To that end, the Congress urges the President—
 
@@ -553,13 +553,13 @@ Similar provisions were contained in the following appropriation acts:
 
 > “SEC. 573. __ESTABLISHMENT OF STATE DEPARTMENT OFFICE.__ 
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >         (1) None of the funds authorized to be appropriated by this Act for ‘Diplomatic and Consular Programs’ shall be available for obligation or expenditure during fiscal years 1994 and 1995 unless, not later than 90 days after the date of enactment of this Act \[Apr. 30, 1994\], the Secretary of State has established within the Department of State under the Assistant Secretary for East Asia and Pacific Affairs (or any successor Assistant Secretary) the Office of Cambodian Genocide Investigation (hereafter in this part referred to as the ‘Office’).
 
 >         “(2) The Office may carry out its activities inside or outside of Cambodia, except that not less than 75 percent of the funds made available for the Office and its activities shall be used to carry out activities within Cambodia.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     The purpose of the Office shall be to support, through organizations and individuals with whom the Secretary of State may contract to carry out the operations of the Office, as appropriate, efforts to bring to justice members of the Khmer Rouge for their crimes against humanity committed in Cambodia between April 17, 1975, and January 7, 1979, including—
 
@@ -571,17 +571,17 @@ Similar provisions were contained in the following appropriation acts:
 
 >         “(4) to develop the United States proposal for the establishment of an international criminal tribunal for the prosecution of those accused of genocide in Cambodia.
 
->     “(c) __Contracting Authority.—__ 
+>     “(c)  __Contracting Authority__  __.—__ 
 
 >     The Secretary of State shall, subject to the availability of appropriations, contract with appropriate individuals and organizations to carry out the purpose of the Office.
 
->     “(d) __Notification to Congress.—__ 
+>     “(d)  __Notification to Congress__  __.—__ 
 
 >     The Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives shall be notified of any exercise of the authority of section 34 of the State Department Basic Authorities Act of 1956 \[[22 U.S.C. 2706][/us/usc/t22/s2706]\] with respect to the Office or any of its programs, projects, or activities at least 15 days in advance in accordance with procedures applicable to notifications under that section.
 
 > “SEC. 574. __REPORTING REQUIREMENT.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Beginning 6 months after the date of enactment of this Act \[Apr. 30, 1994\], and every 6 months thereafter, the President shall submit a report to the appropriate congressional committees—
 
@@ -589,7 +589,7 @@ Similar provisions were contained in the following appropriation acts:
 
 >         “(2) that describes the steps the President has taken during the preceding 6-month period to promote human rights, to support efforts to bring to justice the national political and military leadership of the Khmer Rouge, and to prevent the recurrence of human rights abuses in Cambodia through actions which are not related to United Nations activities in Cambodia.
 
->     “(b) __Definition.—__ 
+>     “(b)  __Definition__  __.—__ 
 
 >     For purposes of this section, the term ‘appropriate congressional committees’ means the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.”
 
@@ -651,11 +651,11 @@ Similar provisions were contained in the following appropriation acts:
 
 [Pub. L. 99–93, title I, § 138][/us/pl/99/93/s138], Aug. 16, 1985, [99 Stat. 422][/us/stat/99/422], provided that:
 
->     “(a) __Responsibility.—__ 
+>     “(a)  __Responsibility__  __.—__ 
 
 >     The United States chief of mission to a foreign country in which there is not respect for freedom of the press shall actively promote respect for freedom of the press in that country.
 
->     “(b) __Definition.—__ 
+>     “(b)  __Definition__  __.—__ 
 
 >     As used in this section, the term ‘respect for freedom of the press’ means that a government—
 

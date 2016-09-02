@@ -51,7 +51,7 @@
 
 [Pub. L. 107–228, div. A, title VI, § 687][/us/pl/107/228/s687], Sept. 30, 2002, [116 Stat. 1411][/us/stat/116/1411], provided that:
 
->     “(a) __Initial Report.—__ 
+>     “(a)  __Initial Report__  __.—__ 
 
 >     Not later than 120 days after the date of the enactment of this Act \[Sept. 30, 2002\], the Administrator shall submit to the designated congressional committees a report that contains the following:
 
@@ -115,7 +115,7 @@
 
 >         “(4) Any other information the Administrator determines appropriate.
 
->     “(b) __Plan To Increase Small Business Contracting.—__ 
+>     “(b)  __Plan To Increase Small Business Contracting__  __.—__ 
 
 >     The plan required for the report under subsection (a)(3) shall include the following matters:
 
@@ -125,23 +125,23 @@
 
 >         “(3) With the milestones described in paragraph (2), a description of how the Administrator plans to use the failure of a prime contractor to meet goals as a ranking factor for evaluating any other submission from the contractor for future contracts by the Agency.
 
->     “(c) __Annual Reports.—__ 
+>     “(c)  __Annual Reports__  __.—__ 
 
 >     Not later than January 31, 2004, January 31, 2005, and January 31, 2006, the Administrator shall submit to the designated congressional committees a report for the preceding fiscal year that contains a description of the percentage of total contract and grant and cooperative agreement dollar amounts that were entered into by the Agency, and the total number of contracts and grants and cooperative agreements that were awarded by the Agency, to small businesses in each category specified in clauses (i) through (v) of subsection (a)(1)(A) during such fiscal year. The report for a fiscal year shall include, separately stated for contracts and grant and cooperative agreements entered into by the Agency, the percentage of the contracts and grant and cooperative agreements, respectively, that were awarded to small businesses in each such category, as computed on the basis of dollar amounts. The report shall also include a description of achievements toward measurable milestones for direct contracts of the Agency entered into by offices outside of Washington, D.C., and for subcontracting by prime contractors of the Agency.
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Administrator.—__ 
+>         “(1)  __Administrator__  __.—__ 
 
 >         The term ‘Administrator’ means the Administrator of the United States Agency for International Development.
 
->         “(2) __Agency.—__ 
+>         “(2)  __Agency__  __.—__ 
 
 >         The term ‘Agency’ means the United States Agency for International Development.
 
->         “(3) __Designated congressional committees.—__ 
+>         “(3)  __Designated congressional committees__  __.—__ 
 
 >         The term ‘designated congressional committees’ means—
 

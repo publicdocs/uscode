@@ -241,23 +241,23 @@
 
 > “In this title \[see Short Title of 2000 Amendments note set out under [section 2151 of this title][/us/usc/t22/s2151]\]:
 
->     “(1) __Business development services.—__ 
+>     “(1)  __Business development services__  __.—__ 
 
 >     The term ‘business development services’ means support for the growth of microenterprises through training, technical assistance, marketing assistance, improved production technologies, and other services.
 
->     “(2) __Microenterprise institution.—__ 
+>     “(2)  __Microenterprise institution__  __.—__ 
 
 >     The term ‘microenterprise institution’ means an institution that provides services, including microfinance, training, or business development services, to microentrepreneurs and their households.
 
->     “(3) __Microfinance institution.—__ 
+>     “(3)  __Microfinance institution__  __.—__ 
 
 >     The term ‘microfinance institution’ means an institution that directly provides, or works to expand, the availability of credit, savings, and other financial services to microentrepreneurs.
 
->     “(4) __Practitioner institution.—__ 
+>     “(4)  __Practitioner institution__  __.—__ 
 
 >     The term ‘practitioner institution’ means any institution that provides services, including microfinance, training, or business development services, for microentrepreneurs, or provides assistance to microenterprise institutions.
 
->     “(5) __Very poor.—__ 
+>     “(5)  __Very poor__  __.—__ 
 
 >     The term ‘very poor’ means individuals—
 

@@ -41,17 +41,17 @@
 
 [Pub. L. 99–209, § 7][/us/pl/99/209/s7], Dec. 23, 1985, [99 Stat. 1718][/us/stat/99/1718], provided that:
 
->     “(a) __Retroactive Applicability.—__ 
+>     “(a)  __Retroactive Applicability__  __.—__ 
 
 >     The amendments made by subsections (a) and (c) of section 2 \[amending this section and [section 3772 of this title][/us/usc/t22/s3772]\], and the amendments made by sections 4 and 5 of this Act \[amending sections 3775 and 3776 of this title\], shall apply to any claim arising on or after October 1, 1979.
 
 >     “(b) __Future Applicability.—__ 
 
->         “(1) __Sections 3 and 6.—__ 
+>         “(1)  __Sections 3 and 6__  __.—__ 
 
 >         The amendments made by sections 3 \[amending [section 3774 of this title][/us/usc/t22/s3774]\] and 6 \[enacting [section 3779 of this title][/us/usc/t22/s3779]\] of this Act shall apply to any claim arising on or after the date of the enactment of this Act \[Dec. 23, 1985\].
 
->         “(2) __Section 2(b).—__ 
+>         “(2)  __Section 2__  __(b).—__ 
 
 >         The amendment made by subsection (b) of section 2 \[amending this section\] shall apply to any claim arising from an incident occurring on or after the date of the enactment of this Act \[Dec. 23, 1985\].”
 

@@ -185,7 +185,7 @@
 
 [Pub. L. 96–561, title II, § 240(a)][/us/pl/96/561/s240/a], (b)(1), Dec. 22, 1980, [94 Stat. 3300][/us/stat/94/3300], 3301, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     If—
 
@@ -195,7 +195,7 @@
 
 >         such owner or operator may make application for compensation with respect to such damage, loss or destruction under such section 10 \[this section\], and such commercial fisherman may file a claim for, compensation for such damages under such title IV \[[43 U.S.C. 1841][/us/usc/t43/s1841] et seq.\], to the Secretary of Commerce, within the 60-day period beginning on the date of the enactment of this title \[Dec. 22, 1980\].
 
->     “(b) __Special Provisions.—__ 
+>     “(b)  __Special Provisions__  __.—__ 
 
 >         (1)
 

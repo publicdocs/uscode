@@ -87,11 +87,11 @@
 
 > “SEC. 3133. __MINIMUM SECURITY STANDARD FOR NUCLEAR WEAPONS AND FORMULA QUANTITIES OF STRATEGIC SPECIAL NUCLEAR MATERIAL.__ 
 
->     “(a) __Policy.—__ 
+>     “(a)  __Policy__  __.—__ 
 
 >     It is the policy of the United States to work with the international community to take all possible steps to ensure that all nuclear weapons around the world are secure and accounted for and that all formula quantities of strategic special nuclear material are eliminated, removed, or secure and accounted for to a level sufficient to defeat the threats posed by terrorists and criminals.
 
->     “(b) __International Nuclear Security Standard.—__ 
+>     “(b)  __International Nuclear Security Standard__  __.—__ 
 
 >     It is the sense of Congress that, in furtherance of the policy described in subsection (a), and consistent with the requirement for ‘appropriate effective’ physical protection contained in United Nations Security Council Resolution 1540 (2004), as well as the Nuclear Non-Proliferation Treaty and the Convention on the Physical Protection of Nuclear Material, the President, in consultation with relevant Federal departments and agencies, should seek the broadest possible international agreement on a global standard for nuclear security that—
 
@@ -101,7 +101,7 @@
 
 >         “(3) includes steps to provide confidence that the needed measures have in fact been implemented.
 
->     “(c) __International Efforts.—__ 
+>     “(c)  __International Efforts__  __.—__ 
 
 >     It is the sense of Congress that, in furtherance of the policy described in subsection (a), the President, in consultation with relevant Federal departments and agencies, should—
 
@@ -119,11 +119,11 @@
 
 > “SEC. 3134. __ANNUAL REPORT.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than September 1 of each year through 2012, the President, in consultation with relevant Federal departments and agencies, shall submit to Congress a report on the security of nuclear weapons and related equipment and formula quantities of strategic special nuclear material outside of the United States.
 
->     “(b) __Elements.—__ 
+>     “(b)  __Elements__  __.—__ 
 
 >     The report required under subsection (a) shall include the following:
 
@@ -149,7 +149,7 @@
 
 >         “(2) A section on efforts to establish and implement the international nuclear security standard described in section 3133(b) and related policies.
 
->     “(c) __Form.—__ 
+>     “(c)  __Form__  __.—__ 
 
 >     The report may be submitted in classified form but shall include a detailed unclassified summary.”
 

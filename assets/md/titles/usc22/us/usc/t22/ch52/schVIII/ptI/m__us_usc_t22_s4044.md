@@ -157,7 +157,7 @@
 
 [Pub. L. 105–382, § 4][/us/pl/105/382/s4], Nov. 13, 1998, [112 Stat. 3409][/us/stat/112/3409], as amended by [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 145(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–250, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), this Act \[amending this section and sections 4045, 4046, 4052, 4071a, and 4071d of this title and enacting provisions set out as a note under [section 3901 of this title][/us/usc/t22/s3901]\] and the amendments made by this Act—
 
@@ -173,33 +173,33 @@
 
 >     “(b) __Election for Current Participants.—__ 
 
->         “(1) __Eligibility.—__ 
+>         “(1)  __Eligibility__  __.—__ 
 
 >         An election under this subsection may be made by any currently employed participant or participant who was serving as of January 1, 1997 under chapter 8 of the Foreign Service Act of 1980 \[[22 U.S.C. 4041][/us/usc/t22/s4041] et seq.\] who is serving or has served as a special agent, or by a survivor of a special agent who was eligible to make an election under this section.
 
 >         “(2) __Effect of an election.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             If an individual makes an election under this subsection, the amendments made by this Act \[amending this section and sections 4045, 4046, 4052, 4071a, and 4071d of this title\] shall become applicable with respect to such individual, subject to subparagraph (B).
 
 >             “(B) __Treatment of prior service.—__ 
 
->                 “(i) __Special contribution.—__ 
+>                 “(i)  __Special contribution__  __.—__ 
 
 >                 An individual may, after making the election under this subsection, make a special contribution up to the full amount of the difference between the contributions actually deducted from pay for prior service and the deductions that would have been required if the amendments made by this Act had then been in effect. Any special contributions under this clause shall be computed under regulations based on section 805(d) of the Foreign Service Act of 1980 \[[22 U.S.C. 4045(d)][/us/usc/t22/s4045/d]\] (as amended by section 2), including provisions relating to the computation of interest.
 
 >                 “(ii) __Actuarial reduction.—__ 
 
->                          “(I) __Rule if the special contribution is paid.—__ 
+>                          “(I)  __Rule if the special contribution is paid__  __.—__ 
 
 >                     If the full amount of the special contribution under clause (i) is paid, no reduction under this clause shall apply.
 
->                          “(II) __Rule if less than the entire amount is paid.—__ 
+>                          “(II)  __Rule if less than the entire amount is paid__  __.—__ 
 
 >                     If no special contribution under clause (i) is paid, or if less than the entire amount of such special contribution is paid, the recomputed annuity shall be reduced by an amount sufficient to make up the actuarial present value of the shortfall.
 
->     “(c) __Regulations and Notice.—__ 
+>     “(c)  __Regulations and Notice__  __.—__ 
 
 >     Not later than 6 months after the date of the enactment of this Act \[Nov. 13, 1998\], the Secretary of State—
 
@@ -207,11 +207,11 @@
 
 >         “(2) shall take measures reasonably designed to provide notice to participants as to any rights they might have under this Act.
 
->     “(d) __Election Deadline.—__ 
+>     “(d)  __Election Deadline__  __.—__ 
 
 >     An election under subsection (b) must be made not later than 90 days after the date on which the relevant notice under subsection (c)(2) is provided.
 
->     “(e) __Definition.—__ 
+>     “(e)  __Definition__  __.—__ 
 
 >     For purposes of this section, the term ‘special agent’ has the meaning given such term under section 804(15) of the Foreign Service Act of 1980 ([22 U.S.C. 4044(15)][/us/usc/t22/s4044/15]), as amended by section 2(a).”
 

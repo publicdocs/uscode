@@ -31,11 +31,11 @@
 
 [Pub. L. 103–160, div. C, title XXXV, § 3504][/us/pl/103/160/s3504], Nov. 30, 1993, [107 Stat. 1965][/us/stat/107/1965], provided that:
 
->     “(a) __Consent of Congress.—__ 
+>     “(a)  __Consent of Congress__  __.—__ 
 
 >     Subject to subsection (b), the Congress consents to employees of the Panama Canal Commission who are not citizens of the United States accepting civil employment with agencies and organizations affiliated with the Government of Panama (and compensation for that employment) for which the consent of Congress is required by the 8th clause of section 9 of article I of the Constitution of the United States, relating to acceptance of emolument, office, or title from a foreign State.
 
->     “(b) __Condition.—__ 
+>     “(b)  __Condition__  __.—__ 
 
 >     Employees described in subsection (a) may accept employment described in such subsection (and compensation for that employment) only if the employment is approved by the designated agency ethics official of the Panama Canal Commission designated pursuant to the Ethics in Government Act of 1978 (5 U.S.C. App.), and by the Administrator of the Panama Canal Commission.”
 

@@ -45,15 +45,15 @@
 
 > “In this Act \[enacting this section and provisions set out as a note under [section 7801 of this title][/us/usc/t22/s7801]\]:
 
->     “(1) __Appropriate congressional committees.—__ 
+>     “(1)  __Appropriate congressional committees__  __.—__ 
 
 >     The term ‘appropriate congressional committees’ means the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
 
->     “(2) __Hague country.—__ 
+>     “(2)  __Hague country__  __.—__ 
 
 >     The term ‘Hague country’ means a country where the Convention on Protection of Children and Cooperation in Respect of Intercountry Adoption, done at The Hague May 29, 1993, has entered into force and is fully implemented.
 
->     “(3) __Non-hague country.—__ 
+>     “(3)  __Non-hague country__  __.—__ 
 
 >     The term ‘non-Hague country’ means a country where the Convention on Protection of Children and Cooperation in Respect of Intercountry Adoption, done at The Hague May 29, 1993, has not entered into force.”
 

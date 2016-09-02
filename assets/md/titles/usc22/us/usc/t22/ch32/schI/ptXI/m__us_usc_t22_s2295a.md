@@ -167,7 +167,7 @@
 
 [Pub. L. 102–511, title II, § 202][/us/pl/102/511/s202], Oct. 24, 1992, [106 Stat. 3331][/us/stat/106/3331], provided that:
 
->     “(a) __Prohibition.—__ 
+>     “(a)  __Prohibition__  __.—__ 
 
 >     Except as provided in subsections (b) and (c), an agency, instrumentality, or other governmental entity of an independent state of the former Soviet Union shall not be eligible to receive assistance under chapter 11 of part I of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2295][/us/usc/t22/s2295] et seq.\] if—
 
@@ -185,11 +185,11 @@
 
 >             “(D) The passage of legislation, after a court’s judgment, nullifying that judgment or forbidding compliance with that judgment.
 
->     “(b) __Exception for Humanitarian Assistance.—__ 
+>     “(b)  __Exception for Humanitarian Assistance__  __.—__ 
 
 >     The prohibition contained in subsection (a) shall not apply to the provision of assistance to alleviate suffering resulting from a natural or man-made disaster.
 
->     “(c) __Waiver Authority.—__ 
+>     “(c)  __Waiver Authority__  __.—__ 
 
 >     The Secretary of State may waive the application of subsection (a) whenever the Secretary finds that—
 
@@ -197,11 +197,11 @@
 
 >         “(2) it is important to the national interest of the United States to do so.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     Nine months after the date of enactment of this Act \[Oct. 24, 1992\], the Secretary of State shall report to the Speaker of the House of Representatives and the Chairman of the Committee on Foreign Relations of the Senate on the status of final judgments described in subsection (a)(1).
 
->     “(e) __United States Person.—__ 
+>     “(e)  __United States Person__  __.—__ 
 
 >     For purposes of this section, the term ‘United States person’ means—
 

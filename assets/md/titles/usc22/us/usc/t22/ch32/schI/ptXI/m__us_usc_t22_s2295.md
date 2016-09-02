@@ -155,7 +155,7 @@
 
 [Pub. L. 107–246, § 2][/us/pl/107/246/s2], Oct. 23, 2002, [116 Stat. 1511][/us/stat/116/1511], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress makes the following findings:
 
@@ -207,7 +207,7 @@
 
 >         “(8) United States-Russia relations have improved, leading to a successful summit between President Bush and President Putin in May 2002, resulting in a ‘Foundation for Cooperation’.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of this Act \[see Short Title of 2002 Amendments note set out under [section 2151 of this title][/us/usc/t22/s2151]\] are—
 
@@ -219,7 +219,7 @@
 
 [Pub. L. 107–246, § 3][/us/pl/107/246/s3], Oct. 23, 2002, [116 Stat. 1513][/us/stat/116/1513], provided that:
 
->     “(a) __Sense of Congress.—__ 
+>     “(a)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of Congress that the United States Government should—
 
@@ -227,7 +227,7 @@
 
 >         “(2) continue and increase assistance to the democratic forces in the Russian Federation, including the independent media, regional administrations, democratic political parties, and nongovernmental organizations.
 
->     “(b) __Statement of Policy.—__ 
+>     “(b)  __Statement of Policy__  __.—__ 
 
 >     It shall be the policy of the United States—
 
@@ -253,7 +253,7 @@
 
 [Pub. L. 107–246, § 5][/us/pl/107/246/s5], Oct. 23, 2002, [116 Stat. 1515][/us/stat/116/1515], provided that:
 
->     “(a) __Assistance Programs.—__ 
+>     “(a)  __Assistance Programs__  __.—__ 
 
 >     In providing assistance to the Russian Federation under chapter 11 of part I of the Foreign Assistance Act of 1961 ([22 U.S.C. 2295][/us/usc/t22/s2295] et seq.), the President is authorized to—
 
@@ -263,7 +263,7 @@
 
 >         “(3) support the Regional Initiatives (RI) program, which provides targeted assistance in those regions of the Russian Federation that have demonstrated a commitment to reform, democracy, and the rule of law, and which promotes the concept of such programs as a model for all regions of the Russian Federation.
 
->     “(b) __Radio Free Europe/Radio Liberty and Voice of America.—__ 
+>     “(b)  __Radio Free Europe/Radio Liberty and Voice of America__  __.—__ 
 
 >     RFE/RL, Incorporated, and the Voice of America should use new and innovative techniques, in cooperation with local independent media sources and using local languages as appropriate and as possible, to disseminate throughout the Russian Federation information relating to democracy, free-market economics, the rule of law, and human rights.”
 

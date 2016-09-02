@@ -285,15 +285,19 @@ And determine, consistent with section 110(d)(4) of the Act, with respect to Zim
 
  __Delegation of Authority Pursuant to Sections 110(d)(4) and 110(f) of the Trafficking Victims Protection Act of 2000, as Amended__ 
 
-    Memorandum of President of the United States, Feb. 3, 2012, 77 F.R. 11375, provided:
+    Memorandum of President of the United States, July 29, 2013, 78 F.R. 48027, provided:
 
     Memorandum for the Secretary of State
 
-    By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3][/us/usc/t3/s301], United States Code, I hereby delegate to you the authority conferred upon the President by the Trafficking Victims Protection Act of 2000 (Division A of [Public Law 106–386][/us/pl/106/386]), as amended (the “Act”), to determine, consistent with sections 110(d)(4) and 110(f) of the Act, with respect to Burma for fiscal year 2012, that assistance described in section 110(d)(1)(B) of the Act would promote the purposes of the Act or is otherwise in the national interest of the United States.
+    By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3][/us/usc/t3/s301], United States Code, I hereby delegate to the Secretary of State the authority conferred upon the President by the Trafficking Victims Protection Act of 2000 (Division A of [Public Law 106–386][/us/pl/106/386]), as amended (the “Act”), to determine, consistent with sections 110(d)(4) and 110(f) of the Act, with respect to Syria for Fiscal Year 2013, that assistance described in section 110(d)(1)(B) of the Act would promote the purposes of the Act or is otherwise in the national interest of the United States.
 
     You are authorized and directed to publish this memorandum in the Federal Register.
 
                               Barack Obama.
+
+Similar provisions delegating authority under section 110(d)(4) and (f) of the Trafficking Victims Protection Act of 2000 were contained in the following:
+
+    Memorandum of President of the United States, Feb. 3, 2012, 77 F.R. 11375.—Burma, fiscal year 2012.
 
 ----------
 

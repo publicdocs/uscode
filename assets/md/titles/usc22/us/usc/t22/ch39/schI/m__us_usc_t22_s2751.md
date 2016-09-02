@@ -117,7 +117,7 @@
 
 >     “(a) __Program Required.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Defense shall establish and carry out a program to provide for the registration and end-use monitoring of defense articles and defense services transferred to Afghanistan and Pakistan in accordance with the requirements under subsection (b) and to prohibit the retransfer of such defense articles and defense services without the consent of the United States. The program required under this subsection shall be limited to the transfer of defense articles and defense services—
 
@@ -125,7 +125,7 @@
 
 >             “(B) using funds made available to the Department of Defense, including funds available pursuant to the Pakistan Counterinsurgency Fund.
 
->         “(2) __Prohibition.—__ 
+>         “(2)  __Prohibition__  __.—__ 
 
 >         No defense articles or defense services that would be subject to the program required under this subsection may be transferred to—
 
@@ -135,7 +135,7 @@
 
 >             until the Secretary of Defense certifies to the specified congressional committees that the program required under this subsection has been established.
 
->     “(b) __Registration and End-use Monitoring Requirements.—__ 
+>     “(b)  __Registration and End-use Monitoring Requirements__  __.—__ 
 
 >     The registration and end-use monitoring requirements under this subsection shall include the following:
 
@@ -159,27 +159,27 @@
 
 >     “(c) __Review; Exemption.—__ 
 
->         “(1) __Review.—__ 
+>         “(1)  __Review__  __.—__ 
 
 >         The Secretary of Defense shall periodically review the defense articles and defense services subject to the registration and end-use monitoring requirements under subsection (b) to determine which defense articles and defense services, if any, should no longer be subject to such registration and end-use monitoring requirements. The Secretary of Defense shall submit to the specified congressional committees the results of each review conducted under this paragraph.
 
->         “(2) __Exemption.—__ 
+>         “(2)  __Exemption__  __.—__ 
 
 >         The Secretary of Defense may exempt a defense article or defense service from the registration and end-use monitoring requirements under subsection (b) beginning on the date that is 30 days after the date on which the Secretary provides notice of the proposed exemption to the specified congressional committees. Such notice shall describe any controls to be imposed on such defense article or defense service, as the case may be, under any other provision of law.
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Defense article.—__ 
+>         “(1)  __Defense article__  __.—__ 
 
 >         The term ‘defense article’ has the meaning given the term in section 644(d) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2403(d)][/us/usc/t22/s2403/d]).
 
->         “(2) __Defense service.—__ 
+>         “(2)  __Defense service__  __.—__ 
 
 >         The term ‘defense service’ has the meaning given the term in section 644(f) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2403(f)][/us/usc/t22/s2403/f]).
 
->         “(3) __Small arm.—__ 
+>         “(3)  __Small arm__  __.—__ 
 
 >         The term ‘small arm’ means—
 
@@ -199,7 +199,7 @@
 
 >             “(H) an individually-operated weapon which is portable or can be fired without special mounts or firing devices and which has potential use in civil disturbances and is vulnerable to theft.
 
->         “(4) __Specified congressional committees.—__ 
+>         “(4)  __Specified congressional committees__  __.—__ 
 
 >         The term ‘specified congressional committees’ means—
 
@@ -209,11 +209,11 @@
 
 >     “(e) __Effective Date.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in paragraph (2), this section shall take effect 180 days after the date of the enactment of this Act \[Oct. 28, 2009\].
 
->         “(2) __Exception.—__ 
+>         “(2)  __Exception__  __.—__ 
 
 >         The Secretary of Defense may delay the effective date of this section by an additional period of up to 120 days if the Secretary certifies in writing to the specified congressional committees for such additional period that it is in the vital interest of the United States to do so and includes in the certification a description of such vital interest.”
 
@@ -221,15 +221,15 @@
 
 [Pub. L. 110–181, div. A, title XII, § 1228][/us/pl/110/181/s1228], Jan. 28, 2008, [122 Stat. 377][/us/stat/122/377], provided that:
 
->     “(a) __Export and Transfer Control Policy.—__ 
+>     “(a)  __Export and Transfer Control Policy__  __.—__ 
 
 >     The President shall implement a policy to control the export and transfer of defense articles into Iraq, including implementation of the registration and monitoring system under subsection (c).
 
->     “(b) __Requirement to Implement Control System.—__ 
+>     “(b)  __Requirement to Implement Control System__  __.—__ 
 
 >     No defense articles may be provided to the Government of Iraq or any other group, organization, citizen, or resident of Iraq until the President certifies to the specified congressional committees that a registration and monitoring system meeting the requirements set forth in subsection (c) has been established.
 
->     “(c) __Registration and Monitoring System.—__ 
+>     “(c)  __Registration and Monitoring System__  __.—__ 
 
 >     The registration and monitoring system required under this subsection shall include—
 
@@ -241,23 +241,23 @@
 
 >     “(d) __Review; Exemption.—__ 
 
->         “(1) __Review.—__ 
+>         “(1)  __Review__  __.—__ 
 
 >         The President shall periodically review the items subject to the registration and monitoring requirements under subsection (c) to determine what items, if any, should no longer be subject to such registration and monitoring requirements. The President shall transmit to the specified congressional committees the results of each review conducted under this paragraph.
 
->         “(2) __Exemption.—__ 
+>         “(2)  __Exemption__  __.—__ 
 
 >         The President may exempt an item from the registration and monitoring requirements under subsection (c) beginning on the date that is 30 days after the date on which the President provides notice of the proposed exemption to the specified congressional committees in accordance with the procedures applicable to reprogramming notifications under section 634A(a) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2394–1(a)][/us/usc/t22/s2394–1/a]). Such notice shall describe any controls to be imposed on such item under any other provision of law.
 
->     “(e) __Definitions.—__ 
+>     “(e)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Defense article.—__ 
+>         “(1)  __Defense article__  __.—__ 
 
 >         The term ‘defense article’ has the meaning given the term in section 644(d) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2403(d)][/us/usc/t22/s2403/d]).
 
->         “(2) __Small arms.—__ 
+>         “(2)  __Small arms__  __.—__ 
 
 >         The term ‘small arms’ means—
 
@@ -277,7 +277,7 @@
 
 >             “(H) individually-operated weapons which are portable or can be fired without special mounts or firing devices and which have potential use in civil disturbances and are vulnerable to theft.
 
->         “(3) __Specified congressional committees.—__ 
+>         “(3)  __Specified congressional committees__  __.—__ 
 
 >         The term ‘specified congressional committees’ means—
 
@@ -287,11 +287,11 @@
 
 >     “(f) __Effective Date.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in paragraph (2), this section shall take effect 180 days after the date of the enactment of this Act \[Jan. 28, 2008\].
 
->         “(2) __Exception.—__ 
+>         “(2)  __Exception__  __.—__ 
 
 >         The President may delay the effective date of this section by an additional period of up to 90 days if the President certifies in writing to the specified congressional committees for such additional period that it is in the vital interest of the United States to do so and includes in the certification a description of such vital interest.”
 
@@ -299,13 +299,13 @@
 
 [Pub. L. 109–472, § 12][/us/pl/109/472/s12], Jan. 11, 2007, [120 Stat. 3558][/us/stat/120/3558], provided that:
 
->     “(a) __Statement of Policy.—__ 
+>     “(a)  __Statement of Policy__  __.—__ 
 
 >     Congress declares that it should be the policy of the United States to hold foreign governments accountable for knowingly transferring MANPADS to state-sponsors of terrorism or terrorist organizations.
 
 >     “(b) __Determination Relating to Sanctions.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         If the President determines that a foreign government knowingly transfers MANPADS to a foreign government described in paragraph (2) or a terrorist organization, the President shall—
 
@@ -313,11 +313,11 @@
 
 >             “(B) impose forthwith on the transferring foreign government the sanctions described in subsection (c).
 
->         “(2) __Foreign government described.—__ 
+>         “(2)  __Foreign government described__  __.—__ 
 
 >         A foreign government described in this paragraph is a foreign government that the Secretary of State has determined, for purposes of section 6(j) of the Export Administration Act of 1979 \[50 U.S.C. App. 2405(j)\], section 620A of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2371][/us/usc/t22/s2371]\], section 40 of the Arms Export Control Act \[[22 U.S.C. 2780][/us/usc/t22/s2780]\], or any other provision of law, is a government that has repeatedly provided support for acts of international terrorism.
 
->     “(c) __Sanctions Described.—__ 
+>     “(c)  __Sanctions Described__  __.—__ 
 
 >     The sanctions referred to in subsection (b)(1)(B) are the following:
 
@@ -333,31 +333,31 @@
 
 >         “(3) Termination of all foreign military financing for the transferring foreign government.
 
->     “(d) __Waiver.—__ 
+>     “(d)  __Waiver__  __.—__ 
 
 >     Notwithstanding any other provision of law, sanctions shall not be imposed on a transferring foreign government under this section if the President determines and certifies in writing to the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate that the furnishing of the assistance, sales, licensing, or financing that would otherwise be suspended as a result of the imposition of such sanctions is important to the national security interests of the United States.
 
->     “(e) __Definitions.—__ 
+>     “(e)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Defense article.—__ 
+>         “(1)  __Defense article__  __.—__ 
 
 >         The term ‘defense article’ has the meaning given the term in section 47(3) of the Arms Export Control Act \[[22 U.S.C. 2794(3)][/us/usc/t22/s2794/3]\].
 
->         “(2) __Defense service.—__ 
+>         “(2)  __Defense service__  __.—__ 
 
 >         The term ‘defense service’ has the meaning given the term in section 47(4) of the Arms Export Control Act \[[22 U.S.C. 2794(4)][/us/usc/t22/s2794/4]\].
 
->         “(3) __Design and construction services.—__ 
+>         “(3)  __Design and construction services__  __.—__ 
 
 >         The term ‘design and construction services’ has the meaning given the term in section 47(8) of the Arms Export Control Act \[[22 U.S.C. 2794(8)][/us/usc/t22/s2794/8]\].
 
->         “(4) __Foreign government.—__ 
+>         “(4)  __Foreign government__  __.—__ 
 
 >         The term ‘foreign government’ includes any agency or instrumentality of a foreign government.
 
->         “(5) __Manpads.—__ 
+>         “(5)  __Manpads__  __.—__ 
 
 >         The term ‘MANPADS’ means—
 
@@ -369,11 +369,11 @@
 
 >     “(a) __United States Policy on Nonproliferation and Export Control.—__ 
 
->         “(1) __To limit availability and transfer of manpads.—__ 
+>         “(1)  __To limit availability and transfer of manpads__  __.—__ 
 
 >         The President shall pursue, on an urgent basis, further strong international diplomatic and cooperative efforts, including bilateral and multilateral treaties, in the appropriate forum to limit the availability, transfer, and proliferation of MANPADSs worldwide.
 
->         “(2) __To limit the proliferation of manpads.—__ 
+>         “(2)  __To limit the proliferation of manpads__  __.—__ 
 
 >         The President is encouraged to seek to enter into agreements with the governments of foreign countries that, at a minimum, would—
 
@@ -383,59 +383,59 @@
 
 >             “(C) prohibit the reexport or retransfer of a MANPADS, including any component, part, accessory, or attachment thereof, to a third person, organization, or government unless the written consent of the government that approved the original export or transfer is first obtained.
 
->         “(3) __To achieve destruction of manpads.—__ 
+>         “(3)  __To achieve destruction of manpads__  __.—__ 
 
 >         The President should continue to pursue further strong international diplomatic and cooperative efforts, including bilateral and multilateral treaties, in the appropriate forum to assure the destruction of excess, obsolete, and illicit stocks of MANPADSs worldwide.
 
 >         “(4) __Reporting and briefing requirement.—__ 
 
->             “(A) __President’s report.—__ 
+>             “(A)  __President’s report__  __.—__ 
 
 >             Not later than 180 days after the date of enactment of this Act \[Dec. 17, 2004\], the President shall transmit to the appropriate congressional committees a report that contains a detailed description of the status of diplomatic efforts under paragraphs (1), (2), and (3) and of efforts by the appropriate United States agencies to comply with the recommendations of the General Accounting Office \[now Government Accountability Office\] set forth in its report GAO–04–519, entitled ‘Nonproliferation: Further Improvements Needed in U.S. Efforts to Counter Threats from Man-Portable Air Defense Systems’.
 
->             “(B) __Annual briefings.—__ 
+>             “(B)  __Annual briefings__  __.—__ 
 
 >             Annually after the date of submission of the report under subparagraph (A) and until completion of the diplomatic and compliance efforts referred to in subparagraph (A), the Secretary of State shall brief the appropriate congressional committees on the status of such efforts.
 
 >     “(b) __FAA Airworthiness Certification of Missile Defense Systems for Commercial Aircraft.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         As soon as practicable, but not later than the date of completion of Phase II of the Department of Homeland Security’s counter-man-portable air defense system (MANPADS) development and demonstration program, the Administrator of the Federal Aviation Administration shall establish a process for conducting airworthiness and safety certification of missile defense systems for commercial aircraft certified as effective and functional by the Department of Homeland Security. The process shall require a certification by the Administrator that such systems can be safely integrated into aircraft systems and ensure airworthiness and aircraft system integrity.
 
->         “(2) __Certification acceptance.—__ 
+>         “(2)  __Certification acceptance__  __.—__ 
 
 >         Under the process, the Administrator shall accept the certification of the Department of Homeland Security that a missile defense system is effective and functional to defend commercial aircraft against MANPADSs.
 
->         “(3) __Expeditious certification.—__ 
+>         “(3)  __Expeditious certification__  __.—__ 
 
 >         Under the process, the Administrator shall expedite the airworthiness and safety certification of missile defense systems for commercial aircraft certified by the Department of Homeland Security.
 
->         “(4) __Reports.—__ 
+>         “(4)  __Reports__  __.—__ 
 
 >         Not later than 90 days after the first airworthiness and safety certification for a missile defense system for commercial aircraft is issued by the Administrator, and annually thereafter until December 31, 2008, the Federal Aviation Administration shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that contains a detailed description of each airworthiness and safety certification issued for a missile defense system for commercial aircraft.
 
 >     “(c) __Programs to Reduce MANPADS.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The President is encouraged to pursue strong programs to reduce the number of MANPADSs worldwide so that fewer MANPADSs will be available for trade, proliferation, and sale.
 
->         “(2) __Reporting and briefing requirements.—__ 
+>         “(2)  __Reporting and briefing requirements__  __.—__ 
 
 >         Not later than 180 days after the date of enactment of this Act \[Dec. 17, 2004\], the President shall transmit to the appropriate congressional committees a report that contains a detailed description of the status of the programs being pursued under subsection (a). Annually thereafter until the programs are no longer needed, the Secretary of State shall brief the appropriate congressional committees on the status of programs.
 
->         “(3) __Funding.—__ 
+>         “(3)  __Funding__  __.—__ 
 
 >         There is authorized to be appropriated such sums as may be necessary to carry out this section.
 
 >     “(d) __MANPADS Vulnerability Assessments Report.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than one year after the date of enactment of this Act \[Dec. 17, 2004\], the Secretary of Homeland Security shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report describing the Department of Homeland Security’s plans to secure airports and the aircraft arriving and departing from airports against MANPADSs attacks.
 
->         “(2) __Matters to be addressed.—__ 
+>         “(2)  __Matters to be addressed__  __.—__ 
 
 >         The Secretary’s report shall address, at a minimum, the following:
 
@@ -449,15 +449,15 @@
 
 >             “(E) Any other issues that the Secretary deems relevant.
 
->         “(3) __Format.—__ 
+>         “(3)  __Format__  __.—__ 
 
 >         The report required by this subsection may be submitted in a classified format.
 
->     “(e) __Definitions.—__ 
+>     “(e)  __Definitions__  __.—__ 
 
 >     In this section, the following definitions apply:
 
->         “(1) __Appropriate congressional committees.—__ 
+>         “(1)  __Appropriate congressional committees__  __.—__ 
 
 >         The term ‘appropriate congressional committees’ means—
 
@@ -479,15 +479,15 @@
 
 [Pub. L. 108–375, div. A, title XII, § 1225][/us/pl/108/375/s1225], Oct. 28, 2004, [118 Stat. 2091][/us/stat/118/2091], provided that:
 
->     “(a) __Policy.—__ 
+>     “(a)  __Policy__  __.—__ 
 
 >     It is the policy of Congress that bilateral exchanges and trade in defense articles and defense services between the United States and the United Kingdom and Australia are in the national security interest of the United States and that such exchanges and trade should be subjected to accelerated review and processing consistent with national security and the requirements of the Arms Export Control Act ([22 U.S.C. 2751][/us/usc/t22/s2751] et seq.).
 
->     “(b) __Requirement.—__ 
+>     “(b)  __Requirement__  __.—__ 
 
 >     The Secretary of State shall ensure that any license application submitted for the export of defense articles or defense services to Australia or the United Kingdom is expeditiously processed by the Department of State, in consultation with the Department of Defense, without referral to any other Federal department or agency, except where the item is classified or exceptional circumstances apply.
 
->     “(c) __Regulations.—__ 
+>     “(c)  __Regulations__  __.—__ 
 
 >     The President shall ensure that regulations are prescribed to implement this section.”
 
@@ -501,11 +501,11 @@
 
 [Pub. L. 103–337, div. A, title XV, § 1503][/us/pl/103/337/s1503], Oct. 5, 1994, [108 Stat. 2916][/us/stat/108/2916]; [Pub. L. 104–201, div. A, title XIII, § 1309(d)][/us/pl/104/201/s1309/d], Sept. 23, 1996, [110 Stat. 2710][/us/stat/110/2710]; [Pub. L. 106–65, div. A, title XV, § 1504(c)][/us/pl/106/65/s1504/c], Oct. 5, 1999, [113 Stat. 808][/us/stat/113/808]; [Pub. L. 107–314, div. A, title XII, § 1208(b)][/us/pl/107/314/s1208/b], (c), Dec. 2, 2002, [116 Stat. 2668][/us/stat/116/2668]; [Pub. L. 110–181, div. A, title XII, § 1256(d)][/us/pl/110/181/s1256/d], Jan. 28, 2008, [122 Stat. 404][/us/stat/122/404], provided that:
 
->     “(a) __Biennial Report Required.—__ 
+>     “(a)  __Biennial Report Required__  __.—__ 
 
 >     Not later than May 1 each odd-numbered year, the Secretary of Defense shall submit to Congress a report of the findings of the Counterproliferation Program Review Committee established by subsection (a) of the Review Committee charter.
 
->     “(b) __Content of Report.—__ 
+>     “(b)  __Content of Report__  __.—__ 
 
 >     Each report under subsection (a) shall include the following:
 
@@ -525,15 +525,15 @@
 
 >         “(8) A discussion of the limitations and impediments to the biological weapons counterproliferation efforts of the Department of Defense (including legal, policy, and resource constraints) and recommendations for the removal or mitigation of such impediments and for ways to make such efforts more effective.
 
->     “(c) __Forms of Report.—__ 
+>     “(c)  __Forms of Report__  __.—__ 
 
 >     Each such report shall be submitted in both unclassified and classified forms, including an annex to the classified report for special compartmented information programs, special access programs, and special activities programs.
 
->     “(d) __Review Committee Charter Defined.—__ 
+>     “(d)  __Review Committee Charter Defined__  __.—__ 
 
 >     For purposes of this section, the term ‘Review Committee charter’ means section 1605 of the National Defense Authorization Act for Fiscal Year 1994 \[[Pub. L. 103–160][/us/pl/103/160]\] ([22 U.S.C. 2751][/us/usc/t22/s2751] note).
 
->     “(e) __Termination of Requirement.—__ 
+>     “(e)  __Termination of Requirement__  __.—__ 
 
 >     The final report required under subsection (a) is the report for the year following the year in which the Counterproliferation Program Review Committee established under the Review Committee Charter ceases to exist.”
 
@@ -541,13 +541,13 @@
 
 [Pub. L. 103–236, title V, § 564][/us/pl/103/236/s564], Apr. 30, 1994, [108 Stat. 484][/us/stat/108/484], as amended by [Pub. L. 103–415, § 1][/us/pl/103/415/s1](l), Oct. 25, 1994, [108 Stat. 4301][/us/stat/108/4301], provided that:
 
->     “(a) __Prohibition.—__ 
+>     “(a)  __Prohibition__  __.—__ 
 
 >     No defense article or defense service may be sold or leased by the United States Government to any country or international organization that, as a matter of policy or practice, is known to have sent letters to United States firms requesting compliance with, or soliciting information regarding compliance with, the Arab League secondary or tertiary boycott of Israel, unless the President determines, and so certifies to the appropriate congressional committees, that that country or organization does not currently maintain a policy or practice of making such requests or solicitations.
 
 >     “(b) __Waiver.—__ 
 
->         “(1) __1-year waiver.—__ 
+>         “(1) __1-__  __year waiver__  __.—__ 
 
 >         On or after the effective date of this section, the President may waive, for a period of 1 year, the application of subsection (a) with respect to any country or organization if the President determines, and reports to the appropriate congressional committees, that—
 
@@ -555,15 +555,15 @@
 
 >             “(B) such waiver is in the national security interest of the United States.
 
->         “(2) __Extension of waiver.—__ 
+>         “(2)  __Extension of waiver__  __.—__ 
 
 >         If the President determines that the further extension of a waiver will promote the objectives of this section, the President, upon notification of the appropriate congressional committees, may grant further extensions of such waiver for successive 12-month periods.
 
->         “(3) __Termination of waiver.—__ 
+>         “(3)  __Termination of waiver__  __.—__ 
 
 >         The President may, at any time, terminate any waiver granted under this subsection.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     As used in this section—
 
@@ -571,7 +571,7 @@
 
 >         “(2) the terms ‘defense article’ and ‘defense service’ have the meanings given to such terms by paragraphs (3) and (4), respectively, of section 47 of the Arms Export Control Act \[[22 U.S.C. 2794(3)][/us/usc/t22/s2794/3], (4)\].
 
->     “(d) __Effective Date.—__ 
+>     “(d)  __Effective Date__  __.—__ 
 
 >     This section shall take effect 1 year after the date of enactment of this Act \[Apr. 30, 1994\].”
 
@@ -589,11 +589,11 @@
 
 > “SEC. 1603. __STUDIES RELATING TO UNITED STATES COUNTERPROLIFERATION POLICY.__ 
 
->     “(a) __Authorization To Conduct Studies.—__ 
+>     “(a)  __Authorization To Conduct Studies__  __.—__ 
 
 >     The Secretary of Defense may conduct studies and analysis programs in support of the counterproliferation policy of the United States.
 
->     “(b) __Counterproliferation Studies.—__ 
+>     “(b)  __Counterproliferation Studies__  __.—__ 
 
 >     Studies and analysis programs under this section may include programs intended to explore defense policy issues that might be involved in efforts to prevent and counter the proliferation of weapons of mass destruction and their delivery systems. Such efforts include—
 
@@ -603,11 +603,11 @@
 
 >         “(3) otherwise contributing to Department of Defense capabilities to deter, identify, monitor, and respond to such terrorism, theft, and proliferation involving weapons of mass destruction.
 
->     “(c) __Designation of Coordinator.—__ 
+>     “(c)  __Designation of Coordinator__  __.—__ 
 
 >     The Under Secretary of Defense for Policy, subject to the supervision and control of the Secretary of Defense, shall coordinate the policy studies and analysis of the Department of Defense on countering proliferation of weapons of mass destruction and their delivery systems.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     Not later than April 30 of each year, the Secretary of Defense shall submit to the appropriate congressional committees a report on the activities carried out under subsection (a). Each report shall set forth for the twelve-month period ending on the last day of the month preceding the month in which the report is due the following:
 
@@ -623,7 +623,7 @@
 
 > “SEC. 1605. __JOINT COMMITTEE FOR REVIEW OF COUNTERPROLIFERATION PROGRAMS OF THE UNITED STATES.__ 
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >         (1)
 
@@ -649,7 +649,7 @@
 
 >         “(5) The Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs shall serve as executive secretary to the committee, except that during any period during which that position is vacant the Assistant Secretary of Defense for Strategy and Threat Reduction shall serve as the executive secretary.
 
->     “(b) __Purposes of the Committee.—__ 
+>     “(b)  __Purposes of the Committee__  __.—__ 
 
 >     The purposes of the committee are as follows:
 
@@ -671,7 +671,7 @@
 
 >         “(6) To ensure that Department of Energy national security programs include technology demonstrations and prototype development of equipment.
 
->     “(c) __Duties.—__ 
+>     “(c)  __Duties__  __.—__ 
 
 >     The committee shall—
 
@@ -697,15 +697,15 @@
 
 >         “(5) assess each fiscal year the effectiveness of the committee actions during the preceding fiscal year, including, particularly, the status of recommendations made during such preceding fiscal year that were reflected in the budget submitted to Congress pursuant to [section 1105(a) of title 31][/us/usc/t31/s1105/a], United States Code, for the fiscal year following the fiscal year in which the assessment is made.
 
->     “(d) __Access to Information.—__ 
+>     “(d)  __Access to Information__  __.—__ 
 
 >     The committee shall have access to information on all programs, projects, and activities of the Department of Defense, the Department of State, the Department of Energy, the Department of State, the Department of Homeland Security, the intelligence community, and the Arms Control and Disarmament Agency that are pertinent to the purposes and duties of the committee.
 
->     “(e) __Recommendations.—__ 
+>     “(e)  __Recommendations__  __.—__ 
 
 >     The committee shall submit to the President and the heads of all appropriate departments and agencies of the Government such programmatic recommendations regarding existing, planned, or new programs as the committee considers appropriate to encourage funding for capabilities and technologies at the level necessary to support United States counterproliferation policy.
 
->     “(f) __Termination of Committee.—__ 
+>     “(f)  __Termination of Committee__  __.—__ 
 
 >     The committee shall cease to exist at the end of September 30, 2013.
 

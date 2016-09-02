@@ -57,19 +57,19 @@
 
 > “In this title \[title XVII (§§ 1701–1708) of div. A of [Pub. L. 112–239][/us/pl/112/239], enacting this section and sections 7104b to 7104d of this title, amending sections 7103 and 7104 of this title, [section 1351 of Title 18][/us/usc/t18/s1351], Crimes and Criminal Procedure, and [section 2313 of Title 41][/us/usc/t41/s2313], Public Contracts, and enacting provisions set out as a note under [section 1101 of Title 8][/us/usc/t8/s1101], Aliens and Nationality\]:
 
->     “(1) __Executive agency.—__ 
+>     “(1)  __Executive agency__  __.—__ 
 
 >     The term ‘executive agency’ has the meaning given the term in [section 133 of title 41][/us/usc/t41/s133], United States Code.
 
->     “(2) __Subcontractor.—__ 
+>     “(2)  __Subcontractor__  __.—__ 
 
 >     The term ‘subcontractor’ means a recipient of a contract at any tier under a grant, contract, or cooperative agreement.
 
->     “(3) __Subgrantee.—__ 
+>     “(3)  __Subgrantee__  __.—__ 
 
 >     The term ‘subgrantee’ means a recipient of a grant at any tier under a grant or cooperative agreement.
 
->     “(4) __United states.—__ 
+>     “(4)  __United states__  __.—__ 
 
 >     The term ‘United States’ has the meaning provided in section 103(12) \[now (13)\] of the Trafficking Victims Protection Act of 2000 ([22 U.S.C. 7102(12)][/us/usc/t22/s7102/12] \[now (13)\]).”
 

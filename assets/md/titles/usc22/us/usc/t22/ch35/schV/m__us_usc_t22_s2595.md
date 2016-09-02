@@ -91,7 +91,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [Pub. L. 101–189, div. A, title X, § 1014][/us/pl/101/189/s1014], Nov. 29, 1989, [103 Stat. 1547][/us/stat/103/1547], provided that:
 
->     “(a) __Findings Concerning On-Site Inspection Personnel.—__ 
+>     “(a)  __Findings Concerning On-Site Inspection Personnel__  __.—__ 
 
 >     Congress makes the following findings:
 
@@ -111,7 +111,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(8) The organization best suited to establish such a database is the On-Site Inspection Agency (OSIA) of the Department of Defense, which was created by the President to implement (for the United States) the on-site inspection provisions of the INF Treaty.
 
->     “(b) __Status of the OSIA.—__ 
+>     “(b)  __Status of the OSIA__  __.—__ 
 
 >         (1)
 
@@ -129,13 +129,13 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(2) In light of the findings in paragraph (1) and the report submitted pursuant to [section 909 of Public Law 100–456][/us/pl/100/456/s909] \[div. A, title IX, Sept. 29, 1988, [102 Stat. 2036][/us/stat/102/2036]\] entitled ‘Report to the Congress on U.S. Monitoring and Verification Activities Related to the INF Treaty’ (submitted on July 27, 1989), Congress hereby determines that by locating the On-Site Inspection Agency within the Department of Defense for the purposes of administrative and logistic support and operational guidance, and integrating on-site inspection responsibilities under the INF Treaty with existing organizational activities of that Department, the President has been able to ensure that sensitive national security assets are protected and that obligations of the United States under that treaty are fulfilled in an efficient and cost-effective manner.
 
->     “(c) __Establishment of Personnel Database.—__ 
+>     “(c)  __Establishment of Personnel Database__  __.—__ 
 
 >         (1) In light of the findings in subsection (a), the Director of the On-Site Inspection Agency shall establish a database consisting of the names of individuals who could be assigned or detailed (in the case of Government personnel) or employed (in the case of non-Government personnel) to participate in the conduct of on-site inspections under any future arms control treaty or agreement that includes provisions for such inspections.
 
 >         “(2) The database should be composed of the names of individuals with skills (including linguistic and technical skills) necessary for the conduct of on-site inspections.
 
->     “(d) __INF Treaty Defined.—__ 
+>     “(d)  __INF Treaty Defined__  __.—__ 
 
 >     For purposes of this section, the term ‘INF Treaty’ means the Treaty Between the United States and the Union of Soviet Socialist Republics on the Elimination of Their Intermediate-Range and Shorter-Range Missiles, signed in Washington, DC, on December 8, 1987.”
 

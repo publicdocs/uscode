@@ -83,27 +83,27 @@
 
 >     “(b) __Operation of the Office of Transition Administration.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Panama Canal Act of 1979 ([22 U.S.C. 3601][/us/usc/t22/s3601] et seq.) shall continue to govern the Office of Transition Administration until October 1, 2004.
 
->         “(2) __Procurement.—__ 
+>         “(2)  __Procurement__  __.—__ 
 
 >         For purposes of exercising authority under the procurement laws of the United States, the director of the Office of Transition Administration shall have the status of the head of an agency.
 
->         “(3) __Offices.—__ 
+>         “(3)  __Offices__  __.—__ 
 
 >         The Office of Transition Administration shall have offices in the Republic of Panama and in the District of Columbia. Section 1110(b)(1) of the Panama Canal Act of 1973 ([22 U.S.C. 3620(b)(1)][/us/usc/t22/s3620/b/1]) does not apply to such office in the Republic of Panama.
 
->         “(4) __Office of transition administration defined.—__ 
+>         “(4)  __Office of transition administration defined__  __.—__ 
 
 >         In this subsection the term ‘Office of Transition Administration’ means the office established under section 1305 of the Panama Canal Act of 1979 ([22 U.S.C. 3714a][/us/usc/t22/s3714a]) to close out the affairs of the Panama Canal Commission.
 
->         “(5) __Effective date.—__ 
+>         “(5)  __Effective date__  __.—__ 
 
 >         This subsection shall be effective on and after the termination of the Panama Canal Treaty of 1977.
 
->     “(c) __Oversight of Close-Out Activities.—__ 
+>     “(c)  __Oversight of Close-Out Activities__  __.—__ 
 
 >     The Panama Canal Commission shall enter into an agreement with the head of a department or agency of the Federal Government to supervise the close out of the affairs of the Commission under section 1305 of the Panama Canal Act of 1979 and to certify the completion of that function.”
 

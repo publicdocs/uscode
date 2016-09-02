@@ -205,11 +205,11 @@
 
 [Pub. L. 109–95, § 4][/us/pl/109/95/s4], Nov. 8, 2005, [119 Stat. 2116][/us/stat/119/2116], provided that:
 
->     “(a) __Requirement for Strategy.—__ 
+>     “(a)  __Requirement for Strategy__  __.—__ 
 
 >     Not later than 180 days after the date of enactment of this Act \[Nov. 8, 2005\], the President shall develop, and transmit to the appropriate congressional committees, a strategy for coordinating, implementing, and monitoring assistance programs for orphans and vulnerable children.
 
->     “(b) __Consultation.—__ 
+>     “(b)  __Consultation__  __.—__ 
 
 >     The strategy described in subsection (a) should be developed in consultation with the Special Advisor for Assistance to Orphans and Vulnerable Children (appointed pursuant to section 135(e)(1) of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2152f(e)(1)][/us/usc/t22/s2152f/e/1]\] (as added by section 3 of this Act)) and with employees of the field missions of the United States Agency for International Development to ensure that the strategy—
 
@@ -217,7 +217,7 @@
 
 >         “(2) addresses the specific needs of indigenous populations.
 
->     “(c) __Content.—__ 
+>     “(c)  __Content__  __.—__ 
 
 >     The strategy required by subsection (a) shall include—
 

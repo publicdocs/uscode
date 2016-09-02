@@ -215,7 +215,7 @@
 
 [Pub. L. 105–385, § 2][/us/pl/105/385/s2], Nov. 13, 1998, [112 Stat. 3460][/us/stat/112/3460], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds the following:
 
@@ -251,7 +251,7 @@
 
 >             “(B) Rural business associations, owned and controlled by farmer shareholders, also greatly help agricultural producers to increase their household incomes.
 
->     “(b) __Declaration of Policy.—__ 
+>     “(b)  __Declaration of Policy__  __.—__ 
 
 >     It is the policy of the United States, consistent with title XII of part I of the Foreign Assistance Act of 1961 \[probably means title XII of chapter 2 of part I of the Foreign Assistance Act of 1961, [22 U.S.C. 2220a][/us/usc/t22/s2220a] et seq.\], to support governments of sub-Saharan African countries, United States and African nongovernmental organizations, universities, businesses, and international agencies, to help ensure the availability of basic nutrition and economic opportunities for individuals in sub-Saharan Africa, through sustainable agriculture and rural development.”
 
@@ -259,7 +259,7 @@
 
 > “SEC. 101. __AFRICA FOOD SECURITY INITIATIVE.__ 
 
->     “(a) __Additional Requirements in Carrying Out the Initiative.—__ 
+>     “(a)  __Additional Requirements in Carrying Out the Initiative__  __.—__ 
 
 >     In providing development assistance under the Africa Food Security Initiative, or any comparable or successor program, the Administrator of the United States Agency for International Development—
 
@@ -271,29 +271,29 @@
 
 >         “(4) shall ensure that programs are designed and conducted in cooperation with African and United States organizations and institutions, such as private and voluntary organizations, cooperatives, land-grant and other appropriate universities, and local producer-owned cooperative marketing and buying associations, that have expertise in addressing the needs of the poor, small-scale farmers, entrepreneurs, and rural workers, including women.
 
->     “(b) __Sense of the Congress.—__ 
+>     “(b)  __Sense of the Congress__  __.—__ 
 
 >     It is the sense of the Congress that, if there is an increase in funding for sub-Saharan programs, the Administrator of the United States Agency for International Development should proportionately increase resources to the Africa Food Security Initiative, or any comparable or successor program, for fiscal year 2000 and subsequent fiscal years in order to meet the needs of the countries participating in such Initiative.
 
 > “SEC. 102. __MICROENTERPRISE ASSISTANCE.__ 
 
->     “(a) __Bilateral Assistance.—__ 
+>     “(a)  __Bilateral Assistance__  __.—__ 
 
 >     In providing microenterprise assistance for sub-Saharan Africa, the Administrator of the United States Agency for International Development shall, to the extent practicable, use credit and microcredit assistance to improve the capacity and efficiency of agriculture production in sub-Saharan Africa of small-scale farmers and small rural entrepreneurs. In providing assistance, the Administrator should use the applied research and technical assistance capabilities of United States land-grant universities.
 
 >     “(b) __Multilateral Assistance.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Administrator of the United States Agency for International Development shall continue to work with other countries, international organizations (including multilateral development institutions), and entities assisting microenterprises and shall develop a comprehensive and coordinated strategy for providing microenterprise assistance for sub-Saharan Africa.
 
->         “(2) __Additional requirement.—__ 
+>         “(2)  __Additional requirement__  __.—__ 
 
 >         In carrying out paragraph (1), the Administrator should encourage the World Bank Consultative Group to Assist the Poorest to coordinate the strategy described in such paragraph.
 
 > “SEC. 103. __SUPPORT FOR PRODUCER-OWNED COOPERATIVE MARKETING ASSOCIATIONS.__ 
 
->     “(a) __Purposes.—__ 
+>     “(a)  __Purposes__  __.—__ 
 
 >     The purposes of this section are—
 
@@ -309,11 +309,11 @@
 
 >         “(1) __Activities.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Administrator of the United States Agency for International Development is authorized to utilize relevant foreign assistance programs and initiatives for sub-Saharan Africa to support private producer-owned cooperative marketing associations in sub-Saharan Africa, including rural business associations that are owned and controlled by farmer shareholders.
 
->             “(B) __Additional requirements.—__ 
+>             “(B)  __Additional requirements__  __.—__ 
 
 >             In carrying out subparagraph (A), the Administrator—
 
@@ -321,7 +321,7 @@
 
 >                 “(ii) shall take into account the local-level perspectives of the rural and urban poor through close consultation with these groups, consistent with section 496(e)(1) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2293(e)(1)][/us/usc/t22/s2293/e/1]).
 
->         “(2) __Other activities.—__ 
+>         “(2)  __Other activities__  __.—__ 
 
 >         In addition to carrying out paragraph (1), the Administrator is encouraged—
 
@@ -331,11 +331,11 @@
 
 > “SEC. 104. __AGRICULTURAL AND RURAL DEVELOPMENT ACTIVITIES OF THE OVERSEAS PRIVATE INVESTMENT CORPORATION.__ 
 
->     “(a) __Purpose.—__ 
+>     “(a)  __Purpose__  __.—__ 
 
 >     The purpose of this section is to encourage the Overseas Private Investment Corporation to work with United States businesses and other United States entities to invest in rural sub-Saharan Africa, particularly in ways that will develop the capacities of small-scale farmers and small rural entrepreneurs, including women, in sub-Saharan Africa.
 
->     “(b) __Sense of the Congress.—__ 
+>     “(b)  __Sense of the Congress__  __.—__ 
 
 >     It is the sense of the Congress that—
 
@@ -353,11 +353,11 @@
 
 > “SEC. 105. __AGRICULTURAL RESEARCH AND EXTENSION ACTIVITIES.__ 
 
->     “(a) __Development of Plan.—__ 
+>     “(a)  __Development of Plan__  __.—__ 
 
 >     The Administrator of the United States Agency for International Development, in consultation with the Secretary of Agriculture and appropriate Department of Agriculture agencies, especially the National Institute of Food and Agriculture, shall develop a comprehensive plan to coordinate and build on the research and extension activities of United States land-grant universities, international agricultural research centers, and national agricultural research and extension centers in sub-Saharan Africa.
 
->     “(b) __Additional Requirements.—__ 
+>     “(b)  __Additional Requirements__  __.—__ 
 
 >     Such plan shall seek to ensure that—
 

@@ -91,15 +91,15 @@
 
 [Pub. L. 100–204, title IV, § 403][/us/pl/100/204/s403], Dec. 22, 1987, [101 Stat. 1381][/us/stat/101/1381], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that the overriding national security aspects of the $1,300,000,000 facilities modernization program of the Voice of America require the assurance of uninterrupted logistic support under all circumstances for the program. Therefore, it is in the best interests of the United States to provide a preference for United States contractors bidding on the projects of this program.
 
->     “(b) __Responsive Bid.—__ 
+>     “(b)  __Responsive Bid__  __.—__ 
 
 >     A bid shall not be treated as a responsive bid for purposes of the facilities modernization program of the Voice of America unless the bidder can establish that the United States goods and services content, excluding consulting and management fees, of his proposal and the resulting contract will not be less than 55 percent of the value of his proposal and the resulting total contract.
 
->     “(c) __Preference for United States Contractors.—__ 
+>     “(c)  __Preference for United States Contractors__  __.—__ 
 
 >     Notwithstanding any other provision of law, in any case where there are two or more qualified bidders on projects of the facilities modernization program of the Voice of America, including design and construction projects and projects with respect to transmitters, antennas, spare parts, and other technical equipment, all the responsive bids of United States persons and qualified United States joint venture persons shall be considered to be reduced by 10 percent.
 
@@ -125,7 +125,7 @@
 
 >         “(2) An exception under paragraph (1)(D) shall only become effective with respect to a foreign country 30 days after the Secretary of State certifies to the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate what specific actions the Secretary has taken to urge the foreign country to permit the use of United States contractors on such projects.
 
->     “(d) __\[sic\] Definitions.—__ 
+>     “(d) __\[sic\]__  __Definitions__  __.—__ 
 
 >     For purposes of this section—
 
@@ -153,7 +153,7 @@
 
 >         “(2) the term ‘qualified United States joint venture person’ means a joint venture in which a United States person or persons own at least 51 percent of the assets of the joint venture.
 
->     “(e) __Effective Date.—__ 
+>     “(e)  __Effective Date__  __.—__ 
 
 >     The provisions of this section shall apply to any project with respect to which the Request For Proposals (commonly referred to as ‘RFP’) or the Invitation For Bids (commonly referred to as ‘IFB’) was issued after December 28, 1986.”
 

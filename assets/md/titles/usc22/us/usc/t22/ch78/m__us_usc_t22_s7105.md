@@ -355,11 +355,11 @@
 
 >     “(1) __Study.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Not later than 180 days after the date of the enactment of this Act \[Jan. 10, 2006\], the Administrator of the United States Agency for International Development shall carry out a study to identify best practices for the rehabilitation of victims of trafficking in group residential facilities in foreign countries.
 
->         “(B) __Factors.—__ 
+>         “(B)  __Factors__  __.—__ 
 
 >         In carrying out the study under subparagraph (A), the Administrator shall—
 
@@ -367,11 +367,11 @@
 
 >             “(ii) give consideration to ensure the safety and security of victims of trafficking, provide alternative sources of income for such victims, assess and provide for the educational needs of such victims, including literacy, and assess the psychological needs of such victims and provide professional counseling, as appropriate.
 
->     “(2) __Pilot program.—__ 
+>     “(2)  __Pilot program__  __.—__ 
 
 >     Upon completion of the study carried out pursuant to paragraph (1), the Administrator of the United States Agency for International Development shall establish and carry out a pilot program to establish residential treatment facilities in foreign countries for victims of trafficking based upon the best practices identified in the study.
 
->     “(3) __Purposes.—__ 
+>     “(3)  __Purposes__  __.—__ 
 
 >     The purposes of the pilot program established pursuant to paragraph (2) are to—
 
@@ -381,15 +381,15 @@
 
 >         “(C) assess the need for and feasibility of establishing additional residential treatment facilities for victims of trafficking.
 
->     “(4) __Selection of sites.—__ 
+>     “(4)  __Selection of sites__  __.—__ 
 
 >     The Administrator of the United States Agency for International Development shall select 2 sites at which to operate the pilot program established pursuant to paragraph (2).
 
->     “(5) __Form of assistance.—__ 
+>     “(5)  __Form of assistance__  __.—__ 
 
 >     In order to carry out the responsibilities of this subsection, the Administrator of the United States Agency for International Development shall enter into contracts with, or make grants to, organizations with relevant expertise in the delivery of services to victims of trafficking.
 
->     “(6) __Report.—__ 
+>     “(6)  __Report__  __.—__ 
 
 >     Not later than one year after the date on which the first pilot program is established pursuant to paragraph (2), the Administrator of the United States Agency for International Development shall submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report on the implementation of this subsection.”
 

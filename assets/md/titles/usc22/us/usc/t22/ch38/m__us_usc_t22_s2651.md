@@ -145,11 +145,11 @@
 
 [Pub. L. 101–246, title XI, § 1101][/us/pl/101/246/s1101], Feb. 16, 1990, [104 Stat. 90][/us/stat/104/90], provided that:
 
->     “(a) __Limitation on Spending Authority.—__ 
+>     “(a)  __Limitation on Spending Authority__  __.—__ 
 
 >     Any new spending authority (within the meaning of section 401 of the Congressional Budget Act of 1974 \[[2 U.S.C. 651][/us/usc/t2/s651]\]) which is provided under this Act \[see Short Title of 1990 Amendment note above\] shall be effective for any fiscal year only to the extent or in such amounts as are provided in advance in appropriation Acts.
 
->     “(b) __Limitation on Contract Authority.—__ 
+>     “(b)  __Limitation on Contract Authority__  __.—__ 
 
 >     Any authority provided by this Act to enter into contracts shall be effective only—
 
@@ -175,15 +175,15 @@
 
 > “In this Act \[see Tables for classification\]:
 
->     “(1) __Appropriate congressional committees.—__ 
+>     “(1)  __Appropriate congressional committees__  __.—__ 
 
 >     The term ‘appropriate congressional committees’ means the Committee on Foreign Relations of the Senate and the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives.
 
->     “(2) __Department.—__ 
+>     “(2)  __Department__  __.—__ 
 
 >     The term ‘Department’ means the Department of State.
 
->     “(3) __Secretary.—__ 
+>     “(3)  __Secretary__  __.—__ 
 
 >     Except as otherwise provided, the term ‘Secretary’ means the Secretary of State.”
 
@@ -191,11 +191,11 @@
 
 > “In this Act \[see Short Title of 1999 Amendment note set out above\]:
 
->     “(1) __Appropriate congressional committees.—__ 
+>     “(1)  __Appropriate congressional committees__  __.—__ 
 
 >     Except as otherwise provided in section 902(1) \[[113 Stat. 1501][/us/stat/113/1501]A–475\], the term ‘appropriate congressional committees’ means the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate.
 
->     “(2) __Secretary.—__ 
+>     “(2)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of State.”
 

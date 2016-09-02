@@ -93,21 +93,21 @@
 
 >     “(a) __Comprehensive Anti-Apartheid Act.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         All provisions of the Comprehensive Anti-Apartheid Act of 1986 ([22 U.S.C. 5001][/us/usc/t22/s5001] and following) are repealed as of the date of enactment of this Act \[Nov. 23, 1993\], except for the sections specified in paragraph (2).
 
->         “(2) __Effective date of repeal of code of conduct requirements.—__ 
+>         “(2)  __Effective date of repeal of code of conduct requirements__  __.—__ 
 
 >         Sections 1, 3, 203(a), 203(b), 205, 207, 208, 601, 603, and 604 of the Comprehensive Anti-Apartheid Act of 1986 \[[22 U.S.C. 5001][/us/usc/t22/s5001] note, 5001, 5031(a), (b), 5032, 5034, 5035, 5111, 5113, 5114\] are repealed as of the date on which the President certifies to the Congress that an interim government, elected on a nonracial basis through free and fair elections, has taken office in South Africa. \[A Presidential message to Congress dated June 8, 1994, set out in 30 Weekly Compilation of Presidential Documents 1258, June 13, 1994, certified that interim government, elected on nonracial basis through free and fair elections, had taken office in South Africa.\]
 
->         “(3) __Conforming amendments.—__ 
+>         “(3)  __Conforming amendments__  __.—__ 
 
 >             (A) Section 3 of the Comprehensive Anti-Apartheid Act of 1986 \[[22 U.S.C. 5001][/us/usc/t22/s5001]\] is amended by striking paragraphs (2) through (4) and paragraphs (7) through (9), by inserting ‘and’ at the end of paragraph (5), and by striking ‘; and’ at the end of paragraph (6) and inserting a period.
 
 >             “(B) The following provisions of the Foreign Assistance Act of 1961 that were enacted by the Comprehensive Anti-Apartheid Act of 1986 are repealed: subsections (e)(2), (f), and (g) of section 116 ([22 U.S.C. 2151n][/us/usc/t22/s2151n]); section 117 ([22 U.S.C. 2151][/us/usc/t22/s2151]o), relating to assistance for disadvantaged South Africans; and section 535 ([22 U.S.C. 2346d][/us/usc/t22/s2346d]). Section 116(e)(1) of the Foreign Assistance Act of 1961 is amended by striking ‘(1)’.
 
->     “(b) __Other Provisions.—__ 
+>     “(b)  __Other Provisions__  __.—__ 
 
 >     The following provisions are repealed or amended as follows:
 
@@ -135,11 +135,11 @@
 
 >     “(c) __Sanctions Measures Adopted by State or Local Governments or Private Entities.—__ 
 
->         “(1) __Policy regarding rescission.—__ 
+>         “(1)  __Policy regarding rescission__  __.—__ 
 
 >         The Congress urges all State or local governments and all private entities in the United States that have adopted any restriction on economic interactions with South Africa, or any policy discouraging such interaction, to rescind such restriction or policy.
 
->         “(2) __Repeal of provisions relating to withholding federal funds.—__ 
+>         “(2)  __Repeal of provisions relating to withholding federal funds__  __.—__ 
 
 >         Effective October 1, 1995, the following provisions are repealed:
 
@@ -147,13 +147,13 @@
 
 >             “(B) Section 210 of the Urgent Supplemental Appropriations Act, 1986 ([100 Stat. 749][/us/stat/100/749]).
 
->     “(d) __Continuation of UN Special Sanctions.—__ 
+>     “(d)  __Continuation of UN Special Sanctions__  __.—__ 
 
 >     It is the sense of the Congress that the United States should continue to respect United Nations Security Council resolutions on South Africa, including the resolution providing for a mandatory embargo on arms sales to South Africa and the resolutions relating to the import of arms, restricting exports to the South African military and police, and urging states to refrain from nuclear cooperation that would contribute to the manufacture and development by South Africa of nuclear weapons or nuclear devices.
 
 > “SEC. 5. __UNITED STATES ASSISTANCE FOR THE TRANSITION TO A NONRACIAL DEMOCRACY.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The President is authorized and encouraged to provide assistance under chapter 10 of part I of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2293][/us/usc/t22/s2293] et seq.\] (relating to the Development Fund for Africa) or chapter 4 of part II of that Act \[[22 U.S.C. 2346][/us/usc/t22/s2346] et seq.\] (relating to the Economic Support Fund) to support the transition to nonracial democracy in South Africa. Such assistance shall—
 
@@ -179,11 +179,11 @@
 
 >     “(b) __Government of South Africa.—__ 
 
->         “(1) __Limitation on assistance.—__ 
+>         “(1)  __Limitation on assistance__  __.—__ 
 
 >         Except as provided in paragraph (2), assistance provided in accordance with this section may not be made available to the Government of South Africa, or organizations financed and substantially controlled by that government, unless the President certifies to the Congress that an interim government that was elected on a nonracial basis through free and fair elections has taken office in South Africa.
 
->         “(2) __Exceptions.—__ 
+>         “(2)  __Exceptions__  __.—__ 
 
 >         Notwithstanding paragraph (1), assistance may be provided for—
 
@@ -197,39 +197,39 @@
 
 >     “(c) __Ineligible Organizations.—__ 
 
->         “(1) __Acts of violence.—__ 
+>         “(1)  __Acts of violence__  __.—__ 
 
 >         An organization that has engaged in armed struggle or other acts of violence shall not be eligible for assistance provided in accordance with this section unless that organization is committed to a suspension of violence in the context of progress toward nonracial democracy.
 
->         “(2) __Views inconsistent with democracy and free enterprise.—__ 
+>         “(2)  __Views inconsistent with democracy and free enterprise__  __.—__ 
 
 >         Assistance provided in accordance with this section may not be made available to any organization that has espoused views inconsistent with democracy and free enterprise unless such organization is engaged actively and positively in the process of transition to a nonracial democracy and such assistance would advance the United States objective of promoting democracy and free enterprise in South Africa.
 
 > “SEC. 6. __UNITED STATES INVESTMENT AND TRADE.__ 
 
->     “(a) __Tax Treaty.—__ 
+>     “(a)  __Tax Treaty__  __.—__ 
 
 >     The President should begin immediately to negotiate a tax treaty with South Africa to facilitate United States investment in that country.
 
->     “(b) __OPIC.—__ 
+>     “(b)  __OPIC__  __.—__ 
 
 >     The President should immediately initiate negotiations with the Government of South Africa for an agreement authorizing the Overseas Private Investment Corporation to carry out programs with respect to South Africa in order to expand United States investment in that country.
 
->     “(c) __Trade and Development Agency.—__ 
+>     “(c)  __Trade and Development Agency__  __.—__ 
 
 >     In carrying out section 661 of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2421][/us/usc/t22/s2421]\], the Director of the Trade and Development Agency should provide additional funds for activities related to projects in South Africa.
 
->     “(d) __Export-Import Bank.—__ 
+>     “(d)  __Export-Import Bank__  __.—__ 
 
 >     The Export-Import Bank of the United States should expand its activities in connection with exports to South Africa.
 
 >     “(e) __Promoting Disadvantaged Enterprises.—__ 
 
->         “(1) __Investment and trade programs.—__ 
+>         “(1)  __Investment and trade programs__  __.—__ 
 
 >         Each of the agencies referred to in subsections (b) through (d) should take active steps to encourage the use of its programs to promote business enterprises in South Africa that are majority-owned by South Africans disadvantaged by apartheid.
 
->         “(2) __United states government procurement.—__ 
+>         “(2)  __United states government procurement__  __.—__ 
 
 >         To the extent not inconsistent with the obligations of the United States under any international agreement, the Secretary of State and the head of any other department or agency of the United States carrying out activities in South Africa shall, to the maximum extent practicable, in procuring goods or services, make affirmative efforts to assist business enterprises having more than 50 percent beneficial ownership by South African blacks or other nonwhite South Africans, notwithstanding any law relating to the making or performance of, or the expenditure of funds for, United States Government contracts.
 
@@ -243,15 +243,15 @@
 
 > “SEC. 9. __INTERNATIONAL FINANCIAL INSTITUTIONS AND OTHER DONORS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The President should encourage other donors, particularly Japan and the European Community countries, to expand their activities in support of the transition to nonracial democracy in South Africa.
 
->     “(b) __International Financial Institutions.—__ 
+>     “(b)  __International Financial Institutions__  __.—__ 
 
 >     The Secretary of the Treasury should instruct the United States Executive Director of each relevant international financial institution, including the International Bank for Reconstruction and Development and the International Development Association, to urge that institution to initiate or expand its lending and other financial assistance activities to South Africa in order to support the transition to nonracial democracy in South Africa.
 
->     “(c) __Technical Assistance.—__ 
+>     “(c)  __Technical Assistance__  __.—__ 
 
 >     The Secretary of the Treasury should instruct the United States Executive Director of each relevant international financial institution to urge that institution to fund programs to initiate or expand technical assistance to South Africa for the purpose of training the people of South Africa in government management techniques.
 

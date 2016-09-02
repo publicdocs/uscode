@@ -79,7 +79,7 @@
 
 [Pub. L. 103–447, title I, § 104][/us/pl/103/447/s104], Nov. 2, 1994, [108 Stat. 4694][/us/stat/108/4694], provided that:
 
->     “(a) __Exemption.—__ 
+>     “(a)  __Exemption__  __.—__ 
 
 >     For fiscal year 1995, section 660 of the Foreign Assistance Act of 1961 ([22 U.S.C. 2420][/us/usc/t22/s2420]) shall not apply with respect to—
 
@@ -89,11 +89,11 @@
 
 >         “(3) international military education and training under chapter 5 of part II of the Foreign Assistance Act of 1961 ([22 U.S.C. 2347][/us/usc/t22/s2347] and following) that is provided for narcotics-related purposes.
 
->     “(b) __Notification to Congress.—__ 
+>     “(b)  __Notification to Congress__  __.—__ 
 
 >     At least 15 days before any transfer under subsection (a)(1) or any obligation of funds under subsection (a)(2) or (a)(3), the President shall notify the appropriate congressional committees (as defined in section 481(e) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2291(e)][/us/usc/t22/s2291/e])\[)\] in accordance with the procedures applicable to reprogramming notifications under section 634A of that Act ([22 U.S.C. 2394][/us/usc/t22/s2394]) \[[22 U.S.C. 2394–1][/us/usc/t22/s2394–1]\].
 
->     “(c) __Coordination With International Narcotics Control Assistance Program.—__ 
+>     “(c)  __Coordination With International Narcotics Control Assistance Program__  __.—__ 
 
 >     Assistance provided pursuant to this section shall be coordinated with international narcotics control assistance under chapter 8 of part 1 of the Foreign Assistance Act of 1961 ([22 U.S.C. 2291][/us/usc/t22/s2291] et seq.).”
 

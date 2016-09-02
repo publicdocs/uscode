@@ -201,7 +201,7 @@
 
 >     “(a) __Authority To Transfer Excess Defense Articles.—__ 
 
->         “(1) __NATO southern flank countries.—__ 
+>         “(1)  __NATO southern flank countries__  __.—__ 
 
 >         The President may transfer—
 
@@ -209,7 +209,7 @@
 
 >             “(B) to any major non-NATO ally on the southern and southeastern flank of NATO which is eligible for United States security assistance, such excess defense articles as may be necessary to help modernize the defense capabilities of such country.
 
->         “(2) __Major illicit drug producing countries.—__ 
+>         “(2)  __Major illicit drug producing countries__  __.—__ 
 
 >         Subject to subsection (f), the President may transfer to any country—
 
@@ -219,11 +219,11 @@
 
 >             “(C) whose armed forces do not engage in a consistent pattern of gross violations of internationally recognized human rights, such excess defense articles as may be necessary to carry out subsection (f)(1).
 
->         “(3) __Terms of transfers.—__ 
+>         “(3)  __Terms of transfers__  __.—__ 
 
 >         Excess defense articles may be transferred under this section without cost to the recipient country.
 
->     “(b) __Limitations on Transfers.—__ 
+>     “(b)  __Limitations on Transfers__  __.—__ 
 
 >     The President may transfer excess defense articles under this section only if—
 
@@ -235,7 +235,7 @@
 
 >     “(c) __Notification to Congress.—__ 
 
->         “(1) __Advance notice.—__ 
+>         “(1)  __Advance notice__  __.—__ 
 
 >         The President may not transfer excess defense articles under this section until thirty days after the President has provided notice of the proposed transfer to the committees specified in paragraph (2). This notification shall include—
 
@@ -245,21 +245,21 @@
 
 >             “(C) the value of the excess defense articles to be transferred.
 
->         “(2) __Committees to be notified.—__ 
+>         “(2)  __Committees to be notified__  __.—__ 
 
 >         Notice shall be provided pursuant to paragraph (1) to the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives and the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate.
 
->     “(d) __Waiver of Requirement for Reimbursement of DOD Expenses.—__ 
+>     “(d)  __Waiver of Requirement for Reimbursement of DOD Expenses__  __.—__ 
 
 >     Section 632(d) of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2392(d)][/us/usc/t22/s2392/d]\] does not apply with respect to transfers of excess defense articles under this section.
 
 >     “(e) __Maintenance of Military Balance in Eastern Mediterranean.—__ 
 
->         “(1) __United states policy.—__ 
+>         “(1)  __United states policy__  __.—__ 
 
 >         The Congress intends that excess defense articles be made available under this section consistent with the United States policy, established by section 841 of the International Cooperation Act of 1989 \[probably means section 841 of H.R. 2655, 101st Congress, which was not enacted\], of maintaining the military balance in the Eastern Mediterranean.
 
->         “(2) __Maintenance of balance.—__ 
+>         “(2)  __Maintenance of balance__  __.—__ 
 
 >         Accordingly, the President shall ensure that, over the four-year period beginning on October 1, 1992, the ratio of—
 
@@ -273,29 +273,29 @@
 
 >                 “(ii) the amount of foreign military financing provided for Greece.
 
->         “(3) __Exception to requirement.—__ 
+>         “(3)  __Exception to requirement__  __.—__ 
 
 >         This subsection shall not apply if either Greece or Turkey ceases to be eligible to receive excess defense articles under subsection (a).
 
 >     “(f) __Major Illicit Drug Producing Countries in Latin America and the Caribbean.—__ 
 
->         “(1) __Purpose.—__ 
+>         “(1)  __Purpose__  __.—__ 
 
 >         Excess defense articles shall be transferred under subsection (a)(2) for the purpose of encouraging the military forces of an eligible country in Latin America and the Caribbean to participate with local law enforcement agencies in a comprehensive national antinarcotics program, conceived and developed by the government of that country, by conducting activities within that country and on the high seas to prevent the production, processing, trafficking, transportation, and consumption of illicit narcotic or psychotrophic \[sic\] drugs or other controlled substances.
 
->         “(2) __Uses of excess defense articles.—__ 
+>         “(2)  __Uses of excess defense articles__  __.—__ 
 
 >         Excess defense articles may be furnished to a country under subsection (a)(2) only if that country ensures that those excess defense articles will be used only in support of antinarcotics activities.
 
->         “(3) __Role of the secretary of state.—__ 
+>         “(3)  __Role of the secretary of state__  __.—__ 
 
 >         The Secretary of State shall determine the eligibility of countries to receive excess defense articles under subsection (a)(2) and insure that any transfer is coordinated with other antinarcotics enforcement programs assisted by the United States Government.
 
->         “(4) __Limitation.—__ 
+>         “(4)  __Limitation__  __.—__ 
 
 >         The aggregate value of excess defense articles transferred to a country under subsection (a)(2) in any fiscal year may not exceed $10,000,000.
 
->     “(g) __Definitions.—__ 
+>     “(g)  __Definitions__  __.—__ 
 
 >     As used in this section—
 

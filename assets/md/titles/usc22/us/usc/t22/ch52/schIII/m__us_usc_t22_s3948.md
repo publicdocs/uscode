@@ -29,7 +29,7 @@
 
 [Pub. L. 112–74, div. I, title VII, § 7057(a)][/us/pl/112/74/s7057/a]–(e), Dec. 23, 2011, [125 Stat. 1244][/us/stat/125/1244], provided that:
 
->     “(a) __Authority.—__ 
+>     “(a)  __Authority__  __.—__ 
 
 >     Up to $93,000,000 of the funds made available in title III of this Act \[title III of div. I of [Pub. L. 112–74][/us/pl/112/74], [125 Stat. 1175][/us/stat/125/1175]\] to carry out the provisions of part I of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2151][/us/usc/t22/s2151] et seq.\], including funds appropriated under the heading ‘Assistance for Europe, Eurasia and Central Asia’, may be used by the United States Agency for International Development (USAID) to hire and employ individuals in the United States and overseas on a limited appointment basis pursuant to the authority of sections 308 and 309 of the Foreign Service Act of 1980 \[[22 U.S.C. 3948][/us/usc/t22/s3948], 3949\].
 
@@ -39,15 +39,15 @@
 
 >         “(2) The authority to hire individuals contained in subsection (a) shall expire on September 30, 2013.
 
->     “(c) __Conditions.—__ 
+>     “(c)  __Conditions__  __.—__ 
 
 >     The authority of subsection (a) should only be used to the extent that an equivalent number of positions that are filled by personal services contractors or other non-direct hire employees of USAID, who are compensated with funds appropriated to carry out part I of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2151][/us/usc/t22/s2151] et seq.\], including funds appropriated under the heading ‘Assistance for Europe, Eurasia and Central Asia’, are eliminated.
 
->     “(d) __Program Account Charged.—__ 
+>     “(d)  __Program Account Charged__  __.—__ 
 
 >     The account charged for the cost of an individual hired and employed under the authority of this section shall be the account to which such individual’s responsibilities primarily relate: Provided, That funds made available to carry out this section may be transferred to, and merged with, funds appropriated by this Act in title II \[title II of div. I of [Pub. L. 112–74][/us/pl/112/74], [125 Stat. 1174][/us/stat/125/1174]\] under the heading ‘Operating Expenses’.
 
->     “(e) __Foreign Service Limited Extensions.—__ 
+>     “(e)  __Foreign Service Limited Extensions__  __.—__ 
 
 >     Individuals hired and employed by USAID, with funds made available in this Act \[div. I of [Pub. L. 112–74][/us/pl/112/74], [125 Stat. 1164][/us/stat/125/1164]\] or prior Acts making appropriations for the Department of State, foreign operations, and related programs \[see similar provisions listed below\], pursuant to the authority of section 309 of the Foreign Service Act of 1980 \[[22 U.S.C. 3949][/us/usc/t22/s3949]\], may be extended for a period of up to 4 years notwithstanding the limitation set forth in such section.”
 

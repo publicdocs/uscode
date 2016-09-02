@@ -299,21 +299,21 @@
 
 [Pub. L. 111–383, div. A, title XII, § 1217][/us/pl/111/383/s1217], Jan. 7, 2011, [124 Stat. 4393][/us/stat/124/4393], as amended by [Pub. L. 112–81, div. A, title XII, § 1217][/us/pl/112/81/s1217], Dec. 31, 2011, [125 Stat. 1632][/us/stat/125/1632]; [Pub. L. 112–239, div. A, title XII, § 1219][/us/pl/112/239/s1219], Jan. 2, 2013, [126 Stat. 1991][/us/stat/126/1991], provided that:
 
->     “(a) __Authority.—__ 
+>     “(a)  __Authority__  __.—__ 
 
 >     The Secretary of Defense and the Secretary of State are authorized to establish a program to develop and carry out infrastructure projects in Afghanistan in accordance with the requirements of this section.
 
 >     “(b) __Formulation and Execution of Program.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of State and the Secretary of Defense shall jointly develop any project under the program authorized under subsection (a). Except as provided in paragraph (2), the Secretary of State, in coordination with the Secretary of Defense, shall implement any project under the program authorized under subsection (a).
 
->         “(2) __Exception.—__ 
+>         “(2)  __Exception__  __.—__ 
 
 >         The Secretary of Defense shall implement a project under the program authorized under subsection (a) if the Secretary of Defense and the Secretary of State jointly determine that the Secretary of Defense should implement the project.
 
->     “(c) __Types of Projects.—__ 
+>     “(c)  __Types of Projects__  __.—__ 
 
 >     Infrastructure projects under the program authorized under subsection (a) may include—
 
@@ -321,23 +321,23 @@
 
 >         “(2) other projects in support of the counterinsurgency strategy in Afghanistan.
 
->     “(d) __Authority in Addition to Other Authorities.—__ 
+>     “(d)  __Authority in Addition to Other Authorities__  __.—__ 
 
 >     The authority to establish the program and develop and carry out infrastructure projects under subsection (a) is in addition to any other authority to provide assistance to foreign countries.
 
 >     “(e) __Applicability of Certain Administrative Provisions.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The administrative provisions of chapter 2 of part III of the Foreign Assistance Act of 1961 ([22 U.S.C. 2381][/us/usc/t22/s2381] et seq.) shall apply to funds made available to the Secretary of State for purposes of carrying out infrastructure projects under the program authorized under subsection (a) to the same extent and in the same manner as such administrative provisions apply to funds made available to carry out part I of the Foreign Assistance Act of 1961 ([22 U.S.C. 2151][/us/usc/t22/s2151] et seq.).
 
->         “(2) __Gifts, etc.—__ 
+>         “(2)  __Gifts, etc__  __.—__ 
 
 >         The Secretary of Defense and the Secretary of State may accept and use in furtherance of the purposes of this section, money, funds, property, and services of any kind made available by gift, devise, bequest, grant, or otherwise for such purposes.
 
 >     “(f) __Funding.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to paragraph (2), to carry out the program authorized under subsection (a), the Secretary of Defense may use amounts as follows:
 
@@ -345,7 +345,7 @@
 
 >             “(B) Up to $350,000,000 made available to the Department of Defense for operation and maintenance for fiscal year 2013.
 
->         “(2) __Limitation.—__ 
+>         “(2)  __Limitation__  __.—__ 
 
 >         The Secretary of Defense may use not more than 50 percent of the amount specified in paragraph (1) for a fiscal year after fiscal year 2011 to carry out the program authorized under subsection (a) until the Secretary of Defense, in consultation with the Secretary of State, submits to the appropriate congressional committees a plan for the allocation and use of funds under the program for such fiscal year, including for each project to be initiated during such fiscal year the following:
 
@@ -355,7 +355,7 @@
 
 >             “(C) A description of any arrangements for the sustainment of such project following its completion if the Government of Afghanistan lacks the capacity (in either financial or human resources) to maintain such project.
 
->         “(3) __Availability.—__ 
+>         “(3)  __Availability__  __.—__ 
 
 >         Funds made available by paragraph (1) are authorized to remain available as follows:
 
@@ -365,7 +365,7 @@
 
 >             “(C) In the case of funds for fiscal year 2013, until September 30, 2014.
 
->     “(g) __Congressional Notification.—__ 
+>     “(g)  __Congressional Notification__  __.—__ 
 
 >     The Secretary of Defense shall notify the appropriate congressional committees not less than 15 days before obligating or expending funds to carry out a project or transferring funds to the Secretary of State for the purpose of implementing a project under the program authorized under subsection (a). Such notification shall be in writing and contain a description of the details of the proposed project, including—
 
@@ -375,21 +375,21 @@
 
 >     “(h) __Return of Unexpended Funds.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Any unexpended funds transferred to the Secretary of State for the purpose of implementing a project under the program authorized under subsection (a) shall be returned to the Secretary of Defense if the Secretary of State, in coordination with the Secretary of Defense, determines that the project cannot be implemented for any reason or that the project no longer supports the counterinsurgency strategy in Afghanistan.
 
->         “(2) __Availability.—__ 
+>         “(2)  __Availability__  __.—__ 
 
 >         Any funds returned to the Secretary of Defense under this subsection shall be available for use under this section and shall be treated in the same manner as funds not transferred to the Secretary of State.
 
 >     “(i) __Reports.—__ 
 
->         “(1) __Report required.—__ 
+>         “(1)  __Report required__  __.—__ 
 
 >         Not later than 30 days after the end of each fiscal year in which funds are obligated, expended, or transferred under the program authorized under subsection (a), the Secretary of Defense, in coordination with the Secretary of State, shall submit to the appropriate congressional committees a report regarding implementation of the program during such fiscal year.
 
->         “(2) __Matters to be included.—__ 
+>         “(2)  __Matters to be included__  __.—__ 
 
 >         The report required under paragraph (1) shall include the following:
 
@@ -397,7 +397,7 @@
 
 >             “(B) A description of each project for which funds were expended or transferred during the fiscal year.
 
->     “(j) __Definition.—__ 
+>     “(j)  __Definition__  __.—__ 
 
 >     In this section, the term ‘appropriate congressional committees’ means—
 
@@ -409,11 +409,11 @@
 
 [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XII, § 1215, Oct. 14, 2008, [122 Stat. 4632][/us/stat/122/4632], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The President, acting through the Secretary of Defense and the Secretary of State, shall develop and implement a system to monitor the performance of United States-led Provincial Reconstruction Teams (PRTs) in Afghanistan.
 
->     “(b) __Elements of Performance Monitoring System.—__ 
+>     “(b)  __Elements of Performance Monitoring System__  __.—__ 
 
 >     The performance monitoring system required under subsection (a) shall include—
 
@@ -421,11 +421,11 @@
 
 >         “(2) comprehensive performance indicators and measures of progress toward sustainable long-term security and stability in Afghanistan, and include performance standards and progress goals together with a notional timetable for achieving such goals, consistent with the requirements of section 1230(d) of the National Defense Authorization Act for Fiscal Year 2008 ([Public Law 110–181][/us/pl/110/181]; [122 Stat. 388][/us/stat/122/388]).
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than 90 days after the date of the enactment of this Act \[Oct. 14, 2008\], the President shall submit to the appropriate congressional committees a report on the implementation of the performance monitoring system required under subsection (a).
 
->     “(d) __Appropriate Congressional Committees Defined.—__ 
+>     “(d)  __Appropriate Congressional Committees Defined__  __.—__ 
 
 >     In this section, the term ‘appropriate congressional committees’ means—
 
@@ -481,17 +481,17 @@
 
 > “SEC. 3. __AUTHORIZATION OF ASSISTANCE.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Subject to subsection (b), the President is authorized, on such terms and conditions as the President may determine, to provide educational and health care assistance for the women and children living in Afghanistan and as refugees in neighboring countries.
 
->     “(b) __Implementation.—__ 
+>     “(b)  __Implementation__  __.—__ 
 
 >         (1) In providing assistance under subsection (a), the President shall ensure that such assistance is provided in a manner that protects and promotes the human rights of all people in Afghanistan, utilizing indigenous institutions and nongovernmental organizations, especially women’s organizations, to the extent possible.
 
 >         “(2) Beginning 6 months after the date of enactment of this Act \[Dec. 12, 2001\], and at least annually for the 2 years thereafter, the Secretary of State shall submit a report to the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives describing the activities carried out under this Act and otherwise describing the condition and status of women and children in Afghanistan and the persons in refugee camps while United States aid is given to displaced Afghans.
 
->     “(c) __Availability of Funds.—__ 
+>     “(c)  __Availability of Funds__  __.—__ 
 
 >     Funds made available under the 2001 Emergency Supplemental Appropriations Act for Recovery from and Response to Terrorist Attacks on the United States ([Public Law 107–38][/us/pl/107/38]) \[[115 Stat. 220][/us/stat/115/220]\], shall be available to carry out this Act.”
 

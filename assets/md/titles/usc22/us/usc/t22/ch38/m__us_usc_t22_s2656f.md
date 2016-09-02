@@ -229,7 +229,7 @@
 
 [Pub. L. 108–458, title VII, § 7102(a)][/us/pl/108/458/s7102/a], (b), Dec. 17, 2004, [118 Stat. 3776][/us/stat/118/3776], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Consistent with the report of the National Commission on Terrorist Attacks Upon the United States, Congress makes the following findings:
 
@@ -243,7 +243,7 @@
 
 >         “(5) During the 21st century, terrorists are often focusing on remote regions and failing states as locations to seek sanctuary.
 
->     “(b) __Sense of Congress on United States Policy on Terrorist Sanctuaries.—__ 
+>     “(b)  __Sense of Congress on United States Policy on Terrorist Sanctuaries__  __.—__ 
 
 >     It is the sense of Congress that it should be the policy of the United States—
 
@@ -259,7 +259,7 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title VIII, § 805\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–470, as amended by [Pub. L. 107–228, div. A, title II, § 216(c)][/us/pl/107/228/s216/c], Sept. 30, 2002, [116 Stat. 1367][/us/stat/116/1367], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than May 1, 2003, and not later than May 1, 2004, the Secretary of State shall prepare and submit a report, with a classified annex as necessary, to the appropriate congressional committees \[Committee on Foreign Affairs of the House of Representatives and Committee on Foreign Relations of the Senate\] regarding terrorist attacks in Israel, in territory administered by Israel, and in territory administered by the Palestinian Authority. The report shall contain the following information:
 
@@ -305,11 +305,11 @@
 
 >         “(8) A list of all United States citizens killed or injured in terrorist attacks in Israel or in territory administered by Israel between 1950 and September 13, 1993, to include in each case, where such information is reasonably available, any stated claim of responsibility and the resolution or disposition of each case, except that this list shall be submitted only once with the initial report required under this section unless additional relevant information on these cases becomes available.
 
->     “(b) __Consultation with Other Departments.—__ 
+>     “(b)  __Consultation with Other Departments__  __.—__ 
 
 >     The Secretary of State shall, in preparing the report required by this section, consult and coordinate with all other Government officials who have information necessary to complete the report. Nothing contained in this section shall require the disclosure, on a classified or unclassified basis, of information that would jeopardize sensitive sources and methods or other vital national security interests or jeopardize ongoing criminal investigations or proceedings.
 
->     “(c) __Initial Report.—__ 
+>     “(c)  __Initial Report__  __.—__ 
 
 >     Except as provided in subsection (a)(8), the initial report filed under this section shall cover the period between September 13, 1993 and the date of the report.”
 

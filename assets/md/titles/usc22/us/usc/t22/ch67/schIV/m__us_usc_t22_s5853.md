@@ -71,11 +71,11 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XI, § 1138\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–496, provided that:
 
->     “(a) __Authorization.—__ 
+>     “(a)  __Authorization__  __.—__ 
 
 >     For fiscal year 2001 and subsequent fiscal years, funds made available under ‘Nonproliferation, Antiterrorism, Demining, and Related Programs’ accounts in annual foreign operations appropriations Acts are authorized to be available for science and technology centers in the independent states of the former Soviet Union assisted under section 503(a)(5) of the FREEDOM Support Act ([22 U.S.C. 5853(a)(5)][/us/usc/t22/s5853/a/5]) or section 1412(b)(5) \[[22 U.S.C. 5902(b)(5)][/us/usc/t22/s5902/b/5]\] of the Former Soviet Union Demilitarization Act of 1992 (title XIV of [Public Law 102–484][/us/pl/102/484]; [22 U.S.C. 5901][/us/usc/t22/s5901] et seq.), including the use of those and other funds by any Federal agency having expertise and programs related to the activities carried out by those centers, including the Departments of Agriculture, Commerce, and Health and Human Services and the Environmental Protection Agency.
 
->     “(b) __Availability of Funds.—__ 
+>     “(b)  __Availability of Funds__  __.—__ 
 
 >     Amounts made available under any provision of law for the activities described in subsection (a) shall be available until expended and may be used notwithstanding any other provision of law.”
 
@@ -83,11 +83,11 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XI, § 1139\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–496, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Support for science and technology centers in the independent states of the former Soviet Union, as authorized by section 503(a)(5) of the FREEDOM Support Act ([22 U.S.C. 5853(a)(5)][/us/usc/t22/s5853/a/5]) and section 1412(b) \[[22 U.S.C. 5902(b)][/us/usc/t22/s5902/b]\] of the Former Soviet Union Demilitarization Act of 1992 (title XIV of [Public Law 102–484][/us/pl/102/484], [22 U.S.C. 5901][/us/usc/t22/s5901] et seq.), is authorized for activities described in subsection (b) to support the redirection of former Soviet weapons scientists, especially those with expertise in weapons of mass destruction (nuclear, radiological, chemical, biological), missile and other delivery systems, and other advanced technologies with military applications.
 
->     “(b) __Activities Supported.—__ 
+>     “(b)  __Activities Supported__  __.—__ 
 
 >     Activities supported under subsection (a) include—
 

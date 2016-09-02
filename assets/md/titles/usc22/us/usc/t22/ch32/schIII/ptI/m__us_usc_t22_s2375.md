@@ -115,7 +115,7 @@
 
 [Pub. L. 110–53, title XX, § 2042(a)][/us/pl/110/53/s2042/a]–(f), Aug. 3, 2007, [121 Stat. 520–523][/us/stat/121/520-523], provided that:
 
->     “(a) __Congressional Findings.—__ 
+>     “(a)  __Congressional Findings__  __.—__ 
 
 >     Congress finds the following:
 
@@ -163,7 +163,7 @@
 
 >             “(D) increased commitment on the part of the Government of the United States in regard to working with all elements of Pakistan \[sic\] society in helping to achieve the correlative goals described in subparagraphs (A) through (H) of paragraph (4).
 
->     “(b) __Statements of Policy.—__ 
+>     “(b)  __Statements of Policy__  __.—__ 
 
 >     The following shall be the policy of the United States:
 
@@ -183,17 +183,17 @@
 
 >     “(c) __Strategy Relating to Pakistan.—__ 
 
->         “(1) __Requirement for report on strategy.—__ 
+>         “(1)  __Requirement for report on strategy__  __.—__ 
 
 >         Not later than 90 days after the date of the enactment of this Act \[Aug. 3, 2007\], the President shall transmit to the appropriate congressional committees a report that describes the long-term strategy of the United States to engage with the Government of Pakistan to achieve the goals described in subparagraphs (A) through (H) of subsection (a)(4) and to carry out the policies described in subsection (b).
 
->         “(2) __Form.—__ 
+>         “(2)  __Form__  __.—__ 
 
 >         The report required by paragraph (1) shall be transmitted in unclassified form, but may include a classified annex, if necessary.
 
 >     “(d) __Limitation on United States Security Assistance to Pakistan.—__ 
 
->         “(1) __Limitation.—__ 
+>         “(1)  __Limitation__  __.—__ 
 
 >         For fiscal year 2008, United States assistance under chapter 2 of part II of the Foreign Assistance Act of 1961 ([22 U.S.C. 2311][/us/usc/t22/s2311] et seq.) or section 23 of the Arms Export Control Act ([22 U.S.C. 2763][/us/usc/t22/s2763]) may not be provided to, and a license for any item controlled under the Arms Export Control Act ([22 U.S.C. 2751][/us/usc/t22/s2751] et seq.) may not be approved for, Pakistan until the President transmits to the appropriate congressional committees a report that contains a determination of the President that the Government of Pakistan—
 
@@ -203,35 +203,35 @@
 
 >             “(C) is currently making demonstrated, significant, and sustained progress toward eliminating support or safe haven for terrorists.
 
->         “(2) __Memorandum of justification.—__ 
+>         “(2)  __Memorandum of justification__  __.—__ 
 
 >         The President shall include in the report required by paragraph (1) a memorandum of justification setting forth the basis for the President’s determination under paragraph (1).
 
->         “(3) __Form.—__ 
+>         “(3)  __Form__  __.—__ 
 
 >         The report required by paragraph (1) and the memorandum of justification required by paragraph (2) shall be transmitted in unclassified form, but may include a classified annex, if necessary.
 
 >     “(e) __Nuclear Proliferation.—__ 
 
->         “(1) __Congressional finding.—__ 
+>         “(1)  __Congressional finding__  __.—__ 
 
 >         Congress finds that the maintenance by any country of a procurement or supply network for the illicit proliferation of nuclear and missile technologies would be inconsistent with that country being considered an ally of the United States.
 
->         “(2) __Sense of congress.—__ 
+>         “(2)  __Sense of congress__  __.—__ 
 
 >         It is the sense of Congress that the national security interest of the United States will best be served if the United States develops and implements a long-term strategy to improve the United States relationship with Pakistan and works with the Government of Pakistan to stop nuclear proliferation.
 
 >     “(f) __Authorization of Appropriations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         There is authorized to be appropriated to the President such sums as may be necessary to provide assistance described in subsection (d)(1) for Pakistan for fiscal year 2008 in accordance with the requirements of subsection (d)(1).
 
->         “(2) __Other funds.—__ 
+>         “(2)  __Other funds__  __.—__ 
 
 >         Amounts authorized to be appropriated under this subsection are in addition to amounts otherwise available for such purposes.
 
->         “(3) __Declaration of policy.—__ 
+>         “(3)  __Declaration of policy__  __.—__ 
 
 >         Congress declares that the amount of funds appropriated pursuant to the authorization of appropriations under paragraph (1) and for subsequent fiscal years shall be determined by the extent to which the Government of Pakistan displays demonstrable progress in—
 
@@ -243,15 +243,15 @@
 
 >         “(4) __Biannual reports to congress.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Secretary of State shall submit to the appropriate congressional committees a biannual report describing in detail the extent to which the Government of Pakistan has displayed demonstrable progress in meeting the goals described in subparagraphs (A) through (C) of paragraph (3).
 
->             “(B) __Schedule for submission.—__ 
+>             “(B)  __Schedule for submission__  __.—__ 
 
 >             The report required by subparagraph (A) shall be submitted not later than April 15 and October 15 of each year until October 15, 2009.
 
->             “(C) __Form.—__ 
+>             “(C)  __Form__  __.—__ 
 
 >             The report required by subparagraph (A) shall be submitted in unclassified form, but may include a classified annex, if necessary.”
 

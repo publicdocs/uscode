@@ -113,7 +113,7 @@
 
 [Pub. L. 104–319, title I, § 102][/us/pl/104/319/s102], Oct. 19, 1996, [110 Stat. 3865][/us/stat/110/3865], as amended by [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title IV, § 402\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–445, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     In carrying out programs of educational and cultural exchange in countries whose people do not fully enjoy freedom and democracy, the Secretary of State, with the assistance of the Under Secretary of State for Public Diplomacy, shall provide, where appropriate, opportunities for significant participation in such programs to nationals of such countries who are—
 
@@ -121,7 +121,7 @@
 
 >         “(2) committed to advancing human rights and democratic values in such countries.
 
->     “(b) __Grantee Organizations.—__ 
+>     “(b)  __Grantee Organizations__  __.—__ 
 
 >     To the extent practicable, grantee organizations selected to operate programs described in subsection (a) shall be selected through an open competitive process. Among the factors that should be considered in the selection of such a grantee are the willingness and ability of the organization to—
 

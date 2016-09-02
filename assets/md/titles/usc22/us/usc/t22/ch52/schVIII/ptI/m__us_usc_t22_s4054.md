@@ -157,7 +157,7 @@
 
 [Pub. L. 100–238, title II, § 261][/us/pl/100/238/s261], Jan. 8, 1988, [101 Stat. 1776][/us/stat/101/1776], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), this title and the amendments made by this title \[enacting sections 4069–1 to 4069c–1 of this title, amending this section and sections 4044 to 4046, 4048, 4049, 4051, 4055, 4066, 4071a, 4071c, and 4084 of this title, and enacting provisions set out as a note under [section 4046 of this title][/us/usc/t22/s4046]\] shall take effect 90 days after the date of enactment of this title \[Jan. 8, 1988\].
 
@@ -173,7 +173,7 @@
 
 >             “(B) is entitled to an annuity under section 814 of the Foreign Service Act of 1980 \[this section\] pursuant to the divorce or annulment of the marriage to that participant or former participant.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     For the purpose of this section, the terms ‘participant’ and ‘former participant’ have the same meaning as such terms in chapter 8 of the Foreign Service Act of 1980 \[this subchapter\].”
 

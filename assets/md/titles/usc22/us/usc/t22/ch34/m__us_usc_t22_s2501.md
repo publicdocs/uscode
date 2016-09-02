@@ -63,11 +63,11 @@
 
 [Pub. L. 107–21, § 1][/us/pl/107/21/s1], July 26, 2001, [115 Stat. 194][/us/stat/115/194], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Effective on the date of enactment of this Act \[July 26, 2001\], the headquarters offices of the Peace Corps, wherever situated, shall be referred to as the ‘Paul D. Coverdell Peace Corps Headquarters’.
 
->     “(b) __References.—__ 
+>     “(b)  __References__  __.—__ 
 
 >     Any reference before the date of enactment of this Act \[July 26, 2001\] in any law, regulation, order, document, record, or other paper of the United States to the headquarters or headquarters offices of the Peace Corps shall, on and after such date, be considered to refer to the Paul D. Coverdell Peace Corps Headquarters.”
 

@@ -39,19 +39,19 @@
 
 [Pub. L. 101–246, title I, § 161][/us/pl/101/246/s161], Feb. 16, 1990, [104 Stat. 46][/us/stat/104/46], as amended by [Pub. L. 101–302, title III, § 320(b)(3)][/us/pl/101/302/s320/b/3], May 25, 1990, [104 Stat. 247][/us/stat/104/247]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XXII, § 2219(a)(1), Oct. 21, 1998, [112 Stat. 2681–817][/us/stat/112/2681-817]; [Pub. L. 107–132, § 1(b)][/us/pl/107/132/s1/b], Jan. 16, 2002, [115 Stat. 2412][/us/stat/115/2412], provided that:
 
->     “(a) __Designation of Posts.—__ 
+>     “(a)  __Designation of Posts__  __.—__ 
 
 >     In order to carry out the purposes of section 702 of the Foreign Service Act of 1980 \[[22 U.S.C. 4022][/us/usc/t22/s4022]\], and in light of the positive report issued on March 28, 1986, by the Department of State, as required by section 2207 of the Foreign Service Act of 1980 \[[22 U.S.C. 4171][/us/usc/t22/s4171]\], the Secretary of State shall designate as model foreign language competence posts a minimum of six Foreign Service posts, representing the Department of State’s five geographic bureaus, in countries where English is not the common language. Such designation shall be made not later than 120 days after the date of enactment of this Act \[Feb. 16, 1990\], and shall be implemented so that not later than October 1, 1991, in the case of non-hard language posts, and October 1, 1992, in the case of hard language posts, each Government employee permanently assigned to those posts shall possess an appropriate level of competence in the language common to the country where the post is located. The Secretary of State shall determine appropriate levels of language competence for employees assigned to those posts by reference to the nature of their functions and the standards employed by the George P. Shultz National Foreign Affairs Training Center.
 
->     “(b) __‘Hard Language Country’ Post To Be Designated.—__ 
+>     “(b)  __‘Hard Language Country’ Post To Be Designated__  __.—__ 
 
 >     At least one of the posts designated under subsection (a) shall be in a ‘hard language’ country, as identified in the report to the Under Secretary of State for Management of May 12, 1986, entitled ‘Hard Language Proficiency in the Foreign Service’. Such post shall be in one of the countries where the official or principal language is Arabic, Chinese, Japanese, or Russian.
 
->     “(c) __Termination Date.—__ 
+>     “(c)  __Termination Date__  __.—__ 
 
 >     The posts designated under subsection (a) shall continue as model foreign language posts at least until September 30, 1993, in the case of non-hard language posts, and September 30, 1994, in the case of hard language posts.
 
->     “(d) __Exemption Authority.—__ 
+>     “(d)  __Exemption Authority__  __.—__ 
 
 >     The Secretary of State may authorize exceptions to the requirements of this section if—
 
@@ -59,11 +59,11 @@
 
 >         “(2) he immediately reports such exceptions to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
 
->     “(e) __Excluded Posts.—__ 
+>     “(e)  __Excluded Posts__  __.—__ 
 
 >     The posts designated under subsection (a) may not include Dakar, Senegal, or Montevideo, Uruguay. The report required under subsection (c) shall include progress made in these posts in maintaining the high foreign language standards achieved under the initial pilot program.
 
->     “(f) __Authorization of Appropriations.—__ 
+>     “(f)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated such sums as may be necessary to carry out this section.”
 

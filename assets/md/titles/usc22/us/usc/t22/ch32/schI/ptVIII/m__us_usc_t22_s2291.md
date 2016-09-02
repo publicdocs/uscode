@@ -427,11 +427,11 @@
 
 [Pub. L. 109–177, title VII, § 723][/us/pl/109/177/s723], Mar. 9, 2006, [120 Stat. 269][/us/stat/120/269], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of State, acting through the Assistant Secretary of the Bureau for International Narcotics and Law Enforcement Affairs, shall take such actions as are necessary to prevent the smuggling of methamphetamine into the United States from Mexico.
 
->     “(b) __Specific Actions.—__ 
+>     “(b)  __Specific Actions__  __.—__ 
 
 >     In carrying out subsection (a), the Secretary shall—
 
@@ -441,11 +441,11 @@
 
 >         “(3) encourage the Government of Mexico to take immediate action to reduce the diversion of pseudoephedrine by drug trafficking organizations for the production and trafficking of methamphetamine.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than one year after the date of the enactment of this Act \[Mar. 9, 2006\], and annually thereafter, the Secretary shall submit to the appropriate congressional committees a report on the implementation of this section for the prior year.
 
->     “(d) __Authorization of Appropriations.—__ 
+>     “(d)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to the Secretary to carry out this section $4,000,000 for each of the fiscal years 2006 and 2007.”
 
@@ -457,15 +457,15 @@
 
 [Pub. L. 105–277, div. C, title VIII, § 821(b)][/us/pl/105/277/s821/b], Oct. 21, 1998, [112 Stat. 2681–700][/us/stat/112/2681-700], provided that:
 
->     “(1) __Limitation on provision of assistance.—__ 
+>     “(1)  __Limitation on provision of assistance__  __.—__ 
 
 >     Except as provided in paragraph (2), United States counternarcotics assistance may not be provided for the Government of Colombia under this title \[see Tables for classification\] or under any other provision of law on or after the date of enactment of this Act \[Oct. 21, 1998\] if the Government of Colombia negotiates or permits the establishment of any demilitarized zone in which the eradication of drug production by the security forces of Colombia, including the Colombian National Police antinarcotics unit, is prohibited.
 
->     “(2) __Exception.—__ 
+>     “(2)  __Exception__  __.—__ 
 
 >     If the Government of Colombia negotiates or permits the establishment of a demilitarized zone described in paragraph (1), United States counternarcotics assistance may be provided for the Government of Colombia for a period of up to 90 consecutive days upon a finding by the President that providing such assistance is in the national interest of the United States.
 
->     “(3) __Notification.—__ 
+>     “(3)  __Notification__  __.—__ 
 
 >     In each case in which counternarcotics assistance is provided for the Government of Colombia as a result of a finding by the President described in paragraph (2), the President shall notify the Committees on Appropriations and the authorizing committees of jurisdiction of the House of Representatives and the Senate not later than 5 days after such assistance is provided.”
 
@@ -479,21 +479,21 @@
 
 [Pub. L. 101–513, title V, § 599H][/us/pl/101/513/s599H], Nov. 5, 1990, [104 Stat. 2068][/us/stat/104/2068], provided that:
 
->     “(a) __Negotiations.—__ 
+>     “(a)  __Negotiations__  __.—__ 
 
 >         (1) The Attorney General shall enter into negotiations with the appropriate law enforcement and judicial agencies and any other officials of any foreign country with jurisdiction over companies who manufacture, market, sell or purchase certain precursor and/or essential chemicals used in the production of illicit narcotics. The priority of negotiations should be determined based on an assessment by the Attorney General which countries have jurisdiction over companies that may be knowingly or unknowingly supplying chemicals for the illicit manufacture of controlled substances.
 
 >         “(2) The purposes of the negotiations shall be to (a) establish a list of precursor and essential chemicals contributing to the illicit manufacture of controlled substances, as defined in section 102 of the Controlled Substances Act (21 USC 802); (b) reach one or more international agreements on a method for maintaining records of transactions of these listed chemicals; (c) establish a procedure by which such records may be made available to (and kept confidential as necessary by) United States law enforcement authorities for the exclusive purpose of conducting an investigation relative to precursor chemicals, essential chemicals and/or controlled substances contributing to the manufacture of illicit narcotics; and (d) encourage chemical source countries to enact national chemical control legislation which would (i) impose specific record keeping and reporting requirements for domestic transactions involving listed chemicals; (ii) establish a system of permits or declarations for imports and exports of listed chemicals; and (iii) authorize government officials to seize or suspend shipments of listed chemicals based on evidence that they may be destined for the illicit manufacture of controlled substances.
 
->     “(b) __Reports.—__ 
+>     “(b)  __Reports__  __.—__ 
 
 >     Not later than one year after the date of enactment of this Act \[Nov. 5, 1990\], the Attorney General shall submit an interim report to the Judiciary Committee and the Foreign Relations Committee of the Senate on progress in the negotiations. Not later than eighteen months from the date of enactment, the Attorney General shall submit a final report to the aforementioned Senate Committees on the result of negotiations identifying countries with which agreements have not been reached and which have jurisdiction over companies believed to be engaged in the manufacture, marketing, sale or purchase of precursor and/or essential chemicals used in illicit manufacture of controlled substances.
 
->     “(c) __Penalties.—__ 
+>     “(c)  __Penalties__  __.—__ 
 
 >     After consulting with the Attorney General and the Director of the Office of National Drug Control Policy, the President shall impose penalties or sanctions including temporarily or permanently prohibiting any corporation, partnership, individual or business association (i) refusing to maintain records for the purpose of monitoring and regulating transactions of listed precursor chemicals, or (ii) refusing to make such records available to United States law enforcement authorities for investigative purposes (in coordination with the local law enforcement agency in which such corporation, partnership, individual, or business association resides, is created or has its principal place of business) from engaging in any or all transactions, in goods or services, within the commerce of the United States.
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     A record under subsection (a) shall be retrievable and include the date of the transaction, the identity of each party to the transaction, including the ultimate consignee, and accounting of the quantity and form of listed chemical(s) and a description of the method of transfer.
 
@@ -503,7 +503,7 @@
 
 [Pub. L. 101–240, title IV, § 407][/us/pl/101/240/s407], Dec. 19, 1989, [103 Stat. 2504][/us/stat/103/2504], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 
@@ -513,15 +513,15 @@
 
 >         “(3) reduction of debt should relieve some of the financial burden on these countries, and thereby enable them to rely on legal income-generating activities.
 
->     “(b) __Instruction of United States Executive Directors.—__ 
+>     “(b)  __Instruction of United States Executive Directors__  __.—__ 
 
 >     The Secretary of the Treasury shall instruct the United States Executive Director of each multilateral development bank that, in voting with respect to loans from the multilateral development bank to reduce the debt and debt burden of borrowing countries which are major producers, processors, traffickers, or exporters of illegal drugs to the United States, the Executive Director shall give preference to those countries which show marked improvement in reducing the volume of cultivation, processing, trafficking, and export to the United States of illegal drugs. In making a determination under the preceding sentence with respect to a country’s improvement, the Secretary of the Treasury shall consult with the heads of the relevant agencies.
 
->     “(c) __Report to Congress.—__ 
+>     “(c)  __Report to Congress__  __.—__ 
 
 >     The Secretary of the Treasury shall include, in the detailed accounting required by section 2018(c) of the International Narcotics Control Act of 1986 ([22 U.S.C. 2191][/us/usc/t22/s2191] note) \[[section 2018(c) of Pub. L. 99–570][/us/pl/99/570/s2018/c] set out below\], relating to multilateral development bank assistance for drug eradication and crop substitution programs, an additional discussion of the steps taken and the progress made in implementing the goals set forth in subsection (b) of this section, and further steps needed to secure the achievement of these goals.
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     As used in this section—
 
@@ -533,11 +533,11 @@
 
 [Pub. L. 101–231, § 10][/us/pl/101/231/s10], Dec. 13, 1989, [103 Stat. 1961][/us/stat/103/1961], provided that:
 
->     “(a) __Authority.—__ 
+>     “(a)  __Authority__  __.—__ 
 
 >     The President may release Bolivia, Colombia, or Peru from its obligation to make payments to the United States Government of principal and interest on account of a loan made to that country under the Foreign Assistance Act of 1961 ([22 U.S.C. 2151][/us/usc/t22/s2151] and following; relating to foreign assistance programs) or credits extended for that country under section 23 of the Arms Export Control Act ([22 U.S.C. 2763][/us/usc/t22/s2763]; relating to foreign military sales credits) if the President determines that that country is implementing programs to reduce the flow of cocaine to the United States in accordance with a formal bilateral or multilateral agreement, to which the United States is a party, that contains specific, quantitative and qualitative, performance criteria with respect to those programs.
 
->     “(b) __Congressional Review of Agreements.—__ 
+>     “(b)  __Congressional Review of Agreements__  __.—__ 
 
 >     The President shall submit any such agreement with Bolivia, Colombia, or Peru to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate at least 15 days before exercising the authority of \[sub\]section (a) with respect to that country.
 
@@ -583,31 +583,31 @@
 
 [Pub. L. 99–570, title II, § 2018][/us/pl/99/570/s2018], Oct. 27, 1986, [100 Stat. 3207–68][/us/stat/100/3207-68], provided that:
 
->     “(a) __MDB Assistance for Development and Implementation of Drug Eradication Program.—__ 
+>     “(a)  __MDB Assistance for Development and Implementation of Drug Eradication Program__  __.—__ 
 
 >     The Secretary of the Treasury shall instruct the United States Executive Directors of the multilateral development banks to initiate discussions with other Directors of their respective banks and to propose that all possible assistance be provided to each major illicit drug producing country for the development and implementation of a drug eradication program, including technical assistance, assistance in conducting feasibility studies and economic analyses, and assistance for alternate economic activities.
 
->     “(b) __Increases in Multilateral Development Bank Lending for Crop Substitution Projects.—__ 
+>     “(b)  __Increases in Multilateral Development Bank Lending for Crop Substitution Projects__  __.—__ 
 
 >     The Secretary of the Treasury shall instruct the United States Executive Directors of the multilateral development banks to initiate discussions with other Directors of their respective banks and to propose that each such bank increase the amount of lending by such bank for crop substitution programs which will provide an economic alternative for the cultivation or production of illicit narcotic drugs or other controlled substances in major illicit drug producing countries, to the extent such countries develop and maintain adequate drug eradication programs.
 
->     “(c) __National Advisory Council Report.—__ 
+>     “(c)  __National Advisory Council Report__  __.—__ 
 
 >     The Secretary of the Treasury shall include in the annual report to the Congress by the National Advisory Council on International Monetary and Financial Policies a detailed accounting of the manner in which and the extent to which the provisions of this section have been carried out.
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     For purposes of this section—
 
->         “(1) __Multilateral development bank.—__ 
+>         “(1)  __Multilateral development bank__  __.—__ 
 
 >         The term ‘multilateral development bank’ means the International Bank for Reconstruction and Development, the International Development Association, the Inter-American Development Bank, the African Development Bank, and the Asian Development Bank.
 
->         “(2) __Major illicit drug producing country.—__ 
+>         “(2)  __Major illicit drug producing country__  __.—__ 
 
 >         The term ‘major illicit drug producing country’ has the meaning provided in section 481(i)(2) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2291(i)(2)][/us/usc/t22/s2291/i/2]).
 
->         “(3) __Narcotic drug and controlled substance.—__ 
+>         “(3)  __Narcotic drug and controlled substance__  __.—__ 
 
 >         The terms ‘narcotic drug’ and ‘controlled substance’ have the meanings given to such terms in section 102 of the Controlled Substances Act ([21 U.S.C. 802][/us/usc/t21/s802]).”
 
@@ -625,11 +625,11 @@
 
 [Pub. L. 99–93, title VIII, § 814][/us/pl/99/93/s814], Aug. 16, 1985, [99 Stat. 455][/us/stat/99/455], as amended by [Pub. L. 99–151, title III, § 306][/us/pl/99/151/s306], Nov. 13, 1985, [99 Stat. 808][/us/stat/99/808]; [Pub. L. 100–202, § 101(i)][/us/pl/100/202/s101/i] \[title I, § 5\], Dec. 22, 1987, [101 Stat. 1329–290][/us/stat/101/1329-290], 1329–294; [Pub. L. 102–392, title III, § 323][/us/pl/102/392/s323], Oct. 6, 1992, [106 Stat. 1726][/us/stat/106/1726]; [Pub. L. 105–119, title VI, § 625][/us/pl/105/119/s625], Nov. 26, 1997, [111 Stat. 2522][/us/stat/111/2522]; [Pub. L. 106–57, title I, § 7][/us/pl/106/57/s7], Sept. 29, 1999, [113 Stat. 412][/us/stat/113/412]; [Pub. L. 107–228, div. A, title VI, § 684][/us/pl/107/228/s684], Sept. 30, 2002, [116 Stat. 1411][/us/stat/116/1411], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     There is established the United States Senate Caucus on International Narcotics Control (hereafter in this section referred to as the ‘Caucus’).
 
->     “(b) __Duties.—__ 
+>     “(b)  __Duties__  __.—__ 
 
 >     The Caucus is authorized and directed—
 
@@ -637,7 +637,7 @@
 
 >         “(2) to monitor and encourage United States Government and private programs seeking to expand international cooperation against drug abuse and narcotics trafficking.
 
->     “(c) __Membership.—__ 
+>     “(c)  __Membership__  __.—__ 
 
 >         (1)
 
@@ -649,29 +649,29 @@
 
 >         “(2) There shall be a Chairman and a Cochairman of the Caucus.
 
->     “(d) __Powers.—__ 
+>     “(d)  __Powers__  __.—__ 
 
 >     In carrying out this section, the Caucus may require, by subpoena or otherwise, the attendance and testimony of such witnesses and the production of such books, records, correspondence, memorandums, papers, and documents as it deems necessary. Subpoenas may be issued over the signature of the Chairman of the Caucus or any member designated by him, and may be served by any person designated by the Chairman or such member. The Chairman of the Caucus, or any member designated by him, may administer oaths to any witness.
 
->     “(e) __Report by President to Caucus.—__ 
+>     “(e)  __Report by President to Caucus__  __.—__ 
 
 >     In order to assist the Caucus in carrying out its duties, the President shall submit to the Caucus a copy of the report required by section 481(e) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2991(e)][/us/usc/t22/s2991/e]) \[[22 U.S.C. 2291(e)][/us/usc/t22/s2291/e]\].
 
->     “(f) __Report to Senate.—__ 
+>     “(f)  __Report to Senate__  __.—__ 
 
 >     The Caucus is authorized and directed to report to the Senate with respect to the matters covered by this section on a periodic basis and to provide information to Members of the Senate as requested. For each fiscal year for which an appropriation is made the Caucus shall submit to the Congress a report on its expenditures under such appropriation.
 
->     “(g) __Authorization of Appropriations.—__ 
+>     “(g)  __Authorization of Appropriations__  __.—__ 
 
 >         (1) There are authorized to be appropriated to the Caucus $370,000 for each fiscal year, to remain available until expended, to assist in meeting the expenses of the Caucus for the purpose of carrying out the provisions of this section.
 
 >         “(2) For purposes of section 502(b) of the Mutual Security Act of 1954 ([22 U.S.C. 1754(b)][/us/usc/t22/s1754/b]), the Caucus shall be deemed to be a standing committee of the Senate and shall be entitled to the use of funds in accordance with such section.
 
->     “(h) __Staff.—__ 
+>     “(h)  __Staff__  __.—__ 
 
 >     The Caucus may appoint and fix the pay of such staff personnel as it deems desirable, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
 
->     “(i) __Termination.—__ 
+>     “(i)  __Termination__  __.—__ 
 
 >     The Caucus shall cease to exist on September 30, 2005.”
 
@@ -685,7 +685,7 @@
 
 [Pub. L. 99–83, title VI, § 619][/us/pl/99/83/s619], Aug. 8, 1985, [99 Stat. 233][/us/stat/99/233], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 
@@ -695,7 +695,7 @@
 
 >         “(3) cooperation in gaining access to the bank accounts of such narcotics traffickers would materially assist United States authorities in controlling the activities of such traffickers.
 
->     “(b) __Policy.—__ 
+>     “(b)  __Policy__  __.—__ 
 
 >     The Congress—
 

@@ -57,11 +57,11 @@
 
 [Pub. L. 110–53, title XX, § 2031(a)][/us/pl/110/53/s2031/a], (b), Aug. 3, 2007, [121 Stat. 515][/us/stat/121/515], provided that:
 
->     “(a) __Finding.—__ 
+>     “(a)  __Finding__  __.—__ 
 
 >     Congress finds that the report of the National Commission on Terrorist Attacks Upon the United States stated that ‘Recognizing that Arab and Muslim audiences rely on satellite television and radio, the government has begun some promising initiatives in television and radio broadcasting to the Arab world, Iran, and Afghanistan. These efforts are beginning to reach large audiences. The Broadcasting Board of Governors has asked for much larger resources. It should get them.’.
 
->     “(b) __Sense of Congress.—__ 
+>     “(b)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of Congress that—
 

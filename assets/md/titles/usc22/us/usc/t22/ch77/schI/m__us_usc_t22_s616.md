@@ -17,19 +17,19 @@
 
 ## “SEC. 616. ECONOMIC DEVELOPMENT IN TIBET.
 
->     “(a) __Declarations of Policy.—__ 
+>     “(a)  __Declarations of Policy__  __.—__ 
 
 >     It is the policy of the United States to support economic development, cultural preservation, health care, and education and environmental sustainability for Tibetans inside Tibet. In support of this policy, the United States shall use its voice and vote to support projects designed in accordance with the principles contained in subsection (d) that are designed to raise the standard of living for the Tibetan people and assist Tibetans to become self-sufficient.
 
->     “(b) __International Financial Institutions.—__ 
+>     “(b)  __International Financial Institutions__  __.—__ 
 
 >     The Secretary of the Treasury shall instruct the United States executive director of each international financial institution to use the voice and vote of the United States to support projects in Tibet, if the projects are designed in accordance with the principles contained in subsection (d).
 
->     “(c) __Export-Import Bank and TDA.—__ 
+>     “(c) __ Export-Import Bank and TDA__  __.—__ 
 
 >     The Export-Import Bank of the United States and the Trade and Development Agency should support projects proposed to be funded or otherwise supported by such entities in Tibet, if the projects are designed in accordance with the principles contained in subsection (d).
 
->     “(d) __Tibet Project Principles.—__ 
+>     “(d)  __Tibet Project Principles__  __.—__ 
 
 >     Projects in Tibet supported by international financial institutions, other international organizations, nongovernmental organizations, and the United States entities referred to in subsection (c), should—
 

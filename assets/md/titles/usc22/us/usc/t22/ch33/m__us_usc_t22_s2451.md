@@ -39,7 +39,7 @@
 
 [Pub. L. 108–458, title VII, § 7112][/us/pl/108/458/s7112], Dec. 17, 2004, [118 Stat. 3796][/us/stat/118/3796], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Consistent with the report of the National Commission on Terrorist Attacks Upon the United States, Congress makes the following findings:
 
@@ -47,7 +47,7 @@
 
 >         “(2) Exchange, scholarship, and library programs can expose young people from other countries to United States values and offer them knowledge and hope.
 
->     “(b) __Declaration of Policy.—__ 
+>     “(b)  __Declaration of Policy__  __.—__ 
 
 >     Consistent with the report of the National Commission on Terrorist Attacks Upon the United States, Congress declares that—
 
@@ -57,15 +57,15 @@
 
 >         “(3) such programs should include youth exchange programs, young ambassadors programs, international visitor programs, academic and cultural exchange programs, American Corner programs, library programs, journalist exchange programs, sister city programs, and other programs related to people-to-people diplomacy.
 
->     “(c) __Sense of Congress.—__ 
+>     “(c)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of Congress that the United States should significantly increase its investment in the people-to-people programs described in subsection (b).
 
->     “(d) __Authority To Expand Educational and Cultural Exchanges.—__ 
+>     “(d)  __Authority To Expand Educational and Cultural Exchanges__  __.—__ 
 
 >     The President is authorized to substantially expand the exchange, scholarship, and library programs of the United States, especially such programs that benefit people in the Muslim world.
 
->     “(e) __Availability of Funds.—__ 
+>     “(e)  __Availability of Funds__  __.—__ 
 
 >     Of the amounts authorized to be appropriated in each of the fiscal years 2005 and 2006 for educational and cultural exchange programs, there shall be available to the Secretary of State such sums as may be necessary to carry out programs under this section, unless otherwise authorized by Congress.”
 
@@ -73,7 +73,7 @@
 
 [Pub. L. 107–228, div. A, title II, § 224][/us/pl/107/228/s224], Sept. 30, 2002, [116 Stat. 1368][/us/stat/116/1368], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     There is established an Advisory Committee on Cultural Diplomacy (in this section referred to as the ‘Advisory Committee’), which shall be composed of nine members, as follows:
 
@@ -83,7 +83,7 @@
 
 >         “(3) Seven members appointed pursuant to subsection (c).
 
->     “(b) __Duties.—__ 
+>     “(b)  __Duties__  __.—__ 
 
 >     The Advisory Committee shall advise the Secretary on programs and policies to advance the use of cultural diplomacy in United States foreign policy. The Advisory Committee shall, in particular, provide advice to the Secretary on—
 
@@ -91,35 +91,35 @@
 
 >         “(2) strategies for increasing public-private partnerships to sponsor cultural exchange programs that promote the national interests of the United States.
 
->     “(c) __Appointments.—__ 
+>     “(c)  __Appointments__  __.—__ 
 
 >     The members of the Advisory Committee shall be appointed by the Secretary, not more than four of whom shall be from the same political party, from among distinguished Americans with a demonstrated record of achievement in the creative, visual, and performing arts, or international affairs. No officer or employee of the United States shall be appointed to the Advisory Committee.
 
->     “(d) __Vacancies.—__ 
+>     “(d)  __Vacancies__  __.—__ 
 
 >     A vacancy in the membership of the Advisory Committee shall be filled in the same manner as provided under this subsection to make the original appointment.
 
->     “(e) __Meetings.—__ 
+>     “(e)  __Meetings__  __.—__ 
 
 >     A majority of the members of the Advisory Committee shall constitute a quorum. The Advisory Committee shall meet at least twice each year or as frequently as may be necessary to carry out its duties.
 
->     “(f) __Administrative Support.—__ 
+>     “(f)  __Administrative Support__  __.—__ 
 
 >     The Secretary is authorized to provide the Advisory Committee with necessary administrative support from among the staff of the Bureau of Educational and Cultural Affairs of the Department.
 
->     “(g) __Compensation.—__ 
+>     “(g)  __Compensation__  __.—__ 
 
 >     Members of the Advisory Committee shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services of the Advisory Committee.
 
->     “(h) __Exemption From Federal Advisory Committee Act.—__ 
+>     “(h)  __Exemption From Federal Advisory Committee Act__  __.—__ 
 
 >     The Federal Advisory Committee Act \[5 U.S.C. App.\] shall not apply to the Advisory Committee to the extent that the provisions of this section are inconsistent with that Act.
 
->     “(i) __Authorization of Appropriations.—__ 
+>     “(i)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to the Department such sums as may be necessary to carry out this section.
 
->     “(j) __Termination.—__ 
+>     “(j)  __Termination__  __.—__ 
 
 >     The Advisory Committee shall terminate September 30, 2005.”
 

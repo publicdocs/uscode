@@ -43,7 +43,7 @@
 
 [Pub. L. 102–549, title V, § 501][/us/pl/102/549/s501], Oct. 28, 1992, [106 Stat. 3663][/us/stat/106/3663], provided that:
 
->     “(a) __Appointment.—__ 
+>     “(a)  __Appointment__  __.—__ 
 
 >     The Secretary of Commerce, in consultation with the Secretary of the Treasury, shall appoint one or more full-time additional procurement officers, for each multilateral development bank, to promote exports of goods and services from the United States by doing the following:
 
@@ -53,11 +53,11 @@
 
 >         “(3) Taking actions to assure that United States businesses can focus on projects in which they have a particular interest or competitive advantage, and to permit them to compete and have an equal opportunity in submitting timely and conforming bidding documents.
 
->     “(b) __Definition.—__ 
+>     “(b)  __Definition__  __.—__ 
 
 >     As used in this section, the term ‘multilateral development bank’ has the meaning given that term in section 1701(c) of the International Financial Institutions Act ([22 U.S.C. 262r(c)][/us/usc/t22/s262r/c]).
 
->     “(c) __Authorization of Appropriations.—__ 
+>     “(c)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to the Secretary of Commerce $1,000,000 for each of the fiscal years 1993 and 1994 to carry out this section. Amounts appropriated pursuant to this subsection shall be available only for the purpose of making the appointment of additional procurement officers required by subsection (a).”
 

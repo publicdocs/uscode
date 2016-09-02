@@ -27,7 +27,7 @@
 
             (B) the country is not eligible for assistance from the International Development Association.
 
-        (2) __Opposition to loans unlikely to be repaid in full.—__ 
+        (2)  __Opposition to loans unlikely to be repaid in full__  __.—__ 
 
         If any such evaluation indicates that the proposed loan is not likely to be repaid in full, the Secretary of the Treasury shall instruct the United States Executive Director at the Fund to use the voice and vote of the United States to oppose the proposal.
 

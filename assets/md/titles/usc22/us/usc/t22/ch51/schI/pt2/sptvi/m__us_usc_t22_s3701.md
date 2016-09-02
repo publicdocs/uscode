@@ -69,11 +69,11 @@
 
 [Pub. L. 103–160, div. C, title XXXV, § 3506][/us/pl/103/160/s3506], Nov. 30, 1993, [107 Stat. 1966][/us/stat/107/1966], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), this title \[amending this section and enacting provisions set out as a note under [section 3641 of this title][/us/usc/t22/s3641]\] shall take effect as of October 1, 1993.
 
->     “(b) __Special Rule.—__ 
+>     “(b)  __Special Rule__  __.—__ 
 
 >     Paragraph (3) of section 1271(a) of the Panama Canal Act of 1979 ([22 U.S.C. 3701(a)][/us/usc/t22/s3701/a]), as added by section 3505(3), shall take effect on the date of the enactment of this Act \[Nov. 30, 1993\] and shall apply with respect to grievances arising on or after such date.”
 

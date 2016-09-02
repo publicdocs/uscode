@@ -501,11 +501,11 @@
 
 [Pub. L. 112–239, div. A, title VIII, § 850][/us/pl/112/239/s850], Jan. 2, 2013, [126 Stat. 1854][/us/stat/126/1854], provided that:
 
->     “(a) __DoS and USAID Reports Required.—__ 
+>     “(a)  __DoS and USAID Reports Required__  __.—__ 
 
 >     Not later than six months after the date of the enactment of this Act \[Jan. 2, 2013\], the Secretary of State and the Administrator of the United States Agency for International Development shall, in consultation with the Chief Acquisition Officer of the Department of State and the Chief Acquisition Officer of the United States Agency for International Development, respectively, each submit to the appropriate committees of Congress an assessment of Department of State and United States Agency for International Development policies governing contract support in overseas contingency operations.
 
->     “(b) __Elements.—__ 
+>     “(b)  __Elements__  __.—__ 
 
 >     Each report under subsection (a) shall include the following:
 
@@ -533,11 +533,11 @@
 
 >         “(3) Strategies and improvements necessary for the Department or the Agency, as applicable, to address reliance on contractors, workforce planning, and the recruitment and training of acquisition workforce personnel, including the anticipated number of personnel needed to perform acquisition management and oversight functions and plans for achieving personnel staffing goals, in connection with overseas contingency operations.
 
->     “(c) __Comptroller General Report.—__ 
+>     “(c)  __Comptroller General Report__  __.—__ 
 
 >     Not later than one year after the date of the enactment of this Act \[Jan. 2, 2013\], the Comptroller General of the United States shall submit to the appropriate committees of Congress a report on the progress of the efforts of the Department of State and the United States Agency for International Development in implementing improvements and changes identified under paragraphs (1) through (3) of subsection (b) in the reports required by subsection (a), together with such additional information as the Comptroller General considers appropriate to further inform such committees on issues relating to the reports required by subsection (a).
 
->     “(d) __Appropriate Committees of Congress Defined.—__ 
+>     “(d)  __Appropriate Committees of Congress Defined__  __.—__ 
 
 >     In this section, the term ‘appropriate committees of Congress’ means—
 
@@ -549,11 +549,11 @@
 
 [Pub. L. 112–81, div. A, title XII, § 1207][/us/pl/112/81/s1207], Dec. 31, 2011, [125 Stat. 1625][/us/stat/125/1625], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     There is established on the books of the Treasury of the United States an account to be known as the ‘Global Security Contingency Fund’ (in this section referred to as the ‘Fund’).
 
->     “(b) __Authority.—__ 
+>     “(b)  __Authority__  __.—__ 
 
 >     Notwithstanding any other provision of law (other than the provisions of section 620A of the Foreign Assistance Act of 1961 ([22 U.S.C. 2371][/us/usc/t22/s2371]) and the section 620J of such Act relating to limitations on assistance to security forces ([22 U.S.C. 2378d][/us/usc/t22/s2378d])), amounts in the Fund shall be available to either the Secretary of State or the Secretary of Defense to provide assistance to countries designated by the Secretary of State, with the concurrence of the Secretary of Defense, for purposes of this section, as follows:
 
@@ -569,11 +569,11 @@
 
 >     “(c) __Types of Assistance.—__ 
 
->         “(1) __Authorized elements.—__ 
+>         “(1)  __Authorized elements__  __.—__ 
 
 >         A program to provide the assistance under subsection (b)(1) may include the provision of equipment, supplies, and training.
 
->         “(2) __Required elements.—__ 
+>         “(2)  __Required elements__  __.—__ 
 
 >         A program to provide the assistance under subsection (b)(1) shall include elements that promote—
 
@@ -583,59 +583,59 @@
 
 >     “(d) __Formulation and Approval of Assistance Programs.—__ 
 
->         “(1) __Security programs.—__ 
+>         “(1)  __Security programs__  __.—__ 
 
 >         The Secretary of State and the Secretary of Defense shall jointly formulate assistance programs under subsection (b)(1). Assistance programs to be carried out pursuant to subsection (b)(1) shall be approved by the Secretary of State, with the concurrence of the Secretary of Defense, before implementation.
 
->         “(2) __Justice sector and stabilization programs.—__ 
+>         “(2)  __Justice sector and stabilization programs__  __.—__ 
 
 >         The Secretary of State, in consultation with the Secretary of Defense, shall formulate assistance programs under subsection (b)(2). Assistance programs to be carried out under the authority in subsection (b)(2) shall be approved by the Secretary of State, with the concurrence of the Secretary of Defense, before implementation.
 
->     “(e) __Relation to Other Authorities.—__ 
+>     “(e)  __Relation to Other Authorities__  __.—__ 
 
 >     The authority to provide assistance under this section is in addition to any other authority to provide assistance to foreign nations. The administrative authorities of the Foreign Assistance Act of 1961 ([22 U.S.C. 2151][/us/usc/t22/s2151] et seq.) shall be available to the Secretary of State with respect to funds available to carry out this section.
 
 >     “(f) __Transfer Authority.—__ 
 
->         “(1) __Department of defense funds.—__ 
+>         “(1)  __Department of defense funds__  __.—__ 
 
 >         Funds authorized to be appropriated to the Department of Defense for operation and maintenance for Defense-wide activities may be transferred to the Fund by the Secretary of Defense in accordance with established procedures for reprogramming under section 1001 of this Act \[[125 Stat. 1554][/us/stat/125/1554]\] and successor provisions of law. Amounts transferred under this paragraph shall be merged with funds otherwise made available under this section and remain available until expended as provided in subsection (i) for the purposes specified in subsection (b).
 
->         “(2) __Limitation.—__ 
+>         “(2)  __Limitation__  __.—__ 
 
 >         The total amount of funds transferred to the Fund in any fiscal year from the Department of Defense may not exceed $200,000,000.
 
->         “(3) __Transfers to other accounts.—__ 
+>         “(3)  __Transfers to other accounts__  __.—__ 
 
 >         Funds available to carry out assistance authorized by this section may be transferred to an agency or account determined most appropriate to facilitate the provision of assistance authorized by this section.
 
->         “(4) __Relation to other transfer authorities.—__ 
+>         “(4)  __Relation to other transfer authorities__  __.—__ 
 
 >         The transfer authorities in paragraphs (1) and (3) are in addition to any other transfer authority available to the Department of Defense.
 
->     “(g) __Allocation of Contributions To Assistance.—__ 
+>     “(g)  __Allocation of Contributions To Assistance__  __.—__ 
 
 >     The contribution of the Secretary of State to an activity under the authority in subsection (b) shall be not less than 20 percent of the total amount required for such activity. The contribution of the Secretary of Defense to such activity shall be not more than 80 percent of the total amount required.
 
->     “(h) __Authority To Accept Gifts.—__ 
+>     “(h)  __Authority To Accept Gifts__  __.—__ 
 
 >     The Secretary of State may use money, funds, property, and services accepted pursuant to the authority of section 635(d) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2395(d)][/us/usc/t22/s2395/d]) to fulfill the purposes of subsection (b).
 
->     “(i) __Availability of Funds.—__ 
+>     “(i)  __Availability of Funds__  __.—__ 
 
 >     Amounts in the Fund shall remain available until September 30, 2015, except that amounts appropriated or transferred to the Fund before that date shall remain available for obligation and expenditure after that date for activities under programs commenced under subsection (b) before that date.
 
->     “(j) __Administrative Expenses.—__ 
+>     “(j)  __Administrative Expenses__  __.—__ 
 
 >     Amounts in the Fund may be used for necessary administrative expenses in connection with the provision of assistance under this section.
 
->     “(k) __Detail of Personnel.—__ 
+>     “(k)  __Detail of Personnel__  __.—__ 
 
 >     The head of an agency of the United States Government may detail personnel to the Department of State to carry out the purposes of this section, with or without reimbursement for all or part of the costs of salaries and other expenses associated with such personnel.
 
 >     “(l) __Notices to Congress.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not less than 15 days before initiating an activity under a program of assistance under subsection (b), the Secretary of State, with the concurrence of the Secretary of Defense, shall submit to the specified congressional committees a notification that includes the following:
 
@@ -647,15 +647,15 @@
 
 >             “(D) Such other information relating to the program or activity as the Secretary of State or Secretary of Defense considers appropriate.
 
->         “(2) __Exercise of transfer authority.—__ 
+>         “(2)  __Exercise of transfer authority__  __.—__ 
 
 >         No transfer of funds into the Fund under subsection (f) or any other authority may occur until 15 days after the specified congressional committees are notified of the transfer.
 
->         “(3) __Guidance and processes for exercise of authority.—__ 
+>         “(3)  __Guidance and processes for exercise of authority__  __.—__ 
 
 >         The Secretary of State, with the concurrence of the Secretary of Defense, shall notify the specified congressional committees 15 days after the date on which all necessary guidance has been issued and processes for implementation of the authority in subsection (b) are established and fully operational.
 
->     “(m) __Annual Reports.—__ 
+>     “(m)  __Annual Reports__  __.—__ 
 
 >     Not later than October 30, 2012, and annually thereafter until the expiration of the authority in subsection (b) pursuant to subsection (q), the Secretary of State and the Secretary of Defense jointly shall submit to the specified congressional committees a report on the following:
 
@@ -665,7 +665,7 @@
 
 >     “(n) __Transitional Authorities.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Defense may, with the concurrence of the Secretary of State, provide the types of assistance described in subsection (c), and assistance for minor military construction, during fiscal year 2012 as follows:
 
@@ -677,15 +677,15 @@
 
 >         “(2) __Limitations.—__ 
 
->             “(A) __Assistance otherwise prohibited by law.—__ 
+>             “(A)  __Assistance otherwise prohibited by law__  __.—__ 
 
 >             The Secretary of Defense may not use the authority in this subsection to provide any type of assistance that is otherwise prohibited by any provision of law.
 
->             “(B) __Eligible countries.—__ 
+>             “(B)  __Eligible countries__  __.—__ 
 
 >             The Secretary of Defense may not use the authority in this subsection to provide a type of assistance to a foreign country that is otherwise prohibited from receiving such type of assistance under any other provision of law.
 
->             “(C) __Yemen.—__ 
+>             “(C)  __Yemen__  __.—__ 
 
 >             The authority specified in paragraph (1)(C), and the authority to provide assistance pursuant to section 1206 of the National Defense Authorization Act for Fiscal Year 2006 ([Public Law 109–163][/us/pl/109/163]; [119 Stat. 2456][/us/stat/119/2456] \[3456\]), may not be used for Yemen until 30 days after the date on which the Secretary of Defense and the Secretary of State jointly certify in writing to the specified congressional committees that the use of such authority is important to the national security interests of the United States. The certification shall include the following:
 
@@ -695,7 +695,7 @@
 
 >                 “(iii) An acknowledgment by the Secretary of Defense and the Secretary of State that they have received assurance from the Government of Yemen that any assistance so provided will be utilized in manner consistent with subsection (c)(2).
 
->         “(3) __Notice to congress.—__ 
+>         “(3)  __Notice to congress__  __.—__ 
 
 >         Not less than 15 days before funds are obligated to provide assistance under this subsection, the Secretary of Defense shall submit to the specified congressional committees a notice setting forth the following:
 
@@ -711,7 +711,7 @@
 
 >         “(4) __Termination.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Assistance authorized by this subsection may be provided until the earlier of—
 
@@ -719,13 +719,13 @@
 
 >                 “(ii) September 30, 2012.
 
->             “(B) __Completion of ongoing activities after termination.—__ 
+>             “(B)  __Completion of ongoing activities after termination__  __.—__ 
 
 >             An assistance activity authorized by this subsection that begins before the date of termination provided in subparagraph (A) may be completed after that date, but only using funds available before that date.
 
 >     “(o) __Funding.—__ 
 
->         “(1) __Fiscal year 2012.—__ 
+>         “(1)  __Fiscal year 2012__  __.—__ 
 
 >         The total amount available to the Department of Defense and the Department of State to provide assistance under this section during fiscal year 2012 may not exceed $350,000,000, of which—
 
@@ -733,11 +733,11 @@
 
 >             “(B) $75,000,000 may be used for assistance authorized by subparagraph (C) of subsection (n)(1).
 
->         “(2) __Fiscal years 2013 and after.—__ 
+>         “(2)  __Fiscal years 2013 and after__  __.—__ 
 
 >         The total amount available to the Department of Defense and the Department of State to provide assistance under this section during a fiscal year after fiscal year 2012 may not exceed $300,000,000.
 
->     “(p) __Specified Congressional Committees.—__ 
+>     “(p)  __Specified Congressional Committees__  __.—__ 
 
 >     In this section, the term ‘specified congressional committees’ means—
 
@@ -745,7 +745,7 @@
 
 >         “(2) the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate.
 
->     “(q) __Expiration.—__ 
+>     “(q)  __Expiration__  __.—__ 
 
 >     The authority under this section may not be exercised after September 30, 2015. An activity under a program authorized by subsection (b) commenced before that date may be completed after that date, but only using funds available for fiscal years 2012 through 2015.”
 
@@ -753,7 +753,7 @@
 
 [Pub. L. 112–81, div. A, title XII, § 1206][/us/pl/112/81/s1206], Dec. 31, 2011, [125 Stat. 1624][/us/stat/125/1624], provided that:
 
->     “(a) __Authority.—__ 
+>     “(a)  __Authority__  __.—__ 
 
 >     Pursuant to the policy established by the Lord’s Resistance Army Disarmament and Northern Uganda Recovery Act of 2009 ([Public Law 111–172][/us/pl/111/172]; [124 Stat. 1209][/us/stat/124/1209] \[set out below\]), the Secretary of Defense may, with the concurrence of Secretary of State, provide logistic support, supplies, and services for foreign forces participating in operations to mitigate and eliminate the threat posed by the Lord’s Resistance Army as follows:
 
@@ -761,35 +761,35 @@
 
 >         “(2) The national military forces of any other country determined by the Secretary of Defense, with the concurrence of the Secretary of State, to be participating in such operations.
 
->     “(b) __Participation of United States Personnel.—__ 
+>     “(b)  __Participation of United States Personnel__  __.—__ 
 
 >     No United States Armed Forces personnel, United States civilian employees, or United States civilian contractor personnel may participate in combat operations in connection with the provision of support under subsection (a), except for the purpose of acting in self-defense or of rescuing any United States citizen (including any member of the United States Armed Forces, any United States civilian employee, or any United States civilian contractor).
 
 >     “(c) __Funding.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Of the amount authorized to be appropriated for the Department of Defense for each of fiscal years 2012 and 2013 for operation and maintenance, not more than $35,000,000 may be utilized in each such fiscal year to provide support under subsection (a).
 
->         “(2) __Availability of funds across fiscal years.—__ 
+>         “(2)  __Availability of funds across fiscal years__  __.—__ 
 
 >         Amounts available under this subsection for a fiscal year for support under the authority in subsection (a) may be used for support under that authority that begins in such fiscal year but ends in the next fiscal year.
 
 >     “(d) __Limitations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Defense may not use the authority in subsection (a) to provide any type of support that is otherwise prohibited by any provision of law.
 
->         “(2) __Eligible countries.—__ 
+>         “(2)  __Eligible countries__  __.—__ 
 
 >         The Secretary of Defense may not use the authority in subsection (a) to provide support to any foreign country that is otherwise prohibited from receiving such type of support under any other provision of law.
 
->     “(e) __Notice to Congress on Eligible Countries.—__ 
+>     “(e)  __Notice to Congress on Eligible Countries__  __.—__ 
 
 >     The Secretary of Defense may not provide support under subsection (a) for the national military forces of a country determined to be eligible for such support under that subsection until the Secretary notifies the appropriate committees of Congress of the eligibility of the country for such support.
 
->     “(f) __Notice to Congress on Support to Be Provided.—__ 
+>     “(f)  __Notice to Congress on Support to Be Provided__  __.—__ 
 
 >     Not less than 15 days before the date on which funds are obligated to provide support under subsection (a), the Secretary of Defense shall submit to the appropriate committees of Congress a notice setting forth the following:
 
@@ -803,7 +803,7 @@
 
 >         “(5) The intended duration of such support.
 
->     “(g) __Definitions.—__ 
+>     “(g)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -817,7 +817,7 @@
 
 >         “(2) The term ‘logistic support, supplies, and services’ has the meaning given that term in [section 2350(1) of title 10][/us/usc/t10/s2350/1], United States Code.
 
->     “(h) __Expiration.—__ 
+>     “(h)  __Expiration__  __.—__ 
 
 >     The authority provided under this section may not be exercised after September 30, 2013.”
 
@@ -863,11 +863,11 @@
 
 > “SEC. 4. __REQUIREMENT OF A STRATEGY TO SUPPORT THE DISARMAMENT OF THE LORD’S RESISTANCE ARMY.__ 
 
->     “(a) __Requirement for Strategy.—__ 
+>     “(a)  __Requirement for Strategy__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[May 24, 2010\], the President shall develop and submit to the appropriate committees of Congress a strategy to guide future United States support across the region for viable multilateral efforts to mitigate and eliminate the threat to civilians and regional stability posed by the Lord’s Resistance Army.
 
->     “(b) __Content of Strategy.—__ 
+>     “(b)  __Content of Strategy__  __.—__ 
 
 >     The strategy shall include the following:
 
@@ -881,7 +881,7 @@
 
 >         “(5) A description of how this engagement will fit within the context of broader efforts and policy objectives in the Great Lakes Region.
 
->     “(c) __Form.—__ 
+>     “(c)  __Form__  __.—__ 
 
 >     The strategy under this section shall be submitted in unclassified form, but may include a classified annex.
 
@@ -891,7 +891,7 @@
 
 > “SEC. 6. __ASSISTANCE FOR RECOVERY AND RECONSTRUCTION IN NORTHERN UGANDA.__ 
 
->     “(a) __Authority.—__ 
+>     “(a)  __Authority__  __.—__ 
 
 >     It is the sense of Congress that the President should support efforts by the people of northern Uganda and the Government of Uganda—
 
@@ -907,7 +907,7 @@
 
 >         “(6) to promote programs to address psychosocial trauma, particularly post-traumatic stress disorder.
 
->     “(b) __Future Year Funding.—__ 
+>     “(b)  __Future Year Funding__  __.—__ 
 
 >     It is the sense of Congress that the Secretary of State and Administrator of the United States Agency for International Development should work with the appropriate committees of Congress to increase assistance in future fiscal years to support activities described in this section if the Government of Uganda demonstrates a commitment to transparent and accountable reconstruction in war-affected areas of northern Uganda, specifically by—
 
@@ -917,21 +917,21 @@
 
 >         “(3) committing substantial funds of its own, above and beyond standard budget allocations to local governments, to the task of implementing the Peace Recovery and Development Plan for Northern Uganda such that communities affected by the war can recover.
 
->     “(c) __Coordination With Other Donor Nations.—__ 
+>     “(c)  __Coordination With Other Donor Nations__  __.—__ 
 
 >     The United States should work with other donor nations to increase contributions for recovery efforts in northern Uganda and better leverage those contributions to enhance the capacity and encourage the leadership of the Government of Uganda in promoting transparent and accountable reconstruction in northern Uganda.
 
->     “(d) __Termination of Assistance.—__ 
+>     “(d)  __Termination of Assistance__  __.—__ 
 
 >     It is the sense of Congress that the Secretary of State should withhold non-humanitarian bilateral assistance to the Republic of Uganda if the Secretary determines that the Government of Uganda is not committed to reconstruction and reconciliation in the war-affected areas of northern Uganda and is not taking proactive steps to ensure this process moves forward in a transparent and accountable manner.
 
 > “SEC. 7. __ASSISTANCE FOR RECONCILIATION AND TRANSITIONAL JUSTICE IN NORTHERN UGANDA.__ 
 
->     “(a) __Sense of Congress.—__ 
+>     “(a)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of Congress that, despite reconstruction and development efforts, a continued failure to take meaningful steps toward national reconciliation and accountability risks perpetuating longstanding political grievances and fueling new conflicts.
 
->     “(b) __Authority.—__ 
+>     “(b)  __Authority__  __.—__ 
 
 >     In accordance with section 531 of the Foreign Assistance Act of 1961 ([22 U.S.C. 2346][/us/usc/t22/s2346]), the President is authorized to support efforts by the people of northern Uganda and the Government of Uganda to advance efforts to promote transitional justice and reconciliation on both local and national levels, including to encourage implementation of the mechanisms outlined in the Annexure to the Agreement on Accountability and Reconciliation between the Government of Uganda and the Lord’s Resistance Army/Movement, signed at Juba February 19, 2008, namely—
 
@@ -945,11 +945,11 @@
 
 > “SEC. 8. __REPORT.__ 
 
->     “(a) __Report Required.—__ 
+>     “(a)  __Report Required__  __.—__ 
 
 >     Not later than 1 year after the submission of the strategy required under section 4, the Secretary of State shall prepare and submit to the appropriate committees of Congress a report on the progress made toward the implementation of the strategy required under section 4 and a description and evaluation of the assistance provided under this Act toward the policy objectives described in section 3.
 
->     “(b) __Contents.—__ 
+>     “(b)  __Contents__  __.—__ 
 
 >     The report required under section (a) shall include—
 
@@ -963,7 +963,7 @@
 
 >         “(5) a description of amounts of assistance committed, and amounts provided, to northern Uganda during the reporting period by the Government of Uganda and each donor country.
 
->     “(c) __Form.—__ 
+>     “(c)  __Form__  __.—__ 
 
 >     The report under this section shall be submitted in unclassified form, but may include a classified annex.
 
@@ -979,15 +979,15 @@
 
 > “In this Act:
 
->     “(1) __Appropriate committees of congress.—__ 
+>     “(1)  __Appropriate committees of congress__  __.—__ 
 
 >     The term ‘appropriate committees of Congress’ means the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives.
 
->     “(2) __Great lakes region.—__ 
+>     “(2)  __Great lakes region__  __.—__ 
 
 >     The term ‘Great Lakes Region’ means the region comprising Burundi, Democratic Republic of Congo, Rwanda, southern Sudan, and Uganda.
 
->     “(3) __LRA-affected areas.—__ 
+>     “(3) __LRA-__  __affected areas__  __.—__ 
 
 >     The term ‘LRA-affected areas’ means those portions of northern Uganda, southern Sudan, northeastern Democratic Republic of Congo, and southeastern Central African Republic determined by the Secretary of State to be affected by the Lord’s Resistance Army as of the date of the enactment of this Act \[May 24, 2010\].”
 
@@ -995,7 +995,7 @@
 
 [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XII, § 1213, Oct. 14, 2008, [122 Stat. 4629][/us/stat/122/4629], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The President shall establish and implement a strategy for United States-led Provincial Reconstruction Teams (PRTs), including embedded PRTs and Provincial Support Teams, in Iraq that ensures that such United States-led PRTs are—
 
@@ -1003,7 +1003,7 @@
 
 >         “(2) developing the capacity of national, provincial, and local government and other civil institutions in Iraq to assume increasing responsibility for the formulation, implementation, and oversight of reconstruction and development activities.
 
->     “(b) __Elements of Strategy.—__ 
+>     “(b)  __Elements of Strategy__  __.—__ 
 
 >     At a minimum, the strategy required under subsection (a) shall include—
 
@@ -1015,15 +1015,15 @@
 
 >     “(c) __Report.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 90 days after the date of the enactment of this Act \[Oct. 14, 2008\], and every 90 days thereafter through the end of fiscal year 2010, the President shall transmit to the appropriate congressional committees a report on the implementation of the strategy required under subsection (a), including an assessment of the specific contributions United States-led PRTs are making to implement the strategy. The initial report required under this subsection should include a general description of the strategy required under subsection (a) and a general discussion of the elements of the strategy required under subsection (b).
 
->         “(2) __Inclusion in other report.—__ 
+>         “(2)  __Inclusion in other report__  __.—__ 
 
 >         The report required under this subsection may be included in the report required by section 1227 of the National Defense Authorization Act for Fiscal Year 2006 ([Public Law 109–163][/us/pl/109/163]; [119 Stat. 3465][/us/stat/119/3465] \[[50 U.S.C. 1541][/us/usc/t50/s1541] note\]).
 
->     “(d) __Appropriate Congressional Committees Defined.—__ 
+>     “(d)  __Appropriate Congressional Committees Defined__  __.—__ 
 
 >     In this section, the term ‘appropriate congressional committees’ means—
 
@@ -1035,7 +1035,7 @@
 
 [Pub. L. 110–53, title XX, § 2021][/us/pl/110/53/s2021], Aug. 3, 2007, [121 Stat. 513][/us/stat/121/513], provided that:
 
->     “(a) __Purposes.—__ 
+>     “(a)  __Purposes__  __.—__ 
 
 >     The purposes of this section are to support, through the provision of grants, technical assistance, training, and other programs, in the countries of the broader Middle East region, the expansion of—
 
@@ -1057,39 +1057,39 @@
 
 >     “(b) __Middle East Foundation.—__ 
 
->         “(1) __Designation.—__ 
+>         “(1)  __Designation__  __.—__ 
 
 >         The Secretary of State is authorized to designate an appropriate private, nonprofit organization that is organized or incorporated under the laws of the United States or of a State as the Middle East Foundation (referred to in this section as the ‘Foundation’).
 
 >         “(2) __Funding.—__ 
 
->             “(A) __Authority.—__ 
+>             “(A)  __Authority__  __.—__ 
 
 >             The Secretary of State is authorized to provide funding to the Foundation through the Middle East Partnership Initiative of the Department of State. Notwithstanding any other provision of law, the Foundation shall use amounts provided under this paragraph to carry out the purposes specified in subsection (a), including through making grants, using such funds as an endowment, and providing other assistance to entities to carry out programs for such purposes.
 
->             “(B) __Funding from other sources.—__ 
+>             “(B)  __Funding from other sources__  __.—__ 
 
 >             In determining the amount of funding to provide to the Foundation, the Secretary of State shall take into consideration the amount of funds that the Foundation has received from sources other than the United States Government.
 
->         “(3) __Notification to congressional committees.—__ 
+>         “(3)  __Notification to congressional committees__  __.—__ 
 
 >         The Secretary of State shall notify the appropriate congressional committees of the designation of an appropriate organization as the Foundation.
 
 >     “(c) __Grants for Projects.—__ 
 
->         “(1) __Foundation to make grants.—__ 
+>         “(1)  __Foundation to make grants__  __.—__ 
 
 >         The Secretary of State shall enter into an agreement with the Foundation that requires the Foundation to use the funds provided under subsection (b)(2) to make grants to persons or entities (other than governments or government entities) located in the broader Middle East region or working with local partners based in the broader Middle East region to carry out projects that support the purposes specified in subsection (a).
 
->         “(2) __Center for public policy.—__ 
+>         “(2)  __Center for public policy__  __.—__ 
 
 >         Under the agreement described in paragraph (1), the Foundation may make a grant to an institution of higher education located in the broader Middle East region to create a center for public policy for the purpose of permitting scholars and professionals from the countries of the broader Middle East region and from other countries, including the United States, to carry out research, training programs, and other activities to inform public policymaking in the broader Middle East region and to promote broad economic, social, and political reform for the people of the broader Middle East region.
 
->         “(3) __Applications for grants.—__ 
+>         “(3)  __Applications for grants__  __.—__ 
 
 >         An entity seeking a grant from the Foundation under this section shall submit an application to the head of the Foundation at such time, in such manner, and containing such information as the head of the Foundation may reasonably require.
 
->     “(d) __Private Character of the Foundation.—__ 
+>     “(d)  __Private Character of the Foundation__  __.—__ 
 
 >     Nothing in this section shall be construed to—
 
@@ -1097,31 +1097,31 @@
 
 >         “(2) impose any restriction on the Foundation’s acceptance of funds from private and public sources in support of its activities consistent with the purposes specified in subsection (a).
 
->     “(e) __Limitation on Payments to Foundation Personnel.—__ 
+>     “(e)  __Limitation on Payments to Foundation Personnel__  __.—__ 
 
 >     No part of the funds provided to the Foundation under this section shall inure to the benefit of any officer or employee of the Foundation, except as salary or reasonable compensation for services.
 
->     “(f) __Retention of Interest.—__ 
+>     “(f)  __Retention of Interest__  __.—__ 
 
 >     The Foundation may hold funds provided under this section in interest-bearing accounts prior to the disbursement of such funds to carry out the purposes specified in subsection (a), and may retain for such purposes any interest earned without returning such interest to the Treasury of the United States. The Foundation may retain and use such funds as an endowment to carry out the purposes specified in subsection (a).
 
 >     “(g) __Financial Accountability.—__ 
 
->         “(1) __Independent private audits of the foundation.—__ 
+>         “(1)  __Independent private audits of the foundation__  __.—__ 
 
 >         The accounts of the Foundation shall be audited annually in accordance with generally accepted auditing standards by independent certified public accountants or independent licensed public accountants certified or licensed by a regulatory authority of a State or other political subdivision of the United States. The report of the independent audit shall be included in the annual report required by subsection (h).
 
->         “(2) __GAO audits.—__ 
+>         “(2)  __GAO audits__  __.—__ 
 
 >         The financial transactions undertaken pursuant to this section by the Foundation may be audited by the Government Accountability Office in accordance with such principles and procedures and under such rules and regulations as may be prescribed by the Comptroller General of the United States.
 
 >         “(3) __Audits of grant recipients.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             A recipient of a grant from the Foundation shall agree to permit an audit of the books and records of such recipient related to the use of the grant funds.
 
->             “(B) __Recordkeeping.—__ 
+>             “(B)  __Recordkeeping__  __.—__ 
 
 >             Such recipient shall maintain appropriate books and records to facilitate an audit referred to in subparagraph (A), including—
 
@@ -1133,7 +1133,7 @@
 
 >                 “(iv) the amount and nature of any funds received from other sources that were combined with the grant funds to carry out a project.
 
->     “(h) __Annual Reports.—__ 
+>     “(h)  __Annual Reports__  __.—__ 
 
 >     Not later than January 31, 2008, and annually thereafter, the Foundation shall submit to the appropriate congressional committees and make available to the public a report that includes, for the fiscal year prior to the fiscal year in which the report is submitted, a comprehensive and detailed description of—
 
@@ -1145,11 +1145,11 @@
 
 >         “(4) the financial condition of the Foundation.
 
->     “(i) __Broader Middle East Region Defined.—__ 
+>     “(i)  __Broader Middle East Region Defined__  __.—__ 
 
 >     In this section, the term ‘broader Middle East region’ means Afghanistan, Algeria, Bahrain, Egypt, Iran, Iraq, Jordan, Kuwait, Lebanon, Libya, Morocco, Oman, Pakistan, Qatar, Saudi Arabia, Syria, Tunisia, United Arab Emirates, West Bank and Gaza, and Yemen.
 
->     “(j) __Repeal.—__ 
+>     “(j)  __Repeal__  __.—__ 
 
 >     [Section 534(k) of Public Law 109–102][/us/pl/109/102/s534/k] \[[119 Stat. 2210][/us/stat/119/2210]\] is repealed.”
 
@@ -1245,21 +1245,21 @@
 
 > “SEC. 103. __BILATERAL ASSISTANCE TO THE DEMOCRATIC REPUBLIC OF THE CONGO.__ 
 
->     “(a) __Funding for Fiscal Years 2006 and 2007.—__ 
+>     “(a)  __Funding for Fiscal Years__  __2006__  __and__  __2007.—__ 
 
 >     Of the amounts made available to carry out the Foreign Assistance Act of 1961 ([22 U.S.C. 2151][/us/usc/t22/s2151] et seq.), the Agricultural Trade Development and Assistance Act of 1954 \[now Food for Peace Act\] \[[7 U.S.C. 1691][/us/usc/t7/s1691] et seq.\] ([68 Stat. 454][/us/stat/68/454], chapter 469), and the Arms Export Control Act ([22 U.S.C. 2751][/us/usc/t22/s2751] et seq.) for fiscal year 2006 and 2007, at least $52,000,000 for each such fiscal year should be allocated for bilateral assistance programs in the Democratic Republic of the Congo.
 
->     “(b) __Future Year Funding.—__ 
+>     “(b)  __Future Year Funding__  __.—__ 
 
 >     It is the sense of Congress that the Department of State should submit budget requests in fiscal years 2008 and 2009 that contain increases in bilateral assistance for the Democratic Republic of the Congo that are appropriate if progress is being made, particularly cooperation by the Government of the Democratic Republic of the Congo, toward accomplishing the policy objectives described in section 102.
 
->     “(c) __Coordination With Other Donor Nations.—__ 
+>     “(c)  __Coordination With Other Donor Nations__  __.—__ 
 
 >     The United States should work with other donor nations, on a bilateral and multilateral basis, to increase international contributions to the Democratic Republic of the Congo and accomplish the policy objectives described in section 102.
 
 > “SEC. 104. __ACCOUNTABILITY FOR THE GOVERNMENT OF THE DEMOCRATIC REPUBLIC OF THE CONGO.__ 
 
->     “(a) __Sense of Congress.—__ 
+>     “(a)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of Congress that—
 
@@ -1271,7 +1271,7 @@
 
 >         “(4) the international community, through the United Nations peacekeeping mission, humanitarian and development relief, and other forms of assistance, is providing a substantial amount of funding that is giving the Government of the Democratic Republic of the Congo an opportunity to make progress towards accomplishing the policy objectives described in section 102, but this assistance cannot continue in perpetuity.
 
->     “(b) __Termination of Assistance.—__ 
+>     “(b)  __Termination of Assistance__  __.—__ 
 
 >     It is the sense of Congress that the Secretary of State should withhold assistance otherwise available under this Act if the Secretary determines that the Government of the Democratic Republic of the Congo is not making sufficient progress towards accomplishing the policy objectives described in section 102.
 
@@ -1281,11 +1281,11 @@
 
 > “SEC. 106. __REPORT ON PROGRESS TOWARD ACCOMPLISHING POLICY OBJECTIVES.__ 
 
->     “(a) __Report Required.—__ 
+>     “(a)  __Report Required__  __.—__ 
 
 >     Not later than one year after the date of the enactment of this Act \[Dec. 22, 2006\], the Comptroller General of the United States shall submit to Congress a report on the progress made toward accomplishing the policy objectives described in section 102.
 
->     “(b) __Contents.—__ 
+>     “(b)  __Contents__  __.—__ 
 
 >     The report required under subsection (a) shall include—
 
@@ -1343,11 +1343,11 @@
 
 > “SEC. 202. __INCREASING CONTRIBUTIONS AND OTHER HUMANITARIAN AND DEVELOPMENT ASSISTANCE THROUGH INTERNATIONAL ORGANIZATIONS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The President should instruct the United States permanent representative or executive director, as the case may be, to the United Nations voluntary agencies, including the World Food Program, the United Nations Development Program, and the United Nations High Commissioner for Refugees, and other appropriate international organizations to use the voice and vote of the United States to support additional humanitarian and development assistance for the Democratic Republic of the Congo in order to accomplish the policy objectives described in section 102.
 
->     “(b) __Support Contingent on Progress.—__ 
+>     “(b)  __Support Contingent on Progress__  __.—__ 
 
 >     If the Secretary of State determines that the Government of the Democratic Republic of the Congo is not making sufficient progress towards accomplishing the policy objectives described in section 102, the President shall consider withdrawing United States support for the assistance described in subsection (a) when future funding decisions are considered.”
 
@@ -1357,7 +1357,7 @@
 
 > “SEC. 301. __DECLARATION OF POLICY.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Congress declares that it should be the policy of the United States—
 
@@ -1365,7 +1365,7 @@
 
 >         “(2) to support independent human rights and peaceful pro-democracy forces in Iran.
 
->     “(b) __Rule of Construction.—__ 
+>     “(b)  __Rule of Construction__  __.—__ 
 
 >     Nothing in this Act \[amending [section 5318A of Title 31][/us/usc/t31/s5318A], Money and Finance, and enacting and amending provisions set out as notes under [section 1701 of Title 50][/us/usc/t50/s1701], War and National Defense\] shall be construed as authorizing the use of force against Iran.
 
@@ -1373,15 +1373,15 @@
 
 >     “(a) __Authorization.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Notwithstanding any other provision of law, the President is authorized to provide financial and political assistance (including the award of grants) to foreign and domestic individuals, organizations, and entities working for the purpose of supporting and promoting democracy for Iran. Such assistance may include the award of grants to eligible independent pro-democracy radio and television broadcasting organizations that broadcast into Iran.
 
->         “(2) __Limitation on assistance.—__ 
+>         “(2)  __Limitation on assistance__  __.—__ 
 
 >         In accordance with the rule of construction described in subsection (b) of section 301, none of the funds authorized under this section shall be used to support the use of force against Iran.
 
->     “(b) __Eligibility for Assistance.—__ 
+>     “(b)  __Eligibility for Assistance__  __.—__ 
 
 >     Financial and political assistance under this section should be provided only to an individual, organization, or entity that—
 
@@ -1397,7 +1397,7 @@
 
 >         “(6) supports freedom of the press, freedom of speech, freedom of association, and freedom of religion.
 
->     “(c) __Funding.—__ 
+>     “(c)  __Funding__  __.—__ 
 
 >     The President may provide assistance under this section using—
 
@@ -1405,11 +1405,11 @@
 
 >         “(2) amounts made available pursuant to the authorization of appropriations under subsection (g).
 
->     “(d) __Notification.—__ 
+>     “(d)  __Notification__  __.—__ 
 
 >     Not later than 15 days before each obligation of assistance under this section, and in accordance with the procedures under section 634A of the Foreign Assistance Act of 1961 ([22 U.S.C. 2394][/us/usc/t22/s2394]–l), the President shall notify the Committee on International Relations \[now Committee on Foreign Affairs\] and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
 
->     “(e) __Sense of Congress Regarding Diplomatic Assistance.—__ 
+>     “(e)  __Sense of Congress Regarding Diplomatic Assistance__  __.—__ 
 
 >     It is the sense of Congress that—
 
@@ -1423,11 +1423,11 @@
 
 >             “(B) draw international attention to violations by the Government of Iran of human rights, freedom of religion, freedom of assembly, and freedom of the press.
 
->     “(f) __Duration.—__ 
+>     “(f)  __Duration__  __.—__ 
 
 >     The authority to provide assistance under this section shall expire on December 31, 2011.
 
->     “(g) __Authorization of Appropriations.—__ 
+>     “(g)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to the Secretary of State such sums as may be necessary to carry out this section.”
 
@@ -1563,7 +1563,7 @@
 
 > “SEC. 5. __PENALTIES AND AUTHORIZATION.__ 
 
->     “(a) __Penalties.—__ 
+>     “(a)  __Penalties__  __.—__ 
 
 >     Until the President makes the determination that Syria meets all the requirements described in paragraphs (1) through (4) of subsection (d) and certifies such determination to Congress in accordance with such subsection—
 
@@ -1585,11 +1585,11 @@
 
 >             “(F) Block transactions in any property in which the Government of Syria has any interest, by any person, or with respect to any property, subject to the jurisdiction of the United States.
 
->     “(b) __Waiver.—__ 
+>     “(b)  __Waiver__  __.—__ 
 
 >     The President may waive the application of subsection (a)(1), (a)(2), or both if the President determines that it is in the national security interest of the United States to do so and submits to the appropriate congressional committees a report containing the reasons for the determination.
 
->     “(c) __Authority To Provide Assistance To Syria.—__ 
+>     “(c)  __Authority To Provide Assistance To Syria__  __.—__ 
 
 >     If the President—
 
@@ -1601,7 +1601,7 @@
 
 >         then the President is authorized to provide assistance to Syria under chapter 1 of part I of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2151][/us/usc/t22/s2151] et seq.\] (relating to development assistance).
 
->     “(d) __Certification.—__ 
+>     “(d)  __Certification__  __.—__ 
 
 >     A certification under this subsection is a certification transmitted to the appropriate congressional committees of a determination made by the President that—
 
@@ -1615,7 +1615,7 @@
 
 > “SEC. 6. __REPORT.__ 
 
->     “(a) __Report.—__ 
+>     “(a)  __Report__  __.—__ 
 
 >     Not later than 6 months after the date of the enactment of this Act \[Dec. 12, 2003\], and every 12 months thereafter until the conditions described in paragraphs (1) through (4) of section 5(d) are satisfied, the Secretary of State shall submit to the appropriate congressional committees a report on—
 
@@ -1625,7 +1625,7 @@
 
 >         “(3) how the United States is increasing its efforts against Hizballah and other terrorist organizations supported by Syria.
 
->     “(b) __Form.—__ 
+>     “(b)  __Form__  __.—__ 
 
 >     The report submitted under subsection (a) shall be in unclassified form but may include a classified annex.
 
@@ -1677,7 +1677,7 @@
 
 [Pub. L. 108–7, div. E, title V, § 582][/us/pl/108/7/s582], Feb. 20, 2003, [117 Stat. 214][/us/stat/117/214], provided that:
 
->     “(a) __Authority.—__ 
+>     “(a)  __Authority__  __.—__ 
 
 >     Funds made available to carry out the provisions of chapter 1 of part I \[[22 U.S.C. 2151][/us/usc/t22/s2151] et seq.\] and chapter 4 of part II \[[22 U.S.C. 2346][/us/usc/t22/s2346] et seq.\] of the Foreign Assistance Act of 1961, may be used, notwithstanding section 660 of that Act \[[22 U.S.C. 2420][/us/usc/t22/s2420]\], to enhance the effectiveness and accountability of civilian police authority in Jamaica and El Salvador through training and technical assistance in human rights, the rule of law, strategic planning, and through assistance to foster civilian police roles that support democratic governance including assistance for programs to prevent conflict and foster improved police relations with the communities they serve.
 
@@ -1687,7 +1687,7 @@
 
 >         “(2) The requirements of paragraph (1) are in lieu of the requirements contains \[sic\] in [section 587(b) of Public Law 107–115][/us/pl/107/115/s587/b] \[see Similar Provisions note below\].
 
->     “(c) __Notification.—__ 
+>     “(c)  __Notification__  __.—__ 
 
 >     Assistance provided under subsection (a) shall be subject to the regular notification procedures of the Committees on Appropriations.”
 
@@ -1715,17 +1715,17 @@ Provisions similar to section 582(a), (c) of div. E of [Pub. L. 108–7][/us/pl/
 
 > “In this Act:
 
->     “(1) __International financial institutions.—__ 
+>     “(1)  __International financial institutions__  __.—__ 
 
 >     The term ‘international financial institutions’ means the multilateral development banks and the International Monetary Fund.
 
->     “(2) __Multilateral development banks.—__ 
+>     “(2)  __Multilateral development banks__  __.—__ 
 
 >     The term ‘multilateral development banks’ means the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the Asian Development Bank, the Inter-American Investment Corporation, the African Development Bank, the African Development Fund, the European Bank for Reconstruction and Development, and the Multilateral Investment Guaranty Agency.
 
 > “SEC. 4. __SUPPORT FOR DEMOCRATIC TRANSITION AND ECONOMIC RECOVERY.__ 
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress makes the following findings:
 
@@ -1741,11 +1741,11 @@ Provisions similar to section 582(a), (c) of div. E of [Pub. L. 108–7][/us/pl/
 
 >     “(b) __Support for Democratic Transition and Economic Recovery.—__ 
 
->         “(1) __Bilateral debt relief.—__ 
+>         “(1)  __Bilateral debt relief__  __.—__ 
 
 >         Upon receipt by the appropriate congressional committees of a certification described in subsection (d), the Secretary of the Treasury shall undertake a review of the feasibility of restructuring, rescheduling, or eliminating the sovereign debt of Zimbabwe held by any agency of the United States Government.
 
->         “(2) __Multilateral debt relief and other financial assistance.—__ 
+>         “(2)  __Multilateral debt relief and other financial assistance__  __.—__ 
 
 >         It is the sense of Congress that, upon receipt by the appropriate congressional committees of a certification described in subsection (d), the Secretary of the Treasury should—
 
@@ -1753,7 +1753,7 @@ Provisions similar to section 582(a), (c) of div. E of [Pub. L. 108–7][/us/pl/
 
 >             “(B) direct the United States executive director of each international financial institution to which the United States is a member to propose to undertake financial and technical support for Zimbabwe, especially support that is intended to promote Zimbabwe’s economic recovery and development, the stabilization of the Zimbabwean dollar, and the viability of Zimbabwe’s democratic institutions.
 
->     “(c) __Multilateral Financing Restriction.—__ 
+>     “(c)  __Multilateral Financing Restriction__  __.—__ 
 
 >     Until the President makes the certification described in subsection (d), and except as may be required to meet basic human needs or for good governance, the Secretary of the Treasury shall instruct the United States executive director to each international financial institution to oppose and vote against—
 
@@ -1761,45 +1761,45 @@ Provisions similar to section 582(a), (c) of div. E of [Pub. L. 108–7][/us/pl/
 
 >         “(2) any cancellation or reduction of indebtedness owed by the Government of Zimbabwe to the United States or any international financial institution.
 
->     “(d) __Presidential Certification That Certain Conditions Are Satisfied.—__ 
+>     “(d)  __Presidential Certification That Certain Conditions Are Satisfied__  __.—__ 
 
 >     A certification under this subsection is a certification transmitted to the appropriate congressional committees of a determination made by the President that the following conditions are satisfied:
 
->         “(1) __Restoration of the rule of law.—__ 
+>         “(1)  __Restoration of the rule of law__  __.—__ 
 
 >         The rule of law has been restored in Zimbabwe, including respect for ownership and title to property, freedom of speech and association, and an end to the lawlessness, violence, and intimidation sponsored, condoned, or tolerated by the Government of Zimbabwe, the ruling party, and their supporters or entities.
 
->         “(2) __Election or pre-election conditions.—__ 
+>         “(2)  __Election or pre-election conditions__  __.—__ 
 
 >         Either of the following two conditions is satisfied:
 
->             “(A) __Presidential election.—__ 
+>             “(A)  __Presidential election__  __.—__ 
 
 >             Zimbabwe has held a presidential election that is widely accepted as free and fair by independent international monitors, and the president-elect is free to assume the duties of the office.
 
->             “(B) __Pre-election conditions.—__ 
+>             “(B)  __Pre-election conditions__  __.—__ 
 
 >             In the event the certification is made before the presidential election takes place, the Government of Zimbabwe has sufficiently improved the pre-election environment to a degree consistent with accepted international standards for security and freedom of movement and association.
 
->         “(3) __Commitment to equitable, legal, and transparent land reform.—__ 
+>         “(3)  __Commitment to equitable, legal, and transparent land reform__  __.—__ 
 
 >         The Government of Zimbabwe has demonstrated a commitment to an equitable, legal, and transparent land reform program consistent with agreements reached at the International Donors’ Conference on Land Reform and Resettlement in Zimbabwe held in Harare, Zimbabwe, in September 1998.
 
->         “(4) __Fulfillment of agreement ending war in democratic republic of congo.—__ 
+>         “(4)  __Fulfillment of agreement ending war in democratic republic of congo__  __.—__ 
 
 >         The Government of Zimbabwe is making a good faith effort to fulfill the terms of the Lusaka, Zambia, agreement on ending the war in the Democratic Republic of Congo.
 
->         “(5) __Military and national police subordinate to civilian government.—__ 
+>         “(5)  __Military and national police subordinate to civilian government__  __.—__ 
 
 >         The Zimbabwean Armed Forces, the National Police of Zimbabwe, and other state security forces are responsible to and serve the elected civilian government.
 
->     “(e) __Waiver.—__ 
+>     “(e)  __Waiver__  __.—__ 
 
 >     The President may waive the provisions of subsection (b)(1) or subsection (c), if the President determines that it is in the national interest of the United States to do so.
 
 > “SEC. 5. __SUPPORT FOR DEMOCRATIC INSTITUTIONS, THE FREE PRESS AND INDEPENDENT MEDIA, AND THE RULE OF LAW.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The President is authorized to provide assistance under part I \[[22 U.S.C. 2151][/us/usc/t22/s2151] et seq.\] and chapter 4 of part II \[[22 U.S.C. 2346][/us/usc/t22/s2346] et seq.\] of the Foreign Assistance Act of 1961 to—
 
@@ -1809,7 +1809,7 @@ Provisions similar to section 582(a), (c) of div. E of [Pub. L. 108–7][/us/pl/
 
 >         “(3) provide for democracy and governance programs in Zimbabwe.
 
->     “(b) __Funding.—__ 
+>     “(b)  __Funding__  __.—__ 
 
 >     Of the funds authorized to be appropriated to carry out part I \[[22 U.S.C. 2151][/us/usc/t22/s2151] et seq.\] and chapter 4 of part II \[[22 U.S.C. 2346][/us/usc/t22/s2346] et seq.\] of the Foreign Assistance Act of 1961 for fiscal year 2002—
 
@@ -1817,7 +1817,7 @@ Provisions similar to section 582(a), (c) of div. E of [Pub. L. 108–7][/us/pl/
 
 >         “(2) $6,000,000 is authorized to be available to provide the assistance described in subsection (a)(3).
 
->     “(c) __Supersedes Other Laws.—__ 
+>     “(c)  __Supersedes Other Laws__  __.—__ 
 
 >     The authority in this section supersedes any other provision of law.
 
@@ -1865,7 +1865,7 @@ Provisions similar to those contained in [section 4(c) of Pub. L. 107–99][/us/
 
 [Pub. L. 104–319, title II, § 202][/us/pl/104/319/s202], Oct. 19, 1996, [110 Stat. 3866][/us/stat/110/3866], provided that:
 
->     “(a) __Prohibition.—__ 
+>     “(a)  __Prohibition__  __.—__ 
 
 >     The President should not provide economic assistance, military assistance or arms transfers to the Government of Mauritania unless the President certifies to the Congress that such Government has taken appropriate action to eliminate chattel slavery in Mauritania, including—
 
@@ -1873,15 +1873,15 @@ Provisions similar to those contained in [section 4(c) of Pub. L. 107–99][/us/
 
 >         “(2) the rigorous enforcement of such laws.
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     For purposes of this section, the following definitions apply:
 
->         “(1) __Economic assistance.—__ 
+>         “(1)  __Economic assistance__  __.—__ 
 
 >         The term ‘economic assistance’ means any assistance under part I of the Foreign Assistance Act of 1961 ([22 U.S.C. 2151][/us/usc/t22/s2151] et seq.), except that such term does not include humanitarian assistance.
 
->         “(2) __Military assistance or arms transfers.—__ 
+>         “(2)  __Military assistance or arms transfers__  __.—__ 
 
 >         The term ‘military assistance or arms transfers’ means—
 
@@ -1907,7 +1907,7 @@ Provisions similar to those contained in [section 4(c) of Pub. L. 107–99][/us/
 
 > “SEC. 2. __FINDINGS AND STATEMENT OF POLICY.__ 
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress makes the following findings:
 
@@ -1943,13 +1943,13 @@ Provisions similar to those contained in [section 4(c) of Pub. L. 107–99][/us/
 
 >         “(12) The Organization of African Unity, under the leadership of Secretary General Salim Salim, has established a conflict resolution mechanism and has been active in mediation and conflict resolution in several African countries.
 
->     “(b) __United States Policy.—__ 
+>     “(b)  __United States Policy__  __.—__ 
 
 >     The Congress declares, therefore, that a key goal for United States foreign policy should be to help institutionalize conflict resolution capability in Africa.
 
 > “SEC. 3. __IMPROVING THE CONFLICT RESOLUTION CAPABILITIES OF THE ORGANIZATION OF AFRICAN UNITY.__ 
 
->     “(a) __Authorization of Assistance.—__ 
+>     “(a)  __Authorization of Assistance__  __.—__ 
 
 >     The President is authorized to provide assistance to strengthen the conflict resolution capability of the Organization of African Unity, as follows:
 
@@ -1957,13 +1957,13 @@ Provisions similar to those contained in [section 4(c) of Pub. L. 107–99][/us/
 
 >         “(2) Funds may be used for expenses of sending individuals with expertise in conflict resolution to work with the Organization of African Unity.
 
->     “(b) __Funding.—__ 
+>     “(b)  __Funding__  __.—__ 
 
 >     Of the foreign assistance funds that are allocated for sub-Saharan Africa, not less than $1,500,000 for each of the fiscal years 1995 through 1998 should be used to carry out subsection (a).
 
 > “SEC. 4. __IMPROVING CONFLICT RESOLUTION CAPABILITIES OF MULTILATERAL SUBREGIONAL ORGANIZATIONS IN AFRICA.__ 
 
->     “(a) __Authorization of Assistance.—__ 
+>     “(a)  __Authorization of Assistance__  __.—__ 
 
 >     The President is authorized to provide assistance to strengthen the conflict resolution capabilities of subregional organizations established by countries in sub-Saharan Africa, as follows:
 
@@ -1971,23 +1971,23 @@ Provisions similar to those contained in [section 4(c) of Pub. L. 107–99][/us/
 
 >         “(2) Funds may be used for the expenses of sending individuals with expertise in conflict resolution to work with such organizations.
 
->     “(b) __Funding.—__ 
+>     “(b)  __Funding__  __.—__ 
 
 >     Of the foreign assistance funds that are allocated for sub-Saharan Africa, such sums as may be necessary for each of the fiscal years 1995 through 1998 may be used to carry out subsection (a).
 
 > “SEC. 5. __IMPROVING CONFLICT RESOLUTION CAPABILITIES OF NON-GOVERNMENTAL ORGANIZATIONS.__ 
 
->     “(a) __Authorization of Assistance.—__ 
+>     “(a)  __Authorization of Assistance__  __.—__ 
 
 >     The President is authorized to provide assistance to nongovernmental organizations that are engaged in mediation and reconciliation efforts in sub-Saharan Africa.
 
->     “(b) __Funding.—__ 
+>     “(b)  __Funding__  __.—__ 
 
 >     Of the foreign assistance funds that are allocated for sub-Saharan Africa, such sums as may be necessary for each of the fiscal years 1995 and 1996 should be used to carry out subsection (a).
 
 > “SEC. 6. __AFRICAN DEMOBILIZATION AND RETRAINING PROGRAM.__ 
 
->     “(a) __Authorization of Assistance.—__ 
+>     “(a)  __Authorization of Assistance__  __.—__ 
 
 >     In order to facilitate reductions in the size of the armed forces of countries of sub-Saharan Africa, the President is authorized to—
 
@@ -1995,31 +1995,31 @@ Provisions similar to those contained in [section 4(c) of Pub. L. 107–99][/us/
 
 >         “(2) provide assistance for the reintegration of demobilized military personnel into civilian society through activities such as retraining for civilian occupations, creation of income-generating opportunities, their reintegration into agricultural activities, and the transportation to the home areas of such personnel.
 
->     “(b) __Funding.—__ 
+>     “(b)  __Funding__  __.—__ 
 
 >     Of the foreign assistance funds that are allocated for sub-Saharan Africa, $25,000,000 for each of the fiscal years 1995 and 1996 should be used for the assistance described in subsection (a), if conditions permit.
 
->     “(c) __Civilian Involvement.—__ 
+>     “(c)  __Civilian Involvement__  __.—__ 
 
 >     The President is also authorized to promote civilian involvement in the planning and organization of demobilization and reintegration activities.
 
 > “SEC. 7. __TRAINING FOR AFRICANS IN CONFLICT RESOLUTION AND PEACEKEEPING.__ 
 
->     “(a) __Authorization.—__ 
+>     “(a)  __Authorization__  __.—__ 
 
 >     The President is authorized to establish a program to provide education and training in conflict resolution and peacekeeping for civilian and military personnel of countries in sub-Saharan Africa.
 
->     “(b) __Funding.—__ 
+>     “(b)  __Funding__  __.—__ 
 
 >     Of the funds made available under chapter 5 of part II of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2347][/us/usc/t22/s2347] et seq.\], such sums as may be necessary for each of the fiscal years 1995 and 1996 should be used for the purposes of subsection (a).
 
 > “SEC. 8. __PLAN FOR UNITED STATES SUPPORT FOR CONFLICT RESOLUTION AND DEMOBILIZATION IN SUB-SAHARAN AFRICA.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Pursuant to the provisions of sections 3 through 7, the President should develop an integrated long-term plan, which incorporates local perspectives, to provide support for the enhancement of conflict resolution capabilities and demobilization activities in sub-Saharan Africa.
 
->     “(b) __Contents of Plan.—__ 
+>     “(b)  __Contents of Plan__  __.—__ 
 
 >     Such plan should include:
 
@@ -2041,17 +2041,17 @@ Provisions similar to those contained in [section 4(c) of Pub. L. 107–99][/us/
 
 >         “(6) Efforts to seek the participation of other countries and international organizations to achieve the objectives of the plan.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Oct. 19, 1994\], the President shall submit to the appropriate congressional committees a report containing a description of the plan developed under this section.
 
 > “SEC. 9. __REPORTING REQUIREMENT.__ 
 
->     “(a) __Requirement.—__ 
+>     “(a)  __Requirement__  __.—__ 
 
 >     The President shall submit to the appropriate congressional committees a report describing the efforts and progress made in carrying out the provisions of this Act.
 
->     “(b) __Date of Submission.—__ 
+>     “(b)  __Date of Submission__  __.—__ 
 
 >     The first report submitted under subsection (a) shall be submitted no later than 180 days after the date of the enactment of this Act \[Oct. 19, 1994\], and shall be submitted annually thereafter.
 
@@ -2109,7 +2109,7 @@ Similar provisions were contained in the following prior acts:
 
 >      extends particularly praise to President Babangida of Nigeria, President Houphouet-Boigny of Cote d’Ivoire, and President Diouf of Senegal for their efforts to resolve this conflict.
 
->         “(b) __Authorization of Limited Assistance.—__ 
+>         “(b)  __Authorization of Limited Assistance__  __.—__ 
 
 >         The President is authorized to provide—
 
@@ -2125,29 +2125,29 @@ Similar provisions were contained in the following prior acts:
 
 >     “(a) __Suspensions.—__ 
 
->         “(1) __Overseas private investment corporation.—__ 
+>         “(1)  __Overseas private investment corporation__  __.—__ 
 
 >         The Overseas Private Investment Corporation shall continue to suspend the issuance of any new insurance, reinsurance, guarantees, financing, or other financial support with respect to the People’s Republic of China, unless the President makes a report under subsection (b)(1) or (2) of this section.
 
->         “(2) __Trade and development agency.—__ 
+>         “(2)  __Trade and development agency__  __.—__ 
 
 >         The President shall suspend the obligation of funds under the Foreign Assistance Act of 1961 \[see Short Title note above\] for any new activities of the Trade and Development Agency with respect to the People’s Republic of China, unless the President makes a report under subsection (b)(1) or (2) of this section.
 
->         “(3) __Munitions export licenses.—__ 
+>         “(3)  __Munitions export licenses__  __.—__ 
 
 >             (A) The issuance of licenses under section 38 of the Arms Export Control Act \[[22 U.S.C. 2778][/us/usc/t22/s2778]\] for the export to the People’s Republic of China of any defense article on the United States Munitions List, including helicopters and helicopter parts, shall continue to be suspended, subject to subparagraph (B), unless the President makes a report under subsection (b)(1) or (2) of this section.
 
 >             “(B) The suspension set forth in subparagraph (A) shall not apply to systems and components designed specifically for inclusion in civil products and controlled as defense articles only for purposes of export to a controlled country, unless the President determines that the intended recipient of such items is the military or security forces of the People’s Republic of China.
 
->         “(4) __Crime control and detection instruments and equipment.—__ 
+>         “(4)  __Crime control and detection instruments and equipment__  __.—__ 
 
 >         The issuance of any license under section 6(k) of the Export Administration Act of 1979 \[50 U.S.C. App. 2405(k)\] for the export to the People’s Republic of China of any crime control or detection instruments or equipment shall be suspended, unless the President makes a report under subsection (b)(1) or (2) of this section.
 
->         “(5) __Export of satellites for launch by the people’s republic of china.—__ 
+>         “(5)  __Export of satellites for launch by the people’s republic of china__  __.—__ 
 
 >         Exports of any satellite of United States origin that is intended for launch from a launch vehicle owned by the People’s Republic of China shall remain suspended, unless the President makes a report under subsection (b)(1) or (2) of this section.
 
->         “(6) __Nuclear cooperation with the people’s republic of china.—__ 
+>         “(6)  __Nuclear cooperation with the people’s republic of china__  __.—__ 
 
 >             (A)
 
@@ -2175,7 +2175,7 @@ Similar provisions were contained in the following prior acts:
 
 >             “(C) For purposes of this paragraph, the term ‘Agreement’ means the Agreement for Cooperation Between the Government of the United States of America and the Government of the People’s Republic of China Concerning Peaceful Uses of Nuclear Energy (done on July 23, 1985).
 
->         “(7) __Liberalization of export controls.—__ 
+>         “(7)  __Liberalization of export controls__  __.—__ 
 
 >             (A)
 
@@ -2187,7 +2187,7 @@ Similar provisions were contained in the following prior acts:
 
 >             “(B) The President shall oppose any liberalization by the Coordinating Committee of controls which is described in subparagraph (A)(ii), until the end of the 6-month period beginning on the date of enactment of this Act \[Feb. 16, 1990\] or until the President makes a report under subsection (b)(1) or (2) of this section, whichever occurs first.
 
->     “(b) __Termination of Suspensions.—__ 
+>     “(b)  __Termination of Suspensions__  __.—__ 
 
 >     A report referred to in subsection (a) is a report by the President to the Congress either—
 
@@ -2207,7 +2207,7 @@ Similar provisions were contained in the following prior acts:
 
 >         “(2) that it is in the national interest of the United States to terminate a suspension under subsection (a)(1), (2), (3), (4), or (5), to terminate a suspension or disapproval under subsection (a)(6), or to terminate the opposition required by subsection (a)(7), as the case may be.
 
->     “(c) __Reporting Requirement.—__ 
+>     “(c)  __Reporting Requirement__  __.—__ 
 
 >     Sixty days after the date of enactment of this Act \[Feb. 16, 1990\], the President shall submit to the Congress a report on—
 
@@ -2241,11 +2241,11 @@ Similar provisions were contained in the following prior acts:
 
 [Pub. L. 99–83, title XIII, § 1302][/us/pl/99/83/s1302], Aug. 8, 1985, [99 Stat. 280][/us/stat/99/280], as amended by [Pub. L. 101–246, title I, § 108][/us/pl/101/246/s108], Feb. 16, 1990, [104 Stat. 21][/us/stat/104/21], provided that:
 
->     “(a) __United States Policy.—__ 
+>     “(a)  __United States Policy__  __.—__ 
 
 >     The United States in 1975 declared in a memorandum of agreement with Israel, and has reaffirmed since, that ‘The United States will continue to adhere to its present policy with respect to the Palestine Liberation Organization, whereby it will not recognize or negotiate with the Palestine Liberation Organization so long as the Palestine Liberation Organization does not recognize Israel’s right to exist and does not accept Security Council Resolutions 242 and 338.’.
 
->     “(b) __Reaffirmation and Codification of Policy.—__ 
+>     “(b)  __Reaffirmation and Codification of Policy__  __.—__ 
 
 >     The United States hereby reaffirms that policy. In accordance with that policy, no officer or employee of the United States Government and no agent or other individual acting on behalf of the United States Government shall negotiate with the Palestine Liberation Organization or any representatives thereof (except in emergency or humanitarian situations) unless and until the Palestine Liberation Organization recognizes Israel’s right to exist, accepts United Nations Security Council Resolutions 242 and 338, and renounces the use of terrorism, except that no funds authorized to be appropriated by this or any other Act may be obligated or made available for the conduct of the current dialogue on the Middle East peace process with any representative of the Palestine Liberation Organization if the President knows and advises the Congress that that representative directly participated in the planning or execution of a particular terrorist activity which resulted in the death or kidnapping of a United States citizen.”
 
@@ -2357,15 +2357,15 @@ Similar provisions were contained in the following prior appropriation acts:
 
 > “In this division \[see Tables for classification\]:
 
->     “(1) __Defense article.—__ 
+>     “(1)  __Defense article__  __.—__ 
 
 >     The term ‘defense article’ has the meaning given the term in section 47(3) of the Arms Export Control Act ([22 U.S.C. 2794][/us/usc/t22/s2794] note \[[22 U.S.C. 2794][/us/usc/t22/s2794]\]).
 
->     “(2) __Defense service.—__ 
+>     “(2)  __Defense service__  __.—__ 
 
 >     The term ‘defense service’ has the meaning given the term in section 47(4) of the Arms Export Control Act ([22 U.S.C. 2794][/us/usc/t22/s2794] note \[[22 U.S.C. 2794][/us/usc/t22/s2794]\]).
 
->     “(3) __Excess defense article.—__ 
+>     “(3)  __Excess defense article__  __.—__ 
 
 >     The term ‘excess defense article’ has the meaning given the term in section 644(g) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2403(g)][/us/usc/t22/s2403/g]).”
 

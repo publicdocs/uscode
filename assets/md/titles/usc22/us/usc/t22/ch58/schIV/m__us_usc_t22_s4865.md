@@ -161,11 +161,11 @@
 
 [Pub. L. 109–364, div. A, title III, § 357][/us/pl/109/364/s357], Oct. 17, 2006, [120 Stat. 2163][/us/stat/120/2163], provided that:
 
->     “(a) __Reconciliation Required.—__ 
+>     “(a)  __Reconciliation Required__  __.—__ 
 
 >     For each fiscal year, the Secretary of Defense shall reconcile (1) the estimate of overseas presence of the Secretary of Defense under subsection (b) for that fiscal year, with (2) the determination of the Secretary of State under section 604(e)(1) of the Secure Embassy Construction and Counterterrorism Act of 1999 \[[Pub. L. 106–113][/us/pl/106/113]\] ([22 U.S.C. 4865][/us/usc/t22/s4865] note) of the total overseas presence of the Department of Defense for that fiscal year.
 
->     “(b) __Annual Estimate of Overseas Presence.—__ 
+>     “(b)  __Annual Estimate of Overseas Presence__  __.—__ 
 
 >     Not later than February 1 of each year, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] an estimate of the total number of Department of Defense overseas personnel subject to chief of mission authority pursuant to section 207 of the Foreign Service Act of 1980 ([22 U.S.C. 3927][/us/usc/t22/s3927]) during the fiscal year that begins on October 1 of that year.”
 
@@ -207,7 +207,7 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title VI, § 604\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–453, as amended by [Pub. L. 107–228, div. A, title I, § 111(a)(3)(B)][/us/pl/107/228/s111/a/3/B], Sept. 30, 2002, [116 Stat. 1356][/us/stat/116/1356]; [Pub. L. 108–447, div. B, title VI, § 629][/us/pl/108/447/s629], Dec. 8, 2004, [118 Stat. 2920][/us/stat/118/2920]; [Pub. L. 112–74, div. I, title VII, § 7004(e)][/us/pl/112/74/s7004/e], Dec. 23, 2011, [125 Stat. 1194][/us/stat/125/1194], provided that:
 
->     “(a) __Authorization of Appropriations.—__ 
+>     “(a)  __Authorization of Appropriations__  __.—__ 
 
 >     In addition to amounts otherwise authorized to be appropriated by this or any other Act, there are authorized to be appropriated for ‘Embassy Security, Construction and Maintenance’—
 
@@ -221,7 +221,7 @@
 
 >         “(5) for fiscal year 2004, $900,000,000.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     Funds made available under the ‘Embassy Security, Construction, and Maintenance’ account may be used only for the purposes of—
 
@@ -231,25 +231,25 @@
 
 >         to the extent necessary to bring the United States Government into compliance with all requirements applicable to the security of United States diplomatic facilities, including the relevant requirements set forth in section 606 \[[22 U.S.C. 4865][/us/usc/t22/s4865]\].
 
->     “(c) __Availability of Authorizations.—__ 
+>     “(c)  __Availability of Authorizations__  __.—__ 
 
 >     Authorizations of appropriations under subsection (a) shall remain available until the appropriations are made.
 
->     “(d) __Availability of Funds.—__ 
+>     “(d)  __Availability of Funds__  __.—__ 
 
 >     Amounts appropriated pursuant to subsection (a) are authorized to remain available until expended.
 
 >     “(e) __Capital Security Cost Sharing.—__ 
 
->         “(1) __Authority.—__ 
+>         “(1)  __Authority__  __.—__ 
 
 >         Notwithstanding any other provision of law, all agencies with personnel overseas subject to chief of mission authority pursuant to section 207 of the Foreign Service Act of 1980 ([22 U.S.C. 3927][/us/usc/t22/s3927]) shall participate and provide funding in advance for their share of costs of providing, maintaining, repairing, and renovating safe, secure United States diplomatic facilities, without offsets, on the basis of the total overseas presence of each agency as determined annually by the Secretary of State in consultation with such agency. Amounts advanced by such agencies to the Department of State shall be credited to the Embassy Security, Construction and Maintenance account, and remain available until expended.
 
->         “(2) __Implementation.—__ 
+>         “(2)  __Implementation__  __.—__ 
 
 >         Implementation of this subsection shall be carried out in a manner that encourages right-sizing of each agency’s overseas presence.
 
->         “(3) __Exclusion.—__ 
+>         “(3)  __Exclusion__  __.—__ 
 
 >         For purposes of this subsection ‘agency’ does not include the Marine Security Guard.”
 
@@ -259,21 +259,21 @@
 
 >     “(a) __Report and Priority of Obligations.—__ 
 
->         “(1) __Report.—__ 
+>         “(1)  __Report__  __.—__ 
 
 >         Not later than February 1 of the year 2000 and each of the four subsequent years, the Secretary of State shall submit a classified report to the appropriate congressional committees identifying each diplomatic facility or each diplomatic or consular post composed of such facilities that is a priority for replacement or for any major security enhancement because of its vulnerability to terrorist attack (by reason of the terrorist threat and the current condition of the facility). The report shall list such facilities in groups of 20. The groups shall be ranked in order from most vulnerable to least vulnerable to such an attack.
 
 >         “(2) __Priority on use of funds.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Except as provided in subparagraph (B), funds authorized to be appropriated by section 604 \[set out as a note above\] for a particular project may be used only for those facilities which are listed in the first four groups described in paragraph (1).
 
->             “(B) __Exception.—__ 
+>             “(B)  __Exception__  __.—__ 
 
 >             Funds authorized to be made available by section 604 may only be used for facilities which are not in the first 4 groups described in paragraph (1), if the Congress authorizes or appropriates funds for such a diplomatic facility or the Secretary of State notifies the appropriate congressional committees that such funds will be used for a facility in accordance with the procedures applicable to a reprogramming of funds under section 34(a) of the State Department Basic Authorities Act of 1956 ([22 U.S.C. 2706(a)][/us/usc/t22/s2706/a]).
 
->     “(b) __Prohibition on Transfer of Funds.—__ 
+>     “(b)  __Prohibition on Transfer of Funds__  __.—__ 
 
 >     None of the funds authorized to be appropriated by section 604 may be transferred to any other account.”
 

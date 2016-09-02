@@ -85,11 +85,11 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XI, § 1134\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–494, provided that:
 
->     “(a) __Requirement to Provide Information.—__ 
+>     “(a)  __Requirement to Provide Information__  __.—__ 
 
 >     The head of each department and agency described in section 602(c) of the Nuclear Non-Proliferation Act of 1978 ([22 U.S.C. 3282(c)][/us/usc/t22/s3282/c]) shall promptly provide information to the chairman and ranking minority member of the Committee on Foreign Relations of the Senate and the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives in meeting the requirements of subsection (c) or (d) of section 602 of such Act \[[22 U.S.C. 3282(c)][/us/usc/t22/s3282/c], (d)\].
 
->     “(b) __Issuance of Directives.—__ 
+>     “(b)  __Issuance of Directives__  __.—__ 
 
 >     Not later than February 1, 2000, the Secretary of State, the Secretary of Defense, the Secretary of Commerce, the Secretary of Energy, the Director of Central Intelligence, and the Chairman of the Nuclear Regulatory Commission shall issue directives, which shall provide access to information, including information contained in special access programs, to implement their responsibilities under subsections (c) and (d) of section 602 of the Nuclear Non-Proliferation Act of 1978 ([22 U.S.C. 3282(c)][/us/usc/t22/s3282/c] and (d)). Copies of such directives shall be forwarded promptly to the Committee on Foreign Relations of the Senate and the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives upon the issuance of the directives.”
 

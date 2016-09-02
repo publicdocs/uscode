@@ -167,7 +167,7 @@
 
 >     “(a) __Waiver Authority.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in subsection (b), the President may waive in whole or in part, with respect to North Korea, the application of any sanction contained in subparagraph (A), (B), (D) or (G) under section 102(b)(2) of the Arms Export Control Act ([22 U.S.C. 2799aa–1(b)][/us/usc/t22/s2799aa–1/b]\[(2)(A), (B), (D), (G)\]), for the purpose of providing assistance related to—
 
@@ -175,13 +175,13 @@
 
 >             “(B) the elimination of the capability of North Korea to develop, deploy, transfer, or maintain weapons of mass destruction and their delivery systems.
 
->         “(2) __Limitation.—__ 
+>         “(2)  __Limitation__  __.—__ 
 
 >         The authority under paragraph (1) shall expire 5 years after the date of enactment of this Act \[June 30, 2008\].
 
 >     “(b) __Exceptions.—__ 
 
->         “(1) __Limited exception related to certain sanctions and prohibitions.—__ 
+>         “(1)  __Limited exception related to certain sanctions and prohibitions__  __.—__ 
 
 >         The authority under subsection (a) shall not apply with respect to a sanction or prohibition under subparagraph (B) or (G) of section 102(b)(2) of the Arms Export Control Act \[[22 U.S.C. 2799aa–1(b)][/us/usc/t22/s2799aa–1/b] \[(2)(B), (G)\], unless the President determines and certifies to the appropriate congressional committees that—
 
@@ -189,7 +189,7 @@
 
 >             “(B) such waiver is in the national security interests of the United States.
 
->         “(2) __Limited exception related to certain activities.—__ 
+>         “(2)  __Limited exception related to certain activities__  __.—__ 
 
 >         Unless the President determines and certifies to the appropriate congressional committees that using the authority under subsection (a) is vital to the national security interests of the United States, such authority shall not apply with respect to—
 
@@ -199,21 +199,21 @@
 
 >             “(C) an activity described in subparagraph (D) of such section that occurs after the date of enactment of this Act.
 
->         “(3) __Exception related to certain activities occurring after date of enactment.—__ 
+>         “(3)  __Exception related to certain activities occurring after date of enactment__  __.—__ 
 
 >         The authority under subsection (a) shall not apply with respect to an activity described in subparagraph (A) or (B) of section 102(b)(1) of the Arms Export Control Act \[[22 U.S.C. 2799aa–1(b)(1)(A)][/us/usc/t22/s2799aa–1/b/1/A], (B)\] that occurs after the date of the enactment of this Act.
 
->         “(4) __Limited exception related to lethal weapons.—__ 
+>         “(4)  __Limited exception related to lethal weapons__  __.—__ 
 
 >         The authority under subsection (a) shall not apply with respect to any export of lethal defense articles that would be prevented by the application of section 102(b)(2) of the Arms Export Control Act \[[22 U.S.C. 2799aa–1(b)(2)][/us/usc/t22/s2799aa–1/b/2]\].
 
 >     “(c) __Notifications and Reports.—__ 
 
->         “(1) __Congressional notification.—__ 
+>         “(1)  __Congressional notification__  __.—__ 
 
 >         The President shall notify the appropriate congressional committees in writing not later than 15 days before exercising the waiver authority under subsection (a).
 
->         “(2) __Annual report.—__ 
+>         “(2)  __Annual report__  __.—__ 
 
 >         Not later than January 31, 2009, and annually thereafter, the President shall submit to the appropriate congressional committees a report that—
 
@@ -227,11 +227,11 @@
 
 >         “(3) __Report on verification measures relating to north korea’s nuclear programs.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Not later than 15 days after the date of enactment of this Act \[June 30, 2008\], the Secretary of State shall submit to the appropriate congressional committees a report on verification measures relating to North Korea’s nuclear programs under the Six-Party Talks Agreement of February 13, 2007, with specific focus on how such verification measures are defined under the Six-Party Talks Agreement and understood by the United States Government.
 
->             “(B) __Matters to be included.—__ 
+>             “(B)  __Matters to be included__  __.—__ 
 
 >             The report required under subsection (A) shall include, among other elements, a description of—
 
@@ -243,11 +243,11 @@
 
 >                 “(iv) any significant and continuing disagreement with North Korea regarding verification measures relating to North Korea’s nuclear programs under the Six-Party Talks Agreement.
 
->             “(C) __Form.—__ 
+>             “(C)  __Form__  __.—__ 
 
 >             The report required under subsection (A) shall be submitted in unclassified form, but may include a classified annex.
 
->     “(d) __Appropriate Congressional Committees Defined.—__ 
+>     “(d)  __Appropriate Congressional Committees Defined__  __.—__ 
 
 >     In this section, the term ‘appropriate congressional committees’ means—
 
@@ -271,15 +271,15 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [Pub. L. 106–79, title IX, § 9001][/us/pl/106/79/s9001], Oct. 25, 1999, [113 Stat. 1283][/us/stat/113/1283], as amended by [Pub. L. 107–228, div. B, title XIV, § 1405(b)][/us/pl/107/228/s1405/b], Sept. 30, 2002, [116 Stat. 1458][/us/stat/116/1458], provided that:
 
->     “(a) __Waiver Authority.—__ 
+>     “(a)  __Waiver Authority__  __.—__ 
 
 >     Except as provided in subsections (b) and (c) of this section, the President may waive, with respect to India and Pakistan, the application of any sanction contained in section 101 or 102 of the Arms Export Control Act ([22 U.S.C. 2799aa][/us/usc/t22/s2799aa] or [22 U.S.C. 2799aa–1][/us/usc/t22/s2799aa–1]), section 2(b)(4) of the Export Import Bank Act of 1945 ([12 U.S.C. 635(b)(4)][/us/usc/t12/s635/b/4]), or section 620E(e) of the Foreign Assistance Act of 1961, as amended, ([22 U.S.C. 2375(e)][/us/usc/t22/s2375/e]).
 
->     “(b) __Exception.—__ 
+>     “(b)  __Exception__  __.—__ 
 
 >     The authority to waive the application of a sanction or prohibition (or portion thereof) under subsection (a) shall not apply with respect to a sanction or prohibition contained in subparagraph (B), (C), or (G) of section 102(b)(2) of the Arms Export Control Act \[[22 U.S.C. 2799aa–1(b)(2)(B)][/us/usc/t22/s2799aa–1/b/2/B], (C), (G)\], unless the President determines, and so certifies to the Congress, that the application of the restriction would not be in the national security interests of the United States.
 
->     “(c) __Termination of Waiver.—__ 
+>     “(c)  __Termination of Waiver__  __.—__ 
 
 >     The President may not exercise the authority of subsection (a), and any waiver previously issued under subsection (a) shall cease to apply, with respect to India or Pakistan, if that country detonates a nuclear explosive device after the date of the enactment of this Act \[Oct. 25, 1999\] or otherwise takes such action which would cause the President to report pursuant to section 102(b)(1) of the Arms Export Control Act \[[22 U.S.C. 2799aa–1(b)(1)][/us/usc/t22/s2799aa–1/b/1]\].
 
@@ -291,15 +291,15 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >             “(B) export controls should be applied only to those Indian and Pakistani entities that make direct and material contributions to weapons of mass destruction and missile programs and only to those items that can contribute to such programs.
 
->         “(2) __Reporting requirement.—__ 
+>         “(2)  __Reporting requirement__  __.—__ 
 
 >         Not later than 60 days after the date of the enactment of this Act \[Oct. 25, 1999\], the President shall submit both a classified and unclassified report to the appropriate congressional committees listing those Indian and Pakistani entities whose activities contribute to missile programs or weapons of mass destruction programs.
 
->     “(e) __Congressional Notification.—__ 
+>     “(e)  __Congressional Notification__  __.—__ 
 
 >     The issuance of a license for export of a defense article, defense service, or technology under the authority of this section shall be subject to the same requirements as are applicable to the export of items described in section 36(c) of the Arms Export Control Act ([22 U.S.C. 2776(c)][/us/usc/t22/s2776/c]), including the transmittal of information and the application of congressional review procedures. The application of these requirements shall be subject to the dollar amount thresholds specified in that section.
 
->     “(f) __Repeal.—__ 
+>     “(f)  __Repeal__  __.—__ 
 
 >     \[Repealed section 101(a) \[title IX\] of div. A of [Pub. L. 105–277][/us/pl/105/277], formerly set out below.\]”
 

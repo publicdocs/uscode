@@ -95,7 +95,7 @@
 
 >             “(C) establish by agreement with that government the responsibilities of USAID and that government to monitor and account for deposits into and disbursements from the separate account.
 
->         “(2) __Uses of local currencies.—__ 
+>         “(2)  __Uses of local currencies__  __.—__ 
 
 >         As may be agreed upon with the foreign government, local currencies deposited in a separate account pursuant to subsection (a), or an equivalent amount of local currencies, shall be used only—
 
@@ -109,15 +109,15 @@
 
 >             “(B) for the administrative requirements of the United States Government.
 
->         “(3) __Programming accountability.—__ 
+>         “(3)  __Programming accountability__  __.—__ 
 
 >         USAID shall take all necessary steps to ensure that the equivalent of the local currencies disbursed pursuant to subsection (a)(2)(A) from the separate account established pursuant to subsection (a)(1) are used for the purposes agreed upon pursuant to subsection (a)(2).
 
->         “(4) __Termination of assistance programs.—__ 
+>         “(4)  __Termination of assistance programs__  __.—__ 
 
 >         Upon termination of assistance to a country under chapter 1 or 10 of part I or chapter 4 of part II of the Foreign Assistance Act of 1961 (as the case may be), any unencumbered balances of funds which remain in a separate account established pursuant to subsection (a) shall be disposed of for such purposes as may be agreed to by the government of that country and the United States Government.
 
->         “(5) __Reporting requirement.—__ 
+>         “(5)  __Reporting requirement__  __.—__ 
 
 >         The USAID Administrator shall report on an annual basis as part of the justification documents submitted to the Committees on Appropriations on the use of local currencies for the administrative requirements of the United States Government as authorized in subsection (a)(2)(B), and such report shall include the amount of local currency (and United States dollar equivalent) used and/or to be used for such purpose in each applicable country.
 
@@ -125,15 +125,15 @@
 
 >         “(1) If assistance is made available to the government of a foreign country, under chapter 1 or 10 of part I \[[22 U.S.C. 2151][/us/usc/t22/s2151] et seq., 2293 et seq.\] or chapter 4 of part II \[[22 U.S.C. 2346][/us/usc/t22/s2346] et seq.\] of the Foreign Assistance Act of 1961, as cash transfer assistance or as nonproject sector assistance, that country shall be required to maintain such funds in a separate account and not commingle them with any other funds.
 
->         “(2) __Applicability of other provisions of law.—__ 
+>         “(2)  __Applicability of other provisions of law__  __.—__ 
 
 >         Such funds may be obligated and expended notwithstanding provisions of law which are inconsistent with the nature of this assistance including provisions which are referenced in the Joint Explanatory Statement of the Committee of Conference accompanying House Joint Resolution 648 (House Report No. 98–1159).
 
->         “(3) __Notification.—__ 
+>         “(3)  __Notification__  __.—__ 
 
 >         At least 15 days prior to obligating any such cash transfer or nonproject sector assistance, the President shall submit a notification through the regular notification procedures of the Committees on Appropriations, which shall include a detailed description of how the funds proposed to be made available will be used, with a discussion of the United States interests that will be served by the assistance (including, as appropriate, a description of the economic policy reforms that will be promoted by such assistance).
 
->         “(4) __Exemption.—__ 
+>         “(4)  __Exemption__  __.—__ 
 
 >         Nonproject sector assistance funds may be exempt from the requirements of subsection (b)(1) only through the regular notification procedures of the Committees on Appropriations.”
 

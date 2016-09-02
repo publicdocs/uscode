@@ -57,11 +57,11 @@
 
 [Pub. L. 112–81, div. A, title XII, § 1244][/us/pl/112/81/s1244], Dec. 31, 2011, [125 Stat. 1646][/us/stat/125/1646], provided that:
 
->     “(a) __Notification.—__ 
+>     “(a)  __Notification__  __.—__ 
 
 >     No classified United States ballistic missile defense information may be made available to the Russian Federation unless, 60 days prior to any instance in which the United States Government plans to provide such information to the Russian Federation, the President provides notification thereof to the appropriate congressional committees.
 
->     “(b) __Elements of Notification.—__ 
+>     “(b)  __Elements of Notification__  __.—__ 
 
 >     Each notification provided pursuant to subsection (a) shall include the following:
 
@@ -75,11 +75,11 @@
 
 >         “(5) A certification that adequate measures are in place to protect the information from unauthorized disclosure. The certification shall include a description of the manner in which the information will be protected from unauthorized sharing or transfer to third parties as well as an analysis of the risks to the capabilities of the United States ballistic missile defense system if the information is shared or transferred to an unauthorized third party.
 
->     “(c) __Form.—__ 
+>     “(c)  __Form__  __.—__ 
 
 >     Each notification provided pursuant to subsection (a) shall be submitted in unclassified form, but may include a classified annex.
 
->     “(d) __Appropriate Congressional Committees Defined.—__ 
+>     “(d)  __Appropriate Congressional Committees Defined__  __.—__ 
 
 >     For the purposes of this section, the term ‘appropriate congressional committees’ means—
 
@@ -87,7 +87,7 @@
 
 >         “(2) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives.
 
->     “(e) __Classified United States Ballistic Missile Defense Information Defined.—__ 
+>     “(e)  __Classified United States Ballistic Missile Defense Information Defined__  __.—__ 
 
 >     For the purposes of this section, the term ‘classified United States ballistic missile defense information’ means information related to United States ballistic missile defenses that is classified as of, or after, the date of enactment of this Act \[Dec. 31, 2011\].”
 
@@ -95,21 +95,21 @@
 
 [Pub. L. 111–84, div. A, title XIII, § 1303][/us/pl/111/84/s1303], Oct. 28, 2009, [123 Stat. 2557][/us/stat/123/2557], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Defense, with the concurrence of the Secretary of State, may enter into one or more agreements with any person (including a foreign government, international organization, multinational entity, or any other entity) that the Secretary of Defense considers appropriate under which the person contributes funds for activities conducted under the Cooperative Threat Reduction Program of the Department of Defense.
 
->     “(b) __Retention and Use of Amounts.—__ 
+>     “(b)  __Retention and Use of Amounts__  __.—__ 
 
 >     Notwithstanding [section 3302 of title 31][/us/usc/t31/s3302], United States Code, and subject to subsections (c) and (d), the Secretary of Defense may retain and obligate or expend amounts contributed pursuant to subsection (a) for purposes of the Cooperative Threat Reduction Program of the Department of Defense. Amounts so contributed shall be retained in a separate fund established in the Treasury for such purposes and shall be available to be obligated or expended without further appropriation.
 
->     “(c) __Return of Amounts Not Obligated or Expended Within Three Years.—__ 
+>     “(c)  __Return of Amounts Not Obligated or Expended Within Three Years__  __.—__ 
 
 >     If the Secretary of Defense does not obligate or expend an amount contributed pursuant to subsection (a) by the date that is three years after the date on which the contribution was made, the Secretary shall return the amount to the person who made the contribution.
 
 >     “(d) __Notice to Congressional Defense Committees.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 30 days after receiving an amount contributed pursuant to subsection (a), the Secretary shall submit to the appropriate congressional committees a notice—
 
@@ -117,11 +117,11 @@
 
 >             “(B) identifying the person who made the contribution.
 
->         “(2) __Limitation on use of amounts.—__ 
+>         “(2)  __Limitation on use of amounts__  __.—__ 
 
 >         The Secretary may not obligate or expend an amount contributed pursuant to subsection (a) until the date that is 15 days after the date on which the Secretary submits the notice required by paragraph (1).
 
->     “(e) __Annual Report.—__ 
+>     “(e)  __Annual Report__  __.—__ 
 
 >     Not later than October 31 each year, the Secretary of Defense shall submit to the appropriate congressional committees a report on amounts contributed pursuant to subsection (a) during the preceding fiscal year. Each such report shall include, for the fiscal year covered by the report, the following:
 
@@ -131,15 +131,15 @@
 
 >         “(3) A statement of any amounts so contributed that were retained but not obligated or expended, including, for each such amount, the purposes (if known) for which the Secretary intends to obligate or expend the amount.
 
->     “(f) __Implementation Plan.—__ 
+>     “(f)  __Implementation Plan__  __.—__ 
 
 >     The Secretary of Defense shall submit to the appropriate congressional committees an implementation plan for the authority provided under this section prior to obligating or expending any amounts contributed pursuant to subsection (a). The Secretary shall submit updates to such plan as needed.
 
->     “(g) __Termination.—__ 
+>     “(g)  __Termination__  __.—__ 
 
 >     The authority provided under this section shall terminate on December 31, 2015.
 
->     “(h) __Appropriate Congressional Committees Defined.—__ 
+>     “(h)  __Appropriate Congressional Committees Defined__  __.—__ 
 
 >     In this section, the term ‘appropriate congressional committees’ means—
 
@@ -175,7 +175,7 @@
 
 [Pub. L. 108–136, div. C, title XXXI, § 3123][/us/pl/108/136/s3123], Nov. 24, 2003, [117 Stat. 1747][/us/stat/117/1747], provided that:
 
->     “(a) __Study Required.—__ 
+>     “(a)  __Study Required__  __.—__ 
 
 >     The Secretary of Energy shall carry out a study on the feasibility, costs, and benefits of—
 
@@ -183,7 +183,7 @@
 
 >         “(2) safeguarding the uranium and plutonium so purchased until rendered unusable for nuclear weapons.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than one year after the date of the enactment of this Act \[Nov. 24, 2003\], the Secretary shall submit to Congress a report on the results of the study required by subsection (a).”
 
@@ -191,7 +191,7 @@
 
 [Pub. L. 107–314, div. A, title XII, § 1206][/us/pl/107/314/s1206], Dec. 2, 2002, [116 Stat. 2665][/us/stat/116/2665], provided that:
 
->     “(a) __Report Requirement.—__ 
+>     “(a)  __Report Requirement__  __.—__ 
 
 >     Not later than March 15 of 2003 through 2009, the President shall submit to Congress a report (in unclassified and classified form as necessary) describing in detail Russian proliferation of weapons of mass destruction and ballistic missile goods, technology, expertise, and information, and of dual-use items that may contribute to the development of weapons of mass destruction and ballistic missiles, to Iran and to other countries of proliferation concern during the year preceding the year in which the report is submitted. The report shall include a detailed description of the following, for the year covered by the report:
 
@@ -215,7 +215,7 @@
 
 >         “(5) The policy and strategy that the President intends to employ to halt Russian proliferation, the policy tools that the President intends to use to carry out that policy and strategy, the rationale for employing such tools, and the timeline by which the President expects to see material progress in ending Russian proliferation of direct and dual-use weapons of mass destruction and missile goods, technology, expertise, and information.
 
->     “(b) __Definition.—__ 
+>     “(b)  __Definition__  __.—__ 
 
 >     In this section, the term ‘country of proliferation concern’ means any country identified by the Director of Central Intelligence as having engaged in the acquisition of dual-use and other technology useful for the development or production of weapons of mass destruction (including nuclear weapons, chemical weapons, and biological weapons) or advanced conventional munitions—
 
@@ -231,7 +231,7 @@
 
 [Pub. L. 107–314, div. A, title XIII, § 1306(a)][/us/pl/107/314/s1306/a]–(d), Dec. 2, 2002, [116 Stat. 2673][/us/stat/116/2673], as amended by [Pub. L. 109–163, div. A, title XIII, § 1303(1)][/us/pl/109/163/s1303/1], Jan. 6, 2006, [119 Stat. 3474][/us/stat/119/3474], provided that:
 
->     “(a) __Authority To Waive Restrictions and Eligibility Requirements.—__ 
+>     “(a)  __Authority To Waive Restrictions and Eligibility Requirements__  __.—__ 
 
 >     If the President submits the certification and report described in subsection (b) with respect to an independent state of the former Soviet Union for a fiscal year—
 
@@ -239,7 +239,7 @@
 
 >         “(2) funds may be obligated and expended during that fiscal year under section 502 of the FREEDOM Support Act ([22 U.S.C. 5852][/us/usc/t22/s5852]) for assistance or other programs and activities for that state even if that state has not met one or more of the requirements for eligibility under paragraphs (1) through (4) of that section.
 
->     “(b) __Certification and Report.—__ 
+>     “(b)  __Certification and Report__  __.—__ 
 
 >         (1)
 
@@ -261,7 +261,7 @@
 
 [Pub. L. 107–314, div. C, title XXXI, § 3151][/us/pl/107/314/s3151], Dec. 2, 2002, [116 Stat. 2736][/us/stat/116/2736], as amended by [Pub. L. 108–375, div. C, title XXXI, § 3135][/us/pl/108/375/s3135], Oct. 28, 2004, [118 Stat. 2170][/us/stat/118/2170], provided that:
 
->     “(a) __Transfer of Program.—__ 
+>     “(a)  __Transfer of Program__  __.—__ 
 
 >     There are hereby transferred to the Administrator for Nuclear Security the following:
 
@@ -269,7 +269,7 @@
 
 >         “(2) All functions, powers, duties, and activities of that program performed before the date of the enactment of this Act \[Dec. 2, 2002\] by the Department of Defense.
 
->     “(b) __Transfer of Assets.—__ 
+>     “(b)  __Transfer of Assets__  __.—__ 
 
 >         (1) Notwithstanding any restriction or limitation in law on the availability of Cooperative Threat Reduction funds specified in paragraph (2), so much of the property, records, and unexpended balances of appropriations, allocations, and other funds employed, used, held, available, or to be made available in connection with the program transferred by subsection (a) are transferred to the Administrator for use in connection with the program transferred.
 
@@ -283,7 +283,7 @@
 
 >             “(C) Fiscal year 2000 Cooperative Threat Reduction funds, as specified in section 1301(b) of the National Defense Authorization Act for Fiscal Year 2000 ([Public Law 106–65][/us/pl/106/65]; [113 Stat. 792][/us/stat/113/792]; [22 U.S.C. 5952][/us/usc/t22/s5952] note).
 
->     “(c) __Availability of Transferred Funds.—__ 
+>     “(c)  __Availability of Transferred Funds__  __.—__ 
 
 >         (1)
 
@@ -295,7 +295,7 @@
 
 >         “(2) Amounts available under paragraph (1) for activities referred to in that paragraph shall remain available for obligation for three fiscal years.
 
->     “(d) __Limitation.—__ 
+>     “(d)  __Limitation__  __.—__ 
 
 >         (1)
 
@@ -323,7 +323,7 @@
 
 >             “(G) any cost sharing arrangements between the United States Government and the Government of the Russian Federation in undertaking activities under such agreement (or agreements).
 
->     “(e) __International Participation in Program.—__ 
+>     “(e)  __International Participation in Program__  __.—__ 
 
 >         (1) In order to achieve international participation in the program referred to in subsection (a), the Secretary of Energy may, in consultation with the Secretary of State, enter into one or more agreements with any person, foreign government, or other international organization that the Secretary considers appropriate for the contribution of funds by such person, government, or organization for purposes of the program.
 
@@ -349,7 +349,7 @@
 
 [Pub. L. 107–314, div. C, title XXXI, § 3157][/us/pl/107/314/s3157], Dec. 2, 2002, [116 Stat. 2740][/us/stat/116/2740], provided that:
 
->     “(a) __Program on Accelerated Disposition of HEU Authorized.—__ 
+>     “(a)  __Program on Accelerated Disposition of HEU Authorized__  __.—__ 
 
 >         (1) The Secretary of Energy may carry out a program to pursue with the Russian Federation options for blending highly enriched uranium so that the concentration of U–235 in such uranium is below 20 percent.
 
@@ -363,11 +363,11 @@
 
 >         “(3) Any site selected for the storage of uranium or blended material under paragraph (2)(B) shall undergo complete materials protection, control, and accounting upgrades before the commencement of the storage of uranium or blended material at such site under the program.
 
->     “(b) __Construction With HEU Disposition Agreement.—__ 
+>     “(b)  __Construction With HEU Disposition Agreement__  __.—__ 
 
 >     Nothing in this section may be construed as terminating, modifying, or otherwise affecting requirements for the disposition of highly enriched uranium under the Agreement Between the Government of the United States of America and the Government of the Russian Federation Concerning the Disposition of Highly Enriched Uranium Extracted from Nuclear Weapons, signed at Washington on February 18, 1993.
 
->     “(c) __Limitation on Release for Sale of Blended Uranium.—__ 
+>     “(c)  __Limitation on Release for Sale of Blended Uranium__  __.—__ 
 
 >     Uranium blended under this section may not be released for sale until the earlier of—
 
@@ -375,7 +375,7 @@
 
 >         “(2) the date on which the Secretary certifies that such uranium can be absorbed into the global market without undue disruption to the uranium mining, conversion, and enrichment industry in the United States.
 
->     “(d) __Amount for Activities.—__ 
+>     “(d)  __Amount for Activities__  __.—__ 
 
 >     Of the amount to be appropriated by section 3101(a)(2) \[[116 Stat. 2729][/us/stat/116/2729]\] for the Department of Energy for the National Nuclear Security Administration for defense nuclear nonproliferation, up to $10,000,000 may be available for carrying out this section.”
 
@@ -383,11 +383,11 @@
 
 [Pub. L. 107–314, div. C, title XXXI, § 3160][/us/pl/107/314/s3160], Dec. 2, 2002, [116 Stat. 2742][/us/stat/116/2742], provided that:
 
->     “(a) __Plan for Accelerated Return.—__ 
+>     “(a)  __Plan for Accelerated Return__  __.—__ 
 
 >     The Secretary of Energy shall work with the Russian Federation to develop a plan to accelerate the return to Russia of all weapons-usable nuclear materials located in research reactors and other facilities outside Russia that were supplied by the former Soviet Union.
 
->     “(b) __Funding and Schedules.—__ 
+>     “(b)  __Funding and Schedules__  __.—__ 
 
 >     As part of the plan under subsection (a), the Secretary shall identify the funding and schedules required to assist the research reactors and facilities referred to in that subsection in—
 
@@ -395,7 +395,7 @@
 
 >         “(2) upgrading the materials protection, control, and accounting procedures at such research reactors and facilities until the weapons-usable nuclear materials in such reactors and facilities are returned in accordance with that subsection.
 
->     “(c) __Coordination.—__ 
+>     “(c)  __Coordination__  __.—__ 
 
 >     The provision of assistance under subsection (b) shall be closely coordinated with the International Atomic Energy Agency.”
 
@@ -409,7 +409,7 @@
 
 > “SEC. 1312. __FINDINGS AND PURPOSES.__ 
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds the following:
 
@@ -459,7 +459,7 @@
 
 >         “(12) The Russian Federation’s Soviet-era official debt to the United States is estimated to be $480,000,000 in Lend-Lease debt and $2,250,000,000 in debt as a result of credits extended under title I of the Agricultural Trade Development and Assistance Act of 1954 \[now Food for Peace Act\] ([7 U.S.C. 1701][/us/usc/t7/s1701] et seq.).
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of this subtitle are—
 
@@ -471,7 +471,7 @@
 
 > “In this subtitle:
 
->     “(1) __Appropriate congressional committees.—__ 
+>     “(1)  __Appropriate congressional committees__  __.—__ 
 
 >     The term ‘appropriate congressional committees’ means—
 
@@ -479,19 +479,19 @@
 
 >         “(B) the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
 
->     “(2) __Cost.—__ 
+>     “(2)  __Cost__  __.—__ 
 
 >     The term ‘cost’ has the meaning given that term in section 502(5) of the Federal Credit Reform Act of 1990 ([2 U.S.C. 661a(5)][/us/usc/t2/s661a/5]).
 
->     “(3) __Russian federation nonproliferation investment agreement or agreement.—__ 
+>     “(3)  __Russian federation nonproliferation investment agreement or agreement__  __.—__ 
 
 >     The term ‘Russian Federation Nonproliferation Investment Agreement’ or ‘Agreement’ means the agreement between the United States and the Russian Federation entered into under section 1315(a).
 
->     “(4) __Soviet-era debt.—__ 
+>     “(4)  __Soviet-era debt__  __.—__ 
 
 >     The term ‘Soviet-era debt’ means debt owed as a result of loans or credits provided by the United States (or any agency of the United States) to the Union of Soviet Socialist Republics under the Lend Lease Act of 1941 \[former [22 U.S.C. 411][/us/usc/t22/s411] et seq.\] or the Commodity Credit Corporation Charter Act \[[15 U.S.C. 714][/us/usc/t15/s714] et seq.\].
 
->     “(5) __State sponsor of international terrorism.—__ 
+>     “(5)  __State sponsor of international terrorism__  __.—__ 
 
 >     The term ‘state sponsor of international terrorism’ means those countries that have been determined by the Secretary of State, for the purposes of section 40 of the Arms Export Control Act \[[22 U.S.C. 2780][/us/usc/t22/s2780]\], section 620A of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2371][/us/usc/t22/s2371]\], or section 6(j) of the Export Administration Act of 1979 \[50 U.S.C. App. 2405(j)\], to have repeatedly provided support for acts of international terrorism.
 
@@ -499,29 +499,29 @@
 
 >     “(a) __Authority To Reduce Debt.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Upon the entry into force of a Russian Federation Nonproliferation Investment Agreement, the President may reduce amounts of Soviet-era debt owed by the Russian Federation to the United States (or any agency or instrumentality of the United States) that are outstanding as of the last day of the fiscal year preceding the fiscal year for which appropriations are available for the reduction of debt, in accordance with this subtitle.
 
->         “(2) __Limitation.—__ 
+>         “(2)  __Limitation__  __.—__ 
 
 >         The authority provided by paragraph (1) shall be available only to the extent that appropriations for the cost (as defined in section 502(5) of the Federal Credit Reform Act of 1990 \[[2 U.S.C. 661a(5)][/us/usc/t2/s661a/5]\]) of reducing any debt pursuant to such subsection are made in advance.
 
->         “(3) __Supersedes existing law.—__ 
+>         “(3)  __Supersedes existing law__  __.—__ 
 
 >         The authority provided by paragraph (1) may be exercised notwithstanding section 620(r) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2370(r)][/us/usc/t22/s2370/r]) or section 321 of the International Development and Food Assistance Act of 1975 \[[Pub. L. 94–161][/us/pl/94/161], set out as a note under [section 2220a of this title][/us/usc/t22/s2220a]\].
 
 >     “(b) __Implementation.—__ 
 
->         “(1) __Delegation of authority.—__ 
+>         “(1)  __Delegation of authority__  __.—__ 
 
 >         The President may delegate any authority conferred upon the President in this subtitle to the Secretary of State.
 
->         “(2) __Establishment of terms and conditions.—__ 
+>         “(2)  __Establishment of terms and conditions__  __.—__ 
 
 >         Consistent with this subtitle, the President shall establish the terms and conditions under which loans and credits may be reduced pursuant to subsection (a).
 
->         “(3) __Implementation.—__ 
+>         “(3)  __Implementation__  __.—__ 
 
 >         In exercising the authority of subsection (a), the President—
 
@@ -537,21 +537,21 @@
 
 >             “(C) shall direct the appropriate agency to make an adjustment in the relevant accounts to reflect the new debt treatment.
 
->         “(4) __Deposit of repayments.—__ 
+>         “(4)  __Deposit of repayments__  __.—__ 
 
 >         All repayments of outstanding loan amounts under subsection (a) that are not designated under a Russian Federation Nonproliferation Investment Agreement shall be deposited in the United States Government accounts established for repayments of the original obligations.
 
->         “(5) __Not treated as foreign assistance.—__ 
+>         “(5)  __Not treated as foreign assistance__  __.—__ 
 
 >         Any reduction of Soviet-era debt pursuant to this subtitle shall not be considered assistance for the purposes of any provision of law limiting assistance to a country.
 
 >     “(c) __Authorization of Appropriation.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         For the cost (as defined in section 502(5) of the Federal Credit Reform Act of 1990 \[[2 U.S.C. 661a(5)][/us/usc/t2/s661a/5]\]) of modifying any Soviet-era debt obligation pursuant to subsection (a), there are authorized to be appropriated to the President such sums as may be necessary.
 
->         “(2) __Availability of funds.—__ 
+>         “(2)  __Availability of funds__  __.—__ 
 
 >         Amounts appropriated pursuant to paragraph (1) are authorized to remain available until expended.
 
@@ -559,15 +559,15 @@
 
 >     “(a) __In General.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The President is authorized to enter into an agreement with the Russian Federation under which an amount equal to the value of the debt reduced pursuant to section 1314 will be used to promote the nonproliferation of weapons of mass destruction and the means of delivering such weapons. An agreement entered into under this section may be referred to as the ‘Russian Federation Nonproliferation Investment Agreement’.
 
->         “(2) __Congressional notification.—__ 
+>         “(2)  __Congressional notification__  __.—__ 
 
 >         The President shall notify the appropriate congressional committees at least 15 days in advance of the United States entering into a Russian Federation Nonproliferation Investment Agreement.
 
->     “(b) __Content of the Agreement.—__ 
+>     “(b)  __Content of the Agreement__  __.—__ 
 
 >     The Russian Federation Nonproliferation Investment Agreement shall ensure that—
 
@@ -587,15 +587,15 @@
 
 >         “(8) not less than 75 percent of the funds made available for each nonproliferation program or project under the Agreement will be spent in the Russian Federation.
 
->     “(c) __Use of Existing Mechanisms.—__ 
+>     “(c)  __Use of Existing Mechanisms__  __.—__ 
 
 >     It is the sense of Congress that, to the extent practicable, the boards and administrative mechanisms of existing threat reduction and nonproliferation programs should be used in the administration and oversight of programs and projects under the Agreement.
 
->     “(d) __Joint Auditing.—__ 
+>     “(d)  __Joint Auditing__  __.—__ 
 
 >     It is the sense of Congress that the United States and the Russian Federation should consider commissioning the United States Government Accountability Office and the Russian Chamber of Accounts to conduct joint audits to ensure that the funds saved by the Russian Federation as a result of any debt reduction are used exclusively, efficiently, and effectively to implement agreed programs or projects pursuant to the Agreement.
 
->     “(e) __Structure of the Agreement.—__ 
+>     “(e)  __Structure of the Agreement__  __.—__ 
 
 >     It is the sense of Congress that the Agreement should provide for significant penalties—
 
@@ -609,15 +609,15 @@
 
 > “SEC. 1317. __RESTRICTION ON DEBT REDUCTION AUTHORITY.__ 
 
->     “(a) __Proliferation to State Sponsors of Terrorism.—__ 
+>     “(a)  __Proliferation to State Sponsors of Terrorism__  __.—__ 
 
 >     Subject to the provisions of subsection (c), the debt reduction authority provided by section 1314 may not be exercised unless and until the President certifies to the appropriate congressional committees that the Russian Federation has made material progress in stemming the flow of sensitive goods, technologies, material, and know-how related to the design, development, and production of weapons of mass destruction and the means to deliver them to state sponsors of international terrorism.
 
->     “(b) __Annual Determination.—__ 
+>     “(b)  __Annual Determination__  __.—__ 
 
 >     If, in any annual report to Congress submitted pursuant to \[former\] section 1321, the President cannot certify that the Russian Federation continues to meet the condition required in subsection (a), then, subject to the provisions of subsection (c), the debt reduction authority provided by section 1314 may not be exercised unless and until such certification is made to the appropriate congressional committees.
 
->     “(c) __Presidential Waiver.—__ 
+>     “(c)  __Presidential Waiver__  __.—__ 
 
 >     The President may waive the requirements of subsection (a) or (b) for a fiscal year if the President—
 
@@ -647,7 +647,7 @@
 
 [Pub. L. 107–107, div. A, title XII, § 1205][/us/pl/107/107/s1205], Dec. 28, 2001, [115 Stat. 1247][/us/stat/115/1247], as amended by [Pub. L. 107–314, div. A, title XII, § 1205][/us/pl/107/314/s1205], Dec. 2, 2002, [116 Stat. 2664][/us/stat/116/2664], provided that:
 
->     “(a) __Plan Required.—__ 
+>     “(a)  __Plan Required__  __.—__ 
 
 >     Not later than June 15, 2002, the President shall submit to Congress a plan, that has been developed in coordination with all relevant Federal agencies—
 
@@ -659,7 +659,7 @@
 
 >         “(4) for preventing the outflow from the states of the former Soviet Union of scientific expertise that could be used for developing nuclear weapons, other weapons of mass destruction, and delivery systems for such weapons.
 
->     “(b) __Content of Plan.—__ 
+>     “(b)  __Content of Plan__  __.—__ 
 
 >     The plan required by subsection (a) shall include the following:
 
@@ -679,7 +679,7 @@
 
 >         “(4) An estimate of the cost of carrying out such programs.
 
->     “(c) __Consultation.—__ 
+>     “(c)  __Consultation__  __.—__ 
 
 >     In developing the plan required by subsection (a), the President—
 
@@ -687,7 +687,7 @@
 
 >         “(2) shall consult with the majority and minority leadership of the appropriate committees of Congress.
 
->     “(d) __Annual Report on Implementation of Plan.—__ 
+>     “(d)  __Annual Report on Implementation of Plan__  __.—__ 
 
 >         (1) Not later than January 31, 2003, and each year thereafter, the President shall submit to Congress a report on the implementation of the plan required by subsection (a) during the preceding year.
 
@@ -741,7 +741,7 @@
 
 >         “(3) a plan to promote a full and accurate disclosure by Russia regarding the size, content, status, and location of its chemical weapons stockpile.
 
->     “(b) __Expiration of Authority.—__ 
+>     “(b)  __Expiration of Authority__  __.—__ 
 
 >     The authority under paragraph (a) shall expire January 31, 2004.”
 
@@ -759,7 +759,7 @@
 
 > “SEC. 1303. __PROHIBITION ON USE OF FUNDS FOR SPECIFIED PURPOSES__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     No fiscal year 2000 Cooperative Threat Reduction funds, and no funds appropriated for Cooperative Threat Reduction programs after the date of the enactment of this Act \[Oct. 5, 1999\], may be obligated or expended for any of the following purposes:
 
@@ -771,17 +771,17 @@
 
 >         “(4) Provision of assistance to promote job retraining.
 
->     “(b) __Limitation With Respect to Defense Conversion Assistance.—__ 
+>     “(b)  __Limitation With Respect to Defense Conversion Assistance__  __.—__ 
 
 >     None of the funds appropriated pursuant to the authorization of appropriations in section 301 of this Act \[[113 Stat. 556][/us/stat/113/556]\], and no funds appropriated to the Department of Defense in any other Act enacted after the date of the enactment of this Act \[Oct. 5, 1999\], may be obligated or expended for the provision of assistance to Russia or any other state of the former Soviet Union to promote defense conversion.
 
->     “(c) __Limitation With Respect to Conventional Weapons.—__ 
+>     “(c)  __Limitation With Respect to Conventional Weapons__  __.—__ 
 
 >     No fiscal year 2000 Cooperative Threat Reduction funds may be obligated or expended for elimination of conventional weapons or the delivery vehicles primarily intended to deliver such weapons.
 
 > “SEC. 1304. __LIMITATIONS ON USE OF FUNDS FOR FISSILE MATERIAL STORAGE FACILITY__ 
 
->     “(a) __Limitations on Use of Fiscal Year 2000 Funds.—__ 
+>     “(a)  __Limitations on Use of Fiscal Year__  __2000__  __Funds__  __.—__ 
 
 >     No fiscal year 2000 Cooperative Threat Reduction funds may be used—
 
@@ -789,7 +789,7 @@
 
 >         “(2) for design or planning with respect to such facility until 15 days after the date that the Secretary of Defense submits to Congress notification that Russia and the United States have signed a verifiable written transparency agreement that ensures that material stored at the facility is of weapons origin.
 
->     “(b) __Limitation on Construction.—__ 
+>     “(b)  __Limitation on Construction__  __.—__ 
 
 >     No funds authorized to be appropriated for Cooperative Threat Reduction programs may be used for construction of the storage facility referred to in subsection (a) until the Secretary of Defense submits to Congress the following:
 
@@ -815,11 +815,11 @@ Similar provisions were contained in the following prior authorization acts:
 
 [Pub. L. 105–261, div. A, title XIII, § 1304][/us/pl/105/261/s1304], Oct. 17, 1998, [112 Stat. 2163][/us/stat/112/2163], provided that:
 
->     “(a) __Limitation.—__ 
+>     “(a)  __Limitation__  __.—__ 
 
 >     Subject to the limitation in section 1405(b) of the National Defense Authorization Act for Fiscal Year 1998 ([Public Law 105–85][/us/pl/105/85]; [111 Stat. 1961][/us/stat/111/1961]), no funds authorized to be appropriated for Cooperative Threat Reduction programs under this Act \[see Tables for classification\] or any other Act may be obligated or expended for chemical weapons destruction activities in Russia (including activities for the planning, design, or construction of a chemical weapons destruction facility or for the dismantlement of an existing chemical weapons production facility) until the President submits to Congress a written certification described in subsection (b).
 
->     “(b) __Presidential Certification.—__ 
+>     “(b)  __Presidential Certification__  __.—__ 
 
 >     A certification under this subsection is either of the following certifications by the President:
 
@@ -835,7 +835,7 @@ Similar provisions were contained in the following prior authorization acts:
 
 >         “(2) A certification that the national security interests of the United States could be undermined by a policy of the United States not to carry out chemical weapons destruction activities under Cooperative Threat Reduction programs for which funds are authorized to be appropriated under this Act or any other Act for fiscal year 1999.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -855,7 +855,7 @@ Similar provisions were contained in the following prior authorization acts:
 
 [Pub. L. 105–261, div. A, title XIII, § 1307][/us/pl/105/261/s1307], Oct. 17, 1998, [112 Stat. 2165][/us/stat/112/2165], as amended by [Pub. L. 108–375, div. A, title XIII, § 1304][/us/pl/108/375/s1304], Oct. 28, 2004, [118 Stat. 2094][/us/stat/118/2094], provided that:
 
->     “(a) __Summary Required.—__ 
+>     “(a)  __Summary Required__  __.—__ 
 
 >     The Secretary of Defense shall submit to Congress in the materials and manner specified in subsection (c)—
 
@@ -863,11 +863,11 @@ Similar provisions were contained in the following prior authorization acts:
 
 >         “(2) a descriptive summary, with respect to appropriations for Cooperative Threat Reduction programs for the fiscal year in which the list is submitted and the previous fiscal year, of the amounts obligated or expended, or planned to be obligated or expended, for each project category under each Cooperative Threat Reduction program element.
 
->     “(b) __Description of Purpose and Intent.—__ 
+>     “(b)  __Description of Purpose and Intent__  __.—__ 
 
 >     The descriptive summary required under subsection (a) shall include a narrative description of each program and project category under each Cooperative Threat Reduction program element that explains the purpose and intent of the funds requested.
 
->     “(c) __Inclusion in Certain Materials Submitted to Congress.—__ 
+>     “(c)  __Inclusion in Certain Materials Submitted to Congress__  __.—__ 
 
 >     The summary required to be submitted to Congress in a fiscal year under subsection (a) shall be set forth by project category, and by amounts specified in paragraphs (1) and (2) of that subsection in connection with such project category, in each of the following:
 
@@ -887,11 +887,11 @@ Similar provisions were contained in the following prior authorization acts:
 
 [Pub. L. 103–160, div. A, title XVI, § 1612][/us/pl/103/160/s1612], Nov. 30, 1993, [107 Stat. 1850][/us/stat/107/1850], provided:
 
->     “(a) __Limitation.—__ 
+>     “(a)  __Limitation__  __.—__ 
 
 >     Until a certification under subsection (b) is made, no funds may be obligated or expended by the United States for the purpose of assisting the Ministry of Atomic Energy of Russia to construct a storage facility for surplus plutonium from dismantled weapons.
 
->     “(b) __Certification of Russia’s Commitment to Halt Chemical Separation of Weapon-Grade Plutonium.—__ 
+>     “(b)  __Certification of Russia’s Commitment to Halt Chemical Separation of Weapon-Grade Plutonium__  __.—__ 
 
 >     The prohibition in subsection (a) shall cease to apply upon a certification by the President to Congress that Russia—
 
@@ -899,11 +899,11 @@ Similar provisions were contained in the following prior authorization acts:
 
 >         “(2) is taking all practical steps to halt such separation at the earliest possible date.
 
->     “(c) __Sense of Congress on Plutonium Policy.—__ 
+>     “(c)  __Sense of Congress on Plutonium Policy__  __.—__ 
 
 >     It is the sense of Congress that a key objective of the United States with respect to the nonproliferation of nuclear weapons should be to obtain a clear and unequivocal commitment from the Government of Russia that it will (1) cease all production and separation of weapon-grade plutonium, and (2) halt chemical separation of plutonium produced in civil nuclear power reactors.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     Not later than June 1, 1994, the President shall submit to Congress a report on the status of efforts by the United States to secure the commitments and achieve the objective described in subsections (b) and (c). The President shall include in the report a discussion of the status of joint efforts by the United States and Russia to replace any remaining Russian plutonium production reactors with alternative power sources or to convert such reactors to operation with alternative fuels that would permit their operation without generating weapon-grade plutonium.”
 
@@ -1011,11 +1011,11 @@ Similar provisions were contained in the following prior authorization acts:
 
 [Pub. L. 107–107, div. A, title XIII, § 1301(a)][/us/pl/107/107/s1301/a], (b), Dec. 28, 2001, [115 Stat. 1254][/us/stat/115/1254], provided that:
 
->     “(a) __Specification of CTR Programs.—__ 
+>     “(a)  __Specification of CTR Programs__  __.—__ 
 
 >     For purposes of section 301 \[[115 Stat. 1046][/us/stat/115/1046]\] and other provisions of this Act \[see Tables for classification\], Cooperative Threat Reduction programs are the programs specified in section 1501(b) of the National Defense Authorization Act for Fiscal Year 1997 ([Public Law 104–201][/us/pl/104/201]; [110 Stat. 2731][/us/stat/110/2731]; [50 U.S.C. 2362][/us/usc/t50/s2362] note).
 
->     “(b) __Fiscal Year 2002 Cooperative Threat Reduction Funds Defined.—__ 
+>     “(b)  __Fiscal Year__  __2002__  __Cooperative Threat Reduction Funds Defined__  __.—__ 
 
 >     As used in this title \[amending [section 5959 of this title][/us/usc/t22/s5959] and enacting and amending provisions set out as notes under this section\], the term ‘fiscal year 2002 Cooperative Threat Reduction funds’ means the funds appropriated pursuant to the authorization of appropriations in section 301 for Cooperative Threat Reduction programs.”
 
@@ -1023,11 +1023,11 @@ Similar provisions were contained in the following prior authorization acts:
 
 [Pub. L. 106–65, div. A, title XIII, § 1301(a)][/us/pl/106/65/s1301/a], (b), Oct. 5, 1999, [113 Stat. 792][/us/stat/113/792], provided that:
 
->     “(a) __Specification of CTR Programs.—__ 
+>     “(a)  __Specification of CTR Programs__  __.—__ 
 
 >     For purposes of section 301 \[[113 Stat. 556][/us/stat/113/556]\] and other provisions of this Act \[see Tables for classification\], Cooperative Threat Reduction programs are the programs specified in section 1501(b) of the National Defense Authorization Act for Fiscal Year 1997 ([Public Law 104–201][/us/pl/104/201]; [110 Stat. 2731][/us/stat/110/2731]; [50 U.S.C. 2362][/us/usc/t50/s2362] note).
 
->     “(b) __Fiscal Year 2000 Cooperative Threat Reduction Funds Defined.—__ 
+>     “(b)  __Fiscal Year__  __2000__  __Cooperative Threat Reduction Funds Defined__  __.—__ 
 
 >     As used in this title \[enacting provisions set out as notes under this section and [section 5955 of this title][/us/usc/t22/s5955]\], the term ‘fiscal year 2000 Cooperative Threat Reduction funds’ means the funds appropriated pursuant to the authorization of appropriations in section 301 for Cooperative Threat Reduction programs.”
 

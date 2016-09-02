@@ -31,7 +31,7 @@
 
 [Pub. L. 107–228, div. B, title XIII, § 1302][/us/pl/107/228/s1302], Sept. 30, 2002, [116 Stat. 1435][/us/stat/116/1435], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     For the purpose of enhancing the nonproliferation and export control capabilities of friendly countries, of the amount authorized to be appropriated for fiscal year 2003 by section 585 \[586\] of the Foreign Assistance Act of 1961 ([22 U.S.C. 2349bb][/us/usc/t22/s2349bb] et seq.) \[[22 U.S.C. 2349bb–4][/us/usc/t22/s2349bb–4]\], the Secretary is authorized to make available—
 
@@ -41,11 +41,11 @@
 
 >     “(b) __Reports on Training Program.—__ 
 
->         “(1) __Initial report.—__ 
+>         “(1)  __Initial report__  __.—__ 
 
 >         Not later than March 31, 2003, the Secretary shall submit a report to the appropriate congressional committees setting forth his plans and budget for a multiyear training program to train foreign personnel in the utilization of the systems described in subsection (a).
 
->         “(2) __Subsequent reports.—__ 
+>         “(2)  __Subsequent reports__  __.—__ 
 
 >         Not later than March 31, 2004, and annually thereafter for the next three years, the Secretary shall submit a report to the appropriate congressional committees describing the progress, current status, and budget of that training program and of the provision of those systems.”
 

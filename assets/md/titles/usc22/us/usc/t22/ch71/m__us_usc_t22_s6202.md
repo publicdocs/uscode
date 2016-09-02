@@ -89,7 +89,7 @@
 
 [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXIV, § 2420, Oct. 21, 1998, [112 Stat. 2681–835][/us/stat/112/2681-835], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Voice of America shall devote programming each day to broadcasting information on the individual States of the United States. The broadcasts shall include—
 
@@ -99,11 +99,11 @@
 
 >         “(3) discussions with State officials with respect to the matters described in paragraphs (1) and (2).
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than one year after the date of enactment of this Act \[Oct. 21, 1998\], the Broadcasting Board of Governors of the United States Information Agency shall submit a report to Congress detailing the actions that have been taken to carry out subsection (a).
 
->     “(c) __State Defined.—__ 
+>     “(c)  __State Defined__  __.—__ 
 
 >     In this section, the term ‘State’ means any of the several States of the United States, the District of Columbia, or any commonwealth or territory of the United States.”
 

@@ -109,7 +109,7 @@
 
 [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXVIII, § 2802, Oct. 21, 1998, [112 Stat. 2681–845][/us/stat/112/2681-845], as amended by [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title II, § 209(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–423; [Pub. L. 107–228, div. A, title II, § 216(b)][/us/pl/107/228/s216/b], Sept. 30, 2002, [116 Stat. 1366][/us/stat/116/1366], provided that:
 
->     “(a) __Reports Required.—__ 
+>     “(a)  __Reports Required__  __.—__ 
 
 >     Not later than 30 days after the date of the enactment of this Act \[Oct. 21, 1998\] and every 3 months thereafter during the period ending September 30, 2003, the Secretary of State shall submit to the appropriate congressional committees \[Committee on Foreign Affairs of the House of Representatives and Committee on Foreign Relations of the Senate\] a report on the implementation of section 401 of the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996 ([22 U.S.C. 6091][/us/usc/t22/s6091]). Each report shall include—
 
@@ -129,7 +129,7 @@
 
 >             “(B) in the preceding 3-month period, in the case of each subsequent report.
 
->     “(b) __Protection of Identity of Concerned Entities.—__ 
+>     “(b)  __Protection of Identity of Concerned Entities__  __.—__ 
 
 >     In preparing the report under subsection (a), the names of entities shall not be identified under paragraph (1) or (4).”
 

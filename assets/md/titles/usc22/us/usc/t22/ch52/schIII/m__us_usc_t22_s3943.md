@@ -27,19 +27,19 @@
 
 [Pub. L. 100–204, title I, § 157][/us/pl/100/204/s157], Dec. 22, 1987, [101 Stat. 1354][/us/stat/101/1354], provided that:
 
->     “(a) __Prohibition.—__ 
+>     “(a)  __Prohibition__  __.—__ 
 
 >     After September 30, 1990, no national of a Communist country may be employed as a foreign national employee in any area of a United States diplomatic or consular facility in any Communist country where classified materials are maintained.
 
->     “(b) __Definition.—__ 
+>     “(b)  __Definition__  __.—__ 
 
 >     As used in this section, the term ‘Communist country’ means a country listed in section 620(f) of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2370(f)][/us/usc/t22/s2370/f]\].
 
->     “(c) __Additional Funds for Hiring United States Citizens.—__ 
+>     “(c)  __Additional Funds for Hiring United States Citizens__  __.—__ 
 
 >     The Congress expresses its willingness to provide additional funds to the Department of State for the expenses of employing United States nationals to replace the individuals dismissed by reason of subsection (a).
 
->     “(d) __Report and Request for Funds.—__ 
+>     “(d)  __Report and Request for Funds__  __.—__ 
 
 >     As a part of the Department of State’s authorization request for fiscal years 1990 and 1991, the Secretary of State, in consultation with the heads of all relevant agencies, shall submit—
 
@@ -53,7 +53,7 @@
 
 >         “(2) a request for funds necessary for the implementation of this section pursuant to the findings and conclusions specified in the report under paragraph (1).
 
->     “(e) __Waiver.—__ 
+>     “(e)  __Waiver__  __.—__ 
 
 >     The President may waive this section—
 
@@ -67,11 +67,11 @@
 
 [Pub. L. 99–93, title I, § 136][/us/pl/99/93/s136], Aug. 16, 1985, [99 Stat. 421][/us/stat/99/421], provided that:
 
->     “(a) __Limitation.—__ 
+>     “(a)  __Limitation__  __.—__ 
 
 >     To the maximum extent practicable, citizens of the Soviet Union shall not be employed as foreign national employees at United States diplomatic or consular missions in the Soviet Union after September 30, 1986.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Should the President determine that the implementation of subsection (a) poses undue practical or administrative difficulties, he is requested to submit a report to the Congress describing the number and type of Soviet foreign national employees he wishes to retain at or in proximity to United States diplomatic and consular posts in the Soviet Union, the anticipated duration of their continued employment, the reasons for their continued employment, and the risks associated with the retention of these employees.”
 

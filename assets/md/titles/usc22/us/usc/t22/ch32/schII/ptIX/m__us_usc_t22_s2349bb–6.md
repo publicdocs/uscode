@@ -53,7 +53,7 @@
 
 [Pub. L. 112–81, div. A, title XII, § 1235][/us/pl/112/81/s1235], Dec. 31, 2011, [125 Stat. 1638][/us/stat/125/1638], provided that:
 
->     “(a) __Statement of Policy.—__ 
+>     “(a)  __Statement of Policy__  __.—__ 
 
 >     Pursuant to section 11 of the Department of State Authorities Act of 2006 ([22 U.S.C. 2349bb–6][/us/usc/t22/s2349bb–6]), the following is the policy of the United States:
 
@@ -65,11 +65,11 @@
 
 >     “(b) __Intelligence Community Assessment on MANPADS in Libya.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Director of National Intelligence shall submit to the appropriate committees of Congress an assessment by the intelligence community that accounts for the disposition of, and the threat to United States citizens and citizens of allies of the United States posed by man-portable air-defense systems that were in Libya as of March 19, 2011. The assessment shall be submitted as soon as practicable, but not later than the end of the 45-day period beginning on the date of the enactment of this Act \[Dec. 31, 2011\].
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         The assessment submitted under this subsection shall include the following:
 
@@ -89,7 +89,7 @@
 
 >             “(H) An assessment of the effect of the proliferation of man-portable air-defense systems that were in Libya as of March 19, 2011, on the price and availability of man-portable air-defense systems that are on the global arms market.
 
->         “(3) __Notice regarding delay in submittal.—__ 
+>         “(3)  __Notice regarding delay in submittal__  __.—__ 
 
 >         If, before the end of the 45-day period specified in paragraph (1), the Director determines that the assessment required by that paragraph cannot be submitted by the end of that period as required by that paragraph, the Director shall (before the end of that period) submit to the appropriate committees of Congress a report setting forth—
 
@@ -99,17 +99,17 @@
 
 >     “(c) __Comprehensive Strategy on Threat of MANPADS Originating From Libya.—__ 
 
->         “(1) __Strategy required.—__ 
+>         “(1)  __Strategy required__  __.—__ 
 
 >         The President shall develop and implement, and from time to time update, a comprehensive strategy, pursuant to section 11 of the Department of State Authorities Act of 2006 \[[22 U.S.C. 2349bb–6][/us/usc/t22/s2349bb–6]\], to reduce and mitigate the threat posed to United States citizens and citizens of allies of the United States from man-portable air-defense systems that were in Libya as of March 19, 2011.
 
 >         “(2) __Report required.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Not later than 45 days after the assessment required by subsection (b) is submitted to the appropriate committees of Congress, the President shall submit to the appropriate committees of Congress a report setting forth the strategy required by paragraph (1).
 
->             “(B) __Elements.—__ 
+>             “(B)  __Elements__  __.—__ 
 
 >             The report required by this paragraph shall include the following:
 
@@ -133,11 +133,11 @@
 
 >                 “(vi) Such recommendations for legislative or administrative action as the President considers appropriate to implement the strategy required by paragraph (1).
 
->             “(C) __Form.—__ 
+>             “(C)  __Form__  __.—__ 
 
 >             The report required by this paragraph shall be submitted in unclassified form, but may include a classified annex.
 
->     “(d) __Appropriate Committees of Congress Defined.—__ 
+>     “(d)  __Appropriate Committees of Congress Defined__  __.—__ 
 
 >     In this section, the term ‘appropriate committees of Congress’ means—
 

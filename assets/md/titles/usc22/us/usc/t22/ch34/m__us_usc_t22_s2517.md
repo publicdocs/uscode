@@ -53,15 +53,15 @@
 
 > “SEC. 603. __DESIGNATION OF PAUL D. COVERDELL WORLD WISE SCHOOLS PROGRAM.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Effective on the date of enactment of this Act \[Dec. 27, 2000\], the program under section 18 of the Peace Corps Act ([22 U.S.C. 2517][/us/usc/t22/s2517]) referred to before such date as the ‘World Wise Schools Program’ is redesignated as the ‘Paul D. Coverdell World Wise Schools Program’.
 
->     “(b) __References.—__ 
+>     “(b)  __References__  __.—__ 
 
 >     Any reference before the date of enactment of this Act \[Dec. 27, 2000\] in any law, regulation, order, document, record, or other paper of the United States to the Peace Corps World Wise Schools Program shall, on and after such date, be considered to refer to the Paul D. Coverdell World Wise Schools Program.
 
->     “(c) __New References in Peace Corps Documents.—__ 
+>     “(c)  __New References in Peace Corps Documents__  __.—__ 
 
 >     The Director of the Peace Corps shall ensure that any reference in any public document, record, or other paper of the Peace Corps, including any promotional material, produced on or after the date of enactment of this subsection \[July 26, 2001\], to the program described in subsection (a) be a reference to the ‘Paul D. Coverdell World Wise Schools Program’.”
 
@@ -69,11 +69,11 @@
 
 [Pub. L. 106–309, title IV, § 408][/us/pl/106/309/s408], Oct. 17, 2000, [114 Stat. 1100][/us/stat/114/1100], provided that:
 
->     “(a) __Short Title.—__ 
+>     “(a)  __Short Title__  __.—__ 
 
 >     This section may be cited as the ‘Paul D. Coverdell Fellows Program Act of 2000’.
 
->     “(b) __Findings.—__ 
+>     “(b)  __Findings__  __.—__ 
 
 >     Congress makes the following findings:
 
@@ -85,15 +85,13 @@
 
 >         “(4) Senator Paul D. Coverdell was beloved by his colleagues for his civility, bipartisan efforts, and his dedication to public service.
 
->     “(c) __Designation of Paul D.__ 
+>     “(c) __Designation of Paul D. Coverdell Fellows Program.—__ 
 
->      Coverdell Fellows Program.—
-
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Effective on the date of the enactment of this Act \[Oct. 17, 2000\], the program under section 18 of the Peace Corps Act ([22 U.S.C. 2517][/us/usc/t22/s2517]) referred to before such date as the ‘Peace Corps Fellows/ USA Program’ is redesignated as the ‘Paul D. Coverdell Fellows Program’.
 
->         “(2) __References.—__ 
+>         “(2)  __References__  __.—__ 
 
 >         Any reference before the date of the enactment of this Act \[Oct. 17, 2000\] in any law, regulation, order, document, record, or other paper of the United States to the Peace Corps Fellows/ USA Program shall, on and after such date, be considered to refer to the Paul D. Coverdell Fellows Program.”
 

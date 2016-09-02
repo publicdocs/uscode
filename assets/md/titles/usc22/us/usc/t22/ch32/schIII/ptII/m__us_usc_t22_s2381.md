@@ -45,15 +45,15 @@
 
 [Pub. L. 105–277, div. A, § 101(d)][/us/pl/105/277/s101/d] \[title V, § 587\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–204, as amended by [Pub. L. 106–31, title V, § 5002(b)][/us/pl/106/31/s5002/b], May 21, 1999, [113 Stat. 109][/us/stat/113/109], provided that:
 
->     “(a) __Establishment of Office.—__ 
+>     “(a)  __Establishment of Office__  __.—__ 
 
 >     There shall be established within the Office of the Administrator of the Agency for International Development, an Office of Security. Such Office of Security shall, notwithstanding any other provision of law except section 207 of the Foreign Service Act of 1980 \[[22 U.S.C. 3927][/us/usc/t22/s3927]\] and [section 103 of Public Law 99–339][/us/pl/99/339/s103] \[[22 U.S.C. 4802][/us/usc/t22/s4802]\], have the responsibility for the supervision, direction, and control of all security activities relating to the programs and operations of that Agency.
 
->     “(b) __Transfer and Allocation of Appropriations and Personnel.—__ 
+>     “(b)  __Transfer and Allocation of Appropriations and Personnel__  __.—__ 
 
 >     There are transferred to the Office of Security all security functions exercised by the Office of Inspector General of the Agency for International Development exercised before the date of enactment of this Act \[Oct. 21, 1998\]. The Administrator shall transfer from the Office of the Inspector General of such Agency to the Office of Security established by subsection (a), the personnel (including the Senior Executive Service position designated for the Assistant Inspector General for Security), assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, and other funds held, used, available to, or to be made available in connection with such functions. Unexpended balances of appropriations, and other funds made available or to be made available in connection with such functions, shall be transferred to and merged with funds appropriated by this Act under the heading ‘Operating Expenses of the Agency for International Development’ \[[112 Stat. 2681–157][/us/stat/112/2681-157]\].
 
->     “(c) __Transfer of Employees.—__ 
+>     “(c)  __Transfer of Employees__  __.—__ 
 
 >     Any employee in the career service who is transferred pursuant to this section shall be placed in a position in the Office of Security established by subsection (a) which is comparable to the position the employee held in the Office of the Inspector General of the Agency for International Development.”
 

@@ -67,11 +67,11 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XI, § 1117\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–489, provided that:
 
->     “(a) __Reimbursement.—__ 
+>     “(a)  __Reimbursement__  __.—__ 
 
 >     During the 2-year period beginning on the date of the enactment of this Act \[Nov. 29, 1999\], the United States National Authority (as designated pursuant to section 101 of the Chemical Weapons Convention Implementation Act of 1998 \[[22 U.S.C. 6711][/us/usc/t22/s6711]\] (as contained in division I of [Public Law 105–277][/us/pl/105/277])) shall, upon request of the Director of the Federal Bureau of Investigation, reimburse the Federal Bureau of Investigation for all costs incurred by the Bureau for such period in connection with implementation of section 303(b)(2)(A) of that Act \[[22 U.S.C. 6723(b)(2)(A)][/us/usc/t22/s6723/b/2/A]\], except that such reimbursement may not exceed $2,000,000 for such 2-year period.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 180 days prior to the expiration of the 2-year period described in subsection (a), the Director of the Federal Bureau of Investigation shall prepare and submit to the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate a report on how activities under section 303(b)(2)(A) of the Chemical Weapons Convention Implementation Act of 1998 \[[22 U.S.C. 6723(b)(2)(A)][/us/usc/t22/s6723/b/2/A]\] will be fully funded and implemented by the Federal Bureau of Investigation notwithstanding the expiration of the 2-year period described in subsection (a).”
 

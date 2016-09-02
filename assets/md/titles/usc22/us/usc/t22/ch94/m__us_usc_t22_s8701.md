@@ -93,21 +93,21 @@
 
 > “In this Act:
 
->     “(1) __Western hemisphere.—__ 
+>     “(1)  __Western hemisphere__  __.—__ 
 
 >     The term ‘Western Hemisphere’ means the United States, Canada, Mexico, the Caribbean, South America, and Central America.
 
->     “(2) __Relevant congressional committees.—__ 
+>     “(2)  __Relevant congressional committees__  __.—__ 
 
 >     The term ‘relevant congressional committees’ means the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
 
 > “SEC. 5. __REQUIREMENT OF A STRATEGY TO ADDRESS IRAN’S GROWING HOSTILE PRESENCE AND ACTIVITY IN THE WESTERN HEMISPHERE.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Dec. 28, 2012\], the Secretary of State shall conduct an assessment of the threats posed to the United States by Iran’s growing presence and activity in the Western Hemisphere and submit to the relevant congressional committees the results of the assessment and a strategy to address Iran’s growing hostile presence and activity in the Western Hemisphere.
 
->     “(b) __Matters To Be Included.—__ 
+>     “(b)  __Matters To Be Included__  __.—__ 
 
 >     The strategy described in subsection (a) should include—
 
@@ -141,11 +141,11 @@
 
 >             “(D) to address the vital national security interests of the United States in ensuring energy supplies from the Western Hemisphere that are free from the influence of any foreign government that would attempt to manipulate or disrupt global energy markets.
 
->     “(c) __Development.—__ 
+>     “(c)  __Development__  __.—__ 
 
 >     In developing the strategy under this section, the Secretary of State shall consult with the heads of all appropriate United States departments and agencies, including the Secretary of Defense, the Director of National Intelligence, the Secretary of Homeland Security, the Secretary of the Treasury, the Attorney General, and the United States Trade Representative.
 
->     “(d) __Form.—__ 
+>     “(d)  __Form__  __.—__ 
 
 >     The strategy in this section may be submitted in classified form, but shall include an unclassified summary of policy recommendations to address the growing Iranian threat in the Western Hemisphere.
 

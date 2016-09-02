@@ -121,11 +121,11 @@
 
 [Pub. L. 105–261, div. A, title XV, § 1502][/us/pl/105/261/s1502], Oct. 17, 1998, [112 Stat. 2171][/us/stat/112/2171], as amended by [Pub. L. 106–65, div. A, title X, § 1067(3)][/us/pl/106/65/s1067/3], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774], provided that:
 
->     “(a) __Reporting Requirement.—__ 
+>     “(a)  __Reporting Requirement__  __.—__ 
 
 >     The Director of the Arms Control and Disarmament Agency (or the Secretary of State, if the Arms Control and Disarmament Agency becomes an element of the Department of State) shall transmit to the Committee on Armed Services of the House of Representatives on a periodic basis reports containing classified summaries of arms control developments.
 
->     “(b) __Contents of Reports.—__ 
+>     “(b)  __Contents of Reports__  __.—__ 
 
 >     The reports required by subsection (a) shall include information reflecting the activities of forums established to consider issues relating to treaty implementation and treaty compliance.”
 

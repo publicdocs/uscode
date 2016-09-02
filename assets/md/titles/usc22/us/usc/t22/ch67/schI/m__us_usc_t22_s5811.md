@@ -49,7 +49,7 @@
 
 > “SEC. 402. __FINDINGS; SENSE OF CONGRESS.__ 
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds the following:
 
@@ -97,7 +97,7 @@
 
 >         “(15) The tragic and unresolved murders of Nustap Abdurakhmanov, Maksharip Aushev, Natalya Estemirova, Akhmed Hadjimagomedov, Umar Israilov, Paul Klebnikov, Anna Politkovskaya, Saihadji Saihadjiev, and Magomed Y. Yevloyev, the death in custody of Vera Trifonova, the disappearances of Mokhmadsalakh Masaev and Said-Saleh Ibragimov, the torture of Ali Israilov and Islam Umarpashaev, the near-fatal beatings of Mikhail Beketov, Oleg Kashin, Arkadiy Lander, and Mikhail Vinyukov, and the harsh and ongoing imprisonment of Mikhail Khodorkovsky, Alexei Kozlov, Platon Lebedev, and Fyodor Mikheev further illustrate the grave danger of exposing the wrongdoing of officials of the Government of the Russian Federation, including Chechen leader Ramzan Kadyrov, or of seeking to obtain, exercise, defend, or promote internationally recognized human rights and freedoms.
 
->     “(b) __Sense of Congress.—__ 
+>     “(b)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of Congress that the United States should continue to strongly support, and provide assistance to, the efforts of the Russian people to establish a vibrant democratic political system that respects individual liberties and human rights, including by enhancing the provision of objective information through all relevant media, such as Radio Liberty and the internet. The Russian Government’s suppression of dissent and political opposition, the limitations it has imposed on civil society and independent media, and the deterioration of economic and political freedom inside Russia are of profound concern to the United States Government and to the American people.
 
@@ -105,11 +105,11 @@
 
 > “In this title:
 
->     “(1) __Admitted; alien.—__ 
+>     “(1)  __Admitted; alien__  __.—__ 
 
 >     The terms ‘admitted’ and ‘alien’ have the meanings given those terms in section 101 of the Immigration and Nationality Act ([8 U.S.C. 1101][/us/usc/t8/s1101]).
 
->     “(2) __Appropriate congressional committees.—__ 
+>     “(2)  __Appropriate congressional committees__  __.—__ 
 
 >     The term ‘appropriate congressional committees’ means—
 
@@ -117,11 +117,11 @@
 
 >         “(B) the Committee on Armed Services, the Committee on Banking, Housing, and Urban Affairs, the Committee on Foreign Relations, the Committee on Homeland Security and Governmental Affairs, and the Committee on the Judiciary of the Senate.
 
->     “(3) __Financial institution.—__ 
+>     “(3)  __Financial institution__  __.—__ 
 
 >     The term ‘financial institution’ has the meaning given that term in [section 5312 of title 31][/us/usc/t31/s5312], United States Code.
 
->     “(4) __United states person.—__ 
+>     “(4)  __United states person__  __.—__ 
 
 >     The term ‘United States person’ means—
 
@@ -131,7 +131,7 @@
 
 > “SEC. 404. __IDENTIFICATION OF PERSONS RESPONSIBLE FOR THE DETENTION, ABUSE, AND DEATH OF SERGEI MAGNITSKY AND OTHER GROSS VIOLATIONS OF HUMAN RIGHTS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 120 days after the date of the enactment of this Act \[Dec. 14, 2012\], the President shall submit to the appropriate congressional committees a list of each person who the President determines, based on credible information—
 
@@ -147,17 +147,17 @@
 
 >         “(3) acted as an agent of or on behalf of a person in a matter relating to an activity described in paragraph (1) or (2).
 
->     “(b) __Updates.—__ 
+>     “(b)  __Updates__  __.—__ 
 
 >     The President shall submit to the appropriate congressional committees an update of the list required by subsection (a) as new information becomes available.
 
 >     “(c) __Form.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The list required by subsection (a) shall be submitted in unclassified form.
 
->         “(2) __Exception.—__ 
+>         “(2)  __Exception__  __.—__ 
 
 >         The name of a person to be included in the list required by subsection (a) may be submitted in a classified annex only if the President—
 
@@ -167,15 +167,15 @@
 
 >             “(C) 15 days prior to submitting the name in a classified annex, provides to the appropriate congressional committees notice of, and a justification for, including or continuing to include each person in the classified annex despite any publicly available credible information indicating that the person engaged in an activity described in paragraph (1), (2), or (3) of subsection (a).
 
->         “(3) __Consideration of data from other countries and nongovernmental organizations.—__ 
+>         “(3)  __Consideration of data from other countries and nongovernmental organizations__  __.—__ 
 
 >         In preparing the list required by subsection (a), the President shall consider information provided by the chairperson and ranking member of each of the appropriate congressional committees and credible data obtained by other countries and nongovernmental organizations, including organizations inside Russia, that monitor the human rights abuses of the Government of the Russian Federation.
 
->         “(4) __Public availability.—__ 
+>         “(4)  __Public availability__  __.—__ 
 
 >         The unclassified portion of the list required by subsection (a) shall be made available to the public and published in the Federal Register.
 
->     “(d) __Removal From List.—__ 
+>     “(d)  __Removal From List__  __.—__ 
 
 >     A person may be removed from the list required by subsection (a) if the President determines and reports to the appropriate congressional committees not less than 15 days prior to the removal of the person from the list that—
 
@@ -187,35 +187,35 @@
 
 >     “(e) __Requests by Chairperson and Ranking Member of Appropriate Congressional Committees.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 120 days after receiving a written request from the chairperson and ranking member of one of the appropriate congressional committees with respect to whether a person meets the criteria for being added to the list required by subsection (a), the President shall submit a response to the chairperson and ranking member of the committee which made the request with respect to the status of the person.
 
->         “(2) __Form.—__ 
+>         “(2)  __Form__  __.—__ 
 
 >         The President may submit a response required by paragraph (1) in classified form if the President determines that it is necessary for the national security interests of the United States to do so.
 
->         “(3) __Removal.—__ 
+>         “(3)  __Removal__  __.—__ 
 
 >         If the President removes from the list required by subsection (a) a person who has been placed on the list at the request of the chairperson and ranking member of one of the appropriate congressional committees, the President shall provide the chairperson and ranking member with any information that contributed to the removal decision. The President may submit such information in classified form if the President determines that such is necessary for the national security interests of the United States.
 
->     “(f) __Nonapplicability of Confidentiality Requirement With Respect to Visa Records.—__ 
+>     “(f)  __Nonapplicability of Confidentiality Requirement With Respect to Visa Records__  __.—__ 
 
 >     The President shall publish the list required by subsection (a) without regard to the requirements of section 222(f) of the Immigration and Nationality Act ([8 U.S.C. 1202(f)][/us/usc/t8/s1202/f]) with respect to confidentiality of records pertaining to the issuance or refusal of visas or permits to enter the United States.
 
 > “SEC. 405. __INADMISSIBILITY OF CERTAIN ALIENS.__ 
 
->     “(a) __Ineligibility for Visas.—__ 
+>     “(a)  __Ineligibility for Visas__  __.—__ 
 
 >     An alien is ineligible to receive a visa to enter the United States and ineligible to be admitted to the United States if the alien is on the list required by section 404(a).
 
->     “(b) __Current Visas Revoked.—__ 
+>     “(b)  __Current Visas Revoked__  __.—__ 
 
 >     The Secretary of State shall revoke, in accordance with section 221(i) of the Immigration and Nationality Act ([8 U.S.C. 1201(i)][/us/usc/t8/s1201/i]), the visa or other documentation of any alien who would be ineligible to receive such a visa or documentation under subsection (a) of this section.
 
 >     “(c) __Waiver for National Security Interests.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of State may waive the application of subsection (a) or (b) in the case of an alien if—
 
@@ -229,11 +229,11 @@
 
 >             “(B) prior to granting such a waiver, the Secretary provides to the appropriate congressional committees notice of, and a justification for, the waiver.
 
->         “(2) __Timing for certain waivers.—__ 
+>         “(2)  __Timing for certain waivers__  __.—__ 
 
 >         Notification under subparagraph (B) of paragraph (1) shall be made not later than 15 days prior to granting a waiver under such paragraph if the Secretary grants such waiver in the national security interests of the United States in accordance with subparagraph (A)(ii) of such paragraph.
 
->     “(d) __Regulatory Authority.—__ 
+>     “(d)  __Regulatory Authority__  __.—__ 
 
 >     The Secretary of State shall prescribe such regulations as are necessary to carry out this section.
 
@@ -241,29 +241,29 @@
 
 >     “(a) __Freezing of Assets.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The President shall exercise all powers granted by the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.) (except that the requirements of section 202 of such Act ([50 U.S.C. 1701][/us/usc/t50/s1701]) shall not apply) to the extent necessary to freeze and prohibit all transactions in all property and interests in property of a person who is on the list required by section 404(a) of this Act if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
 
->         “(2) __Exception.—__ 
+>         “(2)  __Exception__  __.—__ 
 
 >         Paragraph (1) shall not apply to persons included on the classified annex under section 404(c)(2) if the President determines that such an exception is vital for the national security interests of the United States.
 
->     “(b) __Waiver for National Security Interests.—__ 
+>     “(b)  __Waiver for National Security Interests__  __.—__ 
 
 >     The Secretary of the Treasury may waive the application of subsection (a) if the Secretary determines that such a waiver is in the national security interests of the United States. Not less than 15 days prior to granting such a waiver, the Secretary shall provide to the appropriate congressional committees notice of, and a justification for, the waiver.
 
 >     “(c) __Enforcement.—__ 
 
->         “(1) __Penalties.—__ 
+>         “(1)  __Penalties__  __.—__ 
 
 >         A person that violates, attempts to violate, conspires to violate, or causes a violation of this section or any regulation, license, or order issued to carry out this section shall be subject to the penalties set forth in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act ([50 U.S.C. 1705][/us/usc/t50/s1705]) to the same extent as a person that commits an unlawful act described in subsection (a) of such section.
 
->         “(2) __Requirements for financial institutions.—__ 
+>         “(2)  __Requirements for financial institutions__  __.—__ 
 
 >         Not later than 120 days after the date of the enactment of this Act \[Dec. 14, 2012\], the Secretary of the Treasury shall prescribe or amend regulations as needed to require each financial institution that is a United States person and has within its possession or control assets that are property or interests in property of a person who is on the list required by section 404(a) if such property and interests in property are in the United States to certify to the Secretary that, to the best of the knowledge of the financial institution, the financial institution has frozen all assets within the possession or control of the financial institution that are required to be frozen pursuant to subsection (a).
 
->     “(d) __Regulatory Authority.—__ 
+>     “(d)  __Regulatory Authority__  __.—__ 
 
 >     The Secretary of the Treasury shall issue such regulations, licenses, and orders as are necessary to carry out this section.
 
@@ -369,7 +369,7 @@
 
 > “SEC. 4. __ASSISTANCE TO PROMOTE DEMOCRACY AND CIVIL SOCIETY IN BELARUS.__ 
 
->     “(a) __Purposes of Assistance.—__ 
+>     “(a)  __Purposes of Assistance__  __.—__ 
 
 >     The assistance under this section shall be available for the following purposes:
 
@@ -379,11 +379,11 @@
 
 >         “(3) To assist in the development of a democratic political culture and civil society in Belarus.
 
->     “(b) __Authorization for Assistance.—__ 
+>     “(b)  __Authorization for Assistance__  __.—__ 
 
 >     To carry out the purposes of subsection (a), the President is authorized to furnish assistance and other support for the activities described in subsection (c), to be provided primarily for indigenous Belarusian groups that are committed to the support of democratic processes.
 
->     “(c) __Activities Supported.—__ 
+>     “(c)  __Activities Supported__  __.—__ 
 
 >     Activities that may be supported by assistance under subsection (b) include—
 
@@ -405,11 +405,11 @@
 
 >     “(d) __Authorization of Appropriations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         There are authorized to be appropriated to the President to carry out this section such sums as may be necessary for each of the fiscal years 2007 and 2008.
 
->         “(2) __Availability of funds.—__ 
+>         “(2)  __Availability of funds__  __.—__ 
 
 >         Amounts appropriated pursuant to the authorization of appropriations under paragraph (1) are authorized to remain available until expended.
 
@@ -419,11 +419,11 @@
 
 > “SEC. 6. __SANCTIONS AGAINST THE GOVERNMENT OF BELARUS.__ 
 
->     “(a) __Application of Sanctions.—__ 
+>     “(a)  __Application of Sanctions__  __.—__ 
 
 >     The sanctions described in subsections (c) through (f) should apply with respect to the Republic of Belarus until the President determines and certifies to the appropriate congressional committees that the Government of Belarus has made significant progress in meeting the conditions described in subsection (b).
 
->     “(b) __Conditions.—__ 
+>     “(b)  __Conditions__  __.—__ 
 
 >     The conditions referred to in subsection (a) are the following:
 
@@ -441,7 +441,7 @@
 
 >         “(7) The holding of free, fair and transparent presidential and parliamentary elections in Belarus consistent with OSCE standards and under the supervision of OSCE observers and independent domestic observers.
 
->     “(c) __Denial of Entry Into the United States of Senior Leadership of the Government of Belarus.—__ 
+>     “(c)  __Denial of Entry Into the United States of Senior Leadership of the Government of Belarus__  __.—__ 
 
 >     Notwithstanding any other provision of law, the President may exercise the authority under section 212(f) of the Immigration and Nationality Act ([8 U.S.C. 1182(f)][/us/usc/t8/s1182/f]) to deny the entry into the United States of any alien who—
 
@@ -457,21 +457,21 @@
 
 >     “(d) __Prohibition on Loans and Investment.—__ 
 
->         “(1) __United states government financing.—__ 
+>         “(1)  __United states government financing__  __.—__ 
 
 >         It is the sense of Congress that no loan, credit guarantee, insurance, financing, or other similar financial assistance should be extended by any agency of the Government of the United States (including the Export-Import Bank of the United States and the Overseas Private Investment Corporation) to the Government of Belarus, except with respect to the provision of humanitarian goods and agricultural or medical products.
 
->         “(2) __Trade and development agency.—__ 
+>         “(2)  __Trade and development agency__  __.—__ 
 
 >         It is the sense of Congress that no funds available to the Trade and Development Agency should be available for activities of the Agency in or for Belarus.
 
->     “(e) __Multilateral Financial Assistance.—__ 
+>     “(e)  __Multilateral Financial Assistance__  __.—__ 
 
 >     The Secretary of the Treasury should instruct the United States Executive Director at each international financial institution of which the United States is a member to use the voice and vote of the United States to oppose any extension by those institutions of any financial assistance (including any technical assistance or grant) of any kind to the Government of Belarus, except for loans and assistance that serve humanitarian needs.
 
 >     “(f) __Blocking of Assets and Other Prohibited Activities.—__ 
 
->         “(1) __Blocking of assets.—__ 
+>         “(1)  __Blocking of assets__  __.—__ 
 
 >         It is the sense of Congress that the President should block all property and interests in property, including all commercial, industrial, or public utility undertakings or entities, that, on or after the date of the enactment of the Belarus Democracy Reauthorization Act of 2006 \[Jan. 12, 2007\]—
 
@@ -479,7 +479,7 @@
 
 >             “(B) are in the United States, or in the possession or control of the Government of the United States or of any United States financial institution, including any branch or office of such financial institution that is located outside the United States.
 
->         “(2) __Prohibited activities.—__ 
+>         “(2)  __Prohibited activities__  __.—__ 
 
 >         Activities prohibited by reason of the blocking of property and interests in property under paragraph (1) should include—
 
@@ -495,15 +495,15 @@
 
 >             “(C) the performance by any United States person of any contract, including a contract providing a loan or other financing, in support of an industrial, commercial, or public utility operated, controlled, or owned by the Government of Belarus.
 
->         “(3) __Payment of expenses.—__ 
+>         “(3)  __Payment of expenses__  __.—__ 
 
 >         All expenses incident to the blocking and maintenance of property blocked under paragraph (1) should be charged to the owners or operators of such property. Such expenses may not be paid from blocked funds.
 
->         “(4) __Rule of construction.—__ 
+>         “(4)  __Rule of construction__  __.—__ 
 
 >         Nothing in this subsection shall be construed to prohibit any contract or other financial transaction with any private or nongovernmental organization or business in Belarus.
 
->         “(5) __Exceptions.—__ 
+>         “(5)  __Exceptions__  __.—__ 
 
 >         Paragraphs (1) and (2) do not apply to—
 
@@ -511,19 +511,19 @@
 
 >             “(B) medicine, medical equipment or supplies, food, as well as any other form of humanitarian assistance provided to Belarus as relief in response to a humanitarian crisis.
 
->         “(6) __Penalties.—__ 
+>         “(6)  __Penalties__  __.—__ 
 
 >         Any person who violates any prohibition or restriction imposed under this subsection should be subject to the penalties under section 6 \[206\] of the International Emergency Economic Powers Act ([50 U.S.C. 1705][/us/usc/t50/s1705]) to the same extent as for a violation under that Act \[[50 U.S.C. 1701][/us/usc/t50/s1701] et seq.\].
 
->         “(7) __Definitions.—__ 
+>         “(7)  __Definitions__  __.—__ 
 
 >         In this subsection:
 
->             “(A) __Air carrier.—__ 
+>             “(A)  __Air carrier__  __.—__ 
 
 >             The term ‘air carrier’ has the meaning given that term in [section 40102 of title 49][/us/usc/t49/s40102], United States Code.
 
->             “(B) __United states person.—__ 
+>             “(B)  __United states person__  __.—__ 
 
 >             The term ‘United States person’ means—
 
@@ -539,7 +539,7 @@
 
 > “SEC. 8. __REPORT.__ 
 
->     “(a) __Report.—__ 
+>     “(a)  __Report__  __.—__ 
 
 >     Not later than 90 days after the date of the enactment of the Belarus Democracy and Human Rights Act of 2011 \[[Pub. L. 112–82][/us/pl/112/82], approved Jan. 3, 2012\], and not later than 1 year thereafter, the President shall transmit to the appropriate congressional committees a report that describes, with respect to the preceding 12-month period, and to the extent practicable the following:
 
@@ -553,7 +553,7 @@
 
 >         “(5) The cooperation of the Government of Belarus with any foreign government or organization for purposes related to the censorship or surveillance of the Internet, or the purchase or receipt by the Government of Belarus of any technology or training from any foreign government or organization for purposes related to the censorship or surveillance of the Internet.
 
->     “(b) __Form.—__ 
+>     “(b)  __Form__  __.—__ 
 
 >     A report transmitted pursuant to subsection (a) shall be in unclassified form but may contain a classified annex.
 
@@ -561,7 +561,7 @@
 
 > “In this Act:
 
->     “(1) __Appropriate congressional committees.—__ 
+>     “(1)  __Appropriate congressional committees__  __.—__ 
 
 >     The term ‘appropriate congressional committees’ means the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
 
@@ -569,7 +569,7 @@
 
 >     The term ‘OSCE’ means the Organization for Security and Cooperation in Europe.
 
->     “(3) __Senior leadership of the government of belarus.—__ 
+>     “(3)  __Senior leadership of the government of belarus__  __.—__ 
 
 >     The term ‘senior leadership of the Government of Belarus’ includes—
 

@@ -99,7 +99,7 @@
 
  __Delegation of Functions__ 
 
-    For delegation of functions of the President under this section and [section 7069 of div. I of Pub. L. 112–74][/us/pl/112/74/s7069], see Similar Provisions note below, with certain conditions and exceptions, see section 1(e) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16129, set out as a note under [section 2751 of this title][/us/usc/t22/s2751]. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under [section 2751 of this title][/us/usc/t22/s2751] and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
+    For delegation of functions of the President under this section and [section 7069 of div. I of Pub. L. 112–74][/us/pl/112/74/s7069] (see Similar Provisions note below), with certain conditions and exceptions, see section 1(e) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16129, set out as a note under [section 2751 of this title][/us/usc/t22/s2751]. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under [section 2751 of this title][/us/usc/t22/s2751] and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 
  __Similar Provisions__ 
 

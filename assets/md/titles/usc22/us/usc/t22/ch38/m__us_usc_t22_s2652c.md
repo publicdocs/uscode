@@ -99,27 +99,27 @@
 
 > “In this title \[see Short Title of 1999 Amendment note set out under [section 2551 of this title][/us/usc/t22/s2551]\]:
 
->     “(1) __Appropriate committees of congress.—__ 
+>     “(1)  __Appropriate committees of congress__  __.—__ 
 
 >     The term ‘appropriate committees of Congress’ means the Committee on International Relations \[now Committee on Foreign Affairs\] and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on Foreign Relations and the Select Committee on Intelligence of the Senate.
 
->     “(2) __Assistant secretary.—__ 
+>     “(2)  __Assistant secretary__  __.—__ 
 
 >     The term ‘Assistant Secretary’ means the position of Assistant Secretary of State for Verification and Compliance designated under section 1112 \[[22 U.S.C. 2652c][/us/usc/t22/s2652c]\].
 
->     “(3) __Executive agency.—__ 
+>     “(3)  __Executive agency__  __.—__ 
 
 >     The term ‘Executive agency’ has the meaning given the term in [section 105 of title 5][/us/usc/t5/s105], United States Code.
 
->     “(4) __Intelligence community.—__ 
+>     “(4)  __Intelligence community__  __.—__ 
 
 >     The term ‘intelligence community’ has the meaning given the term in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 401a(4)][/us/usc/t50/s401a/4]) \[now [50 U.S.C. 3003(4)][/us/usc/t50/s3003/4]\].
 
->     “(5) __START treaty or treaty.—__ 
+>     “(5) __START__  __treaty or treaty__  __.—__ 
 
 >     The term ‘START Treaty’ or ‘Treaty’ means the Treaty With the Union of Soviet Socialist Republics on the Reduction and Limitation of Strategic Offensive Arms, including all agreed statements, annexes, protocols, and memoranda, signed at Moscow on July 31, 1991.
 
->     “(6) __START ii treaty.—__ 
+>     “(6) __START__  __ii treaty__  __.—__ 
 
 >     The term ‘START II Treaty’ means the Treaty Between the United States of America and the Russian Federation on Further Reduction and Limitation of Strategic Offensive Arms, and related protocols and memorandum of understanding, signed at Moscow on January 3, 1993.”
 

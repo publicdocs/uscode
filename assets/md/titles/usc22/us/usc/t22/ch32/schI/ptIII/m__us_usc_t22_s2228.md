@@ -123,7 +123,7 @@
 
 [Pub. L. 110–53, title XX, § 2011][/us/pl/110/53/s2011], Aug. 3, 2007, [121 Stat. 509][/us/stat/121/509], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress makes the following findings:
 
@@ -133,7 +133,7 @@
 
 >         “(3) While Congress endorsed such a program in the Intelligence Reform and Terrorism Prevention Act of 2004 ([Public Law 108–458][/us/pl/108/458] \[see Tables for classification\]), such a program has not been established.
 
->     “(b) __Policy.—__ 
+>     “(b)  __Policy__  __.—__ 
 
 >     It is the policy of the United States—
 

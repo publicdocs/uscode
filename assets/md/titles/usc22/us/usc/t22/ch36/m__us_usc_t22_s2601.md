@@ -95,15 +95,15 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. A, title II, § 251\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–431, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     None of the funds made available by this Act \[see Short Title of 1999 Amendment note set out under [section 2651 of this title][/us/usc/t22/s2651]\] or by section 2(c) of the Migration and Refugee Assistance Act of 1962 ([22 U.S.C. 2601(c)][/us/usc/t22/s2601/c]) shall be available to effect the involuntary return by the United States of any person to a country in which the person has a well-founded fear of persecution on account of race, religion, nationality, membership in a particular social group, or political opinion, except on grounds recognized as precluding protection as a refugee under the United Nations Convention Relating to the Status of Refugees of July 28, 1951, and the Protocol Relating to the Status of Refugees of January 31, 1967, subject to the reservations contained in the United States Senate Resolution of Ratification.
 
->     “(b) __Migration and Refugee Assistance.—__ 
+>     “(b)  __Migration and Refugee Assistance__  __.—__ 
 
 >     None of the funds made available by this Act or by section 2(c) of the Migration and Refugee Assistance Act of 1962 ([22 U.S.C. 2601(c)][/us/usc/t22/s2601/c]) shall be available to effect the involuntary return of any person to any country unless the Secretary of State first notifies the appropriate congressional committees \[Committee on Foreign Affairs of the House of Representatives and Committee on Foreign Relations of the Senate\], except that in the case of an emergency involving a threat to human life the Secretary of State shall notify the appropriate congressional committees as soon as practicable.
 
->     “(c) __Involuntary Return Defined.—__ 
+>     “(c)  __Involuntary Return Defined__  __.—__ 
 
 >     As used in this section, the term ‘to effect the involuntary return’ means to require, by means of physical force or circumstances amounting to a threat thereof, a person to return to a country against the person’s will, regardless of whether the person is physically present in the United States and regardless of whether the United States acts directly or through an agent.”
 
@@ -115,7 +115,7 @@
 
 [Pub. L. 103–236, title V, § 501][/us/pl/103/236/s501], Apr. 30, 1994, [108 Stat. 460][/us/stat/108/460], provided that:
 
->     “(a) __Standards for Refugee Women and Children.—__ 
+>     “(a)  __Standards for Refugee Women and Children__  __.—__ 
 
 >     The United States Government, in providing for overseas assistance and protection of refugees and displaced persons, shall seek to address the protection and provision of basic needs of refugee women and children who represent 80 percent of the world’s refugee population. As called for in the 1991 United Nations High Commissioner for Refugees (UNHCR) ‘Guidelines on the Protection of Refugee Women’, whether directly, or through international organizations and nongovernmental voluntary organizations, the Secretary of State shall seek to ensure—
 
@@ -141,11 +141,11 @@
 
 >         “(11) gender-awareness training for program staff of the United Nations High Commissioner for Refugees (UNHCR) and nongovernmental voluntary organizations on implementation of the 1991 UNHCR ‘Guidelines on the Protection of Refugee Women’.
 
->     “(b) __Procedures.—__ 
+>     “(b)  __Procedures__  __.—__ 
 
 >     The Secretary of State should adopt specific procedures to ensure that all recipients of United States Government refugee and migration assistance funds implement the standards outlined in subsection (a).
 
->     “(c) __Requirements for Refugee and Migration Assistance.—__ 
+>     “(c)  __Requirements for Refugee and Migration Assistance__  __.—__ 
 
 >     The Secretary of State, in providing migration and refugee assistance, should support the protection efforts set forth under this section by raising at the highest levels of government the issue of abuses against refugee women and children by governments or insurgent groups that engage in, permit, or condone—
 
@@ -157,11 +157,11 @@
 
 >         “(4) continuing violations of the integrity of the person against refugee women and children on the part of armed insurgents, local security forces, or camp guards.
 
->     “(d) __Investigation of Reports.—__ 
+>     “(d)  __Investigation of Reports__  __.—__ 
 
 >     Upon receipt of credible reports of abuses under subsection (c), the Secretary of State should immediately investigate such reports through emergency fact-finding missions or other means of investigating such reports and help identify appropriate remedial measures.
 
->     “(e) __Multilateral Implementation of the 1991 UNHCR ‘Guidelines on the Protection of Refugee Women’.—__ 
+>     “(e)  __Multilateral Implementation of the__  __1991__  __UNHCR ‘Guidelines on the Protection of Refugee Women’__  __.—__ 
 
 >     The Secretary of State should work to ensure that multilateral organizations fully incorporate the needs of refugee women and children into all elements of refugee assistance programs and work to encourage other governments that provide refugee assistance to adopt refugee assistance policies designed to encourage full implementation of the 1991 UNHCR’s ‘Guidelines on the Protection of Refugee Women’.”
 

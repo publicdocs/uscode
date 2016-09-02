@@ -109,7 +109,7 @@
 
 [Pub. L. 110–457, title II, § 225][/us/pl/110/457/s225], Dec. 23, 2008, [122 Stat. 5072][/us/stat/122/5072], as amended by [Pub. L. 113–4, title XII, § 1243][/us/pl/113/4/s1243], Mar. 7, 2013, [127 Stat. 154][/us/stat/127/154], provided that:
 
->     “(a) __Relationship Among Federal and State Law.—__ 
+>     “(a)  __Relationship Among Federal and State Law__  __.—__ 
 
 >     Nothing in this Act \[see Short Title of 2008 Amendment note above\], the Trafficking Victims Protection Act of 2000 \[see Short Title note above\], the Trafficking Victims Protection Reauthorization Act of 2003 \[see Short Title of 2003 Amendment note above\], the Trafficking Victims Protection Reauthorization Act of 2005 \[see Short Title of 2006 Amendment note above\], chapters 77 and 117 of title 18, United States Code, or any model law issued by the Department of Justice to carry out the purposes of any of the aforementioned statutes—
 
@@ -117,7 +117,7 @@
 
 >         “(2) shall preempt, supplant, or limit the effect of any State or Federal criminal law.
 
->     “(b) __Model State Criminal Provisions.—__ 
+>     “(b)  __Model State Criminal Provisions__  __.—__ 
 
 >     In addition to any model State antitrafficking statutes in effect on the date of the enactment of this Act \[Dec. 23, 2008\], the Attorney General shall facilitate the promulgation of a model State statute that—
 
@@ -137,7 +137,7 @@
 
 >         “(3) is based in part on the provisions of the Act of August 15, 1935 ([49 Stat. 651][/us/stat/49/651]; D.C. Code 22–2701 et seq.) (relating to prostitution and pandering).
 
->     “(c) __Distribution.—__ 
+>     “(c)  __Distribution__  __.—__ 
 
 >     The model statute described in subsection (b) and the text of chapter 27 of the Criminal Code of the District of Columbia (D.C. Code 22–2701 et seq.) shall be—
 

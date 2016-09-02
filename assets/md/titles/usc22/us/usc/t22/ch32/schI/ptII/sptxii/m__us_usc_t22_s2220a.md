@@ -163,7 +163,7 @@
 
 [Pub. L. 110–246, title III, § 3202][/us/pl/110/246/s3202], June 18, 2008, [122 Stat. 1836][/us/stat/122/1836], provided that:
 
->     “(a) __Contribution.—__ 
+>     “(a)  __Contribution__  __.—__ 
 
 >     The Administrator of the United States Agency for International Development shall contribute funds to endow the Global Crop Diversity Trust (referred to in this section as the ‘Trust’) to assist in the conservation of genetic diversity in food crops through the collection and storage of the germplasm of food crops in a manner that provides for—
 
@@ -179,11 +179,11 @@
 
 >         “(6) oversight designed to ensure international coordination of those actions and efficient, public accessibility to that diversity through a cost-effective system.
 
->     “(b) __United States Contribution Limit.—__ 
+>     “(b)  __United States Contribution Limit__  __.—__ 
 
 >     The aggregate contributions of funds of the Federal Government provided to the Trust shall not exceed 25 percent of the total amount of funds contributed to the Trust from all sources.
 
->     “(c) __Authorization of Appropriations.—__ 
+>     “(c)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to carry out this section $60,000,000 for the period of fiscal years 2008 through 2012.”
 

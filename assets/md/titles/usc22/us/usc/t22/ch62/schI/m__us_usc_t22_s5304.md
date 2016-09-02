@@ -43,7 +43,7 @@
 
 [Pub. L. 100–418, title I, § 1124][/us/pl/100/418/s1124], Aug. 23, 1988, [102 Stat. 1146][/us/stat/102/1146], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 
@@ -51,7 +51,7 @@
 
 >         “(2) misalignments in currency caused by government policies intended to maintain an unfair trade advantage tend to nullify and impair trade concessions.
 
->     “(b) __Negotiations.—__ 
+>     “(b)  __Negotiations__  __.—__ 
 
 >     Whenever, in the course of negotiating a trade agreement under this subtitle \[subtitle A (§§ 1101 to 1125) of title I of [Pub. L. 100–418][/us/pl/100/418], see Tables for classification\], the President is advised by the Secretary of the Treasury that a foreign country that is a party to the negotiations satisfies the criteria for initiating bilateral currency negotiations listed in section 3004(b) of this Act \[[22 U.S.C. 5304(b)][/us/usc/t22/s5304/b]\], the Secretary of the Treasury shall take action to initiate bilateral currency negotiations on an expedited basis with such foreign country.”
 

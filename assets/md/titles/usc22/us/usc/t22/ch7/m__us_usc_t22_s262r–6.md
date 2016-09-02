@@ -55,27 +55,27 @@
 
 > “In this title \[enacting this section and section 286oo of this title and amending sections 262r–4, 286nn, and 2169 of this title\]:
 
->     “(1) __Appropriate congressional committees.—__ 
+>     “(1)  __Appropriate congressional committees__  __.—__ 
 
 >     The term ‘appropriate congressional committees’ means the Committee on Foreign Relations and the Committee on Appropriations of the Senate, and the Committee on Banking and Financial Services \[now Committee on Financial Services\] and the Committee on Appropriations of the House of Representatives.
 
->     “(2) __Bank.—__ 
+>     “(2)  __Bank__  __.—__ 
 
 >     The term ‘Bank’ means the International Bank for Reconstruction and Development.
 
->     “(3) __Fund.—__ 
+>     “(3)  __Fund__  __.—__ 
 
 >     The term ‘Fund’ means the International Monetary Fund.
 
->     “(4) __International financial institutions.—__ 
+>     “(4)  __International financial institutions__  __.—__ 
 
 >     The term ‘international financial institutions’ means the multilateral development banks and the International Monetary Fund.
 
->     “(5) __Multilateral development banks.—__ 
+>     “(5)  __Multilateral development banks__  __.—__ 
 
 >     The term ‘multilateral development banks’ means the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the Asian Development Bank, the Inter-American Investment Corporation, the African Development Bank, the African Development Fund, the European Bank for Reconstruction and Development, and the Multilateral Investment Guaranty Agency.
 
->     “(6) __Secretary.—__ 
+>     “(6)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of the Treasury.”
 

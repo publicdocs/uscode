@@ -39,11 +39,11 @@
 
 [Pub. L. 104–127, title II, § 283][/us/pl/104/127/s283], Apr. 4, 1996, [110 Stat. 980][/us/stat/110/980], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The President shall ensure that the Government of the United States participates as a full member of the International Cotton Advisory Committee.
 
->     “(b) __Representation by the Secretary.—__ 
+>     “(b)  __Representation by the Secretary__  __.—__ 
 
 >     The Secretary of Agriculture shall represent the Government of the United States as a member of the International Cotton Advisory Committee and shall delegate the primary responsibility to represent the Government of the United States to appropriately qualified individuals.”
 

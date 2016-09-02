@@ -49,11 +49,11 @@
 
 [Pub. L. 107–228, div. A, title V, § 504][/us/pl/107/228/s504], Sept. 30, 2002, [116 Stat. 1393][/us/stat/116/1393], as amended by [Pub. L. 109–140, § 6][/us/pl/109/140/s6], Dec. 22, 2005, [119 Stat. 2652][/us/stat/119/2652]; [Pub. L. 109–472, § 9][/us/pl/109/472/s9], Jan. 11, 2007, [120 Stat. 3556][/us/stat/120/3556]; [Pub. L. 110–161, div. J, title VI, § 634(r)][/us/pl/110/161/s634/r], Dec. 26, 2007, [121 Stat. 2330][/us/stat/121/2330]; [Pub. L. 110–321, § 5][/us/pl/110/321/s5], Sept. 19, 2008, [122 Stat. 3536][/us/stat/122/3536], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Director of the International Broadcasting Bureau (in this section referred to as the ‘Director’) may establish a pilot program (in this section referred to as the ‘program’) for the purpose of hiring United States citizens or aliens as personal services contractors, without regard to Civil Service and classification laws, for service in the United States as broadcasters and other broadcasting specialists in the International Broadcasting Bureau to respond to new or emerging broadcast needs or to augment broadcast services.
 
->     “(b) __Conditions.—__ 
+>     “(b)  __Conditions__  __.—__ 
 
 >     The Director is authorized to use the authority of subsection (a) subject to the following conditions:
 
@@ -65,7 +65,7 @@
 
 >         “(4) Not more than a total of 60 United States citizens or aliens are employed at any one time as personal services contractors under the program.
 
->     “(c) __Termination of Authority.—__ 
+>     “(c)  __Termination of Authority__  __.—__ 
 
 >     The authority to award personal services contracts under the pilot program authorized by this section shall terminate on December 31, 2009. A contract entered into prior to the termination date under this subsection may remain in effect for a period not to exceed 6 months after such termination date.”
 

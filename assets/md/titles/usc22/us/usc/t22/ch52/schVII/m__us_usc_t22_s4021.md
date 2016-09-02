@@ -125,7 +125,7 @@
 
 [Pub. L. 103–236, title I, § 192][/us/pl/103/236/s192], Apr. 30, 1994, [108 Stat. 419][/us/stat/108/419], provided that:
 
->     “(a) __Policy.—__ 
+>     “(a)  __Policy__  __.—__ 
 
 >     It is the sense of the Congress that—
 
@@ -155,15 +155,15 @@
 
 [Pub. L. 99–93, title I, § 123][/us/pl/99/93/s123], Aug. 16, 1985, [99 Stat. 413][/us/stat/99/413], as amended by [Pub. L. 100–204, title I, § 135][/us/pl/100/204/s135], Dec. 22, 1987, [101 Stat. 1345][/us/stat/101/1345]; [Pub. L. 102–138, title I, § 124][/us/pl/102/138/s124], Oct. 28, 1991, [105 Stat. 659][/us/stat/105/659]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXII, § 2219(a)(3), Oct. 21, 1998, [112 Stat. 2681–817][/us/stat/112/2681-817], provided that:
 
->     “(a) __Purpose.—__ 
+>     “(a)  __Purpose__  __.—__ 
 
 >     The purpose of this section is to promote comprehensive training to meet the foreign relations and national security objectives of the United States and to provide facilities designed for that purpose to assure cost efficient training.
 
->     “(b) __Construction of Training Facilities.—__ 
+>     “(b)  __Construction of Training Facilities__  __.—__ 
 
 >     The Administrator of General Services may construct a consolidated training facility for the Foreign Service Institute on a site made available by the Secretary of State or acquired by the Administrator of General Services. Such site shall be located outside the District of Columbia but within reasonable proximity to the Department of State. The Administrator of General Services may carry out this subsection only to the extent that funds are provided in advance in appropriation Acts to the Department of State and are transferred to the Administrator of General Services for carrying out this section.
 
->     “(c) __Use of Funds.—__ 
+>     “(c)  __Use of Funds__  __.—__ 
 
 >         (1)
 
@@ -183,17 +183,17 @@
 
 >             If both Houses of Congress are not in session on the day any plans and estimates are submitted to such committees, such submittal shall be deemed to have been submitted on the first succeeding day on which both Houses are in session. If all such committees do not receive a submittal on the same day, such period shall not begin until the date on which all such committees have received it.
 
->     “(d) __Jurisdiction and Custody.—__ 
+>     “(d)  __Jurisdiction and Custody__  __.—__ 
 
 >     The facility constructed under this section and the site of such facility shall be under jurisdiction and in the custody of the Administrator of General Services.
 
->     “(e) __Operation, Maintenance, Security, Alteration, and Repair.—__ 
+>     “(e)  __Operation, Maintenance, Security, Alteration, and Repair__  __.—__ 
 
 >         (1) The Administrator of General Services shall delegate, in accordance with section 205 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 486][/us/usc/t40/s486]) \[see [40 U.S.C. 121][/us/usc/t40/s121] and Historical and Revision notes thereunder\] and section 15 of the Public Buildings Act of 1959 ([40 U.S.C. 614][/us/usc/t40/s614]) \[now [40 U.S.C. 3314][/us/usc/t40/s3314]\], to the Secretary of State responsibility for the operation, maintenance, and security of and alterations and repairs to the facility constructed pursuant to this section, provided the facility is used by the Secretary for the purposes authorized by this section.
 
 >         “\[(2) Repealed. [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. B, title XXII, § 2219(a)(3), Oct. 21, 1998, [112 Stat. 2681–817][/us/stat/112/2681-817].\]
 
->     “(f) __Exemption From Payment of Charges.—__ 
+>     “(f)  __Exemption From Payment of Charges__  __.—__ 
 
 >         (1) Except as provided in paragraph (2), the Department of State shall be exempt from the charges required by section 210(j) of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 490(j)][/us/usc/t40/s490/j]) \[now [40 U.S.C. 586(a)][/us/usc/t40/s586/a], (b)\] for the use of the facility constructed under this section for the Foreign Service Institute.
 

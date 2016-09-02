@@ -153,11 +153,11 @@
 
 [Pub. L. 102–549, title II, § 202(a)][/us/pl/102/549/s202/a], (e), Oct. 28, 1992, [106 Stat. 3657][/us/stat/106/3657], 3658, provided that:
 
->     “(a) __Renaming of Trade and Development Program.—__ 
+>     “(a)  __Renaming of Trade and Development Program__  __.—__ 
 
 >     The Trade and Development Program shall, on or after the effective date of this section \[Oct. 28, 1992\], be known as the Trade and Development Agency.
 
->     “(e) __Reference in Other Laws.—__ 
+>     “(e)  __Reference in Other Laws__  __.—__ 
 
 >     Any reference in any law to the Trade and Development Program shall be deemed to be a reference to the Trade and Development Agency.”
 

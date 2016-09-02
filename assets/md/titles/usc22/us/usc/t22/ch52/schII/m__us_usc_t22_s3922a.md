@@ -55,15 +55,15 @@
 
 [Pub. L. 103–236, title I, § 178][/us/pl/103/236/s178], Apr. 30, 1994, [108 Stat. 414][/us/stat/108/414], provided that:
 
->     “(a) __Purpose.—__ 
+>     “(a)  __Purpose__  __.—__ 
 
 >     It is the purpose of this section to promote the acquisition and retention of highly qualified, trained, and experienced women and minority personnel within the Foreign Service, to provide the maximum opportunity for the Foreign Service to meet staffing needs and to acquire the services of experienced and talented women and minority personnel, and to help alleviate the impact of downsizing, reduction-in-force, and budget restrictions occurring in the defense and national security-related agencies of the United States.
 
->     “(b) __Establishment.—__ 
+>     “(b)  __Establishment__  __.—__ 
 
 >     For each of the fiscal years 1994 and 1995, the Secretary of State shall to the maximum extent practicable appoint to the Foreign Service qualified women and minority applicants who are participants in the priority placement program of the Department of Defense, the Department of Defense out-placement referral program, the Office of Personnel Management Automated Applicant Referral System, or the Office of Personnel Management Interagency Placement Program. The Secretary shall make such appointments through the mid-level entry program of the Department of State under section 306 of the Foreign Service Act of 1980 \[[22 U.S.C. 3946][/us/usc/t22/s3946]\].
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than 180 days after the date of enactment of this Act \[Apr. 30, 1994\], the Secretary of State shall prepare and submit a report concerning the implementation of subsection (a) to the Chairman of the Committee on Foreign Relations of the Senate and the Speaker of the House of Representatives. Such report shall include recommendations on methods to improve implementation of the purpose of this section.”
 
@@ -71,7 +71,7 @@
 
 [Pub. L. 100–204, title I, § 183][/us/pl/100/204/s183], Dec. 22, 1987, [101 Stat. 1364][/us/stat/101/1364], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that the Department of State and other Foreign Service agencies have not been successful in their efforts—
 
@@ -79,7 +79,7 @@
 
 >         “(2) to provide adequate career advancement for women and members of minority groups in order to increase significantly the numbers of women and members of minority groups in the senior levels of the Foreign Service.
 
->     “(b) __A More Representative Foreign Service.—__ 
+>     “(b)  __A More Representative Foreign Service__  __.—__ 
 
 >     The Secretary of State and the head of each of the other agencies utilizing the Foreign Service personnel system—
 
@@ -87,7 +87,7 @@
 
 >         “(2) shall ensure that those plans effectively address the need to promote increased numbers of qualified women and members of minority groups into the senior levels of the Foreign Service.
 
->     “(c) __Department of State Hiring Practices of Minorities and Women.—__ 
+>     “(c)  __Department of State Hiring Practices of Minorities and Women__  __.—__ 
 
 >     The Secretary of State shall include annually as part of the report required to be submitted pursuant to section 105(d)(2) of the Foreign Service Act of 1980 \[former [22 U.S.C. 3905(d)(2)][/us/usc/t22/s3905/d/2]\]—
 

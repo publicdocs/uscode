@@ -83,23 +83,23 @@
 
 > “In this subtitle:
 
->     “(1) __Joint project.—__ 
+>     “(1)  __Joint project__  __.—__ 
 
 >     The term ‘joint project’ means a project between a United States association or nonprofit entity and a Latin American or Caribbean association or nongovernmental organization.
 
->     “(2) __Latin american or caribbean nongovernmental organization.—__ 
+>     “(2)  __Latin american or caribbean nongovernmental organization__  __.—__ 
 
 >     The term ‘Latin American or Caribbean nongovernmental organization’ includes any institution of higher education, any private nonprofit entity involved in international education activities, or any research institute or other research organization, based in the region.
 
->     “(3) __Region.—__ 
+>     “(3)  __Region__  __.—__ 
 
 >     The term ‘region’ refers to the region comprised of the member countries of the Organization of American States (other than the United States and Canada).
 
->     “(4) __United states association.—__ 
+>     “(4)  __United states association__  __.—__ 
 
 >     The term ‘United States association’ means a business league described in section 501(c)(6) of the Internal Revenue Code of 1986 ([26 U.S.C. 501(c)(6)][/us/usc/t26/s501/c/6]), and exempt from taxation under section 501(a) of such Code ([26 U.S.C. 501(a)][/us/usc/t26/s501/a]).
 
->     “(5) __United states nonprofit entity.—__ 
+>     “(5)  __United states nonprofit entity__  __.—__ 
 
 >     The term ‘United States nonprofit entity’ includes any institution of higher education (as defined in section 101(a) of the Higher Education Act of 1965 ([20 U.S.C. 1001(a)][/us/usc/t20/s1001/a]), any private nonprofit entity involved in international education activities, or any research institute or other research organization, based in the United States.
 
@@ -121,15 +121,15 @@
 
 > “SEC. 645. __ESTABLISHMENT OF TECHNOLOGY AMERICA CENTERS.__ 
 
->     “(a) __Authority To Establish.—__ 
+>     “(a)  __Authority To Establish__  __.—__ 
 
 >     The President, acting through the Director General of the United States and Foreign Commercial Service of the Department of Commerce, is authorized to establish Technology America Centers (TEAMs) in the region to serve the entire region and, where appropriate, to establish TEAMs in urban areas of the region to focus on urban environmental problems.
 
->     “(b) __Functions.—__ 
+>     “(b)  __Functions__  __.—__ 
 
 >     The TEAMs would link United States private sector environmental technology firms with local partners, both public and private, by providing logistic and information support to United States firms seeking to find local partners and opportunities for environmental projects. TEAMs should emphasize assisting United States small businesses.
 
->     “(c) __Location.—__ 
+>     “(c)  __Location__  __.—__ 
 
 >     In determining whether to locate a TEAM in a country, the President, acting through the Director General of the United States and Foreign Commercial Service of the Department of Commerce, shall take into account the country’s need for logistic and informational support and the opportunities presented for United States firms in the country. A TEAM may be located in a country without regard to whether a mission of the United States Agency for International Development is established in that country.
 
@@ -141,55 +141,55 @@
 
 >     “(a) __Grant Authority.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to the availability of appropriations, the Director of the Trade and Development Agency is authorized to make grants for prefeasibility studies for water projects in any country within a single subregion or in a single country designated under paragraph (2).
 
->         “(2) __Designation of subregion.—__ 
+>         “(2)  __Designation of subregion__  __.—__ 
 
 >         The Director of the Trade and Development Agency shall designate in advance a single subregion or a single country for purposes of paragraph (1).
 
->     “(b) __Matching Requirement.—__ 
+>     “(b)  __Matching Requirement__  __.—__ 
 
 >     The Director of the Trade and Development Agency may not make any grant under this section unless there are made available non-Federal contributions in an amount equal to not less than 25 percent of the amount of Federal funds provided under the grant.
 
->     “(c) __Limitation Per Single Project.—__ 
+>     “(c)  __Limitation Per Single Project__  __.—__ 
 
 >     With respect to any single project, grant funds under this section shall be available only for the prefeasibility portion of that project.
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Prefeasibility.—__ 
+>         “(1)  __Prefeasibility__  __.—__ 
 
 >         The term ‘prefeasibility’ means, with respect to a project, not more than 25 percent of the design phase of the project.
 
->         “(2) __Subregion.—__ 
+>         “(2)  __Subregion__  __.—__ 
 
 >         The term ‘subregion’ means an area within the region and includes areas such as Central America, the Andean region, and the Southern cone.
 
 > “SEC. 648. __CLEAN WATER TECHNICAL SUPPORT COMMITTEE.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The President is authorized to establish a Clean Water Technical Support Committee (in this section referred to as the ‘Committee’) to provide technical support and training services for individual water projects.
 
->     “(b) __Composition.—__ 
+>     “(b)  __Composition__  __.—__ 
 
 >     The Committee shall consist of international investors, lenders, water service providers, suppliers, advisers, and others with a direct interest in accelerating development of water projects in the region.
 
->     “(c) __Functions.—__ 
+>     “(c)  __Functions__  __.—__ 
 
 >     Members of the Committee shall act as field advisers and may form specialized working groups to provide in-country training and technical assistance, and shall serve as a source of technical support to resolve barriers to project development.
 
 > “SEC. 649. __AUTHORIZATION OF APPROPRIATIONS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     There are authorized to be appropriated to the President $10,000,000 for each of the fiscal years 2003, 2004, and 2005 to carry out this subtitle.
 
->     “(b) __Availability of Funds.—__ 
+>     “(b)  __Availability of Funds__  __.—__ 
 
 >     Funds appropriated pursuant to subsection (a) are authorized to remain available until expended.
 
@@ -203,11 +203,11 @@
 
 > “SEC. 651. __TERMINATION DATE.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), the authorities of this subtitle shall terminate 3 years after the date of establishment of the program described in section 643.
 
->     “(b) __Exception.—__ 
+>     “(b)  __Exception__  __.—__ 
 
 >     In lieu of the termination date specified in subsection (a), the termination required by that subsection shall take effect five years after the date of establishment of the program described in section 643 if, prior to the termination date specified in subsection (a), the President determines and certifies to the appropriate congressional committees that it would be in the national interest of the United States to continue the program described in such section 643 for an additional 2-year period.
 

@@ -115,19 +115,19 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(5)][/us/pl/106/113/s1000/a/5] \[title V, § 504\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–317, as amended by [Pub. L. 110–161, div. H, title I, § 1502(a)][/us/pl/110/161/s1502/a], Dec. 26, 2007, [121 Stat. 2250][/us/stat/121/2250], provided that:
 
->     “(a) __Publication of IMF Operational Budgets.—__ 
+>     “(a)  __Publication of IMF Operational Budgets__  __.—__ 
 
 >     The Secretary of the Treasury shall instruct the United States Executive Director at the International Monetary Fund to use the voice, vote, and influence of the United States to urge vigorously the International Monetary Fund to publish the operational budgets of the International Monetary Fund, on a quarterly basis, not later than one year after the end of the period covered by the budget.
 
->     “(b) __Report to the Congress Showing Costs of United States Participation in the International Monetary Fund.—__ 
+>     “(b)  __Report to the Congress Showing Costs of United States Participation in the International Monetary Fund__  __.—__ 
 
 >     The Secretary of the Treasury shall prepare and transmit to the Committees on Banking and Financial Services \[now Committee on Financial Services\], on Appropriations, and on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committees on Banking, Housing, and Urban Affairs, on Foreign Relations, and on Appropriations of the Senate a quarterly report, which shall be made readily available to the public, on the costs or benefits of United States participation in the International Monetary Fund and which shall detail the costs and benefits to the United States, as well as valuation gains or losses on the United States reserve position in the International Monetary Fund.
 
->     “(c) __Continuation of Forgoing of Reimbursement of IMF for Expenses of Administering ESAF.—__ 
+>     “(c)  __Continuation of Forgoing of Reimbursement of IMF for Expenses of Administering ESAF__  __.—__ 
 
 >     The Secretary of the Treasury shall instruct the United States Executive Director at the International Monetary Fund to use the voice, vote, and influence of the United States to urge vigorously the International Monetary Fund to continue to forgo reimbursements of the expenses incurred by the International Monetary Fund in administering the Enhanced Structural Adjustment Facility, until the Heavily Indebted Poor Countries Initiative (as defined in section 1623 of the International Financial Institutions Act \[[22 U.S.C. 262p–6][/us/usc/t22/s262p–6]\]) is terminated.
 
->     “(d) __No Gold Sales by International Monetary Fund Without Prior Authorization by the Congress.—__ 
+>     “(d)  __No Gold Sales by International Monetary Fund Without Prior Authorization by the Congress__  __.—__ 
 
 >         (1) __\[Amended__  __[__  __section 286c of this title__  __][/us/usc/t22/s286c]__  __.\]__ 
 

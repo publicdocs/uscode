@@ -301,17 +301,17 @@
 
 [Pub. L. 112–239, div. A, title XII, § 1285][/us/pl/112/239/s1285], Jan. 2, 2013, [126 Stat. 2036][/us/stat/126/2036], provided that:
 
->     “(a) __Pilot Program Authorized.—__ 
+>     “(a)  __Pilot Program Authorized__  __.—__ 
 
 >     The Secretary of Defense may carry out a pilot program to repair, overhaul, or refurbish in-stock defense articles in anticipation of the sale or transfer of such defense articles to eligible foreign countries or international organizations under law.
 
->     “(b) __Fund for Support of Program Authorized.—__ 
+>     “(b)  __Fund for Support of Program Authorized__  __.—__ 
 
 >     The Secretary of Defense may establish and administer a fund to be known as the ‘Special Defense Repair Fund’ (in this section referred to as the ‘Fund’) to support the program authorized by subsection (a).
 
 >     “(c) __Credits to Fund.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to paragraphs (2) and (3), the following shall be credited to the Fund:
 
@@ -323,33 +323,33 @@
 
 >         “(2) __Limitation on amounts creditable from sale or transfer of articles.—__ 
 
->             “(A) __Credits in connection with articles not to be replaced.—__ 
+>             “(A)  __Credits in connection with articles not to be replaced__  __.—__ 
 
 >             The amount credited to the Fund under paragraph (1)(B) in connection with a collection from the sale or transfer of defense articles may not exceed the cost incurred by the Department of Defense in repairing, overhauling, or refurbishing such defense articles under the program authorized by subsection (a).
 
->             “(B) __Credits in connection with articles to be replaced.—__ 
+>             “(B)  __Credits in connection with articles to be replaced__  __.—__ 
 
 >             The amount credited to the Fund under paragraph (1)(C) in connection with a sale or transfer of defense articles may not exceed the amounts from the Fund used to repair, overhaul, or refurbish such defense articles.
 
->         “(3) __Limitation on size of fund.—__ 
+>         “(3)  __Limitation on size of fund__  __.—__ 
 
 >         The total amount in the Fund at any time may not exceed $50,000,000.
 
->         “(4) __Treatment of amounts credited.—__ 
+>         “(4)  __Treatment of amounts credited__  __.—__ 
 
 >         Amounts credited to the Fund under this subsection shall be merged with amounts in the Fund, and shall remain available until expended.
 
->         “(5) __Authorization to purchase services from dod working capital fund activities.—__ 
+>         “(5)  __Authorization to purchase services from dod working capital fund activities__  __.—__ 
 
 >         The Fund shall be considered an authorized customer of Department of Defense Working Capital Fund activities. Prices of goods and services sold by Working Capital Fund activities to the Fund shall reflect Foreign Military Sales pricing guidelines, as promulgated by the Department of Defense Financial Management Regulation, and other applicable guidelines.
 
->     “(d) __Nonavailability of Amounts in Fund for Storage, Maintenance, and Related Costs.—__ 
+>     “(d)  __Nonavailability of Amounts in Fund for Storage, Maintenance, and Related Costs__  __.—__ 
 
 >     Following the repair, overhaul, or refurbishment of defense articles under the program authorized by subsection (a), amounts in the Fund may not be used to pay costs of storage and maintenance of such defense articles or any other costs associated with the preservation or preparation for sale or transfer of such defense articles.
 
 >     “(e) __Sales or Transfers of Defense Articles.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Any sale or transfer of defense articles repaired, overhauled, or refurbished under the program authorized by subsection (a) shall be in accordance with—
 
@@ -359,35 +359,35 @@
 
 >             “(C) another provision of law authorizing such sale or transfer.
 
->         “(2) __Secretary of state concurrence required for certain sales or transfers to foreign countries.—__ 
+>         “(2)  __Secretary of state concurrence required for certain sales or transfers to foreign countries__  __.—__ 
 
 >         If the sale or transfer of defense articles occurs in accordance with a provision of law referred to in paragraph (1)(C) that does not otherwise require the concurrence of the Secretary of State for the sale or transfer, the sale or transfer may be made only with the concurrence of the Secretary of State.
 
 >     “(f) __Transfers of Amounts.—__ 
 
->         “(1) __Transfer to other department of defense accounts.—__ 
+>         “(1)  __Transfer to other department of defense accounts__  __.—__ 
 
 >         Amounts in the Fund may be transferred to any Department of Defense account for use in carrying out the program authorized by subsection (a). Any amount so transferred shall be merged with amounts in the account to which transferred, and shall be available for the same purposes and the same time period as amounts in the account to which transferred.
 
->         “(2) __Transfer from other department of defense accounts.—__ 
+>         “(2)  __Transfer from other department of defense accounts__  __.—__ 
 
 >         Upon a determination by the Secretary of Defense with respect to an amount transferred under paragraph (1) that all or part of such transfer is not necessary for the purposes transferred, such amount may be transferred back to the Fund. Any amount so transferred shall be merged with amounts in the Fund, and shall remain available until expended.
 
->     “(g) __Certain Excess Proceeds To Be Credited to Special Defense Acquisition Fund.—__ 
+>     “(g)  __Certain Excess Proceeds To Be Credited to Special Defense Acquisition Fund__  __.—__ 
 
 >     Any collection from the sale or transfer of defense articles that are not intended to be replaced in excess of the amount creditable to the Fund under subsection (c)(2)(A) shall be credited to the Special Defense Acquisition Fund established pursuant to chapter 5 of the Arms Export Control Act ([22 U.S.C. 2795][/us/usc/t22/s2795] et seq.).
 
->     “(h) __Materiel Efficiencies and Duplication.—__ 
+>     “(h)  __Materiel Efficiencies and Duplication__  __.—__ 
 
 >     In administering the program authorized by subsection (a), the Secretary of Defense shall ensure to the maximum extent possible that purchases made utilizing the Fund utilize existing Defense Logistics Agency contracts. The Secretary shall also ensure that none of the activities carried out under the program authorized by subsection (a) are duplicative in nature to those performed by other military departments or Defense Agencies.
 
->     “(i) __Conduct by Public or Private Sector Facilities or Entities.—__ 
+>     “(i)  __Conduct by Public or Private Sector Facilities or Entities__  __.—__ 
 
 >     The repair, overhaul, and refurbishment of defense articles under the program authorized by subsection (a) may be conducted by a facility or entity in the public sector or the private sector, consistent with the requirements of chapter 146 of title 10, United States Code.
 
 >     “(j) __Reports.—__ 
 
->         “(1) __Annual report.—__ 
+>         “(1)  __Annual report__  __.—__ 
 
 >         Not later than 45 days after the end of each fiscal year through the date of expiration specified in subsection (l), the Secretary of Defense shall submit to the appropriate congressional committees a report on the authorities under this section during such fiscal year. Each report shall include, for the fiscal year covered by such report, the following:
 
@@ -401,7 +401,7 @@
 
 >             “(E) The amount of any cash payments from the sale or transfer of defense articles repaired, overhauled, or refurbished under the program that was credited to the Fund under subsection (c)(1)(C).
 
->         “(2) __Assessment report.—__ 
+>         “(2)  __Assessment report__  __.—__ 
 
 >         Not later than February 1, 2015, the Secretary of Defense shall submit to the appropriate congressional committees a report on the operation of the authorities in this section. The report shall include an assessment of the effectiveness of the authorities in meeting the objectives of the program authorized by subsection (a). At a minimum, the assessment shall address the following:
 
@@ -415,7 +415,7 @@
 
 >             “(E) A list of defense articles, by quantity and type, repaired under the program and an identification of the foreign countries or international organizations to which the repaired defense articles were sold or transferred.
 
->         “(3) __Appropriate congressional committees defined.—__ 
+>         “(3)  __Appropriate congressional committees defined__  __.—__ 
 
 >         In this subsection, the term ‘appropriate congressional committees’ means—
 
@@ -423,11 +423,11 @@
 
 >             “(B) the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
 
->     “(k) __Defense Article Defined.—__ 
+>     “(k)  __Defense Article Defined__  __.—__ 
 
 >     In this section, the term ‘defense article’ has the meaning given that term in section 47(3) of the Arms Export Control Act ([22 U.S.C. 2794(3)][/us/usc/t22/s2794/3]).
 
->     “(l) __Expiration of Authority.—__ 
+>     “(l)  __Expiration of Authority__  __.—__ 
 
 >     The authority to carry out the program authorized by subsection (a), and to use amounts in the Fund in support of the program, shall expire on September 30, 2015.”
 
@@ -453,15 +453,15 @@
 
 [Pub. L. 105–277, div. A, § 101(d)][/us/pl/105/277/s101/d] \[title V, § 594\], Oct. 21, 1998, [112 Stat. 2681–150][/us/stat/112/2681-150], 2681–215, as amended by [Pub. L. 106–31, title V, § 5002(c)][/us/pl/106/31/s5002/c]–(e), May 21, 1999, [113 Stat. 109][/us/stat/113/109], provided that:
 
->     “(a) __Notification.—__ 
+>     “(a)  __Notification__  __.—__ 
 
 >     No less than 15 days prior to the export to any country identified pursuant to subparagraph (c) of any lethal defense article or service in the amount of $14,000,000 or less, the President shall provide a detailed notification to the Committees on Appropriations and Foreign Relations of the Senate and the Committees on Appropriations and International Relations \[now Committee on Foreign Affairs\] of the House of Representatives.
 
->     “(b) __Content of Notification.—__ 
+>     “(b)  __Content of Notification__  __.—__ 
 
 >     A detailed notification transmitted pursuant to subsection (a) shall include the same type and quantity of information required of a notification submitted pursuant to section 36(b) of the Arms Export Control Act ([22 U.S.C. 2776(b)][/us/usc/t22/s2776/b]).
 
->     “(c) __Countries Defined.—__ 
+>     “(c)  __Countries Defined__  __.—__ 
 
 >     This section shall apply to any country that is—
 
@@ -469,7 +469,7 @@
 
 >         “(2) currently ineligible, in whole or in part, under an annual appropriations Act to receive funds for International Military Education and Training or under the Foreign Military Financing Program, excluding high-income countries as defined pursuant to section 546(b) of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2347e(b)][/us/usc/t22/s2347e/b]\].
 
->     “(d) __Exclusions.—__ 
+>     “(d)  __Exclusions__  __.—__ 
 
 >     Information reportable under title V of the National Security Act of 1947 \[[50 U.S.C. 3091][/us/usc/t50/s3091] et seq.\] is excluded from the requirements of this section.”
 
@@ -479,7 +479,7 @@
 
 [Pub. L. 102–511, title IX, § 906][/us/pl/102/511/s906], Oct. 24, 1992, [106 Stat. 3356][/us/stat/106/3356], provided that:
 
->     “(a) __Eligibility.—__ 
+>     “(a)  __Eligibility__  __.—__ 
 
 >     Estonia, Latvia, and Lithuania shall each be eligible—
 
@@ -493,7 +493,7 @@
 
 >         “(2) to receive nonlethal excess defense articles transferred under section 519 of the Foreign Assistance Act of 1961 ([22 U.S.C. 2321m][/us/usc/t22/s2321m]), without regard to the restrictions in subsection (a) of that section.
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     As used in this section—
 

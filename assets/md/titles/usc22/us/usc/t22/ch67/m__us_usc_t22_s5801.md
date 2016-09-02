@@ -79,15 +79,15 @@
 
 > “SEC. 103. __STATUTORY PROVISIONS THAT HAVE BEEN APPLICABLE TO THE SOVIET UNION.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     There are numerous statutory provisions that were enacted in the context of United States relations with a country, the Soviet Union, that are fundamentally different from the relations that now exist between the United States and Russia, between the United States and Ukraine, and between the United States and the other independent states of the former Soviet Union.
 
->     “(b) __Extent of Such Provisions.—__ 
+>     “(b)  __Extent of Such Provisions__  __.—__ 
 
 >     Many of the provisions referred to in subsection (a) imposed limitations specifically with respect to the Soviet Union, and its constituent republics, or utilized language that reflected the tension that existed between the United States and the Soviet Union at the time of their enactment. Other such provisions did not refer specifically to the Soviet Union, but nonetheless were directed (or may be construed as having been directed) against the Soviet Union on the basis of the relations that formerly existed between the United States and the Soviet Union, particularly in its role as the leading communist country.
 
->     “(c) __Findings and Affirmation.—__ 
+>     “(c)  __Findings and Affirmation__  __.—__ 
 
 >     The Congress finds and affirms that provisions such as those described in this section, including—
 

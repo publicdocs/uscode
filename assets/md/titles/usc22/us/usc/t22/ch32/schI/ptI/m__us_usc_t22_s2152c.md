@@ -109,7 +109,7 @@
 
 [Pub. L. 106–309, title II, § 202][/us/pl/106/309/s202], Oct. 17, 2000, [114 Stat. 1090][/us/stat/114/1090], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds the following:
 
@@ -151,7 +151,7 @@
 
 >             “(F) promoting free and fair national, state, and local elections.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     The purpose of this title \[see Short Title of 2000 Amendments note set out under [section 2151 of this title][/us/usc/t22/s2151]\] is to ensure that United States assistance programs promote good governance by assisting other countries to combat corruption throughout society and to improve transparency and accountability at all levels of government and throughout the private sector.”
 
