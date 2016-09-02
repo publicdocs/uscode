@@ -15,7 +15,7 @@
 
 ## § 70302. Purpose, policy, and goals
 
-The purpose of this chapter is to set, for commercial and foreign users, the reimbursement pricing policy for the Space Transportation System that is consistent with the findings included in [section 70301 of this title][/us/usc/t51/s70301], encourages the full and effective use of space, and is designed to achieve the following goals:
+    The purpose of this chapter is to set, for commercial and foreign users, the reimbursement pricing policy for the Space Transportation System that is consistent with the findings included in [section 70301 of this title][/us/usc/t51/s70301], encourages the full and effective use of space, and is designed to achieve the following goals:
 
     (1) The preservation of the role of the United States as a leader in space research, technology, and development.
 

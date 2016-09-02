@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 50101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs50101" data-uslm-ref="/us/usc/t51/s50101">50101.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER II—PROMOTION OF COMMERCIAL SPACE OPPORTUNITIES  </td>
 
   <tr>
 
-    <td> 50111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs50111" data-uslm-ref="/us/usc/t51/s50111">50111.</a>  </td>
 
     <td> Commercialization of Space Station.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER II—PROMOTION OF COMMERCIAL SPACE OPPORTUNITIES  </td>
 
   <tr>
 
-    <td> 50112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs50112" data-uslm-ref="/us/usc/t51/s50112">50112.</a>  </td>
 
     <td> Promotion of United States Global Positioning System standards.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER II—PROMOTION OF COMMERCIAL SPACE OPPORTUNITIES  </td>
 
   <tr>
 
-    <td> 50113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs50113" data-uslm-ref="/us/usc/t51/s50113">50113.</a>  </td>
 
     <td> Acquisition of space science data.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—PROMOTION OF COMMERCIAL SPACE OPPORTUNITIES  </td>
 
   <tr>
 
-    <td> 50114.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs50114" data-uslm-ref="/us/usc/t51/s50114">50114.</a>  </td>
 
     <td> Administration of commercial space centers.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—PROMOTION OF COMMERCIAL SPACE OPPORTUNITIES  </td>
 
   <tr>
 
-    <td> 50115.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs50115" data-uslm-ref="/us/usc/t51/s50115">50115.</a>  </td>
 
     <td> Sources of Earth science data.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—PROMOTION OF COMMERCIAL SPACE OPPORTUNITIES  </td>
 
   <tr>
 
-    <td> 50116.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs50116" data-uslm-ref="/us/usc/t51/s50116">50116.</a>  </td>
 
     <td> Commercial technology transfer program.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER III—FEDERAL ACQUISITION OF SPACE TRANSPORTATION SERVICES  </td>
 
   <tr>
 
-    <td> 50131.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs50131" data-uslm-ref="/us/usc/t51/s50131">50131.</a>  </td>
 
     <td> Requirement to procure commercial space transportation services.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER III—FEDERAL ACQUISITION OF SPACE TRANSPORTATION SERVICES  </td>
 
   <tr>
 
-    <td> 50132.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs50132" data-uslm-ref="/us/usc/t51/s50132">50132.</a>  </td>
 
     <td> Acquisition of commercial space transportation services.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER III—FEDERAL ACQUISITION OF SPACE TRANSPORTATION SERVICES  </td>
 
   <tr>
 
-    <td> 50133.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs50133" data-uslm-ref="/us/usc/t51/s50133">50133.</a>  </td>
 
     <td> Shuttle privatization.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER III—FEDERAL ACQUISITION OF SPACE TRANSPORTATION SERVICES  </td>
 
   <tr>
 
-    <td> 50134.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs50134" data-uslm-ref="/us/usc/t51/s50134">50134.</a>  </td>
 
     <td> Use of excess intercontinental ballistic missiles.  </td>
 

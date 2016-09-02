@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 50501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs50501" data-uslm-ref="/us/usc/t51/s50501">50501.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 50502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs50502" data-uslm-ref="/us/usc/t51/s50502">50502.</a>  </td>
 
     <td> Launch voucher demonstration program.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 50503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs50503" data-uslm-ref="/us/usc/t51/s50503">50503.</a>  </td>
 
     <td> Anchor tenancy and termination liability.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 50504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs50504" data-uslm-ref="/us/usc/t51/s50504">50504.</a>  </td>
 
     <td> Use of Government facilities.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 50505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs50505" data-uslm-ref="/us/usc/t51/s50505">50505.</a>  </td>
 
     <td> Test facilities.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 50506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs50506" data-uslm-ref="/us/usc/t51/s50506">50506.</a>  </td>
 
     <td> Commercial Space Achievement Award.  </td>
 

@@ -15,7 +15,7 @@
 
 ## § 40702. Additional research and development initiative
 
-The Administrator shall establish an initiative involving the Administration, universities, industry, and other research organizations as appropriate, of research, development, and demonstration, in a relevant environment, of technologies to enable the following commercial aircraft performance characteristics:
+    The Administrator shall establish an initiative involving the Administration, universities, industry, and other research organizations as appropriate, of research, development, and demonstration, in a relevant environment, of technologies to enable the following commercial aircraft performance characteristics:
 
     (1) __Noise levels.—__ 
 

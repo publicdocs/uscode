@@ -15,7 +15,7 @@
 
 ## § 40904. Microgravity research
 
-The Administrator shall—
+    The Administrator shall—
 
     (1) ensure the capacity to support ground-based research leading to space-based basic and applied scientific research in a variety of disciplines with potential direct national benefits and applications that can be advanced significantly from the uniqueness of microgravity and the space environment; and
 

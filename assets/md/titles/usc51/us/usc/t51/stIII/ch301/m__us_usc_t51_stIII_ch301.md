@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 30101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs30101" data-uslm-ref="/us/usc/t51/s30101">30101.</a>  </td>
 
     <td> Prior authorization of appropriations required.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 30102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs30102" data-uslm-ref="/us/usc/t51/s30102">30102.</a>  </td>
 
     <td> Working capital fund.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 30103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs30103" data-uslm-ref="/us/usc/t51/s30103">30103.</a>  </td>
 
     <td> Budgets.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 30104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs30104" data-uslm-ref="/us/usc/t51/s30104">30104.</a>  </td>
 
     <td> Baselines and cost controls.  </td>
 

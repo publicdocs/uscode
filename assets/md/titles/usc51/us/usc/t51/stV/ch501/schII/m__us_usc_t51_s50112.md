@@ -15,7 +15,7 @@
 
 ## § 50112. Promotion of United States Global Positioning System standards
 
-In order to support and sustain the Global Positioning System in a manner that will most effectively contribute to the national security, public safety, scientific, and economic interests of the United States, Congress encourages the President to—
+    In order to support and sustain the Global Positioning System in a manner that will most effectively contribute to the national security, public safety, scientific, and economic interests of the United States, Congress encourages the President to—
 
     (1) ensure the operation of the Global Positioning System on a continuous worldwide basis free of direct user fees;
 

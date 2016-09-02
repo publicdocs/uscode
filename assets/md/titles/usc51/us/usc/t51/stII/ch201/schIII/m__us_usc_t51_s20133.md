@@ -15,7 +15,7 @@
 
 ## § 20133. Permission to carry firearms
 
-As the Administrator deems necessary in the public interest, the Administrator may—
+    As the Administrator deems necessary in the public interest, the Administrator may—
 
     (1) direct officers and employees of the Administration to carry firearms while in the conduct of their official duties; and
 

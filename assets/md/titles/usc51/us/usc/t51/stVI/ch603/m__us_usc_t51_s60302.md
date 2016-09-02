@@ -15,7 +15,7 @@
 
 ## § 60302. General responsibilities
 
-The Administrator shall—
+    The Administrator shall—
 
     (1) develop a sustained relationship with the United States commercial remote sensing industry and, consistent with applicable policies and law, to the maximum practicable, rely on their services; and
 

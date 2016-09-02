@@ -15,7 +15,7 @@
 
 ## § 40301. Purposes
 
-The purposes of this chapter are to—
+    The purposes of this chapter are to—
 
     (1) increase the understanding, assessment, development, and utilization of space resources by promoting a strong educational base, responsive research and training activities, and broad and prompt dissemination of knowledge and techniques;
 

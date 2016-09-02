@@ -119,7 +119,7 @@
 
  __Amendment Not Shown in Text__ 
 
-This section was derived from [section 2459f–1 of Title 42][/us/usc/t42/s2459f–1], The Public Health and Welfare, which was amended by [Pub. L. 111–358, title I, § 105(b)][/us/pl/111/358/s105/b], Jan. 4, 2011, [124 Stat. 3993][/us/stat/124/3993]. For applicability of this amendment to this section, see [section 5(b) of Pub. L. 111–314][/us/pl/111/314/s5/b], set out as a Transitional and Savings Provisions note preceding [section 10101 of this title][/us/usc/t51/s10101]. Former [section 2459f–1 of Title 42][/us/usc/t42/s2459f–1] was amended by striking out “The Administration may carry out a program to award prizes only in conformity with this section.”
+    This section was derived from [section 2459f–1 of Title 42][/us/usc/t42/s2459f–1], The Public Health and Welfare, which was amended by [Pub. L. 111–358, title I, § 105(b)][/us/pl/111/358/s105/b], Jan. 4, 2011, [124 Stat. 3993][/us/stat/124/3993]. For applicability of this amendment to this section, see [section 5(b) of Pub. L. 111–314][/us/pl/111/314/s5/b], set out as a Transitional and Savings Provisions note preceding [section 10101 of this title][/us/usc/t51/s10101]. Former [section 2459f–1 of Title 42][/us/usc/t42/s2459f–1] was amended by striking out “The Administration may carry out a program to award prizes only in conformity with this section.”
 
 <table>
 

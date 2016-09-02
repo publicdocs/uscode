@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 70701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs70701" data-uslm-ref="/us/usc/t51/s70701">70701.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 70702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs70702" data-uslm-ref="/us/usc/t51/s70702">70702.</a>  </td>
 
     <td> Establishment of Commission.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 70703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs70703" data-uslm-ref="/us/usc/t51/s70703">70703.</a>  </td>
 
     <td> Tasks of Commission.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 70704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs70704" data-uslm-ref="/us/usc/t51/s70704">70704.</a>  </td>
 
     <td> Composition of Commission.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 70705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs70705" data-uslm-ref="/us/usc/t51/s70705">70705.</a>  </td>
 
     <td> Powers of Commission.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 70706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs70706" data-uslm-ref="/us/usc/t51/s70706">70706.</a>  </td>
 
     <td> Public meetings, information, and hearings.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 70707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs70707" data-uslm-ref="/us/usc/t51/s70707">70707.</a>  </td>
 
     <td> Staff of Commission.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 70708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs70708" data-uslm-ref="/us/usc/t51/s70708">70708.</a>  </td>
 
     <td> Compensation and travel expenses.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 70709.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs70709" data-uslm-ref="/us/usc/t51/s70709">70709.</a>  </td>
 
     <td> Security clearances for Commission members and staff.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 70710.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs70710" data-uslm-ref="/us/usc/t51/s70710">70710.</a>  </td>
 
     <td> Reporting requirements and termination.  </td>
 

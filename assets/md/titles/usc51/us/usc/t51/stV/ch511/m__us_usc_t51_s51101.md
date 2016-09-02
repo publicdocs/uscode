@@ -15,7 +15,7 @@
 
 ## § 51101. Definitions
 
-In this chapter—
+    In this chapter—
 
     (1) the definitions in [section 50501 of this title][/us/usc/t51/s50501] apply.
 

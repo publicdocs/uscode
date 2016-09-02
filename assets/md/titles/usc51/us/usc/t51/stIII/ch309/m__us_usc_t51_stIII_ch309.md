@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 30901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs30901" data-uslm-ref="/us/usc/t51/s30901">30901.</a>  </td>
 
     <td> Congressional Space Medal of Honor.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 30902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs30902" data-uslm-ref="/us/usc/t51/s30902">30902.</a>  </td>
 
     <td> Charles “Pete” Conrad Astronomy Awards.  </td>
 

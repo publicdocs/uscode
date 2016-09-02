@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 50701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs50701" data-uslm-ref="/us/usc/t51/s50701">50701.</a>  </td>
 
     <td> Definition of Office.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 50702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs50702" data-uslm-ref="/us/usc/t51/s50702">50702.</a>  </td>
 
     <td> Establishment.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 50703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs50703" data-uslm-ref="/us/usc/t51/s50703">50703.</a>  </td>
 
     <td> Annual report.  </td>
 

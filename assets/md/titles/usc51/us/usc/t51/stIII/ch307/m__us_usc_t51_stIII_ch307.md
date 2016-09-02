@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 30701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs30701" data-uslm-ref="/us/usc/t51/s30701">30701.</a>  </td>
 
     <td> Competitiveness and international cooperation.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 30702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs30702" data-uslm-ref="/us/usc/t51/s30702">30702.</a>  </td>
 
     <td> Foreign contract limitation.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 30703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs30703" data-uslm-ref="/us/usc/t51/s30703">30703.</a>  </td>
 
     <td> Foreign launch vehicles.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 30704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs30704" data-uslm-ref="/us/usc/t51/s30704">30704.</a>  </td>
 
     <td> Offshore performance of contracts for the procurement of goods and services.  </td>
 

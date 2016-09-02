@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 31301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs31301" data-uslm-ref="/us/usc/t51/s31301">31301.</a>  </td>
 
     <td> Healthcare program.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 31302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs31302" data-uslm-ref="/us/usc/t51/s31302">31302.</a>  </td>
 
     <td> Astronaut healthcare survey.  </td>
 

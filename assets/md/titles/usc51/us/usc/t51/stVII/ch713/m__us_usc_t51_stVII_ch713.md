@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 71301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs71301" data-uslm-ref="/us/usc/t51/s71301">71301.</a>  </td>
 
     <td> Common docking system standard to enable rescue.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 71302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs71302" data-uslm-ref="/us/usc/t51/s71302">71302.</a>  </td>
 
     <td> Information sharing to avoid physical or radio-frequency interference.  </td>
 

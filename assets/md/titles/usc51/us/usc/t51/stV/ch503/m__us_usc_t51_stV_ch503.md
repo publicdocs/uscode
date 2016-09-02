@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 50301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs50301" data-uslm-ref="/us/usc/t51/s50301">50301.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 50302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs50302" data-uslm-ref="/us/usc/t51/s50302">50302.</a>  </td>
 
     <td> Loan guarantees for production of commercial reusable in-space transportation.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 70101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs70101" data-uslm-ref="/us/usc/t51/s70101">70101.</a>  </td>
 
     <td> Recovery of fair value of placing Department of Defense payloads in orbit with space shuttle.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 70102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs70102" data-uslm-ref="/us/usc/t51/s70102">70102.</a>  </td>
 
     <td> Space shuttle use policy.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 70103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs70103" data-uslm-ref="/us/usc/t51/s70103">70103.</a>  </td>
 
     <td> Commercial payloads on space shuttle.  </td>
 

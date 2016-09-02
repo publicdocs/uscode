@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 31501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs31501" data-uslm-ref="/us/usc/t51/s31501">31501.</a>  </td>
 
     <td> Orbital debris.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 31502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs31502" data-uslm-ref="/us/usc/t51/s31502">31502.</a>  </td>
 
     <td> Maintenance of facilities.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 31503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs31503" data-uslm-ref="/us/usc/t51/s31503">31503.</a>  </td>
 
     <td> Laboratory productivity.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 31504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs31504" data-uslm-ref="/us/usc/t51/s31504">31504.</a>  </td>
 
     <td> Cooperative unmanned aerial vehicle activities.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 31505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs31505" data-uslm-ref="/us/usc/t51/s31505">31505.</a>  </td>
 
     <td> Development of enhanced-use lease policy.  </td>
 

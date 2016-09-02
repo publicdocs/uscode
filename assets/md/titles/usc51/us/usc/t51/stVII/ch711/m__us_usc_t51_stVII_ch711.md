@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 71101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs71101" data-uslm-ref="/us/usc/t51/s71101">71101.</a>  </td>
 
     <td> Reaffirmation of policy.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 71102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs71102" data-uslm-ref="/us/usc/t51/s71102">71102.</a>  </td>
 
     <td> Requests for information.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 71103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs71103" data-uslm-ref="/us/usc/t51/s71103">71103.</a>  </td>
 
     <td> Developing policy and recommending responsible Federal agency.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 71104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs71104" data-uslm-ref="/us/usc/t51/s71104">71104.</a>  </td>
 
     <td> Planetary radar.  </td>
 

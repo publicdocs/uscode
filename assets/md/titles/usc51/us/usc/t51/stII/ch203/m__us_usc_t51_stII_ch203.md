@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 20301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs20301" data-uslm-ref="/us/usc/t51/s20301">20301.</a>  </td>
 
     <td> General responsibilities.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 20302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs20302" data-uslm-ref="/us/usc/t51/s20302">20302.</a>  </td>
 
     <td> Vision for space exploration.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 20303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs20303" data-uslm-ref="/us/usc/t51/s20303">20303.</a>  </td>
 
     <td> Contribution to innovation.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 20304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs20304" data-uslm-ref="/us/usc/t51/s20304">20304.</a>  </td>
 
     <td> Basic research enhancement.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 20305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs20305" data-uslm-ref="/us/usc/t51/s20305">20305.</a>  </td>
 
     <td> National Academies decadal surveys.  </td>
 

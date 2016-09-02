@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 70501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs70501" data-uslm-ref="/us/usc/t51/s70501">70501.</a>  </td>
 
     <td> Space shuttle follow-on.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 70502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs70502" data-uslm-ref="/us/usc/t51/s70502">70502.</a>  </td>
 
     <td> Exploration plan and programs.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 70503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs70503" data-uslm-ref="/us/usc/t51/s70503">70503.</a>  </td>
 
     <td> Ground-based analog capabilities.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 70504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs70504" data-uslm-ref="/us/usc/t51/s70504">70504.</a>  </td>
 
     <td> Stepping stone approach to exploration.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 70505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs70505" data-uslm-ref="/us/usc/t51/s70505">70505.</a>  </td>
 
     <td> Lunar outpost.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 70506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs70506" data-uslm-ref="/us/usc/t51/s70506">70506.</a>  </td>
 
     <td> Exploration technology research.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 70507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs70507" data-uslm-ref="/us/usc/t51/s70507">70507.</a>  </td>
 
     <td> Technology development.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 70508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs70508" data-uslm-ref="/us/usc/t51/s70508">70508.</a>  </td>
 
     <td> Robotic or human servicing of spacecraft.  </td>
 

@@ -15,7 +15,7 @@
 
 ## § 30310. Exception to alternative fuel procurement requirement
 
-Section 526(a)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Energy Independence and Security Act of 2007 ([42 U.S.C. 17142(a)][/us/usc/t42/s17142/a]) does not prohibit the Administration from entering into a contract to purchase a generally available fuel that is not an alternative or synthetic fuel or predominantly produced from a nonconventional petroleum source, if—
+    Section 526(a)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Energy Independence and Security Act of 2007 ([42 U.S.C. 17142(a)][/us/usc/t42/s17142/a]) does not prohibit the Administration from entering into a contract to purchase a generally available fuel that is not an alternative or synthetic fuel or predominantly produced from a nonconventional petroleum source, if—
 
     (1) the contract does not specifically require the contractor to provide an alternative or synthetic fuel or fuel from a nonconventional petroleum source;
 

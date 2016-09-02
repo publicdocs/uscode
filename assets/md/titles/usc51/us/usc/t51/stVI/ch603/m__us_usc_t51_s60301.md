@@ -15,7 +15,7 @@
 
 ## § 60301. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) __Geospatial information.—__ 
 

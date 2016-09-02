@@ -95,7 +95,7 @@
 
         No State or local government shall adopt or have in effect any law, rule, regulation, ordinance, standard, or order that is inconsistent with the regulations promulgated under this section.
 
-        (2) __Continuance of regulations issued before december 9, 1991.—__ 
+        (2) __Continuance of regulations issued before__  __december 9, 1991__  __.—__ 
 
         Nothing in this section shall be construed to restrict the discretion of the Administrator to continue in force, amend, or further supplement any regulations issued before December 9, 1991, that govern the use of alcohol and controlled substances by Administration employees with responsibility for safety-sensitive, security, and national security functions (as determined by the Administrator), or by Administration contractor employees with such responsibility.
 

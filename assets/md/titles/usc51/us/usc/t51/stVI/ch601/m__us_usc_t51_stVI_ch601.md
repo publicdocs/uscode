@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 60101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs60101" data-uslm-ref="/us/usc/t51/s60101">60101.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER II—LANDSAT  </td>
 
   <tr>
 
-    <td> 60111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs60111" data-uslm-ref="/us/usc/t51/s60111">60111.</a>  </td>
 
     <td> Landsat Program Management.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER II—LANDSAT  </td>
 
   <tr>
 
-    <td> 60112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs60112" data-uslm-ref="/us/usc/t51/s60112">60112.</a>  </td>
 
     <td> Transfer of Landsat 6 program responsibilities.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER II—LANDSAT  </td>
 
   <tr>
 
-    <td> 60113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs60113" data-uslm-ref="/us/usc/t51/s60113">60113.</a>  </td>
 
     <td> Data policy for Landsat 7.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER III—LICENSING OF PRIVATE REMOTE SENSING SPACE SYSTEMS  </td>
 
   <tr>
 
-    <td> 60121.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs60121" data-uslm-ref="/us/usc/t51/s60121">60121.</a>  </td>
 
     <td> General licensing authority.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER III—LICENSING OF PRIVATE REMOTE SENSING SPACE SYSTEMS  </td>
 
   <tr>
 
-    <td> 60122.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs60122" data-uslm-ref="/us/usc/t51/s60122">60122.</a>  </td>
 
     <td> Conditions for operation.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER III—LICENSING OF PRIVATE REMOTE SENSING SPACE SYSTEMS  </td>
 
   <tr>
 
-    <td> 60123.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs60123" data-uslm-ref="/us/usc/t51/s60123">60123.</a>  </td>
 
     <td> Administrative authority of Secretary.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER III—LICENSING OF PRIVATE REMOTE SENSING SPACE SYSTEMS  </td>
 
   <tr>
 
-    <td> 60124.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs60124" data-uslm-ref="/us/usc/t51/s60124">60124.</a>  </td>
 
     <td> Regulatory authority of Secretary.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER III—LICENSING OF PRIVATE REMOTE SENSING SPACE SYSTEMS  </td>
 
   <tr>
 
-    <td> 60125.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs60125" data-uslm-ref="/us/usc/t51/s60125">60125.</a>  </td>
 
     <td> Agency activities.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER IV—RESEARCH, DEVELOPMENT, AND DEMONSTRATION  </td>
 
   <tr>
 
-    <td> 60131.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs60131" data-uslm-ref="/us/usc/t51/s60131">60131.</a>  </td>
 
     <td> Continued Federal research and development.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER IV—RESEARCH, DEVELOPMENT, AND DEMONSTRATION  </td>
 
   <tr>
 
-    <td> 60132.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs60132" data-uslm-ref="/us/usc/t51/s60132">60132.</a>  </td>
 
     <td> Availability of federally gathered unenhanced data.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER IV—RESEARCH, DEVELOPMENT, AND DEMONSTRATION  </td>
 
   <tr>
 
-    <td> 60133.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs60133" data-uslm-ref="/us/usc/t51/s60133">60133.</a>  </td>
 
     <td> Technology demonstration program.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER IV—RESEARCH, DEVELOPMENT, AND DEMONSTRATION  </td>
 
   <tr>
 
-    <td> 60134.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs60134" data-uslm-ref="/us/usc/t51/s60134">60134.</a>  </td>
 
     <td> Preference for private sector land remote sensing system.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 60141.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs60141" data-uslm-ref="/us/usc/t51/s60141">60141.</a>  </td>
 
     <td> Nondiscriminatory data availability.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 60142.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs60142" data-uslm-ref="/us/usc/t51/s60142">60142.</a>  </td>
 
     <td> Archiving of data.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 60143.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs60143" data-uslm-ref="/us/usc/t51/s60143">60143.</a>  </td>
 
     <td> Nonreproduction.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 60144.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs60144" data-uslm-ref="/us/usc/t51/s60144">60144.</a>  </td>
 
     <td> Reimbursement for assistance.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 60145.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs60145" data-uslm-ref="/us/usc/t51/s60145">60145.</a>  </td>
 
     <td> Acquisition of equipment.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 60146.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs60146" data-uslm-ref="/us/usc/t51/s60146">60146.</a>  </td>
 
     <td> Radio frequency allocation.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 60147.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs60147" data-uslm-ref="/us/usc/t51/s60147">60147.</a>  </td>
 
     <td> Consultation.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 60148.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs60148" data-uslm-ref="/us/usc/t51/s60148">60148.</a>  </td>
 
     <td> Enforcement.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER VI—PROHIBITION OF COMMERCIALIZATION OF WEATHER SATELLITES  </td>
 
   <tr>
 
-    <td> 60161.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs60161" data-uslm-ref="/us/usc/t51/s60161">60161.</a>  </td>
 
     <td> Prohibition.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER VI—PROHIBITION OF COMMERCIALIZATION OF WEATHER SATELLITES  </td>
 
   <tr>
 
-    <td> 60162.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs60162" data-uslm-ref="/us/usc/t51/s60162">60162.</a>  </td>
 
     <td> Future considerations.  </td>
 

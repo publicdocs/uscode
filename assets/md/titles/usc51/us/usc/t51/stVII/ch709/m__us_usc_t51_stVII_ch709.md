@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 70901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs70901" data-uslm-ref="/us/usc/t51/s70901">70901.</a>  </td>
 
     <td> Peaceful uses of space station.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 70902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs70902" data-uslm-ref="/us/usc/t51/s70902">70902.</a>  </td>
 
     <td> Allocation of International Space Station research budget.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 70903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs70903" data-uslm-ref="/us/usc/t51/s70903">70903.</a>  </td>
 
     <td> International Space Station research.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 70904.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs70904" data-uslm-ref="/us/usc/t51/s70904">70904.</a>  </td>
 
     <td> International Space Station completion.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 70905.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs70905" data-uslm-ref="/us/usc/t51/s70905">70905.</a>  </td>
 
     <td> National laboratory designation.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 70906.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs70906" data-uslm-ref="/us/usc/t51/s70906">70906.</a>  </td>
 
     <td> International Space Station National Laboratory Advisory Committee.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 70907.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs70907" data-uslm-ref="/us/usc/t51/s70907">70907.</a>  </td>
 
     <td> Maintaining use through at least 2020.  </td>
 

@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 40101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs40101" data-uslm-ref="/us/usc/t51/s40101">40101.</a>  </td>
 
     <td> Definition of institution of higher education.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 40102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs40102" data-uslm-ref="/us/usc/t51/s40102">40102.</a>  </td>
 
     <td> Governmental interest in aeronautics research and development.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 40103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs40103" data-uslm-ref="/us/usc/t51/s40103">40103.</a>  </td>
 
     <td> Cooperation with other agencies on aeronautics activities.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 40104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs40104" data-uslm-ref="/us/usc/t51/s40104">40104.</a>  </td>
 
     <td> Cooperation among Mission Directorates.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—HIGH PRIORITY AERONAUTICS RESEARCH AND DEVELOPMENT PROGRAMS  </t
 
   <tr>
 
-    <td> 40111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs40111" data-uslm-ref="/us/usc/t51/s40111">40111.</a>  </td>
 
     <td> Fundamental research program.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—HIGH PRIORITY AERONAUTICS RESEARCH AND DEVELOPMENT PROGRAMS  </t
 
   <tr>
 
-    <td> 40112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs40112" data-uslm-ref="/us/usc/t51/s40112">40112.</a>  </td>
 
     <td> Research and technology programs.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—HIGH PRIORITY AERONAUTICS RESEARCH AND DEVELOPMENT PROGRAMS  </t
 
   <tr>
 
-    <td> 40113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs40113" data-uslm-ref="/us/usc/t51/s40113">40113.</a>  </td>
 
     <td> Airspace systems research.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—HIGH PRIORITY AERONAUTICS RESEARCH AND DEVELOPMENT PROGRAMS  </t
 
   <tr>
 
-    <td> 40114.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs40114" data-uslm-ref="/us/usc/t51/s40114">40114.</a>  </td>
 
     <td> Aviation safety and security research.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—HIGH PRIORITY AERONAUTICS RESEARCH AND DEVELOPMENT PROGRAMS  </t
 
   <tr>
 
-    <td> 40115.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs40115" data-uslm-ref="/us/usc/t51/s40115">40115.</a>  </td>
 
     <td> Aviation weather research.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—HIGH PRIORITY AERONAUTICS RESEARCH AND DEVELOPMENT PROGRAMS  </t
 
   <tr>
 
-    <td> 40116.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs40116" data-uslm-ref="/us/usc/t51/s40116">40116.</a>  </td>
 
     <td> University-based Centers for Research on Aviation Training.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER III—SCHOLARSHIPS  </td>
 
   <tr>
 
-    <td> 40131.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs40131" data-uslm-ref="/us/usc/t51/s40131">40131.</a>  </td>
 
     <td> Aeronautics scholarships.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER IV—DATA REQUESTS  </td>
 
   <tr>
 
-    <td> 40141.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs40141" data-uslm-ref="/us/usc/t51/s40141">40141.</a>  </td>
 
     <td> Aviation data requests.  </td>
 

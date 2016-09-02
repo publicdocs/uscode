@@ -15,7 +15,7 @@
 
 ## § 70703. Tasks of Commission
 
-A Commission established pursuant to this chapter shall, to the extent possible, undertake the following tasks:
+    A Commission established pursuant to this chapter shall, to the extent possible, undertake the following tasks:
 
     (1) __Investigation.—__ 
 

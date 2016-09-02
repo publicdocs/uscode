@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 60501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs60501" data-uslm-ref="/us/usc/t51/s60501">60501.</a>  </td>
 
     <td> Goal.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 60502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs60502" data-uslm-ref="/us/usc/t51/s60502">60502.</a>  </td>
 
     <td> Transitioning experimental research into operational services.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 60503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs60503" data-uslm-ref="/us/usc/t51/s60503">60503.</a>  </td>
 
     <td> Reauthorization of Glory Mission.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 60504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs60504" data-uslm-ref="/us/usc/t51/s60504">60504.</a>  </td>
 
     <td> Tornadoes and other severe storms.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 60505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs60505" data-uslm-ref="/us/usc/t51/s60505">60505.</a>  </td>
 
     <td> Coordination with the National Oceanic and Atmospheric Administration.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 60506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs60506" data-uslm-ref="/us/usc/t51/s60506">60506.</a>  </td>
 
     <td> Sharing of climate related data.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 51101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs51101" data-uslm-ref="/us/usc/t51/s51101">51101.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 51102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs51102" data-uslm-ref="/us/usc/t51/s51102">51102.</a>  </td>
 
     <td> Grant authority.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 51103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs51103" data-uslm-ref="/us/usc/t51/s51103">51103.</a>  </td>
 
     <td> Grant applications.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 51104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs51104" data-uslm-ref="/us/usc/t51/s51104">51104.</a>  </td>
 
     <td> Environmental requirements.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 51105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs51105" data-uslm-ref="/us/usc/t51/s51105">51105.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

@@ -109,7 +109,9 @@ Pub. L. 101–611, title I, § 123, Nov. 16, 1990, 104 Stat. 3204.  </td>
 
 >     “(e) __Operation Costs.—__ 
 
->     The Administrator shall, in a manner consistent with relevant international agreements, seek to reduce the National Aeronautics and Space Administration’s share of International Space Station common operating costs, based upon any additional capabilities provided to the International Space Station through the National Aeronautics and Space Administration’s Russian Program Assurance activities.    “\[SEC. 202. Repealed. [Pub. L. 109–155, title II, § 207(b)][/us/pl/109/155/s207/b], Dec. 30, 2005, [119 Stat. 2916][/us/stat/119/2916], effective 30 days after Dec. 1, 2006.\]
+>     The Administrator shall, in a manner consistent with relevant international agreements, seek to reduce the National Aeronautics and Space Administration’s share of International Space Station common operating costs, based upon any additional capabilities provided to the International Space Station through the National Aeronautics and Space Administration’s Russian Program Assurance activities.
+
+> “\[SEC. 202. Repealed. [Pub. L. 109–155, title II, § 207(b)][/us/pl/109/155/s207/b], Dec. 30, 2005, [119 Stat. 2916][/us/stat/119/2916], effective 30 days after Dec. 1, 2006.\]
 
 > “SEC. 203. __RESEARCH ON INTERNATIONAL SPACE STATION.__ 
 
@@ -181,7 +183,9 @@ Pub. L. 101–611, title I, § 123, Nov. 16, 1990, 104 Stat. 3204.  </td>
 
 >     “(e) The Administrator shall promote international cooperation in the space station program by undertaking the development, construction, and operation of the space station in conjunction with (but not limited to) the Governments of Europe, Japan, and Canada.
 
->     “(f) The space station shall be designed, developed, and operated in a manner that enables evolutionary enhancement.    “\[Sec. 107. Repealed. [Pub. L. 105–362, title XI, § 1101(c)][/us/pl/105/362/s1101/c], Nov. 10, 1998, [112 Stat. 3292][/us/stat/112/3292].\]
+>     “(f) The space station shall be designed, developed, and operated in a manner that enables evolutionary enhancement.
+
+> “\[Sec. 107. Repealed. [Pub. L. 105–362, title XI, § 1101(c)][/us/pl/105/362/s1101/c], Nov. 10, 1998, [112 Stat. 3292][/us/stat/112/3292].\]
 
 > “Sec. 108. In order to ensure that the development of the space station is part of a balanced civilian space program, the Administrator is instructed to establish as a goal a funding profile that limits (1) space station total annual costs under the capital development plan in section 107 to 25 percent of the total budget request for the National Aeronautics and Space Administration and (2) all space station direct operations costs, except for those costs associated with the utilization of the space station, to 10 percent of the total budget request for the National Aeronautics and Space Administration.
 

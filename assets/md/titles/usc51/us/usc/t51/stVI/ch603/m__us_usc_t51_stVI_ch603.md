@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 60301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs60301" data-uslm-ref="/us/usc/t51/s60301">60301.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 60302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs60302" data-uslm-ref="/us/usc/t51/s60302">60302.</a>  </td>
 
     <td> General responsibilities.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 60303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs60303" data-uslm-ref="/us/usc/t51/s60303">60303.</a>  </td>
 
     <td> Pilot projects to encourage public sector applications.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 60304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs60304" data-uslm-ref="/us/usc/t51/s60304">60304.</a>  </td>
 
     <td> Program evaluation.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 60305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs60305" data-uslm-ref="/us/usc/t51/s60305">60305.</a>  </td>
 
     <td> Data availability.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 60306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs60306" data-uslm-ref="/us/usc/t51/s60306">60306.</a>  </td>
 
     <td> Education.  </td>
 

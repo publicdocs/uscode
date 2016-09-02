@@ -15,7 +15,7 @@
 
 ## § 70301. Congressional findings and declarations
 
-Congress finds and declares that—
+    Congress finds and declares that—
 
     (1) the Space Transportation System is a vital element of the United States space program, contributing to the United States leadership in space research, technology, and development;
 

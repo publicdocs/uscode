@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 30301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs30301" data-uslm-ref="/us/usc/t51/s30301">30301.</a>  </td>
 
     <td> Guaranteed customer base.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 30302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs30302" data-uslm-ref="/us/usc/t51/s30302">30302.</a>  </td>
 
     <td> Quality assurance personnel.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 30303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs30303" data-uslm-ref="/us/usc/t51/s30303">30303.</a>  </td>
 
     <td> Tracking and data relay satellite services.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 30304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs30304" data-uslm-ref="/us/usc/t51/s30304">30304.</a>  </td>
 
     <td> Award of contracts to small businesses and disadvantaged individuals.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 30305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs30305" data-uslm-ref="/us/usc/t51/s30305">30305.</a>  </td>
 
     <td> Outreach program.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 30306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs30306" data-uslm-ref="/us/usc/t51/s30306">30306.</a>  </td>
 
     <td> Small business contracting.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 30307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs30307" data-uslm-ref="/us/usc/t51/s30307">30307.</a>  </td>
 
     <td> Requirement for independent cost analysis.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 30308.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs30308" data-uslm-ref="/us/usc/t51/s30308">30308.</a>  </td>
 
     <td> Cost effectiveness calculations.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 30309.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs30309" data-uslm-ref="/us/usc/t51/s30309">30309.</a>  </td>
 
     <td> Use of abandoned and underutilized buildings, grounds, and facilities.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 30310.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs30310" data-uslm-ref="/us/usc/t51/s30310">30310.</a>  </td>
 
     <td> Exception to alternative fuel procurement requirement.  </td>
 

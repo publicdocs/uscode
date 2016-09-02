@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 40701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs40701" data-uslm-ref="/us/usc/t51/s40701">40701.</a>  </td>
 
     <td> Research and development initiative.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 40702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs40702" data-uslm-ref="/us/usc/t51/s40702">40702.</a>  </td>
 
     <td> Additional research and development initiative.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 40703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs40703" data-uslm-ref="/us/usc/t51/s40703">40703.</a>  </td>
 
     <td> Research alignment.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 40704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs40704" data-uslm-ref="/us/usc/t51/s40704">40704.</a>  </td>
 
     <td> Research program on perceived impact of sonic booms.  </td>
 

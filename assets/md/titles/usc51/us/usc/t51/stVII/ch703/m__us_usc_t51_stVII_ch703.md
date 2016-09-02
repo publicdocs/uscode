@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 70301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs70301" data-uslm-ref="/us/usc/t51/s70301">70301.</a>  </td>
 
     <td> Congressional findings and declarations.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 70302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs70302" data-uslm-ref="/us/usc/t51/s70302">70302.</a>  </td>
 
     <td> Purpose, policy, and goals.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 70303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs70303" data-uslm-ref="/us/usc/t51/s70303">70303.</a>  </td>
 
     <td> Definition of additive cost.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 70304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft51%2Fs70304" data-uslm-ref="/us/usc/t51/s70304">70304.</a>  </td>
 
     <td> Duties of Administrator.  </td>
 

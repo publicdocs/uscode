@@ -15,7 +15,7 @@
 
 ## § 50921. Office of Commercial Space Transportation
 
-There are authorized to be appropriated to the Secretary of Transportation for the activities of the Office of the Associate Administrator for Commercial Space Transportation—
+    There are authorized to be appropriated to the Secretary of Transportation for the activities of the Office of the Associate Administrator for Commercial Space Transportation—
 
     (1) $11,941,000 for fiscal year 2005;
 

@@ -15,7 +15,7 @@
 
 ## § 70502. Exploration plan and programs
 
-The Administrator shall—
+    The Administrator shall—
 
     (1) construct an architecture and implementation plan for the Administration’s human exploration program that is not critically dependent on the achievement of milestones by fixed dates;
 
