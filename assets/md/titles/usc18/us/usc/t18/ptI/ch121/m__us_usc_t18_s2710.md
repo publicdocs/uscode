@@ -1,0 +1,140 @@
+---
+---
+
+# 18 U.S.C., USLM ref /us/usc/t18/s2710
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../..//us/usc/t18/ptI/ch121/m__us_usc_t18_s2709.md) | [Next](./../../../../..//us/usc/t18/ptI/ch121/m__us_usc_t18_s2711.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2710)
+
+## § 2710. Wrongful disclosure of video tape rental or sale records
+
+    (a) __Definitions.—__ 
+
+    For purposes of this section—
+
+        (1) the term “consumer” means any renter, purchaser, or subscriber of goods or services from a video tape service provider;
+
+        (2) the term “ordinary course of business” means only debt collection activities, order fulfillment, request processing, and the transfer of ownership;
+
+        (3) the term “personally identifiable information” includes information which identifies a person as having requested or obtained specific video materials or services from a video tape service provider; and
+
+        (4) the term “video tape service provider” means any person, engaged in the business, in or affecting interstate or foreign commerce, of rental, sale, or delivery of prerecorded video cassette tapes or similar audio visual materials, or any person or other entity to whom a disclosure is made under subparagraph (D) or (E) of subsection (b)(2), but only with respect to the information contained in the disclosure.
+
+    (b) __Video Tape Rental and Sale Records.—__ 
+
+        (1) A video tape service provider who knowingly discloses, to any person, personally identifiable information concerning any consumer of such provider shall be liable to the aggrieved person for the relief provided in subsection (d).
+
+        (2)
+
+         A video tape service provider may disclose personally identifiable information concerning any consumer—
+
+            (A) to the consumer;
+
+            (B)
+
+             to any person with the informed, written consent (including through an electronic means using the Internet) of the consumer that—
+
+                (i) is in a form distinct and separate from any form setting forth other legal or financial obligations of the consumer;
+
+                (ii)
+
+                 at the election of the consumer—
+
+                    (I) is given at the time the disclosure is sought; or
+
+                    (II) is given in advance for a set period of time, not to exceed 2 years or until consent is withdrawn by the consumer, whichever is sooner; and
+
+                (iii) the video tape service provider has provided an opportunity, in a clear and conspicuous manner, for the consumer to withdraw on a case-by-case basis or to withdraw from ongoing disclosures, at the consumer’s election;
+
+            (C) to a law enforcement agency pursuant to a warrant issued under the Federal Rules of Criminal Procedure, an equivalent State warrant, a grand jury subpoena, or a court order;
+
+            (D)
+
+             to any person if the disclosure is solely of the names and addresses of consumers and if—
+
+                (i) the video tape service provider has provided the consumer with the opportunity, in a clear and conspicuous manner, to prohibit such disclosure; and
+
+                (ii) the disclosure does not identify the title, description, or subject matter of any video tapes or other audio visual material; however, the subject matter of such materials may be disclosed if the disclosure is for the exclusive use of marketing goods and services directly to the consumer;
+
+            (E) to any person if the disclosure is incident to the ordinary course of business of the video tape service provider; or
+
+            (F)
+
+             pursuant to a court order, in a civil proceeding upon a showing of compelling need for the information that cannot be accommodated by any other means, if—
+
+                (i) the consumer is given reasonable notice, by the person seeking the disclosure, of the court proceeding relevant to the issuance of the court order; and
+
+                (ii) the consumer is afforded the opportunity to appear and contest the claim of the person seeking the disclosure.
+
+            If an order is granted pursuant to subparagraph (C) or (F), the court shall impose appropriate safeguards against unauthorized disclosure.
+
+        (3) Court orders authorizing disclosure under subparagraph (C) shall issue only with prior notice to the consumer and only if the law enforcement agency shows that there is probable cause to believe that the records or other information sought are relevant to a legitimate law enforcement inquiry. In the case of a State government authority, such a court order shall not issue if prohibited by the law of such State. A court issuing an order pursuant to this section, on a motion made promptly by the video tape service provider, may quash or modify such order if the information or records requested are unreasonably voluminous in nature or if compliance with such order otherwise would cause an unreasonable burden on such provider.
+
+    (c) __Civil Action.—__ 
+
+        (1) Any person aggrieved by any act of a person in violation of this section may bring a civil action in a United States district court.
+
+        (2)
+
+         The court may award—
+
+            (A) actual damages but not less than liquidated damages in an amount of $2,500;
+
+            (B) punitive damages;
+
+            (C) reasonable attorneys’ fees and other litigation costs reasonably incurred; and
+
+            (D) such other preliminary and equitable relief as the court determines to be appropriate.
+
+        (3) No action may be brought under this subsection unless such action is begun within 2 years from the date of the act complained of or the date of discovery.
+
+        (4) No liability shall result from lawful disclosure permitted by this section.
+
+    (d) __Personally Identifiable Information.—__ 
+
+    Personally identifiable information obtained in any manner other than as provided in this section shall not be received in evidence in any trial, hearing, arbitration, or other proceeding in or before any court, grand jury, department, officer, agency, regulatory body, legislative committee, or other authority of the United States, a State, or a political subdivision of a State.
+
+    (e) __Destruction of Old Records.—__ 
+
+    A person subject to this section shall destroy personally identifiable information as soon as practicable, but no later than one year from the date the information is no longer necessary for the purpose for which it was collected and there are no pending requests or orders for access to such information under subsection (b)(2) or (c)(2) or pursuant to a court order.
+
+    (f) __Preemption.—__ 
+
+    The provisions of this section preempt only the provisions of State or local law that require disclosure prohibited by this section.
+
+(Added [Pub. L. 100–618, § 2(a)(2)][/us/pl/100/618/s2/a/2], Nov. 5, 1988, [102 Stat. 3195][/us/stat/102/3195]; amended [Pub. L. 112–258, § 2][/us/pl/112/258/s2], Jan. 10, 2013, [126 Stat. 2414][/us/stat/126/2414].)
+
+ __References in Text__ 
+
+    The Federal Rules of Criminal Procedure, referred to in subsec. (b)(2)(C), are set out in the Appendix to this title.
+
+ __Prior Provisions__ 
+
+    A prior section 2710 was renumbered [section 2711 of this title][/us/usc/t18/s2711].
+
+ __Amendments__ 
+
+    2013—Subsec. (b)(2)(B). [Pub. L. 112–258][/us/pl/112/258] added subpar. (B) and struck out former subpar. (B) which read as follows: “to any person with the informed, written consent of the consumer given at the time the disclosure is sought;”.
+
+----------
+
+[Previous](./../../../../..//us/usc/t18/ptI/ch121/m__us_usc_t18_s2709.md) | [Next](./../../../../..//us/usc/t18/ptI/ch121/m__us_usc_t18_s2711.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2710)
+
+----------
+----------
+
+[/us/pl/100/618/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F618%2Fs2%2Fa%2F2
+[/us/stat/102/3195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3195
+[/us/pl/112/258/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F258%2Fs2
+[/us/stat/126/2414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2414
+[/us/usc/t18/s2711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2711
+[/us/pl/112/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F258
+
+

@@ -1,0 +1,41 @@
+---
+---
+
+# 18 U.S.C., USLM ref /us/usc/t18/s1074
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../..//us/usc/t18/ptI/ch49/m__us_usc_t18_s1073.md) | [Next](./../../../../..//us/usc/t18/ptI/ch50/m__us_usc_t18_ptI_ch50.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1074)
+
+## § 1074. Flight to avoid prosecution for damaging or destroying any building or other real or personal property
+
+    (a) Whoever moves or travels in interstate or foreign commerce with intent either (1) to avoid prosecution, or custody, or confinement after conviction, under the laws of the place from which he flees, for willfully attempting to or damaging or destroying by fire or explosive any building, structure, facility, vehicle, dwelling house, synagogue, church, religious center or educational institution, public or private, or (2) to avoid giving testimony in any criminal proceeding relating to any such offense shall be fined under this title or imprisoned not more than five years, or both.
+
+    (b) Violations of this section may be prosecuted in the Federal judicial district in which the original crime was alleged to have been committed or in which the person was held in custody or confinement: Provided, however, That this section shall not be construed as indicating an intent on the part of Congress to prevent any State, Territory, Commonwealth, or possession of the United States of any jurisdiction over any offense over which they would have jurisdiction in the absence of such section.
+
+(Added [Pub. L. 86–449, title II, § 201][/us/pl/86/449/s201], May 6, 1960, [74 Stat. 86][/us/stat/74/86]; amended [Pub. L. 103–322, title XXXIII, § 330016(1)(K)][/us/pl/103/322/s330016/1/K], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
+
+ __Amendments__ 
+
+    1994—Subsec. (a). [Pub. L. 103–322][/us/pl/103/322] substituted “fined under this title” for “fined not more than $5,000”.
+
+----------
+
+[Previous](./../../../../..//us/usc/t18/ptI/ch49/m__us_usc_t18_s1073.md) | [Next](./../../../../..//us/usc/t18/ptI/ch50/m__us_usc_t18_ptI_ch50.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1074)
+
+----------
+----------
+
+[/us/pl/86/449/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F449%2Fs201
+[/us/stat/74/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F86
+[/us/pl/103/322/s330016/1/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs330016%2F1%2FK
+[/us/stat/108/2147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2147
+[/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
+
+
