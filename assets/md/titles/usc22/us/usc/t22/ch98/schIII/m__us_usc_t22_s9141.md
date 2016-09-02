@@ -47,6 +47,20 @@
 
 ([Pub. L. 113–150, title III, § 302][/us/pl/113/150/s302], Aug. 8, 2014, [128 Stat. 1822][/us/stat/128/1822].)
 
+ __Delegation of Authority Pursuant to Section 302(b) of the Sean and David Goldman International Child Abduction Prevention and Return Act of 2014__ 
+
+    Memorandum of President of the United States, May 7, 2015, 80 F.R. 32849, provided:
+
+    Memorandum for the Secretary of State
+
+    By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3][/us/usc/t3/s301], United States Code, I hereby delegate the functions and authorities vested in the President by section 302(b) of the Sean and David Goldman International Child Abduction Prevention and Return Act of 2014 ([Public Law 113–150][/us/pl/113/150]) (the “Act”), to the Secretary of State.
+
+    Any reference in this memorandum to the Act shall be deemed to be a reference to any future act that is the same or substantially the same as such provision.
+
+    You are authorized and directed to publish this memorandum in the Federal Register.
+
+                              Barack Obama.
+
 ----------
 
 [Previous](./../../../../..//us/usc/t22/ch98/schIII/m__us_usc_t22_ch98_schIII.md) | ~~Next~~ | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs9141)
@@ -57,5 +71,7 @@
 [/us/usc/t22/s9122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs9122%2Fb
 [/us/pl/113/150/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F150%2Fs302
 [/us/stat/128/1822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1822
+[/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
+[/us/pl/113/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F150
 
 

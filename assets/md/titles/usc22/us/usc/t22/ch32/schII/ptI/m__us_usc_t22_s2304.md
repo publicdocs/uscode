@@ -93,7 +93,7 @@
 
             (A) assistance under part II (military assistance) or part IV (economic support fund) or part V (military education and training) or part VI (peacekeeping operations) or part VIII (antiterrorism assistance) of this subchapter;
 
-            (B) sales of defense articles or services, extensions of credits (including participations in credits), and guaranties of loans under the Arms Export Control Act \[[22 U.S.C. 2751][/us/usc/t22/s2751] et seq.\]); or
+            (B) sales of defense articles or services, extensions of credits (including participations in credits), and guaranties of loans under the Arms Export Control Act \[[22 U.S.C. 2751][/us/usc/t22/s2751] et seq.\]; or
 
             (C)
 

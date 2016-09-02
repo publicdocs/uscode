@@ -59,6 +59,10 @@
 
 ([Pub. L. 113–272, § 10][/us/pl/113/272/s10], Dec. 18, 2014, [128 Stat. 2965][/us/stat/128/2965].)
 
+ __Delegation of Functions__ 
+
+    Functions of President under subsec. (c) of this section delegated to Secretary of State by Memorandum of President of the United States, Feb. 19, 2015, 80 F.R. 12071, set out as a note under [section 8925 of this title][/us/usc/t22/s8925].
+
 ----------
 
 [Previous](./../../../..//us/usc/t22/ch96A/m__us_usc_t22_s8928.md) | [Next](./../../../..//us/usc/t22/ch96A/m__us_usc_t22_s8930.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8929)
@@ -68,5 +72,6 @@
 
 [/us/pl/113/272/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F272%2Fs10
 [/us/stat/128/2965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2965
+[/us/usc/t22/s8925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8925
 
 

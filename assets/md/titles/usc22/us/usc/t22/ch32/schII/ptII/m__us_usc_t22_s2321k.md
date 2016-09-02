@@ -73,6 +73,8 @@ The following Presidential Determinations designated the countries listed as maj
 
     Determination No. 2004–37, June 16, 2004, 69 F.R. 38797.—Pakistan.
 
+    Determination No. 2015–09, July 10, 2015, 80 F.R. 43613.—Tunisia.
+
 §§ 2321l to 2321n. __Repealed.__  __[__  __Pub. L. 104–164, title I, § 104(b)(2)(B)__  __][/us/pl/104/164/s104/b/2/B]__  __,__  __July 21, 1996__  __,__  __[__  __110 Stat. 1427__  __][/us/stat/110/1427]__ 
 
     Section 2321l, [Pub. L. 87–195][/us/pl/87/195], pt. II, § 518, as added [Pub. L. 101–513, title V, § 533(f)][/us/pl/101/513/s533/f], Nov. 5, 1990, [104 Stat. 2015][/us/stat/104/2015], authorized President to transfer nonlethal excess defense articles and small arms to friendly countries and to international organizations and private and voluntary organizations for preservation of endangered animal and plant species.

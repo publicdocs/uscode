@@ -53,6 +53,20 @@
 
     The Foreign Assistance Act of 1961, referred to in subsec. (a), is [Pub. L. 87–195][/us/pl/87/195], Sept. 4, 1961, [75 Stat. 424][/us/stat/75/424], which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title][/us/usc/t22/s2151] and Tables.
 
+ __Delegation of Authority Under the Ukraine Freedom Support Act of 2014__ 
+
+    Memorandum of President of the United States, Feb. 19, 2015, 80 F.R. 12071, provided:
+
+    Memorandum for the Secretary of State
+
+    By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3][/us/usc/t3/s301], United States Code, I hereby order as follows:
+
+    I hereby delegate to the Secretary of State the authority to prepare and submit to the Congress the reports and strategies required by subsections 6(b), 7(d), 9(c), and 10(c) of the Ukraine Freedom Support Act of 2014 ([Public Law 113–272][/us/pl/113/272]) (the “Act”).
+
+    Any reference in this memorandum to the Act shall be deemed to be a reference to any future Act that is the same or substantially the same as such provision.
+
+                              Barack Obama.
+
 ----------
 
 [Previous](./../../../..//us/usc/t22/ch96A/m__us_usc_t22_s8924.md) | [Next](./../../../..//us/usc/t22/ch96A/m__us_usc_t22_s8926.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8925)
@@ -70,5 +84,7 @@
 [/us/pl/87/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F195
 [/us/stat/75/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F424
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
+[/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
+[/us/pl/113/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F272
 
 

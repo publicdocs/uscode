@@ -217,7 +217,7 @@
 
             The report required by paragraph (1)(B) shall be submitted in unclassified form, but may include a classified annex.
 
-    (g) __Implementation; Penalties__ 
+    (g) __Implementation; penalties__ 
 
         (1) __Implementation__ 
 
