@@ -65,9 +65,9 @@
 
   <tr>
 
-    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6035" data-uslm-ref="/us/usc/t26/s6035">6035.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6035" data-uslm-ref="/us/usc/t26/s6035">6035.</a>  </td>
 
-    <td> Repealed.]  </td>
+    <td> Basis information to persons acquiring property from decedent.  </td>
 
   </tr>
 
@@ -227,6 +227,8 @@
 
  __Amendments__ 
 
+    2015—[Pub. L. 114–41, title II, § 2004(b)(3)][/us/pl/114/41/s2004/b/3], July 31, 2015, [129 Stat. 456][/us/stat/129/456], added item 6035.
+
     2010—[Pub. L. 111–147, title V, § 511(b)][/us/pl/111/147/s511/b], Mar. 18, 2010, [124 Stat. 110][/us/stat/124/110], added item 6038D.
 
     2008—[Pub. L. 110–234, title XV, § 15353(b)][/us/pl/110/234/s15353/b], May 22, 2008, [122 Stat. 1527][/us/stat/122/1527], and [Pub. L. 110–246, title XV, § 15353(b)][/us/pl/110/246/s15353/b], June 18, 2008, [122 Stat. 2289][/us/stat/122/2289], made identical amendments, adding item 6039J. The amendment by [Pub. L. 110–234][/us/pl/110/234] was repealed by [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], June 18, 2008, [122 Stat. 1664][/us/stat/122/1664].
@@ -284,6 +286,8 @@
 ----------
 ----------
 
+[/us/pl/114/41/s2004/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2004%2Fb%2F3
+[/us/stat/129/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F456
 [/us/pl/111/147/s511/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs511%2Fb
 [/us/stat/124/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F110
 [/us/pl/110/234/s15353/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs15353%2Fb

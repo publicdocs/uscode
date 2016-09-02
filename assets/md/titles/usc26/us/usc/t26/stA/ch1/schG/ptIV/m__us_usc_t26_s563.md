@@ -17,11 +17,11 @@
 
     (a) __Accumulated earnings tax__ 
 
-        In the determination of the dividends paid deduction for purposes of the accumulated earnings tax imposed by section 531, a dividend paid after the close of any taxable year and on or before the 15th day of the third month following the close of such taxable year shall be considered as paid during such taxable year.
+        In the determination of the dividends paid deduction for purposes of the accumulated earnings tax imposed by section 531, a dividend paid after the close of any taxable year and on or before the 15th day of the fourth month following the close of such taxable year shall be considered as paid during such taxable year.
 
     (b) __Personal holding company tax__ 
 
-    In the determination of the dividends paid deduction for purposes of the personal holding company tax imposed by section 541, a dividend paid after the close of any taxable year and on or before the 15th day of the third month following the close of such taxable year shall, to the extent the taxpayer elects in its return for the taxable year, be considered as paid during such taxable year. The amount allowed as a dividend by reason of the application of this subsection with respect to any taxable year shall not exceed either—
+    In the determination of the dividends paid deduction for purposes of the personal holding company tax imposed by section 541, a dividend paid after the close of any taxable year and on or before the 15th day of the fourth month following the close of such taxable year shall, to the extent the taxpayer elects in its return for the taxable year, be considered as paid during such taxable year. The amount allowed as a dividend by reason of the application of this subsection with respect to any taxable year shall not exceed either—
 
         (1) The undistributed personal holding company income of the corporation for the taxable year, computed without regard to this subsection, or
 
@@ -29,11 +29,13 @@
 
     (c) __Dividends considered as paid on last day of taxable year__ 
 
-        For the purpose of applying section 562(a), with respect to distributions under subsection (a) or (b) of this section, a distribution made after the close of a taxable year and on or before the 15th day of the third month following the close of the taxable year shall be considered as made on the last day of such taxable year.
+        For the purpose of applying section 562(a), with respect to distributions under subsection (a) or (b) of this section, a distribution made after the close of a taxable year and on or before the 15th day of the fourth month following the close of the taxable year shall be considered as made on the last day of such taxable year.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 199][/us/stat/68A/199]; [Pub. L. 91–172, title IX, § 914(a)][/us/pl/91/172/s914/a], Dec. 30, 1969, [83 Stat. 723][/us/stat/83/723]; [Pub. L. 101–239, title VII, § 7401(b)][/us/pl/101/239/s7401/b], Dec. 19, 1989, [103 Stat. 2356][/us/stat/103/2356]; [Pub. L. 108–357, title IV, § 413(c)(10)][/us/pl/108/357/s413/c/10], Oct. 22, 2004, [118 Stat. 1507][/us/stat/118/1507].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 199][/us/stat/68A/199]; [Pub. L. 91–172, title IX, § 914(a)][/us/pl/91/172/s914/a], Dec. 30, 1969, [83 Stat. 723][/us/stat/83/723]; [Pub. L. 101–239, title VII, § 7401(b)][/us/pl/101/239/s7401/b], Dec. 19, 1989, [103 Stat. 2356][/us/stat/103/2356]; [Pub. L. 108–357, title IV, § 413(c)(10)][/us/pl/108/357/s413/c/10], Oct. 22, 2004, [118 Stat. 1507][/us/stat/118/1507]; [Pub. L. 114–41, title II, § 2006(a)(2)(B)][/us/pl/114/41/s2006/a/2/B], July 31, 2015, [129 Stat. 457][/us/stat/129/457].)
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–41][/us/pl/114/41] substituted “fourth month” for “third month” wherever appearing.
 
     2004—Subsecs. (c), (d). [Pub. L. 108–357][/us/pl/108/357] redesignated subsec. (d) as (c), substituted “subsection (a) or (b)” for “subsection (a), (b), or (c)”, and struck out former subsec. (c) which related to foreign personal holding company tax.
 
@@ -44,6 +46,10 @@
     [Pub. L. 101–239, § 7401(b)(1)][/us/pl/101/239/s7401/b/1], redesignated former subsec. (c) as (d).
 
     1969—Subsec. (b)(2). [Pub. L. 91–172][/us/pl/91/172] substituted “20 percent” for “10 percent”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–41][/us/pl/114/41] applicable to returns for taxable years beginning after Dec. 31, 2015, with special rule for certain C corporations, see [section 2006(a)(3) of Pub. L. 114–41][/us/pl/114/41/s2006/a/3], set out as a note under [section 170 of this title][/us/usc/t26/s170].
 
  __Effective Date of 2004 Amendment__ 
 
@@ -74,11 +80,17 @@
 [/us/stat/103/2356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2356
 [/us/pl/108/357/s413/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs413%2Fc%2F10
 [/us/stat/118/1507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1507
+[/us/pl/114/41/s2006/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2006%2Fa%2F2%2FB
+[/us/stat/129/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F457
+[/us/pl/114/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/101/239/s7401/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7401%2Fb%2F1
 [/us/pl/101/239/s7401/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7401%2Fb%2F2
 [/us/pl/101/239/s7401/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7401%2Fb%2F1
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/114/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41
+[/us/pl/114/41/s2006/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2006%2Fa%2F3
+[/us/usc/t26/s170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs170
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357/s413/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs413%2Fd%2F1
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1

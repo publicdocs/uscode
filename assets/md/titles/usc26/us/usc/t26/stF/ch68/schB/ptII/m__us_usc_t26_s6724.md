@@ -109,7 +109,7 @@
 
                 (xxiv) section 6055 (relating to returns relating to information regarding health insurance coverage), or
 
-                (xxv) section 6056 (relating to returns relating to certain employers required to report on health insurance coverage), and
+                (xxv) section 6056 (relating to returns relating to certain employers required to report on health insurance coverage),
 
             (C)
 
@@ -117,9 +117,9 @@
 
                 (i) section 408(i) (relating to reports with respect to individual retirement accounts or annuities), or
 
-                (ii) section 6047(d) (relating to reports by employers, plan administrators, etc.).
+                (ii) section 6047(d) (relating to reports by employers, plan administrators, etc.), and
 
-                Such term also includes any form, statement, or schedule required to be filed with the Secretary under chapter 4 or with respect to any amount from which tax was required to be deducted and withheld under chapter 3 (or from which tax would be required to be so deducted and withheld but for an exemption under this title or any treaty obligation of the United States). <sup>\[3\]</sup>  <sup><sup> 3 So in original. Provision probably should be set flush with par. (1). </sup></sup> 
+            (D) any statement required to be filed with the Secretary under section 6035.    Such term also includes any form, statement, or schedule required to be filed with the Secretary under chapter 4 or with respect to any amount from which tax was required to be deducted and withheld under chapter 3 (or from which tax would be required to be so deducted and withheld but for an exemption under this title or any treaty obligation of the United States). <sup>\[3\]</sup>  <sup><sup> 3 So in original. Provision probably should be set flush with par. (1). </sup></sup> 
 
         (2) __Payee statement__ 
 
@@ -189,9 +189,11 @@
 
             (FF) section 6050W(f) (relating to returns relating to payments made in settlement of payment card transactions),
 
-            (GG) section 6055(c) (relating to statements relating to information regarding health insurance coverage), or
+            (GG) section 6055(c) (relating to statements relating to information regarding health insurance coverage),
 
-            (HH) section 6056(c) (relating to statements relating to certain employers required to report on health insurance coverage).
+            (HH) section 6056(c) (relating to statements relating to certain employers required to report on health insurance coverage), or
+
+            (II) section 6035 (other than a statement described in paragraph (1)(D)).
 
             Such term also includes any form, statement, or schedule required to be furnished to the recipient of any amount from which tax was required to be deducted and withheld under chapter 3 or 4 (or from which tax would be required to be so deducted and withheld but for an exemption under this title or any treaty obligation of the United States).
 
@@ -239,7 +241,7 @@
 
         No penalty shall be imposed under section 6721 or 6722 solely by reason of failing to provide the TIN of an individual on a return or statement required by section 6050S(a)(1) if the eligible educational institution required to make such return contemporaneously makes a true and accurate certification under penalty of perjury (and in such form and manner as may be prescribed by the Secretary) that it has complied with standards promulgated by the Secretary for obtaining such individual’s TIN.
 
-(Added [Pub. L. 99–514, title XV, § 1501(a)][/us/pl/99/514/s1501/a], Oct. 22, 1986, [100 Stat. 2734][/us/stat/100/2734]; amended [Pub. L. 100–418, title I, § 1941(b)(2)(M)][/us/pl/100/418/s1941/b/2/M], Aug. 23, 1988, [102 Stat. 1323][/us/stat/102/1323]; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1006(h)(3)(A), 1015(a), title III, § 3001(b)(1), (2), Nov. 10, 1988, [102 Stat. 3410][/us/stat/102/3410], 3568, 3614; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7711(a), 7811(c)(3), 7813(a), Dec. 19, 1989, [103 Stat. 2391][/us/stat/103/2391], 2407, 2412; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11212(e)(1), 11323(b)(2), (c)(2), Nov. 5, 1990, [104 Stat. 1388–432][/us/stat/104/1388-432], 1388–465; [Pub. L. 102–486, title XIX, § 1933(b)][/us/pl/102/486/s1933/b], Oct. 24, 1992, [106 Stat. 3031][/us/stat/106/3031]; [Pub. L. 103–66, title XIII, § 13252(b)][/us/pl/103/66/s13252/b], Aug. 10, 1993, [107 Stat. 532][/us/stat/107/532]; [Pub. L. 103–322, title II, § 20415(b)(1)][/us/pl/103/322/s20415/b/1], (2), Sept. 13, 1994, [108 Stat. 1833][/us/stat/108/1833]; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1116(b)(2)(A), (B), 1455(a), 1615(a)(2)(B), 1702(b)(1), (c)(2), 1704(j)(3), 1901(c)(1), Aug. 20, 1996, [110 Stat. 1764][/us/stat/110/1764], 1817, 1853, 1868, 1869, 1881, 1908; [Pub. L. 104–191, title III, § 323(b)][/us/pl/104/191/s323/b], Aug. 21, 1996, [110 Stat. 2062][/us/stat/110/2062]; [Pub. L. 105–34, title II, § 201(c)(2)][/us/pl/105/34/s201/c/2], title XII, §§ 1213(b), 1223(b), title XVI, § 1602(d)(2)(A), Aug. 5, 1997, [111 Stat. 805][/us/stat/111/805], 1001, 1019, 1094; [Pub. L. 105–206, title VI][/us/pl/105/206], §§ 6004(a)(3), 6010(o)(4)(B), (C), 6012(b)(5), (d), July 22, 1998, [112 Stat. 792][/us/stat/112/792], 816, 819; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 319(23)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–647; [Pub. L. 107–210, div. A, title II, § 202(c)(2)][/us/pl/107/210/s202/c/2], Aug. 6, 2002, [116 Stat. 962][/us/stat/116/962]; [Pub. L. 108–357, title VIII][/us/pl/108/357], §§ 805(b), 853(d)(2)(L), (M), Oct. 22, 2004, [118 Stat. 1574][/us/stat/118/1574], 1613; [Pub. L. 109–280, title VIII, § 844(d)(2)][/us/pl/109/280/s844/d/2], title XII, § 1211(b)(1), Aug. 17, 2006, [120 Stat. 1012][/us/stat/120/1012], 1073; [Pub. L. 109–432, div. A, title IV, § 403(c)(1)][/us/pl/109/432/s403/c/1], (2), Dec. 20, 2006, [120 Stat. 2955][/us/stat/120/2955]; [Pub. L. 110–172, § 11(b)(2)][/us/pl/110/172/s11/b/2], Dec. 29, 2007, [121 Stat. 2488][/us/stat/121/2488]; [Pub. L. 110–289, div. C, title III, § 3091(b)][/us/pl/110/289/s3091/b], July 30, 2008, [122 Stat. 2910][/us/stat/122/2910]; [Pub. L. 110–343, div. B, title IV, § 403(c)(2)][/us/pl/110/343/s403/c/2], (d)(2), Oct. 3, 2008, [122 Stat. 3858][/us/stat/122/3858], 3860; [Pub. L. 111–147, title V][/us/pl/111/147], §§ 501(c)(6), (7), 522(b), Mar. 18, 2010, [124 Stat. 106][/us/stat/124/106], 113; [Pub. L. 111–148, title I][/us/pl/111/148], §§ 1502(b), 1514(b), title X, § 10108(j)(3)(E), (F), Mar. 23, 2010, [124 Stat. 251][/us/stat/124/251], 257, 915; [Pub. L. 113–295, div. A, title II, § 220(x)][/us/pl/113/295/s220/x], Dec. 19, 2014, [128 Stat. 4036][/us/stat/128/4036]; [Pub. L. 114–27, title VIII, § 805(a)][/us/pl/114/27/s805/a], June 29, 2015, [129 Stat. 416][/us/stat/129/416].)
+(Added [Pub. L. 99–514, title XV, § 1501(a)][/us/pl/99/514/s1501/a], Oct. 22, 1986, [100 Stat. 2734][/us/stat/100/2734]; amended [Pub. L. 100–418, title I, § 1941(b)(2)(M)][/us/pl/100/418/s1941/b/2/M], Aug. 23, 1988, [102 Stat. 1323][/us/stat/102/1323]; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1006(h)(3)(A), 1015(a), title III, § 3001(b)(1), (2), Nov. 10, 1988, [102 Stat. 3410][/us/stat/102/3410], 3568, 3614; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7711(a), 7811(c)(3), 7813(a), Dec. 19, 1989, [103 Stat. 2391][/us/stat/103/2391], 2407, 2412; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11212(e)(1), 11323(b)(2), (c)(2), Nov. 5, 1990, [104 Stat. 1388–432][/us/stat/104/1388-432], 1388–465; [Pub. L. 102–486, title XIX, § 1933(b)][/us/pl/102/486/s1933/b], Oct. 24, 1992, [106 Stat. 3031][/us/stat/106/3031]; [Pub. L. 103–66, title XIII, § 13252(b)][/us/pl/103/66/s13252/b], Aug. 10, 1993, [107 Stat. 532][/us/stat/107/532]; [Pub. L. 103–322, title II, § 20415(b)(1)][/us/pl/103/322/s20415/b/1], (2), Sept. 13, 1994, [108 Stat. 1833][/us/stat/108/1833]; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1116(b)(2)(A), (B), 1455(a), 1615(a)(2)(B), 1702(b)(1), (c)(2), 1704(j)(3), 1901(c)(1), Aug. 20, 1996, [110 Stat. 1764][/us/stat/110/1764], 1817, 1853, 1868, 1869, 1881, 1908; [Pub. L. 104–191, title III, § 323(b)][/us/pl/104/191/s323/b], Aug. 21, 1996, [110 Stat. 2062][/us/stat/110/2062]; [Pub. L. 105–34, title II, § 201(c)(2)][/us/pl/105/34/s201/c/2], title XII, §§ 1213(b), 1223(b), title XVI, § 1602(d)(2)(A), Aug. 5, 1997, [111 Stat. 805][/us/stat/111/805], 1001, 1019, 1094; [Pub. L. 105–206, title VI][/us/pl/105/206], §§ 6004(a)(3), 6010(o)(4)(B), (C), 6012(b)(5), (d), July 22, 1998, [112 Stat. 792][/us/stat/112/792], 816, 819; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 319(23)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–647; [Pub. L. 107–210, div. A, title II, § 202(c)(2)][/us/pl/107/210/s202/c/2], Aug. 6, 2002, [116 Stat. 962][/us/stat/116/962]; [Pub. L. 108–357, title VIII][/us/pl/108/357], §§ 805(b), 853(d)(2)(L), (M), Oct. 22, 2004, [118 Stat. 1574][/us/stat/118/1574], 1613; [Pub. L. 109–280, title VIII, § 844(d)(2)][/us/pl/109/280/s844/d/2], title XII, § 1211(b)(1), Aug. 17, 2006, [120 Stat. 1012][/us/stat/120/1012], 1073; [Pub. L. 109–432, div. A, title IV, § 403(c)(1)][/us/pl/109/432/s403/c/1], (2), Dec. 20, 2006, [120 Stat. 2955][/us/stat/120/2955]; [Pub. L. 110–172, § 11(b)(2)][/us/pl/110/172/s11/b/2], Dec. 29, 2007, [121 Stat. 2488][/us/stat/121/2488]; [Pub. L. 110–289, div. C, title III, § 3091(b)][/us/pl/110/289/s3091/b], July 30, 2008, [122 Stat. 2910][/us/stat/122/2910]; [Pub. L. 110–343, div. B, title IV, § 403(c)(2)][/us/pl/110/343/s403/c/2], (d)(2), Oct. 3, 2008, [122 Stat. 3858][/us/stat/122/3858], 3860; [Pub. L. 111–147, title V][/us/pl/111/147], §§ 501(c)(6), (7), 522(b), Mar. 18, 2010, [124 Stat. 106][/us/stat/124/106], 113; [Pub. L. 111–148, title I][/us/pl/111/148], §§ 1502(b), 1514(b), title X, § 10108(j)(3)(E), (F), Mar. 23, 2010, [124 Stat. 251][/us/stat/124/251], 257, 915; [Pub. L. 113–295, div. A, title II, § 220(x)][/us/pl/113/295/s220/x], Dec. 19, 2014, [128 Stat. 4036][/us/stat/128/4036]; [Pub. L. 114–27, title VIII, § 805(a)][/us/pl/114/27/s805/a], June 29, 2015, [129 Stat. 416][/us/stat/129/416]; [Pub. L. 114–41, title II, § 2004(b)(2)][/us/pl/114/41/s2004/b/2], July 31, 2015, [129 Stat. 456][/us/stat/129/456].)
 
  __Codification__ 
 
@@ -249,7 +251,11 @@
 
  __Amendments__ 
 
-    2015—Subsec. (f). [Pub. L. 114–27][/us/pl/114/27] added subsec. (f).
+    2015—Subsec. (d)(1)(D). [Pub. L. 114–41, § 2004(b)(2)(A)][/us/pl/114/41/s2004/b/2/A], which directed amendment of subsec. (d)(1) by “adding at the end” subpar. (D), was executed by adding subpar. (D) after subpar. (C) to reflect the probable intent of Congress.
+
+    Subsec. (d)(2)(II). [Pub. L. 114–41, § 2004(b)(2)(B)][/us/pl/114/41/s2004/b/2/B], which directed amendment of subsec. (d)(2) by “adding at the end” subpar. (II), was executed by adding subpar. (II) after subpar. (HH) to reflect the probable intent of Congress.
+
+    Subsec. (f). [Pub. L. 114–27][/us/pl/114/27] added subsec. (f).
 
     2014—Subsec. (d)(2)(FF). [Pub. L. 113–295][/us/pl/113/295] substituted “section 6050W(f)” for “section 6050W(c)”.
 
@@ -539,6 +545,8 @@
 
  __Effective Date of 2015 Amendment__ 
 
+    Amendment by [Pub. L. 114–41][/us/pl/114/41] applicable to property with respect to which an estate tax return is filed after July 31, 2015, see [section 2004(d) of Pub. L. 114–41][/us/pl/114/41/s2004/d], set out as a note under [section 1014 of this title][/us/usc/t26/s1014].
+
 [Pub. L. 114–27, title VIII, § 805(b)][/us/pl/114/27/s805/b], June 29, 2015, [129 Stat. 416][/us/stat/129/416], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to returns required to be made, and statements required to be furnished, after December 31, 2015.”
@@ -732,9 +740,13 @@
 [/us/stat/128/4036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4036
 [/us/pl/114/27/s805/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs805%2Fa
 [/us/stat/129/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F416
+[/us/pl/114/41/s2004/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2004%2Fb%2F2
+[/us/stat/129/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F456
 [/us/pl/109/280/s1211/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1211%2Fb%2F1
 [/us/pl/104/188/s1901/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1901%2Fc%2F1
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/114/41/s2004/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2004%2Fb%2F2%2FA
+[/us/pl/114/41/s2004/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2004%2Fb%2F2%2FB
 [/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/111/147/s522/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs522%2Fb
@@ -880,6 +892,9 @@
 [/us/pl/100/418/s1941/b/2/M/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1941%2Fb%2F2%2FM%2Fii
 [/us/pl/100/418/s1941/b/2/M/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1941%2Fb%2F2%2FM%2Fii
 [/us/pl/100/647/s1015/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1015%2Fa
+[/us/pl/114/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41
+[/us/pl/114/41/s2004/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2004%2Fd
+[/us/usc/t26/s1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1014
 [/us/pl/114/27/s805/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27%2Fs805%2Fb
 [/us/stat/129/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F416
 [/us/pl/111/148/s1502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1502%2Fb

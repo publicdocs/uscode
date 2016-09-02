@@ -229,6 +229,10 @@
 
                     (II) the individual is making a qualified HSA distribution (as defined in section 106(e)) in an amount equal to the remaining balance in such arrangement as of the end of such plan year, in accordance with rules prescribed by the Secretary.
 
+            (C) __Special rule for individuals eligible for certain veterans benefits__ 
+
+                An individual shall not fail to be treated as an eligible individual for any period merely because the individual receives hospital care or medical services under any law administered by the Secretary of Veterans Affairs for a service-connected disability (within the meaning of [section 101(16) of title 38][/us/usc/t38/s101/16], United States Code).
+
         (2) __High deductible health plan__ 
 
             (A) __In general__ 
@@ -497,7 +501,7 @@
 
         The reports required by this subsection shall be filed at such time and in such manner and furnished to such individuals at such time and in such manner as may be required by the Secretary.
 
-(Added [Pub. L. 108–173, title XII, § 1201(a)][/us/pl/108/173/s1201/a], Dec. 8, 2003, [117 Stat. 2469][/us/stat/117/2469]; amended [Pub. L. 109–135, title IV, § 404(c)][/us/pl/109/135/s404/c], Dec. 21, 2005, [119 Stat. 2634][/us/stat/119/2634]; [Pub. L. 109–432, div. A, title III][/us/pl/109/432], §§ 302(b), 303(a), (b), 304, 305(a), 307(b), Dec. 20, 2006, [120 Stat. 2949][/us/stat/120/2949], 2950, 2953; [Pub. L. 111–148, title IX][/us/pl/111/148], §§ 9003(a), 9004(a), Mar. 23, 2010, [124 Stat. 854][/us/stat/124/854].)
+(Added [Pub. L. 108–173, title XII, § 1201(a)][/us/pl/108/173/s1201/a], Dec. 8, 2003, [117 Stat. 2469][/us/stat/117/2469]; amended [Pub. L. 109–135, title IV, § 404(c)][/us/pl/109/135/s404/c], Dec. 21, 2005, [119 Stat. 2634][/us/stat/119/2634]; [Pub. L. 109–432, div. A, title III][/us/pl/109/432], §§ 302(b), 303(a), (b), 304, 305(a), 307(b), Dec. 20, 2006, [120 Stat. 2949][/us/stat/120/2949], 2950, 2953; [Pub. L. 111–148, title IX][/us/pl/111/148], §§ 9003(a), 9004(a), Mar. 23, 2010, [124 Stat. 854][/us/stat/124/854]; [Pub. L. 114–41, title IV, § 4007(b)(1)][/us/pl/114/41/s4007/b/1], July 31, 2015, [129 Stat. 466][/us/stat/129/466].)
 
  __Inflation Adjusted Items for Certain Years__ 
 
@@ -512,6 +516,8 @@
     A prior section 223 was renumbered [section 224 of this title][/us/usc/t26/s224].
 
  __Amendments__ 
+
+    2015—Subsec. (c)(1)(C). [Pub. L. 114–41][/us/pl/114/41] added subpar. (C).
 
     2010—Subsec. (d)(2)(A). [Pub. L. 111–148, § 9003(a)][/us/pl/111/148/s9003/a], inserted at end “Such term shall include an amount paid for medicine or a drug only if such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin.”
 
@@ -540,6 +546,12 @@
     Subsec. (g)(1). [Pub. L. 109–432, § 304][/us/pl/109/432/s304], inserted concluding provisions.
 
     2005—Subsec. (d)(2)(A). [Pub. L. 109–135][/us/pl/109/135] inserted “, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof” after “section 152”.
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–41, title IV, § 4007(b)(2)][/us/pl/114/41/s4007/b/2], July 31, 2015, [129 Stat. 466][/us/stat/129/466], provided that: 
+
+> “The amendment made by this subsection \[amending this section\] shall apply to months beginning after December 31, 2015.”
 
  __Effective Date of 2010 Amendment__ 
 
@@ -600,6 +612,7 @@
 ----------
 ----------
 
+[/us/usc/t38/s101/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101%2F16
 [/us/pl/108/173/s1201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1201%2Fa
 [/us/stat/117/2469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2469
 [/us/pl/109/135/s404/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs404%2Fc
@@ -608,11 +621,14 @@
 [/us/stat/120/2949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2949
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F854
+[/us/pl/114/41/s4007/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs4007%2Fb%2F1
+[/us/stat/129/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F466
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/usc/t26/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs224
+[/us/pl/114/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41
 [/us/pl/111/148/s9003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9003%2Fa
 [/us/pl/111/148/s9004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9004%2Fa
 [/us/pl/109/432/s303/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs303%2Fa%2F1
@@ -623,6 +639,8 @@
 [/us/pl/109/432/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs303%2Fb
 [/us/pl/109/432/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs304
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/114/41/s4007/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs4007%2Fb%2F2
+[/us/stat/129/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F466
 [/us/pl/111/148/s9003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9003%2Fa
 [/us/pl/111/148/s9003/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9003%2Fd%2F1
 [/us/usc/t26/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs220

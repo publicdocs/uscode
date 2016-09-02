@@ -45,7 +45,7 @@
 
             Except as provided in subparagraph (C)—
 
-                (i) a revocation made during the taxable year and on or before the 15th day of the 3d month thereof shall be effective on the 1st day of such taxable year, and
+                (i) a revocation made during the taxable year and on or before the 15th day of the 4th month thereof shall be effective on the 1st day of such taxable year, and
 
                 (ii) a revocation made during the taxable year but after such 15th day shall be effective on the 1st day of the following taxable year.
 
@@ -71,11 +71,17 @@
 
         If a qualifying vessel operator has made an election under subsection (a) and if such election has been terminated under subsection (d), such operator (and any successor operator) shall not be eligible to make an election under subsection (a) for any taxable year before its 5th taxable year which begins after the 1st taxable year for which such termination is effective, unless the Secretary consents to such election.
 
-(Added [Pub. L. 108–357, title II, § 248(a)][/us/pl/108/357/s248/a], Oct. 22, 2004, [118 Stat. 1451][/us/stat/118/1451]; amended [Pub. L. 109–135, title IV, § 403(g)(4)][/us/pl/109/135/s403/g/4], Dec. 21, 2005, [119 Stat. 2624][/us/stat/119/2624].)
+(Added [Pub. L. 108–357, title II, § 248(a)][/us/pl/108/357/s248/a], Oct. 22, 2004, [118 Stat. 1451][/us/stat/118/1451]; amended [Pub. L. 109–135, title IV, § 403(g)(4)][/us/pl/109/135/s403/g/4], Dec. 21, 2005, [119 Stat. 2624][/us/stat/119/2624]; [Pub. L. 114–41, title II, § 2006(a)(2)(C)][/us/pl/114/41/s2006/a/2/C], July 31, 2015, [129 Stat. 457][/us/stat/129/457].)
 
  __Amendments__ 
 
+    2015—Subsec. (d)(1)(B)(i). [Pub. L. 114–41][/us/pl/114/41] substituted “4th month” for “3d month”.
+
     2005—Subsec. (b). [Pub. L. 109–135][/us/pl/109/135] inserted “on or” after “only if made” in concluding provisions.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–41][/us/pl/114/41] applicable to returns for taxable years beginning after Dec. 31, 2015, with special rule for certain C corporations, see [section 2006(a)(3) of Pub. L. 114–41][/us/pl/114/41/s2006/a/3], set out as a note under [section 170 of this title][/us/usc/t26/s170].
 
  __Effective Date of 2005 Amendment__ 
 
@@ -92,7 +98,13 @@
 [/us/stat/118/1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1451
 [/us/pl/109/135/s403/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fg%2F4
 [/us/stat/119/2624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2624
+[/us/pl/114/41/s2006/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2006%2Fa%2F2%2FC
+[/us/stat/129/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F457
+[/us/pl/114/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/114/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41
+[/us/pl/114/41/s2006/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2006%2Fa%2F3
+[/us/usc/t26/s170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs170
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/109/135/s403/nn]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fnn

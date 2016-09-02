@@ -41,7 +41,7 @@
 
         The period of the underpayment shall run from the due date for the installment to whichever of the following dates is the earlier—
 
-            (A) the 15th day of the 3rd month following the close of the taxable year, or
+            (A) the 15th day of the 4th month following the close of the taxable year, or
 
             (B) with respect to any portion of the underpayment, the date on which such portion is paid.
 
@@ -419,7 +419,7 @@
 
             (C) Any reference to taxable income shall be treated as including a reference to unrelated business taxable income or net investment income (as the case may be).
 
-            In the case of any organization described in subparagraph (A), subsection (b)(2)(A) shall be applied by substituting “5th month” for “3rd month”, subsection (e)(2)(A) shall be applied by substituting “2 months” for “3 months” in clause (i)(I), the election under clause (i) of subsection (e)(2)(C) may be made separately for each installment, and clause (ii) of subsection (e)(2)(C) shall not apply. In the case of a private foundation, subsection (c)(2) shall be applied by substituting “May 15” for “April 15”.
+            In the case of any organization described in subparagraph (A), subsection (b)(2)(A) shall be applied by substituting “5th month” for “4th month”, subsection (e)(2)(A) shall be applied by substituting “2 months” for “3 months” in clause (i)(I), the election under clause (i) of subsection (e)(2)(C) may be made separately for each installment, and clause (ii) of subsection (e)(2)(C) shall not apply. In the case of a private foundation, subsection (c)(2) shall be applied by substituting “May 15” for “April 15”.
 
         (4) __Application of section to certain taxes imposed on S corporations__ 
 
@@ -451,13 +451,15 @@
 
             (D) The requirement in the last sentence of subsection (d)(1)(B) that the return for the preceding taxable year show a liability for tax shall not apply.
 
-            (E) Any reference in subsection (e) to taxable income shall be treated as including a reference to the net recognized built-in gain or the excess passive income (as the case may be).
+            (E) Subsection (b)(2)(A) shall be applied by substituting “3rd month” for “4th month”.
+
+            (F) Any reference in subsection (e) to taxable income shall be treated as including a reference to the net recognized built-in gain or the excess passive income (as the case may be).
 
     (h) __Excessive adjustment under section 6425__ 
 
         (1) __Addition to tax__ 
 
-            If the amount of an adjustment under section 6425 made before the 15th day of the 3rd month following the close of the taxable year is excessive, there shall be added to the tax under chapter 1 for the taxable year an amount determined at the underpayment rate established under section 6621 upon the excessive amount from the date on which the credit is allowed or the refund is paid to such 15th day.
+            If the amount of an adjustment under section 6425 made before the 15th day of the 4th month following the close of the taxable year is excessive, there shall be added to the tax under chapter 1 for the taxable year an amount determined at the underpayment rate established under section 6621 upon the excessive amount from the date on which the credit is allowed or the refund is paid to such 15th day.
 
         (2) __Excessive amount__ 
 
@@ -481,9 +483,15 @@
 
         The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 825][/us/stat/68A/825]; [Pub. L. 88–272, title I, § 122(c)][/us/pl/88/272/s122/c], Feb. 26, 1964, [78 Stat. 28][/us/stat/78/28]; [Pub. L. 90–364, title I, § 103(c)][/us/pl/90/364/s103/c], (d)(2), (e)(1), June 28, 1968, [82 Stat. 262][/us/stat/82/262], 264; [Pub. L. 93–625, § 7(c)][/us/pl/93/625/s7/c], Jan. 3, 1975, [88 Stat. 2115][/us/stat/88/2115]; [Pub. L. 94–455, title XIX, § 1906(b)(3)(A)][/us/pl/94/455/s1906/b/3/A]–(C)(i), (13)(A), Oct. 4, 1976, [90 Stat. 1833][/us/stat/90/1833], 1834; [Pub. L. 95–600, title III, § 301(b)(20)(B)][/us/pl/95/600/s301/b/20/B], Nov. 6, 1978, [92 Stat. 2824][/us/stat/92/2824]; [Pub. L. 96–499, title XI, § 1111(a)][/us/pl/96/499/s1111/a], (b), Dec. 5, 1980, [94 Stat. 2681][/us/stat/94/2681], 2682; [Pub. L. 97–34, title VI, § 601(a)(6)(B)][/us/pl/97/34/s601/a/6/B], title VII, § 731(a), (b), Aug. 13, 1981, [95 Stat. 336][/us/stat/95/336], 346, 347; [Pub. L. 97–248, title II, § 234(a)][/us/pl/97/248/s234/a], (c), (d), Sept. 3, 1982, [96 Stat. 503][/us/stat/96/503], 504; [Pub. L. 97–448, title II, § 201(j)(4)][/us/pl/97/448/s201/j/4], Jan. 12, 1983, [96 Stat. 2396][/us/stat/96/2396]; [Pub. L. 99–499, title V, § 516(b)(4)(D)][/us/pl/99/499/s516/b/4/D], Oct. 17, 1986, [100 Stat. 1771][/us/stat/100/1771]; [Pub. L. 99–514, title VII, § 701(d)(3)][/us/pl/99/514/s701/d/3], title XV, § 1511(c)(15), Oct. 22, 1986, [100 Stat. 2342][/us/stat/100/2342], 2745; [Pub. L. 100–203, title X, § 10301(a)][/us/pl/100/203/s10301/a], Dec. 22, 1987, [101 Stat. 1330–424][/us/stat/101/1330-424]; [Pub. L. 100–418, title I, § 1941(b)(6)(B)][/us/pl/100/418/s1941/b/6/B], Aug. 23, 1988, [102 Stat. 1324][/us/stat/102/1324]; [Pub. L. 100–647, title II, § 2004(r)][/us/pl/100/647/s2004/r], title V, § 5001(a), Nov. 10, 1988, [102 Stat. 3609][/us/stat/102/3609], 3660; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7209(a), 7822(a), Dec. 19, 1989, [103 Stat. 2338][/us/stat/103/2338], 2424; [Pub. L. 101–508, title XI, § 11704(a)(28)][/us/pl/101/508/s11704/a/28], Nov. 5, 1990, [104 Stat. 1388–519][/us/stat/104/1388-519]; [Pub. L. 102–227, title II, § 201(a)][/us/pl/102/227/s201/a], (b), Dec. 11, 1991, [105 Stat. 1689][/us/stat/105/1689]; [Pub. L. 102–244, § 3(a)][/us/pl/102/244/s3/a], Feb. 7, 1992, [106 Stat. 4][/us/stat/106/4]; [Pub. L. 102–318, title V, § 512(a)][/us/pl/102/318/s512/a], (b), July 3, 1992, [106 Stat. 300][/us/stat/106/300]; [Pub. L. 103–66, title XIII, § 13225(a)][/us/pl/103/66/s13225/a], (b), Aug. 10, 1993, [107 Stat. 486][/us/stat/107/486]; [Pub. L. 103–465, title VII, § 711(a)][/us/pl/103/465/s711/a], Dec. 8, 1994, [108 Stat. 4998][/us/stat/108/4998]; [Pub. L. 104–188, title I, § 1703(h)][/us/pl/104/188/s1703/h], Aug. 20, 1996, [110 Stat. 1876][/us/stat/110/1876]; [Pub. L. 105–34, title XIV, § 1461(a)][/us/pl/105/34/s1461/a], Aug. 5, 1997, [111 Stat. 1057][/us/stat/111/1057]; [Pub. L. 106–170, title V, § 571(a)][/us/pl/106/170/s571/a], Dec. 17, 1999, [113 Stat. 1950][/us/stat/113/1950]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 319(21)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–647; [Pub. L. 113–295, div. A, title II, § 221(a)(12)(K)][/us/pl/113/295/s221/a/12/K], (114), Dec. 19, 2014, [128 Stat. 4039][/us/stat/128/4039], 4054.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 825][/us/stat/68A/825]; [Pub. L. 88–272, title I, § 122(c)][/us/pl/88/272/s122/c], Feb. 26, 1964, [78 Stat. 28][/us/stat/78/28]; [Pub. L. 90–364, title I, § 103(c)][/us/pl/90/364/s103/c], (d)(2), (e)(1), June 28, 1968, [82 Stat. 262][/us/stat/82/262], 264; [Pub. L. 93–625, § 7(c)][/us/pl/93/625/s7/c], Jan. 3, 1975, [88 Stat. 2115][/us/stat/88/2115]; [Pub. L. 94–455, title XIX, § 1906(b)(3)(A)][/us/pl/94/455/s1906/b/3/A]–(C)(i), (13)(A), Oct. 4, 1976, [90 Stat. 1833][/us/stat/90/1833], 1834; [Pub. L. 95–600, title III, § 301(b)(20)(B)][/us/pl/95/600/s301/b/20/B], Nov. 6, 1978, [92 Stat. 2824][/us/stat/92/2824]; [Pub. L. 96–499, title XI, § 1111(a)][/us/pl/96/499/s1111/a], (b), Dec. 5, 1980, [94 Stat. 2681][/us/stat/94/2681], 2682; [Pub. L. 97–34, title VI, § 601(a)(6)(B)][/us/pl/97/34/s601/a/6/B], title VII, § 731(a), (b), Aug. 13, 1981, [95 Stat. 336][/us/stat/95/336], 346, 347; [Pub. L. 97–248, title II, § 234(a)][/us/pl/97/248/s234/a], (c), (d), Sept. 3, 1982, [96 Stat. 503][/us/stat/96/503], 504; [Pub. L. 97–448, title II, § 201(j)(4)][/us/pl/97/448/s201/j/4], Jan. 12, 1983, [96 Stat. 2396][/us/stat/96/2396]; [Pub. L. 99–499, title V, § 516(b)(4)(D)][/us/pl/99/499/s516/b/4/D], Oct. 17, 1986, [100 Stat. 1771][/us/stat/100/1771]; [Pub. L. 99–514, title VII, § 701(d)(3)][/us/pl/99/514/s701/d/3], title XV, § 1511(c)(15), Oct. 22, 1986, [100 Stat. 2342][/us/stat/100/2342], 2745; [Pub. L. 100–203, title X, § 10301(a)][/us/pl/100/203/s10301/a], Dec. 22, 1987, [101 Stat. 1330–424][/us/stat/101/1330-424]; [Pub. L. 100–418, title I, § 1941(b)(6)(B)][/us/pl/100/418/s1941/b/6/B], Aug. 23, 1988, [102 Stat. 1324][/us/stat/102/1324]; [Pub. L. 100–647, title II, § 2004(r)][/us/pl/100/647/s2004/r], title V, § 5001(a), Nov. 10, 1988, [102 Stat. 3609][/us/stat/102/3609], 3660; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7209(a), 7822(a), Dec. 19, 1989, [103 Stat. 2338][/us/stat/103/2338], 2424; [Pub. L. 101–508, title XI, § 11704(a)(28)][/us/pl/101/508/s11704/a/28], Nov. 5, 1990, [104 Stat. 1388–519][/us/stat/104/1388-519]; [Pub. L. 102–227, title II, § 201(a)][/us/pl/102/227/s201/a], (b), Dec. 11, 1991, [105 Stat. 1689][/us/stat/105/1689]; [Pub. L. 102–244, § 3(a)][/us/pl/102/244/s3/a], Feb. 7, 1992, [106 Stat. 4][/us/stat/106/4]; [Pub. L. 102–318, title V, § 512(a)][/us/pl/102/318/s512/a], (b), July 3, 1992, [106 Stat. 300][/us/stat/106/300]; [Pub. L. 103–66, title XIII, § 13225(a)][/us/pl/103/66/s13225/a], (b), Aug. 10, 1993, [107 Stat. 486][/us/stat/107/486]; [Pub. L. 103–465, title VII, § 711(a)][/us/pl/103/465/s711/a], Dec. 8, 1994, [108 Stat. 4998][/us/stat/108/4998]; [Pub. L. 104–188, title I, § 1703(h)][/us/pl/104/188/s1703/h], Aug. 20, 1996, [110 Stat. 1876][/us/stat/110/1876]; [Pub. L. 105–34, title XIV, § 1461(a)][/us/pl/105/34/s1461/a], Aug. 5, 1997, [111 Stat. 1057][/us/stat/111/1057]; [Pub. L. 106–170, title V, § 571(a)][/us/pl/106/170/s571/a], Dec. 17, 1999, [113 Stat. 1950][/us/stat/113/1950]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 319(21)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–647; [Pub. L. 113–295, div. A, title II, § 221(a)(12)(K)][/us/pl/113/295/s221/a/12/K], (114), Dec. 19, 2014, [128 Stat. 4039][/us/stat/128/4039], 4054; [Pub. L. 114–41, title II, § 2006(a)(2)(F)][/us/pl/114/41/s2006/a/2/F], (G), July 31, 2015, [129 Stat. 457][/us/stat/129/457].)
 
  __Amendments__ 
+
+    2015—Subsecs. (b)(2)(A), (g)(3). [Pub. L. 114–41, § 2006(a)(2)(F)][/us/pl/114/41/s2006/a/2/F], substituted “4th month” for “3rd month”.
+
+    Subsec. (g)(4)(E), (F). [Pub. L. 114–41, § 2006(a)(2)(G)][/us/pl/114/41/s2006/a/2/G], added subpar. (E) and redesignated former subpar. (E) as (F).
+
+    Subsec. (h)(1). [Pub. L. 114–41, § 2006(a)(2)(F)][/us/pl/114/41/s2006/a/2/F], substituted “4th month” for “3rd month”.
 
     2014—Subsec. (e)(2)(A)(i), (B)(i). [Pub. L. 113–295, § 221(a)(12)(K)(i)][/us/pl/113/295/s221/a/12/K/i], substituted “taxable income and alternative minimum taxable income” for “taxable income, alternative minimum taxable income, and modified alternative minimum taxable income”.
 
@@ -614,6 +622,10 @@
     1964—Subsec. (c)(2). [Pub. L. 88–272, § 122(c)(1)][/us/pl/88/272/s122/c/1], substituted “any installment date” and “such installment date” for “the 15th day of the 12th month”.
 
     Subsec. (d)(3). [Pub. L. 88–272, § 122(c)(2)][/us/pl/88/272/s122/c/2], redesignated cls. (A)(i) and (ii) as (A)(iii) and (iv), respectively, added cls. (A)(i) and (ii), and substituted “(3, 5, 6, 8, 9,)” for “(6 or 8, or 9)” in subpar. (B)(ii).
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–41][/us/pl/114/41] applicable to returns for taxable years beginning after Dec. 31, 2015, with special rule for certain C corporations, see [section 2006(a)(3) of Pub. L. 114–41][/us/pl/114/41/s2006/a/3], set out as a note under [section 170 of this title][/us/usc/t26/s170].
 
  __Effective Date of 2014 Amendment__ 
 
@@ -1094,6 +1106,11 @@
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/113/295/s221/a/12/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F12%2FK
 [/us/stat/128/4039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4039
+[/us/pl/114/41/s2006/a/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2006%2Fa%2F2%2FF
+[/us/stat/129/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F457
+[/us/pl/114/41/s2006/a/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2006%2Fa%2F2%2FF
+[/us/pl/114/41/s2006/a/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2006%2Fa%2F2%2FG
+[/us/pl/114/41/s2006/a/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2006%2Fa%2F2%2FF
 [/us/pl/113/295/s221/a/12/K/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F12%2FK%2Fi
 [/us/pl/113/295/s221/a/12/K/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F12%2FK%2Fii
 [/us/pl/113/295/s221/a/12/K/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F12%2FK%2Fiii
@@ -1159,6 +1176,9 @@
 [/us/pl/90/364/s103/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F364%2Fs103%2Fd%2F2
 [/us/pl/88/272/s122/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs122%2Fc%2F1
 [/us/pl/88/272/s122/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs122%2Fc%2F2
+[/us/pl/114/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41
+[/us/pl/114/41/s2006/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2006%2Fa%2F3
+[/us/usc/t26/s170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs170
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1

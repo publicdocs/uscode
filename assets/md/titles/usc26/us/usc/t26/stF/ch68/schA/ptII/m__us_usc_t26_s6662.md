@@ -37,6 +37,8 @@
 
         (7) Any undisclosed foreign financial asset understatement.
 
+        (8) Any inconsistent estate basis.
+
         This section shall not apply to any portion of an underpayment on which a penalty is imposed under section 6663. Except as provided in paragraph (1) or (2)(B) of section 6662A(e), this section shall not apply to the portion of any underpayment which is attributable to a reportable transaction understatement on which a penalty is imposed under section 6662A.
 
     (c) __Negligence__ 
@@ -257,7 +259,11 @@
 
             In no event shall any amendment or supplement to a return of tax be taken into account for purposes of this subsection if the amendment or supplement is filed after the earlier of the date the taxpayer is first contacted by the Secretary regarding the examination of the return or such other date as is specified by the Secretary.
 
-(Added [Pub. L. 101–239, title VII, § 7721(a)][/us/pl/101/239/s7721/a], Dec. 19, 1989, [103 Stat. 2395][/us/stat/103/2395]; amended [Pub. L. 101–508, title XI, § 11312(a)][/us/pl/101/508/s11312/a], (b), Nov. 5, 1990, [104 Stat. 1388–454][/us/stat/104/1388-454], 1388–455; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13236(a)–(d), 13251(a), Aug. 10, 1993, [107 Stat. 505][/us/stat/107/505], 506, 531; [Pub. L. 103–465, title VII, § 744(a)][/us/pl/103/465/s744/a], (b), Dec. 8, 1994, [108 Stat. 5011][/us/stat/108/5011]; [Pub. L. 105–34, title X, § 1028(c)][/us/pl/105/34/s1028/c], Aug. 5, 1997, [111 Stat. 928][/us/stat/111/928]; [Pub. L. 108–357, title VIII][/us/pl/108/357], §§ 812(b), (d), (e)(1), 819(a), (b), Oct. 22, 2004, [118 Stat. 1578][/us/stat/118/1578], 1580, 1584; [Pub. L. 109–135, title IV][/us/pl/109/135], §§ 403(x)(1), 412(aaa), Dec. 21, 2005, [119 Stat. 2629][/us/stat/119/2629], 2641; [Pub. L. 109–280, title XII, § 1219(a)(1)][/us/pl/109/280/s1219/a/1], (2), Aug. 17, 2006, [120 Stat. 1083][/us/stat/120/1083]; [Pub. L. 111–147, title V, § 512(a)][/us/pl/111/147/s512/a], Mar. 18, 2010, [124 Stat. 110][/us/stat/124/110]; [Pub. L. 111–152, title I, § 1409(b)(1)][/us/pl/111/152/s1409/b/1], (2), Mar. 30, 2010, [124 Stat. 1068][/us/stat/124/1068], 1069; [Pub. L. 113–295, div. A, title II, § 208(a)][/us/pl/113/295/s208/a], Dec. 19, 2014, [128 Stat. 4028][/us/stat/128/4028].)
+    (k) __Inconsistent estate basis reporting__ 
+
+        For purposes of this section, there is an “inconsistent estate basis” if the basis of property claimed on a return exceeds the basis as determined under section 1014(f).
+
+(Added [Pub. L. 101–239, title VII, § 7721(a)][/us/pl/101/239/s7721/a], Dec. 19, 1989, [103 Stat. 2395][/us/stat/103/2395]; amended [Pub. L. 101–508, title XI, § 11312(a)][/us/pl/101/508/s11312/a], (b), Nov. 5, 1990, [104 Stat. 1388–454][/us/stat/104/1388-454], 1388–455; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13236(a)–(d), 13251(a), Aug. 10, 1993, [107 Stat. 505][/us/stat/107/505], 506, 531; [Pub. L. 103–465, title VII, § 744(a)][/us/pl/103/465/s744/a], (b), Dec. 8, 1994, [108 Stat. 5011][/us/stat/108/5011]; [Pub. L. 105–34, title X, § 1028(c)][/us/pl/105/34/s1028/c], Aug. 5, 1997, [111 Stat. 928][/us/stat/111/928]; [Pub. L. 108–357, title VIII][/us/pl/108/357], §§ 812(b), (d), (e)(1), 819(a), (b), Oct. 22, 2004, [118 Stat. 1578][/us/stat/118/1578], 1580, 1584; [Pub. L. 109–135, title IV][/us/pl/109/135], §§ 403(x)(1), 412(aaa), Dec. 21, 2005, [119 Stat. 2629][/us/stat/119/2629], 2641; [Pub. L. 109–280, title XII, § 1219(a)(1)][/us/pl/109/280/s1219/a/1], (2), Aug. 17, 2006, [120 Stat. 1083][/us/stat/120/1083]; [Pub. L. 111–147, title V, § 512(a)][/us/pl/111/147/s512/a], Mar. 18, 2010, [124 Stat. 110][/us/stat/124/110]; [Pub. L. 111–152, title I, § 1409(b)(1)][/us/pl/111/152/s1409/b/1], (2), Mar. 30, 2010, [124 Stat. 1068][/us/stat/124/1068], 1069; [Pub. L. 113–295, div. A, title II, § 208(a)][/us/pl/113/295/s208/a], Dec. 19, 2014, [128 Stat. 4028][/us/stat/128/4028]; [Pub. L. 114–41, title II, § 2004(c)][/us/pl/114/41/s2004/c], July 31, 2015, [129 Stat. 456][/us/stat/129/456].)
 
  __References in Text__ 
 
@@ -274,6 +280,10 @@
     A prior section 6662, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 827][/us/stat/68A/827], § 6659; May 14, 1960, [Pub. L. 86–470, § 1][/us/pl/86/470/s1], [74 Stat. 132][/us/stat/74/132]; Dec. 30, 1969, [Pub. L. 91–172, title I, § 101(j)(51)][/us/pl/91/172/s101/j/51], [83 Stat. 531][/us/stat/83/531]; Sept. 2, 1974, [Pub. L. 93–406, title II, § 1016(a)(19)][/us/pl/93/406/s1016/a/19], [88 Stat. 931][/us/stat/88/931]; renumbered § 6660, Aug. 13, 1981, [Pub. L. 97–34, title VII, § 722(a)(1)][/us/pl/97/34/s722/a/1], [95 Stat. 341][/us/stat/95/341]; renumbered § 6662, Sept. 3, 1982, [Pub. L. 97–248, title III, § 323(a)][/us/pl/97/248/s323/a], [96 Stat. 613][/us/stat/96/613], directed that additions be treated as tax and set procedure for assessing certain additions to tax, prior to repeal by [Pub. L. 101–239, title VII, § 7721(a)][/us/pl/101/239/s7721/a], Dec. 19, 1989, [103 Stat. 2395][/us/stat/103/2395], applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1989. See [section 6665 of this title][/us/usc/t26/s6665].
 
  __Amendments__ 
+
+    2015—Subsec. (b)(8). [Pub. L. 114–41, § 2004(c)(1)][/us/pl/114/41/s2004/c/1], added par. (8).
+
+    Subsec. (k). [Pub. L. 114–41, § 2004(c)(2)][/us/pl/114/41/s2004/c/2], added subsec. (k).
 
     2014—Subsec. (b)(7). [Pub. L. 113–295, § 208(a)][/us/pl/113/295/s208/a], amended directory language of [Pub. L. 111–147, § 512(a)(1)][/us/pl/111/147/s512/a/1]. See 2010 Amendment note below.
 
@@ -354,6 +364,10 @@
     “(2) Limitation.—No penalty shall be imposed by reason of subsection (b)(3) unless the portion of the underpayment for the taxable year attributable to substantial valuation overstatements under chapter 1 exceeds $5,000 ($10,000 in the case of a corporation other than an S corporation or a personal holding company (as defined in section 542)).”
 
     Subsec. (h)(2)(A). [Pub. L. 101–508, § 11312(b)(2)][/us/pl/101/508/s11312/b/2], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “any substantial valuation overstatement under chapter 1 as determined under subsection (e) by substituting ‘400 percent’ for ‘200 percent’,”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–41][/us/pl/114/41] applicable to property with respect to which an estate tax return is filed after July 31, 2015, see [section 2004(d) of Pub. L. 114–41][/us/pl/114/41/s2004/d], set out as a note under [section 1014 of this title][/us/usc/t26/s1014].
 
  __Effective Date of 2014 Amendment__ 
 
@@ -474,6 +488,8 @@
 [/us/stat/124/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1068
 [/us/pl/113/295/s208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs208%2Fa
 [/us/stat/128/4028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4028
+[/us/pl/114/41/s2004/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2004%2Fc
+[/us/stat/129/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F456
 [/us/pl/111/152/s1409/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1409%2Fc%2F2%2FA
 [/us/stat/124/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1069
 [/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
@@ -493,6 +509,8 @@
 [/us/pl/101/239/s7721/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7721%2Fa
 [/us/stat/103/2395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2395
 [/us/usc/t26/s6665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6665
+[/us/pl/114/41/s2004/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2004%2Fc%2F1
+[/us/pl/114/41/s2004/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2004%2Fc%2F2
 [/us/pl/113/295/s208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs208%2Fa
 [/us/pl/111/147/s512/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs512%2Fa%2F1
 [/us/pl/111/152/s1409/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1409%2Fb%2F1
@@ -525,6 +543,9 @@
 [/us/pl/101/508/s11312/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11312%2Fb%2F1
 [/us/pl/101/508/s11312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11312%2Fa
 [/us/pl/101/508/s11312/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11312%2Fb%2F2
+[/us/pl/114/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41
+[/us/pl/114/41/s2004/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2004%2Fd
+[/us/usc/t26/s1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1014
 [/us/pl/113/295/s208/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs208%2Fb
 [/us/stat/128/4028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4028
 [/us/pl/111/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147

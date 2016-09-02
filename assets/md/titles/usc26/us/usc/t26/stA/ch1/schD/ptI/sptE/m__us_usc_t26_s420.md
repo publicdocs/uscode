@@ -65,7 +65,7 @@
 
         (4) __Expiration__ 
 
-            No transfer made after December 31, 2021, shall be treated as a qualified transfer.
+            No transfer made after December 31, 2025, shall be treated as a qualified transfer.
 
     (c) __Requirements of plans transferring assets__ 
 
@@ -401,7 +401,7 @@
 
         For purposes of this section, section 430 shall be applied without regard to subsection (h)(2)(C)(iv) thereof.
 
-(Added [Pub. L. 101–508, title XII, § 12011(a)][/us/pl/101/508/s12011/a], Nov. 5, 1990, [104 Stat. 1388–567][/us/stat/104/1388-567]; amended [Pub. L. 103–465, title VII, § 731(a)][/us/pl/103/465/s731/a]–(c)(3), Dec. 8, 1994, [108 Stat. 5003][/us/stat/108/5003], 5004; [Pub. L. 104–188, title I, § 1704(a)][/us/pl/104/188/s1704/a], (t)(32), Aug. 20, 1996, [110 Stat. 1878][/us/stat/110/1878], 1889; [Pub. L. 106–170, title V, § 535(a)(1)][/us/pl/106/170/s535/a/1], (b), Dec. 17, 1999, [113 Stat. 1934][/us/stat/113/1934]; [Pub. L. 108–218, title II, § 204(a)][/us/pl/108/218/s204/a], Apr. 10, 2004, [118 Stat. 609][/us/stat/118/609]; [Pub. L. 108–357, title VII, § 709(b)(1)][/us/pl/108/357/s709/b/1], (2), Oct. 22, 2004, [118 Stat. 1551][/us/stat/118/1551], 1552; [Pub. L. 109–280, title I, § 114(d)][/us/pl/109/280/s114/d], title VIII, §§ 841(a), 842(a), Aug. 17, 2006, [120 Stat. 854][/us/stat/120/854], 1005, 1009; [Pub. L. 110–28, title VI][/us/pl/110/28], §§ 6612(a), (b), 6613(a), May 25, 2007, [121 Stat. 181][/us/stat/121/181]; [Pub. L. 110–458, title I, § 108(i)(1)][/us/pl/110/458/s108/i/1], (2), Dec. 23, 2008, [122 Stat. 5110][/us/stat/122/5110]; [Pub. L. 112–141, div. D, title II][/us/pl/112/141], §§ 40211(a)(2)(D), 40241(a), 40242(a)–(c), (e)(1)–(13), (f), (g), July 6, 2012, [126 Stat. 847][/us/stat/126/847], 859, 860, 862, 863; [Pub. L. 113–97, title II, § 202(c)(7)][/us/pl/113/97/s202/c/7], Apr. 7, 2014, [128 Stat. 1137][/us/stat/128/1137].)
+(Added [Pub. L. 101–508, title XII, § 12011(a)][/us/pl/101/508/s12011/a], Nov. 5, 1990, [104 Stat. 1388–567][/us/stat/104/1388-567]; amended [Pub. L. 103–465, title VII, § 731(a)][/us/pl/103/465/s731/a]–(c)(3), Dec. 8, 1994, [108 Stat. 5003][/us/stat/108/5003], 5004; [Pub. L. 104–188, title I, § 1704(a)][/us/pl/104/188/s1704/a], (t)(32), Aug. 20, 1996, [110 Stat. 1878][/us/stat/110/1878], 1889; [Pub. L. 106–170, title V, § 535(a)(1)][/us/pl/106/170/s535/a/1], (b), Dec. 17, 1999, [113 Stat. 1934][/us/stat/113/1934]; [Pub. L. 108–218, title II, § 204(a)][/us/pl/108/218/s204/a], Apr. 10, 2004, [118 Stat. 609][/us/stat/118/609]; [Pub. L. 108–357, title VII, § 709(b)(1)][/us/pl/108/357/s709/b/1], (2), Oct. 22, 2004, [118 Stat. 1551][/us/stat/118/1551], 1552; [Pub. L. 109–280, title I, § 114(d)][/us/pl/109/280/s114/d], title VIII, §§ 841(a), 842(a), Aug. 17, 2006, [120 Stat. 854][/us/stat/120/854], 1005, 1009; [Pub. L. 110–28, title VI][/us/pl/110/28], §§ 6612(a), (b), 6613(a), May 25, 2007, [121 Stat. 181][/us/stat/121/181]; [Pub. L. 110–458, title I, § 108(i)(1)][/us/pl/110/458/s108/i/1], (2), Dec. 23, 2008, [122 Stat. 5110][/us/stat/122/5110]; [Pub. L. 112–141, div. D, title II][/us/pl/112/141], §§ 40211(a)(2)(D), 40241(a), 40242(a)–(c), (e)(1)–(13), (f), (g), July 6, 2012, [126 Stat. 847][/us/stat/126/847], 859, 860, 862, 863; [Pub. L. 113–97, title II, § 202(c)(7)][/us/pl/113/97/s202/c/7], Apr. 7, 2014, [128 Stat. 1137][/us/stat/128/1137]; [Pub. L. 114–41, title II, § 2007(a)][/us/pl/114/41/s2007/a], July 31, 2015, [129 Stat. 459][/us/stat/129/459].)
 
  __References in Text__ 
 
@@ -414,6 +414,8 @@
     Subsection (c)(3) as in effect before the amendments made by section 535 of the Tax Relief Extension Act of 1999, referred to in subsec. (f)(2)(D)(ii), is subsec. (c)(3) of this section prior to its general amendment by [section 535(b)(1) of Pub. L. 106–170][/us/pl/106/170/s535/b/1].
 
  __Amendments__ 
+
+    2015—Subsec. (b)(4). [Pub. L. 114–41][/us/pl/114/41] substituted “December 31, 2025” for “December 31, 2021”.
 
     2014—Subsec. (e)(5). [Pub. L. 113–97][/us/pl/113/97] substituted “sections 430 and 433” for “section 430” in heading and text.
 
@@ -716,6 +718,8 @@
 [/us/stat/126/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F847
 [/us/pl/113/97/s202/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F7
 [/us/stat/128/1137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1137
+[/us/pl/114/41/s2007/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2007%2Fa
+[/us/stat/129/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F459
 [/us/pl/112/141/s40242/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fb%2F2
 [/us/stat/126/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F859
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
@@ -725,6 +729,7 @@
 [/us/stat/88/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F829
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
 [/us/pl/106/170/s535/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs535%2Fb%2F1
+[/us/pl/114/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41
 [/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
 [/us/pl/112/141/s40242/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fe%2F1
 [/us/pl/112/141/s40242/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fa

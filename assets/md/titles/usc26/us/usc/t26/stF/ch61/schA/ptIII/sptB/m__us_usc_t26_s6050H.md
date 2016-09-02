@@ -105,13 +105,33 @@
 
                 (ii) private mortgage insurance (as defined by section 2 of the Homeowners Protection Act of 1998 ([12 U.S.C. 4901][/us/usc/t12/s4901]), as in effect on the date of the enactment of this subsection).
 
-(Added [Pub. L. 98–369, div. A, title I, § 145(a)][/us/pl/98/369/s145/a], July 18, 1984, [98 Stat. 684][/us/stat/98/684]; amended [Pub. L. 99–514, title XV, § 1501(c)(11)][/us/pl/99/514/s1501/c/11], title XVIII, § 1811(a)(1), Oct. 22, 1986, [100 Stat. 2739][/us/stat/100/2739], 2832; [Pub. L. 101–239, title VII, § 7646(a)][/us/pl/101/239/s7646/a], (b), Dec. 19, 1989, [103 Stat. 2382][/us/stat/103/2382]; [Pub. L. 104–168, title XII, § 1201(a)(8)][/us/pl/104/168/s1201/a/8], July 30, 1996, [110 Stat. 1469][/us/stat/110/1469]; [Pub. L. 104–188, title I, § 1704(t)(23)][/us/pl/104/188/s1704/t/23], Aug. 20, 1996, [110 Stat. 1888][/us/stat/110/1888]; [Pub. L. 109–432, div. A, title IV, § 419(c)][/us/pl/109/432/s419/c], Dec. 20, 2006, [120 Stat. 2968][/us/stat/120/2968].)
+(Added [Pub. L. 98–369, div. A, title I, § 145(a)][/us/pl/98/369/s145/a], July 18, 1984, [98 Stat. 684][/us/stat/98/684]; amended [Pub. L. 99–514, title XV, § 1501(c)(11)][/us/pl/99/514/s1501/c/11], title XVIII, § 1811(a)(1), Oct. 22, 1986, [100 Stat. 2739][/us/stat/100/2739], 2832; [Pub. L. 101–239, title VII, § 7646(a)][/us/pl/101/239/s7646/a], (b), Dec. 19, 1989, [103 Stat. 2382][/us/stat/103/2382]; [Pub. L. 104–168, title XII, § 1201(a)(8)][/us/pl/104/168/s1201/a/8], July 30, 1996, [110 Stat. 1469][/us/stat/110/1469]; [Pub. L. 104–188, title I, § 1704(t)(23)][/us/pl/104/188/s1704/t/23], Aug. 20, 1996, [110 Stat. 1888][/us/stat/110/1888]; [Pub. L. 109–432, div. A, title IV, § 419(c)][/us/pl/109/432/s419/c], Dec. 20, 2006, [120 Stat. 2968][/us/stat/120/2968]; [Pub. L. 114–41, title II, § 2003(a)][/us/pl/114/41/s2003/a], (b), July 31, 2015, [129 Stat. 454][/us/stat/129/454].)
+
+ __Amendment of Subsections (b)(2) and (d)(2)__ 
+
+    [Pub. L. 114–41, title II, § 2003][/us/pl/114/41/s2003], July 31, 2015, [129 Stat. 454][/us/stat/129/454], provided that, applicable to returns required to be made, and statements required to be furnished, after Dec. 31, 2016, this section is amended as follows:
+
+    (1) in subsection (b)(2), by striking “and” at the end of subparagraph (C), by redesignating subparagraph (D) as subparagraph (G), and by inserting after subparagraph (C) the following new subparagraphs:
+
+    “(D) the amount of outstanding principal on the mortgage as of the beginning of such calendar year,
+
+    “(E) the date of the origination of the mortgage,
+
+    “(F) the address (or other description in the case of property without an address) of the property which secures the mortgage, and”; and
+
+    (2) in subsection (d)(2), by striking “subsection (b)(2)(C)” and inserting “subparagraphs (C), (D), (E), and (F) of subsection (b)(2)”.
+
+    See 2015 Amendment notes below.
 
  __References in Text__ 
 
     The date of the enactment of this subsection, referred to in subsec. (h)(3)(B)(ii), is the date of enactment of [Pub. L. 109–432][/us/pl/109/432], which was approved Dec. 20, 2006.
 
  __Amendments__ 
+
+    2015—Subsec. (b)(2)(D) to (G). [Pub. L. 114–41, § 2003(a)][/us/pl/114/41/s2003/a], added subpars. (D) to (F) and redesignated former subpar. (D) as (G).
+
+    Subsec. (d)(2). [Pub. L. 114–41, § 2003(b)][/us/pl/114/41/s2003/b], substituted “subparagraphs (C), (D), (E), and (F) of subsection (b)(2)” for “subsection (b)(2)(C)”.
 
     2006—Subsec. (h). [Pub. L. 109–432][/us/pl/109/432] added subsec. (h).
 
@@ -128,6 +148,12 @@
     1986—Subsec. (d). [Pub. L. 99–514, § 1501(c)(11)][/us/pl/99/514/s1501/c/11], in amending subsec. (d) generally, substituted “information is required” for “information is furnished” in heading and, in text, substituted references to persons required to make a return for former references to persons making a return and references to persons whose name is required to be set forth for former references to persons whose name is set forth.
 
     Subsec. (g). [Pub. L. 99–514, § 1811(a)(1)][/us/pl/99/514/s1811/a/1], added subsec. (g).
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–41, title II, § 2003(c)][/us/pl/114/41/s2003/c], July 31, 2015, [129 Stat. 454][/us/stat/129/454], provided that: 
+
+> “The amendments made by this section \[amending this section\] shall apply to returns required to be made, and statements required to be furnished, after December 31, 2016.”
 
  __Effective Date of 2006 Amendment__ 
 
@@ -185,7 +211,13 @@
 [/us/stat/110/1888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1888
 [/us/pl/109/432/s419/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs419%2Fc
 [/us/stat/120/2968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2968
+[/us/pl/114/41/s2003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2003%2Fa
+[/us/stat/129/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F454
+[/us/pl/114/41/s2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2003
+[/us/stat/129/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F454
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/114/41/s2003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2003%2Fa
+[/us/pl/114/41/s2003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2003%2Fb
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/101/239/s7646/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7646%2Fb%2F1
@@ -196,6 +228,8 @@
 [/us/pl/102/239/s7646/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F239%2Fs7646%2Fb%2F2
 [/us/pl/99/514/s1501/c/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1501%2Fc%2F11
 [/us/pl/99/514/s1811/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1811%2Fa%2F1
+[/us/pl/114/41/s2003/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2003%2Fc
+[/us/stat/129/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F454
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 [/us/pl/109/432/s419/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs419%2Fd
 [/us/usc/t26/s163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs163

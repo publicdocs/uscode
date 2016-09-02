@@ -103,6 +103,14 @@
 
                 Solely for purposes of determining whether an employer is an applicable large employer under this paragraph, an employer shall, in addition to the number of full-time employees for any month otherwise determined, include for such month a number of full-time employees determined by dividing the aggregate number of hours of service of employees who are not full-time employees for the month by 120.
 
+            (F) __Exemption for health coverage under TRICARE or the Veterans Administration__ 
+
+            Solely for purposes of determining whether an employer is an applicable large employer under this paragraph for any month, an individual shall not be taken into account as an employee for such month if such individual has medical coverage for such month under—
+
+                (i) chapter 55 of title 10, United States Code, including coverage under the TRICARE program, or
+
+                (ii) under a health care program under chapter 17 or 18 of title 38, United States Code, as determined by the Secretary of Veterans Affairs, in coordination with the Secretary of Health and Human Services and the Secretary.
+
         (3) __Applicable premium tax credit and cost-sharing reduction__ 
 
         The term “applicable premium tax credit and cost-sharing reduction” means—
@@ -159,13 +167,15 @@
 
             The Secretary shall prescribe rules, regulations, or guidance for the repayment of any assessable payment (including interest) if such payment is based on the allowance or payment of an applicable premium tax credit or cost-sharing reduction with respect to an employee, such allowance or payment is subsequently disallowed, and the assessable payment would not have been required to be made but for such allowance or payment.
 
-(Added and amended [Pub. L. 111–148, title I, § 1513(a)][/us/pl/111/148/s1513/a], title X, §§ 10106(e)–(f)(2), 10108(i)(1)(A), Mar. 23, 2010, [124 Stat. 253][/us/stat/124/253], 910, 914; [Pub. L. 111–152, title I, § 1003][/us/pl/111/152/s1003], Mar. 30, 2010, [124 Stat. 1033][/us/stat/124/1033]; [Pub. L. 112–10, div. B, title VIII, § 1858(b)(4)][/us/pl/112/10/s1858/b/4], Apr. 15, 2011, [125 Stat. 169][/us/stat/125/169].)
+(Added and amended [Pub. L. 111–148, title I, § 1513(a)][/us/pl/111/148/s1513/a], title X, §§ 10106(e)–(f)(2), 10108(i)(1)(A), Mar. 23, 2010, [124 Stat. 253][/us/stat/124/253], 910, 914; [Pub. L. 111–152, title I, § 1003][/us/pl/111/152/s1003], Mar. 30, 2010, [124 Stat. 1033][/us/stat/124/1033]; [Pub. L. 112–10, div. B, title VIII, § 1858(b)(4)][/us/pl/112/10/s1858/b/4], Apr. 15, 2011, [125 Stat. 169][/us/stat/125/169]; [Pub. L. 114–41, title IV, § 4007(a)(1)][/us/pl/114/41/s4007/a/1], July 31, 2015, [129 Stat. 465][/us/stat/129/465].)
 
  __References in Text__ 
 
     The Patient Protection and Affordable Care Act, referred to in subsecs. (a)(2), (b)(1)(B), and (c)(3)(B), (C), (5)(A)(ii), (6), is [Pub. L. 111–148][/us/pl/111/148], Mar. 23, 2010, [124 Stat. 119][/us/stat/124/119]. Sections 1302(c)(4), 1402, 1411, and 1412 of the Act are classified to sections 18022(c)(4), 18071, 18081, and 18082, respectively, of Title 42, The Public Health and Welfare. Section 10108 of the Act enacted former [section 139D of this title][/us/usc/t26/s139D] and [section 18101 of Title 42][/us/usc/t42/s18101], amended sections 36B, 162, 4980H, 6056, and 6724 of this title and [section 218b of Title 29][/us/usc/t29/s218b], Labor, and enacted provisions set out as notes under sections 36B, 162, 4980H, and 6056 of this title and former [section 139D of this title][/us/usc/t26/s139D]. For complete classification of this Act to the Code, see Short Title note set out under [section 18001 of Title 42][/us/usc/t42/s18001] and Tables.
 
  __Amendments__ 
+
+    2015—Subsec. (c)(2)(F). [Pub. L. 114–41][/us/pl/114/41] added subpar. (F).
 
     2011—Subsec. (b)(3). [Pub. L. 112–10][/us/pl/112/10] struck out par. (3). Text read as follows: “No assessable payment shall be imposed under paragraph (1) for any month with respect to any employee to whom the employer provides a free choice voucher under section 10108 of the Patient Protection and Affordable Care Act for such month.”
 
@@ -198,6 +208,12 @@
     Subsec. (d)(5)(A). [Pub. L. 111–152, § 1003(b)(3)][/us/pl/111/152/s1003/b/3], substituted “subsection (b) and paragraph (1)” for “subsection (b)(2) and (d)(1)” in introductory provisions.
 
     Subsec. (e). [Pub. L. 111–152, § 1003(d)][/us/pl/111/152/s1003/d], redesignated subsec. (e) as (d).
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–41, title IV, § 4007(a)(2)][/us/pl/114/41/s4007/a/2], July 31, 2015, [129 Stat. 466][/us/stat/129/466], provided that: 
+
+> “The amendment made by this subsection \[amending this section\] shall apply to months beginning after December 31, 2013.”
 
  __Effective Date of 2011 Amendment__ 
 
@@ -232,6 +248,8 @@
 [/us/stat/124/1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1033
 [/us/pl/112/10/s1858/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs1858%2Fb%2F4
 [/us/stat/125/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F169
+[/us/pl/114/41/s4007/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs4007%2Fa%2F1
+[/us/stat/129/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F465
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F119
 [/us/usc/t26/s139D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs139D
@@ -239,6 +257,7 @@
 [/us/usc/t29/s218b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs218b
 [/us/usc/t26/s139D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs139D
 [/us/usc/t42/s18001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18001
+[/us/pl/114/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41
 [/us/pl/112/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10
 [/us/pl/111/152/s1003/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1003%2Fd
 [/us/pl/111/148/s10106/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10106%2Fe
@@ -253,6 +272,8 @@
 [/us/pl/111/148/s10106/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10106%2Ff%2F1
 [/us/pl/111/152/s1003/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1003%2Fb%2F3
 [/us/pl/111/152/s1003/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1003%2Fd
+[/us/pl/114/41/s4007/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs4007%2Fa%2F2
+[/us/stat/129/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F466
 [/us/pl/112/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/112/10/s1858/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs1858%2Fd
