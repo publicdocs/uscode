@@ -15,7 +15,7 @@
 
 ## § 1001. Congressional findings
 
-Congress hereby finds that—
+    Congress hereby finds that—
 
     (1) uninterrupted continuation of services over Rock Island lines is dependent on adequate employee protection provisions covering Rock Island Railroad employees who are not hired by other railroads;
 

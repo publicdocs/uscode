@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t45/ch17/schII/m__us_usc_t45_s835.md) | [Next](./../../../../..//us/usc/t45/ch17/schII/m__us_usc_t45_s837, 838.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs836)
+[Previous](./../../../../..//us/usc/t45/ch17/schII/m__us_usc_t45_s835.md) | [Next](./../../../../..//us/usc/t45/ch17/schIII/m__us_usc_t45_ch17_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs836)
 
 ## § 836. Employee protection
 
@@ -45,9 +45,15 @@
 
     A prior [section 504 of Pub. L. 94–210][/us/pl/94/210/s504] was classified to [section 824 of this title][/us/usc/t45/s824] prior to repeal by [Pub. L. 105–178][/us/pl/105/178].
 
+§§ 837, 838. __Repealed.__  __[__  __Pub. L. 105–178, title VII, § 7203(a)(2)__  __][/us/pl/105/178/s7203/a/2]__  __,__  __June 9, 1998__  __,__  __[__  __112 Stat. 477__  __][/us/stat/112/477]__ 
+
+    Section 837, [Pub. L. 94–210, title V, § 517][/us/pl/94/210/s517], Feb. 5, 1976, [90 Stat. 83][/us/stat/90/83], related to intercity rail passenger service.
+
+    Section 838, [Pub. L. 94–210, title V, § 518][/us/pl/94/210/s518], as added [Pub. L. 102–533, § 12(a)][/us/pl/102/533/s12/a], Oct. 27, 1992, [106 Stat. 3521][/us/stat/106/3521], related to Columbus and Greenville Railway.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t45/ch17/schII/m__us_usc_t45_s835.md) | [Next](./../../../../..//us/usc/t45/ch17/schII/m__us_usc_t45_s837, 838.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs836)
+[Previous](./../../../../..//us/usc/t45/ch17/schII/m__us_usc_t45_s835.md) | [Next](./../../../../..//us/usc/t45/ch17/schIII/m__us_usc_t45_ch17_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs836)
 
 ----------
 ----------
@@ -65,5 +71,12 @@
 [/us/pl/94/210/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F210%2Fs504
 [/us/usc/t45/s824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs824
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/105/178/s7203/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7203%2Fa%2F2
+[/us/stat/112/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F477
+[/us/pl/94/210/s517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F210%2Fs517
+[/us/stat/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F83
+[/us/pl/94/210/s518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F210%2Fs518
+[/us/pl/102/533/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F533%2Fs12%2Fa
+[/us/stat/106/3521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3521
 
 

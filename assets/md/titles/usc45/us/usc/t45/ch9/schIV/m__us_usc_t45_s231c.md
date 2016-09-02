@@ -103,13 +103,11 @@
 
             (i) If for any month the unreduced annuity provided under this section for a widow or widower is less than the widow’s or widower’s initial minimum amount computed pursuant to paragraph (ii) of this subdivision, the unreduced annuity shall be increased to that initial minimum amount. For the purposes of this subdivision, the unreduced annuity is the annuity without regard to any deduction on account of work, without regard to any reduction for entitlement to an annuity under [section 231a(a)(1) of this title][/us/usc/t45/s231a/a/1], without regard to any reduction for entitlement to a benefit under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\], and without regard to any reduction for entitlement to a public service pension pursuant to section 202(e)(7), 202(f)(2), or 202(g)(4) of the Social Security Act. <sup>\[5\]</sup>  <sup><sup> 5 See References in Text note below. </sup></sup> 
 
-            (ii) For the purposes of this subdivision, the widow or widower’s initial minimum amount is the amount of the unreduced annuity computed at the time an annuity is awarded to that widow or widower, except that—
+            (ii)
 
-        (A) in subsection (g)(1)(i) of this section “100 per centum” shall be substituted for “50 per centum”; and
+             For the purposes of this subdivision, the widow or widower’s initial minimum amount is the amount of the unreduced annuity computed at the time an annuity is awarded to that widow or widower, except that—    (A) in subsection (g)(1)(i) of this section “100 per centum” shall be substituted for “50 per centum”; and
 
-        (B)
-
-         in subsection (g)(2)(ii) of this section “130 per centum” shall be substituted for “80 per centum” both places it appears.
+                (B) in subsection (g)(2)(ii) of this section “130 per centum” shall be substituted for “80 per centum” both places it appears.
 
             (iii) If a widow or widower who was previously entitled to a widow’s or widower’s annuity under [section 231a(d)(1)(ii) of this title][/us/usc/t45/s231a/d/1/ii] becomes entitled to a widow’s or widower’s annuity under [section 231a(d)(1)(i) of this title][/us/usc/t45/s231a/d/1/i], a new initial minimum amount shall be computed at the time of award of the widow’s or widower’s annuity under [section 231a(d)(1)(i) of this title][/us/usc/t45/s231a/d/1/i].
 

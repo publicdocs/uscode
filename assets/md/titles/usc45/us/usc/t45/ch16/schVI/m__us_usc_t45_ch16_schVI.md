@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t45/ch16/schV/m__us_usc_t45_s771 to 780.md) | [Next](./../../../../..//us/usc/t45/ch16/schVI/m__us_usc_t45_s791.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fch16%2FschVI)
+[Previous](./../../../../..//us/usc/t45/ch16/schV/m__us_usc_t45_ch16_schV.md) | [Next](./../../../../..//us/usc/t45/ch16/schVI/m__us_usc_t45_s791.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fch16%2FschVI)
 
 ### SUBCHAPTER VI—MISCELLANEOUS PROVISIONS
 
 ----------
 
-[Previous](./../../../../..//us/usc/t45/ch16/schV/m__us_usc_t45_s771 to 780.md) | [Next](./../../../../..//us/usc/t45/ch16/schVI/m__us_usc_t45_s791.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fch16%2FschVI)
+[Previous](./../../../../..//us/usc/t45/ch16/schV/m__us_usc_t45_ch16_schV.md) | [Next](./../../../../..//us/usc/t45/ch16/schVI/m__us_usc_t45_s791.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fch16%2FschVI)
 
 ----------
 ----------

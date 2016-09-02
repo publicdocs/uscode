@@ -15,7 +15,7 @@
 
 ## § 1102. Statement of purpose
 
-It is therefore declared to be the purpose of the Congress in this subtitle to provide for—
+    It is therefore declared to be the purpose of the Congress in this subtitle to provide for—
 
     (1) the removal by a date certain of the Federal Government’s obligation to subsidize the freight operations of Conrail;
 

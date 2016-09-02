@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t45/ch1/m__us_usc_t45_s1 to 14.md) | [Next](./../../../..//us/usc/t45/ch1/m__us_usc_t45_s16.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs15)
+[Previous](./../../../..//us/usc/t45/ch1/m__us_usc_t45_ch1.md) | [Next](./../../../..//us/usc/t45/ch1/m__us_usc_t45_s16.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs15)
 
 ## § 15. Repealed. [Pub. L. 97–449, § 7(b)][/us/pl/97/449/s7/b], Jan. 12, 1983, [96 Stat. 2444][/us/stat/96/2444]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t45/ch1/m__us_usc_t45_s1 to 14.md) | [Next](./../../../..//us/usc/t45/ch1/m__us_usc_t45_s16.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs15)
+[Previous](./../../../..//us/usc/t45/ch1/m__us_usc_t45_ch1.md) | [Next](./../../../..//us/usc/t45/ch1/m__us_usc_t45_s16.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs15)
 
 ----------
 ----------

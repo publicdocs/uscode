@@ -15,7 +15,7 @@
 
 ## § 158. Agreement to arbitrate; form and contents; signatures and acknowledgment; revocation
 
-The agreement to arbitrate—
+    The agreement to arbitrate—
 
     (a) Shall be in writing;
 

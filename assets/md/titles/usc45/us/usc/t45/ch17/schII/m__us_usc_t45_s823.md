@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t45/ch17/schII/m__us_usc_t45_s822.md) | [Next](./../../../../..//us/usc/t45/ch17/schII/m__us_usc_t45_s824, 825.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs823)
+[Previous](./../../../../..//us/usc/t45/ch17/schII/m__us_usc_t45_s822.md) | [Next](./../../../../..//us/usc/t45/ch17/schII/m__us_usc_t45_s825a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs823)
 
 ## § 823. Administration of direct loans and loan guarantees
 
@@ -111,9 +111,15 @@
 
     1998—Subsec. (b). [Pub. L. 105–178, § 7203(a)(4)][/us/pl/105/178/s7203/a/4], redesignated subsec. (c) of [section 831 of this title][/us/usc/t45/s831] as subsec. (b) of this section, relating to full faith and credit backing of guarantees entered into by Secretary. See Codification note above.
 
+§§ 824, 825. __Repealed.__  __[__  __Pub. L. 105–178, title VII, § 7203(a)(1)__  __][/us/pl/105/178/s7203/a/1]__  __, (2),__  __June 9, 1998__  __,__  __[__  __112 Stat. 471__  __][/us/stat/112/471]__  __, 477__ 
+
+    Section 824, [Pub. L. 94–210, title V, § 504][/us/pl/94/210/s504], Feb. 5, 1976, [90 Stat. 70][/us/stat/90/70]; [Pub. L. 94–555, title II][/us/pl/94/555], §§ 216(c), 220(d), Oct. 19, 1976, [90 Stat. 2627][/us/stat/90/2627], 2629, related to capital needs study to be submitted to Secretary.
+
+    Section 825, [Pub. L. 94–210, title V, § 505][/us/pl/94/210/s505], Feb. 5, 1976, [90 Stat. 71][/us/stat/90/71]; [Pub. L. 94–555, title II][/us/pl/94/555], §§ 212, 216(a), Oct. 19, 1976, [90 Stat. 2624][/us/stat/90/2624], 2626; [Pub. L. 95–565, § 5][/us/pl/95/565/s5], Nov. 1, 1978, [92 Stat. 2400][/us/stat/92/2400]; [Pub. L. 95–607, title III][/us/pl/95/607], §§ 301(a), 302, Nov. 8, 1978, [92 Stat. 3066][/us/stat/92/3066]; [Pub. L. 95–620, title VIII, § 803(c)(5)][/us/pl/95/620/s803/c/5], (6), Nov. 9, 1978, [92 Stat. 3347][/us/stat/92/3347], 3348; [Pub. L. 96–73, title IV, § 401][/us/pl/96/73/s401], Sept. 29, 1979, [93 Stat. 557][/us/stat/93/557]; [Pub. L. 96–101][/us/pl/96/101], §§ 16, 24(a), Nov. 4, 1979, [93 Stat. 744][/us/stat/93/744], 747; [Pub. L. 96–254, title I, § 112][/us/pl/96/254/s112], May 30, 1980, [94 Stat. 404][/us/stat/94/404]; [Pub. L. 96–448, title IV][/us/pl/96/448], §§ 404, 405(a)(1), (c)(1), (2), (4), (5), 406, title VII, § 701(d), Oct. 14, 1980, [94 Stat. 1945–1947][/us/stat/94/1945-1947], 1961; [Pub. L. 97–35, title XI, § 1162(a)][/us/pl/97/35/s1162/a], (c), (d), Aug. 13, 1981, [95 Stat. 683][/us/stat/95/683], 684; [Pub. L. 97–468, title IV][/us/pl/97/468], §§ 401, 403(b), Jan. 14, 1983, [96 Stat. 2550][/us/stat/96/2550], 2551; [Pub. L. 99–509, title IV, § 4033(c)(3)][/us/pl/99/509/s4033/c/3], Oct. 21, 1986, [100 Stat. 1908][/us/stat/100/1908]; [Pub. L. 104–88, title III, § 330(2)][/us/pl/104/88/s330/2], Dec. 29, 1995, [109 Stat. 953][/us/stat/109/953], related to rehabilitation and improvement financing.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t45/ch17/schII/m__us_usc_t45_s822.md) | [Next](./../../../../..//us/usc/t45/ch17/schII/m__us_usc_t45_s824, 825.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs823)
+[Previous](./../../../../..//us/usc/t45/ch17/schII/m__us_usc_t45_s822.md) | [Next](./../../../../..//us/usc/t45/ch17/schII/m__us_usc_t45_s825a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs823)
 
 ----------
 ----------
@@ -150,5 +156,37 @@
 [/us/pl/109/59/s9003/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs9003%2Fi
 [/us/pl/105/178/s7203/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7203%2Fa%2F4
 [/us/usc/t45/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs831
+[/us/pl/105/178/s7203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7203%2Fa%2F1
+[/us/stat/112/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F471
+[/us/pl/94/210/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F210%2Fs504
+[/us/stat/90/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F70
+[/us/pl/94/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F555
+[/us/stat/90/2627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2627
+[/us/pl/94/210/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F210%2Fs505
+[/us/stat/90/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F71
+[/us/pl/94/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F555
+[/us/stat/90/2624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2624
+[/us/pl/95/565/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F565%2Fs5
+[/us/stat/92/2400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2400
+[/us/pl/95/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F607
+[/us/stat/92/3066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3066
+[/us/pl/95/620/s803/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs803%2Fc%2F5
+[/us/stat/92/3347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3347
+[/us/pl/96/73/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F73%2Fs401
+[/us/stat/93/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F557
+[/us/pl/96/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F101
+[/us/stat/93/744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F744
+[/us/pl/96/254/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F254%2Fs112
+[/us/stat/94/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F404
+[/us/pl/96/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F448
+[/us/stat/94/1945-1947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1945-1947
+[/us/pl/97/35/s1162/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1162%2Fa
+[/us/stat/95/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F683
+[/us/pl/97/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F468
+[/us/stat/96/2550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2550
+[/us/pl/99/509/s4033/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs4033%2Fc%2F3
+[/us/stat/100/1908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1908
+[/us/pl/104/88/s330/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs330%2F2
+[/us/stat/109/953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F953
 
 

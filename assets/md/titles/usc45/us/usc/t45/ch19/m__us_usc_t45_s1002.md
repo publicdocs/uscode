@@ -15,7 +15,7 @@
 
 ## § 1002. Definitions
 
-As used in this chapter, the term—
+    As used in this chapter, the term—
 
     (1) “bankruptcy court” means the court having jurisdiction over the reorganization of the Rock Island Railroad;
 

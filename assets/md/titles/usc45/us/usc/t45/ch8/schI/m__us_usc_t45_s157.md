@@ -15,55 +15,57 @@
 
 ## § 157. Arbitration
 
-First. Submission of controversy to arbitration
+    First. Submission of controversy to arbitration
 
-Whenever a controversy shall arise between a carrier or carriers and its or their employees which is not settled either in conference between representatives of the parties or by the appropriate adjustment board or through mediation, in the manner provided in sections 151—156 of this title such controversy may, by agreement of the parties to such controversy, be submitted to the arbitration of a board of three (or, if the parties to the controversy so stipulate, of six) persons: Provided, however, That the failure or refusal of either party to submit a controversy to arbitration shall not be construed as a violation of any legal obligation imposed upon such party by the terms of this chapter or otherwise.
+    Whenever a controversy shall arise between a carrier or carriers and its or their employees which is not settled either in conference between representatives of the parties or by the appropriate adjustment board or through mediation, in the manner provided in sections 151—156 of this title such controversy may, by agreement of the parties to such controversy, be submitted to the arbitration of a board of three (or, if the parties to the controversy so stipulate, of six) persons: Provided, however, That the failure or refusal of either party to submit a controversy to arbitration shall not be construed as a violation of any legal obligation imposed upon such party by the terms of this chapter or otherwise.
 
-Second. Manner of selecting board of arbitration
+    Second. Manner of selecting board of arbitration
 
-Such board of arbitration shall be chosen in the following manner:
+    Such board of arbitration shall be chosen in the following manner:
 
     (a) In the case of a board of three the carrier or carriers and the representatives of the employees, parties respectively to the agreement to arbitrate, shall each name one arbitrator; the two arbitrators thus chosen shall select a third arbitrator. If the arbitrators chosen by the parties shall fail to name the third arbitrator within five days after their first meeting, such third arbitrator shall be named by the Mediation Board.
 
-    (b) In the case of a board of six the carrier or carriers and the representatives of the employees, parties respectively to the agreement to arbitrate, shall each name two arbitrators; the four arbitrators thus chosen shall, by a majority vote, select the remaining two arbitrators. If the arbitrators chosen by the parties shall fail to name the two arbitrators within fifteen days after their first meeting, the said two arbitrators, or as many of them as have not been named, shall be named by the Mediation Board.    Third. Board of arbitration; organization; compensation; procedure
+    (b) In the case of a board of six the carrier or carriers and the representatives of the employees, parties respectively to the agreement to arbitrate, shall each name two arbitrators; the four arbitrators thus chosen shall, by a majority vote, select the remaining two arbitrators. If the arbitrators chosen by the parties shall fail to name the two arbitrators within fifteen days after their first meeting, the said two arbitrators, or as many of them as have not been named, shall be named by the Mediation Board.
 
-    (a) __Notice of selection or failure to select arbitrators__ 
+    Third. Board of arbitration; organization; compensation; procedure
 
-        When the arbitrators selected by the respective parties have agreed upon the remaining arbitrator or arbitrators, they shall notify the Mediation Board; and, in the event of their failure to agree upon any or upon all of the necessary arbitrators within the period fixed by this chapter, they shall, at the expiration of such period, notify the Mediation Board of the arbitrators selected, if any, or of their failure to make or to complete such selection.
+    (a) Notice of selection or failure to select arbitrators
 
-    (b) __Organization of board; procedure__ 
+    When the arbitrators selected by the respective parties have agreed upon the remaining arbitrator or arbitrators, they shall notify the Mediation Board; and, in the event of their failure to agree upon any or upon all of the necessary arbitrators within the period fixed by this chapter, they shall, at the expiration of such period, notify the Mediation Board of the arbitrators selected, if any, or of their failure to make or to complete such selection.
 
-        The board of arbitration shall organize and select its own chairman and make all necessary rules for conducting its hearings: Provided, however, That the board of arbitration shall be bound to give the parties to the controversy a full and fair hearing, which shall include an opportunity to present evidence in support of their claims, and an opportunity to present their case in person, by counsel, or by other representative as they may respectively elect.
+    (b) Organization of board; procedure
 
-    (c) __Duty to reconvene; questions considered__ 
+    The board of arbitration shall organize and select its own chairman and make all necessary rules for conducting its hearings: Provided, however, That the board of arbitration shall be bound to give the parties to the controversy a full and fair hearing, which shall include an opportunity to present evidence in support of their claims, and an opportunity to present their case in person, by counsel, or by other representative as they may respectively elect.
 
-        Upon notice from the Mediation Board that the parties, or either party, to an arbitration desire the reconvening of the board of arbitration (or a subcommittee of such board of arbitration appointed for such purpose pursuant to the agreement to arbitrate) to pass upon any controversy over the meaning or application of their award, the board, or its subcommittee, shall at once reconvene. No question other than, or in addition to, the questions relating to the meaning or application of the award, submitted by the party or parties in writing, shall be considered by the reconvened board of arbitration or its subcommittee.
+    (c) Duty to reconvene; questions considered
 
-        Such rulings shall be acknowledged by such board or subcommittee thereof in the same manner, and filed in the same district court clerk’s office, as the original award and become a part thereof.
+    Upon notice from the Mediation Board that the parties, or either party, to an arbitration desire the reconvening of the board of arbitration (or a subcommittee of such board of arbitration appointed for such purpose pursuant to the agreement to arbitrate) to pass upon any controversy over the meaning or application of their award, the board, or its subcommittee, shall at once reconvene. No question other than, or in addition to, the questions relating to the meaning or application of the award, submitted by the party or parties in writing, shall be considered by the reconvened board of arbitration or its subcommittee.
 
-    (d) __Competency of arbitrators__ 
+    Such rulings shall be acknowledged by such board or subcommittee thereof in the same manner, and filed in the same district court clerk’s office, as the original award and become a part thereof.
 
-        No arbitrator, except those chosen by the Mediation Board, shall be incompetent to act as an arbitrator because of his interest in the controversy to be arbitrated, or because of his connection with or partiality to either of the parties to the arbitration.
+    (d) Competency of arbitrators
 
-    (e) __Compensation and expenses__ 
+    No arbitrator, except those chosen by the Mediation Board, shall be incompetent to act as an arbitrator because of his interest in the controversy to be arbitrated, or because of his connection with or partiality to either of the parties to the arbitration.
 
-        Each member of any board of arbitration created under the provisions of this chapter named by either party to the arbitration shall be compensated by the party naming him. Each arbitrator selected by the arbitrators or named by the Mediation Board shall receive from the Mediation Board such compensation as the Mediation Board may fix, together with his necessary traveling expenses and expenses actually incurred for subsistence, while serving as an arbitrator.
+    (e) Compensation and expenses
 
-    (f) __Award; disposition of original and copies__ 
+    Each member of any board of arbitration created under the provisions of this chapter named by either party to the arbitration shall be compensated by the party naming him. Each arbitrator selected by the arbitrators or named by the Mediation Board shall receive from the Mediation Board such compensation as the Mediation Board may fix, together with his necessary traveling expenses and expenses actually incurred for subsistence, while serving as an arbitrator.
 
-        The board of arbitration shall furnish a certified copy of its award to the respective parties to the controversy, and shall transmit the original, together with the papers and proceedings and a transcript of the evidence taken at the hearings, certified under the hands of at least a majority of the arbitrators, to the clerk of the district court of the United States for the district wherein the controversy arose or the arbitration is entered into, to be filed in said clerk’s office as hereinafter provided. The said board shall also furnish a certified copy of its award, and the papers and proceedings, including testimony relating thereto, to the Mediation Board to be filed in its office; and in addition a certified copy of its award shall be filed in the office of the Interstate Commerce Commission: Provided, however, That such award shall not be construed to diminish or extinguish any of the powers or duties of the Interstate Commerce Commission, under subtitle IV of title 49.
+    (f) Award; disposition of original and copies
 
-    (g) __Compensation of assistants to board of arbitration; expenses; quarters__ 
+    The board of arbitration shall furnish a certified copy of its award to the respective parties to the controversy, and shall transmit the original, together with the papers and proceedings and a transcript of the evidence taken at the hearings, certified under the hands of at least a majority of the arbitrators, to the clerk of the district court of the United States for the district wherein the controversy arose or the arbitration is entered into, to be filed in said clerk’s office as hereinafter provided. The said board shall also furnish a certified copy of its award, and the papers and proceedings, including testimony relating thereto, to the Mediation Board to be filed in its office; and in addition a certified copy of its award shall be filed in the office of the Interstate Commerce Commission: Provided, however, That such award shall not be construed to diminish or extinguish any of the powers or duties of the Interstate Commerce Commission, under subtitle IV of title 49.
 
-        A board of arbitration may, subject to the approval of the Mediation Board, employ and fix the compensation of such assistants as it deems necessary in carrying on the arbitration proceedings. The compensation of such employees, together with their necessary traveling expenses and expenses actually incurred for subsistence, while so employed, and the necessary expenses of boards of arbitration, shall be paid by the Mediation Board.
+    (g) Compensation of assistants to board of arbitration; expenses; quarters
 
-        Whenever practicable, the board shall be supplied with suitable quarters in any Federal building located at its place of meeting or at any place where the board may conduct its proceedings or deliberations.
+    A board of arbitration may, subject to the approval of the Mediation Board, employ and fix the compensation of such assistants as it deems necessary in carrying on the arbitration proceedings. The compensation of such employees, together with their necessary traveling expenses and expenses actually incurred for subsistence, while so employed, and the necessary expenses of boards of arbitration, shall be paid by the Mediation Board.
 
-    (h) __Testimony before board; oaths; attendance of witnesses; production of documents; subpoenas; fees__ 
+    Whenever practicable, the board shall be supplied with suitable quarters in any Federal building located at its place of meeting or at any place where the board may conduct its proceedings or deliberations.
 
-        All testimony before said board shall be given under oath or affirmation, and any member of the board shall have the power to administer oaths or affirmations. The board of arbitration, or any member thereof, shall have the power to require the attendance of witnesses and the production of such books, papers, contracts, agreements, and documents as may be deemed by the board of arbitration material to a just determination of the matters submitted to its arbitration, and may for that purpose request the clerk of the district court of the United States for the district wherein said arbitration is being conducted to issue the necessary subpoenas, and upon such request the said clerk or his duly authorized deputy shall be, and he is, authorized, and it shall be his duty, to issue such subpoenas.
+    (h) Testimony before board; oaths; attendance of witnesses; production of documents; subpoenas; fees
 
-        Any witness appearing before a board of arbitration shall receive the same fees and mileage as witnesses in courts of the United States, to be paid by the party securing the subpoena.
+    All testimony before said board shall be given under oath or affirmation, and any member of the board shall have the power to administer oaths or affirmations. The board of arbitration, or any member thereof, shall have the power to require the attendance of witnesses and the production of such books, papers, contracts, agreements, and documents as may be deemed by the board of arbitration material to a just determination of the matters submitted to its arbitration, and may for that purpose request the clerk of the district court of the United States for the district wherein said arbitration is being conducted to issue the necessary subpoenas, and upon such request the said clerk or his duly authorized deputy shall be, and he is, authorized, and it shall be his duty, to issue such subpoenas.
+
+    Any witness appearing before a board of arbitration shall receive the same fees and mileage as witnesses in courts of the United States, to be paid by the party securing the subpoena.
 
 ([May 20, 1926, ch. 347, § 7][/us/act/1926-05-20/ch347/s7], [44 Stat. 582][/us/stat/44/582]; [June 21, 1934, ch. 691, § 7][/us/act/1934-06-21/ch691/s7], [48 Stat. 1197][/us/stat/48/1197]; [Pub. L. 91–452, title II, § 238][/us/pl/91/452/s238], Oct. 15, 1970, [84 Stat. 930][/us/stat/84/930].)
 
@@ -89,7 +91,7 @@ Such board of arbitration shall be chosen in the following manner:
 
 [Pub. L. 88–108][/us/pl/88/108], Aug. 28, 1963, [77 Stat. 132][/us/stat/77/132], provided:
 
->     “\[Sec. 1. Settlement of disputes\]. That no carrier which served the notices of November 2, 1959, and no labor organizations which received such notices or served the labor organization notices of September 7, 1960, shall make any change except by agreement, or pursuant to an arbitration award as hereinafter provided, in rates of pay, rules, or working conditions encompassed by any of such notices, or engage in any strike or lockout over any dispute arising from any of such notices. Any action heretofore taken which would be prohibited by the foregoing sentence shall be forthwith rescinded and the status existing immediately prior to such action restored.
+> “\[Sec. 1. Settlement of disputes\]. That no carrier which served the notices of November 2, 1959, and no labor organizations which received such notices or served the labor organization notices of September 7, 1960, shall make any change except by agreement, or pursuant to an arbitration award as hereinafter provided, in rates of pay, rules, or working conditions encompassed by any of such notices, or engage in any strike or lockout over any dispute arising from any of such notices. Any action heretofore taken which would be prohibited by the foregoing sentence shall be forthwith rescinded and the status existing immediately prior to such action restored.
 
 > “Sec. 2. \[Arbitration board\]. There is hereby established an arbitration board to consist of seven members. The representatives of the carrier and organization parties to the aforesaid dispute are hereby directed, respectively, within five days after the enactment hereof \[Aug. 28, 1963\] each to name two persons to serve as members of such arbitration board. The four members thus chosen shall select three additional members. The seven members shall then elect a chairman. If the members chosen by the parties shall fail to name one or more of the additional three members within ten days, such additional members shall be named by the President. If either party fails to name a member or members to the arbitration board within the five days provided, the President shall name such member or members in lieu of such party and shall also name the additional three members necessary to constitute a board of seven members, all within ten days after the date of enactment of this joint resolution \[Aug. 28, 1963\]. Notwithstanding any other provision of law, the National Mediation Board is authorized and directed: (1) to compensate the arbitrators not named by the parties at a rate not in excess of $100 for each day together with necessary travel and subsistence expenses, and (2) to provide such services and facilities as may be necessary and appropriate in carrying out the purposes of this joint resolution.
 

@@ -15,7 +15,7 @@
 
 ## § 1202. Definitions
 
-As used in this chapter, the term—
+    As used in this chapter, the term—
 
     (1) “Alaska Railroad” means the agency of the United States Government that is operated by the Department of Transportation as a rail carrier in Alaska under authority of the Act of March 12, 1914 ([43 U.S.C. 975][/us/usc/t43/s975] et seq.) (popularly referred to as the “Alaska Railroad Act”) and section 6(i)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Department of Transportation Act, or, as the context requires, the railroad operated by that agency;
 

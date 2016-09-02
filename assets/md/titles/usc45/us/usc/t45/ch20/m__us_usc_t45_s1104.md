@@ -15,7 +15,7 @@
 
 ## § 1104. Definitions
 
-As used in this subtitle, unless the context otherwise requires, the term:
+    As used in this subtitle, unless the context otherwise requires, the term:
 
     (1) “Amtrak” means the National Railroad Passenger Corporation created under chapter 243 of title 49.
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft45%2Fs401" data-uslm-ref="/us/usc/t45/s401">401.</a>  </td>
 
     <td> Payment of compensation; eligibility; duration; maximum aggregate amount payable; duplication of benefits; application of railroad unemployment insurance provisions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 402.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft45%2Fs402" data-uslm-ref="/us/usc/t45/s402">402.</a>  </td>
 
     <td> Exchange of information between Secretary of Labor and Railroad Retirement Board.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 403.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft45%2Fs403" data-uslm-ref="/us/usc/t45/s403">403.</a>  </td>
 
     <td> Appropriation to railroad unemployment insurance account; transfer and repayment of funds; interest.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 404.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft45%2Fs404" data-uslm-ref="/us/usc/t45/s404">404.</a>  </td>
 
     <td> Temporary increase in employers’ contribution rate.  </td>
 

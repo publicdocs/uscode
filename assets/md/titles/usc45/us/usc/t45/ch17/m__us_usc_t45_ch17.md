@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 801.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft45%2Fs801" data-uslm-ref="/us/usc/t45/s801">801.</a>  </td>
 
     <td> Declaration of policy.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 802.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft45%2Fs802" data-uslm-ref="/us/usc/t45/s802">802.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 803.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft45%2Fs803" data-uslm-ref="/us/usc/t45/s803">803.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER II—RAILROAD REHABILITATION AND IMPROVEMENT FINANCING  </td>
 
   <tr>
 
-    <td> 821.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft45%2Fs821" data-uslm-ref="/us/usc/t45/s821">821.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—RAILROAD REHABILITATION AND IMPROVEMENT FINANCING  </td>
 
   <tr>
 
-    <td> 822.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft45%2Fs822" data-uslm-ref="/us/usc/t45/s822">822.</a>  </td>
 
     <td> Direct loans and loan guarantees.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—RAILROAD REHABILITATION AND IMPROVEMENT FINANCING  </td>
 
   <tr>
 
-    <td> 823.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft45%2Fs823" data-uslm-ref="/us/usc/t45/s823">823.</a>  </td>
 
     <td> Administration of direct loans and loan guarantees.  </td>
 
@@ -89,15 +89,15 @@ SUBCHAPTER II—RAILROAD REHABILITATION AND IMPROVEMENT FINANCING  </td>
 
   <tr>
 
-    <td> 824 to 835. Repealed or   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft45%2Fs824" data-uslm-ref="/us/usc/t45/s824">824</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft45%2Fs835" data-uslm-ref="/us/usc/t45/s835">835.</a>  </td>
 
-    <td> Transferred.  </td>
+    <td> Repealed or Transferred.  </td>
 
   </tr>
 
   <tr>
 
-    <td> 836.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft45%2Fs836" data-uslm-ref="/us/usc/t45/s836">836.</a>  </td>
 
     <td> Employee protection.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—RAILROAD REHABILITATION AND IMPROVEMENT FINANCING  </td>
 
   <tr>
 
-    <td> 837, 838.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft45%2Fs837" data-uslm-ref="/us/usc/t45/s837">837</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft45%2Fs838" data-uslm-ref="/us/usc/t45/s838">838.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER III—NORTHEAST CORRIDOR PROJECT IMPLEMENTATION  </td>
 
   <tr>
 
-    <td> 851 to 856.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft45%2Fs851" data-uslm-ref="/us/usc/t45/s851">851</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft45%2Fs856" data-uslm-ref="/us/usc/t45/s856">856.</a>  </td>
 
     <td> Repealed.  </td>
 

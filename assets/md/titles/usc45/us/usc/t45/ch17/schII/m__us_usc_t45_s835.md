@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t45/ch17/schII/m__us_usc_t45_s832 to 834.md) | [Next](./../../../../..//us/usc/t45/ch17/schII/m__us_usc_t45_s836.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs835)
+[Previous](./../../../../..//us/usc/t45/ch17/schII/m__us_usc_t45_s831.md) | [Next](./../../../../..//us/usc/t45/ch17/schII/m__us_usc_t45_s836.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs835)
 
 ## § 835. Repealed. [Pub. L. 97–375, title I, § 111(d)][/us/pl/97/375/s111/d], Dec. 21, 1982, [96 Stat. 1821][/us/stat/96/1821]; [Pub. L. 105–178, title VII, § 7203(a)(2)][/us/pl/105/178/s7203/a/2], June 9, 1998, [112 Stat. 477][/us/stat/112/477]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t45/ch17/schII/m__us_usc_t45_s832 to 834.md) | [Next](./../../../../..//us/usc/t45/ch17/schII/m__us_usc_t45_s836.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs835)
+[Previous](./../../../../..//us/usc/t45/ch17/schII/m__us_usc_t45_s831.md) | [Next](./../../../../..//us/usc/t45/ch17/schII/m__us_usc_t45_s836.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs835)
 
 ----------
 ----------

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t45/ch17/schIII/m__us_usc_t45_s853 to 855.md) | [Next](./../../../../..//us/usc/t45/ch18/m__us_usc_t45_ch18.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs856)
+[Previous](./../../../../..//us/usc/t45/ch17/schIII/m__us_usc_t45_s852.md) | [Next](./../../../../..//us/usc/t45/ch18/m__us_usc_t45_ch18.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs856)
 
 ## § 856. Repealed. [Pub. L. 103–429, § 7(a)(1)][/us/pl/103/429/s7/a/1], Oct. 31, 1994, [108 Stat. 4388][/us/stat/108/4388]
 
@@ -23,7 +23,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t45/ch17/schIII/m__us_usc_t45_s853 to 855.md) | [Next](./../../../../..//us/usc/t45/ch18/m__us_usc_t45_ch18.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs856)
+[Previous](./../../../../..//us/usc/t45/ch17/schIII/m__us_usc_t45_s852.md) | [Next](./../../../../..//us/usc/t45/ch18/m__us_usc_t45_ch18.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs856)
 
 ----------
 ----------

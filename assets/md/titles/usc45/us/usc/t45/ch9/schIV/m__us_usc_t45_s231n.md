@@ -393,7 +393,7 @@
 
 >         There are hereby appropriated to the Railroad Retirement Account amounts (other than amounts described in subparagraph (B)) equivalent to the aggregate increase in tax liabilities under chapter 1 of the Internal Revenue Code of 1986 \[[26 U.S.C. 1][/us/usc/t26/s1] et seq.\] which is attributable to the application of section 72(r) of the Internal Revenue Code of 1986 \[[26 U.S.C. 72(r)][/us/usc/t26/s72/r]\] (as added by this Act).
 
->         “(B) __Revenue increases attributable to windfall benefits received after september 30, 1988, transferred to dual benefits payments account.—__ 
+>         “(B) __Revenue increases attributable to windfall benefits received after__  __september 30, 1988__  __, transferred to dual benefits payments account.—__ 
 
 >         There are hereby appropriated to the Dual Benefits Payments Account amounts equivalent to the aggregate increase in tax liabilities under chapter 1 of such Code which is attributable to the application of section 72(r) of such Code (as added by this Act) with respect to windfall benefits received after September 30, 1988.
 
@@ -421,11 +421,11 @@
 
 >         “(2) __Taxes credited against loans to railroad unemployment insurance account.—__ 
 
->             “(A) __Taxes attributable to basic rate to reduce railroad unemployment loans made before october 1, 1985.—__ 
+>             “(A) __Taxes attributable to basic rate to reduce railroad unemployment loans made before__  __october 1, 1985__  __.—__ 
 
 >             So much of the amount transferred under paragraph (1) as is not attributable to the surtax rate under section 7106(b) of the Railroad Unemployment Insurance and Retirement Improvement Act of 1988 \[[Pub. L. 100–647][/us/pl/100/647], set out as a note under [section 3321 of Title 26][/us/usc/t26/s3321], Internal Revenue Code\] shall be credited against, and operate to reduce, the outstanding balance of railroad unemployment loans made before October 1, 1985.
 
->             “(B) __Taxes attributable to surtax rate to reduce railroad unemployment loans made after september 30, 1985.—__ 
+>             “(B) __Taxes attributable to surtax rate to reduce railroad unemployment loans made after__  __september 30, 1985__  __.—__ 
 
 >             So much of the amount transferred under paragraph (1) as is attributable to the surtax rate under section 7106(b) of such Act shall be credited against, and operate to reduce, the outstanding balance of railroad unemployment loans made after September 30, 1985.
 

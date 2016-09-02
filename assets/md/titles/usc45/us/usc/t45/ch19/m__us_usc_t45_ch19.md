@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft45%2Fs1001" data-uslm-ref="/us/usc/t45/s1001">1001.</a>  </td>
 
     <td> Congressional findings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1002.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft45%2Fs1002" data-uslm-ref="/us/usc/t45/s1002">1002.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1003.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft45%2Fs1003" data-uslm-ref="/us/usc/t45/s1003">1003.</a>  </td>
 
     <td> Service continuation.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1004.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft45%2Fs1004" data-uslm-ref="/us/usc/t45/s1004">1004.</a>  </td>
 
     <td> Railroad hiring.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1005.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft45%2Fs1005" data-uslm-ref="/us/usc/t45/s1005">1005.</a>  </td>
 
     <td> Employee protection agreement.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1006.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft45%2Fs1006" data-uslm-ref="/us/usc/t45/s1006">1006.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1007.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft45%2Fs1007" data-uslm-ref="/us/usc/t45/s1007">1007.</a>  </td>
 
     <td> Election.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1008.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft45%2Fs1008" data-uslm-ref="/us/usc/t45/s1008">1008.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1009.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft45%2Fs1009" data-uslm-ref="/us/usc/t45/s1009">1009.</a>  </td>
 
     <td> Expedited proceedings.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1010.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft45%2Fs1010" data-uslm-ref="/us/usc/t45/s1010">1010.</a>  </td>
 
     <td> Applicability of National Environmental Policy Act and <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6362%2Fb" data-uslm-ref="/us/usc/t42/s6362/b">section 6362(b) of title 42</a>.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1011.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft45%2Fs1011" data-uslm-ref="/us/usc/t45/s1011">1011.</a>  </td>
 
     <td> Authority of Railroad Retirement Board.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1012.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft45%2Fs1012" data-uslm-ref="/us/usc/t45/s1012">1012.</a>  </td>
 
     <td> Publications and reports.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 1013.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft45%2Fs1013" data-uslm-ref="/us/usc/t45/s1013">1013.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 1014.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft45%2Fs1014" data-uslm-ref="/us/usc/t45/s1014">1014.</a>  </td>
 
     <td> New career training assistance.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 1015.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft45%2Fs1015" data-uslm-ref="/us/usc/t45/s1015">1015.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 1016.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft45%2Fs1016" data-uslm-ref="/us/usc/t45/s1016">1016.</a>  </td>
 
     <td> Temporary rail banking.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 1017.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft45%2Fs1017" data-uslm-ref="/us/usc/t45/s1017">1017.</a>  </td>
 
     <td> Temporary operating approval.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 1018.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft45%2Fs1018" data-uslm-ref="/us/usc/t45/s1018">1018.</a>  </td>
 
     <td> Judicial review.  </td>
 

@@ -15,7 +15,7 @@
 
 ## § 802. Definitions
 
-As used in this Act, unless the context otherwise indicates, the term—
+    As used in this Act, unless the context otherwise indicates, the term—
 
     (1) “Association” means the United States Railway Association;
 

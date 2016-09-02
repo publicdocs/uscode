@@ -15,7 +15,7 @@
 
 ## § 1323. Board of Directors
 
-The Board of Directors of the Corporation shall be comprised as follows:
+    The Board of Directors of the Corporation shall be comprised as follows:
 
     (1) Except as provided in paragraph (3), with respect to the period ending June 30, 1987, the board shall remain as it exists on October 21, 1986, with any vacancies being filled by directors nominated and elected by the remainder of the members of the board.
 

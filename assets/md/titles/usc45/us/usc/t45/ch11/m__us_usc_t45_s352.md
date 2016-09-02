@@ -413,7 +413,7 @@
 
 >         “(2) __Phase-out.—__ 
 
->             “(A) __Benefits on or after june 14, 1992.—__ 
+>             “(A) __Benefits on or after__  __june 14, 1992__  __.—__ 
 
 >             Effective on and after June 14, 1992, paragraph (1) of this section shall be applied by substituting ‘100’ for ‘130’ each place it appears, and by substituting ‘10’ for ‘13’ each place it appears.
 

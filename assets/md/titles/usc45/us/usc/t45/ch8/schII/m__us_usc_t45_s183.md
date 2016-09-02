@@ -15,7 +15,7 @@
 
 ## § 183. Disputes within jurisdiction of Mediation Board
 
-The parties or either party to a dispute between an employee or a group of employees and a carrier or carriers by air may invoke the services of the National Mediation Board and the jurisdiction of said Mediation Board is extended to any of the following cases:
+    The parties or either party to a dispute between an employee or a group of employees and a carrier or carriers by air may invoke the services of the National Mediation Board and the jurisdiction of said Mediation Board is extended to any of the following cases:
 
     (a) A dispute concerning changes in rates of pay, rules, or working conditions not adjusted by the parties in conference.
 

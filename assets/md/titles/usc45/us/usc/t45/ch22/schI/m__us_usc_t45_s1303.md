@@ -15,7 +15,7 @@
 
 ## § 1303. Definitions
 
-For the purposes of this chapter—
+    For the purposes of this chapter—
 
     (1) the term “capital expenditures” means amounts expended by the Corporation and its subsidiaries for replacement or rehabilitation of, or enhancements to, the railroad plant, property, trackage, and equipment of the Corporation and its subsidiaries, as determined in accordance with generally accepted accounting principles, and in interpreting generally accepted accounting principles, no amount spent on normal repair, maintenance, and upkeep of such railroad plant, property, trackage, and equipment in the ordinary course of business shall constitute capital expenditures;
 

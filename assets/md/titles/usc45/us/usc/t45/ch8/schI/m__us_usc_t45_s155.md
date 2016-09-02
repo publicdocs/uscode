@@ -15,27 +15,31 @@
 
 ## § 155. Functions of Mediation Board
 
-First. Disputes within jurisdiction of Mediation Board
+    First. Disputes within jurisdiction of Mediation Board
 
-The parties, or either party, to a dispute between an employee or group of employees and a carrier may invoke the services of the Mediation Board in any of the following cases:
+    The parties, or either party, to a dispute between an employee or group of employees and a carrier may invoke the services of the Mediation Board in any of the following cases:
 
     (a) A dispute concerning changes in rates of pay, rules, or working conditions not adjusted by the parties in conference.
 
-    (b) Any other dispute not referable to the National Railroad Adjustment Board and not adjusted in conference between the parties or where conferences are refused.    The Mediation Board may proffer its services in case any labor emergency is found by it to exist at any time.
+    (b) Any other dispute not referable to the National Railroad Adjustment Board and not adjusted in conference between the parties or where conferences are refused.
 
-        In either event the said Board shall promptly put itself in communication with the parties to such controversy, and shall use its best efforts, by mediation, to bring them to agreement. If such efforts to bring about an amicable settlement through mediation shall be unsuccessful, the said Board shall at once endeavor as its final required action (except as provided in paragraph third of this section and in [section 160 of this title][/us/usc/t45/s160]) to induce the parties to submit their controversy to arbitration, in accordance with the provisions of this chapter.
+    The Mediation Board may proffer its services in case any labor emergency is found by it to exist at any time.
 
-        If arbitration at the request of the Board shall be refused by one or both parties, the Board shall at once notify both parties in writing that its mediatory efforts have failed and for thirty days thereafter, unless in the intervening period the parties agree to arbitration, or an emergency board shall be created under [section 160 of this title][/us/usc/t45/s160], no change shall be made in the rates of pay, rules, or working conditions or established practices in effect prior to the time the dispute arose.
+    In either event the said Board shall promptly put itself in communication with the parties to such controversy, and shall use its best efforts, by mediation, to bring them to agreement. If such efforts to bring about an amicable settlement through mediation shall be unsuccessful, the said Board shall at once endeavor as its final required action (except as provided in paragraph third of this section and in [section 160 of this title][/us/usc/t45/s160]) to induce the parties to submit their controversy to arbitration, in accordance with the provisions of this chapter.
 
-        Second. Interpretation of agreement
+    If arbitration at the request of the Board shall be refused by one or both parties, the Board shall at once notify both parties in writing that its mediatory efforts have failed and for thirty days thereafter, unless in the intervening period the parties agree to arbitration, or an emergency board shall be created under [section 160 of this title][/us/usc/t45/s160], no change shall be made in the rates of pay, rules, or working conditions or established practices in effect prior to the time the dispute arose.
 
-        In any case in which a controversy arises over the meaning or the application of any agreement reached through mediation under the provisions of this chapter, either party to the said agreement, or both, may apply to the Mediation Board for an interpretation of the meaning or application of such agreement. The said Board shall upon receipt of such request notify the parties to the controversy, and after a hearing of both sides give its interpretation within thirty days.
+    Second. Interpretation of agreement
 
-        Third. Duties of Board with respect to arbitration of disputes; arbitrators; acknowledgment of agreement; notice to arbitrators; reconvening of arbitrators; filing contracts with Board; custody of records and documents
+    In any case in which a controversy arises over the meaning or the application of any agreement reached through mediation under the provisions of this chapter, either party to the said agreement, or both, may apply to the Mediation Board for an interpretation of the meaning or application of such agreement. The said Board shall upon receipt of such request notify the parties to the controversy, and after a hearing of both sides give its interpretation within thirty days.
 
-        The Mediation Board shall have the following duties with respect to the arbitration of disputes under [section 157 of this title][/us/usc/t45/s157]:
+    Third. Duties of Board with respect to arbitration of disputes; arbitrators; acknowledgment of agreement; notice to arbitrators; reconvening of arbitrators; filing contracts with Board; custody of records and documents
 
-    (a) On failure of the arbitrators named by the parties to agree on the remaining arbitrator or arbitrators within the time set by [section 157 of this title][/us/usc/t45/s157], it shall be the duty of the Mediation Board to name such remaining arbitrator or arbitrators. It shall be the duty of the Board in naming such arbitrator or arbitrators to appoint only those whom the Board shall deem wholly disinterested in the controversy to be arbitrated and impartial and without bias as between the parties to such arbitration. Should, however, the Board name an arbitrator or arbitrators not so disinterested and impartial, then, upon proper investigation and presentation of the facts, the Board shall promptly remove such arbitrator.    If an arbitrator named by the Mediation Board, in accordance with the provisions of this chapter, shall be removed by such Board as provided by this chapter, or if such an arbitrator refuses or is unable to serve, it shall be the duty of the Mediation Board, promptly, to select another arbitrator, in the same manner as provided in this chapter for an original appointment by the Mediation Board.
+    The Mediation Board shall have the following duties with respect to the arbitration of disputes under [section 157 of this title][/us/usc/t45/s157]:
+
+    (a) On failure of the arbitrators named by the parties to agree on the remaining arbitrator or arbitrators within the time set by [section 157 of this title][/us/usc/t45/s157], it shall be the duty of the Mediation Board to name such remaining arbitrator or arbitrators. It shall be the duty of the Board in naming such arbitrator or arbitrators to appoint only those whom the Board shall deem wholly disinterested in the controversy to be arbitrated and impartial and without bias as between the parties to such arbitration. Should, however, the Board name an arbitrator or arbitrators not so disinterested and impartial, then, upon proper investigation and presentation of the facts, the Board shall promptly remove such arbitrator.
+
+    If an arbitrator named by the Mediation Board, in accordance with the provisions of this chapter, shall be removed by such Board as provided by this chapter, or if such an arbitrator refuses or is unable to serve, it shall be the duty of the Mediation Board, promptly, to select another arbitrator, in the same manner as provided in this chapter for an original appointment by the Mediation Board.
 
     (b) Any member of the Mediation Board is authorized to take the acknowledgement of an agreement to arbitrate under this chapter. When so acknowledged, or when acknowledged by the parties before a notary public or the clerk of a district court or a court of appeals of the United States, such agreement to arbitrate shall be delivered to a member of said Board or transmitted to said Board, to be filed in its office.
 

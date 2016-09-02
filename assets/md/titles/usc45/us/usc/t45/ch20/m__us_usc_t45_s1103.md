@@ -15,7 +15,7 @@
 
 ## § 1103. Goals and objectives
 
-It is the goal of this subtitle to provide Conrail the opportunity to become profitable through the achievement of the following objectives:
+    It is the goal of this subtitle to provide Conrail the opportunity to become profitable through the achievement of the following objectives:
 
     (1) __Nonagreement personnel__ 
 

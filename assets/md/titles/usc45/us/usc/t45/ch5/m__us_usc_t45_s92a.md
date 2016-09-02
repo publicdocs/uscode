@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t45/ch5/m__us_usc_t45_s81 to 92.md) | [Next](./../../../..//us/usc/t45/ch5/m__us_usc_t45_s93.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs92a)
+[Previous](./../../../..//us/usc/t45/ch5/m__us_usc_t45_ch5.md) | [Next](./../../../..//us/usc/t45/ch5/m__us_usc_t45_s93.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs92a)
 
 ## § 92a. Repealed. [Aug. 10, 1956, ch. 1041, § 53][/us/act/1956-08-10/ch1041/s53], [70A Stat. 641][/us/stat/70A/641]
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t45/ch5/m__us_usc_t45_s81 to 92.md) | [Next](./../../../..//us/usc/t45/ch5/m__us_usc_t45_s93.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs92a)
+[Previous](./../../../..//us/usc/t45/ch5/m__us_usc_t45_ch5.md) | [Next](./../../../..//us/usc/t45/ch5/m__us_usc_t45_s93.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs92a)
 
 ----------
 ----------

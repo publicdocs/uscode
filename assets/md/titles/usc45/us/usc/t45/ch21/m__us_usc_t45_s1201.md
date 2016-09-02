@@ -15,7 +15,7 @@
 
 ## § 1201. Findings
 
-The Congress finds that—
+    The Congress finds that—
 
     (1) the Alaska Railroad, which was built by the Federal Government to serve the transportation and development needs of the Territory of Alaska, presently is providing freight and passenger services that primarily benefit residents and businesses in the State of Alaska;
 

@@ -15,7 +15,7 @@
 
 ## § 231. Definitions
 
-For the purposes of this subchapter—
+    For the purposes of this subchapter—
 
     (a)
 
@@ -55,9 +55,7 @@ For the purposes of this subchapter—
 
          An individual is in the service of an employer whether his service is rendered within or without the United States if—
 
-            (i)
-
-        (A) he is subject to the continuing authority of the employer to supervise and direct the manner of rendition of his service, or (B) he is rendering professional or technical services and is integrated into the staff of the employer, or (C) he is rendering, on the property used in the employer’s operations, personal services the rendition of which is integrated into the employer’s operations; and
+            (i)    (A) he is subject to the continuing authority of the employer to supervise and direct the manner of rendition of his service, or (B) he is rendering professional or technical services and is integrated into the staff of the employer, or (C) he is rendering, on the property used in the employer’s operations, personal services the rendition of which is integrated into the employer’s operations; and
 
             (ii) he renders such service for compensation, or a method of computing the monthly compensation for such service is provided in [section 231b(j) of this title][/us/usc/t45/s231b/j].
 
