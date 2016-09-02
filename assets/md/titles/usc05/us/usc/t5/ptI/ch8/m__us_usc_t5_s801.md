@@ -165,6 +165,10 @@
 
 > “The amendment made by section 351 \[probably means section 251, enacting this chapter\] shall take effect on the date of enactment of this Act \[Mar. 29, 1996\].”
 
+ __Short Title__ 
+
+    This chapter is popularly known as the “Congressional Review Act”.
+
  __Truth in Regulating__ 
 
 [Pub. L. 106–312][/us/pl/106/312], Oct. 17, 2000, [114 Stat. 1248][/us/stat/114/1248], as amended by [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814], provided that:

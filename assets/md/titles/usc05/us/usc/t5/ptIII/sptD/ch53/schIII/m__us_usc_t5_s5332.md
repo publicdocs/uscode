@@ -1897,7 +1897,7 @@ Veterans Health Administration Schedules, Department of Veterans Affairs  </td>
 
     <td colspan="3"> 
 
-1 This schedule does not apply to the Deputy Under Secretary for Health, Associate Deputy Under Secretary for Health, Assistant Under Secretaries for Health, and Medical Directors, Service Directors, and the Director of the National Center for Preventative Health who are physicians or dentists pursuant to 38 U.S.C. 7306(a) and 38 U.S.C. 7404(a).This schedule does not apply to the Chief Nursing Officer, Office of Nursing Services, pursuant to 38 U.S.C. 7404(e).
+1 This schedule does not apply to the Deputy Under Secretary for Health, Associate Deputy Under Secretary for Health, Assistant Under Secretaries for Health, and Medical Directors, Service Directors, and the Director of the National Center for Preventative Health who are physicians or dentists pursuant to 38 U.S.C. 7306(a) and 38 U.S.C. 7404(a). This schedule does not apply to the Chief Nursing Officer, Office of Nursing Services, pursuant to 38 U.S.C. 7404(e).
 
   </td>
 
@@ -1945,11 +1945,7 @@ Schedule for the Office of the Under Secretary for Health (38 U.S.C. 7306) 1  
 
     <td colspan="2"> 
 
-Assistant Under Secretaries for Health  </td>
-
-    <td> 
-
-2 $160,441  </td>
+(Only applies to incumbents who are not physicians or dentists)  </td>
 
   </tr>
 
@@ -1957,7 +1953,11 @@ Assistant Under Secretaries for Health  </td>
 
     <td colspan="2"> 
 
-(Only applies to incumbents who are not physicians or dentists)  </td>
+Assistant Under Secretaries for Health  </td>
+
+    <td> 
+
+2 $160,441  </td>
 
   </tr>
 
@@ -2781,7 +2781,7 @@ Over 6  </td>
 
     <td colspan="6"> 
 
-1 Basic pay is limited to the rate of basic pay for level II of the Executive Schedule in effect during calendar year 2014, which is $15,125.10 per month for officers at pay grades O–7 through O–10, and limited to the rate of basic pay for level V of the Executive Schedule in effect during calendar year 2015, which is $12, 391.80 per month, for officers at O–6 and below.
+1 Basic pay is limited to the rate of basic pay for level II of the Executive Schedule in effect during calendar year 2014, which is $15,125.10 per month for officers at pay grades O–7 through O–10, and limited to the rate of basic pay for level V of the Executive Schedule in effect during calendar year 2015, which is $12,391.80 per month, for officers at O–6 and below.
 
   </td>
 

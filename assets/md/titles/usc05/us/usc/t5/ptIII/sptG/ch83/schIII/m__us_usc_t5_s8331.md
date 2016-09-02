@@ -913,7 +913,7 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
 [Pub. L. 112–141, div. F, title I, § 100121(d)][/us/pl/112/141/s100121/d], July 6, 2012, [126 Stat. 914][/us/stat/126/914], provided that: 
 
-> “The amendments made by subsections (a) and (b) \[enacting sections 8336a and 8412a of this title and amending this section\] shall take effect on the effective date of the implementing regulations issued by the Director of the Office of Personnel Management.”
+> “The amendments made by subsections (a) and (b) \[enacting sections 8336a and 8412a of this title and amending this section\] shall take effect on the effective date of the implementing regulations issued by the Director of the Office of Personnel Management \[Nov. 6, 2014; see 79 F.R. 46608\].”
 
  __Effective Date of 2008 Amendment__ 
 

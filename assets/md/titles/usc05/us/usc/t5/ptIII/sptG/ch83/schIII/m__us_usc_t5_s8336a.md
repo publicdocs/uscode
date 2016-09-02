@@ -181,7 +181,7 @@
 
  __Effective Date__ 
 
-    Section effective on the effective date of the implementing regulations issued by the Director of the Office of Personnel Management, see [section 100121(d) of Pub. L. 112–141][/us/pl/112/141/s100121/d], set out as an Effective Date of 2012 Amendment note under [section 8331 of this title][/us/usc/t5/s8331].
+    Section effective on Nov. 6, 2014, see [section 100121(d) of Pub. L. 112–141][/us/pl/112/141/s100121/d], set out as an Effective Date of 2012 Amendment note under [section 8331 of this title][/us/usc/t5/s8331].
 
 ----------
 
