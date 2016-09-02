@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch50/schIV/m__us_usc_t42_s4130.md) | [Next](./../../../..//us/usc/t42/ch51/m__us_usc_t42_s4151.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch51)
+[Previous](./../../../..//us/usc/t42/ch50/schIV/m__us_usc_t42_s4131.md) | [Next](./../../../..//us/usc/t42/ch51/m__us_usc_t42_s4151.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch51)
 
 ## CHAPTER 51—DESIGN AND CONSTRUCTION OF PUBLIC BUILDINGS TO ACCOMMODATE PHYSICALLY HANDICAPPED
 
@@ -91,7 +91,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch50/schIV/m__us_usc_t42_s4130.md) | [Next](./../../../..//us/usc/t42/ch51/m__us_usc_t42_s4151.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch51)
+[Previous](./../../../..//us/usc/t42/ch50/schIV/m__us_usc_t42_s4131.md) | [Next](./../../../..//us/usc/t42/ch51/m__us_usc_t42_s4151.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch51)
 
 ----------
 ----------

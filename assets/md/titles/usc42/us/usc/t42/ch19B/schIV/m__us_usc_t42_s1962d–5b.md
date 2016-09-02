@@ -33,7 +33,7 @@
 
             (A) __In general__ 
 
-            A partnership agreement described in paragraph (1) may provide with respect to a project that the Secretary shall credit toward the non-Federal share of the cost of the project, including a project implemented without specific authorization in law, the value of in-kind contributions made by the non-Federal interest, including—
+            A partnership agreement described in paragraph (1) may provide with respect to a project that the Secretary shall credit toward the non-Federal share of the cost of the project, including a project implemented without specific authorization in law or a project under an environmental infrastructure assistance program, the value of in-kind contributions made by the non-Federal interest, including—
 
                 (i) the costs of planning (including data collection), design, management, mitigation, construction, and construction services that are provided by the non-Federal interest for implementation of the project;
 
@@ -47,7 +47,25 @@
 
             (C) __Work performed before partnership agreement__ 
 
-                In any case in which the non-Federal interest is to receive credit under subparagraph (A)(ii) for the cost of work carried out by the non-Federal interest and such work has not been carried out as of November 8, 2007, the Secretary and the non-Federal interest shall enter into an agreement under which the non-Federal interest shall carry out such work, and only work carried out following the execution of the agreement shall be eligible for credit.
+                (i) __Construction__ 
+
+                    (I) __In general__ 
+
+                        In any case in which the non-Federal interest is to receive credit under subparagraph (A) for the cost of construction carried out by the non-Federal interest before execution of a partnership agreement and that construction has not been carried out as of November 8, 2007, the Secretary and the non-Federal interest shall enter into an agreement under which the non-Federal interest shall carry out such work and shall do so prior to the non-Federal interest initiating construction or issuing a written notice to proceed for the construction.
+
+                    (II) __Eligibility__ 
+
+                        Construction that is carried out after the execution of an agreement to carry out work described in subclause (I) and any design activities that are required for that construction, even if the design activity is carried out prior to the execution of the agreement to carry out work, shall be eligible for credit.
+
+                (ii) __Planning__ 
+
+                    (I) __In general__ 
+
+                        In any case in which the non-Federal interest is to receive credit under subparagraph (A) for the cost of planning carried out by the non-Federal interest before execution of a feasibility cost-sharing agreement, the Secretary and the non-Federal interest shall enter into an agreement under which the non-Federal interest shall carry out such work and shall do so prior to the non-Federal interest initiating that planning.
+
+                    (II) __Eligibility__ 
+
+                        Planning that is carried out by the non-Federal interest after the execution of an agreement to carry out work described in subclause (I) shall be eligible for credit.
 
             (D) __Limitations__ 
 
@@ -57,19 +75,37 @@
 
                 (ii) shall not alter any other requirement that a non-Federal interest provide lands, easements, relocations, rights-of-way, or areas for disposal of dredged material for the project;
 
-                (iii) shall not alter any requirement that a non-Federal interest pay a portion of the costs of construction of the project under sections 2211 and 2213 of title 33; and
+                (iii) shall not alter any requirement that a non-Federal interest pay a portion of the costs of construction of the project under sections 2211(a)(2) and 2213(a)(1)(A) of title 33; and
 
                 (iv) shall not exceed the actual and reasonable costs of the materials, services, or other things provided by the non-Federal interest, as determined by the Secretary.
 
-            (E) __Applicability__ 
+            (E) __Analysis of costs and benefits__ 
+
+                In the evaluation of the costs and benefits of a project, the Secretary shall not consider construction carried out by a non-Federal interest under this subsection as part of the future without project condition.
+
+            (F) __Transfer of credit between separable elements of a project__ 
+
+                Credit for in-kind contributions provided by a non-Federal interest that are in excess of the non-Federal cost share for an authorized separable element of a project may be applied toward the non-Federal cost share for a different authorized separable element of the same project.
+
+            (G) __Application of credit__ 
 
                 (i) __In general__ 
 
-                    This paragraph shall apply to water resources projects authorized after November 16, 1986, including projects initiated after November 16, 1986, without specific authorization in law.
+                    To the extent that credit for in-kind contributions, as limited by subparagraph (D), and credit for required land, easements, rights-of-way, dredged material disposal areas, and relocations provided by the non-Federal interest exceed the non-Federal share of the cost of construction of a project other than a navigation project, the Secretary, subject to the availability of funds, shall enter into a reimbursement agreement with the non-Federal interest, which shall be in addition to a partnership agreement under subparagraph (A), to reimburse the difference to the non-Federal interest.
 
-                (ii) __Limitation__ 
+                (ii) __Priority__ 
 
-                    In any case in which a specific provision of law provides for a non-Federal interest to receive credit toward the non-Federal share of the cost of a study for, or construction or operation and maintenance of, a water resources project, the specific provision of law shall apply instead of this paragraph.
+                    If appropriated funds are insufficient to cover the full cost of all requested reimbursement agreements under clause (i), the Secretary shall enter into reimbursement agreements in the order in which requests for such agreements are received.
+
+            (H) __Applicability__ 
+
+                (i) __In general__ 
+
+                    This paragraph shall apply to water resources projects authorized after November 16, 1986, including projects initiated after November 16, 1986, without specific authorization in law, and to water resources projects authorized prior to November 17, 1986, if correction of design deficiencies is necessary.
+
+                (ii) __Authorization as addition to other authorizations__ 
+
+                    The authority of the Secretary to provide credit for in-kind contributions pursuant to this paragraph shall be in addition to any other authorization to provide credit for in-kind contributions and shall not be construed as a limitation on such other authorization. The Secretary shall apply the provisions of this paragraph, in lieu of provisions under other crediting authority, only if so requested by the non-Federal interest.
 
     (b) __Definition of non-Federal interest__ 
 
@@ -121,7 +157,7 @@
 
         This section shall not apply to any project the construction of which was commenced before January 1, 1972, or to the assurances for future demands required by the Water Supply Act of 1958, as amended \[[43 U.S.C. 390b][/us/usc/t43/s390b]\].
 
-([Pub. L. 91–611, title II, § 221][/us/pl/91/611/s221], Dec. 31, 1970, [84 Stat. 1831][/us/stat/84/1831]; [Pub. L. 92–222, § 4][/us/pl/92/222/s4], Dec. 23, 1971, [85 Stat. 799][/us/stat/85/799]; [Pub. L. 99–662, title IX, § 912(a)][/us/pl/99/662/s912/a], Nov. 17, 1986, [100 Stat. 4189][/us/stat/100/4189]; [Pub. L. 104–106, div. A, title X, § 1064(d)][/us/pl/104/106/s1064/d], Feb. 10, 1996, [110 Stat. 445][/us/stat/110/445]; [Pub. L. 104–303, title II, § 220][/us/pl/104/303/s220], Oct. 12, 1996, [110 Stat. 3696][/us/stat/110/3696]; [Pub. L. 106–541, title II, § 201][/us/pl/106/541/s201], Dec. 11, 2000, [114 Stat. 2587][/us/stat/114/2587]; [Pub. L. 110–114, title II, § 2003(a)][/us/pl/110/114/s2003/a]–(c), Nov. 8, 2007, [121 Stat. 1067][/us/stat/121/1067], 1069.)
+([Pub. L. 91–611, title II, § 221][/us/pl/91/611/s221], Dec. 31, 1970, [84 Stat. 1831][/us/stat/84/1831]; [Pub. L. 92–222, § 4][/us/pl/92/222/s4], Dec. 23, 1971, [85 Stat. 799][/us/stat/85/799]; [Pub. L. 99–662, title IX, § 912(a)][/us/pl/99/662/s912/a], Nov. 17, 1986, [100 Stat. 4189][/us/stat/100/4189]; [Pub. L. 104–106, div. A, title X, § 1064(d)][/us/pl/104/106/s1064/d], Feb. 10, 1996, [110 Stat. 445][/us/stat/110/445]; [Pub. L. 104–303, title II, § 220][/us/pl/104/303/s220], Oct. 12, 1996, [110 Stat. 3696][/us/stat/110/3696]; [Pub. L. 106–541, title II, § 201][/us/pl/106/541/s201], Dec. 11, 2000, [114 Stat. 2587][/us/stat/114/2587]; [Pub. L. 110–114, title II, § 2003(a)][/us/pl/110/114/s2003/a]–(c), Nov. 8, 2007, [121 Stat. 1067][/us/stat/121/1067], 1069; [Pub. L. 113–121, title I, § 1018(a)][/us/pl/113/121/s1018/a], June 10, 2014, [128 Stat. 1224][/us/stat/128/1224].)
 
  __References in Text__ 
 
@@ -132,6 +168,18 @@
     Section was enacted as part of the Flood Control Act of 1970, and not as part of the Water Resources Planning Act which comprises this chapter.
 
  __Amendments__ 
+
+    2014—Subsec. (a)(4)(A). [Pub. L. 113–121, § 1018(a)(1)][/us/pl/113/121/s1018/a/1], inserted “or a project under an environmental infrastructure assistance program” after “law” in introductory provisions.
+
+    Subsec. (a)(4)(C). [Pub. L. 113–121, § 1018(a)(2)][/us/pl/113/121/s1018/a/2], added text of subpar. (C) and struck out text of former subpar. (C) which read as follows: “In any case in which the non-Federal interest is to receive credit under subparagraph (A)(ii) for the cost of work carried out by the non-Federal interest and such work has not been carried out as of November 8, 2007, the Secretary and the non-Federal interest shall enter into an agreement under which the non-Federal interest shall carry out such work, and only work carried out following the execution of the agreement shall be eligible for credit.”
+
+    Subsec. (a)(4)(D)(iii). [Pub. L. 113–121, § 1018(a)(3)][/us/pl/113/121/s1018/a/3], substituted “sections 2211(a)(2) and 2213(a)(1)(A) of title 33” for “sections 2211 and 2213 of title 33”.
+
+    Subsec. (a)(4)(E) to (H). [Pub. L. 113–121, § 1018(a)(4)][/us/pl/113/121/s1018/a/4], (5), added subpars. (E) to (G) and redesignated former subpar. (E) as (H).
+
+    Subsec. (a)(4)(H)(i). [Pub. L. 113–121, § 1018(a)(6)(A)][/us/pl/113/121/s1018/a/6/A], inserted “, and to water resources projects authorized prior to November 17, 1986, if correction of design deficiencies is necessary” before period at end.
+
+    Subsec. (a)(4)(H)(ii). [Pub. L. 113–121, § 1018(a)(6)(B)][/us/pl/113/121/s1018/a/6/B], added cl. (ii) and struck out former cl. (ii). Prior to amendment, text read as follows: “In any case in which a specific provision of law provides for a non-Federal interest to receive credit toward the non-Federal share of the cost of a study for, or construction or operation and maintenance of, a water resources project, the specific provision of law shall apply instead of this paragraph.”
 
     2007—[Pub. L. 110–114, § 2003(a)(1)][/us/pl/110/114/s2003/a/1], inserted section catchline.
 
@@ -151,11 +199,51 @@
 
     1971—Subsec. (f). [Pub. L. 92–222][/us/pl/92/222] made provisions of section inapplicable to the assurances for future demands required by the Water Supply Act of 1958, as amended.
 
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–121, title I, § 1018(c)][/us/pl/113/121/s1018/c], June 10, 2014, [128 Stat. 1226][/us/stat/128/1226], provided that: 
+
+> “The amendments made by subsections (a) and (b) \[amending this section and provisions set out as a note under this section\] take effect on November 8, 2007.”
+
  __Effective Date of 2007 Amendment__ 
 
-[Pub. L. 110–114, title II, § 2003(e)][/us/pl/110/114/s2003/e], Nov. 8, 2007, [121 Stat. 1070][/us/stat/121/1070], provided that: 
+[Pub. L. 110–114, title II, § 2003(e)][/us/pl/110/114/s2003/e], Nov. 8, 2007, [121 Stat. 1070][/us/stat/121/1070], as amended by [Pub. L. 113–121, title I, § 1018(b)][/us/pl/113/121/s1018/b], June 10, 2014, [128 Stat. 1225][/us/stat/128/1225], provided that: 
 
-> “The amendments made by subsections (a), (b), and (d) \[amending this section and provisions set out as a note under this section\] only apply to partnership agreements entered into after the date of enactment of this Act \[Nov. 8, 2007\]; except that, at the request of a non-Federal interest for a project, the district engineer for the district in which the project is located may amend a project partnership agreement entered into on or before such date and under which construction on the project has not been initiated as of such date of enactment for the purpose of incorporating such amendments.”
+> “The amendments made by subsections (a), (b), and (d) \[amending this section and provisions set out as a note under this section\] only apply to partnership agreements entered into after the date of enactment of this Act \[Nov. 8, 2007\]; except that, at the request of a non-Federal interest for a project, the district engineer for the district in which the project is located may amend a project partnership agreement entered into on or before such date and under which construction on the project, or construction of design deficiency corrections on the project, has not been initiated, or under which construction of the project has not been completed and the work to be performed by the non-Federal interests has not been carried out and is creditable only toward any remaining non-Federal cost share, as of such date of enactment for the purpose of incorporating such amendments.”
+
+ __Guidelines__ 
+
+[Pub. L. 113–121, title I, § 1018(d)][/us/pl/113/121/s1018/d], June 10, 2014, [128 Stat. 1226][/us/stat/128/1226], provided that:
+
+>     “(1)  __In general__  __.—__ 
+
+>     Not later than 1 year after the date of enactment of this Act \[June 10, 2014\], the Secretary \[of the Army\] shall update any guidance or regulations for carrying out section 221(a)(4) of the Flood Control Act of 1970 ([42 U.S.C. 1962d–5b(a)(4)][/us/usc/t42/s1962d–5b/a/4]) (as amended by subsection (a)) that are in existence on the date of enactment of this Act or issue new guidelines, as determined to be appropriate by the Secretary.
+
+>     “(2)  __Inclusions__  __.—__ 
+
+>     Any guidance, regulations, or guidelines updated or issued under paragraph (1) shall include, at a minimum—
+
+>         “(A) the milestone for executing an in-kind memorandum of understanding for construction by a non-Federal interest;
+
+>         “(B) criteria and procedures for evaluating a request to execute an in-kind memorandum of understanding for construction by a non-Federal interest that is earlier than the milestone under subparagraph (A) for that execution; and
+
+>         “(C) criteria and procedures for determining whether work carried out by a non-Federal interest is integral to a project.
+
+>     “(3)  __Public and stakeholder participation__  __.—__ 
+
+>     Before issuing any new or revised guidance, regulations, or guidelines or any subsequent updates to those documents, the Secretary shall—
+
+>         “(A) consult with affected non-Federal interests;
+
+>         “(B) publish the proposed guidelines developed under this subsection in the Federal Register; and
+
+>         “(C) provide the public with an opportunity to comment on the proposed guidelines.”
+
+ __Other Credit__ 
+
+[Pub. L. 113–121, title I, § 1018(e)][/us/pl/113/121/s1018/e], June 10, 2014, [128 Stat. 1226][/us/stat/128/1226], provided that: 
+
+> “Nothing in section 221(a)(4) of the Flood Control Act of 1970 ([42 U.S.C. 1962d–5b(a)(4)][/us/usc/t42/s1962d–5b/a/4]) (as amended by subsection (a)) affects any eligibility for credit under section 104 of the Water Resources Development \[Act\] of 1986 ([33 U.S.C. 2214][/us/usc/t33/s2214]) that was approved by the Secretary \[of the Army\] prior to the date of enactment of this Act \[June 10, 2014\].”
 
  __Partnership and Cooperation Agreements; References__ 
 
@@ -209,9 +297,17 @@
 [/us/stat/114/2587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2587
 [/us/pl/110/114/s2003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2003%2Fa
 [/us/stat/121/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1067
+[/us/pl/113/121/s1018/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1018%2Fa
+[/us/stat/128/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1224
 [/us/pl/85/500/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F500%2Fs301
 [/us/stat/72/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F319
 [/us/usc/t43/s390b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs390b
+[/us/pl/113/121/s1018/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1018%2Fa%2F1
+[/us/pl/113/121/s1018/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1018%2Fa%2F2
+[/us/pl/113/121/s1018/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1018%2Fa%2F3
+[/us/pl/113/121/s1018/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1018%2Fa%2F4
+[/us/pl/113/121/s1018/a/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1018%2Fa%2F6%2FA
+[/us/pl/113/121/s1018/a/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1018%2Fa%2F6%2FB
 [/us/pl/110/114/s2003/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2003%2Fa%2F1
 [/us/pl/110/114/s2003/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2003%2Fa%2F2
 [/us/usc/t42/s1962d–5a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%935a
@@ -222,8 +318,19 @@
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/99/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662
 [/us/pl/92/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F222
+[/us/pl/113/121/s1018/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1018%2Fc
+[/us/stat/128/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1226
 [/us/pl/110/114/s2003/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2003%2Fe
 [/us/stat/121/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1070
+[/us/pl/113/121/s1018/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1018%2Fb
+[/us/stat/128/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1225
+[/us/pl/113/121/s1018/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1018%2Fd
+[/us/stat/128/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1226
+[/us/usc/t42/s1962d–5b/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%935b%2Fa%2F4
+[/us/pl/113/121/s1018/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs1018%2Fe
+[/us/stat/128/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1226
+[/us/usc/t42/s1962d–5b/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%935b%2Fa%2F4
+[/us/usc/t33/s2214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2214
 [/us/pl/110/114/s2003/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2Fs2003%2Ff
 [/us/stat/121/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1070
 [/us/usc/t42/s1962d–5b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%935b
