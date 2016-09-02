@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptII/ch21/m__us_usc_t14_s770 to 798.md) | [Next](./../../../../..//us/usc/t14/ptII/ch23/m__us_usc_t14_s821.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2FptII%2Fch23)
+[Previous](./../../../../..//us/usc/t14/ptII/ch21/m__us_usc_t14_s762.md) | [Next](./../../../../..//us/usc/t14/ptII/ch23/m__us_usc_t14_s821.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2FptII%2Fch23)
 
 ### CHAPTER 23—COAST GUARD AUXILIARY
 
@@ -137,7 +137,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptII/ch21/m__us_usc_t14_s770 to 798.md) | [Next](./../../../../..//us/usc/t14/ptII/ch23/m__us_usc_t14_s821.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2FptII%2Fch23)
+[Previous](./../../../../..//us/usc/t14/ptII/ch21/m__us_usc_t14_s762.md) | [Next](./../../../../..//us/usc/t14/ptII/ch23/m__us_usc_t14_s821.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2FptII%2Fch23)
 
 ----------
 ----------

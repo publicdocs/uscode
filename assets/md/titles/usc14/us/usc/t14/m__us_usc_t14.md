@@ -13,11 +13,11 @@
 
 ~~Previous~~ | [Next](./../../..//us/usc/t14/ptI/m__us_usc_t14_ptI.md) | [Root of Title](./../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14)
 
-# 
-
-Title 14—COAST GUARD
+# Title 14—COAST GUARD
 
 This title was enacted by [act Aug. 4, 1949, ch. 393, § 1][/us/act/1949-08-04/ch393/s1], [63 Stat. 495][/us/stat/63/495]
+
+Current through 113–44
 
 <table>
 

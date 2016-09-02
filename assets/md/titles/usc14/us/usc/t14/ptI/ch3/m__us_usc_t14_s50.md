@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch3/m__us_usc_t14_s48, 49.md) | [Next](./../../../../..//us/usc/t14/ptI/ch3/m__us_usc_t14_s50a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs50)
+[Previous](./../../../../..//us/usc/t14/ptI/ch3/m__us_usc_t14_s47.md) | [Next](./../../../../..//us/usc/t14/ptI/ch3/m__us_usc_t14_s50a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs50)
 
 ## § 50. Vice admirals
 
@@ -83,7 +83,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch3/m__us_usc_t14_s48, 49.md) | [Next](./../../../../..//us/usc/t14/ptI/ch3/m__us_usc_t14_s50a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs50)
+[Previous](./../../../../..//us/usc/t14/ptI/ch3/m__us_usc_t14_s47.md) | [Next](./../../../../..//us/usc/t14/ptI/ch3/m__us_usc_t14_s50a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs50)
 
 ----------
 ----------

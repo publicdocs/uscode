@@ -15,7 +15,7 @@
 
 ## § 81. Aids to navigation authorized
 
-In order to aid navigation and to prevent disasters, collisions, and wrecks of vessels and aircraft, the Coast Guard may establish, maintain, and operate:
+    In order to aid navigation and to prevent disasters, collisions, and wrecks of vessels and aircraft, the Coast Guard may establish, maintain, and operate:
 
     (1) aids to maritime navigation required to serve the needs of the armed forces or of the commerce of the United States;
 
@@ -23,7 +23,7 @@ In order to aid navigation and to prevent disasters, collisions, and wrecks of v
 
     (3) electronic aids to navigation systems (a) required to serve the needs of the armed forces of the United States peculiar to warfare and primarily of military concern as determined by the Secretary of Defense or any department within the Department of Defense; or (b) required to serve the needs of the maritime commerce of the United States; or (c) required to serve the needs of the air commerce of the United States as requested by the Administrator of the Federal Aviation Administration.
 
-        These aids to navigation other than electronic aids to navigation systems shall be established and operated only within the United States, the waters above the Continental Shelf, the territories and possessions of the United States, the Trust Territory of the Pacific Islands, and beyond the territorial jurisdiction of the United States at places where naval or military bases of the United States are or may be located. The Coast Guard may establish, maintain, and operate aids to maritime navigation under paragraph (1) of this section by contract with any person, public body, or instrumentality.
+    These aids to navigation other than electronic aids to navigation systems shall be established and operated only within the United States, the waters above the Continental Shelf, the territories and possessions of the United States, the Trust Territory of the Pacific Islands, and beyond the territorial jurisdiction of the United States at places where naval or military bases of the United States are or may be located. The Coast Guard may establish, maintain, and operate aids to maritime navigation under paragraph (1) of this section by contract with any person, public body, or instrumentality.
 
 ([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 500][/us/stat/63/500]; [June 22, 1951, ch. 150][/us/act/1951-06-22/ch150], [65 Stat. 89][/us/stat/65/89]; [Sept. 3, 1954, ch. 1263, § 30][/us/act/1954-09-03/ch1263/s30], [68 Stat. 1237][/us/stat/68/1237]; [Pub. L. 85–726, title XIV, § 1404][/us/pl/85/726/s1404], Aug. 23, 1958, [72 Stat. 808][/us/stat/72/808]; [Pub. L. 89–662, § 1][/us/pl/89/662/s1], Oct. 14, 1966, [80 Stat. 912][/us/stat/80/912]; [Pub. L. 94–546, § 1(3)][/us/pl/94/546/s1/3], Oct. 18, 1976, [90 Stat. 2519][/us/stat/90/2519]; [Pub. L. 97–322, title I, § 105(a)][/us/pl/97/322/s105/a], Oct. 15, 1982, [96 Stat. 1582][/us/stat/96/1582].)
 

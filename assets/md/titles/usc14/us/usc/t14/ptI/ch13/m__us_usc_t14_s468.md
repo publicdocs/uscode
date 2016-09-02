@@ -15,7 +15,7 @@
 
 ## § 468. Procurement of personnel
 
-The Coast Guard may expend operating expense funds for recruiting activities, including but not limited to advertising and entertainment, in order to—
+    The Coast Guard may expend operating expense funds for recruiting activities, including but not limited to advertising and entertainment, in order to—
 
     (1) obtain recruits for the Service and cadet applicants; and
 

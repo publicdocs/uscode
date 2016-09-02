@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s435 to 437.md) | [Next](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s439, 440.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs438)
+[Previous](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s432.md) | [Next](./../../../../..//us/usc/t14/ptI/ch13/m__us_usc_t14_ptI_ch13.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs438)
 
 ## \[§ 438. Repealed. [Pub. L. 99–640, § 10(a)(6)(A)][/us/pl/99/640/s10/a/6/A], Nov. 10, 1986, [100 Stat. 3549][/us/stat/100/3549]\]
 
@@ -21,9 +21,15 @@
 
     See note set out under [section 431 of this title][/us/usc/t14/s431].
 
+\[§§ 439, 440. __Repealed.__  __[__  __Pub. L. 88–130, § 4(a)__  __][/us/pl/88/130/s4/a]__  __,__  __Sept. 24, 1963__  __,__  __[__  __77 Stat. 192__  __][/us/stat/77/192]__  __\]__ 
+
+    Section 439, added [act July 20, 1956, ch. 647, § 3(a)][/us/act/1956-07-20/ch647/s3/a], [70 Stat. 588][/us/stat/70/588], related to oath of office. See [section 273(b) of this title][/us/usc/t14/s273/b].
+
+    Section 440, added [Pub. L. 85–861, § 33(b)(1)][/us/pl/85/861/s33/b/1], Sept. 2, 1958, [72 Stat. 1567][/us/stat/72/1567], related to temporary promotion of warrant officers. See [section 277 of this title][/us/usc/t14/s277].
+
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s435 to 437.md) | [Next](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s439, 440.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs438)
+[Previous](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s432.md) | [Next](./../../../../..//us/usc/t14/ptI/ch13/m__us_usc_t14_ptI_ch13.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs438)
 
 ----------
 ----------
@@ -37,5 +43,13 @@
 [/us/pl/96/513/s505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs505%2Fb
 [/us/stat/94/2918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2918
 [/us/usc/t14/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs431
+[/us/pl/88/130/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130%2Fs4%2Fa
+[/us/stat/77/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F192
+[/us/act/1956-07-20/ch647/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-20%2Fch647%2Fs3%2Fa
+[/us/stat/70/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F588
+[/us/usc/t14/s273/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs273%2Fb
+[/us/pl/85/861/s33/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs33%2Fb%2F1
+[/us/stat/72/1567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1567
+[/us/usc/t14/s277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs277
 
 

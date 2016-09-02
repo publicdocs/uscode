@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s212, 213.md) | [Next](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s215.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs214)
+[Previous](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s211.md) | [Next](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s215.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs214)
 
 ## § 214. Appointment of temporary officers
 
@@ -77,7 +77,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s212, 213.md) | [Next](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s215.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs214)
+[Previous](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s211.md) | [Next](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s215.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs214)
 
 ----------
 ----------

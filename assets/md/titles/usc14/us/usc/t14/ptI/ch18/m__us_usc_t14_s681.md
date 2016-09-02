@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch18/m__us_usc_t14_s680.md) | [Next](./../../../../..//us/usc/t14/ptI/ch18/m__us_usc_t14_s682 to 684.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs681)
+[Previous](./../../../../..//us/usc/t14/ptI/ch18/m__us_usc_t14_s680.md) | [Next](./../../../../..//us/usc/t14/ptI/ch18/m__us_usc_t14_s685.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs681)
 
 ## § 681. General authority
 
@@ -39,9 +39,17 @@
 
     2002—Subsec. (a). [Pub. L. 107–295][/us/pl/107/295] inserted “, including a small business concern qualified under section 8(a) of the Small Business Act ([15 U.S.C. 637(a)][/us/usc/t15/s637/a]),” after “private persons” in introductory provisions.
 
+\[§§ 682 to 684. __Repealed.__  __[__  __Pub. L. 111–281, title II, § 221(a)(3)__  __][/us/pl/111/281/s221/a/3]__  __,__  __Oct. 15, 2010__  __,__  __[__  __124 Stat. 2919__  __][/us/stat/124/2919]__  __\]__ 
+
+    Section 682, added [Pub. L. 104–324, title II, § 208(a)][/us/pl/104/324/s208/a], Oct. 19, 1996, [110 Stat. 3910][/us/stat/110/3910]; amended [Pub. L. 108–293, title II, § 207(b)][/us/pl/108/293/s207/b], Aug. 9, 2004, [118 Stat. 1034][/us/stat/118/1034], related to direct loans and loan guarantees.
+
+    Section 683, added [Pub. L. 104–324, title II, § 208(a)][/us/pl/104/324/s208/a], Oct. 19, 1996, [110 Stat. 3910][/us/stat/110/3910], related to leasing of housing to be constructed.
+
+    Section 684, added [Pub. L. 104–324, title II, § 208(a)][/us/pl/104/324/s208/a], Oct. 19, 1996, [110 Stat. 3911][/us/stat/110/3911]; amended [Pub. L. 108–293, title II, § 207(c)][/us/pl/108/293/s207/c], Aug. 9, 2004, [118 Stat. 1034][/us/stat/118/1034], related to limited partnerships with eligible entities.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch18/m__us_usc_t14_s680.md) | [Next](./../../../../..//us/usc/t14/ptI/ch18/m__us_usc_t14_s682 to 684.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs681)
+[Previous](./../../../../..//us/usc/t14/ptI/ch18/m__us_usc_t14_s680.md) | [Next](./../../../../..//us/usc/t14/ptI/ch18/m__us_usc_t14_s685.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs681)
 
 ----------
 ----------
@@ -58,5 +66,17 @@
 [/us/pl/111/281/s221/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs221%2Fa%2F2%2FC
 [/us/pl/107/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295
 [/us/usc/t15/s637/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fa
+[/us/pl/111/281/s221/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs221%2Fa%2F3
+[/us/stat/124/2919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2919
+[/us/pl/104/324/s208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs208%2Fa
+[/us/stat/110/3910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3910
+[/us/pl/108/293/s207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs207%2Fb
+[/us/stat/118/1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1034
+[/us/pl/104/324/s208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs208%2Fa
+[/us/stat/110/3910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3910
+[/us/pl/104/324/s208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs208%2Fa
+[/us/stat/110/3911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3911
+[/us/pl/108/293/s207/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F293%2Fs207%2Fc
+[/us/stat/118/1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1034
 
 

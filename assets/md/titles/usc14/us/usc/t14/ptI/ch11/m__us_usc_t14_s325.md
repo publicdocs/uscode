@@ -15,7 +15,7 @@
 
 ## § 325. Rights and procedures
 
-Each officer under consideration for removal under [section 322 of this title][/us/usc/t14/s322] shall be—
+    Each officer under consideration for removal under [section 322 of this title][/us/usc/t14/s322] shall be—
 
     (1) notified in writing at least thirty days before the hearing of the case by a board of inquiry of the reasons for which the officer is being required to show cause for retention;
 

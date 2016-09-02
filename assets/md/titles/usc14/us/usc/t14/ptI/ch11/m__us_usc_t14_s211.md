@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_ptI_ch11.md) | [Next](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s212, 213.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs211)
+[Previous](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_ptI_ch11.md) | [Next](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s214.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs211)
 
 ## § 211. Original appointment of permanent commissioned officers
 
@@ -71,9 +71,19 @@
 
 >     “(h) Notwithstanding [section 1431 of title 10][/us/usc/t10/s1431], United States Code, an original election, change, or revocation of an election, made under that section by an officer who is retired under the provisions of section 282, 283, 284, 285, or 288 of title 14, United States Code, is effective if made prior to the first day of the third month following the month in which this Act is enacted \[September 1963\].”
 
+\[§§ 212, 213. __Repealed.__  __[__  __Pub. L. 103–337, div. A, title V, § 541(f)(5)(A)__  __][/us/pl/103/337/s541/f/5/A]__  __,__  __Oct. 5, 1994__  __,__  __[__  __108 Stat. 2767__  __][/us/stat/108/2767]__  __\]__ 
+
+    Section 212, added [Pub. L. 88–130, § 1(10)(C)][/us/pl/88/130/s1/10/C], Sept. 24, 1963, [77 Stat. 177][/us/stat/77/177]; amended [Pub. L. 98–557, § 15(a)(3)(B)][/us/pl/98/557/s15/a/3/B], Oct. 30, 1984, [98 Stat. 2865][/us/stat/98/2865], related to original appointment of permanent commissioned warrant officers in Coast Guard. See section 571 et seq. of Title 10, Armed Forces.
+
+    Section 213, added [Pub. L. 88–130, § 1(10)(C)][/us/pl/88/130/s1/10/C], Sept. 24, 1963, [77 Stat. 178][/us/stat/77/178]; amended [Pub. L. 98–557, § 15(a)(3)(B)][/us/pl/98/557/s15/a/3/B], Oct. 30, 1984, [98 Stat. 2865][/us/stat/98/2865], related to original appointment of permanent warrant officers (W–1) in Coast Guard. See section 571 et seq. of Title 10.
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective on the first day of the fourth month beginning after Oct. 5, 1994, see [section 541(h) of Pub. L. 103–337][/us/pl/103/337/s541/h], set out as an Effective Date of 1994 Amendment note under [section 571 of Title 10][/us/usc/t10/s571], Armed Forces.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_ptI_ch11.md) | [Next](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s212, 213.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs211)
+[Previous](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_ptI_ch11.md) | [Next](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s214.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs211)
 
 ----------
 ----------
@@ -104,5 +114,17 @@
 [/us/usc/t14/s288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs288
 [/us/usc/t14/s288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs288
 [/us/usc/t10/s1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1431
+[/us/pl/103/337/s541/f/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs541%2Ff%2F5%2FA
+[/us/stat/108/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2767
+[/us/pl/88/130/s1/10/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130%2Fs1%2F10%2FC
+[/us/stat/77/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F177
+[/us/pl/98/557/s15/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs15%2Fa%2F3%2FB
+[/us/stat/98/2865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2865
+[/us/pl/88/130/s1/10/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F130%2Fs1%2F10%2FC
+[/us/stat/77/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F178
+[/us/pl/98/557/s15/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F557%2Fs15%2Fa%2F3%2FB
+[/us/stat/98/2865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2865
+[/us/pl/103/337/s541/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs541%2Fh
+[/us/usc/t10/s571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs571
 
 

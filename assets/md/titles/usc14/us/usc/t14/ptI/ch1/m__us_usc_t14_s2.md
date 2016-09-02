@@ -15,7 +15,7 @@
 
 ## § 2. Primary duties
 
-The Coast Guard shall—
+    The Coast Guard shall—
 
     (1) enforce or assist in the enforcement of all applicable Federal laws on, under, and over the high seas and waters subject to the jurisdiction of the United States;
 

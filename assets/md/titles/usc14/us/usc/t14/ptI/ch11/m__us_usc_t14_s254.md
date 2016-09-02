@@ -15,7 +15,7 @@
 
 ## § 254. Selection boards; oath of members
 
-Each member of a selection board shall swear—
+    Each member of a selection board shall swear—
 
     (1) that the member will, without prejudice or partiality, and having in view both the special fitness of officers and the efficiency of the Coast Guard, perform the duties imposed upon the member; and
 

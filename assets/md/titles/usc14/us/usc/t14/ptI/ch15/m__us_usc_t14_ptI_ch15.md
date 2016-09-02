@@ -197,9 +197,15 @@ SUBCHAPTER III—DEFINITIONS  </td>
 
   </tr>
 
-</table>
+  <tr>
 
- __Prior Provisions__ 
+    <td> 
+
+Prior Provisions  </td>
+
+  </tr>
+
+</table>
 
     A prior chapter 15 of this title, consisting of sections 561 to 576 and relating to Coast Guard discipline, was repealed by [act May 5, 1950, ch. 169, § 14(v)][/us/act/1950-05-05/ch169/s14/v], [64 Stat. 148][/us/stat/64/148].
 

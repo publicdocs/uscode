@@ -15,7 +15,7 @@
 
 ## § 367. Detention beyond term of enlistment
 
-Under regulations prescribed by the Secretary, an enlisted member may be detained in the Coast Guard beyond the term of his enlistment:
+    Under regulations prescribed by the Secretary, an enlisted member may be detained in the Coast Guard beyond the term of his enlistment:
 
     (1) until the first arrival of the vessel on which he is serving at its permanent station, or at a port in a State of the United States or in the District of Columbia; or
 
@@ -25,7 +25,7 @@ Under regulations prescribed by the Secretary, an enlisted member may be detaine
 
     (4) for a period of not exceeding thirty days in other cases whether or not specifically covered by this section, when essential to the public interests, and the determination that such detention is essential to the public interests, made in accordance with regulations prescribed by the Secretary, shall be final and conclusive.
 
-        Any member detained in the Coast Guard as provided in this section shall be entitled to receive pay and allowances and benefits under the same conditions as though his enlistment period had not expired, and shall be subject in all respects to the laws and regulations for the government of the Coast Guard until his discharge therefrom. Enlisted members detained under the provisions of clause (1) shall be entitled to the pay and allowances provided for enlisted personnel of the Navy detained under similar circumstances.
+    Any member detained in the Coast Guard as provided in this section shall be entitled to receive pay and allowances and benefits under the same conditions as though his enlistment period had not expired, and shall be subject in all respects to the laws and regulations for the government of the Coast Guard until his discharge therefrom. Enlisted members detained under the provisions of clause (1) shall be entitled to the pay and allowances provided for enlisted personnel of the Navy detained under similar circumstances.
 
 ([Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], [63 Stat. 523][/us/stat/63/523]; [Aug. 3, 1950, ch. 536, § 22][/us/act/1950-08-03/ch536/s22], [64 Stat. 407][/us/stat/64/407]; [July 24, 1956, ch. 692][/us/act/1956-07-24/ch692], §§ 2(4), 3, [70 Stat. 631][/us/stat/70/631]; [Pub. L. 98–557][/us/pl/98/557], §§ 15(a)(3)(A), (C), 17(b)(4), Oct. 30, 1984, [98 Stat. 2865][/us/stat/98/2865], 2868.)
 

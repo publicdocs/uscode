@@ -15,7 +15,7 @@
 
 ## § 282. Regular lieutenants (junior grade); separation for failure of selection for promotion
 
-Each officer of the Regular Coast Guard appointed under [section 211 of this title][/us/usc/t14/s211] who is serving in the grade of lieutenant (junior grade) and who has failed of selection for promotion to the grade of lieutenant for the second time, shall:
+    Each officer of the Regular Coast Guard appointed under [section 211 of this title][/us/usc/t14/s211] who is serving in the grade of lieutenant (junior grade) and who has failed of selection for promotion to the grade of lieutenant for the second time, shall:
 
     (1) be honorably discharged on June 30 of the promotion year in which his second failure of selection occurs; or
 

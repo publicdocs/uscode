@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s363, 364.md) | [Next](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s366.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs365)
+[Previous](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s362.md) | [Next](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s366.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs365)
 
 ## § 365. Extension of enlistments
 
@@ -35,7 +35,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s363, 364.md) | [Next](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s366.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs365)
+[Previous](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s362.md) | [Next](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s366.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs365)
 
 ----------
 ----------

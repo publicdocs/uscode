@@ -113,7 +113,7 @@
 
             (B) Promotion rates for officers and members of the Coast Guard in the acquisition workforce.
 
-        \[(e) Repealed. [Pub. L. 112–213, title II, § 210(c)(2)(A)][/us/pl/112/213/s210/c/2/A], Dec. 20, 2012, [126 Stat. 1551][/us/stat/126/1551].\]
+    \[(e) Repealed. [Pub. L. 112–213, title II, § 210(c)(2)(A)][/us/pl/112/213/s210/c/2/A], Dec. 20, 2012, [126 Stat. 1551][/us/stat/126/1551].\]
 
     (f) __Appointments to Acquisition Positions.—__ 
 

@@ -15,7 +15,7 @@
 
 ## § 483. Right to wear uniform
 
-When authorized by and in accordance with applicable regulations:
+    When authorized by and in accordance with applicable regulations:
 
     (a) any member who has served honorably in the Coast Guard during war shall when not in active service, whether or not on the retired list, be entitled to bear the official title and upon occasions of ceremony to wear the uniform of the highest rank or rating held by him during his war service, and
 

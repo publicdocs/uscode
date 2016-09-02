@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s247, 248.md) | [Next](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s252.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs251)
+[Previous](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s239.md) | [Next](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s252.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs251)
 
 ## § 251. Selection boards; convening of boards
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s247, 248.md) | [Next](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s252.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs251)
+[Previous](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s239.md) | [Next](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s252.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs251)
 
 ----------
 ----------

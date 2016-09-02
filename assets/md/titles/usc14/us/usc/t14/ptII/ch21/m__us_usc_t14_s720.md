@@ -15,7 +15,7 @@
 
 ## § 720. Definitions
 
-As used in this subchapter—
+    As used in this subchapter—
 
     (1) “Reserve officer” means a commissioned officer in the Reserve, except an officer excluded by [section 721 of this title][/us/usc/t14/s721] or a commissioned warrant officer; and
 

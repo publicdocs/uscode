@@ -15,7 +15,7 @@
 
 ## § 823. Eligibility; enrollments
 
-The Auxiliary shall be composed of nationals of the United States, as defined in section 101(a)(22) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(22)][/us/usc/t8/s1101/a/22]), and aliens lawfully admitted for permanent residence, as defined in section 101(a)(20) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(20)][/us/usc/t8/s1101/a/20])—
+    The Auxiliary shall be composed of nationals of the United States, as defined in section 101(a)(22) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(22)][/us/usc/t8/s1101/a/22]), and aliens lawfully admitted for permanent residence, as defined in section 101(a)(20) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(20)][/us/usc/t8/s1101/a/20])—
 
     (1)
 

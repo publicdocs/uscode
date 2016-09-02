@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s310 to 312.md) | [Next](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s313a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs313)
+[Previous](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s309.md) | [Next](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s313a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs313)
 
 ## \[§ 313. Repealed. [May 29, 1954, ch. 249, § 20(o)][/us/act/1954-05-29/ch249/s20/o], [68 Stat. 167][/us/stat/68/167]\]
 
@@ -23,7 +23,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s310 to 312.md) | [Next](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s313a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs313)
+[Previous](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s309.md) | [Next](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s313a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs313)
 
 ----------
 ----------

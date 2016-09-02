@@ -15,7 +15,7 @@
 
 ## § 576. Acquisition approval authority
 
-Nothing in this subchapter shall be construed as altering or diminishing in any way the statutory authority and responsibility of the Secretary of the department in which the Coast Guard is operating, or the Secretary’s designee, to—
+    Nothing in this subchapter shall be construed as altering or diminishing in any way the statutory authority and responsibility of the Secretary of the department in which the Coast Guard is operating, or the Secretary’s designee, to—
 
     (1) manage and administer department procurements, including procurements by department components, as required by section 701 of the Homeland Security Act of 2002 ([6 U.S.C. 341][/us/usc/t6/s341]); or
 

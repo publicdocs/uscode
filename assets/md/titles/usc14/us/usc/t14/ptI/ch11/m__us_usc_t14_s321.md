@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s314, 315.md) | [Next](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s322.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs321)
+[Previous](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s313a.md) | [Next](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s322.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs321)
 
 ## § 321. Review of records of officers
 
-The Secretary may at any time convene a board of officers to review the record of any officer of the Regular Coast Guard to determine whether he shall be required to show cause for his retention on active duty—
+    The Secretary may at any time convene a board of officers to review the record of any officer of the Regular Coast Guard to determine whether he shall be required to show cause for his retention on active duty—
 
     (1) because his performance of duty has fallen below the standards prescribed by the Secretary, or
 
@@ -25,7 +25,7 @@ The Secretary may at any time convene a board of officers to review the record o
 
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s314, 315.md) | [Next](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s322.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs321)
+[Previous](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s313a.md) | [Next](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_s322.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs321)
 
 ----------
 ----------

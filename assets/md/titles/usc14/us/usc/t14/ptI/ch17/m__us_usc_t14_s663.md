@@ -205,7 +205,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(G) includes a phase-out and decommissioning schedule delineated by fiscal year for each existing legacy asset that each asset is intended to replace or recapitalize:
 
->         Provided further, That the Commandant of the Coast Guard shall ensure that amounts specified in the future-years capital investment plan are consistent, to the maximum extent practicable, with proposed appropriations necessary to support the programs, projects, and activities of the Coast Guard in the President’s budget as submitted under [section 1105(a) of title 31][/us/usc/t31/s1105/a], United States Code, for that fiscal year: Provided further, That any inconsistencies between the capital investment plan and proposed appropriations shall be identified and justified”.
+>     Provided further, That the Commandant of the Coast Guard shall ensure that amounts specified in the future-years capital investment plan are consistent, to the maximum extent practicable, with proposed appropriations necessary to support the programs, projects, and activities of the Coast Guard in the President’s budget as submitted under [section 1105(a) of title 31][/us/usc/t31/s1105/a], United States Code, for that fiscal year: Provided further, That any inconsistencies between the capital investment plan and proposed appropriations shall be identified and justified”.
 
 Similar provisions were contained in the following prior appropriation acts:
 

@@ -15,7 +15,7 @@
 
 ## § 92. Secretary; general powers
 
-For the purpose of executing the duties and functions of the Coast Guard the Secretary may within the limits of appropriations made therefor:
+    For the purpose of executing the duties and functions of the Coast Guard the Secretary may within the limits of appropriations made therefor:
 
     (a) establish, change the limits of, consolidate, discontinue, and re-establish Coast Guard districts;
 

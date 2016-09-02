@@ -15,7 +15,7 @@
 
 ## § 662. Requirement for prior authorization of appropriations
 
-Amounts may be appropriated to or for the use of the Coast Guard for the following matters only if the amounts have been authorized by law after December 31, 1976:
+    Amounts may be appropriated to or for the use of the Coast Guard for the following matters only if the amounts have been authorized by law after December 31, 1976:
 
     (1) For the operation and maintenance of the Coast Guard.
 

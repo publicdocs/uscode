@@ -15,7 +15,7 @@
 
 ## § 680. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) The term “construct” means to build, renovate, or improve military family housing and military unaccompanied housing.
 

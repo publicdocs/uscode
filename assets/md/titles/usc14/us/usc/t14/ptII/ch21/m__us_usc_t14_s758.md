@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptII/ch21/m__us_usc_t14_s753a to 757.md) | [Next](./../../../../..//us/usc/t14/ptII/ch21/m__us_usc_t14_s758a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs758)
+[Previous](./../../../../..//us/usc/t14/ptII/ch21/m__us_usc_t14_s753.md) | [Next](./../../../../..//us/usc/t14/ptII/ch21/m__us_usc_t14_s758a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs758)
 
 ## \[§ 758. Repealed. [May 5, 1950, ch. 169, § 14(u)][/us/act/1950-05-05/ch169/s14/u], [64 Stat. 148][/us/stat/64/148]\]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptII/ch21/m__us_usc_t14_s753a to 757.md) | [Next](./../../../../..//us/usc/t14/ptII/ch21/m__us_usc_t14_s758a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs758)
+[Previous](./../../../../..//us/usc/t14/ptII/ch21/m__us_usc_t14_s753.md) | [Next](./../../../../..//us/usc/t14/ptII/ch21/m__us_usc_t14_s758a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs758)
 
 ----------
 ----------

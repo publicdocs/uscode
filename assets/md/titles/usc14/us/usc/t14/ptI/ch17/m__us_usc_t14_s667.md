@@ -15,7 +15,7 @@
 
 ## § 667. Vessel construction bonding requirements
 
-The Secretary or the Commandant may require bid, payment, performance, payment and performance, or completion bonds or other financial instruments from contractors for construction, alteration, repair, or maintenance of Coast Guard vessels if—
+    The Secretary or the Commandant may require bid, payment, performance, payment and performance, or completion bonds or other financial instruments from contractors for construction, alteration, repair, or maintenance of Coast Guard vessels if—
 
     (1) the bond is required by law; or
 

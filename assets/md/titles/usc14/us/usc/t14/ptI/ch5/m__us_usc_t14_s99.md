@@ -15,7 +15,7 @@
 
 ## § 99. Enforcement authority
 
-Subject to guidelines approved by the Secretary, members of the Coast Guard, in the performance of official duties, may—
+    Subject to guidelines approved by the Secretary, members of the Coast Guard, in the performance of official duties, may—
 
     (1) carry a firearm; and
 

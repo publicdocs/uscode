@@ -15,7 +15,7 @@
 
 ## § 690. Definitions
 
-For the purposes of this chapter—
+    For the purposes of this chapter—
 
     (1) “environment”, “facility”, “person”, “release”, “removal”, “remedial”, and “response” have the same meaning they have in section 101 of the Comprehensive Environmental Response, Compensation, and Liability Act ([42 U.S.C. 9601][/us/usc/t42/s9601]);
 

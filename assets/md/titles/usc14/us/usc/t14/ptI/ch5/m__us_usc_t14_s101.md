@@ -15,7 +15,7 @@
 
 ## § 101. Appeals and waivers
 
-Except for the Commandant of the Coast Guard, any individual adjudicating an appeal or waiver of a decision regarding marine safety, including inspection or manning and threats to the environment, shall—
+    Except for the Commandant of the Coast Guard, any individual adjudicating an appeal or waiver of a decision regarding marine safety, including inspection or manning and threats to the environment, shall—
 
     (1) be a qualified specialist with the training, experience, and qualifications in marine safety to effectively judge the facts and circumstances involved in the appeal and make a judgment regarding the merits of the appeal; or
 

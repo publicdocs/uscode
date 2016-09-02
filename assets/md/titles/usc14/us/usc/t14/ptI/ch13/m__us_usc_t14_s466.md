@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch13/m__us_usc_t14_s464, 465.md) | [Next](./../../../../..//us/usc/t14/ptI/ch13/m__us_usc_t14_s467.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs466)
+[Previous](./../../../../..//us/usc/t14/ptI/ch13/m__us_usc_t14_s463.md) | [Next](./../../../../..//us/usc/t14/ptI/ch13/m__us_usc_t14_s467.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs466)
 
 ## \[§ 466. Repealed. [July 12, 1955, ch. 328, § 5(3)][/us/act/1955-07-12/ch328/s5/3], [69 Stat. 296][/us/stat/69/296]\]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t14/ptI/ch13/m__us_usc_t14_s464, 465.md) | [Next](./../../../../..//us/usc/t14/ptI/ch13/m__us_usc_t14_s467.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs466)
+[Previous](./../../../../..//us/usc/t14/ptI/ch13/m__us_usc_t14_s463.md) | [Next](./../../../../..//us/usc/t14/ptI/ch13/m__us_usc_t14_s467.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs466)
 
 ----------
 ----------
