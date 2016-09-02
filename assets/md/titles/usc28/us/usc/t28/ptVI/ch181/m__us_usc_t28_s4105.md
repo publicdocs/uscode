@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t28/ptVI/ch181/m__us_usc_t28_s4104.md) | ~~Next~~ | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs4105)
+[Previous](./../../../../..//us/usc/t28/ptVI/ch181/m__us_usc_t28_s4104.md) | [Next](./../../../../..//us/usc/t28/ptVI/ch190/m__us_usc_t28_ptVI_ch190.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs4105)
 
 ## § 4105. Attorneys’ fees
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t28/ptVI/ch181/m__us_usc_t28_s4104.md) | ~~Next~~ | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs4105)
+[Previous](./../../../../..//us/usc/t28/ptVI/ch181/m__us_usc_t28_s4104.md) | [Next](./../../../../..//us/usc/t28/ptVI/ch190/m__us_usc_t28_ptVI_ch190.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs4105)
 
 ----------
 ----------

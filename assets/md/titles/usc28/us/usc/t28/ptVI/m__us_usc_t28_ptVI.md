@@ -227,6 +227,16 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2FptVI%2Fch190" data-uslm-ref="/us/usc/t28/ptVI/ch190">190.</a>  </td>
+
+    <td> Miscellaneous  </td>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs5001" data-uslm-ref="/us/usc/t28/s5001">5001</a>  </td>
+
+  </tr>
+
 </table>
 
  __Senate Revision Amendment__ 
@@ -234,6 +244,8 @@
     Chapters 169, 171 and 173 were renumbered “167”, “169” and “171”, respectively, without change in their section numbers, by Senate amendment. See 80th Congress Senate Report No. 1559.
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–287, § 4(b)(2)][/us/pl/113/287/s4/b/2], Dec. 19, 2014, [128 Stat. 3261][/us/stat/128/3261], added item for chapter 190.
 
     2010—[Pub. L. 111–223, § 3(c)][/us/pl/111/223/s3/c], Aug. 10, 2010, [124 Stat. 2384][/us/stat/124/2384], added item for chapter 181.
 
@@ -270,6 +282,8 @@
 ----------
 ----------
 
+[/us/pl/113/287/s4/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs4%2Fb%2F2
+[/us/stat/128/3261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3261
 [/us/pl/111/223/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F223%2Fs3%2Fc
 [/us/stat/124/2384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2384
 [/us/pl/106/310/s3405/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3405%2Fc%2F2
