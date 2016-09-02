@@ -29,7 +29,7 @@
 
         (1) __Increased amount__ 
 
-            Effective only during the period beginning on October 3, 2008, and ending on December 31, 2013, section 207(k)(5) of the Federal Credit Union Act ([12 U.S.C. 1787(k)(5)][/us/usc/t12/s1787/k/5]) shall apply with “$250,000” substituted for “$100,000”.
+            Effective only during the period beginning on October 3, 2008, and ending on December 31, 2013, section 207(k)(5)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Federal Credit Union Act ([12 U.S.C. 1787(k)(5)][/us/usc/t12/s1787/k/5]) shall apply with “$250,000” substituted for “$100,000”.
 
         (2) __Borrowing limits temporarily lifted__ 
 
@@ -42,6 +42,8 @@
 ([Pub. L. 110–343, div. A, title I, § 136][/us/pl/110/343/s136], Oct. 3, 2008, [122 Stat. 3799][/us/stat/122/3799]; [Pub. L. 111–22, div. A, title II, § 204(a)][/us/pl/111/22/s204/a], May 20, 2009, [123 Stat. 1648][/us/stat/123/1648].)
 
  __References in Text__ 
+
+    Section 207(k)(5) of the Federal Credit Union Act, referred to in subsec. (b)(1), was redesignated section 207(k)(6) of the Act by [Pub. L. 113–252, § 2(3)][/us/pl/113/252/s2/3], Dec. 18, 2014, [128 Stat. 2893][/us/stat/128/2893].
 
     That Act, referred to in subsec. (c), means the Federal Deposit Insurance Act, [act Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2], [64 Stat. 873][/us/stat/64/873], which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title][/us/usc/t12/s1811] and Tables.
 
@@ -75,6 +77,8 @@
 [/us/stat/122/3799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3799
 [/us/pl/111/22/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs204%2Fa
 [/us/stat/123/1648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1648
+[/us/pl/113/252/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F252%2Fs2%2F3
+[/us/stat/128/2893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2893
 [/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
 [/us/stat/64/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F873
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811

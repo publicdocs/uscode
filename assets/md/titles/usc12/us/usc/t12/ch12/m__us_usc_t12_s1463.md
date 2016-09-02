@@ -93,7 +93,7 @@
 
             (B) __Lottery__ 
 
-            The term “lottery” includes any arrangement under which—
+            The term “lottery” includes any arrangement, other than a savings promotion raffle, under which—
 
                 (i) 3 or more persons (hereafter in this subparagraph referred to as the “participants”) advance money or credit to another in exchange for the possibility or expectation that 1 or more but not all of the participants (hereafter in this paragraph referred to as the “winners”) will receive by reason of those participants’ advances more than the amounts those participants have advanced; and
 
@@ -110,6 +110,10 @@
             (C) __Lottery ticket__ 
 
                 The term “lottery ticket” includes any right, privilege, or possibility (and any ticket, receipt, record, or other evidence of any such right, privilege, or possibility) of becoming a winner in a lottery.
+
+            (D) __Savings promotion raffle__ 
+
+                The term “savings promotion raffle” means a contest in which the sole consideration required for a chance of winning designated prizes is obtained by the deposit of a specified amount of money in a savings account or other savings program, where each ticket or entry has an equal chance of being drawn, such contest being subject to regulations that may from time to time be promulgated by the appropriate prudential regulator (as defined in [section 5481 of this title][/us/usc/t12/s5481]).
 
         (4) __Exception for State lotteries__ 
 
@@ -137,7 +141,7 @@
 
         (2) issue any securities the form of which has not been approved by the appropriate Federal banking agency.
 
-([June 13, 1933, ch. 64, § 4][/us/act/1933-06-13/ch64/s4], as added [Pub. L. 101–73, title III, § 301][/us/pl/101/73/s301], Aug. 9, 1989, [103 Stat. 280][/us/stat/103/280]; amended [Pub. L. 111–203, title III, § 369(4)][/us/pl/111/203/s369/4], July 21, 2010, [124 Stat. 1558][/us/stat/124/1558].)
+([June 13, 1933, ch. 64, § 4][/us/act/1933-06-13/ch64/s4], as added [Pub. L. 101–73, title III, § 301][/us/pl/101/73/s301], Aug. 9, 1989, [103 Stat. 280][/us/stat/103/280]; amended [Pub. L. 111–203, title III, § 369(4)][/us/pl/111/203/s369/4], July 21, 2010, [124 Stat. 1558][/us/stat/124/1558]; [Pub. L. 113–251, § 3(d)][/us/pl/113/251/s3/d], Dec. 18, 2014, [128 Stat. 2889][/us/stat/128/2889].)
 
  __Prior Provisions__ 
 
@@ -148,6 +152,10 @@
     A prior section 1463b, [act Apr. 27, 1934, ch. 168, § 9][/us/act/1934-04-27/ch168/s9], [48 Stat. 646][/us/stat/48/646], related to purchase of obligations of, and loans to, Federal Home Loan Banks, prior to repeal by [act May 28, 1935, ch. 150, § 17(b)][/us/act/1935-05-28/ch150/s17/b], [49 Stat. 297][/us/stat/49/297].
 
  __Amendments__ 
+
+    2014—Subsec. (e)(3)(B). [Pub. L. 113–251, § 3(d)(1)][/us/pl/113/251/s3/d/1], inserted “, other than a savings promotion raffle,” after “arrangement” in introductory provisions.
+
+    Subsec. (e)(3)(D). [Pub. L. 113–251, § 3(d)(2)][/us/pl/113/251/s3/d/2], added subpar. (D).
 
     2010—Subsec. (a). [Pub. L. 111–203, § 369(4)(A)(i)][/us/pl/111/203/s369/4/A/i], struck out “Federal” before “savings” in heading.
 
@@ -241,11 +249,14 @@
 ----------
 
 [/us/usc/t12/s1464/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1464%2Ft
+[/us/usc/t12/s5481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5481
 [/us/act/1933-06-13/ch64/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-13%2Fch64%2Fs4
 [/us/pl/101/73/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs301
 [/us/stat/103/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F280
 [/us/pl/111/203/s369/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs369%2F4
 [/us/stat/124/1558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1558
+[/us/pl/113/251/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251%2Fs3%2Fd
+[/us/stat/128/2889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2889
 [/us/act/1933-06-13/ch64/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-13%2Fch64%2Fs4
 [/us/stat/48/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F129
 [/us/act/1934-04-27/ch168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-04-27%2Fch168
@@ -269,6 +280,8 @@
 [/us/stat/48/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F646
 [/us/act/1935-05-28/ch150/s17/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-05-28%2Fch150%2Fs17%2Fb
 [/us/stat/49/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F297
+[/us/pl/113/251/s3/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251%2Fs3%2Fd%2F1
+[/us/pl/113/251/s3/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251%2Fs3%2Fd%2F2
 [/us/pl/111/203/s369/4/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs369%2F4%2FA%2Fi
 [/us/pl/111/203/s369/4/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs369%2F4%2FA%2Fii
 [/us/pl/111/203/s369/4/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs369%2F4%2FA%2Fiii

@@ -27,6 +27,12 @@
 
     R.S. § 5133 derived from [act June 3, 1864, ch. 106, § 5][/us/act/1864-06-03/ch106/s5], [13 Stat. 100][/us/stat/13/100], which was the National Bank Act. See [section 38 of this title][/us/usc/t12/s38].
 
+ __Short Title of 2014 Amendment__ 
+
+[Pub. L. 113–251, § 1][/us/pl/113/251/s1], Dec. 18, 2014, [128 Stat. 2888][/us/stat/128/2888], provided that: 
+
+> “This Act \[enacting [section 1308 of Title 18][/us/usc/t18/s1308], Crimes and Criminal Procedure, amending sections 25a, 339, 1463, and 1829a of this title and sections 1952, 1953, and 1955 of Title 18, and enacting provisions set out as a note under [section 25a of this title][/us/usc/t12/s25a]\] may be cited as the ‘American Savings Promotion Act’.”
+
  __Exception as to Transfer of Functions__ 
 
     Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under [section 1 of this title][/us/usc/t12/s1].
@@ -41,6 +47,10 @@
 [/us/act/1864-06-03/ch106/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1864-06-03%2Fch106%2Fs5
 [/us/stat/13/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F100
 [/us/usc/t12/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs38
+[/us/pl/113/251/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251%2Fs1
+[/us/stat/128/2888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2888
+[/us/usc/t18/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1308
+[/us/usc/t12/s25a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs25a
 [/us/usc/t12/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1
 
 

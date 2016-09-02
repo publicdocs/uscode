@@ -83,7 +83,7 @@
 
             (B) any Federal home loan bank; or
 
-            (C) any small bank holding company that is subject to the Small Bank Holding Company Policy Statement of the Board of Governors, as in effect on May 19, 2010.
+            (C) any bank holding company or savings and loan holding company having less than $1,000,000,000 in total consolidated assets that complies with the requirements of the Small Bank Holding Company Policy Statement on Assessment of Financial and Managerial Factors of the Board of Governors (12 CFR part 225 appendix C), as the requirements of such Policy Statement are amended pursuant to section 1 of an Act entitled “To enhance the ability of community financial institutions to foster economic growth and serve their communities, boost small businesses, increase individual savings, and for other purposes”.
 
         (6) __Study and report on small institution access to capital__ 
 
@@ -115,11 +115,59 @@
 
                 (iii) concentrations in market share for any activity that would substantially disrupt financial markets if the institution is forced to unexpectedly cease the activity.
 
-([Pub. L. 111–203, title I, § 171][/us/pl/111/203/s171], July 21, 2010, [124 Stat. 1435][/us/stat/124/1435].)
+([Pub. L. 111–203, title I, § 171][/us/pl/111/203/s171], July 21, 2010, [124 Stat. 1435][/us/stat/124/1435]; [Pub. L. 113–250, § 2(a)][/us/pl/113/250/s2/a], Dec. 18, 2014, [128 Stat. 2886][/us/stat/128/2886].)
 
  __References in Text__ 
 
     The Emergency Economic Stabilization Act of 2008, referred to in subsec. (b)(5)(A), is div. A of [Pub. L. 110–343][/us/pl/110/343], Oct. 3, 2008, [122 Stat. 3765][/us/stat/122/3765], which is classified principally to chapter 52 (§ 5201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5201 of this title][/us/usc/t12/s5201] and Tables.
+
+    Section 1 of an Act entitled “To enhance the ability of community financial institutions to foster economic growth and serve their communities, boost small businesses, increase individual savings, and for other purposes”, referred to in subsec. (b)(5)(C), is [section 1 of Pub. L. 113–250][/us/pl/113/250/s1], which is set out as a note below.
+
+ __Amendments__ 
+
+    2014—Subsec. (b)(5)(C). [Pub. L. 113–250][/us/pl/113/250] amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “any small bank holding company that is subject to the Small Bank Holding Company Policy Statement of the Board of Governors, as in effect on May 19, 2010.”
+
+ __Changes Required to Small Bank Holding Company Policy Statement on Assessment of Financial and Managerial Factors__ 
+
+[Pub. L. 113–250][/us/pl/113/250], Dec. 18, 2014, [128 Stat. 2886][/us/stat/128/2886], provided that:
+
+> “SECTION 1. __CHANGES REQUIRED TO SMALL BANK HOLDING COMPANY POLICY STATEMENT ON ASSESSMENT OF FINANCIAL AND MANAGERIAL FACTORS.__ 
+
+>     “(a)  __In General__  __.—__ 
+
+>     Before the end of the 6-month period beginning on the date of the enactment of this Act \[Dec. 18, 2014\], the Board of Governors of the Federal Reserve System (hereafter in this Act referred to as the ‘Board’) shall publish in the Federal Register proposed revisions to the Small Bank Holding Company Policy Statement on Assessment of Financial and Managerial Factors (12 CFR part 225 appendix C) that provide that the policy shall apply to bank holding companies and savings and loan holding companies which have pro forma consolidated assets of less than $1,000,000,000 and that—
+
+>         “(1) are not engaged in significant nonbanking activities either directly or through a nonbank subsidiary;
+
+>         “(2) do not conduct significant off-balance sheet activities (including securitization and asset management or administration) either directly or through a nonbank subsidiary; and
+
+>         “(3) do not have a material amount of debt or equity securities outstanding (other than trust preferred securities) that are registered with the Securities and Exchange Commission.
+
+>     “(b)  __Exclusions__  __.—__ 
+
+>     The Board may exclude any bank holding company or savings and loan holding company, regardless of asset size, from the policy statement under subsection (a) if the Board determines that such action is warranted for supervisory purposes.
+
+> “SEC. 2. __CONFORMING AMENDMENT.__ 
+
+>     “(a)  __In General__  __.—__ 
+
+>     \[Amended this section.\]
+
+>     “(b)  __Transition Period__  __.—__ 
+
+>     Any small bank holding company that was excepted from the provisions of section 171 of the Dodd-Frank Wall Street Reform and Consumer Protection Act \[[12 U.S.C. 5371][/us/usc/t12/s5371]\] pursuant to subparagraph (C) of section 171(b)(5) (as such subparagraph was in effect on the day before the date of enactment of this Act \[Dec. 18, 2014\]), and any small savings and loan holding company that would have been excepted from the provisions of section 171 pursuant to subparagraph (C) \[of section 171(b)(5)\] (as such subparagraph was in effect on the day before the date of enactment of this Act) if it had been a small bank holding company, shall be excepted from the provisions of section 171 until the effective date of the Small Bank Holding Company Policy Statement issued by the Board as required by section 1 of this Act.
+
+> “SEC. 3. __DEFINITIONS.__ 
+
+> “For the purposes of this Act:
+
+>     “(a)  __Bank Holding Company__  __.—__ 
+
+>     The term ‘bank holding company’ has the same meaning as in section 2 of the Bank Holding Company Act of 1956 ([12 U.S.C. 1841][/us/usc/t12/s1841]).
+
+>     “(b)  __Savings and Loan Holding Company__  __.—__ 
+
+>     The term ‘savings and loan holding company’ has the same meaning as in section 10(a) of the Home Owners’ Loan Act ([12 U.S.C. 1467a(a)][/us/usc/t12/s1467a/a]).”
 
 ----------
 
@@ -135,8 +183,17 @@
 [/us/usc/t12/s5330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5330
 [/us/pl/111/203/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs171
 [/us/stat/124/1435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1435
+[/us/pl/113/250/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F250%2Fs2%2Fa
+[/us/stat/128/2886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2886
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/stat/122/3765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3765
 [/us/usc/t12/s5201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5201
+[/us/pl/113/250/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F250%2Fs1
+[/us/pl/113/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F250
+[/us/pl/113/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F250
+[/us/stat/128/2886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2886
+[/us/usc/t12/s5371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5371
+[/us/usc/t12/s1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1841
+[/us/usc/t12/s1467a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1467a%2Fa
 
 

@@ -43,7 +43,7 @@
 
         (2)
 
-         The term “lottery” includes any arrangement whereby three or more persons (the “participants”) advance money or credit to another in exchange for the possibility or expectation that one or more but not all of the participants (the “winners”) will receive by reason of their advances more than the amounts they have advanced, the identity of the winners being determined by any means which includes—
+         The term “lottery” includes any arrangement, other than a savings promotion raffle, whereby three or more persons (the “participants”) advance money or credit to another in exchange for the possibility or expectation that one or more but not all of the participants (the “winners”) will receive by reason of their advances more than the amounts they have advanced, the identity of the winners being determined by any means which includes—
 
             (A) a random selection;
 
@@ -53,6 +53,8 @@
 
         (3) The term “lottery ticket” includes any right, privilege, or possibility (and any ticket, receipt, record, or other evidence of any such right, privilege, or possibility), of becoming a winner in a lottery.
 
+        (4) The term “savings promotion raffle” means a contest in which the sole consideration required for a chance of winning designated prizes is obtained by the deposit of a specified amount of money in a savings account or other savings program, where each ticket or entry has an equal chance of being drawn, such contest being subject to regulations that may from time to time be promulgated by the appropriate prudential regulator (as defined in [section 5481 of this title][/us/usc/t12/s5481]).
+
     (d) __Lawful banking services connected with operation of lottery__ 
 
         Nothing contained in this section prohibits a State nonmember insured bank from accepting deposits or cashing or otherwise handling checks or other negotiable instruments, or performing other lawful banking services for a State operating a lottery, or for an officer or employee of that State who is charged with the administration of the lottery.
@@ -61,9 +63,13 @@
 
         The Board of Directors shall prescribe such regulations as may be necessary to the strict enforcement of this section and the prevention of evasions thereof.
 
-([Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2]\[20\], as added [Pub. L. 90–203, § 3][/us/pl/90/203/s3], Dec. 15, 1967, [81 Stat. 610][/us/stat/81/610]; amended [Pub. L. 103–325, title VI, § 602(a)(51)][/us/pl/103/325/s602/a/51], Sept. 23, 1994, [108 Stat. 2290][/us/stat/108/2290].)
+([Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2]\[20\], as added [Pub. L. 90–203, § 3][/us/pl/90/203/s3], Dec. 15, 1967, [81 Stat. 610][/us/stat/81/610]; amended [Pub. L. 103–325, title VI, § 602(a)(51)][/us/pl/103/325/s602/a/51], Sept. 23, 1994, [108 Stat. 2290][/us/stat/108/2290]; [Pub. L. 113–251, § 3(c)][/us/pl/113/251/s3/c], Dec. 18, 2014, [128 Stat. 2889][/us/stat/128/2889].)
 
  __Amendments__ 
+
+    2014—Subsec. (c)(2). [Pub. L. 113–251, § 3(c)(1)][/us/pl/113/251/s3/c/1], inserted “, other than a savings promotion raffle,” before “whereby” in introductory provisions.
+
+    Subsec. (c)(4). [Pub. L. 113–251, § 3(c)(2)][/us/pl/113/251/s3/c/2], added par. (4).
 
     1994—Subsec. (a)(3). [Pub. L. 103–325][/us/pl/103/325] inserted “or” at end.
 
@@ -78,11 +84,16 @@
 ----------
 ----------
 
+[/us/usc/t12/s5481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5481
 [/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
 [/us/pl/90/203/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F203%2Fs3
 [/us/stat/81/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F610
 [/us/pl/103/325/s602/a/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs602%2Fa%2F51
 [/us/stat/108/2290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2290
+[/us/pl/113/251/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251%2Fs3%2Fc
+[/us/stat/128/2889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2889
+[/us/pl/113/251/s3/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251%2Fs3%2Fc%2F1
+[/us/pl/113/251/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251%2Fs3%2Fc%2F2
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/pl/90/203/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F203%2Fs6
 [/us/usc/t12/s25a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs25a

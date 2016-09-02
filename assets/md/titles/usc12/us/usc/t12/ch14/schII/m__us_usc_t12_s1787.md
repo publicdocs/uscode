@@ -1031,7 +1031,7 @@
 
             (A) __In general__ 
 
-                Subject to the provisions of paragraph (2), the net amount of share insurance payable to any member at an insured credit union shall not exceed the total amount of the shares or deposits in the name of the member (after deducting offsets), less any part thereof which is in excess of the standard maximum share insurance amount, as determined in accordance with this paragraph and paragraphs (5) and (6), and consistently with actions taken by the Federal Deposit Insurance Corporation under [section 1821(a) of this title][/us/usc/t12/s1821/a].
+                Subject to the provisions of paragraph (2), the net amount of share insurance payable to any member, or to any person with funds lawfully held in a member account, at an insured credit union shall not exceed the total amount of the shares or deposits in the name of the member (after deducting offsets), less any part thereof which is in excess of the standard maximum share insurance amount, as determined in accordance with this paragraph, and consistently with actions taken by the Federal Deposit Insurance Corporation under [section 1821(a) of this title][/us/usc/t12/s1821/a].
 
             (B) __Aggregation__ 
 
@@ -1045,7 +1045,7 @@
 
             (A) __In general__ 
 
-                Notwithstanding any limitation in this chapter or in any other provision of law relating to the amount of insurance available to any 1 depositor or member, deposits or shares of a government depositor or member shall be insured in an amount equal to the standard maximum share insurance amount (as determined under paragraph (5)), subject to subparagraph (C).
+                Notwithstanding any limitation in this chapter or in any other provision of law relating to the amount of insurance available to any 1 depositor or member, deposits or shares of a government depositor or member shall be insured in an amount equal to the standard maximum share insurance amount, subject to subparagraph (C).
 
             (B) __Government depositor__ 
 
@@ -1103,7 +1103,39 @@
 
                 No provision of this paragraph shall be construed as authorizing an insured credit union to accept the deposits of an employee benefit plan in an amount greater than such credit union is authorized to accept under any other provision of Federal or State law.
 
-        (5) __Standard maximum share insurance amount defined__ 
+        (5) __Coverage for interest on lawyers trust accounts (__  __iolta__  __) and other similar escrow accounts__ 
+
+            (A) __Pass-through insurance__ 
+
+                The Administration shall provide pass-through share insurance for the deposits or shares of any interest on lawyers trust account (IOLTA) or other similar escrow accounts.
+
+            (B) __Treatment of__  __iolta__  __s__ 
+
+                (i) __Treatment as escrow accounts__ 
+
+                    For share insurance purposes, IOLTAs are treated as escrow accounts.
+
+                (ii) __Treatment as member accounts__ 
+
+                    IOLTAs and other similar escrow accounts are considered member accounts for purposes of paragraph (1), if the attorney administering the IOLTA or the escrow agent administering the escrow account is a member of the insured credit union in which the funds are held.
+
+            (C) __Definitions__ 
+
+            For purposes of this paragraph:
+
+                (i) __Interest on lawyers trust account__ 
+
+                    The terms “interest on lawyers trust account” and “IOLTA” mean a system in which lawyers place certain client funds in interest-bearing or dividend-bearing accounts, with the interest or dividends then used to fund programs such as legal service organizations who provide services to clients in need.
+
+                (ii) __Pass-through share insurance__ 
+
+                    The term “pass-through share insurance” means, with respect to IOLTAs and other similar escrow accounts, insurance coverage based on the interest of each person on whose behalf funds are held in such accounts by the attorney administering the IOLTA or the escrow agent administering a similar escrow account, in accordance with regulations issued by the Administration.
+
+            (D) __Rule of construction__ 
+
+                No provision of this paragraph shall be construed as authorizing an insured credit union to accept the deposits of an IOLTA or similar escrow account in an amount greater than such credit union is authorized to accept under any other provision of Federal or State law.
+
+        (6) __Standard maximum share insurance amount defined__ 
 
             For purposes of this chapter, the term “standard maximum share insurance amount” means $250,000, adjusted as provided under [section 1821(a)(1)(F) of this title][/us/usc/t12/s1821/a/1/F].
 
@@ -1167,7 +1199,7 @@
 
         (2) may maintain an office to coordinate foreign investigations or investigations on behalf of foreign banking authorities.
 
-([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title II, § 207, as added [Pub. L. 91–468, § 1(3)][/us/pl/91/468/s1/3], Oct. 19, 1970, [84 Stat. 1010][/us/stat/84/1010]; amended [Pub. L. 93–495, title I][/us/pl/93/495], §§ 101(c), 104(a), Oct. 28, 1974, [88 Stat. 1501][/us/stat/88/1501], 1503; [Pub. L. 95–630, title V, § 502(b)][/us/pl/95/630/s502/b], title XIV, § 1401(c), Nov. 10, 1978, [92 Stat. 3681][/us/stat/92/3681], 3712; [Pub. L. 96–153, title III, § 323(c)][/us/pl/96/153/s323/c], Dec. 21, 1979, [93 Stat. 1120][/us/stat/93/1120]; [Pub. L. 96–221, title III, § 308(c)(1)][/us/pl/96/221/s308/c/1], Mar. 31, 1980, [94 Stat. 148][/us/stat/94/148]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–86, title VII, § 714(a)][/us/pl/100/86/s714/a], (b), Aug. 10, 1987, [101 Stat. 654][/us/stat/101/654], 655; [Pub. L. 101–73, title IX, § 915(c)][/us/pl/101/73/s915/c], title XII, § 1217(a), Aug. 9, 1989, [103 Stat. 486][/us/stat/103/486], 530; [Pub. L. 101–647, title XXV][/us/pl/101/647], §§ 2521(a)(2), 2526(b), 2528(b), 2532(d), 2534(b), Nov. 29, 1990, [104 Stat. 4864][/us/stat/104/4864], 4876, 4878, 4882, 4883; [Pub. L. 103–394, title V, § 501(c)(1)][/us/pl/103/394/s501/c/1], Oct. 22, 1994, [108 Stat. 4143][/us/stat/108/4143]; [Pub. L. 105–219, title III, § 301(b)(2)][/us/pl/105/219/s301/b/2], Aug. 7, 1998, [112 Stat. 930][/us/stat/112/930]; [Pub. L. 109–8, title IX][/us/pl/109/8], §§ 901(a)(2), (b)(2), (c)(2), (d)(2), (e)(2), (f)(2), (g)(2), (h)(2), (i)(2), 902(b), 903(b), 904(b), 905(b), 908(b), Apr. 20, 2005, [119 Stat. 147][/us/stat/119/147], 148, 150, 152, 154, 156–159, 162, 166, 183; [Pub. L. 109–173, § 2(d)(1)][/us/pl/109/173/s2/d/1], (2), Feb. 15, 2006, [119 Stat. 3602][/us/stat/119/3602], 3604; [Pub. L. 109–351, title VII][/us/pl/109/351], §§ 718(b), 720(b), 721(b), 722(b), 726(21)–(23), Oct. 13, 2006, [120 Stat. 1997–1999][/us/stat/120/1997-1999], 2003; [Pub. L. 109–390][/us/pl/109/390], §§ 2(a)(2), (b)(2), (c)(2), 3(b), 6(b), Dec. 12, 2006, [120 Stat. 2693–2695][/us/stat/120/2693-2695], 2699; [Pub. L. 110–289, div. A, title VI, § 1604(b)(2)][/us/pl/110/289/s1604/b/2], July 30, 2008, [122 Stat. 2829][/us/stat/122/2829]; [Pub. L. 111–203, title III][/us/pl/111/203], §§ 335(b), 343(b)(1), (3), July 21, 2010, [124 Stat. 1540][/us/stat/124/1540], 1545.)
+([June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], title II, § 207, as added [Pub. L. 91–468, § 1(3)][/us/pl/91/468/s1/3], Oct. 19, 1970, [84 Stat. 1010][/us/stat/84/1010]; amended [Pub. L. 93–495, title I][/us/pl/93/495], §§ 101(c), 104(a), Oct. 28, 1974, [88 Stat. 1501][/us/stat/88/1501], 1503; [Pub. L. 95–630, title V, § 502(b)][/us/pl/95/630/s502/b], title XIV, § 1401(c), Nov. 10, 1978, [92 Stat. 3681][/us/stat/92/3681], 3712; [Pub. L. 96–153, title III, § 323(c)][/us/pl/96/153/s323/c], Dec. 21, 1979, [93 Stat. 1120][/us/stat/93/1120]; [Pub. L. 96–221, title III, § 308(c)(1)][/us/pl/96/221/s308/c/1], Mar. 31, 1980, [94 Stat. 148][/us/stat/94/148]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–86, title VII, § 714(a)][/us/pl/100/86/s714/a], (b), Aug. 10, 1987, [101 Stat. 654][/us/stat/101/654], 655; [Pub. L. 101–73, title IX, § 915(c)][/us/pl/101/73/s915/c], title XII, § 1217(a), Aug. 9, 1989, [103 Stat. 486][/us/stat/103/486], 530; [Pub. L. 101–647, title XXV][/us/pl/101/647], §§ 2521(a)(2), 2526(b), 2528(b), 2532(d), 2534(b), Nov. 29, 1990, [104 Stat. 4864][/us/stat/104/4864], 4876, 4878, 4882, 4883; [Pub. L. 103–394, title V, § 501(c)(1)][/us/pl/103/394/s501/c/1], Oct. 22, 1994, [108 Stat. 4143][/us/stat/108/4143]; [Pub. L. 105–219, title III, § 301(b)(2)][/us/pl/105/219/s301/b/2], Aug. 7, 1998, [112 Stat. 930][/us/stat/112/930]; [Pub. L. 109–8, title IX][/us/pl/109/8], §§ 901(a)(2), (b)(2), (c)(2), (d)(2), (e)(2), (f)(2), (g)(2), (h)(2), (i)(2), 902(b), 903(b), 904(b), 905(b), 908(b), Apr. 20, 2005, [119 Stat. 147][/us/stat/119/147], 148, 150, 152, 154, 156–159, 162, 166, 183; [Pub. L. 109–173, § 2(d)(1)][/us/pl/109/173/s2/d/1], (2), Feb. 15, 2006, [119 Stat. 3602][/us/stat/119/3602], 3604; [Pub. L. 109–351, title VII][/us/pl/109/351], §§ 718(b), 720(b), 721(b), 722(b), 726(21)–(23), Oct. 13, 2006, [120 Stat. 1997–1999][/us/stat/120/1997-1999], 2003; [Pub. L. 109–390][/us/pl/109/390], §§ 2(a)(2), (b)(2), (c)(2), 3(b), 6(b), Dec. 12, 2006, [120 Stat. 2693–2695][/us/stat/120/2693-2695], 2699; [Pub. L. 110–289, div. A, title VI, § 1604(b)(2)][/us/pl/110/289/s1604/b/2], July 30, 2008, [122 Stat. 2829][/us/stat/122/2829]; [Pub. L. 111–203, title III][/us/pl/111/203], §§ 335(b), 343(b)(1), (3), July 21, 2010, [124 Stat. 1540][/us/stat/124/1540], 1545; [Pub. L. 113–252, § 2][/us/pl/113/252/s2], Dec. 18, 2014, [128 Stat. 2893][/us/stat/128/2893].)
 
  __References in Text__ 
 
@@ -1184,6 +1216,12 @@
     For definition of Canal Zone, referred to in subsec. (k)(2)(B)(iv), see [section 3602(b) of Title 22][/us/usc/t22/s3602/b], Foreign Relations and Intercourse.
 
  __Amendments__ 
+
+    2014—Subsec. (k)(1)(A). [Pub. L. 113–252, § 2(1)][/us/pl/113/252/s2/1], inserted “, or to any person with funds lawfully held in a member account,” after “payable to any member” and struck out “and paragraphs (5) and (6)” after “this paragraph”.
+
+    Subsec. (k)(2)(A). [Pub. L. 113–252, § 2(2)][/us/pl/113/252/s2/2], struck out “(as determined under paragraph (5))” after “insurance amount”.
+
+    Subsec. (k)(5), (6). [Pub. L. 113–252, § 2(3)][/us/pl/113/252/s2/3], (4), added par. (5) and redesignated former par. (5) as (6).
 
     2010—Subsec. (k)(1)(A). [Pub. L. 111–203, § 343(b)(3)(A)][/us/pl/111/203/s343/b/3/A], struck out cl. (i) designation and heading, substituted “Subject to the provisions of paragraph (2), the net amount” for “Subject to clause (ii) and the provisions of paragraph (2), the net amount”, and struck out cls. (ii) and (iii) which related to insurance for noninterest-bearing transaction accounts and defined “noninterest-bearing transaction account”, respectively.
 
@@ -1500,6 +1538,8 @@
 [/us/stat/122/2829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2829
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1540
+[/us/pl/113/252/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F252%2Fs2
+[/us/stat/128/2893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2893
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F881
 [/us/usc/t15/s78c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c
@@ -1514,6 +1554,9 @@
 [/us/stat/42/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F998
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb
+[/us/pl/113/252/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F252%2Fs2%2F1
+[/us/pl/113/252/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F252%2Fs2%2F2
+[/us/pl/113/252/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F252%2Fs2%2F3
 [/us/pl/111/203/s343/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs343%2Fb%2F3%2FA
 [/us/pl/111/203/s343/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs343%2Fb%2F1%2FA
 [/us/pl/111/203/s343/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs343%2Fb%2F3%2FB

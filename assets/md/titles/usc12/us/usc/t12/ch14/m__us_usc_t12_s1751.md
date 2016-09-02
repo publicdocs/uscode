@@ -33,6 +33,12 @@
 
     Farm Credit Administration transferred to Department of Agriculture by Reorg. Plan No. I of 1939, § 401, eff. July 1, 1939, 4 F.R. 2730, [53 Stat. 1429][/us/stat/53/1429], set out in the Appendix to Title 5.
 
+ __Short Title of 2014 Amendment__ 
+
+[Pub. L. 113–252, § 1][/us/pl/113/252/s1], Dec. 18, 2014, [128 Stat. 2893][/us/stat/128/2893], provided that: 
+
+> “This Act \[amending [section 1787 of this title][/us/usc/t12/s1787]\] may be cited as the ‘Credit Union Share Insurance Fund Parity Act’.”
+
  __Short Title of 1998 Amendment__ 
 
 [Pub. L. 105–219, § 1(a)][/us/pl/105/219/s1/a], Aug. 7, 1998, [112 Stat. 913][/us/stat/112/913], provided that: 
@@ -86,6 +92,9 @@
 [/us/usc/t12/s1752a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1752a
 [/us/stat/61/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F952
 [/us/stat/53/1429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1429
+[/us/pl/113/252/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F252%2Fs1
+[/us/stat/128/2893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2893
+[/us/usc/t12/s1787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1787
 [/us/pl/105/219/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F219%2Fs1%2Fa
 [/us/stat/112/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F913
 [/us/usc/t12/s1762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1762

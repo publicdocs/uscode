@@ -43,7 +43,7 @@
 
         (2)
 
-         The term “lottery” includes any arrangement whereby three or more persons (the “participants”) advance money or credit to another in exchange for the possibility or expectation that one or more but not all of the participants (the “winners”) will receive by reason of their advances more than the amounts they have advanced, the identity of the winners being determined by any means which includes—
+         The term “lottery” includes any arrangement, other than a savings promotion raffle, whereby three or more persons (the “participants”) advance money or credit to another in exchange for the possibility or expectation that one or more but not all of the participants (the “winners”) will receive by reason of their advances more than the amounts they have advanced, the identity of the winners being determined by any means which includes—
 
             (A) a random selection;
 
@@ -53,6 +53,8 @@
 
         (3) The term “lottery ticket” includes any right, privilege, or possibility (and any ticket, receipt, record, or other evidence of any such right, privilege, or possibility) of becoming a winner in a lottery.
 
+        (4) The term “savings promotion raffle” means a contest in which the sole consideration required for a chance of winning designated prizes is obtained by the deposit of a specified amount of money in a savings account or other savings program, where each ticket or entry has an equal chance of being drawn, such contest being subject to regulations that may from time to time be promulgated by the appropriate prudential regulator (as defined in [section 5481 of this title][/us/usc/t12/s5481]).
+
     (d) __Lawful banking services connected with operation of lottery__ 
 
         Nothing contained in this section prohibits a State member bank from accepting deposits or cashing or otherwise handling checks or other negotiable instruments, or performing other lawful banking services for a State operating a lottery, or for an officer or employee of that State who is charged with the administration of the lottery.
@@ -61,11 +63,17 @@
 
         The Board of Governors of the Federal Reserve System shall issue such regulations as may be necessary to the strict enforcement of this section and the prevention of evasions thereof.
 
-([Dec. 13, 1913, ch. 6, § 9A][/us/act/1913-12-13/ch6/s9A], as added [Pub. L. 90–203, § 2][/us/pl/90/203/s2], Dec. 15, 1967, [81 Stat. 609][/us/stat/81/609].)
+([Dec. 13, 1913, ch. 6, § 9A][/us/act/1913-12-13/ch6/s9A], as added [Pub. L. 90–203, § 2][/us/pl/90/203/s2], Dec. 15, 1967, [81 Stat. 609][/us/stat/81/609]; amended [Pub. L. 113–251, § 3(b)][/us/pl/113/251/s3/b], Dec. 18, 2014, [128 Stat. 2889][/us/stat/128/2889].)
 
  __Codification__ 
 
     Section was enacted as section 9A of act Dec. 13, 1913, and not as part of section 9 of such act which comprises this subchapter.
+
+ __Amendments__ 
+
+    2014—Subsec. (c)(2). [Pub. L. 113–251, § 3(b)(1)][/us/pl/113/251/s3/b/1], inserted “, other than a savings promotion raffle,” before “whereby” in introductory provisions.
+
+    Subsec. (c)(4). [Pub. L. 113–251, § 3(b)(2)][/us/pl/113/251/s3/b/2], added par. (4).
 
  __Effective Date__ 
 
@@ -78,9 +86,14 @@
 ----------
 ----------
 
+[/us/usc/t12/s5481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5481
 [/us/act/1913-12-13/ch6/s9A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-12-13%2Fch6%2Fs9A
 [/us/pl/90/203/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F203%2Fs2
 [/us/stat/81/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F609
+[/us/pl/113/251/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251%2Fs3%2Fb
+[/us/stat/128/2889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2889
+[/us/pl/113/251/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251%2Fs3%2Fb%2F1
+[/us/pl/113/251/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251%2Fs3%2Fb%2F2
 [/us/pl/90/203/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F203%2Fs6
 [/us/usc/t12/s25a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs25a
 
