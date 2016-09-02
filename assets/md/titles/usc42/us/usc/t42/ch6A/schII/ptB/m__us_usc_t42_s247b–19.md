@@ -29,15 +29,17 @@
 
         (1) partner with leaders in the muscular dystrophy patient community;
 
-        (2) cooperate with professional organizations and the patient community in the development and issuance of care considerations for Duchenne-Becker muscular dystrophy, and other forms of muscular dystrophy, and in periodic review and updates, as appropriate; and
+        (2) cooperate with professional organizations and the patient community in the development and issuance of care considerations for pediatric and adult patients, including acute care considerations, for Duchenne-Becker muscular dystrophy, and various other forms of muscular dystrophy, and in periodic review and updates, as appropriate;
 
-        (3) widely disseminate the Duchenne-Becker muscular dystrophy and other forms of muscular dystrophy care considerations as broadly as possible, including through partnership opportunities with the muscular dystrophy patient community.
+        (3) in developing and updating care considerations under paragraph (2), incorporate strategies specifically responding to the findings of the national transitions survey of minority, young adult, and adult communities of muscular dystrophy patients; and
+
+        (4) widely disseminate the Duchenne-Becker muscular dystrophy and various other forms of muscular dystrophy care considerations as broadly as possible, including through partnership opportunities with the muscular dystrophy patient community.
 
     (d) __Authorization of appropriations__ 
 
         There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-([Pub. L. 107–84, § 5][/us/pl/107/84/s5], Dec. 18, 2001, [115 Stat. 828][/us/stat/115/828]; [Pub. L. 110–361, § 4][/us/pl/110/361/s4], Oct. 8, 2008, [122 Stat. 4011][/us/stat/122/4011].)
+([Pub. L. 107–84, § 5][/us/pl/107/84/s5], Dec. 18, 2001, [115 Stat. 828][/us/stat/115/828]; [Pub. L. 110–361, § 4][/us/pl/110/361/s4], Oct. 8, 2008, [122 Stat. 4011][/us/stat/122/4011]; [Pub. L. 113–166, § 4][/us/pl/113/166/s4], Sept. 26, 2014, [128 Stat. 1880][/us/stat/128/1880].)
 
  __References in Text__ 
 
@@ -48,6 +50,10 @@
     Section was enacted as part of the Muscular Dystrophy Community Assistance, Research and Education Amendments of 2001, also known as the MD–CARE Act, and not as part of the Public Health Service Act which comprises this chapter.
 
  __Amendments__ 
+
+    2014—Subsec. (c)(2). [Pub. L. 113–166, § 4(1)][/us/pl/113/166/s4/1], inserted “for pediatric and adult patients, including acute care considerations,” after “issuance of care considerations” and “various” before “other forms of muscular dystrophy” and struck out “and” at end.
+
+    Subsec. (c)(3), (4). [Pub. L. 113–166, § 4(2)][/us/pl/113/166/s4/2]–(4), added par. (3), redesignated former par. (3) as (4), and, in par. (4), inserted “various” before “other forms of muscular dystrophy”.
 
     2008—Subsecs. (c), (d). [Pub. L. 110–361][/us/pl/110/361] added subsec. (c) and redesignated former subsec. (c) as (d).
 
@@ -62,9 +68,13 @@
 [/us/stat/115/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F828
 [/us/pl/110/361/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F361%2Fs4
 [/us/stat/122/4011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4011
+[/us/pl/113/166/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F166%2Fs4
+[/us/stat/128/1880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1880
 [/us/pl/107/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F84
 [/us/stat/115/823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F823
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
+[/us/pl/113/166/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F166%2Fs4%2F1
+[/us/pl/113/166/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F166%2Fs4%2F2
 [/us/pl/110/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F361
 
 

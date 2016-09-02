@@ -21,6 +21,14 @@
 
  __Short Title of 2014 Amendment__ 
 
+[Pub. L. 113–185, § 1][/us/pl/113/185/s1], Oct. 6, 2014, [128 Stat. 1952][/us/stat/128/1952], provided that: 
+
+> “This Act \[enacting section 1395lll of this title, amending sections 1395f, 1395i–3, 1395x, 1395pp, 1395ww, 1395yy, 1395fff, and 1395iii of this title, and enacting provisions set out as a note under section 1395lll of this title\] may be cited as the ‘Improving Medicare Post-Acute Care Transformation Act of 2014’ or the ‘IMPACT Act of 2014’.”
+
+[Pub. L. 113–183, § 1][/us/pl/113/183/s1], Sept. 29, 2014, [128 Stat. 1919][/us/stat/128/1919], provided that: 
+
+> “This Act \[see Tables for classification\] may be cited as the ‘Preventing Sex Trafficking and Strengthening Families Act’.”
+
 [Pub. L. 113–93, § 1(a)][/us/pl/113/93/s1/a], Apr. 1, 2014, [128 Stat. 1040][/us/stat/128/1040], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Protecting Access to Medicare Act of 2014’.”
@@ -526,6 +534,10 @@
 
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F648
+[/us/pl/113/185/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F185%2Fs1
+[/us/stat/128/1952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1952
+[/us/pl/113/183/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs1
+[/us/stat/128/1919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1919
 [/us/pl/113/93/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs1%2Fa
 [/us/stat/128/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1040
 [/us/pl/113/67/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs1001%2Fa

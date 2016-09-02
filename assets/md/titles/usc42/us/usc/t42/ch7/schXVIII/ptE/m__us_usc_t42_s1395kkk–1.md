@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch7/schXVIII/ptE/m__us_usc_t42_s1395kkk.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXIX/m__us_usc_t42_ch7_schXIX.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395kkk%E2%80%931)
+[Previous](./../../../../../..//us/usc/t42/ch7/schXVIII/ptE/m__us_usc_t42_s1395kkk.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXVIII/ptE/m__us_usc_t42_s1395lll.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395kkk%E2%80%931)
 
 ## § 1395kkk–1. GAO study and report on determination and implementation of payment and coverage policies under the Medicare program
 
@@ -55,7 +55,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch7/schXVIII/ptE/m__us_usc_t42_s1395kkk.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXIX/m__us_usc_t42_ch7_schXIX.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395kkk%E2%80%931)
+[Previous](./../../../../../..//us/usc/t42/ch7/schXVIII/ptE/m__us_usc_t42_s1395kkk.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXVIII/ptE/m__us_usc_t42_s1395lll.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395kkk%E2%80%931)
 
 ----------
 ----------

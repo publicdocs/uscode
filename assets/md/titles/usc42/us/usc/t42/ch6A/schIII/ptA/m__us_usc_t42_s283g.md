@@ -19,7 +19,7 @@
 
         (1) __In general__ 
 
-            The Director of NIH, in coordination with the Directors of the National Institute of Neurological Disorders and Stroke, the National Institute of Arthritis and Muscoskeletal and Skin Diseases, the Eunice Kennedy Shriver National Institute of Child Health and Human Development, the National Heart, Lung, and Blood Institute, and the other national research institutes as appropriate, shall expand and intensify programs of such Institutes with respect to research and related activities concerning various forms of muscular dystrophy, including Duchenne, myotonic, facioscapulohumeral muscular dystrophy (referred to in this section as “FSHD”) and other forms of muscular dystrophy.
+            The Director of NIH, in coordination with the Directors of the National Institute of Neurological Disorders and Stroke, the National Institute of Arthritis and Musculoskeletal and Skin Diseases, the Eunice Kennedy Shriver National Institute of Child Health and Human Development, the National Heart, Lung, and Blood Institute, and the other national research institutes as appropriate, shall expand and intensify programs of such Institutes with respect to research and related activities concerning various forms of muscular dystrophy, including Duchenne, Becker, congenital muscular dystrophy, limb-girdle muscular dystrophy, myotonic, facioscapulohumeral muscular dystrophy (referred to in this section as “FSHD”) and other forms of muscular dystrophy.
 
         (2) __Coordination__ 
 
@@ -37,11 +37,11 @@
 
         (2) __Research__ 
 
-            Each center under paragraph (1) shall supplement but not replace the establishment of a comprehensive research portfolio in all the muscular dystrophies. As a whole, the centers shall conduct basic and clinical research in all forms of muscular dystrophy including early detection, diagnosis, prevention, and treatment, including the fields of muscle biology, genetics, noninvasive imaging, genetics, pharmacological and other therapies.
+            Each center under paragraph (1) shall supplement but not replace the establishment of a comprehensive research portfolio in all the muscular dystrophies. As a whole, the centers shall conduct basic and clinical research in all forms of muscular dystrophy including early detection, diagnosis, prevention, and treatment, including the fields of muscle biology, genetics, noninvasive imaging, cardiac and pulmonary function, and pharmacological and other therapies.
 
         (3) __Coordination of centers__ 
 
-            The Director of NIH shall, as appropriate, provide for the coordination of information among centers under paragraph (1) and ensure regular communication between such centers.
+            The Director of NIH shall, as appropriate, provide for the coordination of information among centers under paragraph (1) and ensure regular communication and sharing of data between such centers.
 
         (4) __Organization of centers__ 
 
@@ -63,9 +63,9 @@
 
         (2) __Composition__ 
 
-        The Coordinating Committee shall consist of not more than 15 members to be appointed by the Secretary, of which—
+        The Coordinating Committee shall consist of not more than 18 members to be appointed by the Secretary, of which—
 
-            (A) ⅔ of such members shall represent governmental agencies, including the directors or their designees of each of the national research institutes involved in research with respect to muscular dystrophy and representatives of all other Federal departments and agencies whose programs involve health functions or responsibilities relevant to such diseases, including the Centers for Disease Control and Prevention, the Health Resources and Services Administration and the Food and Drug Administration and representatives of other governmental agencies that serve children with muscular dystrophy, such as the Department of Education; and
+            (A) ⅔ of such members shall represent governmental agencies, including the directors or their designees of each of the national research institutes involved in research with respect to muscular dystrophy and representatives of all other Federal departments and agencies whose programs involve health functions or responsibilities relevant to such diseases, including the Centers for Disease Control and Prevention, the Health Resources and Services Administration, the Food and Drug Administration, and the Administration for Community Living and representatives of other governmental agencies that serve children and adults with muscular dystrophy, including the Department of Education and the Social Security Administration; and
 
             (B) ⅓ of such members shall be public members, including a broad cross section of persons affected with muscular dystrophies including parents or legal guardians, affected individuals, researchers, and clinicians.
 
@@ -87,15 +87,15 @@
 
             (A) The Coordinating Committee shall receive necessary and appropriate administrative support from the Department of Health and Human Services.
 
-            (B) The Coordinating Committee shall meet as appropriate as determined by the Secretary, in consultation with the chair. <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be capitalized. </sup></sup> 
+            (B) The Coordinating Committee shall meet as appropriate as determined by the Secretary, in consultation with the chair, <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be capitalized. </sup></sup>  but shall meet no fewer than two times per calendar year.
 
     (e) __Plan for HHS activities__ 
 
         (1) __In general__ 
 
-        Not later than 1 year after December 18, 2001, the Coordinating Committee shall develop a plan for conducting and supporting research and education on muscular dystrophy through the national research institutes and shall periodically review and revise the plan. The plan shall—
+        Not later than 1 year after December 18, 2001, the Coordinating Committee shall develop a plan for conducting and supporting research and education on muscular dystrophy through the agencies represented on the Coordinating Committee pursuant to subsection (d)(2)(A) and shall periodically review and revise the plan. The plan shall—
 
-            (A) provide for a broad range of research and education activities relating to biomedical, epidemiological, psychosocial, and rehabilitative issues, including studies of the impact of such diseases in rural and underserved communities;
+            (A) provide for a broad range of research and education activities relating to biomedical, epidemiological, psychosocial, public services, and rehabilitative issues, including studies of the impact of such diseases in rural and underserved communities, studies to demonstrate the cost-effectiveness of providing independent living resources and support to patients with various forms of muscular dystrophy, and studies to determine optimal clinical care interventions for adults with various forms of muscular dystrophy;
 
             (B) identify priorities among the programs and activities of the National Institutes of Health regarding such diseases; and
 
@@ -111,7 +111,7 @@
 
             (C) The development of improved screening techniques.
 
-            (D) Basic and clinical research for the development and evaluation of new treatments, including new biological agents.
+            (D) Basic and clinical research for the development and evaluation of new treatments, including new biological agents and new clinical interventions to improve the health of those with muscular dystrophy.
 
             (E) Information and education programs for health care professionals and the public.
 
@@ -123,7 +123,7 @@
 
         The Coordinating Committee may evaluate the potential need to enhance the clinical research infrastructure required to test emerging therapies for the various forms of muscular dystrophy by prioritizing the achievement of the goals related to this topic in the plan under subsection (e)(1).
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 404E, as added [Pub. L. 107–84, § 3][/us/pl/107/84/s3], Dec. 18, 2001, [115 Stat. 824][/us/stat/115/824]; amended [Pub. L. 109–482, title I][/us/pl/109/482], §§ 103(b)(4), 104(b)(1)(A), Jan. 15, 2007, [120 Stat. 3687][/us/stat/120/3687], 3692; [Pub. L. 110–154, § 1(b)(3)][/us/pl/110/154/s1/b/3], Dec. 21, 2007, [121 Stat. 1827][/us/stat/121/1827]; [Pub. L. 110–361, § 2][/us/pl/110/361/s2], Oct. 8, 2008, [122 Stat. 4010][/us/stat/122/4010].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 404E, as added [Pub. L. 107–84, § 3][/us/pl/107/84/s3], Dec. 18, 2001, [115 Stat. 824][/us/stat/115/824]; amended [Pub. L. 109–482, title I][/us/pl/109/482], §§ 103(b)(4), 104(b)(1)(A), Jan. 15, 2007, [120 Stat. 3687][/us/stat/120/3687], 3692; [Pub. L. 110–154, § 1(b)(3)][/us/pl/110/154/s1/b/3], Dec. 21, 2007, [121 Stat. 1827][/us/stat/121/1827]; [Pub. L. 110–361, § 2][/us/pl/110/361/s2], Oct. 8, 2008, [122 Stat. 4010][/us/stat/122/4010]; [Pub. L. 113–166, § 2][/us/pl/113/166/s2], Sept. 26, 2014, [128 Stat. 1879][/us/stat/128/1879].)
 
  __References in Text__ 
 
@@ -134,6 +134,24 @@
     A prior section 283g, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 404E, as added [Pub. L. 103–43, title II, § 209][/us/pl/103/43/s209], June 10, 1993, [107 Stat. 149][/us/stat/107/149], related to Office of Alternative Medicine, prior to repeal by [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VI, § 601(1)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–387.
 
  __Amendments__ 
+
+    2014—Subsec. (a)(1). [Pub. L. 113–166, § 2(1)][/us/pl/113/166/s2/1], substituted “Musculoskeletal” for “Muscoskeletal” and inserted “Becker, congenital muscular dystrophy, limb-girdle muscular dystrophy,” after “Duchenne,”.
+
+    Subsec. (b)(2). [Pub. L. 113–166, § 2(2)(A)][/us/pl/113/166/s2/2/A], substituted “cardiac and pulmonary function, and pharmacological” for “genetics, pharmacological”.
+
+    Subsec. (b)(3). [Pub. L. 113–166, § 2(2)(B)][/us/pl/113/166/s2/2/B], inserted “and sharing of data” after “regular communication”.
+
+    Subsec. (d)(2). [Pub. L. 113–166, § 2(3)(A)(i)][/us/pl/113/166/s2/3/A/i], substituted “18” for “15” in introductory provisions.
+
+    Subsec. (d)(2)(A). [Pub. L. 113–166, § 2(3)(A)(ii)][/us/pl/113/166/s2/3/A/ii], substituted “, the Food and Drug Administration, and the Administration for Community Living” for “and the Food and Drug Administration” and “including the Department of Education and the Social Security Administration” for “such as the Department of Education” and inserted “and adults” after “children”.
+
+    Subsec. (d)(4)(B). [Pub. L. 113–166, § 2(3)(B)][/us/pl/113/166/s2/3/B], inserted “, but shall meet no fewer than two times per calendar year” before period at end.
+
+    Subsec. (e)(1). [Pub. L. 113–166, § 2(4)(A)(i)][/us/pl/113/166/s2/4/A/i], substituted “through the agencies represented on the Coordinating Committee pursuant to subsection (d)(2)(A)” for “through the national research institutes” in introductory provisions.
+
+    Subsec. (e)(1)(A). [Pub. L. 113–166, § 2(4)(A)(ii)][/us/pl/113/166/s2/4/A/ii], inserted “public services,” before “and rehabilitative issues” and “, studies to demonstrate the cost-effectiveness of providing independent living resources and support to patients with various forms of muscular dystrophy, and studies to determine optimal clinical care interventions for adults with various forms of muscular dystrophy” after “including studies of the impact of such diseases in rural and underserved communities”.
+
+    Subsec. (e)(2)(D). [Pub. L. 113–166, § 2(4)(B)][/us/pl/113/166/s2/4/B], inserted “and new clinical interventions to improve the health of those with muscular dystrophy” after “including new biological agents”.
 
     2008—Subsec. (a)(1). [Pub. L. 110–361, § 2(b)(1)][/us/pl/110/361/s2/b/1], inserted “the National Heart, Lung, and Blood Institute,” after “the Eunice Kennedy Shriver National Institute of Child Health and Human Development,”.
 
@@ -183,6 +201,8 @@
 [/us/stat/121/1827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1827
 [/us/pl/110/361/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F361%2Fs2
 [/us/stat/122/4010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4010
+[/us/pl/113/166/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F166%2Fs2
+[/us/stat/128/1879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1879
 [/us/pl/107/84/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F84%2Fs6
 [/us/usc/t42/s247b–18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247b%E2%80%9318
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
@@ -190,6 +210,15 @@
 [/us/stat/107/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F149
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
+[/us/pl/113/166/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F166%2Fs2%2F1
+[/us/pl/113/166/s2/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F166%2Fs2%2F2%2FA
+[/us/pl/113/166/s2/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F166%2Fs2%2F2%2FB
+[/us/pl/113/166/s2/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F166%2Fs2%2F3%2FA%2Fi
+[/us/pl/113/166/s2/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F166%2Fs2%2F3%2FA%2Fii
+[/us/pl/113/166/s2/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F166%2Fs2%2F3%2FB
+[/us/pl/113/166/s2/4/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F166%2Fs2%2F4%2FA%2Fi
+[/us/pl/113/166/s2/4/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F166%2Fs2%2F4%2FA%2Fii
+[/us/pl/113/166/s2/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F166%2Fs2%2F4%2FB
 [/us/pl/110/361/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F361%2Fs2%2Fb%2F1
 [/us/pl/110/361/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F361%2Fs2%2Fb%2F2
 [/us/pl/110/361/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F361%2Fs2%2Fa

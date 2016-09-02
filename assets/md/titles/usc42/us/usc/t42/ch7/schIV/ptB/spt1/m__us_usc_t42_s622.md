@@ -133,7 +133,13 @@
 
             For definitions of other terms used in this part, see [section 675 of this title][/us/usc/t42/s675].
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 422, as added and amended [Pub. L. 90–248, title II, § 240(c)][/us/pl/90/248/s240/c], (d), Jan. 2, 1968, [81 Stat. 912][/us/stat/81/912], 915; [Pub. L. 93–647, § 3(a)(6)][/us/pl/93/647/s3/a/6], (7), (h), Jan. 4, 1975, [88 Stat. 2348][/us/stat/88/2348], 2349; [Pub. L. 96–272, title I, § 103(a)][/us/pl/96/272/s103/a], June 17, 1980, [94 Stat. 517][/us/stat/94/517]; [Pub. L. 101–239, title X, § 10403(b)(1)][/us/pl/101/239/s10403/b/1], Dec. 19, 1989, [103 Stat. 2488][/us/stat/103/2488]; [Pub. L. 103–66, title XIII, § 13711(b)(1)][/us/pl/103/66/s13711/b/1], Aug. 10, 1993, [107 Stat. 655][/us/stat/107/655]; [Pub. L. 103–382, title V, § 554][/us/pl/103/382/s554], Oct. 20, 1994, [108 Stat. 4057][/us/stat/108/4057]; [Pub. L. 103–432, title II][/us/pl/103/432], §§ 202(a), 204(a), Oct. 31, 1994, [108 Stat. 4453][/us/stat/108/4453], 4456; [Pub. L. 104–193, title I, § 108(b)][/us/pl/104/193/s108/b], Aug. 22, 1996, [110 Stat. 2165][/us/stat/110/2165]; [Pub. L. 105–33, title V, § 5592(a)(1)(A)][/us/pl/105/33/s5592/a/1/A], (2), Aug. 5, 1997, [111 Stat. 644][/us/stat/111/644]; [Pub. L. 105–89, title I, § 102(1)][/us/pl/105/89/s102/1], title II, § 202(a), Nov. 19, 1997, [111 Stat. 2117][/us/stat/111/2117], 2125; [Pub. L. 105–200, title IV, § 410(b)][/us/pl/105/200/s410/b], July 16, 1998, [112 Stat. 673][/us/stat/112/673]; [Pub. L. 106–279, title II, § 205][/us/pl/106/279/s205], Oct. 6, 2000, [114 Stat. 837][/us/stat/114/837]; [Pub. L. 109–171, title VII, § 7401(b)][/us/pl/109/171/s7401/b], Feb. 8, 2006, [120 Stat. 150][/us/stat/120/150]; [Pub. L. 109–239, § 13][/us/pl/109/239/s13], July 3, 2006, [120 Stat. 514][/us/stat/120/514]; [Pub. L. 109–288][/us/pl/109/288], §§ 6(c), 7(a), Sept. 28, 2006, [120 Stat. 1244][/us/stat/120/1244], 1248; [Pub. L. 110–351, title II, § 205][/us/pl/110/351/s205], Oct. 7, 2008, [122 Stat. 3961][/us/stat/122/3961]; [Pub. L. 111–148, title II, § 2955(c)][/us/pl/111/148/s2955/c], title VI, § 6703(d)(2)(B), Mar. 23, 2010, [124 Stat. 352][/us/stat/124/352], 803; [Pub. L. 112–34, title I, § 101(b)][/us/pl/112/34/s101/b], Sept. 30, 2011, [125 Stat. 369][/us/stat/125/369].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 422, as added and amended [Pub. L. 90–248, title II, § 240(c)][/us/pl/90/248/s240/c], (d), Jan. 2, 1968, [81 Stat. 912][/us/stat/81/912], 915; [Pub. L. 93–647, § 3(a)(6)][/us/pl/93/647/s3/a/6], (7), (h), Jan. 4, 1975, [88 Stat. 2348][/us/stat/88/2348], 2349; [Pub. L. 96–272, title I, § 103(a)][/us/pl/96/272/s103/a], June 17, 1980, [94 Stat. 517][/us/stat/94/517]; [Pub. L. 101–239, title X, § 10403(b)(1)][/us/pl/101/239/s10403/b/1], Dec. 19, 1989, [103 Stat. 2488][/us/stat/103/2488]; [Pub. L. 103–66, title XIII, § 13711(b)(1)][/us/pl/103/66/s13711/b/1], Aug. 10, 1993, [107 Stat. 655][/us/stat/107/655]; [Pub. L. 103–382, title V, § 554][/us/pl/103/382/s554], Oct. 20, 1994, [108 Stat. 4057][/us/stat/108/4057]; [Pub. L. 103–432, title II][/us/pl/103/432], §§ 202(a), 204(a), Oct. 31, 1994, [108 Stat. 4453][/us/stat/108/4453], 4456; [Pub. L. 104–193, title I, § 108(b)][/us/pl/104/193/s108/b], Aug. 22, 1996, [110 Stat. 2165][/us/stat/110/2165]; [Pub. L. 105–33, title V, § 5592(a)(1)(A)][/us/pl/105/33/s5592/a/1/A], (2), Aug. 5, 1997, [111 Stat. 644][/us/stat/111/644]; [Pub. L. 105–89, title I, § 102(1)][/us/pl/105/89/s102/1], title II, § 202(a), Nov. 19, 1997, [111 Stat. 2117][/us/stat/111/2117], 2125; [Pub. L. 105–200, title IV, § 410(b)][/us/pl/105/200/s410/b], July 16, 1998, [112 Stat. 673][/us/stat/112/673]; [Pub. L. 106–279, title II, § 205][/us/pl/106/279/s205], Oct. 6, 2000, [114 Stat. 837][/us/stat/114/837]; [Pub. L. 109–171, title VII, § 7401(b)][/us/pl/109/171/s7401/b], Feb. 8, 2006, [120 Stat. 150][/us/stat/120/150]; [Pub. L. 109–239, § 13][/us/pl/109/239/s13], July 3, 2006, [120 Stat. 514][/us/stat/120/514]; [Pub. L. 109–288][/us/pl/109/288], §§ 6(c), 7(a), Sept. 28, 2006, [120 Stat. 1244][/us/stat/120/1244], 1248; [Pub. L. 110–351, title II, § 205][/us/pl/110/351/s205], Oct. 7, 2008, [122 Stat. 3961][/us/stat/122/3961]; [Pub. L. 111–148, title II, § 2955(c)][/us/pl/111/148/s2955/c], title VI, § 6703(d)(2)(B), Mar. 23, 2010, [124 Stat. 352][/us/stat/124/352], 803; [Pub. L. 112–34, title I, § 101(b)][/us/pl/112/34/s101/b], Sept. 30, 2011, [125 Stat. 369][/us/stat/125/369]; [Pub. L. 113–183, title I, § 112(a)(2)][/us/pl/113/183/s112/a/2], (b)(2)(A)(i), Sept. 29, 2014, [128 Stat. 1926][/us/stat/128/1926], 1927.)
+
+ __Amendment of Subsection (b)(8)__ 
+
+    [Pub. L. 113–183, title I, § 112(a)(2)][/us/pl/113/183/s112/a/2], (3), (c), Sept. 29, 2014, [128 Stat. 1926][/us/stat/128/1926], 1928, provided that, effective on the date that is 1 year after Sept. 29, 2014, with delay permitted if State legislation is required, and in the case of children in foster care under the responsibility of an Indian tribe, tribal organization, or tribal consortium (either directly or under supervision of a State), not applicable until the date that is 3 years after Sept. 29, 2014, subsection (b)(8)(A)(iii)(II) of this section is amended by inserting “, subject to the requirements of sections 675(5)(C) and 675a(a) of this title” after “arrangement”. See 2014 Amendment notes below.
+
+    [Pub. L. 113–183, title I, § 112(b)(2)(A)(i)][/us/pl/113/183/s112/b/2/A/i], (c), Sept. 29, 2014, [128 Stat. 1927][/us/stat/128/1927], 1928, provided that, effective on the date that is 1 year after Sept. 29, 2014, with delay permitted if State legislation is required, subsection (b)(8)(A)(ii) of this section is amended by inserting “and in accordance with the requirements of [section 675a of this title][/us/usc/t42/s675a]” after “[section 675(5) of this title][/us/usc/t42/s675/5]”. See 2014 Amendment notes below.
 
  __References in Text__ 
 
@@ -144,6 +150,10 @@
     The Indian Child Welfare Act, referred to in subsec. (b)(9), probably means the Indian Child Welfare Act of 1978, [Pub. L. 95–608][/us/pl/95/608], Nov. 8, 1978, [92 Stat. 3069][/us/stat/92/3069], which is classified principally to chapter 21 (§ 1901 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 1901 of Title 25][/us/usc/t25/s1901] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (b)(8)(A)(ii). [Pub. L. 113–183, § 112(b)(2)(A)(i)][/us/pl/113/183/s112/b/2/A/i], inserted “and in accordance with the requirements of [section 675a of this title][/us/usc/t42/s675a]” after “[section 675(5) of this title][/us/usc/t42/s675/5]”.
+
+    Subsec. (b)(8)(A)(iii)(II). [Pub. L. 113–183, § 112(a)(2)][/us/pl/113/183/s112/a/2], inserted “, subject to the requirements of sections 675(5)(C) and 675a(a) of this title” after “arrangement”.
 
     2011—Subsec. (b)(15)(A)(ii). [Pub. L. 112–34, § 101(b)(1)][/us/pl/112/34/s101/b/1], inserted “, including emotional trauma associated with a child’s maltreatment and removal from home” before the semicolon.
 
@@ -280,6 +290,22 @@
     Subsec. (c). [Pub. L. 93–647, § 3(h)][/us/pl/93/647/s3/h], added subsec. (c).
 
     1968—Subsec. (a)(1). [Pub. L. 90–248, § 240(d)][/us/pl/90/248/s240/d], added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
+
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–183, title I, § 112(a)(3)][/us/pl/113/183/s112/a/3], Sept. 29, 2014, [128 Stat. 1926][/us/stat/128/1926], provided that:
+
+> “In the case of children in foster care under the responsibility of an Indian tribe, tribal organization, or tribal consortium (either directly or under supervision of a State), the amendments made by this subsection \[amending this section and [section 675 of this title][/us/usc/t42/s675]\] shall not apply until the date that is 3 years after the date of the enactment of this Act \[Sept. 29, 2014\].”
+
+[Pub. L. 113–183, title I, § 112(c)][/us/pl/113/183/s112/c], Sept. 29, 2014, [128 Stat. 1928][/us/stat/128/1928], provided that:
+
+>     “(1)  __In general__  __.—__ 
+
+>     The amendments made by this section \[enacting [section 675a of this title][/us/usc/t42/s675a] and amending this section and sections 671 and 675 of this title\] shall take effect on the date that is 1 year after the date of the enactment of this Act \[Sept. 29, 2014\].
+
+>     “(2)  __Delay permitted if state legislation required__  __.—__ 
+
+>     If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds) is required in order for a State plan developed pursuant to part E of title IV of the Social Security Act \[[42 U.S.C. 670][/us/usc/t42/s670] et seq.\] to meet the additional requirements imposed by the amendments made by this section, the plan shall not be regarded as failing to meet any of the additional requirements before the 1st day of the 1st calendar quarter beginning after the 1st regular session of the State legislature that begins after the date of the enactment of this Act \[Sept. 29, 2014\]. If the State has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature.”
 
  __Effective Date of 2011 Amendment__ 
 
@@ -469,10 +495,22 @@
 [/us/stat/124/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F352
 [/us/pl/112/34/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs101%2Fb
 [/us/stat/125/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F369
+[/us/pl/113/183/s112/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs112%2Fa%2F2
+[/us/stat/128/1926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1926
+[/us/pl/113/183/s112/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs112%2Fa%2F2
+[/us/stat/128/1926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1926
+[/us/pl/113/183/s112/b/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs112%2Fb%2F2%2FA%2Fi
+[/us/stat/128/1927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1927
+[/us/usc/t42/s675a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675a
+[/us/usc/t42/s675/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675%2F5
 [/us/pl/96/272/s103/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272%2Fs103%2Fd
 [/us/pl/95/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608
 [/us/stat/92/3069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3069
 [/us/usc/t25/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1901
+[/us/pl/113/183/s112/b/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs112%2Fb%2F2%2FA%2Fi
+[/us/usc/t42/s675a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675a
+[/us/usc/t42/s675/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675%2F5
+[/us/pl/113/183/s112/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs112%2Fa%2F2
 [/us/pl/112/34/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs101%2Fb%2F1
 [/us/pl/112/34/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs101%2Fb%2F2
 [/us/pl/112/34/s101/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs101%2Fb%2F3
@@ -538,6 +576,13 @@
 [/us/usc/t42/s602/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs602%2Fa%2F15
 [/us/pl/93/647/s3/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F647%2Fs3%2Fh
 [/us/pl/90/248/s240/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs240%2Fd
+[/us/pl/113/183/s112/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs112%2Fa%2F3
+[/us/stat/128/1926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1926
+[/us/usc/t42/s675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675
+[/us/pl/113/183/s112/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs112%2Fc
+[/us/stat/128/1928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1928
+[/us/usc/t42/s675a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675a
+[/us/usc/t42/s670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs670
 [/us/pl/112/34/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs107
 [/us/stat/125/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F378
 [/us/usc/t42/s629m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs629m

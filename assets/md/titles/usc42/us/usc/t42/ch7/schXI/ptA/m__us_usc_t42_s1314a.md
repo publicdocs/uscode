@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch7/schXI/ptA/m__us_usc_t42_s1314.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXI/ptA/m__us_usc_t42_s1315.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1314a)
+[Previous](./../../../../../..//us/usc/t42/ch7/schXI/ptA/m__us_usc_t42_s1314.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXI/ptA/m__us_usc_t42_s1314b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1314a)
 
 ## § 1314a. Measurement and reporting of welfare receipt
 
@@ -179,7 +179,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch7/schXI/ptA/m__us_usc_t42_s1314.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXI/ptA/m__us_usc_t42_s1315.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1314a)
+[Previous](./../../../../../..//us/usc/t42/ch7/schXI/ptA/m__us_usc_t42_s1314.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXI/ptA/m__us_usc_t42_s1314b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1314a)
 
 ----------
 ----------

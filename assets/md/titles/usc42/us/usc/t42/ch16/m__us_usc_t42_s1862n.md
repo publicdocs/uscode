@@ -165,7 +165,7 @@
 
         (1) __Application__ 
 
-        An institution of higher education or an eligible nonprofit organization (or a consortium of such institutions or organizations) seeking funding under subsection (a) of this section shall submit an application to the Director at such time, in such manner, and containing such information as the Director may require. The application shall include, at a minimum—
+        An institution of higher education or an eligible nonprofit organization (or a consortium of such institutions or organizations) seeking funding under subsection (a) shall submit an application to the Director at such time, in such manner, and containing such information as the Director may require. The application shall include, at a minimum—
 
             (A) a description of the partnership and the role that each member will play in implementing the proposal;
 
@@ -221,7 +221,7 @@
 
         (1) __Assessment required__ 
 
-        The Director shall evaluate the program established under subsection (a) of this section. At a minimum, such evaluation shall—
+        The Director shall evaluate the program established under subsection (a). At a minimum, such evaluation shall—
 
             (A) use a common set of benchmarks and assessment tools to identify best practices and materials developed and demonstrated by the partnerships; and
 

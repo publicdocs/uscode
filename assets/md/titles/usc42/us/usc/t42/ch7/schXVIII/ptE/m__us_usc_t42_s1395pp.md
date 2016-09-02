@@ -97,9 +97,15 @@
 
         any expenses incurred for items and services furnished to an individual by such a supplier on an assignment-related basis shall be the responsibility of such supplier. The individual shall have no financial responsibility for such expenses and the supplier shall refund on a timely basis to the individual (and shall be liable to the individual for) any amounts collected from the individual for such items or services. The provisions of [section 1395m(a)(18) of this title][/us/usc/t42/s1395m/a/18] shall apply to refunds required under the previous sentence in the same manner as such provisions apply to refunds under such section.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1879, as added [Pub. L. 92–603, title II, § 213(a)][/us/pl/92/603/s213/a], Oct. 30, 1972, [86 Stat. 1384][/us/stat/86/1384]; amended [Pub. L. 96–499, title IX, § 956(a)][/us/pl/96/499/s956/a], Dec. 5, 1980, [94 Stat. 2648][/us/stat/94/2648]; [Pub. L. 97–248, title I][/us/pl/97/248], §§ 145, 148(e), Sept. 3, 1982, [96 Stat. 393][/us/stat/96/393], 394; [Pub. L. 99–509, title IX][/us/pl/99/509], §§ 9305(g)(1), 9341(a)(3), Oct. 21, 1986, [100 Stat. 1991][/us/stat/100/1991], 2038; [Pub. L. 100–203, title IV, § 4096(b)][/us/pl/100/203/s4096/b], Dec. 22, 1987, [101 Stat. 1330–139][/us/stat/101/1330-139]; [Pub. L. 101–239, title VI, § 6214(a)][/us/pl/101/239/s6214/a], (b), Dec. 19, 1989, [103 Stat. 2252][/us/stat/103/2252]; [Pub. L. 103–432, title I, § 133(b)][/us/pl/103/432/s133/b], Oct. 31, 1994, [108 Stat. 4421][/us/stat/108/4421]; [Pub. L. 105–33, title IV, § 4447][/us/pl/105/33/s4447], Aug. 5, 1997, [111 Stat. 424][/us/stat/111/424]; [Pub. L. 112–40, title II, § 261(a)(3)(A)][/us/pl/112/40/s261/a/3/A], (B), Oct. 21, 2011, [125 Stat. 423][/us/stat/125/423].)
+    (i) __Hospice program eligibility recertification__ 
+
+        The provisions of this section shall apply with respect to a denial of a payment under this subchapter by reason of [section 1395f(a)(7)(E) of this title][/us/usc/t42/s1395f/a/7/E] in the same manner as such provisions apply with respect to a denial of a payment under this subchapter by reason of [section 1395y(a)(1) of this title][/us/usc/t42/s1395y/a/1].
+
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1879, as added [Pub. L. 92–603, title II, § 213(a)][/us/pl/92/603/s213/a], Oct. 30, 1972, [86 Stat. 1384][/us/stat/86/1384]; amended [Pub. L. 96–499, title IX, § 956(a)][/us/pl/96/499/s956/a], Dec. 5, 1980, [94 Stat. 2648][/us/stat/94/2648]; [Pub. L. 97–248, title I][/us/pl/97/248], §§ 145, 148(e), Sept. 3, 1982, [96 Stat. 393][/us/stat/96/393], 394; [Pub. L. 99–509, title IX][/us/pl/99/509], §§ 9305(g)(1), 9341(a)(3), Oct. 21, 1986, [100 Stat. 1991][/us/stat/100/1991], 2038; [Pub. L. 100–203, title IV, § 4096(b)][/us/pl/100/203/s4096/b], Dec. 22, 1987, [101 Stat. 1330–139][/us/stat/101/1330-139]; [Pub. L. 101–239, title VI, § 6214(a)][/us/pl/101/239/s6214/a], (b), Dec. 19, 1989, [103 Stat. 2252][/us/stat/103/2252]; [Pub. L. 103–432, title I, § 133(b)][/us/pl/103/432/s133/b], Oct. 31, 1994, [108 Stat. 4421][/us/stat/108/4421]; [Pub. L. 105–33, title IV, § 4447][/us/pl/105/33/s4447], Aug. 5, 1997, [111 Stat. 424][/us/stat/111/424]; [Pub. L. 112–40, title II, § 261(a)(3)(A)][/us/pl/112/40/s261/a/3/A], (B), Oct. 21, 2011, [125 Stat. 423][/us/stat/125/423]; [Pub. L. 113–185, § 3(b)][/us/pl/113/185/s3/b], Oct. 6, 2014, [128 Stat. 1969][/us/stat/128/1969].)
 
  __Amendments__ 
+
+    2014—Subsec. (i). [Pub. L. 113–185][/us/pl/113/185] added subsec. (i).
 
     2011—Subsec. (a). [Pub. L. 112–40, § 261(a)(3)(A)][/us/pl/112/40/s261/a/3/A], substituted “quality improvement” for “utilization and quality control peer review” in concluding provisions.
 
@@ -240,6 +246,8 @@
 [/us/usc/t42/s1395m/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395m%2Fa%2F15
 [/us/usc/t42/s1395m/a/17/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395m%2Fa%2F17%2FB
 [/us/usc/t42/s1395m/a/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395m%2Fa%2F18
+[/us/usc/t42/s1395f/a/7/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395f%2Fa%2F7%2FE
+[/us/usc/t42/s1395y/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395y%2Fa%2F1
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/pl/92/603/s213/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs213%2Fa
 [/us/stat/86/1384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1384
@@ -259,6 +267,9 @@
 [/us/stat/111/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F424
 [/us/pl/112/40/s261/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs261%2Fa%2F3%2FA
 [/us/stat/125/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F423
+[/us/pl/113/185/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F185%2Fs3%2Fb
+[/us/stat/128/1969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1969
+[/us/pl/113/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F185
 [/us/pl/112/40/s261/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs261%2Fa%2F3%2FA
 [/us/pl/112/40/s261/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs261%2Fa%2F3%2FB
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33

@@ -29,7 +29,7 @@
 
         (3) stipends for undergraduate students participating in research; and
 
-        (4) other activities consistent with subsection (a) of this section, as determined by the Director.
+        (4) other activities consistent with subsection (a), as determined by the Director.
 
     (c) __Program coordination__ 
 

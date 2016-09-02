@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch7/schXI/ptA/m__us_usc_t42_s1314a.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXI/ptA/m__us_usc_t42_s1315a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1315)
+[Previous](./../../../../../..//us/usc/t42/ch7/schXI/ptA/m__us_usc_t42_s1314b.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXI/ptA/m__us_usc_t42_s1315a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1315)
 
 ## § 1315. Demonstration projects
 
@@ -31,13 +31,17 @@
 
     (b) __Child support enforcement programs__ 
 
-    In the case of any experimental, pilot, or demonstration project undertaken under subsection (a) of this section to assist in promoting the objectives of part D of subchapter IV of this chapter, the project—
+        (1)
 
-        (1) must be designed to improve the financial well-being of children or otherwise improve the operation of the child support program;
+         In the case of any experimental, pilot, or demonstration project undertaken under subsection (a) of this section to assist in promoting the objectives of part D of subchapter IV, the project—
 
-        (2) may not permit modifications in the child support program which would have the effect of disadvantaging children in need of support; and
+            (A) must be designed to improve the financial well-being of children or otherwise improve the operation of the child support program;
 
-        (3) must not result in increased cost to the Federal Government under part A of such subchapter.
+            (B) may not permit modifications in the child support program which would have the effect of disadvantaging children in need of support; and
+
+            (C) must not result in increased cost to the Federal Government under part A of such subchapter.
+
+        (2) An Indian tribe or tribal organization operating a program under [section 655(f) of this title][/us/usc/t42/s655/f] shall be considered a State for purposes of authority to conduct an experimental, pilot, or demonstration project under subsection (a) to assist in promoting the objectives of part D of subchapter IV and receiving payments under the second sentence of that subsection. The Secretary may waive compliance with any requirements of [section 655(f) of this title][/us/usc/t42/s655/f] or regulations promulgated under that section to the extent and for the period the Secretary finds necessary for an Indian tribe or tribal organization to carry out such project. Costs of the project which would not otherwise be included as expenditures of a program operating under [section 655(f) of this title][/us/usc/t42/s655/f] and which are not included as part of the costs of projects under [section 1310 of this title][/us/usc/t42/s1310], shall, to the extent and for the period prescribed by the Secretary, be regarded as expenditures under a tribal plan or plans approved under such section, or for the administration of such tribal plan or plans, as may be appropriate. An Indian tribe or tribal organization applying for or receiving start-up program development funding pursuant to section 309.16 of title 45, Code of Federal Regulations, shall not be considered to be an Indian tribe or tribal organization operating a program under [section 655(f) of this title][/us/usc/t42/s655/f] for purposes of this paragraph.
 
     (c) __Demonstration projects to test alternative definitions of unemployment__ 
 
@@ -137,13 +141,15 @@
 
         (7) An extension of a waiver project under this subsection shall be subject to the final reporting and evaluation requirements of paragraphs (4) and (5) of subsection (e) of this section (taking into account the extension under this subsection with respect to any timing requirements imposed under those paragraphs).
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1115, as added [Pub. L. 87–543, title I, § 122][/us/pl/87/543/s122], July 25, 1962, [76 Stat. 192][/us/stat/76/192]; amended [Pub. L. 89–97, title I, § 121(c)(3)][/us/pl/89/97/s121/c/3], July 30, 1965, [79 Stat. 352][/us/stat/79/352]; [Pub. L. 90–36, § 2][/us/pl/90/36/s2], June 29, 1967, [81 Stat. 94][/us/stat/81/94]; [Pub. L. 90–248, title II][/us/pl/90/248], §§ 241(c)(4), 247, Jan. 2, 1968, [81 Stat. 917][/us/stat/81/917], 918; [Pub. L. 93–233, § 18][/us/pl/93/233/s18](z–2)(1)(B), Dec. 31, 1973, [87 Stat. 973][/us/stat/87/973]; [Pub. L. 93–647, § 3(c)][/us/pl/93/647/s3/c], Jan. 4, 1975, [88 Stat. 2349][/us/stat/88/2349]; [Pub. L. 95–216, title IV, § 404][/us/pl/95/216/s404], Dec. 20, 1977, [91 Stat. 1562][/us/stat/91/1562]; [Pub. L. 97–35, title XXIII, § 2353(g)][/us/pl/97/35/s2353/g], Aug. 13, 1981, [95 Stat. 872][/us/stat/95/872]; [Pub. L. 98–369, div. B, title VI, § 2663(e)(5)][/us/pl/98/369/s2663/e/5], July 18, 1984, [98 Stat. 1168][/us/stat/98/1168]; [Pub. L. 98–378, § 10][/us/pl/98/378/s10], Aug. 16, 1984, [98 Stat. 1317][/us/stat/98/1317]; [Pub. L. 99–272, title XIV, § 14001(b)(2)][/us/pl/99/272/s14001/b/2], Apr. 7, 1986, [100 Stat. 328][/us/stat/100/328]; [Pub. L. 100–485, title V, § 503][/us/pl/100/485/s503], Oct. 13, 1988, [102 Stat. 2402][/us/stat/102/2402]; [Pub. L. 104–193, title I, § 108(g)(2)][/us/pl/104/193/s108/g/2], Aug. 22, 1996, [110 Stat. 2168][/us/stat/110/2168]; [Pub. L. 105–33, title IV, § 4757(a)][/us/pl/105/33/s4757/a], Aug. 5, 1997, [111 Stat. 527][/us/stat/111/527]; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title VII, § 703(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–574; [Pub. L. 111–148, title II, § 2601(b)(2)][/us/pl/111/148/s2601/b/2], title X, § 10201(i), Mar. 23, 2010, [124 Stat. 315][/us/stat/124/315], 922.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1115, as added [Pub. L. 87–543, title I, § 122][/us/pl/87/543/s122], July 25, 1962, [76 Stat. 192][/us/stat/76/192]; amended [Pub. L. 89–97, title I, § 121(c)(3)][/us/pl/89/97/s121/c/3], July 30, 1965, [79 Stat. 352][/us/stat/79/352]; [Pub. L. 90–36, § 2][/us/pl/90/36/s2], June 29, 1967, [81 Stat. 94][/us/stat/81/94]; [Pub. L. 90–248, title II][/us/pl/90/248], §§ 241(c)(4), 247, Jan. 2, 1968, [81 Stat. 917][/us/stat/81/917], 918; [Pub. L. 93–233, § 18][/us/pl/93/233/s18](z–2)(1)(B), Dec. 31, 1973, [87 Stat. 973][/us/stat/87/973]; [Pub. L. 93–647, § 3(c)][/us/pl/93/647/s3/c], Jan. 4, 1975, [88 Stat. 2349][/us/stat/88/2349]; [Pub. L. 95–216, title IV, § 404][/us/pl/95/216/s404], Dec. 20, 1977, [91 Stat. 1562][/us/stat/91/1562]; [Pub. L. 97–35, title XXIII, § 2353(g)][/us/pl/97/35/s2353/g], Aug. 13, 1981, [95 Stat. 872][/us/stat/95/872]; [Pub. L. 98–369, div. B, title VI, § 2663(e)(5)][/us/pl/98/369/s2663/e/5], July 18, 1984, [98 Stat. 1168][/us/stat/98/1168]; [Pub. L. 98–378, § 10][/us/pl/98/378/s10], Aug. 16, 1984, [98 Stat. 1317][/us/stat/98/1317]; [Pub. L. 99–272, title XIV, § 14001(b)(2)][/us/pl/99/272/s14001/b/2], Apr. 7, 1986, [100 Stat. 328][/us/stat/100/328]; [Pub. L. 100–485, title V, § 503][/us/pl/100/485/s503], Oct. 13, 1988, [102 Stat. 2402][/us/stat/102/2402]; [Pub. L. 104–193, title I, § 108(g)(2)][/us/pl/104/193/s108/g/2], Aug. 22, 1996, [110 Stat. 2168][/us/stat/110/2168]; [Pub. L. 105–33, title IV, § 4757(a)][/us/pl/105/33/s4757/a], Aug. 5, 1997, [111 Stat. 527][/us/stat/111/527]; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title VII, § 703(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–574; [Pub. L. 111–148, title II, § 2601(b)(2)][/us/pl/111/148/s2601/b/2], title X, § 10201(i), Mar. 23, 2010, [124 Stat. 315][/us/stat/124/315], 922; [Pub. L. 113–183, title III, § 302(b)][/us/pl/113/183/s302/b], Sept. 29, 2014, [128 Stat. 1945][/us/stat/128/1945].)
 
  __References in Text__ 
 
     Sections 1382 and 1383 of this title, referred to in subsec. (a)(1), (2), respectively, are references to sections 1382 and 1383 of this title as they existed prior to the general revision of this subchapter by [Pub. L. 92–603, title III, § 301][/us/pl/92/603/s301], Oct. 30, 1972, [86 Stat. 1465][/us/stat/86/1465], eff. Jan. 1, 1974. The prior sections (which are set out as notes under sections 1382 and 1383, respectively, of this title) continue in effect for Puerto Rico, Guam, and the Virgin Islands.
 
  __Amendments__ 
+
+    2014—Subsec. (b). [Pub. L. 113–183][/us/pl/113/183] designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1), realigned margins, and added par. (2).
 
     2010—Subsec. (d). [Pub. L. 111–148, § 10201(i)][/us/pl/111/148/s10201/i], added subsec. (d).
 
@@ -431,7 +437,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch7/schXI/ptA/m__us_usc_t42_s1314a.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXI/ptA/m__us_usc_t42_s1315a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1315)
+[Previous](./../../../../../..//us/usc/t42/ch7/schXI/ptA/m__us_usc_t42_s1314b.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXI/ptA/m__us_usc_t42_s1315a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1315)
 
 ----------
 ----------
@@ -439,6 +445,11 @@
 [/us/usc/t42/s1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1310
 [/us/usc/t42/s1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1310
 [/us/usc/t42/s1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1310
+[/us/usc/t42/s655/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs655%2Ff
+[/us/usc/t42/s655/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs655%2Ff
+[/us/usc/t42/s655/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs655%2Ff
+[/us/usc/t42/s1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1310
+[/us/usc/t42/s655/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs655%2Ff
 [/us/usc/t42/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs607
 [/us/usc/t42/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs607
 [/us/usc/t42/s602/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs602%2Fa%2F1
@@ -481,8 +492,11 @@
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/111/148/s2601/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2601%2Fb%2F2
 [/us/stat/124/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F315
+[/us/pl/113/183/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs302%2Fb
+[/us/stat/128/1945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1945
 [/us/pl/92/603/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603%2Fs301
 [/us/stat/86/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1465
+[/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
 [/us/pl/111/148/s10201/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10201%2Fi
 [/us/pl/111/148/s2601/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2601%2Fb%2F2%2FA
 [/us/usc/t42/s1396n/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396n%2Fh%2F2

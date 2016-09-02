@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch7/schIV/ptE/m__us_usc_t42_s675.md) | [Next](./../../../../../..//us/usc/t42/ch7/schIV/ptE/m__us_usc_t42_s677.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs676)
+[Previous](./../../../../../..//us/usc/t42/ch7/schIV/ptE/m__us_usc_t42_s675a.md) | [Next](./../../../../../..//us/usc/t42/ch7/schIV/ptE/m__us_usc_t42_s677.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs676)
 
 ## § 676. Administration
 
@@ -83,7 +83,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch7/schIV/ptE/m__us_usc_t42_s675.md) | [Next](./../../../../../..//us/usc/t42/ch7/schIV/ptE/m__us_usc_t42_s677.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs676)
+[Previous](./../../../../../..//us/usc/t42/ch7/schIV/ptE/m__us_usc_t42_s675a.md) | [Next](./../../../../../..//us/usc/t42/ch7/schIV/ptE/m__us_usc_t42_s677.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs676)
 
 ----------
 ----------

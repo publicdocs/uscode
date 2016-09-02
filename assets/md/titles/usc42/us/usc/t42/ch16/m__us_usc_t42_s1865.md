@@ -17,7 +17,7 @@
 
     (a) __Composition; powers and functions; membership; chairman__ 
 
-        There shall be an Executive Committee of the Board (referred to in this chapter as the “Executive Committee”), which shall be composed of five members and shall exercise such powers and functions as may be delegated to it by the Board. Four of the members shall be elected as provided in subsection (b) of this section, and the Director ex officio shall be the fifth member and the chairman of the Executive Committee.
+        There shall be an Executive Committee of the Board (referred to in this chapter as the “Executive Committee”), which shall be composed of five members and shall exercise such powers and functions as may be delegated to it by the Board. Four of the members shall be elected as provided in subsection (b), and the Director ex officio shall be the fifth member and the chairman of the Executive Committee.
 
     (b) __Election to membership; term of office; eligibility for reelection__ 
 

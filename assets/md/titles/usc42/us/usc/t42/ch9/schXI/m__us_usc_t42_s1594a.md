@@ -21,7 +21,7 @@
 
     (b) __Housing at or near a military installation__ 
 
-        Notwithstanding any provision of subsection (a) of this section to the contrary, the Secretary of Defense or his designee shall, in the manner provided in subsection (a) of this section, acquire by purchase, donation, or other means of transfer or, if the parties cannot agree upon terms for acquisition by such means, by condemnation, any housing described in clause (1) or (2) of subsection (a) of this section which is located at or near a military installation where the construction of housing under the Armed Services Housing Mortgage Insurance Program has been approved by the Secretary.
+        Notwithstanding any provision of subsection (a) to the contrary, the Secretary of Defense or his designee shall, in the manner provided in subsection (a), acquire by purchase, donation, or other means of transfer or, if the parties cannot agree upon terms for acquisition by such means, by condemnation, any housing described in clause (1) or (2) of subsection (a) of this section which is located at or near a military installation where the construction of housing under the Armed Services Housing Mortgage Insurance Program has been approved by the Secretary.
 
     (c) __Condemnation; procedures; deposit; payment; interest__ 
 

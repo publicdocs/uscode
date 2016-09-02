@@ -599,7 +599,19 @@
 
             (B) obtain a settlement in the best interests of the child support creditor.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 466, as added [Pub. L. 98–378, § 3(b)][/us/pl/98/378/s3/b], Aug. 16, 1984, [98 Stat. 1306][/us/stat/98/1306]; amended [Pub. L. 99–509, title IX, § 9103(a)][/us/pl/99/509/s9103/a], Oct. 21, 1986, [100 Stat. 1973][/us/stat/100/1973]; [Pub. L. 100–485, title I][/us/pl/100/485], §§ 101(a), (b), 103(c), 111(b), (e), Oct. 13, 1988, [102 Stat. 2344–2346][/us/stat/102/2344-2346], 2349, 2350; [Pub. L. 100–647, title VIII, § 8105(4)][/us/pl/100/647/s8105/4], Nov. 10, 1988, [102 Stat. 3797][/us/stat/102/3797]; [Pub. L. 103–66, title XIII, § 13721(b)][/us/pl/103/66/s13721/b], Aug. 10, 1993, [107 Stat. 659][/us/stat/107/659]; [Pub. L. 103–432, title II, § 212(a)][/us/pl/103/432/s212/a], Oct. 31, 1994, [108 Stat. 4460][/us/stat/108/4460]; [Pub. L. 104–193, title I, § 108(c)(14)][/us/pl/104/193/s108/c/14], (15), title III, §§ 301(c)(3), (4), 314, 315, 317, 321, 323, 325(a), 331(a), 351, 364, 365, 367–369, 372, 373, 382, 395(d)(1)(H), (2)(D), Aug. 22, 1996, [110 Stat. 2166][/us/stat/110/2166], 2200, 2212, 2214, 2220–2222, 2224, 2227, 2239, 2249–2251, 2254, 2255, 2257, 2259, 2260; [Pub. L. 105–33, title V][/us/pl/105/33], §§ 5532(i)(2), 5536–5539, 5544, 5550(a), 5551, 5556(a), (e), Aug. 5, 1997, [111 Stat. 627][/us/stat/111/627], 629–631, 633, 634, 637; [Pub. L. 105–200, title IV][/us/pl/105/200], §§ 401(c)(1), 404(a), 406(a), July 16, 1998, [112 Stat. 661][/us/stat/112/661], 671; [Pub. L. 106–169, title IV, § 401(f)][/us/pl/106/169/s401/f], (m), (n), Dec. 14, 1999, [113 Stat. 1858][/us/stat/113/1858], 1859; [Pub. L. 109–171, title VII][/us/pl/109/171], §§ 7301(g), 7302(a), 7307(a)(1), (2)(A)(ii), Feb. 8, 2006, [120 Stat. 145][/us/stat/120/145], 146.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 466, as added [Pub. L. 98–378, § 3(b)][/us/pl/98/378/s3/b], Aug. 16, 1984, [98 Stat. 1306][/us/stat/98/1306]; amended [Pub. L. 99–509, title IX, § 9103(a)][/us/pl/99/509/s9103/a], Oct. 21, 1986, [100 Stat. 1973][/us/stat/100/1973]; [Pub. L. 100–485, title I][/us/pl/100/485], §§ 101(a), (b), 103(c), 111(b), (e), Oct. 13, 1988, [102 Stat. 2344–2346][/us/stat/102/2344-2346], 2349, 2350; [Pub. L. 100–647, title VIII, § 8105(4)][/us/pl/100/647/s8105/4], Nov. 10, 1988, [102 Stat. 3797][/us/stat/102/3797]; [Pub. L. 103–66, title XIII, § 13721(b)][/us/pl/103/66/s13721/b], Aug. 10, 1993, [107 Stat. 659][/us/stat/107/659]; [Pub. L. 103–432, title II, § 212(a)][/us/pl/103/432/s212/a], Oct. 31, 1994, [108 Stat. 4460][/us/stat/108/4460]; [Pub. L. 104–193, title I, § 108(c)(14)][/us/pl/104/193/s108/c/14], (15), title III, §§ 301(c)(3), (4), 314, 315, 317, 321, 323, 325(a), 331(a), 351, 364, 365, 367–369, 372, 373, 382, 395(d)(1)(H), (2)(D), Aug. 22, 1996, [110 Stat. 2166][/us/stat/110/2166], 2200, 2212, 2214, 2220–2222, 2224, 2227, 2239, 2249–2251, 2254, 2255, 2257, 2259, 2260; [Pub. L. 105–33, title V][/us/pl/105/33], §§ 5532(i)(2), 5536–5539, 5544, 5550(a), 5551, 5556(a), (e), Aug. 5, 1997, [111 Stat. 627][/us/stat/111/627], 629–631, 633, 634, 637; [Pub. L. 105–200, title IV][/us/pl/105/200], §§ 401(c)(1), 404(a), 406(a), July 16, 1998, [112 Stat. 661][/us/stat/112/661], 671; [Pub. L. 106–169, title IV, § 401(f)][/us/pl/106/169/s401/f], (m), (n), Dec. 14, 1999, [113 Stat. 1858][/us/stat/113/1858], 1859; [Pub. L. 109–171, title VII][/us/pl/109/171], §§ 7301(g), 7302(a), 7307(a)(1), (2)(A)(ii), Feb. 8, 2006, [120 Stat. 145][/us/stat/120/145], 146; [Pub. L. 113–183, title III, § 301(f)(1)][/us/pl/113/183/s301/f/1], Sept. 29, 2014, [128 Stat. 1944][/us/stat/128/1944].)
+
+ __Amendment of Subsection (f)__ 
+
+    [Pub. L. 113–183, title III, § 301(f)(1)][/us/pl/113/183/s301/f/1], (3)(A), Sept. 29, 2014, [128 Stat. 1944][/us/stat/128/1944], 1945, provided that, effective with respect to the grace periods provided to States (see Effective Date of 2014 Amendment note below), subsection (f) of this section is amended as follows:
+
+    (1) by striking “on and after January 1, 1998,”;
+
+    (2) by striking “and as in effect on August 22, 1996,”; and
+
+    (3) by striking “adopted as of such date” and inserting “adopted as of September 30, 2008”.
+
+    See 2014 Amendment note below.
 
  __References in Text__ 
 
@@ -612,6 +624,8 @@
     October 13, 1988, referred to in subsec. (b)(3)(A), was in the original “the date of enactment of this paragraph”, which was translated as meaning the date of enactment of [Pub. L. 100–485][/us/pl/100/485], which amended par. (3) of this section generally, to reflect the probable intent of Congress.
 
  __Amendments__ 
+
+    2014—Subsec. (f). [Pub. L. 113–183][/us/pl/113/183] struck out “on and after January 1, 1998,” before “each State” and “and as in effect on August 22, 1996,” before “including any amendments” and substituted “adopted as of September 30, 2008” for “adopted as of such date”.
 
     2006—Subsec. (a)(10)(A)(i). [Pub. L. 109–171, § 7302(a)][/us/pl/109/171/s7302/a], in introductory provisions, substituted “parent or” for “parent, or,” and struck out “upon the request of the State agency under the State plan or of either parent,” after “under part A of this subchapter,”.
 
@@ -793,6 +807,14 @@
 
     1986—Subsec. (a)(9). [Pub. L. 99–509][/us/pl/99/509] added par. (9).
 
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–183, title III, § 301(f)(3)(A)][/us/pl/113/183/s301/f/3/A], Sept. 29, 2014, [128 Stat. 1945][/us/stat/128/1945], provided that:
+
+>     “(i) The amendments made by paragraph (1) \[amending this section\] shall take effect with respect to a State no later than the effective date of laws enacted by the legislature of the State implementing such paragraph, but in no event later than the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Sept. 29, 2014\].
+
+>     “(ii) For purposes of clause (i), in the case of a State that has a 2-year legislative session, each year of the session shall be deemed to be a separate regular session of the State legislature.”
+
  __Effective Date of 2006 Amendment__ 
 
     Amendment by sections 7301(g) and 7307(a)(1), (2)(A)(ii) of [Pub. L. 109–171][/us/pl/109/171] effective as if enacted on Oct. 1, 2005, except as otherwise provided, see [section 7701 of Pub. L. 109–171][/us/pl/109/171/s7701], set out as a note under [section 603 of this title][/us/usc/t42/s603].
@@ -937,12 +959,17 @@
 [/us/stat/113/1858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1858
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
 [/us/stat/120/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F145
+[/us/pl/113/183/s301/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs301%2Ff%2F1
+[/us/stat/128/1944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1944
+[/us/pl/113/183/s301/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs301%2Ff%2F1
+[/us/stat/128/1944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1944
 [/us/pl/105/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200
 [/us/usc/t29/s1169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1169
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/stat/88/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F829
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
 [/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
+[/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
 [/us/pl/109/171/s7302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs7302%2Fa
 [/us/pl/109/171/s7301/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs7301%2Fg
 [/us/pl/109/171/s7307/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs7307%2Fa%2F1
@@ -1038,6 +1065,8 @@
 [/us/pl/100/485/s103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs103%2Fc
 [/us/pl/100/485/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs101%2Fa
 [/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
+[/us/pl/113/183/s301/f/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs301%2Ff%2F3%2FA
+[/us/stat/128/1945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1945
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
 [/us/pl/109/171/s7701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs7701
 [/us/usc/t42/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs603

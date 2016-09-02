@@ -1147,7 +1147,7 @@ Part E—Federal Payments for Foster Care and Adoption Assistance  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs673b" data-uslm-ref="/us/usc/t42/s673b">673b.</a>  </td>
 
-    <td> Adoption incentive payments.  </td>
+    <td> Adoption and legal guardianship incentive payments.  </td>
 
   </tr>
 
@@ -1172,6 +1172,14 @@ Part E—Federal Payments for Foster Care and Adoption Assistance  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs675" data-uslm-ref="/us/usc/t42/s675">675.</a>  </td>
 
     <td> Definitions.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs675a" data-uslm-ref="/us/usc/t42/s675a">675a.</a>  </td>
+
+    <td> Additional case plan and case review system requirements.  </td>
 
   </tr>
 
@@ -1988,6 +1996,14 @@ Part A—General Provisions  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1314a" data-uslm-ref="/us/usc/t42/s1314a">1314a.</a>  </td>
 
     <td> Measurement and reporting of welfare receipt.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1314b" data-uslm-ref="/us/usc/t42/s1314b">1314b.</a>  </td>
+
+    <td> National Advisory Committee on the Sex Trafficking of Children and Youth in the United States.  </td>
 
   </tr>
 
@@ -4219,7 +4235,7 @@ Part E—Miscellaneous Provisions  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1395iii" data-uslm-ref="/us/usc/t42/s1395iii">1395iii.</a>  </td>
 
-    <td> Transitional Fund for Sustainable Growth Rate (SGR) Reform.  </td>
+    <td> Medicare Improvement Fund.  </td>
 
   </tr>
 
@@ -4244,6 +4260,14 @@ Part E—Miscellaneous Provisions  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1395kkk%E2%80%931" data-uslm-ref="/us/usc/t42/s1395kkk–1">1395kkk–1.</a>  </td>
 
     <td> GAO study and report on determination and implementation of payment and coverage policies under the Medicare program.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1395" data-uslm-ref="/us/usc/t42/s1395">1395</a>lll.  </td>
+
+    <td> Standardized post-acute care (PAC) assessment data for quality, payment, and discharge planning.  </td>
 
   </tr>
 

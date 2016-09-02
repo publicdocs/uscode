@@ -35,6 +35,12 @@
 
     A prior section 13701, [Pub. L. 103–322, title II, § 20101][/us/pl/103/322/s20101], Sept. 13, 1994, [108 Stat. 1815][/us/stat/108/1815], related to grants for correctional facilities prior to the general amendment of this part by [Pub. L. 104–134][/us/pl/104/134].
 
+ __Short Title of 2014 Amendment__ 
+
+[Pub. L. 113–182, § 1][/us/pl/113/182/s1], Sept. 29, 2014, [128 Stat. 1918][/us/stat/128/1918], provided that: 
+
+> “This Act \[amending sections 14135, 14136, and 14136a of this title\] may be cited as the ‘Debbie Smith Reauthorization Act of 2014’.”
+
  __Short Title of 2013 Amendment__ 
 
 [Pub. L. 113–4, § 1][/us/pl/113/4/s1], Mar. 7, 2013, [127 Stat. 54][/us/stat/127/54], provided that: 
@@ -184,6 +190,8 @@
 [/us/pl/103/322/s20101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs20101
 [/us/stat/108/1815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1815
 [/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/113/182/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F182%2Fs1
+[/us/stat/128/1918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1918
 [/us/pl/113/4/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1
 [/us/stat/127/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F54
 [/us/pl/113/4/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1001

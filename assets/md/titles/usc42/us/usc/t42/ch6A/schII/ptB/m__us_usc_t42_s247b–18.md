@@ -21,7 +21,7 @@
 
     (b) __National muscular dystrophy epidemiology program__ 
 
-        The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may award grants to public or nonprofit private entities (including health departments of States and political subdivisions of States, and including universities and other educational entities) for the purpose of carrying out epidemiological activities regarding Duchenne and other forms of muscular dystrophies, including collecting and analyzing information on the number, incidence, correlates, and symptoms of cases. In carrying out the preceding sentence, the Secretary shall provide for a national surveillance program. In making awards under this subsection, the Secretary may provide direct technical assistance in lieu of cash.
+        The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may award grants to public or nonprofit private entities (including health departments of States and political subdivisions of States, and including universities and other educational entities) for the purpose of carrying out epidemiological activities regarding Duchenne and other forms of muscular dystrophies, including collecting and analyzing information on the number, incidence, correlates, and symptoms of cases. In carrying out the preceding sentence, the Secretary shall provide for a national surveillance program and, to the extent possible, ensure that data be representative of all affected populations and shared in a timely manner. In making awards under this subsection, the Secretary may provide direct technical assistance in lieu of cash.
 
     (c) __Coordination with centers of excellence__ 
 
@@ -51,9 +51,11 @@
 
         There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 317Q, as added [Pub. L. 107–84, § 4][/us/pl/107/84/s4], Dec. 18, 2001, [115 Stat. 828][/us/stat/115/828]; amended [Pub. L. 110–361, § 3][/us/pl/110/361/s3], Oct. 8, 2008, [122 Stat. 4010][/us/stat/122/4010].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 317Q, as added [Pub. L. 107–84, § 4][/us/pl/107/84/s4], Dec. 18, 2001, [115 Stat. 828][/us/stat/115/828]; amended [Pub. L. 110–361, § 3][/us/pl/110/361/s3], Oct. 8, 2008, [122 Stat. 4010][/us/stat/122/4010]; [Pub. L. 113–166, § 3][/us/pl/113/166/s3], Sept. 26, 2014, [128 Stat. 1880][/us/stat/128/1880].)
 
  __Amendments__ 
+
+    2014—Subsec. (b). [Pub. L. 113–166][/us/pl/113/166] inserted “and, to the extent possible, ensure that data be representative of all affected populations and shared in a timely manner” after “surveillance program”.
 
     2008—Subsecs. (d) to (f). [Pub. L. 110–361][/us/pl/110/361] added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
 
@@ -112,6 +114,9 @@
 [/us/stat/115/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F828
 [/us/pl/110/361/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F361%2Fs3
 [/us/stat/122/4010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4010
+[/us/pl/113/166/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F166%2Fs3
+[/us/stat/128/1880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1880
+[/us/pl/113/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F166
 [/us/pl/110/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F361
 [/us/pl/107/84/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F84%2Fs2
 [/us/stat/115/823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F823

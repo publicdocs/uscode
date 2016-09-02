@@ -29,15 +29,17 @@
 
     (b) __Authorization of appropriations__ 
 
-        There are authorized to be appropriated $12,500,000 for each of fiscal years 2009 through 2014 to carry out this section.
+        There are authorized to be appropriated $12,500,000 for each of fiscal years 2015 through 2019 to carry out this section.
 
-([Pub. L. 108–405, title III, § 303][/us/pl/108/405/s303], Oct. 30, 2004, [118 Stat. 2273][/us/stat/118/2273]; [Pub. L. 110–360, § 3][/us/pl/110/360/s3], Oct. 8, 2008, [122 Stat. 4008][/us/stat/122/4008].)
+([Pub. L. 108–405, title III, § 303][/us/pl/108/405/s303], Oct. 30, 2004, [118 Stat. 2273][/us/stat/118/2273]; [Pub. L. 110–360, § 3][/us/pl/110/360/s3], Oct. 8, 2008, [122 Stat. 4008][/us/stat/122/4008]; [Pub. L. 113–182, § 3][/us/pl/113/182/s3], Sept. 29, 2014, [128 Stat. 1918][/us/stat/128/1918].)
 
  __Codification__ 
 
     Section was enacted as part of the DNA Sexual Assault Justice Act of 2004 and also as part of the Justice for All Act of 2004, and not as part of Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
 
  __Amendments__ 
+
+    2014—Subsec. (b). [Pub. L. 113–182][/us/pl/113/182] substituted “2015 through 2019” for “2009 through 2014”.
 
     2008—Subsec. (b). [Pub. L. 110–360][/us/pl/110/360] substituted “2009 through 2014” for “2005 through 2009”.
 
@@ -86,6 +88,9 @@
 [/us/stat/118/2273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2273
 [/us/pl/110/360/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F360%2Fs3
 [/us/stat/122/4008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4008
+[/us/pl/113/182/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F182%2Fs3
+[/us/stat/128/1918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1918
+[/us/pl/113/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F182
 [/us/pl/110/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F360
 [/us/pl/108/405/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs413
 [/us/stat/118/2285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2285

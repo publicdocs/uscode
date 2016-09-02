@@ -611,6 +611,16 @@
 
                 The administrator of a nursing facility must meet standards established by the Secretary under subsection (f)(4) of this section.
 
+            (V)  __ <sup>\[__  __3__  __\]</sup> __  __ <sup><sup> __  __3__  __ So in original. There are no subpars. (D) to (U).__  __ </sup></sup> __  __Availability of survey, certification, and complaint investigation reports__ 
+
+            A nursing facility must—
+
+                (i) have reports with respect to any surveys, certifications, and complaint investigations made respecting the facility during the 3 preceding years available for any individual to review upon request; and
+
+                (ii) post notice of the availability of such reports in areas of the facility that are prominent and accessible to the public.
+
+                The facility shall not make available under clause (i) identifying information about complainants or residents.
+
         (2) __Licensing and Life Safety Code__ 
 
             (A) __Licensing__ 
@@ -819,7 +829,7 @@
 
             For purposes of subsections (b)(5) and (e)(1)(A) of this section, the Secretary shall establish, by not later than September 1, 1988—
 
-                (i) requirements for the approval of nurse aide training and competency evaluation programs, including requirements relating to (I) the areas to be covered in such a program (including at least basic nursing skills, personal care skills, recognition of mental health and social service needs, care of cognitively impaired residents, basic restorative services, and residents’ rights) and content of the curriculum (including, in the case of initial training and, if the Secretary determines appropriate, in the case of ongoing training, dementia management training, and patient abuse prevention training  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be followed by a closing parenthesis. </sup></sup> , (II) minimum hours of initial and ongoing training and retraining (including not less than 75 hours in the case of initial training), (III) qualifications of instructors, and (IV) procedures for determination of competency;
+                (i) requirements for the approval of nurse aide training and competency evaluation programs, including requirements relating to (I) the areas to be covered in such a program (including at least basic nursing skills, personal care skills, recognition of mental health and social service needs, care of cognitively impaired residents, basic restorative services, and residents’ rights) and content of the curriculum (including, in the case of initial training and, if the Secretary determines appropriate, in the case of ongoing training, dementia management training, and patient abuse prevention training  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be followed by a closing parenthesis. </sup></sup> , (II) minimum hours of initial and ongoing training and retraining (including not less than 75 hours in the case of initial training), (III) qualifications of instructors, and (IV) procedures for determination of competency;
 
                 (ii) requirements for the approval of nurse aide competency evaluation programs, including requirement relating to the areas to be covered in such a program, including at least basic nursing skills, personal care skills, recognition of mental health and social service needs, care of cognitively impaired residents, basic restorative services, and residents’ rights, and procedures for determination of competency;
 
@@ -853,7 +863,7 @@
 
                         (b) has been subject to an extended (or partial extended) survey under [section 1395i–3(g)(2)(B)(i) of this title][/us/usc/t42/s1395i–3/g/2/B/i] or subsection (g)(2)(B)(i) of this section; or
 
-                        (c) has been assessed a civil money penalty described in [section 1395i–3(h)(2)(B)(ii) of this title][/us/usc/t42/s1395i–3/h/2/B/ii] or subsection (h)(2)(A)(ii) of this section of not less than $5,000, or has been subject to a remedy described in subsection (h)(1)(B)(i) of this section, clauses  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be “clause”. </sup></sup>  (i), (iii), or (iv) of subsection (h)(2)(A) of this section, clauses  <sup>\[4\]</sup>  (i) or (iii) of [section 1395i–3(h)(2)(B) of this title][/us/usc/t42/s1395i–3/h/2/B], or [section 1395i–3(h)(4) of this title][/us/usc/t42/s1395i–3/h/4], or
+                        (c) has been assessed a civil money penalty described in [section 1395i–3(h)(2)(B)(ii) of this title][/us/usc/t42/s1395i–3/h/2/B/ii] or subsection (h)(2)(A)(ii) of this section of not less than $5,000, or has been subject to a remedy described in subsection (h)(1)(B)(i) of this section, clauses  <sup>\[5\]</sup>  <sup><sup> 5 So in original. Probably should be “clause”. </sup></sup>  (i), (iii), or (iv) of subsection (h)(2)(A) of this section, clauses  <sup>\[5\]</sup>  (i) or (iii) of [section 1395i–3(h)(2)(B) of this title][/us/usc/t42/s1395i–3/h/2/B], or [section 1395i–3(h)(4) of this title][/us/usc/t42/s1395i–3/h/4], or
 
                     (II) offered by or in a nursing facility unless the State makes the determination, upon an individual’s completion of the program, that the individual is competent to provide nursing and nursing-related services in nursing facilities.
 
@@ -1101,7 +1111,7 @@
 
             (B) __Notice to ombudsman__ 
 
-                Each State shall notify the State long-term care ombudsman (established under title III or VII of the Older Americans Act of 1965 \[[42 U.S.C. 3021][/us/usc/t42/s3021] et seq., 3058 et seq.\] in accordance with section 712 of the Act \[[42 U.S.C. 3058g][/us/usc/t42/s3058g]\]) of the State’s findings of noncompliance with any of the requirements of subsections (b), (c), and (d) of this section, or of any adverse action taken against a nursing facility under paragraphs  <sup>\[5\]</sup>  <sup><sup> 5 So in original. Probably should be “paragraph”. </sup></sup>  (1), (2), or (3) of subsection (h) of this section, with respect to a nursing facility in the State.
+                Each State shall notify the State long-term care ombudsman (established under title III or VII of the Older Americans Act of 1965 \[[42 U.S.C. 3021][/us/usc/t42/s3021] et seq., 3058 et seq.\] in accordance with section 712 of the Act \[[42 U.S.C. 3058g][/us/usc/t42/s3058g]\]) of the State’s findings of noncompliance with any of the requirements of subsections (b), (c), and (d) of this section, or of any adverse action taken against a nursing facility under paragraphs  <sup>\[6\]</sup>  <sup><sup> 6 So in original. Probably should be “paragraph”. </sup></sup>  (1), (2), or (3) of subsection (h) of this section, with respect to a nursing facility in the State.
 
             (C) __Notice to physicians and nursing facility administrator licensing board__ 
 
@@ -1279,7 +1289,7 @@
 
         (5) __Immediate termination of participation for facility where State or Secretary finds noncompliance and immediate jeopardy__ 
 
-            If either the State or the Secretary finds that a nursing facility has not met a requirement of subsection (b), (c), or (d) of this section, and finds that the failure immediately jeopardizes the health or safety of its residents, the State or the Secretary, respectively  <sup>\[6\]</sup>  <sup><sup> 6 So in original. Probably should be followed by a comma. </sup></sup>  shall notify the other of such finding, and the State or the Secretary, respectively, shall take immediate action to remove the jeopardy and correct the deficiencies through the remedy specified in paragraph (2)(A)(iii) or (3)(C)(iii), or terminate the facility’s participation under the State plan. If the facility’s participation in the State plan is terminated by either the State or the Secretary, the State shall provide for the safe and orderly transfer of the residents eligible under the State plan consistent with the requirements of subsection (c)(2) of this section.
+            If either the State or the Secretary finds that a nursing facility has not met a requirement of subsection (b), (c), or (d) of this section, and finds that the failure immediately jeopardizes the health or safety of its residents, the State or the Secretary, respectively  <sup>\[7\]</sup>  <sup><sup> 7 So in original. Probably should be followed by a comma. </sup></sup>  shall notify the other of such finding, and the State or the Secretary, respectively, shall take immediate action to remove the jeopardy and correct the deficiencies through the remedy specified in paragraph (2)(A)(iii) or (3)(C)(iii), or terminate the facility’s participation under the State plan. If the facility’s participation in the State plan is terminated by either the State or the Secretary, the State shall provide for the safe and orderly transfer of the residents eligible under the State plan consistent with the requirements of subsection (c)(2) of this section.
 
         (6) __Special rules where State and Secretary do not agree on finding of noncompliance__ 
 
@@ -1315,7 +1325,7 @@
 
         (8) __Construction__ 
 
-            The remedies provided under this subsection are in addition to those otherwise available under State or Federal law and shall not be construed as limiting such other remedies, including any remedy available to an individual at common law. The remedies described in clauses (i), (ii)(IV), <sup>\[7\]</sup>  <sup><sup> 7 So in original. Cl. (ii) of par. (2)(A) of this subsection does not contain subclauses. Probably means cl. (ii)(IV) of par. (3)(C) of this subsection. </sup></sup>  (iii), and (iv) of paragraph (2)(A) may be imposed during the pendency of any hearing. The provisions of this subsection shall apply to a nursing facility (or portion thereof) notwithstanding that the facility (or portion thereof) also is a skilled nursing facility for purposes of subchapter XVIII of this chapter.
+            The remedies provided under this subsection are in addition to those otherwise available under State or Federal law and shall not be construed as limiting such other remedies, including any remedy available to an individual at common law. The remedies described in clauses (i), (ii)(IV), <sup>\[8\]</sup>  <sup><sup> 8 So in original. Cl. (ii) of par. (2)(A) of this subsection does not contain subclauses. Probably means cl. (ii)(IV) of par. (3)(C) of this subsection. </sup></sup>  (iii), and (iv) of paragraph (2)(A) may be imposed during the pendency of any hearing. The provisions of this subsection shall apply to a nursing facility (or portion thereof) notwithstanding that the facility (or portion thereof) also is a skilled nursing facility for purposes of subchapter XVIII of this chapter.
 
         (9) __Sharing of information__ 
 
@@ -1397,19 +1407,7 @@
 
  __Amendment of Subsection (d)(1)__ 
 
-    [Pub. L. 111–148, title VI, § 6101(c)(1)(B)][/us/pl/111/148/s6101/c/1/B], (2), Mar. 23, 2010, [124 Stat. 702][/us/stat/124/702], provided that, effective on the date on which the Secretary of Health and Human Services makes certain information available to the public, subsection (d)(1) of this section is amended by striking subparagraph (B) and redesignating subparagraph (C) as subparagraph (B). See Effective Date of 2010 Amendment note below.
-
-[Pub. L. 111–148, title VI, § 6103(c)(2)][/us/pl/111/148/s6103/c/2], (3), Mar. 23, 2010, [124 Stat. 709][/us/stat/124/709], 710, provided that, effective one year after Mar. 23, 2010, subsection (d)(1) of this section, as amended by [section 6101 of Pub. L. 111–148][/us/pl/111/148/s6101], is amended by adding at the end the following new subparagraph:
-
-    (V) \[sic\] Availability of survey, certification, and complaint investigation reports
-
-    A nursing facility must—
-
-    (i) have reports with respect to any surveys, certifications, and complaint investigations made respecting the facility during the 3 preceding years available for any individual to review upon request; and
-
-    (ii) post notice of the availability of such reports in areas of the facility that are prominent and accessible to the public.
-
-    The facility shall not make available under clause (i) identifying information about complainants or residents.
+    [Pub. L. 111–148, title VI, § 6101(c)(1)(B)][/us/pl/111/148/s6101/c/1/B], (2), Mar. 23, 2010, [124 Stat. 702][/us/stat/124/702], provided that, effective on the date on which the Secretary of Health and Human Services makes certain information available to the public, subsection (d)(1) of this section is amended by striking subparagraph (B) and redesignating subparagraph (C) as subparagraph (B). See 2010 Amendment note and Effective Date of 2010 Amendment note below.
 
  __References in Text__ 
 
@@ -1430,6 +1428,10 @@
  __Amendments__ 
 
     2010—Subsec. (b)(5)(F). [Pub. L. 111–148, § 6121(b)(2)][/us/pl/111/148/s6121/b/2], inserted concluding provisions.
+
+    Subsec. (d)(1)(B). [Pub. L. 111–148, § 6101(c)(1)(B)][/us/pl/111/148/s6101/c/1/B], redesignated subpar. (C) as (B) and struck out former subpar. (B) which related to required notice to a State licensing agency of change in ownership, control interest, management, or certain positions of responsibility for a nursing facility.
+
+    Subsec. (d)(1)(V). [Pub. L. 111–148, § 6103(c)(2)][/us/pl/111/148/s6103/c/2], added subpar. (V).
 
     Subsec. (f)(2)(A)(i)(I). [Pub. L. 111–148, § 6121(b)(1)][/us/pl/111/148/s6121/b/1], inserted “ (including, in the case of initial training and, if the Secretary determines appropriate, in the case of ongoing training, dementia management training, and patient abuse prevention training” before “, (II)”.
 
@@ -1953,9 +1955,6 @@
 [/us/stat/124/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F702
 [/us/pl/111/148/s6101/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6101%2Fc%2F1%2FB
 [/us/stat/124/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F702
-[/us/pl/111/148/s6103/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6103%2Fc%2F2
-[/us/stat/124/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F709
-[/us/pl/111/148/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6101
 [/us/pl/89/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73
 [/us/stat/79/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F218
 [/us/pl/106/501/s306/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F501%2Fs306%2F5
@@ -1977,6 +1976,8 @@
 [/us/usc/t42/s1395x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x
 [/us/usc/t42/s1396r–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%933
 [/us/pl/111/148/s6121/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6121%2Fb%2F2
+[/us/pl/111/148/s6101/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6101%2Fc%2F1%2FB
+[/us/pl/111/148/s6103/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6103%2Fc%2F2
 [/us/pl/111/148/s6121/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6121%2Fb%2F1
 [/us/pl/111/148/s6103/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6103%2Fb%2F3
 [/us/pl/111/148/s6103/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6103%2Fb%2F2%2FA

@@ -73,7 +73,7 @@
 
     (f) __Final guidelines__ 
 
-        Final guidelines shall be published in the Federal Register not later than 45 days after the submission of the report required under subsection (e) of this section.
+        Final guidelines shall be published in the Federal Register not later than 45 days after the submission of the report required under subsection (e).
 
     (g) __Amount available for this section__ 
 

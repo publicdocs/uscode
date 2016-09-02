@@ -157,7 +157,27 @@
 
             (B) Subparagraph (A) shall not be construed as prohibiting payments under this part for an applicable child described in subparagraph (A) that is placed in foster care subsequent to the failure, as determined by the State, of the initial adoption of the child by the parents described in subparagraph (A).
 
-        (8) A State shall spend an amount equal to the amount of savings (if any) in State expenditures under this part resulting from the application of paragraph (2)(A)(ii) to all applicable children for a fiscal year to provide to children or families any service (including post-adoption services) that may be provided under this part or part B, and shall document how such amounts are spent, including on post-adoption services.
+        (8)
+
+            (A) A State shall calculate the savings (if any) resulting from the application of paragraph (2)(A)(ii) to all applicable children for a fiscal year, using a methodology specified by the Secretary or an alternate methodology proposed by the State and approved by the Secretary.
+
+            (B)
+
+             A State shall annually report to the Secretary—
+
+                (i) the methodology used to make the calculation described in subparagraph (A), without regard to whether any savings are found;
+
+                (ii) the amount of any savings referred to in subparagraph (A); and
+
+                (iii) how any such savings are spent, accounting for and reporting the spending separately from any other spending reported to the Secretary under part B or this part.
+
+            (C) The Secretary shall make all information reported pursuant to subparagraph (B) available on the website of the Department of Health and Human Services in a location easily accessible to the public.
+
+            (D)
+
+                (i) A State shall spend an amount equal to the amount of the savings (if any) in State expenditures under this part resulting from the application of paragraph (2)(A)(ii) to all applicable children for a fiscal year, to provide to children of families any service that may be provided under part B or this part. A State shall spend not less than 30 percent of any such savings on post-adoption services, post-guardianship services, and services to support and sustain positive permanent outcomes for children who otherwise might enter into foster care under the responsibility of the State, with at least ⅔ of the spending by the State to comply with such 30 percent requirement being spent on post-adoption and post-guardianship services.
+
+                (ii) Any State spending required under clause (i) shall be used to supplement, and not supplant, any Federal or non-Federal funds used to provide any service under part B or this part.
 
     (b) __Aid for dependent children; assistance for minor children in needy families__ 
 
@@ -270,6 +290,10 @@
                 (i) the child and any sibling of the child may be placed in the same kinship guardianship arrangement, in accordance with [section 671(a)(31) of this title][/us/usc/t42/s671/a/31], if the State agency and the relative agree on the appropriateness of the arrangement for the siblings; and
 
                 (ii) kinship guardianship assistance payments may be paid on behalf of each sibling so placed.
+
+            (C) __Eligibility not affected by replacement of guardian with a successor guardian__ 
+
+                In the event of the death or incapacity of the relative guardian, the eligibility of a child for a kinship guardianship assistance payment under this subsection shall not be affected by reason of the replacement of the relative guardian with a successor legal guardian named in the kinship guardianship assistance agreement referred to in paragraph (1) (including in any amendment to the agreement), notwithstanding subparagraph (A) of this paragraph and [section 671(a)(28) of this title][/us/usc/t42/s671/a/28].
 
     (e) __Applicable child defined__ 
 
@@ -425,7 +449,7 @@
 
             (C) meets the requirements of subsection (a)(2)(A)(ii).
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 473, as added and amended [Pub. L. 96–272, title I][/us/pl/96/272], §§ 101(a)(1), 102(a)(3), June 17, 1980, [94 Stat. 504][/us/stat/94/504], 514; [Pub. L. 99–272, title XII, § 12305(a)][/us/pl/99/272/s12305/a], (b)(1), Apr. 7, 1986, [100 Stat. 293][/us/stat/100/293]; [Pub. L. 99–514, title XVII, § 1711(a)][/us/pl/99/514/s1711/a], (b), (c)(3)–(5), Oct. 22, 1986, [100 Stat. 2783][/us/stat/100/2783], 2784; [Pub. L. 99–603, title II, § 201(b)(2)(B)][/us/pl/99/603/s201/b/2/B], Nov. 6, 1986, [100 Stat. 3403][/us/stat/100/3403]; [Pub. L. 100–203, title IX][/us/pl/100/203], §§ 9133(b)(3), (4), 9139(b), Dec. 22, 1987, [101 Stat. 1330–314][/us/stat/101/1330-314], 1330–321; [Pub. L. 103–432, title II][/us/pl/103/432], §§ 265(b), 266(a), Oct. 31, 1994, [108 Stat. 4469][/us/stat/108/4469]; [Pub. L. 104–193, title I, § 108(d)(5)][/us/pl/104/193/s108/d/5], (6), Aug. 22, 1996, [110 Stat. 2167][/us/stat/110/2167]; [Pub. L. 105–33, title V, § 5513(b)(3)][/us/pl/105/33/s5513/b/3], (4), Aug. 5, 1997, [111 Stat. 620][/us/stat/111/620]; [Pub. L. 105–89, title III, § 307(a)][/us/pl/105/89/s307/a], Nov. 19, 1997, [111 Stat. 2133][/us/stat/111/2133]; [Pub. L. 109–171, title VII, § 7404(b)][/us/pl/109/171/s7404/b], Feb. 8, 2006, [120 Stat. 153][/us/stat/120/153]; [Pub. L. 110–351, title I, § 101(b)][/us/pl/110/351/s101/b], (c)(1), (5), (f), title II, § 201(c), title IV, § 402, Oct. 7, 2008, [122 Stat. 3950][/us/stat/122/3950], 3951, 3953, 3958, 3975; [Pub. L. 111–148, title VI, § 6703(d)(2)(B)][/us/pl/111/148/s6703/d/2/B], Mar. 23, 2010, [124 Stat. 803][/us/stat/124/803]; [Pub. L. 112–34, title I, § 106(c)][/us/pl/112/34/s106/c], Sept. 30, 2011, [125 Stat. 377][/us/stat/125/377].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 473, as added and amended [Pub. L. 96–272, title I][/us/pl/96/272], §§ 101(a)(1), 102(a)(3), June 17, 1980, [94 Stat. 504][/us/stat/94/504], 514; [Pub. L. 99–272, title XII, § 12305(a)][/us/pl/99/272/s12305/a], (b)(1), Apr. 7, 1986, [100 Stat. 293][/us/stat/100/293]; [Pub. L. 99–514, title XVII, § 1711(a)][/us/pl/99/514/s1711/a], (b), (c)(3)–(5), Oct. 22, 1986, [100 Stat. 2783][/us/stat/100/2783], 2784; [Pub. L. 99–603, title II, § 201(b)(2)(B)][/us/pl/99/603/s201/b/2/B], Nov. 6, 1986, [100 Stat. 3403][/us/stat/100/3403]; [Pub. L. 100–203, title IX][/us/pl/100/203], §§ 9133(b)(3), (4), 9139(b), Dec. 22, 1987, [101 Stat. 1330–314][/us/stat/101/1330-314], 1330–321; [Pub. L. 103–432, title II][/us/pl/103/432], §§ 265(b), 266(a), Oct. 31, 1994, [108 Stat. 4469][/us/stat/108/4469]; [Pub. L. 104–193, title I, § 108(d)(5)][/us/pl/104/193/s108/d/5], (6), Aug. 22, 1996, [110 Stat. 2167][/us/stat/110/2167]; [Pub. L. 105–33, title V, § 5513(b)(3)][/us/pl/105/33/s5513/b/3], (4), Aug. 5, 1997, [111 Stat. 620][/us/stat/111/620]; [Pub. L. 105–89, title III, § 307(a)][/us/pl/105/89/s307/a], Nov. 19, 1997, [111 Stat. 2133][/us/stat/111/2133]; [Pub. L. 109–171, title VII, § 7404(b)][/us/pl/109/171/s7404/b], Feb. 8, 2006, [120 Stat. 153][/us/stat/120/153]; [Pub. L. 110–351, title I, § 101(b)][/us/pl/110/351/s101/b], (c)(1), (5), (f), title II, § 201(c), title IV, § 402, Oct. 7, 2008, [122 Stat. 3950][/us/stat/122/3950], 3951, 3953, 3958, 3975; [Pub. L. 111–148, title VI, § 6703(d)(2)(B)][/us/pl/111/148/s6703/d/2/B], Mar. 23, 2010, [124 Stat. 803][/us/stat/124/803]; [Pub. L. 112–34, title I, § 106(c)][/us/pl/112/34/s106/c], Sept. 30, 2011, [125 Stat. 377][/us/stat/125/377]; [Pub. L. 113–183, title II][/us/pl/113/183], §§ 206, 207, Sept. 29, 2014, [128 Stat. 1939][/us/stat/128/1939], 1940.)
 
  __References in Text__ 
 
@@ -434,6 +458,10 @@
     Division A of subchapter XX, referred to in subsec. (b)(2), was in the original a reference to subtitle 1 of title XX, which was translated as if referring to subtitle A of title XX of the Social Security Act, to reflect the probable intent of Congress. Title XX of the Act, enacting subchapter XX of this chapter, does not contain a subtitle 1.
 
  __Amendments__ 
+
+    2014—Subsec. (a)(8). [Pub. L. 113–183, § 206][/us/pl/113/183/s206], amended par. (8) generally. Prior to amendment, par. (8) read as follows: “A State shall spend an amount equal to the amount of savings (if any) in State expenditures under this part resulting from the application of paragraph (2)(A)(ii) to all applicable children for a fiscal year to provide to children or families any service (including post-adoption services) that may be provided under this part or part B, and shall document how such amounts are spent, including on post-adoption services.”
+
+    Subsec. (d)(3)(C). [Pub. L. 113–183, § 207][/us/pl/113/183/s207], added subpar. (C).
 
     2011—Subsec. (a)(8). [Pub. L. 112–34][/us/pl/112/34] inserted “, and shall document how such amounts are spent, including on post-adoption services” before the period.
 
@@ -515,6 +543,10 @@
 
     1980—Subsec. (a)(1). [Pub. L. 96–272, § 102(a)(3)][/us/pl/96/272/s102/a/3], inserted references to voluntary placement agreements in subpars. (A)(i) and (B)(i), (ii).
 
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [section 206 of Pub. L. 113–183][/us/pl/113/183/s206] effective Oct. 1, 2014, see [section 210(d) of Pub. L. 113–183][/us/pl/113/183/s210/d], set out as a note under [section 671 of this title][/us/usc/t42/s671].
+
  __Effective Date of 2011 Amendment__ 
 
     Amendment by [Pub. L. 112–34][/us/pl/112/34] effective Oct. 1, 2011, and applicable to payments under this part and part B of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see [section 107 of Pub. L. 112–34][/us/pl/112/34/s107], set out as a note under [section 622 of this title][/us/usc/t42/s622].
@@ -591,6 +623,7 @@
 [/us/usc/t42/s674/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs674%2Fa%2F5
 [/us/usc/t42/s672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs672
 [/us/usc/t42/s671/a/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs671%2Fa%2F31
+[/us/usc/t42/s671/a/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs671%2Fa%2F28
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/pl/96/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272
 [/us/stat/94/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F504
@@ -618,9 +651,13 @@
 [/us/stat/124/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F803
 [/us/pl/112/34/s106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs106%2Fc
 [/us/stat/125/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F377
+[/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
+[/us/stat/128/1939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1939
 [/us/pl/105/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89
 [/us/stat/111/2115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2115
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
+[/us/pl/113/183/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs206
+[/us/pl/113/183/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs207
 [/us/pl/112/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/110/351/s101/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351%2Fs101%2Fc%2F5
@@ -671,6 +708,9 @@
 [/us/pl/99/514/s1711/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1711%2Fc%2F5
 [/us/pl/99/272/s12305/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs12305%2Fb%2F1
 [/us/pl/96/272/s102/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272%2Fs102%2Fa%2F3
+[/us/pl/113/183/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs206
+[/us/pl/113/183/s210/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs210%2Fd
+[/us/usc/t42/s671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs671
 [/us/pl/112/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34
 [/us/pl/112/34/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs107
 [/us/usc/t42/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs622

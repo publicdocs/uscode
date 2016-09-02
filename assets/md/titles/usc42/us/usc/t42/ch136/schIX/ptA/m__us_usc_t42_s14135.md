@@ -81,9 +81,9 @@
 
             (A) For fiscal year 2009, not less than 40 percent of the grant amounts shall be awarded for purposes under subsection (a)(2) of this section.
 
-            (B) For each of the fiscal years 2010 through 2018, not less than 40 percent of the grant amounts shall be awarded for purposes under subsection (a)(2).
+            (B) For each of the fiscal years 2014 through 2019, not less than 40 percent of the grant amounts shall be awarded for purposes under subsection (a)(2).
 
-            (C) For each of fiscal years 2014 through 2018, not less than 75 percent of the total grant amounts shall be awarded for a combination of purposes under paragraphs (1), (2), and (3) of subsection (a).
+            (C) For each of fiscal years 2014 through 2019, not less than 75 percent of the total grant amounts shall be awarded for a combination of purposes under paragraphs (1), (2), and (3) of subsection (a).
 
         (4) __Allocation of grant awards for audits__ 
 
@@ -163,7 +163,7 @@
 
     (j) __Authorization of appropriations__ 
 
-        There are authorized to be appropriated to the Attorney General for grants under subsection (a) $151,000,000 for each of fiscal years 2009 through 2014.
+        There are authorized to be appropriated to the Attorney General for grants under subsection (a) $151,000,000 for each of fiscal years 2015 through 2019.
 
     (k) __Use of funds for accreditation and audits__ 
 
@@ -373,7 +373,7 @@
 
             In this subsection, the terms “awaiting testing” and “possession” have the meanings given those terms in subsection (n).
 
-([Pub. L. 106–546, § 2][/us/pl/106/546/s2], Dec. 19, 2000, [114 Stat. 2726][/us/stat/114/2726]; [Pub. L. 108–405, title II][/us/pl/108/405], §§ 202, 206, Oct. 30, 2004, [118 Stat. 2266][/us/stat/118/2266], 2272; [Pub. L. 109–162, title X, § 1003][/us/pl/109/162/s1003], Jan. 5, 2006, [119 Stat. 3085][/us/stat/119/3085]; [Pub. L. 110–360, § 2][/us/pl/110/360/s2], Oct. 8, 2008, [122 Stat. 4008][/us/stat/122/4008]; [Pub. L. 112–253, § 6][/us/pl/112/253/s6], Jan. 10, 2013, [126 Stat. 2409][/us/stat/126/2409]; [Pub. L. 113–4, title X][/us/pl/113/4], §§ 1002, 1004, 1006, Mar. 7, 2013, [127 Stat. 127][/us/stat/127/127], 131, 134.)
+([Pub. L. 106–546, § 2][/us/pl/106/546/s2], Dec. 19, 2000, [114 Stat. 2726][/us/stat/114/2726]; [Pub. L. 108–405, title II][/us/pl/108/405], §§ 202, 206, Oct. 30, 2004, [118 Stat. 2266][/us/stat/118/2266], 2272; [Pub. L. 109–162, title X, § 1003][/us/pl/109/162/s1003], Jan. 5, 2006, [119 Stat. 3085][/us/stat/119/3085]; [Pub. L. 110–360, § 2][/us/pl/110/360/s2], Oct. 8, 2008, [122 Stat. 4008][/us/stat/122/4008]; [Pub. L. 112–253, § 6][/us/pl/112/253/s6], Jan. 10, 2013, [126 Stat. 2409][/us/stat/126/2409]; [Pub. L. 113–4, title X][/us/pl/113/4], §§ 1002, 1004, 1006, Mar. 7, 2013, [127 Stat. 127][/us/stat/127/127], 131, 134; [Pub. L. 113–182, § 2][/us/pl/113/182/s2], Sept. 29, 2014, [128 Stat. 1918][/us/stat/128/1918].)
 
  __Amendment of Section__ 
 
@@ -391,6 +391,12 @@
 
  __Amendments__ 
 
+    2014—Subsec. (c)(3)(B). [Pub. L. 113–182, § 2(1)(A)][/us/pl/113/182/s2/1/A], substituted “2014 through 2019” for “2010 through 2018”.
+
+    Subsec. (c)(3)(C). [Pub. L. 113–182, § 2(1)(B)][/us/pl/113/182/s2/1/B], substituted “2019” for “2018”.
+
+    Subsec. (j). [Pub. L. 113–182, § 2(2)][/us/pl/113/182/s2/2], substituted “2015 through 2019” for “2009 through 2014”.
+
     2013—Subsec. (a)(6). [Pub. L. 113–4, § 1006][/us/pl/113/4/s1006], struck out par. (6) which read as follows: “To implement a DNA arrestee collection process consistent with sections 14137 to 14137c of this title.” See Termination Date of 2013 Amendment note below.
 
     [Pub. L. 112–253][/us/pl/112/253] added par. (6).
@@ -405,9 +411,9 @@
 
     Subsec. (n).[Pub. L. 113–4, § 1006][/us/pl/113/4/s1006], struck out subsec. (n) which related to use of funds for auditing sexual assault evidence backlogs. See Termination Date of 2013 Amendment note below.
 
-    [Pub. L. 113–4, § 1002(3)][/us/pl/113/4/s1002/3], added subsecs. (n).
+    [Pub. L. 113–4, § 1002(3)][/us/pl/113/4/s1002/3], added subsec. (n).
 
-    (o). [Pub. L. 113–4, § 1002(3)][/us/pl/113/4/s1002/3], added subsec. (o).
+    Subsec. (o). [Pub. L. 113–4, § 1002(3)][/us/pl/113/4/s1002/3], added subsec. (o).
 
     2008—Subsec. (c)(3). [Pub. L. 110–360, § 2(1)(B)][/us/pl/110/360/s2/1/B], which directed redesignation of subpar. (E) and subpar. (A), was executed by redesignating subpar. (E) as (A), to reflect the probable intent of Congress.
 
@@ -549,7 +555,7 @@
 
 >         “(B)  __Prohibition__  __.—__ 
 
->         The Attorney General shall not award a grant under any grant program described in this title to a nonprofit organization that holds money in offshore accounts for the purpose of avoiding paying the tax described in section 511(a) of the Internal Revenue Code of 1986.
+>         The Attorney General shall not award a grant under any grant program described in this title to a nonprofit organization that holds money in offshore accounts for the purpose of avoiding paying the tax described in section 511(a) of the Internal Revenue Code of 1986 \[[26 U.S.C. 511(a)][/us/usc/t26/s511/a]\].
 
 >         “(C)  __Disclosure__  __.—__ 
 
@@ -663,6 +669,8 @@
 [/us/stat/126/2409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2409
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/stat/127/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F127
+[/us/pl/113/182/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F182%2Fs2
+[/us/stat/128/1918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1918
 [/us/pl/113/4/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1006
 [/us/pl/112/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F253
 [/us/stat/126/2407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2407
@@ -671,6 +679,9 @@
 [/us/pl/106/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546
 [/us/stat/114/2726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2726
 [/us/usc/t42/s13701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13701
+[/us/pl/113/182/s2/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F182%2Fs2%2F1%2FA
+[/us/pl/113/182/s2/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F182%2Fs2%2F1%2FB
+[/us/pl/113/182/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F182%2Fs2%2F2
 [/us/pl/113/4/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1006
 [/us/pl/112/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F253
 [/us/pl/113/4/s1002/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1002%2F1
@@ -723,6 +734,7 @@
 [/us/usc/t42/s13701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13701
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
+[/us/usc/t26/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs511%2Fa
 [/us/pl/106/561/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F561%2Fs4
 [/us/stat/114/2791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2791
 [/us/pl/106/546/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F546%2Fs11

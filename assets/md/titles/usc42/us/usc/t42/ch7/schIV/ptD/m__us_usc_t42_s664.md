@@ -21,7 +21,7 @@
 
         (2)
 
-            (A) Upon receiving notice from a State agency administering a plan approved under this part that a named individual owes past-due support which such State has agreed to collect under [section 654(4)(A)(ii) of this title][/us/usc/t42/s654/4/A/ii], and that the State agency has sent notice to such individual in accordance with paragraph (3)(A), the Secretary of the Treasury shall determine whether any amounts, as refunds of Federal taxes paid, are payable to such individual (regardless of whether such individual filed a tax return as a married or unmarried individual). If the Secretary of the Treasury finds that any such amount is payable, he shall withhold from such refunds an amount equal to such past-due support, and shall concurrently send notice to such individual that the withholding has been made, including in or with such notice a notification to any other person who may have filed a joint return with such individual of the steps which such other person may take in order to secure his or her proper share of the refund. The Secretary of the Treasury shall pay the amount withheld to the State agency, and the State shall pay to the Secretary of the Treasury any fee imposed by the Secretary of the Treasury to cover the costs of the withholding and any required notification. The State agency shall, subject to paragraph (3)(B), distribute such amount to or on behalf of the child to whom the support was owed in accordance with [section 657 of this title][/us/usc/t42/s657]. This subsection may be executed by the Secretary of the Department of the Treasury or his designee.
+            (A) Upon receiving notice from a State agency administering a plan approved under this part that a named individual owes past-due support which such State has agreed to collect under paragraph (4)(A)(ii) or (32) of [section 654 of this title][/us/usc/t42/s654], and that the State agency has sent notice to such individual in accordance with paragraph (3)(A), the Secretary of the Treasury shall determine whether any amounts, as refunds of Federal taxes paid, are payable to such individual (regardless of whether such individual filed a tax return as a married or unmarried individual). If the Secretary of the Treasury finds that any such amount is payable, he shall withhold from such refunds an amount equal to such past-due support, and shall concurrently send notice to such individual that the withholding has been made, including in or with such notice a notification to any other person who may have filed a joint return with such individual of the steps which such other person may take in order to secure his or her proper share of the refund. The Secretary of the Treasury shall pay the amount withheld to the State agency, and the State shall pay to the Secretary of the Treasury any fee imposed by the Secretary of the Treasury to cover the costs of the withholding and any required notification. The State agency shall, subject to paragraph (3)(B), distribute such amount to or on behalf of the child to whom the support was owed in accordance with [section 657 of this title][/us/usc/t42/s657]. This subsection may be executed by the Secretary of the Department of the Treasury or his designee.
 
             (B) This paragraph shall apply only with respect to refunds payable under section 6402 of the Internal Revenue Code of 1986 after December 31, 1985.
 
@@ -51,13 +51,15 @@
 
         In this part the term “past-due support” means the amount of a delinquency, determined under a court order, or an order of an administrative process established under State law, for support and maintenance of a child (whether or not a minor), or of a child (whether or not a minor) and the parent with whom the child is living.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 464, as added [Pub. L. 97–35, title XXIII, § 2331(a)][/us/pl/97/35/s2331/a], Aug. 13, 1981, [95 Stat. 860][/us/stat/95/860]; amended [Pub. L. 98–378][/us/pl/98/378], §§ 11(d), 21(a)–(c), Aug. 16, 1984, [98 Stat. 1318][/us/stat/98/1318], 1322–1324; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], title XVIII, § 1883(b)(8), Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], 2917; [Pub. L. 101–508, title V, § 5011(a)][/us/pl/101/508/s5011/a], (b), Nov. 5, 1990, [104 Stat. 1388–220][/us/stat/104/1388-220]; [Pub. L. 104–134, title III, § 31001(v)(2)][/us/pl/104/134/s31001/v/2], Apr. 26, 1996, [110 Stat. 1321–375][/us/stat/110/1321-375]; [Pub. L. 104–193, title III, § 302(b)(1)][/us/pl/104/193/s302/b/1], Aug. 22, 1996, [110 Stat. 2204][/us/stat/110/2204]; [Pub. L. 105–33, title V][/us/pl/105/33], §§ 5513(a)(4), 5531(b), 5532(i)(1), Aug. 5, 1997, [111 Stat. 620][/us/stat/111/620], 626, 627; [Pub. L. 109–171, title VII, § 7301(f)(1)][/us/pl/109/171/s7301/f/1], Feb. 8, 2006, [120 Stat. 144][/us/stat/120/144].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 464, as added [Pub. L. 97–35, title XXIII, § 2331(a)][/us/pl/97/35/s2331/a], Aug. 13, 1981, [95 Stat. 860][/us/stat/95/860]; amended [Pub. L. 98–378][/us/pl/98/378], §§ 11(d), 21(a)–(c), Aug. 16, 1984, [98 Stat. 1318][/us/stat/98/1318], 1322–1324; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], title XVIII, § 1883(b)(8), Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], 2917; [Pub. L. 101–508, title V, § 5011(a)][/us/pl/101/508/s5011/a], (b), Nov. 5, 1990, [104 Stat. 1388–220][/us/stat/104/1388-220]; [Pub. L. 104–134, title III, § 31001(v)(2)][/us/pl/104/134/s31001/v/2], Apr. 26, 1996, [110 Stat. 1321–375][/us/stat/110/1321-375]; [Pub. L. 104–193, title III, § 302(b)(1)][/us/pl/104/193/s302/b/1], Aug. 22, 1996, [110 Stat. 2204][/us/stat/110/2204]; [Pub. L. 105–33, title V][/us/pl/105/33], §§ 5513(a)(4), 5531(b), 5532(i)(1), Aug. 5, 1997, [111 Stat. 620][/us/stat/111/620], 626, 627; [Pub. L. 109–171, title VII, § 7301(f)(1)][/us/pl/109/171/s7301/f/1], Feb. 8, 2006, [120 Stat. 144][/us/stat/120/144]; [Pub. L. 113–183, title III, § 301(e)][/us/pl/113/183/s301/e], Sept. 29, 2014, [128 Stat. 1944][/us/stat/128/1944].)
 
  __References in Text__ 
 
     The Internal Revenue Code of 1986, referred to in subsec. (a)(2)(B), is classified generally to Title 26, Internal Revenue Code.
 
  __Amendments__ 
+
+    2014—Subsec. (a)(2)(A). [Pub. L. 113–183][/us/pl/113/183] substituted “under paragraph (4)(A)(ii) or (32) of section 654” for “under section 654(4)(A)(ii)”.
 
     2006—Subsec. (a)(2)(A). [Pub. L. 109–171, § 7301(f)(1)(A)][/us/pl/109/171/s7301/f/1/A], struck out “(as that term is defined for purposes of this paragraph under subsection (c) of this section)” after “owes past-due support”.
 
@@ -136,7 +138,7 @@
 
 [/us/usc/t42/s671/a/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs671%2Fa%2F17
 [/us/usc/t42/s657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs657
-[/us/usc/t42/s654/4/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs654%2F4%2FA%2Fii
+[/us/usc/t42/s654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs654
 [/us/usc/t42/s657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs657
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/pl/97/35/s2331/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2331%2Fa
@@ -155,6 +157,9 @@
 [/us/stat/111/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F620
 [/us/pl/109/171/s7301/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs7301%2Ff%2F1
 [/us/stat/120/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F144
+[/us/pl/113/183/s301/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs301%2Fe
+[/us/stat/128/1944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1944
+[/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
 [/us/pl/109/171/s7301/f/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs7301%2Ff%2F1%2FA
 [/us/pl/109/171/s7301/f/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs7301%2Ff%2F1%2FB
 [/us/pl/105/33/s5513/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5513%2Fa%2F4

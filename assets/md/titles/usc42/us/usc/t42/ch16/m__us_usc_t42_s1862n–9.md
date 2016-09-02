@@ -43,7 +43,7 @@
 
     (d) __Selection process__ 
 
-        Initial selections under subsection (c) of this section shall be made within 3 months after December 19, 2002. Vacancies shall be filled in the same manner as provided in subsection (c) of this section.
+        Initial selections under subsection (c) shall be made within 3 months after December 19, 2002. Vacancies shall be filled in the same manner as provided in subsection (c).
 
     (e) __Chairperson__ 
 

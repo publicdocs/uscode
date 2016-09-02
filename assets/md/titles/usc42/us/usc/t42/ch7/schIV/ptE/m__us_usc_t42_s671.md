@@ -39,9 +39,23 @@
 
          provides that the State agency will—
 
-            (A) report to an appropriate agency or official, known or suspected instances of physical or mental injury, sexual abuse or exploitation, or negligent treatment or maltreatment of a child receiving aid under part B of this subchapter or this part under circumstances which indicate that the child’s health or welfare is threatened thereby; and
+            (A) report to an appropriate agency or official, known or suspected instances of physical or mental injury, sexual abuse or exploitation, or negligent treatment or maltreatment of a child receiving aid under part B of this subchapter or this part under circumstances which indicate that the child’s health or welfare is threatened thereby;
 
-            (B) provide such information with respect to a situation described in subparagraph (A) as the State agency may have;
+            (B) provide such information with respect to a situation described in subparagraph (A) as the State agency may have; and
+
+            (C)
+
+             not later than—
+
+                (i)
+
+                 1 year after September 29, 2014, demonstrate to the Secretary that the State agency has developed, in consultation with State and local law enforcement, juvenile justice systems, health care providers, education agencies, and organizations with experience in dealing with at-risk children and youth, policies and procedures (including relevant training for caseworkers) for identifying, documenting in agency records, and determining appropriate services with respect to—
+
+                    (I) any child or youth over whom the State agency has responsibility for placement, care, or supervision and who the State has reasonable cause to believe is, or is at risk of being, a sex trafficking victim (including children for whom a State child welfare agency has an open case file but who have not been removed from the home, children who have run away from foster care and who have not attained 18 years of age or such older age as the State has elected under [section 675(8) of this title][/us/usc/t42/s675/8], and youth who are not in foster care but are receiving services under [section 677 of this title][/us/usc/t42/s677]); and
+
+                    (II) at the option of the State, any individual who has not attained 26 years of age, without regard to whether the individual is or was in foster care under the responsibility of the State; and
+
+                (ii) 2 years after September 29, 2014, demonstrate to the Secretary that the State agency is implementing the policies and procedures referred to in clause (i).
 
         (10) provides for the establishment or designation of a State authority or authorities which shall be responsible for establishing and maintaining standards for foster family homes and child care institutions which are reasonably in accord with recommended standards of national organizations concerned with standards for such institutions or homes, including standards related to admission policies, safety, sanitation, and protection of civil rights, provides that the standards so established shall be applied by the State to any foster family home or child care institution receiving funds under this part or part B of this subchapter, and provides that a waiver of any such standard may be made only on a case-by-case basis for non-safety standards (as determined by the State) in relative foster family homes for specific children in care;
 
@@ -189,7 +203,7 @@
 
         (29)
 
-         provides that, within 30 days after the removal of a child from the custody of the parent or parents of the child, the State shall exercise due diligence to identify and provide notice to all adult grandparents and other adult relatives of the child (including any other adult relatives suggested by the parents), subject to exceptions due to family or domestic violence, that—
+         provides that, within 30 days after the removal of a child from the custody of the parent or parents of the child, the State shall exercise due diligence to identify and provide notice to the following relatives: all adult grandparents, all parents of a sibling of the child, where such parent has legal custody of such sibling, and other adult relatives of the child (including any other adult relatives suggested by the parents), subject to exceptions due to family or domestic violence, that—
 
             (A) specifies that the child has been or is being removed from the custody of the parent or parents of the child;
 
@@ -219,9 +233,35 @@
 
             (B) in the case of siblings removed from their home who are not so jointly placed, to provide for frequent visitation or other ongoing interaction between the siblings, unless that State documents that frequent visitation or other ongoing interaction would be contrary to the safety or well-being of any of the siblings;
 
-        (32) provides that the State will negotiate in good faith with any Indian tribe, tribal organization or tribal consortium in the State that requests to develop an agreement with the State to administer all or part of the program under this part on behalf of Indian children who are under the authority of the tribe, organization, or consortium, including foster care maintenance payments on behalf of children who are placed in State or tribally licensed foster family homes, adoption assistance payments, and, if the State has elected to provide such payments, kinship guardianship assistance payments under [section 673(d) of this title][/us/usc/t42/s673/d], and tribal access to resources for administration, training, and data collection under this part; and
+        (32) provides that the State will negotiate in good faith with any Indian tribe, tribal organization or tribal consortium in the State that requests to develop an agreement with the State to administer all or part of the program under this part on behalf of Indian children who are under the authority of the tribe, organization, or consortium, including foster care maintenance payments on behalf of children who are placed in State or tribally licensed foster family homes, adoption assistance payments, and, if the State has elected to provide such payments, kinship guardianship assistance payments under [section 673(d) of this title][/us/usc/t42/s673/d], and tribal access to resources for administration, training, and data collection under this part;
 
-        (33) provides that the State will inform any individual who is adopting, or whom the State is made aware is considering adopting, a child who is in foster care under the responsibility of the State of the potential eligibility of the individual for a Federal tax credit under section 23 of the Internal Revenue Code of 1986.
+        (33) provides that the State will inform any individual who is adopting, or whom the State is made aware is considering adopting, a child who is in foster care under the responsibility of the State of the potential eligibility of the individual for a Federal tax credit under section 23 of the Internal Revenue Code of 1986;
+
+        (34)
+
+         provides that, for each child or youth described in paragraph (9)(C)(i)(I), the State agency shall—
+
+            (A) not later than 2 years after September 29, 2014, report immediately, and in no case later than 24 hours after receiving information on children or youth who have been identified as being a sex trafficking victim, to the law enforcement authorities; and
+
+            (B) not later than 3 years after September 29, 2014, and annually thereafter, report to the Secretary the total number of children and youth who are sex trafficking victims; and
+
+        (35)
+
+         provides that—
+
+            (A)
+
+             not later than 1 year after September 29, 2014, the State shall develop and implement specific protocols for—
+
+                (i) expeditiously locating any child missing from foster care;
+
+                (ii) determining the primary factors that contributed to the child’s running away or otherwise being absent from care, and to the extent possible and appropriate, responding to those factors in current and subsequent placements;
+
+                (iii) determining the child’s experiences while absent from care, including screening the child to determine if the child is a possible sex trafficking victim (as defined in [section 675(9)(A) of this title][/us/usc/t42/s675/9/A]); and
+
+                (iv) reporting such related information as required by the Secretary; and
+
+            (B) not later than 2 years after September 29, 2014, for each child and youth described in paragraph (9)(C)(i)(I) of this subsection, the State agency shall report immediately, and in no case later than 24 hours after receiving, information on missing or abducted children or youth to the law enforcement authorities for entry into the National Crime Information Center (NCIC) database of the Federal Bureau of Investigation, established pursuant to [section 534 of title 28][/us/usc/t28/s534], and to the National Center for Missing and Exploited Children.
 
     (b) __Approval of plan by Secretary__ 
 
@@ -231,7 +271,43 @@
 
         Subsection (a)(8) shall not be construed to limit the flexibility of a State in determining State policies relating to public access to court proceedings to determine child abuse and neglect or other court hearings held pursuant to part B or this part, except that such policies shall, at a minimum, ensure the safety and well-being of the child, parents, and family.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 471, as added [Pub. L. 96–272, title I, § 101(a)(1)][/us/pl/96/272/s101/a/1], June 17, 1980, [94 Stat. 501][/us/stat/94/501]; amended [Pub. L. 97–35, title XXIII, § 2353(r)][/us/pl/97/35/s2353/r], Aug. 13, 1981, [95 Stat. 874][/us/stat/95/874]; [Pub. L. 97–248, title I, § 160(d)][/us/pl/97/248/s160/d], Sept. 3, 1982, [96 Stat. 400][/us/stat/96/400]; [Pub. L. 98–378, § 11(c)][/us/pl/98/378/s11/c], Aug. 16, 1984, [98 Stat. 1318][/us/stat/98/1318]; [Pub. L. 99–514, title XVII, § 1711(c)(2)][/us/pl/99/514/s1711/c/2], Oct. 22, 1986, [100 Stat. 2784][/us/stat/100/2784]; [Pub. L. 100–485, title II, § 202(c)(1)][/us/pl/100/485/s202/c/1], Oct. 13, 1988, [102 Stat. 2378][/us/stat/102/2378]; [Pub. L. 101–508, title V, § 5054(b)][/us/pl/101/508/s5054/b], Nov. 5, 1990, [104 Stat. 1388–229][/us/stat/104/1388-229]; [Pub. L. 103–66, title XIII, § 13711(b)(4)][/us/pl/103/66/s13711/b/4], Aug. 10, 1993, [107 Stat. 655][/us/stat/107/655]; [Pub. L. 103–432, title II, § 203(b)][/us/pl/103/432/s203/b], Oct. 31, 1994, [108 Stat. 4456][/us/stat/108/4456]; [Pub. L. 104–188, title I, § 1808(a)][/us/pl/104/188/s1808/a], Aug. 20, 1996, [110 Stat. 1903][/us/stat/110/1903]; [Pub. L. 104–193, title I, § 108(d)(2)][/us/pl/104/193/s108/d/2], title V, § 505, Aug. 22, 1996, [110 Stat. 2166][/us/stat/110/2166], 2278; [Pub. L. 105–33, title V, § 5591(b)][/us/pl/105/33/s5591/b], Aug. 5, 1997, [111 Stat. 643][/us/stat/111/643]; [Pub. L. 105–89, title I][/us/pl/105/89], §§ 101(a), 106, title III, §§ 306, 308, Nov. 19, 1997, [111 Stat. 2116][/us/stat/111/2116], 2120, 2132, 2133; [Pub. L. 105–200, title III, § 301(a)][/us/pl/105/200/s301/a], July 16, 1998, [112 Stat. 658][/us/stat/112/658]; [Pub. L. 106–169, title I, § 112(a)][/us/pl/106/169/s112/a], title IV, § 401(o), Dec. 14, 1999, [113 Stat. 1829][/us/stat/113/1829], 1859; [Pub. L. 109–171, title VII, § 7401(c)][/us/pl/109/171/s7401/c], Feb. 8, 2006, [120 Stat. 150][/us/stat/120/150]; [Pub. L. 109–239][/us/pl/109/239], §§ 3, 4(a)(1), 10, July 3, 2006, [120 Stat. 508][/us/stat/120/508], 513; [Pub. L. 109–248, title I, § 152(a)][/us/pl/109/248/s152/a], (b), July 27, 2006, [120 Stat. 608][/us/stat/120/608], 609; [Pub. L. 109–432, div. B, title IV, § 405(c)(1)(B)(i)][/us/pl/109/432/s405/c/1/B/i], Dec. 20, 2006, [120 Stat. 2999][/us/stat/120/2999]; [Pub. L. 110–351, title I][/us/pl/110/351], §§ 101(a), (c)(2)(A), (B)(i), 103, 104(a), title II, §§ 204(b), 206, title III, § 301(c)(1)(A), title IV, § 403, Oct. 7, 2008, [122 Stat. 3950–3952][/us/stat/122/3950-3952], 3956, 3957, 3960, 3962, 3969, 3979; [Pub. L. 111–148, title VI, § 6703(d)(2)(B)][/us/pl/111/148/s6703/d/2/B], Mar. 23, 2010, [124 Stat. 803][/us/stat/124/803].)
+    (d) __Annual reports by the Secretary on number of children and youth reported by States to be sex trafficking victims__ 
+
+        Not later than 4 years after September 29, 2014, and annually thereafter, the Secretary shall report to the Congress and make available to the public on the Internet website of the Department of Health and Human Services the number of children and youth reported in accordance with subsection (a)(34)(B) of this section to be sex trafficking victims (as defined in [section 675(9)(A) of this title][/us/usc/t42/s675/9/A]).
+
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 471, as added [Pub. L. 96–272, title I, § 101(a)(1)][/us/pl/96/272/s101/a/1], June 17, 1980, [94 Stat. 501][/us/stat/94/501]; amended [Pub. L. 97–35, title XXIII, § 2353(r)][/us/pl/97/35/s2353/r], Aug. 13, 1981, [95 Stat. 874][/us/stat/95/874]; [Pub. L. 97–248, title I, § 160(d)][/us/pl/97/248/s160/d], Sept. 3, 1982, [96 Stat. 400][/us/stat/96/400]; [Pub. L. 98–378, § 11(c)][/us/pl/98/378/s11/c], Aug. 16, 1984, [98 Stat. 1318][/us/stat/98/1318]; [Pub. L. 99–514, title XVII, § 1711(c)(2)][/us/pl/99/514/s1711/c/2], Oct. 22, 1986, [100 Stat. 2784][/us/stat/100/2784]; [Pub. L. 100–485, title II, § 202(c)(1)][/us/pl/100/485/s202/c/1], Oct. 13, 1988, [102 Stat. 2378][/us/stat/102/2378]; [Pub. L. 101–508, title V, § 5054(b)][/us/pl/101/508/s5054/b], Nov. 5, 1990, [104 Stat. 1388–229][/us/stat/104/1388-229]; [Pub. L. 103–66, title XIII, § 13711(b)(4)][/us/pl/103/66/s13711/b/4], Aug. 10, 1993, [107 Stat. 655][/us/stat/107/655]; [Pub. L. 103–432, title II, § 203(b)][/us/pl/103/432/s203/b], Oct. 31, 1994, [108 Stat. 4456][/us/stat/108/4456]; [Pub. L. 104–188, title I, § 1808(a)][/us/pl/104/188/s1808/a], Aug. 20, 1996, [110 Stat. 1903][/us/stat/110/1903]; [Pub. L. 104–193, title I, § 108(d)(2)][/us/pl/104/193/s108/d/2], title V, § 505, Aug. 22, 1996, [110 Stat. 2166][/us/stat/110/2166], 2278; [Pub. L. 105–33, title V, § 5591(b)][/us/pl/105/33/s5591/b], Aug. 5, 1997, [111 Stat. 643][/us/stat/111/643]; [Pub. L. 105–89, title I][/us/pl/105/89], §§ 101(a), 106, title III, §§ 306, 308, Nov. 19, 1997, [111 Stat. 2116][/us/stat/111/2116], 2120, 2132, 2133; [Pub. L. 105–200, title III, § 301(a)][/us/pl/105/200/s301/a], July 16, 1998, [112 Stat. 658][/us/stat/112/658]; [Pub. L. 106–169, title I, § 112(a)][/us/pl/106/169/s112/a], title IV, § 401(o), Dec. 14, 1999, [113 Stat. 1829][/us/stat/113/1829], 1859; [Pub. L. 109–171, title VII, § 7401(c)][/us/pl/109/171/s7401/c], Feb. 8, 2006, [120 Stat. 150][/us/stat/120/150]; [Pub. L. 109–239][/us/pl/109/239], §§ 3, 4(a)(1), 10, July 3, 2006, [120 Stat. 508][/us/stat/120/508], 513; [Pub. L. 109–248, title I, § 152(a)][/us/pl/109/248/s152/a], (b), July 27, 2006, [120 Stat. 608][/us/stat/120/608], 609; [Pub. L. 109–432, div. B, title IV, § 405(c)(1)(B)(i)][/us/pl/109/432/s405/c/1/B/i], Dec. 20, 2006, [120 Stat. 2999][/us/stat/120/2999]; [Pub. L. 110–351, title I][/us/pl/110/351], §§ 101(a), (c)(2)(A), (B)(i), 103, 104(a), title II, §§ 204(b), 206, title III, § 301(c)(1)(A), title IV, § 403, Oct. 7, 2008, [122 Stat. 3950–3952][/us/stat/122/3950-3952], 3956, 3957, 3960, 3962, 3969, 3979; [Pub. L. 111–148, title VI, § 6703(d)(2)(B)][/us/pl/111/148/s6703/d/2/B], Mar. 23, 2010, [124 Stat. 803][/us/stat/124/803]; [Pub. L. 113–183, title I][/us/pl/113/183], §§ 101(a), 102, 104, 111(a)(2), (b), 112(b)(2)(A)(ii), title II, § 209(a)(1), Sept. 29, 2014, [128 Stat. 1920][/us/stat/128/1920]—1922, 1924, 1927, 1941.)
+
+ __Amendment of Subsection (a)__ 
+
+    [Pub. L. 113–183, title I][/us/pl/113/183], §§ 111(a)(2), (b), (d), 112(b)(2)(A)(ii), (c), Sept. 29, 2014, [128 Stat. 1924][/us/stat/128/1924], 1925, 1927, 1928, provided that, effective on the date that is 1 year after Sept. 29, 2014, with delay permitted if State legislation is required, subsection (a) of this section is amended as follows:
+
+    (1) in paragraph (10), by amending text to read as follows:
+
+    “(10) provides—
+
+    “(A) for the establishment or designation of a State authority or authorities that shall be responsible for establishing and maintaining standards for foster family homes and child care institutions which are reasonably in accord with recommended standards of national organizations concerned with standards for the institutions or homes, including standards related to admission policies, safety, sanitation, and protection of civil rights, and which shall permit use of the reasonable and prudent parenting standard;
+
+    “(B) that the standards established pursuant to subparagraph (A) shall be applied by the State to any foster family home or child care institution receiving funds under this part or part B and shall require, as a condition of each contract entered into by a child care institution to provide foster care, the presence on-site of at least 1 official who, with respect to any child placed at the child care institution, is designated to be the caregiver who is authorized to apply the reasonable and prudent parent standard to decisions involving the participation of the child in age or developmentally-appropriate activities, and who is provided with training in how to use and apply the reasonable and prudent parent standard in the same manner as prospective foster parents are provided the training pursuant to paragraph (24);
+
+    “(C) that the standards established pursuant to subparagraph (A) shall include policies related to the liability of foster parents and private entities under contract by the State involving the application of the reasonable and prudent parent standard, to ensure appropriate liability for caregivers when a child participates in an approved activity and the caregiver approving the activity acts in accordance with the reasonable and prudent parent standard; and
+
+    “(D) that a waiver of any standards established pursuant to subparagraph (A) may be made only on a case-by-case basis for nonsafety standards (as determined by the State) in relative foster family homes for specific children in care;”;
+
+    (2) in paragraph (16)—
+
+    (A) by inserting “and in accordance with the requirements of [section 675a of this title][/us/usc/t42/s675a]” after “[section 675(1) of this title][/us/usc/t42/s675/1]”; and
+
+    (B) by striking “[section 675(5)(B) of this title][/us/usc/t42/s675/5/B]” and inserting “sections 675(5) and 675a of this title”; and
+
+    (3) in paragraph (24)—
+
+    (A) by striking “include” and inserting “includes”;
+
+    (B) by striking “and that such preparation” and inserting “that the preparation”; and
+
+    (C) by inserting “, and that the preparation shall include knowledge and skills relating to the reasonable and prudent parent standard for the participation of the child in age or developmentally-appropriate activities, including knowledge and skills relating to the developmental stages of the cognitive, emotional, physical, and behavioral capacities of a child, and knowledge and skills relating to applying the standard to decisions such as whether to allow the child to engage in social, extracurricular, enrichment, cultural, and social activities, including sports, field trips, and overnight activities lasting 1 or more days, and to decisions involving the signing of permission slips and arranging of transportation for the child to and from extracurricular, enrichment, and social activities” before the semicolon.
+
+    See 2014 Amendment notes below.
 
  __References in Text__ 
 
@@ -246,6 +322,22 @@
     Amendment by [section 101(c)(2)(B)(i) of Pub. L. 110–351][/us/pl/110/351/s101/c/2/B/i] was executed after amendment by [section 101(c)(2)(A)(ii) of Pub. L. 110–351][/us/pl/110/351/s101/c/2/A/ii], notwithstanding [section 101(c)(2)(B)(ii) of Pub. L. 110–351][/us/pl/110/351/s101/c/2/B/ii], set out as an Effective Date of 2008 Amendment note below, to reflect the probable intent of Congress.
 
  __Amendments__ 
+
+    2014—Subsec. (a)(9)(C). [Pub. L. 113–183, § 101(a)][/us/pl/113/183/s101/a], added subpar. (C).
+
+    Subsec. (a)(10). [Pub. L. 113–183, § 111(b)][/us/pl/113/183/s111/b], amended par. (10) generally. Prior to amendment, par. (10) read as follows: “provides for the establishment or designation of a State authority or authorities which shall be responsible for establishing and maintaining standards for foster family homes and child care institutions which are reasonably in accord with recommended standards of national organizations concerned with standards for such institutions or homes, including standards related to admission policies, safety, sanitation, and protection of civil rights, provides that the standards so established shall be applied by the State to any foster family home or child care institution receiving funds under this part or part B of this subchapter, and provides that a waiver of any such standard may be made only on a case-by-case basis for non-safety standards (as determined by the State) in relative foster family homes for specific children in care;”.
+
+    Subsec. (a)(16). [Pub. L. 113–183, § 112(b)(2)(A)(ii)][/us/pl/113/183/s112/b/2/A/ii], inserted “and in accordance with the requirements of [section 675a of this title][/us/usc/t42/s675a]” after “[section 675(1) of this title][/us/usc/t42/s675/1]” and substituted “sections 675(5) and 675a of this title” for “[section 675(5)(B) of this title][/us/usc/t42/s675/5/B]”.
+
+    Subsec. (a)(24). [Pub. L. 113–183, § 111(a)(2)][/us/pl/113/183/s111/a/2], substituted “includes” for “include” and “that the preparation” for “and that such preparation” and inserted before semicolon at end “, and that the preparation shall include knowledge and skills relating to the reasonable and prudent parent standard for the participation of the child in age or developmentally-appropriate activities, including knowledge and skills relating to the developmental stages of the cognitive, emotional, physical, and behavioral capacities of a child, and knowledge and skills relating to applying the standard to decisions such as whether to allow the child to engage in social, extracurricular, enrichment, cultural, and social activities, including sports, field trips, and overnight activities lasting 1 or more days, and to decisions involving the signing of permission slips and arranging of transportation for the child to and from extracurricular, enrichment, and social activities”.
+
+    Subsec. (a)(29). [Pub. L. 113–183, § 209(a)(1)][/us/pl/113/183/s209/a/1], substituted “the following relatives: all adult grandparents, all parents of a sibling of the child, where such parent has legal custody of such sibling,” for “all adult grandparents”.
+
+    Subsec. (a)(34). [Pub. L. 113–183, § 102(a)][/us/pl/113/183/s102/a], added par. (34).
+
+    Subsec. (a)(35). [Pub. L. 113–183, § 104][/us/pl/113/183/s104], added par. (35).
+
+    Subsec. (d). [Pub. L. 113–183, § 102(b)][/us/pl/113/183/s102/b], added subsec. (d).
 
     2010—Subsec. (a)(4). [Pub. L. 111–148][/us/pl/111/148] inserted “division A of” before “subchapter XX”.
 
@@ -348,6 +440,68 @@
     1982—Subsec. (a)(10). [Pub. L. 97–248][/us/pl/97/248] amended [Pub. L. 97–35, § 2353(r)][/us/pl/97/35/s2353/r], generally. See 1981 Amendment note below.
 
     1981—Subsec. (a)(10). [Pub. L. 97–35, § 2353(r)][/us/pl/97/35/s2353/r], as amended by [Pub. L. 97–248, § 160(d)][/us/pl/97/248/s160/d], substituted provisions that in order for a State to be eligible for payments under this part a State plan must provide for establishment or designation of a State authority or authorities responsible for standards for foster family homes and child care institutions, such standards to be reasonably in accord with recommended standards of national organizations concerned with standards for such institutions or homes, including standards related to admission policies, safety, sanitation, and protection of civil rights, for provisions that such State plan provide for the application of standards referred to in [section 1397b(d)(1) of this title][/us/usc/t42/s1397b/d/1].
+
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–183, title I, § 111(d)][/us/pl/113/183/s111/d], Sept. 29, 2014, [128 Stat. 1925][/us/stat/128/1925], provided that:
+
+>     “(1)  __In general__  __.—__ 
+
+>     The amendments made by this section \[amending this section and sections 675 and 677 of this title\] shall take effect on the date that is 1 year after the date of the enactment of this Act \[Sept. 29, 2014\].
+
+>     “(2)  __Delay permitted if state legislation required__  __.—__ 
+
+>     If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds) is required in order for a State plan developed pursuant to part E of title IV of the Social Security Act \[[42 U.S.C. 670][/us/usc/t42/s670] et seq.\] to meet the additional requirements imposed by the amendments made by this section, the plan shall not be regarded as failing to meet any of the additional requirements before the 1st day of the 1st calendar quarter beginning after the 1st regular session of the State legislature that begins after the date of the enactment of this Act \[Sept. 29, 2014\]. If the State has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature.”
+
+    Amendment by [section 112 of Pub. L. 113–183][/us/pl/113/183/s112] effective on the date that is 1 year after Sept. 29, 2014, with delay permitted if State legislation is required, see [section 112(c) of Pub. L. 113–183][/us/pl/113/183/s112/c], set out as a note under [section 622 of this title][/us/usc/t42/s622].
+
+[Pub. L. 113–183, title II, § 210][/us/pl/113/183/s210], Sept. 29, 2014, [128 Stat. 1941][/us/stat/128/1941], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     Except as otherwise provided in this section, the amendments made by this subtitle \[subtitle A (§§ 201–210) of title II of [Pub. L. 113–183][/us/pl/113/183], amending this section and sections 673, 673b, 675, and 679 of this title\] shall take effect as if enacted on October 1, 2013.
+
+>     “(b) __Restructuring and Renaming of Program.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The amendments made by sections 202 and 203 \[amending [section 673b of this title][/us/usc/t42/s673b]\] shall take effect on October 1, 2014, subject to paragraph (2).
+
+>         “(2) __Transition rule.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             Notwithstanding any other provision of law, the total amount payable to a State under section 473A of the Social Security Act \[[42 U.S.C. 673b][/us/usc/t42/s673b]\] for fiscal year 2014 shall be an amount equal to ½ of the sum of—
+
+>                 “(i) the total amount that would be payable to the State under such section for fiscal year 2014 if the amendments made by section 202 of this Act had not taken effect; and
+
+>                 “(ii) the total amount that would be payable to the State under such section for fiscal year 2014 in the absence of this paragraph.
+
+>             “(B)  __Pro rata adjustment if insufficient funds available__  __.—__ 
+
+>             If the total amount otherwise payable under subparagraph (A) for fiscal year 2014 exceeds the amount appropriated pursuant to section 473A(h) of the Social Security Act ([42 U.S.C. 673b(h)][/us/usc/t42/s673b/h]) for that fiscal year, the amount payable to each State under subparagraph (A) for fiscal year 2014 shall be—
+
+>                 “(i) the amount that would otherwise be payable to the State under subparagraph (A) for fiscal year 2014; multiplied by
+
+>                 “(ii) the percentage represented by the amount so appropriated for fiscal year 2014, divided by the total amount otherwise payable under subparagraph (A) to all States for that fiscal year.
+
+>     “(c)  __Use of Incentive Payments; Eligibility for Kinship Guardianship Assistance Payments With a Successor Guardian; Data Collection__  __.—__ 
+
+>     The amendments made by sections 204, 207, and 208 \[amending sections 673, 673b, and 679 of this title\] shall take effect on the date of enactment of this Act \[Sept. 29, 2014\].
+
+>     “(d)  __Calculation and Use of Savings Resulting From the Phase-Out of Eligibility Requirements for Adoption Assistance__  __.—__ 
+
+>     The amendment made by section 206 \[amendng [section 673 of this title][/us/usc/t42/s673]\] shall take effect on October 1, 2014.
+
+>     “(e) __Notification of Parents of Siblings.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The amendments made by section 209 \[amending this section and [section 675 of this title][/us/usc/t42/s675]\] shall take effect on the date of enactment of this Act \[Sept. 29, 2014\], subject to paragraph (2).
+
+>         “(2)  __Delay permitted if state legislation required__  __.—__ 
+
+>         In the case of a State plan approved under part E of title IV of the Social Security Act \[[42 U.S.C. 670][/us/usc/t42/s670] et seq.\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by section 209, the State plan shall not be regarded as failing to comply with the requirements of such part solely on the basis of the failure of the plan to meet such additional requirements before the 1st day of the 1st calendar quarter beginning after the close of the 1st regular session of the State legislature that ends after the 1-year period beginning with the date of enactment of this Act \[Sept. 29, 2014\]. For purposes of the preceding sentence, in the case of a State that has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature.”
 
  __Effective Date of 2008 Amendment__ 
 
@@ -495,6 +649,12 @@
 
 > “Not later than 6 months after the date of the enactment of this Act \[Oct. 13, 1988\], the Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall issue proposed regulations for the purpose of implementing the amendments made by this title \[see Effective Date of 1988 Amendment note above\], including regulations establishing uniform data collection requirements. The Secretary shall publish final regulations for such purpose not later than one year after the date of the enactment of this Act. Regulations issued under this subsection shall be developed by the Secretary in consultation with the Secretary of Labor and with the responsible State agencies described in section 482(a)(2) of the Social Security Act \[former [42 U.S.C. 682(a)(2)][/us/usc/t42/s682/a/2]\].”
 
+ __Construction of 2014 Amendment__ 
+
+[Pub. L. 113–183, title II, § 209(b)][/us/pl/113/183/s209/b], Sept. 29, 2014, [128 Stat. 1941][/us/stat/128/1941], provided that: 
+
+> “Nothing in this section \[amending this section and [section 675 of this title][/us/usc/t42/s675]\] shall be construed as subordinating the rights of foster or adoptive parents of a child to the rights of the parents of a sibling of that child.”
+
  __Construction of 2008 Amendment__ 
 
 [Pub. L. 110–351, title III, § 301(d)][/us/pl/110/351/s301/d], Oct. 7, 2008, [122 Stat. 3970][/us/stat/122/3970], provided that: 
@@ -510,6 +670,12 @@
 >         “(A) as part of the plan approved under section 471 of the Social Security Act ([42 U.S.C. 671][/us/usc/t42/s671]), to provide foster care maintenance payments, adoption assistance payments, and if the State elects, kinship guardianship assistance payments, for Indian children who are eligible for such payments and who are not otherwise being served by an Indian tribe, tribal organization, or tribal consortium pursuant to a program under such section 479B of such Act or a cooperative agreement or contract entered into between an Indian tribe, a tribal organization, or a tribal consortium and a State for the administration or payment of funds under part E of title IV of such Act \[[42 U.S.C. 670][/us/usc/t42/s670] et seq.\]; or
 
 >         “(B) as part of the plan approved under section 477 of such Act ([42 U.S.C. 677][/us/usc/t42/s677]) to administer, supervise, or oversee programs carried out under that plan on behalf of Indian children who are eligible for such programs if such children are not otherwise being served by an Indian tribe, tribal organization, or tribal consortium pursuant to an approved plan under section 477(j) of such Act \[[42 U.S.C. 677(j)][/us/usc/t42/s677/j]\] or a cooperative agreement or contract entered into under section 477(b)(3)(G) of such Act \[[42 U.S.C. 677(b)(3)(G)][/us/usc/t42/s677/b/3/G]\].”
+
+ __Technical Assistance__ 
+
+[Pub. L. 113–183, title I, § 111(a)(3)][/us/pl/113/183/s111/a/3], Sept. 29, 2014, [128 Stat. 1924][/us/stat/128/1924], provided that: 
+
+> “The Secretary of Health and Human Services shall provide assistance to the States on best practices for devising strategies to assist foster parents in applying a reasonable and prudent parent standard in a manner that protects child safety, while also allowing children to experience normal and beneficial activities, including methods for appropriately considering the concerns of the biological parents of a child in decisions related to participation of the child in activities (with the understanding that those concerns should not necessarily determine the participation of the child in any activity).”
 
  __No Federal Funding to Unlawfully Present Individuals__ 
 
@@ -550,6 +716,8 @@
 
 [/us/usc/t42/s672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs672
 [/us/usc/t42/s673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs673
+[/us/usc/t42/s675/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675%2F8
+[/us/usc/t42/s677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs677
 [/us/usc/t18/s1111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1111%2Fa
 [/us/usc/t18/s1112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1112%2Fa
 [/us/usc/t42/s675/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675%2F5%2FC
@@ -560,6 +728,9 @@
 [/us/usc/t42/s673/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs673%2Fd
 [/us/usc/t42/s673/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs673%2Fd
 [/us/usc/t42/s673/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs673%2Fd
+[/us/usc/t42/s675/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675%2F9%2FA
+[/us/usc/t28/s534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs534
+[/us/usc/t42/s675/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675%2F9%2FA
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/pl/96/272/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272%2Fs101%2Fa%2F1
 [/us/stat/94/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F501
@@ -603,6 +774,13 @@
 [/us/stat/122/3950-3952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3950-3952
 [/us/pl/111/148/s6703/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6703%2Fd%2F2%2FB
 [/us/stat/124/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F803
+[/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
+[/us/stat/128/1920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1920
+[/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
+[/us/stat/128/1924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1924
+[/us/usc/t42/s675a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675a
+[/us/usc/t42/s675/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675%2F1
+[/us/usc/t42/s675/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675%2F5%2FB
 [/us/usc/t28/s534/e/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs534%2Fe%2F3%2FA
 [/us/usc/t28/s534/f/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs534%2Ff%2F3%2FA
 [/us/pl/109/248/s153/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs153%2Fi
@@ -610,6 +788,17 @@
 [/us/pl/110/351/s101/c/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351%2Fs101%2Fc%2F2%2FB%2Fi
 [/us/pl/110/351/s101/c/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351%2Fs101%2Fc%2F2%2FA%2Fii
 [/us/pl/110/351/s101/c/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351%2Fs101%2Fc%2F2%2FB%2Fii
+[/us/pl/113/183/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs101%2Fa
+[/us/pl/113/183/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs111%2Fb
+[/us/pl/113/183/s112/b/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs112%2Fb%2F2%2FA%2Fii
+[/us/usc/t42/s675a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675a
+[/us/usc/t42/s675/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675%2F1
+[/us/usc/t42/s675/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675%2F5%2FB
+[/us/pl/113/183/s111/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs111%2Fa%2F2
+[/us/pl/113/183/s209/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs209%2Fa%2F1
+[/us/pl/113/183/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs102%2Fa
+[/us/pl/113/183/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs104
+[/us/pl/113/183/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs102%2Fb
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/110/351/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351%2Fs104%2Fa
 [/us/pl/110/351/s101/c/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351%2Fs101%2Fc%2F2%2FA%2Fi
@@ -666,6 +855,21 @@
 [/us/pl/97/35/s2353/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2353%2Fr
 [/us/pl/97/248/s160/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs160%2Fd
 [/us/usc/t42/s1397b/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397b%2Fd%2F1
+[/us/pl/113/183/s111/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs111%2Fd
+[/us/stat/128/1925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1925
+[/us/usc/t42/s670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs670
+[/us/pl/113/183/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs112
+[/us/pl/113/183/s112/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs112%2Fc
+[/us/usc/t42/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs622
+[/us/pl/113/183/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs210
+[/us/stat/128/1941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1941
+[/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
+[/us/usc/t42/s673b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs673b
+[/us/usc/t42/s673b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs673b
+[/us/usc/t42/s673b/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs673b%2Fh
+[/us/usc/t42/s673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs673
+[/us/usc/t42/s675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675
+[/us/usc/t42/s670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs670
 [/us/pl/110/351/s101/c/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351%2Fs101%2Fc%2F2%2FB%2Fii
 [/us/stat/122/3952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3952
 [/us/pl/109/248/s152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs152
@@ -756,6 +960,9 @@
 [/us/pl/100/485/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs203%2Fa
 [/us/stat/102/2378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2378
 [/us/usc/t42/s682/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs682%2Fa%2F2
+[/us/pl/113/183/s209/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs209%2Fb
+[/us/stat/128/1941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1941
+[/us/usc/t42/s675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675
 [/us/pl/110/351/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351%2Fs301%2Fd
 [/us/stat/122/3970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3970
 [/us/usc/t42/s679c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs679c
@@ -766,6 +973,8 @@
 [/us/usc/t42/s677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs677
 [/us/usc/t42/s677/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs677%2Fj
 [/us/usc/t42/s677/b/3/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs677%2Fb%2F3%2FG
+[/us/pl/113/183/s111/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs111%2Fa%2F3
+[/us/stat/128/1924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1924
 [/us/pl/110/351/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351%2Fs503
 [/us/stat/122/3981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3981
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305

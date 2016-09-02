@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch7/schIV/ptE/m__us_usc_t42_s674.md) | [Next](./../../../../../..//us/usc/t42/ch7/schIV/ptE/m__us_usc_t42_s676.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675)
+[Previous](./../../../../../..//us/usc/t42/ch7/schIV/ptE/m__us_usc_t42_s674.md) | [Next](./../../../../../..//us/usc/t42/ch7/schIV/ptE/m__us_usc_t42_s675a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675)
 
 ## § 675. Definitions
 
@@ -173,13 +173,121 @@
 
                 (V) incapable of doing any of the activities described in subclauses (I) through (IV) due to a medical condition, which incapability is supported by regularly updated information in the case plan of the child.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 475, as added and amended [Pub. L. 96–272, title I][/us/pl/96/272], §§ 101(a)(1), 102(a)(4), June 17, 1980, [94 Stat. 510][/us/stat/94/510], 514; [Pub. L. 99–272, title XII][/us/pl/99/272], §§ 12305(b)(2), 12307(b), Apr. 7, 1986, [100 Stat. 293][/us/stat/100/293], 296; [Pub. L. 99–514, title XVII, § 1711(c)(6)][/us/pl/99/514/s1711/c/6], Oct. 22, 1986, [100 Stat. 2784][/us/stat/100/2784]; [Pub. L. 100–203, title IX, § 9133(a)][/us/pl/100/203/s9133/a], Dec. 22, 1987, [101 Stat. 1330–314][/us/stat/101/1330-314]; [Pub. L. 100–647, title VIII, § 8104(e)][/us/pl/100/647/s8104/e], Nov. 10, 1988, [102 Stat. 3797][/us/stat/102/3797]; [Pub. L. 101–239, title VIII, § 8007(a)][/us/pl/101/239/s8007/a], (b), Dec. 19, 1989, [103 Stat. 2462][/us/stat/103/2462]; [Pub. L. 103–432, title II][/us/pl/103/432], §§ 206(a), (b), 209(a), (b), 265(c), Oct. 31, 1994, [108 Stat. 4457][/us/stat/108/4457], 4459, 4469; [Pub. L. 105–89, title I][/us/pl/105/89], §§ 101(b), 102(2), 103(a), (b), 104, 107, title III, § 302, Nov. 19, 1997, [111 Stat. 2117][/us/stat/111/2117], 2118, 2120, 2121, 2128; [Pub. L. 109–239][/us/pl/109/239], §§ 6–8(a), 11, 12, July 3, 2006, [120 Stat. 512–514][/us/stat/120/512-514]; [Pub. L. 109–288, § 10][/us/pl/109/288/s10], Sept. 28, 2006, [120 Stat. 1255][/us/stat/120/1255]; [Pub. L. 110–351, title I, § 101(c)(4)][/us/pl/110/351/s101/c/4], title II, §§ 201(a), 202, 204(a), Oct. 7, 2008, [122 Stat. 3952][/us/stat/122/3952], 3957, 3959, 3960; [Pub. L. 111–148, title II, § 2955(a)][/us/pl/111/148/s2955/a], Mar. 23, 2010, [124 Stat. 352][/us/stat/124/352]; [Pub. L. 112–34, title I, § 106(a)][/us/pl/112/34/s106/a], (b), Sept. 30, 2011, [125 Stat. 377][/us/stat/125/377].)
+    (9)
+
+     The term “sex trafficking victim” means a victim of—
+
+        (A) sex trafficking (as defined in [section 7102(10) of title 22][/us/usc/t22/s7102/10]); or
+
+        (B) a severe form of trafficking in persons described in [section 7102(9)(A) of title 22][/us/usc/t22/s7102/9/A].
+
+    (12)
+
+  <sup>\[3\]</sup>  <sup><sup> 3 So in original. See Amendment of Section notes below. </sup></sup>  The term “sibling” means an individual who satisfies at least one of the following conditions with respect to a child:
+
+        (A) The individual is considered by State law to be a sibling of the child.
+
+        (B) The individual would have been considered a sibling of the child under State law but for a termination or other disruption of parental rights, such as the death of a parent.
+
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 475, as added and amended [Pub. L. 96–272, title I][/us/pl/96/272], §§ 101(a)(1), 102(a)(4), June 17, 1980, [94 Stat. 510][/us/stat/94/510], 514; [Pub. L. 99–272, title XII][/us/pl/99/272], §§ 12305(b)(2), 12307(b), Apr. 7, 1986, [100 Stat. 293][/us/stat/100/293], 296; [Pub. L. 99–514, title XVII, § 1711(c)(6)][/us/pl/99/514/s1711/c/6], Oct. 22, 1986, [100 Stat. 2784][/us/stat/100/2784]; [Pub. L. 100–203, title IX, § 9133(a)][/us/pl/100/203/s9133/a], Dec. 22, 1987, [101 Stat. 1330–314][/us/stat/101/1330-314]; [Pub. L. 100–647, title VIII, § 8104(e)][/us/pl/100/647/s8104/e], Nov. 10, 1988, [102 Stat. 3797][/us/stat/102/3797]; [Pub. L. 101–239, title VIII, § 8007(a)][/us/pl/101/239/s8007/a], (b), Dec. 19, 1989, [103 Stat. 2462][/us/stat/103/2462]; [Pub. L. 103–432, title II][/us/pl/103/432], §§ 206(a), (b), 209(a), (b), 265(c), Oct. 31, 1994, [108 Stat. 4457][/us/stat/108/4457], 4459, 4469; [Pub. L. 105–89, title I][/us/pl/105/89], §§ 101(b), 102(2), 103(a), (b), 104, 107, title III, § 302, Nov. 19, 1997, [111 Stat. 2117][/us/stat/111/2117], 2118, 2120, 2121, 2128; [Pub. L. 109–239][/us/pl/109/239], §§ 6–8(a), 11, 12, July 3, 2006, [120 Stat. 512–514][/us/stat/120/512-514]; [Pub. L. 109–288, § 10][/us/pl/109/288/s10], Sept. 28, 2006, [120 Stat. 1255][/us/stat/120/1255]; [Pub. L. 110–351, title I, § 101(c)(4)][/us/pl/110/351/s101/c/4], title II, §§ 201(a), 202, 204(a), Oct. 7, 2008, [122 Stat. 3952][/us/stat/122/3952], 3957, 3959, 3960; [Pub. L. 111–148, title II, § 2955(a)][/us/pl/111/148/s2955/a], Mar. 23, 2010, [124 Stat. 352][/us/stat/124/352]; [Pub. L. 112–34, title I, § 106(a)][/us/pl/112/34/s106/a], (b), Sept. 30, 2011, [125 Stat. 377][/us/stat/125/377]; [Pub. L. 113–183, title I][/us/pl/113/183], §§ 101(b), 111(a)(1), 112(a)(1), (b)(2)(B), 113(a)–(c), 114(a), title II, § 209(a)(2), Sept. 29, 2014, [128 Stat. 1921][/us/stat/128/1921], 1923, 1926—1930, 1941.)
+
+ __Amendment of Section__ 
+
+    [Pub. L. 113–183, title I][/us/pl/113/183], §§ 111(a)(1), (d), 112(b)(2)(B), (c), 113(a)–(c), (f), 114, Sept. 29, 2014, [128 Stat. 1923][/us/stat/128/1923], 1925, 1927—1930, provided that, effective on the date that is 1 year after Sept. 29, 2014, with delay permitted if State legislation is required, this section is amended as follows:
+
+    (1) in paragraph (1)—
+
+    (A) in the matter preceding subparagraph (A), by inserting “meets the requirements of [section 675a of this title][/us/usc/t42/s675a] and” after “written document which”; and
+
+    (B) in subparagraph (D)—
+
+    (i) by striking “Where appropriate, for a child age 16” and inserting “For a child who has attained 14 years of age”; and
+
+    (ii) by striking “independent living” and inserting “a successful adulthood”;
+
+    (2) in paragraph (5)—
+
+    (A) in subparagraph (B), by adding at the end the following “and, for a child for whom another planned permanent living arrangement has been determined as the permanency plan, the steps the State agency is taking to ensure the child’s foster family home or child care institution is following the reasonable and prudent parent standard and to ascertain whether the child has regular, ongoing opportunities to engage in age or developmentally appropriate activities (including by consulting with the child in an age-appropriate manner about the opportunities of the child to participate in the activities);”; and
+
+    (B) in subparagraph (C)—
+
+    (i) in clause (i)—
+
+    (I) by inserting “, as of the date of the hearing,” after “compelling reason for determining”;
+
+    (II) by inserting “subject to [section 675a(a) of this title][/us/usc/t42/s675a/a],” after “another planned permanent living arrangement,”;
+
+    (III) by striking “16” and inserting “14”; and
+
+    (IV) by striking “independent living” and inserting “a successful adulthood”;
+
+    (ii) in clause (ii), by striking “and” at the end;
+
+    (iii) in clause (iii), by striking “independent living” and inserting “a successful adulthood”; and
+
+    (iv) by adding at the end “and (iv) if a child has attained 14 years of age, the permanency plan developed for the child, and any revision or addition to the plan, shall be developed in consultation with the child and, at the option of the child, with not more than 2 members of the permanency planning team who are selected by the child and who are not a foster parent of, or caseworker for, the child, except that the State may reject an individual so selected by the child if the State has good cause to believe that the individual would not act in the best interests of the child, and 1 individual so selected by the child may be designated to be the child’s advisor and, as necessary, advocate, with respect to the application of the reasonable and prudent standard to the child;”; and
+
+    (C) in subparagraph (I)—
+
+    (i) by striking “and receives assistance” and inserting “receives assistance”; and
+
+    (ii) by inserting “, and, if the child is leaving foster care by reason of having attained 18 years of age or such greater age as the State has elected under paragraph (8), unless the child has been in foster care for less than 6 months, is not discharged from care without being provided with (if the child is eligible to receive such document) an official or certified copy of the United States birth certificate of the child, a social security card issued by the Commissioner of Social Security, health insurance information, a copy of the child’s medical records, and a driver’s license or identification card issued by a State in accordance with the requirements of section 202 of the REAL ID Act of 2005” before the period; and
+
+    (3) by adding at the end the following:
+
+    (10)(A) The term “reasonable and prudent parent standard” means the standard characterized by careful and sensible parental decisions that maintain the health, safety, and best interests of a child while at the same time encouraging the emotional and developmental growth of the child, that a caregiver shall use when determining whether to allow a child in foster care under the responsibility of the State to participate in extracurricular, enrichment, cultural, and social activities.
+
+    (B) For purposes of subparagraph (A), the term “caregiver” means a foster parent with whom a child in foster care has been placed or a designated official for a child care institution in which a child in foster care has been placed.
+
+    (11)(A) The term “age or developmentally-appropriate” means—
+
+    (i) activities or items that are generally accepted as suitable for children of the same chronological age or level of maturity or that are determined to be developmentally-appropriate for a child, based on the development of cognitive, emotional, physical, and behavioral capacities that are typical for an age or age group; and
+
+    (ii) in the case of a specific child, activities or items that are suitable for the child based on the developmental stages attained by the child with respect to the cognitive, emotional, physical, and behavioral capacities of the child.
+
+    (B) In the event that any age-related activities have implications relative to the academic curriculum of a child, nothing in this part or part B shall be construed to authorize an officer or employee of the Federal Government to mandate, direct, or control a State or local educational agency, or the specific instructional content, academic achievement standards and assessments, curriculum, or program of instruction of a school.
+
+    See 2014 Amendment notes below.
+
+    [Pub. L. 113–183, title I, § 112(a)(1)][/us/pl/113/183/s112/a/1], (3), (c), Sept. 29, 2014, [128 Stat. 1926][/us/stat/128/1926], 1928, provided that, effective on the date that is 1 year after Sept. 29, 2014, with delay permitted if State legislation is required, and in the case of children in foster care under the responsibility of an Indian tribe, tribal organization, or tribal consortium (either directly or under supervision of a State), not applicable until the date that is 3 years after Sept. 29, 2014, paragraph (5)(C)(i) of this section is amended by inserting “only in the case of a child who has attained 16 years of age” before “(in cases where”. See 2014 Amendment notes below.
 
  __References in Text__ 
 
     [Section 672(a) of this title][/us/usc/t42/s672/a], referred to in par. (1)(A), was amended generally by [Pub. L. 109–171, title VII, § 7404(a)][/us/pl/109/171/s7404/a], Feb. 8, 2006, [120 Stat. 151][/us/stat/120/151], and, as so amended, provisions relating to a voluntary placement agreement or judicial determination made with respect to a child, which formerly appeared in subsec. (a)(1), are contained in subsec. (a)(2)(A).
 
  __Amendments__ 
+
+    2014—Par. (1). [Pub. L. 113–183, § 112(b)(2)(B)(i)][/us/pl/113/183/s112/b/2/B/i], in introductory provisions, inserted “meets the requirements of [section 675a of this title][/us/usc/t42/s675a] and” after “written document which”.
+
+    Par. (1)(B). [Pub. L. 113–183, § 113(a)][/us/pl/113/183/s113/a], inserted at end “With respect to a child who has attained 14 years of age, the plan developed for the child in accordance with this paragraph, and any revision or addition to the plan, shall be developed in consultation with the child and, at the option of the child, with up to 2 members of the case planning team who are chosen by the child and who are not a foster parent of, or caseworker for, the child. A State may reject an individual selected by a child to be a member of the case planning team at any time if the State has good cause to believe that the individual would not act in the best interests of the child. One individual selected by a child to be a member of the child’s case planning team may be designated to be the child’s advisor and, as necessary, advocate, with respect to the application of the reasonable and prudent parent standard to the child.”
+
+    Par. (1)(D). [Pub. L. 113–183, § 113(c)][/us/pl/113/183/s113/c], substituted “a successful adulthood” for “independent living”.
+
+    [Pub. L. 113–183, § 113(b)(1)][/us/pl/113/183/s113/b/1], substituted “For a child who has attained 14 years of age” for “Where appropriate, for a child age 16”.
+
+    Par. (5)(B). [Pub. L. 113–183, § 112(b)(2)(B)(ii)(I)][/us/pl/113/183/s112/b/2/B/ii/I], inserted at end “and, for a child for whom another planned permanent living arrangement has been determined as the permanency plan, the steps the State agency is taking to ensure the child’s foster family home or child care institution is following the reasonable and prudent parent standard and to ascertain whether the child has regular, ongoing opportunities to engage in age or developmentally appropriate activities (including by consulting with the child in an age-appropriate manner about the opportunities of the child to participate in the activities);”.
+
+    Par. (5)(C)(i). [Pub. L. 113–183, § 113(c)][/us/pl/113/183/s113/c], substituted “a successful adulthood” for “independent living”.
+
+    [Pub. L. 113–183, § 113(b)(2)(A)(i)][/us/pl/113/183/s113/b/2/A/i], substituted “14” for “16”.
+
+    [Pub. L. 113–183, § 112(b)(2)(B)(ii)(II)][/us/pl/113/183/s112/b/2/B/ii/II], inserted “, as of the date of the hearing,” after “compelling reason for determining” and “subject to [section 675a(a) of this title][/us/usc/t42/s675a/a],” after “another planned permanent living arrangement,”
+
+    [Pub. L. 113–183, § 112(a)(1)][/us/pl/113/183/s112/a/1], inserted “only in the case of a child who has attained 16 years of age” before “(in cases where”.
+
+    Par. (5)(C)(iii). [Pub. L. 113–183, § 113(c)][/us/pl/113/183/s113/c], substituted “a successful adulthood” for “independent living”.
+
+    Par. (5)(C)(iv). [Pub. L. 113–183, § 113(b)(2)(A)(ii)][/us/pl/113/183/s113/b/2/A/ii], (iii), added cl. (iv).
+
+    Par. (5)(I). [Pub. L. 113–183, § 114(a)][/us/pl/113/183/s114/a], substituted “receives assistance” for “and receives assistance” and inserted before the period at end “, and, if the child is leaving foster care by reason of having attained 18 years of age or such greater age as the State has elected under paragraph (8), unless the child has been in foster care for less than 6 months, is not discharged from care without being provided with (if the child is eligible to receive such document) an official or certified copy of the United States birth certificate of the child, a social security card issued by the Commissioner of Social Security, health insurance information, a copy of the child’s medical records, and a driver’s license or identification card issued by a State in accordance with the requirements of section 202 of the REAL ID Act of 2005”.
+
+    [Pub. L. 113–183, § 113(b)(2)(B)][/us/pl/113/183/s113/b/2/B], substituted “14” for “16”.
+
+    Par. (9). [Pub. L. 113–183, § 101(b)][/us/pl/113/183/s101/b], added par. (9).
+
+    Pars. (10), (11). [Pub. L. 113–183, § 111(a)(1)][/us/pl/113/183/s111/a/1], added pars. (10) and (11).
+
+    Par. (12). [Pub. L. 113–183, § 209(a)(2)][/us/pl/113/183/s209/a/2], added par. (12).
 
     2011—Par. (1)(G)(i). [Pub. L. 112–34, § 106(a)(1)][/us/pl/112/34/s106/a/1], substituted “each placement” for “the placement”.
 
@@ -265,6 +373,36 @@
 
     1980—Par. (1). [Pub. L. 96–272, § 102(a)(4)][/us/pl/96/272/s102/a/4], inserted reference to voluntary placement agreements.
 
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [section 111 of Pub. L. 113–183][/us/pl/113/183/s111] effective on the date that is 1 year after Sept. 29, 2014, with delay permitted if State legislation is required, see [section 111(d) of Pub. L. 113–183][/us/pl/113/183/s111/d], set out as a note under [section 671 of this title][/us/usc/t42/s671].
+
+    Amendment by [section 112(a)(1) of Pub. L. 113–183][/us/pl/113/183/s112/a/1] effective on the date that is 1 year after Sept. 29, 2014, with delay permitted if State legislation is required, and in the case of children in foster care under the responsibility of an Indian tribe, tribal organization, or tribal consortium (either directly or under supervision of a State), not applicable until the date that is 3 years after Sept. 29, 2014, see section 112(a)(3), (c) of [Pub. L. 113–183][/us/pl/113/183], set out as notes under [section 622 of this title][/us/usc/t42/s622].
+
+    Amendment by [section 112(b)(2)(B) of Pub. L. 113–183][/us/pl/113/183/s112/b/2/B] effective on the date that is 1 year after Sept. 29, 2014, with delay permitted if State legislation is required, see [section 112(c) of Pub. L. 113–183][/us/pl/113/183/s112/c], set out as a note under [section 622 of this title][/us/usc/t42/s622].
+
+[Pub. L. 113–183, title I, § 113(f)][/us/pl/113/183/s113/f], Sept. 29, 2014, [128 Stat. 1929][/us/stat/128/1929], provided that:
+
+>     “(1)  __In general__  __.—__ 
+
+>     The amendments made by this section \[amending this section and [section 675a of this title][/us/usc/t42/s675a]\] shall take effect on the date that is 1 year after the date of the enactment of this Act \[Sept. 29, 2014\].
+
+>     “(2)  __Delay permitted if state legislation required__  __.—__ 
+
+>     If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds) is required in order for a State plan developed pursuant to part E of title IV of the Social Security Act \[[42 U.S.C. 670][/us/usc/t42/s670] et seq.\] to meet the additional requirements imposed by the amendments made by this section, the plan shall not be regarded as failing to meet any of the additional requirements before the 1st day of the 1st calendar quarter beginning after the 1st regular session of the State legislature that begins after the date of the enactment of this Act \[Sept. 29, 2014\]. If the State has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature.”
+
+[Pub. L. 113–183, title I, § 114(b)][/us/pl/113/183/s114/b], Sept. 29, 2014, [128 Stat. 1930][/us/stat/128/1930], provided that:
+
+>     “(1)  __In general__  __.—__ 
+
+>     The amendments made by this section \[amending this section\] shall take effect 1 year after the date of enactment of this Act \[Sept. 29, 2014\].
+
+>     “(2)  __Delay permitted if state legislation required__  __.—__ 
+
+>     If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds) is required in order for a State plan developed pursuant to part E of title IV of the Social Security Act \[[42 U.S.C. 670][/us/usc/t42/s670] et seq.\] to meet the additional requirements imposed by the amendments made by this section, the plan shall not be regarded as failing to meet any of the additional requirements before the 1st day of the 1st calendar quarter beginning after the 1st regular session of the State legislature that begins after the date of the enactment of this Act \[Sept. 29, 2014\]. If the State has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature.”
+
+    Amendment by [section 209 of Pub. L. 113–183][/us/pl/113/183/s209] effective Sept. 29, 2014, with delay permitted if State legislation is required, see [section 210(e) of Pub. L. 113–183][/us/pl/113/183/s210/e], set out as a note under [section 671 of this title][/us/usc/t42/s671].
+
  __Effective Date of 2011 Amendment__ 
 
     Amendment by [Pub. L. 112–34][/us/pl/112/34] effective Oct. 1, 2011, and applicable to payments under this part and part B of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see [section 107 of Pub. L. 112–34][/us/pl/112/34/s107], set out as a note under [section 622 of this title][/us/usc/t42/s622].
@@ -331,6 +469,8 @@
 
  __Construction__ 
 
+    For construction of amendment by [section 209(a)(2) of Pub. L. 113–183][/us/pl/113/183/s209/a/2], see [section 209(b) of Pub. L. 113–183][/us/pl/113/183/s209/b], set out as a note under [section 671 of this title][/us/usc/t42/s671].
+
 [Pub. L. 105–89, title I, § 103(d)][/us/pl/105/89/s103/d], Nov. 19, 1997, [111 Stat. 2119][/us/stat/111/2119], provided that: 
 
 > “Nothing in this section \[amending this section and enacting provisions set out as a note below\] or in part E of title IV of the Social Security Act ([42 U.S.C. 670][/us/usc/t42/s670] et seq.), as amended by this Act, shall be construed as precluding State courts or State agencies from initiating the termination of parental rights for reasons other than, or for timelines earlier than, those specified in part E of title IV of such Act, when such actions are determined to be in the best interests of the child, including cases where the child has experienced multiple foster care placements of varying durations.”
@@ -367,7 +507,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch7/schIV/ptE/m__us_usc_t42_s674.md) | [Next](./../../../../../..//us/usc/t42/ch7/schIV/ptE/m__us_usc_t42_s676.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675)
+[Previous](./../../../../../..//us/usc/t42/ch7/schIV/ptE/m__us_usc_t42_s674.md) | [Next](./../../../../../..//us/usc/t42/ch7/schIV/ptE/m__us_usc_t42_s675a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675)
 
 ----------
 ----------
@@ -379,6 +519,8 @@
 [/us/usc/t15/s1681a/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681a%2Fd
 [/us/usc/t42/s673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs673
 [/us/usc/t42/s673/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs673%2Fd
+[/us/usc/t22/s7102/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7102%2F10
+[/us/usc/t22/s7102/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7102%2F9%2FA
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/pl/96/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272
 [/us/stat/94/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F510
@@ -406,9 +548,35 @@
 [/us/stat/124/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F352
 [/us/pl/112/34/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs106%2Fa
 [/us/stat/125/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F377
+[/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
+[/us/stat/128/1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1921
+[/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
+[/us/stat/128/1923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1923
+[/us/usc/t42/s675a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675a
+[/us/usc/t42/s675a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675a%2Fa
+[/us/pl/113/183/s112/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs112%2Fa%2F1
+[/us/stat/128/1926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1926
 [/us/usc/t42/s672/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs672%2Fa
 [/us/pl/109/171/s7404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs7404%2Fa
 [/us/stat/120/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F151
+[/us/pl/113/183/s112/b/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs112%2Fb%2F2%2FB%2Fi
+[/us/usc/t42/s675a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675a
+[/us/pl/113/183/s113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs113%2Fa
+[/us/pl/113/183/s113/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs113%2Fc
+[/us/pl/113/183/s113/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs113%2Fb%2F1
+[/us/pl/113/183/s112/b/2/B/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs112%2Fb%2F2%2FB%2Fii%2FI
+[/us/pl/113/183/s113/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs113%2Fc
+[/us/pl/113/183/s113/b/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs113%2Fb%2F2%2FA%2Fi
+[/us/pl/113/183/s112/b/2/B/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs112%2Fb%2F2%2FB%2Fii%2FII
+[/us/usc/t42/s675a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675a%2Fa
+[/us/pl/113/183/s112/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs112%2Fa%2F1
+[/us/pl/113/183/s113/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs113%2Fc
+[/us/pl/113/183/s113/b/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs113%2Fb%2F2%2FA%2Fii
+[/us/pl/113/183/s114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs114%2Fa
+[/us/pl/113/183/s113/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs113%2Fb%2F2%2FB
+[/us/pl/113/183/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs101%2Fb
+[/us/pl/113/183/s111/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs111%2Fa%2F1
+[/us/pl/113/183/s209/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs209%2Fa%2F2
 [/us/pl/112/34/s106/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs106%2Fa%2F1
 [/us/pl/112/34/s106/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs106%2Fa%2F2
 [/us/pl/112/34/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs106%2Fb
@@ -453,6 +621,25 @@
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/272/s12305/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs12305%2Fb%2F2
 [/us/pl/96/272/s102/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272%2Fs102%2Fa%2F4
+[/us/pl/113/183/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs111
+[/us/pl/113/183/s111/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs111%2Fd
+[/us/usc/t42/s671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs671
+[/us/pl/113/183/s112/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs112%2Fa%2F1
+[/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
+[/us/usc/t42/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs622
+[/us/pl/113/183/s112/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs112%2Fb%2F2%2FB
+[/us/pl/113/183/s112/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs112%2Fc
+[/us/usc/t42/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs622
+[/us/pl/113/183/s113/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs113%2Ff
+[/us/stat/128/1929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1929
+[/us/usc/t42/s675a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675a
+[/us/usc/t42/s670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs670
+[/us/pl/113/183/s114/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs114%2Fb
+[/us/stat/128/1930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1930
+[/us/usc/t42/s670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs670
+[/us/pl/113/183/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs209
+[/us/pl/113/183/s210/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs210%2Fe
+[/us/usc/t42/s671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs671
 [/us/pl/112/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34
 [/us/pl/112/34/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34%2Fs107
 [/us/usc/t42/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs622
@@ -503,6 +690,9 @@
 [/us/pl/96/272/s102/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272%2Fs102%2Fa%2F4
 [/us/pl/96/272/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272%2Fs102%2Fc
 [/us/usc/t42/s672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs672
+[/us/pl/113/183/s209/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs209%2Fa%2F2
+[/us/pl/113/183/s209/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs209%2Fb
+[/us/usc/t42/s671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs671
 [/us/pl/105/89/s103/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2Fs103%2Fd
 [/us/stat/111/2119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2119
 [/us/usc/t42/s670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs670

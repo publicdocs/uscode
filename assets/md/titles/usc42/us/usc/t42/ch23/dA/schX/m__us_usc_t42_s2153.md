@@ -181,6 +181,8 @@
 
 >     “Not later than 180 days after the date of the enactment of this Act \[Feb. 12, 2014\], and every 180 days thereafter until a new Agreement for Cooperation between the Government of the United States of America and the Government of the Republic of Korea Concerning Civil Uses of Nuclear Energy is submitted to Congress, the President shall provide to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives a report on the progress of negotiations on a new civil nuclear cooperation agreement.”
 
+    \[Memorandum of President of the United States, July 11, 2014, 79 F.R. 43917, delegated to the Secretary of State the reporting functions under [section 4 of Pub. L. 113–81][/us/pl/113/81/s4], set out above.\]
+
  __Applicability of Notice and Wait Provisions__ 
 
 [Pub. L. 103–337, div. C, title XXXI, § 3155(b)][/us/pl/103/337/s3155/b], Oct. 5, 1994, [108 Stat. 3092][/us/stat/108/3092], as amended by [Pub. L. 104–201, div. C, title XXXI, § 3160][/us/pl/104/201/s3160], Sept. 23, 1996, [110 Stat. 2843][/us/stat/110/2843]; [Pub. L. 107–314, div. D, title XLV, § 4501(b)][/us/pl/107/314/s4501/b], formerly [Pub. L. 104–106, div. C, title XXXI, § 3154(b)][/us/pl/104/106/s3154/b], Feb. 10, 1996, [110 Stat. 624][/us/stat/110/624], renumbered [§ 4501(b) of Pub. L. 107–314][/us/pl/107/314/s4501/b] by [Pub. L. 108–136, div. C, title XXXI, § 3141(h)(2)(A)][/us/pl/108/136/s3141/h/2/A]–(C), Nov. 24, 2003, [117 Stat. 1771][/us/stat/117/1771], provided that: 
@@ -333,6 +335,7 @@ Sec. 2. (a) The Secretary of Defense and the Secretary of Energy are hereby desi
 [/us/pl/113/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F81
 [/us/stat/128/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1007
 [/us/usc/t42/s2153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2153
+[/us/pl/113/81/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F81%2Fs4
 [/us/pl/103/337/s3155/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3155%2Fb
 [/us/stat/108/3092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3092
 [/us/pl/104/201/s3160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs3160

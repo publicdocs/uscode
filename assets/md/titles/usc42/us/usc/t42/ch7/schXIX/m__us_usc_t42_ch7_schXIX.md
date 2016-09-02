@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch7/schXVIII/ptE/m__us_usc_t42_s1395kkk–1.md) | [Next](./../../../../..//us/usc/t42/ch7/schXIX/m__us_usc_t42_s1396.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch7%2FschXIX)
+[Previous](./../../../../..//us/usc/t42/ch7/schXVIII/ptE/m__us_usc_t42_s1395lll.md) | [Next](./../../../../..//us/usc/t42/ch7/schXIX/m__us_usc_t42_s1396.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch7%2FschXIX)
 
 ### SUBCHAPTER XIX—GRANTS TO STATES FOR MEDICAL ASSISTANCE PROGRAMS
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch7/schXVIII/ptE/m__us_usc_t42_s1395kkk–1.md) | [Next](./../../../../..//us/usc/t42/ch7/schXIX/m__us_usc_t42_s1396.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch7%2FschXIX)
+[Previous](./../../../../..//us/usc/t42/ch7/schXVIII/ptE/m__us_usc_t42_s1395lll.md) | [Next](./../../../../..//us/usc/t42/ch7/schXIX/m__us_usc_t42_s1396.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch7%2FschXIX)
 
 ----------
 ----------

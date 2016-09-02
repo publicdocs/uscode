@@ -19,7 +19,7 @@
 
     (b)
 
-     The report required by subsection (a) of this section shall contain—
+     The report required by subsection (a) shall contain—
 
         (1)
 

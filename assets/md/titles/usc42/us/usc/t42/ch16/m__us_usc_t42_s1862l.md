@@ -55,7 +55,7 @@
 
     (b) __Status of facilities under construction__ 
 
-        The plan required under subsection (a) of this section shall include a status report for each uncompleted construction project included in current and previous plans. The status report shall include data on cumulative construction costs by project compared with estimated costs, and shall compare the current and original schedules for achievement of milestones for the major phases of the construction.
+        The plan required under subsection (a) shall include a status report for each uncompleted construction project included in current and previous plans. The status report shall include data on cumulative construction costs by project compared with estimated costs, and shall compare the current and original schedules for achievement of milestones for the major phases of the construction.
 
 ([Pub. L. 105–207, title II, § 201][/us/pl/105/207/s201], July 29, 1998, [112 Stat. 872][/us/stat/112/872]; [Pub. L. 107–368, § 14(b)(1)][/us/pl/107/368/s14/b/1], (2), Dec. 19, 2002, [116 Stat. 3056][/us/stat/116/3056], 3057; [Pub. L. 110–69, title VII, § 7014(b)][/us/pl/110/69/s7014/b], Aug. 9, 2007, [121 Stat. 682][/us/stat/121/682].)
 

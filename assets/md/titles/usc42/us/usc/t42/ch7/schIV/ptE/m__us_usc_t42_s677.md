@@ -267,7 +267,25 @@
 
                 (ii) the total number of children in foster care under the responsibility of all Indian tribes, tribal organizations, or tribal consortia in the State (either directly or under supervision of the State) that have a plan approved under this subsection.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 477, as added [Pub. L. 99–272, title XII, § 12307(a)][/us/pl/99/272/s12307/a], Apr. 7, 1986, [100 Stat. 294][/us/stat/100/294]; amended [Pub. L. 100–647, title VIII, § 8104(a)][/us/pl/100/647/s8104/a]–(d), (f), Nov. 10, 1988, [102 Stat. 3796][/us/stat/102/3796], 3797; [Pub. L. 101–239, title VIII, § 8002(a)][/us/pl/101/239/s8002/a], (b), Dec. 19, 1989, [103 Stat. 2452][/us/stat/103/2452]; [Pub. L. 101–508, title V, § 5073(a)][/us/pl/101/508/s5073/a], Nov. 5, 1990, [104 Stat. 1388–233][/us/stat/104/1388-233]; [Pub. L. 103–66, title XIII, § 13714(a)][/us/pl/103/66/s13714/a], Aug. 10, 1993, [107 Stat. 657][/us/stat/107/657]; [Pub. L. 105–89, title III, § 304][/us/pl/105/89/s304], Nov. 19, 1997, [111 Stat. 2130][/us/stat/111/2130]; [Pub. L. 106–169, title I, § 101(b)][/us/pl/106/169/s101/b], Dec. 14, 1999, [113 Stat. 1824][/us/stat/113/1824]; [Pub. L. 107–133, title II][/us/pl/107/133], §§ 201(a)–(e), 202(a), Jan. 17, 2002, [115 Stat. 2422][/us/stat/115/2422], 2423, 2425; [Pub. L. 110–351, title I, § 101(e)][/us/pl/110/351/s101/e], title III, § 301(b), (c)(1)(B), Oct. 7, 2008, [122 Stat. 3953][/us/stat/122/3953], 3967, 3969; [Pub. L. 111–148, title II, § 2955(b)][/us/pl/111/148/s2955/b], Mar. 23, 2010, [124 Stat. 352][/us/stat/124/352].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 477, as added [Pub. L. 99–272, title XII, § 12307(a)][/us/pl/99/272/s12307/a], Apr. 7, 1986, [100 Stat. 294][/us/stat/100/294]; amended [Pub. L. 100–647, title VIII, § 8104(a)][/us/pl/100/647/s8104/a]–(d), (f), Nov. 10, 1988, [102 Stat. 3796][/us/stat/102/3796], 3797; [Pub. L. 101–239, title VIII, § 8002(a)][/us/pl/101/239/s8002/a], (b), Dec. 19, 1989, [103 Stat. 2452][/us/stat/103/2452]; [Pub. L. 101–508, title V, § 5073(a)][/us/pl/101/508/s5073/a], Nov. 5, 1990, [104 Stat. 1388–233][/us/stat/104/1388-233]; [Pub. L. 103–66, title XIII, § 13714(a)][/us/pl/103/66/s13714/a], Aug. 10, 1993, [107 Stat. 657][/us/stat/107/657]; [Pub. L. 105–89, title III, § 304][/us/pl/105/89/s304], Nov. 19, 1997, [111 Stat. 2130][/us/stat/111/2130]; [Pub. L. 106–169, title I, § 101(b)][/us/pl/106/169/s101/b], Dec. 14, 1999, [113 Stat. 1824][/us/stat/113/1824]; [Pub. L. 107–133, title II][/us/pl/107/133], §§ 201(a)–(e), 202(a), Jan. 17, 2002, [115 Stat. 2422][/us/stat/115/2422], 2423, 2425; [Pub. L. 110–351, title I, § 101(e)][/us/pl/110/351/s101/e], title III, § 301(b), (c)(1)(B), Oct. 7, 2008, [122 Stat. 3953][/us/stat/122/3953], 3967, 3969; [Pub. L. 111–148, title II, § 2955(b)][/us/pl/111/148/s2955/b], Mar. 23, 2010, [124 Stat. 352][/us/stat/124/352]; [Pub. L. 113–183, title I, § 111(c)][/us/pl/113/183/s111/c], Sept. 29, 2014, [128 Stat. 1925][/us/stat/128/1925].)
+
+ __Amendment of Section__ 
+
+    [Pub. L. 113–183, title I, § 111(c)][/us/pl/113/183/s111/c], (d), Sept. 29, 2014, [128 Stat. 1925][/us/stat/128/1925], provided that, effective on the date that is 1 year after Sept. 29, 2014, with delay permitted if State legislation is required, this section is amended as follows:
+
+    (1) in subsection (a)—
+
+    (A) by striking “and” at the end of paragraph (6);
+
+    (B) by striking the period at the end of paragraph (7) and inserting “; and”; and
+
+    (C) by adding at the end the following:
+
+    “(8) to ensure children who are likely to remain in foster care until 18 years of age have regular, ongoing opportunities to engage in age or developmentally-appropriate activities as defined in [section 675(11) of this title][/us/usc/t42/s675/11].”; and
+
+    (2) in subsection (h)(1), by inserting “or, beginning in fiscal year 2020, $143,000,000” after “$140,000,000”.
+
+    See 2014 Amendment notes below.
 
  __References in Text__ 
 
@@ -278,6 +296,10 @@
     December 14, 1999, referred to in subsec. (f), was in the original “the date of the enactment of this section” which was translated as meaning the date of enactment of [Pub. L. 106–169][/us/pl/106/169], which amended this section generally, to reflect the probable intent of Congress.
 
  __Amendments__ 
+
+    2014—Subsec. (a)(8). [Pub. L. 113–183, § 111(c)(1)][/us/pl/113/183/s111/c/1], added par. (8).
+
+    Subsec. (h)(1). [Pub. L. 113–183, § 111(c)(2)][/us/pl/113/183/s111/c/2], inserted “or, beginning in fiscal year 2020, $143,000,000” after “$140,000,000”.
 
     2010—Subsec. (b)(3)(K). [Pub. L. 111–148][/us/pl/111/148] added subpar. (K).
 
@@ -352,6 +374,10 @@
     “(B) Not later than March 1, 1989,”
 
     for “Not later than July 1, 1988,” and substituted “fiscal years 1987 and 1988” for “fiscal year 1987” in subpar. (B).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–183][/us/pl/113/183] effective on the date that is 1 year after Sept. 29, 2014, with delay permitted if State legislation is required, see [section 111(d) of Pub. L. 113–183][/us/pl/113/183/s111/d], set out as a note under [section 671 of this title][/us/usc/t42/s671].
 
  __Effective Date of 2010 Amendment__ 
 
@@ -473,10 +499,17 @@
 [/us/stat/122/3953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3953
 [/us/pl/111/148/s2955/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2955%2Fb
 [/us/stat/124/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F352
+[/us/pl/113/183/s111/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs111%2Fc
+[/us/stat/128/1925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1925
+[/us/pl/113/183/s111/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs111%2Fc
+[/us/stat/128/1925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1925
+[/us/usc/t42/s675/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675%2F11
 [/us/pl/93/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415
 [/us/stat/88/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1109
 [/us/usc/t42/s5601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5601
 [/us/pl/106/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169
+[/us/pl/113/183/s111/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs111%2Fc%2F1
+[/us/pl/113/183/s111/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs111%2Fc%2F2
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/110/351/s101/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351%2Fs101%2Fe%2F1
 [/us/pl/110/351/s301/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351%2Fs301%2Fc%2F1%2FB
@@ -512,6 +545,9 @@
 [/us/pl/100/647/s8104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs8104%2Fb
 [/us/pl/100/647/s8104/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs8104%2Fa%2F3
 [/us/pl/100/647/s8104/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs8104%2Fa%2F5
+[/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
+[/us/pl/113/183/s111/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs111%2Fd
+[/us/usc/t42/s671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs671
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/111/148/s2955/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2955%2Fd
 [/us/usc/t42/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs622

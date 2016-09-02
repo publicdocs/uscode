@@ -467,9 +467,19 @@
 
                 the skilled nursing facility must provide notice to the State agency responsible for the licensing of the facility, at the time of the change, of the change and of the identity of each new person, company, or individual described in the respective clause.
 
-            (C) __Skilled nursing facility administrator__ 
+            (C)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. Two subpars. (C) have been enacted. See Amendment of Subsection (d)(1) note below.__  __ </sup></sup> __  __Skilled nursing facility administrator__ 
 
                 The administrator of a skilled nursing facility must meet standards established by the Secretary under subsection (f)(4) of this section.
+
+            (C)  __1__  __Availability of survey, certification, and complaint investigation reports__ 
+
+            A skilled nursing facility must—
+
+                (i) have reports with respect to any surveys, certifications, and complaint investigations made respecting the facility during the 3 preceding years available for any individual to review upon request; and
+
+                (ii) post notice of the availability of such reports in areas of the facility that are prominent and accessible to the public.
+
+                The facility shall not make available under clause (i) identifying information about complainants or residents.
 
         (2) __Licensing and Life Safety Code__ 
 
@@ -1035,27 +1045,17 @@
 
                 (iv) any other representatives of programs or groups the Secretary determines appropriate.
 
+        (3) __Funding__ 
+
+            The Secretary shall transfer to the Centers for Medicare & Medicaid Services Program Management Account, from the Federal Hospital Insurance Trust Fund under [section 1395i of this title][/us/usc/t42/s1395i] a one-time allocation of $11,000,000. The amount shall be available on October 6, 2014. Such sums shall remain available until expended. Such sums shall be used to implement [section 1320a–7j(g) of this title][/us/usc/t42/s1320a–7j/g].
+
     (j) __Construction__ 
 
         Where requirements or obligations under this section are identical to those provided under [section 1396r of this title][/us/usc/t42/s1396r], the fulfillment of those requirements or obligations under [section 1396r of this title][/us/usc/t42/s1396r] shall be considered to be the fulfillment of the corresponding requirements or obligations under this section.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1819, as added and amended [Pub. L. 100–203, title IV][/us/pl/100/203], §§ 4201(a)(3), 4202(a)(2), 4203(a)(2), 4206, Dec. 22, 1987, [101 Stat. 1330–160][/us/stat/101/1330-160], 1330–175, 1330–179, 1330–182; [Pub. L. 100–360, title IV, § 411][/us/pl/100/360/s411](l)(1)(A), (2)(A)–(D), (F)–(L)(i), (4), (5), (7), (11), July 1, 1988, [102 Stat. 800–805][/us/stat/102/800-805], as amended [Pub. L. 100–485, title VI, § 608(d)(27)(A)][/us/pl/100/485/s608/d/27/A], (C), (D), (I), (L), Oct. 13, 1988, [102 Stat. 2422][/us/stat/102/2422], 2423; [Pub. L. 101–239, title VI, § 6901(b)(1)][/us/pl/101/239/s6901/b/1], (3), (d)(4), Dec. 19, 1989, [103 Stat. 2298][/us/stat/103/2298], 2301; [Pub. L. 101–508, title IV][/us/pl/101/508], §§ 4008(h)(1)(B)–(F)(i), (G), (2)(B)–(N), (m)(3)(F)\[(E)\], 4206(d)(1), Nov. 5, 1990, [104 Stat. 1388–46][/us/stat/104/1388-46] to 1388–50, 1388–54, 1388–116; [Pub. L. 102–375, title VII, § 708(a)(1)(A)][/us/pl/102/375/s708/a/1/A], Sept. 30, 1992, [106 Stat. 1291][/us/stat/106/1291]; [Pub. L. 103–432, title I][/us/pl/103/432], §§ 106(c)(1)(A), (2)(A), (3)(A), (4)(A), (B), (d)(1)–(5), 110(b), Oct. 31, 1994, [108 Stat. 4406–4408][/us/stat/108/4406-4408]; [Pub. L. 105–15, § 1][/us/pl/105/15/s1], May 15, 1997, [111 Stat. 34][/us/stat/111/34]; [Pub. L. 105–33, title IV][/us/pl/105/33], §§ 4432(b)(5)(A), 4755(a), Aug. 5, 1997, [111 Stat. 421][/us/stat/111/421], 526; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IX, § 941(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–585; [Pub. L. 108–173, title VII, § 736(a)(8)][/us/pl/108/173/s736/a/8], title IX, § 932(c)(2), Dec. 8, 2003, [117 Stat. 2355][/us/stat/117/2355], 2401; [Pub. L. 111–148, title VI][/us/pl/111/148], §§ 6101(c)(1)(A), 6103(a)(1), (2)(A), (3), (c)(1), 6111(a), 6113(b), 6121(a), Mar. 23, 2010, [124 Stat. 702][/us/stat/124/702], 704, 706, 709, 713, 719, 720.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1819, as added and amended [Pub. L. 100–203, title IV][/us/pl/100/203], §§ 4201(a)(3), 4202(a)(2), 4203(a)(2), 4206, Dec. 22, 1987, [101 Stat. 1330–160][/us/stat/101/1330-160], 1330–175, 1330–179, 1330–182; [Pub. L. 100–360, title IV, § 411][/us/pl/100/360/s411](l)(1)(A), (2)(A)–(D), (F)–(L)(i), (4), (5), (7), (11), July 1, 1988, [102 Stat. 800–805][/us/stat/102/800-805], as amended [Pub. L. 100–485, title VI, § 608(d)(27)(A)][/us/pl/100/485/s608/d/27/A], (C), (D), (I), (L), Oct. 13, 1988, [102 Stat. 2422][/us/stat/102/2422], 2423; [Pub. L. 101–239, title VI, § 6901(b)(1)][/us/pl/101/239/s6901/b/1], (3), (d)(4), Dec. 19, 1989, [103 Stat. 2298][/us/stat/103/2298], 2301; [Pub. L. 101–508, title IV][/us/pl/101/508], §§ 4008(h)(1)(B)–(F)(i), (G), (2)(B)–(N), (m)(3)(F)\[(E)\], 4206(d)(1), Nov. 5, 1990, [104 Stat. 1388–46][/us/stat/104/1388-46] to 1388–50, 1388–54, 1388–116; [Pub. L. 102–375, title VII, § 708(a)(1)(A)][/us/pl/102/375/s708/a/1/A], Sept. 30, 1992, [106 Stat. 1291][/us/stat/106/1291]; [Pub. L. 103–432, title I][/us/pl/103/432], §§ 106(c)(1)(A), (2)(A), (3)(A), (4)(A), (B), (d)(1)–(5), 110(b), Oct. 31, 1994, [108 Stat. 4406–4408][/us/stat/108/4406-4408]; [Pub. L. 105–15, § 1][/us/pl/105/15/s1], May 15, 1997, [111 Stat. 34][/us/stat/111/34]; [Pub. L. 105–33, title IV][/us/pl/105/33], §§ 4432(b)(5)(A), 4755(a), Aug. 5, 1997, [111 Stat. 421][/us/stat/111/421], 526; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IX, § 941(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–585; [Pub. L. 108–173, title VII, § 736(a)(8)][/us/pl/108/173/s736/a/8], title IX, § 932(c)(2), Dec. 8, 2003, [117 Stat. 2355][/us/stat/117/2355], 2401; [Pub. L. 111–148, title VI][/us/pl/111/148], §§ 6101(c)(1)(A), 6103(a)(1), (2)(A), (3), (c)(1), 6111(a), 6113(b), 6121(a), Mar. 23, 2010, [124 Stat. 702][/us/stat/124/702], 704, 706, 709, 713, 719, 720; [Pub. L. 113–185, § 2(c)(4)(B)][/us/pl/113/185/s2/c/4/B], Oct. 6, 2014, [128 Stat. 1966][/us/stat/128/1966].)
 
  __Amendment of Subsection (d)(1)__ 
-
-[Pub. L. 111–148, title VI, § 6103(c)(1)][/us/pl/111/148/s6103/c/1], (3), Mar. 23, 2010, [124 Stat. 709][/us/stat/124/709], 710, provided that, effective 1 year after Mar. 23, 2010, subsection (d)(1) of this section, as amended by [section 6101 of Pub. L. 111–148][/us/pl/111/148/s6101], is amended by adding at the end the following new subparagraph:
-
-    (C) Availability of survey, certification, and complaint investigation reports
-
-    A skilled nursing facility must—
-
-    (i) have reports with respect to any surveys, certifications, and complaint investigations made respecting the facility during the 3 preceding years available for any individual to review upon request; and
-
-    (ii) post notice of the availability of such reports in areas of the facility that are prominent and accessible to the public.
-
-    The facility shall not make available under clause (i) identifying information about complainants or residents.
-
-    See 2010 Amendment note below.
 
     [Pub. L. 111–148, title VI, § 6101(c)(1)(A)][/us/pl/111/148/s6101/c/1/A], (2), Mar. 23, 2010, [124 Stat. 702][/us/stat/124/702], provided that, effective on the date on which the Secretary of Health and Human Services makes certain information available to the public, subsection (d)(1) of this section is amended by striking subparagraph (B) and redesignating subparagraph (C) as subparagraph (B). See 2010 Amendment note and Effective Date of 2010 Amendment note below.
 
@@ -1068,6 +1068,8 @@
     Section 21(b) of the Medicare-Medicaid Anti-Fraud and Abuse Amendments of 1977, referred to in subsec. (f)(7)(A), probably means section 21(b) of the Medicare-Medicaid Anti-Fraud and Abuse Amendments, [Pub. L. 95–142][/us/pl/95/142], which is set out as a note under [section 1395x of this title][/us/usc/t42/s1395x].
 
  __Amendments__ 
+
+    2014—Subsec. (i)(3). [Pub. L. 113–185][/us/pl/113/185] added par. (3).
 
     2010—Subsec. (b)(5)(F). [Pub. L. 111–148, § 6121(a)(2)][/us/pl/111/148/s6121/a/2], inserted concluding provisions.
 
@@ -1655,6 +1657,8 @@
 [/us/usc/t42/s1320a–7j/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937j%2Fg
 [/us/usc/t42/s1320a–7j/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937j%2Ff
 [/us/usc/t42/s1320a–7j/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937j%2Fg
+[/us/usc/t42/s1395i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i
+[/us/usc/t42/s1320a–7j/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937j%2Fg
 [/us/usc/t42/s1396r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r
 [/us/usc/t42/s1396r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
@@ -1682,9 +1686,8 @@
 [/us/stat/117/2355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2355
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F702
-[/us/pl/111/148/s6103/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6103%2Fc%2F1
-[/us/stat/124/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F709
-[/us/pl/111/148/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6101
+[/us/pl/113/185/s2/c/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F185%2Fs2%2Fc%2F4%2FB
+[/us/stat/128/1966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1966
 [/us/pl/111/148/s6101/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6101%2Fc%2F1%2FA
 [/us/stat/124/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F702
 [/us/pl/89/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F73
@@ -1696,6 +1699,7 @@
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/95/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F142
 [/us/usc/t42/s1395x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x
+[/us/pl/113/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F185
 [/us/pl/111/148/s6121/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6121%2Fa%2F2
 [/us/pl/111/148/s6101/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6101%2Fc%2F1%2FA
 [/us/pl/111/148/s6103/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6103%2Fc%2F1

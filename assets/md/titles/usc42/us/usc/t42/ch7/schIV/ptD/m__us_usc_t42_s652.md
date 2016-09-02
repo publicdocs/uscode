@@ -283,11 +283,11 @@
 
         (3) The Secretary and the Secretary of State shall not be liable to an individual for any action with respect to a certification by a State agency under this section.
 
-    (l)  __ <sup>\[__  __2__  __\]</sup> __  __ <sup><sup> __  __2__  __ So in original. Two subsecs. (__  __l__  __) have been enacted.__  __ </sup></sup> __  __Facilitation of agreements between State agencies and financial institutions__ 
+    (l) __Facilitation of agreements between State agencies and financial institutions__ 
 
         The Secretary, through the Federal Parent Locator Service, may aid State agencies providing services under State programs operated pursuant to this part and financial institutions doing business in two or more States in reaching agreements regarding the receipt from such institutions, and the transfer to the State agencies, of information that may be provided pursuant to [section 666(a)(17)(A)(i) of this title][/us/usc/t42/s666/a/17/A/i], except that any State that, as of July 16, 1998, is conducting data matches pursuant to [section 666(a)(17)(A)(i) of this title][/us/usc/t42/s666/a/17/A/i] shall have until January 1, 2000, to allow the Secretary to obtain such information from such institutions that are operating in the State. For purposes of [section 3413(d) of title 12][/us/usc/t12/s3413/d], a disclosure pursuant to this subsection shall be considered a disclosure pursuant to a Federal statute.
 
-    (l)  __2__  __Comparisons with insurance information__ 
+    (m) __Comparisons with insurance information__ 
 
         (1) __In general__ 
 
@@ -301,13 +301,53 @@
 
             An insurer (including any agent of an insurer) shall not be liable under any Federal or State law to any person for any disclosure provided for under this subsection, or for any other action taken in good faith in accordance with this subsection.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 452, as added [Pub. L. 93–647, § 101(a)][/us/pl/93/647/s101/a], Jan. 4, 1975, [88 Stat. 2351][/us/stat/88/2351]; amended [Pub. L. 95–30, title V, § 504(a)][/us/pl/95/30/s504/a], May 23, 1977, [91 Stat. 163][/us/stat/91/163]; [Pub. L. 96–265, title IV][/us/pl/96/265], §§ 402(a), 405(c), (d), June 9, 1980, [94 Stat. 462][/us/stat/94/462], 464, 465; [Pub. L. 96–272, title III, § 301(b)][/us/pl/96/272/s301/b], June 17, 1980, [94 Stat. 527][/us/stat/94/527]; [Pub. L. 97–35, title XXIII, § 2332(b)][/us/pl/97/35/s2332/b], Aug. 13, 1981, [95 Stat. 861][/us/stat/95/861]; [Pub. L. 97–248, title I, § 175(a)(1)][/us/pl/97/248/s175/a/1], Sept. 3, 1982, [96 Stat. 403][/us/stat/96/403]; [Pub. L. 98–369, div. B, title VI, § 2663(c)(12)][/us/pl/98/369/s2663/c/12], (j)(2)(B)(viii), July 18, 1984, [98 Stat. 1166][/us/stat/98/1166], 1170; [Pub. L. 98–378][/us/pl/98/378], §§ 4(b), 9(a)(1), 13(a), (b), 16, Aug. 16, 1984, [98 Stat. 1312][/us/stat/98/1312], 1316, 1319, 1321; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–203, title IX, § 9143(a)][/us/pl/100/203/s9143/a], Dec. 22, 1987, [101 Stat. 1330–322][/us/stat/101/1330-322]; [Pub. L. 100–485, title I][/us/pl/100/485], §§ 111(a), 121(a), 122(a), 123(b), (d), Oct. 13, 1988, [102 Stat. 2348][/us/stat/102/2348], 2351–2353; [Pub. L. 101–239, title X, § 10403(a)(1)(B)(i)][/us/pl/101/239/s10403/a/1/B/i], Dec. 19, 1989, [103 Stat. 2487][/us/stat/103/2487]; [Pub. L. 103–66, title XIII, § 13721(a)][/us/pl/103/66/s13721/a], Aug. 10, 1993, [107 Stat. 658][/us/stat/107/658]; [Pub. L. 103–432, title II, § 213][/us/pl/103/432/s213], Oct. 31, 1994, [108 Stat. 4461][/us/stat/108/4461]; [Pub. L. 104–35, § 1(b)][/us/pl/104/35/s1/b], Oct. 12, 1995, [109 Stat. 294][/us/stat/109/294]; [Pub. L. 104–193, title I, § 108(c)(2)][/us/pl/104/193/s108/c/2]–(9), title III, §§ 301(c)(1), (2), 316(e)(1), 324(a), 331(b), 341(b), formerly 341(c), 342(b), 343(a), 345(a), 346(a), 370(a)(1), 395(d)(1)(B), Aug. 22, 1996, [110 Stat. 2165][/us/stat/110/2165], 2200, 2215, 2223, 2230, 2232–2234, 2237, 2238, 2251, 2259; [Pub. L. 104–208, div. A, title I, § 101(e)][/us/pl/104/208/s101/e] \[title II, § 215\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–255; [Pub. L. 105–33, title V][/us/pl/105/33], §§ 5513(a)(1), (2), 5540, 5541(a), 5556(c), Aug. 5, 1997, [111 Stat. 619][/us/stat/111/619], 630, 637; [Pub. L. 105–200, title I, § 102(a)][/us/pl/105/200/s102/a], title II, § 201(e)(1)(A), title IV, §§ 401(c)(2), 406(b), 407(b), July 16, 1998, [112 Stat. 647][/us/stat/112/647], 657, 662, 671, 672; [Pub. L. 106–169, title IV, § 401(f)][/us/pl/106/169/s401/f], Dec. 14, 1999, [113 Stat. 1858][/us/stat/113/1858]; [Pub. L. 109–171, title VII][/us/pl/109/171], §§ 7303(a), 7304, 7306(a), 7307(a)(2)(A)(i), (b), (c), Feb. 8, 2006, [120 Stat. 145–147][/us/stat/120/145-147].)
+    (n) __Compliance with multilateral child support conventions__ 
+
+        The Secretary shall use the authorities otherwise provided by law to ensure the compliance of the United States with any multilateral child support convention to which the United States is a party.
+
+    (o) __Data exchange standards for improved interoperability__ 
+
+        (1) __Designation__ 
+
+        The Secretary shall, in consultation with an interagency work group established by the Office of Management and Budget and considering State government perspectives, by rule, designate data exchange standards to govern, under this part—
+
+            (A) necessary categories of information that State agencies operating programs under State plans approved under this part are required under applicable Federal law to electronically exchange with another State agency; and
+
+            (B) Federal reporting and data exchange required under applicable Federal law.
+
+        (2) __Requirements__ 
+
+        The data exchange standards required by paragraph (1) shall, to the extent practicable—
+
+            (A) incorporate a widely accepted, non-proprietary, searchable, computer-readable format, such as the eXtensible Markup Language;
+
+            (B) contain interoperable standards developed and maintained by intergovernmental partnerships, such as the National Information Exchange Model;
+
+            (C) incorporate interoperable standards developed and maintained by Federal entities with authority over contracting and financial assistance;
+
+            (D) be consistent with and implement applicable accounting principles;
+
+            (E) be implemented in a manner that is cost-effective and improves program efficiency and effectiveness; and
+
+            (F) be capable of being continually upgraded as necessary.
+
+        (3) __Rule of construction__ 
+
+            Nothing in this subsection shall be construed to require a change to existing data exchange standards found to be effective and efficient.
+
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 452, as added [Pub. L. 93–647, § 101(a)][/us/pl/93/647/s101/a], Jan. 4, 1975, [88 Stat. 2351][/us/stat/88/2351]; amended [Pub. L. 95–30, title V, § 504(a)][/us/pl/95/30/s504/a], May 23, 1977, [91 Stat. 163][/us/stat/91/163]; [Pub. L. 96–265, title IV][/us/pl/96/265], §§ 402(a), 405(c), (d), June 9, 1980, [94 Stat. 462][/us/stat/94/462], 464, 465; [Pub. L. 96–272, title III, § 301(b)][/us/pl/96/272/s301/b], June 17, 1980, [94 Stat. 527][/us/stat/94/527]; [Pub. L. 97–35, title XXIII, § 2332(b)][/us/pl/97/35/s2332/b], Aug. 13, 1981, [95 Stat. 861][/us/stat/95/861]; [Pub. L. 97–248, title I, § 175(a)(1)][/us/pl/97/248/s175/a/1], Sept. 3, 1982, [96 Stat. 403][/us/stat/96/403]; [Pub. L. 98–369, div. B, title VI, § 2663(c)(12)][/us/pl/98/369/s2663/c/12], (j)(2)(B)(viii), July 18, 1984, [98 Stat. 1166][/us/stat/98/1166], 1170; [Pub. L. 98–378][/us/pl/98/378], §§ 4(b), 9(a)(1), 13(a), (b), 16, Aug. 16, 1984, [98 Stat. 1312][/us/stat/98/1312], 1316, 1319, 1321; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–203, title IX, § 9143(a)][/us/pl/100/203/s9143/a], Dec. 22, 1987, [101 Stat. 1330–322][/us/stat/101/1330-322]; [Pub. L. 100–485, title I][/us/pl/100/485], §§ 111(a), 121(a), 122(a), 123(b), (d), Oct. 13, 1988, [102 Stat. 2348][/us/stat/102/2348], 2351–2353; [Pub. L. 101–239, title X, § 10403(a)(1)(B)(i)][/us/pl/101/239/s10403/a/1/B/i], Dec. 19, 1989, [103 Stat. 2487][/us/stat/103/2487]; [Pub. L. 103–66, title XIII, § 13721(a)][/us/pl/103/66/s13721/a], Aug. 10, 1993, [107 Stat. 658][/us/stat/107/658]; [Pub. L. 103–432, title II, § 213][/us/pl/103/432/s213], Oct. 31, 1994, [108 Stat. 4461][/us/stat/108/4461]; [Pub. L. 104–35, § 1(b)][/us/pl/104/35/s1/b], Oct. 12, 1995, [109 Stat. 294][/us/stat/109/294]; [Pub. L. 104–193, title I, § 108(c)(2)][/us/pl/104/193/s108/c/2]–(9), title III, §§ 301(c)(1), (2), 316(e)(1), 324(a), 331(b), 341(b), formerly 341(c), 342(b), 343(a), 345(a), 346(a), 370(a)(1), 395(d)(1)(B), Aug. 22, 1996, [110 Stat. 2165][/us/stat/110/2165], 2200, 2215, 2223, 2230, 2232–2234, 2237, 2238, 2251, 2259; [Pub. L. 104–208, div. A, title I, § 101(e)][/us/pl/104/208/s101/e] \[title II, § 215\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–255; [Pub. L. 105–33, title V][/us/pl/105/33], §§ 5513(a)(1), (2), 5540, 5541(a), 5556(c), Aug. 5, 1997, [111 Stat. 619][/us/stat/111/619], 630, 637; [Pub. L. 105–200, title I, § 102(a)][/us/pl/105/200/s102/a], title II, § 201(e)(1)(A), title IV, §§ 401(c)(2), 406(b), 407(b), July 16, 1998, [112 Stat. 647][/us/stat/112/647], 657, 662, 671, 672; [Pub. L. 106–169, title IV, § 401(f)][/us/pl/106/169/s401/f], Dec. 14, 1999, [113 Stat. 1858][/us/stat/113/1858]; [Pub. L. 109–171, title VII][/us/pl/109/171], §§ 7303(a), 7304, 7306(a), 7307(a)(2)(A)(i), (b), (c), Feb. 8, 2006, [120 Stat. 145–147][/us/stat/120/145-147]; [Pub. L. 113–183, title III][/us/pl/113/183], §§ 301(a)(1), 304(a), Sept. 29, 2014, [128 Stat. 1943][/us/stat/128/1943], 1947.)
 
  __References in Text__ 
 
     The Internal Revenue Code of 1986, referred to in subsec. (b), is classified generally to Title 26, Internal Revenue Code.
 
  __Amendments__ 
+
+    2014—Subsecs. (l), (m). [Pub. L. 113–183, § 301(a)(1)(A)][/us/pl/113/183/s301/a/1/A], redesignated subsec. (l), relating to comparisons with insurance information, as (m).
+
+    Subsec. (n). [Pub. L. 113–183, § 301(a)(1)(B)][/us/pl/113/183/s301/a/1/B], added subsec. (n).
+
+    Subsec. (o). [Pub. L. 113–183, § 304(a)][/us/pl/113/183/s304/a], added subsec. (o).
 
     2006—Subsec. (f). [Pub. L. 109–171, § 7307(a)(2)(A)(i)][/us/pl/109/171/s7307/a/2/A/i], (b), (c), substituted “enforce medical support included as part of a child support order” for “include medical support as part of any child support order and enforce medical support”, inserted after first sentence “A State agency administering the program under this part may enforce medical support against a custodial parent if health care coverage is available to the custodial parent at a reasonable cost, notwithstanding any other provision of this part.”, and inserted at end “For purposes of this part, the term ‘medical support’ may include health care coverage, such as coverage under a health insurance plan (including payment of costs of premiums, co-payments, and deductibles) and payment for medical expenses incurred on behalf of a child.”
 
@@ -655,6 +695,10 @@
 
  __Regulations__ 
 
+[Pub. L. 113–183, title III, § 304(b)][/us/pl/113/183/s304/b], Sept. 29, 2014, [128 Stat. 1947][/us/stat/128/1947], provided that: 
+
+> “The Secretary of Health and Human Services shall issue a proposed rule within 24 months after the date of the enactment of this section \[Sept. 29, 2014\]. The rule shall identify federally required data exchanges, include specification and timing of exchanges to be standardized, and address the factors used in determining whether and when to standardize data exchanges. It should also specify State implementation options and describe future milestones.”
+
 [Pub. L. 100–485, title I, § 122(b)][/us/pl/100/485/s122/b], Oct. 13, 1988, [102 Stat. 2351][/us/stat/102/2351], provided that: 
 
 > “Not later than 180 days after the date of the enactment of this Act \[Oct. 13, 1988\], the Secretary of Health and Human Services shall issue a notice of proposed rulemaking with respect to the standards required by the amendment made by subsection (a) \[amending this section\], and, after allowing not less than 60 days for public comment, shall issue final regulations not later than the first day of the 10th month to begin after such date of enactment.”
@@ -756,6 +800,11 @@
 [/us/stat/113/1858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1858
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
 [/us/stat/120/145-147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F145-147
+[/us/pl/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183
+[/us/stat/128/1943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1943
+[/us/pl/113/183/s301/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs301%2Fa%2F1%2FA
+[/us/pl/113/183/s301/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs301%2Fa%2F1%2FB
+[/us/pl/113/183/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs304%2Fa
 [/us/pl/109/171/s7307/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs7307%2Fa%2F2%2FA%2Fi
 [/us/pl/109/171/s7304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs7304
 [/us/pl/109/171/s7303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs7303%2Fa
@@ -983,6 +1032,8 @@
 [/us/usc/t42/s655/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs655%2Fa%2F3
 [/us/pl/95/30/s504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2Fs504%2Fb
 [/us/stat/91/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F164
+[/us/pl/113/183/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs304%2Fb
+[/us/stat/128/1947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1947
 [/us/pl/100/485/s122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs122%2Fb
 [/us/stat/102/2351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2351
 [/us/pl/100/485/s111/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs111%2Ff%2F3

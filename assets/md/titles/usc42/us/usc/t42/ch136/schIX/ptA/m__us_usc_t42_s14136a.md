@@ -45,15 +45,17 @@
 
     (c) __Authorization of appropriations__ 
 
-        There are authorized to be appropriated $30,000,000 for each of fiscal years 2009 through 2014 to carry out this section.
+        There are authorized to be appropriated $30,000,000 for each of fiscal years 2015 through 2019 to carry out this section.
 
-([Pub. L. 108–405, title III, § 304][/us/pl/108/405/s304], Oct. 30, 2004, [118 Stat. 2273][/us/stat/118/2273]; [Pub. L. 110–360, § 4][/us/pl/110/360/s4], Oct. 8, 2008, [122 Stat. 4009][/us/stat/122/4009].)
+([Pub. L. 108–405, title III, § 304][/us/pl/108/405/s304], Oct. 30, 2004, [118 Stat. 2273][/us/stat/118/2273]; [Pub. L. 110–360, § 4][/us/pl/110/360/s4], Oct. 8, 2008, [122 Stat. 4009][/us/stat/122/4009]; [Pub. L. 113–182, § 4][/us/pl/113/182/s4], Sept. 29, 2014, [128 Stat. 1918][/us/stat/128/1918].)
 
  __Codification__ 
 
     Section was enacted as part of the DNA Sexual Assault Justice Act of 2004 and also as part of the Justice for All Act of 2004, and not as part of Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
 
  __Amendments__ 
+
+    2014—Subsec. (c). [Pub. L. 113–182][/us/pl/113/182] substituted “2015 through 2019” for “2009 through 2014”.
 
     2008—Subsec. (c). [Pub. L. 110–360][/us/pl/110/360] substituted “2009 through 2014” for “2005 through 2009”.
 
@@ -68,6 +70,9 @@
 [/us/stat/118/2273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2273
 [/us/pl/110/360/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F360%2Fs4
 [/us/stat/122/4009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4009
+[/us/pl/113/182/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F182%2Fs4
+[/us/stat/128/1918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1918
+[/us/pl/113/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F182
 [/us/pl/110/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F360
 
 

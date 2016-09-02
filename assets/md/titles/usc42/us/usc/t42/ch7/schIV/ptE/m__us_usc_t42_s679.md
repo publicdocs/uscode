@@ -117,15 +117,31 @@
 
                 (ii) children adopted or with respect to whom adoptions have been terminated, and
 
-                (iii) children placed in foster care outside the State which has placement and care responsibility, and
+                (iii) children placed in foster care outside the State which has placement and care responsibility,
 
-            (D) the extent and nature of assistance provided by Federal, State, and local adoption and foster care programs and the characteristics of the children with respect to whom such assistance is provided; and
+            (D) the extent and nature of assistance provided by Federal, State, and local adoption and foster care programs and the characteristics of the children with respect to whom such assistance is provided;  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The semicolon probably should be a comma. </sup></sup>  and
+
+            (E)
+
+             the annual number of children in foster care who are identified as sex trafficking victims—
+
+                (i) who were such victims before entering foster care; and
+
+                (ii) who were such victims while in foster care; and
 
         (4) utilize appropriate requirements and incentives to ensure that the system functions reliably throughout the United States.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 479, as added [Pub. L. 99–509, title IX, § 9443][/us/pl/99/509/s9443], Oct. 21, 1986, [100 Stat. 2073][/us/stat/100/2073]; amended [Pub. L. 103–432, title II, § 209(c)][/us/pl/103/432/s209/c], Oct. 31, 1994, [108 Stat. 4459][/us/stat/108/4459].)
+    (d) __Data collection on adoption and legal guardianship disruption and dissolution__ 
+
+        To promote improved knowledge on how best to ensure strong, permanent families for children, the Secretary shall promulgate regulations providing for the collection and analysis of information regarding children who enter into foster care under the supervision of a State after prior finalization of an adoption or legal guardianship. The regulations shall require each State with a State plan approved under this part to collect and report as part of such data collection system the number of children who enter foster care under supervision of the State after finalization of an adoption or legal guardianship and may include information concerning the length of the prior adoption or guardianship, the age of the child at the time of the prior adoption or guardianship, the age at which the child subsequently entered foster care under supervision of the State, the type of agency involved in making the prior adoptive or guardianship placement, and any other factors determined necessary to better understand factors associated with the child’s post-adoption or post-guardianship entry to foster care.
+
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 479, as added [Pub. L. 99–509, title IX, § 9443][/us/pl/99/509/s9443], Oct. 21, 1986, [100 Stat. 2073][/us/stat/100/2073]; amended [Pub. L. 103–432, title II, § 209(c)][/us/pl/103/432/s209/c], Oct. 31, 1994, [108 Stat. 4459][/us/stat/108/4459]; [Pub. L. 113–183, title I, § 103][/us/pl/113/183/s103], title II, § 208, Sept. 29, 2014, [128 Stat. 1922][/us/stat/128/1922], 1940.)
 
  __Amendments__ 
+
+    2014—Subsec. (c)(3)(E). [Pub. L. 113–183, § 103][/us/pl/113/183/s103], added subpar. (E).
+
+    Subsec. (d). [Pub. L. 113–183, § 208][/us/pl/113/183/s208], added subsec. (d).
 
     1994—Subsec. (c)(3)(C)(iii). [Pub. L. 103–432][/us/pl/103/432] added cl. (iii).
 
@@ -149,6 +165,10 @@
 [/us/stat/100/2073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2073
 [/us/pl/103/432/s209/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs209%2Fc
 [/us/stat/108/4459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4459
+[/us/pl/113/183/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs103
+[/us/stat/128/1922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1922
+[/us/pl/113/183/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs103
+[/us/pl/113/183/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs208
 [/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
 [/us/pl/103/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432
 [/us/pl/103/432/s209/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F432%2Fs209%2Fd
