@@ -909,6 +909,12 @@
 
 >  __“done at honolulu, hawaii, this 1st day of__ 
 
+>  __“october, one thousand, nine hundred eighty-two__ 
+
+>  __“for the government__ 
+
+>  __“of__ 
+
 >  __“the united states of america__ 
 
 >     “ambassador fred m. zeder, ii
@@ -918,6 +924,12 @@
 >     “for micronesian status negotiations
 
 >  __“done at honolulu, hawaii, this 1st day of__ 
+
+>  __“october, one thousand, nine hundred eighty-two__ 
+
+>  __“for the government__ 
+
+>  __“of__ 
 
 >  __“the federated states of micronesia__ 
 
@@ -929,6 +941,12 @@
 
 >  __“done at majuro, marshall islands, this 25th day__ 
 
+>  __“of june, one thousand, nine hundred, eighty-three__ 
+
+>  __“for the government__ 
+
+>  __“of__ 
+
 >  __“the united states of america__ 
 
 >     “ambassador fred m. zeder, ii
@@ -938,6 +956,12 @@
 >     “for micronesian status negotiations
 
 >  __“done at majuro, marshall islands, this 25th day__ 
+
+>  __“of june, one thousand, nine hundred eighty-three__ 
+
+>  __“for the government__ 
+
+>  __“of__ 
 
 >  __“the marshall islands__ 
 
