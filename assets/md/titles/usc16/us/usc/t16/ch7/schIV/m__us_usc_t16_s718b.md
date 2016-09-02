@@ -71,7 +71,7 @@
 
     (b) __Cost of stamps__ 
 
-    The Postal Service shall collect $10.00 for each stamp sold under the provisions of this section for hunting years 1987 and 1988, $12.50 for hunting years 1989 and 1990, and $15.00 for each hunting year thereafter, if the Secretary determines, at any time before February 1 of the calendar year in which such hunting year begins, that all sums in the Migratory Bird Conservation Fund available for obligation and attributable to—
+    The Postal Service shall collect $10.00 for each stamp sold under the provisions of this section for hunting years 1987 and 1988, $12.50 for hunting years 1989 and 1990, $15.00 for hunting years 1991 through 2013, and $25 for each hunting year thereafter, if the Secretary determines, at any time before February 1 of the calendar year in which such hunting year begins, that all sums in the Migratory Bird Conservation Fund available for obligation and attributable to—
 
         (1) amounts appropriated pursuant to this subchapter for the fiscal year ending in the immediately preceding calendar year; and
 
@@ -79,9 +79,17 @@
 
         have been obligated for expenditure.
 
-([Mar. 16, 1934, ch. 71, § 2][/us/act/1934-03-16/ch71/s2], [48 Stat. 451][/us/stat/48/451]; [June 15, 1935, ch. 261][/us/act/1935-06-15/ch261], title I, § 2, [49 Stat. 379][/us/stat/49/379]; [Aug. 12, 1949, ch. 421, § 1][/us/act/1949-08-12/ch421/s1], [63 Stat. 599][/us/stat/63/599]; [July 30, 1956, ch. 782][/us/act/1956-07-30/ch782], §§ 2, 3(c), formerly § 3(b), [70 Stat. 722][/us/stat/70/722], renumbered [Pub. L. 109–266, § 10(i)(1)][/us/pl/109/266/s10/i/1], Aug. 3, 2006, [120 Stat. 679][/us/stat/120/679]; [Pub. L. 85–585, § 1][/us/pl/85/585/s1], Aug. 1, 1958, [72 Stat. 486][/us/stat/72/486]; [Pub. L. 92–214][/us/pl/92/214], §§ 1, 2, Dec. 22, 1971, [85 Stat. 777][/us/stat/85/777]; [Pub. L. 94–215, § 3(b)][/us/pl/94/215/s3/b], (c), Feb. 17, 1976, [90 Stat. 189][/us/stat/90/189]; [Pub. L. 94–273, § 34][/us/pl/94/273/s34], Apr. 21, 1976, [90 Stat. 380][/us/stat/90/380]; [Pub. L. 95–552, § 1][/us/pl/95/552/s1], Oct. 30, 1978, [92 Stat. 2071][/us/stat/92/2071]; [Pub. L. 95–616, § 7(a)][/us/pl/95/616/s7/a], Nov. 8, 1978, [92 Stat. 3114][/us/stat/92/3114]; [Pub. L. 99–625, § 3][/us/pl/99/625/s3], Nov. 7, 1986, [100 Stat. 3502][/us/stat/100/3502]; [Pub. L. 99–645, title II, § 202][/us/pl/99/645/s202], Nov. 10, 1986, [100 Stat. 3586][/us/stat/100/3586]; [Pub. L. 109–266, § 10(b)][/us/pl/109/266/s10/b], (c), Aug. 3, 2006, [120 Stat. 674][/us/stat/120/674], 675.)
+    (c) __Reduction in price of stamp__ 
+
+        The Secretary may reduce the price of each stamp sold under the provisions of this section for a hunting year if the Secretary determines that the increase in the price of the stamp after hunting year 2013 resulted in a reduction in revenues deposited into the fund.
+
+([Mar. 16, 1934, ch. 71, § 2][/us/act/1934-03-16/ch71/s2], [48 Stat. 451][/us/stat/48/451]; [June 15, 1935, ch. 261][/us/act/1935-06-15/ch261], title I, § 2, [49 Stat. 379][/us/stat/49/379]; [Aug. 12, 1949, ch. 421, § 1][/us/act/1949-08-12/ch421/s1], [63 Stat. 599][/us/stat/63/599]; [July 30, 1956, ch. 782][/us/act/1956-07-30/ch782], §§ 2, 3(c), formerly § 3(b), [70 Stat. 722][/us/stat/70/722], renumbered [Pub. L. 109–266, § 10(i)(1)][/us/pl/109/266/s10/i/1], Aug. 3, 2006, [120 Stat. 679][/us/stat/120/679]; [Pub. L. 85–585, § 1][/us/pl/85/585/s1], Aug. 1, 1958, [72 Stat. 486][/us/stat/72/486]; [Pub. L. 92–214][/us/pl/92/214], §§ 1, 2, Dec. 22, 1971, [85 Stat. 777][/us/stat/85/777]; [Pub. L. 94–215, § 3(b)][/us/pl/94/215/s3/b], (c), Feb. 17, 1976, [90 Stat. 189][/us/stat/90/189]; [Pub. L. 94–273, § 34][/us/pl/94/273/s34], Apr. 21, 1976, [90 Stat. 380][/us/stat/90/380]; [Pub. L. 95–552, § 1][/us/pl/95/552/s1], Oct. 30, 1978, [92 Stat. 2071][/us/stat/92/2071]; [Pub. L. 95–616, § 7(a)][/us/pl/95/616/s7/a], Nov. 8, 1978, [92 Stat. 3114][/us/stat/92/3114]; [Pub. L. 99–625, § 3][/us/pl/99/625/s3], Nov. 7, 1986, [100 Stat. 3502][/us/stat/100/3502]; [Pub. L. 99–645, title II, § 202][/us/pl/99/645/s202], Nov. 10, 1986, [100 Stat. 3586][/us/stat/100/3586]; [Pub. L. 109–266, § 10(b)][/us/pl/109/266/s10/b], (c), Aug. 3, 2006, [120 Stat. 674][/us/stat/120/674], 675; [Pub. L. 113–264, § 2(1)][/us/pl/113/264/s2/1], (2), Dec. 18, 2014, [128 Stat. 2939][/us/stat/128/2939].)
 
  __Amendments__ 
+
+    2014—Subsec. (b). [Pub. L. 113–264, § 2(1)][/us/pl/113/264/s2/1], substituted “1990, $15.00 for hunting years 1991 through 2013, and $25 for each hunting year thereafter” for “1990, and $15.00 for each hunting year thereafter”.
+
+    Subsec. (c). [Pub. L. 113–264, § 2(2)][/us/pl/113/264/s2/2], added subsec. (c).
 
     2006—[Pub. L. 109–266, § 10(b)][/us/pl/109/266/s10/b], inserted section catchline.
 
@@ -166,6 +174,10 @@
 [/us/stat/100/3586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3586
 [/us/pl/109/266/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F266%2Fs10%2Fb
 [/us/stat/120/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F674
+[/us/pl/113/264/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F264%2Fs2%2F1
+[/us/stat/128/2939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2939
+[/us/pl/113/264/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F264%2Fs2%2F1
+[/us/pl/113/264/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F264%2Fs2%2F2
 [/us/pl/109/266/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F266%2Fs10%2Fb
 [/us/pl/109/266/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F266%2Fs10%2Fb
 [/us/pl/109/266/s10/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F266%2Fs10%2Fc%2F4

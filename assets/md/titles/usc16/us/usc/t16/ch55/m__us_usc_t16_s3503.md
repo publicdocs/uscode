@@ -387,6 +387,8 @@
 
 The following acts directed the Secretary of the Interior to make technical revisions and corrections to maps relating to particular units of the John H. Chafee Coastal Barrier Resources System:
 
+    [Pub. L. 113–253][/us/pl/113/253], Dec. 18, 2014, [128 Stat. 2895][/us/stat/128/2895].
+
     [Pub. L. 110–419, § 1][/us/pl/110/419/s1], Oct. 15, 2008, [122 Stat. 4773][/us/stat/122/4773].
 
     [Pub. L. 109–355, § 1][/us/pl/109/355/s1], Oct. 16, 2006, [120 Stat. 2018][/us/stat/120/2018].
@@ -621,6 +623,8 @@ The following acts directed the Secretary of the Interior to make technical revi
 [/us/pl/106/167/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F167%2Fs3%2Fa
 [/us/stat/113/1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1804
 [/us/usc/t16/s3503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3503%2Fa
+[/us/pl/113/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F253
+[/us/stat/128/2895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2895
 [/us/pl/110/419/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F419%2Fs1
 [/us/stat/122/4773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4773
 [/us/pl/109/355/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F355%2Fs1

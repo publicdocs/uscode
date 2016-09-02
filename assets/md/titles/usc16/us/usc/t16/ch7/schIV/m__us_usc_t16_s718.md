@@ -17,6 +17,12 @@
 
     Section, [act Mar. 16, 1934, ch. 71, § 9][/us/act/1934-03-16/ch71/s9], [48 Stat. 452][/us/stat/48/452], defined subchapter terms.
 
+ __Short Title of 2014 Amendment__ 
+
+[Pub. L. 113–264, § 1][/us/pl/113/264/s1], Dec. 18, 2014, [128 Stat. 2939][/us/stat/128/2939], provided that: 
+
+> “This Act \[amending sections 718a, 718b, and 718d of this title\] may be cited as the ‘Federal Duck Stamp Act of 2014’.”
+
  __Short Title of 2006 Amendment__ 
 
 [Pub. L. 109–266, § 1][/us/pl/109/266/s1], Aug. 3, 2006, [120 Stat. 670][/us/stat/120/670], provided that: 
@@ -256,6 +262,8 @@
 [/us/stat/120/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F677
 [/us/act/1934-03-16/ch71/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-03-16%2Fch71%2Fs9
 [/us/stat/48/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F452
+[/us/pl/113/264/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F264%2Fs1
+[/us/stat/128/2939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2939
 [/us/pl/109/266/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F266%2Fs1
 [/us/stat/120/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F670
 [/us/pl/105/269/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F269%2Fs1

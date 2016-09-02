@@ -475,6 +475,62 @@ SUBCHAPTER IV—HUNTING AND CONSERVATION STAMP TAX  </td>
 
     <td> 
 
+SUBCHAPTERIV–A—PERMANENT ELECTRONIC DUCK STAMP  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs718" data-uslm-ref="/us/usc/t16/s718">718</a>o.  </td>
+
+    <td> Definitions.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs718p" data-uslm-ref="/us/usc/t16/s718p">718p.</a>  </td>
+
+    <td> Authority to issue electronic duck stamps.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs718q" data-uslm-ref="/us/usc/t16/s718q">718q.</a>  </td>
+
+    <td> State application.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs718r" data-uslm-ref="/us/usc/t16/s718r">718r.</a>  </td>
+
+    <td> State obligations and authorities.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs718s" data-uslm-ref="/us/usc/t16/s718s">718s.</a>  </td>
+
+    <td> Electronic stamp requirements; recognition of electronic stamp.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs718t" data-uslm-ref="/us/usc/t16/s718t">718t.</a>  </td>
+
+    <td> Termination of State participation.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
 SUBCHAPTER V—JUNIOR DUCK STAMP CONSERVATION AND DESIGN PROGRAM  </td>
 
   </tr>

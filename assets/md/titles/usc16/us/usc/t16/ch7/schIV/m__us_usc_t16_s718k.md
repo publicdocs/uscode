@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch7/schIV/m__us_usc_t16_s718j.md) | [Next](./../../../../..//us/usc/t16/ch7/schV/m__us_usc_t16_ch7_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs718k)
+[Previous](./../../../../..//us/usc/t16/ch7/schIV/m__us_usc_t16_s718j.md) | [Next](./../../../../..//us/usc/t16/ch7/schIV–A/m__us_usc_t16_ch7_schIV–A.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs718k)
 
 ## § 718k. Use of fees collected for Federal migratory bird permits
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch7/schIV/m__us_usc_t16_s718j.md) | [Next](./../../../../..//us/usc/t16/ch7/schV/m__us_usc_t16_ch7_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs718k)
+[Previous](./../../../../..//us/usc/t16/ch7/schIV/m__us_usc_t16_s718j.md) | [Next](./../../../../..//us/usc/t16/ch7/schIV–A/m__us_usc_t16_ch7_schIV–A.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs718k)
 
 ----------
 ----------

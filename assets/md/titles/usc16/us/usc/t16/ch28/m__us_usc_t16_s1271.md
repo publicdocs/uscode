@@ -23,6 +23,12 @@
 
     Section consists of subsec. (b) of [section 1 of Pub. L. 90–542][/us/pl/90/542/s1]. Subsecs. (a) and (c) of section 1 are classified to [section 1272 of this title][/us/usc/t16/s1272] and as a note under this section, respectively.
 
+ __Short Title of 2014 Amendment__ 
+
+[Pub. L. 113–244, § 1][/us/pl/113/244/s1], Dec. 18, 2014, [128 Stat. 2864][/us/stat/128/2864], provided that: 
+
+> “This Act \[amending [section 1274 of this title][/us/usc/t16/s1274] and [section 615i of Title 43][/us/usc/t43/s615i], Public Lands, and enacting provisions classified as a note under [section 1274 of this title][/us/usc/t16/s1274]\] may be cited as the ‘Crooked River Collaborative Water Security and Jobs Act of 2014’.”
+
  __Short Title of 2009 Amendment__ 
 
 [Pub. L. 111–11, title V, § 5002(a)][/us/pl/111/11/s5002/a], Mar. 30, 2009, [123 Stat. 1147][/us/stat/123/1147], provided that: 
@@ -186,6 +192,11 @@
 [/us/stat/82/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F906
 [/us/pl/90/542/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F542%2Fs1
 [/us/usc/t16/s1272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1272
+[/us/pl/113/244/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F244%2Fs1
+[/us/stat/128/2864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2864
+[/us/usc/t16/s1274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1274
+[/us/usc/t43/s615i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs615i
+[/us/usc/t16/s1274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1274
 [/us/pl/111/11/s5002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs5002%2Fa
 [/us/stat/123/1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1147
 [/us/usc/t16/s1274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1274
