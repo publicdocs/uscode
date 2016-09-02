@@ -35,7 +35,7 @@
 
         (3) This subsection does not apply to a member of the National Guard or a reserve component who is entitled to basic pay under [section 204 of this title][/us/usc/t37/s204].
 
-([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 467][/us/stat/76/467]; [Pub. L. 90–623, § 3(1)][/us/pl/90/623/s3/1], Oct. 22, 1968, [82 Stat. 1314][/us/stat/82/1314]; [Pub. L. 98–525, title VI, § 623(b)(1)][/us/pl/98/525/s623/b/1], Oct. 19, 1984, [98 Stat. 2541][/us/stat/98/2541]; [Pub. L. 102–25, title VII, § 702(b)(1)][/us/pl/102/25/s702/b/1], (c), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117]; [Pub. L. 104–106, div. A, title VI, § 619(a)][/us/pl/104/106/s619/a], Feb. 10, 1996, [110 Stat. 363][/us/stat/110/363]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, §§ 631, 632(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–156; [Pub. L. 107–296, title XVII, § 1704(c)][/us/pl/107/296/s1704/c], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
+([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 467][/us/stat/76/467]; [Pub. L. 90–623][/us/pl/90/623], § 3(1), Oct. 22, 1968, [82 Stat. 1314][/us/stat/82/1314]; [Pub. L. 98–525, title VI][/us/pl/98/525/tVI], § 623(b)(1), Oct. 19, 1984, [98 Stat. 2541][/us/stat/98/2541]; [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 702(b)(1), (c), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117]; [Pub. L. 104–106, div. A, title VI][/us/pl/104/106/dA/tVI], § 619(a), Feb. 10, 1996, [110 Stat. 363][/us/stat/110/363]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, §§ 631, 632(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–156; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(c), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
 
 <table>
 
@@ -105,9 +105,9 @@ Oct. 12, 1949, ch. 681, § 209; added May 20, 1958, Pub. L. 85–422, § 1(8
 
     2002—Subsec. (c). [Pub. L. 107–296][/us/pl/107/296] substituted “of Homeland Security” for “of Transportation”.
 
-    2000—Subsec. (a). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 631\], substituted “$600” for “$275” and struck out at end “In the case of a member who is serving as a military recruiter and is eligible for special duty assignment pay under this subsection on account of such duty, the Secretary concerned may increase the monthly rate of special duty assignment pay for the member to not more than $375.”
+    2000—Subsec. (a). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 631\], substituted “$600” for “$275” and struck out at end “In the case of a member who is serving as a military recruiter and is eligible for special duty assignment pay under this subsection on account of such duty, the Secretary concerned may increase the monthly rate of special duty assignment pay for the member to not more than $375.”
 
-    Subsec. (d). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 632(a)\], added subsec. (d).
+    Subsec. (d). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 632(a)\], added subsec. (d).
 
     1996—Subsec. (a). [Pub. L. 104–106][/us/pl/104/106] inserted at end “In the case of a member who is serving as a military recruiter and is eligible for special duty assignment pay under this subsection on account of such duty, the Secretary concerned may increase the monthly rate of special duty assignment pay for the member to not more than $375.”
 
@@ -131,13 +131,13 @@ Oct. 12, 1949, ch. 681, § 209; added May 20, 1958, Pub. L. 85–422, § 1(8
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 632(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–157, provided that: 
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 632(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–157, provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect October 1, 2000.”
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–106, div. A, title VI, § 619(b)][/us/pl/104/106/s619/b], Feb. 10, 1996, [110 Stat. 363][/us/stat/110/363], provided that: 
+[Pub. L. 104–106, div. A, title VI][/us/pl/104/106/dA/tVI], § 619(b), Feb. 10, 1996, [110 Stat. 363][/us/stat/110/363], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 1996.”
 
@@ -151,7 +151,7 @@ Oct. 12, 1949, ch. 681, § 209; added May 20, 1958, Pub. L. 85–422, § 1(8
 
  __Members Entitled to Special Pay as of September 30, 1984__ 
 
-[Pub. L. 98–525, title VI, § 623(b)(3)][/us/pl/98/525/s623/b/3], Oct. 19, 1984, [98 Stat. 2542][/us/stat/98/2542], provided that: 
+[Pub. L. 98–525, title VI][/us/pl/98/525/tVI], § 623(b)(3), Oct. 19, 1984, [98 Stat. 2542][/us/stat/98/2542], provided that: 
 
 > “A member of the uniformed services who, on September 30, 1984, was entitled to special pay under [section 307 of title 37][/us/usc/t37/s307], United States Code \[this section\], as in effect on such date, may continue to be paid the special pay authorized by such section as though the amendments made by this subsection \[amending this section\] had not been made. However, a member may not be paid the special pay authorized by such section as in effect on September 30, 1984, and the special pay authorized by such section as amended by this section.”
 
@@ -167,23 +167,23 @@ Oct. 12, 1949, ch. 681, § 209; added May 20, 1958, Pub. L. 85–422, § 1(8
 [/us/usc/t37/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs204
 [/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F467
-[/us/pl/90/623/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623%2Fs3%2F1
+[/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/stat/82/1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1314
-[/us/pl/98/525/s623/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs623%2Fb%2F1
+[/us/pl/98/525/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtVI
 [/us/stat/98/2541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2541
-[/us/pl/102/25/s702/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs702%2Fb%2F1
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F117
-[/us/pl/104/106/s619/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs619%2Fa
+[/us/pl/104/106/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtVI
 [/us/stat/110/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F363
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/296/s1704/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fc
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
 [/us/usc/t37/s232/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs232%2Fa
 [/us/usc/t37/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs205
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
 [/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
@@ -196,9 +196,9 @@ Oct. 12, 1949, ch. 681, § 209; added May 20, 1958, Pub. L. 85–422, § 1(8
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/104/106/s619/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs619%2Fb
+[/us/pl/104/106/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtVI
 [/us/stat/110/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F363
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
 [/us/pl/98/525/s623/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs623%2Fc
@@ -206,7 +206,7 @@ Oct. 12, 1949, ch. 681, § 209; added May 20, 1958, Pub. L. 85–422, § 1(8
 [/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/pl/90/623/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623%2Fs6
 [/us/usc/t5/s5334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5334
-[/us/pl/98/525/s623/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs623%2Fb%2F3
+[/us/pl/98/525/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtVI
 [/us/stat/98/2542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2542
 [/us/usc/t37/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs307
 

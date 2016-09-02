@@ -61,7 +61,7 @@
 
         (F) station per diem allowances for not more than 90 days.
 
-(Added [Pub. L. 89–554, § 5(b)][/us/pl/89/554/s5/b], Sept. 6, 1966, [80 Stat. 625][/us/stat/80/625]; amended [Pub. L. 99–145, title XIII, § 1301(g)][/us/pl/99/145/s1301/g], Nov. 8, 1985, [99 Stat. 737][/us/stat/99/737]; [Pub. L. 100–26, § 8(e)(10)][/us/pl/100/26/s8/e/10], Apr. 21, 1987, [101 Stat. 287][/us/stat/101/287]; [Pub. L. 105–85, div. A, title VI, § 603(d)(1)(D)][/us/pl/105/85/s603/d/1/D], Nov. 18, 1997, [111 Stat. 1782][/us/stat/111/1782].)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 5(b), Sept. 6, 1966, [80 Stat. 625][/us/stat/80/625]; amended [Pub. L. 99–145, title XIII][/us/pl/99/145/tXIII], § 1301(g), Nov. 8, 1985, [99 Stat. 737][/us/stat/99/737]; [Pub. L. 100–26][/us/pl/100/26], § 8(e)(10), Apr. 21, 1987, [101 Stat. 287][/us/stat/101/287]; [Pub. L. 105–85, div. A, title VI][/us/pl/105/85/dA/tVI], § 603(d)(1)(D), Nov. 18, 1997, [111 Stat. 1782][/us/stat/111/1782].)
 
 <table>
 
@@ -154,13 +154,13 @@ Mar. 7, 1942, ch. 166, § 2(a) (22d through 66th and 96th through 120th words 
 ----------
 ----------
 
-[/us/pl/89/554/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs5%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F625
-[/us/pl/99/145/s1301/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1301%2Fg
+[/us/pl/99/145/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXIII
 [/us/stat/99/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F737
-[/us/pl/100/26/s8/e/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs8%2Fe%2F10
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F287
-[/us/pl/105/85/s603/d/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs603%2Fd%2F1%2FD
+[/us/pl/105/85/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVI
 [/us/stat/111/1782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1782
 [/us/usc/t37/s101/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs101%2F5
 [/us/usc/t37/s101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs101%2F3

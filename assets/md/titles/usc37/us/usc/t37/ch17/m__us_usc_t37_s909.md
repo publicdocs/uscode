@@ -27,11 +27,11 @@
 
     In this section, the term “qualifying service” means service for which a particular special pay or incentive pay is payable under the authority of a provision of chapter 5 of this title.
 
-(Added [Pub. L. 107–107, div. A, title VI, § 623(a)(1)][/us/pl/107/107/s623/a/1], Dec. 28, 2001, [115 Stat. 1142][/us/stat/115/1142].)
+(Added [Pub. L. 107–107, div. A, title VI][/us/pl/107/107/dA/tVI], § 623(a)(1), Dec. 28, 2001, [115 Stat. 1142][/us/stat/115/1142].)
 
  __Effective Date__ 
 
-[Pub. L. 107–107, div. A, title VI, § 623(b)][/us/pl/107/107/s623/b], Dec. 28, 2001, [115 Stat. 1143][/us/stat/115/1143], provided that: 
+[Pub. L. 107–107, div. A, title VI][/us/pl/107/107/dA/tVI], § 623(b), Dec. 28, 2001, [115 Stat. 1143][/us/stat/115/1143], provided that: 
 
 > “[Section 909 of title 37][/us/usc/t37/s909], United States Code, as added by subsection (a)(1), shall apply with respect to pay periods beginning after September 11, 2001.”
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/107/107/s623/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs623%2Fa%2F1
+[/us/pl/107/107/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtVI
 [/us/stat/115/1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1142
-[/us/pl/107/107/s623/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs623%2Fb
+[/us/pl/107/107/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtVI
 [/us/stat/115/1143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1143
 [/us/usc/t37/s909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs909
 

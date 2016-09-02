@@ -21,7 +21,7 @@
 
     (c) The Secretary of Defense, the Secretary of Homeland Security, the Secretary of Commerce, or the Secretary of Health and Human Services, may obtain from the Comptroller General an advisory opinion with respect to a proposed regulation especially affecting a department under that Secretary’s jurisdiction.
 
-([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 489][/us/stat/76/489]; [Pub. L. 89–718][/us/pl/89/718], §§ 49(a)(1), 69, Nov. 2, 1966, [80 Stat. 1121][/us/stat/80/1121], 1123; [Pub. L. 90–623, § 3(1)][/us/pl/90/623/s3/1], Oct. 22, 1968, [82 Stat. 1314][/us/stat/82/1314]; [Pub. L. 96–513, title V, § 516(22)][/us/pl/96/513/s516/22], Dec. 12, 1980, [94 Stat. 2939][/us/stat/94/2939]; [Pub. L. 102–25, title VII, § 702(b)(1)][/us/pl/102/25/s702/b/1], (c), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117]; [Pub. L. 107–296, title XVII, § 1704(c)][/us/pl/107/296/s1704/c], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
+([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 489][/us/stat/76/489]; [Pub. L. 89–718][/us/pl/89/718], §§ 49(a)(1), 69, Nov. 2, 1966, [80 Stat. 1121][/us/stat/80/1121], 1123; [Pub. L. 90–623][/us/pl/90/623], § 3(1), Oct. 22, 1968, [82 Stat. 1314][/us/stat/82/1314]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 516(22), Dec. 12, 1980, [94 Stat. 2939][/us/stat/94/2939]; [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 702(b)(1), (c), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(c), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
 
 <table>
 
@@ -87,9 +87,9 @@ Oct. 12, 1949, ch. 681, § 534; added Sept. 2, 1957, Pub. L. 85–272, § 4,
 
     1991—Subsec. (b). [Pub. L. 102–25][/us/pl/102/25] struck out “of this section” after “subsection (a)”.
 
-    1980—Subsec. (b). [Pub. L. 96–513, § 516(22)(A)][/us/pl/96/513/s516/22/A], substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
+    1980—Subsec. (b). [Pub. L. 96–513][/us/pl/96/513], § 516(22)(A), substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
 
-    Subsec. (c). [Pub. L. 96–513, § 516(22)(B)][/us/pl/96/513/s516/22/B], substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
+    Subsec. (c). [Pub. L. 96–513][/us/pl/96/513], § 516(22)(B), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
 
     1968—Subsec. (c). [Pub. L. 90–623][/us/pl/90/623] substituted “Secretary of Transportation” for “Secretary of the Treasury”.
 
@@ -122,19 +122,19 @@ Oct. 12, 1949, ch. 681, § 534; added Sept. 2, 1957, Pub. L. 85–272, § 4,
 [/us/stat/76/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F489
 [/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1121
-[/us/pl/90/623/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623%2Fs3%2F1
+[/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/stat/82/1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1314
-[/us/pl/96/513/s516/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs516%2F22
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2939
-[/us/pl/102/25/s702/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs702%2Fb%2F1
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F117
-[/us/pl/107/296/s1704/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fc
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
 [/us/usc/t1/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs1
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
-[/us/pl/96/513/s516/22/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs516%2F22%2FA
-[/us/pl/96/513/s516/22/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs516%2F22%2FB
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296

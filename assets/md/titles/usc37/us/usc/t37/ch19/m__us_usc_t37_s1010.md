@@ -17,7 +17,7 @@
 
     An officer of a uniformed service who is promoted to a grade above second lieutenant or ensign is entitled to the pay and allowances of the grade to which promoted on the effective date of the promotion.
 
-(Added [Pub. L. 96–513, title IV, § 403(c)][/us/pl/96/513/s403/c], Dec. 12, 1980, [94 Stat. 2905][/us/stat/94/2905]; amended [Pub. L. 109–364, div. A, title X, § 1071(c)(8)][/us/pl/109/364/s1071/c/8], Oct. 17, 2006, [120 Stat. 2401][/us/stat/120/2401].)
+(Added [Pub. L. 96–513, title IV][/us/pl/96/513/tIV], § 403(c), Dec. 12, 1980, [94 Stat. 2905][/us/stat/94/2905]; amended [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1071(c)(8), Oct. 17, 2006, [120 Stat. 2401][/us/stat/120/2401].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/96/513/s403/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs403%2Fc
+[/us/pl/96/513/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtIV
 [/us/stat/94/2905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2905
-[/us/pl/109/364/s1071/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fc%2F8
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2401
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/96/513/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701

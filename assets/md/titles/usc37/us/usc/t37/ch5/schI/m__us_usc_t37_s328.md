@@ -41,15 +41,15 @@
 
     Special pay paid to a member under this section is in addition to any other pay and allowances to which the member is entitled or authorized to receive.
 
-(Added [Pub. L. 109–163, div. A, title VI, § 642(a)][/us/pl/109/163/s642/a], Jan. 6, 2006, [119 Stat. 3305][/us/stat/119/3305].)
+(Added [Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 642(a), Jan. 6, 2006, [119 Stat. 3305][/us/stat/119/3305].)
 
  __References in Text__ 
 
-    [Section 310(b) of this title][/us/usc/t37/s310/b], referred to in subsec. (d), was redesignated [section 310(c) of this title][/us/usc/t37/s310/c], and a new section 310(b) was added, by [Pub. L. 111–84, div. A, title VI, § 618(a)(3)][/us/pl/111/84/s618/a/3], (4), Oct. 28, 2009, [123 Stat. 2355][/us/stat/123/2355].
+    [Section 310(b) of this title][/us/usc/t37/s310/b], referred to in subsec. (d), was redesignated [section 310(c) of this title][/us/usc/t37/s310/c], and a new section 310(b) was added, by [Pub. L. 111–84, div. A, title VI][/us/pl/111/84/dA/tVI], § 618(a)(3), (4), Oct. 28, 2009, [123 Stat. 2355][/us/stat/123/2355].
 
  __Effective Date__ 
 
-[Pub. L. 109–163, div. A, title VI, § 642(d)][/us/pl/109/163/s642/d], Jan. 6, 2006, [119 Stat. 3306][/us/stat/119/3306], provided that: 
+[Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 642(d), Jan. 6, 2006, [119 Stat. 3306][/us/stat/119/3306], provided that: 
 
 > “The Secretary of a military department may provide special pay under [section 328 of title 37][/us/usc/t37/s328], United States Code, as added by subsection (a), for months beginning on or after the date of the enactment of this Act \[Jan. 6, 2006\]. A member of the Armed Forces who incurred a wound, injury, or illness under the circumstances described in subsection (a) of such section before the date of the enactment of this Act may receive such pay for such wound, injury, or illness for months beginning on or after that date so long as the member continues to satisfy the eligibility criteria specified in such section.”
 
@@ -61,13 +61,13 @@
 ----------
 
 [/us/usc/t38/s1980A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1980A
-[/us/pl/109/163/s642/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs642%2Fa
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3305
 [/us/usc/t37/s310/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs310%2Fb
 [/us/usc/t37/s310/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs310%2Fc
-[/us/pl/111/84/s618/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs618%2Fa%2F3
+[/us/pl/111/84/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVI
 [/us/stat/123/2355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2355
-[/us/pl/109/163/s642/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs642%2Fd
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3306
 [/us/usc/t37/s328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs328
 

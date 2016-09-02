@@ -53,7 +53,7 @@
 
     The Secretary concerned shall prescribe regulations to carry out this section.
 
-(Added [Pub. L. 106–65, div. A, title VI, § 629(a)(1)][/us/pl/106/65/s629/a/1], Oct. 5, 1999, [113 Stat. 659][/us/stat/113/659]; amended [Pub. L. 109–163, div. A, title VI, § 687(b)(29)][/us/pl/109/163/s687/b/29], Jan. 6, 2006, [119 Stat. 3332][/us/stat/119/3332].)
+(Added [Pub. L. 106–65, div. A, title VI][/us/pl/106/65/dA/tVI], § 629(a)(1), Oct. 5, 1999, [113 Stat. 659][/us/stat/113/659]; amended [Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 687(b)(29), Jan. 6, 2006, [119 Stat. 3332][/us/stat/119/3332].)
 
  __Amendments__ 
 
@@ -61,7 +61,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 106–65, div. A, title VI, § 629(c)][/us/pl/106/65/s629/c], Oct. 5, 1999, [113 Stat. 661][/us/stat/113/661], provided that: 
+[Pub. L. 106–65, div. A, title VI][/us/pl/106/65/dA/tVI], § 629(c), Oct. 5, 1999, [113 Stat. 661][/us/stat/113/661], provided that: 
 
 > “The amendments made by subsection (a) \[enacting this section\] shall take effect on October 1, 1999.”
 
@@ -80,12 +80,12 @@
 [/us/usc/t10/s2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2004
 [/us/usc/t14/s470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs470
 [/us/usc/t37/s303a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs303a%2Fe
-[/us/pl/106/65/s629/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs629%2Fa%2F1
+[/us/pl/106/65/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVI
 [/us/stat/113/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F659
-[/us/pl/109/163/s687/b/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Fb%2F29
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3332
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/pl/106/65/s629/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs629%2Fc
+[/us/pl/106/65/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVI
 [/us/stat/113/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F661
 [/us/pl/109/163/s687/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Fb
 [/us/pl/109/163/s687/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Ff

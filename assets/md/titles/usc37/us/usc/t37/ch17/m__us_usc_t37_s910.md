@@ -83,7 +83,7 @@
 
     No payment shall be made to a member under this section for months beginning after December 31, 2016, unless the entitlement of the member to payments under this section commenced on or before that date.
 
-(Added [Pub. L. 109–163, div. A, title VI, § 614(a)][/us/pl/109/163/s614/a], Jan. 6, 2006, [119 Stat. 3292][/us/stat/119/3292]; amended [Pub. L. 110–181, div. A, title VI, § 604][/us/pl/110/181/s604], Jan. 28, 2008, [122 Stat. 145][/us/stat/122/145]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 605, Oct. 14, 2008, [122 Stat. 4483][/us/stat/122/4483]; [Pub. L. 111–84, div. A, title VI, § 611(7)][/us/pl/111/84/s611/7], Oct. 28, 2009, [123 Stat. 2352][/us/stat/123/2352]; [Pub. L. 111–383, div. A, title VI][/us/pl/111/383], §§ 601(a), 611(7), Jan. 7, 2011, [124 Stat. 4235][/us/stat/124/4235], 4236; [Pub. L. 112–81, div. A, title VI, § 611(7)][/us/pl/112/81/s611/7], Dec. 31, 2011, [125 Stat. 1449][/us/stat/125/1449]; [Pub. L. 112–239, div. A, title VI, § 611(8)][/us/pl/112/239/s611/8], Jan. 2, 2013, [126 Stat. 1776][/us/stat/126/1776]; [Pub. L. 113–66, div. A, title VI, § 611(8)][/us/pl/113/66/s611/8], Dec. 26, 2013, [127 Stat. 780][/us/stat/127/780]; [Pub. L. 113–291, div. A, title VI, § 611(8)][/us/pl/113/291/s611/8], Dec. 19, 2014, [128 Stat. 3399][/us/stat/128/3399]; [Pub. L. 114–92, div. A, title VI, § 611(8)][/us/pl/114/92/s611/8], Nov. 25, 2015, [129 Stat. 838][/us/stat/129/838].)
+(Added [Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 614(a), Jan. 6, 2006, [119 Stat. 3292][/us/stat/119/3292]; amended [Pub. L. 110–181, div. A, title VI][/us/pl/110/181/dA/tVI], § 604, Jan. 28, 2008, [122 Stat. 145][/us/stat/122/145]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 605, Oct. 14, 2008, [122 Stat. 4483][/us/stat/122/4483]; [Pub. L. 111–84, div. A, title VI][/us/pl/111/84/dA/tVI], § 611(7), Oct. 28, 2009, [123 Stat. 2352][/us/stat/123/2352]; [Pub. L. 111–383, div. A, title VI][/us/pl/111/383/dA/tVI], §§ 601(a), 611(7), Jan. 7, 2011, [124 Stat. 4235][/us/stat/124/4235], 4236; [Pub. L. 112–81, div. A, title VI][/us/pl/112/81/dA/tVI], § 611(7), Dec. 31, 2011, [125 Stat. 1449][/us/stat/125/1449]; [Pub. L. 112–239, div. A, title VI][/us/pl/112/239/dA/tVI], § 611(8), Jan. 2, 2013, [126 Stat. 1776][/us/stat/126/1776]; [Pub. L. 113–66, div. A, title VI][/us/pl/113/66/dA/tVI], § 611(8), Dec. 26, 2013, [127 Stat. 780][/us/stat/127/780]; [Pub. L. 113–291, div. A, title VI][/us/pl/113/291/dA/tVI], § 611(8), Dec. 19, 2014, [128 Stat. 3399][/us/stat/128/3399]; [Pub. L. 114–92, div. A, title VI][/us/pl/114/92/dA/tVI], § 611(8), Nov. 25, 2015, [129 Stat. 838][/us/stat/129/838].)
 
  __Amendments__ 
 
@@ -95,17 +95,17 @@
 
     [Pub. L. 112–239][/us/pl/112/239] substituted “December 31, 2013” for “December 31, 2012”.
 
-    2011—Subsec. (b)(3). [Pub. L. 111–383, § 601(a)][/us/pl/111/383/s601/a], added par. (3).
+    2011—Subsec. (b)(3). [Pub. L. 111–383][/us/pl/111/383], § 601(a), added par. (3).
 
     Subsec. (g). [Pub. L. 112–81][/us/pl/112/81] substituted “December 31, 2012” for “December 31, 2011”.
 
-    [Pub. L. 111–383, § 611(7)][/us/pl/111/383/s611/7], substituted “December 31, 2011” for “December 31, 2010”.
+    [Pub. L. 111–383][/us/pl/111/383], § 611(7), substituted “December 31, 2011” for “December 31, 2010”.
 
     2009—Subsec. (g). [Pub. L. 111–84][/us/pl/111/84] substituted “December 31, 2010” for “December 31, 2009”.
 
-    2008—Subsec. (a). [Pub. L. 110–181, § 604(a)][/us/pl/110/181/s604/a], inserted before period at end of first sentence “, when the total monthly military compensation of the member is less than the average monthly civilian income of the member”.
+    2008—Subsec. (a). [Pub. L. 110–181][/us/pl/110/181], § 604(a), inserted before period at end of first sentence “, when the total monthly military compensation of the member is less than the average monthly civilian income of the member”.
 
-    Subsec. (b). [Pub. L. 110–181, § 604(b)][/us/pl/110/181/s604/b], amended subsec. (b) generally. Prior to amendment, text read as follows: “Subject to subsection (c), a reserve component member is entitled to a payment under this section for any full month of active duty of the member, while on active duty under an involuntary mobilization order, following the date on which the member—
+    Subsec. (b). [Pub. L. 110–181][/us/pl/110/181], § 604(b), amended subsec. (b) generally. Prior to amendment, text read as follows: “Subject to subsection (c), a reserve component member is entitled to a payment under this section for any full month of active duty of the member, while on active duty under an involuntary mobilization order, following the date on which the member—
 
     “(1) completes 18 continuous months of service on active duty under such an order;
 
@@ -115,17 +115,17 @@
 
     Subsec. (g). [Pub. L. 110–417][/us/pl/110/417] substituted “December 31, 2009” for “December 31, 2008”.
 
-    [Pub. L. 110–181, § 604(c)][/us/pl/110/181/s604/c], amended subsec. (g) generally. Prior to amendment, text read as follows: “No payment shall be made under this section after December 31, 2008.”
+    [Pub. L. 110–181][/us/pl/110/181], § 604(c), amended subsec. (g) generally. Prior to amendment, text read as follows: “No payment shall be made under this section after December 31, 2008.”
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 111–383, div. A, title VI, § 601(b)][/us/pl/111/383/s601/b], Jan. 7, 2011, [124 Stat. 4235][/us/stat/124/4235], provided that: 
+[Pub. L. 111–383, div. A, title VI][/us/pl/111/383/dA/tVI], § 601(b), Jan. 7, 2011, [124 Stat. 4235][/us/stat/124/4235], provided that: 
 
 > “Subsection (b)(3) of [section 910 of title 37][/us/usc/t37/s910], United States Code, as added by subsection (a), shall apply with respect to payments under such section for months beginning on or after the date of the enactment of this Act \[Jan. 7, 2011\].”
 
  __Effective Date__ 
 
-[Pub. L. 109–163, div. A, title VI, § 614(c)][/us/pl/109/163/s614/c], Jan. 6, 2006, [119 Stat. 3293][/us/stat/119/3293], provided that: 
+[Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 614(c), Jan. 6, 2006, [119 Stat. 3293][/us/stat/119/3293], provided that: 
 
 > “[Section 910 of title 37][/us/usc/t37/s910], United States Code, as added by subsection (a), may apply only with respect to months beginning after the end of the 180-day period beginning on the date of the enactment of this Act \[Jan. 6, 2006\].”
 
@@ -139,42 +139,42 @@
 [/us/usc/t10/s12301/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12301%2Fh%2F1
 [/us/usc/t37/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs310
 [/us/usc/t5/s5538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5538
-[/us/pl/109/163/s614/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs614%2Fa
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3292
-[/us/pl/110/181/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs604
+[/us/pl/110/181/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVI
 [/us/stat/122/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F145
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4483
-[/us/pl/111/84/s611/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs611%2F7
+[/us/pl/111/84/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVI
 [/us/stat/123/2352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2352
-[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/111/383/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVI
 [/us/stat/124/4235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4235
-[/us/pl/112/81/s611/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs611%2F7
+[/us/pl/112/81/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVI
 [/us/stat/125/1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1449
-[/us/pl/112/239/s611/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs611%2F8
+[/us/pl/112/239/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVI
 [/us/stat/126/1776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1776
-[/us/pl/113/66/s611/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs611%2F8
+[/us/pl/113/66/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtVI
 [/us/stat/127/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F780
-[/us/pl/113/291/s611/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs611%2F8
+[/us/pl/113/291/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVI
 [/us/stat/128/3399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3399
-[/us/pl/114/92/s611/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs611%2F8
+[/us/pl/114/92/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVI
 [/us/stat/129/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F838
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/111/383/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs601%2Fa
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
-[/us/pl/111/383/s611/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs611%2F7
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
-[/us/pl/110/181/s604/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs604%2Fa
-[/us/pl/110/181/s604/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs604%2Fb
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
-[/us/pl/110/181/s604/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs604%2Fc
-[/us/pl/111/383/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs601%2Fb
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/111/383/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVI
 [/us/stat/124/4235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4235
 [/us/usc/t37/s910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs910
-[/us/pl/109/163/s614/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs614%2Fc
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3293
 [/us/usc/t37/s910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs910
 

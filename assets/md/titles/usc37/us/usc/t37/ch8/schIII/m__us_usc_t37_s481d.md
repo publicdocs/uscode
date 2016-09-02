@@ -39,23 +39,23 @@
 
     (d) No transportation may be provided under this section after the travel authorities transition expiration date.
 
-(Added [Pub. L. 97–60, title I, § 126(a)][/us/pl/97/60/s126/a], Oct. 14, 1981, [95 Stat. 1004][/us/stat/95/1004], § 411d; amended [Pub. L. 98–525, title VI, § 612(a)(1)][/us/pl/98/525/s612/a/1], Oct. 19, 1984, [98 Stat. 2538][/us/stat/98/2538]; [Pub. L. 100–26, § 8(e)(6)][/us/pl/100/26/s8/e/6], Apr. 21, 1987, [101 Stat. 286][/us/stat/101/286]; [Pub. L. 102–25, title VII, § 702(b)(1)][/us/pl/102/25/s702/b/1], (2), (c), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117]; [Pub. L. 103–337, div. A, title VI, § 623][/us/pl/103/337/s623], Oct. 5, 1994, [108 Stat. 2784][/us/stat/108/2784]; [Pub. L. 106–65, div. A, title VI, § 633][/us/pl/106/65/s633], Oct. 5, 1999, [113 Stat. 661][/us/stat/113/661]; [Pub. L. 107–314, div. A, title VI, § 654(b)(5)][/us/pl/107/314/s654/b/5], Dec. 2, 2002, [116 Stat. 2582][/us/stat/116/2582]; renumbered § 481d and amended [Pub. L. 112–81, div. A, title VI, § 631(d)(2)][/us/pl/112/81/s631/d/2], (e)(18), Dec. 31, 2011, [125 Stat. 1460][/us/stat/125/1460], 1463.)
+(Added [Pub. L. 97–60, title I][/us/pl/97/60/tI], § 126(a), Oct. 14, 1981, [95 Stat. 1004][/us/stat/95/1004], § 411d; amended [Pub. L. 98–525, title VI][/us/pl/98/525/tVI], § 612(a)(1), Oct. 19, 1984, [98 Stat. 2538][/us/stat/98/2538]; [Pub. L. 100–26][/us/pl/100/26], § 8(e)(6), Apr. 21, 1987, [101 Stat. 286][/us/stat/101/286]; [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 702(b)(1), (2), (c), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117]; [Pub. L. 103–337, div. A, title VI][/us/pl/103/337/dA/tVI], § 623, Oct. 5, 1994, [108 Stat. 2784][/us/stat/108/2784]; [Pub. L. 106–65, div. A, title VI][/us/pl/106/65/dA/tVI], § 633, Oct. 5, 1999, [113 Stat. 661][/us/stat/113/661]; [Pub. L. 107–314, div. A, title VI][/us/pl/107/314/dA/tVI], § 654(b)(5), Dec. 2, 2002, [116 Stat. 2582][/us/stat/116/2582]; renumbered § 481d and amended [Pub. L. 112–81, div. A, title VI][/us/pl/112/81/dA/tVI], § 631(d)(2), (e)(18), Dec. 31, 2011, [125 Stat. 1460][/us/stat/125/1460], 1463.)
 
  __Amendments__ 
 
-    2011—[Pub. L. 112–81, § 631(d)(2)][/us/pl/112/81/s631/d/2], renumbered [section 411d of this title][/us/usc/t37/s411d] as this section.
+    2011—[Pub. L. 112–81][/us/pl/112/81], § 631(d)(2), renumbered [section 411d of this title][/us/usc/t37/s411d] as this section.
 
-    Subsec. (d). [Pub. L. 112–81, § 631(e)(18)][/us/pl/112/81/s631/e/18], added subsec. (d).
+    Subsec. (d). [Pub. L. 112–81][/us/pl/112/81], § 631(e)(18), added subsec. (d).
 
     2002—Subsec. (d). [Pub. L. 107–314][/us/pl/107/314] struck out subsec. (d) which read as follows: “In this section, the term ‘continental United States’ means the 48 contiguous States and the District of Columbia.”
 
     1999—Subsec. (b)(1). [Pub. L. 106–65][/us/pl/106/65] struck out “or” at end of subpar. (A), added subpar. (B), and redesignated former subpar. (B) as (C).
 
-    1994—Subsec. (b)(1). [Pub. L. 103–337, § 623(1)(A)][/us/pl/103/337/s623/1/A], substituted “from the location of the member or dependents, at the time notification of the personal emergency is received, or” for “from the international airport nearest the location of the member and dependents at the time notification of the personal emergency is received or the international airport nearest” in introductory provisions.
+    1994—Subsec. (b)(1). [Pub. L. 103–337][/us/pl/103/337], § 623(1)(A), substituted “from the location of the member or dependents, at the time notification of the personal emergency is received, or” for “from the international airport nearest the location of the member and dependents at the time notification of the personal emergency is received or the international airport nearest” in introductory provisions.
 
-    Subsec. (b)(1)(A). [Pub. L. 103–337, § 623(1)(B)][/us/pl/103/337/s623/1/B], substituted “closest to the location” for “closest to the international airport”.
+    Subsec. (b)(1)(A). [Pub. L. 103–337][/us/pl/103/337], § 623(1)(B), substituted “closest to the location” for “closest to the international airport”.
 
-    Subsec. (b)(4). [Pub. L. 103–337, § 623(2)][/us/pl/103/337/s623/2], substituted “to the location from which the member or dependent departed or the member’s duty station.” for “to the international airport from which the member or dependent departed or the international airport nearest the member’s duty station.”
+    Subsec. (b)(4). [Pub. L. 103–337][/us/pl/103/337], § 623(2), substituted “to the location from which the member or dependent departed or the member’s duty station.” for “to the international airport from which the member or dependent departed or the international airport nearest the member’s duty station.”
 
     1991—Subsecs. (a), (b)(3), (c). [Pub. L. 102–25][/us/pl/102/25] struck out “of this section” in subsecs. (a) and (c) and “of this subsection” in two places in subsec. (b)(3).
 
@@ -73,7 +73,7 @@
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–525, title VI, § 612(b)][/us/pl/98/525/s612/b], Oct. 19, 1984, [98 Stat. 2539][/us/stat/98/2539], provided that: 
+[Pub. L. 98–525, title VI][/us/pl/98/525/tVI], § 612(b), Oct. 19, 1984, [98 Stat. 2539][/us/stat/98/2539], provided that: 
 
 > “The amendment made by subsection (a)(1) \[amending this section\] shall apply with respect to transportation begun after September 30, 1984.”
 
@@ -84,30 +84,30 @@
 ----------
 ----------
 
-[/us/pl/97/60/s126/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F60%2Fs126%2Fa
+[/us/pl/97/60/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F60%2FtI
 [/us/stat/95/1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1004
-[/us/pl/98/525/s612/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs612%2Fa%2F1
+[/us/pl/98/525/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtVI
 [/us/stat/98/2538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2538
-[/us/pl/100/26/s8/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs8%2Fe%2F6
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F286
-[/us/pl/102/25/s702/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs702%2Fb%2F1
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F117
-[/us/pl/103/337/s623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs623
+[/us/pl/103/337/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtVI
 [/us/stat/108/2784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2784
-[/us/pl/106/65/s633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs633
+[/us/pl/106/65/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVI
 [/us/stat/113/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F661
-[/us/pl/107/314/s654/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs654%2Fb%2F5
+[/us/pl/107/314/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtVI
 [/us/stat/116/2582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2582
-[/us/pl/112/81/s631/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Fd%2F2
+[/us/pl/112/81/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVI
 [/us/stat/125/1460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1460
-[/us/pl/112/81/s631/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Fd%2F2
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/usc/t37/s411d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs411d
-[/us/pl/112/81/s631/e/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Fe%2F18
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
-[/us/pl/103/337/s623/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs623%2F1%2FA
-[/us/pl/103/337/s623/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs623%2F1%2FB
-[/us/pl/103/337/s623/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs623%2F2
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
 [/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
@@ -116,7 +116,7 @@
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
-[/us/pl/98/525/s612/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs612%2Fb
+[/us/pl/98/525/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtVI
 [/us/stat/98/2539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2539
 
 

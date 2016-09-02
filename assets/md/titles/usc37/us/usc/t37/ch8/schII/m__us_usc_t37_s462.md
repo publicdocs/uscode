@@ -27,7 +27,7 @@
 
     An obligation to repay the United States under this section is, for all purposes, a debt owed the United States. A discharge in bankruptcy under title 11 does not discharge a person from such debt if the discharge order is entered less than five years after the date on which the debt was incurred.
 
-(Added [Pub. L. 112–81, div. A, title VI, § 631(b)][/us/pl/112/81/s631/b], Dec. 31, 2011, [125 Stat. 1459][/us/stat/125/1459].)
+(Added [Pub. L. 112–81, div. A, title VI][/us/pl/112/81/dA/tVI], § 631(b), Dec. 31, 2011, [125 Stat. 1459][/us/stat/125/1459].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t37/s464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs464
-[/us/pl/112/81/s631/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Fb
+[/us/pl/112/81/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVI
 [/us/stat/125/1459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1459
 
 

@@ -35,7 +35,7 @@
 
  __Amendments__ 
 
-    1990—[Pub. L. 101–510, div. A, title XIV, § 1484(f)(1)][/us/pl/101/510/s1484/f/1], Nov. 5, 1990, [104 Stat. 1717][/us/stat/104/1717], revised chapter heading so as to appear in all capital letters.
+    1990—[Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], § 1484(f)(1), Nov. 5, 1990, [104 Stat. 1717][/us/stat/104/1717], revised chapter heading so as to appear in all capital letters.
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/101/510/s1484/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1484%2Ff%2F1
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1717
 
 

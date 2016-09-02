@@ -29,7 +29,7 @@
 
     (c) In the settlement of his accounts, a disbursing officer is entitled, if there is no fraud or criminality by him, to credit for an erroneous payment or overpayment he made in carrying out this chapter, except [section 558 of this title][/us/usc/t37/s558]. Unless there is fraud or criminality by him, recovery may not be made from a civilian officer or employee or a member of a uniformed service who authorizes a payment under this chapter, except [section 558 of this title][/us/usc/t37/s558].
 
-(Added [Pub. L. 89–554, § 5(b)][/us/pl/89/554/s5/b], Sept. 6, 1966, [80 Stat. 630][/us/stat/80/630]; amended [Pub. L. 99–145, title XIII, § 1303(b)(11)][/us/pl/99/145/s1303/b/11], Nov. 8, 1985, [99 Stat. 741][/us/stat/99/741].)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 5(b), Sept. 6, 1966, [80 Stat. 630][/us/stat/80/630]; amended [Pub. L. 99–145, title XIII][/us/pl/99/145/tXIII], § 1303(b)(11), Nov. 8, 1985, [99 Stat. 741][/us/stat/99/741].)
 
 <table>
 
@@ -114,9 +114,9 @@ Mar. 7, 1942, ch. 166, § 9(a) (5th and last sentences); added July 1, 1944, c
 
 [/us/usc/t37/s558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs558
 [/us/usc/t37/s558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs558
-[/us/pl/89/554/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs5%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F630
-[/us/pl/99/145/s1303/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1303%2Fb%2F11
+[/us/pl/99/145/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXIII
 [/us/stat/99/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F741
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 

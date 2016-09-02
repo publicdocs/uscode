@@ -69,7 +69,7 @@
 
     The Secretaries concerned shall prescribe regulations to carry out this section, including the definition of the term “special warfare service” for purposes of this section. Regulations prescribed by the Secretary of a military department under this section shall be subject to the approval of the Secretary of Defense.
 
-(Added [Pub. L. 106–65, div. A, title VI, § 626(a)(1)][/us/pl/106/65/s626/a/1], Oct. 5, 1999, [113 Stat. 655][/us/stat/113/655]; amended [Pub. L. 107–107, div. A, title X, § 1048(i)(7)][/us/pl/107/107/s1048/i/7], Dec. 28, 2001, [115 Stat. 1229][/us/stat/115/1229]; [Pub. L. 109–163, div. A, title VI, § 687(b)(27)][/us/pl/109/163/s687/b/27], Jan. 6, 2006, [119 Stat. 3331][/us/stat/119/3331].)
+(Added [Pub. L. 106–65, div. A, title VI][/us/pl/106/65/dA/tVI], § 626(a)(1), Oct. 5, 1999, [113 Stat. 655][/us/stat/113/655]; amended [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1048(i)(7), Dec. 28, 2001, [115 Stat. 1229][/us/stat/115/1229]; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 687(b)(27), Jan. 6, 2006, [119 Stat. 3331][/us/stat/119/3331].)
 
  __Amendments__ 
 
@@ -79,7 +79,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 106–65, div. A, title VI, § 626(b)][/us/pl/106/65/s626/b], Oct. 5, 1999, [113 Stat. 656][/us/stat/113/656], provided that: 
+[Pub. L. 106–65, div. A, title VI][/us/pl/106/65/dA/tVI], § 626(b), Oct. 5, 1999, [113 Stat. 656][/us/stat/113/656], provided that: 
 
 > “The amendments made by subsection (a) \[enacting this section\] shall take effect on October 1, 1999.”
 
@@ -95,15 +95,15 @@
 ----------
 
 [/us/usc/t37/s303a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs303a%2Fe
-[/us/pl/106/65/s626/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs626%2Fa%2F1
+[/us/pl/106/65/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVI
 [/us/stat/113/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F655
-[/us/pl/107/107/s1048/i/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1048%2Fi%2F7
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1229
-[/us/pl/109/163/s687/b/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Fb%2F27
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3331
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
-[/us/pl/106/65/s626/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs626%2Fb
+[/us/pl/106/65/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVI
 [/us/stat/113/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F656
 [/us/pl/109/163/s687/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Fb
 [/us/pl/109/163/s687/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Ff

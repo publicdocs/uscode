@@ -33,21 +33,21 @@
 
         (5) The Master Chief Petty Officer of the Coast Guard.
 
-(Added [Pub. L. 102–190, div. A, title VI, § 606(a)][/us/pl/102/190/s606/a], Dec. 5, 1991, [105 Stat. 1374][/us/stat/105/1374]; amended [Pub. L. 104–201, div. A, title VI, § 603(a)][/us/pl/104/201/s603/a], (b)(1), Sept. 23, 1996, [110 Stat. 2540][/us/stat/110/2540]; [Pub. L. 109–163, div. A, title VI, § 685(b)][/us/pl/109/163/s685/b], Jan. 6, 2006, [119 Stat. 3325][/us/stat/119/3325]; [Pub. L. 109–364, div. A, title X, § 1071(c)(1)][/us/pl/109/364/s1071/c/1], Oct. 17, 2006, [120 Stat. 2400][/us/stat/120/2400]; [Pub. L. 113–291, div. A, title VI, § 603(b)][/us/pl/113/291/s603/b], Dec. 19, 2014, [128 Stat. 3398][/us/stat/128/3398].)
+(Added [Pub. L. 102–190, div. A, title VI][/us/pl/102/190/dA/tVI], § 606(a), Dec. 5, 1991, [105 Stat. 1374][/us/stat/105/1374]; amended [Pub. L. 104–201, div. A, title VI][/us/pl/104/201/dA/tVI], § 603(a), (b)(1), Sept. 23, 1996, [110 Stat. 2540][/us/stat/110/2540]; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 685(b), Jan. 6, 2006, [119 Stat. 3325][/us/stat/119/3325]; [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1071(c)(1), Oct. 17, 2006, [120 Stat. 2400][/us/stat/120/2400]; [Pub. L. 113–291, div. A, title VI][/us/pl/113/291/dA/tVI], § 603(b), Dec. 19, 2014, [128 Stat. 3398][/us/stat/128/3398].)
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–291, § 603(b)(1)][/us/pl/113/291/s603/b/1], inserted “or the senior enlisted advisor to the Chairman of the Joint Chiefs of Staff or the Chief of the National Guard Bureau” after “that armed force” the first place appearing.
+    2014—Subsec. (a). [Pub. L. 113–291][/us/pl/113/291], § 603(b)(1), inserted “or the senior enlisted advisor to the Chairman of the Joint Chiefs of Staff or the Chief of the National Guard Bureau” after “that armed force” the first place appearing.
 
-    Subsec. (c)(6). [Pub. L. 113–291, § 603(b)(2)][/us/pl/113/291/s603/b/2], struck out par. (6) which read as follows: “The Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff.”
+    Subsec. (c)(6). [Pub. L. 113–291][/us/pl/113/291], § 603(b)(2), struck out par. (6) which read as follows: “The Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff.”
 
     2006—Subsec. (c)(6). [Pub. L. 109–364][/us/pl/109/364] substituted “Advisor to” for “Advisor for”.
 
     [Pub. L. 109–163][/us/pl/109/163] added par. (6).
 
-    1996—[Pub. L. 104–201, § 603(b)(1)][/us/pl/104/201/s603/b/1], substituted “Pay of senior enlisted members during terminal leave and while hospitalized” for “Pay of the senior noncommissioned officer of an armed force during terminal leave” in section catchline.
+    1996—[Pub. L. 104–201][/us/pl/104/201], § 603(b)(1), substituted “Pay of senior enlisted members during terminal leave and while hospitalized” for “Pay of the senior noncommissioned officer of an armed force during terminal leave” in section catchline.
 
-    Subsecs. (b), (c). [Pub. L. 104–201, § 603(a)][/us/pl/104/201/s603/a], added subsec. (b) and redesignated former subsec. (b) as (c).
+    Subsecs. (b), (c). [Pub. L. 104–201][/us/pl/104/201], § 603(a), added subsec. (b) and redesignated former subsec. (b) as (c).
 
  __Effective Date of 2014 Amendment__ 
 
@@ -64,22 +64,22 @@
 ----------
 ----------
 
-[/us/pl/102/190/s606/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs606%2Fa
+[/us/pl/102/190/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVI
 [/us/stat/105/1374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1374
-[/us/pl/104/201/s603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs603%2Fa
+[/us/pl/104/201/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtVI
 [/us/stat/110/2540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2540
-[/us/pl/109/163/s685/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs685%2Fb
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3325
-[/us/pl/109/364/s1071/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fc%2F1
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2400
-[/us/pl/113/291/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs603%2Fb
+[/us/pl/113/291/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVI
 [/us/stat/128/3398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3398
-[/us/pl/113/291/s603/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs603%2Fb%2F1
-[/us/pl/113/291/s603/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs603%2Fb%2F2
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/pl/104/201/s603/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs603%2Fb%2F1
-[/us/pl/104/201/s603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs603%2Fa
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/291/s603/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs603%2Fe
 [/us/usc/t10/s1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1406

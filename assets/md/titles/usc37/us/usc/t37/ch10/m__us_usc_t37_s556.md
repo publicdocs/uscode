@@ -49,7 +49,7 @@
 
     (h) For the sole purpose of determining pay under this section, a dependent of a member of a uniformed service on active duty is treated as if he were a member. Any determination made by the Secretary concerned, or his designee, under this section in a case to which [section 555 of this title][/us/usc/t37/s555] applies is conclusive on all other departments and agencies of the United States. This subsection does not entitle a dependent to pay, allowances, or other compensation to which he is not otherwise entitled.
 
-(Added [Pub. L. 89–554, § 5(b)][/us/pl/89/554/s5/b], Sept. 6, 1966, [80 Stat. 629][/us/stat/80/629]; amended [Pub. L. 104–106, div. A, title V, § 569(c)(4)][/us/pl/104/106/s569/c/4], Feb. 10, 1996, [110 Stat. 351][/us/stat/110/351].)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 5(b), Sept. 6, 1966, [80 Stat. 629][/us/stat/80/629]; amended [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 569(c)(4), Feb. 10, 1996, [110 Stat. 351][/us/stat/110/351].)
 
 <table>
 
@@ -247,11 +247,11 @@ Mar. 7, 1942, ch. 166, § 9(b) (as applicable to § 9); added Aug. 29, 1957,
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–106, § 569(c)(4)(A)][/us/pl/104/106/s569/c/4/A], inserted concluding provisions.
+    1996—Subsec. (a). [Pub. L. 104–106][/us/pl/104/106], § 569(c)(4)(A), inserted concluding provisions.
 
-    Subsec. (b). [Pub. L. 104–106, § 569(c)(4)(B)][/us/pl/104/106/s569/c/4/B], inserted “, in a case to which [section 555 of this title][/us/usc/t37/s555] applies,” after “When the Secretary concerned”.
+    Subsec. (b). [Pub. L. 104–106][/us/pl/104/106], § 569(c)(4)(B), inserted “, in a case to which [section 555 of this title][/us/usc/t37/s555] applies,” after “When the Secretary concerned”.
 
-    Subsec. (h). [Pub. L. 104–106, § 569(c)(4)(C)][/us/pl/104/106/s569/c/4/C], substituted “determining pay” for “determining status” and inserted “in a case to which [section 555 of this title][/us/usc/t37/s555] applies” after “designee, under this section”.
+    Subsec. (h). [Pub. L. 104–106][/us/pl/104/106], § 569(c)(4)(C), substituted “determining pay” for “determining status” and inserted “in a case to which [section 555 of this title][/us/usc/t37/s555] applies” after “designee, under this section”.
 
 ----------
 
@@ -265,15 +265,15 @@ Mar. 7, 1942, ch. 166, § 9(b) (as applicable to § 9); added Aug. 29, 1957,
 [/us/usc/t37/s555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs555
 [/us/usc/t37/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs552
 [/us/usc/t37/s555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs555
-[/us/pl/89/554/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs5%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F629
-[/us/pl/104/106/s569/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs569%2Fc%2F4
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F351
 [/us/usc/t37/s101/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs101%2F4
-[/us/pl/104/106/s569/c/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs569%2Fc%2F4%2FA
-[/us/pl/104/106/s569/c/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs569%2Fc%2F4%2FB
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/usc/t37/s555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs555
-[/us/pl/104/106/s569/c/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs569%2Fc%2F4%2FC
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/usc/t37/s555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs555
 
 

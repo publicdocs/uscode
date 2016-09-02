@@ -25,7 +25,7 @@
 
         (2) the officer enters on that tour within two years after completing a period of active duty of more than 90 days’ duration.
 
-([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 477][/us/stat/76/477]; [Pub. L. 88–624, § 1][/us/pl/88/624/s1], Oct. 3, 1964, [78 Stat. 1002][/us/stat/78/1002]; [Pub. L. 88–647, title II, § 202(3)][/us/pl/88/647/s202/3], Oct. 13, 1964, [78 Stat. 1070][/us/stat/78/1070]; [Pub. L. 89–718, § 63][/us/pl/89/718/s63], Nov. 2, 1966, [80 Stat. 1123][/us/stat/80/1123]; [Pub. L. 96–513, title V, § 516(13)][/us/pl/96/513/s516/13], Dec. 12, 1980, [94 Stat. 2938][/us/stat/94/2938]; [Pub. L. 101–189, div. A, title VI, § 663(a)][/us/pl/101/189/s663/a], Nov. 29, 1989, [103 Stat. 1465][/us/stat/103/1465]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 610(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–150; [Pub. L. 107–107, div. A, title VI, § 606(a)][/us/pl/107/107/s606/a], Dec. 28, 2001, [115 Stat. 1134][/us/stat/115/1134].)
+([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 477][/us/stat/76/477]; [Pub. L. 88–624][/us/pl/88/624], § 1, Oct. 3, 1964, [78 Stat. 1002][/us/stat/78/1002]; [Pub. L. 88–647, title II][/us/pl/88/647/tII], § 202(3), Oct. 13, 1964, [78 Stat. 1070][/us/stat/78/1070]; [Pub. L. 89–718][/us/pl/89/718], § 63, Nov. 2, 1966, [80 Stat. 1123][/us/stat/80/1123]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 516(13), Dec. 12, 1980, [94 Stat. 2938][/us/stat/94/2938]; [Pub. L. 101–189, div. A, title VI][/us/pl/101/189/dA/tVI], § 663(a), Nov. 29, 1989, [103 Stat. 1465][/us/stat/103/1465]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 610(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–150; [Pub. L. 107–107, div. A, title VI][/us/pl/107/107/dA/tVI], § 606(a), Dec. 28, 2001, [115 Stat. 1134][/us/stat/115/1134].)
 
 <table>
 
@@ -99,7 +99,7 @@ Oct. 12, 1949, ch. 681, § 305(b), (c); added Aug. 10, 1956, ch. 1041, § 20
 
  __Effective Date of 2001 Amendment__ 
 
-[Pub. L. 107–107, div. A, title VI, § 606(b)][/us/pl/107/107/s606/b], Dec. 28, 2001, [115 Stat. 1134][/us/stat/115/1134], provided that: 
+[Pub. L. 107–107, div. A, title VI][/us/pl/107/107/dA/tVI], § 606(b), Dec. 28, 2001, [115 Stat. 1134][/us/stat/115/1134], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect as of October 1, 2000.”
 
@@ -113,13 +113,13 @@ Oct. 12, 1949, ch. 681, § 305(b), (c); added Aug. 10, 1956, ch. 1041, § 20
 
  __Save Pay Provision__ 
 
-[Pub. L. 101–189, div. A, title VI, § 663(b)][/us/pl/101/189/s663/b], Nov. 29, 1989, [103 Stat. 1465][/us/stat/103/1465], provided that: 
+[Pub. L. 101–189, div. A, title VI][/us/pl/101/189/dA/tVI], § 663(b), Nov. 29, 1989, [103 Stat. 1465][/us/stat/103/1465], provided that: 
 
 > “An officer of an armed force who, but for the amendments made by subsection (a) \[amending this section\], would have become entitled to a uniform reimbursement under [section 416(a) of title 37][/us/usc/t37/s416/a], United States Code, before the end of the one-year period beginning on the date of the enactment of this Act \[Nov. 29, 1989\] shall be entitled (during such one-year period) to receive such reimbursement under such section as in effect on the day before the date of the enactment of this Act.”
 
  __Allowance for Service Prior to__  __October 3, 1964__ 
 
-[Pub. L. 88–624, § 2][/us/pl/88/624/s2], Oct. 3, 1964, [78 Stat. 1002][/us/stat/78/1002], provided that: 
+[Pub. L. 88–624][/us/pl/88/624], § 2, Oct. 3, 1964, [78 Stat. 1002][/us/stat/78/1002], provided that: 
 
 > “The amendments made by this Act \[amending this section\] do not entitle an officer to an allowance for any 4-year period of service completed prior to the effective date of this Act \[Oct. 3, 1964\].”
 
@@ -133,19 +133,19 @@ Oct. 12, 1949, ch. 681, § 305(b), (c); added Aug. 10, 1956, ch. 1041, § 20
 [/us/usc/t37/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs415
 [/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F477
-[/us/pl/88/624/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F624%2Fs1
+[/us/pl/88/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F624
 [/us/stat/78/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1002
-[/us/pl/88/647/s202/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F647%2Fs202%2F3
+[/us/pl/88/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F647%2FtII
 [/us/stat/78/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1070
-[/us/pl/89/718/s63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs63
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1123
-[/us/pl/96/513/s516/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs516%2F13
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2938
-[/us/pl/101/189/s663/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs663%2Fa
+[/us/pl/101/189/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVI
 [/us/stat/103/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1465
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/107/s606/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs606%2Fa
+[/us/pl/107/107/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtVI
 [/us/stat/115/1134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1134
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
@@ -157,7 +157,7 @@ Oct. 12, 1949, ch. 681, § 305(b), (c); added Aug. 10, 1956, ch. 1041, § 20
 [/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/pl/88/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F624
 [/us/pl/88/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F647
-[/us/pl/107/107/s606/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs606%2Fb
+[/us/pl/107/107/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtVI
 [/us/stat/115/1134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1134
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
@@ -165,10 +165,10 @@ Oct. 12, 1949, ch. 681, § 305(b), (c); added Aug. 10, 1956, ch. 1041, § 20
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701%2Fb%2F3
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/101/189/s663/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs663%2Fb
+[/us/pl/101/189/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVI
 [/us/stat/103/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1465
 [/us/usc/t37/s416/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs416%2Fa
-[/us/pl/88/624/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F624%2Fs2
+[/us/pl/88/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F624
 [/us/stat/78/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1002
 
 

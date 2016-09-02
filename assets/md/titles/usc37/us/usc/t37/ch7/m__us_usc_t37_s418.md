@@ -21,7 +21,7 @@
 
     (c) A uniform allowance may not be paid, and uniforms may not be furnished, under [section 1593 of title 10][/us/usc/t10/s1593] or [section 5901 of title 5][/us/usc/t5/s5901] to a person referred to in subsection (b) for a period of employment referred to in that subsection for which clothing is furnished or a uniform allowance is paid under this section.
 
-([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 478][/us/stat/76/478]; [Pub. L. 104–106, div. A, title X, § 1038(c)][/us/pl/104/106/s1038/c], Feb. 10, 1996, [110 Stat. 432][/us/stat/110/432]; [Pub. L. 104–201, div. A, title VI, § 654][/us/pl/104/201/s654], Sept. 23, 1996, [110 Stat. 2583][/us/stat/110/2583]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 611\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–150; [Pub. L. 107–296, title XVII, § 1704(c)][/us/pl/107/296/s1704/c], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
+([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 478][/us/stat/76/478]; [Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1038(c), Feb. 10, 1996, [110 Stat. 432][/us/stat/110/432]; [Pub. L. 104–201, div. A, title VI][/us/pl/104/201/dA/tVI], § 654, Sept. 23, 1996, [110 Stat. 2583][/us/stat/110/2583]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 611\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–150; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(c), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
 
 <table>
 
@@ -73,9 +73,9 @@ Oct. 12, 1949, ch. 681, § 505, 63 Stat. 828.  </td>
 
     2002—Subsec. (a). [Pub. L. 107–296][/us/pl/107/296] substituted “of Homeland Security” for “of Transportation”.
 
-    2000—Subsec. (a). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 611(1)\], substituted “The Secretary of Defense and the Secretary of Transportation, with respect to the Coast Guard when it is not operating as a service in the Navy,” for “The President”.
+    2000—Subsec. (a). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 611(1)\], substituted “The Secretary of Defense and the Secretary of Transportation, with respect to the Coast Guard when it is not operating as a service in the Navy,” for “The President”.
 
-    Subsec. (b). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 611(2)\], substituted “the Secretary of Defense” for “the President”.
+    Subsec. (b). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 611(2)\], substituted “the Secretary of Defense” for “the President”.
 
     1996—[Pub. L. 104–106][/us/pl/104/106] designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
@@ -113,19 +113,19 @@ Oct. 12, 1949, ch. 681, § 505, 63 Stat. 828.  </td>
 [/us/usc/t5/s5901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5901
 [/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F478
-[/us/pl/104/106/s1038/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1038%2Fc
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F432
-[/us/pl/104/201/s654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs654
+[/us/pl/104/201/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtVI
 [/us/stat/110/2583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2583
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/296/s1704/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fc
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
 [/us/usc/t37/s101/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs101%2F4
 [/us/usc/t14/s751a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs751a
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296

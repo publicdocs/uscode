@@ -33,13 +33,13 @@
 
     No reimbursement may be provided under this section for expenses incurred after the travel authorities transition expiration date.
 
-(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 645(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–161, § 411i; renumbered § 481i and amended [Pub. L. 112–81, div. A, title VI, § 631(d)(2)][/us/pl/112/81/s631/d/2], (e)(22), Dec. 31, 2011, [125 Stat. 1460][/us/stat/125/1460], 1463.)
+(Added [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 645(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–161, § 411i; renumbered § 481i and amended [Pub. L. 112–81, div. A, title VI][/us/pl/112/81/dA/tVI], § 631(d)(2), (e)(22), Dec. 31, 2011, [125 Stat. 1460][/us/stat/125/1460], 1463.)
 
  __Amendments__ 
 
-    2011—[Pub. L. 112–81, § 631(d)(2)][/us/pl/112/81/s631/d/2], renumbered [section 411i of this title][/us/usc/t37/s411i] as this section.
+    2011—[Pub. L. 112–81][/us/pl/112/81], § 631(d)(2), renumbered [section 411i of this title][/us/usc/t37/s411i] as this section.
 
-    Subsec. (c). [Pub. L. 112–81, § 631(e)(22)][/us/pl/112/81/s631/e/22], added subsec. (c).
+    Subsec. (c). [Pub. L. 112–81][/us/pl/112/81], § 631(e)(22), added subsec. (c).
 
 ----------
 
@@ -48,12 +48,12 @@
 ----------
 ----------
 
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/112/81/s631/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Fd%2F2
+[/us/pl/112/81/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVI
 [/us/stat/125/1460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1460
-[/us/pl/112/81/s631/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Fd%2F2
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/usc/t37/s411i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs411i
-[/us/pl/112/81/s631/e/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Fe%2F22
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 
 

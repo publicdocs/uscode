@@ -47,7 +47,7 @@
 
     The Secretary of Defense shall prescribe regulations for the payment of hardship duty pay under this section, including the specific monthly rates at which the special pay will be available.
 
-([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 465][/us/stat/76/465]; [Pub. L. 88–132, § 12(a)][/us/pl/88/132/s12/a], Oct. 2, 1963, [77 Stat. 217][/us/stat/77/217]; [Pub. L. 90–623, § 3(4)][/us/pl/90/623/s3/4], Oct. 22, 1968, [82 Stat. 1314][/us/stat/82/1314]; [Pub. L. 95–485, title VIII, § 804(b)(1)][/us/pl/95/485/s804/b/1], Oct. 20, 1978, [92 Stat. 1620][/us/stat/92/1620]; [Pub. L. 102–25, title VII, § 702(b)(1)][/us/pl/102/25/s702/b/1], (c), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117]; [Pub. L. 105–85, div. A, title VI, § 619(a)][/us/pl/105/85/s619/a]–(c)(1), Nov. 18, 1997, [111 Stat. 1789][/us/stat/111/1789], 1790; [Pub. L. 105–261, div. A, title VI, § 617(a)][/us/pl/105/261/s617/a], (c)(1), Oct. 17, 1998, [112 Stat. 2041][/us/stat/112/2041]; [Pub. L. 109–163, div. A, title VI, § 627][/us/pl/109/163/s627], Jan. 6, 2006, [119 Stat. 3296][/us/stat/119/3296]; [Pub. L. 110–181, div. A, title VI, § 617][/us/pl/110/181/s617], Jan. 28, 2008, [122 Stat. 150][/us/stat/122/150].)
+([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 465][/us/stat/76/465]; [Pub. L. 88–132][/us/pl/88/132], § 12(a), Oct. 2, 1963, [77 Stat. 217][/us/stat/77/217]; [Pub. L. 90–623][/us/pl/90/623], § 3(4), Oct. 22, 1968, [82 Stat. 1314][/us/stat/82/1314]; [Pub. L. 95–485, title VIII][/us/pl/95/485/tVIII], § 804(b)(1), Oct. 20, 1978, [92 Stat. 1620][/us/stat/92/1620]; [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 702(b)(1), (c), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117]; [Pub. L. 105–85, div. A, title VI][/us/pl/105/85/dA/tVI], § 619(a)–(c)(1), Nov. 18, 1997, [111 Stat. 1789][/us/stat/111/1789], 1790; [Pub. L. 105–261, div. A, title VI][/us/pl/105/261/dA/tVI], § 617(a), (c)(1), Oct. 17, 1998, [112 Stat. 2041][/us/stat/112/2041]; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 627, Jan. 6, 2006, [119 Stat. 3296][/us/stat/119/3296]; [Pub. L. 110–181, div. A, title VI][/us/pl/110/181/dA/tVI], § 617, Jan. 28, 2008, [122 Stat. 150][/us/stat/122/150].)
 
 <table>
 
@@ -123,23 +123,23 @@ June 30, 1954, ch. 432, § 729, 68 Stat. 355.  </td>
 
     2006—Subsec. (a). [Pub. L. 109–163][/us/pl/109/163] substituted “$750” for “$300”.
 
-    1998—[Pub. L. 105–261, § 617(c)(1)][/us/pl/105/261/s617/c/1], struck out “location” after “duty” in section catchline.
+    1998—[Pub. L. 105–261][/us/pl/105/261], § 617(c)(1), struck out “location” after “duty” in section catchline.
 
-    Subsec. (a). [Pub. L. 105–261, § 617(a)(1)][/us/pl/105/261/s617/a/1], substituted “performing duty in the United States or outside the United States that is designated by the Secretary of Defense as hardship duty.” for “on duty at a location in the United States or outside the United States designated by the Secretary of Defense as a hardship duty location.”
+    Subsec. (a). [Pub. L. 105–261][/us/pl/105/261], § 617(a)(1), substituted “performing duty in the United States or outside the United States that is designated by the Secretary of Defense as hardship duty.” for “on duty at a location in the United States or outside the United States designated by the Secretary of Defense as a hardship duty location.”
 
-    Subsec. (b). [Pub. L. 105–261, § 617(a)(4)][/us/pl/105/261/s617/a/4], redesignated subsec. (d) as (b).
+    Subsec. (b). [Pub. L. 105–261][/us/pl/105/261], § 617(a)(4), redesignated subsec. (d) as (b).
 
-    [Pub. L. 105–261, § 617(a)(2)][/us/pl/105/261/s617/a/2], struck out heading and text of subsec. (b). Text read as follows: “Appropriations of the Department of Defense may not be paid, as hardship duty location pay under subsection (a), to a member of a uniformed service who is a resident of a State, Puerto Rico, the Virgin Islands, a possession, or a foreign country and who is serving in that State, Puerto Rico, the Virgin Islands, that possession, or that foreign country, as the case may be.”
+    [Pub. L. 105–261][/us/pl/105/261], § 617(a)(2), struck out heading and text of subsec. (b). Text read as follows: “Appropriations of the Department of Defense may not be paid, as hardship duty location pay under subsection (a), to a member of a uniformed service who is a resident of a State, Puerto Rico, the Virgin Islands, a possession, or a foreign country and who is serving in that State, Puerto Rico, the Virgin Islands, that possession, or that foreign country, as the case may be.”
 
-    Subsec. (c). [Pub. L. 105–261, § 617(a)(2)][/us/pl/105/261/s617/a/2], struck out heading and text of subsec. (c). Text read as follows: “A member receiving special pay under [section 305a of this title][/us/usc/t37/s305a] may not be paid hardship duty location pay under subsection (a) for the same period of service.”
+    Subsec. (c). [Pub. L. 105–261][/us/pl/105/261], § 617(a)(2), struck out heading and text of subsec. (c). Text read as follows: “A member receiving special pay under [section 305a of this title][/us/usc/t37/s305a] may not be paid hardship duty location pay under subsection (a) for the same period of service.”
 
-    Subsec. (d). [Pub. L. 105–261, § 617(a)(4)][/us/pl/105/261/s617/a/4], redesignated subsec. (d) as (b).
+    Subsec. (d). [Pub. L. 105–261][/us/pl/105/261], § 617(a)(4), redesignated subsec. (d) as (b).
 
-    [Pub. L. 105–261, § 617(a)(3)][/us/pl/105/261/s617/a/3], substituted “hardship duty pay” for “hardship duty location pay”.
+    [Pub. L. 105–261][/us/pl/105/261], § 617(a)(3), substituted “hardship duty pay” for “hardship duty location pay”.
 
-    1997—[Pub. L. 105–85, § 619(c)(1)][/us/pl/105/85/s619/c/1], substituted “hardship duty location pay” for “while on duty at certain places” in section catchline.
+    1997—[Pub. L. 105–85][/us/pl/105/85], § 619(c)(1), substituted “hardship duty location pay” for “while on duty at certain places” in section catchline.
 
-    Subsec. (a). [Pub. L. 105–85, § 619(a)][/us/pl/105/85/s619/a], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Except as provided by subsections (b) and (c), under regulations prescribed by the President, an enlisted member of a uniformed service who is entitled to basic pay may, while on duty at a designated place outside the 48 contiguous States and the District of Columbia, be paid special pay at the following monthly rates:
+    Subsec. (a). [Pub. L. 105–85][/us/pl/105/85], § 619(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Except as provided by subsections (b) and (c), under regulations prescribed by the President, an enlisted member of a uniformed service who is entitled to basic pay may, while on duty at a designated place outside the 48 contiguous States and the District of Columbia, be paid special pay at the following monthly rates:
 
 <table>
 
@@ -265,21 +265,21 @@ E–1  </td>
 
 </table>
 
-    Subsec. (b). [Pub. L. 105–85, § 619(b)(1)][/us/pl/105/85/s619/b/1], inserted heading and substituted “as hardship duty location pay” for “as foreign duty pay” in text.
+    Subsec. (b). [Pub. L. 105–85][/us/pl/105/85], § 619(b)(1), inserted heading and substituted “as hardship duty location pay” for “as foreign duty pay” in text.
 
-    Subsec. (c). [Pub. L. 105–85, § 619(b)(2)][/us/pl/105/85/s619/b/2], inserted heading and substituted “hardship duty location pay under subsection (a)” for “special pay under this section” in text.
+    Subsec. (c). [Pub. L. 105–85][/us/pl/105/85], § 619(b)(2), inserted heading and substituted “hardship duty location pay under subsection (a)” for “special pay under this section” in text.
 
-    Subsec. (d). [Pub. L. 105–85, § 619(b)(3)][/us/pl/105/85/s619/b/3], added subsec. (d).
+    Subsec. (d). [Pub. L. 105–85][/us/pl/105/85], § 619(b)(3), added subsec. (d).
 
     1991—Subsec. (a). [Pub. L. 102–25][/us/pl/102/25] struck out “of this section” after “subsections (b) and (c)”.
 
     Subsec. (b). [Pub. L. 102–25][/us/pl/102/25] struck out “of this section” after “subsection (a)”.
 
-    1978—[Pub. L. 95–485, § 804(b)(1)(C)][/us/pl/95/485/s804/b/1/C], substituted “on duty” for “on sea duty or duty” in section catchline.
+    1978—[Pub. L. 95–485][/us/pl/95/485], § 804(b)(1)(C), substituted “on duty” for “on sea duty or duty” in section catchline.
 
-    Subsec. (a). [Pub. L. 95–485, § 804(b)(1)(A)][/us/pl/95/485/s804/b/1/A], inserted reference to subsec. (c) of this section and struck out provision entitling an enlisted member of a uniformed service who is entitled to basic pay to special pay while on sea duty.
+    Subsec. (a). [Pub. L. 95–485][/us/pl/95/485], § 804(b)(1)(A), inserted reference to subsec. (c) of this section and struck out provision entitling an enlisted member of a uniformed service who is entitled to basic pay to special pay while on sea duty.
 
-    Subsec. (c). [Pub. L. 95–485, § 804(b)(1)(B)][/us/pl/95/485/s804/b/1/B], added subsec. (c).
+    Subsec. (c). [Pub. L. 95–485][/us/pl/95/485], § 804(b)(1)(B), added subsec. (c).
 
     1968—Subsec. (a)(2). [Pub. L. 90–623][/us/pl/90/623] substituted “48 contiguous States” for “contiguous 48 States”.
 
@@ -291,7 +291,7 @@ E–1  </td>
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–485, title VIII, § 804(b)(3)][/us/pl/95/485/s804/b/3], Oct. 20, 1978, [92 Stat. 1621][/us/stat/92/1621], provided that: 
+[Pub. L. 95–485, title VIII][/us/pl/95/485/tVIII], § 804(b)(3), Oct. 20, 1978, [92 Stat. 1621][/us/stat/92/1621], provided that: 
 
 > “The amendments made by this subsection \[amending this section\] shall take effect on October 1, 1978.”
 
@@ -305,19 +305,19 @@ E–1  </td>
 
  __Savings Provision__ 
 
-[Pub. L. 88–132, § 12(b)][/us/pl/88/132/s12/b], Oct. 2, 1963, [77 Stat. 218][/us/stat/77/218], provided that: 
+[Pub. L. 88–132][/us/pl/88/132], § 12(b), Oct. 2, 1963, [77 Stat. 218][/us/stat/77/218], provided that: 
 
 > “Notwithstanding subsection (a) \[amending this section\], an enlisted member who, on the day before the effective date of this Act \[Oct. 1, 1963\], was permanently assigned to duty at a place outside the United States or in Alaska or Hawaii, shall, during the remaining period of that assignment, but not after that place is designated for the purpose of [section 305(a)(2) of title 37][/us/usc/t37/s305/a/2], United States Code, be paid the basic pay to which he was entitled on that date plus special pay under [section 305 of title 37][/us/usc/t37/s305], United States Code, whenever qualified thereunder as that section was in effect on the day before the effective date of this Act, if the total of that basic pay and that special pay is more than the basic pay to which he would otherwise be entitled during that period under section 2 of this Act \[amending [section 203 of this title][/us/usc/t37/s203]\].”
 
  __Transition Provision__ 
 
-[Pub. L. 105–85, div. A, title VI, § 619(e)][/us/pl/105/85/s619/e], Nov. 18, 1997, [111 Stat. 1790][/us/stat/111/1790], provided that: 
+[Pub. L. 105–85, div. A, title VI][/us/pl/105/85/dA/tVI], § 619(e), Nov. 18, 1997, [111 Stat. 1790][/us/stat/111/1790], provided that: 
 
 > “Until such time as the Secretary of Defense prescribes regulations regarding the provision of hardship duty location pay under [section 305 of title 37][/us/usc/t37/s305], United States Code, as amended by this section, the Secretary may continue to use the authority provided by such section 305, as in effect on the day before the date of the enactment of this Act \[Nov. 18, 1997\], to provide special pay to enlisted members of the uniformed services on duty at certain places.”
 
  __Sea Duty Performed Between__  __October 1, 1978__  __, and__  __September 30, 1981__ 
 
-[Pub. L. 95–485, title VIII, § 804(c)][/us/pl/95/485/s804/c], Oct. 20, 1978, [92 Stat. 1621][/us/stat/92/1621], provided that: 
+[Pub. L. 95–485, title VIII][/us/pl/95/485/tVIII], § 804(c), Oct. 20, 1978, [92 Stat. 1621][/us/stat/92/1621], provided that: 
 
 > “Any individual who on September 30, 1978, is an enlisted member of a uniformed service shall be eligible to receive special pay under [section 305(a)(1) of title 37][/us/usc/t37/s305/a/1], United States Code, as in effect on September 30, 1978, for any period of sea duty performed by such individual during the period beginning on October 1, 1978, and ending on September 30, 1981, for which such individual does not receive special pay under section 305a of such title (as added by subsection (a)).”
 
@@ -335,47 +335,47 @@ E–1  </td>
 [/us/usc/t37/s303a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs303a%2Fe
 [/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F465
-[/us/pl/88/132/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F132%2Fs12%2Fa
+[/us/pl/88/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F132
 [/us/stat/77/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F217
-[/us/pl/90/623/s3/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623%2Fs3%2F4
+[/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/stat/82/1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1314
-[/us/pl/95/485/s804/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F485%2Fs804%2Fb%2F1
+[/us/pl/95/485/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F485%2FtVIII
 [/us/stat/92/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1620
-[/us/pl/102/25/s702/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs702%2Fb%2F1
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F117
-[/us/pl/105/85/s619/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs619%2Fa
+[/us/pl/105/85/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVI
 [/us/stat/111/1789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1789
-[/us/pl/105/261/s617/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs617%2Fa
+[/us/pl/105/261/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtVI
 [/us/stat/112/2041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2041
-[/us/pl/109/163/s627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs627
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3296
-[/us/pl/110/181/s617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs617
+[/us/pl/110/181/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVI
 [/us/stat/122/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F150
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/pl/105/261/s617/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs617%2Fc%2F1
-[/us/pl/105/261/s617/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs617%2Fa%2F1
-[/us/pl/105/261/s617/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs617%2Fa%2F4
-[/us/pl/105/261/s617/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs617%2Fa%2F2
-[/us/pl/105/261/s617/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs617%2Fa%2F2
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/usc/t37/s305a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs305a
-[/us/pl/105/261/s617/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs617%2Fa%2F4
-[/us/pl/105/261/s617/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs617%2Fa%2F3
-[/us/pl/105/85/s619/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs619%2Fc%2F1
-[/us/pl/105/85/s619/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs619%2Fa
-[/us/pl/105/85/s619/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs619%2Fb%2F1
-[/us/pl/105/85/s619/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs619%2Fb%2F2
-[/us/pl/105/85/s619/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs619%2Fb%2F3
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
 [/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
-[/us/pl/95/485/s804/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F485%2Fs804%2Fb%2F1%2FC
-[/us/pl/95/485/s804/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F485%2Fs804%2Fb%2F1%2FA
-[/us/pl/95/485/s804/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F485%2Fs804%2Fb%2F1%2FB
+[/us/pl/95/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F485
+[/us/pl/95/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F485
+[/us/pl/95/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F485
 [/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/pl/88/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F132
 [/us/pl/88/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F132
 [/us/pl/88/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F132
-[/us/pl/95/485/s804/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F485%2Fs804%2Fb%2F3
+[/us/pl/95/485/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F485%2FtVIII
 [/us/stat/92/1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1621
 [/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/pl/90/623/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623%2Fs6
@@ -383,15 +383,15 @@ E–1  </td>
 [/us/pl/88/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F132
 [/us/pl/88/132/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F132%2Fs14
 [/us/usc/t37/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs201
-[/us/pl/88/132/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F132%2Fs12%2Fb
+[/us/pl/88/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F132
 [/us/stat/77/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F218
 [/us/usc/t37/s305/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs305%2Fa%2F2
 [/us/usc/t37/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs305
 [/us/usc/t37/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs203
-[/us/pl/105/85/s619/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs619%2Fe
+[/us/pl/105/85/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVI
 [/us/stat/111/1790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1790
 [/us/usc/t37/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs305
-[/us/pl/95/485/s804/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F485%2Fs804%2Fc
+[/us/pl/95/485/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F485%2FtVIII
 [/us/stat/92/1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1621
 [/us/usc/t37/s305/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs305%2Fa%2F1
 [/us/usc/t37/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs301

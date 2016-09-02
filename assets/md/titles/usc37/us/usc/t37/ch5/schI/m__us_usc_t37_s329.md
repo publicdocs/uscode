@@ -65,11 +65,11 @@
 
     No agreement under subsection (a) or (d) may be entered into after December 31, 2010.
 
-(Added [Pub. L. 109–364, div. A, title VI, § 621(a)][/us/pl/109/364/s621/a], Oct. 17, 2006, [120 Stat. 2253][/us/stat/120/2253].)
+(Added [Pub. L. 109–364, div. A, title VI][/us/pl/109/364/dA/tVI], § 621(a), Oct. 17, 2006, [120 Stat. 2253][/us/stat/120/2253].)
 
  __Effective Date__ 
 
-[Pub. L. 109–364, div. A, title VI, § 621(e)][/us/pl/109/364/s621/e], Oct. 17, 2006, [120 Stat. 2255][/us/stat/120/2255], provided that: 
+[Pub. L. 109–364, div. A, title VI][/us/pl/109/364/dA/tVI], § 621(e), Oct. 17, 2006, [120 Stat. 2255][/us/stat/120/2255], provided that: 
 
 > “No agreement may be entered into under [section 329 of title 37][/us/usc/t37/s329], United States Code, as added by subsection (a), before October 1, 2006.”
 
@@ -82,9 +82,9 @@
 
 [/us/usc/t10/s101/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F16
 [/us/usc/t37/s303a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs303a%2Fe
-[/us/pl/109/364/s621/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs621%2Fa
+[/us/pl/109/364/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVI
 [/us/stat/120/2253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2253
-[/us/pl/109/364/s621/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs621%2Fe
+[/us/pl/109/364/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVI
 [/us/stat/120/2255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2255
 [/us/usc/t37/s329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs329
 

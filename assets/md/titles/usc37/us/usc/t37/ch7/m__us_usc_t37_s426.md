@@ -13,7 +13,7 @@
 
 [Previous](./../../../..//us/usc/t37/ch7/m__us_usc_t37_s425.md) | [Next](./../../../..//us/usc/t37/ch7/m__us_usc_t37_s427.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs426)
 
-## \[§ 426. Repealed. [Pub. L. 90–377, § 10][/us/pl/90/377/s10], July 5, 1968, [82 Stat. 288][/us/stat/82/288]\]
+## \[§ 426. Repealed. [Pub. L. 90–377][/us/pl/90/377], § 10, July 5, 1968, [82 Stat. 288][/us/stat/82/288]\]
 
     Section, [Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 480][/us/stat/76/480], provided for payment to persons confined in a naval confinement facility under sentence of a court-martial of not more than $3 a month for necessary expenses, such payments to be made from appropriations for pay of Navy or Marine Corps.
 
@@ -24,7 +24,7 @@
 ----------
 ----------
 
-[/us/pl/90/377/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F377%2Fs10
+[/us/pl/90/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F377
 [/us/stat/82/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F288
 [/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F480

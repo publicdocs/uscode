@@ -43,11 +43,11 @@
 
     An officer who does not complete the period of active duty specified in the agreement entered into under subsection (a) shall be subject to the repayment provisions of [section 303a(e) of this title][/us/usc/t37/s303a/e].
 
-(Added [Pub. L. 105–85, div. A, title VI, § 617(a)][/us/pl/105/85/s617/a], Nov. 18, 1997, [111 Stat. 1788][/us/stat/111/1788]; amended [Pub. L. 107–314, div. A, title VI, § 615(b)][/us/pl/107/314/s615/b], Dec. 2, 2002, [116 Stat. 2568][/us/stat/116/2568]; [Pub. L. 109–163, div. A, title VI, § 687(b)(3)][/us/pl/109/163/s687/b/3], Jan. 6, 2006, [119 Stat. 3328][/us/stat/119/3328].)
+(Added [Pub. L. 105–85, div. A, title VI][/us/pl/105/85/dA/tVI], § 617(a), Nov. 18, 1997, [111 Stat. 1788][/us/stat/111/1788]; amended [Pub. L. 107–314, div. A, title VI][/us/pl/107/314/dA/tVI], § 615(b), Dec. 2, 2002, [116 Stat. 2568][/us/stat/116/2568]; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 687(b)(3), Jan. 6, 2006, [119 Stat. 3328][/us/stat/119/3328].)
 
  __References in Text__ 
 
-    [Section 302b(g) of this title][/us/usc/t37/s302b/g], referred to in subsec. (b)(4), was redesignated [section 302b(f) of this title][/us/usc/t37/s302b/f] by [Pub. L. 109–163, div. A, title VI, § 687(b)(6)(D)][/us/pl/109/163/s687/b/6/D], Jan. 6, 2006, [119 Stat. 3328][/us/stat/119/3328].
+    [Section 302b(g) of this title][/us/usc/t37/s302b/g], referred to in subsec. (b)(4), was redesignated [section 302b(f) of this title][/us/usc/t37/s302b/f] by [Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 687(b)(6)(D), Jan. 6, 2006, [119 Stat. 3328][/us/stat/119/3328].
 
  __Amendments__ 
 
@@ -71,15 +71,15 @@
 ----------
 
 [/us/usc/t37/s303a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs303a%2Fe
-[/us/pl/105/85/s617/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs617%2Fa
+[/us/pl/105/85/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVI
 [/us/stat/111/1788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1788
-[/us/pl/107/314/s615/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs615%2Fb
+[/us/pl/107/314/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtVI
 [/us/stat/116/2568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2568
-[/us/pl/109/163/s687/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Fb%2F3
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3328
 [/us/usc/t37/s302b/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs302b%2Fg
 [/us/usc/t37/s302b/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs302b%2Ff
-[/us/pl/109/163/s687/b/6/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Fb%2F6%2FD
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3328
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314

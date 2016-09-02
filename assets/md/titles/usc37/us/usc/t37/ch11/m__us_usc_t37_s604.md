@@ -17,7 +17,7 @@
 
     The determination as to the person authorized to receive a payment under [section 602 of this title][/us/usc/t37/s602] is final and is not subject to review by an official of the United States or a court.
 
-([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 484][/us/stat/76/484]; [Pub. L. 89–718, § 66][/us/pl/89/718/s66], Nov. 2, 1966, [80 Stat. 1123][/us/stat/80/1123].)
+([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 484][/us/stat/76/484]; [Pub. L. 89–718][/us/pl/89/718], § 66, Nov. 2, 1966, [80 Stat. 1123][/us/stat/80/1123].)
 
 <table>
 
@@ -79,7 +79,7 @@ June 21, 1950, ch. 342, § 4, 64 Stat. 250.  </td>
 [/us/usc/t37/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs602
 [/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F484
-[/us/pl/89/718/s66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs66
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1123
 [/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 

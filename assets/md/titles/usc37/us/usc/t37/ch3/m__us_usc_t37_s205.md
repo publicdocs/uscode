@@ -93,7 +93,7 @@
 
     (f) Notwithstanding subsection (a), the periods of service of a commissioned officer appointed under [section 12203 of title 10][/us/usc/t10/s12203] after receiving financial assistance under section 16401 of such title that are counted under this section may not include a period of service after January 1, 2000, that the officer performed concurrently as an enlisted member of the Marine Corps Platoon Leaders Class program and the Marine Corps Reserve, except that service after that date that the officer performed before commissioning (concurrently with the period of service as a member of the Marine Corps Platoon Leaders Class program) as an enlisted member on active duty or as a member of the Selected Reserve may be so counted.
 
-([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 458][/us/stat/76/458]; [Pub. L. 88–647, title II, § 202(1)][/us/pl/88/647/s202/1], Oct. 13, 1964, [78 Stat. 1070][/us/stat/78/1070]; [Pub. L. 89–718, § 49(a)(1)][/us/pl/89/718/s49/a/1], (b), Nov. 2, 1966, [80 Stat. 1121][/us/stat/80/1121]; [Pub. L. 90–623, § 3(3)][/us/pl/90/623/s3/3], Oct. 22, 1968, [82 Stat. 1314][/us/stat/82/1314]; [Pub. L. 93–545, § 2][/us/pl/93/545/s2], Dec. 26, 1974, [88 Stat. 1741][/us/stat/88/1741]; [Pub. L. 96–342, title VIII, § 813(b)(3)(D)][/us/pl/96/342/s813/b/3/D], Sept. 8, 1980, [94 Stat. 1104][/us/stat/94/1104]; [Pub. L. 96–513, title IV, § 402][/us/pl/96/513/s402], title V, § 516(3), Dec. 12, 1980, [94 Stat. 2904][/us/stat/94/2904], 2937; [Pub. L. 98–525, title VI, § 607(a)][/us/pl/98/525/s607/a], Oct. 19, 1984, [98 Stat. 2538][/us/stat/98/2538]; [Pub. L. 101–189, div. A, title V, § 501(c)][/us/pl/101/189/s501/c], Nov. 29, 1989, [103 Stat. 1435][/us/stat/103/1435]; [Pub. L. 102–25, title VII, § 702(b)(1)][/us/pl/102/25/s702/b/1], (2), (c), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117]; [Pub. L. 102–484, div. A, title V, § 517(b)][/us/pl/102/484/s517/b], Oct. 23, 1992, [106 Stat. 2407][/us/stat/106/2407]; [Pub. L. 103–35, title II, § 204(a)(1)][/us/pl/103/35/s204/a/1], May 31, 1993, [107 Stat. 102][/us/stat/107/102]; [Pub. L. 103–337, div. A, title XVI, § 1676(b)(2)][/us/pl/103/337/s1676/b/2], Oct. 5, 1994, [108 Stat. 3019][/us/stat/108/3019]; [Pub. L. 104–201, div. A, title V, § 507(b)][/us/pl/104/201/s507/b], Sept. 23, 1996, [110 Stat. 2512][/us/stat/110/2512]; [Pub. L. 105–85, div. A, title X, § 1073(b)][/us/pl/105/85/s1073/b], Nov. 18, 1997, [111 Stat. 1904][/us/stat/111/1904]; [Pub. L. 106–65, div. A, title V, § 551(c)][/us/pl/106/65/s551/c], Oct. 5, 1999, [113 Stat. 614][/us/stat/113/614]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 533(e)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–111; [Pub. L. 109–163, div. A, title V, § 515(d)(1)(C)][/us/pl/109/163/s515/d/1/C], Jan. 6, 2006, [119 Stat. 3236][/us/stat/119/3236].)
+([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 458][/us/stat/76/458]; [Pub. L. 88–647, title II][/us/pl/88/647/tII], § 202(1), Oct. 13, 1964, [78 Stat. 1070][/us/stat/78/1070]; [Pub. L. 89–718][/us/pl/89/718], § 49(a)(1), (b), Nov. 2, 1966, [80 Stat. 1121][/us/stat/80/1121]; [Pub. L. 90–623][/us/pl/90/623], § 3(3), Oct. 22, 1968, [82 Stat. 1314][/us/stat/82/1314]; [Pub. L. 93–545][/us/pl/93/545], § 2, Dec. 26, 1974, [88 Stat. 1741][/us/stat/88/1741]; [Pub. L. 96–342, title VIII][/us/pl/96/342/tVIII], § 813(b)(3)(D), Sept. 8, 1980, [94 Stat. 1104][/us/stat/94/1104]; [Pub. L. 96–513, title IV][/us/pl/96/513/tIV], § 402, title V, § 516(3), Dec. 12, 1980, [94 Stat. 2904][/us/stat/94/2904], 2937; [Pub. L. 98–525, title VI][/us/pl/98/525/tVI], § 607(a), Oct. 19, 1984, [98 Stat. 2538][/us/stat/98/2538]; [Pub. L. 101–189, div. A, title V][/us/pl/101/189/dA/tV], § 501(c), Nov. 29, 1989, [103 Stat. 1435][/us/stat/103/1435]; [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 702(b)(1), (2), (c), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117]; [Pub. L. 102–484, div. A, title V][/us/pl/102/484/dA/tV], § 517(b), Oct. 23, 1992, [106 Stat. 2407][/us/stat/106/2407]; [Pub. L. 103–35, title II][/us/pl/103/35/tII], § 204(a)(1), May 31, 1993, [107 Stat. 102][/us/stat/107/102]; [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1676(b)(2), Oct. 5, 1994, [108 Stat. 3019][/us/stat/108/3019]; [Pub. L. 104–201, div. A, title V][/us/pl/104/201/dA/tV], § 507(b), Sept. 23, 1996, [110 Stat. 2512][/us/stat/110/2512]; [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1073(b), Nov. 18, 1997, [111 Stat. 1904][/us/stat/111/1904]; [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 551(c), Oct. 5, 1999, [113 Stat. 614][/us/stat/113/614]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 533(e)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–111; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 515(d)(1)(C), Jan. 6, 2006, [119 Stat. 3236][/us/stat/119/3236].)
 
 <table>
 
@@ -203,9 +203,9 @@ Oct. 12, 1949, ch. 681, § 202 (less proviso of (d)), 63 Stat. 807; Apr. 30, 1
 
     1996—Subsec. (d). [Pub. L. 104–201][/us/pl/104/201] substituted “for service that the officer performed on or after August 1, 1979.” for “that service after July 31, 1990, that the officer performed while serving on active duty”.
 
-    1994—Subsec. (e)(2)(A). [Pub. L. 103–337, § 1676(b)(2)(A)][/us/pl/103/337/s1676/b/2/A], substituted “12103(b) or 12103(d)” for “511(b) or 511(d)”.
+    1994—Subsec. (e)(2)(A). [Pub. L. 103–337][/us/pl/103/337], § 1676(b)(2)(A), substituted “12103(b) or 12103(d)” for “511(b) or 511(d)”.
 
-    Subsec. (e)(2)(B). [Pub. L. 103–337, § 1676(b)(2)(B)][/us/pl/103/337/s1676/b/2/B], substituted “chapter 1209” for “chapter 39”.
+    Subsec. (e)(2)(B). [Pub. L. 103–337][/us/pl/103/337], § 1676(b)(2)(B), substituted “chapter 1209” for “chapter 39”.
 
     1993—Subsec. (a)(7)(B). [Pub. L. 103–35][/us/pl/103/35] substituted “the Department of Veterans Affairs” for “the Veterans’ Administration”.
 
@@ -223,15 +223,15 @@ Oct. 12, 1949, ch. 681, § 202 (less proviso of (d)), 63 Stat. 807; Apr. 30, 1
 
     1984—Subsec. (e). [Pub. L. 98–525][/us/pl/98/525] added subsec. (e).
 
-    1980—Subsec. (a). [Pub. L. 96–513, § 402(a)][/us/pl/96/513/s402/a], struck out in introductory text reference to subsec. (d) of this section, struck out cls. (7) and (8), which provided for the addition of four years for medical and dental officers and one year in addition to the four years for a medical officer who has completed one year of medical internship or the equivalent, respectively, redesignated cl. (9) as (7), and in text following cl. (7), as so redesignated, substituted “subsections (b), (c), and (d) of section 1402 and subsections (b), (c), and (d) of section 1402a” for “section 1402(b)–(d) and section 1402a(a)–(d)”, and “clauses (2) through (7)” for “clauses (2)–(9)”.
+    1980—Subsec. (a). [Pub. L. 96–513][/us/pl/96/513], § 402(a), struck out in introductory text reference to subsec. (d) of this section, struck out cls. (7) and (8), which provided for the addition of four years for medical and dental officers and one year in addition to the four years for a medical officer who has completed one year of medical internship or the equivalent, respectively, redesignated cl. (9) as (7), and in text following cl. (7), as so redesignated, substituted “subsections (b), (c), and (d) of section 1402 and subsections (b), (c), and (d) of section 1402a” for “section 1402(b)–(d) and section 1402a(a)–(d)”, and “clauses (2) through (7)” for “clauses (2)–(9)”.
 
-    [Pub. L. 96–513, § 516(3)][/us/pl/96/513/s516/3], substituted in cl. (5) “National Oceanic and Atmospheric Administration” for “Environmental Science Service Administration” and in provision following cl. (9) substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Service Administration” and inserted “Environmental Science Service Administration” before “Coast and Geodetic Survey”.
+    [Pub. L. 96–513][/us/pl/96/513], § 516(3), substituted in cl. (5) “National Oceanic and Atmospheric Administration” for “Environmental Science Service Administration” and in provision following cl. (9) substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Service Administration” and inserted “Environmental Science Service Administration” before “Coast and Geodetic Survey”.
 
     [Pub. L. 96–342][/us/pl/96/342] inserted reference to section 1402a(a)–(d) of title 10.
 
-    Subsec. (b). [Pub. L. 96–513, § 402(b)][/us/pl/96/513/s402/b], struck out provisions relating to reduction of amount of service authorized to be credited under cl. (7) or (8) of subsec. (a) of this section.
+    Subsec. (b). [Pub. L. 96–513][/us/pl/96/513], § 402(b), struck out provisions relating to reduction of amount of service authorized to be credited under cl. (7) or (8) of subsec. (a) of this section.
 
-    Subsecs. (c) to (e). [Pub. L. 96–513, § 402(c)][/us/pl/96/513/s402/c], redesignated subsecs. (d) and (e) as (c) and (d), respectively. Former subsec. (c), relating to limitations on service credited under cl. (7) or (8) of subsec. (a) of this section, was struck out.
+    Subsecs. (c) to (e). [Pub. L. 96–513][/us/pl/96/513], § 402(c), redesignated subsecs. (d) and (e) as (c) and (d), respectively. Former subsec. (c), relating to limitations on service credited under cl. (7) or (8) of subsec. (a) of this section, was struck out.
 
     1974—Subsec. (a)(1). [Pub. L. 93–545][/us/pl/93/545] inserted “aviation midshipman,” after “flight officer,”.
 
@@ -247,7 +247,7 @@ Oct. 12, 1949, ch. 681, § 202 (less proviso of (d)), 63 Stat. 807; Apr. 30, 1
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–525, title VI, § 607(b)][/us/pl/98/525/s607/b], Oct. 19, 1984, [98 Stat. 2538][/us/stat/98/2538], provided that: 
+[Pub. L. 98–525, title VI][/us/pl/98/525/tVI], § 607(b), Oct. 19, 1984, [98 Stat. 2538][/us/stat/98/2538], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to persons who enlist under section 511 \[now 12103\] of title 10, United States Code, on or after the first day of the third calendar month which begins after the date of the enactment of this Act \[Oct. 19, 1984\].”
 
@@ -263,7 +263,7 @@ Oct. 12, 1949, ch. 681, § 202 (less proviso of (d)), 63 Stat. 807; Apr. 30, 1
 
  __Inclusion of Senior Enlisted Advisor for the Chairman of the Joint Chiefs of Staff Among Senior Enlisted Members of the Armed Forces__ 
 
-[Pub. L. 109–163, div. A, title VI, § 685(a)][/us/pl/109/163/s685/a], Jan. 6, 2006, [119 Stat. 3325][/us/stat/119/3325], as amended by [Pub. L. 109–364, div. A, title X, § 1071(e)(5)][/us/pl/109/364/s1071/e/5], Oct. 17, 2006, [120 Stat. 2401][/us/stat/120/2401]; [Pub. L. 113–291, div. A, title VI, § 603(a)(2)(A)][/us/pl/113/291/s603/a/2/A], Dec. 19, 2014, [128 Stat. 3398][/us/stat/128/3398], provided that:
+[Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 685(a), Jan. 6, 2006, [119 Stat. 3325][/us/stat/119/3325], as amended by [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1071(e)(5), Oct. 17, 2006, [120 Stat. 2401][/us/stat/120/2401]; [Pub. L. 113–291, div. A, title VI][/us/pl/113/291/dA/tVI], § 603(a)(2)(A), Dec. 19, 2014, [128 Stat. 3398][/us/stat/128/3398], provided that:
 
 >     “(1)  __Equal treatment__  __.—__ 
 
@@ -297,39 +297,39 @@ Oct. 12, 1949, ch. 681, § 202 (less proviso of (d)), 63 Stat. 807; Apr. 30, 1
 [/us/usc/t10/s12203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12203
 [/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F458
-[/us/pl/88/647/s202/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F647%2Fs202%2F1
+[/us/pl/88/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F647%2FtII
 [/us/stat/78/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1070
-[/us/pl/89/718/s49/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs49%2Fa%2F1
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1121
-[/us/pl/90/623/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623%2Fs3%2F3
+[/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/stat/82/1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1314
-[/us/pl/93/545/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F545%2Fs2
+[/us/pl/93/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F545
 [/us/stat/88/1741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1741
-[/us/pl/96/342/s813/b/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2Fs813%2Fb%2F3%2FD
+[/us/pl/96/342/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2FtVIII
 [/us/stat/94/1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1104
-[/us/pl/96/513/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs402
+[/us/pl/96/513/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtIV
 [/us/stat/94/2904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2904
-[/us/pl/98/525/s607/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs607%2Fa
+[/us/pl/98/525/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtVI
 [/us/stat/98/2538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2538
-[/us/pl/101/189/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs501%2Fc
+[/us/pl/101/189/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtV
 [/us/stat/103/1435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1435
-[/us/pl/102/25/s702/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs702%2Fb%2F1
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F117
-[/us/pl/102/484/s517/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs517%2Fb
+[/us/pl/102/484/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtV
 [/us/stat/106/2407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2407
-[/us/pl/103/35/s204/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs204%2Fa%2F1
+[/us/pl/103/35/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2FtII
 [/us/stat/107/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F102
-[/us/pl/103/337/s1676/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1676%2Fb%2F2
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3019
-[/us/pl/104/201/s507/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs507%2Fb
+[/us/pl/104/201/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtV
 [/us/stat/110/2512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2512
-[/us/pl/105/85/s1073/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fb
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1904
-[/us/pl/106/65/s551/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs551%2Fc
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F614
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/109/163/s515/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fd%2F1%2FC
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3236
 [/us/pl/86/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F142
 [/us/act/1956-08-10/ch1041/s53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs53
@@ -339,19 +339,19 @@ Oct. 12, 1949, ch. 681, § 202 (less proviso of (d)), 63 Stat. 807; Apr. 30, 1
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
-[/us/pl/103/337/s1676/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1676%2Fb%2F2%2FA
-[/us/pl/103/337/s1676/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1676%2Fb%2F2%2FB
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/usc/t10/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs511
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
-[/us/pl/96/513/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs402%2Fa
-[/us/pl/96/513/s516/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs516%2F3
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342
-[/us/pl/96/513/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs402%2Fb
-[/us/pl/96/513/s402/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs402%2Fc
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/93/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F545
 [/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
@@ -359,7 +359,7 @@ Oct. 12, 1949, ch. 681, § 202 (less proviso of (d)), 63 Stat. 807; Apr. 30, 1
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/337/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691
 [/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001
-[/us/pl/98/525/s607/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs607%2Fb
+[/us/pl/98/525/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtVI
 [/us/stat/98/2538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2538
 [/us/pl/96/513/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs402
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
@@ -370,11 +370,11 @@ Oct. 12, 1949, ch. 681, § 202 (less proviso of (d)), 63 Stat. 807; Apr. 30, 1
 [/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
 [/us/pl/90/623/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623%2Fs6
 [/us/usc/t5/s5334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5334
-[/us/pl/109/163/s685/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs685%2Fa
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3325
-[/us/pl/109/364/s1071/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fe%2F5
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2401
-[/us/pl/113/291/s603/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs603%2Fa%2F2%2FA
+[/us/pl/113/291/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVI
 [/us/stat/128/3398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3398
 [/us/usc/t37/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs205
 [/us/usc/t10/s12209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12209

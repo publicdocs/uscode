@@ -115,35 +115,35 @@
 
             (B) is on active duty under a call or order to active duty for a period of less than one year.
 
-(Added [Pub. L. 93–274, § 1(2)][/us/pl/93/274/s1/2], May 6, 1974, [88 Stat. 94][/us/stat/88/94]; amended [Pub. L. 96–284, § 4(b)][/us/pl/96/284/s4/b], June 28, 1980, [94 Stat. 591][/us/stat/94/591]; [Pub. L. 99–145, title VI, § 639(a)][/us/pl/99/145/s639/a], Nov. 8, 1985, [99 Stat. 649][/us/stat/99/649]; [Pub. L. 102–25, title VII, § 702(b)(1)][/us/pl/102/25/s702/b/1], (2), (c), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117]; [Pub. L. 104–201, div. A, title VI, § 615(a)][/us/pl/104/201/s615/a], (b), (e), Sept. 23, 1996, [110 Stat. 2545][/us/stat/110/2545], 2547; [Pub. L. 105–85, div. A, title VI, § 618][/us/pl/105/85/s618], Nov. 18, 1997, [111 Stat. 1789][/us/stat/111/1789]; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163], §§ 625, 626, 687(b)(6), Jan. 6, 2006, [119 Stat. 3295][/us/stat/119/3295], 3328; [Pub. L. 109–364, div. A, title VI, § 615(a)][/us/pl/109/364/s615/a], Oct. 17, 2006, [120 Stat. 2249][/us/stat/120/2249]; [Pub. L. 110–181, div. A, title VI, § 616(a)][/us/pl/110/181/s616/a], Jan. 28, 2008, [122 Stat. 150][/us/stat/122/150].)
+(Added [Pub. L. 93–274][/us/pl/93/274], § 1(2), May 6, 1974, [88 Stat. 94][/us/stat/88/94]; amended [Pub. L. 96–284][/us/pl/96/284], § 4(b), June 28, 1980, [94 Stat. 591][/us/stat/94/591]; [Pub. L. 99–145, title VI][/us/pl/99/145/tVI], § 639(a), Nov. 8, 1985, [99 Stat. 649][/us/stat/99/649]; [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 702(b)(1), (2), (c), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117]; [Pub. L. 104–201, div. A, title VI][/us/pl/104/201/dA/tVI], § 615(a), (b), (e), Sept. 23, 1996, [110 Stat. 2545][/us/stat/110/2545], 2547; [Pub. L. 105–85, div. A, title VI][/us/pl/105/85/dA/tVI], § 618, Nov. 18, 1997, [111 Stat. 1789][/us/stat/111/1789]; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], §§ 625, 626, 687(b)(6), Jan. 6, 2006, [119 Stat. 3295][/us/stat/119/3295], 3328; [Pub. L. 109–364, div. A, title VI][/us/pl/109/364/dA/tVI], § 615(a), Oct. 17, 2006, [120 Stat. 2249][/us/stat/120/2249]; [Pub. L. 110–181, div. A, title VI][/us/pl/110/181/dA/tVI], § 616(a), Jan. 28, 2008, [122 Stat. 150][/us/stat/122/150].)
 
  __Amendments__ 
 
-    2008—Subsec. (a)(4). [Pub. L. 110–181, § 616(a)(1)][/us/pl/110/181/s616/a/1], substituted “at a rate determined by the Secretary concerned, which rate may not exceed the following” for “at the following rates” in introductory provisions.
+    2008—Subsec. (a)(4). [Pub. L. 110–181][/us/pl/110/181], § 616(a)(1), substituted “at a rate determined by the Secretary concerned, which rate may not exceed the following” for “at the following rates” in introductory provisions.
 
-    Subsec. (a)(4)(A). [Pub. L. 110–181, § 616(a)(2)][/us/pl/110/181/s616/a/2], substituted “$10,000” for “$4,000”.
+    Subsec. (a)(4)(A). [Pub. L. 110–181][/us/pl/110/181], § 616(a)(2), substituted “$10,000” for “$4,000”.
 
-    Subsec. (a)(4)(B). [Pub. L. 110–181, § 616(a)(3)][/us/pl/110/181/s616/a/3], substituted “$12,000” for “$6,000”.
+    Subsec. (a)(4)(B). [Pub. L. 110–181][/us/pl/110/181], § 616(a)(3), substituted “$12,000” for “$6,000”.
 
-    2006—Subsec. (a). [Pub. L. 109–163, § 625(a)(1)][/us/pl/109/163/s625/a/1], substituted “Board Certification, and Incentive” for “and Board Certification” in heading.
+    2006—Subsec. (a). [Pub. L. 109–163][/us/pl/109/163], § 625(a)(1), substituted “Board Certification, and Incentive” for “and Board Certification” in heading.
 
     Subsec. (a)(4). [Pub. L. 109–364][/us/pl/109/364] in introductory provisions substituted “An officer who is entitled to variable special pay under paragraph (2) or (3) is also entitled to additional special pay for any 12-month period during which an agreement executed under subsection (b) is in effect with respect to the officer” for “Subject to subsection (b), an officer entitled to variable special pay under paragraph (2) or (3) also is entitled to additional special pay for any 12-month period during which the officer is not undergoing dental internship or initial residency training”.
 
-    [Pub. L. 109–163, § 626][/us/pl/109/163/s626], inserted “also” before “is entitled” and “initial” before “residency” in introductory provisions.
+    [Pub. L. 109–163][/us/pl/109/163], § 626, inserted “also” before “is entitled” and “initial” before “residency” in introductory provisions.
 
-    Subsec. (a)(6). [Pub. L. 109–163, § 625(a)(2)][/us/pl/109/163/s625/a/2], added par. (6).
+    Subsec. (a)(6). [Pub. L. 109–163][/us/pl/109/163], § 625(a)(2), added par. (6).
 
-    Subsec. (b). [Pub. L. 109–163, § 625(b)][/us/pl/109/163/s625/b], substituted “paragraph (4) or (6) of subsection (a)” for “subsection (a)(4)” in two places.
+    Subsec. (b). [Pub. L. 109–163][/us/pl/109/163], § 625(b), substituted “paragraph (4) or (6) of subsection (a)” for “subsection (a)(4)” in two places.
 
-    Subsec. (b)(2). [Pub. L. 109–163, § 687(b)(6)(A)][/us/pl/109/163/s687/b/6/A], added second sentence and struck out former second sentence which read as follows: “If such entitlement is terminated, the officer concerned is entitled to be paid such special pay only for the part of the period on active duty that the officer served, and the officer may be required to refund any amount in excess of that entitlement.”
+    Subsec. (b)(2). [Pub. L. 109–163][/us/pl/109/163], § 687(b)(6)(A), added second sentence and struck out former second sentence which read as follows: “If such entitlement is terminated, the officer concerned is entitled to be paid such special pay only for the part of the period on active duty that the officer served, and the officer may be required to refund any amount in excess of that entitlement.”
 
-    Subsec. (d). [Pub. L. 109–163, § 625(b)][/us/pl/109/163/s625/b], substituted “paragraph (4) or (6) of subsection (a)” for “subsection (a)(4)”.
+    Subsec. (d). [Pub. L. 109–163][/us/pl/109/163], § 625(b), substituted “paragraph (4) or (6) of subsection (a)” for “subsection (a)(4)”.
 
-    Subsec. (e). [Pub. L. 109–163, § 687(b)(6)(B)][/us/pl/109/163/s687/b/6/B], added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “An officer who voluntarily terminates service on active duty before the end of the period for which a payment was made to such officer under subsection (a)(4) shall refund to the United States an amount which bears the same ratio to the amount paid to such officer as the unserved part of such period bears to the total period for which the payment was made.”
+    Subsec. (e). [Pub. L. 109–163][/us/pl/109/163], § 687(b)(6)(B), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “An officer who voluntarily terminates service on active duty before the end of the period for which a payment was made to such officer under subsection (a)(4) shall refund to the United States an amount which bears the same ratio to the amount paid to such officer as the unserved part of such period bears to the total period for which the payment was made.”
 
-    Subsecs. (f) to (h). [Pub. L. 109–163, § 687(b)(6)(C)][/us/pl/109/163/s687/b/6/C], (D), redesignated subsecs. (g) and (h) as (f) and (g), respectively, and struck out heading and text of former subsec. (f). Text read as follows: “A discharge in bankruptcy under title 11 shall not release a person from an obligation to reimburse the United States required under the terms of an agreement described in subsection (b) if the final decree of the discharge in bankruptcy was issued within a period of five years after the last day of a period which such person had agreed to serve on active duty. This subsection applies to a discharge in bankruptcy in any proceeding which begins after September 30, 1985.”
+    Subsecs. (f) to (h). [Pub. L. 109–163][/us/pl/109/163], § 687(b)(6)(C), (D), redesignated subsecs. (g) and (h) as (f) and (g), respectively, and struck out heading and text of former subsec. (f). Text read as follows: “A discharge in bankruptcy under title 11 shall not release a person from an obligation to reimburse the United States required under the terms of an agreement described in subsection (b) if the final decree of the discharge in bankruptcy was issued within a period of five years after the last day of a period which such person had agreed to serve on active duty. This subsection applies to a discharge in bankruptcy in any proceeding which begins after September 30, 1985.”
 
-    1997—Subsec. (a)(2)(C) to (G). [Pub. L. 105–85, § 618(a)][/us/pl/105/85/s618/a], added subpars. (C) to (G) and struck out former subpars. (C) to (F) which read as follows:
+    1997—Subsec. (a)(2)(C) to (G). [Pub. L. 105–85][/us/pl/105/85], § 618(a), added subpars. (C) to (G) and struck out former subpars. (C) to (F) which read as follows:
 
     “(C) $7,000 per year, if the officer has at least six but less than 10 years of creditable service.
 
@@ -153,9 +153,9 @@
 
     “(F) $3,000 per year, if the officer has 18 or more years of creditable service.”
 
-    Subsec. (a)(3). [Pub. L. 105–85, § 618(b)][/us/pl/105/85/s618/b], substituted “$7,000” for “$1,000”.
+    Subsec. (a)(3). [Pub. L. 105–85][/us/pl/105/85], § 618(b), substituted “$7,000” for “$1,000”.
 
-    Subsec. (a)(4)(B) to (D). [Pub. L. 105–85, § 618(c)][/us/pl/105/85/s618/c], added subpars. (B) and (C) and struck out former subpars. (B) to (D) which read as follows:
+    Subsec. (a)(4)(B) to (D). [Pub. L. 105–85][/us/pl/105/85], § 618(c), added subpars. (B) and (C) and struck out former subpars. (B) to (D) which read as follows:
 
     “(B) $6,000 per year, if the officer has at least three but less than 14 years of creditable service.
 
@@ -163,11 +163,11 @@
 
     “(D) $10,000 per year, if the officer has at least 18 or more years of creditable service.”
 
-    1996—Subsec. (a). [Pub. L. 104–201, § 615(e)(1)][/us/pl/104/201/s615/e/1], inserted heading.
+    1996—Subsec. (a). [Pub. L. 104–201][/us/pl/104/201], § 615(e)(1), inserted heading.
 
-    Subsec. (a)(2). [Pub. L. 104–201, § 615(a)(1)][/us/pl/104/201/s615/a/1], substituted “$3,000” for “$1,200” in subpar. (A), “$7,000” for “$2,000” in subpar. (B), and “$7,000” for “$4,000” in subpar. (C).
+    Subsec. (a)(2). [Pub. L. 104–201][/us/pl/104/201], § 615(a)(1), substituted “$3,000” for “$1,200” in subpar. (A), “$7,000” for “$2,000” in subpar. (B), and “$7,000” for “$4,000” in subpar. (C).
 
-    Subsec. (a)(4). [Pub. L. 104–201, § 615(a)(2)][/us/pl/104/201/s615/a/2], added subpars. (A) to (D) and struck out former subpars. (A) to (C) which read as follows:
+    Subsec. (a)(4). [Pub. L. 104–201][/us/pl/104/201], § 615(a)(2), added subpars. (A) to (D) and struck out former subpars. (A) to (C) which read as follows:
 
     “(A) $6,000 per year, if the officer has at least three but less than 14 years of creditable service.
 
@@ -175,7 +175,7 @@
 
     “(C) $10,000 per year, if the officer has 18 or more years of creditable service.”
 
-    Subsec. (a)(5). [Pub. L. 104–201, § 615(a)(3)][/us/pl/104/201/s615/a/3], added subpars. (A) to (E) and struck out former subpars. (A) to (C) which read as follows:
+    Subsec. (a)(5). [Pub. L. 104–201][/us/pl/104/201], § 615(a)(3), added subpars. (A) to (E) and struck out former subpars. (A) to (C) which read as follows:
 
     “(A) $2,000 per year, if the officer has less than 12 years of creditable service.
 
@@ -183,9 +183,9 @@
 
     “(C) $4,000 per year, if the officer has 14 or more years of creditable service.”
 
-    Subsecs. (b) to (g). [Pub. L. 104–201, § 615(e)(2)][/us/pl/104/201/s615/e/2]–(7), inserted headings.
+    Subsecs. (b) to (g). [Pub. L. 104–201][/us/pl/104/201], § 615(e)(2)–(7), inserted headings.
 
-    Subsec. (h). [Pub. L. 104–201, § 615(b)][/us/pl/104/201/s615/b], added subsec. (h).
+    Subsec. (h). [Pub. L. 104–201][/us/pl/104/201], § 615(b), added subsec. (h).
 
     1991—[Pub. L. 102–25][/us/pl/102/25] struck out “of this section” wherever appearing, except in subsec. (g), and struck out “of this subsection” wherever appearing.
 
@@ -203,19 +203,19 @@
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–181, div. A, title VI, § 616(b)][/us/pl/110/181/s616/b], Jan. 28, 2008, [122 Stat. 150][/us/stat/122/150], provided that: 
+[Pub. L. 110–181, div. A, title VI][/us/pl/110/181/dA/tVI], § 616(b), Jan. 28, 2008, [122 Stat. 150][/us/stat/122/150], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply with respect to agreements entered into under [section 302b(b) of title 37][/us/usc/t37/s302b/b], United States Code, on or after the date of the enactment of this Act \[Jan. 28, 2008\].”
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–364, div. A, title VI, § 615(b)][/us/pl/109/364/s615/b], Oct. 17, 2006, [120 Stat. 2249][/us/stat/120/2249], provided that: 
+[Pub. L. 109–364, div. A, title VI][/us/pl/109/364/dA/tVI], § 615(b), Oct. 17, 2006, [120 Stat. 2249][/us/stat/120/2249], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect on October 1, 2006.”
 
  __Effective Date of 1985 Amendment__ 
 
-[Pub. L. 99–145, title VI, § 639(f)][/us/pl/99/145/s639/f], Nov. 8, 1985, [99 Stat. 651][/us/stat/99/651], provided that: 
+[Pub. L. 99–145, title VI][/us/pl/99/145/tVI], § 639(f), Nov. 8, 1985, [99 Stat. 651][/us/stat/99/651], provided that: 
 
 > “The amendments made by this section \[amending this section, repealing [section 311 of this title][/us/usc/t37/s311], and enacting provisions set out as notes under this section\] take effect on October 1, 1985.”
 
@@ -229,7 +229,7 @@
 
  __Authority for Certain Dental Officers To Execute New Agreements__ 
 
-[Pub. L. 99–145, title VI, § 639(c)][/us/pl/99/145/s639/c], Nov. 8, 1985, [99 Stat. 651][/us/stat/99/651], provided that:
+[Pub. L. 99–145, title VI][/us/pl/99/145/tVI], § 639(c), Nov. 8, 1985, [99 Stat. 651][/us/stat/99/651], provided that:
 
 >     “(1)
 
@@ -251,7 +251,7 @@
 
  __Minimum Special Pay__ 
 
-[Pub. L. 99–145, title VI, § 639(d)][/us/pl/99/145/s639/d], Nov. 8, 1985, [99 Stat. 651][/us/stat/99/651], as amended by [Pub. L. 99–661, div. A, title XIII, § 1342(c)][/us/pl/99/661/s1342/c], Nov. 14, 1986, [100 Stat. 3991][/us/stat/100/3991], provided that:
+[Pub. L. 99–145, title VI][/us/pl/99/145/tVI], § 639(d), Nov. 8, 1985, [99 Stat. 651][/us/stat/99/651], as amended by [Pub. L. 99–661, div. A, title XIII][/us/pl/99/661/dA/tXIII], § 1342(c), Nov. 14, 1986, [100 Stat. 3991][/us/stat/100/3991], provided that:
 
 >     “(1) An officer described in paragraph (2) who, after September 30, 1985, is entitled to special pay under [section 302b of title 37][/us/usc/t37/s302b], United States Code (as amended by subsection (a)), may (notwithstanding the provisions of such section and in the discretion of the Secretary concerned) be paid such pay, in order to prevent inequities, in an annual amount equal to the total annual amount of dental continuation pay under [section 311 of title 37][/us/usc/t37/s311], United States Code, and special pay for dental officers under section 302b of that title to which that officer would have been entitled on September 30, 1985, in accordance with the status of the officer (as determined by the Secretary concerned) during the period for which the pay is paid. Notwithstanding the preceding sentence, an officer may not be paid special pay by reason of this paragraph in an amount greater than the amount of special pay to which the officer was entitled under such sections on September 30, 1985.
 
@@ -271,54 +271,54 @@
 [/us/usc/t37/s303a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs303a%2Fe
 [/us/usc/t37/s303a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs303a%2Fa
 [/us/usc/t37/s303a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs303a%2Fe
-[/us/pl/93/274/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F274%2Fs1%2F2
+[/us/pl/93/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F274
 [/us/stat/88/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F94
-[/us/pl/96/284/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F284%2Fs4%2Fb
+[/us/pl/96/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F284
 [/us/stat/94/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F591
-[/us/pl/99/145/s639/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs639%2Fa
+[/us/pl/99/145/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtVI
 [/us/stat/99/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F649
-[/us/pl/102/25/s702/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs702%2Fb%2F1
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F117
-[/us/pl/104/201/s615/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs615%2Fa
+[/us/pl/104/201/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtVI
 [/us/stat/110/2545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2545
-[/us/pl/105/85/s618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs618
+[/us/pl/105/85/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVI
 [/us/stat/111/1789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1789
-[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3295
-[/us/pl/109/364/s615/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs615%2Fa
+[/us/pl/109/364/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVI
 [/us/stat/120/2249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2249
-[/us/pl/110/181/s616/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs616%2Fa
+[/us/pl/110/181/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVI
 [/us/stat/122/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F150
-[/us/pl/110/181/s616/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs616%2Fa%2F1
-[/us/pl/110/181/s616/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs616%2Fa%2F2
-[/us/pl/110/181/s616/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs616%2Fa%2F3
-[/us/pl/109/163/s625/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs625%2Fa%2F1
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
-[/us/pl/109/163/s626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs626
-[/us/pl/109/163/s625/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs625%2Fa%2F2
-[/us/pl/109/163/s625/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs625%2Fb
-[/us/pl/109/163/s687/b/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Fb%2F6%2FA
-[/us/pl/109/163/s625/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs625%2Fb
-[/us/pl/109/163/s687/b/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Fb%2F6%2FB
-[/us/pl/109/163/s687/b/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Fb%2F6%2FC
-[/us/pl/105/85/s618/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs618%2Fa
-[/us/pl/105/85/s618/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs618%2Fb
-[/us/pl/105/85/s618/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs618%2Fc
-[/us/pl/104/201/s615/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs615%2Fe%2F1
-[/us/pl/104/201/s615/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs615%2Fa%2F1
-[/us/pl/104/201/s615/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs615%2Fa%2F2
-[/us/pl/104/201/s615/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs615%2Fa%2F3
-[/us/pl/104/201/s615/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs615%2Fe%2F2
-[/us/pl/104/201/s615/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs615%2Fb
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
+[/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 [/us/pl/96/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F284
-[/us/pl/110/181/s616/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs616%2Fb
+[/us/pl/110/181/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVI
 [/us/stat/122/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F150
 [/us/usc/t37/s302b/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs302b%2Fb
-[/us/pl/109/364/s615/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs615%2Fb
+[/us/pl/109/364/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVI
 [/us/stat/120/2249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2249
-[/us/pl/99/145/s639/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs639%2Ff
+[/us/pl/99/145/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtVI
 [/us/stat/99/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F651
 [/us/usc/t37/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs311
 [/us/pl/93/274/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F274%2Fs2
@@ -326,15 +326,15 @@
 [/us/pl/109/163/s687/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Fb
 [/us/pl/109/163/s687/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Ff
 [/us/usc/t10/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs510
-[/us/pl/99/145/s639/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs639%2Fc
+[/us/pl/99/145/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtVI
 [/us/stat/99/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F651
 [/us/usc/t37/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs311
 [/us/pl/98/473/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs101%2Fh
 [/us/usc/t37/s302b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs302b
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/99/145/s639/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs639%2Fd
+[/us/pl/99/145/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtVI
 [/us/stat/99/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F651
-[/us/pl/99/661/s1342/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1342%2Fc
+[/us/pl/99/661/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXIII
 [/us/stat/100/3991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3991
 [/us/usc/t37/s302b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs302b
 [/us/usc/t37/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs311

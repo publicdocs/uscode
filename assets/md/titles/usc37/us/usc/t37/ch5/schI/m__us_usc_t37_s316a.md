@@ -43,19 +43,19 @@
 
     No incentive pay may be paid under this section after December 31, 2016.
 
-(Added [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 619(b)(1), Oct. 14, 2008, [122 Stat. 4488][/us/stat/122/4488]; amended [Pub. L. 112–81, div. A, title X, § 1065(b)][/us/pl/112/81/s1065/b], Dec. 31, 2011, [125 Stat. 1588][/us/stat/125/1588]; [Pub. L. 113–66, div. A, title VI, § 616][/us/pl/113/66/s616], Dec. 26, 2013, [127 Stat. 781][/us/stat/127/781]; [Pub. L. 113–291, div. A, title VI, § 615(5)][/us/pl/113/291/s615/5], Dec. 19, 2014, [128 Stat. 3401][/us/stat/128/3401]; [Pub. L. 114–92, div. A, title VI, § 615(5)][/us/pl/114/92/s615/5], title X, § 1072(a), Nov. 25, 2015, [129 Stat. 839][/us/stat/129/839], 994.)
+(Added [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 619(b)(1), Oct. 14, 2008, [122 Stat. 4488][/us/stat/122/4488]; amended [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1065(b), Dec. 31, 2011, [125 Stat. 1588][/us/stat/125/1588]; [Pub. L. 113–66, div. A, title VI][/us/pl/113/66/dA/tVI], § 616, Dec. 26, 2013, [127 Stat. 781][/us/stat/127/781]; [Pub. L. 113–291, div. A, title VI][/us/pl/113/291/dA/tVI], § 615(5), Dec. 19, 2014, [128 Stat. 3401][/us/stat/128/3401]; [Pub. L. 114–92, div. A, title VI][/us/pl/114/92/dA/tVI], § 615(5), title X, § 1072(a), Nov. 25, 2015, [129 Stat. 839][/us/stat/129/839], 994.)
 
  __Prior Provisions__ 
 
-    A prior section 316a, added [Pub. L. 102–190, div. A, title VI, § 636(a)][/us/pl/102/190/s636/a], Dec. 5, 1991, [105 Stat. 1382][/us/stat/105/1382], related to waiver of certification requirement, prior to repeal by [Pub. L. 108–375, div. A, title VI, § 620(b)(1)][/us/pl/108/375/s620/b/1], Oct. 28, 2004, [118 Stat. 1954][/us/stat/118/1954].
+    A prior section 316a, added [Pub. L. 102–190, div. A, title VI][/us/pl/102/190/dA/tVI], § 636(a), Dec. 5, 1991, [105 Stat. 1382][/us/stat/105/1382], related to waiver of certification requirement, prior to repeal by [Pub. L. 108–375, div. A, title VI][/us/pl/108/375/dA/tVI], § 620(b)(1), Oct. 28, 2004, [118 Stat. 1954][/us/stat/118/1954].
 
  __Amendments__ 
 
-    2015—Subsec. (f). [Pub. L. 114–92, § 1072(a)][/us/pl/114/92/s1072/a], redesignated subsec. (g) as (f) and struck out former subsec. (f) which related to annual reports on the payment of incentive pay under this section.
+    2015—Subsec. (f). [Pub. L. 114–92][/us/pl/114/92], § 1072(a), redesignated subsec. (g) as (f) and struck out former subsec. (f) which related to annual reports on the payment of incentive pay under this section.
 
-    Subsec. (g). [Pub. L. 114–92, § 1072(a)(2)][/us/pl/114/92/s1072/a/2], redesignated subsec. (g) as (f).
+    Subsec. (g). [Pub. L. 114–92][/us/pl/114/92], § 1072(a)(2), redesignated subsec. (g) as (f).
 
-    [Pub. L. 114–92, § 615(5)][/us/pl/114/92/s615/5], substituted “December 31, 2016” for “December 31, 2015”.
+    [Pub. L. 114–92][/us/pl/114/92], § 615(5), substituted “December 31, 2016” for “December 31, 2015”.
 
     2014—Subsec. (g). [Pub. L. 113–291][/us/pl/113/291] substituted “December 31, 2015” for “December 31, 2014”.
 
@@ -73,21 +73,21 @@
 [/us/usc/t37/s303a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs303a%2Fe
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4488
-[/us/pl/112/81/s1065/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1065%2Fb
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1588
-[/us/pl/113/66/s616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs616
+[/us/pl/113/66/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtVI
 [/us/stat/127/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F781
-[/us/pl/113/291/s615/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs615%2F5
+[/us/pl/113/291/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVI
 [/us/stat/128/3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3401
-[/us/pl/114/92/s615/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs615%2F5
+[/us/pl/114/92/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVI
 [/us/stat/129/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F839
-[/us/pl/102/190/s636/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs636%2Fa
+[/us/pl/102/190/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVI
 [/us/stat/105/1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1382
-[/us/pl/108/375/s620/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs620%2Fb%2F1
+[/us/pl/108/375/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVI
 [/us/stat/118/1954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1954
-[/us/pl/114/92/s1072/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1072%2Fa
-[/us/pl/114/92/s1072/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1072%2Fa%2F2
-[/us/pl/114/92/s615/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs615%2F5
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81

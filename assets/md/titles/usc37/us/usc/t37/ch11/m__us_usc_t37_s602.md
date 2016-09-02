@@ -41,7 +41,7 @@
 
     (f) A person who is designated to receive payments under this section shall furnish satisfactory assurance that the amounts received by him will be applied to the use and benefit of the incompetent member, and, where the payments may reasonably be expected to be more than $1,000, shall provide a suitable bond to be paid for out of amounts due the incompetent member.
 
-([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 483][/us/stat/76/483]; [Pub. L. 96–513, title V, § 516(17)][/us/pl/96/513/s516/17], Dec. 12, 1980, [94 Stat. 2939][/us/stat/94/2939]; [Pub. L. 101–189, div. A, title XVI, § 1621(b)(1)][/us/pl/101/189/s1621/b/1], Nov. 29, 1989, [103 Stat. 1604][/us/stat/103/1604].)
+([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 483][/us/stat/76/483]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 516(17), Dec. 12, 1980, [94 Stat. 2939][/us/stat/94/2939]; [Pub. L. 101–189, div. A, title XVI][/us/pl/101/189/dA/tXVI], § 1621(b)(1), Nov. 29, 1989, [103 Stat. 1604][/us/stat/103/1604].)
 
 <table>
 
@@ -174,9 +174,9 @@ June 21, 1950, ch. 342, §§ 2, 3 (less 1st 28 words), 64 Stat. 249; Aug. 7, 1
 
 [/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F483
-[/us/pl/96/513/s516/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs516%2F17
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2939
-[/us/pl/101/189/s1621/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1621%2Fb%2F1
+[/us/pl/101/189/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXVI
 [/us/stat/103/1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1604
 [/us/usc/t1/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs1
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189

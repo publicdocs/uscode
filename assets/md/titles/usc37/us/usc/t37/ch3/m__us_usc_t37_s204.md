@@ -109,7 +109,7 @@
 
     (j) A member of the uniformed services who is entitled to medical or dental care under [section 1074a of title 10][/us/usc/t10/s1074a] is entitled to travel and transportation allowances, or a monetary allowance in place thereof, for necessary travel incident to such care, and return to his home upon discharge from treatment.
 
-([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 457][/us/stat/76/457]; [Pub. L. 96–513, title V, § 506(4)][/us/pl/96/513/s506/4], Dec. 12, 1980, [94 Stat. 2919][/us/stat/94/2919]; [Pub. L. 98–94, title X, § 1012(b)][/us/pl/98/94/s1012/b], Sept. 24, 1983, [97 Stat. 665][/us/stat/97/665]; [Pub. L. 99–433, title V, § 531(b)][/us/pl/99/433/s531/b], Oct. 1, 1986, [100 Stat. 1063][/us/stat/100/1063]; [Pub. L. 99–661, div. A, title VI, § 604(b)][/us/pl/99/661/s604/b], Nov. 14, 1986, [100 Stat. 3875][/us/stat/100/3875]; [Pub. L. 100–456, div. A, title VI, § 631(a)][/us/pl/100/456/s631/a], (b), Sept. 29, 1988, [102 Stat. 1984][/us/stat/102/1984], 1985; [Pub. L. 102–25, title VII, § 701(b)(1)][/us/pl/102/25/s701/b/1], (c), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117]; [Pub. L. 103–337, div. A, title XVI, § 1676(b)(1)][/us/pl/103/337/s1676/b/1], Oct. 5, 1994, [108 Stat. 3019][/us/stat/108/3019]; [Pub. L. 104–106, div. A, title VII, § 702(c)][/us/pl/104/106/s702/c], Feb. 10, 1996, [110 Stat. 371][/us/stat/110/371]; [Pub. L. 105–85, div. A, title V, § 513(f)][/us/pl/105/85/s513/f], Nov. 18, 1997, [111 Stat. 1732][/us/stat/111/1732]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 665(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–168; [Pub. L. 107–107, div. A, title V, § 513(d)][/us/pl/107/107/s513/d], Dec. 28, 2001, [115 Stat. 1093][/us/stat/115/1093]; [Pub. L. 107–296, title XVII, § 1704(c)][/us/pl/107/296/s1704/c], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 113–66, div. A, title VI, § 602][/us/pl/113/66/s602], Dec. 26, 2013, [127 Stat. 779][/us/stat/127/779].)
+([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 457][/us/stat/76/457]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 506(4), Dec. 12, 1980, [94 Stat. 2919][/us/stat/94/2919]; [Pub. L. 98–94, title X][/us/pl/98/94/tX], § 1012(b), Sept. 24, 1983, [97 Stat. 665][/us/stat/97/665]; [Pub. L. 99–433, title V][/us/pl/99/433/tV], § 531(b), Oct. 1, 1986, [100 Stat. 1063][/us/stat/100/1063]; [Pub. L. 99–661, div. A, title VI][/us/pl/99/661/dA/tVI], § 604(b), Nov. 14, 1986, [100 Stat. 3875][/us/stat/100/3875]; [Pub. L. 100–456, div. A, title VI][/us/pl/100/456/dA/tVI], § 631(a), (b), Sept. 29, 1988, [102 Stat. 1984][/us/stat/102/1984], 1985; [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 701(b)(1), (c), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117]; [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1676(b)(1), Oct. 5, 1994, [108 Stat. 3019][/us/stat/108/3019]; [Pub. L. 104–106, div. A, title VII][/us/pl/104/106/dA/tVII], § 702(c), Feb. 10, 1996, [110 Stat. 371][/us/stat/110/371]; [Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 513(f), Nov. 18, 1997, [111 Stat. 1732][/us/stat/111/1732]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 665(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–168; [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 513(d), Dec. 28, 2001, [115 Stat. 1093][/us/stat/115/1093]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(c), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 113–66, div. A, title VI][/us/pl/113/66/dA/tVI], § 602, Dec. 26, 2013, [127 Stat. 779][/us/stat/127/779].)
 
 <table>
 
@@ -291,45 +291,45 @@ Dec. 20, 1886, ch. 2, 24 Stat. 351; June 2, 1950, ch. 217, § 2, 64 Stat. 195.
 
     2001—Subsecs. (g)(1)(D), (h)(1)(D). [Pub. L. 107–107][/us/pl/107/107] struck out “, if the site is outside reasonable commuting distance from the member’s residence” before semicolon.
 
-    2000—Subsec. (g)(1)(E). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 665(a)(1)\], added subpar. (E).
+    2000—Subsec. (g)(1)(E). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 665(a)(1)\], added subpar. (E).
 
-    Subsec. (h)(1)(E). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 665(a)(2)\], added subpar. (E).
+    Subsec. (h)(1)(E). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 665(a)(2)\], added subpar. (E).
 
     1997—Subsecs. (g)(1)(D), (h)(1)(D). [Pub. L. 105–85][/us/pl/105/85] inserted “while remaining overnight immediately before the commencement of inactive-duty training, or” after “in line of duty”.
 
-    1996—Subsec. (g)(1)(D). [Pub. L. 104–106, § 702(c)(1)][/us/pl/104/106/s702/c/1], added subpar. (D).
+    1996—Subsec. (g)(1)(D). [Pub. L. 104–106][/us/pl/104/106], § 702(c)(1), added subpar. (D).
 
-    Subsec. (h)(1)(D). [Pub. L. 104–106, § 702(c)(2)][/us/pl/104/106/s702/c/2], added subpar. (D).
+    Subsec. (h)(1)(D). [Pub. L. 104–106][/us/pl/104/106], § 702(c)(2), added subpar. (D).
 
     1994—Subsec. (a)(2). [Pub. L. 103–337][/us/pl/103/337] substituted “10302, 10305, 10502, or 12402” for “3021, 3496, 3541, 8021, 8496, or 8541”.
 
     1991—Subsec. (b). [Pub. L. 102–25][/us/pl/102/25] struck out “of this section” after “subsection (a)”.
 
-    1988—Subsec. (g). [Pub. L. 100–456, § 631(a)][/us/pl/100/456/s631/a], amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “A member of a reserve component of a uniformed service is entitled to the pay and allowances provided by law or regulation for a member of a regular component of a uniformed service of corresponding grade and length of service whenever such member—
+    1988—Subsec. (g). [Pub. L. 100–456][/us/pl/100/456], § 631(a), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “A member of a reserve component of a uniformed service is entitled to the pay and allowances provided by law or regulation for a member of a regular component of a uniformed service of corresponding grade and length of service whenever such member—
 
     “(1) is called or ordered to active duty for a period of more than 30 days; and
 
     “(2) is physically disabled in line of duty from injury, illness, or disease.”
 
-    Subsec. (h). [Pub. L. 100–456, § 631(a)][/us/pl/100/456/s631/a], amended subsec. (h) generally, substituting pars. (1) and (2) for former pars. (1) to (5).
+    Subsec. (h). [Pub. L. 100–456][/us/pl/100/456], § 631(a), amended subsec. (h) generally, substituting pars. (1) and (2) for former pars. (1) to (5).
 
-    Subsecs. (i), (j). [Pub. L. 100–456, § 631(b)][/us/pl/100/456/s631/b], added subsec. (i) and redesignated former subsec. (i) as (j).
+    Subsecs. (i), (j). [Pub. L. 100–456][/us/pl/100/456], § 631(b), added subsec. (i) and redesignated former subsec. (i) as (j).
 
     1986—Subsec. (a)(2). [Pub. L. 99–433][/us/pl/99/433] substituted “3021” and “8021” for “3033” and “8033”, respectively.
 
-    Subsec. (g). [Pub. L. 99–661, § 604(b)(1)][/us/pl/99/661/s604/b/1], amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “A member of the Army or the Air Force (other than of the Regular Army or the Regular Air Force) is entitled to the pay and allowances provided by law or regulation for a member of the Regular Army or the Regular Air Force, as the case may be, of corresponding grade and length of service, whenever—
+    Subsec. (g). [Pub. L. 99–661][/us/pl/99/661], § 604(b)(1), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “A member of the Army or the Air Force (other than of the Regular Army or the Regular Air Force) is entitled to the pay and allowances provided by law or regulation for a member of the Regular Army or the Regular Air Force, as the case may be, of corresponding grade and length of service, whenever—
 
     “(1) he is called or ordered to active duty (other than for training under [section 270(b) of title 10][/us/usc/t10/s270/b]) for a period of more than 30 days, and is disabled in line of duty from disease while so employed; or
 
     “(2) he is called or ordered to active duty, or to perform inactive-duty training, for any period of time, and is disabled in line of duty from injury while so employed.”
 
-    Subsec. (h). [Pub. L. 99–661, § 604(b)(1)][/us/pl/99/661/s604/b/1], amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “A member of the National Guard is entitled to the pay and allowances provided by law or regulation for a member of the Regular Army or the Regular Air Force, as the case may be, of corresponding grade and length of service, whenever he is called or ordered to perform training under section 502, 503, 504, or 505 of title 32—
+    Subsec. (h). [Pub. L. 99–661][/us/pl/99/661], § 604(b)(1), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “A member of the National Guard is entitled to the pay and allowances provided by law or regulation for a member of the Regular Army or the Regular Air Force, as the case may be, of corresponding grade and length of service, whenever he is called or ordered to perform training under section 502, 503, 504, or 505 of title 32—
 
     “(1) for a period of more than 30 days, and is disabled in line of duty from disease while so employed; or
 
     “(2) for any period of time, and is disabled in line of duty from injury while so employed.”
 
-    Subsecs. (i), (j). [Pub. L. 99–661, § 604(b)(2)][/us/pl/99/661/s604/b/2], (3), redesignated subsec. (j) as (i) and struck out former subsec. (i) which read as follows: “A member of the Naval Reserve, Fleet Reserve, Marine Corps Reserve, Fleet Marine Corps Reserve, or Coast Guard Reserve is entitled to the pay and allowances provided by law or regulation for a member of the Regular Navy, Regular Marine Corps, or Regular Coast Guard, as the case may be, of corresponding grade and length of service, under the same conditions as those described in clauses (1) and (2) of subsection (g) of this section.”
+    Subsecs. (i), (j). [Pub. L. 99–661][/us/pl/99/661], § 604(b)(2), (3), redesignated subsec. (j) as (i) and struck out former subsec. (i) which read as follows: “A member of the Naval Reserve, Fleet Reserve, Marine Corps Reserve, Fleet Marine Corps Reserve, or Coast Guard Reserve is entitled to the pay and allowances provided by law or regulation for a member of the Regular Navy, Regular Marine Corps, or Regular Coast Guard, as the case may be, of corresponding grade and length of service, under the same conditions as those described in clauses (1) and (2) of subsection (g) of this section.”
 
     1983—Subsec. (j). [Pub. L. 98–94][/us/pl/98/94] added subsec. (j).
 
@@ -341,7 +341,7 @@ Dec. 20, 1886, ch. 2, 24 Stat. 351; June 2, 1950, ch. 217, § 2, 64 Stat. 195.
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 665(c)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–169, provided that: 
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 665(c)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–169, provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply with respect to months beginning on or after the date of the enactment of this Act \[Oct. 30, 2000\].”
 
@@ -351,7 +351,7 @@ Dec. 20, 1886, ch. 2, 24 Stat. 351; June 2, 1950, ch. 217, § 2, 64 Stat. 195.
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–456, div. A, title VI, § 631(d)][/us/pl/100/456/s631/d], Sept. 29, 1988, [102 Stat. 1985][/us/stat/102/1985], provided that: 
+[Pub. L. 100–456, div. A, title VI][/us/pl/100/456/dA/tVI], § 631(d), Sept. 29, 1988, [102 Stat. 1985][/us/stat/102/1985], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 206 of this title][/us/usc/t37/s206]\] shall apply with respect to persons who, after the date of enactment of this Act \[Sept. 29, 1988\], incur or aggravate an injury, illness, or disease, or who die as the result of incurring or aggravating an injury, illness, or disease.”
 
@@ -379,64 +379,64 @@ Dec. 20, 1886, ch. 2, 24 Stat. 351; June 2, 1950, ch. 217, § 2, 64 Stat. 195.
 [/us/usc/t10/s1074a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1074a
 [/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F457
-[/us/pl/96/513/s506/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs506%2F4
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2919
-[/us/pl/98/94/s1012/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1012%2Fb
+[/us/pl/98/94/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtX
 [/us/stat/97/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F665
-[/us/pl/99/433/s531/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs531%2Fb
+[/us/pl/99/433/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2FtV
 [/us/stat/100/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1063
-[/us/pl/99/661/s604/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs604%2Fb
+[/us/pl/99/661/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtVI
 [/us/stat/100/3875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3875
-[/us/pl/100/456/s631/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs631%2Fa
+[/us/pl/100/456/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtVI
 [/us/stat/102/1984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1984
-[/us/pl/102/25/s701/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs701%2Fb%2F1
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F117
-[/us/pl/103/337/s1676/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1676%2Fb%2F1
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3019
-[/us/pl/104/106/s702/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs702%2Fc
+[/us/pl/104/106/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtVII
 [/us/stat/110/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F371
-[/us/pl/105/85/s513/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs513%2Ff
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1732
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/107/s513/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs513%2Fd
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1093
-[/us/pl/107/296/s1704/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fc
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
-[/us/pl/113/66/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs602
+[/us/pl/113/66/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtVI
 [/us/stat/127/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F779
 [/us/usc/t10/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs541
 [/us/usc/t14/s755/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs755%2Fc
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
-[/us/pl/104/106/s702/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs702%2Fc%2F1
-[/us/pl/104/106/s702/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs702%2Fc%2F2
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
-[/us/pl/100/456/s631/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs631%2Fa
-[/us/pl/100/456/s631/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs631%2Fa
-[/us/pl/100/456/s631/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs631%2Fb
+[/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
+[/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
+[/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
 [/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
-[/us/pl/99/661/s604/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs604%2Fb%2F1
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/usc/t10/s270/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs270%2Fb
-[/us/pl/99/661/s604/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs604%2Fb%2F1
-[/us/pl/99/661/s604/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs604%2Fb%2F2
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
 [/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/usc/t37/s202/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs202%2Fi
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/337/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691
 [/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001
-[/us/pl/100/456/s631/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs631%2Fd
+[/us/pl/100/456/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtVI
 [/us/stat/102/1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1985
 [/us/usc/t37/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs206
 [/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94

@@ -47,7 +47,7 @@
 
     While a reserve medical or dental officer receives a special pay under section 302 or 302b of this title by reason of subsection (a), the officer shall not be entitled to special pay under section 302(h) or 302b(h) of this title.
 
-(Added [Pub. L. 102–190, div. A, title VI, § 634(a)][/us/pl/102/190/s634/a], Dec. 5, 1991, [105 Stat. 1381][/us/stat/105/1381]; amended [Pub. L. 104–106, div. A, title XV, § 1501(d)(4)(A)][/us/pl/104/106/s1501/d/4/A], Feb. 10, 1996, [110 Stat. 500][/us/stat/110/500]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 625(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–153; [Pub. L. 109–163, div. A, title VI, § 687(b)(9)][/us/pl/109/163/s687/b/9], Jan. 6, 2006, [119 Stat. 3329][/us/stat/119/3329].)
+(Added [Pub. L. 102–190, div. A, title VI][/us/pl/102/190/dA/tVI], § 634(a), Dec. 5, 1991, [105 Stat. 1381][/us/stat/105/1381]; amended [Pub. L. 104–106, div. A, title XV][/us/pl/104/106/dA/tXV], § 1501(d)(4)(A), Feb. 10, 1996, [110 Stat. 500][/us/stat/110/500]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 625(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–153; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 687(b)(9), Jan. 6, 2006, [119 Stat. 3329][/us/stat/119/3329].)
 
  __Amendments__ 
 
@@ -67,7 +67,7 @@
 
  __Active Duty in Connection With Operation Desert Storm__ 
 
-[Pub. L. 102–25, title III, § 304][/us/pl/102/25/s304], Apr. 25, 1991, [105 Stat. 81][/us/stat/105/81], as amended by [Pub. L. 102–190, div. A, title VI, § 656][/us/pl/102/190/s656], Dec. 5, 1991, [105 Stat. 1393][/us/stat/105/1393], provided that:
+[Pub. L. 102–25, title III][/us/pl/102/25/tIII], § 304, Apr. 25, 1991, [105 Stat. 81][/us/stat/105/81], as amended by [Pub. L. 102–190, div. A, title VI][/us/pl/102/190/dA/tVI], § 656, Dec. 5, 1991, [105 Stat. 1393][/us/stat/105/1393], provided that:
 
 >     “(a)  __Eligible for Special Pay__  __.—__ 
 
@@ -110,13 +110,13 @@
 [/us/usc/t10/s688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs688
 [/us/usc/t10/s12305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12305
 [/us/usc/t37/s303a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs303a%2Fe
-[/us/pl/102/190/s634/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs634%2Fa
+[/us/pl/102/190/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVI
 [/us/stat/105/1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1381
-[/us/pl/104/106/s1501/d/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fd%2F4%2FA
+[/us/pl/104/106/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtXV
 [/us/stat/110/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F500
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/109/163/s687/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Fb%2F9
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3329
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/usc/t37/s303a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs303a%2Fe
@@ -132,9 +132,9 @@
 [/us/pl/109/163/s687/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Fb
 [/us/pl/109/163/s687/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Ff
 [/us/usc/t10/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs510
-[/us/pl/102/25/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs304
+[/us/pl/102/25/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtIII
 [/us/stat/105/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F81
-[/us/pl/102/190/s656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs656
+[/us/pl/102/190/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVI
 [/us/stat/105/1393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1393
 [/us/usc/t37/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs302
 

@@ -15,9 +15,9 @@
 
 # Title 37—PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
 
-This title was enacted by [Pub. L. 87–649, § 1][/us/pl/87/649/s1], Sept. 7, 1962, [76 Stat. 451][/us/stat/76/451]
+This title was enacted by [Pub. L. 87–649][/us/pl/87/649], § 1, Sept. 7, 1962, [76 Stat. 451][/us/stat/76/451]
 
-Current through 114-195
+Current through 114-219
 
 <table>
 
@@ -155,11 +155,11 @@ Current through 114-195
 
  __Amendments__ 
 
-    2013—[Pub. L. 112–239, div. A, title X, § 1076(a)(7)][/us/pl/112/239/s1076/a/7], Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948], made technical amendment to directory language of [Pub. L. 112–81, § 631(f)(2)][/us/pl/112/81/s631/f/2]. See 2011 Amendment note below.
+    2013—[Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(a)(7), Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948], made technical amendment to directory language of [Pub. L. 112–81][/us/pl/112/81], § 631(f)(2). See 2011 Amendment note below.
 
-    2011—[Pub. L. 112–81, div. A, title VI, § 631(f)(2)][/us/pl/112/81/s631/f/2], Dec. 31, 2011, [125 Stat. 1464][/us/stat/125/1464], as amended by [Pub. L. 112–239, div. A, title X, § 1076(a)(7)][/us/pl/112/239/s1076/a/7], Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948], substituted “Allowances Other Than Travel and Transportation Allowances” for “Allowances” in item for chapter 7 and added item for chapter 8.
+    2011—[Pub. L. 112–81, div. A, title VI][/us/pl/112/81/dA/tVI], § 631(f)(2), Dec. 31, 2011, [125 Stat. 1464][/us/stat/125/1464], as amended by [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(a)(7), Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948], substituted “Allowances Other Than Travel and Transportation Allowances” for “Allowances” in item for chapter 7 and added item for chapter 8.
 
-    1966—[Pub. L. 89–554, § 5(a)][/us/pl/89/554/s5/a], Sept. 6, 1966, [80 Stat. 625][/us/stat/80/625], added item for chapter 10.
+    1966—[Pub. L. 89–554][/us/pl/89/554], § 5(a), Sept. 6, 1966, [80 Stat. 625][/us/stat/80/625], added item for chapter 10.
 
 <table>
 
@@ -2387,25 +2387,25 @@ T. 10 § 1083  </td>
 
  __Enacting Clause__ 
 
-[Pub. L. 87–649, § 1][/us/pl/87/649/s1], Sept. 7, 1962, [76 Stat. 451][/us/stat/76/451], provided in part: 
+[Pub. L. 87–649][/us/pl/87/649], § 1, Sept. 7, 1962, [76 Stat. 451][/us/stat/76/451], provided in part: 
 
 > “That the laws relating to pay and allowances of the uniformed services of the United States are revised, codified, and enacted as title 37 of the United States Code, entitled ‘Pay and Allowances of the Uniformed Services’.”
 
  __Effective Date__ 
 
-[Pub. L. 87–649, § 15][/us/pl/87/649/s15], Sept. 7, 1962, [76 Stat. 502][/us/stat/76/502], provided in part that: 
+[Pub. L. 87–649][/us/pl/87/649], § 15, Sept. 7, 1962, [76 Stat. 502][/us/stat/76/502], provided in part that: 
 
 > “This Act shall take effect on November 1, 1962.”
 
  __Inconsistent Provisions__ 
 
-[Pub. L. 87–649, § 15][/us/pl/87/649/s15], Sept. 7, 1962, [76 Stat. 502][/us/stat/76/502], provided in part that: 
+[Pub. L. 87–649][/us/pl/87/649], § 15, Sept. 7, 1962, [76 Stat. 502][/us/stat/76/502], provided in part that: 
 
 > “Laws enacted after January 9, 1962, that are inconsistent with this Act shall supersede it to the extent of the inconsistency.”
 
  __Savings and Severability Provisions__ 
 
-[Pub. L. 87–649, § 12][/us/pl/87/649/s12], Sept. 7, 1962, [76 Stat. 497][/us/stat/76/497], provided that:
+[Pub. L. 87–649][/us/pl/87/649], § 12, Sept. 7, 1962, [76 Stat. 497][/us/stat/76/497], provided that:
 
 >     “(a) In sections 1–11 of this Act, it is the legislative purpose to restate, without substantive change, the law replaced by those sections on the effective date of this Act \[Nov. 1, 1962\]. However, laws effective after January 9, 1962, that are inconsistent with this Act, shall be considered as superseding it to the extent of the inconsistency.
 
@@ -2419,13 +2419,13 @@ T. 10 § 1083  </td>
 
  __Restatement of Suspended or Temporarily Superseded Provisions__ 
 
-[Pub. L. 87–649, § 13][/us/pl/87/649/s13], Sept. 7, 1962, [76 Stat. 498][/us/stat/76/498], provided that: 
+[Pub. L. 87–649][/us/pl/87/649], § 13, Sept. 7, 1962, [76 Stat. 498][/us/stat/76/498], provided that: 
 
 > “If on the effective date of this Act \[Nov. 1, 1962\], a provision of law that is restated in this Act and repealed by section 14 would have been in a suspended or temporarily superseded status but for its repeal, the provisions of this Act that restate that provision have the same suspended or temporarily superseded status.”
 
  __Repeals__ 
 
-    [Pub. L. 87–649, § 14][/us/pl/87/649/s14], Sept. 7, 1962, [76 Stat. 498][/us/stat/76/498], repealed the sections or parts of sections of the Revised Statutes or Statutes at Large covering provisions codified in this title, “except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun before the effective date of this Act \[Nov. 1, 1962\] and except as provided in section 12.”
+    [Pub. L. 87–649][/us/pl/87/649], § 14, Sept. 7, 1962, [76 Stat. 498][/us/stat/76/498], repealed the sections or parts of sections of the Revised Statutes or Statutes at Large covering provisions codified in this title, “except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun before the effective date of this Act \[Nov. 1, 1962\] and except as provided in section 12.”
 
 ----------
 
@@ -2434,28 +2434,28 @@ T. 10 § 1083  </td>
 ----------
 ----------
 
-[/us/pl/87/649/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs1
+[/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F451
-[/us/pl/112/239/s1076/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F7
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1948
-[/us/pl/112/81/s631/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Ff%2F2
-[/us/pl/112/81/s631/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Ff%2F2
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVI
 [/us/stat/125/1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1464
-[/us/pl/112/239/s1076/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F7
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1948
-[/us/pl/89/554/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs5%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F625
-[/us/pl/87/649/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs1
+[/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F451
-[/us/pl/87/649/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs15
+[/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F502
-[/us/pl/87/649/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs15
+[/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F502
-[/us/pl/87/649/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs12
+[/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F497
-[/us/pl/87/649/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs13
+[/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F498
-[/us/pl/87/649/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs14
+[/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F498
 
 

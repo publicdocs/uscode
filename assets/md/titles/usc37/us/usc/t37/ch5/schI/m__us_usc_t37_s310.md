@@ -63,43 +63,43 @@
 
     Any determination of fact that is made in administering this section is conclusive. Such a determination may not be reviewed by any other officer or agency of the United States unless there has been fraud or gross negligence. However, the determination may be changed on the basis of new evidence or for other good cause.
 
-(Added [Pub. L. 88–132, § 9(a)(1)][/us/pl/88/132/s9/a/1], Oct. 2, 1963, [77 Stat. 216][/us/stat/77/216]; amended [Pub. L. 89–132, § 4][/us/pl/89/132/s4], Aug. 21, 1965, [79 Stat. 547][/us/stat/79/547]; [Pub. L. 98–94, title IX, § 905(a)][/us/pl/98/94/s905/a], (b)(1), Sept. 24, 1983, [97 Stat. 636][/us/stat/97/636], 637; [Pub. L. 99–145, title VI, § 638(a)][/us/pl/99/145/s638/a], Nov. 8, 1985, [99 Stat. 649][/us/stat/99/649]; [Pub. L. 101–510, div. A, title XIII, § 1322(c)(6)][/us/pl/101/510/s1322/c/6], Nov. 5, 1990, [104 Stat. 1672][/us/stat/104/1672]; [Pub. L. 102–190, div. A, title VI][/us/pl/102/190], §§ 611(a), 613, Dec. 5, 1991, [105 Stat. 1376][/us/stat/105/1376], 1377; [Pub. L. 105–261, div. A, title VI, § 621][/us/pl/105/261/s621], Oct. 17, 1998, [112 Stat. 2042][/us/stat/112/2042]; [Pub. L. 108–11, title I, § 1316(a)][/us/pl/108/11/s1316/a], (c)(2), Apr. 16, 2003, [117 Stat. 570][/us/stat/117/570]; [Pub. L. 108–136, div. A, title VI][/us/pl/108/136], §§ 618(a), (b), (d)(2), 619, Nov. 24, 2003, [117 Stat. 1503][/us/stat/117/1503], 1504; [Pub. L. 108–375, div. A, title VI, § 623(a)][/us/pl/108/375/s623/a], Oct. 28, 2004, [118 Stat. 1955][/us/stat/118/1955]; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163], §§ 636, 642(b), Jan. 6, 2006, [119 Stat. 3300][/us/stat/119/3300], 3306; [Pub. L. 111–84, div. A, title VI, § 618(a)][/us/pl/111/84/s618/a], Oct. 28, 2009, [123 Stat. 2355][/us/stat/123/2355]; [Pub. L. 112–81, div. A, title VI, § 616(a)][/us/pl/112/81/s616/a], Dec. 31, 2011, [125 Stat. 1451][/us/stat/125/1451]; [Pub. L. 112–239, div. A, title X, § 1076(h)(1)][/us/pl/112/239/s1076/h/1], Jan. 2, 2013, [126 Stat. 1955][/us/stat/126/1955].)
+(Added [Pub. L. 88–132][/us/pl/88/132], § 9(a)(1), Oct. 2, 1963, [77 Stat. 216][/us/stat/77/216]; amended [Pub. L. 89–132][/us/pl/89/132], § 4, Aug. 21, 1965, [79 Stat. 547][/us/stat/79/547]; [Pub. L. 98–94, title IX][/us/pl/98/94/tIX], § 905(a), (b)(1), Sept. 24, 1983, [97 Stat. 636][/us/stat/97/636], 637; [Pub. L. 99–145, title VI][/us/pl/99/145/tVI], § 638(a), Nov. 8, 1985, [99 Stat. 649][/us/stat/99/649]; [Pub. L. 101–510, div. A, title XIII][/us/pl/101/510/dA/tXIII], § 1322(c)(6), Nov. 5, 1990, [104 Stat. 1672][/us/stat/104/1672]; [Pub. L. 102–190, div. A, title VI][/us/pl/102/190/dA/tVI], §§ 611(a), 613, Dec. 5, 1991, [105 Stat. 1376][/us/stat/105/1376], 1377; [Pub. L. 105–261, div. A, title VI][/us/pl/105/261/dA/tVI], § 621, Oct. 17, 1998, [112 Stat. 2042][/us/stat/112/2042]; [Pub. L. 108–11, title I][/us/pl/108/11/tI], § 1316(a), (c)(2), Apr. 16, 2003, [117 Stat. 570][/us/stat/117/570]; [Pub. L. 108–136, div. A, title VI][/us/pl/108/136/dA/tVI], §§ 618(a), (b), (d)(2), 619, Nov. 24, 2003, [117 Stat. 1503][/us/stat/117/1503], 1504; [Pub. L. 108–375, div. A, title VI][/us/pl/108/375/dA/tVI], § 623(a), Oct. 28, 2004, [118 Stat. 1955][/us/stat/118/1955]; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], §§ 636, 642(b), Jan. 6, 2006, [119 Stat. 3300][/us/stat/119/3300], 3306; [Pub. L. 111–84, div. A, title VI][/us/pl/111/84/dA/tVI], § 618(a), Oct. 28, 2009, [123 Stat. 2355][/us/stat/123/2355]; [Pub. L. 112–81, div. A, title VI][/us/pl/112/81/dA/tVI], § 616(a), Dec. 31, 2011, [125 Stat. 1451][/us/stat/125/1451]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(h)(1), Jan. 2, 2013, [126 Stat. 1955][/us/stat/126/1955].)
 
  __Amendments__ 
 
     2013—Subsec. (c)(1). [Pub. L. 112–239][/us/pl/112/239] substituted “section for” for “section for for”.
 
-    2011—Subsec. (a). [Pub. L. 112–81, § 616(a)(1)][/us/pl/112/81/s616/a/1], substituted “for any day or portion of a day” for “for any month or portion of a month” in introductory provisions.
+    2011—Subsec. (a). [Pub. L. 112–81][/us/pl/112/81], § 616(a)(1), substituted “for any day or portion of a day” for “for any month or portion of a month” in introductory provisions.
 
-    Subsec. (b). [Pub. L. 112–81, § 616(a)(2)][/us/pl/112/81/s616/a/2], added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows:
+    Subsec. (b). [Pub. L. 112–81][/us/pl/112/81], § 616(a)(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows:
 
     “(1) The special pay authorized by subsection (a) may not exceed $225 a month.
 
     “(2) Except as provided in subsection (c), if a member does not satisfy the eligibility requirements specified in paragraphs (1) and (2) of subsection (a) for an entire month for receipt of special pay under subsection (a), the Secretary concerned may prorate the payment amount to reflect the duration of the member’s actual qualifying service during the month.”
 
-    Subsec. (c)(1). [Pub. L. 112–81, § 616(a)(3)][/us/pl/112/81/s616/a/3], inserted “for any day (or portion of a day) of” before “not more than three additional months”.
+    Subsec. (c)(1). [Pub. L. 112–81][/us/pl/112/81], § 616(a)(3), inserted “for any day (or portion of a day) of” before “not more than three additional months”.
 
-    Subsec. (d)(2). [Pub. L. 112–81, § 616(a)(4)][/us/pl/112/81/s616/a/4], substituted “any day” for “any month”.
+    Subsec. (d)(2). [Pub. L. 112–81][/us/pl/112/81], § 616(a)(4), substituted “any day” for “any month”.
 
-    2009—Subsec. (a). [Pub. L. 111–84, § 618(a)(1)][/us/pl/111/84/s618/a/1], struck out “and Special Pay Amount” after “Eligibility” in heading and substituted “under subsection (b) for any month or portion of a month” for “at the rate of $225 for any month” in introductory provisions.
+    2009—Subsec. (a). [Pub. L. 111–84][/us/pl/111/84], § 618(a)(1), struck out “and Special Pay Amount” after “Eligibility” in heading and substituted “under subsection (b) for any month or portion of a month” for “at the rate of $225 for any month” in introductory provisions.
 
-    Subsecs. (b), (c). [Pub. L. 111–84, § 618(a)(3)][/us/pl/111/84/s618/a/3], (4), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
+    Subsecs. (b), (c). [Pub. L. 111–84][/us/pl/111/84], § 618(a)(3), (4), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (c)(3). [Pub. L. 111–84, § 618(a)(2)][/us/pl/111/84/s618/a/2], struck out par. (3) which read as follows: “A member of a reserve component who is eligible for special pay under this section for a month shall receive the full amount authorized in subsection (a) for that month regardless of the number of days during that month on which the member satisfies the eligibility criteria specified in such subsection.”
+    Subsec. (c)(3). [Pub. L. 111–84][/us/pl/111/84], § 618(a)(2), struck out par. (3) which read as follows: “A member of a reserve component who is eligible for special pay under this section for a month shall receive the full amount authorized in subsection (a) for that month regardless of the number of days during that month on which the member satisfies the eligibility criteria specified in such subsection.”
 
-    Subsecs. (d), (e). [Pub. L. 111–84, § 618(a)(3)][/us/pl/111/84/s618/a/3], redesignated subsecs. (c) and (d) as (d) and (e), respectively.
+    Subsecs. (d), (e). [Pub. L. 111–84][/us/pl/111/84], § 618(a)(3), redesignated subsecs. (c) and (d) as (d) and (e), respectively.
 
-    2006—Subsec. (b). [Pub. L. 109–163, § 642(b)][/us/pl/109/163/s642/b], designated existing text as par. (1), substituted “A member described in paragraph (2)” for “A member covered by subsection (a)(2)(C) who is hospitalized for the treatment of the injury or wound” and “hospitalized as described in such paragraph” for “so hospitalized”, and added par. (2).
+    2006—Subsec. (b). [Pub. L. 109–163][/us/pl/109/163], § 642(b), designated existing text as par. (1), substituted “A member described in paragraph (2)” for “A member covered by subsection (a)(2)(C) who is hospitalized for the treatment of the injury or wound” and “hospitalized as described in such paragraph” for “so hospitalized”, and added par. (2).
 
-    Subsec. (c). [Pub. L. 109–163, § 636][/us/pl/109/163/s636], added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+    Subsec. (c). [Pub. L. 109–163][/us/pl/109/163], § 636, added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
-    2004—Subsec. (a). [Pub. L. 108–375, § 623(a)(2)(A)][/us/pl/108/375/s623/a/2/A], substituted “$225” for “$150”.
+    2004—Subsec. (a). [Pub. L. 108–375][/us/pl/108/375], § 623(a)(2)(A), substituted “$225” for “$150”.
 
-    Subsec. (e). [Pub. L. 108–375, § 623(a)(2)(B)][/us/pl/108/375/s623/a/2/B], struck out heading and text of subsec. (e). Text read as follows: “For the period beginning on October 1, 2003, and ending on December 31, 2005, the rate of pay authorized by subsection (a) shall be increased to $225.”
+    Subsec. (e). [Pub. L. 108–375][/us/pl/108/375], § 623(a)(2)(B), struck out heading and text of subsec. (e). Text read as follows: “For the period beginning on October 1, 2003, and ending on December 31, 2005, the rate of pay authorized by subsection (a) shall be increased to $225.”
 
-    [Pub. L. 108–375, § 623(a)(1)][/us/pl/108/375/s623/a/1], substituted “December 31, 2005” for “December 31, 2004”.
+    [Pub. L. 108–375][/us/pl/108/375], § 623(a)(1), substituted “December 31, 2005” for “December 31, 2004”.
 
-    2003—Subsec. (a). [Pub. L. 108–136, § 618(a)(2)][/us/pl/108/136/s618/a/2], added subsec. (a) and struck out former subsec. (a) which read as follows: “Under regulations prescribed by the Secretary of Defense, a member of a uniformed service may be paid special pay at the rate of $150 for any month in which he was entitled to basic pay and in which he—
+    2003—Subsec. (a). [Pub. L. 108–136][/us/pl/108/136], § 618(a)(2), added subsec. (a) and struck out former subsec. (a) which read as follows: “Under regulations prescribed by the Secretary of Defense, a member of a uniformed service may be paid special pay at the rate of $150 for any month in which he was entitled to basic pay and in which he—
 
     “(1) was subject to hostile fire or explosion of hostile mines;
 
@@ -111,19 +111,19 @@
 
     A member covered by clause (3) who is hospitalized for the treatment of his injury or wound may be paid special pay under this section for not more than three additional months during which he is so hospitalized.”
 
-    [Pub. L. 108–11, § 1316(a)][/us/pl/108/11/s1316/a], (c), as amended by [Pub. L. 108–136, § 618(d)(2)][/us/pl/108/136/s618/d/2], temporarily substituted “$225” for “$150” in introductory provisions. See Effective and Termination Dates of 2003 Amendments note below.
+    [Pub. L. 108–11][/us/pl/108/11], § 1316(a), (c), as amended by [Pub. L. 108–136][/us/pl/108/136], § 618(d)(2), temporarily substituted “$225” for “$150” in introductory provisions. See Effective and Termination Dates of 2003 Amendments note below.
 
-    Subsec. (b). [Pub. L. 108–136, § 618(a)(2)][/us/pl/108/136/s618/a/2], added subsec. (b). Former subsec. (b) redesignated (c).
+    Subsec. (b). [Pub. L. 108–136][/us/pl/108/136], § 618(a)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-    Subsec. (c). [Pub. L. 108–136, § 618(b)(1)][/us/pl/108/136/s618/b/1], inserted heading.
+    Subsec. (c). [Pub. L. 108–136][/us/pl/108/136], § 618(b)(1), inserted heading.
 
-    [Pub. L. 108–136, § 618(a)(1)][/us/pl/108/136/s618/a/1], redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
+    [Pub. L. 108–136][/us/pl/108/136], § 618(a)(1), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 108–136, § 618(b)(2)][/us/pl/108/136/s618/b/2], inserted heading.
+    Subsec. (d). [Pub. L. 108–136][/us/pl/108/136], § 618(b)(2), inserted heading.
 
-    [Pub. L. 108–136, § 618(a)(1)][/us/pl/108/136/s618/a/1], redesignated subsec. (c) as (d).
+    [Pub. L. 108–136][/us/pl/108/136], § 618(a)(1), redesignated subsec. (c) as (d).
 
-    Subsec. (e). [Pub. L. 108–136, § 619][/us/pl/108/136/s619], added subsec. (e).
+    Subsec. (e). [Pub. L. 108–136][/us/pl/108/136], § 619, added subsec. (e).
 
     1998—Subsec. (b). [Pub. L. 105–261][/us/pl/105/261] designated existing provisions as par. (1) and added par. (2).
 
@@ -133,43 +133,43 @@
 
     1985—Subsec. (a). [Pub. L. 99–145][/us/pl/99/145] substituted “at the lowest rate for hazardous duty incentive pay specified in [section 301(c)(1) of this title][/us/usc/t37/s301/c/1]” for “at the rate of $65 a month” in provisions preceding cl. (1).
 
-    1983—[Pub. L. 98–94, § 905(b)(1)][/us/pl/98/94/s905/b/1], inserted “or imminent danger” in section catchline.
+    1983—[Pub. L. 98–94][/us/pl/98/94], § 905(b)(1), inserted “or imminent danger” in section catchline.
 
-    Subsec. (a)(4). [Pub. L. 98–94, § 905(a)][/us/pl/98/94/s905/a], added cl. (4).
+    Subsec. (a)(4). [Pub. L. 98–94][/us/pl/98/94], § 905(a), added cl. (4).
 
     1965—Subsec. (a). [Pub. L. 89–132][/us/pl/89/132] increased rate of special pay from $55 to $65 a month.
 
  __Effective Date of 2004 Amendment__ 
 
-    [Pub. L. 108–375, div. A, title VI, § 623(a)(2)][/us/pl/108/375/s623/a/2], Oct. 28, 2004, [118 Stat. 1955][/us/stat/118/1955], provided that the amendments made by section 623(a)(2) are effective Jan. 1, 2006.
+    [Pub. L. 108–375, div. A, title VI][/us/pl/108/375/dA/tVI], § 623(a)(2), Oct. 28, 2004, [118 Stat. 1955][/us/stat/118/1955], provided that the amendments made by section 623(a)(2) are effective Jan. 1, 2006.
 
  __Effective and Termination Dates of 2003 Amendments__ 
 
-[Pub. L. 108–136, div. A, title VI, § 618(c)][/us/pl/108/136/s618/c], Nov. 24, 2003, [117 Stat. 1504][/us/stat/117/1504], provided that: 
+[Pub. L. 108–136, div. A, title VI][/us/pl/108/136/dA/tVI], § 618(c), Nov. 24, 2003, [117 Stat. 1504][/us/stat/117/1504], provided that: 
 
 > “Subsections (a) and (b) of [section 310 of title 37][/us/usc/t37/s310], United States Code, as added by subsection (a)(2), shall take effect as of September 11, 2001.”
 
-    [Pub. L. 108–136, div. A, title VI, § 618(d)(2)][/us/pl/108/136/s618/d/2], Nov. 24, 2003, [117 Stat. 1504][/us/stat/117/1504], provided that the amendment made by section 618(d)(2) is effective Apr. 16, 2003.
+    [Pub. L. 108–136, div. A, title VI][/us/pl/108/136/dA/tVI], § 618(d)(2), Nov. 24, 2003, [117 Stat. 1504][/us/stat/117/1504], provided that the amendment made by section 618(d)(2) is effective Apr. 16, 2003.
 
-[Pub. L. 108–11, title I, § 1316(c)][/us/pl/108/11/s1316/c], Apr. 16, 2003, [117 Stat. 570][/us/stat/117/570], as amended by [Pub. L. 108–136, div. A, title VI, § 618(d)(2)][/us/pl/108/136/s618/d/2], Nov. 24, 2003, [117 Stat. 1504][/us/stat/117/1504], provided that:
+[Pub. L. 108–11, title I][/us/pl/108/11/tI], § 1316(c), Apr. 16, 2003, [117 Stat. 570][/us/stat/117/570], as amended by [Pub. L. 108–136, div. A, title VI][/us/pl/108/136/dA/tVI], § 618(d)(2), Nov. 24, 2003, [117 Stat. 1504][/us/stat/117/1504], provided that:
 
 >     “(1) The amendments made by subsections (a) and (b) \[amending this section and [section 427 of this title][/us/usc/t37/s427]\] shall expire on September 30, 2003.
 
 >     “(2) Effective on September 30, 2003, the dollar amounts specified in sections 310(a) of title 37, United States Code, and 427(a)(1) of title 37, United States Code, as in effect on the day before the date of the enactment of this Act \[Apr. 16, 2003\] are hereby revived.”
 
-[Pub. L. 108–11, title I, § 1316(d)][/us/pl/108/11/s1316/d], Apr. 16, 2003, [117 Stat. 571][/us/stat/117/571], provided that: 
+[Pub. L. 108–11, title I][/us/pl/108/11/tI], § 1316(d), Apr. 16, 2003, [117 Stat. 571][/us/stat/117/571], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section and [section 427 of this title][/us/usc/t37/s427]\] shall take effect on October 1, 2002, and shall apply with respect to months beginning on or after that date.”
 
  __Effective Date of 1985 Amendment__ 
 
-[Pub. L. 99–145, title VI, § 638(b)][/us/pl/99/145/s638/b], Nov. 8, 1985, [99 Stat. 649][/us/stat/99/649], provided that: 
+[Pub. L. 99–145, title VI][/us/pl/99/145/tVI], § 638(b), Nov. 8, 1985, [99 Stat. 649][/us/stat/99/649], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect on October 1, 1985.”
 
  __Effective Date of 1983 Amendment__ 
 
-[Pub. L. 98–94, title IX, § 905(c)][/us/pl/98/94/s905/c], Sept. 24, 1983, [97 Stat. 637][/us/stat/97/637], provided that: 
+[Pub. L. 98–94, title IX][/us/pl/98/94/tIX], § 905(c), Sept. 24, 1983, [97 Stat. 637][/us/stat/97/637], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on October 1, 1983.”
 
@@ -183,7 +183,7 @@
 
  __Relation to Temporary Increase in Authorized Amount of Hostile Fire and Imminent Danger Special Pay__ 
 
-[Pub. L. 108–136, div. A, title VI, § 618(d)(1)][/us/pl/108/136/s618/d/1], Nov. 24, 2003, [117 Stat. 1504][/us/stat/117/1504], provided that: 
+[Pub. L. 108–136, div. A, title VI][/us/pl/108/136/dA/tVI], § 618(d)(1), Nov. 24, 2003, [117 Stat. 1504][/us/stat/117/1504], provided that: 
 
 > “The amendment made by subsection (a)(2) \[amending this section\] does not affect the authority to pay an increased amount of hostile fire and imminent danger special pay under [section 310 of title 37][/us/usc/t37/s310], United States Code, pursuant to—
 
@@ -193,7 +193,7 @@
 
  __Retroactive Payment of Hostile Fire or Imminent Danger Pay for Service in Eastern Mediterranean Sea in Operation Iraqi Freedom__ 
 
-[Pub. L. 108–136, div. A, title VI, § 620][/us/pl/108/136/s620], Nov. 24, 2003, [117 Stat. 1504][/us/stat/117/1504], provided that:
+[Pub. L. 108–136, div. A, title VI][/us/pl/108/136/dA/tVI], § 620, Nov. 24, 2003, [117 Stat. 1504][/us/stat/117/1504], provided that:
 
 >     “(a)  __Payment Authorized__  __.—__ 
 
@@ -205,13 +205,13 @@
 
  __Rates of Pay for Fiscal Year 2004__ 
 
-[Pub. L. 108–106, title I, § 1104][/us/pl/108/106/s1104], Nov. 6, 2003, [117 Stat. 1214][/us/stat/117/1214], provided that: 
+[Pub. L. 108–106, title I][/us/pl/108/106/tI], § 1104, Nov. 6, 2003, [117 Stat. 1214][/us/stat/117/1214], provided that: 
 
 > “From October 1, 2003, through September 30, 2004, (a) the rates of pay authorized by [section 310(a) of title 37][/us/usc/t37/s310/a], United States Code, shall be $225; and (b) the rates of pay authorized by [section 427(a)(1) of title 37][/us/usc/t37/s427/a/1], United States Code, shall be $250.”
 
  __Retroactive Authorization for Imminent Danger Pay for Service in Connection With Operation Enduring Freedom__ 
 
-[Pub. L. 107–107, div. A, title VI, § 624][/us/pl/107/107/s624], Dec. 28, 2001, [115 Stat. 1143][/us/stat/115/1143], provided that:
+[Pub. L. 107–107, div. A, title VI][/us/pl/107/107/dA/tVI], § 624, Dec. 28, 2001, [115 Stat. 1143][/us/stat/115/1143], provided that:
 
 >     “(a)  __Retroactive Authorization__  __.—__ 
 
@@ -227,7 +227,7 @@
 
  __Temporary Increase in Special Pay in Connection With Persian Gulf Conflict__ 
 
-[Pub. L. 102–25, title III, § 301][/us/pl/102/25/s301], Apr. 6, 1991, [105 Stat. 80][/us/stat/105/80], provided that:
+[Pub. L. 102–25, title III][/us/pl/102/25/tIII], § 301, Apr. 6, 1991, [105 Stat. 80][/us/stat/105/80], provided that:
 
 >     “(a)  __Increased Rate__  __.—__ 
 
@@ -239,7 +239,7 @@
 
  __Imminent Danger Pay in Connection With Operation Desert Shield__ 
 
-[Pub. L. 101–510, div. A, title XI, § 1111(a)][/us/pl/101/510/s1111/a], Nov. 5, 1990, [104 Stat. 1635][/us/stat/104/1635], provided that: 
+[Pub. L. 101–510, div. A, title XI][/us/pl/101/510/dA/tXI], § 1111(a), Nov. 5, 1990, [104 Stat. 1635][/us/stat/104/1635], provided that: 
 
 > “The Secretary of Defense may provide for the payment of imminent danger pay under [section 310 of title 37][/us/usc/t37/s310], United States Code, to members of the Armed Forces assigned to duty in the Persian Gulf area in connection with Operation Desert Shield with respect to periods of duty served after August 1, 1990, and before the date of the enactment of this Act \[Nov. 5, 1990\].”
 
@@ -250,111 +250,111 @@
 ----------
 ----------
 
-[/us/pl/88/132/s9/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F132%2Fs9%2Fa%2F1
+[/us/pl/88/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F132
 [/us/stat/77/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F216
-[/us/pl/89/132/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F132%2Fs4
+[/us/pl/89/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F132
 [/us/stat/79/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F547
-[/us/pl/98/94/s905/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs905%2Fa
+[/us/pl/98/94/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtIX
 [/us/stat/97/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F636
-[/us/pl/99/145/s638/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs638%2Fa
+[/us/pl/99/145/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtVI
 [/us/stat/99/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F649
-[/us/pl/101/510/s1322/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1322%2Fc%2F6
+[/us/pl/101/510/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIII
 [/us/stat/104/1672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1672
-[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
+[/us/pl/102/190/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVI
 [/us/stat/105/1376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1376
-[/us/pl/105/261/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs621
+[/us/pl/105/261/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtVI
 [/us/stat/112/2042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2042
-[/us/pl/108/11/s1316/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F11%2Fs1316%2Fa
+[/us/pl/108/11/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F11%2FtI
 [/us/stat/117/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F570
-[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtVI
 [/us/stat/117/1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1503
-[/us/pl/108/375/s623/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs623%2Fa
+[/us/pl/108/375/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVI
 [/us/stat/118/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1955
-[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3300
-[/us/pl/111/84/s618/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs618%2Fa
+[/us/pl/111/84/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVI
 [/us/stat/123/2355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2355
-[/us/pl/112/81/s616/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs616%2Fa
+[/us/pl/112/81/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVI
 [/us/stat/125/1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1451
-[/us/pl/112/239/s1076/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fh%2F1
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1955
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/112/81/s616/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs616%2Fa%2F1
-[/us/pl/112/81/s616/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs616%2Fa%2F2
-[/us/pl/112/81/s616/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs616%2Fa%2F3
-[/us/pl/112/81/s616/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs616%2Fa%2F4
-[/us/pl/111/84/s618/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs618%2Fa%2F1
-[/us/pl/111/84/s618/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs618%2Fa%2F3
-[/us/pl/111/84/s618/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs618%2Fa%2F2
-[/us/pl/111/84/s618/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs618%2Fa%2F3
-[/us/pl/109/163/s642/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs642%2Fb
-[/us/pl/109/163/s636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs636
-[/us/pl/108/375/s623/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs623%2Fa%2F2%2FA
-[/us/pl/108/375/s623/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs623%2Fa%2F2%2FB
-[/us/pl/108/375/s623/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs623%2Fa%2F1
-[/us/pl/108/136/s618/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs618%2Fa%2F2
-[/us/pl/108/11/s1316/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F11%2Fs1316%2Fa
-[/us/pl/108/136/s618/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs618%2Fd%2F2
-[/us/pl/108/136/s618/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs618%2Fa%2F2
-[/us/pl/108/136/s618/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs618%2Fb%2F1
-[/us/pl/108/136/s618/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs618%2Fa%2F1
-[/us/pl/108/136/s618/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs618%2Fb%2F2
-[/us/pl/108/136/s618/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs618%2Fa%2F1
-[/us/pl/108/136/s619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs619
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F11
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/usc/t37/s301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs301%2Fc%2F1
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 [/us/usc/t37/s301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs301%2Fc%2F1
-[/us/pl/98/94/s905/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs905%2Fb%2F1
-[/us/pl/98/94/s905/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs905%2Fa
+[/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
+[/us/pl/98/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94
 [/us/pl/89/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F132
-[/us/pl/108/375/s623/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs623%2Fa%2F2
+[/us/pl/108/375/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVI
 [/us/stat/118/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1955
-[/us/pl/108/136/s618/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs618%2Fc
+[/us/pl/108/136/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtVI
 [/us/stat/117/1504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1504
 [/us/usc/t37/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs310
-[/us/pl/108/136/s618/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs618%2Fd%2F2
+[/us/pl/108/136/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtVI
 [/us/stat/117/1504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1504
-[/us/pl/108/11/s1316/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F11%2Fs1316%2Fc
+[/us/pl/108/11/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F11%2FtI
 [/us/stat/117/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F570
-[/us/pl/108/136/s618/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs618%2Fd%2F2
+[/us/pl/108/136/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtVI
 [/us/stat/117/1504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1504
 [/us/usc/t37/s427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs427
-[/us/pl/108/11/s1316/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F11%2Fs1316%2Fd
+[/us/pl/108/11/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F11%2FtI
 [/us/stat/117/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F571
 [/us/usc/t37/s427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs427
-[/us/pl/99/145/s638/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs638%2Fb
+[/us/pl/99/145/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtVI
 [/us/stat/99/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F649
-[/us/pl/98/94/s905/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs905%2Fc
+[/us/pl/98/94/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtIX
 [/us/stat/97/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F637
 [/us/pl/89/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F132
 [/us/pl/89/132/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F132%2Fs10
 [/us/usc/t37/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs203
 [/us/pl/88/132/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F132%2Fs14
 [/us/usc/t37/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs201
-[/us/pl/108/136/s618/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs618%2Fd%2F1
+[/us/pl/108/136/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtVI
 [/us/stat/117/1504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1504
 [/us/usc/t37/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs310
 [/us/pl/108/11/s1316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F11%2Fs1316
 [/us/stat/117/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F570
 [/us/pl/108/84/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F84%2Fs113
 [/us/stat/117/1044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1044
-[/us/pl/108/136/s620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs620
+[/us/pl/108/136/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtVI
 [/us/stat/117/1504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1504
 [/us/usc/t37/s310/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs310%2Fa
-[/us/pl/108/106/s1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F106%2Fs1104
+[/us/pl/108/106/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F106%2FtI
 [/us/stat/117/1214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1214
 [/us/usc/t37/s310/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs310%2Fa
 [/us/usc/t37/s427/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs427%2Fa%2F1
-[/us/pl/107/107/s624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs624
+[/us/pl/107/107/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtVI
 [/us/stat/115/1143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1143
 [/us/usc/t37/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs310
-[/us/pl/102/25/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs301
+[/us/pl/102/25/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtIII
 [/us/stat/105/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F80
 [/us/usc/t37/s310/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs310%2Fa
-[/us/pl/101/510/s1111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1111%2Fa
+[/us/pl/101/510/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXI
 [/us/stat/104/1635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1635
 [/us/usc/t37/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs310
 

@@ -19,7 +19,7 @@
 
     (b) A commissioned officer of the Regular Corps of the Public Health Service, or an officer of the Reserve Corps of the Public Health Service on active duty, who is absent without leave, forfeits all pay and allowances for the period of that absence, unless it is excused as unavoidable.
 
-([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 482][/us/stat/76/482]; [Pub. L. 89–718, § 49(a)(1)][/us/pl/89/718/s49/a/1], Nov. 2, 1966, [80 Stat. 1121][/us/stat/80/1121]; [Pub. L. 96–513, title V, § 516(15)][/us/pl/96/513/s516/15], Dec. 12, 1980, [94 Stat. 2939][/us/stat/94/2939].)
+([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 482][/us/stat/76/482]; [Pub. L. 89–718][/us/pl/89/718], § 49(a)(1), Nov. 2, 1966, [80 Stat. 1121][/us/stat/80/1121]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 516(15), Dec. 12, 1980, [94 Stat. 2939][/us/stat/94/2939].)
 
 <table>
 
@@ -124,9 +124,9 @@ July 1, 1944, ch. 373, § 219(b); added Aug. 9, 1950, ch. 654, § 2 (2d par.
 
 [/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F482
-[/us/pl/89/718/s49/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs49%2Fa%2F1
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1121
-[/us/pl/96/513/s516/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs516%2F15
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2939
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718

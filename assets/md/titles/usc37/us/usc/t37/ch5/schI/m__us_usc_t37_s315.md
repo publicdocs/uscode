@@ -43,7 +43,7 @@
 
     (c) An officer who, having entered into a written agreement under subsection (b) and having received all or part of a bonus under this section, does not complete the period of active duty as specified in the agreement shall be subject to the repayment provisions of [section 303a(e) of this title][/us/usc/t37/s303a/e].
 
-(Added [Pub. L. 97–60, title I, § 120(a)][/us/pl/97/60/s120/a], Oct. 14, 1981, [95 Stat. 998][/us/stat/95/998]; amended [Pub. L. 99–145, title VI, § 637(a)][/us/pl/99/145/s637/a], Nov. 8, 1985, [99 Stat. 648][/us/stat/99/648]; [Pub. L. 100–26, § 8(e)(6)][/us/pl/100/26/s8/e/6], Apr. 21, 1987, [101 Stat. 286][/us/stat/101/286]; [Pub. L. 102–25, title VII, § 702(b)(1)][/us/pl/102/25/s702/b/1], (2), (c), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117]; [Pub. L. 109–163, div. A, title VI, § 687(b)(24)][/us/pl/109/163/s687/b/24], Jan. 6, 2006, [119 Stat. 3331][/us/stat/119/3331].)
+(Added [Pub. L. 97–60, title I][/us/pl/97/60/tI], § 120(a), Oct. 14, 1981, [95 Stat. 998][/us/stat/95/998]; amended [Pub. L. 99–145, title VI][/us/pl/99/145/tVI], § 637(a), Nov. 8, 1985, [99 Stat. 648][/us/stat/99/648]; [Pub. L. 100–26][/us/pl/100/26], § 8(e)(6), Apr. 21, 1987, [101 Stat. 286][/us/stat/101/286]; [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 702(b)(1), (2), (c), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117]; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 687(b)(24), Jan. 6, 2006, [119 Stat. 3331][/us/stat/119/3331].)
 
  __Amendments__ 
 
@@ -53,13 +53,13 @@
 
     1987—Subsec. (a). [Pub. L. 100–26][/us/pl/100/26] inserted “the term” after “In this section,”.
 
-    1985—Subsec. (a). [Pub. L. 99–145, § 637(a)(1)][/us/pl/99/145/s637/a/1], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “In this section, the term ‘engineering or scientific duty’ means service performed by an officer that requires an engineering or science degree and that requires a skill designated under regulations prescribed by the Secretary of Defense as critical and as a skill in which there is a critical shortage of officers in the armed force concerned.”
+    1985—Subsec. (a). [Pub. L. 99–145][/us/pl/99/145], § 637(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “In this section, the term ‘engineering or scientific duty’ means service performed by an officer that requires an engineering or science degree and that requires a skill designated under regulations prescribed by the Secretary of Defense as critical and as a skill in which there is a critical shortage of officers in the armed force concerned.”
 
-    Subsec. (b). [Pub. L. 99–145, § 637(a)(2)][/us/pl/99/145/s637/a/2], in provision preceding par. (1), substituted “prescribed by the Secretary concerned” for “prescribed by the Secretary of Defense” and “officer of a uniformed service” for “officer of an armed force”.
+    Subsec. (b). [Pub. L. 99–145][/us/pl/99/145], § 637(a)(2), in provision preceding par. (1), substituted “prescribed by the Secretary concerned” for “prescribed by the Secretary of Defense” and “officer of a uniformed service” for “officer of an armed force”.
 
  __Effective Date of 1985 Amendment__ 
 
-[Pub. L. 99–145, title VI, § 637(b)][/us/pl/99/145/s637/b], Nov. 8, 1985, [99 Stat. 649][/us/stat/99/649], provided that: 
+[Pub. L. 99–145, title VI][/us/pl/99/145/tVI], § 637(b), Nov. 8, 1985, [99 Stat. 649][/us/stat/99/649], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1985.”
 
@@ -75,22 +75,22 @@
 ----------
 
 [/us/usc/t37/s303a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs303a%2Fe
-[/us/pl/97/60/s120/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F60%2Fs120%2Fa
+[/us/pl/97/60/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F60%2FtI
 [/us/stat/95/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F998
-[/us/pl/99/145/s637/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs637%2Fa
+[/us/pl/99/145/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtVI
 [/us/stat/99/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F648
-[/us/pl/100/26/s8/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs8%2Fe%2F6
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F286
-[/us/pl/102/25/s702/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs702%2Fb%2F1
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F117
-[/us/pl/109/163/s687/b/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Fb%2F24
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3331
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
 [/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
-[/us/pl/99/145/s637/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs637%2Fa%2F1
-[/us/pl/99/145/s637/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs637%2Fa%2F2
-[/us/pl/99/145/s637/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs637%2Fb
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
+[/us/pl/99/145/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtVI
 [/us/stat/99/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F649
 [/us/pl/109/163/s687/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Fb
 [/us/pl/109/163/s687/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Ff

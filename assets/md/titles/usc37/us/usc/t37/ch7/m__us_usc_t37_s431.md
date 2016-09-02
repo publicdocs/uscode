@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section 431, which related to benefits for certain members assigned to the Defense Intelligence Agency, was transferred to chapter 8 of this title by [Pub. L. 112–81, div. A, title VI, § 631(d)(2)][/us/pl/112/81/s631/d/2], Dec. 31, 2011, [125 Stat. 1460][/us/stat/125/1460], and renumbered [section 491 of this title][/us/usc/t37/s491] by [Pub. L. 112–239, div. A, title X, § 1076(h)(2)][/us/pl/112/239/s1076/h/2], Jan. 2, 2013, [126 Stat. 1955][/us/stat/126/1955].
+    Section 431, which related to benefits for certain members assigned to the Defense Intelligence Agency, was transferred to chapter 8 of this title by [Pub. L. 112–81, div. A, title VI][/us/pl/112/81/dA/tVI], § 631(d)(2), Dec. 31, 2011, [125 Stat. 1460][/us/stat/125/1460], and renumbered [section 491 of this title][/us/usc/t37/s491] by [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(h)(2), Jan. 2, 2013, [126 Stat. 1955][/us/stat/126/1955].
 
 ----------
 
@@ -26,10 +26,10 @@
 ----------
 ----------
 
-[/us/pl/112/81/s631/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Fd%2F2
+[/us/pl/112/81/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVI
 [/us/stat/125/1460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1460
 [/us/usc/t37/s491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs491
-[/us/pl/112/239/s1076/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fh%2F2
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1955
 
 

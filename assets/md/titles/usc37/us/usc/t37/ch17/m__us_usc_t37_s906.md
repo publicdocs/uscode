@@ -17,7 +17,7 @@
 
     A member of the Army, Navy, Air Force, Marine Corps, or Coast Guard, as the case may be, who extends his enlistment under [section 509 of title 10][/us/usc/t10/s509] is entitled to the same pay and allowances as though he had reenlisted. For the purposes of determining entitlement to reenlistment bonus or to travel and transportation allowances upon discharge, all such extensions of an enlistment are considered one continuous extension.
 
-([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 489][/us/stat/76/489]; [Pub. L. 90–235, § 2(c)][/us/pl/90/235/s2/c], Jan. 2, 1968, [81 Stat. 757][/us/stat/81/757].)
+([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 489][/us/stat/76/489]; [Pub. L. 90–235][/us/pl/90/235], § 2(c), Jan. 2, 1968, [81 Stat. 757][/us/stat/81/757].)
 
 <table>
 
@@ -115,7 +115,7 @@ Source (Statutes at Large)  </td>
 [/us/usc/t10/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs509
 [/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F489
-[/us/pl/90/235/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235%2Fs2%2Fc
+[/us/pl/90/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235
 [/us/stat/81/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F757
 [/us/usc/t10/s3263/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3263%2Fb
 [/us/usc/t10/s8263/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8263%2Fb

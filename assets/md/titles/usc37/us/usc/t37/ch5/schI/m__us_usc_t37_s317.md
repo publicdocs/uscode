@@ -51,7 +51,7 @@
 
     The Secretaries concerned shall prescribe regulations to carry out this section. Regulations prescribed by the Secretary of a military department shall be subject to the approval of the Secretary of Defense.
 
-(Added [Pub. L. 101–510, div. A, title XII, § 1203(a)(1)][/us/pl/101/510/s1203/a/1], Nov. 5, 1990, [104 Stat. 1656][/us/stat/104/1656]; amended [Pub. L. 109–163, div. A, title VI, § 687(b)(26)][/us/pl/109/163/s687/b/26], Jan. 6, 2006, [119 Stat. 3331][/us/stat/119/3331].)
+(Added [Pub. L. 101–510, div. A, title XII][/us/pl/101/510/dA/tXII], § 1203(a)(1), Nov. 5, 1990, [104 Stat. 1656][/us/stat/104/1656]; amended [Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 687(b)(26), Jan. 6, 2006, [119 Stat. 3331][/us/stat/119/3331].)
 
  __Amendments__ 
 
@@ -59,7 +59,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 101–510, div. A, title XII, § 1203(b)][/us/pl/101/510/s1203/b], Nov. 5, 1990, [104 Stat. 1658][/us/stat/104/1658], provided that: 
+[Pub. L. 101–510, div. A, title XII][/us/pl/101/510/dA/tXII], § 1203(b), Nov. 5, 1990, [104 Stat. 1658][/us/stat/104/1658], provided that: 
 
 > “[Section 317 of title 37][/us/usc/t37/s317], United States Code, as added by subsection (a), shall take effect as of October 1, 1991.”
 
@@ -77,12 +77,12 @@
 [/us/usc/t10/s1733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1733
 [/us/usc/t37/s303a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs303a%2Fe
 [/us/usc/t10/s1734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1734
-[/us/pl/101/510/s1203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1203%2Fa%2F1
+[/us/pl/101/510/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXII
 [/us/stat/104/1656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1656
-[/us/pl/109/163/s687/b/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Fb%2F26
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3331
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/pl/101/510/s1203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1203%2Fb
+[/us/pl/101/510/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXII
 [/us/stat/104/1658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1658
 [/us/usc/t37/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs317
 [/us/pl/109/163/s687/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Fb

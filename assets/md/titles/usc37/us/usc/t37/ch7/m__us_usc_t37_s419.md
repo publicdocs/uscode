@@ -17,7 +17,7 @@
 
     Under regulations prescribed by the Secretary of Defense, an officer of an armed force who is assigned to a permanent duty station at a location outside the United States may be paid a civilian clothing allowance in such amount as the Secretary shall determine under regulations if such officer is required to wear civilian clothing all or a substantial portion of the time in the performance of the officer’s official duties. A clothing allowance under this section is in addition to any uniform allowance to which an officer is otherwise entitled under this title.
 
-(Added [Pub. L. 100–180, div. A, title VI, § 611(a)(1)(B)][/us/pl/100/180/s611/a/1/B], Dec. 4, 1987, [101 Stat. 1093][/us/stat/101/1093]; amended [Pub. L. 100–456, div. A, title VI, § 625][/us/pl/100/456/s625], Sept. 29, 1988, [102 Stat. 1984][/us/stat/102/1984]; [Pub. L. 101–189, div. A, title VI, § 653(c)(2)][/us/pl/101/189/s653/c/2], Nov. 29, 1989, [103 Stat. 1462][/us/stat/103/1462].)
+(Added [Pub. L. 100–180, div. A, title VI][/us/pl/100/180/dA/tVI], § 611(a)(1)(B), Dec. 4, 1987, [101 Stat. 1093][/us/stat/101/1093]; amended [Pub. L. 100–456, div. A, title VI][/us/pl/100/456/dA/tVI], § 625, Sept. 29, 1988, [102 Stat. 1984][/us/stat/102/1984]; [Pub. L. 101–189, div. A, title VI][/us/pl/101/189/dA/tVI], § 653(c)(2), Nov. 29, 1989, [103 Stat. 1462][/us/stat/103/1462].)
 
  __Prior Provisions__ 
 
@@ -31,7 +31,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 100–180, div. A, title VI, § 611(b)][/us/pl/100/180/s611/b], Dec. 4, 1987, [101 Stat. 1093][/us/stat/101/1093], provided that: 
+[Pub. L. 100–180, div. A, title VI][/us/pl/100/180/dA/tVI], § 611(b), Dec. 4, 1987, [101 Stat. 1093][/us/stat/101/1093], provided that: 
 
 > “[Section 419 of title 37][/us/usc/t37/s419], United States Code, as added by subsection (a), shall take effect on the date of the enactment of this Act \[Dec. 4, 1987\]. No member may be paid a clothing allowance under such section for any period before such date.”
 
@@ -42,16 +42,16 @@
 ----------
 ----------
 
-[/us/pl/100/180/s611/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs611%2Fa%2F1%2FB
+[/us/pl/100/180/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtVI
 [/us/stat/101/1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1093
-[/us/pl/100/456/s625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs625
+[/us/pl/100/456/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtVI
 [/us/stat/102/1984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1984
-[/us/pl/101/189/s653/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs653%2Fc%2F2
+[/us/pl/101/189/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVI
 [/us/stat/103/1462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1462
 [/us/usc/t37/s420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs420
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
-[/us/pl/100/180/s611/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs611%2Fb
+[/us/pl/100/180/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtVI
 [/us/stat/101/1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1093
 [/us/usc/t37/s419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs419
 

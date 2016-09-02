@@ -113,7 +113,7 @@
 
         (9) The term “dislocation allowances” means the costs associated with relocation of the household of a member of the uniformed services and the member’s dependents in relation to a change in the member’s permanent duty assignment location ordered for the convenience of the Government or incident to an evacuation.
 
-(Added [Pub. L. 112–81, div. A, title VI, § 631(b)][/us/pl/112/81/s631/b], Dec. 31, 2011, [125 Stat. 1453][/us/stat/125/1453]; amended [Pub. L. 113–66, div. A, title VI, § 621(a)(1)][/us/pl/113/66/s621/a/1], Dec. 26, 2013, [127 Stat. 783][/us/stat/127/783].)
+(Added [Pub. L. 112–81, div. A, title VI][/us/pl/112/81/dA/tVI], § 631(b), Dec. 31, 2011, [125 Stat. 1453][/us/stat/125/1453]; amended [Pub. L. 113–66, div. A, title VI][/us/pl/113/66/dA/tVI], § 621(a)(1), Dec. 26, 2013, [127 Stat. 783][/us/stat/127/783].)
 
  __Amendments__ 
 
@@ -121,13 +121,13 @@
 
  __Purpose of Consolidation and Reform of Travel and Transportation Authorities of the Uniformed Services__ 
 
-[Pub. L. 112–81, div. A, title VI, § 631(a)][/us/pl/112/81/s631/a], Dec. 31, 2011, [125 Stat. 1452][/us/stat/125/1452], provided that: 
+[Pub. L. 112–81, div. A, title VI][/us/pl/112/81/dA/tVI], § 631(a), Dec. 31, 2011, [125 Stat. 1452][/us/stat/125/1452], provided that: 
 
 > “This section \[see Tables for classification\] establishes general travel and transportation provisions for members of the uniformed services and other travelers authorized to travel under official conditions. Recognizing the complexities and the changing nature of travel, the amendments made by this section \[see Tables for classification\] provide the Secretary of Defense and the other administering Secretaries with the authority to prescribe and implement travel and transportation policy that is simple, clear, efficient, and flexible, and that meets mission and servicemember needs, while realizing cost savings that should come with a more efficient and less cumbersome system for travel and transportation.”
 
  __Transition Provisions__ 
 
-[Pub. L. 112–81, div. A, title VI, § 632][/us/pl/112/81/s632], Dec. 31, 2011, [125 Stat. 1465][/us/stat/125/1465], provided that:
+[Pub. L. 112–81, div. A, title VI][/us/pl/112/81/dA/tVI], § 632, Dec. 31, 2011, [125 Stat. 1465][/us/stat/125/1465], provided that:
 
 >     “(a)  __Implementation Plan__  __.—__ 
 
@@ -172,14 +172,14 @@
 [/us/usc/t37/s401/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs401%2Fb%2F1
 [/us/usc/t37/s401/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs401%2Fb%2F2
 [/us/usc/t37/s464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs464
-[/us/pl/112/81/s631/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Fb
+[/us/pl/112/81/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVI
 [/us/stat/125/1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1453
-[/us/pl/113/66/s621/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs621%2Fa%2F1
+[/us/pl/113/66/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtVI
 [/us/stat/127/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F783
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
-[/us/pl/112/81/s631/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Fa
+[/us/pl/112/81/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVI
 [/us/stat/125/1452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1452
-[/us/pl/112/81/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs632
+[/us/pl/112/81/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVI
 [/us/stat/125/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1465
 [/us/usc/t37/s463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs463
 

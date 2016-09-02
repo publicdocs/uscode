@@ -93,19 +93,19 @@
 
             (D) to perform duty for a specified period of time.
 
-(Added [Pub. L. 110–181, div. A, title VI, § 661(a)(2)][/us/pl/110/181/s661/a/2], Jan. 28, 2008, [122 Stat. 177][/us/stat/122/177]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 651(c)(1), (2)(A), Oct. 14, 2008, [122 Stat. 4496][/us/stat/122/4496], 4497; [Pub. L. 111–84, div. A, title VI, § 617(b)][/us/pl/111/84/s617/b], Oct. 28, 2009, [123 Stat. 2355][/us/stat/123/2355].)
+(Added [Pub. L. 110–181, div. A, title VI][/us/pl/110/181/dA/tVI], § 661(a)(2), Jan. 28, 2008, [122 Stat. 177][/us/stat/122/177]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 651(c)(1), (2)(A), Oct. 14, 2008, [122 Stat. 4496][/us/stat/122/4496], 4497; [Pub. L. 111–84, div. A, title VI][/us/pl/111/84/dA/tVI], § 617(b), Oct. 28, 2009, [123 Stat. 2355][/us/stat/123/2355].)
 
  __Amendments__ 
 
-    2009—Subsec. (b)(2). [Pub. L. 111–84, § 617(b)(1)][/us/pl/111/84/s617/b/1], substituted “Special rule for deceased and disabled members” for “Mandatory payment of unpaid amounts under certain circumstances; no repayment of unearned amounts” in heading.
+    2009—Subsec. (b)(2). [Pub. L. 111–84][/us/pl/111/84], § 617(b)(1), substituted “Special rule for deceased and disabled members” for “Mandatory payment of unpaid amounts under certain circumstances; no repayment of unearned amounts” in heading.
 
-    Subsec. (b)(3). [Pub. L. 111–84, § 617(b)(2)][/us/pl/111/84/s617/b/2], added par. (3).
+    Subsec. (b)(3). [Pub. L. 111–84][/us/pl/111/84], § 617(b)(2), added par. (3).
 
-    2008—[Pub. L. 110–417, § 651(c)(2)(A)][/us/pl/110/417/s651/c/2/A], substituted “Repayment of unearned portion of bonus, incentive pay, or similar benefit, and termination of remaining payments, when conditions of payment not met” for “Repayment of unearned portion of bonus, incentive pay, or similar benefit when conditions of payment not met” in section catchline.
+    2008—[Pub. L. 110–417][/us/pl/110/417], § 651(c)(2)(A), substituted “Repayment of unearned portion of bonus, incentive pay, or similar benefit, and termination of remaining payments, when conditions of payment not met” for “Repayment of unearned portion of bonus, incentive pay, or similar benefit when conditions of payment not met” in section catchline.
 
-    Subsec. (a). [Pub. L. 110–417, § 651(c)(1)(A)][/us/pl/110/417/s651/c/1/A], inserted “and Termination” after “Repayment” in heading and “, and the member may not receive any unpaid amounts of the bonus, incentive pay, or similar benefit after the member fails to satisfy such service or eligibility requirement” in text before period at end.
+    Subsec. (a). [Pub. L. 110–417][/us/pl/110/417], § 651(c)(1)(A), inserted “and Termination” after “Repayment” in heading and “, and the member may not receive any unpaid amounts of the bonus, incentive pay, or similar benefit after the member fails to satisfy such service or eligibility requirement” in text before period at end.
 
-    Subsec. (b). [Pub. L. 110–417, § 651(c)(1)(B)][/us/pl/110/417/s651/c/1/B], added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The regulations prescribed to administer this section may specify procedures for determining the circumstances under which an exception to the required repayment may be granted.”
+    Subsec. (b). [Pub. L. 110–417][/us/pl/110/417], § 651(c)(1)(B), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The regulations prescribed to administer this section may specify procedures for determining the circumstances under which an exception to the required repayment may be granted.”
 
 ----------
 
@@ -116,16 +116,16 @@
 
 [/us/usc/t10/s1413a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1413a%2Fe
 [/us/usc/t37/s303a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs303a%2Fe
-[/us/pl/110/181/s661/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs661%2Fa%2F2
+[/us/pl/110/181/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVI
 [/us/stat/122/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F177
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4496
-[/us/pl/111/84/s617/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs617%2Fb
+[/us/pl/111/84/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVI
 [/us/stat/123/2355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2355
-[/us/pl/111/84/s617/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs617%2Fb%2F1
-[/us/pl/111/84/s617/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs617%2Fb%2F2
-[/us/pl/110/417/s651/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs651%2Fc%2F2%2FA
-[/us/pl/110/417/s651/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs651%2Fc%2F1%2FA
-[/us/pl/110/417/s651/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs651%2Fc%2F1%2FB
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 
 

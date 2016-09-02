@@ -93,17 +93,17 @@
 
     A person who enters into an agreement under this section and receives all or part of the bonus under the agreement, but who does not accept a commission or an appointment as an officer or does not commence to participate or does not satisfactorily participate in the Selected Reserve for the total period of service specified in the agreement, shall be subject to the repayment provisions of [section 303a(e) of this title][/us/usc/t37/s303a/e].
 
-(Added [Pub. L. 108–375, div. A, title VI, § 619(a)][/us/pl/108/375/s619/a], Oct. 28, 2004, [118 Stat. 1950][/us/stat/118/1950]; amended [Pub. L. 109–163, div. A, title VI, § 634(a)][/us/pl/109/163/s634/a]–(c)(1), Jan. 6, 2006, [119 Stat. 3300][/us/stat/119/3300]; [Pub. L. 109–364, div. A, title X, § 1071(c)(4)][/us/pl/109/364/s1071/c/4], Oct. 17, 2006, [120 Stat. 2401][/us/stat/120/2401]; [Pub. L. 112–239, div. A, title VI, § 616][/us/pl/112/239/s616], Jan. 2, 2013, [126 Stat. 1777][/us/stat/126/1777].)
+(Added [Pub. L. 108–375, div. A, title VI][/us/pl/108/375/dA/tVI], § 619(a), Oct. 28, 2004, [118 Stat. 1950][/us/stat/118/1950]; amended [Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 634(a)–(c)(1), Jan. 6, 2006, [119 Stat. 3300][/us/stat/119/3300]; [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1071(c)(4), Oct. 17, 2006, [120 Stat. 2401][/us/stat/120/2401]; [Pub. L. 112–239, div. A, title VI][/us/pl/112/239/dA/tVI], § 616, Jan. 2, 2013, [126 Stat. 1777][/us/stat/126/1777].)
 
  __Amendments__ 
 
     2013—Subsec. (d). [Pub. L. 112–239][/us/pl/112/239] substituted “$20,000” for “$10,000”.
 
-    2006—[Pub. L. 109–163, § 634(c)(1)][/us/pl/109/163/s634/c/1], substituted “Special pay: affiliation bonus for officers in the Selected Reserve” for “Special pay: bonus for certain initial service of officers in the Selected Reserve”.
+    2006—[Pub. L. 109–163][/us/pl/109/163], § 634(c)(1), substituted “Special pay: affiliation bonus for officers in the Selected Reserve” for “Special pay: bonus for certain initial service of officers in the Selected Reserve”.
 
-    Subsec. (a)(2)(B), (C). [Pub. L. 109–163, § 634(a)][/us/pl/109/163/s634/a], redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “has not previously served in the Selected Reserve of the Ready Reserve; and”.
+    Subsec. (a)(2)(B), (C). [Pub. L. 109–163][/us/pl/109/163], § 634(a), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “has not previously served in the Selected Reserve of the Ready Reserve; and”.
 
-    Subsec. (d). [Pub. L. 109–163, § 634(b)][/us/pl/109/163/s634/b], substituted “$10,000” for “$6,000”.
+    Subsec. (d). [Pub. L. 109–163][/us/pl/109/163], § 634(b), substituted “$10,000” for “$6,000”.
 
     Subsec. (g). [Pub. L. 109–364][/us/pl/109/364] added subsec. (g) and struck out former subsec. (g) which related to requirement to repay bonus upon failure to commence or complete obligated service, inclusion of repayment requirements in each agreement, and characterization of obligation to repay as a debt owed to the United States.
 
@@ -116,18 +116,18 @@
 
 [/us/usc/t37/s302g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs302g
 [/us/usc/t37/s303a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs303a%2Fe
-[/us/pl/108/375/s619/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs619%2Fa
+[/us/pl/108/375/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVI
 [/us/stat/118/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1950
-[/us/pl/109/163/s634/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs634%2Fa
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3300
-[/us/pl/109/364/s1071/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fc%2F4
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2401
-[/us/pl/112/239/s616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs616
+[/us/pl/112/239/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVI
 [/us/stat/126/1777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1777
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/109/163/s634/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs634%2Fc%2F1
-[/us/pl/109/163/s634/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs634%2Fa
-[/us/pl/109/163/s634/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs634%2Fb
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 
 

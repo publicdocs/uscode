@@ -135,11 +135,11 @@
 
         (2) The term “operational flying duty” means flying performed under competent orders while serving in assignments, including an assignment as a dropsonde system operator, in which basic flying skills normally are maintained in the performance of assigned duties as determined by the Secretary concerned, and flying duty performed by members in training that leads to the award of an enlisted aviation rating or military occupational specialty designated as a career enlisted flyer rating or specialty by the Secretary concerned.
 
-(Added [Pub. L. 106–65, div. A, title VI, § 628(a)(1)][/us/pl/106/65/s628/a/1], Oct. 5, 1999, [113 Stat. 657][/us/stat/113/657].)
+(Added [Pub. L. 106–65, div. A, title VI][/us/pl/106/65/dA/tVI], § 628(a)(1), Oct. 5, 1999, [113 Stat. 657][/us/stat/113/657].)
 
  __Effective Date__ 
 
-[Pub. L. 106–65, div. A, title VI, § 628(b)][/us/pl/106/65/s628/b], Oct. 5, 1999, [113 Stat. 659][/us/stat/113/659], provided that: 
+[Pub. L. 106–65, div. A, title VI][/us/pl/106/65/dA/tVI], § 628(b), Oct. 5, 1999, [113 Stat. 659][/us/stat/113/659], provided that: 
 
 > “The amendments made by subsection (a) \[enacting this section\] shall take effect on October 1, 1999.”
 
@@ -159,9 +159,9 @@
 [/us/usc/t37/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs304
 [/us/usc/t37/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs301%2Fa
 [/us/usc/t37/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs301
-[/us/pl/106/65/s628/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs628%2Fa%2F1
+[/us/pl/106/65/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVI
 [/us/stat/113/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F657
-[/us/pl/106/65/s628/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs628%2Fb
+[/us/pl/106/65/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVI
 [/us/stat/113/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F659
 
 

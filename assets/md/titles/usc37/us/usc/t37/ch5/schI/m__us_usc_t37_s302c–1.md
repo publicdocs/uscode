@@ -85,7 +85,7 @@
 
     No agreement under subsection (a) or (b) may be entered into after December 31, 2016.
 
-(Added [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 620(b)(1), Oct. 14, 2008, [122 Stat. 4490][/us/stat/122/4490]; amended [Pub. L. 111–84, div. A, title VI, § 612(b)(1)][/us/pl/111/84/s612/b/1], Oct. 28, 2009, [123 Stat. 2353][/us/stat/123/2353]; [Pub. L. 111–383, div. A, title VI, § 612(b)(1)][/us/pl/111/383/s612/b/1], Jan. 7, 2011, [124 Stat. 4236][/us/stat/124/4236]; [Pub. L. 112–81, div. A, title VI, § 612(b)(1)][/us/pl/112/81/s612/b/1], Dec. 31, 2011, [125 Stat. 1449][/us/stat/125/1449]; [Pub. L. 112–239, div. A, title VI, § 612(b)(1)][/us/pl/112/239/s612/b/1], Jan. 2, 2013, [126 Stat. 1776][/us/stat/126/1776]; [Pub. L. 113–66, div. A, title VI, § 612(b)(1)][/us/pl/113/66/s612/b/1], Dec. 26, 2013, [127 Stat. 780][/us/stat/127/780]; [Pub. L. 113–291, div. A, title VI, § 612(b)(1)][/us/pl/113/291/s612/b/1], Dec. 19, 2014, [128 Stat. 3400][/us/stat/128/3400]; [Pub. L. 114–92, div. A, title VI, § 612(b)(1)][/us/pl/114/92/s612/b/1], Nov. 25, 2015, [129 Stat. 838][/us/stat/129/838].)
+(Added [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 620(b)(1), Oct. 14, 2008, [122 Stat. 4490][/us/stat/122/4490]; amended [Pub. L. 111–84, div. A, title VI][/us/pl/111/84/dA/tVI], § 612(b)(1), Oct. 28, 2009, [123 Stat. 2353][/us/stat/123/2353]; [Pub. L. 111–383, div. A, title VI][/us/pl/111/383/dA/tVI], § 612(b)(1), Jan. 7, 2011, [124 Stat. 4236][/us/stat/124/4236]; [Pub. L. 112–81, div. A, title VI][/us/pl/112/81/dA/tVI], § 612(b)(1), Dec. 31, 2011, [125 Stat. 1449][/us/stat/125/1449]; [Pub. L. 112–239, div. A, title VI][/us/pl/112/239/dA/tVI], § 612(b)(1), Jan. 2, 2013, [126 Stat. 1776][/us/stat/126/1776]; [Pub. L. 113–66, div. A, title VI][/us/pl/113/66/dA/tVI], § 612(b)(1), Dec. 26, 2013, [127 Stat. 780][/us/stat/127/780]; [Pub. L. 113–291, div. A, title VI][/us/pl/113/291/dA/tVI], § 612(b)(1), Dec. 19, 2014, [128 Stat. 3400][/us/stat/128/3400]; [Pub. L. 114–92, div. A, title VI][/us/pl/114/92/dA/tVI], § 612(b)(1), Nov. 25, 2015, [129 Stat. 838][/us/stat/129/838].)
 
  __Amendments__ 
 
@@ -115,19 +115,19 @@
 [/us/usc/t37/s303a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs303a%2Fe
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4490
-[/us/pl/111/84/s612/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs612%2Fb%2F1
+[/us/pl/111/84/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVI
 [/us/stat/123/2353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2353
-[/us/pl/111/383/s612/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs612%2Fb%2F1
+[/us/pl/111/383/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVI
 [/us/stat/124/4236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4236
-[/us/pl/112/81/s612/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs612%2Fb%2F1
+[/us/pl/112/81/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVI
 [/us/stat/125/1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1449
-[/us/pl/112/239/s612/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs612%2Fb%2F1
+[/us/pl/112/239/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVI
 [/us/stat/126/1776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1776
-[/us/pl/113/66/s612/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs612%2Fb%2F1
+[/us/pl/113/66/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtVI
 [/us/stat/127/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F780
-[/us/pl/113/291/s612/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs612%2Fb%2F1
+[/us/pl/113/291/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVI
 [/us/stat/128/3400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3400
-[/us/pl/114/92/s612/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs612%2Fb%2F1
+[/us/pl/114/92/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVI
 [/us/stat/129/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F838
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291

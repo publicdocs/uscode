@@ -19,7 +19,7 @@
 
     (b) The United States is not liable for loss or damage suffered by a person as a result of an error made by an officer or employee of the United States in carrying out the allotment program under subsection (a).
 
-(Added [Pub. L. 93–289, § 11(a)][/us/pl/93/289/s11/a], May 24, 1974, [88 Stat. 172][/us/stat/88/172]; amended [Pub. L. 96–513, title V, § 516(19)][/us/pl/96/513/s516/19], Dec. 12, 1980, [94 Stat. 2939][/us/stat/94/2939]; [Pub. L. 97–295, § 3(5)][/us/pl/97/295/s3/5], Oct. 12, 1982, [96 Stat. 1304][/us/stat/96/1304]; [Pub. L. 102–25, title VII, § 702(b)(1)][/us/pl/102/25/s702/b/1], (c), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117].)
+(Added [Pub. L. 93–289][/us/pl/93/289], § 11(a), May 24, 1974, [88 Stat. 172][/us/stat/88/172]; amended [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 516(19), Dec. 12, 1980, [94 Stat. 2939][/us/stat/94/2939]; [Pub. L. 97–295][/us/pl/97/295], § 3(5), Oct. 12, 1982, [96 Stat. 1304][/us/stat/96/1304]; [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 702(b)(1), (c), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117].)
 
 <table>
 
@@ -89,7 +89,7 @@ May 24, 1974, Pub. L. 93–289, § 11(b), 88 Stat. 173.  </td>
 
  __Liability of United States for Losses or Damages__ 
 
-    [Pub. L. 93–289, § 11(b)][/us/pl/93/289/s11/b], May 24, 1974, [88 Stat. 173][/us/stat/88/173], which provided that the United States shall not be liable for any losses or damages suffered by any person as the result of any error made by any officer or employee of the United States in administering the allotment program authorized under subsec. (a) of this section, was repealed and reenacted as subsec. (b) of this section by [Pub. L. 97–295][/us/pl/97/295], §§ 3(5), 6(b), Oct. 12, 1982, [96 Stat. 1304][/us/stat/96/1304], 1314.
+    [Pub. L. 93–289][/us/pl/93/289], § 11(b), May 24, 1974, [88 Stat. 173][/us/stat/88/173], which provided that the United States shall not be liable for any losses or damages suffered by any person as the result of any error made by any officer or employee of the United States in administering the allotment program authorized under subsec. (a) of this section, was repealed and reenacted as subsec. (b) of this section by [Pub. L. 97–295][/us/pl/97/295], §§ 3(5), 6(b), Oct. 12, 1982, [96 Stat. 1304][/us/stat/96/1304], 1314.
 
 ----------
 
@@ -98,13 +98,13 @@ May 24, 1974, Pub. L. 93–289, § 11(b), 88 Stat. 173.  </td>
 ----------
 ----------
 
-[/us/pl/93/289/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F289%2Fs11%2Fa
+[/us/pl/93/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F289
 [/us/stat/88/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F172
-[/us/pl/96/513/s516/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs516%2F19
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2939
-[/us/pl/97/295/s3/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs3%2F5
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1304
-[/us/pl/102/25/s702/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs702%2Fb%2F1
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F117
 [/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
 [/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
@@ -112,7 +112,7 @@ May 24, 1974, Pub. L. 93–289, § 11(b), 88 Stat. 173.  </td>
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701%2Fb%2F3
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/93/289/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F289%2Fs11%2Fb
+[/us/pl/93/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F289
 [/us/stat/88/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F173
 [/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1304

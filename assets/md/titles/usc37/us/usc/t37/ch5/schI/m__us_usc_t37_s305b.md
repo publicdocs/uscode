@@ -37,7 +37,7 @@
 
     In this section, the term “Weapons of Mass Destruction Civil Support Team” means a team of members of the reserve components of the armed forces that is established under [section 12310(c) of title 10][/us/usc/t10/s12310/c] in support of emergency preparedness programs to prepare for or to respond to any emergency involving the use of a weapon of mass destruction.
 
-(Added [Pub. L. 108–136, div. A, title VI, § 624(a)][/us/pl/108/136/s624/a], Nov. 24, 2003, [117 Stat. 1505][/us/stat/117/1505].)
+(Added [Pub. L. 108–136, div. A, title VI][/us/pl/108/136/dA/tVI], § 624(a), Nov. 24, 2003, [117 Stat. 1505][/us/stat/117/1505].)
 
 ----------
 
@@ -48,7 +48,7 @@
 
 [/us/usc/t37/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs206
 [/us/usc/t10/s12310/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12310%2Fc
-[/us/pl/108/136/s624/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs624%2Fa
+[/us/pl/108/136/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtVI
 [/us/stat/117/1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1505
 
 

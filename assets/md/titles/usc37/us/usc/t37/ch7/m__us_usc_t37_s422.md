@@ -31,7 +31,7 @@
 
         However, no allowance for travel on discharge may be paid to a discharged cadet or midshipman who continues his scholastic instruction at the same educational institution.
 
-([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 479][/us/stat/76/479]; [Pub. L. 88–647, title II, § 202(4)][/us/pl/88/647/s202/4], Oct. 13, 1964, [78 Stat. 1070][/us/stat/78/1070]; [Pub. L. 89–718, § 63][/us/pl/89/718/s63], Nov. 2, 1966, [80 Stat. 1123][/us/stat/80/1123]; [Pub. L. 112–81, div. A, title VI, § 631(f)(4)(A)][/us/pl/112/81/s631/f/4/A], Dec. 31, 2011, [125 Stat. 1465][/us/stat/125/1465]; [Pub. L. 112–239, div. A, title X, § 1076(a)(9)][/us/pl/112/239/s1076/a/9], Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948].)
+([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 479][/us/stat/76/479]; [Pub. L. 88–647, title II][/us/pl/88/647/tII], § 202(4), Oct. 13, 1964, [78 Stat. 1070][/us/stat/78/1070]; [Pub. L. 89–718][/us/pl/89/718], § 63, Nov. 2, 1966, [80 Stat. 1123][/us/stat/80/1123]; [Pub. L. 112–81, div. A, title VI][/us/pl/112/81/dA/tVI], § 631(f)(4)(A), Dec. 31, 2011, [125 Stat. 1465][/us/stat/125/1465]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(a)(9), Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948].)
 
 <table>
 
@@ -161,19 +161,19 @@ Oct. 12, 1949, ch. 681, § 508 (less applicability to pay), 63 Stat. 828.  </t
 
  __Amendments__ 
 
-    2013—Subsec. (a). [Pub. L. 112–239, § 1076(a)(9)][/us/pl/112/239/s1076/a/9], made technical amendment to directory language of [Pub. L. 112–81, § 631(f)(4)(A)][/us/pl/112/81/s631/f/4/A]. See 2011 Amendment note below.
+    2013—Subsec. (a). [Pub. L. 112–239][/us/pl/112/239], § 1076(a)(9), made technical amendment to directory language of [Pub. L. 112–81][/us/pl/112/81], § 631(f)(4)(A). See 2011 Amendment note below.
 
-    2011—Subsec. (a). [Pub. L. 112–81, § 631(f)(4)(A)][/us/pl/112/81/s631/f/4/A], as amended by [Pub. L. 112–239, § 1076(a)(9)][/us/pl/112/239/s1076/a/9], substituted “480” for “410”.
+    2011—Subsec. (a). [Pub. L. 112–81][/us/pl/112/81], § 631(f)(4)(A), as amended by [Pub. L. 112–239][/us/pl/112/239], § 1076(a)(9), substituted “480” for “410”.
 
     1966—Subsec. (c). [Pub. L. 89–718][/us/pl/89/718] struck out “, United States Code,” after “title 10”.
 
-    1964—Subsec. (c). [Pub. L. 88–647, § 202(4)(A)][/us/pl/88/647/s202/4/A], (B), among other changes, substituted provisions relating to a cadet or midshipman appointed under [section 2107 of title 10][/us/usc/t10/s2107], for provisions relating to a midshipman appointed under [section 6904 of title 10][/us/usc/t10/s6904], or a seaman recruit enlisted under [section 6905 of title 10][/us/usc/t10/s6905], and “educational institution” for “college or university”, in text, and “Cadets and midshipmen” for “Cadets, midshipmen, and naval officer candidates”, in section catchline.
+    1964—Subsec. (c). [Pub. L. 88–647][/us/pl/88/647], § 202(4)(A), (B), among other changes, substituted provisions relating to a cadet or midshipman appointed under [section 2107 of title 10][/us/usc/t10/s2107], for provisions relating to a midshipman appointed under [section 6904 of title 10][/us/usc/t10/s6904], or a seaman recruit enlisted under [section 6905 of title 10][/us/usc/t10/s6905], and “educational institution” for “college or university”, in text, and “Cadets and midshipmen” for “Cadets, midshipmen, and naval officer candidates”, in section catchline.
 
-    Subsec. (d). [Pub. L. 88–647, § 202(4)(C)][/us/pl/88/647/s202/4/C], struck out subsec. (d) which entitled a midshipman under [section 6906 of title 10][/us/usc/t10/s6906], while on flight training or duty, to the allowances of a midshipman at the United States Naval Academy.
+    Subsec. (d). [Pub. L. 88–647][/us/pl/88/647], § 202(4)(C), struck out subsec. (d) which entitled a midshipman under [section 6906 of title 10][/us/usc/t10/s6906], while on flight training or duty, to the allowances of a midshipman at the United States Naval Academy.
 
  __Effective Date of 2013 Amendment__ 
 
-    [Pub. L. 112–239, div. A, title X, § 1076(a)][/us/pl/112/239/s1076/a], Jan. 2, 2013, [126 Stat. 1947][/us/stat/126/1947], provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in [Pub. L. 112–81][/us/pl/112/81] as enacted.
+    [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(a), Jan. 2, 2013, [126 Stat. 1947][/us/stat/126/1947], provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in [Pub. L. 112–81][/us/pl/112/81] as enacted.
 
  __Transfer of Functions__ 
 
@@ -190,27 +190,27 @@ Oct. 12, 1949, ch. 681, § 508 (less applicability to pay), 63 Stat. 828.  </t
 [/us/usc/t10/s2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2107
 [/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F479
-[/us/pl/88/647/s202/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F647%2Fs202%2F4
+[/us/pl/88/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F647%2FtII
 [/us/stat/78/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1070
-[/us/pl/89/718/s63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs63
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1123
-[/us/pl/112/81/s631/f/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Ff%2F4%2FA
+[/us/pl/112/81/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVI
 [/us/stat/125/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1465
-[/us/pl/112/239/s1076/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F9
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1948
 [/us/usc/t37/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs410
-[/us/pl/112/239/s1076/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F9
-[/us/pl/112/81/s631/f/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Ff%2F4%2FA
-[/us/pl/112/81/s631/f/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Ff%2F4%2FA
-[/us/pl/112/239/s1076/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F9
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
-[/us/pl/88/647/s202/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F647%2Fs202%2F4%2FA
+[/us/pl/88/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F647
 [/us/usc/t10/s2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2107
 [/us/usc/t10/s6904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6904
 [/us/usc/t10/s6905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6905
-[/us/pl/88/647/s202/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F647%2Fs202%2F4%2FC
+[/us/pl/88/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F647
 [/us/usc/t10/s6906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6906
-[/us/pl/112/239/s1076/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1947
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

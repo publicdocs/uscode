@@ -49,7 +49,7 @@
 
     No agreement under this section may be entered into after December 31, 2016.
 
-(Added [Pub. L. 108–136, div. A, title VI, § 625(a)][/us/pl/108/136/s625/a], Nov. 24, 2003, [117 Stat. 1506][/us/stat/117/1506]; amended [Pub. L. 108–375, div. A, title VI, § 622][/us/pl/108/375/s622], Oct. 28, 2004, [118 Stat. 1955][/us/stat/118/1955]; [Pub. L. 109–163, div. A, title VI, § 687(b)(34)][/us/pl/109/163/s687/b/34], Jan. 6, 2006, [119 Stat. 3333][/us/stat/119/3333]; [Pub. L. 109–364, div. A, title VI, § 614(g)][/us/pl/109/364/s614/g], Oct. 17, 2006, [120 Stat. 2249][/us/stat/120/2249]; [Pub. L. 110–181, div. A, title VI, § 614(f)][/us/pl/110/181/s614/f], Jan. 28, 2008, [122 Stat. 149][/us/stat/122/149]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 614(f), Oct. 14, 2008, [122 Stat. 4485][/us/stat/122/4485]; [Pub. L. 111–84, div. A, title VI, § 615(6)][/us/pl/111/84/s615/6], Oct. 28, 2009, [123 Stat. 2354][/us/stat/123/2354]; [Pub. L. 111–383, div. A, title VI, § 615(6)][/us/pl/111/383/s615/6], Jan. 7, 2011, [124 Stat. 4237][/us/stat/124/4237]; [Pub. L. 112–81, div. A, title VI, § 615(6)][/us/pl/112/81/s615/6], Dec. 31, 2011, [125 Stat. 1450][/us/stat/125/1450]; [Pub. L. 112–239, div. A, title VI][/us/pl/112/239], §§ 615(6), 617, Jan. 2, 2013, [126 Stat. 1777][/us/stat/126/1777], 1778; [Pub. L. 113–66, div. A, title VI, § 615(6)][/us/pl/113/66/s615/6], Dec. 26, 2013, [127 Stat. 781][/us/stat/127/781]; [Pub. L. 113–291, div. A, title VI, § 615(7)][/us/pl/113/291/s615/7], Dec. 19, 2014, [128 Stat. 3401][/us/stat/128/3401]; [Pub. L. 114–92, div. A, title VI, § 615(7)][/us/pl/114/92/s615/7], Nov. 25, 2015, [129 Stat. 839][/us/stat/129/839].)
+(Added [Pub. L. 108–136, div. A, title VI][/us/pl/108/136/dA/tVI], § 625(a), Nov. 24, 2003, [117 Stat. 1506][/us/stat/117/1506]; amended [Pub. L. 108–375, div. A, title VI][/us/pl/108/375/dA/tVI], § 622, Oct. 28, 2004, [118 Stat. 1955][/us/stat/118/1955]; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 687(b)(34), Jan. 6, 2006, [119 Stat. 3333][/us/stat/119/3333]; [Pub. L. 109–364, div. A, title VI][/us/pl/109/364/dA/tVI], § 614(g), Oct. 17, 2006, [120 Stat. 2249][/us/stat/120/2249]; [Pub. L. 110–181, div. A, title VI][/us/pl/110/181/dA/tVI], § 614(f), Jan. 28, 2008, [122 Stat. 149][/us/stat/122/149]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 614(f), Oct. 14, 2008, [122 Stat. 4485][/us/stat/122/4485]; [Pub. L. 111–84, div. A, title VI][/us/pl/111/84/dA/tVI], § 615(6), Oct. 28, 2009, [123 Stat. 2354][/us/stat/123/2354]; [Pub. L. 111–383, div. A, title VI][/us/pl/111/383/dA/tVI], § 615(6), Jan. 7, 2011, [124 Stat. 4237][/us/stat/124/4237]; [Pub. L. 112–81, div. A, title VI][/us/pl/112/81/dA/tVI], § 615(6), Dec. 31, 2011, [125 Stat. 1450][/us/stat/125/1450]; [Pub. L. 112–239, div. A, title VI][/us/pl/112/239/dA/tVI], §§ 615(6), 617, Jan. 2, 2013, [126 Stat. 1777][/us/stat/126/1777], 1778; [Pub. L. 113–66, div. A, title VI][/us/pl/113/66/dA/tVI], § 615(6), Dec. 26, 2013, [127 Stat. 781][/us/stat/127/781]; [Pub. L. 113–291, div. A, title VI][/us/pl/113/291/dA/tVI], § 615(7), Dec. 19, 2014, [128 Stat. 3401][/us/stat/128/3401]; [Pub. L. 114–92, div. A, title VI][/us/pl/114/92/dA/tVI], § 615(7), Nov. 25, 2015, [129 Stat. 839][/us/stat/129/839].)
 
  __Amendments__ 
 
@@ -57,11 +57,11 @@
 
     2014—Subsec. (g). [Pub. L. 113–291][/us/pl/113/291] substituted “December 31, 2015” for “December 31, 2014”.
 
-    2013—Subsec. (c)(1). [Pub. L. 112–239, § 617][/us/pl/112/239/s617], substituted “$4,000.” for “$4,000, in the case of a member of a regular component of the armed forces, and $2,000, in the case of a member of a reserve component of the armed forces.”
+    2013—Subsec. (c)(1). [Pub. L. 112–239][/us/pl/112/239], § 617, substituted “$4,000.” for “$4,000, in the case of a member of a regular component of the armed forces, and $2,000, in the case of a member of a reserve component of the armed forces.”
 
     Subsec. (g). [Pub. L. 113–66][/us/pl/113/66] substituted “December 31, 2014” for “December 31, 2013”.
 
-    [Pub. L. 112–239, § 615(6)][/us/pl/112/239/s615/6], substituted “December 31, 2013” for “December 31, 2012”.
+    [Pub. L. 112–239][/us/pl/112/239], § 615(6), substituted “December 31, 2013” for “December 31, 2012”.
 
     2011—Subsec. (g). [Pub. L. 112–81][/us/pl/112/81] substituted “December 31, 2012” for “December 31, 2011”.
 
@@ -77,13 +77,13 @@
 
     Subsec. (g). [Pub. L. 109–364][/us/pl/109/364] substituted “December 31, 2007” for “December 31, 2006”.
 
-    2004—Subsec. (a). [Pub. L. 108–375, § 622(a)(1)][/us/pl/108/375/s622/a/1], inserted “of a regular or reserve component” after “an eligible member”.
+    2004—Subsec. (a). [Pub. L. 108–375][/us/pl/108/375], § 622(a)(1), inserted “of a regular or reserve component” after “an eligible member”.
 
-    Subsec. (b). [Pub. L. 108–375, § 622(a)(2)][/us/pl/108/375/s622/a/2], substituted comma for dash after “if”, struck out “(1) the member is entitled to basic pay; and” and par. (2) designation before “at the time”, and redesignated subpars. (A) and (B) of former par. (2) as pars. (1) and (2), respectively.
+    Subsec. (b). [Pub. L. 108–375][/us/pl/108/375], § 622(a)(2), substituted comma for dash after “if”, struck out “(1) the member is entitled to basic pay; and” and par. (2) designation before “at the time”, and redesignated subpars. (A) and (B) of former par. (2) as pars. (1) and (2), respectively.
 
-    Subsec. (c)(1). [Pub. L. 108–375, § 622(b)][/us/pl/108/375/s622/b], inserted before period at end “, in the case of a member of a regular component of the armed forces, and $2,000, in the case of a member of a reserve component of the armed forces”.
+    Subsec. (c)(1). [Pub. L. 108–375][/us/pl/108/375], § 622(b), inserted before period at end “, in the case of a member of a regular component of the armed forces, and $2,000, in the case of a member of a reserve component of the armed forces”.
 
-    Subsec. (c)(2). [Pub. L. 108–375, § 622(a)(3)][/us/pl/108/375/s622/a/3], inserted “regular or reserve component of the” after “chief personnel officer of the”.
+    Subsec. (c)(2). [Pub. L. 108–375][/us/pl/108/375], § 622(a)(3), inserted “regular or reserve component of the” after “chief personnel officer of the”.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -102,37 +102,37 @@
 
 [/us/usc/t37/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs205
 [/us/usc/t37/s303a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs303a%2Fe
-[/us/pl/108/136/s625/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs625%2Fa
+[/us/pl/108/136/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtVI
 [/us/stat/117/1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1506
-[/us/pl/108/375/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs622
+[/us/pl/108/375/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVI
 [/us/stat/118/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1955
-[/us/pl/109/163/s687/b/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Fb%2F34
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3333
-[/us/pl/109/364/s614/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs614%2Fg
+[/us/pl/109/364/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVI
 [/us/stat/120/2249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2249
-[/us/pl/110/181/s614/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs614%2Ff
+[/us/pl/110/181/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVI
 [/us/stat/122/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F149
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4485
-[/us/pl/111/84/s615/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs615%2F6
+[/us/pl/111/84/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVI
 [/us/stat/123/2354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2354
-[/us/pl/111/383/s615/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs615%2F6
+[/us/pl/111/383/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVI
 [/us/stat/124/4237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4237
-[/us/pl/112/81/s615/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs615%2F6
+[/us/pl/112/81/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVI
 [/us/stat/125/1450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1450
-[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVI
 [/us/stat/126/1777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1777
-[/us/pl/113/66/s615/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs615%2F6
+[/us/pl/113/66/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtVI
 [/us/stat/127/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F781
-[/us/pl/113/291/s615/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs615%2F7
+[/us/pl/113/291/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVI
 [/us/stat/128/3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3401
-[/us/pl/114/92/s615/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs615%2F7
+[/us/pl/114/92/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVI
 [/us/stat/129/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F839
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
-[/us/pl/112/239/s617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs617
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
-[/us/pl/112/239/s615/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs615%2F6
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
@@ -140,10 +140,10 @@
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
-[/us/pl/108/375/s622/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs622%2Fa%2F1
-[/us/pl/108/375/s622/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs622%2Fa%2F2
-[/us/pl/108/375/s622/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs622%2Fb
-[/us/pl/108/375/s622/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs622%2Fa%2F3
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/110/181/s610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs610
 [/us/usc/t10/s2130a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2130a

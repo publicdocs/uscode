@@ -93,43 +93,43 @@
 
     No travel and transportation allowance or reimbursement may be provided under this section for travel that begins after the travel authorities transition expiration date.
 
-(Added [Pub. L. 99–145, title VI, § 620(a)(1)][/us/pl/99/145/s620/a/1], Nov. 8, 1985, [99 Stat. 642][/us/stat/99/642], § 411f; amended [Pub. L. 100–456, div. A, title VI, § 632(b)][/us/pl/100/456/s632/b], Sept. 29, 1988, [102 Stat. 1986][/us/stat/102/1986]; [Pub. L. 103–35, title II, § 204(a)(2)][/us/pl/103/35/s204/a/2], May 31, 1993, [107 Stat. 102][/us/stat/107/102]; [Pub. L. 107–107, div. A, title VI, § 638(a)][/us/pl/107/107/s638/a], Dec. 28, 2001, [115 Stat. 1146][/us/stat/115/1146]; [Pub. L. 108–375, div. A, title VI, § 631][/us/pl/108/375/s631], Oct. 28, 2004, [118 Stat. 1956][/us/stat/118/1956]; [Pub. L. 110–181, div. A, title VI, § 632][/us/pl/110/181/s632], Jan. 28, 2008, [122 Stat. 154][/us/stat/122/154]; [Pub. L. 111–84, div. A, title V, § 542(b)(1)][/us/pl/111/84/s542/b/1], (2)(A), title VI, § 631, Oct. 28, 2009, [123 Stat. 2299][/us/stat/123/2299], 2300, 2359; renumbered § 481f and amended [Pub. L. 112–81, div. A, title VI, § 631(d)(2)][/us/pl/112/81/s631/d/2], (e)(20), Dec. 31, 2011, [125 Stat. 1460][/us/stat/125/1460], 1463; [Pub. L. 114–92, div. A, title VI][/us/pl/114/92], §§ 621, 622(a), Nov. 25, 2015, [129 Stat. 841][/us/stat/129/841].)
+(Added [Pub. L. 99–145, title VI][/us/pl/99/145/tVI], § 620(a)(1), Nov. 8, 1985, [99 Stat. 642][/us/stat/99/642], § 411f; amended [Pub. L. 100–456, div. A, title VI][/us/pl/100/456/dA/tVI], § 632(b), Sept. 29, 1988, [102 Stat. 1986][/us/stat/102/1986]; [Pub. L. 103–35, title II][/us/pl/103/35/tII], § 204(a)(2), May 31, 1993, [107 Stat. 102][/us/stat/107/102]; [Pub. L. 107–107, div. A, title VI][/us/pl/107/107/dA/tVI], § 638(a), Dec. 28, 2001, [115 Stat. 1146][/us/stat/115/1146]; [Pub. L. 108–375, div. A, title VI][/us/pl/108/375/dA/tVI], § 631, Oct. 28, 2004, [118 Stat. 1956][/us/stat/118/1956]; [Pub. L. 110–181, div. A, title VI][/us/pl/110/181/dA/tVI], § 632, Jan. 28, 2008, [122 Stat. 154][/us/stat/122/154]; [Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], § 542(b)(1), (2)(A), title VI, § 631, Oct. 28, 2009, [123 Stat. 2299][/us/stat/123/2299], 2300, 2359; renumbered § 481f and amended [Pub. L. 112–81, div. A, title VI][/us/pl/112/81/dA/tVI], § 631(d)(2), (e)(20), Dec. 31, 2011, [125 Stat. 1460][/us/stat/125/1460], 1463; [Pub. L. 114–92, div. A, title VI][/us/pl/114/92/dA/tVI], §§ 621, 622(a), Nov. 25, 2015, [129 Stat. 841][/us/stat/129/841].)
 
  __Amendments__ 
 
-    2015—Subsec. (d). [Pub. L. 114–92, § 622(a)][/us/pl/114/92/s622/a], redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to expanded allowances related to recovery of remains from the Vietnam conflict.
+    2015—Subsec. (d). [Pub. L. 114–92][/us/pl/114/92], § 622(a), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to expanded allowances related to recovery of remains from the Vietnam conflict.
 
-    Subsec. (e). [Pub. L. 114–92, § 622(a)(2)][/us/pl/114/92/s622/a/2], redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+    Subsec. (e). [Pub. L. 114–92][/us/pl/114/92], § 622(a)(2), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-    Subsec. (e)(1). [Pub. L. 114–92, § 621][/us/pl/114/92/s621], inserted “(including during a humanitarian relief operation)” after “located or serving overseas” in introductory provisions.
+    Subsec. (e)(1). [Pub. L. 114–92][/us/pl/114/92], § 621, inserted “(including during a humanitarian relief operation)” after “located or serving overseas” in introductory provisions.
 
-    Subsecs. (f) to (h). [Pub. L. 114–92, § 622(a)(2)][/us/pl/114/92/s622/a/2], redesignated subsecs. (f) to (h) as (e) to (g), respectively.
+    Subsecs. (f) to (h). [Pub. L. 114–92][/us/pl/114/92], § 622(a)(2), redesignated subsecs. (f) to (h) as (e) to (g), respectively.
 
-    2011—[Pub. L. 112–81, § 631(d)(2)][/us/pl/112/81/s631/d/2], renumbered [section 411f of this title][/us/usc/t37/s411f] as this section.
+    2011—[Pub. L. 112–81][/us/pl/112/81], § 631(d)(2), renumbered [section 411f of this title][/us/usc/t37/s411f] as this section.
 
-    Subsec. (h). [Pub. L. 112–81, § 631(e)(20)][/us/pl/112/81/s631/e/20], added subsec. (h).
+    Subsec. (h). [Pub. L. 112–81][/us/pl/112/81], § 631(e)(20), added subsec. (h).
 
-    2009—[Pub. L. 111–84, § 542(b)(2)(A)][/us/pl/111/84/s542/b/2/A], substituted “member’s burial ceremonies; transportation for survivors of member dying overseas to attend transfer ceremonies” for “the member’s burial ceremonies” in section catchline.
+    2009—[Pub. L. 111–84][/us/pl/111/84], § 542(b)(2)(A), substituted “member’s burial ceremonies; transportation for survivors of member dying overseas to attend transfer ceremonies” for “the member’s burial ceremonies” in section catchline.
 
-    Subsec. (a)(2), (3). [Pub. L. 111–84, § 631(a)][/us/pl/111/84/s631/a], added par. (2) and redesignated former par. (2) as (3).
+    Subsec. (a)(2), (3). [Pub. L. 111–84][/us/pl/111/84], § 631(a), added par. (2) and redesignated former par. (2) as (3).
 
-    Subsec. (c). [Pub. L. 111–84, § 631(b)][/us/pl/111/84/s631/b], in introductory provisions of par. (1), substituted “paragraphs (1) and (2) of subsection (a)” for “subsection (a)(1)” and, in par. (2), substituted “paragraph (1) or (2) of subsection (a)” for “subsection (a)(1)”.
+    Subsec. (c). [Pub. L. 111–84][/us/pl/111/84], § 631(b), in introductory provisions of par. (1), substituted “paragraphs (1) and (2) of subsection (a)” for “subsection (a)(1)” and, in par. (2), substituted “paragraph (1) or (2) of subsection (a)” for “subsection (a)(1)”.
 
-    Subsecs. (e) to (g). [Pub. L. 111–84, § 542(b)(1)][/us/pl/111/84/s542/b/1], added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
+    Subsecs. (e) to (g). [Pub. L. 111–84][/us/pl/111/84], § 542(b)(1), added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
 
-    2008—Subsec. (c)(1)(B). [Pub. L. 110–181, § 632(a)(1)][/us/pl/110/181/s632/a/1], added subpar. (B) and struck out former subpar. (B) which read as follows: “The unmarried child or children of the deceased member referred to in [section 401(a)(2) of this title][/us/usc/t37/s401/a/2].”
+    2008—Subsec. (c)(1)(B). [Pub. L. 110–181][/us/pl/110/181], § 632(a)(1), added subpar. (B) and struck out former subpar. (B) which read as follows: “The unmarried child or children of the deceased member referred to in [section 401(a)(2) of this title][/us/usc/t37/s401/a/2].”
 
-    Subsec. (c)(1)(D), (E). [Pub. L. 110–181, § 632(a)(2)][/us/pl/110/181/s632/a/2], added subpars. (D) and (E).
+    Subsec. (c)(1)(D), (E). [Pub. L. 110–181][/us/pl/110/181], § 632(a)(2), added subpars. (D) and (E).
 
-    Subsec. (c)(2). [Pub. L. 110–181, § 632(b)][/us/pl/110/181/s632/b], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “If no person described in paragraph (1) is provided travel and transportation allowances under subsection (a)(1), the travel and transportation allowances may be provided to—
+    Subsec. (c)(2). [Pub. L. 110–181][/us/pl/110/181], § 632(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “If no person described in paragraph (1) is provided travel and transportation allowances under subsection (a)(1), the travel and transportation allowances may be provided to—
 
     “(A) the person who directs the disposition of the remains of the deceased member under [section 1482(c) of title 10][/us/usc/t10/s1482/c], or, in the case of a deceased member whose remains are commingled and buried in a common grave in a national cemetery, the person who would have been designated under such section to direct the disposition of the remains if individual identification had been made; and
 
     “(B) up to two additional persons closely related to the deceased member who are selected by the person referred to in subparagraph (A).”
 
-    2004—Subsec. (a)(1). [Pub. L. 108–375, § 631(a)][/us/pl/108/375/s631/a], inserted before period at end “at the location determined under subsection (a)(8) of [section 1482 of title 10][/us/usc/t10/s1482] or attend a memorial service for the deceased member, under circumstances covered by subsection (d) of such section”.
+    2004—Subsec. (a)(1). [Pub. L. 108–375][/us/pl/108/375], § 631(a), inserted before period at end “at the location determined under subsection (a)(8) of [section 1482 of title 10][/us/usc/t10/s1482] or attend a memorial service for the deceased member, under circumstances covered by subsection (d) of such section”.
 
-    Subsec. (b). [Pub. L. 108–375, § 631(b)][/us/pl/108/375/s631/b], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows:
+    Subsec. (b). [Pub. L. 108–375][/us/pl/108/375], § 631(b), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows:
 
     “(1) Except as provided in paragraphs (2) and (3), allowances under subsection (a) are limited to travel and transportation to a location in the United States, Puerto Rico, and the possessions of the United States and may not exceed the rates for two days and the time necessary for such travel.
 
@@ -137,7 +137,7 @@
 
     “(3) If a deceased member is interred in a cemetery maintained by the American Battle Monuments Commission, the travel and transportation allowances authorized under subsection (a) may be provided to and from such cemetery and may not exceed the rates for two days and the time necessary for such travel.”
 
-    Subsec. (c)(1)(C). [Pub. L. 108–375, § 631(c)][/us/pl/108/375/s631/c], substituted “The” for “If no person described in subparagraph (A) or (B) is provided travel and transportation allowances under subsection (a)(1), the”.
+    Subsec. (c)(1)(C). [Pub. L. 108–375][/us/pl/108/375], § 631(c), substituted “The” for “If no person described in subparagraph (A) or (B) is provided travel and transportation allowances under subsection (a)(1), the”.
 
     2001—[Pub. L. 107–107][/us/pl/107/107] reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows:
 
@@ -155,25 +155,25 @@
 
  __Effective Date of 2009 Amendment__ 
 
-[Pub. L. 111–84, div. A, title V, § 542(c)][/us/pl/111/84/s542/c], Oct. 28, 2009, [123 Stat. 2300][/us/stat/123/2300], provided that: 
+[Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], § 542(c), Oct. 28, 2009, [123 Stat. 2300][/us/stat/123/2300], provided that: 
 
 > “This section \[amending this section and enacting provisions set out as a note under [section 1482 of Title 10][/us/usc/t10/s1482], Armed Forces\] and the amendments made by this section shall take effect on the date that is one year after the date of the enactment of this Act \[Oct. 28, 2009\].”
 
  __Effective Date of 2001 Amendment__ 
 
-[Pub. L. 107–107, div. A, title VI, § 638(c)][/us/pl/107/107/s638/c], Dec. 28, 2001, [115 Stat. 1148][/us/stat/115/1148], as amended by [Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B)][/us/pl/112/81/s631/f/4/B], Dec. 31, 2011, [125 Stat. 1465][/us/stat/125/1465]; [Pub. L. 112–239, div. A, title X, § 1076(a)(9)][/us/pl/112/239/s1076/a/9], Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948], provided that: 
+[Pub. L. 107–107, div. A, title VI][/us/pl/107/107/dA/tVI], § 638(c), Dec. 28, 2001, [115 Stat. 1148][/us/stat/115/1148], as amended by [Pub. L. 112–81, div. A, title VI][/us/pl/112/81/dA/tVI], § 631(f)(4)(B), Dec. 31, 2011, [125 Stat. 1465][/us/stat/125/1465]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(a)(9), Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948], provided that: 
 
 > “[Section 481f of title 37][/us/usc/t37/s481f], United States Code, as amended by subsection (a), shall apply with respect to burial ceremonies of deceased members of the uniformed services that occur on or after the date of the enactment of this Act \[Dec. 28, 2001\].”
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–456, div. A, title VI, § 632(c)][/us/pl/100/456/s632/c], Sept. 29, 1988, [102 Stat. 1986][/us/stat/102/1986], provided that: 
+[Pub. L. 100–456, div. A, title VI][/us/pl/100/456/dA/tVI], § 632(c), Sept. 29, 1988, [102 Stat. 1986][/us/stat/102/1986], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 411h of this title][/us/usc/t37/s411h]\] shall take effect on October 1, 1988.”
 
  __Effective Date__ 
 
-[Pub. L. 99–145, title VI, § 620(b)][/us/pl/99/145/s620/b], Nov. 8, 1985, [99 Stat. 643][/us/stat/99/643], provided that: 
+[Pub. L. 99–145, title VI][/us/pl/99/145/tVI], § 620(b), Nov. 8, 1985, [99 Stat. 643][/us/stat/99/643], provided that: 
 
 > “The travel and transportation allowance authorized by the amendments made by this section \[enacting this section\] is payable only for travel that commences after September 30, 1985.”
 
@@ -188,64 +188,64 @@
 [/us/usc/t37/s401/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs401%2Fb%2F2
 [/us/usc/t10/s1482/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1482%2Fc
 [/us/usc/t10/s1482/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1482%2Fd%2F2
-[/us/pl/99/145/s620/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs620%2Fa%2F1
+[/us/pl/99/145/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtVI
 [/us/stat/99/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F642
-[/us/pl/100/456/s632/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs632%2Fb
+[/us/pl/100/456/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtVI
 [/us/stat/102/1986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1986
-[/us/pl/103/35/s204/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs204%2Fa%2F2
+[/us/pl/103/35/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2FtII
 [/us/stat/107/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F102
-[/us/pl/107/107/s638/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs638%2Fa
+[/us/pl/107/107/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtVI
 [/us/stat/115/1146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1146
-[/us/pl/108/375/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs631
+[/us/pl/108/375/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVI
 [/us/stat/118/1956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1956
-[/us/pl/110/181/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs632
+[/us/pl/110/181/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVI
 [/us/stat/122/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F154
-[/us/pl/111/84/s542/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs542%2Fb%2F1
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
 [/us/stat/123/2299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2299
-[/us/pl/112/81/s631/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Fd%2F2
+[/us/pl/112/81/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVI
 [/us/stat/125/1460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1460
-[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVI
 [/us/stat/129/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F841
-[/us/pl/114/92/s622/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs622%2Fa
-[/us/pl/114/92/s622/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs622%2Fa%2F2
-[/us/pl/114/92/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs621
-[/us/pl/114/92/s622/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs622%2Fa%2F2
-[/us/pl/112/81/s631/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Fd%2F2
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/usc/t37/s411f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs411f
-[/us/pl/112/81/s631/e/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Fe%2F20
-[/us/pl/111/84/s542/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs542%2Fb%2F2%2FA
-[/us/pl/111/84/s631/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs631%2Fa
-[/us/pl/111/84/s631/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs631%2Fb
-[/us/pl/111/84/s542/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs542%2Fb%2F1
-[/us/pl/110/181/s632/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs632%2Fa%2F1
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/usc/t37/s401/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs401%2Fa%2F2
-[/us/pl/110/181/s632/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs632%2Fa%2F2
-[/us/pl/110/181/s632/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs632%2Fb
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/usc/t10/s1482/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1482%2Fc
-[/us/pl/108/375/s631/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs631%2Fa
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/usc/t10/s1482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1482
-[/us/pl/108/375/s631/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs631%2Fb
-[/us/pl/108/375/s631/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs631%2Fc
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/usc/t37/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs401%2Fa
 [/us/pl/103/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35
 [/us/usc/t37/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs401%2Fa
 [/us/usc/t37/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs401
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
-[/us/pl/111/84/s542/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs542%2Fc
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
 [/us/stat/123/2300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2300
 [/us/usc/t10/s1482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1482
-[/us/pl/107/107/s638/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs638%2Fc
+[/us/pl/107/107/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtVI
 [/us/stat/115/1148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1148
-[/us/pl/112/81/s631/f/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Ff%2F4%2FB
+[/us/pl/112/81/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVI
 [/us/stat/125/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1465
-[/us/pl/112/239/s1076/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F9
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1948
 [/us/usc/t37/s481f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs481f
-[/us/pl/100/456/s632/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs632%2Fc
+[/us/pl/100/456/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtVI
 [/us/stat/102/1986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1986
 [/us/usc/t37/s411h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs411h
-[/us/pl/99/145/s620/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs620%2Fb
+[/us/pl/99/145/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtVI
 [/us/stat/99/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F643
 
 

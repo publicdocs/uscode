@@ -47,7 +47,7 @@
 
     A member who elects to receive one of the benefits specified in [section 705(b) of title 10][/us/usc/t10/s705/b] as part of the extension of a tour of duty is not entitled to the special pay authorized by subsection (b)(1) for the period of the extension of duty for which the benefit under such section is provided.
 
-(Added [Pub. L. 96–579, § 5(a)(1)][/us/pl/96/579/s5/a/1], Dec. 23, 1980, [94 Stat. 3366][/us/stat/94/3366]; amended [Pub. L. 99–145, title VI, § 641(a)][/us/pl/99/145/s641/a], Nov. 8, 1985, [99 Stat. 652][/us/stat/99/652]; [Pub. L. 105–85, div. A, title VI, § 625(a)(1)][/us/pl/105/85/s625/a/1], Nov. 18, 1997, [111 Stat. 1794][/us/stat/111/1794]; [Pub. L. 107–314, div. A, title VI, § 654(b)(1)][/us/pl/107/314/s654/b/1], Dec. 2, 2002, [116 Stat. 2582][/us/stat/116/2582]; [Pub. L. 108–136, div. A, title VI, § 621(a)(1)][/us/pl/108/136/s621/a/1], (2)(A), Nov. 24, 2003, [117 Stat. 1505][/us/stat/117/1505]; [Pub. L. 109–163, div. A, title VI, § 687(b)(23)][/us/pl/109/163/s687/b/23], Jan. 6, 2006, [119 Stat. 3331][/us/stat/119/3331].)
+(Added [Pub. L. 96–579][/us/pl/96/579], § 5(a)(1), Dec. 23, 1980, [94 Stat. 3366][/us/stat/94/3366]; amended [Pub. L. 99–145, title VI][/us/pl/99/145/tVI], § 641(a), Nov. 8, 1985, [99 Stat. 652][/us/stat/99/652]; [Pub. L. 105–85, div. A, title VI][/us/pl/105/85/dA/tVI], § 625(a)(1), Nov. 18, 1997, [111 Stat. 1794][/us/stat/111/1794]; [Pub. L. 107–314, div. A, title VI][/us/pl/107/314/dA/tVI], § 654(b)(1), Dec. 2, 2002, [116 Stat. 2582][/us/stat/116/2582]; [Pub. L. 108–136, div. A, title VI][/us/pl/108/136/dA/tVI], § 621(a)(1), (2)(A), Nov. 24, 2003, [117 Stat. 1505][/us/stat/117/1505]; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 687(b)(23), Jan. 6, 2006, [119 Stat. 3331][/us/stat/119/3331].)
 
  __References in Text__ 
 
@@ -57,9 +57,9 @@
 
     2006—Subsec. (d). [Pub. L. 109–163][/us/pl/109/163] amended heading and text of subsec. (d) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to refunds required when member receives bonus payment but fails to complete agreed upon extended tour of duty.
 
-    2003—[Pub. L. 108–136, § 621(a)(2)(A)][/us/pl/108/136/s621/a/2/A], substituted “qualified members” for “qualified enlisted members” in section catchline.
+    2003—[Pub. L. 108–136][/us/pl/108/136], § 621(a)(2)(A), substituted “qualified members” for “qualified enlisted members” in section catchline.
 
-    Subsecs. (a), (b). [Pub. L. 108–136, § 621(a)(1)][/us/pl/108/136/s621/a/1], substituted “a member” for “an enlisted member” in introductory provisions.
+    Subsecs. (a), (b). [Pub. L. 108–136][/us/pl/108/136], § 621(a)(1), substituted “a member” for “an enlisted member” in introductory provisions.
 
     2002—Subsec. (a)(3). [Pub. L. 107–314][/us/pl/107/314] substituted “the continental United States” for “the 48 contiguous States and the District of Columbia”.
 
@@ -69,19 +69,19 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–85, div. A, title VI, § 625(b)][/us/pl/105/85/s625/b], Nov. 18, 1997, [111 Stat. 1795][/us/stat/111/1795], provided that: 
+[Pub. L. 105–85, div. A, title VI][/us/pl/105/85/dA/tVI], § 625(b), Nov. 18, 1997, [111 Stat. 1795][/us/stat/111/1795], provided that: 
 
 > “[Section 314 of title 37][/us/usc/t37/s314], United States Code, as amended by subsection (a), shall apply with respect to an agreement to extend a tour of duty as provided in such section executed on or after October 1, 1997.”
 
  __Effective Date of 1985 Amendment__ 
 
-[Pub. L. 99–145, title VI, § 641(b)][/us/pl/99/145/s641/b], Nov. 8, 1985, [99 Stat. 652][/us/stat/99/652], provided that: 
+[Pub. L. 99–145, title VI][/us/pl/99/145/tVI], § 641(b), Nov. 8, 1985, [99 Stat. 652][/us/stat/99/652], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1985.”
 
  __Effective Date__ 
 
-[Pub. L. 96–579, § 5(c)(1)][/us/pl/96/579/s5/c/1], Dec. 23, 1980, [94 Stat. 3367][/us/stat/94/3367], provided: 
+[Pub. L. 96–579][/us/pl/96/579], § 5(c)(1), Dec. 23, 1980, [94 Stat. 3367][/us/stat/94/3367], provided: 
 
 > “[Section 314 of title 37][/us/usc/t37/s314], United States Code, as added by subsection (a), shall take effect on the first day of the first month following the month in which this section is enacted \[Dec. 1980\] and shall apply to periods of extended duty overseas beginning before, on, or after such date, but no payment may be made under such section for any month before the first day of the first month following the month in which this section is enacted.”
 
@@ -98,31 +98,31 @@
 
 [/us/usc/t37/s303a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs303a%2Fe
 [/us/usc/t10/s705/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs705%2Fb
-[/us/pl/96/579/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F579%2Fs5%2Fa%2F1
+[/us/pl/96/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F579
 [/us/stat/94/3366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3366
-[/us/pl/99/145/s641/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs641%2Fa
+[/us/pl/99/145/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtVI
 [/us/stat/99/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F652
-[/us/pl/105/85/s625/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs625%2Fa%2F1
+[/us/pl/105/85/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVI
 [/us/stat/111/1794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1794
-[/us/pl/107/314/s654/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs654%2Fb%2F1
+[/us/pl/107/314/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtVI
 [/us/stat/116/2582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2582
-[/us/pl/108/136/s621/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs621%2Fa%2F1
+[/us/pl/108/136/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtVI
 [/us/stat/117/1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1505
-[/us/pl/109/163/s687/b/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Fb%2F23
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3331
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/pl/108/136/s621/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs621%2Fa%2F2%2FA
-[/us/pl/108/136/s621/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs621%2Fa%2F1
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
-[/us/pl/105/85/s625/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs625%2Fb
+[/us/pl/105/85/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVI
 [/us/stat/111/1795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1795
 [/us/usc/t37/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs314
-[/us/pl/99/145/s641/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs641%2Fb
+[/us/pl/99/145/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtVI
 [/us/stat/99/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F652
-[/us/pl/96/579/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F579%2Fs5%2Fc%2F1
+[/us/pl/96/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F579
 [/us/stat/94/3367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3367
 [/us/usc/t37/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs314
 [/us/pl/109/163/s687/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Fb

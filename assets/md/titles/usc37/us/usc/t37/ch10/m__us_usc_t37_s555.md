@@ -43,7 +43,7 @@
 
     (d) This section does not apply in a case to which [section 1502 of title 10][/us/usc/t10/s1502] applies.
 
-(Added [Pub. L. 89–554, § 5(b)][/us/pl/89/554/s5/b], Sept. 6, 1966, [80 Stat. 628][/us/stat/80/628]; amended [Pub. L. 102–25, title VII, § 702(b)(1)][/us/pl/102/25/s702/b/1], (c), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117]; [Pub. L. 104–106, div. A, title V, § 569(c)(1)][/us/pl/104/106/s569/c/1], Feb. 10, 1996, [110 Stat. 351][/us/stat/110/351].)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 5(b), Sept. 6, 1966, [80 Stat. 628][/us/stat/80/628]; amended [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 702(b)(1), (c), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117]; [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 569(c)(1), Feb. 10, 1996, [110 Stat. 351][/us/stat/110/351].)
 
 <table>
 
@@ -145,9 +145,9 @@ Mar. 7, 1942, ch. 166, § 9(b) (as applicable to § 5); added Aug. 29, 1957,
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–106, § 569(c)(1)(A)][/us/pl/104/106/s569/c/1/A], substituted “Except as provided in subsection (d), when” for “When”.
+    1996—Subsec. (a). [Pub. L. 104–106][/us/pl/104/106], § 569(c)(1)(A), substituted “Except as provided in subsection (d), when” for “When”.
 
-    Subsec. (d). [Pub. L. 104–106, § 569(c)(1)(B)][/us/pl/104/106/s569/c/1/B], added subsec. (d).
+    Subsec. (d). [Pub. L. 104–106][/us/pl/104/106], § 569(c)(1)(B), added subsec. (d).
 
     1991—Subsec. (b). [Pub. L. 102–25][/us/pl/102/25] struck out “of this section” after “subsection (a)” in two places.
 
@@ -160,14 +160,14 @@ Mar. 7, 1942, ch. 166, § 9(b) (as applicable to § 5); added Aug. 29, 1957,
 
 [/us/usc/t37/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs552
 [/us/usc/t10/s1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1502
-[/us/pl/89/554/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs5%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F628
-[/us/pl/102/25/s702/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs702%2Fb%2F1
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F117
-[/us/pl/104/106/s569/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs569%2Fc%2F1
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F351
-[/us/pl/104/106/s569/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs569%2Fc%2F1%2FA
-[/us/pl/104/106/s569/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs569%2Fc%2F1%2FB
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
 
 

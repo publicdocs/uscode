@@ -31,7 +31,7 @@
 
     The recoupment period for an advancement of basic pay to a member under this section shall commence on the first day of the first month beginning on or after the date on which the member receives the advanced pay.
 
-(Added [Pub. L. 108–375, div. A, title VI, § 606(a)][/us/pl/108/375/s606/a], Oct. 28, 2004, [118 Stat. 1945][/us/stat/118/1945].)
+(Added [Pub. L. 108–375, div. A, title VI][/us/pl/108/375/dA/tVI], § 606(a), Oct. 28, 2004, [118 Stat. 1945][/us/stat/118/1945].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t37/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs310
-[/us/pl/108/375/s606/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs606%2Fa
+[/us/pl/108/375/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVI
 [/us/stat/118/1945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1945
 
 

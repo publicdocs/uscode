@@ -67,7 +67,7 @@
 
     Each Secretary concerned shall prescribe regulations to carry out this section.
 
-(Added [Pub. L. 114–92, div. A, title VI, § 634(a)][/us/pl/114/92/s634/a], Nov. 25, 2015, [129 Stat. 850][/us/stat/129/850].)
+(Added [Pub. L. 114–92, div. A, title VI][/us/pl/114/92/dA/tVI], § 634(a), Nov. 25, 2015, [129 Stat. 850][/us/stat/129/850].)
 
  __Effective Date; Implementation__ 
 
@@ -82,7 +82,7 @@
 
 [/us/usc/t5/s8440e/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8440e%2Fa
 [/us/usc/t37/s373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs373
-[/us/pl/114/92/s634/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs634%2Fa
+[/us/pl/114/92/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVI
 [/us/stat/129/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F850
 [/us/pl/114/92/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs635
 [/us/usc/t5/s8432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8432

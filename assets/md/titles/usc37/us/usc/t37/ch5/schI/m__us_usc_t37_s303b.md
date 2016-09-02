@@ -33,11 +33,11 @@
 
     The period referred to in subsection (a) for completion of board certification or recertification requirements with respect to a member of the armed forces is the 180-day period (extended for such additional time as the Secretary of Defense determines to be appropriate) beginning on the date on which the member is released from the duty to which the member was assigned in support of a contingency operation.
 
-(Added [Pub. L. 102–190, div. A, title VI, § 635(a)][/us/pl/102/190/s635/a], Dec. 5, 1991, [105 Stat. 1382][/us/stat/105/1382].)
+(Added [Pub. L. 102–190, div. A, title VI][/us/pl/102/190/dA/tVI], § 635(a), Dec. 5, 1991, [105 Stat. 1382][/us/stat/105/1382].)
 
  __Operation Desert Storm Duty Assignments__ 
 
-[Pub. L. 102–25, title III, § 305][/us/pl/102/25/s305], Apr. 6, 1991, [105 Stat. 82][/us/stat/105/82], provided that:
+[Pub. L. 102–25, title III][/us/pl/102/25/tIII], § 305, Apr. 6, 1991, [105 Stat. 82][/us/stat/105/82], provided that:
 
 >     “(a)  __Certification Interrupted by Operation Desert Storm__  __.—__ 
 
@@ -64,9 +64,9 @@
 ----------
 ----------
 
-[/us/pl/102/190/s635/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs635%2Fa
+[/us/pl/102/190/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVI
 [/us/stat/105/1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1382
-[/us/pl/102/25/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs305
+[/us/pl/102/25/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtIII
 [/us/stat/105/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F82
 
 

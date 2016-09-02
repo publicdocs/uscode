@@ -25,7 +25,7 @@
 
     (4) the Secretary of Commerce, with respect to the National Oceanic and Atmospheric Administration.
 
-(Added [Pub. L. 110–181, div. A, title VI, § 661(a)(2)][/us/pl/110/181/s661/a/2], Jan. 28, 2008, [122 Stat. 178][/us/stat/122/178].)
+(Added [Pub. L. 110–181, div. A, title VI][/us/pl/110/181/dA/tVI], § 661(a)(2), Jan. 28, 2008, [122 Stat. 178][/us/stat/122/178].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/110/181/s661/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs661%2Fa%2F2
+[/us/pl/110/181/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVI
 [/us/stat/122/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F178
 
 

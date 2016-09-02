@@ -39,7 +39,7 @@
 
     Except when serving on active duty, a member who is enrolled in a Marine Corps officer candidate program which requires a baccalaureate degree as a prerequisite to being commissioned as an officer and who is not enrolled in a program established under chapter 103 of title 10 or an academy established under chapter 403, 603, or 903 of title 10 may be paid a subsistence allowance at a monthly rate prescribed under subsection (a) for a member of the Senior Reserve Officers’ Training Corps who is selected for advanced training under [section 2104 of title 10][/us/usc/t10/s2104].
 
-([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 461][/us/stat/76/461]; [Pub. L. 88–647, title II, § 202(2)][/us/pl/88/647/s202/2], Oct. 13, 1964, [78 Stat. 1070][/us/stat/78/1070]; [Pub. L. 89–51, § 3][/us/pl/89/51/s3], June 28, 1965, [79 Stat. 173][/us/stat/79/173]; [Pub. L. 89–718, § 51][/us/pl/89/718/s51], Nov. 2, 1966, [80 Stat. 1121][/us/stat/80/1121]; [Pub. L. 92–171, § 1][/us/pl/92/171/s1], Nov. 24, 1971, [85 Stat. 490][/us/stat/85/490]; [Pub. L. 95–79, title III, § 302(a)(3)][/us/pl/95/79/s302/a/3], July 30, 1977, [91 Stat. 326][/us/stat/91/326]; [Pub. L. 96–342, title VIII, § 811(a)][/us/pl/96/342/s811/a], Sept. 8, 1980, [94 Stat. 1098][/us/stat/94/1098]; [Pub. L. 96–513, title V, § 516(4)][/us/pl/96/513/s516/4], Dec. 12, 1980, [94 Stat. 2938][/us/stat/94/2938]; [Pub. L. 96–579, § 8][/us/pl/96/579/s8], Dec. 23, 1980, [94 Stat. 3368][/us/stat/94/3368]; [Pub. L. 98–94, title X, § 1003(a)(4)][/us/pl/98/94/s1003/a/4], Sept. 24, 1983, [97 Stat. 656][/us/stat/97/656]; [Pub. L. 100–456, div. A, title VI, § 633(d)][/us/pl/100/456/s633/d], Sept. 29, 1988, [102 Stat. 1987][/us/stat/102/1987]; [Pub. L. 101–189, div. A, title VI, § 653(d)][/us/pl/101/189/s653/d], Nov. 29, 1989, [103 Stat. 1462][/us/stat/103/1462]; [Pub. L. 102–25, title VII, § 702(b)(1)][/us/pl/102/25/s702/b/1], (c), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117]; [Pub. L. 103–337, div. A, title VI, § 603(a)][/us/pl/103/337/s603/a], Oct. 5, 1994, [108 Stat. 2782][/us/stat/108/2782]; [Pub. L. 106–65, div. A, title V, § 546(a)][/us/pl/106/65/s546/a], Oct. 5, 1999, [113 Stat. 608][/us/stat/113/608]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 612(b), (c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–150; [Pub. L. 107–107, div. A, title V, § 535(b)][/us/pl/107/107/s535/b], Dec. 28, 2001, [115 Stat. 1107][/us/stat/115/1107]; [Pub. L. 107–314, div. A, title X, § 1062(g)(2)][/us/pl/107/314/s1062/g/2], Dec. 2, 2002, [116 Stat. 2651][/us/stat/116/2651]; [Pub. L. 108–136, div. A, title V, § 523(a)][/us/pl/108/136/s523/a], Nov. 24, 2003, [117 Stat. 1463][/us/stat/117/1463].)
+([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 461][/us/stat/76/461]; [Pub. L. 88–647, title II][/us/pl/88/647/tII], § 202(2), Oct. 13, 1964, [78 Stat. 1070][/us/stat/78/1070]; [Pub. L. 89–51][/us/pl/89/51], § 3, June 28, 1965, [79 Stat. 173][/us/stat/79/173]; [Pub. L. 89–718][/us/pl/89/718], § 51, Nov. 2, 1966, [80 Stat. 1121][/us/stat/80/1121]; [Pub. L. 92–171][/us/pl/92/171], § 1, Nov. 24, 1971, [85 Stat. 490][/us/stat/85/490]; [Pub. L. 95–79, title III][/us/pl/95/79/tIII], § 302(a)(3), July 30, 1977, [91 Stat. 326][/us/stat/91/326]; [Pub. L. 96–342, title VIII][/us/pl/96/342/tVIII], § 811(a), Sept. 8, 1980, [94 Stat. 1098][/us/stat/94/1098]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 516(4), Dec. 12, 1980, [94 Stat. 2938][/us/stat/94/2938]; [Pub. L. 96–579][/us/pl/96/579], § 8, Dec. 23, 1980, [94 Stat. 3368][/us/stat/94/3368]; [Pub. L. 98–94, title X][/us/pl/98/94/tX], § 1003(a)(4), Sept. 24, 1983, [97 Stat. 656][/us/stat/97/656]; [Pub. L. 100–456, div. A, title VI][/us/pl/100/456/dA/tVI], § 633(d), Sept. 29, 1988, [102 Stat. 1987][/us/stat/102/1987]; [Pub. L. 101–189, div. A, title VI][/us/pl/101/189/dA/tVI], § 653(d), Nov. 29, 1989, [103 Stat. 1462][/us/stat/103/1462]; [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 702(b)(1), (c), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117]; [Pub. L. 103–337, div. A, title VI][/us/pl/103/337/dA/tVI], § 603(a), Oct. 5, 1994, [108 Stat. 2782][/us/stat/108/2782]; [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 546(a), Oct. 5, 1999, [113 Stat. 608][/us/stat/113/608]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 612(b), (c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–150; [Pub. L. 107–107, div. A, title V][/us/pl/107/107/dA/tV], § 535(b), Dec. 28, 2001, [115 Stat. 1107][/us/stat/115/1107]; [Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], § 1062(g)(2), Dec. 2, 2002, [116 Stat. 2651][/us/stat/116/2651]; [Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 523(a), Nov. 24, 2003, [117 Stat. 1463][/us/stat/117/1463].)
 
 <table>
 
@@ -125,19 +125,19 @@ Source (Statutes at Large)  </td>
 
     2003—Subsecs. (c) to (e). [Pub. L. 108–136][/us/pl/108/136] added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
-    2002—Subsec. (d). [Pub. L. 107–314][/us/pl/107/314] amended [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 612(c)(4)(B)\]. See 2000 Amendment note below.
+    2002—Subsec. (d). [Pub. L. 107–314][/us/pl/107/314] amended [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 612(c)(4)(B)\]. See 2000 Amendment note below.
 
     2001—Subsec. (c). [Pub. L. 107–107][/us/pl/107/107] inserted before period at end “, except that the rate for a cadet or midshipman who is a member of the regular component of an armed force shall be the rate of basic pay applicable to the member under [section 203 of this title][/us/usc/t37/s203]”.
 
-    2000—Subsec. (a). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 612(b), (c)(1)\], inserted heading, designated first sentence as par. (1), substituted “monthly subsistence allowance at a rate prescribed under paragraph (2)” for “subsistence allowance of $200 a month”, added par. (2), designated last sentence as par. (3), and substituted “A subsistence” for “Subsistence”.
+    2000—Subsec. (a). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 612(b), (c)(1)\], inserted heading, designated first sentence as par. (1), substituted “monthly subsistence allowance at a rate prescribed under paragraph (2)” for “subsistence allowance of $200 a month”, added par. (2), designated last sentence as par. (3), and substituted “A subsistence” for “Subsistence”.
 
-    Subsec. (b). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 612(c)(2)\], inserted heading and substituted “at a rate prescribed under subsection (a)” for “in the amount provided in subsection (a)” in text.
+    Subsec. (b). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 612(c)(2)\], inserted heading and substituted “at a rate prescribed under subsection (a)” for “in the amount provided in subsection (a)” in text.
 
-    Subsec. (c). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 612(c)(3)\], inserted heading.
+    Subsec. (c). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 612(c)(3)\], inserted heading.
 
-    Subsec. (d). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 612(c)(4)(B)\], as amended by [Pub. L. 107–314][/us/pl/107/314], substituted “a monthly rate prescribed under subsection (a)” for “the same rate as that prescribed by subsection (a)”.
+    Subsec. (d). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 612(c)(4)(B)\], as amended by [Pub. L. 107–314][/us/pl/107/314], substituted “a monthly rate prescribed under subsection (a)” for “the same rate as that prescribed by subsection (a)”.
 
-    [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 612(c)(4)(A)\], inserted heading.
+    [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 612(c)(4)(A)\], inserted heading.
 
     1999—Subsec. (a). [Pub. L. 106–65][/us/pl/106/65] substituted “$200 a month” for “$150 a month”.
 
@@ -157,17 +157,17 @@ Source (Statutes at Large)  </td>
 
     [Pub. L. 96–342][/us/pl/96/342] added subsec. (d).
 
-    1977—[Pub. L. 95–79, § 302(a)(3)(B)][/us/pl/95/79/s302/a/3/B], substituted “Members of precommissioning programs” for “Members of Senior Reserve Officers’ Training Corps” in section catchline.
+    1977—[Pub. L. 95–79][/us/pl/95/79], § 302(a)(3)(B), substituted “Members of precommissioning programs” for “Members of Senior Reserve Officers’ Training Corps” in section catchline.
 
-    Subsec. (c). [Pub. L. 95–79, § 302(a)(3)(A)][/us/pl/95/79/s302/a/3/A], substituted provisions authorizing rates of pay for cadets and midshipmen in the Senior Reserve Officers’ Training Corps and applicants for membership in the Corps to be computed under [section 203(c) of this title][/us/usc/t37/s203/c], for provisions authorizing rates of pay for members of the Senior Reserve Officers’ Training Corps to be computed under [section 201(c) of this title][/us/usc/t37/s201/c] and for applicants for membership in the Corps to be computed under [section 203 of this title][/us/usc/t37/s203] for enlisted members in pay grade E–1.
+    Subsec. (c). [Pub. L. 95–79][/us/pl/95/79], § 302(a)(3)(A), substituted provisions authorizing rates of pay for cadets and midshipmen in the Senior Reserve Officers’ Training Corps and applicants for membership in the Corps to be computed under [section 203(c) of this title][/us/usc/t37/s203/c], for provisions authorizing rates of pay for members of the Senior Reserve Officers’ Training Corps to be computed under [section 201(c) of this title][/us/usc/t37/s201/c] and for applicants for membership in the Corps to be computed under [section 203 of this title][/us/usc/t37/s203] for enlisted members in pay grade E–1.
 
-    1971—Subsec. (a). [Pub. L. 92–171, § 1(1)][/us/pl/92/171/s1/1], substituted “a subsistence allowance of $100 a month” for “subsistence allowance at the rate of not less than $40 per month or more than $50 per month”.
+    1971—Subsec. (a). [Pub. L. 92–171][/us/pl/92/171], § 1(1), substituted “a subsistence allowance of $100 a month” for “subsistence allowance at the rate of not less than $40 per month or more than $50 per month”.
 
-    Subsec. (b). [Pub. L. 92–171, § 1(2)][/us/pl/92/171/s1/2], substituted “a monthly subsistence allowance in the amount provided in subsection (a) of this section. A member enrolled in the first two years of a four-year program is entitled to receive subsistence for a maximum of twenty months. A member enrolled in the advanced course is entitled to subsistence as prescribed for a member enrolled under [section 2104 of title 10][/us/usc/t10/s2104] as prescribed in subsection (a) of this section.” for “subsistence allowance at the rate of $50 a month beginning on the day that he starts his first term of college work under that section and ending upon the completion of his instruction under that section, but not for more than four years.”
+    Subsec. (b). [Pub. L. 92–171][/us/pl/92/171], § 1(2), substituted “a monthly subsistence allowance in the amount provided in subsection (a) of this section. A member enrolled in the first two years of a four-year program is entitled to receive subsistence for a maximum of twenty months. A member enrolled in the advanced course is entitled to subsistence as prescribed for a member enrolled under [section 2104 of title 10][/us/usc/t10/s2104] as prescribed in subsection (a) of this section.” for “subsistence allowance at the rate of $50 a month beginning on the day that he starts his first term of college work under that section and ending upon the completion of his instruction under that section, but not for more than four years.”
 
-    1966—Subsec. (a). [Pub. L. 89–718, § 51(1)][/us/pl/89/718/s51/1], struck out “, United States Code,” after “[section 2104 of title 10][/us/usc/t10/s2104]”, and substituted “20” for “twenty” and “[section 456(d)(1) of title 50][/us/usc/t50/s456/d/1], appendix” for “section 6(d)(1) of the Universal Military Training and Service Act, as amended (50 U.S.C. App. 456(d)(1))”.
+    1966—Subsec. (a). [Pub. L. 89–718][/us/pl/89/718], § 51(1), struck out “, United States Code,” after “[section 2104 of title 10][/us/usc/t10/s2104]”, and substituted “20” for “twenty” and “[section 456(d)(1) of title 50][/us/usc/t50/s456/d/1], appendix” for “section 6(d)(1) of the Universal Military Training and Service Act, as amended (50 U.S.C. App. 456(d)(1))”.
 
-    Subsec. (c). [Pub. L. 89–718, § 51(2)][/us/pl/89/718/s51/2], struck out “, United States Code,” after “[section 2104(b)(6)(B) of title 10][/us/usc/t10/s2104/b/6/B]”.
+    Subsec. (c). [Pub. L. 89–718][/us/pl/89/718], § 51(2), struck out “, United States Code,” after “[section 2104(b)(6)(B) of title 10][/us/usc/t10/s2104/b/6/B]”.
 
     1965—Subsec. (a). [Pub. L. 89–51][/us/pl/89/51] substituted “subsistence allowance” and “Subsistence allowance” for “retainer pay” and “Retainer pay”, respectively.
 
@@ -181,7 +181,7 @@ Source (Statutes at Large)  </td>
 
  __Effective Date of 2002 Amendment__ 
 
-    [Pub. L. 107–314, div. A, title X, § 1062(g)][/us/pl/107/314/s1062/g], Dec. 2, 2002, [116 Stat. 2651][/us/stat/116/2651], provided that the amendment made by section 1062(g)(2) is effective as of Oct. 30, 2000, and as if included in [Pub. L. 106–398][/us/pl/106/398] as enacted.
+    [Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], § 1062(g), Dec. 2, 2002, [116 Stat. 2651][/us/stat/116/2651], provided that the amendment made by section 1062(g)(2) is effective as of Oct. 30, 2000, and as if included in [Pub. L. 106–398][/us/pl/106/398] as enacted.
 
  __Effective Date of 2000 Amendment__ 
 
@@ -189,13 +189,13 @@ Source (Statutes at Large)  </td>
 
  __Effective Date of 1999 Amendment__ 
 
-[Pub. L. 106–65, div. A, title V, § 546(b)][/us/pl/106/65/s546/b], Oct. 5, 1999, [113 Stat. 608][/us/stat/113/608], provided that: 
+[Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 546(b), Oct. 5, 1999, [113 Stat. 608][/us/stat/113/608], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1999.”
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–337, div. A, title VI, § 603(b)][/us/pl/103/337/s603/b], Oct. 5, 1994, [108 Stat. 2782][/us/stat/108/2782], provided that:
+[Pub. L. 103–337, div. A, title VI][/us/pl/103/337/dA/tVI], § 603(b), Oct. 5, 1994, [108 Stat. 2782][/us/stat/108/2782], provided that:
 
 >     “(1) Except as provided in paragraph (2), the amendments made by subsection (a) \[amending this section\] shall apply with respect to months beginning after August 31, 1995.
 
@@ -211,7 +211,7 @@ Source (Statutes at Large)  </td>
 
  __Effective Date of 1971 Amendment__ 
 
-[Pub. L. 92–171, § 2][/us/pl/92/171/s2], Nov. 24, 1971, [85 Stat. 490][/us/stat/85/490], provided that: 
+[Pub. L. 92–171][/us/pl/92/171], § 2, Nov. 24, 1971, [85 Stat. 490][/us/stat/85/490], provided that: 
 
 > “The amendments made by this Act \[amending this section\] shall become effective on July 1, 1971.”
 
@@ -221,7 +221,7 @@ Source (Statutes at Large)  </td>
 
  __Subsistence Allowances for Members of the Marine Corps Officer Candidate Programs__ 
 
-    [Pub. L. 92–172][/us/pl/92/172], Nov. 24, 1971, [85 Stat. 491][/us/stat/85/491], as amended by [Pub. L. 94–361, title VI, § 604][/us/pl/94/361/s604], July 14, 1976, [90 Stat. 929][/us/stat/90/929]; [Pub. L. 95–79, title VIII, § 806][/us/pl/95/79/s806], July 30, 1977, [91 Stat. 334][/us/stat/91/334]; [Pub. L. 95–485, title VIII, § 803][/us/pl/95/485/s803], Oct. 20, 1978, [92 Stat. 1620][/us/stat/92/1620], which provided that until Sept. 30, 1980, except when on active duty, a member enrolled in a Marine Corps officer candidate program which required a baccalaureate degree as a prerequisite to being commissioned as a regular or reserve officer, and who was not enrolled in a program or an academy established under chapter 103, 403, 603, or 903 of Title 10, Armed Forces, could be paid a subsistence allowance at the same rate as that prescribed by subsec. (a) of this section, was repealed by [Pub. L. 96–342, title VIII, § 811(b)][/us/pl/96/342/s811/b], Sept. 8, 1980, [94 Stat. 1098][/us/stat/94/1098]. See subsec. (d) of this section.
+    [Pub. L. 92–172][/us/pl/92/172], Nov. 24, 1971, [85 Stat. 491][/us/stat/85/491], as amended by [Pub. L. 94–361, title VI][/us/pl/94/361/tVI], § 604, July 14, 1976, [90 Stat. 929][/us/stat/90/929]; [Pub. L. 95–79, title VIII][/us/pl/95/79/tVIII], § 806, July 30, 1977, [91 Stat. 334][/us/stat/91/334]; [Pub. L. 95–485, title VIII][/us/pl/95/485/tVIII], § 803, Oct. 20, 1978, [92 Stat. 1620][/us/stat/92/1620], which provided that until Sept. 30, 1980, except when on active duty, a member enrolled in a Marine Corps officer candidate program which required a baccalaureate degree as a prerequisite to being commissioned as a regular or reserve officer, and who was not enrolled in a program or an academy established under chapter 103, 403, 603, or 903 of Title 10, Armed Forces, could be paid a subsistence allowance at the same rate as that prescribed by subsec. (a) of this section, was repealed by [Pub. L. 96–342, title VIII][/us/pl/96/342/tVIII], § 811(b), Sept. 8, 1980, [94 Stat. 1098][/us/stat/94/1098]. See subsec. (d) of this section.
 
 ----------
 
@@ -240,54 +240,54 @@ Source (Statutes at Large)  </td>
 [/us/usc/t10/s2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2104
 [/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F461
-[/us/pl/88/647/s202/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F647%2Fs202%2F2
+[/us/pl/88/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F647%2FtII
 [/us/stat/78/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1070
-[/us/pl/89/51/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F51%2Fs3
+[/us/pl/89/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F51
 [/us/stat/79/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F173
-[/us/pl/89/718/s51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs51
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1121
-[/us/pl/92/171/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F171%2Fs1
+[/us/pl/92/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F171
 [/us/stat/85/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F490
-[/us/pl/95/79/s302/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F79%2Fs302%2Fa%2F3
+[/us/pl/95/79/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F79%2FtIII
 [/us/stat/91/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F326
-[/us/pl/96/342/s811/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2Fs811%2Fa
+[/us/pl/96/342/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2FtVIII
 [/us/stat/94/1098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1098
-[/us/pl/96/513/s516/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs516%2F4
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2938
-[/us/pl/96/579/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F579%2Fs8
+[/us/pl/96/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F579
 [/us/stat/94/3368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3368
-[/us/pl/98/94/s1003/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1003%2Fa%2F4
+[/us/pl/98/94/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2FtX
 [/us/stat/97/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F656
-[/us/pl/100/456/s633/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs633%2Fd
+[/us/pl/100/456/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtVI
 [/us/stat/102/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1987
-[/us/pl/101/189/s653/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs653%2Fd
+[/us/pl/101/189/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVI
 [/us/stat/103/1462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1462
-[/us/pl/102/25/s702/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs702%2Fb%2F1
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F117
-[/us/pl/103/337/s603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs603%2Fa
+[/us/pl/103/337/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtVI
 [/us/stat/108/2782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2782
-[/us/pl/106/65/s546/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs546%2Fa
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F608
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/107/s535/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs535%2Fb
+[/us/pl/107/107/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtV
 [/us/stat/115/1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1107
-[/us/pl/107/314/s1062/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1062%2Fg%2F2
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2651
-[/us/pl/108/136/s523/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs523%2Fa
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1463
 [/us/usc/t50/s3806/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3806%2Fd%2F1
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/usc/t37/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs203
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
@@ -299,18 +299,18 @@ Source (Statutes at Large)  </td>
 [/us/usc/t50/s456/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs456%2Fd%2F1
 [/us/pl/96/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F579
 [/us/pl/96/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342
-[/us/pl/95/79/s302/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F79%2Fs302%2Fa%2F3%2FB
-[/us/pl/95/79/s302/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F79%2Fs302%2Fa%2F3%2FA
+[/us/pl/95/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F79
+[/us/pl/95/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F79
 [/us/usc/t37/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs203%2Fc
 [/us/usc/t37/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs201%2Fc
 [/us/usc/t37/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs203
-[/us/pl/92/171/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F171%2Fs1%2F1
-[/us/pl/92/171/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F171%2Fs1%2F2
+[/us/pl/92/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F171
+[/us/pl/92/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F171
 [/us/usc/t10/s2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2104
-[/us/pl/89/718/s51/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs51%2F1
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/usc/t10/s2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2104
 [/us/usc/t50/s456/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs456%2Fd%2F1
-[/us/pl/89/718/s51/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs51%2F2
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/usc/t10/s2104/b/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2104%2Fb%2F6%2FB
 [/us/pl/89/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F51
 [/us/pl/89/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F51
@@ -328,15 +328,15 @@ Source (Statutes at Large)  </td>
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/108/136/s523/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs523%2Fc
 [/us/usc/t10/s2103a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2103a
-[/us/pl/107/314/s1062/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1062%2Fg
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2651
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/usc/t37/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs203
-[/us/pl/106/65/s546/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs546%2Fb
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F608
-[/us/pl/103/337/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs603%2Fb
+[/us/pl/103/337/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtVI
 [/us/stat/108/2782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2782
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
 [/us/pl/100/456/s633/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs633%2Fe
@@ -344,20 +344,20 @@ Source (Statutes at Large)  </td>
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701%2Fb%2F3
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/92/171/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F171%2Fs2
+[/us/pl/92/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F171
 [/us/stat/85/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F490
 [/us/pl/89/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F51
 [/us/pl/89/51/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F51%2Fs4
 [/us/usc/t10/s2109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2109
 [/us/pl/92/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F172
 [/us/stat/85/491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F491
-[/us/pl/94/361/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F361%2Fs604
+[/us/pl/94/361/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F361%2FtVI
 [/us/stat/90/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F929
-[/us/pl/95/79/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F79%2Fs806
+[/us/pl/95/79/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F79%2FtVIII
 [/us/stat/91/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F334
-[/us/pl/95/485/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F485%2Fs803
+[/us/pl/95/485/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F485%2FtVIII
 [/us/stat/92/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1620
-[/us/pl/96/342/s811/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2Fs811%2Fb
+[/us/pl/96/342/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2FtVIII
 [/us/stat/94/1098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1098
 
 

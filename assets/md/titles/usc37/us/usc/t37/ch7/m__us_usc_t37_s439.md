@@ -73,7 +73,7 @@
 
     The Secretary of Defense (or the Secretary of Homeland Security, with respect to the Coast Guard) shall prescribe regulations to carry out this section.
 
-(Added [Pub. L. 111–84, div. A, title VI, § 603(a)][/us/pl/111/84/s603/a], Oct. 28, 2009, [123 Stat. 2348][/us/stat/123/2348]; amended [Pub. L. 111–383, div. A, title VI, § 634][/us/pl/111/383/s634], Jan. 7, 2011, [124 Stat. 4241][/us/stat/124/4241].)
+(Added [Pub. L. 111–84, div. A, title VI][/us/pl/111/84/dA/tVI], § 603(a), Oct. 28, 2009, [123 Stat. 2348][/us/stat/123/2348]; amended [Pub. L. 111–383, div. A, title VI][/us/pl/111/383/dA/tVI], § 634, Jan. 7, 2011, [124 Stat. 4241][/us/stat/124/4241].)
 
  __Amendments__ 
 
@@ -90,9 +90,9 @@
 [/us/usc/t38/s1720G/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1720G%2Fa%2F3
 [/us/usc/t38/s1114/r/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1114%2Fr%2F2
 [/us/usc/t38/s1114/r/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1114%2Fr%2F2
-[/us/pl/111/84/s603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs603%2Fa
+[/us/pl/111/84/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVI
 [/us/stat/123/2348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2348
-[/us/pl/111/383/s634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs634
+[/us/pl/111/383/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVI
 [/us/stat/124/4241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4241
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 

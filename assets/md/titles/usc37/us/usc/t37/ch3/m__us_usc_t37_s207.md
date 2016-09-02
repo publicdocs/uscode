@@ -25,7 +25,7 @@
 
     (e) The director of the Coast Guard Band is entitled to the basic pay of an officer in the grade in which he is serving. However, his basic pay may not be less than that to which he was entitled at the time of his appointment as director.
 
-([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 460][/us/stat/76/460]; [Pub. L. 89–189, § 2][/us/pl/89/189/s2], Sept. 17, 1965, [79 Stat. 820][/us/stat/79/820]; [Pub. L. 95–551, § 3(b)(1)][/us/pl/95/551/s3/b/1], Oct. 30, 1978, [92 Stat. 2069][/us/stat/92/2069].)
+([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 460][/us/stat/76/460]; [Pub. L. 89–189][/us/pl/89/189], § 2, Sept. 17, 1965, [79 Stat. 820][/us/stat/79/820]; [Pub. L. 95–551][/us/pl/95/551], § 3(b)(1), Oct. 30, 1978, [92 Stat. 2069][/us/stat/92/2069].)
 
 <table>
 
@@ -167,9 +167,9 @@ Source (Statutes at Large)  </td>
 [/us/usc/t10/s6222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6222
 [/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F460
-[/us/pl/89/189/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F189%2Fs2
+[/us/pl/89/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F189
 [/us/stat/79/820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F820
-[/us/pl/95/551/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F551%2Fs3%2Fb%2F1
+[/us/pl/95/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F551
 [/us/stat/92/2069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2069
 [/us/usc/t10/s3536/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3536%2Fb
 [/us/usc/t10/s4338/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4338%2Fa

@@ -23,7 +23,7 @@
 
     That due date is prescribed subject to the power of the Secretary of the Treasury or his delegate to extend the time for filing the return or paying the tax, as in other cases, and to assess and collect the tax as provided by sections 6851, 6861, and 6871 of the Internal Revenue Code of 1986 in cases in which the assessment or collection is jeopardized and in cases of bankruptcy or receivership.
 
-(Added [Pub. L. 89–554, § 5(b)][/us/pl/89/554/s5/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631]; amended [Pub. L. 96–513, title V, § 516(16)][/us/pl/96/513/s516/16], Dec. 12, 1980, [94 Stat. 2939][/us/stat/94/2939]; [Pub. L. 100–26, § 8(c)][/us/pl/100/26/s8/c], Apr. 21, 1987, [101 Stat. 285][/us/stat/101/285].)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 5(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631]; amended [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 516(16), Dec. 12, 1980, [94 Stat. 2939][/us/stat/94/2939]; [Pub. L. 100–26][/us/pl/100/26], § 8(c), Apr. 21, 1987, [101 Stat. 285][/us/stat/101/285].)
 
 <table>
 
@@ -96,11 +96,11 @@ Mar. 7, 1942, ch. 166, § 13, 56 Stat. 146; Aug. 8, 1947, ch. 515, § 6, 61 
 ----------
 ----------
 
-[/us/pl/89/554/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs5%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
-[/us/pl/96/513/s516/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs516%2F16
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2939
-[/us/pl/100/26/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs8%2Fc
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F285
 [/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513

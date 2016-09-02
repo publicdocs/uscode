@@ -37,7 +37,7 @@
 
     A person who, after signing an agreement under subsection (a), is not commissioned as an officer of the armed forces, does not become licensed as a dentist, or does not complete the period of active duty specified in the agreement shall be subject to the repayment provisions of [section 303a(e) of this title][/us/usc/t37/s303a/e].
 
-(Added [Pub. L. 104–201, div. A, title VI, § 615(c)(1)][/us/pl/104/201/s615/c/1], Sept. 23, 1996, [110 Stat. 2545][/us/stat/110/2545]; amended [Pub. L. 107–107, div. A, title VI, § 618][/us/pl/107/107/s618], Dec. 28, 2001, [115 Stat. 1137][/us/stat/115/1137]; [Pub. L. 107–314, div. A, title VI, § 612(f)][/us/pl/107/314/s612/f], Dec. 2, 2002, [116 Stat. 2568][/us/stat/116/2568]; [Pub. L. 108–136, div. A, title VI, § 612(f)][/us/pl/108/136/s612/f], Nov. 24, 2003, [117 Stat. 1501][/us/stat/117/1501]; [Pub. L. 108–375, div. A, title VI, § 612(f)][/us/pl/108/375/s612/f], Oct. 28, 2004, [118 Stat. 1947][/us/stat/118/1947]; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163], §§ 622(f), 687(b)(11), Jan. 6, 2006, [119 Stat. 3294][/us/stat/119/3294], 3329; [Pub. L. 109–364, div. A, title VI][/us/pl/109/364], §§ 612(f), 617(a), Oct. 17, 2006, [120 Stat. 2248][/us/stat/120/2248], 2249; [Pub. L. 110–181, div. A, title VI, § 612(f)][/us/pl/110/181/s612/f], Jan. 28, 2008, [122 Stat. 148][/us/stat/122/148]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 612(f), Oct. 14, 2008, [122 Stat. 4484][/us/stat/122/4484]; [Pub. L. 111–84, div. A, title VI, § 612(b)(5)][/us/pl/111/84/s612/b/5], Oct. 28, 2009, [123 Stat. 2353][/us/stat/123/2353]; [Pub. L. 111–383, div. A, title VI, § 612(b)(5)][/us/pl/111/383/s612/b/5], Jan. 7, 2011, [124 Stat. 4236][/us/stat/124/4236]; [Pub. L. 112–81, div. A, title VI, § 612(b)(5)][/us/pl/112/81/s612/b/5], Dec. 31, 2011, [125 Stat. 1449][/us/stat/125/1449]; [Pub. L. 112–239, div. A, title VI, § 612(b)(5)][/us/pl/112/239/s612/b/5], Jan. 2, 2013, [126 Stat. 1776][/us/stat/126/1776]; [Pub. L. 113–66, div. A, title VI, § 612(b)(5)][/us/pl/113/66/s612/b/5], Dec. 26, 2013, [127 Stat. 780][/us/stat/127/780]; [Pub. L. 113–291, div. A, title VI, § 612(b)(5)][/us/pl/113/291/s612/b/5], Dec. 19, 2014, [128 Stat. 3400][/us/stat/128/3400]; [Pub. L. 114–92, div. A, title VI, § 612(b)(5)][/us/pl/114/92/s612/b/5], Nov. 25, 2015, [129 Stat. 838][/us/stat/129/838].)
+(Added [Pub. L. 104–201, div. A, title VI][/us/pl/104/201/dA/tVI], § 615(c)(1), Sept. 23, 1996, [110 Stat. 2545][/us/stat/110/2545]; amended [Pub. L. 107–107, div. A, title VI][/us/pl/107/107/dA/tVI], § 618, Dec. 28, 2001, [115 Stat. 1137][/us/stat/115/1137]; [Pub. L. 107–314, div. A, title VI][/us/pl/107/314/dA/tVI], § 612(f), Dec. 2, 2002, [116 Stat. 2568][/us/stat/116/2568]; [Pub. L. 108–136, div. A, title VI][/us/pl/108/136/dA/tVI], § 612(f), Nov. 24, 2003, [117 Stat. 1501][/us/stat/117/1501]; [Pub. L. 108–375, div. A, title VI][/us/pl/108/375/dA/tVI], § 612(f), Oct. 28, 2004, [118 Stat. 1947][/us/stat/118/1947]; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], §§ 622(f), 687(b)(11), Jan. 6, 2006, [119 Stat. 3294][/us/stat/119/3294], 3329; [Pub. L. 109–364, div. A, title VI][/us/pl/109/364/dA/tVI], §§ 612(f), 617(a), Oct. 17, 2006, [120 Stat. 2248][/us/stat/120/2248], 2249; [Pub. L. 110–181, div. A, title VI][/us/pl/110/181/dA/tVI], § 612(f), Jan. 28, 2008, [122 Stat. 148][/us/stat/122/148]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 612(f), Oct. 14, 2008, [122 Stat. 4484][/us/stat/122/4484]; [Pub. L. 111–84, div. A, title VI][/us/pl/111/84/dA/tVI], § 612(b)(5), Oct. 28, 2009, [123 Stat. 2353][/us/stat/123/2353]; [Pub. L. 111–383, div. A, title VI][/us/pl/111/383/dA/tVI], § 612(b)(5), Jan. 7, 2011, [124 Stat. 4236][/us/stat/124/4236]; [Pub. L. 112–81, div. A, title VI][/us/pl/112/81/dA/tVI], § 612(b)(5), Dec. 31, 2011, [125 Stat. 1449][/us/stat/125/1449]; [Pub. L. 112–239, div. A, title VI][/us/pl/112/239/dA/tVI], § 612(b)(5), Jan. 2, 2013, [126 Stat. 1776][/us/stat/126/1776]; [Pub. L. 113–66, div. A, title VI][/us/pl/113/66/dA/tVI], § 612(b)(5), Dec. 26, 2013, [127 Stat. 780][/us/stat/127/780]; [Pub. L. 113–291, div. A, title VI][/us/pl/113/291/dA/tVI], § 612(b)(5), Dec. 19, 2014, [128 Stat. 3400][/us/stat/128/3400]; [Pub. L. 114–92, div. A, title VI][/us/pl/114/92/dA/tVI], § 612(b)(5), Nov. 25, 2015, [129 Stat. 838][/us/stat/129/838].)
 
  __Amendments__ 
 
@@ -59,13 +59,13 @@
 
     [Pub. L. 110–181][/us/pl/110/181] substituted “December 31, 2008” for “December 31, 2007”.
 
-    2006—Subsec. (a)(1). [Pub. L. 109–364, § 612(f)][/us/pl/109/364/s612/f], substituted “December 31, 2007” for “December 31, 2006”.
+    2006—Subsec. (a)(1). [Pub. L. 109–364][/us/pl/109/364], § 612(f), substituted “December 31, 2007” for “December 31, 2006”.
 
-    [Pub. L. 109–163, § 622(f)][/us/pl/109/163/s622/f], substituted “December 31, 2006” for “December 31, 2005”.
+    [Pub. L. 109–163][/us/pl/109/163], § 622(f), substituted “December 31, 2006” for “December 31, 2005”.
 
-    Subsec. (a)(2). [Pub. L. 109–364, § 617(a)][/us/pl/109/364/s617/a], substituted “$200,000” for “$30,000”.
+    Subsec. (a)(2). [Pub. L. 109–364][/us/pl/109/364], § 617(a), substituted “$200,000” for “$30,000”.
 
-    Subsec. (d). [Pub. L. 109–163, § 687(b)(11)][/us/pl/109/163/s687/b/11], amended heading and text of subsec. (d) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to refunds required when officer fails to become and remain certified or licensed as dentist or fails to complete total period of active duty.
+    Subsec. (d). [Pub. L. 109–163][/us/pl/109/163], § 687(b)(11), amended heading and text of subsec. (d) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to refunds required when officer fails to become and remain certified or licensed as dentist or fails to complete total period of active duty.
 
     2004—Subsec. (a)(1). [Pub. L. 108–375][/us/pl/108/375] substituted “December 31, 2005” for “December 31, 2004”.
 
@@ -81,7 +81,7 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–364, div. A, title VI, § 617(e)][/us/pl/109/364/s617/e], Oct. 17, 2006, [120 Stat. 2251][/us/stat/120/2251], provided that: 
+[Pub. L. 109–364, div. A, title VI][/us/pl/109/364/dA/tVI], § 617(e), Oct. 17, 2006, [120 Stat. 2251][/us/stat/120/2251], provided that: 
 
 > “The amendments made by this section \[enacting sections 302k and 302l of this title and amending this section\] shall take effect on October 1, 2006, and shall apply to agreements—
 
@@ -101,37 +101,37 @@
 ----------
 
 [/us/usc/t37/s303a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs303a%2Fe
-[/us/pl/104/201/s615/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs615%2Fc%2F1
+[/us/pl/104/201/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtVI
 [/us/stat/110/2545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2545
-[/us/pl/107/107/s618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs618
+[/us/pl/107/107/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtVI
 [/us/stat/115/1137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1137
-[/us/pl/107/314/s612/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs612%2Ff
+[/us/pl/107/314/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtVI
 [/us/stat/116/2568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2568
-[/us/pl/108/136/s612/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs612%2Ff
+[/us/pl/108/136/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtVI
 [/us/stat/117/1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1501
-[/us/pl/108/375/s612/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs612%2Ff
+[/us/pl/108/375/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVI
 [/us/stat/118/1947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1947
-[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3294
-[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVI
 [/us/stat/120/2248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2248
-[/us/pl/110/181/s612/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs612%2Ff
+[/us/pl/110/181/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVI
 [/us/stat/122/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F148
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4484
-[/us/pl/111/84/s612/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs612%2Fb%2F5
+[/us/pl/111/84/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVI
 [/us/stat/123/2353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2353
-[/us/pl/111/383/s612/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs612%2Fb%2F5
+[/us/pl/111/383/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVI
 [/us/stat/124/4236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4236
-[/us/pl/112/81/s612/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs612%2Fb%2F5
+[/us/pl/112/81/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVI
 [/us/stat/125/1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1449
-[/us/pl/112/239/s612/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs612%2Fb%2F5
+[/us/pl/112/239/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVI
 [/us/stat/126/1776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1776
-[/us/pl/113/66/s612/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs612%2Fb%2F5
+[/us/pl/113/66/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtVI
 [/us/stat/127/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F780
-[/us/pl/113/291/s612/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs612%2Fb%2F5
+[/us/pl/113/291/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVI
 [/us/stat/128/3400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3400
-[/us/pl/114/92/s612/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs612%2Fb%2F5
+[/us/pl/114/92/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVI
 [/us/stat/129/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F838
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
@@ -142,10 +142,10 @@
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/pl/109/364/s612/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs612%2Ff
-[/us/pl/109/163/s622/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs622%2Ff
-[/us/pl/109/364/s617/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs617%2Fa
-[/us/pl/109/163/s687/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Fb%2F11
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
@@ -153,7 +153,7 @@
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/110/181/s610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs610
 [/us/usc/t10/s2130a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2130a
-[/us/pl/109/364/s617/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs617%2Fe
+[/us/pl/109/364/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVI
 [/us/stat/120/2251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2251
 [/us/usc/t37/s302h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs302h
 [/us/pl/109/163/s687/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Fb

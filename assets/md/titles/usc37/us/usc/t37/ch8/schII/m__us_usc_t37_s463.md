@@ -35,7 +35,7 @@
 
         (3) The electronic processing of claims under this subsection shall be subject to the regulations prescribed by the Secretary of Defense under [section 464 of this title][/us/usc/t37/s464] which shall apply uniformly to all members of the uniformed services and, to the extent practicable, to all other authorized travelers.
 
-(Added [Pub. L. 112–81, div. A, title VI, § 631(b)][/us/pl/112/81/s631/b], Dec. 31, 2011, [125 Stat. 1459][/us/stat/125/1459].)
+(Added [Pub. L. 112–81, div. A, title VI][/us/pl/112/81/dA/tVI], § 631(b), Dec. 31, 2011, [125 Stat. 1459][/us/stat/125/1459].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/usc/t37/s464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs464
-[/us/pl/112/81/s631/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Fb
+[/us/pl/112/81/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVI
 [/us/stat/125/1459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1459
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 

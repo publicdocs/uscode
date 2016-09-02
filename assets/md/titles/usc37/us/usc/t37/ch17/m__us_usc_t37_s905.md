@@ -19,7 +19,7 @@
 
     (b) A reserve officer who is promoted under [section 14308(b) of title 10][/us/usc/t10/s14308/b] to the grade of lieutenant (junior grade) in the Navy Reserve or first lieutenant in the Marine Corps Reserve is entitled to the pay and allowances of the higher grade for duty performed from the date given him as his date of rank.
 
-([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 488][/us/stat/76/488]; [Pub. L. 95–377, § 9][/us/pl/95/377/s9], Sept. 19, 1978, [92 Stat. 721][/us/stat/92/721]; [Pub. L. 96–513, title IV, § 403(b)][/us/pl/96/513/s403/b], Dec. 12, 1980, [94 Stat. 2904][/us/stat/94/2904]; [Pub. L. 103–337, div. A, title XVI, § 1676(b)(3)][/us/pl/103/337/s1676/b/3], Oct. 5, 1994, [108 Stat. 3019][/us/stat/108/3019]; [Pub. L. 109–163, div. A, title V, § 515(d)(1)(F)][/us/pl/109/163/s515/d/1/F], Jan. 6, 2006, [119 Stat. 3236][/us/stat/119/3236].)
+([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 488][/us/stat/76/488]; [Pub. L. 95–377][/us/pl/95/377], § 9, Sept. 19, 1978, [92 Stat. 721][/us/stat/92/721]; [Pub. L. 96–513, title IV][/us/pl/96/513/tIV], § 403(b), Dec. 12, 1980, [94 Stat. 2904][/us/stat/94/2904]; [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1676(b)(3), Oct. 5, 1994, [108 Stat. 3019][/us/stat/108/3019]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 515(d)(1)(F), Jan. 6, 2006, [119 Stat. 3236][/us/stat/119/3236].)
 
 <table>
 
@@ -213,9 +213,9 @@ Source (Statutes at Large)  </td>
 
     2006—[Pub. L. 109–163][/us/pl/109/163] substituted “Navy Reserve” for “Naval Reserve” in two places.
 
-    1994—Subsec. (a). [Pub. L. 103–337, § 1676(b)(3)(A)][/us/pl/103/337/s1676/b/3/A], substituted “chapter 1405” for “chapter 549”.
+    1994—Subsec. (a). [Pub. L. 103–337][/us/pl/103/337], § 1676(b)(3)(A), substituted “chapter 1405” for “chapter 549”.
 
-    Subsec. (b). [Pub. L. 103–337, § 1676(b)(3)(B)][/us/pl/103/337/s1676/b/3/B], substituted “section 14308(b)” for “section 5908”.
+    Subsec. (b). [Pub. L. 103–337][/us/pl/103/337], § 1676(b)(3)(B), substituted “section 14308(b)” for “section 5908”.
 
     1980—[Pub. L. 96–513][/us/pl/96/513] substituted “Reserve officers of the Navy or Marine Corps not on the active-duty list: effective date of pay and allowances” for “Officers of Navy or Marine Corps not covered by [section 904 of this title][/us/usc/t37/s904]: effective date of beginning of pay and allowances” in section catchline, and generally revised and restructured section, and as part of such restructuring struck out former subsec. (a), redesignated former subsecs. (b) and (c) as subsecs. (a) and (b), respectively, and, in subsec. (a) as so redesignated, struck out second sentence which related to establishment of an officer’s professional and moral qualifications, and struck out former subsecs. (d) to (h).
 
@@ -243,17 +243,17 @@ Source (Statutes at Large)  </td>
 [/us/usc/t10/s14308/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14308%2Fb
 [/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F488
-[/us/pl/95/377/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F377%2Fs9
+[/us/pl/95/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F377
 [/us/stat/92/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F721
-[/us/pl/96/513/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs403%2Fb
+[/us/pl/96/513/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtIV
 [/us/stat/94/2904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2904
-[/us/pl/103/337/s1676/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1676%2Fb%2F3
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3019
-[/us/pl/109/163/s515/d/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fd%2F1%2FF
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3236
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/pl/103/337/s1676/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1676%2Fb%2F3%2FA
-[/us/pl/103/337/s1676/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1676%2Fb%2F3%2FB
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/usc/t37/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs904
 [/us/pl/95/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F377

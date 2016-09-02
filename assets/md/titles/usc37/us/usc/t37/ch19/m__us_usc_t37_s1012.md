@@ -17,7 +17,7 @@
 
     Amounts appropriated for the pay, under subsections (a), (b), and (d) of section 206, section 301(f), section 402(e), and [section 1002 of this title][/us/usc/t37/s1002], of enlisted members of the Army National Guard of the United States or the Air National Guard of the United States for attending regular periods of duty and instruction shall be disbursed and accounted for by the Secretary of Defense. All such disbursements shall be made for 3-month periods for units of the Army National Guard or Air National Guard under regulations prescribed by the Secretary of Defense, and on pay rolls prepared and authenticated as prescribed in those regulations.
 
-(Added [Pub. L. 97–258, § 2(i)(2)(B)][/us/pl/97/258/s2/i/2/B], Sept. 13, 1982, [96 Stat. 1061][/us/stat/96/1061]; amended [Pub. L. 99–145, title XIII, § 1303(b)(13)(A)][/us/pl/99/145/s1303/b/13/A], (B), Nov. 8, 1985, [99 Stat. 741][/us/stat/99/741]; [Pub. L. 104–106, div. A, title VI, § 602(c)(2)][/us/pl/104/106/s602/c/2], title IX, § 913(c)(1), Feb. 10, 1996, [110 Stat. 357][/us/stat/110/357], 411; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(b)(5)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–292.)
+(Added [Pub. L. 97–258][/us/pl/97/258], § 2(i)(2)(B), Sept. 13, 1982, [96 Stat. 1061][/us/stat/96/1061]; amended [Pub. L. 99–145, title XIII][/us/pl/99/145/tXIII], § 1303(b)(13)(A), (B), Nov. 8, 1985, [99 Stat. 741][/us/stat/99/741]; [Pub. L. 104–106, div. A, title VI][/us/pl/104/106/dA/tVI], § 602(c)(2), title IX, § 913(c)(1), Feb. 10, 1996, [110 Stat. 357][/us/stat/110/357], 411; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1087(b)(5)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–292.)
 
 <table>
 
@@ -75,7 +75,7 @@ Aug. 10, 1956, ch. 1041, § 31, 70A Stat. 632.  </td>
 
  __Effective Date of 1985 Amendment__ 
 
-[Pub. L. 99–145, title XIII, § 1303(b)(13)(D)][/us/pl/99/145/s1303/b/13/D], Nov. 8, 1985, [99 Stat. 741][/us/stat/99/741], provided that: 
+[Pub. L. 99–145, title XIII][/us/pl/99/145/tXIII], § 1303(b)(13)(D), Nov. 8, 1985, [99 Stat. 741][/us/stat/99/741], provided that: 
 
 > “The amendments made by this paragraph \[amending this section\] shall take effect as if included in the enactment of [section 2(i) of Public Law 97–258][/us/pl/97/258/s2/i] \[enacting this section\].”
 
@@ -87,19 +87,19 @@ Aug. 10, 1956, ch. 1041, § 31, 70A Stat. 632.  </td>
 ----------
 
 [/us/usc/t37/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs1002
-[/us/pl/97/258/s2/i/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs2%2Fi%2F2%2FB
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1061
-[/us/pl/99/145/s1303/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1303%2Fb%2F13%2FA
+[/us/pl/99/145/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXIII
 [/us/stat/99/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F741
-[/us/pl/104/106/s602/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs602%2Fc%2F2
+[/us/pl/104/106/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtVI
 [/us/stat/110/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F357
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 [/us/usc/t37/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs1002
-[/us/pl/99/145/s1303/b/13/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1303%2Fb%2F13%2FD
+[/us/pl/99/145/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXIII
 [/us/stat/99/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F741
 [/us/pl/97/258/s2/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs2%2Fi
 

@@ -17,7 +17,7 @@
 
     Under regulations prescribed by the Secretary of Commerce, commissioned officers of the National Oceanic and Atmospheric Administration may make allotments or assignments of their pay.
 
-([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 485][/us/stat/76/485]; [Pub. L. 89–718, § 49(a)(1)][/us/pl/89/718/s49/a/1], Nov. 2, 1966, [80 Stat. 1121][/us/stat/80/1121]; [Pub. L. 96–513, title V, § 516(18)(A)][/us/pl/96/513/s516/18/A], (B), Dec. 12, 1980, [94 Stat. 2939][/us/stat/94/2939].)
+([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 485][/us/stat/76/485]; [Pub. L. 89–718][/us/pl/89/718], § 49(a)(1), Nov. 2, 1966, [80 Stat. 1121][/us/stat/80/1121]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 516(18)(A), (B), Dec. 12, 1980, [94 Stat. 2939][/us/stat/94/2939].)
 
 <table>
 
@@ -82,9 +82,9 @@ Mar. 4, 1907, ch. 2918, § 1 (10th par. under “Coast and Geodetic Survey”)
 
 [/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F485
-[/us/pl/89/718/s49/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs49%2Fa%2F1
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1121
-[/us/pl/96/513/s516/18/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs516%2F18%2FA
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2939
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718

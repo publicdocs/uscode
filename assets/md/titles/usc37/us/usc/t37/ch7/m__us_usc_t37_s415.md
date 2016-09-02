@@ -39,7 +39,7 @@
 
         An officer is not entitled to more than one allowance under this subsection.
 
-([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 477][/us/stat/76/477]; [Pub. L. 88–647, title II, § 202(3)][/us/pl/88/647/s202/3], Oct. 13, 1964, [78 Stat. 1070][/us/stat/78/1070]; [Pub. L. 89–444, § 2(1)][/us/pl/89/444/s2/1], June 9, 1966, [80 Stat. 198][/us/stat/80/198]; [Pub. L. 89–718, § 63][/us/pl/89/718/s63], Nov. 2, 1966, [80 Stat. 1123][/us/stat/80/1123]; [Pub. L. 90–83, § 5(1)][/us/pl/90/83/s5/1], Sept. 11, 1967, [81 Stat. 221][/us/stat/81/221]; [Pub. L. 91–278, § 3(3)][/us/pl/91/278/s3/3], June 12, 1970, [84 Stat. 306][/us/stat/84/306]; [Pub. L. 96–76, title III, § 313(c)][/us/pl/96/76/s313/c], Sept. 29, 1979, [93 Stat. 586][/us/stat/93/586]; [Pub. L. 96–513, title IV, § 412][/us/pl/96/513/s412], Dec. 12, 1980, [94 Stat. 2905][/us/stat/94/2905]; [Pub. L. 97–22, § 10(c)][/us/pl/97/22/s10/c], July 10, 1981, [95 Stat. 137][/us/stat/95/137]; [Pub. L. 97–60, title I, § 131(a)][/us/pl/97/60/s131/a], Oct. 14, 1981, [95 Stat. 1005][/us/stat/95/1005]; [Pub. L. 102–25, title VII, § 702(b)(1)][/us/pl/102/25/s702/b/1], (c), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 610(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–150.)
+([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 477][/us/stat/76/477]; [Pub. L. 88–647, title II][/us/pl/88/647/tII], § 202(3), Oct. 13, 1964, [78 Stat. 1070][/us/stat/78/1070]; [Pub. L. 89–444][/us/pl/89/444], § 2(1), June 9, 1966, [80 Stat. 198][/us/stat/80/198]; [Pub. L. 89–718][/us/pl/89/718], § 63, Nov. 2, 1966, [80 Stat. 1123][/us/stat/80/1123]; [Pub. L. 90–83][/us/pl/90/83], § 5(1), Sept. 11, 1967, [81 Stat. 221][/us/stat/81/221]; [Pub. L. 91–278][/us/pl/91/278], § 3(3), June 12, 1970, [84 Stat. 306][/us/stat/84/306]; [Pub. L. 96–76, title III][/us/pl/96/76/tIII], § 313(c), Sept. 29, 1979, [93 Stat. 586][/us/stat/93/586]; [Pub. L. 96–513, title IV][/us/pl/96/513/tIV], § 412, Dec. 12, 1980, [94 Stat. 2905][/us/stat/94/2905]; [Pub. L. 97–22][/us/pl/97/22], § 10(c), July 10, 1981, [95 Stat. 137][/us/stat/95/137]; [Pub. L. 97–60, title I][/us/pl/97/60/tI], § 131(a), Oct. 14, 1981, [95 Stat. 1005][/us/stat/95/1005]; [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 702(b)(1), (c), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 610(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–150.)
 
 <table>
 
@@ -161,11 +161,11 @@ Aug. 7, 1947, ch. 512, § 302(f), 61 Stat. 830.  </td>
 
     Subsec. (a)(4). [Pub. L. 97–60][/us/pl/97/60] added par. (4).
 
-    1980—Subsec. (a). [Pub. L. 96–513, § 412(1)][/us/pl/96/513/s412/1], (2), substituted “an officer of an armed force is entitled” for “a reserve officer of an armed force, an officer of the Army or the Air Force without specification of component, or a regular officer of an armed force appointed under section 2106 or 2107 of title 10 is entitled”.
+    1980—Subsec. (a). [Pub. L. 96–513][/us/pl/96/513], § 412(1), (2), substituted “an officer of an armed force is entitled” for “a reserve officer of an armed force, an officer of the Army or the Air Force without specification of component, or a regular officer of an armed force appointed under section 2106 or 2107 of title 10 is entitled”.
 
-    Subsecs. (c), (d). [Pub. L. 96–513, § 412(3)][/us/pl/96/513/s412/3], (4), redesignated subsec. (d) as (c). Former subsec. (c), relating to limitations on qualifications for initial allowances by certain officers, was struck out.
+    Subsecs. (c), (d). [Pub. L. 96–513][/us/pl/96/513], § 412(3), (4), redesignated subsec. (d) as (c). Former subsec. (c), relating to limitations on qualifications for initial allowances by certain officers, was struck out.
 
-    Subsec. (e). [Pub. L. 96–513, § 412(3)][/us/pl/96/513/s412/3], struck out subsec. (e) relating to uniform allowances for temporary officers or warrant officers.
+    Subsec. (e). [Pub. L. 96–513][/us/pl/96/513], § 412(3), struck out subsec. (e) relating to uniform allowances for temporary officers or warrant officers.
 
     1979—Subsec. (d). [Pub. L. 96–76][/us/pl/96/76] in cl. (1) inserted provisions for applicability to officers on inactive duty training status, and struck out cl. (3) setting forth applicability to officers entitled to basic pay of pay grade O–1, O–2, or O–3.
 
@@ -181,13 +181,13 @@ Aug. 7, 1947, ch. 512, § 302(f), 61 Stat. 830.  </td>
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 610(c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–150, provided that: 
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 610(c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–150, provided that: 
 
 > “The amendments made by this section \[amending this section and [section 416 of this title][/us/usc/t37/s416]\] shall take effect on October 1, 2000.”
 
  __Effective Date of 1981 Amendment__ 
 
-    [Pub. L. 97–22, § 10(c)][/us/pl/97/22/s10/c], July 10, 1981, [95 Stat. 137][/us/stat/95/137], provided that the amendment made by that section is effective Sept. 15, 1981.
+    [Pub. L. 97–22][/us/pl/97/22], § 10(c), July 10, 1981, [95 Stat. 137][/us/stat/95/137], provided that the amendment made by that section is effective Sept. 15, 1981.
 
  __Effective Date of 1980 Amendment__ 
 
@@ -211,27 +211,27 @@ Aug. 7, 1947, ch. 512, § 302(f), 61 Stat. 830.  </td>
 [/us/usc/t10/s2121/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2121%2Fc
 [/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F477
-[/us/pl/88/647/s202/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F647%2Fs202%2F3
+[/us/pl/88/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F647%2FtII
 [/us/stat/78/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1070
-[/us/pl/89/444/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F444%2Fs2%2F1
+[/us/pl/89/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F444
 [/us/stat/80/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F198
-[/us/pl/89/718/s63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs63
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1123
-[/us/pl/90/83/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs5%2F1
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F221
-[/us/pl/91/278/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F278%2Fs3%2F3
+[/us/pl/91/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F278
 [/us/stat/84/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F306
-[/us/pl/96/76/s313/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76%2Fs313%2Fc
+[/us/pl/96/76/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76%2FtIII
 [/us/stat/93/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F586
-[/us/pl/96/513/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs412
+[/us/pl/96/513/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtIV
 [/us/stat/94/2905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2905
-[/us/pl/97/22/s10/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22%2Fs10%2Fc
+[/us/pl/97/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22
 [/us/stat/95/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F137
-[/us/pl/97/60/s131/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F60%2Fs131%2Fa
+[/us/pl/97/60/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F60%2FtI
 [/us/stat/95/1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1005
-[/us/pl/102/25/s702/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs702%2Fb%2F1
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F117
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/stat/66/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F492
 [/us/act/1947-08-07/s302/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-08-07%2Fs302%2Ff
@@ -239,9 +239,9 @@ Aug. 7, 1947, ch. 512, § 302(f), 61 Stat. 830.  </td>
 [/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
 [/us/pl/97/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22
 [/us/pl/97/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F60
-[/us/pl/96/513/s412/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs412%2F1
-[/us/pl/96/513/s412/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs412%2F3
-[/us/pl/96/513/s412/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs412%2F3
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F76
 [/us/pl/91/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F278
 [/us/usc/t14/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs213
@@ -251,10 +251,10 @@ Aug. 7, 1947, ch. 512, § 302(f), 61 Stat. 830.  </td>
 [/us/usc/t14/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs214
 [/us/usc/t14/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs435
 [/us/pl/88/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F647
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t37/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs416
-[/us/pl/97/22/s10/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22%2Fs10%2Fc
+[/us/pl/97/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F22
 [/us/stat/95/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F137
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs412

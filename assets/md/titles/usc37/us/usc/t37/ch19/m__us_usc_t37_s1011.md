@@ -23,7 +23,7 @@
 
     (d) When the Coast Guard is not operating as a service in the Navy, the Secretary of Homeland Security shall establish rates for meals sold at Coast Guard dining facilities, provide for reimbursement of operating expenses and food costs to the appropriations concerned, and reduce the rates for such meals when the Secretary determines that it is in the best interest of the United States to do so.
 
-(Added [Pub. L. 96–513, title IV, § 413][/us/pl/96/513/s413], Dec. 12, 1980, [94 Stat. 2906][/us/stat/94/2906]; amended [Pub. L. 99–145, title VIII, § 810(a)][/us/pl/99/145/s810/a], Nov. 8, 1985, [99 Stat. 681][/us/stat/99/681]; [Pub. L. 99–661, div. A, title VI, § 655][/us/pl/99/661/s655], Nov. 14, 1986, [100 Stat. 3891][/us/stat/100/3891]; [Pub. L. 101–189, div. A, title III, § 321][/us/pl/101/189/s321], Nov. 29, 1989, [103 Stat. 1413][/us/stat/103/1413]; [Pub. L. 104–324, title II, § 214(a)][/us/pl/104/324/s214/a], Oct. 19, 1996, [110 Stat. 3915][/us/stat/110/3915]; [Pub. L. 107–296, title XVII, § 1704(c)][/us/pl/107/296/s1704/c], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
+(Added [Pub. L. 96–513, title IV][/us/pl/96/513/tIV], § 413, Dec. 12, 1980, [94 Stat. 2906][/us/stat/94/2906]; amended [Pub. L. 99–145, title VIII][/us/pl/99/145/tVIII], § 810(a), Nov. 8, 1985, [99 Stat. 681][/us/stat/99/681]; [Pub. L. 99–661, div. A, title VI][/us/pl/99/661/dA/tVI], § 655, Nov. 14, 1986, [100 Stat. 3891][/us/stat/100/3891]; [Pub. L. 101–189, div. A, title III][/us/pl/101/189/dA/tIII], § 321, Nov. 29, 1989, [103 Stat. 1413][/us/stat/103/1413]; [Pub. L. 104–324, title II][/us/pl/104/324/tII], § 214(a), Oct. 19, 1996, [110 Stat. 3915][/us/stat/110/3915]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(c), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
 
  __Amendments__ 
 
@@ -56,17 +56,17 @@
 ----------
 ----------
 
-[/us/pl/96/513/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs413
+[/us/pl/96/513/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtIV
 [/us/stat/94/2906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2906
-[/us/pl/99/145/s810/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs810%2Fa
+[/us/pl/99/145/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtVIII
 [/us/stat/99/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F681
-[/us/pl/99/661/s655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs655
+[/us/pl/99/661/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtVI
 [/us/stat/100/3891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3891
-[/us/pl/101/189/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs321
+[/us/pl/101/189/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtIII
 [/us/stat/103/1413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1413
-[/us/pl/104/324/s214/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs214%2Fa
+[/us/pl/104/324/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtII
 [/us/stat/110/3915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3915
-[/us/pl/107/296/s1704/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fc
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324

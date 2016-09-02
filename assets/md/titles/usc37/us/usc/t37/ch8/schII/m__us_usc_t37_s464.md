@@ -17,7 +17,7 @@
 
     This subchapter and subchapter I shall be administered under terms, rates, conditions, and regulations prescribed by the Secretary of Defense in consultation with the other administering Secretaries for members of the uniformed services. Such regulations shall be uniform for the Department of Defense and shall apply as uniformly as practicable to the uniformed services under the jurisdiction of the other administering Secretaries.
 
-(Added [Pub. L. 112–81, div. A, title VI, § 631(b)][/us/pl/112/81/s631/b], Dec. 31, 2011, [125 Stat. 1460][/us/stat/125/1460].)
+(Added [Pub. L. 112–81, div. A, title VI][/us/pl/112/81/dA/tVI], § 631(b), Dec. 31, 2011, [125 Stat. 1460][/us/stat/125/1460].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/112/81/s631/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Fb
+[/us/pl/112/81/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVI
 [/us/stat/125/1460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1460
 
 

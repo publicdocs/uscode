@@ -89,19 +89,19 @@
 
     (e) The clothing allowance under [section 418 of this title][/us/usc/t37/s418] may not be considered in determining the amount of the pay and allowances of a grade formerly held by an officer if the officer is entitled to a uniform allowance under [section 415 of this title][/us/usc/t37/s415].
 
-(Added [Pub. L. 91–484, § 1(1)][/us/pl/91/484/s1/1], Oct. 21, 1970, [84 Stat. 1083][/us/stat/84/1083]; amended [Pub. L. 96–343, § 6(a)(1)][/us/pl/96/343/s6/a/1], Sept. 8, 1980, [94 Stat. 1126][/us/stat/94/1126]; [Pub. L. 102–25, title VII, § 702(b)(1)][/us/pl/102/25/s702/b/1], (c), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117]; [Pub. L. 105–85, div. A, title VI, § 619(d)][/us/pl/105/85/s619/d], Nov. 18, 1997, [111 Stat. 1790][/us/stat/111/1790]; [Pub. L. 105–261, div. A, title VI, § 617(b)][/us/pl/105/261/s617/b], Oct. 17, 1998, [112 Stat. 2041][/us/stat/112/2041]; [Pub. L. 109–163, div. A, title VI, § 686(a)][/us/pl/109/163/s686/a], (b), Jan. 6, 2006, [119 Stat. 3325][/us/stat/119/3325], 3326.)
+(Added [Pub. L. 91–484][/us/pl/91/484], § 1(1), Oct. 21, 1970, [84 Stat. 1083][/us/stat/84/1083]; amended [Pub. L. 96–343][/us/pl/96/343], § 6(a)(1), Sept. 8, 1980, [94 Stat. 1126][/us/stat/94/1126]; [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 702(b)(1), (c), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117]; [Pub. L. 105–85, div. A, title VI][/us/pl/105/85/dA/tVI], § 619(d), Nov. 18, 1997, [111 Stat. 1790][/us/stat/111/1790]; [Pub. L. 105–261, div. A, title VI][/us/pl/105/261/dA/tVI], § 617(b), Oct. 17, 1998, [112 Stat. 2041][/us/stat/112/2041]; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 686(a), (b), Jan. 6, 2006, [119 Stat. 3325][/us/stat/119/3325], 3326.)
 
  __References in Text__ 
 
-    [Section 323 of this title][/us/usc/t37/s323], referred to in subsec. (d)(1)(K), was renumbered [section 355 of this title][/us/usc/t37/s355] by [Pub. L. 110–181, div. A, title VI, § 661(c)(1)][/us/pl/110/181/s661/c/1], Jan. 28, 2008, [122 Stat. 178][/us/stat/122/178].
+    [Section 323 of this title][/us/usc/t37/s323], referred to in subsec. (d)(1)(K), was renumbered [section 355 of this title][/us/usc/t37/s355] by [Pub. L. 110–181, div. A, title VI][/us/pl/110/181/dA/tVI], § 661(c)(1), Jan. 28, 2008, [122 Stat. 178][/us/stat/122/178].
 
  __Amendments__ 
 
-    2006—Subsecs. (a), (b). [Pub. L. 109–163, § 686(b)(1)][/us/pl/109/163/s686/b/1], substituted “the officer” for “he” wherever appearing and “the appointment” for “his appointment” wherever appearing.
+    2006—Subsecs. (a), (b). [Pub. L. 109–163][/us/pl/109/163], § 686(b)(1), substituted “the officer” for “he” wherever appearing and “the appointment” for “his appointment” wherever appearing.
 
-    Subsec. (c)(2). [Pub. L. 109–163, § 686(b)(2)][/us/pl/109/163/s686/b/2], substituted “the officer remained” for “he remained”.
+    Subsec. (c)(2). [Pub. L. 109–163][/us/pl/109/163], § 686(b)(2), substituted “the officer remained” for “he remained”.
 
-    Subsec. (d). [Pub. L. 109–163, § 686(a)][/us/pl/109/163/s686/a], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “In determining the amount of the pay and allowances of a grade formerly held by an officer, incentive pay for hazardous duty under [section 301 of this title][/us/usc/t37/s301], special pay for diving duty under [section 304 of this title][/us/usc/t37/s304], for hardship duty under [section 305 of this title][/us/usc/t37/s305], and for sea duty under [section 305a of this title][/us/usc/t37/s305a], and proficiency pay under [section 307 of this title][/us/usc/t37/s307] may be considered only so long as the officer continues to perform the duty creating the entitlement to or eligibility for that pay and would otherwise be eligible to receive that pay in his former grade.”
+    Subsec. (d). [Pub. L. 109–163][/us/pl/109/163], § 686(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “In determining the amount of the pay and allowances of a grade formerly held by an officer, incentive pay for hazardous duty under [section 301 of this title][/us/usc/t37/s301], special pay for diving duty under [section 304 of this title][/us/usc/t37/s304], for hardship duty under [section 305 of this title][/us/usc/t37/s305], and for sea duty under [section 305a of this title][/us/usc/t37/s305a], and proficiency pay under [section 307 of this title][/us/usc/t37/s307] may be considered only so long as the officer continues to perform the duty creating the entitlement to or eligibility for that pay and would otherwise be eligible to receive that pay in his former grade.”
 
     1998—Subsec. (d). [Pub. L. 105–261][/us/pl/105/261] substituted “hardship duty” for “duty at a hardship duty location”.
 
@@ -113,13 +113,13 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–163, div. A, title VI, § 686(c)][/us/pl/109/163/s686/c], Jan. 6, 2006, [119 Stat. 3326][/us/stat/119/3326], provided that: 
+[Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 686(c), Jan. 6, 2006, [119 Stat. 3326][/us/stat/119/3326], provided that: 
 
 > “Subsection (d) of [section 907 of title 37][/us/usc/t37/s907], United States Code, as amended by subsection (a), shall apply with respect to any acceptance by an enlisted member of the Armed Forces of an appointment as an officer made on or after the date of the enactment of this Act \[Jan. 6, 2006\].”
 
  __Effective Date of 1980 Amendment__ 
 
-[Pub. L. 96–343, § 6(c)][/us/pl/96/343/s6/c], Sept. 8, 1980, [94 Stat. 1127][/us/stat/94/1127], provided that: 
+[Pub. L. 96–343][/us/pl/96/343], § 6(c), Sept. 8, 1980, [94 Stat. 1127][/us/stat/94/1127], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 203 of this title][/us/usc/t37/s203]\] shall be effective with respect to periods for which pay and allowances are payable which begin after August 31, 1980.”
 
@@ -146,25 +146,25 @@
 [/us/usc/t37/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs320
 [/us/usc/t37/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs418
 [/us/usc/t37/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs415
-[/us/pl/91/484/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F484%2Fs1%2F1
+[/us/pl/91/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F484
 [/us/stat/84/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1083
-[/us/pl/96/343/s6/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F343%2Fs6%2Fa%2F1
+[/us/pl/96/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F343
 [/us/stat/94/1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1126
-[/us/pl/102/25/s702/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs702%2Fb%2F1
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F117
-[/us/pl/105/85/s619/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs619%2Fd
+[/us/pl/105/85/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVI
 [/us/stat/111/1790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1790
-[/us/pl/105/261/s617/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs617%2Fb
+[/us/pl/105/261/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtVI
 [/us/stat/112/2041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2041
-[/us/pl/109/163/s686/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs686%2Fa
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3325
 [/us/usc/t37/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs323
 [/us/usc/t37/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs355
-[/us/pl/110/181/s661/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs661%2Fc%2F1
+[/us/pl/110/181/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVI
 [/us/stat/122/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F178
-[/us/pl/109/163/s686/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs686%2Fb%2F1
-[/us/pl/109/163/s686/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs686%2Fb%2F2
-[/us/pl/109/163/s686/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs686%2Fa
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/usc/t37/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs301
 [/us/usc/t37/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs304
 [/us/usc/t37/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs305
@@ -174,10 +174,10 @@
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
 [/us/pl/96/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F343
-[/us/pl/109/163/s686/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs686%2Fc
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3326
 [/us/usc/t37/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs907
-[/us/pl/96/343/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F343%2Fs6%2Fc
+[/us/pl/96/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F343
 [/us/stat/94/1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1127
 [/us/usc/t37/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs203
 

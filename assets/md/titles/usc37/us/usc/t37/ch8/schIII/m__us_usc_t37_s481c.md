@@ -27,17 +27,17 @@
 
     (c) No transportation may be provided under this section after the travel authorities transition expiration date, and no payment may be made under this section for transportation that begins after that date.
 
-(Added [Pub. L. 97–60, title I, § 126(a)][/us/pl/97/60/s126/a], Oct. 14, 1981, [95 Stat. 1003][/us/stat/95/1003], § 411c; amended [Pub. L. 100–26, § 8(d)(9)][/us/pl/100/26/s8/d/9], Apr. 21, 1987, [101 Stat. 286][/us/stat/101/286]; [Pub. L. 105–261, div. A, title VI, § 633(a)][/us/pl/105/261/s633/a], (b)(1), Oct. 17, 1998, [112 Stat. 2044][/us/stat/112/2044]; renumbered § 481c and amended [Pub. L. 112–81, div. A, title VI, § 631(d)(2)][/us/pl/112/81/s631/d/2], (e)(17), Dec. 31, 2011, [125 Stat. 1460][/us/stat/125/1460], 1463.)
+(Added [Pub. L. 97–60, title I][/us/pl/97/60/tI], § 126(a), Oct. 14, 1981, [95 Stat. 1003][/us/stat/95/1003], § 411c; amended [Pub. L. 100–26][/us/pl/100/26], § 8(d)(9), Apr. 21, 1987, [101 Stat. 286][/us/stat/101/286]; [Pub. L. 105–261, div. A, title VI][/us/pl/105/261/dA/tVI], § 633(a), (b)(1), Oct. 17, 1998, [112 Stat. 2044][/us/stat/112/2044]; renumbered § 481c and amended [Pub. L. 112–81, div. A, title VI][/us/pl/112/81/dA/tVI], § 631(d)(2), (e)(17), Dec. 31, 2011, [125 Stat. 1460][/us/stat/125/1460], 1463.)
 
  __Amendments__ 
 
-    2011—[Pub. L. 112–81, § 631(d)(2)][/us/pl/112/81/s631/d/2], renumbered [section 411c of this title][/us/usc/t37/s411c] as this section.
+    2011—[Pub. L. 112–81][/us/pl/112/81], § 631(d)(2), renumbered [section 411c of this title][/us/usc/t37/s411c] as this section.
 
-    Subsec. (c). [Pub. L. 112–81, § 631(e)(17)][/us/pl/112/81/s631/e/17], added subsec. (c).
+    Subsec. (c). [Pub. L. 112–81][/us/pl/112/81], § 631(e)(17), added subsec. (c).
 
-    1998—[Pub. L. 105–261, § 633(b)(1)][/us/pl/105/261/s633/b/1], substituted “rest and recuperative leave from certain stations” for “leave from certain stations” in section catchline.
+    1998—[Pub. L. 105–261][/us/pl/105/261], § 633(b)(1), substituted “rest and recuperative leave from certain stations” for “leave from certain stations” in section catchline.
 
-    Subsec. (b). [Pub. L. 105–261, § 633(a)][/us/pl/105/261/s633/a], added subsec. (b) and struck out former subsec. (b) which read as follows: “The transportation authorized by this section is limited to transportation of the member, and of each dependent of the member, for one round-trip during any tour of at least 24, but less than 36, consecutive months or two round-trips during any tour of at least 36 consecutive months.”
+    Subsec. (b). [Pub. L. 105–261][/us/pl/105/261], § 633(a), added subsec. (b) and struck out former subsec. (b) which read as follows: “The transportation authorized by this section is limited to transportation of the member, and of each dependent of the member, for one round-trip during any tour of at least 24, but less than 36, consecutive months or two round-trips during any tour of at least 36 consecutive months.”
 
     1987—Subsec. (b). [Pub. L. 100–26][/us/pl/100/26] substituted “round-trip” for “roundtrip” and “round-trips” for “roundtrips”.
 
@@ -48,19 +48,19 @@
 ----------
 ----------
 
-[/us/pl/97/60/s126/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F60%2Fs126%2Fa
+[/us/pl/97/60/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F60%2FtI
 [/us/stat/95/1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1003
-[/us/pl/100/26/s8/d/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs8%2Fd%2F9
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F286
-[/us/pl/105/261/s633/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs633%2Fa
+[/us/pl/105/261/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtVI
 [/us/stat/112/2044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2044
-[/us/pl/112/81/s631/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Fd%2F2
+[/us/pl/112/81/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVI
 [/us/stat/125/1460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1460
-[/us/pl/112/81/s631/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Fd%2F2
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/usc/t37/s411c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs411c
-[/us/pl/112/81/s631/e/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Fe%2F17
-[/us/pl/105/261/s633/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs633%2Fb%2F1
-[/us/pl/105/261/s633/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs633%2Fa
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 
 

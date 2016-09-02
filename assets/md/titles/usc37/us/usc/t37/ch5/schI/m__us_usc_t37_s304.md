@@ -49,7 +49,7 @@
 
     (e) In time of war, the President may suspend the payment of diving duty pay.
 
-([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 465][/us/stat/76/465]; [Pub. L. 97–60, title I, § 115][/us/pl/97/60/s115], Oct. 14, 1981, [95 Stat. 995][/us/stat/95/995]; [Pub. L. 100–180, div. A, title VI, § 624(a)][/us/pl/100/180/s624/a], Dec. 4, 1987, [101 Stat. 1103][/us/stat/101/1103]; [Pub. L. 102–25, title VII, § 702(b)(1)][/us/pl/102/25/s702/b/1], (c), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117]; [Pub. L. 105–261, div. A, title VI, § 616(a)][/us/pl/105/261/s616/a], Oct. 17, 1998, [112 Stat. 2041][/us/stat/112/2041]; [Pub. L. 106–65, div. A, title VI, § 617(a)][/us/pl/106/65/s617/a], (b), Oct. 5, 1999, [113 Stat. 652][/us/stat/113/652].)
+([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 465][/us/stat/76/465]; [Pub. L. 97–60, title I][/us/pl/97/60/tI], § 115, Oct. 14, 1981, [95 Stat. 995][/us/stat/95/995]; [Pub. L. 100–180, div. A, title VI][/us/pl/100/180/dA/tVI], § 624(a), Dec. 4, 1987, [101 Stat. 1103][/us/stat/101/1103]; [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 702(b)(1), (c), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117]; [Pub. L. 105–261, div. A, title VI][/us/pl/105/261/dA/tVI], § 616(a), Oct. 17, 1998, [112 Stat. 2041][/us/stat/112/2041]; [Pub. L. 106–65, div. A, title VI][/us/pl/106/65/dA/tVI], § 617(a), (b), Oct. 5, 1999, [113 Stat. 652][/us/stat/113/652].)
 
 <table>
 
@@ -103,9 +103,9 @@ Oct. 12, 1949, ch. 681, § 205, 63 Stat. 810; Mar. 31, 1955, ch. 20, § 2(8)
 
  __Amendments__ 
 
-    1999—Subsec. (b). [Pub. L. 106–65, § 617(a)][/us/pl/106/65/s617/a], substituted “$240” for “$200” and “$340” for “$300”.
+    1999—Subsec. (b). [Pub. L. 106–65][/us/pl/106/65], § 617(a), substituted “$240” for “$200” and “$340” for “$300”.
 
-    Subsec. (c). [Pub. L. 106–65, § 617(b)][/us/pl/106/65/s617/b], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “A member may be paid special pay under this section and incentive pay under [section 301 of this title][/us/usc/t37/s301] for the same period of service only if the member is assigned by orders to a hazardous duty described in [section 301(a) of this title][/us/usc/t37/s301/a] in addition to diving duty. However, if a member is paid special pay under this section, the member is not entitled to more than one payment of incentive pay under [section 301 of this title][/us/usc/t37/s301].”
+    Subsec. (c). [Pub. L. 106–65][/us/pl/106/65], § 617(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “A member may be paid special pay under this section and incentive pay under [section 301 of this title][/us/usc/t37/s301] for the same period of service only if the member is assigned by orders to a hazardous duty described in [section 301(a) of this title][/us/usc/t37/s301/a] in addition to diving duty. However, if a member is paid special pay under this section, the member is not entitled to more than one payment of incentive pay under [section 301 of this title][/us/usc/t37/s301].”
 
     1998—Subsec. (a)(3). [Pub. L. 105–261][/us/pl/105/261] amended par. (3) generally. Prior to amendment, par. (3) read as follows: “actually performs diving duty.”
 
@@ -119,19 +119,19 @@ Oct. 12, 1949, ch. 681, § 205, 63 Stat. 810; Mar. 31, 1955, ch. 20, § 2(8)
 
  __Effective Date of 1999 Amendment__ 
 
-[Pub. L. 106–65, div. A, title VI, § 617(c)][/us/pl/106/65/s617/c], Oct. 5, 1999, [113 Stat. 652][/us/stat/113/652], provided that: 
+[Pub. L. 106–65, div. A, title VI][/us/pl/106/65/dA/tVI], § 617(c), Oct. 5, 1999, [113 Stat. 652][/us/stat/113/652], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section\] shall take effect on October 1, 1999, and shall apply with respect to special pay paid under such section for months beginning on or after that date.”
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–261, div. A, title VI, § 616(b)][/us/pl/105/261/s616/b], Oct. 17, 1998, [112 Stat. 2041][/us/stat/112/2041], provided that: 
+[Pub. L. 105–261, div. A, title VI][/us/pl/105/261/dA/tVI], § 616(b), Oct. 17, 1998, [112 Stat. 2041][/us/stat/112/2041], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1998, and shall apply with respect to months beginning on or after that date.”
 
  __Effective Date of 1987 Amendment__ 
 
-[Pub. L. 100–180, div. A, title VI, § 624(b)][/us/pl/100/180/s624/b], Dec. 4, 1987, [101 Stat. 1104][/us/stat/101/1104], provided that: 
+[Pub. L. 100–180, div. A, title VI][/us/pl/100/180/dA/tVI], § 624(b), Dec. 4, 1987, [101 Stat. 1104][/us/stat/101/1104], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect on the first day of the fourth calendar month following the month in which this Act is enacted \[Dec. 1987\] and shall apply only with respect to diving duty performed on or after that date.”
 
@@ -149,18 +149,18 @@ Oct. 12, 1949, ch. 681, § 205, 63 Stat. 810; Mar. 31, 1955, ch. 20, § 2(8)
 [/us/usc/t37/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs204
 [/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F465
-[/us/pl/97/60/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F60%2Fs115
+[/us/pl/97/60/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F60%2FtI
 [/us/stat/95/995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F995
-[/us/pl/100/180/s624/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs624%2Fa
+[/us/pl/100/180/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtVI
 [/us/stat/101/1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1103
-[/us/pl/102/25/s702/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs702%2Fb%2F1
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F117
-[/us/pl/105/261/s616/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs616%2Fa
+[/us/pl/105/261/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtVI
 [/us/stat/112/2041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2041
-[/us/pl/106/65/s617/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs617%2Fa
+[/us/pl/106/65/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVI
 [/us/stat/113/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F652
-[/us/pl/106/65/s617/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs617%2Fa
-[/us/pl/106/65/s617/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs617%2Fb
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/usc/t37/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs301
 [/us/usc/t37/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs301%2Fa
 [/us/usc/t37/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs301
@@ -170,11 +170,11 @@ Oct. 12, 1949, ch. 681, § 205, 63 Stat. 810; Mar. 31, 1955, ch. 20, § 2(8)
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
 [/us/pl/97/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F60
 [/us/usc/t37/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs301
-[/us/pl/106/65/s617/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs617%2Fc
+[/us/pl/106/65/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVI
 [/us/stat/113/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F652
-[/us/pl/105/261/s616/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs616%2Fb
+[/us/pl/105/261/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtVI
 [/us/stat/112/2041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2041
-[/us/pl/100/180/s624/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs624%2Fb
+[/us/pl/100/180/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtVI
 [/us/stat/101/1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1104
 
 

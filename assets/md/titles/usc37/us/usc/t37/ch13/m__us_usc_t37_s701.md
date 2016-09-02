@@ -25,7 +25,7 @@
 
     (e) If an allotment made under subsection (d) is paid to the allottee before the disbursing officer receives a notice of discontinuance from the officer required by regulation to furnish the notice, the amount of the allotment shall be credited to the disbursing officer. If an allotment is erroneously paid because the officer required by regulation to so report failed to report the death of the allotter or any other fact that makes the allotment not payable, the amount of the payment not recovered from the allottee shall, if practicable, be collected by the Secretary concerned from the officer who failed to make the report.
 
-([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 484][/us/stat/76/484]; [Pub. L. 89–718, § 67][/us/pl/89/718/s67], Nov. 2, 1966, [80 Stat. 1123][/us/stat/80/1123]; [Pub. L. 99–145, title VI, § 683(a)(1)][/us/pl/99/145/s683/a/1], (2), Nov. 8, 1985, [99 Stat. 665][/us/stat/99/665]; [Pub. L. 102–25, title VII, § 702(b)(1)][/us/pl/102/25/s702/b/1], (c), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117]; [Pub. L. 104–201, div. A, title VI, § 651(a)][/us/pl/104/201/s651/a], Sept. 23, 1996, [110 Stat. 2582][/us/stat/110/2582].)
+([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 484][/us/stat/76/484]; [Pub. L. 89–718][/us/pl/89/718], § 67, Nov. 2, 1966, [80 Stat. 1123][/us/stat/80/1123]; [Pub. L. 99–145, title VI][/us/pl/99/145/tVI], § 683(a)(1), (2), Nov. 8, 1985, [99 Stat. 665][/us/stat/99/665]; [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 702(b)(1), (c), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117]; [Pub. L. 104–201, div. A, title VI][/us/pl/104/201/dA/tVI], § 651(a), Sept. 23, 1996, [110 Stat. 2582][/us/stat/110/2582].)
 
 <table>
 
@@ -195,25 +195,25 @@ Source (Statutes at Large)  </td>
 
     1991—Subsec. (b). [Pub. L. 102–25][/us/pl/102/25] struck out “of this section” after “subsection (a)”.
 
-    1985—[Pub. L. 99–145, § 683(a)(2)][/us/pl/99/145/s683/a/2], inserted reference to Navy and Marine Corps in section catchline.
+    1985—[Pub. L. 99–145][/us/pl/99/145], § 683(a)(2), inserted reference to Navy and Marine Corps in section catchline.
 
-    Subsec. (a). [Pub. L. 99–145, § 683(a)(1)(A)][/us/pl/99/145/s683/a/1/A], (C), substituted “Secretary of the military department concerned” for “Secretary of the Army or the Secretary of the Air Force, as the case may be” and “commissioned officer of the Army, Navy, Air Force, or Marine Corps” for “commissioned officer of the Army or the Air Force”.
+    Subsec. (a). [Pub. L. 99–145][/us/pl/99/145], § 683(a)(1)(A), (C), substituted “Secretary of the military department concerned” for “Secretary of the Army or the Secretary of the Air Force, as the case may be” and “commissioned officer of the Army, Navy, Air Force, or Marine Corps” for “commissioned officer of the Army or the Air Force”.
 
-    Subsec. (b). [Pub. L. 99–145, § 683(a)(1)(B)][/us/pl/99/145/s683/a/1/B], inserted reference to Navy.
+    Subsec. (b). [Pub. L. 99–145][/us/pl/99/145], § 683(a)(1)(B), inserted reference to Navy.
 
-    Subsec. (c). [Pub. L. 99–145, § 683(a)(1)(A)][/us/pl/99/145/s683/a/1/A], inserted reference to Navy and Marine Corps.
+    Subsec. (c). [Pub. L. 99–145][/us/pl/99/145], § 683(a)(1)(A), inserted reference to Navy and Marine Corps.
 
-    Subsec. (d). [Pub. L. 99–145, § 683(a)(1)(C)][/us/pl/99/145/s683/a/1/C], substituted “Secretary of the military department concerned” for “Secretary of the Army or the Secretary of the Air Force, as the case may be”.
+    Subsec. (d). [Pub. L. 99–145][/us/pl/99/145], § 683(a)(1)(C), substituted “Secretary of the military department concerned” for “Secretary of the Army or the Secretary of the Air Force, as the case may be”.
 
-    Subsec. (d)(1). [Pub. L. 99–145, § 683(a)(1)(A)][/us/pl/99/145/s683/a/1/A], inserted reference to Navy and Marine Corps.
+    Subsec. (d)(1). [Pub. L. 99–145][/us/pl/99/145], § 683(a)(1)(A), inserted reference to Navy and Marine Corps.
 
-    Subsec. (d)(2). [Pub. L. 99–145, § 683(a)(1)(B)][/us/pl/99/145/s683/a/1/B], inserted reference to Navy.
+    Subsec. (d)(2). [Pub. L. 99–145][/us/pl/99/145], § 683(a)(1)(B), inserted reference to Navy.
 
     1966—Subsec. (d). [Pub. L. 89–718][/us/pl/89/718] substituted “Secretary concerned” for “Chief of Finance (in cases involving the Army) or by the Secretary of the Air Force” in provision for collection erroneously paid allotments.
 
  __Regulations__ 
 
-[Pub. L. 104–201, div. A, title VI, § 651(b)][/us/pl/104/201/s651/b], Sept. 23, 1996, [110 Stat. 2582][/us/stat/110/2582], provided that: 
+[Pub. L. 104–201, div. A, title VI][/us/pl/104/201/dA/tVI], § 651(b), Sept. 23, 1996, [110 Stat. 2582][/us/stat/110/2582], provided that: 
 
 > “The Secretaries of the military departments shall prescribe regulations under subsection (d) of [section 701 of title 37][/us/usc/t37/s701], United States Code, as added by subsection (a), not later than October 1, 1997.”
 
@@ -226,25 +226,25 @@ Source (Statutes at Large)  </td>
 
 [/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F484
-[/us/pl/89/718/s67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs67
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1123
-[/us/pl/99/145/s683/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs683%2Fa%2F1
+[/us/pl/99/145/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtVI
 [/us/stat/99/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F665
-[/us/pl/102/25/s702/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs702%2Fb%2F1
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F117
-[/us/pl/104/201/s651/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs651%2Fa
+[/us/pl/104/201/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtVI
 [/us/stat/110/2582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2582
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
-[/us/pl/99/145/s683/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs683%2Fa%2F2
-[/us/pl/99/145/s683/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs683%2Fa%2F1%2FA
-[/us/pl/99/145/s683/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs683%2Fa%2F1%2FB
-[/us/pl/99/145/s683/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs683%2Fa%2F1%2FA
-[/us/pl/99/145/s683/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs683%2Fa%2F1%2FC
-[/us/pl/99/145/s683/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs683%2Fa%2F1%2FA
-[/us/pl/99/145/s683/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs683%2Fa%2F1%2FB
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 [/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
-[/us/pl/104/201/s651/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs651%2Fb
+[/us/pl/104/201/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtVI
 [/us/stat/110/2582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2582
 [/us/usc/t37/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs701
 

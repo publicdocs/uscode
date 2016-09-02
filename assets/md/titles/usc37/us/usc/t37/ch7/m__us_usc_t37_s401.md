@@ -91,7 +91,7 @@
 
             (E) any other person, including a former stepparent, who has stood in loco parentis to the member at any time for a continuous period of at least five years before the member became 21 years of age.
 
-([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 469][/us/stat/76/469]; [Pub. L. 93–64, title I][/us/pl/93/64], §§ 103, 104, July 9, 1973, [87 Stat. 148][/us/stat/87/148]; [Pub. L. 100–26, § 8(e)(7)][/us/pl/100/26/s8/e/7], Apr. 21, 1987, [101 Stat. 286][/us/stat/101/286]; [Pub. L. 102–190, div. A, title VI, § 621][/us/pl/102/190/s621], Dec. 5, 1991, [105 Stat. 1377][/us/stat/105/1377]; [Pub. L. 103–160, div. A, title VI, § 631(a)][/us/pl/103/160/s631/a], Nov. 30, 1993, [107 Stat. 1683][/us/stat/107/1683]; [Pub. L. 103–337, div. A, title VII, § 701(b)][/us/pl/103/337/s701/b], Oct. 5, 1994, [108 Stat. 2797][/us/stat/108/2797].)
+([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 469][/us/stat/76/469]; [Pub. L. 93–64, title I][/us/pl/93/64/tI], §§ 103, 104, July 9, 1973, [87 Stat. 148][/us/stat/87/148]; [Pub. L. 100–26][/us/pl/100/26], § 8(e)(7), Apr. 21, 1987, [101 Stat. 286][/us/stat/101/286]; [Pub. L. 102–190, div. A, title VI][/us/pl/102/190/dA/tVI], § 621, Dec. 5, 1991, [105 Stat. 1377][/us/stat/105/1377]; [Pub. L. 103–160, div. A, title VI][/us/pl/103/160/dA/tVI], § 631(a), Nov. 30, 1993, [107 Stat. 1683][/us/stat/107/1683]; [Pub. L. 103–337, div. A, title VII][/us/pl/103/337/dA/tVII], § 701(b), Oct. 5, 1994, [108 Stat. 2797][/us/stat/108/2797].)
 
 <table>
 
@@ -165,21 +165,21 @@ Oct. 12, 1949, ch. 681, § 102(g) (less last proviso of last sentence), 63 Sta
 
     1987—[Pub. L. 100–26][/us/pl/100/26] inserted “the term” after “In this chapter,”.
 
-    1973—Cl. (2). [Pub. L. 93–64, § 103(1)][/us/pl/93/64/s103/1], in revising cl. (1) of first sentence, substituted “unmarried child” for “unmarried legitimate child” and defined dependent to include an illegitimate child whose alleged member-father has been judicially decreed to be the father of the child or judicially ordered to contribute to the child’s support, or whose parentage has been admitted in writing by the member.
+    1973—Cl. (2). [Pub. L. 93–64][/us/pl/93/64], § 103(1), in revising cl. (1) of first sentence, substituted “unmarried child” for “unmarried legitimate child” and defined dependent to include an illegitimate child whose alleged member-father has been judicially decreed to be the father of the child or judicially ordered to contribute to the child’s support, or whose parentage has been admitted in writing by the member.
 
-    Cl. (3). [Pub. L. 93–64, § 104][/us/pl/93/64/s104], in revising cl. (3) of first sentence, substituted “five years before the member became 21 years” for “five years before he became 21 years”, struck out requirement of actual residence of parent in the member’s household, and inserted provision respecting determination of dependency of parent, including items (A) and (B), formerly contained in former section 2201 of Appendix to Title 50, War and National Defense.
+    Cl. (3). [Pub. L. 93–64][/us/pl/93/64], § 104, in revising cl. (3) of first sentence, substituted “five years before the member became 21 years” for “five years before he became 21 years”, struck out requirement of actual residence of parent in the member’s household, and inserted provision respecting determination of dependency of parent, including items (A) and (B), formerly contained in former section 2201 of Appendix to Title 50, War and National Defense.
 
-    Closing text. [Pub. L. 93–64, § 103(2)][/us/pl/93/64/s103/2], struck out second sentence, following cl. (3) of first sentence, stating that a person is not a dependent of a female member unless he is in fact dependent on her for over one-half of his support.
+    Closing text. [Pub. L. 93–64][/us/pl/93/64], § 103(2), struck out second sentence, following cl. (3) of first sentence, stating that a person is not a dependent of a female member unless he is in fact dependent on her for over one-half of his support.
 
  __Effective Date of 1993 Amendment__ 
 
-[Pub. L. 103–160, div. A, title VI, § 631(b)][/us/pl/103/160/s631/b], Nov. 30, 1993, [107 Stat. 1684][/us/stat/107/1684], provided that: 
+[Pub. L. 103–160, div. A, title VI][/us/pl/103/160/dA/tVI], § 631(b), Nov. 30, 1993, [107 Stat. 1684][/us/stat/107/1684], provided that: 
 
 > “[Section 401(a)(4) of title 37][/us/usc/t37/s401/a/4], United States Code, as added by subsection (a), shall apply with respect to determinations of dependency made on or after July 1, 1994.”
 
  __Effective Date of 1973 Amendment__ 
 
-[Pub. L. 93–64, title II, § 206][/us/pl/93/64/s206], July 9, 1973, [87 Stat. 149][/us/stat/87/149], provided that: 
+[Pub. L. 93–64, title II][/us/pl/93/64/tII], § 206, July 9, 1973, [87 Stat. 149][/us/stat/87/149], provided that: 
 
 > “This Act \[enacting [section 1173 of Title 10][/us/usc/t10/s1173], Armed Forces, amending this section and sections 302, 302a, 303, 308a, and 403 of this title, and repealing sections 2210 to 2212 of the former Appendix to Title 50, War and National Defense\] shall become effective July 1, 1973.”
 
@@ -192,27 +192,27 @@ Oct. 12, 1949, ch. 681, § 102(g) (less last proviso of last sentence), 63 Sta
 
 [/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F469
-[/us/pl/93/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F64
+[/us/pl/93/64/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F64%2FtI
 [/us/stat/87/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F148
-[/us/pl/100/26/s8/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs8%2Fe%2F7
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F286
-[/us/pl/102/190/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs621
+[/us/pl/102/190/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVI
 [/us/stat/105/1377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1377
-[/us/pl/103/160/s631/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs631%2Fa
+[/us/pl/103/160/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtVI
 [/us/stat/107/1683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1683
-[/us/pl/103/337/s701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs701%2Fb
+[/us/pl/103/337/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtVII
 [/us/stat/108/2797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2797
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
-[/us/pl/93/64/s103/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F64%2Fs103%2F1
-[/us/pl/93/64/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F64%2Fs104
-[/us/pl/93/64/s103/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F64%2Fs103%2F2
-[/us/pl/103/160/s631/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs631%2Fb
+[/us/pl/93/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F64
+[/us/pl/93/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F64
+[/us/pl/93/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F64
+[/us/pl/103/160/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtVI
 [/us/stat/107/1684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1684
 [/us/usc/t37/s401/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs401%2Fa%2F4
-[/us/pl/93/64/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F64%2Fs206
+[/us/pl/93/64/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F64%2FtII
 [/us/stat/87/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F149
 [/us/usc/t10/s1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1173
 

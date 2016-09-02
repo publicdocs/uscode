@@ -23,13 +23,13 @@
 
     No reimbursement may be provided under this section for expenses incurred after the travel authorities transition expiration date.
 
-(Added [Pub. L. 92–129, title II, § 205(a)][/us/pl/92/129/s205/a], Sept. 28, 1971, [85 Stat. 359][/us/stat/85/359], § 428; renumbered § 488 and amended [Pub. L. 112–81, div. A, title VI, § 631(d)(2)][/us/pl/112/81/s631/d/2], (e)(27), Dec. 31, 2011, [125 Stat. 1460][/us/stat/125/1460], 1464.)
+(Added [Pub. L. 92–129, title II][/us/pl/92/129/tII], § 205(a), Sept. 28, 1971, [85 Stat. 359][/us/stat/85/359], § 428; renumbered § 488 and amended [Pub. L. 112–81, div. A, title VI][/us/pl/112/81/dA/tVI], § 631(d)(2), (e)(27), Dec. 31, 2011, [125 Stat. 1460][/us/stat/125/1460], 1464.)
 
  __Amendments__ 
 
-    2011—[Pub. L. 112–81, § 631(e)(27)][/us/pl/112/81/s631/e/27], designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+    2011—[Pub. L. 112–81][/us/pl/112/81], § 631(e)(27), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-    [Pub. L. 112–81, § 631(d)(2)][/us/pl/112/81/s631/d/2], renumbered [section 428 of this title][/us/usc/t37/s428] as this section.
+    [Pub. L. 112–81][/us/pl/112/81], § 631(d)(2), renumbered [section 428 of this title][/us/usc/t37/s428] as this section.
 
  __Effective Date__ 
 
@@ -46,12 +46,12 @@
 ----------
 ----------
 
-[/us/pl/92/129/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2Fs205%2Fa
+[/us/pl/92/129/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2FtII
 [/us/stat/85/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F359
-[/us/pl/112/81/s631/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Fd%2F2
+[/us/pl/112/81/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVI
 [/us/stat/125/1460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1460
-[/us/pl/112/81/s631/e/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Fe%2F27
-[/us/pl/112/81/s631/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Fd%2F2
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/usc/t37/s428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs428
 [/us/pl/92/129/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F129%2Fs209
 [/us/usc/t37/s302a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs302a

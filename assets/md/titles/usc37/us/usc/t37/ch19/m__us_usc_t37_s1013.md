@@ -17,7 +17,7 @@
 
     Any benefit or payment pursuant to [section 559 of this title][/us/usc/t37/s559], or section 1032 or 1095a or chapter 110 of title 10, shall be paid out of funds available to the Secretary concerned for military personnel.
 
-(Added [Pub. L. 99–399, title VIII, § 801(e)(1)][/us/pl/99/399/s801/e/1], Aug. 27, 1986, [100 Stat. 888][/us/stat/100/888]; amended [Pub. L. 100–456, div. A, title XII, § 1233(g)(4)][/us/pl/100/456/s1233/g/4], Sept. 29, 1988, [102 Stat. 2058][/us/stat/102/2058]; [Pub. L. 101–510, div. A, title XIV, § 1484(h)(6)][/us/pl/101/510/s1484/h/6], Nov. 5, 1990, [104 Stat. 1718][/us/stat/104/1718].)
+(Added [Pub. L. 99–399, title VIII][/us/pl/99/399/tVIII], § 801(e)(1), Aug. 27, 1986, [100 Stat. 888][/us/stat/100/888]; amended [Pub. L. 100–456, div. A, title XII][/us/pl/100/456/dA/tXII], § 1233(g)(4), Sept. 29, 1988, [102 Stat. 2058][/us/stat/102/2058]; [Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], § 1484(h)(6), Nov. 5, 1990, [104 Stat. 1718][/us/stat/104/1718].)
 
  __Codification__ 
 
@@ -37,11 +37,11 @@
 ----------
 
 [/us/usc/t37/s559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs559
-[/us/pl/99/399/s801/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs801%2Fe%2F1
+[/us/pl/99/399/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtVIII
 [/us/stat/100/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F888
-[/us/pl/100/456/s1233/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1233%2Fg%2F4
+[/us/pl/100/456/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtXII
 [/us/stat/102/2058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2058
-[/us/pl/101/510/s1484/h/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1484%2Fh%2F6
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1718
 [/us/usc/t37/s1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs1014
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510

@@ -125,7 +125,7 @@
 
             (D) The Secretary of Health and Human Services, with respect to the Public Health Service.
 
-(Added [Pub. L. 103–337, div. A, title VI, § 602(a)(1)][/us/pl/103/337/s602/a/1], Oct. 5, 1994, [108 Stat. 2779][/us/stat/108/2779]; amended [Pub. L. 107–296, title XVII, § 1704(c)][/us/pl/107/296/s1704/c], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 107–314, div. A, title VI, § 654(b)(2)][/us/pl/107/314/s654/b/2], Dec. 2, 2002, [116 Stat. 2582][/us/stat/116/2582].)
+(Added [Pub. L. 103–337, div. A, title VI][/us/pl/103/337/dA/tVI], § 602(a)(1), Oct. 5, 1994, [108 Stat. 2779][/us/stat/108/2779]; amended [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(c), Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 107–314, div. A, title VI][/us/pl/107/314/dA/tVI], § 654(b)(2), Dec. 2, 2002, [116 Stat. 2582][/us/stat/116/2582].)
 
  __Amendments__ 
 
@@ -143,7 +143,7 @@
 
  __Conditions on Provision of Allowance__ 
 
-[Pub. L. 103–337, div. A, title VI, § 602(b)][/us/pl/103/337/s602/b], Oct. 5, 1994, [108 Stat. 2781][/us/stat/108/2781], provided that:
+[Pub. L. 103–337, div. A, title VI][/us/pl/103/337/dA/tVI], § 602(b), Oct. 5, 1994, [108 Stat. 2781][/us/stat/108/2781], provided that:
 
 >     “(1) A cost-of-living allowance under [section 403b of title 37][/us/usc/t37/s403b], United States Code, as added by subsection (a), may not be provided until after the end of the 90-day period beginning on the date the Secretary of Defense submits the report required under paragraph (2).
 
@@ -169,11 +169,11 @@
 ----------
 
 [/us/usc/t37/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs401%2Fa
-[/us/pl/103/337/s602/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs602%2Fa%2F1
+[/us/pl/103/337/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtVI
 [/us/stat/108/2779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2779
-[/us/pl/107/296/s1704/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fc
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
-[/us/pl/107/314/s654/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs654%2Fb%2F2
+[/us/pl/107/314/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtVI
 [/us/stat/116/2582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2582
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
@@ -181,7 +181,7 @@
 [/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/103/337/s602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs602%2Fb
+[/us/pl/103/337/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtVI
 [/us/stat/108/2781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2781
 [/us/usc/t37/s403b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs403b
 [/us/usc/t37/s403b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs403b

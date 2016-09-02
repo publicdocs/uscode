@@ -17,7 +17,7 @@
 
     The Chairman and Vice Chairman of the Joint Chiefs of Staff are entitled to the allowances provided by law for the Chief of Staff of the Army.
 
-([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 476][/us/stat/76/476]; [Pub. L. 100–180, div. A, title XIII, § 1314(c)(1)][/us/pl/100/180/s1314/c/1], Dec. 4, 1987, [101 Stat. 1176][/us/stat/101/1176].)
+([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 476][/us/stat/76/476]; [Pub. L. 100–180, div. A, title XIII][/us/pl/100/180/dA/tXIII], § 1314(c)(1), Dec. 4, 1987, [101 Stat. 1176][/us/stat/101/1176].)
 
 <table>
 
@@ -69,7 +69,7 @@ Source (Statutes at Large)  </td>
 
  __Effective Date of 1987 Amendment__ 
 
-[Pub. L. 100–180, div. A, title XIII, § 1314(e)(2)][/us/pl/100/180/s1314/e/2], Dec. 4, 1987, [101 Stat. 1176][/us/stat/101/1176], provided that: 
+[Pub. L. 100–180, div. A, title XIII][/us/pl/100/180/dA/tXIII], § 1314(e)(2), Dec. 4, 1987, [101 Stat. 1176][/us/stat/101/1176], provided that: 
 
 > “The amendments made by subsections (c)(1), (d)(3), and (d)(4) \[amending this section and provisions set out as notes under sections 431 and 1009 of this title\] shall take effect as of October 1, 1986.”
 
@@ -82,10 +82,10 @@ Source (Statutes at Large)  </td>
 
 [/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F476
-[/us/pl/100/180/s1314/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1314%2Fc%2F1
+[/us/pl/100/180/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtXIII
 [/us/stat/101/1176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1176
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
-[/us/pl/100/180/s1314/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1314%2Fe%2F2
+[/us/pl/100/180/dA/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtXIII
 [/us/stat/101/1176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1176
 
 

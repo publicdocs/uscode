@@ -79,7 +79,7 @@
 
     (d) A determination by the President under subsection (a)(1) or (c) is final and is not subject to judicial review.
 
-(Added [Pub. L. 99–399, title VIII, § 806(a)(1)][/us/pl/99/399/s806/a/1], Aug. 27, 1986, [100 Stat. 884][/us/stat/100/884]; amended [Pub. L. 100–26, § 8(e)(11)][/us/pl/100/26/s8/e/11], Apr. 21, 1987, [101 Stat. 287][/us/stat/101/287]; [Pub. L. 101–510, div. A, title XIV, § 1484(d)(4)][/us/pl/101/510/s1484/d/4], (e)(2), Nov. 5, 1990, [104 Stat. 1717][/us/stat/104/1717]; [Pub. L. 102–25, title VII, § 702(b)(1)][/us/pl/102/25/s702/b/1]–(4), (c), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117]; [Pub. L. 102–484, div. A, title X, § 1054(a)(6)][/us/pl/102/484/s1054/a/6], (c)(2), Oct. 23, 1992, [106 Stat. 2502][/us/stat/106/2502].)
+(Added [Pub. L. 99–399, title VIII][/us/pl/99/399/tVIII], § 806(a)(1), Aug. 27, 1986, [100 Stat. 884][/us/stat/100/884]; amended [Pub. L. 100–26][/us/pl/100/26], § 8(e)(11), Apr. 21, 1987, [101 Stat. 287][/us/stat/101/287]; [Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], § 1484(d)(4), (e)(2), Nov. 5, 1990, [104 Stat. 1717][/us/stat/104/1717]; [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 702(b)(1)–(4), (c), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117]; [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1054(a)(6), (c)(2), Oct. 23, 1992, [106 Stat. 2502][/us/stat/106/2502].)
 
  __References in Text__ 
 
@@ -87,29 +87,29 @@
 
  __Amendments__ 
 
-    1992—Subsec. (c)(3)(A)(i). [Pub. L. 102–484, § 1054(c)(2)][/us/pl/102/484/s1054/c/2], made technical correction to directory language of [Pub. L. 102–25, § 702(b)(4)][/us/pl/102/25/s702/b/4]. See 1991 Amendment note below.
+    1992—Subsec. (c)(3)(A)(i). [Pub. L. 102–484][/us/pl/102/484], § 1054(c)(2), made technical correction to directory language of [Pub. L. 102–25][/us/pl/102/25], § 702(b)(4). See 1991 Amendment note below.
 
-    [Pub. L. 102–484, § 1054(a)(6)][/us/pl/102/484/s1054/a/6], made amendment identical to amendment by [Pub. L. 102–25, § 702(b)(4)][/us/pl/102/25/s702/b/4]. See 1991 Amendment note below.
+    [Pub. L. 102–484][/us/pl/102/484], § 1054(a)(6), made amendment identical to amendment by [Pub. L. 102–25][/us/pl/102/25], § 702(b)(4). See 1991 Amendment note below.
 
-    1991—Subsec. (c)(1). [Pub. L. 102–25, § 702(b)(2)][/us/pl/102/25/s702/b/2], struck out “of this subsection” after “paragraph (3)”.
+    1991—Subsec. (c)(1). [Pub. L. 102–25][/us/pl/102/25], § 702(b)(2), struck out “of this subsection” after “paragraph (3)”.
 
-    Subsec. (c)(3)(A)(i). [Pub. L. 102–25, § 702(b)(4)][/us/pl/102/25/s702/b/4], as amended by [Pub. L. 102–484, § 1054(c)(2)][/us/pl/102/484/s1054/c/2], struck out “of this subparagraph” after “clause (ii)”.
+    Subsec. (c)(3)(A)(i). [Pub. L. 102–25][/us/pl/102/25], § 702(b)(4), as amended by [Pub. L. 102–484][/us/pl/102/484], § 1054(c)(2), struck out “of this subparagraph” after “clause (ii)”.
 
-    Subsec. (c)(3)(B). [Pub. L. 102–25, § 702(b)(3)][/us/pl/102/25/s702/b/3], struck out “of this paragraph” after “subparagraph (A)”.
+    Subsec. (c)(3)(B). [Pub. L. 102–25][/us/pl/102/25], § 702(b)(3), struck out “of this paragraph” after “subparagraph (A)”.
 
-    Subsec. (c)(6). [Pub. L. 102–25, § 702(b)(2)][/us/pl/102/25/s702/b/2], struck out “of this subsection” after “paragraph (1)” and after “paragraph (3)(A)(ii)”.
+    Subsec. (c)(6). [Pub. L. 102–25][/us/pl/102/25], § 702(b)(2), struck out “of this subsection” after “paragraph (1)” and after “paragraph (3)(A)(ii)”.
 
-    Subsec. (d). [Pub. L. 102–25, § 702(b)(1)][/us/pl/102/25/s702/b/1], struck out “of this section” after “(c)”.
+    Subsec. (d). [Pub. L. 102–25][/us/pl/102/25], § 702(b)(1), struck out “of this section” after “(c)”.
 
-    1990—Subsec. (a)(1). [Pub. L. 101–510, § 1484(d)(4)][/us/pl/101/510/s1484/d/4], substituted “August 27, 1986” for “the date of the enactment of the Victims of Terrorism Compensation Act”.
+    1990—Subsec. (a)(1). [Pub. L. 101–510][/us/pl/101/510], § 1484(d)(4), substituted “August 27, 1986” for “the date of the enactment of the Victims of Terrorism Compensation Act”.
 
-    Subsec. (c)(2). [Pub. L. 101–510, § 1484(e)(2)][/us/pl/101/510/s1484/e/2], inserted “([5 U.S.C. 5569][/us/usc/t5/s5569] note)” after “Terrorism Compensation Act”.
+    Subsec. (c)(2). [Pub. L. 101–510][/us/pl/101/510], § 1484(e)(2), inserted “([5 U.S.C. 5569][/us/usc/t5/s5569] note)” after “Terrorism Compensation Act”.
 
     1987—Subsec. (a). [Pub. L. 100–26][/us/pl/100/26] substituted “In this section:” for “In this section—”, inserted “The term” at beginning of pars. (1) and (2), and substituted period for “; and” at end of par. (1).
 
  __Effective Date; Payments; Interest__ 
 
-[Pub. L. 99–399, title VIII, § 806(a)(3)][/us/pl/99/399/s806/a/3], Aug. 27, 1986, [100 Stat. 885][/us/stat/100/885], provided that:
+[Pub. L. 99–399, title VIII][/us/pl/99/399/tVIII], § 806(a)(3), Aug. 27, 1986, [100 Stat. 885][/us/stat/100/885], provided that:
 
 >     “(A)
 
@@ -131,17 +131,17 @@
 
  __Recalculation of Previous Payments__ 
 
-[Pub. L. 110–181, div. A, title VI, § 675(b)][/us/pl/110/181/s675/b], Jan. 28, 2008, [122 Stat. 187][/us/stat/122/187], provided that: 
+[Pub. L. 110–181, div. A, title VI][/us/pl/110/181/dA/tVI], § 675(b), Jan. 28, 2008, [122 Stat. 187][/us/stat/122/187], provided that: 
 
-> “In the case of any payment of back pay made to or for a person under section 667 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 \[[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 667\], set out below\] before the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of the Navy shall—
+> “In the case of any payment of back pay made to or for a person under section 667 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 \[[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 667\], set out below\] before the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of the Navy shall—
 
->     “(1) recalculate the amount of back pay to which the person is entitled by reason of the amendment made by subsection (a) \[amending [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 667\], set out below\]; and
+>     “(1) recalculate the amount of back pay to which the person is entitled by reason of the amendment made by subsection (a) \[amending [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 667\], set out below\]; and
 
 >     “(2) if the amount of back pay, as so recalculated, exceeds the amount of back pay so paid, pay the person, or the surviving spouse of the person, an amount equal to the excess.”
 
  __Back Pay for Members of the Navy and Marine Corps Selected for Promotion While Interned as Prisoners of War During World War II__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 667\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–169, as amended by [Pub. L. 110–181, div. A, title VI, § 675(a)][/us/pl/110/181/s675/a], Jan. 28, 2008, [122 Stat. 186][/us/stat/122/186], provided that:
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 667\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–169, as amended by [Pub. L. 110–181, div. A, title VI][/us/pl/110/181/dA/tVI], § 675(a), Jan. 28, 2008, [122 Stat. 186][/us/stat/122/186], provided that:
 
 >     “(a)  __Entitlement of Former Prisoners of War__  __.—__ 
 
@@ -227,43 +227,43 @@
 [/us/usc/t5/s5569/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5569%2Fd%2F2
 [/us/usc/t5/s8312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8312
 [/us/usc/t31/s3711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3711
-[/us/pl/99/399/s806/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs806%2Fa%2F1
+[/us/pl/99/399/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtVIII
 [/us/stat/100/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F884
-[/us/pl/100/26/s8/e/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs8%2Fe%2F11
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F287
-[/us/pl/101/510/s1484/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1484%2Fd%2F4
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1717
-[/us/pl/102/25/s702/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs702%2Fb%2F1
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F117
-[/us/pl/102/484/s1054/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1054%2Fa%2F6
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2502
 [/us/pl/99/399/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs802
 [/us/usc/t5/s5569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5569
-[/us/pl/102/484/s1054/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1054%2Fc%2F2
-[/us/pl/102/25/s702/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs702%2Fb%2F4
-[/us/pl/102/484/s1054/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1054%2Fa%2F6
-[/us/pl/102/25/s702/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs702%2Fb%2F4
-[/us/pl/102/25/s702/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs702%2Fb%2F2
-[/us/pl/102/25/s702/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs702%2Fb%2F4
-[/us/pl/102/484/s1054/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1054%2Fc%2F2
-[/us/pl/102/25/s702/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs702%2Fb%2F3
-[/us/pl/102/25/s702/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs702%2Fb%2F2
-[/us/pl/102/25/s702/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs702%2Fb%2F1
-[/us/pl/101/510/s1484/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1484%2Fd%2F4
-[/us/pl/101/510/s1484/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1484%2Fe%2F2
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
+[/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
+[/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
+[/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
+[/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/usc/t5/s5569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5569
 [/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
-[/us/pl/99/399/s806/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs806%2Fa%2F3
+[/us/pl/99/399/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2FtVIII
 [/us/stat/100/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F885
 [/us/usc/t37/s559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs559
 [/us/usc/t5/s5569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5569
-[/us/pl/110/181/s675/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs675%2Fb
+[/us/pl/110/181/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVI
 [/us/stat/122/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F187
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/110/181/s675/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs675%2Fa
+[/us/pl/110/181/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVI
 [/us/stat/122/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F186
 [/us/usc/t38/s101/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101%2F8
 [/us/pl/99/399/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F399%2Fs802

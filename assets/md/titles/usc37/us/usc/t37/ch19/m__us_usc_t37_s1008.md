@@ -19,7 +19,7 @@
 
     (b) Whenever the President considers it appropriate, but in no event later than January 1, 1967, and not less than once each four years thereafter, he shall direct a complete review of the principles and concepts of the compensation system for members of the uniformed services. Upon completion of such review he shall submit a detailed report to Congress summarizing the results of such review together with any recommendations he may have proposing changes in the statutory salary system and other elements of the compensation structure provided members of the uniformed services.
 
-(Added [Pub. L. 89–132, § 2(a)][/us/pl/89/132/s2/a], Aug. 21, 1965, [79 Stat. 546][/us/stat/79/546]; amended [Pub. L. 104–106, div. A, title VI, § 642(b)][/us/pl/104/106/s642/b], Feb. 10, 1996, [110 Stat. 368][/us/stat/110/368].)
+(Added [Pub. L. 89–132][/us/pl/89/132], § 2(a), Aug. 21, 1965, [79 Stat. 546][/us/stat/79/546]; amended [Pub. L. 104–106, div. A, title VI][/us/pl/104/106/dA/tVI], § 642(b), Feb. 10, 1996, [110 Stat. 368][/us/stat/110/368].)
 
  __Amendments__ 
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/89/132/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F132%2Fs2%2Fa
+[/us/pl/89/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F132
 [/us/stat/79/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F546
-[/us/pl/104/106/s642/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs642%2Fb
+[/us/pl/104/106/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtVI
 [/us/stat/110/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F368
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/89/132/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F132%2Fs10

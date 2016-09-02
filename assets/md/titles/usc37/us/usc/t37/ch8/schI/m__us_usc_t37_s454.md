@@ -57,7 +57,7 @@
 
     In this section, the term “congressional defense committees” has the meaning given that term in [section 101(a)(16) of title 10][/us/usc/t10/s101/a/16].
 
-(Added [Pub. L. 112–81, div. A, title VI, § 631(b)][/us/pl/112/81/s631/b], Dec. 31, 2011, [125 Stat. 1458][/us/stat/125/1458].)
+(Added [Pub. L. 112–81, div. A, title VI][/us/pl/112/81/dA/tVI], § 631(b), Dec. 31, 2011, [125 Stat. 1458][/us/stat/125/1458].)
 
 ----------
 
@@ -67,7 +67,7 @@
 ----------
 
 [/us/usc/t10/s101/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F16
-[/us/pl/112/81/s631/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Fb
+[/us/pl/112/81/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVI
 [/us/stat/125/1458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1458
 
 

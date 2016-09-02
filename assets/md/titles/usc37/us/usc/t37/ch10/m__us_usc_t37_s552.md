@@ -39,7 +39,7 @@
 
     (e) A member in a missing status who is continued in that status under [section 555 of this title][/us/usc/t37/s555] or under chapter 76 of title 10 is entitled to be credited with pay and allowances under subsection (a).
 
-(Added [Pub. L. 89–554, § 5(b)][/us/pl/89/554/s5/b], Sept. 6, 1966, [80 Stat. 625][/us/stat/80/625]; amended [Pub. L. 92–169, § 1][/us/pl/92/169/s1], Nov. 24, 1971, [85 Stat. 489][/us/stat/85/489]; [Pub. L. 92–482][/us/pl/92/482], Oct. 12, 1972, [86 Stat. 796][/us/stat/86/796]; [Pub. L. 93–26, § 1][/us/pl/93/26/s1], Apr. 27, 1973, [87 Stat. 26][/us/stat/87/26]; [Pub. L. 102–25, title VII, § 702(b)(1)][/us/pl/102/25/s702/b/1], (c), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117]; [Pub. L. 104–106, div. A, title V, § 569(c)(2)][/us/pl/104/106/s569/c/2], Feb. 10, 1996, [110 Stat. 351][/us/stat/110/351].)
+(Added [Pub. L. 89–554][/us/pl/89/554], § 5(b), Sept. 6, 1966, [80 Stat. 625][/us/stat/80/625]; amended [Pub. L. 92–169][/us/pl/92/169], § 1, Nov. 24, 1971, [85 Stat. 489][/us/stat/85/489]; [Pub. L. 92–482][/us/pl/92/482], Oct. 12, 1972, [86 Stat. 796][/us/stat/86/796]; [Pub. L. 93–26][/us/pl/93/26], § 1, Apr. 27, 1973, [87 Stat. 26][/us/stat/87/26]; [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 702(b)(1), (c), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117]; [Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 569(c)(2), Feb. 10, 1996, [110 Stat. 351][/us/stat/110/351].)
 
 <table>
 
@@ -187,11 +187,11 @@ Mar. 7, 1942, ch. 166, § 6 (2d sentence, as applicable to pay and allowances)
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–106, § 569(c)(2)(A)][/us/pl/104/106/s569/c/2/A], substituted “for all purposes” for “for all purposes, even though the Secretary concerned determines under [section 556(b) of this title][/us/usc/t37/s556/b] that the member died before the promotion was made”.
+    1996—Subsec. (a). [Pub. L. 104–106][/us/pl/104/106], § 569(c)(2)(A), substituted “for all purposes” for “for all purposes, even though the Secretary concerned determines under [section 556(b) of this title][/us/usc/t37/s556/b] that the member died before the promotion was made”.
 
-    Subsec. (b)(2). [Pub. L. 104–106, § 569(c)(2)(B)][/us/pl/104/106/s569/c/2/B], inserted “or under chapter 76 of title 10” before period at end.
+    Subsec. (b)(2). [Pub. L. 104–106][/us/pl/104/106], § 569(c)(2)(B), inserted “or under chapter 76 of title 10” before period at end.
 
-    Subsec. (e). [Pub. L. 104–106, § 569(c)(2)(C)][/us/pl/104/106/s569/c/2/C], inserted “or under chapter 76 of title 10” after “[section 555 of this title][/us/usc/t37/s555]”.
+    Subsec. (e). [Pub. L. 104–106][/us/pl/104/106], § 569(c)(2)(C), inserted “or under chapter 76 of title 10” after “[section 555 of this title][/us/usc/t37/s555]”.
 
     1991—Subsecs. (b), (c), (e). [Pub. L. 102–25][/us/pl/102/25] struck out “of this section” after “subsection (a)” wherever appearing.
 
@@ -203,7 +203,7 @@ Mar. 7, 1942, ch. 166, § 6 (2d sentence, as applicable to pay and allowances)
 
  __Effective Date of 1973 Amendment__ 
 
-[Pub. L. 93–26, § 2][/us/pl/93/26/s2], Apr. 27, 1973, [87 Stat. 26][/us/stat/87/26], provided that: 
+[Pub. L. 93–26][/us/pl/93/26], § 2, Apr. 27, 1973, [87 Stat. 26][/us/stat/87/26], provided that: 
 
 > “For the purposes of chapter 13 \[§ 1301 et seq.\] of title 38, United States Code, this Act \[amending this section\] becomes effective as of November 24, 1971. For all other purposes this Act becomes effective as of February 28, 1961.”
 
@@ -222,33 +222,33 @@ Mar. 7, 1942, ch. 166, § 6 (2d sentence, as applicable to pay and allowances)
 [/us/usc/t10/s1523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1523
 [/us/usc/t37/s555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs555
 [/us/usc/t37/s555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs555
-[/us/pl/89/554/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs5%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F625
-[/us/pl/92/169/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F169%2Fs1
+[/us/pl/92/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F169
 [/us/stat/85/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F489
 [/us/pl/92/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F482
 [/us/stat/86/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F796
-[/us/pl/93/26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F26%2Fs1
+[/us/pl/93/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F26
 [/us/stat/87/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F26
-[/us/pl/102/25/s702/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs702%2Fb%2F1
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F117
-[/us/pl/104/106/s569/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs569%2Fc%2F2
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F351
 [/us/usc/t37/s101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs101%2F3
 [/us/usc/t37/s101/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs101%2F18
 [/us/usc/t37/s101/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs101%2F5
 [/us/usc/t37/s101/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs101%2F23
-[/us/pl/104/106/s569/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs569%2Fc%2F2%2FA
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/usc/t37/s556/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs556%2Fb
-[/us/pl/104/106/s569/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs569%2Fc%2F2%2FB
-[/us/pl/104/106/s569/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs569%2Fc%2F2%2FC
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
+[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/usc/t37/s555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs555
 [/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
 [/us/pl/93/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F26
 [/us/pl/92/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F482
 [/us/usc/t37/s556/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs556%2Fb
 [/us/pl/92/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F169
-[/us/pl/93/26/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F26%2Fs2
+[/us/pl/93/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F26
 [/us/stat/87/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F26
 [/us/pl/92/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F169
 [/us/pl/92/169/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F169%2Fs3

@@ -57,13 +57,13 @@
 
     A member may be reimbursed as specified in regulations prescribed under [section 464 of this title][/us/usc/t37/s464] for travel and related expenses incurred by the member as a result of the cancellation of previously approved leave when the leave is cancelled in conjunction with the member’s participation in a contingency operation and the cancellation occurs within 48 hours of the time the leave would have commenced. The settlement for reimbursement under this subsection is final and conclusive.
 
-(Added [Pub. L. 112–81, div. A, title VI, § 631(b)][/us/pl/112/81/s631/b], Dec. 31, 2011, [125 Stat. 1457][/us/stat/125/1457]; amended [Pub. L. 113–66, div. A, title VI, § 621(c)(1)][/us/pl/113/66/s621/c/1], (h), Dec. 26, 2013, [127 Stat. 783][/us/stat/127/783], 784.)
+(Added [Pub. L. 112–81, div. A, title VI][/us/pl/112/81/dA/tVI], § 631(b), Dec. 31, 2011, [125 Stat. 1457][/us/stat/125/1457]; amended [Pub. L. 113–66, div. A, title VI][/us/pl/113/66/dA/tVI], § 621(c)(1), (h), Dec. 26, 2013, [127 Stat. 783][/us/stat/127/783], 784.)
 
  __Amendments__ 
 
-    2013—Subsec. (c)(3). [Pub. L. 113–66, § 621(h)][/us/pl/113/66/s621/h], substituted “(including household goods in temporary storage, but excluding packing and crating)” for “(including packing, crating, and household goods in temporary storage)”.
+    2013—Subsec. (c)(3). [Pub. L. 113–66][/us/pl/113/66], § 621(h), substituted “(including household goods in temporary storage, but excluding packing and crating)” for “(including packing, crating, and household goods in temporary storage)”.
 
-    Subsec. (g). [Pub. L. 113–66, § 621(c)(1)][/us/pl/113/66/s621/c/1], added subsec. (g).
+    Subsec. (g). [Pub. L. 113–66][/us/pl/113/66], § 621(c)(1), added subsec. (g).
 
 ----------
 
@@ -77,11 +77,11 @@
 [/us/usc/t10/s1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1173
 [/us/usc/t37/s464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs464
 [/us/usc/t37/s464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs464
-[/us/pl/112/81/s631/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Fb
+[/us/pl/112/81/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVI
 [/us/stat/125/1457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1457
-[/us/pl/113/66/s621/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs621%2Fc%2F1
+[/us/pl/113/66/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtVI
 [/us/stat/127/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F783
-[/us/pl/113/66/s621/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs621%2Fh
-[/us/pl/113/66/s621/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs621%2Fc%2F1
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 
 

@@ -21,7 +21,7 @@
 
     (c) When the crew of a naval vessel is separated from that vessel because of her wreck, loss, or destruction, the pay and emoluments of those officers and enlisted members that the Secretary considers (because of the sentence of a court-martial or the finding of a court of inquiry, or by other satisfactory evidence) to have done their utmost to save the vessel and, after the wreck, loss, or destruction, to have behaved themselves according to the discipline of the Navy, continue and shall be paid to them until their discharge or death, whichever is earlier.
 
-([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 486][/us/stat/76/486]; [Pub. L. 104–316, title I, § 118][/us/pl/104/316/s118], Oct. 19, 1996, [110 Stat. 3836][/us/stat/110/3836].)
+([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 486][/us/stat/76/486]; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 118, Oct. 19, 1996, [110 Stat. 3836][/us/stat/110/3836].)
 
 <table>
 
@@ -96,7 +96,7 @@ R.S. 1574.  </td>
 
 [/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F486
-[/us/pl/104/316/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs118
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3836
 [/us/usc/t10/s6144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6144
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316

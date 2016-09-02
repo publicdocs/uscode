@@ -17,7 +17,7 @@
 
     Appropriations of the Department of Defense that are available for travel may not, without the approval of the Secretary concerned or his designee, be used for expenses incident to attendance of a member of an armed force under that department at a meeting of a technical, scientific, professional, or similar organization.
 
-([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 476][/us/stat/76/476], § 412; renumbered § 455, [Pub. L. 112–81, div. A, title VI, § 631(d)(1)][/us/pl/112/81/s631/d/1], Dec. 31, 2011, [125 Stat. 1460][/us/stat/125/1460].)
+([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 476][/us/stat/76/476], § 412; renumbered § 455, [Pub. L. 112–81, div. A, title VI][/us/pl/112/81/dA/tVI], § 631(d)(1), Dec. 31, 2011, [125 Stat. 1460][/us/stat/125/1460].)
 
 <table>
 
@@ -100,7 +100,7 @@ Act Aug. 1, 1953, cited as the source of this section in the Historical and Revi
 
 [/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F476
-[/us/pl/112/81/s631/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Fd%2F1
+[/us/pl/112/81/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVI
 [/us/stat/125/1460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1460
 [/us/pl/85/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F507
 [/us/stat/72/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F327

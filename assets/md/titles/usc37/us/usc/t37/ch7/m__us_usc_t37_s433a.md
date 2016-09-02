@@ -31,7 +31,7 @@
 
         (2) Payment of a stipend to a member of the Individual Ready Reserve under this section for participation in screening shall be made on or after the date of participation in such screening, but not later than 30 days after such date.
 
-(Added [Pub. L. 110–181, div. A, title VI, § 633(a)(1)][/us/pl/110/181/s633/a/1], Jan. 28, 2008, [122 Stat. 154][/us/stat/122/154].)
+(Added [Pub. L. 110–181, div. A, title VI][/us/pl/110/181/dA/tVI], § 633(a)(1), Jan. 28, 2008, [122 Stat. 154][/us/stat/122/154].)
 
 ----------
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t10/s10149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10149
 [/us/usc/t10/s12319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12319
-[/us/pl/110/181/s633/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs633%2Fa%2F1
+[/us/pl/110/181/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVI
 [/us/stat/122/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F154
 
 

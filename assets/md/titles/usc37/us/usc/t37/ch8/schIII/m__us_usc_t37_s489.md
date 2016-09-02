@@ -23,25 +23,25 @@
 
     No transportation or allowance may be provided under this section for travel that begins after the travel authorities transition expiration date.
 
-(Added [Pub. L. 95–561, title XIV, § 1407(e)(1)(A)][/us/pl/95/561/s1407/e/1/A], formerly § 1407(c)(1)(A), Nov. 1, 1978, [92 Stat. 2367][/us/stat/92/2367], renumbered § 1407(d)(1)(A), [Pub. L. 101–510, div. A, title V, § 504(a)(1)][/us/pl/101/510/s504/a/1], Nov. 5, 1990, [104 Stat. 1559][/us/stat/104/1559], renumbered § 1407(e)(1)(A), [Pub. L. 107–107, div. A, title III, § 353(1)][/us/pl/107/107/s353/1], Dec. 28, 2001, [115 Stat. 1063][/us/stat/115/1063], § 429; amended [Pub. L. 99–145, title XIII, § 1303(b)(10)][/us/pl/99/145/s1303/b/10], Nov. 8, 1985, [99 Stat. 741][/us/stat/99/741]; renumbered § 489 and amended [Pub. L. 112–81, div. A, title VI, § 631(d)(2)][/us/pl/112/81/s631/d/2], (e)(28), Dec. 31, 2011, [125 Stat. 1460][/us/stat/125/1460], 1464; [Pub. L. 112–239, div. A, title X, § 1076(a)(6)][/us/pl/112/239/s1076/a/6], Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948].)
+(Added [Pub. L. 95–561, title XIV][/us/pl/95/561/tXIV], § 1407(e)(1)(A), formerly § 1407(c)(1)(A), Nov. 1, 1978, [92 Stat. 2367][/us/stat/92/2367], renumbered § 1407(d)(1)(A), [Pub. L. 101–510, div. A, title V][/us/pl/101/510/dA/tV], § 504(a)(1), Nov. 5, 1990, [104 Stat. 1559][/us/stat/104/1559], renumbered § 1407(e)(1)(A), [Pub. L. 107–107, div. A, title III][/us/pl/107/107/dA/tIII], § 353(1), Dec. 28, 2001, [115 Stat. 1063][/us/stat/115/1063], § 429; amended [Pub. L. 99–145, title XIII][/us/pl/99/145/tXIII], § 1303(b)(10), Nov. 8, 1985, [99 Stat. 741][/us/stat/99/741]; renumbered § 489 and amended [Pub. L. 112–81, div. A, title VI][/us/pl/112/81/dA/tVI], § 631(d)(2), (e)(28), Dec. 31, 2011, [125 Stat. 1460][/us/stat/125/1460], 1464; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(a)(6), Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948].)
 
  __References in Text__ 
 
-    The Defense Dependents’ Education Act of 1978, referred to in subsec. (a), is [Pub. L. 95–561, title XIV][/us/pl/95/561], Nov. 1, 1978, [92 Stat. 2365][/us/stat/92/2365], which is classified principally to chapter 25A (§ 921 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 921 of Title 20][/us/usc/t20/s921] and Tables.
+    The Defense Dependents’ Education Act of 1978, referred to in subsec. (a), is [Pub. L. 95–561, title XIV][/us/pl/95/561/tXIV], Nov. 1, 1978, [92 Stat. 2365][/us/stat/92/2365], which is classified principally to chapter 25A (§ 921 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 921 of Title 20][/us/usc/t20/s921] and Tables.
 
  __Amendments__ 
 
-    2013—[Pub. L. 112–239, § 1076(a)(6)][/us/pl/112/239/s1076/a/6], made technical amendment to directory language of [Pub. L. 112–81, § 631(e)(28)][/us/pl/112/81/s631/e/28]. See 2011 Amendment note below.
+    2013—[Pub. L. 112–239][/us/pl/112/239], § 1076(a)(6), made technical amendment to directory language of [Pub. L. 112–81][/us/pl/112/81], § 631(e)(28). See 2011 Amendment note below.
 
-    2011—[Pub. L. 112–81, § 631(e)(28)][/us/pl/112/81/s631/e/28], as amended by [Pub. L. 112–239, § 1076(a)(6)][/us/pl/112/239/s1076/a/6], inserted subsec. (a) designation and heading before “Under regulations” and added subsec. (b).
+    2011—[Pub. L. 112–81][/us/pl/112/81], § 631(e)(28), as amended by [Pub. L. 112–239][/us/pl/112/239], § 1076(a)(6), inserted subsec. (a) designation and heading before “Under regulations” and added subsec. (b).
 
-    [Pub. L. 112–81, § 631(d)(2)][/us/pl/112/81/s631/d/2], renumbered [section 429 of this title][/us/usc/t37/s429] as this section.
+    [Pub. L. 112–81][/us/pl/112/81], § 631(d)(2), renumbered [section 429 of this title][/us/usc/t37/s429] as this section.
 
     1985—[Pub. L. 99–145][/us/pl/99/145] inserted “([20 U.S.C. 921][/us/usc/t20/s921] et seq.)”.
 
  __Effective Date of 2013 Amendment__ 
 
-    [Pub. L. 112–239, div. A, title X, § 1076(a)][/us/pl/112/239/s1076/a], Jan. 2, 2013, [126 Stat. 1947][/us/stat/126/1947], provided that the amendment made by section 1076(a)(6) is effective Dec. 31, 2011, and as if included in [Pub. L. 112–81][/us/pl/112/81] as enacted.
+    [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(a), Jan. 2, 2013, [126 Stat. 1947][/us/stat/126/1947], provided that the amendment made by section 1076(a)(6) is effective Dec. 31, 2011, and as if included in [Pub. L. 112–81][/us/pl/112/81] as enacted.
 
  __Effective Date__ 
 
@@ -67,30 +67,30 @@
 ----------
 
 [/us/usc/t20/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs921
-[/us/pl/95/561/s1407/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1407%2Fe%2F1%2FA
+[/us/pl/95/561/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXIV
 [/us/stat/92/2367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2367
-[/us/pl/101/510/s504/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs504%2Fa%2F1
+[/us/pl/101/510/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtV
 [/us/stat/104/1559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1559
-[/us/pl/107/107/s353/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs353%2F1
+[/us/pl/107/107/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtIII
 [/us/stat/115/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1063
-[/us/pl/99/145/s1303/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1303%2Fb%2F10
+[/us/pl/99/145/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXIII
 [/us/stat/99/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F741
-[/us/pl/112/81/s631/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Fd%2F2
+[/us/pl/112/81/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVI
 [/us/stat/125/1460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1460
-[/us/pl/112/239/s1076/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F6
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1948
-[/us/pl/95/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561
+[/us/pl/95/561/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXIV
 [/us/stat/92/2365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2365
 [/us/usc/t20/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs921
-[/us/pl/112/239/s1076/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F6
-[/us/pl/112/81/s631/e/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Fe%2F28
-[/us/pl/112/81/s631/e/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Fe%2F28
-[/us/pl/112/239/s1076/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F6
-[/us/pl/112/81/s631/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Fd%2F2
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/usc/t37/s429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs429
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 [/us/usc/t20/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs921
-[/us/pl/112/239/s1076/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1947
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/95/561/s1415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1415

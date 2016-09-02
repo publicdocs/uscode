@@ -19,7 +19,7 @@
 
     (b) Except as provided in subsection (a) and [section 701(h) of title 10][/us/usc/t10/s701/h], a member who is authorized by the Secretary concerned, or his designated representative, to be absent for a period that is longer than the leave authorized by [section 701 of title 10][/us/usc/t10/s701] is not entitled to pay or allowances during the part of his absence that is more than the number of days’ leave authorized by that section.
 
-([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 482][/us/stat/76/482]; [Pub. L. 89–718, § 49(a)(1)][/us/pl/89/718/s49/a/1], Nov. 2, 1966, [80 Stat. 1121][/us/stat/80/1121]; [Pub. L. 96–513, title V, § 516(15)][/us/pl/96/513/s516/15], Dec. 12, 1980, [94 Stat. 2939][/us/stat/94/2939]; [Pub. L. 99–661, div. A, title V, § 506(b)][/us/pl/99/661/s506/b], Nov. 14, 1986, [100 Stat. 3865][/us/stat/100/3865]; [Pub. L. 102–25, title VII, § 702(b)(1)][/us/pl/102/25/s702/b/1], (c), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117].)
+([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 482][/us/stat/76/482]; [Pub. L. 89–718][/us/pl/89/718], § 49(a)(1), Nov. 2, 1966, [80 Stat. 1121][/us/stat/80/1121]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 516(15), Dec. 12, 1980, [94 Stat. 2939][/us/stat/94/2939]; [Pub. L. 99–661, div. A, title V][/us/pl/99/661/dA/tV], § 506(b), Nov. 14, 1986, [100 Stat. 3865][/us/stat/100/3865]; [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 702(b)(1), (c), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117].)
 
 <table>
 
@@ -151,13 +151,13 @@ Aug. 9, 1946, ch. 931, § 2(f) (last 8 words), 60 Stat. 963.  </td>
 [/us/usc/t10/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs701
 [/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F482
-[/us/pl/89/718/s49/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs49%2Fa%2F1
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1121
-[/us/pl/96/513/s516/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs516%2F15
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2939
-[/us/pl/99/661/s506/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs506%2Fb
+[/us/pl/99/661/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtV
 [/us/stat/100/3865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3865
-[/us/pl/102/25/s702/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs702%2Fb%2F1
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F117
 [/us/stat/59/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F663
 [/us/stat/61/892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F892

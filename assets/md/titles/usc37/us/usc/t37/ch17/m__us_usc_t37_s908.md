@@ -33,7 +33,7 @@
 
     For a provision of law providing the consent of Congress to service in the military forces of certain foreign nations, see [section 1060 of title 10][/us/usc/t10/s1060].
 
-(Added [Pub. L. 97–295, § 3(6)(A)][/us/pl/97/295/s3/6/A], Oct. 12, 1982, [96 Stat. 1304][/us/stat/96/1304]; amended [Pub. L. 102–25, title VII, § 702(b)(1)][/us/pl/102/25/s702/b/1], (c), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117]; [Pub. L. 103–160, div. A, title XIV, § 1433(c)][/us/pl/103/160/s1433/c], Nov. 30, 1993, [107 Stat. 1834][/us/stat/107/1834]; [Pub. L. 103–337, div. A, title X, § 1070(d)(6)][/us/pl/103/337/s1070/d/6], Oct. 5, 1994, [108 Stat. 2858][/us/stat/108/2858].)
+(Added [Pub. L. 97–295][/us/pl/97/295], § 3(6)(A), Oct. 12, 1982, [96 Stat. 1304][/us/stat/96/1304]; amended [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 702(b)(1), (c), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117]; [Pub. L. 103–160, div. A, title XIV][/us/pl/103/160/dA/tXIV], § 1433(c), Nov. 30, 1993, [107 Stat. 1834][/us/stat/107/1834]; [Pub. L. 103–337, div. A, title X][/us/pl/103/337/dA/tX], § 1070(d)(6), Oct. 5, 1994, [108 Stat. 2858][/us/stat/108/2858].)
 
 <table>
 
@@ -101,13 +101,13 @@ The text of [section 509(c) of the Act of August 17, 1977][/us/act/1977-08-17/s5
 ----------
 
 [/us/usc/t10/s1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1060
-[/us/pl/97/295/s3/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs3%2F6%2FA
+[/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/stat/96/1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1304
-[/us/pl/102/25/s702/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs702%2Fb%2F1
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F117
-[/us/pl/103/160/s1433/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1433%2Fc
+[/us/pl/103/160/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXIV
 [/us/stat/107/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1834
-[/us/pl/103/337/s1070/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1070%2Fd%2F6
+[/us/pl/103/337/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtX
 [/us/stat/108/2858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2858
 [/us/act/1977-08-17/s509/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1977-08-17%2Fs509%2Fc
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337

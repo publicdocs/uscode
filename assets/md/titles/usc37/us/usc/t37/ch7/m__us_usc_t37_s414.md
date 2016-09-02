@@ -47,7 +47,7 @@
 
     In addition to other pay or allowances authorized by this title, a noncommissioned officer is entitled to a personal money allowance of $2,000 a year while serving as the Sergeant Major of the Army, the Master Chief Petty Officer of the Navy, the Chief Master Sergeant of the Air Force, the Sergeant Major of the Marine Corps, the Master Chief Petty Officer of the Coast Guard, the Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff, or the Senior Enlisted Advisor to the Chief of the National Guard Bureau.
 
-([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 476][/us/stat/76/476]; [Pub. L. 89–718, § 49(a)(2)][/us/pl/89/718/s49/a/2], Nov. 2, 1966, [80 Stat. 1121][/us/stat/80/1121]; [Pub. L. 102–25, title VII, § 702(b)(2)][/us/pl/102/25/s702/b/2], Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 609(a), (b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–149; [Pub. L. 108–375, div. A, title V, § 557(a)(2)][/us/pl/108/375/s557/a/2], Oct. 28, 2004, [118 Stat. 1915][/us/stat/118/1915]; [Pub. L. 109–148, div. A, title VIII, § 8124(b)][/us/pl/109/148/s8124/b], Dec. 30, 2005, [119 Stat. 2727][/us/stat/119/2727]; [Pub. L. 109–163, div. A, title VI, § 685(c)][/us/pl/109/163/s685/c], Jan. 6, 2006, [119 Stat. 3325][/us/stat/119/3325]; [Pub. L. 109–364, div. A, title X, § 1071(c)(7)][/us/pl/109/364/s1071/c/7], Oct. 17, 2006, [120 Stat. 2401][/us/stat/120/2401]; [Pub. L. 113–291, div. A, title VI, § 603(c)][/us/pl/113/291/s603/c], Dec. 19, 2014, [128 Stat. 3398][/us/stat/128/3398].)
+([Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 476][/us/stat/76/476]; [Pub. L. 89–718][/us/pl/89/718], § 49(a)(2), Nov. 2, 1966, [80 Stat. 1121][/us/stat/80/1121]; [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 702(b)(2), Apr. 6, 1991, [105 Stat. 117][/us/stat/105/117]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 609(a), (b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–149; [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 557(a)(2), Oct. 28, 2004, [118 Stat. 1915][/us/stat/118/1915]; [Pub. L. 109–148, div. A, title VIII][/us/pl/109/148/dA/tVIII], § 8124(b), Dec. 30, 2005, [119 Stat. 2727][/us/stat/119/2727]; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 685(c), Jan. 6, 2006, [119 Stat. 3325][/us/stat/119/3325]; [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1071(c)(7), Oct. 17, 2006, [120 Stat. 2401][/us/stat/120/2401]; [Pub. L. 113–291, div. A, title VI][/us/pl/113/291/dA/tVI], § 603(c), Dec. 19, 2014, [128 Stat. 3398][/us/stat/128/3398].)
 
 <table>
 
@@ -113,25 +113,25 @@ Aug. 2, 1946, ch. 756, § 3, 60 Stat. 853.  </td>
 
  __Amendments__ 
 
-    2014—Subsec. (a)(5). [Pub. L. 113–291, § 603(c)(1)][/us/pl/113/291/s603/c/1], substituted “Commandant of the Coast Guard, or Chief of the National Guard Bureau” for “or Commandant of the Coast Guard”.
+    2014—Subsec. (a)(5). [Pub. L. 113–291][/us/pl/113/291], § 603(c)(1), substituted “Commandant of the Coast Guard, or Chief of the National Guard Bureau” for “or Commandant of the Coast Guard”.
 
-    Subsec. (c). [Pub. L. 113–291, § 603(c)(2)][/us/pl/113/291/s603/c/2], substituted “the Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff, or the Senior Enlisted Advisor to the Chief of the National Guard Bureau” for “or the Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff”.
+    Subsec. (c). [Pub. L. 113–291][/us/pl/113/291], § 603(c)(2), substituted “the Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff, or the Senior Enlisted Advisor to the Chief of the National Guard Bureau” for “or the Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff”.
 
     2006—Subsec. (c). [Pub. L. 109–364][/us/pl/109/364] struck out before period at end “, or the Senior Enlisted Advisor for the Chairman of the Joint Chiefs of Staff”.
 
-    [Pub. L. 109–163, § 685(c)(2)][/us/pl/109/163/s685/c/2] inserted before period at end “, or the Senior Enlisted Advisor for the Chairman of the Joint Chiefs of Staff”.
+    [Pub. L. 109–163][/us/pl/109/163], § 685(c)(2) inserted before period at end “, or the Senior Enlisted Advisor for the Chairman of the Joint Chiefs of Staff”.
 
-    [Pub. L. 109–163, § 685(c)(1)][/us/pl/109/163/s685/c/1], which directed that subsec. (c) be amended by striking “or” after “Sergeant Major of the Marine Corps,” could not be executed because of prior amendment by [Pub. L. 109–148][/us/pl/109/148]. See below.
+    [Pub. L. 109–163][/us/pl/109/163], § 685(c)(1), which directed that subsec. (c) be amended by striking “or” after “Sergeant Major of the Marine Corps,” could not be executed because of prior amendment by [Pub. L. 109–148][/us/pl/109/148]. See below.
 
     2005–Subsec. (c). [Pub. L. 109–148][/us/pl/109/148] substituted “the Master Chief Petty Officer of the Coast Guard, or the Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff” for “or the Master Chief Petty Officer of the Coast Guard”.
 
     2004—Subsec. (b)(1). [Pub. L. 108–375][/us/pl/108/375] substituted “President of the Naval Postgraduate School” for “Superintendent of the Naval Postgraduate School”.
 
-    2000—Subsec. (a). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 609(b)(1)\], inserted heading.
+    2000—Subsec. (a). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 609(b)(1)\], inserted heading.
 
-    Subsec. (b). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 609(b)(2)\], inserted heading.
+    Subsec. (b). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 609(b)(2)\], inserted heading.
 
-    Subsec. (c). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 609(a)\], added subsec. (c).
+    Subsec. (c). [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 609(a)\], added subsec. (c).
 
     1991—Subsec. (a)(3). [Pub. L. 102–25][/us/pl/102/25] struck out “of this subsection” after “clause (1)”.
 
@@ -143,7 +143,7 @@ Aug. 2, 1946, ch. 756, § 3, 60 Stat. 853.  </td>
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 609(c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–149, provided that: 
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VI, § 609(c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–149, provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on October 1, 2000.”
 
@@ -162,39 +162,39 @@ Aug. 2, 1946, ch. 756, § 3, 60 Stat. 853.  </td>
 
 [/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F476
-[/us/pl/89/718/s49/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs49%2Fa%2F2
+[/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/stat/80/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1121
-[/us/pl/102/25/s702/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs702%2Fb%2F2
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F117
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/108/375/s557/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs557%2Fa%2F2
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1915
-[/us/pl/109/148/s8124/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F148%2Fs8124%2Fb
+[/us/pl/109/148/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F148%2FdA%2FtVIII
 [/us/stat/119/2727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2727
-[/us/pl/109/163/s685/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs685%2Fc
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3325
-[/us/pl/109/364/s1071/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fc%2F7
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2401
-[/us/pl/113/291/s603/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs603%2Fc
+[/us/pl/113/291/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVI
 [/us/stat/128/3398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3398
-[/us/pl/113/291/s603/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs603%2Fc%2F1
-[/us/pl/113/291/s603/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs603%2Fc%2F2
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
-[/us/pl/109/163/s685/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs685%2Fc%2F2
-[/us/pl/109/163/s685/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs685%2Fc%2F1
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/109/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F148
 [/us/pl/109/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F148
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
 [/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/291/s603/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs603%2Fe
 [/us/usc/t10/s1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1406
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/stat/80/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1610

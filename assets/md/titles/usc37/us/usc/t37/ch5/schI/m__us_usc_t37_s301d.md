@@ -37,7 +37,7 @@
 
     An officer who does not complete the period of active duty specified in the agreement entered into under subsection (a) shall be subject to the repayment provisions of [section 303a(e) of this title][/us/usc/t37/s303a/e].
 
-(Added [Pub. L. 101–510, div. A, title VI, § 611(a)(1)][/us/pl/101/510/s611/a/1], Nov. 5, 1990, [104 Stat. 1576][/us/stat/104/1576]; amended [Pub. L. 102–484, div. A, title X, § 1054(a)(2)][/us/pl/102/484/s1054/a/2], Oct. 23, 1992, [106 Stat. 2502][/us/stat/106/2502]; [Pub. L. 107–314, div. A, title VI, § 615(a)][/us/pl/107/314/s615/a], Dec. 2, 2002, [116 Stat. 2568][/us/stat/116/2568]; [Pub. L. 109–163, div. A, title VI, § 687(b)(2)][/us/pl/109/163/s687/b/2], Jan. 6, 2006, [119 Stat. 3327][/us/stat/119/3327]; [Pub. L. 110–181, div. A, title VI, § 615(b)][/us/pl/110/181/s615/b], Jan. 28, 2008, [122 Stat. 150][/us/stat/122/150].)
+(Added [Pub. L. 101–510, div. A, title VI][/us/pl/101/510/dA/tVI], § 611(a)(1), Nov. 5, 1990, [104 Stat. 1576][/us/stat/104/1576]; amended [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1054(a)(2), Oct. 23, 1992, [106 Stat. 2502][/us/stat/106/2502]; [Pub. L. 107–314, div. A, title VI][/us/pl/107/314/dA/tVI], § 615(a), Dec. 2, 2002, [116 Stat. 2568][/us/stat/116/2568]; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163/dA/tVI], § 687(b)(2), Jan. 6, 2006, [119 Stat. 3327][/us/stat/119/3327]; [Pub. L. 110–181, div. A, title VI][/us/pl/110/181/dA/tVI], § 615(b), Jan. 28, 2008, [122 Stat. 150][/us/stat/122/150].)
 
  __Amendments__ 
 
@@ -47,13 +47,13 @@
 
     2002—Subsec. (a)(2). [Pub. L. 107–314][/us/pl/107/314] substituted “$50,000” for “$14,000”.
 
-    1992—Subsec. (c)(2). [Pub. L. 102–484, § 1054(a)(2)(A)][/us/pl/102/484/s1054/a/2/A], substituted “owed” for “owned”.
+    1992—Subsec. (c)(2). [Pub. L. 102–484][/us/pl/102/484], § 1054(a)(2)(A), substituted “owed” for “owned”.
 
-    Subsec. (c)(3). [Pub. L. 102–484, § 1054(a)(2)(B)][/us/pl/102/484/s1054/a/2/B], substituted “November 5, 1990” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 1991”.
+    Subsec. (c)(3). [Pub. L. 102–484][/us/pl/102/484], § 1054(a)(2)(B), substituted “November 5, 1990” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 1991”.
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–181, div. A, title VI, § 615(c)][/us/pl/110/181/s615/c], Jan. 28, 2008, [122 Stat. 150][/us/stat/122/150], provided that: 
+[Pub. L. 110–181, div. A, title VI][/us/pl/110/181/dA/tVI], § 615(c), Jan. 28, 2008, [122 Stat. 150][/us/stat/122/150], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 302 of this title][/us/usc/t37/s302]\] shall apply with respect to agreements entered into under section 301d(a) or 302b(c) of title 37, United States Code, on or after the date of the enactment of this Act \[Jan. 28, 2008\].”
 
@@ -63,13 +63,13 @@
 
  __Application of Increase__ 
 
-[Pub. L. 107–314, div. A, title VI, § 615(i)][/us/pl/107/314/s615/i], Dec. 2, 2002, [116 Stat. 2569][/us/stat/116/2569], provided that: 
+[Pub. L. 107–314, div. A, title VI][/us/pl/107/314/dA/tVI], § 615(i), Dec. 2, 2002, [116 Stat. 2569][/us/stat/116/2569], provided that: 
 
 > “In the case of an amendment made by this section \[amending sections 301d, 301e, 302, 302a, 302d, 302e, and 302i of this title and [section 2130a of Title 10][/us/usc/t10/s2130a], Armed Forces\] to increase the maximum amount of a special pay or bonus that may be paid during any 12-month period, the amended limitation shall apply to 12-month periods beginning after September 30, 2002.”
 
  __Eligibility of Flag and General Officers for Multiyear Retention Bonus for Medical Officers__ 
 
-[Pub. L. 102–190, div. A, title VI, § 615][/us/pl/102/190/s615], Dec. 5, 1991, [105 Stat. 1377][/us/stat/105/1377], provided that:
+[Pub. L. 102–190, div. A, title VI][/us/pl/102/190/dA/tVI], § 615, Dec. 5, 1991, [105 Stat. 1377][/us/stat/105/1377], provided that:
 
 >     “(a)  __Reiterating Ineligibility__  __.—__ 
 
@@ -91,13 +91,13 @@
 
 >             “(B) the end of the period covered by the bonus payment or payments received by that officer as described in that paragraph.”
 
-[Pub. L. 102–172, title VIII, § 8084][/us/pl/102/172/s8084], Nov. 26, 1991, [105 Stat. 1192][/us/stat/105/1192], provided that: 
+[Pub. L. 102–172, title VIII][/us/pl/102/172/tVIII], § 8084, Nov. 26, 1991, [105 Stat. 1192][/us/stat/105/1192], provided that: 
 
 > “Restrictions provided under subsection (b)(2) of [section 301d of title 37][/us/usc/t37/s301d], United States Code, as authorized by the National Defense Authorization Act for Fiscal Year 1991 ([Public Law 101–510][/us/pl/101/510]), and hereafter, shall not apply in the case of flag or general officers serving as full-time practicing physicians.”
 
  __Termination of Existing Retention Bonus Agreement__ 
 
-[Pub. L. 101–510, div. A, title VI, § 611(b)][/us/pl/101/510/s611/b], Nov. 5, 1990, [104 Stat. 1576][/us/stat/104/1576], provided that:
+[Pub. L. 101–510, div. A, title VI][/us/pl/101/510/dA/tVI], § 611(b), Nov. 5, 1990, [104 Stat. 1576][/us/stat/104/1576], provided that:
 
 >     “(1) Subject to the approval of the Secretary of the military department concerned, a medical officer who is eligible to enter into a retention bonus agreement under [section 301d of title 37][/us/usc/t37/s301d], United States Code (as added by subsection (a)) may terminate any existing retention bonus agreement entered into by that officer under \[section\] 612 of the National Defense Authorization Act, Fiscal Year 1989 \[[Pub. L. 100–456][/us/pl/100/456]\] ([37 U.S.C. 302][/us/usc/t37/s302] note), in order to enter into an agreement under section 301d of such title containing an active-duty service obligation that is not less than the active-duty service obligation remaining under the existing agreement on the date of its termination.
 
@@ -112,40 +112,40 @@
 
 [/us/usc/t37/s302/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs302%2Fg
 [/us/usc/t37/s303a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs303a%2Fe
-[/us/pl/101/510/s611/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs611%2Fa%2F1
+[/us/pl/101/510/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtVI
 [/us/stat/104/1576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1576
-[/us/pl/102/484/s1054/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1054%2Fa%2F2
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2502
-[/us/pl/107/314/s615/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs615%2Fa
+[/us/pl/107/314/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtVI
 [/us/stat/116/2568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2568
-[/us/pl/109/163/s687/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Fb%2F2
+[/us/pl/109/163/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVI
 [/us/stat/119/3327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3327
-[/us/pl/110/181/s615/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs615%2Fb
+[/us/pl/110/181/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVI
 [/us/stat/122/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F150
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
-[/us/pl/102/484/s1054/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1054%2Fa%2F2%2FA
-[/us/pl/102/484/s1054/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1054%2Fa%2F2%2FB
-[/us/pl/110/181/s615/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs615%2Fc
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/110/181/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVI
 [/us/stat/122/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F150
 [/us/usc/t37/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs302
 [/us/pl/109/163/s687/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Fb
 [/us/pl/109/163/s687/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs687%2Ff
 [/us/usc/t10/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs510
-[/us/pl/107/314/s615/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs615%2Fi
+[/us/pl/107/314/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtVI
 [/us/stat/116/2569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2569
 [/us/usc/t10/s2130a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2130a
-[/us/pl/102/190/s615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs615
+[/us/pl/102/190/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVI
 [/us/stat/105/1377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1377
 [/us/usc/t37/s301d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs301d
 [/us/usc/t37/s301d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs301d
 [/us/usc/t37/s301d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs301d
-[/us/pl/102/172/s8084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F172%2Fs8084
+[/us/pl/102/172/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F172%2FtVIII
 [/us/stat/105/1192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1192
 [/us/usc/t37/s301d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs301d
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
-[/us/pl/101/510/s611/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs611%2Fb
+[/us/pl/101/510/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtVI
 [/us/stat/104/1576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1576
 [/us/usc/t37/s301d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs301d
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456

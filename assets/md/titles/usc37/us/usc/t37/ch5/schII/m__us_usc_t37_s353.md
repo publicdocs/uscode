@@ -99,11 +99,11 @@
 
     No agreement may be entered into under this section after December 31, 2016.
 
-(Added [Pub. L. 110–181, div. A, title VI, § 661(a)(2)][/us/pl/110/181/s661/a/2], Jan. 28, 2008, [122 Stat. 175][/us/stat/122/175]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 619(a), Oct. 14, 2008, [122 Stat. 4487][/us/stat/122/4487]; [Pub. L. 111–84, div. A, title VI][/us/pl/111/84], §§ 614(8), 618(d), Oct. 28, 2009, [123 Stat. 2354][/us/stat/123/2354], 2356; [Pub. L. 111–383, div. A, title VI, § 614(8)][/us/pl/111/383/s614/8], Jan. 7, 2011, [124 Stat. 4237][/us/stat/124/4237]; [Pub. L. 112–81, div. A, title VI, § 614(8)][/us/pl/112/81/s614/8], Dec. 31, 2011, [125 Stat. 1450][/us/stat/125/1450]; [Pub. L. 112–239, div. A, title VI, § 614(8)][/us/pl/112/239/s614/8], Jan. 2, 2013, [126 Stat. 1777][/us/stat/126/1777]; [Pub. L. 113–66, div. A, title VI, § 614(8)][/us/pl/113/66/s614/8], Dec. 26, 2013, [127 Stat. 781][/us/stat/127/781]; [Pub. L. 113–291, div. A, title VI, § 614(9)][/us/pl/113/291/s614/9], Dec. 19, 2014, [128 Stat. 3401][/us/stat/128/3401]; [Pub. L. 114–92, div. A, title VI, § 614(9)][/us/pl/114/92/s614/9], Nov. 25, 2015, [129 Stat. 839][/us/stat/129/839].)
+(Added [Pub. L. 110–181, div. A, title VI][/us/pl/110/181/dA/tVI], § 661(a)(2), Jan. 28, 2008, [122 Stat. 175][/us/stat/122/175]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 619(a), Oct. 14, 2008, [122 Stat. 4487][/us/stat/122/4487]; [Pub. L. 111–84, div. A, title VI][/us/pl/111/84/dA/tVI], §§ 614(8), 618(d), Oct. 28, 2009, [123 Stat. 2354][/us/stat/123/2354], 2356; [Pub. L. 111–383, div. A, title VI][/us/pl/111/383/dA/tVI], § 614(8), Jan. 7, 2011, [124 Stat. 4237][/us/stat/124/4237]; [Pub. L. 112–81, div. A, title VI][/us/pl/112/81/dA/tVI], § 614(8), Dec. 31, 2011, [125 Stat. 1450][/us/stat/125/1450]; [Pub. L. 112–239, div. A, title VI][/us/pl/112/239/dA/tVI], § 614(8), Jan. 2, 2013, [126 Stat. 1777][/us/stat/126/1777]; [Pub. L. 113–66, div. A, title VI][/us/pl/113/66/dA/tVI], § 614(8), Dec. 26, 2013, [127 Stat. 781][/us/stat/127/781]; [Pub. L. 113–291, div. A, title VI][/us/pl/113/291/dA/tVI], § 614(9), Dec. 19, 2014, [128 Stat. 3401][/us/stat/128/3401]; [Pub. L. 114–92, div. A, title VI][/us/pl/114/92/dA/tVI], § 614(9), Nov. 25, 2015, [129 Stat. 839][/us/stat/129/839].)
 
  __References in Text__ 
 
-    Subsection (g)(2), referred to in subsec. (b)(2), was redesignated subsec. (f)(2) by [Pub. L. 111–84, div. A, title VI, § 618(d)(1)][/us/pl/111/84/s618/d/1], Oct. 28, 2009, [123 Stat. 2356][/us/stat/123/2356].
+    Subsection (g)(2), referred to in subsec. (b)(2), was redesignated subsec. (f)(2) by [Pub. L. 111–84, div. A, title VI][/us/pl/111/84/dA/tVI], § 618(d)(1), Oct. 28, 2009, [123 Stat. 2356][/us/stat/123/2356].
 
  __Amendments__ 
 
@@ -119,21 +119,21 @@
 
     [Pub. L. 111–383][/us/pl/111/383] substituted “December 31, 2011” for “December 31, 2010”.
 
-    2009—Subsec. (c)(1). [Pub. L. 111–84, § 618(d)(2)][/us/pl/111/84/s618/d/2], added par. (1) and struck out former par. (1) which provided that skill incentive pay was not to exceed $1,000 per month.
+    2009—Subsec. (c)(1). [Pub. L. 111–84][/us/pl/111/84], § 618(d)(2), added par. (1) and struck out former par. (1) which provided that skill incentive pay was not to exceed $1,000 per month.
 
-    Subsecs. (f) to (i). [Pub. L. 111–84, § 618(d)(1)][/us/pl/111/84/s618/d/1], redesignated subsecs. (g) to (j) as (f) to (i), respectively, and struck out former subsec. (f) which related to reserve component members performing inactive duty training.
+    Subsecs. (f) to (i). [Pub. L. 111–84][/us/pl/111/84], § 618(d)(1), redesignated subsecs. (g) to (j) as (f) to (i), respectively, and struck out former subsec. (f) which related to reserve component members performing inactive duty training.
 
-    Subsec. (j). [Pub. L. 111–84, § 618(d)(1)][/us/pl/111/84/s618/d/1], redesignated subsec. (j) as (i).
+    Subsec. (j). [Pub. L. 111–84][/us/pl/111/84], § 618(d)(1), redesignated subsec. (j) as (i).
 
-    [Pub. L. 111–84, § 614(8)][/us/pl/111/84/s614/8], substituted “December 31, 2010” for “December 31, 2009”.
+    [Pub. L. 111–84][/us/pl/111/84], § 614(8), substituted “December 31, 2010” for “December 31, 2009”.
 
-    2008—Subsec. (b). [Pub. L. 110–417, § 619(a)(1)][/us/pl/110/417/s619/a/1], amended subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary concerned may pay a proficiency bonus to a member of a regular or reserve component of the uniformed services who—
+    2008—Subsec. (b). [Pub. L. 110–417][/us/pl/110/417], § 619(a)(1), amended subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary concerned may pay a proficiency bonus to a member of a regular or reserve component of the uniformed services who—
 
     “(1) is entitled to basic pay under [section 204 of this title][/us/usc/t37/s204] or compensation under [section 206 of this title][/us/usc/t37/s206]; and
 
     “(2) is determined to have, and maintains, certified proficiency under subsection (d) in a skill designated as critical by the Secretary concerned.”
 
-    Subsecs. (g) to (j). [Pub. L. 110–417, § 619(a)(2)][/us/pl/110/417/s619/a/2], added subsec. (g) and redesignated former subsecs. (g) to (i) as (h) to (j), respectively.
+    Subsecs. (g) to (j). [Pub. L. 110–417][/us/pl/110/417], § 619(a)(2), added subsec. (g) and redesignated former subsecs. (g) to (i) as (h) to (j), respectively.
 
  __Pilot Program for Foreign Language Proficiency Training for Reserve Members__ 
 
@@ -153,7 +153,7 @@
 
  __Expedited Implementation__ 
 
-[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 619(d), Oct. 14, 2008, [122 Stat. 4489][/us/stat/122/4489], as amended by [Pub. L. 111–383, div. A, title X, § 1075(e)(10)][/us/pl/111/383/s1075/e/10], Jan. 7, 2011, [124 Stat. 4375][/us/stat/124/4375], provided that: 
+[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 619(d), Oct. 14, 2008, [122 Stat. 4489][/us/stat/122/4489], as amended by [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(e)(10), Jan. 7, 2011, [124 Stat. 4375][/us/stat/124/4375], provided that: 
 
 > “Notwithstanding section 662 of the National Defense Authorization Act for Fiscal Year 2008 ([Public Law 110–181][/us/pl/110/181]; [122 Stat. 180][/us/stat/122/180]; [37 U.S.C. 301][/us/usc/t37/s301] note), the Secretary of a military department may immediately implement the amendments made by subsection (a) \[amending this section\] in order to ensure the prompt availability of proficiency bonuses and incentive pay under [section 353 of title 37][/us/usc/t37/s353], United States Code, as amended by such subsection, for persons enrolled in officer training programs.”
 
@@ -178,25 +178,25 @@
 [/us/usc/t37/s209/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs209%2Fc
 [/us/usc/t37/s373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs373
 [/us/usc/t37/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs351
-[/us/pl/110/181/s661/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs661%2Fa%2F2
+[/us/pl/110/181/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVI
 [/us/stat/122/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F175
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4487
-[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVI
 [/us/stat/123/2354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2354
-[/us/pl/111/383/s614/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs614%2F8
+[/us/pl/111/383/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVI
 [/us/stat/124/4237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4237
-[/us/pl/112/81/s614/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs614%2F8
+[/us/pl/112/81/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVI
 [/us/stat/125/1450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1450
-[/us/pl/112/239/s614/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs614%2F8
+[/us/pl/112/239/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVI
 [/us/stat/126/1777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1777
-[/us/pl/113/66/s614/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs614%2F8
+[/us/pl/113/66/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtVI
 [/us/stat/127/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F781
-[/us/pl/113/291/s614/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs614%2F9
+[/us/pl/113/291/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVI
 [/us/stat/128/3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3401
-[/us/pl/114/92/s614/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs614%2F9
+[/us/pl/114/92/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVI
 [/us/stat/129/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F839
-[/us/pl/111/84/s618/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs618%2Fd%2F1
+[/us/pl/111/84/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVI
 [/us/stat/123/2356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2356
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
@@ -204,20 +204,20 @@
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
-[/us/pl/111/84/s618/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs618%2Fd%2F2
-[/us/pl/111/84/s618/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs618%2Fd%2F1
-[/us/pl/111/84/s618/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs618%2Fd%2F1
-[/us/pl/111/84/s614/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs614%2F8
-[/us/pl/110/417/s619/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs619%2Fa%2F1
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/usc/t37/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs204
 [/us/usc/t37/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs206
-[/us/pl/110/417/s619/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs619%2Fa%2F2
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4489
 [/us/usc/t37/s353/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs353%2Fb
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4489
-[/us/pl/111/383/s1075/e/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fe%2F10
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4375
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/stat/122/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F180
