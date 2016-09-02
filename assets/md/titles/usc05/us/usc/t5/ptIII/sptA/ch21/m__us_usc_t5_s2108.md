@@ -49,23 +49,19 @@
 
         (F)
 
-         the mother of an individual who lost his life under honorable conditions while serving in the armed forces during a period named by paragraph (1)(A) of this section, if—
+         the parent of an individual who lost his or her life under honorable conditions while serving in the armed forces during a period named by paragraph (1)(A) of this section, if—
 
-            (i) her husband is totally and permanently disabled;
+            (i) the spouse of that parent is totally and permanently disabled; or
 
-            (ii) she is widowed, divorced, or separated from the father and has not remarried; or
-
-            (iii) she has remarried but is widowed, divorced, or legally separated from her husband when preference is claimed;
+            (ii) that parent, when preference is claimed, is unmarried or, if married, legally separated from his or her spouse;
 
         (G)
 
-         the mother of a service-connected permanently and totally disabled veteran, if—
+         the parent of a service-connected permanently and totally disabled veteran, if—
 
-            (i) her husband is totally and permanently disabled;
+            (i) the spouse of that parent is totally and permanently disabled; or
 
-            (ii) she is widowed, divorced, or separated from the father and has not remarried; or
-
-            (iii) she has remarried but is widowed, divorced, or legally separated from her husband when preference is claimed; and
+            (ii) that parent, when preference is claimed, is unmarried or, if married, legally separated from his or her spouse; and
 
         (H) a veteran who was discharged or released from a period of active duty by reason of a sole survivorship discharge (as that term is defined in [section 1174(i) of title 10][/us/usc/t10/s1174/i]);
 
@@ -81,7 +77,7 @@
 
     (5) “retired member of the armed forces” means a member or former member of the armed forces who is entitled, under statute, to retired, retirement, or retainer pay on account of service as a member.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 410][/us/stat/80/410]; [Pub. L. 90–83, § 1(6)][/us/pl/90/83/s1/6], Sept. 11, 1967, [81 Stat. 196][/us/stat/81/196]; [Pub. L. 90–623, § 1(2)][/us/pl/90/623/s1/2], Oct. 22, 1968, [82 Stat. 1312][/us/stat/82/1312]; [Pub. L. 92–187, § 1][/us/pl/92/187/s1], Dec. 15, 1971, [85 Stat. 644][/us/stat/85/644]; [Pub. L. 94–502, title VII, § 702][/us/pl/94/502/s702], Oct. 15, 1976, [90 Stat. 2405][/us/stat/90/2405]; [Pub. L. 95–454, title III, § 307(a)][/us/pl/95/454/s307/a], title IV, § 401(d), Oct. 13, 1978, [92 Stat. 1147][/us/stat/92/1147], 1154; [Pub. L. 96–54, § 2(a)(8)][/us/pl/96/54/s2/a/8], (9)(A), Aug. 14, 1979, [93 Stat. 381][/us/stat/93/381]; [Pub. L. 96–191, § 8(a)][/us/pl/96/191/s8/a], Feb. 15, 1980, [94 Stat. 33][/us/stat/94/33]; [Pub. L. 97–89, title VIII, § 801][/us/pl/97/89/s801], Dec. 4, 1981, [95 Stat. 1161][/us/stat/95/1161]; [Pub. L. 100–325, § 2(a)][/us/pl/100/325/s2/a], May 30, 1988, [102 Stat. 581][/us/stat/102/581]; [Pub. L. 102–54, § 13(b)(1)][/us/pl/102/54/s13/b/1], June 13, 1991, [105 Stat. 274][/us/stat/105/274]; [Pub. L. 105–85, div. A, title XI, § 1102(a)][/us/pl/105/85/s1102/a], (c), Nov. 18, 1997, [111 Stat. 1922][/us/stat/111/1922]; [Pub. L. 105–339, § 4(a)][/us/pl/105/339/s4/a], Oct. 31, 1998, [112 Stat. 3185][/us/stat/112/3185]; [Pub. L. 109–163, div. A, title V, § 515(f)(1)][/us/pl/109/163/s515/f/1], title XI, §§ 1111, 1112(a), Jan. 6, 2006, [119 Stat. 3236][/us/stat/119/3236], 3451; [Pub. L. 110–317, § 8][/us/pl/110/317/s8], Aug. 29, 2008, [122 Stat. 3529][/us/stat/122/3529]; [Pub. L. 112–56, title II, § 235(a)(2)(A)][/us/pl/112/56/s235/a/2/A], Nov. 21, 2011, [125 Stat. 723][/us/stat/125/723].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 410][/us/stat/80/410]; [Pub. L. 90–83, § 1(6)][/us/pl/90/83/s1/6], Sept. 11, 1967, [81 Stat. 196][/us/stat/81/196]; [Pub. L. 90–623, § 1(2)][/us/pl/90/623/s1/2], Oct. 22, 1968, [82 Stat. 1312][/us/stat/82/1312]; [Pub. L. 92–187, § 1][/us/pl/92/187/s1], Dec. 15, 1971, [85 Stat. 644][/us/stat/85/644]; [Pub. L. 94–502, title VII, § 702][/us/pl/94/502/s702], Oct. 15, 1976, [90 Stat. 2405][/us/stat/90/2405]; [Pub. L. 95–454, title III, § 307(a)][/us/pl/95/454/s307/a], title IV, § 401(d), Oct. 13, 1978, [92 Stat. 1147][/us/stat/92/1147], 1154; [Pub. L. 96–54, § 2(a)(8)][/us/pl/96/54/s2/a/8], (9)(A), Aug. 14, 1979, [93 Stat. 381][/us/stat/93/381]; [Pub. L. 96–191, § 8(a)][/us/pl/96/191/s8/a], Feb. 15, 1980, [94 Stat. 33][/us/stat/94/33]; [Pub. L. 97–89, title VIII, § 801][/us/pl/97/89/s801], Dec. 4, 1981, [95 Stat. 1161][/us/stat/95/1161]; [Pub. L. 100–325, § 2(a)][/us/pl/100/325/s2/a], May 30, 1988, [102 Stat. 581][/us/stat/102/581]; [Pub. L. 102–54, § 13(b)(1)][/us/pl/102/54/s13/b/1], June 13, 1991, [105 Stat. 274][/us/stat/105/274]; [Pub. L. 105–85, div. A, title XI, § 1102(a)][/us/pl/105/85/s1102/a], (c), Nov. 18, 1997, [111 Stat. 1922][/us/stat/111/1922]; [Pub. L. 105–339, § 4(a)][/us/pl/105/339/s4/a], Oct. 31, 1998, [112 Stat. 3185][/us/stat/112/3185]; [Pub. L. 109–163, div. A, title V, § 515(f)(1)][/us/pl/109/163/s515/f/1], title XI, §§ 1111, 1112(a), Jan. 6, 2006, [119 Stat. 3236][/us/stat/119/3236], 3451; [Pub. L. 110–317, § 8][/us/pl/110/317/s8], Aug. 29, 2008, [122 Stat. 3529][/us/stat/122/3529]; [Pub. L. 112–56, title II, § 235(a)(2)(A)][/us/pl/112/56/s235/a/2/A], Nov. 21, 2011, [125 Stat. 723][/us/stat/125/723]; [Pub. L. 114–62, § 2][/us/pl/114/62/s2], Oct. 7, 2015, [129 Stat. 547][/us/stat/129/547].)
 
 <table>
 
@@ -267,6 +263,8 @@ Mar. 3, 1966, Pub. L. 89–358, § 11, 80 Stat. 28.  </td>
 
  __Amendments__ 
 
+    2015—Par. (3)(F), (G). [Pub. L. 114–62][/us/pl/114/62] added subpars. (F) and (G) and struck out former subpars. (F) and (G) which included in the definition of “preference eligible” certain mothers of individuals who lost their lives under honorable conditions in the armed forces and certain mothers of service-connected permanently and totally disabled veterans.
+
     2011—Par. (1). [Pub. L. 112–56, § 235(a)(2)(A)(i)][/us/pl/112/56/s235/a/2/A/i], in concluding provisions, inserted “, except as provided under section 2108a,” before “who has been”.
 
     Par. (2). [Pub. L. 112–56, § 235(a)(2)(A)(ii)][/us/pl/112/56/s235/a/2/A/ii], inserted “(except as provided under section 2108a)” before “has been separated”.
@@ -318,6 +316,12 @@ Mar. 3, 1966, Pub. L. 89–358, § 11, 80 Stat. 28.  </td>
     Par. (3)(E). [Pub. L. 92–187][/us/pl/92/187] inserted “or husband” after “the wife”.
 
     1968—Par. (3)(D). [Pub. L. 90–623][/us/pl/90/623] inserted “as defined by paragraph (1)(A) of this section” after “veteran”.
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–62, § 3][/us/pl/114/62/s3], Oct. 7, 2015, [129 Stat. 548][/us/stat/129/548], provided that: 
+
+> “The amendment made by this Act \[amending this section\] shall take effect 90 days after the date of enactment of this Act \[Oct. 7, 2015\].”
 
  __Effective Date of 2008 Amendment__ 
 
@@ -425,11 +429,14 @@ Mar. 3, 1966, Pub. L. 89–358, § 11, 80 Stat. 28.  </td>
 [/us/stat/122/3529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3529
 [/us/pl/112/56/s235/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2Fs235%2Fa%2F2%2FA
 [/us/stat/125/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F723
+[/us/pl/114/62/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F62%2Fs2
+[/us/stat/129/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F547
 [/us/act/1944-06-27/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-06-27%2Fs2
 [/us/act/1947-07-26/ch343/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2Fs205
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
 [/us/act/1947-07-26/ch343/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2Fs207
 [/us/stat/61/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F502
+[/us/pl/114/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F62
 [/us/pl/112/56/s235/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2Fs235%2Fa%2F2%2FA%2Fi
 [/us/pl/112/56/s235/a/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2Fs235%2Fa%2F2%2FA%2Fii
 [/us/pl/112/56/s235/a/2/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2Fs235%2Fa%2F2%2FA%2Fiii
@@ -456,6 +463,8 @@ Mar. 3, 1966, Pub. L. 89–358, § 11, 80 Stat. 28.  </td>
 [/us/pl/92/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F187
 [/us/pl/92/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F187
 [/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
+[/us/pl/114/62/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F62%2Fs3
+[/us/stat/129/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F548
 [/us/pl/110/317/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F317%2Fs10
 [/us/stat/122/3530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3530
 [/us/usc/t26/s685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs685
