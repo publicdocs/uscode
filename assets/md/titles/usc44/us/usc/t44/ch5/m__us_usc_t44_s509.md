@@ -25,7 +25,7 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–235][/us/pl/113/235] substituted “Director of the Government Publishing Office” for “Public Printer” in three places.
+    2014—[Pub. L. 113–235][/us/pl/113/235] substituted “Director of the Government Publishing Office” for “Public Printer” wherever appearing.
 
  __National Policy on Permanent Papers__ 
 

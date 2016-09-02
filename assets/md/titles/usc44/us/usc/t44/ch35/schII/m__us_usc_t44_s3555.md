@@ -85,13 +85,13 @@
 
 (Added [Pub. L. 113–283, § 2(a)][/us/pl/113/283/s2/a], Dec. 18, 2014, [128 Stat. 3082][/us/stat/128/3082].)
 
- __Prior Provisions__ 
-
-    Provisions similar to this section were contained in sections 3535 and 3545 of this title prior to repeal by [Pub. L. 113–283][/us/pl/113/283].
-
  __References in Text__ 
 
     The Inspector General Act of 1978, referred to in subsec. (b)(1), is [Pub. L. 95–452][/us/pl/95/452], Oct. 12, 1978, [92 Stat. 1101][/us/stat/92/1101], which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+ __Prior Provisions__ 
+
+    Provisions similar to this section were contained in sections 3535 and 3545 of this title prior to repeal by [Pub. L. 113–283][/us/pl/113/283].
 
 ----------
 
@@ -102,8 +102,8 @@
 
 [/us/pl/113/283/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283%2Fs2%2Fa
 [/us/stat/128/3082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3082
-[/us/pl/113/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101
+[/us/pl/113/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283
 
 

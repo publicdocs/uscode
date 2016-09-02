@@ -29,7 +29,7 @@
 
     [Pub. L. 113–235, § 1301(e)(1)][/us/pl/113/235/s1301/e/1], substituted “Deputy Director of the Government Publishing Office” for “Deputy Public Printer”.
 
-    [Pub. L. 113–235, § 1301(c)][/us/pl/113/235/s1301/c], substituted “Director of the Government Publishing Office” for “Public Printer” in section catchline and text.
+    [Pub. L. 113–235, § 1301(c)][/us/pl/113/235/s1301/c], substituted “Director of the Government Publishing Office” for “Public Printer” in section catchline and wherever appearing in text.
 
 ----------
 

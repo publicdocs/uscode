@@ -35,7 +35,7 @@
 
 > “This Act \[amending this section and enacting provisions set out as a note under this section\] and the amendments made by this Act shall apply with respect to pay periods beginning on or after October 1, 2003 (or, if later, the first day of the first month which begins after the date of the enactment of this Act \[Oct. 29, 2003\]).”
 
- __Transition Rule for Current Employees__ 
+ __Transition Rule for Transferred Employees of Congressional Record Index Office__ 
 
     [Pub. L. 108–102, § 1(b)][/us/pl/108/102/s1/b], Oct. 29, 2003, [117 Stat. 1198][/us/stat/117/1198], transferred employees of the Congressional Record Index Office to the Government Printing Office as of the effective date of [Pub. L. 108–102][/us/pl/108/102] (see Effective Date of 2003 Amendment note above) and transferred and made available accrued annual and sick leave of such employees to the individuals as an employee of the Government Printing Office.
 

@@ -65,7 +65,7 @@
 
     [Pub. L. 113–235, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], substituted “Director of the Government Publishing Office” for “Public Printer” in concluding provisions.
 
-    Subsecs. (c), (d), (e), (e)(1). [Pub. L. 113–235, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], substituted “Director of the Government Publishing Office” for “Public Printer”.
+    Subsecs. (c) to (e). [Pub. L. 113–235, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], substituted “Director of the Government Publishing Office” for “Public Printer”.
 
     Subsec. (f). [Pub. L. 113–235, § 1301(i)(5)(B)][/us/pl/113/235/s1301/i/5/B], substituted “the discretion of the Comptroller General” for “his or her discretion”.
 

@@ -17,7 +17,7 @@
 
 This title was enacted by [Pub. L. 90–620, § 1][/us/pl/90/620/s1], Oct. 22, 1968, [82 Stat. 1238][/us/stat/82/1238]
 
-Current through 114-38
+Current through 114-49
 
 <table>
 
@@ -284,6 +284,10 @@ Current through 114-38
     [Pub. L. 95–378, § 2(b)][/us/pl/95/378/s2/b], Sept. 22, 1978, [92 Stat. 723][/us/stat/92/723], struck out item 27 “Federal Records Council”.
 
     1974—[Pub. L. 93–536, § 2][/us/pl/93/536/s2], Dec. 22, 1974, [88 Stat. 1735][/us/stat/88/1735], substituted “National Historical Publications and Records Commission” for “National Historical Publications Commission” in item 25.
+
+ __Change of Name__ 
+
+    “Government Publishing Office” substituted for “Government Printing Office” in items 3 and 39 on authority of [section 1301(b) of Pub. L. 113–235][/us/pl/113/235/s1301/b], div. H, title I, Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], set out as a note preceding [section 301 of this title][/us/usc/t44/s301].
 
 <table>
 
@@ -4368,10 +4372,6 @@ Rep.  </td>
   </tr>
 
 </table>
-
- __Change of Name__ 
-
-    “Government Publishing Office” substituted for “Government Printing Office” in items 3 and 39 on authority of [section 1301(b) of Pub. L. 113–235][/us/pl/113/235/s1301/b], div. H, title I, Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], set out as a note preceding [section 301 of this title][/us/usc/t44/s301].
 
  __Enacting Clause__ 
 

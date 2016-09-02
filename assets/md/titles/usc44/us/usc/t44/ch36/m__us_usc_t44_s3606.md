@@ -21,7 +21,7 @@
 
      The report under subsection (a) shall contain—
 
-        (1) a summary of the information reported by agencies under section 202(f) of the E-Government Act of 2002;
+        (1) a summary of the information reported by agencies under section 202(f)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “section 202(g)”. </sup></sup>  of the E-Government Act of 2002;
 
         (2) the information required to be reported by section 3604(f); and
 
@@ -31,7 +31,7 @@
 
  __References in Text__ 
 
-    The E-Government Act of 2002, referred to in subsec. (b)(3), is [Pub. L. 107–347][/us/pl/107/347], Dec. 17, 2002, [116 Stat. 2899][/us/stat/116/2899]. Section 202(f) of the Act is set out in a note under [section 3501 of this title][/us/usc/t44/s3501]. For complete classification of this Act to the Code, see Tables.
+    The E-Government Act of 2002, referred to in subsec. (b)(3), is [Pub. L. 107–347][/us/pl/107/347], Dec. 17, 2002, [116 Stat. 2899][/us/stat/116/2899]. Section 202 of the Act is set out in a note under [section 3501 of this title][/us/usc/t44/s3501]. For complete classification of this Act to the Code, see Tables.
 
  __Change of Name__ 
 

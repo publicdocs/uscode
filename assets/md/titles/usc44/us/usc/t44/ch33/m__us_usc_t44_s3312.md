@@ -25,7 +25,7 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–187][/us/pl/113/187] substituted “Photographs, microphotographs of records, or digitized records” for “Photographs or microphotographs of records” and “photographs, microphotographs, or digitized records” for “photographs or microphotographs” in two places.
+    2014—[Pub. L. 113–187][/us/pl/113/187] substituted “Photographs, microphotographs of records, or digitized records” for “Photographs or microphotographs of records” and substituted “photographs, microphotographs, or digitized records” for “photographs or microphotographs” in two places.
 
 ----------
 

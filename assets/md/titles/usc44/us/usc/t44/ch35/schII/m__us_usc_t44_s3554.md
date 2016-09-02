@@ -131,7 +131,7 @@
 
          periodic testing and evaluation of the effectiveness of information security policies, procedures, and practices, to be performed with a frequency depending on risk, but no less than annually, of which such testing—
 
-            (A) shall include testing of management, operational, and technical controls of every information system identified in the inventory required under section 3505(c);  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
+            (A) shall include testing of management, operational, and technical controls of every information system identified in the inventory required under section 3505(c);  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Section 3505 contains two subsecs. (c). </sup></sup> 
 
             (B) may include testing relied on in an evaluation under section 3555; and
 
@@ -245,10 +245,6 @@
 
     Provisions similar to this section were contained in sections 3534 and 3544 of this title prior to repeal by [Pub. L. 113–283][/us/pl/113/283].
 
- __References in Text__ 
-
-    Section 3505(c), referred to in subsec. (b)(5)(A), probably means the section 3505(c) added by [section 1005(c)(2) of Pub. L. 107–296][/us/pl/107/296/s1005/c/2], which relates to inventory of information systems.
-
  __Major Incident__ 
 
 [Pub. L. 113–283, § 2(b)][/us/pl/113/283/s2/b], Dec. 18, 2014, [128 Stat. 3085][/us/stat/128/3085], provided that: 
@@ -277,7 +273,6 @@
 [/us/pl/113/283/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283%2Fs2%2Fa
 [/us/stat/128/3078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3078
 [/us/pl/113/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283
-[/us/pl/107/296/s1005/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1005%2Fc%2F2
 [/us/pl/113/283/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283%2Fs2%2Fb
 [/us/stat/128/3085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3085
 [/us/usc/t44/s3554/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3554%2Fb

@@ -29,7 +29,7 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–235, § 1301(e)(1)][/us/pl/113/235/s1301/e/1], substituted “Deputy Director of the Government Publishing Office” for “Deputy Public Printer” in three places.
+    2014—[Pub. L. 113–235, § 1301(e)(1)][/us/pl/113/235/s1301/e/1], substituted “Deputy Director of the Government Publishing Office” for “Deputy Public Printer” wherever appearing.
 
     [Pub. L. 113–235, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], substituted “Director of the Government Publishing Office” for “Public Printer”.
 

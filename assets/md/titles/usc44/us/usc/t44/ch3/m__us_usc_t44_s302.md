@@ -29,11 +29,11 @@
 
     2014—[Pub. L. 113–235, § 1301(h)][/us/pl/113/235/s1301/h], in first sentence, struck out “, who must be a practical printer and versed in the art of bookbinding,” after “suitable person” and, in second sentence, substituted “The Deputy Director of the Government Publishing Office” for “He” and “and perform” for “, and perform” and struck out “perform the duties formerly required of the chief clerk,” after “shall” and “of him” after “required”.
 
-    [Pub. L. 113–235, § 1301(e)][/us/pl/113/235/s1301/e], substituted “Deputy Director of the Government Publishing Office” for “Deputy Public Printer” in section catchline and text.
+    [Pub. L. 113–235, § 1301(e)][/us/pl/113/235/s1301/e], substituted “Deputy Director of the Government Publishing Office” for “Deputy Public Printer” in section catchline and the first place appearing in text.
 
     [Pub. L. 113–235, § 1301(c)(2)][/us/pl/113/235/s1301/c/2], which directed amendment of this section by substituting “Director of the Government Publishing Office” for “Public Printer” in section catchline, was not executed to reflect the probable intent of Congress and the subsequent amendment by [section 1301(e)(2) of Pub. L. 113–235][/us/pl/113/235/s1301/e/2]. See 2014 Amendment note above.
 
-    [Pub. L. 113–235, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], substituted “Director of the Government Publishing Office” for “Public Printer” the first and third places appearing in text.
+    [Pub. L. 113–235, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], substituted “Director of the Government Publishing Office” for “Public Printer” in two places in text.
 
  __Change of Name__ 
 

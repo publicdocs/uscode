@@ -27,7 +27,7 @@
 
     2014—[Pub. L. 113–235, § 1301(i)(6)][/us/pl/113/235/s1301/i/6], substituted “the written request of the Director” for “his written request”.
 
-    [Pub. L. 113–235, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], substituted “Director of the Government Publishing Office” for “Public Printer” in three places.
+    [Pub. L. 113–235, § 1301(c)(1)][/us/pl/113/235/s1301/c/1], substituted “Director of the Government Publishing Office” for “Public Printer” wherever appearing.
 
  __Change of Name__ 
 

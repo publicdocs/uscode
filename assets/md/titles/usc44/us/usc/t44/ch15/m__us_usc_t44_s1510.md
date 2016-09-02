@@ -43,7 +43,7 @@
 
  __Delegation of Functions__ 
 
-    For delegation of functions vested in President by section 11(a), (f) of Federal Register Act \[now subsecs. (a) and (f) of this section\], to Attorney General and Archivist of United States, see section 6(b) of Ex. Ord. No. 10530, May 11, 1954, 19 F.R. 2709, as amended, set out as a note under [section 301 of Title 3][/us/usc/t3/s301], The President. See, also, [section 103(b)(1) of Pub. L. 98–497][/us/pl/98/497/s103/b/1], set out as a note under [section 2102 of this title][/us/usc/t44/s2102].
+    For delegation of functions vested in President by section 11(a), (f) of Federal Register Act \[now subsecs. (a) and (f) of this section\], to Attorney General and Archivist of United States, see section 6(b) of Ex. Ord. No. 10530, May 10, 1954, 19 F.R. 2709, as amended, set out as a note under [section 301 of Title 3][/us/usc/t3/s301], The President. See, also, [section 103(b)(1) of Pub. L. 98–497][/us/pl/98/497/s103/b/1], set out as a note under [section 2102 of this title][/us/usc/t44/s2102].
 
  __Codification of Executive and Administrative Documents__ 
 
