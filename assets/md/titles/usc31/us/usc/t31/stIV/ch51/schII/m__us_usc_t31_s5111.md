@@ -333,6 +333,8 @@ July 23, 1965, Pub. L. 89–81, §§ 103(a), 105, 106, 79 Stat. 255.  </td>
 
 Provisions authorizing commemorative medals were contained in the following acts:
 
+    [Pub. L. 114–5][/us/pl/114/5], Mar. 7, 2015, [129 Stat. 78][/us/stat/129/78], recognizing Foot Soldiers who participated in Bloody Sunday, Turnaround Tuesday, or the final Selma to Montgomery Voting Rights March in March, 1965.
+
     [Pub. L. 113–210][/us/pl/113/210], Dec. 16, 2014, [128 Stat. 2077][/us/stat/128/2077], recognizing Jack Nicklaus.
 
     [Pub. L. 113–120][/us/pl/113/120], June 10, 2014, [128 Stat. 1187][/us/stat/128/1187], recognizing the 65th Infantry Regiment of the United States Army, known as the “Borinqueneers”.
@@ -489,6 +491,8 @@ Provisions authorizing commemorative medals were contained in the following acts
 [/us/pl/102/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F390
 [/us/pl/100/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F274
 [/us/usc/t31/s5136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5136
+[/us/pl/114/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F5
+[/us/stat/129/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F78
 [/us/pl/113/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F210
 [/us/stat/128/2077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2077
 [/us/pl/113/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F120
