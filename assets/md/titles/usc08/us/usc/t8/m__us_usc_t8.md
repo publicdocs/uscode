@@ -15,7 +15,7 @@
 
 # Title 8—ALIENS AND NATIONALITY
 
-Current through 113–45
+Current through 113–46
 
 <table>
 
