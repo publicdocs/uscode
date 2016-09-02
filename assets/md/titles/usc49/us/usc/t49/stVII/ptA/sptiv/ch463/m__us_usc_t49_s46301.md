@@ -1,0 +1,1076 @@
+---
+---
+
+# 49 U.S.C., USLM ref /us/usc/t49/s46301
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../../../..//us/usc/t49/stVII/ptA/sptiv/ch463/m__us_usc_t49_stVII_ptA_sptiv_ch463.md) | [Next](./../../../../../../..//us/usc/t49/stVII/ptA/sptiv/ch463/m__us_usc_t49_s46302.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs46301)
+
+## § 46301. Civil penalties
+
+    (a) __General Penalty.—__ 
+
+        (1)
+
+         A person is liable to the United States Government for a civil penalty of not more than $25,000 (or $1,100 if the person is an individual or small business concern) for violating—
+
+            (A) chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117), chapter 411, chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714), chapter 419, subchapter II or III of chapter 421, chapter 423, chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), and 44908), chapter 451, section 47107(b) (including any assurance made under such section), or [section 47133 of this title][/us/usc/t49/s47133];
+
+            (B) a regulation prescribed or order issued under any provision to which clause (A) of this paragraph applies;
+
+            (C) any term of a certificate or permit issued under section 41102, 41103, or 41302 of this title; or
+
+            (D) a regulation of the United States Postal Service under this part.
+
+        (2) A separate violation occurs under this subsection for each day the violation (other than a violation of section 41719) continues or, if applicable, for each flight involving the violation (other than a violation of section 41719).
+
+        (3) __Penalty for diversion of aviation revenues.—__ 
+
+        The amount of a civil penalty assessed under this section for a violation of [section 47107(b) of this title][/us/usc/t49/s47107/b] (or any assurance made under such section) or [section 47133 of this title][/us/usc/t49/s47133] may be increased above the otherwise applicable maximum amount under this section to an amount not to exceed 3 times the amount of revenues that are used in violation of such section.
+
+        (4) __Aviation security violations.—__ 
+
+        Notwithstanding paragraph (1) of this subsection, the maximum civil penalty for violating chapter 449 shall be $10,000; except that the maximum civil penalty shall be $25,000 in the case of a person operating an aircraft for the transportation of passengers or property for compensation (except an individual serving as an airman).
+
+        (5) __Penalties applicable to individuals and small business concerns.—__ 
+
+            (A)
+
+             An individual (except an airman serving as an airman) or small business concern is liable to the Government for a civil penalty of not more than $10,000 for violating—
+
+                (i) chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), section 44502 (b) or (c), chapter 447 (except sections 44717–44723), chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909), or chapter 451, or [section 46314(a) of this title][/us/usc/t49/s46314/a]; or
+
+                (ii) a regulation prescribed or order issued under any provision to which clause (i) applies.
+
+            (B)
+
+             A civil penalty of not more than $10,000 may be imposed for each violation under paragraph (1) committed by an individual or small business concern related to—
+
+                (i) the transportation of hazardous material;
+
+                (ii) the registration or recordation under chapter 441 of an aircraft not used to provide air transportation;
+
+                (iii) a violation of section 44718(d), relating to the limitation on construction or establishment of landfills;
+
+                (iv) a violation of section 44725, relating to the safe disposal of life-limited aircraft parts; or
+
+                (v) a violation of section 40127 or section 41705, relating to discrimination.
+
+            (C) Notwithstanding paragraph (1), the maximum civil penalty for a violation of section 41719 committed by an individual or small business concern shall be $5,000 instead of $1,000.
+
+            (D) Notwithstanding paragraph (1), the maximum civil penalty for a violation of section 41712 (including a regulation prescribed or order issued under such section) or any other regulation prescribed by the Secretary by an individual or small business concern that is intended to afford consumer protection to commercial air transportation passengers shall be $2,500 for each violation.
+
+        (6) __Failure To__  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. Probably should not be capitalized.__  __ </sup></sup> __  __Collect__  __ <sup>\[__  __1__  __\]</sup> __  __Airport__  __ <sup>\[__  __1__  __\]</sup> __  __Security__  __ <sup>\[__  __1__  __\]</sup> __  __Badges__  __ <sup>\[__  __1__  __\]</sup> __  __.—__ 
+
+        Notwithstanding paragraph (1), any employer (other than a governmental entity or airport operator) who employs an employee to whom an airport security badge or other identifier used to obtain access to a secure area of an airport is issued before, on, or after the date of enactment of this paragraph and who does not collect or make reasonable efforts to collect such badge from the employee on the date that the employment of the employee is terminated and does not notify the operator of the airport of such termination within 24 hours of the date of such termination shall be liable to the Government for a civil penalty not to exceed $10,000.
+
+    (b) __Smoke Alarm Device Penalty.—__ 
+
+        (1) A passenger may not tamper with, disable, or destroy a smoke alarm device located in a lavatory on an aircraft providing air transportation or intrastate air transportation.
+
+        (2) An individual violating this subsection is liable to the Government for a civil penalty of not more than $2,000.
+
+    (c) __Procedural Requirements.—__ 
+
+        (1)
+
+         The Secretary of Transportation may impose a civil penalty for the following violations only after notice and an opportunity for a hearing:
+
+            (A) a violation of subsection (b) of this section or chapter 411, chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714), chapter 419, subchapter II of chapter 421, chapter 423, or [section 44909 of this title][/us/usc/t49/s44909].
+
+            (B) a violation of a regulation prescribed or order issued under any provision to which clause (A) of this paragraph applies.
+
+            (C) a violation of any term of a certificate or permit issued under section 41102, 41103, or 41302 of this title.
+
+            (D) a violation under subsection (a)(1) of this section related to the transportation of hazardous material.
+
+        (2) The Secretary shall give written notice of the finding of a violation and the civil penalty under paragraph (1) of this subsection.
+
+    (d) __Administrative Imposition of Penalties.—__ 
+
+        (1)
+
+         In this subsection—
+
+            (A) “flight engineer” means an individual who holds a flight engineer certificate issued under part 63 of title 14, Code of Federal Regulations.
+
+            (B) “mechanic” means an individual who holds a mechanic certificate issued under part 65 of title 14, Code of Federal Regulations.
+
+            (C) “pilot” means an individual who holds a pilot certificate issued under part 61 of title 14, Code of Federal Regulations.
+
+            (D) “repairman” means an individual who holds a repairman certificate issued under part 65 of title 14, Code of Federal Regulations.
+
+        (2) The Administrator of the Federal Aviation Administration may impose a civil penalty for a violation of chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 451, section 46301(b), section 46302 (for a violation relating to section 46504), section 46318, section 46319, or section 47107(b) (as further defined by the Secretary under section 47107(l) and including any assurance made under section 47107(b)) of this title or a regulation prescribed or order issued under any of those provisions. The Secretary of Homeland Security may impose a civil penalty for a violation of chapter 449 (except sections 44902, 44903(d), 44907(a)–(d)(1)(A), 44907(d)(1)(C)–(f), 44908, and 44909), section 46302 (except for a violation relating to section 46504), or [section 46303 of this title][/us/usc/t49/s46303] or a regulation prescribed or order issued under any of those provisions. The Secretary of Homeland Security or Administrator shall give written notice of the finding of a violation and the penalty.
+
+        (3) In a civil action to collect a civil penalty imposed by the Secretary of Homeland Security or Administrator under this subsection, the issues of liability and the amount of the penalty may not be reexamined.
+
+        (4)
+
+         Notwithstanding paragraph (2) of this subsection, the district courts of the United States have exclusive jurisdiction of a civil action involving a penalty the Secretary of Homeland Security or Administrator initiates if—
+
+            (A)
+
+             the amount in controversy is more than—
+
+                (i) $50,000 if the violation was committed by any person before the date of enactment of the Vision 100—Century of Aviation Reauthorization Act;
+
+                (ii) $400,000 if the violation was committed by a person other than an individual or small business concern on or after that date; or
+
+                (iii) $50,000 if the violation was committed by an individual or small business concern on or after that date;
+
+            (B) the action is in rem or another action in rem based on the same violation has been brought;
+
+            (C) the action involves an aircraft subject to a lien that has been seized by the Government; or
+
+            (D) another action has been brought for an injunction based on the same violation.
+
+        (5)
+
+            (A) The Administrator may issue an order imposing a penalty under this subsection against an individual acting as a pilot, flight engineer, mechanic, or repairman only after advising the individual of the charges or any reason the Administrator relied on for the proposed penalty and providing the individual an opportunity to answer the charges and be heard about why the order shall not be issued.
+
+            (B) An individual acting as a pilot, flight engineer, mechanic, or repairman may appeal an order imposing a penalty under this subsection to the National Transportation Safety Board. After notice and an opportunity for a hearing on the record, the Board shall affirm, modify, or reverse the order. The Board may modify a civil penalty imposed to a suspension or revocation of a certificate.
+
+            (C) When conducting a hearing under this paragraph, the Board is not bound by findings of fact of the Administrator but is bound by all validly adopted interpretations of laws and regulations the Administrator carries out and of written agency policy guidance available to the public related to sanctions to be imposed under this section unless the Board finds an interpretation is arbitrary, capricious, or otherwise not according to law.
+
+            (D) When an individual files an appeal with the Board under this paragraph, the order of the Administrator is stayed.
+
+        (6) An individual substantially affected by an order of the Board under paragraph (5) of this subsection, or the Administrator when the Administrator decides that an order of the Board under paragraph (5) will have a significant adverse impact on carrying out this part, may obtain judicial review of the order under [section 46110 of this title][/us/usc/t49/s46110]. The Administrator shall be made a party to the judicial review proceedings. Findings of fact of the Board are conclusive if supported by substantial evidence.
+
+        (7)
+
+            (A) The Administrator may impose a penalty on a person (except an individual acting as a pilot, flight engineer, mechanic, or repairman) only after notice and an opportunity for a hearing on the record.
+
+            (B)
+
+             In an appeal from a decision of an administrative law judge as the result of a hearing under subparagraph (A) of this paragraph, the Administrator shall consider only whether—
+
+                (i) each finding of fact is supported by a preponderance of reliable, probative, and substantial evidence;
+
+                (ii) each conclusion of law is made according to applicable law, precedent, and public policy; and
+
+                (iii) the judge committed a prejudicial error that supports the appeal.
+
+            (C) Except for good cause, a civil action involving a penalty under this paragraph may not be initiated later than 2 years after the violation occurs.
+
+            (D)
+
+             In the case of a violation of [section 47107(b) of this title][/us/usc/t49/s47107/b] or any assurance made under such section—
+
+                (i) a civil penalty shall not be assessed against an individual;
+
+                (ii) a civil penalty may be compromised as provided under subsection (f); and
+
+                (iii) judicial review of any order assessing a civil penalty may be obtained only pursuant to [section 46110 of this title][/us/usc/t49/s46110].
+
+        (8)
+
+         The maximum civil penalty the Under Secretary, Administrator, or Board may impose under this subsection is—
+
+            (A) $50,000 if the violation was committed by any person before the date of enactment of the Vision 100—Century of Aviation Reauthorization Act;
+
+            (B) $400,000 if the violation was committed by a person other than an individual or small business concern on or after that date; or
+
+            (C) $50,000 if the violation was committed by an individual or small business concern on or after that date.
+
+        (9) This subsection applies only to a violation occurring after August 25, 1992.
+
+    (e) __Penalty Considerations.—__ 
+
+    In determining the amount of a civil penalty under subsection (a)(3) of this section related to transportation of hazardous material, the Secretary shall consider—
+
+        (1) the nature, circumstances, extent, and gravity of the violation;
+
+        (2) with respect to the violator, the degree of culpability, any history of prior violations, the ability to pay, and any effect on the ability to continue doing business; and
+
+        (3) other matters that justice requires.
+
+    (f) __Compromise and Setoff.—__ 
+
+        (1)
+
+            (A)
+
+             The Secretary may compromise the amount of a civil penalty imposed for violating—
+
+                (i) chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117), chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), 44908, and 44909), or chapter 451 of this title; or
+
+                (ii) a regulation prescribed or order issued under any provision to which clause (i) of this subparagraph applies.
+
+            (B) The Postal Service may compromise the amount of a civil penalty imposed under subsection (a)(1)(D) of this section.
+
+        (2) The Government may deduct the amount of a civil penalty imposed or compromised under this subsection from amounts it owes the person liable for the penalty.
+
+    (g) __Judicial Review.—__ 
+
+    An order of the Secretary or the Administrator imposing a civil penalty may be reviewed judicially only under [section 46110 of this title][/us/usc/t49/s46110].
+
+    (h) __Nonapplication.—__ 
+
+        (1)
+
+         This section does not apply to the following when performing official duties:
+
+            (A) a member of the armed forces of the United States.
+
+            (B) a civilian employee of the Department of Defense subject to the Uniform Code of Military Justice.
+
+        (2) The appropriate military authority is responsible for taking necessary disciplinary action and submitting to the Secretary (or the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator with respect to aviation safety duties and powers designated to be carried out by the Administrator) a timely report on action taken.
+
+    (i) __Small Business Concern Defined.—__ 
+
+    In this section, the term “small business concern” has the meaning given that term in section 3 of the Small Business Act ([15 U.S.C. 632][/us/usc/t15/s632]).
+
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1231][/us/stat/108/1231]; [Pub. L. 103–305, title I, § 112(c)][/us/pl/103/305/s112/c], title II, § 207(c), Aug. 23, 1994, [108 Stat. 1575][/us/stat/108/1575], 1588; [Pub. L. 103–429, § 6(60)][/us/pl/103/429/s6/60], Oct. 31, 1994, [108 Stat. 4385][/us/stat/108/4385]; [Pub. L. 104–264, title V, § 502(c)][/us/pl/104/264/s502/c], title VIII, § 804(b), title XII, § 1220(b), Oct. 9, 1996, [110 Stat. 3263][/us/stat/110/3263], 3271, 3286; [Pub. L. 104–287, § 5(77)][/us/pl/104/287/s5/77], Oct. 11, 1996, [110 Stat. 3396][/us/stat/110/3396]; [Pub. L. 105–102, § 3(c)(4)][/us/pl/105/102/s3/c/4], Nov. 20, 1997, [111 Stat. 2215][/us/stat/111/2215]; [Pub. L. 106–181, title II, § 222][/us/pl/106/181/s222], title V, §§ 503(c), 504(b), 519(c), title VII, §§ 707(b), 720, Apr. 5, 2000, [114 Stat. 102][/us/stat/114/102], 133, 134, 149, 158, 163; [Pub. L. 106–424, § 15][/us/pl/106/424/s15], Nov. 1, 2000, [114 Stat. 1888][/us/stat/114/1888]; [Pub. L. 107–71, title I, § 140(d)(1)][/us/pl/107/71/s140/d/1]–(4), Nov. 19, 2001, [115 Stat. 642][/us/stat/115/642]; [Pub. L. 107–296, title XVI, § 1602][/us/pl/107/296/s1602], Nov. 25, 2002, [116 Stat. 2312][/us/stat/116/2312]; [Pub. L. 108–176, title V, § 503(a)][/us/pl/108/176/s503/a]–(c), Dec. 12, 2003, [117 Stat. 2557][/us/stat/117/2557], 2558; [Pub. L. 108–458, title IV, § 4027(a)][/us/pl/108/458/s4027/a], Dec. 17, 2004, [118 Stat. 3727][/us/stat/118/3727]; [Pub. L. 110–53, title XIII, § 1302(b)][/us/pl/110/53/s1302/b], Aug. 3, 2007, [121 Stat. 392][/us/stat/121/392]; [Pub. L. 110–161, div. E, title V, § 542][/us/pl/110/161/s542], Dec. 26, 2007, [121 Stat. 2079][/us/stat/121/2079]; [Pub. L. 112–74, div. D, title V, § 564(a)][/us/pl/112/74/s564/a], Dec. 23, 2011, [125 Stat. 981][/us/stat/125/981]; [Pub. L. 112–95, title IV, § 415(b)][/us/pl/112/95/s415/b], title VIII, § 803, Feb. 14, 2012, [126 Stat. 96][/us/stat/126/96], 119.)
+
+<table>
+
+  <tr>
+
+    <td colspan="3"> 
+
+Historical and Revision Notes  </td>
+
+  </tr>
+
+  <tr>
+
+    <td colspan="3"> 
+
+Pub. L. 103–272  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Revised
+
+Section  </td>
+
+    <td> 
+
+Source (U.S. Code)  </td>
+
+    <td> 
+
+Source (Statutes at Large)  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+46301(a)  </td>
+
+    <td> 
+
+49 App.:1303 (note).  </td>
+
+    <td> 
+
+Nov. 18, 1988, Pub. L. 100–690, § 7214, 102 Stat. 4434.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+   </td>
+
+    <td> 
+
+49 App.:1405 (last sentence).  </td>
+
+    <td> 
+
+Aug. 23, 1958, Pub. L. 85–726, § 505 (last sentence), 72 Stat. 774.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+   </td>
+
+    <td> 
+
+49 App.:1471(a)(1) (1st, 2d sentences less subchapter VII).  </td>
+
+    <td> 
+
+Aug. 23, 1958, Pub. L. 85–726, § 901(a)(1) (less title VII), 72 Stat. 783; restated July 10, 1962, Pub. L. 87–528, § 12, 76 Stat. 149; Aug. 5, 1974, Pub. L. 93–366, § 107, 88 Stat. 414; Jan. 3, 1975, Pub. L. 93–633, § 113(b), 88 Stat. 2162; Oct. 24, 1978, Pub. L. 95–504, § 35(a), 92 Stat. 1740; Aug. 8, 1985, Pub. L. 99–83, § 551(b)(2), 99 Stat. 225; Dec. 30, 1987, Pub. L. 100–223, § 204(a)– (c), 101 Stat. 1519; Nov. 18, 1988, Pub. L. 100–690, § 7208(a), 102 Stat. 4429.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+   </td>
+
+    <td> 
+
+49 App.:1655(c)(1).  </td>
+
+    <td> 
+
+Oct. 15, 1966, Pub. L. 89–670, § 6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L. 97–449, § 7(b), 96 Stat. 2444.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+46301(b)  </td>
+
+    <td> 
+
+49 App.:1374(d)(2).  </td>
+
+    <td> 
+
+Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 404(d)(2); added Dec. 22, 1987, Pub. L. 100–202, § 328(a), 101 Stat. 1329–383.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+46301(c)  </td>
+
+    <td> 
+
+49 App.:1471(a)(1) (3d, 5th sentences less subchapter VII).  </td>
+
+    <td>   </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+   </td>
+
+    <td> 
+
+49 App.:1551(b)(1)(E).  </td>
+
+    <td> 
+
+Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, § 3(e), 98 Stat. 1704.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+46301(d)(1)  </td>
+
+    <td> 
+
+49 App.:1471(a)(3)(H).  </td>
+
+    <td> 
+
+Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 901(a)(3) (less (D)(v) (related to Administrator under title VII)); added Nov. 18, 1988, Pub. L. 100–690, § 7208(b), 102 Stat. 4429; restated Aug. 26, 1992, Pub. L. 102–345, § 2(a), 106 Stat. 923; Oct. 31, 1992, Pub. L. 102–581, § 208, 106 Stat. 4895.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+46301(d)(2)  </td>
+
+    <td> 
+
+49 App.:1303 (note).  </td>
+
+    <td> 
+
+Nov. 18, 1988, Pub. L. 100–690, § 7214, 102 Stat. 4434.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+   </td>
+
+    <td> 
+
+49 App.:1471(a)(3)(A).  </td>
+
+    <td>   </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+46301(d)(3)  </td>
+
+    <td> 
+
+49 App.:1471(a)(3)(B).  </td>
+
+    <td>   </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+46301(d)(4)  </td>
+
+    <td> 
+
+49 App.:1471(a)(3)(C).  </td>
+
+    <td>   </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+46301(d)(5)  </td>
+
+    <td> 
+
+49 App.:1471(a) (3)(D)(i)–(iv).  </td>
+
+    <td>   </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+46301(d)(6)  </td>
+
+    <td> 
+
+49 App.:1471(a) (3)(D)(v) (less Administrator under subch. VII).  </td>
+
+    <td>   </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+46301(d)(7)  </td>
+
+    <td> 
+
+49 App.:1471(a)(3)(E).  </td>
+
+    <td>   </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+46301(d)(8)  </td>
+
+    <td> 
+
+49 App.:1471(a)(3)(G).  </td>
+
+    <td>   </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+46301(d)(9)  </td>
+
+    <td> 
+
+49 App.:1471(a)(3)(F).  </td>
+
+    <td>   </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+46301(e)  </td>
+
+    <td> 
+
+49 App.:1471(a)(1) (4th sentence less subchapter VII).  </td>
+
+    <td>   </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+46301(f)  </td>
+
+    <td> 
+
+49 App.:1471(a)(2) (related to subchapter III, V, VI, or XII, § 1501, 1514, or 1515(e)(2)(B), and Postal Service).  </td>
+
+    <td> 
+
+Aug. 23, 1958, Pub. L. 85–726, § 901(a)(2) (related to title III, V, VI, or XII, § 1101, 1114, or 1115(e)(2)(B), and Postmaster General), 72 Stat. 784; July 10, 1962, Pub. L. 87–528, § 12, 76 Stat. 150; restated Oct. 24, 1978, Pub. L. 95–504, § 35(b), 92 Stat. 1740; Dec. 30, 1987, Pub. L. 100–223, § 204(d), 101 Stat. 1519.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+   </td>
+
+    <td> 
+
+49 App.:1551(b)(1)(E).  </td>
+
+    <td>   </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+46301(g)  </td>
+
+    <td> 
+
+49 App.:1471(a)(1) (6th sentence less subchapter VII).  </td>
+
+    <td>   </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+   </td>
+
+    <td> 
+
+49 App.:1551(b)(1)(E).  </td>
+
+    <td>   </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+46301(h)  </td>
+
+    <td> 
+
+49 App.:1471(a)(1) (last sentence less subchapter VII).  </td>
+
+    <td>   </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+   </td>
+
+    <td> 
+
+49 App.:1551(b)(1)(E).  </td>
+
+    <td>   </td>
+
+  </tr>
+
+</table>
+
+    In this section, the word “prescribed” is added for consistency in the revised title and with other titles of the United States Code. The words “United States Postal Service” and “Postal Service” are substituted for “Postmaster General” because of section 4(a) of the Postal Reorganization Act ([Public Law 91–375][/us/pl/91/375], [84 Stat. 773][/us/stat/84/773]).
+
+    In subsections (a)(1)(C) and (c), the words “condition, or limitation” are omitted as surplus.
+
+    In subsection (a)(2), before clause (A), the words “occurring after December 30, 1987” are omitted as obsolete.
+
+    In subsection (b)(1), the word “providing” is substituted for “engaged in” for consistency in the revised title.
+
+    In subsection (b)(2), the words “in accordance with section 1471 of this Appendix” are omitted as surplus.
+
+    In subsection (c)(1), before clause (A), the words “or his delegate” are omitted because of 49:322(b). The word “impose” is substituted for “assessed” for consistency. The words “amount of any such” are omitted as surplus.
+
+    In subsection (d), the word “impose” is substituted for “assess” for consistency.
+
+    In subsection (d)(1), before clause (A), the words “the following definitions apply” are omitted as surplus.
+
+In subsection (d)(2), the text of section 7214 of the Anti-Drug Abuse Act of 1988 ([Public Law 100–690][/us/pl/100/690], 102 Stat 4434) is omitted as obsolete. The words “or the delegate of the Administrator” are omitted because of 49:322(b).
+
+    In subsection (d)(4)(C), the word “or” is substituted for “and” for clarity.
+
+    In subsection (d)(5)(B) and (7)(A), the words “in accordance with [section 554 of title 5][/us/usc/t5/s554]” are omitted for consistency in the revised title and because 5:554 applies to a hearing on the record unless otherwise stated.
+
+    In subsection (d)(5)(B), the words “consistent with this subsection” are omitted as surplus.
+
+    In subsection (d)(5)(C), the word “Administrator” is substituted for “Federal Aviation Administration” because of 49:106(b) and (g).
+
+    In subsection (d)(7)(B), before clause (i), the words “as the result of a hearing under subparagraph (A) of this paragraph” are added for clarity.
+
+    In subsection (e), before clause (1), the words “civil penalty under subsection (a)(3) of this section related to transportation of hazardous material” are substituted for “such penalty” for clarity. In clause (1), the word “committed” is omitted as surplus.
+
+    In subsection (f)(2), the word “imposed” is substituted for “when finally determined or fixed by order of the Board” for consistency. The words “agreed upon” are omitted as surplus.
+
+    In subsection (g), the word “imposing” is substituted for “assessing” for consistency.
+
+In subsection (h)(2), the words “with respect thereto” are omitted as surplus. The word “Administrator” in section 901(a)(1) of the Federal Aviation Act of 1958 ([Public Law 85–726][/us/pl/85/726], [72 Stat. 783][/us/stat/72/783]) is retained on authority of 49:106(g).
+
+ __[__  __Pub. L. 103–429__  __][/us/pl/103/429]__ 
+
+    This amends 49:46301(a)(1)(A) and (2)(A), (c)(1)(A), (d)(2), and (f)(1)(A)(i) to correct erroneous cross-references.
+
+ __[__  __Pub. L. 104–287, § 5(77)(A)__  __][/us/pl/104/287/s5/77/A]__  __and (B)__ 
+
+    These amend 49:46301(a)(1)(A) and (2)(A) to correct errors in the codification enacted by [section 1 of the Act of July 5, 1994][/us/act/1994-07-05/s1] ([Public Law 103–272][/us/pl/103/272], [108 Stat. 1231][/us/stat/108/1231]), to include in the cross-reference sections enacted after the cutoff date for the codification of title 49 as enacted by section 1 of the Act ([Public Law 103–272][/us/pl/103/272], [108 Stat. 745][/us/stat/108/745]), and to make it easier to include future sections in the cross-reference by restating it in terms of chapters.
+
+ __[__  __Pub. L. 104–287, § 5(77)(C)__  __][/us/pl/104/287/s5/77/C]__ 
+
+    This makes a conforming amendment to 49:46301(a)(3).
+
+ __[__  __Pub. L. 104–287, § 5(77)(D)__  __][/us/pl/104/287/s5/77/D]__  __–(F)__ 
+
+    These amend 49:46301(c)(1)(A), (d)(2), and (f)(1)(A)(i) to correct errors in the codification enacted by [section 1 of the Act of July 5, 1994][/us/act/1994-07-05/s1] ([Public Law 103–272][/us/pl/103/272], [108 Stat. 1231][/us/stat/108/1231]), to include in the cross-reference sections enacted after the cutoff date for the codification of title 49 as enacted by section 1 of the Act ([Public Law 103–272][/us/pl/103/272], [108 Stat. 745][/us/stat/108/745]), and to make it easier to include future sections in the cross-reference by restating it in terms of chapters.
+
+ __References in Text__ 
+
+    The date of enactment of this paragraph, referred to in subsec. (a)(6), is the date of enactment of [Pub. L. 110–161][/us/pl/110/161], which was approved Dec. 26, 2007.
+
+    The date of enactment of the Vision 100—Century of Aviation Reauthorization Act, referred to in subsec. (d)(4)(A), (8), is the date of enactment of [Pub. L. 108–176][/us/pl/108/176], which was approved Dec. 12, 2003.
+
+ __Amendments__ 
+
+    2012—Subsec. (a)(1)(A). [Pub. L. 112–95, § 803(1)][/us/pl/112/95/s803/1], inserted “chapter 451,” before “section 47107(b)”.
+
+    [Pub. L. 112–95, § 415(b)][/us/pl/112/95/s415/b], inserted “chapter 423,” after “chapter 421,”.
+
+    Subsec. (a)(5)(A)(i). [Pub. L. 112–95, § 803(2)(B)][/us/pl/112/95/s803/2/B], inserted “, or chapter 451” after “44907–44909)”.
+
+    [Pub. L. 112–95, § 803(2)(A)][/us/pl/112/95/s803/2/A], which directed the substitution of “chapter 449” for “or chapter 449”, could not be executed because of the prior amendment by [Pub. L. 112–74, § 564(a)][/us/pl/112/74/s564/a]. See 2011 Amendment note below.
+
+    Subsec. (c)(1)(A). [Pub. L. 112–95, § 415(b)][/us/pl/112/95/s415/b], inserted “chapter 423,” after “chapter 421,”.
+
+    Subsec. (d)(2). [Pub. L. 112–95, § 803(3)][/us/pl/112/95/s803/3], substituted “44723), chapter 451,” for “44723) or”, “section 46302” for “46302”, “section 46318, section 46319, or section 47107(b)” for “46318, or 47107(b)” in first sentence , and “section 46302” for “46302”, “or [section 46303 of this title][/us/usc/t49/s46303]” for “46303,”, and “any of those provisions” for “such chapter 449” in second sentence.
+
+    Subsec. (f)(1)(A)(i). [Pub. L. 112–95, § 803(4)][/us/pl/112/95/s803/4], substituted “chapter 449” for “or chapter 449” and inserted “, or chapter 451” after “44909)”.
+
+    2011—Subsec. (a)(5)(A)(i). [Pub. L. 112–74][/us/pl/112/74] substituted “chapter 449” for “or chapter 449” and inserted “, or section 46314(a)” after “44909)”.
+
+    2007—Subsec. (a)(4). [Pub. L. 110–53][/us/pl/110/53] struck out “or another requirement under this title administered by the Under Secretary of Transportation for Security” after “chapter 449”.
+
+    Subsec. (a)(6). [Pub. L. 110–161][/us/pl/110/161] added par. (6).
+
+    2004—Subsec. (d)(2). [Pub. L. 108–458, § 4027(a)(1)][/us/pl/108/458/s4027/a/1]–(3), substituted “46302 (for a violation relating to section 46504),” for “46302, 46303,”, “The Secretary of Homeland Security may” for “The Under Secretary of Transportation for Security may”, “44909), 46302 (except for a violation relating to section 46504), 46303,” for “44909)”, and “The Secretary of Homeland Security or” for “The Under Secretary or”.
+
+    Subsec. (d)(3). [Pub. L. 108–458, § 4027(a)(3)][/us/pl/108/458/s4027/a/3], substituted “Secretary of Homeland Security or” for “Under Secretary or”.
+
+    Subsec. (d)(4). [Pub. L. 108–458, § 4027(a)(3)][/us/pl/108/458/s4027/a/3], substituted “Secretary of Homeland Security or” for “Under Secretary or” in introductory provisions.
+
+    Subsec. (d)(4)(A). [Pub. L. 108–458, § 4027(a)(4)][/us/pl/108/458/s4027/a/4], realigned margins.
+
+    2003—Subsec. (a)(1). [Pub. L. 108–176, § 503(a)(1)][/us/pl/108/176/s503/a/1], substituted “$25,000 (or $1,100 if the person is an individual or small business concern)” for “$1,000” in introductory provisions.
+
+    Subsec. (a)(1)(A). [Pub. L. 108–176, § 503(a)(2)][/us/pl/108/176/s503/a/2], (3), struck out “or” before “section 47107(b)” and substituted “section), or section 47133” for “section)”.
+
+    Subsec. (a)(2). [Pub. L. 108–176, § 503(a)(5)][/us/pl/108/176/s503/a/5], substituted “section 41719” for “section 41715” in two places.
+
+    [Pub. L. 108–176, § 503(a)(4)][/us/pl/108/176/s503/a/4], redesignated par. (4) as (2) and struck out former par. (2) which read as follows: “A person operating an aircraft for the transportation of passengers or property for compensation (except an airman serving as an airman) is liable to the Government for a civil penalty of not more than $10,000 for violating—
+
+    “(A) chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), section 44502(b) or (c), chapter 447 (except sections 44717–44723), or chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909) of this title; or
+
+    “(B) a regulation prescribed or order issued under any provision to which clause (A) of this paragraph applies.”
+
+    Subsec. (a)(3). [Pub. L. 108–176, § 503(a)(4)][/us/pl/108/176/s503/a/4], redesignated par. (5) as (3) and struck out former par. (3) which read as follows: “A civil penalty of not more than $10,000 may be imposed for each violation under paragraph (1) of this subsection related to
+
+    “(A) the transportation of hazardous material;
+
+    “(B) the registration or recordation under chapter 441 of this title of an aircraft not used to provide air transportation;
+
+    “(C) a violation of section 44718(d), relating to the limitation on construction or establishment of landfills;
+
+    “(D) a violation of section 44725, relating to the safe disposal of life-limited aircraft parts; or
+
+    “(E) a violation of section 41705, relating to discrimination against handicapped individuals.”
+
+    Subsec. (a)(4). [Pub. L. 108–176, § 503(a)(6)][/us/pl/108/176/s503/a/6], substituted “paragraph (1)” for “paragraphs (1) and (2)”.
+
+    [Pub. L. 108–176, § 503(a)(4)][/us/pl/108/176/s503/a/4], redesignated par. (8) as (4). Former par. (4) redesignated (2).
+
+    Subsec. (a)(5). [Pub. L. 108–176, § 503(a)(7)][/us/pl/108/176/s503/a/7], added par. (5). Former par. (5) redesignated (3).
+
+    Subsec. (a)(6). [Pub. L. 108–176, § 503(a)(4)][/us/pl/108/176/s503/a/4], struck out heading and text of par. (6). Text read as follows: “Notwithstanding paragraph (1), the maximum civil penalty for violating section 41715 shall be $5,000 instead of $1,000.”
+
+    Subsec. (a)(7). [Pub. L. 108–176, § 503(a)(4)][/us/pl/108/176/s503/a/4], struck out heading and text of par. (7). Text read as follows: “Notwithstanding paragraphs (1) and (4), the maximum civil penalty for violating section 40127 or 41712 (including a regulation prescribed or order issued under such section) or any other regulation prescribed by the Secretary that is intended to afford consumer protection to commercial air transportation passengers, shall be $2,500 for each violation.”
+
+    Subsec. (a)(8). [Pub. L. 108–176, § 503(a)(4)][/us/pl/108/176/s503/a/4], redesignated par. (8) as (4).
+
+    Subsec. (d)(4)(A). [Pub. L. 108–176, § 503(b)(1)][/us/pl/108/176/s503/b/1], substituted “more than—” for “more than $50,000;” and added cls. (i) to (iii).
+
+    Subsec. (d)(8). [Pub. L. 108–176, § 503(b)(2)][/us/pl/108/176/s503/b/2], substituted “is—” for “is $50,000.” and added subpars. (A) to (C).
+
+    Subsec. (i). [Pub. L. 108–176, § 503(c)][/us/pl/108/176/s503/c], added subsec. (i).
+
+    2002—Subsec. (a)(8). [Pub. L. 107–296][/us/pl/107/296] added par. (8).
+
+    2001—Subsec. (d)(2). [Pub. L. 107–71, § 140(d)(1)(C)][/us/pl/107/71/s140/d/1/C], inserted “Under Secretary or” before “Administrator shall”.
+
+    [Pub. L. 107–71, § 140(d)(1)(B)][/us/pl/107/71/s140/d/1/B], inserted after first sentence “The Under Secretary of Transportation for Security may impose a civil penalty for a violation of chapter 449 (except sections 44902, 44903(d), 44907(a)–(d)(1)(A), 44907(d)(1)(C)–(f), 44908, and 44909) or a regulation prescribed or order issued under such chapter 449.”
+
+    [Pub. L. 107–71, § 140(d)(1)(A)][/us/pl/107/71/s140/d/1/A], which directed amendment of subsec. (d)(2) by striking out “, chapter 449 (except sections 44902, 44903(d), 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), 44908, and 44909),”, was executed by striking out “, chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), 44908, and 44909),” before “or section 46301(b)”, to reflect the probable intent of Congress.
+
+    Subsec. (d)(3), (4). [Pub. L. 107–71, § 140(d)(2)][/us/pl/107/71/s140/d/2], substituted “Under Secretary or Administrator” for “Administrator”.
+
+    Subsec. (d)(8). [Pub. L. 107–71, § 140(d)(3)][/us/pl/107/71/s140/d/3], substituted “Under Secretary, Administrator,” for “Administrator”.
+
+    Subsec. (h)(2). [Pub. L. 107–71, § 140(d)(4)][/us/pl/107/71/s140/d/4], inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or”.
+
+    2000—Subsec. (a)(1)(A). [Pub. L. 106–181][/us/pl/106/181], §§ 519(c), 720(1), substituted “subchapter II or III of chapter 421” for “subchapter II of chapter 421” and struck out “46302, 46303, or” before “47107(b) (including”.
+
+    Subsec. (a)(3)(C). [Pub. L. 106–181, § 503(c)][/us/pl/106/181/s503/c], added subpar. (C).
+
+    Subsec. (a)(3)(D), (E). [Pub. L. 106–181][/us/pl/106/181], §§ 504(b), 707(b), added subpars. (D) and (E).
+
+    Subsec. (a)(6). [Pub. L. 106–181, § 222(b)][/us/pl/106/181/s222/b], inserted heading and realigned margins.
+
+    Subsec. (a)(7). [Pub. L. 106–181, § 222(a)][/us/pl/106/181/s222/a], added par. (7).
+
+    Subsec. (d)(2). [Pub. L. 106–424][/us/pl/106/424] substituted “46301(b), 46302, 46303, 46318,” for “46302, 46303,”.
+
+    Subsec. (d)(7)(A). [Pub. L. 106–181, § 720(2)][/us/pl/106/181/s720/2], substituted “a penalty on a person” for “a penalty on an individual”.
+
+    Subsec. (g). [Pub. L. 106–181, § 720(3)][/us/pl/106/181/s720/3], inserted “or the Administrator” after “Secretary”.
+
+    1997—Subsecs. (a)(1)(A), (2)(A), (d)(2), (f)(1)(A)(i). [Pub. L. 105–102][/us/pl/105/102] repealed [Pub. L. 104–264][/us/pl/104/264], §§ 502(c), 1220(b). See 1996 Amendment notes below.
+
+    1996—Subsec. (a)(1)(A). [Pub. L. 104–287, § 5(77)(A)(iii)][/us/pl/104/287/s5/77/A/iii], (iv), inserted “or” after “46303,” and struck out “, or 41715” after “under such section)”.
+
+    [Pub. L. 104–287, § 5(77)(A)(ii)][/us/pl/104/287/s5/77/A/ii], substituted “section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), and 44908), or section” for “or any of sections 44701(a) or (b), 44702–44716, 44901, 44903(b) or (c), 44905, 44906, 44907(d)(1)(B), 44909(a), 44912–44915, 44932–44938,”.
+
+    [Pub. L. 104–287, § 5(77)(A)(i)][/us/pl/104/287/s5/77/A/i], substituted “chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714),” for “any of sections 41301–41306, 41308–41310(a), 41501, 41503, 41504, 41506, 41510, 41511, 41701, 41702, 41705–41709, 41711, 41712, or 41731–41742,”.
+
+    [Pub. L. 104–264, § 1220(b)][/us/pl/104/264/s1220/b], which directed amendment of subpar. (A) by inserting “44718(d),” after “44716,”, was repealed by [Pub. L. 105–102][/us/pl/105/102].
+
+    [Pub. L. 104–264, § 502(c)(1)][/us/pl/104/264/s502/c/1], which directed amendment of subpar. (A) by inserting “44724,” after “44718(d),”, was repealed by [Pub. L. 105–102][/us/pl/105/102].
+
+    Subsec. (a)(2)(A). [Pub. L. 104–287, § 5(77)(B)][/us/pl/104/287/s5/77/B], substituted “, section 44502(b) or (c), chapter 447 (except sections 44717–44723), or chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909)” for “or any of sections 44701(a) or (b), 44702–44716, 44901, 44903(b) or (c), 44905, 44906, 44912–44915, or 44932–44938”.
+
+    [Pub. L. 104–264, § 502(c)(2)][/us/pl/104/264/s502/c/2], which directed amendment of subpar. (A) by inserting “44724,” after “44716,”, was repealed by [Pub. L. 105–102][/us/pl/105/102].
+
+    Subsec. (a)(3). [Pub. L. 104–287, § 5(77)(C)][/us/pl/104/287/s5/77/C], realigned margins of subpars. (A) and (B).
+
+    Subsec. (a)(5). [Pub. L. 104–264, § 804(b)][/us/pl/104/264/s804/b], amended par. (5) generally. Prior to amendment, par. (5) read as follows: “In the case of a violation of [section 47107(b) of this title][/us/usc/t49/s47107/b], the maximum civil penalty for a continuing violation shall not exceed $50,000.”
+
+    Subsec. (c)(1)(A). [Pub. L. 104–287, § 5(77)(D)(ii)][/us/pl/104/287/s5/77/D/ii], (iii), struck out “or” before “subchapter II” and inserted “, or section 44909” before “of this title”.
+
+    [Pub. L. 104–287, § 5(77)(D)(i)][/us/pl/104/287/s5/77/D/i], substituted “chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714),” for “any of sections 41301–41306, 41308–41310(a), 41501, 41503, 41504, 41506, 41510, 41511, 41701, 41702, 41705–41709, 41711, 41712, or 41731–41742,”.
+
+    Subsec. (d)(2). [Pub. L. 104–287, § 5(77)(E)][/us/pl/104/287/s5/77/E], substituted “section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), 44908, and 44909), or section” for “or any of sections 44701(a) or (b), 44702–44716, 44901, 44903(b) or (c), 44905, 44906, 44907(d)(1)(B), 44912–44915, 44932–44938,”.
+
+    [Pub. L. 104–264, § 1220(b)][/us/pl/104/264/s1220/b], which directed amendment of par. (2) by inserting “44718(d),” after “44716,”, was repealed by [Pub. L. 105–102][/us/pl/105/102].
+
+    [Pub. L. 104–264, § 502(c)(1)][/us/pl/104/264/s502/c/1], which directed amendment of par. (2) by inserting “44724,” after “44718(d),”, was repealed by [Pub. L. 105–102][/us/pl/105/102].
+
+    Subsec. (f)(1)(A)(i). [Pub. L. 104–287, § 5(77)(F)][/us/pl/104/287/s5/77/F], substituted “section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), or chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), 44908, and 44909)” for “or any of sections 44701(a) or (b), 44702–44716, 44901, 44903(b) or (c), 44905, 44906, 44907(d)(1)(B), 44912–44915, or 44932–44938”.
+
+    [Pub. L. 104–264, § 1220(b)][/us/pl/104/264/s1220/b], which directed amendment of cl. (i) by inserting “44718(d),” after “44716,”, was repealed by [Pub. L. 105–102][/us/pl/105/102].
+
+    [Pub. L. 104–264, § 502(c)(1)][/us/pl/104/264/s502/c/1], which directed amendment of cl. (i) by inserting “44724,” after “44718(d),”, was repealed by [Pub. L. 105–102][/us/pl/105/102].
+
+    1994—Subsec. (a)(1)(A). [Pub. L. 103–429, § 6(60)(A)][/us/pl/103/429/s6/60/A], substituted “any of sections 41301–41306” for “section 41301–41306” and “any of sections 44701(a)” for “section 44701(a)”.
+
+    [Pub. L. 103–305, § 207(c)(1)][/us/pl/103/305/s207/c/1], inserted “, or 41715” before “of this title”.
+
+    [Pub. L. 103–305, § 112(c)(1)(A)][/us/pl/103/305/s112/c/1/A], substituted “46303, 47107(b) (including any assurance made under such section)” for “or 46303”.
+
+    Subsec. (a)(2)(A). [Pub. L. 103–429, § 6(60)(B)][/us/pl/103/429/s6/60/B], substituted “any of sections 44701(a)” for “section 44701(a)”.
+
+    Subsec. (a)(4). [Pub. L. 103–305, § 207(c)(2)][/us/pl/103/305/s207/c/2], inserted “(other than a violation of section 41715)” after “the violation” in two places.
+
+    Subsec. (a)(5). [Pub. L. 103–305, § 112(c)(1)(B)][/us/pl/103/305/s112/c/1/B], added par. (5).
+
+    Subsec. (a)(6). [Pub. L. 103–305, § 207(c)(3)][/us/pl/103/305/s207/c/3], added par. (6).
+
+    Subsec. (c)(1)(A). [Pub. L. 103–429, § 6(60)(C)][/us/pl/103/429/s6/60/C], substituted “any of sections 41301–41306” for “section 41301–41306”.
+
+    Subsec. (d)(2). [Pub. L. 103–429, § 6(60)(B)][/us/pl/103/429/s6/60/B], substituted “any of sections 44701(a)” for “section 44701(a)”.
+
+    [Pub. L. 103–305, § 112(c)(2)][/us/pl/103/305/s112/c/2], substituted “46303, or 47107(b) (as further defined by the Secretary under section 47107(l) and including any assurance made under section 47107(b))” for “or 46303”.
+
+    Subsec. (d)(7)(D). [Pub. L. 103–305, § 112(c)(3)][/us/pl/103/305/s112/c/3], added subpar. (D).
+
+    Subsec. (f)(1)(A)(i). [Pub. L. 103–429, § 6(60)(B)][/us/pl/103/429/s6/60/B], substituted “any of sections 44701(a)” for “section 44701(a)”.
+
+ __Effective Date of 2003 Amendment__ 
+
+    Amendment by [Pub. L. 108–176][/us/pl/108/176] applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see [section 3 of Pub. L. 108–176][/us/pl/108/176/s3], set out as a note under [section 106 of this title][/us/usc/t49/s106].
+
+ __Effective Date of 2002 Amendment__ 
+
+    Amendment by [Pub. L. 107–296][/us/pl/107/296] effective 60 days after Nov. 25, 2002, see [section 4 of Pub. L. 107–296][/us/pl/107/296/s4], set out as an Effective Date note under [section 101 of Title 6][/us/usc/t6/s101], Domestic Security.
+
+ __Effective Date of 2000 Amendment__ 
+
+    Amendment by [Pub. L. 106–181][/us/pl/106/181] applicable only to fiscal years beginning after Sept. 30, 1999, see [section 3 of Pub. L. 106–181][/us/pl/106/181/s3], set out as a note under [section 106 of this title][/us/usc/t49/s106].
+
+ __Effective Date of 1997 Amendment__ 
+
+    [Pub. L. 105–102, § 3(c)][/us/pl/105/102/s3/c], Nov. 20, 1997, [111 Stat. 2215][/us/stat/111/2215], provided that the amendment made by section 3(c)(4) is effective Oct. 9, 1996.
+
+    Amendment by [Pub. L. 105–102][/us/pl/105/102] effective as if included in the provisions of the Act to which the amendment relates, see [section 3(f) of Pub. L. 105–102][/us/pl/105/102/s3/f], set out as a note under [section 106 of this title][/us/usc/t49/s106].
+
+ __Effective Date of 1996 Amendments__ 
+
+    Amendment by [Pub. L. 104–287][/us/pl/104/287] effective July 5, 1994, see [section 8(1) of Pub. L. 104–287][/us/pl/104/287/s8/1], set out as a note under [section 5303 of this title][/us/usc/t49/s5303].
+
+    Amendment by [section 502(c) of Pub. L. 104–264][/us/pl/104/264/s502/c] applicable to any air carrier hiring an individual as a pilot whose application was first received by the carrier on or after the 120th day following Oct. 9, 1996, see [section 502(d) of Pub. L. 104–264][/us/pl/104/264/s502/d], set out as a note under [section 30305 of this title][/us/usc/t49/s30305].
+
+    Except as otherwise specifically provided, amendment by [Pub. L. 104–264][/us/pl/104/264] applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see [section 3 of Pub. L. 104–264][/us/pl/104/264/s3], set out as a note under [section 106 of this title][/us/usc/t49/s106].
+
+ __Effective Date of 1994 Amendments__ 
+
+    Amendment by [Pub. L. 103–429][/us/pl/103/429] effective July 5, 1994, see [section 9 of Pub. L. 103–429][/us/pl/103/429/s9], set out as a note under [section 321 of this title][/us/usc/t49/s321].
+
+    Amendment by [section 207(c) of Pub. L. 103–305][/us/pl/103/305/s207/c] effective Feb. 1, 1995, see [section 207(d) of Pub. L. 103–305][/us/pl/103/305/s207/d], set out as an Effective Date note under [section 41719 of this title][/us/usc/t49/s41719].
+
+ __Savings Provision__ 
+
+[Pub. L. 102–345, § 2(c)][/us/pl/102/345/s2/c], Aug. 26, 1992, [106 Stat. 925][/us/stat/106/925], provided that: 
+
+> “Notwithstanding subsections (a) and (b) of this section, sections 901(a)(3) and 905 of the Federal Aviation Act of 1958 \[[Pub. L. 85–726][/us/pl/85/726]\] as in effect on July 31, 1992, shall continue in effect on and after such date of enactment with respect to violations of the Federal Aviation Act of 1958 occurring before such date of enactment.”
+
+ __Transfer of Functions__ 
+
+    For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].
+
+----------
+
+[Previous](./../../../../../../..//us/usc/t49/stVII/ptA/sptiv/ch463/m__us_usc_t49_stVII_ptA_sptiv_ch463.md) | [Next](./../../../../../../..//us/usc/t49/stVII/ptA/sptiv/ch463/m__us_usc_t49_s46302.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs46301)
+
+----------
+----------
+
+[/us/usc/t49/s47133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47133
+[/us/usc/t49/s47107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47107%2Fb
+[/us/usc/t49/s47133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47133
+[/us/usc/t49/s46314/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs46314%2Fa
+[/us/usc/t49/s44909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44909
+[/us/usc/t49/s46303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs46303
+[/us/usc/t49/s46110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs46110
+[/us/usc/t49/s47107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47107%2Fb
+[/us/usc/t49/s46110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs46110
+[/us/usc/t49/s46110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs46110
+[/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
+[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/stat/108/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1231
+[/us/pl/103/305/s112/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs112%2Fc
+[/us/stat/108/1575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1575
+[/us/pl/103/429/s6/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F60
+[/us/stat/108/4385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4385
+[/us/pl/104/264/s502/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs502%2Fc
+[/us/stat/110/3263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3263
+[/us/pl/104/287/s5/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F77
+[/us/stat/110/3396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3396
+[/us/pl/105/102/s3/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs3%2Fc%2F4
+[/us/stat/111/2215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2215
+[/us/pl/106/181/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs222
+[/us/stat/114/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F102
+[/us/pl/106/424/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424%2Fs15
+[/us/stat/114/1888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1888
+[/us/pl/107/71/s140/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fd%2F1
+[/us/stat/115/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F642
+[/us/pl/107/296/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1602
+[/us/stat/116/2312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2312
+[/us/pl/108/176/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs503%2Fa
+[/us/stat/117/2557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2557
+[/us/pl/108/458/s4027/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs4027%2Fa
+[/us/stat/118/3727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3727
+[/us/pl/110/53/s1302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1302%2Fb
+[/us/stat/121/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F392
+[/us/pl/110/161/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs542
+[/us/stat/121/2079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2079
+[/us/pl/112/74/s564/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs564%2Fa
+[/us/stat/125/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F981
+[/us/pl/112/95/s415/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs415%2Fb
+[/us/stat/126/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F96
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
+[/us/stat/84/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F773
+[/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
+[/us/pl/85/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726
+[/us/stat/72/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F783
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
+[/us/pl/104/287/s5/77/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F77%2FA
+[/us/act/1994-07-05/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1994-07-05%2Fs1
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
+[/us/stat/108/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1231
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
+[/us/stat/108/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F745
+[/us/pl/104/287/s5/77/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F77%2FC
+[/us/pl/104/287/s5/77/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F77%2FD
+[/us/act/1994-07-05/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1994-07-05%2Fs1
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
+[/us/stat/108/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1231
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
+[/us/stat/108/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F745
+[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/112/95/s803/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs803%2F1
+[/us/pl/112/95/s415/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs415%2Fb
+[/us/pl/112/95/s803/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs803%2F2%2FB
+[/us/pl/112/95/s803/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs803%2F2%2FA
+[/us/pl/112/74/s564/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs564%2Fa
+[/us/pl/112/95/s415/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs415%2Fb
+[/us/pl/112/95/s803/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs803%2F3
+[/us/usc/t49/s46303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs46303
+[/us/pl/112/95/s803/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs803%2F4
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
+[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
+[/us/pl/108/458/s4027/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs4027%2Fa%2F1
+[/us/pl/108/458/s4027/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs4027%2Fa%2F3
+[/us/pl/108/458/s4027/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs4027%2Fa%2F3
+[/us/pl/108/458/s4027/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs4027%2Fa%2F4
+[/us/pl/108/176/s503/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs503%2Fa%2F1
+[/us/pl/108/176/s503/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs503%2Fa%2F2
+[/us/pl/108/176/s503/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs503%2Fa%2F5
+[/us/pl/108/176/s503/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs503%2Fa%2F4
+[/us/pl/108/176/s503/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs503%2Fa%2F4
+[/us/pl/108/176/s503/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs503%2Fa%2F6
+[/us/pl/108/176/s503/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs503%2Fa%2F4
+[/us/pl/108/176/s503/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs503%2Fa%2F7
+[/us/pl/108/176/s503/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs503%2Fa%2F4
+[/us/pl/108/176/s503/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs503%2Fa%2F4
+[/us/pl/108/176/s503/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs503%2Fa%2F4
+[/us/pl/108/176/s503/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs503%2Fb%2F1
+[/us/pl/108/176/s503/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs503%2Fb%2F2
+[/us/pl/108/176/s503/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs503%2Fc
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/71/s140/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fd%2F1%2FC
+[/us/pl/107/71/s140/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fd%2F1%2FB
+[/us/pl/107/71/s140/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fd%2F1%2FA
+[/us/pl/107/71/s140/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fd%2F2
+[/us/pl/107/71/s140/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fd%2F3
+[/us/pl/107/71/s140/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs140%2Fd%2F4
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181/s503/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs503%2Fc
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181/s222/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs222%2Fb
+[/us/pl/106/181/s222/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs222%2Fa
+[/us/pl/106/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F424
+[/us/pl/106/181/s720/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs720%2F2
+[/us/pl/106/181/s720/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs720%2F3
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
+[/us/pl/104/287/s5/77/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F77%2FA%2Fiii
+[/us/pl/104/287/s5/77/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F77%2FA%2Fii
+[/us/pl/104/287/s5/77/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F77%2FA%2Fi
+[/us/pl/104/264/s1220/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs1220%2Fb
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
+[/us/pl/104/264/s502/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs502%2Fc%2F1
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
+[/us/pl/104/287/s5/77/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F77%2FB
+[/us/pl/104/264/s502/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs502%2Fc%2F2
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
+[/us/pl/104/287/s5/77/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F77%2FC
+[/us/pl/104/264/s804/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs804%2Fb
+[/us/usc/t49/s47107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47107%2Fb
+[/us/pl/104/287/s5/77/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F77%2FD%2Fii
+[/us/pl/104/287/s5/77/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F77%2FD%2Fi
+[/us/pl/104/287/s5/77/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F77%2FE
+[/us/pl/104/264/s1220/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs1220%2Fb
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
+[/us/pl/104/264/s502/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs502%2Fc%2F1
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
+[/us/pl/104/287/s5/77/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F77%2FF
+[/us/pl/104/264/s1220/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs1220%2Fb
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
+[/us/pl/104/264/s502/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs502%2Fc%2F1
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
+[/us/pl/103/429/s6/60/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F60%2FA
+[/us/pl/103/305/s207/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs207%2Fc%2F1
+[/us/pl/103/305/s112/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs112%2Fc%2F1%2FA
+[/us/pl/103/429/s6/60/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F60%2FB
+[/us/pl/103/305/s207/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs207%2Fc%2F2
+[/us/pl/103/305/s112/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs112%2Fc%2F1%2FB
+[/us/pl/103/305/s207/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs207%2Fc%2F3
+[/us/pl/103/429/s6/60/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F60%2FC
+[/us/pl/103/429/s6/60/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F60%2FB
+[/us/pl/103/305/s112/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs112%2Fc%2F2
+[/us/pl/103/305/s112/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs112%2Fc%2F3
+[/us/pl/103/429/s6/60/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs6%2F60%2FB
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs3
+[/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
+[/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
+[/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
+[/us/pl/105/102/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs3%2Fc
+[/us/stat/111/2215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2215
+[/us/pl/105/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102
+[/us/pl/105/102/s3/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F102%2Fs3%2Ff
+[/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
+[/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/104/287/s8/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs8%2F1
+[/us/usc/t49/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5303
+[/us/pl/104/264/s502/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs502%2Fc
+[/us/pl/104/264/s502/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs502%2Fd
+[/us/usc/t49/s30305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30305
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
+[/us/pl/104/264/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs3
+[/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
+[/us/pl/103/429/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs9
+[/us/usc/t49/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs321
+[/us/pl/103/305/s207/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs207%2Fc
+[/us/pl/103/305/s207/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs207%2Fd
+[/us/usc/t49/s41719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41719
+[/us/pl/102/345/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F345%2Fs2%2Fc
+[/us/stat/106/925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F925
+[/us/pl/85/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726
+[/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
+
+

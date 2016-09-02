@@ -1,0 +1,382 @@
+---
+---
+
+# 49 U.S.C., USLM ref /us/usc/t49/stVI/ptB/ch311
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../../..//us/usc/t49/stVI/ptB/m__us_usc_t49_stVI_ptB.md) | [Next](./../../../../../..//us/usc/t49/stVI/ptB/ch311/schI/m__us_usc_t49_stVI_ptB_ch311_schI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstVI%2FptB%2Fch311)
+
+#### CHAPTER 311—COMMERCIAL MOTOR VEHICLE SAFETY
+
+<table>
+
+  <tr>
+
+    <td> 
+
+SUBCHAPTER I—GENERAL AUTHORITY AND STATE GRANTS  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> Sec.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 31100.  </td>
+
+    <td> Purpose.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 31101.  </td>
+
+    <td> Definitions.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 31102.  </td>
+
+    <td> Grants to States.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 31103.  </td>
+
+    <td> United States Government’s share of costs.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 31104.  </td>
+
+    <td> Availability of amounts.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 31105.  </td>
+
+    <td> Employee protections.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 31106.  </td>
+
+    <td> Information systems.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 31107.  </td>
+
+    <td> Border enforcement grants.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 31108.  </td>
+
+    <td> Motor carrier research and technology program.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 31109.  </td>
+
+    <td> Performance and registration information system management.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+SUBCHAPTER II—LENGTH AND WIDTH LIMITATIONS  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 31111.  </td>
+
+    <td> Length limitations.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 31112.  </td>
+
+    <td> Property-carrying unit limitation.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 31113.  </td>
+
+    <td> Width limitations.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 31114.  </td>
+
+    <td> Access to the Interstate System.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 31115.  </td>
+
+    <td> Enforcement.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+SUBCHAPTER III—SAFETY REGULATION  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 31131.  </td>
+
+    <td> Purposes and findings.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 31132.  </td>
+
+    <td> Definitions.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 31133.  </td>
+
+    <td> General powers of the Secretary of Transportation.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 31134.  </td>
+
+    <td> Requirement for registration and USDOT number.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 31135.  </td>
+
+    <td> Duties of employers and employees.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 31136.  </td>
+
+    <td> United States Government regulations.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 31137.  </td>
+
+    <td> Electronic logging devices and brake maintenance regulations.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 31138.  </td>
+
+    <td> Minimum financial responsibility for transporting passengers.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 31139.  </td>
+
+    <td> Minimum financial responsibility for transporting property.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> [31140.  </td>
+
+    <td> Repealed.]  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 31141.  </td>
+
+    <td> Review and preemption of State laws and regulations.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 31142.  </td>
+
+    <td> Inspection of vehicles.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 31143.  </td>
+
+    <td> Investigating complaints and protecting complainants.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 31144.  </td>
+
+    <td> Safety fitness of owners and operators.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 31145.  </td>
+
+    <td> Coordination of Governmental activities and paperwork.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 31146.  </td>
+
+    <td> Relationship to other laws.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 31147.  </td>
+
+    <td> Limitations on authority.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 31148.  </td>
+
+    <td> Certified motor carrier safety auditors.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 31149.  </td>
+
+    <td> Medical program.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 31150.  </td>
+
+    <td> Safety performance history screening.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 31151.  </td>
+
+    <td> Roadability.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+SUBCHAPTER IV—MISCELLANEOUS  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 31161.  </td>
+
+    <td> International cooperation.  </td>
+
+  </tr>
+
+</table>
+
+ __Amendments__ 
+
+    2012—[Pub. L. 112–141, div. C, title II][/us/pl/112/141], §§ 32105(b), 32301(d), July 6, 2012, [126 Stat. 781][/us/stat/126/781], 788, added items 31134 and 31137 and struck out former item 31137 “Monitoring device and brake maintenance regulations”.
+
+    2005—[Pub. L. 109–59, title IV][/us/pl/109/59], §§ 4109(b)(2), 4110(b), 4111(b), 4116(e), 4117(b), 4118(b), 4119(b), Aug. 10, 2005, [119 Stat. 1721][/us/stat/119/1721], 1722, 1724, 1728, 1729, 1732, 1733, substituted “GENERAL AUTHORITY AND STATE GRANTS” for “STATE GRANTS AND OTHER COMMERCIAL MOTOR VEHICLE PROGRAMS” in subchapter I heading, “Border enforcement grants” for “Contract authority funding for information systems” in item 31107, and “Motor carrier research and technology program” for “Authorization of appropriations” in item 31108 and added items 31109 and 31149 to 31151, subchapter IV heading, and item 31161.
+
+    1999—[Pub. L. 106–159, title II, § 211(b)][/us/pl/106/159/s211/b], Dec. 9, 1999, [113 Stat. 1766][/us/stat/113/1766], added item 31148.
+
+    1998—[Pub. L. 105–178, title IV][/us/pl/105/178], §§ 4002(b), 4004(d), 4008(c), (d), 4010, June 9, 1998, [112 Stat. 395][/us/stat/112/395], 400, 404, 407, inserted “AND OTHER COMMERCIAL MOTOR VEHICLE PROGRAMS” after “GRANTS” in subchapter I heading, added item 31100, substituted “Information systems” for “Commercial motor vehicle information system program” in item 31106 and “Contract authority funding for information systems” for “Truck and bus accident grant program” in item 31107, struck out items 31134 “Commercial Motor Vehicle Safety Regulatory Review Panel” and 31140 “Submission of State laws and regulations for review”, subchapter IV heading “MISCELLANEOUS”, and items 31161 “Procedures to ensure timely correction of safety violations” and 31162 “Compliance review priority”.
+
+----------
+
+[Previous](./../../../../../..//us/usc/t49/stVI/ptB/m__us_usc_t49_stVI_ptB.md) | [Next](./../../../../../..//us/usc/t49/stVI/ptB/ch311/schI/m__us_usc_t49_stVI_ptB_ch311_schI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2FstVI%2FptB%2Fch311)
+
+----------
+----------
+
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/stat/126/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F781
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/stat/119/1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1721
+[/us/pl/106/159/s211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs211%2Fb
+[/us/stat/113/1766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1766
+[/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/stat/112/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F395
+
+

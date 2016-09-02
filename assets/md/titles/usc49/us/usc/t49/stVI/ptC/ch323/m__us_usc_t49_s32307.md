@@ -1,0 +1,147 @@
+---
+---
+
+# 49 U.S.C., USLM ref /us/usc/t49/s32307
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../../..//us/usc/t49/stVI/ptC/ch323/m__us_usc_t49_s32306.md) | [Next](./../../../../../..//us/usc/t49/stVI/ptC/ch323/m__us_usc_t49_s32308.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32307)
+
+## § 32307. Investigative powers
+
+    (a) __General Authority.—__ 
+
+    In carrying out this chapter, the Secretary of Transportation may—
+
+        (1) inspect and copy records of any person at reasonable times;
+
+        (2) order a person to file written reports or answers to specific questions, including reports or answers under oath; and
+
+        (3) conduct hearings, administer oaths, take testimony, and require (by subpena or otherwise) the appearance and testimony of witnesses and the production of records the Secretary considers advisable.
+
+    (b) __Witness Fees and Mileage.—__ 
+
+    A witness summoned under subsection (a) of this section is entitled to the same fee and mileage the witness would have been paid in a court of the United States.
+
+    (c) __Civil Actions To Enforce.—__ 
+
+    A civil action to enforce a subpena or order of the Secretary under subsection (a) of this section may be brought in the United States district court for the judicial district in which the proceeding by the Secretary is conducted. The court may punish a failure to obey an order of the court to comply with the subpena or order of the Secretary as a contempt of court.
+
+    (d) __Confidentiality of Information.—__ 
+
+    Information obtained by the Secretary under this section related to a confidential matter referred to in [section 1905 of title 18][/us/usc/t18/s1905] may be disclosed only to another officer or employee of the United States Government for use in carrying out this chapter. This subsection does not authorize information to be withheld from a committee of Congress authorized to have the information.
+
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1040][/us/stat/108/1040].)
+
+<table>
+
+  <tr>
+
+    <td colspan="3"> 
+
+Historical and Revision Notes  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Revised
+
+Section  </td>
+
+    <td> 
+
+Source (U.S. Code)  </td>
+
+    <td> 
+
+Source (Statutes at Large)  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+32307(a)  </td>
+
+    <td> 
+
+15:1944(a)–(c).  </td>
+
+    <td> 
+
+Oct. 20, 1972, Pub. L. 92–513, § 204, 86 Stat. 957.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+32307(b)  </td>
+
+    <td> 
+
+15:1944(e).  </td>
+
+    <td>   </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+32307(c)  </td>
+
+    <td> 
+
+15:1944(d).  </td>
+
+    <td>   </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+32307(d)  </td>
+
+    <td> 
+
+15:1944(f).  </td>
+
+    <td>   </td>
+
+  </tr>
+
+</table>
+
+    In subsection (a), before clause (1), the words “In carrying out this chapter” are substituted for “For the purpose of carrying out the provisions of this subchapter”, “In order to carry out the provisions of this subchapter”, and “relating to any function of the Secretary under this subchapter” for consistency. The words “or on the authorization of the Secretary, any officer or employee of the Department of Transportation” and “or his duly authorized agent” are omitted as surplus because of 49:322(b). In clause (1), the words “inspect and copy” are substituted for “have access to, and for the purposes of examination the right to copy”, and the word “records” is substituted for “documentary evidence” and “materials and information”, for consistency and to eliminate unnecessary words. The words “relevant to the study authorized by this subchapter” are omitted as surplus. In clause (2), the word “order” is substituted for “require, by general or special orders” to eliminate unnecessary words. The words “in such form as the Secretary may prescribe” and “shall be filed with the Secretary within such reasonable period as the Secretary may prescribe” are omitted as surplus because of 49:322(a). In clause (3), the words “sit and act at such times and places” are omitted as being included in “conduct hearings”.
+
+    In subsection (c), the words “A civil action to enforce a subpena or order of the Secretary under subsection (a) of this section may be brought in the United States district court for the judicial district in which the proceeding by the Secretary is conducted” are substituted for 15:1944(d) (words before semicolon) for consistency in the revised title and to eliminate unnecessary words.
+
+    In subsection (d), the words “reported to or otherwise” are omitted as surplus. The words “or such officer or employee” are omitted for consistency with subsection (a) of this section. The words “related to a confidential matter referred to” are substituted for “contains or relates to a trade secret or other matter referred to” to eliminate unnecessary words. The words “a committee of Congress authorized to have the information” are substituted for “the duly authorized committees of the Congress” for clarity.
+
+----------
+
+[Previous](./../../../../../..//us/usc/t49/stVI/ptC/ch323/m__us_usc_t49_s32306.md) | [Next](./../../../../../..//us/usc/t49/stVI/ptC/ch323/m__us_usc_t49_s32308.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32307)
+
+----------
+----------
+
+[/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
+[/us/pl/103/272/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs1%2Fe
+[/us/stat/108/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1040
+
+

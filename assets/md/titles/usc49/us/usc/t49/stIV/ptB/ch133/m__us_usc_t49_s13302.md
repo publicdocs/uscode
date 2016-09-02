@@ -1,0 +1,38 @@
+---
+---
+
+# 49 U.S.C., USLM ref /us/usc/t49/s13302
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../../..//us/usc/t49/stIV/ptB/ch133/m__us_usc_t49_s13301.md) | [Next](./../../../../../..//us/usc/t49/stIV/ptB/ch133/m__us_usc_t49_s13303.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs13302)
+
+## § 13302. Intervention
+
+    Under regulations of the Secretary, reasonable notice of, and an opportunity to intervene and participate in, a proceeding under this part related to transportation subject to jurisdiction under subchapter I of chapter 135 shall be given to interested persons.
+
+(Added [Pub. L. 104–88, title I, § 103][/us/pl/104/88/s103], Dec. 29, 1995, [109 Stat. 858][/us/stat/109/858].)
+
+ __Prior Provisions__ 
+
+    Provisions similar to those in this section were contained in [section 10328 of this title][/us/usc/t49/s10328] prior to the general amendment of this subtitle by [Pub. L. 104–88, § 102(a)][/us/pl/104/88/s102/a].
+
+----------
+
+[Previous](./../../../../../..//us/usc/t49/stIV/ptB/ch133/m__us_usc_t49_s13301.md) | [Next](./../../../../../..//us/usc/t49/stIV/ptB/ch133/m__us_usc_t49_s13303.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs13302)
+
+----------
+----------
+
+[/us/pl/104/88/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs103
+[/us/stat/109/858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F858
+[/us/usc/t49/s10328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10328
+[/us/pl/104/88/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs102%2Fa
+
+
