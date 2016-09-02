@@ -135,9 +135,19 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3014" data-uslm-ref="/us/usc/t18/s3014">3014.</a>  </td>
+
+    <td> Additional special assessment.  </td>
+
+  </tr>
+
 </table>
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–22, title I, § 101(b)][/us/pl/114/22/s101/b], May 29, 2015, [129 Stat. 230][/us/stat/129/230], added item 3014.
 
     1984—[Pub. L. 98–473, title II][/us/pl/98/473], §§ 218(c), 1405(b), Oct. 12, 1984, [98 Stat. 2027][/us/stat/98/2027], 2175, added item 3013 and substituted “Repealed” for “Orders respecting persons in custody” in item 3012.
 
@@ -158,6 +168,8 @@
 ----------
 ----------
 
+[/us/pl/114/22/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs101%2Fb
+[/us/stat/129/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F230
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/stat/98/2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2027
 [/us/pl/88/455/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F455%2Fs4

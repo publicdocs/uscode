@@ -39,10 +39,6 @@
 
     A minor change was made in phraseology.
 
- __References in Text__ 
-
-    The internal-revenue laws relating to liquor, referred to in subsecs. (a) and (d), are classified generally to chapter 51 (§ 5001 et seq.) of Title 26, Internal Revenue Code.
-
  __Amendments__ 
 
     2002—Subsec. (c). [Pub. L. 107–217][/us/pl/107/217] substituted “[section 1306 of title 40][/us/usc/t40/s1306]” for “sections 304f–304m of Title 40”.

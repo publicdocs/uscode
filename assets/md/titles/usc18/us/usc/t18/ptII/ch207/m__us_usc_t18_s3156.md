@@ -33,7 +33,7 @@
 
             (B) any other offense that is a felony and that, by its nature, involves a substantial risk that physical force against the person or property of another may be used in the course of committing the offense; or
 
-            (C) any felony under chapter 109A, 110, or 117; and
+            (C) any felony under chapter 77, 109A, 110, or 117; and
 
         (5) the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
@@ -45,9 +45,11 @@
 
         (2) the term “offense” means any Federal criminal offense which is in violation of any Act of Congress and is triable by any court established by Act of Congress (other than a Class B or C misdemeanor or an infraction, or an offense triable by court-martial, military commission, provost court, or other military tribunal).
 
-(Added [Pub. L. 93–619, title II, § 201][/us/pl/93/619/s201], Jan. 3, 1975, [88 Stat. 2088][/us/stat/88/2088]; amended [Pub. L. 98–473, title II][/us/pl/98/473], §§ 203(c), 223(h), Oct. 12, 1984, [98 Stat. 1985][/us/stat/98/1985], 2029; [Pub. L. 99–646, § 55(i)][/us/pl/99/646/s55/i], Nov. 10, 1986, [100 Stat. 3610][/us/stat/100/3610]; [Pub. L. 103–322, title IV, § 40501][/us/pl/103/322/s40501], Sept. 13, 1994, [108 Stat. 1945][/us/stat/108/1945]; [Pub. L. 104–294, title VI, § 607(i)][/us/pl/104/294/s607/i], Oct. 11, 1996, [110 Stat. 3512][/us/stat/110/3512]; [Pub. L. 105–314, title VI, § 601][/us/pl/105/314/s601], Oct. 30, 1998, [112 Stat. 2982][/us/stat/112/2982].)
+(Added [Pub. L. 93–619, title II, § 201][/us/pl/93/619/s201], Jan. 3, 1975, [88 Stat. 2088][/us/stat/88/2088]; amended [Pub. L. 98–473, title II][/us/pl/98/473], §§ 203(c), 223(h), Oct. 12, 1984, [98 Stat. 1985][/us/stat/98/1985], 2029; [Pub. L. 99–646, § 55(i)][/us/pl/99/646/s55/i], Nov. 10, 1986, [100 Stat. 3610][/us/stat/100/3610]; [Pub. L. 103–322, title IV, § 40501][/us/pl/103/322/s40501], Sept. 13, 1994, [108 Stat. 1945][/us/stat/108/1945]; [Pub. L. 104–294, title VI, § 607(i)][/us/pl/104/294/s607/i], Oct. 11, 1996, [110 Stat. 3512][/us/stat/110/3512]; [Pub. L. 105–314, title VI, § 601][/us/pl/105/314/s601], Oct. 30, 1998, [112 Stat. 2982][/us/stat/112/2982]; [Pub. L. 114–22, title I, § 112][/us/pl/114/22/s112], May 29, 2015, [129 Stat. 240][/us/stat/129/240].)
 
  __Amendments__ 
+
+    2015—Subsec. (a)(4)(C). [Pub. L. 114–22][/us/pl/114/22] inserted “77,” after “chapter”.
 
     1998—Subsec. (a)(4)(C). [Pub. L. 105–314][/us/pl/105/314] added subpar. (C) and struck out former subpar. (C) which read as follows: “any felony under chapter 109A or chapter 110; and”.
 
@@ -96,6 +98,9 @@
 [/us/stat/110/3512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3512
 [/us/pl/105/314/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F314%2Fs601
 [/us/stat/112/2982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2982
+[/us/pl/114/22/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs112
+[/us/stat/129/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F240
+[/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
 [/us/pl/105/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F314
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322

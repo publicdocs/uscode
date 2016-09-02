@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptII/ch201/m__us_usc_t18_s3013.md) | [Next](./../../../../..//us/usc/t18/ptII/ch203/m__us_usc_t18_s3041.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2FptII%2Fch203)
+[Previous](./../../../../..//us/usc/t18/ptII/ch201/m__us_usc_t18_s3014.md) | [Next](./../../../../..//us/usc/t18/ptII/ch203/m__us_usc_t18_s3041.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2FptII%2Fch203)
 
 ### CHAPTER 203—ARREST AND COMMITMENT
 
@@ -275,7 +275,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptII/ch201/m__us_usc_t18_s3013.md) | [Next](./../../../../..//us/usc/t18/ptII/ch203/m__us_usc_t18_s3041.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2FptII%2Fch203)
+[Previous](./../../../../..//us/usc/t18/ptII/ch201/m__us_usc_t18_s3014.md) | [Next](./../../../../..//us/usc/t18/ptII/ch203/m__us_usc_t18_s3041.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2FptII%2Fch203)
 
 ----------
 ----------

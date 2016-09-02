@@ -35,6 +35,10 @@
 
         (8) The right to be treated with fairness and with respect for the victim’s dignity and privacy.
 
+        (9) The right to be informed in a timely manner of any plea bargain or deferred prosecution agreement.
+
+        (10) The right to be informed of the rights under this section and the services described in section 503(c) of the Victims’ Rights and Restitution Act of 1990 ([42 U.S.C. 10607(c)][/us/usc/t42/s10607/c]) and provided contact information for the Office of the Victims’ Rights Ombudsman of the Department of Justice.
+
     (b)  __Rights Afforded__  __.—__ 
 
         (1)  __In general__  __.—__ 
@@ -91,7 +95,7 @@
 
         (3)  __Motion for relief and writ of mandamus__  __.—__ 
 
-        The rights described in subsection (a) shall be asserted in the district court in which a defendant is being prosecuted for the crime or, if no prosecution is underway, in the district court in the district in which the crime occurred. The district court shall take up and decide any motion asserting a victim’s right forthwith. If the district court denies the relief sought, the movant may petition the court of appeals for a writ of mandamus. The court of appeals may issue the writ on the order of a single judge pursuant to circuit rule or the Federal Rules of Appellate Procedure. The court of appeals shall take up and decide such application forthwith within 72 hours after the petition has been filed. In no event shall proceedings be stayed or subject to a continuance of more than five days for purposes of enforcing this chapter. If the court of appeals denies the relief sought, the reasons for the denial shall be clearly stated on the record in a written opinion.
+        The rights described in subsection (a) shall be asserted in the district court in which a defendant is being prosecuted for the crime or, if no prosecution is underway, in the district court in the district in which the crime occurred. The district court shall take up and decide any motion asserting a victim’s right forthwith. If the district court denies the relief sought, the movant may petition the court of appeals for a writ of mandamus. The court of appeals may issue the writ on the order of a single judge pursuant to circuit rule or the Federal Rules of Appellate Procedure. The court of appeals shall take up and decide such application forthwith within 72 hours after the petition has been filed, unless the litigants, with the approval of the court, have stipulated to a different time period for consideration. In deciding such application, the court of appeals shall apply ordinary standards of appellate review. In no event shall proceedings be stayed or subject to a continuance of more than five days for purposes of enforcing this chapter. If the court of appeals denies the relief sought, the reasons for the denial shall be clearly stated on the record in a written opinion.
 
         (4)  __Error__  __.—__ 
 
@@ -115,7 +119,29 @@
 
     (e)  __Definitions__  __.—__ 
 
-    For the purposes of this chapter, the term “crime victim” means a person directly and proximately harmed as a result of the commission of a Federal offense or an offense in the District of Columbia. In the case of a crime victim who is under 18 years of age, incompetent, incapacitated, or deceased, the legal guardians of the crime victim or the representatives of the crime victim’s estate, family members, or any other persons appointed as suitable by the court, may assume the crime victim’s rights under this chapter, but in no event shall the defendant be named as such guardian or representative.
+    For the purposes of this chapter:
+
+        (1)  __Court of appeals__  __.—__ 
+
+        The term “court of appeals” means—
+
+            (A) the United States court of appeals for the judicial district in which a defendant is being prosecuted; or
+
+            (B) for a prosecution in the Superior Court of the District of Columbia, the District of Columbia Court of Appeals.
+
+        (2) __Crime victim.—__ 
+
+            (A)  __In general__  __.—__ 
+
+            The term “crime victim” means a person directly and proximately harmed as a result of the commission of a Federal offense or an offense in the District of Columbia.
+
+            (B)  __Minors and certain other victims__  __.—__ 
+
+            In the case of a crime victim who is under 18 years of age, incompetent, incapacitated, or deceased, the legal guardians of the crime victim or the representatives of the crime victim’s estate, family members, or any other persons appointed as suitable by the court, may assume the crime victim’s rights under this chapter, but in no event shall the defendant be named as such guardian or representative.
+
+        (3)  __District court; court__  __.—__ 
+
+        The terms “district court” and “court” include the Superior Court of the District of Columbia.
 
     (f) __Procedures To Promote Compliance.—__ 
 
@@ -135,7 +161,7 @@
 
             (D) provide that the Attorney General, or the designee of the Attorney General, shall be the final arbiter of the complaint, and that there shall be no judicial review of the final decision of the Attorney General by a complainant.
 
-(Added [Pub. L. 108–405, title I, § 102(a)][/us/pl/108/405/s102/a], Oct. 30, 2004, [118 Stat. 2261][/us/stat/118/2261]; amended [Pub. L. 109–248, title II, § 212][/us/pl/109/248/s212], July 27, 2006, [120 Stat. 616][/us/stat/120/616]; [Pub. L. 111–16, § 3(12)][/us/pl/111/16/s3/12], May 7, 2009, [123 Stat. 1608][/us/stat/123/1608].)
+(Added [Pub. L. 108–405, title I, § 102(a)][/us/pl/108/405/s102/a], Oct. 30, 2004, [118 Stat. 2261][/us/stat/118/2261]; amended [Pub. L. 109–248, title II, § 212][/us/pl/109/248/s212], July 27, 2006, [120 Stat. 616][/us/stat/120/616]; [Pub. L. 111–16, § 3(12)][/us/pl/111/16/s3/12], May 7, 2009, [123 Stat. 1608][/us/stat/123/1608]; [Pub. L. 114–22, title I, § 113(a)][/us/pl/114/22/s113/a], (c)(1), May 29, 2015, [129 Stat. 240][/us/stat/129/240], 241.)
 
  __References in Text__ 
 
@@ -151,9 +177,23 @@
 
  __Amendments__ 
 
+    2015—Subsec. (a)(9), (10). [Pub. L. 114–22, § 113(a)(1)][/us/pl/114/22/s113/a/1], added pars. (9) and (10).
+
+    Subsec. (d)(3). [Pub. L. 114–22, § 113(c)(1)][/us/pl/114/22/s113/c/1], inserted “In deciding such application, the court of appeals shall apply ordinary standards of appellate review.” before “In no event shall”.
+
+    [Pub. L. 114–22, § 113(a)(2)][/us/pl/114/22/s113/a/2], inserted “, unless the litigants, with the approval of the court, have stipulated to a different time period for consideration” after “after the petition has been filed”.
+
+    Subsec. (e). [Pub. L. 114–22, § 113(a)(3)][/us/pl/114/22/s113/a/3], substituted “For the purposes of this chapter:” for “For the purposes of this chapter, the term”; designated remainder of existing provisions as par. (2) and inserted par. heading; in par. (2), inserted subpar. (A) designation, heading, and “The term” before “ ‘crime victim’ means” and inserted subpar. (B) designation and heading before “In the case”; and added pars. (1) and (3).
+
     2009—Subsec. (d)(5)(B). [Pub. L. 111–16][/us/pl/111/16] substituted “14 days” for “10 days”.
 
     2006—Subsec. (b). [Pub. L. 109–248][/us/pl/109/248] designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–22, title I, § 113(c)(2)][/us/pl/114/22/s113/c/2], May 29, 2015, [129 Stat. 241][/us/stat/129/241], provided that: 
+
+> “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to any petition for a writ of mandamus filed under [section 3771(d)(3) of title 18][/us/usc/t18/s3771/d/3], United States Code, that is pending on the date of enactment of this Act \[May 29, 2015\].”
 
  __Effective Date of 2009 Amendment__ 
 
@@ -178,12 +218,15 @@
 ----------
 ----------
 
+[/us/usc/t42/s10607/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10607%2Fc
 [/us/pl/108/405/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405%2Fs102%2Fa
 [/us/stat/118/2261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2261
 [/us/pl/109/248/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs212
 [/us/stat/120/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F616
 [/us/pl/111/16/s3/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs3%2F12
 [/us/stat/123/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1608
+[/us/pl/114/22/s113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs113%2Fa
+[/us/stat/129/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F240
 [/us/pl/108/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F405
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F846
@@ -211,8 +254,15 @@
 [/us/stat/98/1986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1986
 [/us/pl/100/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702
 [/us/stat/102/4651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4651
+[/us/pl/114/22/s113/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs113%2Fa%2F1
+[/us/pl/114/22/s113/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs113%2Fc%2F1
+[/us/pl/114/22/s113/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs113%2Fa%2F2
+[/us/pl/114/22/s113/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs113%2Fa%2F3
 [/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
+[/us/pl/114/22/s113/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs113%2Fc%2F2
+[/us/stat/129/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F241
+[/us/usc/t18/s3771/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3771%2Fd%2F3
 [/us/pl/111/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16
 [/us/pl/111/16/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs7
 [/us/usc/t11/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs109

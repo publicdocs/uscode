@@ -21,6 +21,16 @@
 
     Repeal of section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, see [section 235(a)(1) of Pub. L. 98–473][/us/pl/98/473/s235/a/1], set out as an Effective Date note under [section 3551 of this title][/us/usc/t18/s3551].
 
+ __Short Title of 2015 Amendment__ 
+
+[Pub. L. 114–22, § 1(a)][/us/pl/114/22/s1/a], May 29, 2015, [129 Stat. 227][/us/stat/129/227], provided that: 
+
+> “This Act \[see Tables for classification\] may be cited as the ‘Justice for Victims of Trafficking Act of 2015’.”
+
+[Pub. L. 114–22, title I, § 118(a)][/us/pl/114/22/s118/a], May 29, 2015, [129 Stat. 247][/us/stat/129/247], provided that: 
+
+> “This section \[amending [section 1591 of this title][/us/usc/t18/s1591]\] may be cited as the ‘Stop Advertising Victims of Exploitation Act of 2015’ or the ‘SAVE Act of 2015’.”
+
  __Short Title of 2014 Amendment__ 
 
 [Pub. L. 113–104, § 1][/us/pl/113/104/s1], May 20, 2014, [128 Stat. 1156][/us/stat/128/1156], provided that: 
@@ -320,6 +330,11 @@
 [/us/stat/98/3138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3138
 [/us/pl/98/473/s235/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs235%2Fa%2F1
 [/us/usc/t18/s3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3551
+[/us/pl/114/22/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs1%2Fa
+[/us/stat/129/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F227
+[/us/pl/114/22/s118/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs118%2Fa
+[/us/stat/129/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F247
+[/us/usc/t18/s1591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1591
 [/us/pl/113/104/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F104%2Fs1
 [/us/stat/128/1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1156
 [/us/usc/t18/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs117

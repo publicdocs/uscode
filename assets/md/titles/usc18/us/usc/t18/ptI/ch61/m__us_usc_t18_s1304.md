@@ -29,6 +29,10 @@
 
     Minor changes were made in phraseology.
 
+ __Constitutionality__ 
+
+For information regarding constitutionality of this section, see reference to [act June 19, 1934, ch. 652, § 316][/us/act/1934-06-19/ch652/s316] (on which this section is based), in Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+
  __Amendments__ 
 
     1994—[Pub. L. 103–322][/us/pl/103/322] substituted “fined under this title” for “fined not more than $1,000”.
@@ -57,6 +61,7 @@
 [/us/usc/t47/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs316
 [/us/act/1934-06-19/ch652/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652%2Fs316
 [/us/stat/48/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1088
+[/us/act/1934-06-19/ch652/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652%2Fs316
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/pl/100/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F625
 [/us/pl/100/625/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F625%2Fs5

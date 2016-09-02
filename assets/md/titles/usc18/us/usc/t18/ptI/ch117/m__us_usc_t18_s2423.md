@@ -37,13 +37,19 @@
 
     (f)  __Definition__  __.—__ 
 
-    As used in this section, the term “illicit sexual conduct” means (1) a sexual act (as defined in section 2246) with a person under 18 years of age that would be in violation of chapter 109A if the sexual act occurred in the special maritime and territorial jurisdiction of the United States; or (2) any commercial sex act (as defined in section 1591) with a person under 18 years of age.
+    As used in this section, the term “illicit sexual conduct” means—
+
+        (1) a sexual act (as defined in section 2246) with a person under 18 years of age that would be in violation of chapter 109A if the sexual act occurred in the special maritime and territorial jurisdiction of the United States;
+
+        (2) any commercial sex act (as defined in section 1591) with a person under 18 years of age; or
+
+        (3) production of child pornography (as defined in section 2256(8)).
 
     (g)  __Defense__  __.—__ 
 
-    In a prosecution under this section based on illicit sexual conduct as defined in subsection (f)(2), it is a defense, which the defendant must establish by a preponderance of the evidence, that the defendant reasonably believed that the person with whom the defendant engaged in the commercial sex act had attained the age of 18 years.
+    In a prosecution under this section based on illicit sexual conduct as defined in subsection (f)(2), it is a defense, which the defendant must establish by clear and convincing evidence, that the defendant reasonably believed that the person with whom the defendant engaged in the commercial sex act had attained the age of 18 years.
 
-([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 812][/us/stat/62/812]; [Pub. L. 95–225, § 3(a)][/us/pl/95/225/s3/a], Feb. 6, 1978, [92 Stat. 8][/us/stat/92/8]; [Pub. L. 99–628, § 5(b)(1)][/us/pl/99/628/s5/b/1], Nov. 7, 1986, [100 Stat. 3511][/us/stat/100/3511]; [Pub. L. 103–322, title XVI, § 160001(g)][/us/pl/103/322/s160001/g], Sept. 13, 1994, [108 Stat. 2037][/us/stat/108/2037]; [Pub. L. 104–71, § 5][/us/pl/104/71/s5], Dec. 23, 1995, [109 Stat. 774][/us/stat/109/774]; [Pub. L. 104–294, title VI][/us/pl/104/294], §§ 601(b)(4), 604(b)(33), Oct. 11, 1996, [110 Stat. 3499][/us/stat/110/3499], 3508; [Pub. L. 105–314, title I, § 103][/us/pl/105/314/s103], Oct. 30, 1998, [112 Stat. 2976][/us/stat/112/2976]; [Pub. L. 107–273, div. B, title IV, § 4002(c)(1)][/us/pl/107/273/s4002/c/1], Nov. 2, 2002, [116 Stat. 1808][/us/stat/116/1808]; [Pub. L. 108–21, title I][/us/pl/108/21], §§ 103(a)(2)(C), (b)(2)(B), 105, Apr. 30, 2003, [117 Stat. 652][/us/stat/117/652], 653; [Pub. L. 109–248, title II, § 204][/us/pl/109/248/s204], July 27, 2006, [120 Stat. 613][/us/stat/120/613]; [Pub. L. 113–4, title XII, § 1211(b)][/us/pl/113/4/s1211/b], Mar. 7, 2013, [127 Stat. 142][/us/stat/127/142].)
+([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 812][/us/stat/62/812]; [Pub. L. 95–225, § 3(a)][/us/pl/95/225/s3/a], Feb. 6, 1978, [92 Stat. 8][/us/stat/92/8]; [Pub. L. 99–628, § 5(b)(1)][/us/pl/99/628/s5/b/1], Nov. 7, 1986, [100 Stat. 3511][/us/stat/100/3511]; [Pub. L. 103–322, title XVI, § 160001(g)][/us/pl/103/322/s160001/g], Sept. 13, 1994, [108 Stat. 2037][/us/stat/108/2037]; [Pub. L. 104–71, § 5][/us/pl/104/71/s5], Dec. 23, 1995, [109 Stat. 774][/us/stat/109/774]; [Pub. L. 104–294, title VI][/us/pl/104/294], §§ 601(b)(4), 604(b)(33), Oct. 11, 1996, [110 Stat. 3499][/us/stat/110/3499], 3508; [Pub. L. 105–314, title I, § 103][/us/pl/105/314/s103], Oct. 30, 1998, [112 Stat. 2976][/us/stat/112/2976]; [Pub. L. 107–273, div. B, title IV, § 4002(c)(1)][/us/pl/107/273/s4002/c/1], Nov. 2, 2002, [116 Stat. 1808][/us/stat/116/1808]; [Pub. L. 108–21, title I][/us/pl/108/21], §§ 103(a)(2)(C), (b)(2)(B), 105, Apr. 30, 2003, [117 Stat. 652][/us/stat/117/652], 653; [Pub. L. 109–248, title II, § 204][/us/pl/109/248/s204], July 27, 2006, [120 Stat. 613][/us/stat/120/613]; [Pub. L. 113–4, title XII, § 1211(b)][/us/pl/113/4/s1211/b], Mar. 7, 2013, [127 Stat. 142][/us/stat/127/142]; [Pub. L. 114–22, title I, § 111][/us/pl/114/22/s111], May 29, 2015, [129 Stat. 240][/us/stat/129/240].)
 
  __Historical and Revision Notes__ 
 
@@ -58,6 +64,10 @@
     Minor changes were made in phraseology.
 
  __Amendments__ 
+
+    2015—Subsec. (f). [Pub. L. 114–22, § 111(a)][/us/pl/114/22/s111/a], inserted a dash after “means”, designated existing provisions containing designations (1) and (2) as pars. (1) and (2), and added par. (3).
+
+    Subsec. (g). [Pub. L. 114–22, § 111(b)][/us/pl/114/22/s111/b], substituted “clear and convincing evidence” for “a preponderance of the evidence”.
 
     2013—Subsec. (c). [Pub. L. 113–4][/us/pl/113/4] inserted “or resides, either temporarily or permanently, in a foreign country” after “commerce”.
 
@@ -128,11 +138,15 @@
 [/us/stat/120/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F613
 [/us/pl/113/4/s1211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1211%2Fb
 [/us/stat/127/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F142
+[/us/pl/114/22/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs111
+[/us/stat/129/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F240
 [/us/act/1910-06-25/ch395/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-25%2Fch395%2Fs4
 [/us/stat/36/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F826
 [/us/usc/t18/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1
 [/us/usc/t18/s550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs550
 [/us/usc/t18/s2421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2421
+[/us/pl/114/22/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs111%2Fa
+[/us/pl/114/22/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs111%2Fb
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
 [/us/pl/108/21/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs105%2Fb
