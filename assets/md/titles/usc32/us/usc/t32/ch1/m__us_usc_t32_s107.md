@@ -191,25 +191,35 @@ Aug. 10, 1956, ch. 1041, § 30, 70A Stat. 632.  </td>
 
     Amendment by [Pub. L. 103–337][/us/pl/103/337] effective Dec. 1, 1994, except as otherwise provided, see [section 1691 of Pub. L. 103–337][/us/pl/103/337/s1691], set out as an Effective Date note under [section 10001 of Title 10][/us/usc/t10/s10001], Armed Forces.
 
- __Authorization of National Guard State Partnership Program__ 
+ __Department of Defense State Partnership Program__ 
 
-[Pub. L. 113–66, div. A, title XII, § 1205][/us/pl/113/66/s1205], Dec. 26, 2013, [127 Stat. 897][/us/stat/127/897], provided that:
+[Pub. L. 113–66, div. A, title XII, § 1205][/us/pl/113/66/s1205], Dec. 26, 2013, [127 Stat. 897][/us/stat/127/897], as amended by [Pub. L. 114–92, div. A, title XII, § 1203(a)][/us/pl/114/92/s1203/a]–(e), (g)–(i), Nov. 25, 2015, [129 Stat. 1037–1039][/us/stat/129/1037-1039], provided that:
 
 >     “(a) __Authority.—__ 
 
 >         “(1)  __In general__  __.—__ 
 
->         The Secretary of Defense, with the concurrence of the Secretary of State, is authorized to establish a program of exchanges of members of the National Guard of a State or territory and the military forces, or security forces or other government organizations whose primary functions include disaster response or emergency response, of a foreign country.
+>         The Secretary of Defense, with the concurrence of the Secretary of State, is authorized to establish a program of activities described in paragraph (2), to support the security cooperation objectives of the United States, between members of the National Guard of a State or territory and any of the following:
 
->         “(2)  __State partnership program__  __.—__ 
+>             “(A) The military forces of a foreign country.
 
->         Each program established under this subsection shall be known as a ‘State Partnership Program’.
+>             “(B) The security forces of a foreign country.
+
+>             “(C) Governmental organizations of a foreign country whose primary functions include disaster response or emergency response.
+
+>         “(2)  __State partnership__  __.—__ 
+
+>         Each program established under this subsection shall be known as a ‘State Partnership’.
 
 >     “(b)  __Limitation__  __.—__ 
 
->     An activity under a program established under subsection (a) that involves the security forces or other government organizations whose primary functions include disaster response or emergency response of a foreign country, or an activity that the Secretary of Defense determines is a matter within the core competencies of the National Guard of a State or territory, may be carried out only if the Secretary of Defense, with the concurrence of the Secretary of State, determines and notifies the appropriate congressional committees not less than 15 days before initiating such activity that the activity is in the national security interests of the United States.
+>     An activity with forces referred to in subsection (a)(1)(B) or organizations described in subsection (a)(1)(C) under a program established under subsection (a) may be carried out only if the Secretary of Defense, with the concurrence of the Secretary of State, determines and notifies the appropriate congressional committees not less than 15 days before initiating such activity that the activity is in the national security interests of the United States.
 
->     “(c) __Regulations.—__ 
+>     “(c)  __Coordination of Activities__  __.—__ 
+
+>     The Chief of the National Guard Bureau shall designate a director for each State and territory to be responsible for the coordination of activities under a program established under subsection (a) for such State or territory and reporting on activities under the program.
+
+>     “(d) __Regulations.—__ 
 
 >         “(1)  __In general__  __.—__ 
 
@@ -223,7 +233,7 @@ Aug. 10, 1956, ch. 1041, § 30, 70A Stat. 632.  </td>
 
 >             “(B) shall provide to the appropriate congressional committees a copy of the regulations.
 
->     “(d) __Availability of Authorized Funds for Program.—__ 
+>     “(e) __Availability of Authorized Funds for Program.—__ 
 
 >         “(1)  __In general__  __.—__ 
 
@@ -243,7 +253,7 @@ Aug. 10, 1956, ch. 1041, § 30, 70A Stat. 632.  </td>
 
 >             The total amount of payments for incremental expenses of foreign countries as authorized under paragraph (1)(B) for activities under programs established under subsection (a) in any fiscal year may not exceed $10,000,000.
 
->     “(e) __Reports and Notifications.—__ 
+>     “(f) __Reports and Notifications.—__ 
 
 >         “(1) __Review and report of existing programs.—__ 
 
@@ -263,7 +273,7 @@ Aug. 10, 1956, ch. 1041, § 30, 70A Stat. 632.  </td>
 
 >             “(A)  __In general__  __.—__ 
 
->             Not later than January 31 of each year following a fiscal year in which activities under a program established under subsection (a) are carried out, the Secretary of Defense shall submit to the appropriate congressional committees a report on such activities under the program.
+>             Not later than January 31 of each year following a fiscal year in which activities under each program established under subsection (a) are carried out, the Secretary of Defense shall submit to the appropriate congressional committees a report on such activities under such program.
 
 >             “(B)  __Matters to be included__  __.—__ 
 
@@ -273,17 +283,19 @@ Aug. 10, 1956, ch. 1041, § 30, 70A Stat. 632.  </td>
 
 >                 “(ii) The type of activities conducted, the duration of the activities, and the number of members of the National Guard of each State or territory involved in such activities.
 
->                 “(iii) The extent of participation in the activities by the military forces and security forces of such foreign country.
+>                 “(iii) The extent of participation in the activities by the military forces and security forces or other government organizations of such foreign country.
 
->                 “(iv) A summary of expenditures to conduct the activities, including the annual cost of the activities, with a breakdown of such expenditures by geographic combatant command.
+>                 “(iv) A summary of expenditures to conduct the activities, including the annual cost of the activities, with a breakdown of such expenditures by geographic combatant command and country.
 
->                 “(v) With respect to activities described in subsection (b), the objective of the activities, and a description of how the activities support the theater campaign plan of the commander of the geographic combatant command with responsibility for the country or countries in which the training occurred.
+>                 “(v) With respect to activities described in subsection (b), the objective of the activities, and a description of how the activities support the theater campaign plan of the commander of the geographic combatant command with responsibility for the country or countries in which the activities occurred.
 
->     “(f)  __Rule of Construction__  __.—__ 
+>                 “(vi) An assessment of the extent to which the activities conducted during the previous year met the objectives described in clause (v).
+
+>     “(g)  __Rule of Construction__  __.—__ 
 
 >     Nothing in this section shall be construed to supersede any authority under title 10, United States Code, as in effect on the date of the enactment of this Act \[Dec. 26, 2013\].
 
->     “(g)  __Definitions__  __.—__ 
+>     “(h)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -291,9 +303,9 @@ Aug. 10, 1956, ch. 1041, § 30, 70A Stat. 632.  </td>
 
 >         The term ‘appropriate congressional committees’ means—
 
->             “(A) the Committee on Armed Services and the Committee on Foreign Relations of the Senate; and
+>             “(A) the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate; and
 
->             “(B) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives.
+>             “(B) the Committee on Armed Services, the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives.
 
 >         “(2)  __Incremental expenses__  __.—__ 
 
@@ -315,7 +327,7 @@ Aug. 10, 1956, ch. 1041, § 30, 70A Stat. 632.  </td>
 
 >     “(i)  __Termination__  __.—__ 
 
->     The authority granted under subsection (a) shall terminate on September 30, 2016.”
+>     The authority granted under subsection (a) shall terminate on September 30, 2021.”
 
  __Limitation on Activities Under State Partnership Program Pending Compliance With Certain Program-Related Requirements__ 
 
@@ -390,6 +402,8 @@ Aug. 10, 1956, ch. 1041, § 30, 70A Stat. 632.  </td>
 [/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001
 [/us/pl/113/66/s1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1205
 [/us/stat/127/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F897
+[/us/pl/114/92/s1203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1203%2Fa
+[/us/stat/129/1037-1039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1037-1039
 [/us/pl/111/84/s1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1210
 [/us/pl/112/239/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1204
 [/us/stat/126/1982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1982
