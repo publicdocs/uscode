@@ -29,7 +29,7 @@
 
     (d) __Temporary relief__ 
 
-    Where a hearing is requested pursuant to subsection (c) of this section, the Secretary, where the Secretary is the regulatory authority, or the State hearing authority may, under such conditions as it may prescribe, grant such temporary relief as it deems appropriate pending final determination of the proceedings if—
+    Where a hearing is requested pursuant to subsection (c), the Secretary, where the Secretary is the regulatory authority, or the State hearing authority may, under such conditions as it may prescribe, grant such temporary relief as it deems appropriate pending final determination of the proceedings if—
 
         (1) all parties to the proceedings have been notified and given an opportunity to be heard on a request for temporary relief;
 

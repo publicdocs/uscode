@@ -33,7 +33,7 @@
 
                 (i) If the lands to be leased are within a special tar sand area, they shall be leased to the highest responsible qualified bidder by competitive bidding under general regulations in units of not more than 5,760 acres, which shall be as nearly compact as possible, upon the payment by the lessee of such bonus as may be accepted by the Secretary.
 
-                (ii) Royalty shall be 12½ per centum in amount or value of production removed or sold from the lease, subject to subsection (k)(1)(c)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be subsection “(k)(1)(C)”. </sup></sup>  of this section.
+                (ii) Royalty shall be 12½ per centum in amount or value of production removed or sold from the lease, subject to subsection (k)(1)(c). <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be subsection “(k)(1)(C)”. </sup></sup> 
 
                 (iii) The Secretary may lease such additional lands in special tar sand areas as may be required in support of any operations necessary for the recovery of tar sands.
 
@@ -53,7 +53,7 @@
 
         (3)
 
-            (A) If the United States held a vested future interest in a mineral estate that, immediately prior to becoming a vested present interest, was subject to a lease under which oil or gas was being produced, or had a well capable of producing, in paying quantities at an annual average production volume per well per day of either not more than 15 barrels per day of oil or condensate, or not more than 60,000 cubic feet of gas, the holder of the lease may elect to continue the lease as a noncompetitive lease under subsection (c)(1) of this section.
+            (A) If the United States held a vested future interest in a mineral estate that, immediately prior to becoming a vested present interest, was subject to a lease under which oil or gas was being produced, or had a well capable of producing, in paying quantities at an annual average production volume per well per day of either not more than 15 barrels per day of oil or condensate, or not more than 60,000 cubic feet of gas, the holder of the lease may elect to continue the lease as a noncompetitive lease under subsection (c)(1).
 
             (B)
 
@@ -65,7 +65,7 @@
 
                 (iii) in any case other than those described in clause (i) or (ii), if the election is made prior to the interest becoming a vested present interest.
 
-            (C) Notwithstanding the consent requirement referenced in [section 352 of this title][/us/usc/t30/s352], the Secretary shall issue a noncompetitive lease under subsection (c)(1) of this section to a holder who makes an election under subparagraph (A) and who is qualified to hold a lease under this chapter. Such lease shall be subject to all terms and conditions under this chapter that are applicable to leases issued under subsection (c)(1) of this section.
+            (C) Notwithstanding the consent requirement referenced in [section 352 of this title][/us/usc/t30/s352], the Secretary shall issue a noncompetitive lease under subsection (c)(1) to a holder who makes an election under subparagraph (A) and who is qualified to hold a lease under this chapter. Such lease shall be subject to all terms and conditions under this chapter that are applicable to leases issued under subsection (c)(1).
 
             (D) A lease issued pursuant to this paragraph shall continue so long as oil or gas continues to be produced in paying quantities.
 

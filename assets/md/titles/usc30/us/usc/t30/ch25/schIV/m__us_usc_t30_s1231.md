@@ -31,7 +31,7 @@
 
         (4) recovered moneys as provided for in this subchapter; and
 
-        (5) interest credited to the fund under subsection (e) of this section.
+        (5) interest credited to the fund under subsection (e).
 
     (c) __Use of moneys__ 
 

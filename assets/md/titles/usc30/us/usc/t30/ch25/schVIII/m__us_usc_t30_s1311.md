@@ -17,13 +17,13 @@
 
     (a) __Designation by Secretary of Energy__ 
 
-        The Secretary of Energy, after consultation with the National Academy of Engineering, shall designate thirteen institutions of higher education at which university coal research laboratories will be established and operated. Ten such designations shall be made as provided in subsection (e) of this section and the remaining three shall be made in fiscal year 1980.
+        The Secretary of Energy, after consultation with the National Academy of Engineering, shall designate thirteen institutions of higher education at which university coal research laboratories will be established and operated. Ten such designations shall be made as provided in subsection (e) and the remaining three shall be made in fiscal year 1980.
 
     (b) __Criteria__ 
 
     In making designations under this section, the Secretary of Energy shall consider the following criteria:
 
-        (1) Those ten institutions of higher education designated as provided in subsection (e) of this section shall be located in a State with abundant coal reserves.
+        (1) Those ten institutions of higher education designated as provided in subsection (e) shall be located in a State with abundant coal reserves.
 
         (2) The institution of higher education shall have experience in coal research, expertise in several areas of coal research, and potential or currently active, outstanding programs in coal research.
 
@@ -53,7 +53,7 @@
 
     1978—Subsec. (a). [Pub. L. 95–617, § 604(a)][/us/pl/95/617/s604/a], substituted “The Secretary of Energy” for “The Administrator, Energy Research and Development Administration (hereafter referred to as ‘Administrator’ in this subchapter)” and “shall designate thirteen institutions” for “is authorized and directed to designate ten institutions” and inserted provision that ten such designations be made as provided in subsection (e) of this section and the remaining three be made in fiscal year 1980.
 
-    Subsec. (b). [Pub. L. 95–617, § 604(a)][/us/pl/95/617/s604/a], (c), substituted in provisions preceding par. (1) “Secretary of Energy” for “Administrator” and in par. (1) “Those ten institutions of higher education designated as provided in subsection (e) of this section” for “The institution of higher education”.
+    Subsec. (b). [Pub. L. 95–617, § 604(a)][/us/pl/95/617/s604/a], (c), substituted in provisions preceding par. (1) “Secretary of Energy” for “Administrator” and in par. (1) “Those ten institutions of higher education designated as provided in subsection (e)” for “The institution of higher education”.
 
     Subsecs. (d), (e). [Pub. L. 95–617, § 604(c)][/us/pl/95/617/s604/c], substituted “Secretary of Energy” for “Administrator” wherever appearing.
 

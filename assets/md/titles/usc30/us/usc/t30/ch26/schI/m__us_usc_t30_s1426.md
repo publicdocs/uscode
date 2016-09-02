@@ -25,7 +25,7 @@
 
     (b) __Adjudicatory hearing__ 
 
-        If the Administrator determines that there exists one or more specific and material factual issues which require resolution by formal processes, at least one adjudicatory hearing shall be held in the District of Columbia in accordance with the provisions of [section 554 of title 5][/us/usc/t5/s554]. The record developed in any such adjudicatory hearing shall be part of the basis for the Administrator’s decision to take any action referred to in subsection (a) of this section. Hearings held pursuant to this section shall be consolidated insofar as practicable with hearings held by other agencies.
+        If the Administrator determines that there exists one or more specific and material factual issues which require resolution by formal processes, at least one adjudicatory hearing shall be held in the District of Columbia in accordance with the provisions of [section 554 of title 5][/us/usc/t5/s554]. The record developed in any such adjudicatory hearing shall be part of the basis for the Administrator’s decision to take any action referred to in subsection (a). Hearings held pursuant to this section shall be consolidated insofar as practicable with hearings held by other agencies.
 
 ([Pub. L. 96–283, title I, § 116][/us/pl/96/283/s116], June 28, 1980, [94 Stat. 573][/us/stat/94/573].)
 

@@ -15,17 +15,23 @@
 
 ## § 1308b. Transfer of computer hardware, software and other technical equipment
 
-    With funds available for the Technical Innovation and Professional Services program in this or any other Act with respect to any fiscal year, the Secretary may transfer title for computer hardware, software and other technical equipment to State and tribal regulatory and reclamation programs.
+    In fiscal year 2015 and each fiscal year thereafter, with funds available for the Technical Innovation and Professional Services program in this or any other Act with respect to any fiscal year, the Secretary may transfer title for computer hardware, software and other technical equipment to State and tribal regulatory and reclamation programs.
 
-([Pub. L. 113–76, div. G, title I][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 299][/us/stat/128/299].)
+([Pub. L. 113–235, div. F, title I][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2407][/us/stat/128/2407].)
 
  __References in Text__ 
 
-    This Act, referred to in text, is div. G of [Pub. L. 113–76][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 289][/us/stat/128/289], known as the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2014. For complete classification of this Act to the Code, see Tables.
+    This Act, referred to in text, is div. F of [Pub. L. 113–235][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2396][/us/stat/128/2396], known as the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2015. For complete classification of this Act to the Code, see Tables.
 
  __Codification__ 
 
-    Section was enacted as part of the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2014, and also as part of the Consolidated Appropriations Act, 2014, and not as part of the Surface Mining Control and Reclamation Act of 1977 which comprises this chapter.
+    Section was enacted as part of the appropriation act cited as the credit to this section, and not as part of the Surface Mining Control and Reclamation Act of 1977 which comprises this chapter.
+
+ __Similar Provisions__ 
+
+    Similar provisions were contained in the following prior appropriations act:
+
+    [Pub. L. 113–76, div. G, title I][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 299][/us/stat/128/299].
 
 ----------
 
@@ -34,9 +40,11 @@
 ----------
 ----------
 
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/stat/128/2407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2407
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/stat/128/2396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2396
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/stat/128/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F299
-[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
-[/us/stat/128/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F289
 
 

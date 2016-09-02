@@ -41,7 +41,7 @@
 
             (A)
 
-             with respect to any lease that terminated under subsection (b) of this section on or before August 8, 2005, a petition for reinstatement (together with the required back rental and royalty accruing after the date of termination) is filed on or before the earlier of—
+             with respect to any lease that terminated under subsection (b) on or before August 8, 2005, a petition for reinstatement (together with the required back rental and royalty accruing after the date of termination) is filed on or before the earlier of—
 
                 (i) 60 days after the lessee receives from the Secretary notice of termination, whether by return of check or by any other form of actual notice; or
 
@@ -49,7 +49,7 @@
 
             (B)
 
-             with respect to any lease that terminates under subsection (b) of this section after August 8, 2005, a petition for reinstatement (together with the required back rental and royalty accruing after the date of termination) is filed on or before the earlier of—
+             with respect to any lease that terminates under subsection (b) after August 8, 2005, a petition for reinstatement (together with the required back rental and royalty accruing after the date of termination) is filed on or before the earlier of—
 
                 (i) 60 days after receipt of the notice of termination sent by the Secretary by certified mail to all lessees of record; or
 
@@ -91,7 +91,7 @@
 
         (4) a requirement in the lease for payment of royalty on production removed or sold from the oil placer mining claim, including all royalty on production made subsequent to the statutory date the claim was deemed conclusively abandoned, of not less than 12½ percent; and
 
-        (5) compliance with the notice and reimbursement of costs provisions of paragraph (4) of subsection (e) of this section but addressed to the petition covering the conversion of an abandoned unpatented oil placer mining claim to a noncompetitive oil and gas lease.
+        (5) compliance with the notice and reimbursement of costs provisions of paragraph (4) of subsection (e) but addressed to the petition covering the conversion of an abandoned unpatented oil placer mining claim to a noncompetitive oil and gas lease.
 
     (g) __Treatment of leases__ 
 
@@ -115,7 +115,7 @@
 
     (j) __Discretion of Secretary__ 
 
-        Where, in the judgment of the Secretary of the Interior, drilling operations were being diligently conducted on the last day of the primary term of the lease, and, except for nonpayment of rental, the lessee would have been entitled to extension of his lease, pursuant to [section 226–1(d) of this title][/us/usc/t30/s226–1/d], the Secretary of the Interior may reinstate such lease notwithstanding the failure of the lessee to have made payment of the next year’s rental, provided the conditions of subparagraphs (1) and (2) of subsection (c) of this section are satisfied.
+        Where, in the judgment of the Secretary of the Interior, drilling operations were being diligently conducted on the last day of the primary term of the lease, and, except for nonpayment of rental, the lessee would have been entitled to extension of his lease, pursuant to [section 226–1(d) of this title][/us/usc/t30/s226–1/d], the Secretary of the Interior may reinstate such lease notwithstanding the failure of the lessee to have made payment of the next year’s rental, provided the conditions of subparagraphs (1) and (2) of section  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subsection”. </sup></sup>  (c) are satisfied.
 
 ([Feb. 25, 1920, ch. 85, § 31][/us/act/1920-02-25/ch85/s31], [41 Stat. 450][/us/stat/41/450]; [Aug. 8, 1946, ch. 916, § 9][/us/act/1946-08-08/ch916/s9], [60 Stat. 956][/us/stat/60/956]; [July 29, 1954, ch. 644, § 1(7)][/us/act/1954-07-29/ch644/s1/7], [68 Stat. 585][/us/stat/68/585]; [Pub. L. 87–822, § 1][/us/pl/87/822/s1], Oct. 15, 1962, [76 Stat. 943][/us/stat/76/943]; [Pub. L. 91–245][/us/pl/91/245], §§ 1, 2, May 12, 1970, [84 Stat. 206][/us/stat/84/206]; [Pub. L. 97–451, title IV, § 401][/us/pl/97/451/s401], Jan. 12, 1983, [96 Stat. 2462][/us/stat/96/2462]; [Pub. L. 100–203, title V][/us/pl/100/203], §§ 5102(d)(2), 5104, Dec. 22, 1987, [101 Stat. 1330–258][/us/stat/101/1330-258], 1330–259; [Pub. L. 101–567, § 1][/us/pl/101/567/s1], Nov. 15, 1990, [104 Stat. 2802][/us/stat/104/2802]; [Pub. L. 103–437, § 11(a)(1)][/us/pl/103/437/s11/a/1], Nov. 2, 1994, [108 Stat. 4589][/us/stat/108/4589]; [Pub. L. 109–58, title III, § 371(b)][/us/pl/109/58/s371/b], Aug. 8, 2005, [119 Stat. 734][/us/stat/119/734].)
 

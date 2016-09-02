@@ -25,13 +25,13 @@
 
         The Secretary shall extend the primary term of a geothermal lease for 5 years if, for each year after the 10th year of the lease—
 
-            (A) the Secretary determined under subsection (b) of this section that the lessee satisfied the work commitment requirements that applied to the lease for that year; or
+            (A) the Secretary determined under subsection (b) that the lessee satisfied the work commitment requirements that applied to the lease for that year; or
 
-            (B) the lessee paid in annual payments accordance with subsection (c) of this section.
+            (B) the lessee paid in annual payments accordance with subsection (c).
 
         (3) __Additional extension__ 
 
-            The Secretary shall extend the primary term of a geothermal lease (after an initial extension under paragraph (2)) for an additional 5 years if, for each year of the initial extension under paragraph (2), the Secretary determined under subsection (b) of this section that the lessee satisfied the minimum work requirements that applied to the lease for that year.
+            The Secretary shall extend the primary term of a geothermal lease (after an initial extension under paragraph (2)) for an additional 5 years if, for each year of the initial extension under paragraph (2), the Secretary determined under subsection (b) that the lessee satisfied the minimum work requirements that applied to the lease for that year.
 
     (b) __Requirement to satisfy annual minimum work requirement__ 
 
@@ -49,7 +49,7 @@
 
     (c) __Payments in lieu of minimum work requirements__ 
 
-        In lieu of the minimum work requirements set forth in subsection (b)(2) of this section, the Secretary shall by regulation establish minimum annual payments which may be made by the lessee for a limited number of years that the Secretary determines will not impair achieving diligent development of the geothermal resource, but in no event shall the number of years exceed the duration of the extension period provided in subsection (a) of this section.
+        In lieu of the minimum work requirements set forth in subsection (b)(2), the Secretary shall by regulation establish minimum annual payments which may be made by the lessee for a limited number of years that the Secretary determines will not impair achieving diligent development of the geothermal resource, but in no event shall the number of years exceed the duration of the extension period provided in subsection (a).
 
     (d) __Transition rules for leases issued prior to__  __August 8, 2005__ 
 

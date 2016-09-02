@@ -21,13 +21,13 @@
 
     (b) __Discretionary activities for communities with proj­ects not subject to coverage__ 
 
-        The Secretary of Energy, for projects not included under subsection (a) of this section, may in his discretion consider the community impacts which may result from such projects, and may take such actions, under authority directly available to him under other statutes or in coordination with other Federal agencies or the State, as he considers necessary and appropriate to insure timely and effective planning and financing for such community impacts.
+        The Secretary of Energy, for projects not included under subsection (a), may in his discretion consider the community impacts which may result from such projects, and may take such actions, under authority directly available to him under other statutes or in coordination with other Federal agencies or the State, as he considers necessary and appropriate to insure timely and effective planning and financing for such community impacts.
 
     (c) __Guarantees, commitments to guarantee, direct loans, and grants; scope, terms and conditions, amount, etc.__ 
 
         (1)
 
-         In order to discharge his responsibilities under subsection (a) of this section, and in accordance with such rules and regulations as the Secretary of Energy in consultation with the Secretary of the Treasury shall prescribe, and subject to such terms and conditions as he deems appropriate, the Secretary of Energy is authorized, for the purposes of financing essential community development and planning which directly result from, or are necessitated by, a project under subsection (a) of this section, to—
+         In order to discharge his responsibilities under subsection (a), and in accordance with such rules and regulations as the Secretary of Energy in consultation with the Secretary of the Treasury shall prescribe, and subject to such terms and conditions as he deems appropriate, the Secretary of Energy is authorized, for the purposes of financing essential community development and planning which directly result from, or are necessitated by, a project under subsection (a), to—
 
             (A) guarantee and make commitments to guarantee the payment of interest on, and the principal balance of, obligations for such financing issued by eligible States, political subdivisions, or Indian tribes,
 
@@ -41,7 +41,7 @@
 
         (4)
 
-         If after consultation with  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be followed by “the”. </sup></sup>  State, political subdivision, or Indian tribe, the Secretary of Energy finds that the financial assistance programs of paragraph (1) of this section will not result in sufficient funds to carry out the purposes of this subsection, then the Secretary of Energy may—
+         If after consultation with  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be followed by “the”. </sup></sup>  State, political subdivision, or Indian tribe, the Secretary of Energy finds that the financial assistance programs of paragraph (1) of this section  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “subsection”. </sup></sup>  will not result in sufficient funds to carry out the purposes of this subsection, then the Secretary of Energy may—
 
             (A) make direct loans to the eligible States, political subdivisions, or Indian tribes for such purposes: Provided, That such loans shall be made on such reasonable terms and conditions as the Secretary of Energy shall prescribe: Provided further, That the Secretary of Energy may waive repayment of all or part of a loan made under this paragraph, including interest, if the State or political subdivision or Indian tribe involved demonstrates to the satisfaction of the Secretary of Energy that due to a change in circumstances there will be net adverse impacts resulting from such project that would probably cause such State, subdivision, or tribe to default on the loan; or
 

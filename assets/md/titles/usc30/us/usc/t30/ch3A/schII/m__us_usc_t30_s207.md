@@ -47,7 +47,7 @@
 
         (6) 1 The Secretary may, upon six months’ notification to the lessee cease to accept advance royalties in lieu of the requirement of continued operation.
 
-        (7) Nothing in this subsection shall be construed to affect the requirement contained in the second sentence of subsection (a) of this section relating to commencement of production at the end of ten years.
+        (7) Nothing in this subsection shall be construed to affect the requirement contained in the second sentence of subsection (a) relating to commencement of production at the end of ten years.
 
     (c) __Operation and reclamation plan__ 
 

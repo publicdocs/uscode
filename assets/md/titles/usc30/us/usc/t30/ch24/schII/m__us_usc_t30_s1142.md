@@ -25,7 +25,7 @@
 
     (c) __Rights and authorities of Attorney General upon default on any guarantee__ 
 
-        In the event of a default on any guarantee under this subchapter, the Secretary of Energy shall notify the Attorney General, who shall take such action as may be appropriate to recover the amounts of any payments made under subsection (a) of this section, including any payment of principal and interest under subsection (d) of this section, from such assets of the defaulting borrower as are associated with the project, or from any other security included in the terms of the guarantee.
+        In the event of a default on any guarantee under this subchapter, the Secretary of Energy shall notify the Attorney General, who shall take such action as may be appropriate to recover the amounts of any payments made under subsection (a), including any payment of principal and interest under subsection (d), from such assets of the defaulting borrower as are associated with the project, or from any other security included in the terms of the guarantee.
 
     (d) __Contracts to pay, and payment, from Geothermal Resources Development Fund of principal and interest of unpaid balance of obligation; preconditions__ 
 

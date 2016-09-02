@@ -29,7 +29,7 @@
 
     (b) __Effect of designation__ 
 
-        No license or permit shall be issued under this subchapter permitting any exploration or commercial recovery which will conflict with any license, permit, or equivalent authorization issued by any foreign nation which is designated as a reciprocating state under subsection (a) of this section.
+        No license or permit shall be issued under this subchapter permitting any exploration or commercial recovery which will conflict with any license, permit, or equivalent authorization issued by any foreign nation which is designated as a reciprocating state under subsection (a).
 
     (c) __Notification__ 
 
@@ -37,7 +37,7 @@
 
     (d) __Revocation of reciprocating state status__ 
 
-        The Administrator, in consultation with the Secretary of State and the heads of other appropriate departments and agencies, shall revoke the designation of a foreign nation as a reciprocating state if the Secretary of State finds that such foreign nation no longer complies with the requirements of subsection (a) of this section. At the request of any holder of a license, permit, or equivalent authorization of such foreign nation, who obtained the license, permit, or equivalent authorization while such foreign nation was a reciprocating state, the Administrator, in consultation with the Secretary of State, may decide to recognize the license, permit, or equivalent authorization for purposes of subsection (b) of this section.
+        The Administrator, in consultation with the Secretary of State and the heads of other appropriate departments and agencies, shall revoke the designation of a foreign nation as a reciprocating state if the Secretary of State finds that such foreign nation no longer complies with the requirements of subsection (a). At the request of any holder of a license, permit, or equivalent authorization of such foreign nation, who obtained the license, permit, or equivalent authorization while such foreign nation was a reciprocating state, the Administrator, in consultation with the Secretary of State, may decide to recognize the license, permit, or equivalent authorization for purposes of subsection (b).
 
     (e) __Authorization__ 
 
@@ -45,7 +45,7 @@
 
     (f) __International consultations__ 
 
-        The Administrator, in consultation with the Secretary of State and the heads of other appropriate departments and agencies, shall consult with foreign nations which enact, or are preparing to enact, domestic legislation establishing an interim legal framework for exploration and commercial recovery of hard mineral resources. Such consultations shall be carried out with a view to facilitating the designation of such nations as reciprocating states and, as necessary, the negotiation of agreements with foreign nations authorized by subsection (e) of this section. In addition, the Administrator shall provide such foreign nations with information on environmental impacts of exploration and commercial recovery activities, and shall provide any technical assistance requested in designing regulatory measures to protect the environment.
+        The Administrator, in consultation with the Secretary of State and the heads of other appropriate departments and agencies, shall consult with foreign nations which enact, or are preparing to enact, domestic legislation establishing an interim legal framework for exploration and commercial recovery of hard mineral resources. Such consultations shall be carried out with a view to facilitating the designation of such nations as reciprocating states and, as necessary, the negotiation of agreements with foreign nations authorized by subsection (e). In addition, the Administrator shall provide such foreign nations with information on environmental impacts of exploration and commercial recovery activities, and shall provide any technical assistance requested in designing regulatory measures to protect the environment.
 
 ([Pub. L. 96–283, title I, § 118][/us/pl/96/283/s118], June 28, 1980, [94 Stat. 574][/us/stat/94/574].)
 

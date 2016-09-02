@@ -25,7 +25,7 @@
 
     (c) __Additional sums for Project__ 
 
-        In addition to sums authorized to be appropriated by subsection (b) of this section, there are authorized to be appropriated to the fund not to exceed $50,000,000 annually, such sums to carry out the provisions of the loan guaranty program by the Project under subchapter II of this chapter.
+        In addition to sums authorized to be appropriated by subsection (b), there are authorized to be appropriated to the fund not to exceed $50,000,000 annually, such sums to carry out the provisions of the loan guaranty program by the Project under subchapter II.
 
 ([Pub. L. 93–410, title III, § 304][/us/pl/93/410/s304], Sept. 3, 1974, [88 Stat. 1089][/us/stat/88/1089].)
 

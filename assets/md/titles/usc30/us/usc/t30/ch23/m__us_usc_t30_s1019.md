@@ -25,7 +25,7 @@
 
     (b) __Use of payments__ 
 
-        Amounts paid to a State or county under subsection (a) of this section shall be used consistent with the terms of [section 191 of this title][/us/usc/t30/s191].
+        Amounts paid to a State or county under subsection (a) shall be used consistent with the terms of [section 191 of this title][/us/usc/t30/s191].
 
 ([Pub. L. 91–581, § 20][/us/pl/91/581/s20], Dec. 24, 1970, [84 Stat. 1572][/us/stat/84/1572]; [Pub. L. 100–443, § 5(a)][/us/pl/100/443/s5/a], Sept. 22, 1988, [102 Stat. 1768][/us/stat/102/1768]; [Pub. L. 103–66, title X, § 10202(b)][/us/pl/103/66/s10202/b], Aug. 10, 1993, [107 Stat. 408][/us/stat/107/408]; [Pub. L. 109–58, title II, § 224(b)][/us/pl/109/58/s224/b], Aug. 8, 2005, [119 Stat. 663][/us/stat/119/663].)
 

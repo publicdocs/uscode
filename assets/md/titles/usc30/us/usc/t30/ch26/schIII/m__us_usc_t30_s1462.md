@@ -21,7 +21,7 @@
 
     (b) __Review of civil penalty__ 
 
-        Any person subject to [section 1461 of this title][/us/usc/t30/s1461] against whom a civil penalty is assessed under subsection (a) of this section may obtain review thereof in an appropriate district court of the United States by filing a notice of appeal in such court within 30 days from the date of such order and by simultaneously sending a copy of such notice by certified mail to the Administrator. The Administrator shall promptly file in such court a certified copy of the record upon which the particular violation was found and such penalty was imposed, as provided in [section 2112 of title 28][/us/usc/t28/s2112]. The findings and order of the Administrator shall be set aside by such court if they are not found to be supported by substantial evidence, as provided in [section 706(2)(E) of title 5][/us/usc/t5/s706/2/E].
+        Any person subject to [section 1461 of this title][/us/usc/t30/s1461] against whom a civil penalty is assessed under subsection (a) may obtain review thereof in an appropriate district court of the United States by filing a notice of appeal in such court within 30 days from the date of such order and by simultaneously sending a copy of such notice by certified mail to the Administrator. The Administrator shall promptly file in such court a certified copy of the record upon which the particular violation was found and such penalty was imposed, as provided in [section 2112 of title 28][/us/usc/t28/s2112]. The findings and order of the Administrator shall be set aside by such court if they are not found to be supported by substantial evidence, as provided in [section 706(2)(E) of title 5][/us/usc/t5/s706/2/E].
 
     (c) __Action upon failure to pay assessment__ 
 
@@ -29,7 +29,7 @@
 
     (d) __Compromise or other action by the Administrator__ 
 
-        The Administrator may compromise, modify, or remit, with or without conditions, any civil penalty which is subject to imposition or which has been imposed under this section unless an action brought under subsection (b) or (c) of this section is pending in a court of the United States.
+        The Administrator may compromise, modify, or remit, with or without conditions, any civil penalty which is subject to imposition or which has been imposed under this section unless an action brought under subsection (b) or (c) is pending in a court of the United States.
 
 ([Pub. L. 96–283, title III, § 302][/us/pl/96/283/s302], June 28, 1980, [94 Stat. 577][/us/stat/94/577].)
 

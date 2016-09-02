@@ -21,15 +21,15 @@
 
     (b) __Support of educational programs in science and engineering__ 
 
-        The National Science Foundation is authorized to support programs of education in the sciences and engineering to carry out the policy of subsection (a) of this section. Such support may include fellowships, traineeships, technical training programs, technologist training programs, and summer institute programs.
+        The National Science Foundation is authorized to support programs of education in the sciences and engineering to carry out the policy of subsection (a). Such support may include fellowships, traineeships, technical training programs, technologist training programs, and summer institute programs.
 
     (c) __Selection of programs of education; coordination with National Science Foundation__ 
 
-        The National Science Foundation is authorized and directed to coordinate its actions, to the maximum extent practicable, with the Project or any permanent Federal organization or agency having jurisdiction over the energy research and development functions of the United States, in determining the optimal selection of programs of education to carry out the policy of subsection (a) of this section.
+        The National Science Foundation is authorized and directed to coordinate its actions, to the maximum extent practicable, with the Project or any permanent Federal organization or agency having jurisdiction over the energy research and development functions of the United States, in determining the optimal selection of programs of education to carry out the policy of subsection (a).
 
     (d) __International participation and cooperation__ 
 
-        The National Science Foundation is authorized to encourage, to the maximum extent practicable international participation and cooperation in the development and maintenance of programs of education to carrying out the policy of subsection (a) of this section.
+        The National Science Foundation is authorized to encourage, to the maximum extent practicable international participation and cooperation in the development and maintenance of programs of education to carrying out the policy of subsection (a).
 
 ([Pub. L. 93–410, title I, § 106][/us/pl/93/410/s106], Sept. 3, 1974, [88 Stat. 1085][/us/stat/88/1085].)
 

@@ -39,13 +39,13 @@
 
     (f) __Cooperation from other agencies__ 
 
-        All Federal and State agencies shall fully cooperate with the Secretary of the Interior in the enforcement of this section. Whenever the Secretary believes that any person has not paid the full amount of the fee payable under subsection (a) of this section the Secretary shall notify the Federal agency responsible for ensuring compliance with the provisions of [section 4121 of title 26][/us/usc/t26/s4121].
+        All Federal and State agencies shall fully cooperate with the Secretary of the Interior in the enforcement of this section. Whenever the Secretary believes that any person has not paid the full amount of the fee payable under subsection (a) the Secretary shall notify the Federal agency responsible for ensuring compliance with the provisions of [section 4121 of title 26][/us/usc/t26/s4121].
 
     (g) __Allocation of funds__ 
 
         (1)
 
-         Except as provided in subsection (h) of this section, moneys deposited into the fund shall be allocated by the Secretary to accomplish the purposes of this subchapter as follows:
+         Except as provided in subsection (h), moneys deposited into the fund shall be allocated by the Secretary to accomplish the purposes of this subchapter as follows:
 
             (A)
 

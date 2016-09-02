@@ -45,7 +45,7 @@
 
         (1)
 
-         Subsection (a)(1)(A) of this section shall not be deemed to prohibit any United States citizen who is engaged in exploration before June 28, 1980, from continuing to engage in such exploration—
+         Subsection (a)(1)(A) shall not be deemed to prohibit any United States citizen who is engaged in exploration before June 28, 1980, from continuing to engage in such exploration—
 
             (A) if such citizen applies for a license under [section 1413(a) of this title][/us/usc/t30/s1413/a] with respect to such exploration within such reasonable period of time, after the date on which initial regulations to implement [section 1413(a) of this title][/us/usc/t30/s1413/a] are issued, as the Administrator shall prescribe; and
 

@@ -21,11 +21,11 @@
 
     (b) __Jurisdiction of courts__ 
 
-        Any district court of the United States which has jurisdiction under [section 1467 of this title][/us/usc/t30/s1467] shall have jurisdiction, upon application by the Attorney General on behalf of the United States, to order any forfeiture authorized under subsection (a) of this section and any action provided for under subsection (d) of this section.
+        Any district court of the United States which has jurisdiction under [section 1467 of this title][/us/usc/t30/s1467] shall have jurisdiction, upon application by the Attorney General on behalf of the United States, to order any forfeiture authorized under subsection (a) and any action provided for under subsection (d).
 
     (c) __Judgment__ 
 
-        If a judgment is entered for the United States in a civil forfeiture proceeding under this section, the Attorney General may seize any property or other interest declared forfeited to the United States which has not previously been seized pursuant to this chapter or for which security has not previously been obtained under subsection (d) of this section.
+        If a judgment is entered for the United States in a civil forfeiture proceeding under this section, the Attorney General may seize any property or other interest declared forfeited to the United States which has not previously been seized pursuant to this chapter or for which security has not previously been obtained under subsection (d).
 
     (d) __Procedure__ 
 

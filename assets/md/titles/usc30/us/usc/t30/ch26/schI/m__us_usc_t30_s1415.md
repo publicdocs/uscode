@@ -41,7 +41,7 @@
 
         (1)
 
-         After the issuance or transfer of any license or permit under subsection (b) of this section, the Administrator, after consultation with interested agencies and the licensee or permittee, may modify any term, condition, or restriction in such license or permit—
+         After the issuance or transfer of any license or permit under subsection (b), the Administrator, after consultation with interested agencies and the licensee or permittee, may modify any term, condition, or restriction in such license or permit—
 
             (A) to avoid unreasonable interference with the interests of other states in their exercise of the freedoms of the high seas, as recognized under general principles of international law;
 

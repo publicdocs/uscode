@@ -21,7 +21,7 @@
 
     (b) __Deposit of royalty payments__ 
 
-        Royalty payments received under subsection (a) of this section shall be covered into the miscellaneous receipts of the Treasury.
+        Royalty payments received under paragraph (a) of this section shall be covered into the miscellaneous receipts of the Treasury.
 
     (c) __Certification of exploration projects; payment of royalties; time limitation on payment; royalty agreements__ 
 

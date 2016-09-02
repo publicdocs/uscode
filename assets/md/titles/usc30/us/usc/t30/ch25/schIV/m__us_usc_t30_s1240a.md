@@ -27,7 +27,7 @@
 
     (b) __Eligible lands, waters, and facilities__ 
 
-    If the Secretary has concurred in a State or tribal certification under subsection (a) of this section, for purposes of determining the eligibility of lands and waters for annual grants under [section 1232(g)(1) of this title][/us/usc/t30/s1232/g/1], [section 1234 of this title][/us/usc/t30/s1234] shall not apply, and eligible lands, waters, and facilities shall be those—
+    If the Secretary has concurred in a State or tribal certification under subsection (a), for purposes of determining the eligibility of lands and waters for annual grants under [section 1232(g)(1) of this title][/us/usc/t30/s1232/g/1], [section 1234 of this title][/us/usc/t30/s1234] shall not apply, and eligible lands, waters, and facilities shall be those—
 
         (1) which were mined or processed for minerals or which were affected by such mining or processing, and abandoned or left in an inadequate reclamation status prior to August 3, 1977; and
 
@@ -35,7 +35,7 @@
 
     (c) __Priorities__ 
 
-    Expenditures of moneys for lands, waters, and facilities referred to in subsection (b) of this section shall reflect the following objectives and priorities in the order stated (in lieu of the priorities set forth in [section 1233 of this title][/us/usc/t30/s1233]):
+    Expenditures of moneys for lands, waters, and facilities referred to in subsection (b) shall reflect the following objectives and priorities in the order stated (in lieu of the priorities set forth in [section 1233 of this title][/us/usc/t30/s1233]):
 
         (1) The protection of public health, safety, general welfare, and property from extreme danger of adverse effects of mineral mining and processing practices.
 
@@ -49,11 +49,11 @@
 
     (e) __Utilities and other facilities__ 
 
-        Reclamation projects involving the protection, repair, replacement, construction, or enhancement of utilities, such as those relating to water supply, roads, and such other facilities serving the public adversely affected by mineral mining and processing practices, and the construction of public facilities in communities impacted by coal or other mineral mining and processing practices, shall be deemed part of the objectives set forth, and undertaken as they relate to, the priorities stated in subsection (c) of this section.
+        Reclamation projects involving the protection, repair, replacement, construction, or enhancement of utilities, such as those relating to water supply, roads, and such other facilities serving the public adversely affected by mineral mining and processing practices, and the construction of public facilities in communities impacted by coal or other mineral mining and processing practices, shall be deemed part of the objectives set forth, and undertaken as they relate to, the priorities stated in subsection (c).
 
     (f) __Public facilities related to coal or minerals industry__ 
 
-        Notwithstanding subsection (e) of this section, where the Secretary has concurred in the certification referenced in subsection (a) of this section and where the Governor of a State or the head of a governing body of an Indian tribe determines there is a need for activities or construction of specific public facilities related to the coal or minerals industry in States impacted by coal or minerals development and the Secretary concurs in such need, then the State or Indian tribe, as the case may be, may use annual grants made available under [section 1232(g)(1) of this title][/us/usc/t30/s1232/g/1] to carry out such activities or construction.
+        Notwithstanding subsection (e), where the Secretary has concurred in the certification referenced in subsection (a) and where the Governor of a State or the head of a governing body of an Indian tribe determines there is a need for activities or construction of specific public facilities related to the coal or minerals industry in States impacted by coal or minerals development and the Secretary concurs in such need, then the State or Indian tribe, as the case may be, may use annual grants made available under [section 1232(g)(1) of this title][/us/usc/t30/s1232/g/1] to carry out such activities or construction.
 
     (g) __Application of other provisions__ 
 

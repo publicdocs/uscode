@@ -25,7 +25,7 @@
 
     (b) __Venue__ 
 
-        A civil action described in subsection (a) of this section may be brought only in the United States district court for the judicial district wherein the act, omission, or transaction constituting a violation under this chapter or any other mineral leasing law occurred, or wherein the defendant is found or transacts business.
+        A civil action described in subsection (a) may be brought only in the United States district court for the judicial district wherein the act, omission, or transaction constituting a violation under this chapter or any other mineral leasing law occurred, or wherein the defendant is found or transacts business.
 
 ([Pub. L. 97–451, title I, § 112][/us/pl/97/451/s112], Jan. 12, 1983, [96 Stat. 2456][/us/stat/96/2456].)
 

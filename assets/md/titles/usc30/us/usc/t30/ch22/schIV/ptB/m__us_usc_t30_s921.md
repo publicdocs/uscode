@@ -21,7 +21,7 @@
 
     (b) __Promulgation of standards determining total disability__ 
 
-        The Secretary shall by regulation prescribe standards for determining for purposes of subsection (a) of this section whether a miner is totally disabled due to pneumoconiosis and for determining whether the death of a miner was due to pneumoconiosis. Regulations required by this subsection shall be promulgated and published in the Federal Register at the earliest practicable date after December 30, 1969, and in no event later than the end of the third month following December 1969. Final regulations required for implementation of any amendments to this subchapter shall be promulgated and published in the Federal Register at the earliest practicable date after the date of enactment of such amendments, and in no event later than the end of the fourth month following the month in which such amendments are enacted. Such regulations may be modified or additional regulations promulgated from time to time thereafter.
+        The Secretary shall by regulation prescribe standards for determining for purposes of subsection (a) whether a miner is totally disabled due to pneumoconiosis and for determining whether the death of a miner was due to pneumoconiosis. Regulations required by this subsection shall be promulgated and published in the Federal Register at the earliest practicable date after December 30, 1969, and in no event later than the end of the third month following December 1969. Final regulations required for implementation of any amendments to this subchapter shall be promulgated and published in the Federal Register at the earliest practicable date after the date of enactment of such amendments, and in no event later than the end of the fourth month following the month in which such amendments are enacted. Such regulations may be modified or additional regulations promulgated from time to time thereafter.
 
     (c) __Presumptions__ 
 
@@ -39,7 +39,7 @@
 
     (d) __Applicability of presumptions__ 
 
-        Nothing in subsection (c) of this section shall be deemed to affect the applicability of subsection (a) of this section in the case of a claim where the presumptions provided for therein are inapplicable.
+        Nothing in subsection (c) shall be deemed to affect the applicability of subsection (a) in the case of a claim where the presumptions provided for therein are inapplicable.
 
 ([Pub. L. 91–173, title IV, § 411][/us/pl/91/173/s411], Dec. 30, 1969, [83 Stat. 793][/us/stat/83/793]; [Pub. L. 92–303][/us/pl/92/303], §§ 3(a), 4(b)(1), (3), (c), (d), May 19, 1972, [86 Stat. 153][/us/stat/86/153], 154; [Pub. L. 95–239, § 3(a)][/us/pl/95/239/s3/a], Mar. 1, 1978, [92 Stat. 96][/us/stat/92/96]; [Pub. L. 97–119, title II][/us/pl/97/119], §§ 202(b), 203(a)(5), Dec. 29, 1981, [95 Stat. 1643][/us/stat/95/1643], 1644; [Pub. L. 103–296, title I, § 108(i)(2)][/us/pl/103/296/s108/i/2], Aug. 15, 1994, [108 Stat. 1488][/us/stat/108/1488]; [Pub. L. 107–275, § 2(a)][/us/pl/107/275/s2/a], Nov. 2, 2002, [116 Stat. 1925][/us/stat/116/1925]; [Pub. L. 111–148, title I, § 1556(a)][/us/pl/111/148/s1556/a], Mar. 23, 2010, [124 Stat. 260][/us/stat/124/260].)
 

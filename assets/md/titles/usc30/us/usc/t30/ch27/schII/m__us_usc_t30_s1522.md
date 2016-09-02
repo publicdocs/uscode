@@ -51,11 +51,11 @@
 
     (f) __Certificate of insurance; issuance, etc.__ 
 
-        The Secretary, within ninety days after making and submitting the determinations under subsection (e) of this section, and upon agreement of the applicant to such determinations, shall issue a certificate of insurance containing such terms and conditions as the Secretary shall specify, which shall not be transferrable without the express approval of the Secretary for good cause shown, and shall execute a contract with the applicant setting forth the terms and conditions of the investment insurance and such other provisions as may be necessary to protect the interests of the United States, including provisions with respect to the ownership, use, and disposition of any currency, credits, assets, or investments on account of which payment under such insurance is to be made and any right, title, claim, or course of action existing in relation thereto.
+        The Secretary, within ninety days after making and submitting the determinations under subsection (e), and upon agreement of the applicant to such determinations, shall issue a certificate of insurance containing such terms and conditions as the Secretary shall specify, which shall not be transferrable without the express approval of the Secretary for good cause shown, and shall execute a contract with the applicant setting forth the terms and conditions of the investment insurance and such other provisions as may be necessary to protect the interests of the United States, including provisions with respect to the ownership, use, and disposition of any currency, credits, assets, or investments on account of which payment under such insurance is to be made and any right, title, claim, or course of action existing in relation thereto.
 
     (g) __Compensation payable to holder of certificate of insurance; amount, etc.__ 
 
-        Any holder of a certificate of insurance pursuant to subsection (f) of this section who claims a loss of value of his investment by reason of the specified risk shall receive compensation, to the extent the Secretary determines that the holder is eligible to receive compensation pursuant to the certificate and the contract, in the amount of the loss incurred by the holder which is subject to insurance and for which the holder has not received and will not receive compensation from other insurance.
+        Any holder of a certificate of insurance pursuant to subsection (f) who claims a loss of value of his investment by reason of the specified risk shall receive compensation, to the extent the Secretary determines that the holder is eligible to receive compensation pursuant to the certificate and the contract, in the amount of the loss incurred by the holder which is subject to insurance and for which the holder has not received and will not receive compensation from other insurance.
 
     (h) __Withdrawal and payment of compensation__ 
 
@@ -67,11 +67,11 @@
 
     (j) __Appropriations__ 
 
-        There may be appropriated to the Geothermal Resources Development Fund (established pursuant to [section 1144 of this title][/us/usc/t30/s1144]), for purposes of this section, such amounts as are authorized for such purposes in the law referred to in subsection (a) of this section or in other legislation hereafter enacted.
+        There may be appropriated to the Geothermal Resources Development Fund (established pursuant to [section 1144 of this title][/us/usc/t30/s1144]), for purposes of this section, such amounts as are authorized for such purposes in the law referred to in subsection (a) or in other legislation hereafter enacted.
 
     (k) __Reinsurance agreements; procedures applicable; criteria; report to Congress__ 
 
-        The Secretary may enter into agreements to reinsure any private insurer for any risk associated with insurance for the development and utilization of a geothermal resource and associated reservoir, using the procedures set forth in subsections (c) through (i) of this section, to the extent that he deems it appropriate in order to provide an incentive for the participation of the private insurance industry in geothermal development; and he may also use any other available authority to obtain such participation. The Secretary shall submit a report to the Congress, within one year after the enactment of the law referred to in subsection (a) of this section, on the need for any additional authority to obtain such participation.
+        The Secretary may enter into agreements to reinsure any private insurer for any risk associated with insurance for the development and utilization of a geothermal resource and associated reservoir, using the procedures set forth in subsections (c) through (i), to the extent that he deems it appropriate in order to provide an incentive for the participation of the private insurance industry in geothermal development; and he may also use any other available authority to obtain such participation. The Secretary shall submit a report to the Congress, within one year after the enactment of the law referred to in subsection (a), on the need for any additional authority to obtain such participation.
 
 ([Pub. L. 96–294, title VI, § 622][/us/pl/96/294/s622], June 30, 1980, [94 Stat. 765][/us/stat/94/765].)
 

@@ -31,7 +31,7 @@
 
     (c) __Criteria__ 
 
-    The Secretary shall establish the center referred to in subsection (a) of this section at a university that—
+    The Secretary shall establish the center referred to in subsection (a) at a university that—
 
         (1) does not currently host a generic mineral technology center;
 

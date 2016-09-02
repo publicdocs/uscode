@@ -47,7 +47,7 @@
 
         (1) __In general__ 
 
-        Notwithstanding subsection (a)(1) of this section, the Secretary shall establish a schedule of fees, in lieu of royalties for geothermal resources, that a lessee or its affiliate—
+        Notwithstanding subsection (a)(1), the Secretary shall establish a schedule of fees, in lieu of royalties for geothermal resources, that a lessee or its affiliate—
 
             (A) uses for a purpose other than the commercial generation of electricity; and
 

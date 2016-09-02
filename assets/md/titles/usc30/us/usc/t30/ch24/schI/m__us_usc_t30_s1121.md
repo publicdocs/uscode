@@ -57,7 +57,7 @@
 
         (3) the demonstration of appropriate technologies; and
 
-        (4) the loan guaranty program under subchapter II of this chapter.
+        (4) the loan guaranty program under subchapter II.
 
     (d) __Allocation of functions to certain agencies; loaning of personnel__ 
 

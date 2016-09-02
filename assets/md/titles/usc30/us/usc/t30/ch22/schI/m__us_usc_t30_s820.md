@@ -37,7 +37,7 @@
 
     (c) __Liability of corporate directors, officers, and agents__ 
 
-        Whenever a corporate operator violates a mandatory health or safety standard or knowingly violates or fails or refuses to comply with any order issued under this chapter or any order incorporated in a final decision issued under this chapter, except an order incorporated in a decision issued under subsection (a) of this section or [section 815(c) of this title][/us/usc/t30/s815/c], any director, officer, or agent of such corporation who knowingly authorized, ordered, or carried out such violation, failure, or refusal shall be subject to the same civil penalties, fines, and imprisonment that may be imposed upon a person under subsections (a) and (d) of this section.
+        Whenever a corporate operator violates a mandatory health or safety standard or knowingly violates or fails or refuses to comply with any order issued under this chapter or any order incorporated in a final decision issued under this chapter, except an order incorporated in a decision issued under subsection (a) or [section 815(c) of this title][/us/usc/t30/s815/c], any director, officer, or agent of such corporation who knowingly authorized, ordered, or carried out such violation, failure, or refusal shall be subject to the same civil penalties, fines, and imprisonment that may be imposed upon a person under subsections (a) and (d).
 
     (d) __Criminal penalties__ 
 

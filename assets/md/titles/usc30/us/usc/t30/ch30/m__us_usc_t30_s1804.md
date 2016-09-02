@@ -29,7 +29,7 @@
 
     (b) __Review by Office of Management and Budget__ 
 
-        The Office of Management and Budget, in reviewing the materials research, development, and technology authorization requests of the various Federal departments and agencies for any fiscal year, and the recommendations of the Council, shall consider all of such requests and recommendations as an integrated, coherent, multiagency request which shall be reviewed by the Office of Management and Budget for its adherence to the national Federal materials program plan in effect for such fiscal year under subsection (a) of this section.
+        The Office of Management and Budget, in reviewing the materials research, development, and technology authorization requests of the various Federal departments and agencies for any fiscal year, and the recommendations of the Council, shall consider all of such requests and recommendations as an integrated, coherent, multiagency request which shall be reviewed by the Office of Management and Budget for its adherence to the national Federal materials program plan in effect for such fiscal year under subsection (a).
 
 ([Pub. L. 98–373, title II, § 205][/us/pl/98/373/s205], July 31, 1984, [98 Stat. 1251][/us/stat/98/1251].)
 

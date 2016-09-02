@@ -21,7 +21,7 @@
 
     (b) __Submittal of study to Congress__ 
 
-        The study report required by subsection (a) of this section together with drafts of proposed legislation and the view of each Indian tribe which would be affected shall be submitted to the Congress as soon as possible but not later than January 1, 1978.
+        The study report required by subsection (a) together with drafts of proposed legislation and the view of each Indian tribe which would be affected shall be submitted to the Congress as soon as possible but not later than January 1, 1978.
 
     (c) __Compliance with interim environmental protection standards of this chapter__ 
 
@@ -33,7 +33,7 @@
 
     (e) __Inclusion and enforcement of terms and conditions of leases__ 
 
-        With respect to leases issued after August 3, 1977, the Secretary shall include and enforce terms and conditions in addition to those required by subsections (c) and (d) of this section as may be requested by the Indian tribe in such leases.
+        With respect to leases issued after August 3, 1977, the Secretary shall include and enforce terms and conditions in addition to those required by subsections (c) and (d) as may be requested by the Indian tribe in such leases.
 
     (f) __Approval of changes in terms and conditions of leases__ 
 

@@ -21,7 +21,7 @@
 
     (b) __Applicability of other laws__ 
 
-        Notwithstanding any other provision of law, any vessel described in subsection (a) of this section shall be subject to the provisions of chapter 51 of title 46, and to the provisions of titles 52 and 53 of the Revised Statutes and all Acts amendatory thereof or supplementary thereto.
+        Notwithstanding any other provision of law, any vessel described in subsection (a) shall be subject to the provisions of chapter 51 of title 46, and to the provisions of titles 52 and 53 of the Revised Statutes and all Acts amendatory thereof or supplementary thereto.
 
 ([Pub. L. 96–283, title I, § 112][/us/pl/96/283/s112], June 28, 1980, [94 Stat. 571][/us/stat/94/571].)
 

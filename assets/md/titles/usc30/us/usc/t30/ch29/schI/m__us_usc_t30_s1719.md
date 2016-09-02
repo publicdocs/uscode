@@ -31,7 +31,7 @@
 
     (b) __Failure to take corrective action__ 
 
-        If corrective action in not taken within 40 days or a longer period as the Secretary may agree to, after due notice or the report referred to in subsection (a)(1) of this section, such person shall be liable for a civil penalty of not more than $5,000 per violation for each day such violation continues, dating from the date of such notice or report.
+        If corrective action in not taken within 40 days or a longer period as the Secretary may agree to, after due notice or the report referred to in subsection (a)(1), such person shall be liable for a civil penalty of not more than $5,000 per violation for each day such violation continues, dating from the date of such notice or report.
 
     (c) __Failure to make royalty payment; failure to permit lawful entry, inspection, or audit; failure to notify Secretary of well production__ 
 
@@ -71,7 +71,7 @@
 
     (h) __Notice__ 
 
-        Notice under subsection (a) of this section shall be by personal service by an authorized representative of the Secretary or by registered mail. Any person may, in the manner prescribed by the Secretary, designate a representative to receive any notice under this subsection.
+        Notice under this  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  subsection (a) shall be by personal service by an authorized representative of the Secretary or by registered mail. Any person may, in the manner prescribed by the Secretary, designate a representative to receive any notice under this subsection.
 
     (i) __Reasons on record for amount of penalty__ 
 
@@ -79,21 +79,21 @@
 
     (j) __Review__ 
 
-        Any person who has requested a hearing in accordance with subsection (e) of this section within the time the Secretary has prescribed for such a hearing and who is aggrieved by a final order of the Secretary under this section may seek review of such order in the United States district court for the judicial district in which the violation allegedly took place. Review by the district court shall be only on the administrative record and not de novo. Such an action shall be barred unless filed within 90 days after the Secretary’s final order.
+        Any person who has requested a hearing in accordance with subsection (e) within the time the Secretary has prescribed for such a hearing and who is aggrieved by a final order of the Secretary under this section may seek review of such order in the United States district court for the judicial district in which the violation allegedly took place. Review by the district court shall be only on the administrative record and not de novo. Such an action shall be barred unless filed within 90 days after the Secretary’s final order.
 
     (k) __Failure to pay penalty__ 
 
     If any person fails to pay an assessment of a civil penalty under this chapter—
 
-        (1) after the order making the assessment has become a final order and if such person does not file a petition for judicial review of the order in accordance with subsection (j) of this section, or
+        (1) after the order making the assessment has become a final order and if such person does not file a petition for judicial review of the order in accordance with subsection (j), or
 
-        (2) after a court in an action brought under subsection (j) of this section has entered a final judgment in favor of the Secretary,
+        (2) after a court in an action brought under subsection (j) has entered a final judgment in favor of the Secretary,
 
-        the court shall have jurisdiction to award the amount assessed plus interest from the date of the expiration of the 90-day period referred to in subsection (j) of this section. Judgment by the court shall include an order to pay.
+        the court shall have jurisdiction to award the amount assessed plus interest from the date of the expiration of the 90-day period referred to in subsection (j). Judgment by the court shall include an order to pay.
 
     (l) __Nonliability for leases automatically terminated__ 
 
-        No person shall be liable for a civil penalty under subsection (a) or (b) of this section for failure to pay any rental for any lease automatically terminated pursuant to [section 188 of this title][/us/usc/t30/s188].
+        No person shall be liable for a civil penalty under subsection (a) or (b) for failure to pay any rental for any lease automatically terminated pursuant to [section 188 of this title][/us/usc/t30/s188].
 
 ([Pub. L. 97–451, title I, § 109][/us/pl/97/451/s109], Jan. 12, 1983, [96 Stat. 2454][/us/stat/96/2454].)
 
