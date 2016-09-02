@@ -63,6 +63,10 @@
 
             The Secretary shall permit a person who makes a certification under paragraph (1) with respect to a conservation plan to revise the conservation plan in any manner, if the same level of conservation treatment provided for by the conservation system under the person’s conservation plan is maintained. The Secretary may not revise the person’s conservation plan without the concurrence of the person.
 
+        (4) __Crop insurance premium assistance__ 
+
+            For the purpose of determining the eligibility of a person for the payment described in [section 3811(a)(1)(E) of this title][/us/usc/t16/s3811/a/1/E], the Secretary shall apply the procedures described in [section 3821(c)(3)(E) of this title][/us/usc/t16/s3821/c/3/E] and coordinate the certification process so as to avoid duplication or unnecessary paperwork.
+
     (e) __Technical assistance__ 
 
         The Secretary shall, using available resources and consistent with the Secretary’s other conservation responsibilities and objectives, provide technical assistance to a person throughout the development, revision, and application of the conservation plan and any conservation system of the person. At the request of the person, the Secretary may provide technical assistance regarding conservation measures and management practices for other lands of the person that do not contain highly erodible cropland.
@@ -71,11 +75,15 @@
 
         To encourage on-farm conservation research, the Secretary may allow a person to include in the person’s conservation plan or a conservation system under the plan, on a field trial basis, practices that are not currently approved but that the Secretary considers have a reasonable likelihood of success.
 
-([Pub. L. 99–198, title XII, § 1213][/us/pl/99/198/s1213], as added [Pub. L. 104–127, title III, § 315(a)(2)][/us/pl/104/127/s315/a/2], Apr. 4, 1996, [110 Stat. 984][/us/stat/110/984].)
+([Pub. L. 99–198, title XII, § 1213][/us/pl/99/198/s1213], as added [Pub. L. 104–127, title III, § 315(a)(2)][/us/pl/104/127/s315/a/2], Apr. 4, 1996, [110 Stat. 984][/us/stat/110/984]; amended [Pub. L. 113–79, title II, § 2611(a)(3)][/us/pl/113/79/s2611/a/3], Feb. 7, 2014, [128 Stat. 763][/us/stat/128/763].)
 
  __Prior Provisions__ 
 
     A prior [section 1213 of Pub. L. 99–198][/us/pl/99/198/s1213] was renumbered section 1214 and is classified to [section 3813 of this title][/us/usc/t16/s3813].
+
+ __Amendments__ 
+
+    2014—Subsec. (d)(4). [Pub. L. 113–79][/us/pl/113/79] added par. (4).
 
 ----------
 
@@ -85,10 +93,15 @@
 ----------
 
 [/us/usc/t16/s3811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3811
+[/us/usc/t16/s3811/a/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3811%2Fa%2F1%2FE
+[/us/usc/t16/s3821/c/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3821%2Fc%2F3%2FE
 [/us/pl/99/198/s1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1213
 [/us/pl/104/127/s315/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs315%2Fa%2F2
 [/us/stat/110/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F984
+[/us/pl/113/79/s2611/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2611%2Fa%2F3
+[/us/stat/128/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F763
 [/us/pl/99/198/s1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1213
 [/us/usc/t16/s3813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3813
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 
 

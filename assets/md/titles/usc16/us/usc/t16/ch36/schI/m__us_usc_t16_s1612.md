@@ -35,67 +35,7 @@
 
  __Forest Service Decisionmaking and Appeals Reform__ 
 
-[Pub. L. 102–381, title III, § 322][/us/pl/102/381/s322], Oct. 5, 1992, [106 Stat. 1419][/us/stat/106/1419], provided that:
-
->     “(a)  __In General__  __.—__ 
-
->     In accordance with this section, the Secretary of Agriculture, acting through the Chief of the Forest Service, shall establish a notice and comment process for proposed actions of the Forest Service concerning projects and activities implementing land and resource management plans developed under the Forest and Rangeland Renewable Resources Planning Act of 1974 ([16 U.S.C. 1601][/us/usc/t16/s1601] \[1600\] et seq.) and shall modify the procedure for appeals of decisions concerning such projects.
-
->     “(b) __Notice and Comment.—__ 
-
->         “(1)  __Notice__  __.—__ 
-
->         Prior to proposing an action referred to in subsection (a), the Secretary shall give notice of the proposed action, and the availability of the action for public comment by—
-
->             “(A) promptly mailing notice about the proposed action to any person who has requested it in writing, and to persons who are known to have participated in the decisionmaking process; and,
-
->             “(B)
-
->                 (i) in the case of an action taken by the Chief of the Forest Service, publishing notice of action in the Federal Register; or
-
->                 “(ii) in the case of any other action referred to in subsection (a), publishing notice of the action in a newspaper of general circulation that has previously been identified in the Federal Register as the newspaper in which notice under this paragraph may be published.
-
->         “(2)  __Comment__  __.—__ 
-
->         The Secretary shall accept comments on the proposed action within 30 days after publication of the notice in accordance with paragraph (1).
-
->     “(c)  __Right to Appeal__  __.—__ 
-
->     Not later than 45 days after the date of issuance of a decision of the Forest Service concerning actions referred to in subsection (a), a person who was involved in the public comment process under subsection (b) through submission of written or oral comments or by otherwise notifying the Forest Service of their interest in the proposed action may file an appeal.
-
->     “(d) __Disposition of an Appeal.—__ 
-
->         “(1) __Informal disposition.—__ 
-
->             “(A)  __In general__  __.—__ 
-
->             Subject to subparagraph (B), a designated employee of the Forest Service shall offer to meet with each individual who files an appeal in accordance with subsection (c) and attempt to dispose of the appeal.
-
->             “(B)  __Time and location of the meeting__  __.—__ 
-
->             Each meeting in accordance with subparagraph (A) shall take place—
-
->                 “(i) not later than 15 days after the closing date for filing an appeal; and
-
->                 “(ii) at a location designated by the Chief of the Forest Service that is in the vicinity of the lands affected by the decision.
-
->         “(2)  __Formal review__  __.—__ 
-
->         If the appeal is not disposed of in accordance with paragraph (1), an appeals review officer designated by the Chief of the Forest Service shall review the appeal and recommend in writing, to the official responsible for deciding the appeal, the appropriate disposition of the appeal. The official responsible for deciding the appeal shall then decide the appeal. The appeals review officer shall be a line officer at least at the level of the agency official who made the initial decision on the project or activity that is under appeal, who has not participated in the initial decision and will not be responsible for implementation of the initial decision after the appeal is decided.
-
->         “(3)  __Time for disposition__  __.—__ 
-
->         Disposition of appeals under this subsection shall be completed not later than 30 days after the closing date for filing of an appeal, provided that the Forest Service may extend the closing date by an additional 15 days.
-
->         “(4) If the Secretary fails to decide the appeal within the 45-day period, the decision on which the appeal is based shall be deemed to be a final agency action for the purpose of chapter 7 of title 5, United States Code.
-
->     “(e)  __Stay__  __.—__ 
-
->     Unless the Chief of the Forest Service determines that an emergency situation exists with respect to a decision of the Forest Service, implementation of the decision shall be stayed during the period beginning on the date of the decision—
-
->         “(1) for 45 days, if an appeal is not filed, or
-
->         “(2) for an additional 15 days after the date of the disposition of an appeal under this section, if the agency action is deemed final under subsection (d)(4).”
+    [Pub. L. 102–381, title III, § 322][/us/pl/102/381/s322], Oct. 5, 1992, [106 Stat. 1419][/us/stat/106/1419], which provided for the establishment of a notice and comment process for proposed actions of the Forest Service relating to certain land and resource management projects and required modification of the procedure for appeals of decisions concerning such projects, was repealed by [Pub. L. 113–79, title VIII, § 8006(a)][/us/pl/113/79/s8006/a], Feb. 7, 2014, [128 Stat. 913][/us/stat/128/913].
 
 ----------
 
@@ -113,6 +53,7 @@
 [/us/usc/t16/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1601
 [/us/pl/102/381/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F381%2Fs322
 [/us/stat/106/1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1419
-[/us/usc/t16/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1601
+[/us/pl/113/79/s8006/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs8006%2Fa
+[/us/stat/128/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F913
 
 

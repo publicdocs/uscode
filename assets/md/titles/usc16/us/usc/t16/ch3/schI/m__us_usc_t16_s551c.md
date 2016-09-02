@@ -45,6 +45,34 @@
 
     Act of August 30, 1890, referred to in subsec. (b), is [act Aug. 30, 1890, ch. 841][/us/act/1890-08-30/ch841], [26 Stat. 417][/us/stat/26/417], as amended, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of Title 7. For complete classification of this Act to the Code, see Short Title note set out under [section 321 of Title 7][/us/usc/t7/s321] and Tables.
 
+ __Forest Service Large Airtanker and Aerial Asset Firefighting Recapitalization Pilot Program__ 
+
+[Pub. L. 113–79, title VIII, § 8305][/us/pl/113/79/s8305], Feb. 7, 2014, [128 Stat. 925][/us/stat/128/925], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     Subject to the availability of appropriations, the Secretary \[of Agriculture\], acting through the Chief of the Forest Service, may establish a large airtanker and aerial asset lease program in accordance with this section.
+
+>     “(b)  __Aircraft Requirements__  __.—__ 
+
+>     In carrying out the program described in subsection (a), the Secretary may enter into a multiyear lease contract for up to 5 aircraft that meet the criteria—
+
+>         “(1) described in the Forest Service document entitled ‘Large Airtanker Modernization Strategy’ and dated February 10, 2012, for large airtankers; and
+
+>         “(2) determined by the Secretary, for other aerial assets.
+
+>     “(c)  __Lease Terms__  __.—__ 
+
+>     The term of any individual lease agreement into which the Secretary enters under this section shall be—
+
+>         “(1) up to 5 years, inclusive of any options to renew or extend the initial lease term; and
+
+>         “(2) in accordance with [section 3903 of title 41][/us/usc/t41/s3903], United States Code.
+
+>     “(d)  __Prohibition__  __.—__ 
+
+>     No lease entered into under this section shall provide for the purchase of the aircraft by, or the transfer of ownership to, the Forest Service.”
+
  __Forest Firefighting Planning and Cooperation; Findings__ 
 
 [Pub. L. 101–286, title II, § 201][/us/pl/101/286/s201], May 9, 1990, [104 Stat. 174][/us/stat/104/174], provided that: 
@@ -72,6 +100,9 @@
 [/us/act/1890-08-30/ch841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-08-30%2Fch841
 [/us/stat/26/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F417
 [/us/usc/t7/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs321
+[/us/pl/113/79/s8305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs8305
+[/us/stat/128/925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F925
+[/us/usc/t41/s3903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3903
 [/us/pl/101/286/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F286%2Fs201
 [/us/stat/104/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F174
 

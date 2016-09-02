@@ -47,7 +47,7 @@
 
  __References in Text__ 
 
-    This subchapter, referred to in subsec. (b), was in the original “this title”, meaning title III of [Pub. L. 108–148][/us/pl/108/148], Dec. 3, 2003, [117 Stat. 1902][/us/stat/117/1902], which enacted this subchapter and [section 2103b of this title][/us/usc/t16/s2103b]. For complete classification of title III to the Code, see Tables.
+    This subchapter, referred to in subsec. (b), was in the original “this title”, meaning title III of [Pub. L. 108–148][/us/pl/108/148], Dec. 3, 2003, [117 Stat. 1902][/us/stat/117/1902], which enacted this subchapter and former [section 2103b of this title][/us/usc/t16/s2103b]. For complete classification of title III to the Code, see Tables.
 
 ----------
 

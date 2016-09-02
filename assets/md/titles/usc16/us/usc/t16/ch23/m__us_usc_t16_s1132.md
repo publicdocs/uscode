@@ -5165,6 +5165,14 @@ Slaughter Creek Wilderness, Washington County, Utah.—Pub. L. 111–11, title I
 
     <td> 
 
+Sleeping Bear Dunes Wilderness, Sleeping Bear Dunes National Lakeshore, Michigan.—Pub. L. 113–87, § 3(a), Mar. 13, 2014, 128 Stat. 1017.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
 Snow Mountain Wilderness, Mendocino National Forest, California.—Pub. L. 98–425, title I, § 101(a)(31), Sept. 28, 1984, 98 Stat. 1623; Pub. L. 109–362, § 3(1), Oct. 17, 2006, 120 Stat. 2064.  </td>
 
   </tr>

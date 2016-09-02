@@ -25,7 +25,33 @@
 
             (B) set aside, diverted or otherwise not cultivated under a program administered by the Secretary for any such crops to reduce production of an agricultural commodity.
 
-        (2) If, as of January 1, 1990, or 2 years after the Soil Conservation Service has completed a soil survey for the farm, whichever is later, a person is actively applying a conservation plan, such person shall have until January 1, 1995, to comply with the plan without being subject to program ineligibility. In carrying out this subsection, the Secretary, Soil Conservation Service, and local soil conservation districts shall minimize the quantity of documentation a person must submit to comply with this paragraph.
+        (2) __Eligibility based on compliance with conservation plan__ 
+
+            (A) __In general__ 
+
+            If, as of January 1, 1990, or 2 years after the Soil Conservation Service has completed a soil survey for the farm, whichever is later, a person is actively applying a conservation plan, such person shall have until January 1, 1995, to comply with the plan without being subject to program ineligibility.
+
+            (B) __Minimization of documentation__ 
+
+            In carrying out this subsection, the Secretary, Soil Conservation Service, and local soil conservation districts shall minimize the quantity of documentation a person must submit to comply with this paragraph.
+
+            (C) __Crop insurance__ 
+
+                (i) __Operations new to compliance__ 
+
+                Notwithstanding [section 3811(a) of this title][/us/usc/t16/s3811/a], in the case of a person that is subject to [section 3811 of this title][/us/usc/t16/s3811] for the first time solely due to the amendment made by section 2611(a) of the Agricultural Act of 2014, any person who produces an agricultural commodity on the land that is the basis of the payments described in [section 3811(a)(1)(E) of this title][/us/usc/t16/s3811/a/1/E] shall have 5 reinsurance years after the date on which such payments become subject to [section 3811 of this title][/us/usc/t16/s3811] to develop and comply with an approved conservation plan so as to maintain eligibility for such payments.
+
+                (ii) __Existing operations with prior violations__ 
+
+                Notwithstanding [section 3811(a) of this title][/us/usc/t16/s3811/a], in the case of a person that the Secretary determines would have been in violation of [section 3811(a) of this title][/us/usc/t16/s3811/a] if the person had continued participation in the programs requiring compliance at any time after February 7, 2014, and is currently in violation of [section 3811(a) of this title][/us/usc/t16/s3811/a], the person shall have 2 reinsurance years after the date on which the payments described in [section 3811(a)(1)(E) of this title][/us/usc/t16/s3811/a/1/E] become subject to [section 3811 of this title][/us/usc/t16/s3811] to develop and comply with an approved conservation plan, as determined by the Secretary, so as to maintain eligibility for such payments.
+
+                (iii) __Applicable reinsurance year__ 
+
+                Ineligibility for the payment described in [section 3811(a)(1)(E) of this title][/us/usc/t16/s3811/a/1/E] for a violation under this subparagraph during a crop year shall—
+
+                (I) only apply to reinsurance years subsequent to the date of a final determination of a violation, including all administrative appeals; and
+
+                (II) not apply to the existing reinsurance year or any reinsurance year prior to the date of the final determination.
 
         (3) Any person who owns or operates highly erodible land that was the subject of a contract entered into under subpart B of part I of subchapter IV of this chapter shall only be required to apply a conservation plan established under this subchapter. The person shall not be required to meet a higher conservation standard than the standard applied to other highly erodible cropland located within the same area. If the person’s conservation plan requires structures to be constructed, the person shall have until 2 years after the expiration of such contract to comply with the conservation plan, or a longer period of time if the Secretary determines compliance is otherwise technically or economically not feasible, or such longer period is otherwise appropriate, before such person will be subject to program ineligibility with respect to such land under [section 3811 of this title][/us/usc/t16/s3811].
 
@@ -129,9 +155,11 @@
 
         [Section 3811 of this title][/us/usc/t16/s3811] shall not apply to the noncommercial production of agricultural commodities on a farm if such production is limited to two acres or less and if the Secretary determines that such production is not intended to circumvent the conservation requirements otherwise applicable to lands under this subchapter.
 
-([Pub. L. 99–198, title XII, § 1212][/us/pl/99/198/s1212], Dec. 23, 1985, [99 Stat. 1506][/us/stat/99/1506]; [Pub. L. 100–28][/us/pl/100/28], §§ 2, 3, Apr. 24, 1987, [101 Stat. 291][/us/stat/101/291]; [Pub. L. 101–624, title XIV, § 1412][/us/pl/101/624/s1412], Nov. 28, 1990, [104 Stat. 3569][/us/stat/104/3569]; [Pub. L. 102–237, title II, § 204(2)][/us/pl/102/237/s204/2], Dec. 13, 1991, [105 Stat. 1854][/us/stat/105/1854]; [Pub. L. 104–127, title III][/us/pl/104/127], §§ 301(d), 312–314, Apr. 4, 1996, [110 Stat. 981–983][/us/stat/110/981-983]; [Pub. L. 110–234, title II, § 2002][/us/pl/110/234/s2002], May 22, 2008, [122 Stat. 1027][/us/stat/122/1027]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2002, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1755.)
+([Pub. L. 99–198, title XII, § 1212][/us/pl/99/198/s1212], Dec. 23, 1985, [99 Stat. 1506][/us/stat/99/1506]; [Pub. L. 100–28][/us/pl/100/28], §§ 2, 3, Apr. 24, 1987, [101 Stat. 291][/us/stat/101/291]; [Pub. L. 101–624, title XIV, § 1412][/us/pl/101/624/s1412], Nov. 28, 1990, [104 Stat. 3569][/us/stat/104/3569]; [Pub. L. 102–237, title II, § 204(2)][/us/pl/102/237/s204/2], Dec. 13, 1991, [105 Stat. 1854][/us/stat/105/1854]; [Pub. L. 104–127, title III][/us/pl/104/127], §§ 301(d), 312–314, Apr. 4, 1996, [110 Stat. 981–983][/us/stat/110/981-983]; [Pub. L. 110–234, title II, § 2002][/us/pl/110/234/s2002], May 22, 2008, [122 Stat. 1027][/us/stat/122/1027]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2002, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1755; [Pub. L. 113–79, title II, § 2611(a)(2)][/us/pl/113/79/s2611/a/2], Feb. 7, 2014, [128 Stat. 762][/us/stat/128/762].)
 
  __References in Text__ 
+
+    Section 2611(a) of the Agricultural Act of 2014, referred to in subsec. (a)(2)(C)(i), is [section 2611(a) of Pub. L. 113–79][/us/pl/113/79/s2611/a], Feb. 7, 2014, [128 Stat. 762][/us/stat/128/762], which amended this section and sections 3811 and 3812a of this title.
 
     This chapter, referred to in subsec. (c)(1)(B), was in the original “this title”, meaning title XII of [Pub. L. 99–198][/us/pl/99/198], which enacted this chapter and former [section 2005a of this title][/us/usc/t16/s2005a] and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under [section 1981 of Title 7][/us/usc/t7/s1981].
 
@@ -142,6 +170,8 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (a)(2). [Pub. L. 113–79][/us/pl/113/79] inserted par. (2) heading, designated first sentence as subpar. (A) and inserted heading, designated second sentence as subpar. (B) and inserted heading, and added subpar. (C).
 
     2008—Subsec. (f). [Pub. L. 110–246, § 2002][/us/pl/110/246/s2002], added subsec. (f) and struck out former subsec. (f) which related to graduated sanctions.
 
@@ -211,6 +241,16 @@
 ----------
 
 [/us/usc/t16/s3811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3811
+[/us/usc/t16/s3811/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3811%2Fa
+[/us/usc/t16/s3811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3811
+[/us/usc/t16/s3811/a/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3811%2Fa%2F1%2FE
+[/us/usc/t16/s3811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3811
+[/us/usc/t16/s3811/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3811%2Fa
+[/us/usc/t16/s3811/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3811%2Fa
+[/us/usc/t16/s3811/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3811%2Fa
+[/us/usc/t16/s3811/a/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3811%2Fa%2F1%2FE
+[/us/usc/t16/s3811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3811
+[/us/usc/t16/s3811/a/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3811%2Fa%2F1%2FE
 [/us/usc/t16/s3811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3811
 [/us/usc/t16/s3811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3811
 [/us/usc/t16/s3811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3811
@@ -239,6 +279,10 @@
 [/us/stat/122/1027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1027
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s2611/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2611%2Fa%2F2
+[/us/stat/128/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F762
+[/us/pl/113/79/s2611/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2611%2Fa
+[/us/stat/128/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F762
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/usc/t16/s2005a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2005a
 [/us/usc/t7/s1981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1981
@@ -251,6 +295,7 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/246/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2002
 [/us/pl/104/127/s301/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs301%2Fd%2F1
 [/us/usc/t16/s590h/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590h%2Fb

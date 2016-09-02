@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-    Except as provided in [section 3812 of this title][/us/usc/t16/s3812], and notwithstanding any other provision of law, any person who in any crop year produces an agricultural commodity on a field on which highly erodible land is predominate, or designates land on which highly erodible land is predominate to be set aside, diverted, devoted to conservation uses, or otherwise not cultivated under a program administered by the Secretary to reduce production of an agricultural commodity, as determined by the Secretary shall be ineligible for—
+    Except as provided in [section 3812 of this title][/us/usc/t16/s3812], and notwithstanding any other provision of law, any person who in any crop year produces an agricultural commodity on a field on which highly erodible land is predominant, or designates land on which highly erodible land is predominant to be set aside, diverted, devoted to conservation uses, or otherwise not cultivated under a program administered by the Secretary to reduce production of an agricultural commodity, as determined by the Secretary shall be ineligible for—
 
         (1)
 
@@ -27,9 +27,17 @@
 
             (B) a farm storage facility loan made under section 4(h) of the Commodity Credit Corporation Charter Act ([15 U.S.C. 714b(h)][/us/usc/t15/s714b/h]);
 
-            (C) a disaster payment; or
+            (C) a disaster payment;
 
-            (D) a loan made, insured, or guaranteed under the Consolidated Farm and Rural Development Act ([7 U.S.C. 1921][/us/usc/t7/s1921] et seq.) or any other provision of law administered by the Consolidated Farm Service Agency, if the Secretary determines that the proceeds of such loan will be used for a purpose that will contribute to excessive erosion of highly erodible land;
+            (D) a loan made, insured, or guaranteed under the Consolidated Farm and Rural Development Act ([7 U.S.C. 1921][/us/usc/t7/s1921] et seq.) or any other provision of law administered by the Consolidated Farm Service Agency, if the Secretary determines that the proceeds of such loan will be used for a purpose that will contribute to excessive erosion of highly erodible land; or
+
+            (E)
+
+             any portion of the premium paid by the Federal Crop Insurance Corporation for a policy or plan of insurance under the Federal Crop Insurance Act ([7 U.S.C. 1501][/us/usc/t7/s1501] et seq.), on the condition that if a person is determined to have committed a violation under this subsection during a crop year, ineligibility under this subparagraph shall—
+
+                (i) only apply to reinsurance years subsequent to the date of final determination of a violation, including all administrative appeals; and
+
+                (ii) not apply to the existing reinsurance year or any reinsurance year prior to the date of final determination;
 
         (2) a payment made under section 4 or 5 of the Commodity Credit Corporation Charter Act ([15 U.S.C. 714b][/us/usc/t15/s714b] or 714c) during such crop year for the storage of an agricultural commodity acquired by the Commodity Credit Corporation; or
 
@@ -49,7 +57,7 @@
 
         The Secretary shall have, and shall not delegate to any private person or entity, authority to determine whether a person has complied with this subchapter.
 
-([Pub. L. 99–198, title XII, § 1211][/us/pl/99/198/s1211], Dec. 23, 1985, [99 Stat. 1506][/us/stat/99/1506]; [Pub. L. 101–624, title XIV, § 1411][/us/pl/101/624/s1411], Nov. 28, 1990, [104 Stat. 3569][/us/stat/104/3569]; [Pub. L. 102–237, title II, § 204(1)][/us/pl/102/237/s204/1], Dec. 13, 1991, [105 Stat. 1854][/us/stat/105/1854]; [Pub. L. 104–127, title III, § 311][/us/pl/104/127/s311], Apr. 4, 1996, [110 Stat. 982][/us/stat/110/982]; [Pub. L. 107–171, title II, § 2002(a)][/us/pl/107/171/s2002/a], May 13, 2002, [116 Stat. 233][/us/stat/116/233].)
+([Pub. L. 99–198, title XII, § 1211][/us/pl/99/198/s1211], Dec. 23, 1985, [99 Stat. 1506][/us/stat/99/1506]; [Pub. L. 101–624, title XIV, § 1411][/us/pl/101/624/s1411], Nov. 28, 1990, [104 Stat. 3569][/us/stat/104/3569]; [Pub. L. 102–237, title II, § 204(1)][/us/pl/102/237/s204/1], Dec. 13, 1991, [105 Stat. 1854][/us/stat/105/1854]; [Pub. L. 104–127, title III, § 311][/us/pl/104/127/s311], Apr. 4, 1996, [110 Stat. 982][/us/stat/110/982]; [Pub. L. 107–171, title II, § 2002(a)][/us/pl/107/171/s2002/a], May 13, 2002, [116 Stat. 233][/us/stat/116/233]; [Pub. L. 113–79, title II][/us/pl/113/79], §§ 2611(a)(1), 2713(b), Feb. 7, 2014, [128 Stat. 762][/us/stat/128/762], 772.)
 
  __References in Text__ 
 
@@ -59,7 +67,13 @@
 
     The Consolidated Farm and Rural Development Act, referred to in subsec. (a)(1)(D), is title III of [Pub. L. 87–128][/us/pl/87/128], Aug. 8, 1961, [75 Stat. 307][/us/stat/75/307], as amended, which is classified principally to chapter 50 (§ 1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 1921 of Title 7][/us/usc/t7/s1921] and Tables.
 
+    The Federal Crop Insurance Act, referred to in subsec. (a)(1)(E), is subtitle A of title V of [act Feb. 16, 1938, ch. 30][/us/act/1938-02-16/ch30], [52 Stat. 72][/us/stat/52/72], which is classified generally to subchapter I (§ 1501 et seq.) of chapter 36 of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1501 of Title 7][/us/usc/t7/s1501] and Tables.
+
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–79, § 2713(b)][/us/pl/113/79/s2713/b], substituted “predominant” for “predominate” in two places in introductory provisions.
+
+    Subsec. (a)(1)(E). [Pub. L. 113–79, § 2611(a)(1)][/us/pl/113/79/s2611/a/1], added subpar. (E).
 
     2002—[Pub. L. 107–171][/us/pl/107/171] designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
@@ -137,6 +151,7 @@
 [/us/usc/t15/s714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs714
 [/us/usc/t15/s714b/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs714b%2Fh
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
+[/us/usc/t7/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1501
 [/us/usc/t15/s714b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs714b
 [/us/pl/99/198/s1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1211
 [/us/stat/99/1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1506
@@ -148,6 +163,8 @@
 [/us/stat/110/982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F982
 [/us/pl/107/171/s2002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs2002%2Fa
 [/us/stat/116/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F233
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/stat/128/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F762
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/stat/110/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F896
 [/us/usc/t7/s7201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7201
@@ -157,6 +174,11 @@
 [/us/pl/87/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F128
 [/us/stat/75/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F307
 [/us/usc/t7/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1921
+[/us/act/1938-02-16/ch30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-02-16%2Fch30
+[/us/stat/52/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F72
+[/us/usc/t7/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1501
+[/us/pl/113/79/s2713/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2713%2Fb
+[/us/pl/113/79/s2611/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2611%2Fa%2F1
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/104/127/s311/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs311%2F1
 [/us/pl/104/127/s311/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs311%2F2%2FA

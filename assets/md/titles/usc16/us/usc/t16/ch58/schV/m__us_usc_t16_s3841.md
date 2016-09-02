@@ -15,97 +15,115 @@
 
 ## § 3841. Commodity Credit Corporation
 
-    (a) __In general__ 
+    (a) __Annual funding__ 
 
-    For each of fiscal years 2002 through 2012 (and fiscal year 2014 in the case of the programs specified in paragraphs (3)(B), (4), and (7) and each of fiscal years 2014 and 2015 in the case of the program specified in paragraph (6)), the Secretary shall use the funds, facilities, and authorities of the Commodity Credit Corporation to carry out the following programs under subchapter IV (including the provision of technical assistance):
+    For each of fiscal years 2014 through 2018, the Secretary shall use the funds, facilities, and authorities of the Commodity Credit Corporation to carry out the following programs under this chapter (including the provision of technical assistance):
 
         (1)
 
-         The conservation reserve program under subpart B of part I, including to the maximum extent practicable—
+         The conservation reserve program under subpart B of part I of subchapter IV, including, to the maximum extent practicable—
 
-            (A) $100,000,000 for the period of fiscal years 2009 through 2012 to provide cost share payments under paragraph (3) of [section 3834(b) of this title][/us/usc/t16/s3834/b] in connection with thinning activities conducted on land described in subparagraph (A)(iii) of such paragraph; and
+            (A) $10,000,000 for the period of fiscal years 2014 through 2018 to provide payments under [section 3834(c) of this title][/us/usc/t16/s3834/c]; and
 
-            (B) $25,000,000 for the period of fiscal years 2009 through 2012 to carry out [section 3835(f) of this title][/us/usc/t16/s3835/f] to facilitate the transfer of land subject to contracts from retired or retiring owners and operators to beginning farmers or ranchers and socially disadvantaged farmers or ranchers.
+            (B) $33,000,000 for the period of fiscal years 2014 through 2018 to carry out [section 3835(f) of this title][/us/usc/t16/s3835/f] to facilitate the transfer of land subject to contracts from retired or retiring owners and operators to beginning farmers or ranchers and socially disadvantaged farmers or ranchers.
 
-        (2) The wetlands reserve program under subpart C of part I.
+        (2)
 
-        (3)
+         The agricultural conservation easement program under subchapter VII using to the maximum extent practicable—
 
-            (A)  __Conservation security program__  __.—__ 
+            (A) $400,000,000 for fiscal year 2014;
 
-            The conservation security program under subpart A of part II, using such sums as are necessary to administer contracts entered into before September 30, 2008.
+            (B) $425,000,000 for fiscal year 2015;
 
-            (B)  __Conservation stewardship program__  __.—__ 
+            (C) $450,000,000 for fiscal year 2016;
 
-            The conservation stewardship program under subpart B of part II.
+            (D) $500,000,000 for fiscal year 2017; and
 
-        (4)
+            (E) $250,000,000 for fiscal year 2018.
 
-         The farmland protection program under subpart C of part II, using, to the maximum extent practicable—
+        (3) The conservation security program under subpart A of part II of subchapter IV, using such sums as are necessary to administer contracts entered into before September 30, 2008.
 
-            (A) $97,000,000 in fiscal year 2008;
+        (4) The conservation stewardship program under subpart B of part II of subchapter IV.
 
-            (B) $121,000,000 in fiscal year 2009;
+        (5)
 
-            (C) $150,000,000 in fiscal year 2010;
+         The environmental quality incentives program under part IV of subchapter IV, using, to the maximum extent practicable—
 
-            (D) $175,000,000 in fiscal year 2011; and
+            (A) $1,350,000,000 for fiscal year 2014;
 
-            (E) $200,000,000 in each of fiscal years 2012 through 2014.
+            (B) $1,600,000,000 for fiscal year 2015;
 
-        (5) The grassland reserve program under subpart D of part II.
+            (C) $1,650,000,000 for fiscal year 2016;
 
-        (6)
+            (D) $1,650,000,000 for fiscal year 2017; and
 
-         The environmental quality incentives program under part IV, using, to the maximum extent practicable—
+            (E) $1,750,000,000 for fiscal year 2018.
 
-            (A) $1,200,000,000 in fiscal year 2008;
+    (b) __Availability of funds__ 
 
-            (B) $1,337,000,000 in fiscal year 2009;
+        Amounts made available by subsection (a) for fiscal years 2014 through 2018 shall be used by the Secretary to carry out the programs specified in such subsection and shall remain available until expended.
 
-            (C) $1,450,000,000 in fiscal year 2010;
+    (c) __Technical assistance__ 
 
-            (D) $1,588,000,000 in fiscal year 2011;
+        (1) __Availability__ 
 
-            (E) $1,750,000,000 in each of fiscal years 2012 through 2014; and
+        Commodity Credit Corporation funds made available for a fiscal year for each of the programs specified in subsection (a)—
 
-            (F) $1,622,000,000 in fiscal year 2015.
+            (A) shall be available for the provision of technical assistance for the programs for which funds are made available as necessary to implement the programs effectively;
 
-        (7)
+            (B) except for technical assistance for the conservation reserve program under subpart B of part I of subchapter IV, shall be apportioned for the provision of technical assistance in the amount determined by the Secretary, at the sole discretion of the Secretary; and
 
-         The wildlife habitat incentives program under [section 3839bb–1 of this title][/us/usc/t16/s3839bb–1], using, to the maximum extent practicable—
+            (C) shall not be available for the provision of technical assistance for conservation programs specified in subsection (a) other than the program for which the funds were made available.
 
-            (A) $15,000,000 in fiscal year 2002;
+        (2) __Priority__ 
 
-            (B) $30,000,000 in fiscal year 2003;
+            (A) __In general__ 
 
-            (C) $60,000,000 in fiscal year 2004; and
+                In the delivery of technical assistance under the Soil Conservation and Domestic Allotment Act ([16 U.S.C. 590a][/us/usc/t16/s590a] et seq.), the Secretary shall give priority to producers who request technical assistance from the Secretary in order to comply for the first time with the requirements of subchapter II and subchapter III of this chapter as a result of the amendments made by section 2611 of the Agricultural Act of 2014.
 
-            (D) $85,000,000 in each of fiscal years 2005 through 2014.
+            (B) __Report__ 
 
-    (b) __Technical assistance__ 
+                Not later than 270 days after February 7, 2014, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report regarding the extent to which the conservation compliance requirements contained in the amendments made by section 2611 of the Agricultural Act of 2014 apply to and impact specialty crop growers, including national analysis and surveys to determine the extent of specialty crop acreage that includes highly erodible land and wetlands.
 
-    Effective for fiscal year 2005 and each subsequent fiscal year, Commodity Credit Corporation funds made available for each of the programs specified in paragraphs (1) through (7) of subsection (a) of this section—
+        (3) __Report__ 
 
-        (1) shall be available for the provision of technical assistance for the programs for which funds are made available; and
+        Not later than December 31, 2014, the Secretary shall submit (and update as necessary in subsequent years) to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report—
 
-        (2) shall not be available for the provision of technical assistance for conservation programs specified in subsection (a) of this section other than the program for which the funds were made available.
+            (A) detailing the amount of technical assistance funds requested and apportioned in each program specified in subsection (a) during the preceding fiscal year; and
 
-    (c) __Relationship to other law__ 
+            (B) any other data relating to this provision that would be helpful to such Committees.
 
-        The use of Commodity Credit Corporation funds under subsection (b) of this section to provide technical assistance shall not be considered an allotment or fund transfer from the Commodity Credit Corporation for purposes of the limit on expenditures for technical assistance imposed by [section 714i of title 15][/us/usc/t15/s714i].
+        (4) __Compliance report__ 
 
-    (d) __Regional equity__ 
+        Not later than November 1 of each year, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that includes—
 
-        (1) __Priority funding to promote equity__ 
+            (A) a description of the extent to which the requests for highly erodible land conservation and wetland compliance determinations are being addressed in a timely manner;
 
-            Before April 1 of each fiscal year, the Secretary shall give priority for funding under the conservation programs under subchapter IV (excluding the conservation reserve program under subpart B of part I, the wetlands reserve program under subpart C of part I, and the conservation security program under subpart A of part II) to approved applications in any State that has not received, for the fiscal year, an aggregate amount of at least $15,000,000 for those conservation programs.
+            (B) the total number of requests completed in the previous fiscal year;
 
-        (2) __Specific funding allocations__ 
+            (C) the incomplete determinations on record; and
 
-            In determining the specific funding allocations for States under paragraph (1), the Secretary shall consider the respective demand in each State for each program covered by such paragraph.
+            (D) the number of requests that are still outstanding more than 1 year since the date on which the requests were received from the producer.
 
-    (e) __Acceptance and use of contributions__ 
+    (d) __Relationship to other law__ 
+
+        The use of Commodity Credit Corporation funds under subsection (c) of this section to provide technical assistance shall not be considered an allotment or fund transfer from the Commodity Credit Corporation for purposes of the limit on expenditures for technical assistance imposed by [section 714i of title 15][/us/usc/t15/s714i].
+
+    (e) __Regional equity__ 
+
+        (1) __Equitable distribution__ 
+
+            When determining funding allocations each fiscal year, the Secretary shall, after considering available funding and program demand in each State, provide a distribution of funds for conservation programs under subchapter IV (excluding the conservation reserve program under subpart B of part I), subchapter VII, and subchapter VIII to ensure equitable program participation proportional to historical funding allocations and usage by all States.
+
+        (2) __Minimum percentage__ 
+
+        In determining the specific funding allocations under paragraph (1), the Secretary shall—
+
+            (A) ensure that during the first quarter of each fiscal year each State has the opportunity to establish that the State can use an aggregate allocation amount of at least 0.6 percent of the funds made available for those conservation programs; and
+
+            (B) for each State that can so establish, provide an aggregate amount of at least 0.6 percent of the funds made available for those conservation programs.
+
+    (f) __Acceptance and use of contributions__ 
 
         (1) __Authority to establish contribution accounts__ 
 
@@ -115,7 +133,7 @@
 
             Contributions of non-Federal funds received for a conservation program administered by the Secretary under subchapter IV shall be deposited into the sub-account established under this subsection for the program and shall be available to the Secretary, without further appropriation and until expended, to carry out the program.
 
-    (f) __Allocations review and update__ 
+    (g) __Allocations review and update__ 
 
         (1) __Review__ 
 
@@ -125,11 +143,11 @@
 
             The Secretary shall improve conservation program allocation formulas as necessary to ensure that the formulas adequately reflect the costs of carrying out the conservation programs.
 
-    (g) __Assistance to certain farmers or ranchers for conservation access__ 
+    (h) __Assistance to certain farmers or ranchers for conservation access__ 
 
         (1) __Assistance__ 
 
-        Of the funds made available for each of fiscal years 2009 through 2012 to carry out the environmental quality incentives program and the acres made available for each of such fiscal years to carry out the conservation stewardship program, the Secretary shall use, to the maximum extent practicable—
+        Of the funds made available for each of fiscal years 2009 through 2018 to carry out the environmental quality incentives program and the acres made available for each of such fiscal years to carry out the conservation stewardship program, the Secretary shall use, to the maximum extent practicable—
 
             (A) 5 percent to assist beginning farmers or ranchers; and
 
@@ -143,27 +161,39 @@
 
             In any fiscal year, acres not obligated under paragraph (1) by a date determined by the Secretary shall be available for use in that fiscal year under the conservation stewardship program.
 
-    (h) __Report on program enrollments and assistance__ 
+        (4) __Preference__ 
+
+            In providing assistance under paragraph (1), the Secretary shall give preference to a veteran farmer or rancher (as defined in [section 2279(e) of title 7][/us/usc/t7/s2279/e]) that qualifies under subparagraph (A) or (B) of paragraph (1).
+
+    (i) __Report on program enrollments and assistance__ 
 
     Beginning in calendar year 2009, and each year thereafter, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a semiannual report containing statistics by State related to enrollments in conservation programs under this subchapter, as follows:
 
-        (1) Payments made under the wetlands reserve program for easements valued at $250,000 or greater.
+        (1) Payments made under the agricultural conservation easement program for easements valued at $250,000 or greater.
 
-        (2) Payments made under the farmland protection program for easements in which the Federal share is $250,000 or greater.
+        (2) Payments made under the environmental quality incentives program for land determined to have special environmental significance pursuant to section 3839aa–7(b)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title.
 
-        (3) Payments made under the grassland reserve program valued at $250,000 or greater.
+        (3) Payments made under the regional conservation partnership program subject to the waiver of adjusted gross income limitations pursuant to [section 3871c(c)(3) of this title][/us/usc/t16/s3871c/c/3].
 
-        (4) Payments made under the environmental quality incentives program for land determined to have special environmental significance pursuant to [section 3839aa–7(b) of this title][/us/usc/t16/s3839aa–7/b].
+        (4) Waivers granted by the Secretary under section 1308–3a(b)(2) 1 of title 7 in order to protect environmentally sensitive land of special significance.
 
-        (5) Payments made under the agricultural water enhancement program subject to the waiver of adjusted gross income limitations pursuant to [section 3839aa–9(g) of this title][/us/usc/t16/s3839aa–9/g].
+        (5) Payments made under the conservation stewardship program.
 
-        (6) Waivers granted by the Secretary under [section 1308–3a(b)(2) of title 7][/us/usc/t7/s1308–3a/b/2] in order to protect environmentally sensitive land of special significance.
+        (6) Exceptions provided by the Secretary under [section 3865b(b)(2)(C) of this title][/us/usc/t16/s3865b/b/2/C].
 
-([Pub. L. 99–198, title XII, § 1241][/us/pl/99/198/s1241], as added [Pub. L. 107–171, title II, § 2701][/us/pl/107/171/s2701], May 13, 2002, [116 Stat. 278][/us/stat/116/278]; amended [Pub. L. 108–7, div. N, title II][/us/pl/108/7], §§ 213, 216(c), Feb. 20, 2003, [117 Stat. 545][/us/stat/117/545], 546; [Pub. L. 108–11, title II, § 2106(a)][/us/pl/108/11/s2106/a], Apr. 16, 2003, [117 Stat. 590][/us/stat/117/590]; [Pub. L. 108–199, div. H, § 101][/us/pl/108/199/s101], Jan. 23, 2004, [118 Stat. 434][/us/stat/118/434]; [Pub. L. 108–324, div. B, § 101(e)][/us/pl/108/324/s101/e], Oct. 13, 2004, [118 Stat. 1235][/us/stat/118/1235]; [Pub. L. 108–498, § 1(a)][/us/pl/108/498/s1/a], Dec. 23, 2004, [118 Stat. 4020][/us/stat/118/4020]; [Pub. L. 109–171, title I][/us/pl/109/171], §§ 1202(b), 1203(c), Feb. 8, 2006, [120 Stat. 5][/us/stat/120/5], 6; [Pub. L. 110–234, title II][/us/pl/110/234], §§ 2701–2705, May 22, 2008, [122 Stat. 1071–1074][/us/stat/122/1071-1074]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, §§ 2701–2705, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1799–1802; [Pub. L. 112–55, div. A, title VII, § 716(d)][/us/pl/112/55/s716/d]–(f), Nov. 18, 2011, [125 Stat. 582][/us/stat/125/582]; [Pub. L. 113–76, div. A, title VII, § 750(b)][/us/pl/113/76/s750/b], Jan. 17, 2014, [128 Stat. 42][/us/stat/128/42].)
+([Pub. L. 99–198, title XII, § 1241][/us/pl/99/198/s1241], as added [Pub. L. 107–171, title II, § 2701][/us/pl/107/171/s2701], May 13, 2002, [116 Stat. 278][/us/stat/116/278]; amended [Pub. L. 108–7, div. N, title II][/us/pl/108/7], §§ 213, 216(c), Feb. 20, 2003, [117 Stat. 545][/us/stat/117/545], 546; [Pub. L. 108–11, title II, § 2106(a)][/us/pl/108/11/s2106/a], Apr. 16, 2003, [117 Stat. 590][/us/stat/117/590]; [Pub. L. 108–199, div. H, § 101][/us/pl/108/199/s101], Jan. 23, 2004, [118 Stat. 434][/us/stat/118/434]; [Pub. L. 108–324, div. B, § 101(e)][/us/pl/108/324/s101/e], Oct. 13, 2004, [118 Stat. 1235][/us/stat/118/1235]; [Pub. L. 108–498, § 1(a)][/us/pl/108/498/s1/a], Dec. 23, 2004, [118 Stat. 4020][/us/stat/118/4020]; [Pub. L. 109–171, title I][/us/pl/109/171], §§ 1202(b), 1203(c), Feb. 8, 2006, [120 Stat. 5][/us/stat/120/5], 6; [Pub. L. 110–234, title II][/us/pl/110/234], §§ 2701–2705, May 22, 2008, [122 Stat. 1071–1074][/us/stat/122/1071-1074]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, §§ 2701–2705, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1799–1802; [Pub. L. 112–55, div. A, title VII, § 716(d)][/us/pl/112/55/s716/d]–(f), Nov. 18, 2011, [125 Stat. 582][/us/stat/125/582]; [Pub. L. 113–76, div. A, title VII, § 750(b)][/us/pl/113/76/s750/b], Jan. 17, 2014, [128 Stat. 42][/us/stat/128/42]; [Pub. L. 113–79, title II][/us/pl/113/79], §§ 2601–2605, Feb. 7, 2014, [128 Stat. 756–759][/us/stat/128/756-759].)
 
  __References in Text__ 
 
-    This chapter, referred to in subsec. (f)(1), was in the original “this title”, meaning title XII of [Pub. L. 99–198][/us/pl/99/198], which enacted this chapter and former [section 2005a of this title][/us/usc/t16/s2005a] and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under [section 1981 of Title 7][/us/usc/t7/s1981].
+    This chapter, referred to in subsecs. (a), (c)(2)(A), and (g)(1), was in the original “this title”, meaning title XII of [Pub. L. 99–198][/us/pl/99/198], which enacted this chapter and former [section 2005a of this title][/us/usc/t16/s2005a] and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under [section 1981 of Title 7][/us/usc/t7/s1981].
+
+    Section 2611 of the Agricultural Act of 2014, referred to in subsec. (c)(2), is [section 2611 of Pub. L. 113–79][/us/pl/113/79/s2611], Feb. 7, 2014, [128 Stat. 762][/us/stat/128/762], which amended sections 3811, 3812, 3812a, and 3821 of this title.
+
+    The Soil Conservation and Domestic Allotment Act, referred to in subsec. (c)(2)(A), is [act Apr. 27, 1935, ch. 85][/us/act/1935-04-27/ch85], [49 Stat. 163][/us/stat/49/163], which is classified generally to chapter 3B (§ 590a et seq.) of this title. For complete classification of this Act to the Code, see [section 590q of this title][/us/usc/t16/s590q] and Tables.
+
+    [Section 3839aa–7 of this title][/us/usc/t16/s3839aa–7], referred to in subsec. (i)(2), was generally amended by [Pub. L. 113–79, title II, § 2206][/us/pl/113/79/s2206], Feb. 7, 2014, [128 Stat. 730][/us/stat/128/730]. As so amended, section 3839aa–7 no longer contains a subsec. (b).
+
+    [Section 1308–3a of title 7][/us/usc/t7/s1308–3a], referred to in subsec. (i)(4), was amended by [Pub. L. 113–79, title I, § 1605(a)][/us/pl/113/79/s1605/a]–(e), Feb. 7, 2014, [128 Stat. 707][/us/stat/128/707], 708, and, as so amended, provisions which formerly appeared in subsec. (b)(2) of section 1308–3a were struck out.
 
  __Codification__ 
 
@@ -179,9 +209,51 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–76, § 750(b)(1)][/us/pl/113/76/s750/b/1], substituted “and (7) and each of fiscal years 2014 and 2015 in the case of the program specified in paragraph (6)),” for “(6), and (7)),” in introductory provisions.
+    2014—Subsec. (a). [Pub. L. 113–79, § 2601(a)][/us/pl/113/79/s2601/a], added subsec. (a) and struck out former subsec. (a) which authorized the Secretary to use the funds, facilities, and authorities of the Commodity Credit Corporation to carry out programs under subchapter IV for fiscal years 2002 through 2012 generally, and fiscal year 2014 in the case of certain programs.
+
+    [Pub. L. 113–76, § 750(b)(1)][/us/pl/113/76/s750/b/1], substituted “and (7) and each of fiscal years 2014 and 2015 in the case of the program specified in paragraph (6)),” for “(6), and (7)),” in introductory provisions.
 
     Subsec. (a)(6)(F). [Pub. L. 113–76, § 750(b)(2)][/us/pl/113/76/s750/b/2], added subpar. (F).
+
+    Subsec. (b). [Pub. L. 113–79, § 2601(b)(2)][/us/pl/113/79/s2601/b/2], added subsec. (b). Former subsec. (b) redesignated (c).
+
+    Subsec. (c). [Pub. L. 113–79, § 2602][/us/pl/113/79/s2602], added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “Effective for fiscal year 2005 and each subsequent fiscal year, Commodity Credit Corporation funds made available for each of the programs specified in paragraphs (1) through (7) of subsection (a) of this section—
+
+    “(1) shall be available for the provision of technical assistance for the programs for which funds are made available; and
+
+    “(2) shall not be available for the provision of technical assistance for conservation programs specified in subsection (a) of this section other than the program for which the funds were made available.”
+
+    [Pub. L. 113–79, § 2601(b)(1)][/us/pl/113/79/s2601/b/1], redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
+
+    Subsec. (d). [Pub. L. 113–79, § 2601(b)(3)][/us/pl/113/79/s2601/b/3], substituted “subsection (c)” for “subsection (b)”.
+
+    [Pub. L. 113–79, § 2601(b)(1)][/us/pl/113/79/s2601/b/1], redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+
+    Subsec. (e). [Pub. L. 113–79, § 2603][/us/pl/113/79/s2603], added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows:
+
+    “(1) Priority funding to promote equity.—Before April 1 of each fiscal year, the Secretary shall give priority for funding under the conservation programs under subchapter IV (excluding the conservation reserve program under subpart B of part I, the wetlands reserve program under subpart C of part I, and the conservation security program under subpart A of part II) to approved applications in any State that has not received, for the fiscal year, an aggregate amount of at least $15,000,000 for those conservation programs.
+
+    “(2) Specific funding allocations.—In determining the specific funding allocations for States under paragraph (1), the Secretary shall consider the respective demand in each State for each program covered by such paragraph.”
+
+    [Pub. L. 113–79, § 2601(b)(1)][/us/pl/113/79/s2601/b/1], redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+
+    Subsecs. (f) to (h). [Pub. L. 113–79, § 2601(b)(1)][/us/pl/113/79/s2601/b/1], redesignated subsecs. (e) to (g) as (f) to (h), respectively. Former subsec. (h) redesignated (i).
+
+    Subsec. (h)(1). [Pub. L. 113–79, § 2604(1)][/us/pl/113/79/s2604/1], substituted “2018” for “2012” in introductory provisions.
+
+    Subsec. (h)(4). [Pub. L. 113–79, § 2604(2)][/us/pl/113/79/s2604/2], added par. (4).
+
+    Subsec. (i). [Pub. L. 113–79, § 2601(b)(1)][/us/pl/113/79/s2601/b/1], redesignated subsec. (h) as (i).
+
+    Subsec. (i)(1). [Pub. L. 113–79, § 2605(1)][/us/pl/113/79/s2605/1], substituted “agricultural conservation easement program” for “wetlands reserve program”.
+
+    Subsec. (i)(2). [Pub. L. 113–79, § 2605(2)][/us/pl/113/79/s2605/2], redesignated par. (4) as (2) and struck out former par. (2) which read as follows: “Payments made under the farmland protection program for easements in which the Federal share is $250,000 or greater.”
+
+    Subsec. (i)(3). [Pub. L. 113–79, § 2605(2)][/us/pl/113/79/s2605/2], (3), redesignated par. (5) as (3), substituted “regional conservation partnership program” for “agricultural water enhancement program” and “3871c(c)(3)” for “3839aa–9(g)”, and struck out former par. (3) which read as follows: “Payments made under the grassland reserve program valued at $250,000 or greater.”
+
+    Subsec. (i)(4). [Pub. L. 113–79, § 2605(2)][/us/pl/113/79/s2605/2], redesigated par. (6) as (4).
+
+    Subsec. (i)(5), (6). [Pub. L. 113–79, § 2605(4)][/us/pl/113/79/s2605/4], added pars. (5) and (6).
 
     2011—Subsec. (a). [Pub. L. 112–55, § 716(e)(1)][/us/pl/112/55/s716/e/1], substituted “2012 (and fiscal year 2014 in the case of the programs specified in paragraphs (3)(B), (4), (6), and (7)),” for “2012,” in introductory provisions.
 
@@ -286,13 +358,13 @@
 ----------
 ----------
 
-[/us/usc/t16/s3834/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3834%2Fb
+[/us/usc/t16/s3834/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3834%2Fc
 [/us/usc/t16/s3835/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3835%2Ff
-[/us/usc/t16/s3839bb–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3839bb%E2%80%931
+[/us/usc/t16/s590a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590a
 [/us/usc/t15/s714i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs714i
-[/us/usc/t16/s3839aa–7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3839aa%E2%80%937%2Fb
-[/us/usc/t16/s3839aa–9/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3839aa%E2%80%939%2Fg
-[/us/usc/t7/s1308–3a/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%E2%80%933a%2Fb%2F2
+[/us/usc/t7/s2279/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2279%2Fe
+[/us/usc/t16/s3871c/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3871c%2Fc%2F3
+[/us/usc/t16/s3865b/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3865b%2Fb%2F2%2FC
 [/us/pl/99/198/s1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1241
 [/us/pl/107/171/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs2701
 [/us/stat/116/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F278
@@ -316,9 +388,22 @@
 [/us/stat/125/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F582
 [/us/pl/113/76/s750/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs750%2Fb
 [/us/stat/128/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F42
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/stat/128/756-759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F756-759
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/usc/t16/s2005a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2005a
 [/us/usc/t7/s1981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1981
+[/us/pl/113/79/s2611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2611
+[/us/stat/128/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F762
+[/us/act/1935-04-27/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-04-27%2Fch85
+[/us/stat/49/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F163
+[/us/usc/t16/s590q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590q
+[/us/usc/t16/s3839aa–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3839aa%E2%80%937
+[/us/pl/113/79/s2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2206
+[/us/stat/128/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F730
+[/us/usc/t7/s1308–3a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%E2%80%933a
+[/us/pl/113/79/s1605/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1605%2Fa
+[/us/stat/128/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F707
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -332,8 +417,25 @@
 [/us/pl/99/198/s1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1241
 [/us/stat/99/1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1514
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/113/79/s2601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2601%2Fa
 [/us/pl/113/76/s750/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs750%2Fb%2F1
 [/us/pl/113/76/s750/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs750%2Fb%2F2
+[/us/pl/113/79/s2601/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2601%2Fb%2F2
+[/us/pl/113/79/s2602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2602
+[/us/pl/113/79/s2601/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2601%2Fb%2F1
+[/us/pl/113/79/s2601/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2601%2Fb%2F3
+[/us/pl/113/79/s2601/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2601%2Fb%2F1
+[/us/pl/113/79/s2603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2603
+[/us/pl/113/79/s2601/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2601%2Fb%2F1
+[/us/pl/113/79/s2601/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2601%2Fb%2F1
+[/us/pl/113/79/s2604/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2604%2F1
+[/us/pl/113/79/s2604/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2604%2F2
+[/us/pl/113/79/s2601/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2601%2Fb%2F1
+[/us/pl/113/79/s2605/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2605%2F1
+[/us/pl/113/79/s2605/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2605%2F2
+[/us/pl/113/79/s2605/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2605%2F2
+[/us/pl/113/79/s2605/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2605%2F2
+[/us/pl/113/79/s2605/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2605%2F4
 [/us/pl/112/55/s716/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2Fs716%2Fe%2F1
 [/us/pl/112/55/s716/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2Fs716%2Fe%2F2
 [/us/pl/112/55/s716/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2Fs716%2Fd

@@ -13,71 +13,33 @@
 
 [Previous](./../../../../../..//us/usc/t16/ch58/schIV/ptV/m__us_usc_t16_s3839bb.md) | [Next](./../../../../../..//us/usc/t16/ch58/schIV/ptV/m__us_usc_t16_s3839bb–2.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3839bb%E2%80%931)
 
-## § 3839bb–1. Wildlife habitat incentive program
+## § 3839bb–1. Repealed. [Pub. L. 113–79, title II, § 2707(a)][/us/pl/113/79/s2707/a], Feb. 7, 2014, [128 Stat. 769][/us/stat/128/769]
 
-    (a) __In general__ 
+    Section, [Pub. L. 99–198, title XII, § 1240N][/us/pl/99/198/s1240N], as added [Pub. L. 107–171, title II, § 2502(a)][/us/pl/107/171/s2502/a], May 13, 2002, [116 Stat. 266][/us/stat/116/266]; amended [Pub. L. 110–234, title II, § 2602][/us/pl/110/234/s2602], May 22, 2008, [122 Stat. 1068][/us/stat/122/1068]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2602, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1796, related to wildlife habitat incentive program.
 
-        The Secretary, in consultation with the State technical committees established under [section 3861 of this title][/us/usc/t16/s3861], shall establish within the Natural Resources Conservation Service a program to be known as the wildlife habitat incentive program (referred to in this section as the “program”) for the development of wildlife habitat on private agricultural land, nonindustrial private forest land, and tribal lands.
+ __Repeal; Transitional Provisions__ 
 
-    (b) __Cost-share payments__ 
+[Pub. L. 113–79, title II, § 2707][/us/pl/113/79/s2707], Feb. 7, 2014, [128 Stat. 769][/us/stat/128/769], provided that:
 
-        (1) __In general__ 
+>     “(a)  __Repeal__  __.—__ 
 
-        Under the program, the Secretary shall make cost-share payments to owners of lands referred to in subsection (a) to develop—
+>     Except as provided in subsection (b), section 1240N of the Food Security Act of 1985 ([16 U.S.C. 3839bb–1][/us/usc/t16/s3839bb–1]) is repealed.
 
-            (A) upland wildlife habitat;
+>     “(b) __Transitional Provisions.—__ 
 
-            (B) wetland wildlife habitat;
+>         “(1)  __Effect on existing contracts and agreements__  __.—__ 
 
-            (C) habitat for threatened and endangered species;
+>         The amendment made by this section \[repealing [section 3839bb–1 of this title][/us/usc/t16/s3839bb–1]\] shall not affect the validity or terms of any contract or agreement entered into by the Secretary of Agriculture under section 1240N of the Food Security Act of 1985 (\[former\] [16 U.S.C. 3839bb–1][/us/usc/t16/s3839bb–1]) before the date of enactment of the Agricultural Act of 2014 \[Feb. 7, 2014\], or any payments required to be made in connection with the contract or agreement.
 
-            (D) fish habitat; and
+>         “(2) __Funding.—__ 
 
-            (E) other types of wildlife habitat approved by the Secretary, including habitat developed on pivot corners and irregular areas.
+>             “(A)  __Use of prior year funds__  __.—__ 
 
-        (2) __Increased cost share for long-term agreements__ 
+>             Notwithstanding the repeal of section 1240N of the Food Security Act of 1985 (\[former\] [16 U.S.C. 3839bb–1][/us/usc/t16/s3839bb–1]), any funds made available from the Commodity Credit Corporation to carry out the wildlife habitat incentive program under that section for fiscal years 2009 through 2013 shall be made available to carry out contracts or agreements referred to in paragraph (1) which were entered into prior to the date of enactment of the Agricultural Act of 2014 (including the provision of technical assistance).
 
-            (A) __In general__ 
+>             “(B)  __Other__  __.—__ 
 
-                In a case in which the Secretary enters into an agreement or contract to protect and restore plant and animal habitat that has a term of at least 15 years, the Secretary may provide cost-share payments in addition to amounts provided under paragraph (1).
-
-            (B) __Funding limitation__ 
-
-                The Secretary may use, for a fiscal year, not more than 25 percent of funds made available under [section 3841(a)(7) of this title][/us/usc/t16/s3841/a/7] for the fiscal year to carry out contracts and agreements described in subparagraph (A).
-
-    (c) __Regional equity__ 
-
-        In carrying out this section, the Secretary shall, to the maximum extent practicable, ensure that regional issues of concern relating to wildlife habitat are addressed in an appropriate manner.
-
-    (d) __Priority for certain conservation initiatives__ 
-
-        In carrying out this section, the Secretary may give priority to projects that would address issues raised by State, regional, and national conservation initiatives.
-
-    (e) __Payment limitation__ 
-
-        Payments made to a person or legal entity, directly or indirectly, under the program may not exceed, in the aggregate, $50,000 per year.
-
-([Pub. L. 99–198, title XII, § 1240N][/us/pl/99/198/s1240N], as added [Pub. L. 107–171, title II, § 2502(a)][/us/pl/107/171/s2502/a], May 13, 2002, [116 Stat. 266][/us/stat/116/266]; amended [Pub. L. 110–234, title II, § 2602][/us/pl/110/234/s2602], May 22, 2008, [122 Stat. 1068][/us/stat/122/1068]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2602, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1796.)
-
- __Codification__ 
-
-    [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
-
- __Amendments__ 
-
-    2008—Subsec. (a). [Pub. L. 110–246, § 2602(a)(1)][/us/pl/110/246/s2602/a/1], inserted “for the development of wildlife habitat on private agricultural land, nonindustrial private forest land, and tribal lands” before period at end.
-
-    Subsec. (b)(1). [Pub. L. 110–246, § 2602(a)(2)][/us/pl/110/246/s2602/a/2], substituted “owners of lands referred to in subsection (a)” for “landowners” in introductory provisions.
-
-    Subsec. (b)(1)(E). [Pub. L. 110–246, § 2602(b)][/us/pl/110/246/s2602/b], inserted “, including habitat developed on pivot corners and irregular areas” before period at end.
-
-    Subsec. (b)(2)(B). [Pub. L. 110–246, § 2602(c)][/us/pl/110/246/s2602/c], substituted “25 percent” for “15 percent”.
-
-    Subsecs. (d), (e). [Pub. L. 110–246, § 2602(d)][/us/pl/110/246/s2602/d], added subsecs. (d) and (e).
-
- __Effective Date of 2008 Amendment__ 
-
-    Amendment of this section and repeal of [Pub. L. 110–234][/us/pl/110/234] by [Pub. L. 110–246][/us/pl/110/246] effective May 22, 2008, the date of enactment of [Pub. L. 110–234][/us/pl/110/234], see [section 4 of Pub. L. 110–246][/us/pl/110/246/s4], set out as an Effective Date note under [section 8701 of Title 7][/us/usc/t7/s8701], Agriculture.
+>             On exhaustion of funds made available under subparagraph (A), the Secretary \[of Agriculture\] may use funds made available to carry out the environmental quality incentives program under chapter 4 of subtitle D of title XII of the Food Security Act of 1985 ([16 U.S.C. 3839aa][/us/usc/t16/s3839aa] et seq.) to continue to carry out contracts or agreements referred to in paragraph (1) using the provisions of law and regulation applicable to such contracts or agreements as in existence on the day before the date of enactment of the Agricultural Act of 2014.”
 
 ----------
 
@@ -86,8 +48,8 @@
 ----------
 ----------
 
-[/us/usc/t16/s3861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3861
-[/us/usc/t16/s3841/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3841%2Fa%2F7
+[/us/pl/113/79/s2707/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2707%2Fa
+[/us/stat/128/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F769
 [/us/pl/99/198/s1240N]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1240N
 [/us/pl/107/171/s2502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs2502%2Fa
 [/us/stat/116/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F266
@@ -95,19 +57,12 @@
 [/us/stat/122/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1068
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
-[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s2602/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2602%2Fa%2F1
-[/us/pl/110/246/s2602/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2602%2Fa%2F2
-[/us/pl/110/246/s2602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2602%2Fb
-[/us/pl/110/246/s2602/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2602%2Fc
-[/us/pl/110/246/s2602/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2602%2Fd
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
-[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
-[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
-[/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
-[/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
+[/us/pl/113/79/s2707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs2707
+[/us/stat/128/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F769
+[/us/usc/t16/s3839bb–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3839bb%E2%80%931
+[/us/usc/t16/s3839bb–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3839bb%E2%80%931
+[/us/usc/t16/s3839bb–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3839bb%E2%80%931
+[/us/usc/t16/s3839bb–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3839bb%E2%80%931
+[/us/usc/t16/s3839aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3839aa
 
 
