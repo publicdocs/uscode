@@ -43,11 +43,11 @@
 
         (3) __Notice of opinion that patent is invalid or will not be infringed.—__ 
 
-            (A) __Agreement to give notice.—__ 
+            (A)  __Agreement to give notice__  __.—__ 
 
             An applicant that makes a certification described in paragraph (2)(A)(iv) shall include in the application a statement that the applicant will give notice as required by this paragraph.
 
-            (B) __Timing of notice.—__ 
+            (B)  __Timing of notice__  __.—__ 
 
             An applicant that makes a certification described in paragraph (2)(A)(iv) shall give notice as required under this paragraph—
 
@@ -55,7 +55,7 @@
 
                 (ii) if the certification is in an amendment or supplement to the application, at the time at which the applicant submits the amendment or supplement, regardless of whether the applicant has already given notice with respect to another such certification contained in the application or in an amendment or supplement to the application.
 
-            (C) __Recipients of notice.—__ 
+            (C)  __Recipients of notice__  __.—__ 
 
             An applicant required under this paragraph to give notice shall give notice to—
 
@@ -63,7 +63,7 @@
 
                 (ii) the holder of the approved application under this subsection for the drug that is claimed by the patent or a use of which is claimed by the patent (or a representative of the holder designated to receive such a notice).
 
-            (D) __Contents of notice.—__ 
+            (D)  __Contents of notice__  __.—__ 
 
             A notice required under this paragraph shall—
 
@@ -169,7 +169,7 @@
 
                 (i) __Declaratory judgment absent infringement action.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     No action may be brought under [section 2201 of title 28][/us/usc/t28/s2201] by an applicant referred to in subsection (b)(2) of this section for a declaratory judgment with respect to a patent which is the subject of the certification referred to in subparagraph (C) unless—
 
@@ -179,17 +179,17 @@
 
                         (cc) in any case in which the notice provided under paragraph (2)(B) relates to noninfringement, the notice was accompanied by a document described in subclause (III).
 
-                    (II) __Filing of civil action.—__ 
+                    (II)  __Filing of civil action__  __.—__ 
 
                     If the conditions described in items (aa), (bb), and as applicable, (cc) of subclause (I) have been met, the applicant referred to in such subclause may, in accordance with [section 2201 of title 28][/us/usc/t28/s2201], bring a civil action under such section against the owner or holder referred to in such subclause (but not against any owner or holder that has brought such a civil action against the applicant, unless that civil action was dismissed without prejudice) for a declaratory judgment that the patent is invalid or will not be infringed by the drug for which the applicant seeks approval, except that such civil action may be brought for a declaratory judgment that the patent will not be infringed only in a case in which the condition described in subclause (I)(cc) is applicable. A civil action referred to in this subclause shall be brought in the judicial district where the defendant has its principal place of business or a regular and established place of business.
 
-                    (III) __Offer of confidential access to application.—__ 
+                    (III)  __Offer of confidential access to application__  __.—__ 
 
                     For purposes of subclause (I)(cc), the document described in this subclause is a document providing an offer of confidential access to the application that is in the custody of the applicant referred to in subsection (b)(2) of this section for the purpose of determining whether an action referred to in subparagraph (C) should be brought. The document providing the offer of confidential access shall contain such restrictions as to persons entitled to access, and on the use and disposition of any information accessed, as would apply had a protective order been entered for the purpose of protecting trade secrets and other confidential business information. A request for access to an application under an offer of confidential access shall be considered acceptance of the offer of confidential access with the restrictions as to persons entitled to access, and on the use and disposition of any information accessed, contained in the offer of confidential access, and those restrictions and other terms of the offer of confidential access shall be considered terms of an enforceable contract. Any person provided an offer of confidential access shall review the application for the sole and limited purpose of evaluating possible infringement of the patent that is the subject of the certification under subsection (b)(2)(A)(iv) of this section and for no other purpose, and may not disclose information of no relevance to any issue of patent infringement to any person other than a person provided an offer of confidential access. Further, the application may be redacted by the applicant to remove any information of no relevance to any issue of patent infringement.
 
                 (ii) __Counterclaim to infringement action.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     If an owner of the patent or the holder of the approved application under subsection (b) of this section for the drug that is claimed by the patent or a use of which is claimed by the patent brings a patent infringement action against the applicant, the applicant may assert a counterclaim seeking an order requiring the holder to correct or delete the patent information submitted by the holder under subsection (b) of this section or this subsection on the ground that the patent does not claim either—
 
@@ -197,11 +197,11 @@
 
                         (bb) an approved method of using the drug.
 
-                    (II) __No independent cause of action.—__ 
+                    (II)  __No independent cause of action__  __.—__ 
 
                     Subclause (I) does not authorize the assertion of a claim described in subclause (I) in any civil action or proceeding other than a counterclaim described in subclause (I).
 
-                (iii) __No damages.—__ 
+                (iii)  __No damages__  __.—__ 
 
                 An applicant shall not be entitled to damages in a civil action under clause (i) or a counterclaim under clause (ii).
 
@@ -323,11 +323,11 @@
 
             (B) __Notice of opinion that patent is invalid or will not be infringed.—__ 
 
-                (i) __Agreement to give notice.—__ 
+                (i)  __Agreement to give notice__  __.—__ 
 
                 An applicant that makes a certification described in subparagraph (A)(vii)(IV) shall include in the application a statement that the applicant will give notice as required by this subparagraph.
 
-                (ii) __Timing of notice.—__ 
+                (ii)  __Timing of notice__  __.—__ 
 
                 An applicant that makes a certification described in subparagraph (A)(vii)(IV) shall give notice as required under this subparagraph—
 
@@ -335,7 +335,7 @@
 
                     (II) if the certification is in an amendment or supplement to the application, at the time at which the applicant submits the amendment or supplement, regardless of whether the applicant has already given notice with respect to another such certification contained in the application or in an amendment or supplement to the application.
 
-                (iii) __Recipients of notice.—__ 
+                (iii)  __Recipients of notice__  __.—__ 
 
                 An applicant required under this subparagraph to give notice shall give notice to—
 
@@ -343,7 +343,7 @@
 
                     (II) the holder of the approved application under subsection (b) of this section for the drug that is claimed by the patent or a use of which is claimed by the patent (or a representative of the holder designated to receive such a notice).
 
-                (iv) __Contents of notice.—__ 
+                (iv)  __Contents of notice__  __.—__ 
 
                 A notice required under this subparagraph shall—
 
@@ -479,33 +479,33 @@
 
                 (iv) __180-day exclusivity period.—__ 
 
-                    (I) __Effectiveness of application.—__ 
+                    (I)  __Effectiveness of application__  __.—__ 
 
                     Subject to subparagraph (D), if the application contains a certification described in paragraph (2)(A)(vii)(IV) and is for a drug for which a first applicant has submitted an application containing such a certification, the application shall be made effective on the date that is 180 days after the date of the first commercial marketing of the drug (including the commercial marketing of the listed drug) by any first applicant.
 
-                    (II) __Definitions.—__ 
+                    (II)  __Definitions__  __.—__ 
 
                     In this paragraph:
 
-                        (aa) __180-day exclusivity period.—__ 
+                        (aa) __180-__  __day exclusivity period__  __.—__ 
 
                         The term “180-day exclusivity period” means the 180-day period ending on the day before the date on which an application submitted by an applicant other than a first applicant could become effective under this clause.
 
-                        (bb) __First applicant.—__ 
+                        (bb)  __First applicant__  __.—__ 
 
                         As used in this subsection, the term “first applicant” means an applicant that, on the first day on which a substantially complete application containing a certification described in paragraph (2)(A)(vii)(IV) is submitted for approval of a drug, submits a substantially complete application that contains and lawfully maintains a certification described in paragraph (2)(A)(vii)(IV) for the drug.
 
-                        (cc) __Substantially complete application.—__ 
+                        (cc)  __Substantially complete application__  __.—__ 
 
                         As used in this subsection, the term “substantially complete application” means an application under this subsection that on its face is sufficiently complete to permit a substantive review and contains all the information required by paragraph (2)(A).
 
                         (dd) __Tentative approval.—__ 
 
-                            (AA) __In general.—__ 
+                            (AA)  __In general__  __.—__ 
 
                             The term “tentative approval” means notification to an applicant by the Secretary that an application under this subsection meets the requirements of paragraph (2)(A), but cannot receive effective approval because the application does not meet the requirements of this subparagraph, there is a period of exclusivity for the listed drug under subparagraph (F) or [section 355a of this title][/us/usc/t21/s355a], or there is a 7-year period of exclusivity for the listed drug under [section 360cc of this title][/us/usc/t21/s360cc].
 
-                            (BB) __Limitation.—__ 
+                            (BB)  __Limitation__  __.—__ 
 
                             A drug that is granted tentative approval by the Secretary is not an approved drug and shall not have an effective approval until the Secretary issues an approval after any necessary additional review of the application.
 
@@ -513,7 +513,7 @@
 
                 (i) __Declaratory judgment absent infringement action.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     No action may be brought under [section 2201 of title 28][/us/usc/t28/s2201] by an applicant under paragraph (2) for a declaratory judgment with respect to a patent which is the subject of the certification referred to in subparagraph (B)(iii) unless—
 
@@ -523,17 +523,17 @@
 
                         (cc) in any case in which the notice provided under paragraph (2)(B) relates to noninfringement, the notice was accompanied by a document described in subclause (III).
 
-                    (II) __Filing of civil action.—__ 
+                    (II)  __Filing of civil action__  __.—__ 
 
                     If the conditions described in items (aa), (bb), and as applicable, (cc) of subclause (I) have been met, the applicant referred to in such subclause may, in accordance with [section 2201 of title 28][/us/usc/t28/s2201], bring a civil action under such section against the owner or holder referred to in such subclause (but not against any owner or holder that has brought such a civil action against the applicant, unless that civil action was dismissed without prejudice) for a declaratory judgment that the patent is invalid or will not be infringed by the drug for which the applicant seeks approval, except that such civil action may be brought for a declaratory judgment that the patent will not be infringed only in a case in which the condition described in subclause (I)(cc) is applicable. A civil action referred to in this subclause shall be brought in the judicial district where the defendant has its principal place of business or a regular and established place of business.
 
-                    (III) __Offer of confidential access to application.—__ 
+                    (III)  __Offer of confidential access to application__  __.—__ 
 
                     For purposes of subclause (I)(cc), the document described in this subclause is a document providing an offer of confidential access to the application that is in the custody of the applicant under paragraph (2) for the purpose of determining whether an action referred to in subparagraph (B)(iii) should be brought. The document providing the offer of confidential access shall contain such restrictions as to persons entitled to access, and on the use and disposition of any information accessed, as would apply had a protective order been entered for the purpose of protecting trade secrets and other confidential business information. A request for access to an application under an offer of confidential access shall be considered acceptance of the offer of confidential access with the restrictions as to persons entitled to access, and on the use and disposition of any information accessed, contained in the offer of confidential access, and those restrictions and other terms of the offer of confidential access shall be considered terms of an enforceable contract. Any person provided an offer of confidential access shall review the application for the sole and limited purpose of evaluating possible infringement of the patent that is the subject of the certification under paragraph (2)(A)(vii)(IV) and for no other purpose, and may not disclose information of no relevance to any issue of patent infringement to any person other than a person provided an offer of confidential access. Further, the application may be redacted by the applicant to remove any information of no relevance to any issue of patent infringement.
 
                 (ii) __Counterclaim to infringement action.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     If an owner of the patent or the holder of the approved application under subsection (b) of this section for the drug that is claimed by the patent or a use of which is claimed by the patent brings a patent infringement action against the applicant, the applicant may assert a counterclaim seeking an order requiring the holder to correct or delete the patent information submitted by the holder under subsection (b) or (c) of this section on the ground that the patent does not claim either—
 
@@ -541,21 +541,21 @@
 
                         (bb) an approved method of using the drug.
 
-                    (II) __No independent cause of action.—__ 
+                    (II)  __No independent cause of action__  __.—__ 
 
                     Subclause (I) does not authorize the assertion of a claim described in subclause (I) in any civil action or proceeding other than a counterclaim described in subclause (I).
 
-                (iii) __No damages.—__ 
+                (iii)  __No damages__  __.—__ 
 
                 An applicant shall not be entitled to damages in a civil action under clause (i) or a counterclaim under clause (ii).
 
             (D) __Forfeiture of 180-day exclusivity period.—__ 
 
-                (i) __Definition of forfeiture event.—__ 
+                (i)  __Definition of forfeiture event__  __.—__ 
 
                 In this subparagraph, the term “forfeiture event”, with respect to an application under this subsection, means the occurrence of any of the following:
 
-                    (I) __Failure to market.—__ 
+                    (I)  __Failure to market__  __.—__ 
 
                     The first applicant fails to market the drug by the later of—
 
@@ -577,31 +577,31 @@
 
                             (CC) The patent information submitted under subsection (b) or (c) of this section is withdrawn by the holder of the application approved under subsection (b) of this section.
 
-                    (II) __Withdrawal of application.—__ 
+                    (II)  __Withdrawal of application__  __.—__ 
 
                     The first applicant withdraws the application or the Secretary considers the application to have been withdrawn as a result of a determination by the Secretary that the application does not meet the requirements for approval under paragraph (4).
 
-                    (III) __Amendment of certification.—__ 
+                    (III)  __Amendment of certification__  __.—__ 
 
                     The first applicant amends or withdraws the certification for all of the patents with respect to which that applicant submitted a certification qualifying the applicant for the 180-day exclusivity period.
 
-                    (IV) __Failure to obtain tentative approval.—__ 
+                    (IV)  __Failure to obtain tentative approval__  __.—__ 
 
                     The first applicant fails to obtain tentative approval of the application within 30 months after the date on which the application is filed, unless the failure is caused by a change in or a review of the requirements for approval of the application imposed after the date on which the application is filed.
 
-                    (V) __Agreement with another applicant, the listed drug application holder, or a patent owner.—__ 
+                    (V)  __Agreement with another applicant, the listed drug application holder, or a patent owner__  __.—__ 
 
                     The first applicant enters into an agreement with another applicant under this subsection for the drug, the holder of the application for the listed drug, or an owner of the patent that is the subject of the certification under paragraph (2)(A)(vii)(IV), the Federal Trade Commission or the Attorney General files a complaint, and there is a final decision of the Federal Trade Commission or the court with regard to the complaint from which no appeal (other than a petition to the Supreme Court for a writ of certiorari) has been or can be taken that the agreement has violated the antitrust laws (as defined in [section 12 of title 15][/us/usc/t15/s12], except that the term includes [section 45 of title 15][/us/usc/t15/s45] to the extent that that section applies to unfair methods of competition).
 
-                    (VI) __Expiration of all patents.—__ 
+                    (VI)  __Expiration of all patents__  __.—__ 
 
                     All of the patents as to which the applicant submitted a certification qualifying it for the 180-day exclusivity period have expired.
 
-                (ii) __Forfeiture.—__ 
+                (ii)  __Forfeiture__  __.—__ 
 
                 The 180-day exclusivity period described in subparagraph (B)(iv) shall be forfeited by a first applicant if a forfeiture event occurs with respect to that first applicant.
 
-                (iii) __Subsequent applicant.—__ 
+                (iii)  __Subsequent applicant__  __.—__ 
 
                 If all first applicants forfeit the 180-day exclusivity period under clause (ii)—
 
@@ -719,11 +719,11 @@
 
         (3) __Active postmarket risk identification.—__ 
 
-            (A) __Definition.—__ 
+            (A)  __Definition__  __.—__ 
 
             In this paragraph, the term “data” refers to information with respect to a drug approved under this section or under [section 262 of title 42][/us/usc/t42/s262], including claims data, patient survey data, standardized analytic files that allow for the pooling and analysis of data from disparate data environments, and any other data deemed appropriate by the Secretary.
 
-            (B) __Development of postmarket risk identification and analysis methods.—__ 
+            (B)  __Development of postmarket risk identification and analysis methods__  __.—__ 
 
             The Secretary shall, not later than 2 years after September 27, 2007, in collaboration with public, academic, and private entities—
 
@@ -741,7 +741,7 @@
 
             (C) __Establishment of the postmarket risk identification and analysis system.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 The Secretary shall, not later than 1 year after the development of the risk identification and analysis methods under subparagraph (B), establish and maintain procedures—
 
@@ -765,15 +765,15 @@
 
                     (VI) to enable the program to export data in a form appropriate for further aggregation, statistical analysis, and reporting.
 
-                (ii) __Timeliness of reporting.—__ 
+                (ii)  __Timeliness of reporting__  __.—__ 
 
                 The procedures established under clause (i) shall ensure that such data are accessed, analyzed, and reported in a timely, routine, and systematic manner, taking into consideration the need for data completeness, coding, cleansing, and standardized analysis and transmission.
 
-                (iii) __Private sector resources.—__ 
+                (iii)  __Private sector resources__  __.—__ 
 
                 To ensure the establishment of the active postmarket risk identification and analysis system under this subsection not later than 1 year after the development of the risk identification and analysis methods under subparagraph (B), as required under clause (i), the Secretary may, on a temporary or permanent basis, implement systems or products developed by private entities.
 
-                (iv) __Complementary approaches.—__ 
+                (iv)  __Complementary approaches__  __.—__ 
 
                 To the extent the active postmarket risk identification and analysis system under this subsection is not sufficient to gather data and information relevant to a priority drug safety question, the Secretary shall develop, support, and participate in complementary approaches to gather and analyze such data and information, including—
 
@@ -781,13 +781,13 @@
 
                     (II) existing approaches such as the Vaccine Adverse Event Reporting System and the Vaccine Safety Datalink or successor databases.
 
-                (v) __Authority for contracts.—__ 
+                (v)  __Authority for contracts__  __.—__ 
 
                 The Secretary may enter into contracts with public and private entities to fulfill the requirements of this subparagraph.
 
         (4) __Advanced analysis of drug safety data.—__ 
 
-            (A) __Purpose.—__ 
+            (A)  __Purpose__  __.—__ 
 
             The Secretary shall establish collaborations with public, academic, and private entities, which may include the Centers for Education and Research on Therapeutics under [section 299b–1 of title 42][/us/usc/t42/s299b–1], to provide for advanced analysis of drug safety data described in paragraph (3)(C) and other information that is publicly available or is provided by the Secretary, in order to—
 
@@ -797,11 +797,11 @@
 
                 (iii) enhance the ability of the Secretary to make timely assessments based on drug safety data.
 
-            (B) __Privacy.—__ 
+            (B)  __Privacy__  __.—__ 
 
             Such analysis shall not disclose individually identifiable health information when presenting such drug safety signals and trends or when responding to inquiries regarding such drug safety signals and trends.
 
-            (C) __Public process for priority questions.—__ 
+            (C)  __Public process for priority questions__  __.—__ 
 
             At least biannually, the Secretary shall seek recommendations from the Drug Safety and Risk Management Advisory Committee (or any successor committee) and from other advisory committees, as appropriate, to the Food and Drug Administration on—
 
@@ -817,7 +817,7 @@
 
             (D) __Procedures for the development of drug safety collaborations.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Not later than 180 days after the date of the establishment of the active postmarket risk identification and analysis system under this subsection, the Secretary shall establish and implement procedures under which the Secretary may routinely contract with one or more qualified entities to—
 
@@ -837,21 +837,21 @@
 
                     (V) carry out other activities as the Secretary deems necessary to carry out the purposes of this paragraph.
 
-                (ii) __Request for specific methodology.—__ 
+                (ii)  __Request for specific methodology__  __.—__ 
 
                 The procedures described in clause (i) shall permit the Secretary to request that a specific methodology be used by the qualified entity. The qualified entity shall work with the Secretary to finalize the methodology to be used.
 
-            (E) __Use of analyses.—__ 
+            (E)  __Use of analyses__  __.—__ 
 
             The Secretary shall provide the analyses described in this paragraph, including the methods and results of such analyses, about a drug to the sponsor or sponsors of such drug.
 
             (F) __Qualified entities.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 The Secretary shall enter into contracts with a sufficient number of qualified entities to develop and provide information to the Secretary in a timely manner.
 
-                (ii) __Qualification.—__ 
+                (ii)  __Qualification__  __.—__ 
 
                 The Secretary shall enter into a contract with an entity under clause (i) only if the Secretary determines that the entity has a significant presence in the United States and has one or more of the following qualifications:
 
@@ -865,11 +865,11 @@
 
                     (V) Other expertise which the Secretary deems necessary to fulfill the activities under this paragraph.
 
-            (G) __Contract requirements.—__ 
+            (G)  __Contract requirements__  __.—__ 
 
             Each contract with a qualified entity under subparagraph (F)(i) shall contain the following requirements:
 
-                (i) __Ensuring privacy.—__ 
+                (i)  __Ensuring privacy__  __.—__ 
 
                 The qualified entity shall ensure that the entity will not use data under this subsection in a manner that—
 
@@ -881,7 +881,7 @@
 
                     Nothing in this clause prohibits lawful disclosure for other purposes.
 
-                (ii) __Component of another organization.—__ 
+                (ii)  __Component of another organization__  __.—__ 
 
                 If a qualified entity is a component of another organization—
 
@@ -889,27 +889,27 @@
 
                     (II) the entity shall not make an unauthorized disclosure of such data to the other components of the organization in breach of such confidentiality and privacy requirement.
 
-                (iii) __Termination or nonrenewal.—__ 
+                (iii)  __Termination or nonrenewal__  __.—__ 
 
                 If a contract with a qualified entity under this subparagraph is terminated or not renewed, the following requirements shall apply:
 
-                    (I) __Confidentiality and privacy protections.—__ 
+                    (I)  __Confidentiality and privacy protections__  __.—__ 
 
                     The entity shall continue to comply with the confidentiality and privacy requirements under this paragraph with respect to all data disclosed to the entity.
 
-                    (II) __Disposition of data.—__ 
+                    (II)  __Disposition of data__  __.—__ 
 
                     The entity shall return any data disclosed to such entity under this subsection to which it would not otherwise have access or, if returning the data is not practicable, destroy the data.
 
-            (H) __Competitive procedures.—__ 
+            (H)  __Competitive procedures__  __.—__ 
 
             The Secretary shall use competitive procedures (as defined in [section 132 of title 41][/us/usc/t41/s132]) to enter into contracts under subparagraph (G).
 
-            (I) __Review of contract in the event of a merger or acquisition.—__ 
+            (I)  __Review of contract in the event of a merger or acquisition__  __.—__ 
 
             The Secretary shall review the contract with a qualified entity under this paragraph in the event of a merger or acquisition of the entity in order to ensure that the requirements under this paragraph will continue to be met.
 
-            (J) __Coordination.—__ 
+            (J)  __Coordination__  __.—__ 
 
             In carrying out this paragraph, the Secretary shall provide for appropriate communications to the public, scientific, public health, and medical communities, and other key stakeholders, and to the extent practicable shall coordinate with the activities of private entities, professional associations, or other entities that may have sources of drug safety data.
 
@@ -941,7 +941,7 @@
 
         (2) __Action Package for Approval.—__ 
 
-            (A) __Action package.—__ 
+            (A)  __Action package__  __.—__ 
 
             The Secretary shall publish the action package for approval of an application under subsection (b) or [section 262 of title 42][/us/usc/t42/s262] on the Internet Web site of the Food and Drug Administration—
 
@@ -949,11 +949,11 @@
 
                 (ii) not later than 30 days after the third request for such action package for approval received under [section 552 of title 5][/us/usc/t5/s552] for any other drug.
 
-            (B) __Immediate publication of summary review.—__ 
+            (B)  __Immediate publication of summary review__  __.—__ 
 
             Notwithstanding subparagraph (A), the Secretary shall publish, on the Internet Web site of the Food and Drug Administration, the materials described in subparagraph (C)(iv) not later than 48 hours after the date of approval of the drug, except where such materials require redaction by the Secretary.
 
-            (C) __Contents.—__ 
+            (C)  __Contents__  __.—__ 
 
             An action package for approval of an application under subparagraph (A) shall be dated and shall include the following:
 
@@ -983,11 +983,11 @@
 
                     (II) consents to have his or her name included in the package.
 
-            (D) __Review.—__ 
+            (D)  __Review__  __.—__ 
 
             A scientific review of an application is considered the work of the reviewer and shall not be altered by management or the reviewer once final.
 
-            (E) __Confidential information.—__ 
+            (E)  __Confidential information__  __.—__ 
 
             This paragraph does not authorize the disclosure of any trade secret, confidential commercial or financial information, or other matter listed in [section 552(b) of title 5][/us/usc/t5/s552/b].
 
@@ -1729,29 +1729,29 @@
 
 [Pub. L. 108–173, title XI, § 1101(c)][/us/pl/108/173/s1101/c], Dec. 8, 2003, [117 Stat. 2456][/us/stat/117/2456], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraphs (2) and (3), the amendments made by subsections (a) and (b) \[amending this section\] apply to any proceeding under section 505 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355][/us/usc/t21/s355]) that is pending on or after the date of the enactment of this Act \[Dec. 8, 2003\] regardless of the date on which the proceeding was commenced or is commenced.
 
->     “(2) __Notice of opinion that patent is invalid or will not be infringed.—__ 
+>     “(2)  __Notice of opinion that patent is invalid or will not be infringed__  __.—__ 
 
 >     The amendments made by subsections (a)(1) and (b)(1) apply with respect to any certification under subsection (b)(2)(A)(iv) or (j)(2)(A)(vii)(IV) of section 505 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355][/us/usc/t21/s355]) submitted on or after August 18, 2003, in an application filed under subsection (b) or (j) of that section or in an amendment or supplement to an application filed under subsection (b) or (j) of that section.
 
->     “(3) __Effective date of approval.—__ 
+>     “(3)  __Effective date of approval__  __.—__ 
 
 >     The amendments made by subsections (a)(2)(A)(ii)(I) and (b)(2)(B)(i) apply with respect to any patent information submitted under subsection (b)(1) or (c)(2) of section 505 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355][/us/usc/t21/s355]) on or after August 18, 2003.”
 
 [Pub. L. 108–173, title XI, § 1102(b)][/us/pl/108/173/s1102/b], Dec. 8, 2003, [117 Stat. 2460][/us/stat/117/2460], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall be effective only with respect to an application filed under section 505(j) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355(j)][/us/usc/t21/s355/j]) after the date of the enactment of this Act \[Dec. 8, 2003\] for a listed drug for which no certification under section 505(j)(2)(A)(vii)(IV) of that Act was made before the date of the enactment of this Act.
 
->     “(2) __Collusive agreements.—__ 
+>     “(2)  __Collusive agreements__  __.—__ 
 
 >     If a forfeiture event described in section 505(j)(5)(D)(i)(V) of that Act occurs in the case of an applicant, the applicant shall forfeit the 180-day period under section 505(j)(5)(B)(iv) of that Act without regard to when the first certification under section 505(j)(2)(A)(vii)(IV) of that Act for the listed drug was made.
 
->     “(3) __Decision of a court when the 180-day exclusivity period has not been triggered.—__ 
+>     “(3)  __Decision of a court when the 180-day exclusivity period has not been triggered__  __.—__ 
 
 >     With respect to an application filed before, on, or after the date of the enactment of this Act \[Dec. 8, 2003\] for a listed drug for which a certification under section 505(j)(2)(A)(vii)(IV) of that Act was made before the date of the enactment of this Act and for which neither of the events described in subclause (I) or (II) of section 505(j)(5)(B)(iv) of that Act (as in effect on the day before the date of the enactment of this Act) has occurred on or before the date of the enactment of this Act, the term ‘decision of a court’ as used in clause (iv) of section 505(j)(5)(B) of that Act means a final decision of a court from which no appeal (other than a petition to the Supreme Court for a writ of certiorari) has been or can be taken.”
 
@@ -1799,7 +1799,7 @@
 
 [Pub. L. 112–144, title VIII, § 806][/us/pl/112/144/s806], July 9, 2012, [126 Stat. 1082][/us/stat/126/1082], provided that:
 
->     “(a) __Draft Guidance.—__ 
+>     “(a)  __Draft Guidance__  __.—__ 
 
 >     Not later than June 30, 2013, in order to facilitate the development of antibacterial drugs for serious or life-threatening bacterial infections, particularly in areas of unmet need, the Secretary of Health and Human Services shall publish draft guidance that—
 
@@ -1807,7 +1807,7 @@
 
 >         “(2) provides advice on approaches for the development of antibacterial drugs that target a more limited spectrum of pathogens.
 
->     “(b) __Final Guidance.—__ 
+>     “(b)  __Final Guidance__  __.—__ 
 
 >     Not later than December 31, 2014, after notice and opportunity for public comment on the draft guidance under subsection (a), the Secretary of Health and Human Services shall publish final guidance consistent with this section.”
 
@@ -1823,7 +1823,7 @@
 
 >     “(a) __Extension.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         If a first applicant files an application during the 30-month period ending on the date of enactment of this Act \[July 9, 2012\] and such application initially contains a certification described in paragraph (2)(A)(vii)(IV) of section 505(j) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355(j)][/us/usc/t21/s355/j]), or if a first applicant files an application and the application is amended during such period to first contain such a certification, the phrase ‘30 months’ in paragraph (5)(D)(i)(IV) of such section shall, with respect to such application, be read as meaning—
 
@@ -1831,15 +1831,15 @@
 
 >             “(B) during the period beginning on October 1, 2015, and ending on September 30, 2016, ‘36 months’.
 
->         “(2) __Conforming amendment.—__ 
+>         “(2)  __Conforming amendment__  __.—__ 
 
 >         In the case of an application to which an extended period under paragraph (1) applies, the reference to the 30-month period under section 505(q)(1)(G) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355(q)(1)(G)][/us/usc/t21/s355/q/1/G]) shall be read to be the applicable period under paragraph (1).
 
->     “(b) __Period for Obtaining Tentative Approval of Certain Applications.—__ 
+>     “(b)  __Period for Obtaining Tentative Approval of Certain Applications__  __.—__ 
 
 >     If an application is filed on or before the date of enactment of this Act \[July 9, 2012\] and such application is amended during the period beginning on the day after the date of enactment of this Act and ending on September 30, 2017, to first contain a certification described in paragraph (2)(A)(vii)(IV) of section 505(j) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355(j)][/us/usc/t21/s355/j]), the date of the filing of such amendment (rather than the date of the filing of such application) shall be treated as the beginning of the 30-month period described in paragraph (5)(D)(i)(IV) of such section 505(j).
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     For the purposes of this section, the terms ‘application’ and ‘first applicant’ mean application and first applicant, as such terms are used in section 505(j)(5)(D)(i)(IV) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355(j)(5)(D)(i)(IV)][/us/usc/t21/s355/j/5/D/i/IV]).”
 
@@ -1847,7 +1847,7 @@
 
 [Pub. L. 110–85, title IX, § 907][/us/pl/110/85/s907], Sept. 27, 2007, [121 Stat. 950][/us/stat/121/950], provided that: 
 
-> “This subtitle \[subtitle A (§§ 901–909) of title IX of [Pub. L. 110–85][/us/pl/110/85], enacting sections 353b and 355–1 of this title, amending this section and sections 331, 333, and 352 of this title and [section 262 of Title 42][/us/usc/t42/s262], The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 331, 352, and 355a of this title\], and the amendments made by this subtitle, shall have no effect on the use of drugs approved under section 505 of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 355][/us/usc/t21/s355]\] by, or on the lawful written or oral order of, a licensed veterinarian within the context of a veterinarian-client-patient relationship, as provided for under section 512(a)(5) of such Act \[[21 U.S.C. 360b(a)(5)][/us/usc/t21/s360b/a/5]\].”
+> “This subtitle \[subtitle A (§§ 901–909) of title IX of [Pub. L. 110–85][/us/pl/110/85], enacting sections 353c and 355–1 of this title, amending this section and sections 331, 333, and 352 of this title and [section 262 of Title 42][/us/usc/t42/s262], The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 331, 352, and 355a of this title\], and the amendments made by this subtitle, shall have no effect on the use of drugs approved under section 505 of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 355][/us/usc/t21/s355]\] by, or on the lawful written or oral order of, a licensed veterinarian within the context of a veterinarian-client-patient relationship, as provided for under section 512(a)(5) of such Act \[[21 U.S.C. 360b(a)(5)][/us/usc/t21/s360b/a/5]\].”
 
  __Effect of Amendment by__  __[__  __Pub. L. 108–173__  __][/us/pl/108/173]__  __on Abbreviated New Drug Applications__ 
 
@@ -1867,31 +1867,31 @@
 
 >     The term ‘ANDA’ means an abbreviated drug application, as defined under section 201(aa) of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 321(aa)][/us/usc/t21/s321/aa]\].
 
->     “(2) __Assistant attorney general.—__ 
+>     “(2)  __Assistant attorney general__  __.—__ 
 
 >     The term ‘Assistant Attorney General’ means the Assistant Attorney General in charge of the Antitrust Division of the Department of Justice.
 
->     “(3) __Brand name drug.—__ 
+>     “(3)  __Brand name drug__  __.—__ 
 
 >     The term ‘brand name drug’ means a drug for which an application is approved under section 505(c) of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 355(c)][/us/usc/t21/s355/c]\], including an application referred to in section 505(b)(2) of such Act \[[21 U.S.C. 355(b)(2)][/us/usc/t21/s355/b/2]\].
 
->     “(4) __Brand name drug company.—__ 
+>     “(4)  __Brand name drug company__  __.—__ 
 
 >     The term ‘brand name drug company’ means the party that holds the approved application referred to in paragraph (3) for a brand name drug that is a listed drug in an ANDA, or a party that is the owner of a patent for which information is submitted for such drug under subsection (b) or (c) of section 505 of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 355(b)][/us/usc/t21/s355/b], (c)\].
 
->     “(5) __Commission.—__ 
+>     “(5)  __Commission__  __.—__ 
 
 >     The term ‘Commission’ means the Federal Trade Commission.
 
->     “(6) __Generic drug.—__ 
+>     “(6)  __Generic drug__  __.—__ 
 
 >     The term ‘generic drug’ means a drug for which an application under section 505(j) of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 355(j)][/us/usc/t21/s355/j]\] is approved.
 
->     “(7) __Generic drug applicant.—__ 
+>     “(7)  __Generic drug applicant__  __.—__ 
 
 >     The term ‘generic drug applicant’ means a person who has filed or received approval for an ANDA under section 505(j) of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 355(j)][/us/usc/t21/s355/j]\].
 
->     “(8) __Listed drug.—__ 
+>     “(8)  __Listed drug__  __.—__ 
 
 >     The term ‘listed drug’ means a brand name drug that is listed under section 505(j)(7) of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 355(j)(7)][/us/usc/t21/s355/j/7]\].
 
@@ -1899,11 +1899,11 @@
 
 >     “(a) __Agreement With Brand Name Drug Company.—__ 
 
->         “(1) __Requirement.—__ 
+>         “(1)  __Requirement__  __.—__ 
 
 >         A generic drug applicant that has submitted an ANDA containing a certification under section 505(j)(2)(A)(vii)(IV) of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 355(j)(2)(A)(vii)(IV)][/us/usc/t21/s355/j/2/A/vii/IV]\] and a brand name drug company that enter into an agreement described in paragraph (2) shall each file the agreement in accordance with subsection (c). The agreement shall be filed prior to the date of the first commercial marketing of the generic drug that is the subject of the ANDA.
 
->         “(2) __Subject matter of agreement.—__ 
+>         “(2)  __Subject matter of agreement__  __.—__ 
 
 >         An agreement described in this paragraph between a generic drug applicant and a brand name drug company is an agreement regarding—
 
@@ -1915,17 +1915,17 @@
 
 >     “(b) __Agreement With Another Generic Drug Applicant.—__ 
 
->         “(1) __Requirement.—__ 
+>         “(1)  __Requirement__  __.—__ 
 
 >         A generic drug applicant that has submitted an ANDA containing a certification under section 505(j)(2)(A)(vii)(IV) of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 355(j)(2)(A)(vii)(IV)][/us/usc/t21/s355/j/2/A/vii/IV]\] with respect to a listed drug and another generic drug applicant that has submitted an ANDA containing such a certification for the same listed drug shall each file the agreement in accordance with subsection (c). The agreement shall be filed prior to the date of the first commercial marketing of either of the generic drugs for which such ANDAs were submitted.
 
->         “(2) __Subject matter of agreement.—__ 
+>         “(2)  __Subject matter of agreement__  __.—__ 
 
 >         An agreement described in this paragraph between two generic drug applicants is an agreement regarding the 180-day period referred to in section 505(j)(5)(B)(iv) of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 355(j)(5)(B)(iv)][/us/usc/t21/s355/j/5/B/iv]\] as it applies to the ANDAs with which the agreement is concerned.
 
 >     “(c) __Filing.—__ 
 
->         “(1) __Agreement.—__ 
+>         “(1)  __Agreement__  __.—__ 
 
 >         The parties that are required in subsection (a) or (b) to file an agreement in accordance with this subsection shall file with the Assistant Attorney General and the Commission the text of any such agreement, except that such parties are not required to file an agreement that solely concerns—
 
@@ -1937,11 +1937,11 @@
 
 >             “(D) packaging and labeling contracts.
 
->         “(2) __Other agreements.—__ 
+>         “(2)  __Other agreements__  __.—__ 
 
 >         The parties that are required in subsection (a) or (b) to file an agreement in accordance with this subsection shall file with the Assistant Attorney General and the Commission the text of any agreements between the parties that are not described in such subsections and are contingent upon, provide a contingent condition for, or are otherwise related to an agreement that is required in subsection (a) or (b) to be filed in accordance with this subsection.
 
->         “(3) __Description.—__ 
+>         “(3)  __Description__  __.—__ 
 
 >         In the event that any agreement required in subsection (a) or (b) to be filed in accordance with this subsection has not been reduced to text, each of the parties involved shall file written descriptions of such agreement that are sufficient to disclose all the terms and conditions of the agreement.
 
@@ -1955,11 +1955,11 @@
 
 > “SEC. 1115. __ENFORCEMENT.__ 
 
->     “(a) __Civil Penalty.—__ 
+>     “(a)  __Civil Penalty__  __.—__ 
 
 >     Any brand name drug company or generic drug applicant which fails to comply with any provision of this subtitle shall be liable for a civil penalty of not more than $11,000, for each day during which such entity is in violation of this subtitle. Such penalty may be recovered in a civil action brought by the United States, or brought by the Commission in accordance with the procedures established in section 16(a)(1) of the Federal Trade Commission Act ([15 U.S.C. 56(a)][/us/usc/t15/s56/a] \[[15 U.S.C. 56(a)(1)][/us/usc/t15/s56/a/1]\]).
 
->     “(b) __Compliance and Equitable Relief.—__ 
+>     “(b)  __Compliance and Equitable Relief__  __.—__ 
 
 >     If any brand name drug company or generic drug applicant fails to comply with any provision of this subtitle, the United States district court may order compliance, and may grant such other equitable relief as the court in its discretion determines necessary or appropriate, upon application of the Assistant Attorney General or the Commission.
 
@@ -2003,7 +2003,7 @@
 
 >     “(1) __Procedures and requirements.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         In order to take account of the special characteristics of positron emission tomography drugs and the special techniques and processes required to produce these drugs, not later than 2 years after the date of enactment of this Act \[Nov. 21, 1997\], the Secretary of Health and Human Services shall establish—
 
@@ -2011,17 +2011,17 @@
 
 >             “(ii) appropriate current good manufacturing practice requirements for such drugs.
 
->         “(B) __Considerations and consultation.—__ 
+>         “(B)  __Considerations and consultation__  __.—__ 
 
 >         In establishing the procedures and requirements required by subparagraph (A), the Secretary of Health and Human Services shall take due account of any relevant differences between not-for-profit institutions that compound the drugs for their patients and commercial manufacturers of the drugs. Prior to establishing the procedures and requirements, the Secretary of Health and Human Services shall consult with patient advocacy groups, professional associations, manufacturers, and physicians and scientists licensed to make or use positron emission tomography drugs.
 
 >     “(2) __Submission of new drug applications and abbreviated new drug applications.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Except as provided in subparagraph (B), the Secretary of Health and Human Services shall not require the submission of new drug applications or abbreviated new drug applications under subsection (b) or (j) of section 505 ([21 U.S.C. 355][/us/usc/t21/s355]), for compounded positron emission tomography drugs that are not adulterated drugs described in section 501(a)(2)(C) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 351(a)(2)(C)][/us/usc/t21/s351/a/2/C]) (as amended by subsection (b)), for a period of 4 years after the date of enactment of this Act \[Nov. 21, 1997\], or for 2 years after the date on which the Secretary establishes procedures and requirements under paragraph (1), whichever is longer.
 
->         “(B) __Exception.—__ 
+>         “(B)  __Exception__  __.—__ 
 
 >         Nothing in this Act \[see Short Title of 1997 Amendment note set out under [section 301 of this title][/us/usc/t21/s301]\] shall prohibit the voluntary submission of such applications or the review of such applications by the Secretary of Health and Human Services. Nothing in this Act shall constitute an exemption for a positron emission tomography drug from the requirements of regulations issued under section 505(i) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355(i)][/us/usc/t21/s355/i]).”
 
@@ -2039,19 +2039,19 @@
 
 >         “(1) __Regulations.—__ 
 
->             “(A) __Proposed regulations.—__ 
+>             “(A)  __Proposed regulations__  __.—__ 
 
 >             Not later than 180 days after the date of enactment of this Act \[Nov. 21, 1997\], the Secretary of Health and Human Services, after consultation with patient advocacy groups, associations, physicians licensed to use radiopharmaceuticals, and the regulated industry, shall issue proposed regulations governing the approval of radiopharmaceuticals. The regulations shall provide that the determination of the safety and effectiveness of such a radiopharmaceutical under section 505 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355][/us/usc/t21/s355]) or section 351 of the Public Health Service Act ([42 U.S.C. 262][/us/usc/t42/s262]) shall include consideration of the proposed use of the radiopharmaceutical in the practice of medicine, the pharmacological and toxicological activity of the radiopharmaceutical (including any carrier or ligand component of the radiopharmaceutical), and the estimated absorbed radiation dose of the radiopharmaceutical.
 
->             “(B) __Final regulations.—__ 
+>             “(B)  __Final regulations__  __.—__ 
 
 >             Not later than 18 months after the date of enactment of this Act, the Secretary shall promulgate final regulations governing the approval of the radiopharmaceuticals.
 
->         “(2) __Special rule.—__ 
+>         “(2)  __Special rule__  __.—__ 
 
 >         In the case of a radiopharmaceutical, the indications for which such radiopharmaceutical is approved for marketing may, in appropriate cases, refer to manifestations of disease (such as biochemical, physiological, anatomic, or pathological processes) common to, or present in, one or more disease states.
 
->     “(b) __Definition.—__ 
+>     “(b)  __Definition__  __.—__ 
 
 >     In this section, the term ‘radiopharmaceutical’ means—
 
@@ -2083,11 +2083,11 @@
 
 [Pub. L. 105–115, title I, § 125(d)][/us/pl/105/115/s125/d], Nov. 21, 1997, [111 Stat. 2326][/us/stat/111/2326], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     An application that was approved by the Secretary of Health and Human Services before the date of the enactment of this Act \[Nov. 21, 1997\] for the marketing of an antibiotic drug under section 507 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 357][/us/usc/t21/s357]), as in effect on the day before the date of the enactment of this Act, shall, on and after such date of enactment, be considered to be an application that was submitted and filed under section 505(b) of such Act ([21 U.S.C. 355(b)][/us/usc/t21/s355/b]) and approved for safety and effectiveness under section 505(c) of such Act ([21 U.S.C. 355(c)][/us/usc/t21/s355/c]), except that if such application for marketing was in the form of an abbreviated application, the application shall be considered to have been filed and approved under section 505(j) of such Act ([21 U.S.C. 355(j)][/us/usc/t21/s355/j]).
 
->     “(2) __Exception.—__ 
+>     “(2)  __Exception__  __.—__ 
 
 >     The following subsections of section 505 ([21 U.S.C. 355][/us/usc/t21/s355]) shall not apply to any application for marketing in which the drug that is the subject of the application contains an antibiotic drug and the antibiotic drug was the subject of any application for marketing received by the Secretary of Health and Human Services under section 507 of such Act ([21 U.S.C. 357][/us/usc/t21/s357]) before the date of the enactment of this Act \[Nov. 21, 1997\]:
 
@@ -2099,7 +2099,7 @@
 
 >         “(B) Subsections (b)(2)(A), (b)(2)(B), (b)(3), and (c)(3) if the investigations relied upon by the applicant for approval of the application were not conducted by or for the applicant and for which the applicant has not obtained a right of reference or use from the person by or for whom the investigations were conducted.
 
->     “(3) __Publication.—__ 
+>     “(3)  __Publication__  __.—__ 
 
 >     For purposes of this section, the Secretary is authorized to make available to the public the established name of each antibiotic drug that was the subject of any application for marketing received by the Secretary for Health and Human Services under section 507 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 357][/us/usc/t21/s357]) before the date of enactment of this Act \[Nov. 21, 1997\].”
 

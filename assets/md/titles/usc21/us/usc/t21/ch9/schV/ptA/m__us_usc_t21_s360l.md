@@ -89,11 +89,11 @@
 
 [Pub. L. 107–250, title II, § 212][/us/pl/107/250/s212], Oct. 26, 2002, [116 Stat. 1614][/us/stat/116/1614], as amended by [Pub. L. 108–214, § 2(d)(3)(C)][/us/pl/108/214/s2/d/3/C], Apr. 1, 2004, [118 Stat. 577][/us/stat/118/577], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Health and Human Services (referred to in this section as the ‘Secretary’) shall request the Institute of Medicine to enter into an agreement with the Secretary under which such Institute conducts a study for the purpose of determining whether the system under the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 301][/us/usc/t21/s301] et seq.\] for the postmarket surveillance of medical devices provides adequate safeguards regarding the use of devices in pediatric populations.
 
->     “(b) __Certain Matters.—__ 
+>     “(b)  __Certain Matters__  __.—__ 
 
 >     The Secretary shall ensure that determinations made in the study under subsection (a) include determinations of—
 
@@ -101,7 +101,7 @@
 
 >         “(2) whether the postmarket surveillance by the Food and Drug Administration of medical devices used in pediatric populations is sufficient to provide adequate safeguards for such populations, taking into account the Secretary’s monitoring of commitments made at the time of approval of medical devices and the Secretary’s monitoring and use of adverse reaction reports, registries, and other postmarket surveillance activities.
 
->     “(c) __Report to Congress.—__ 
+>     “(c)  __Report to Congress__  __.—__ 
 
 >     The Secretary shall ensure that, not later than four years after the date of the enactment of this Act \[Oct. 26, 2002\], a report describing the findings of the study under subsection (a) is submitted to the Congress. The report shall include any recommendations of the Secretary for administrative or legislative changes to the system of postmarket surveillance referred to in such subsection.”
 

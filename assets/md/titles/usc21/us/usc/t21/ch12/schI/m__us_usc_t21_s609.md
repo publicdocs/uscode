@@ -41,11 +41,11 @@
 
 [Pub. L. 99–641, title IV, § 408][/us/pl/99/641/s408], Nov. 10, 1986, [100 Stat. 3571][/us/stat/100/3571], provided that:
 
->     “(a) __General Effective Date.—__ 
+>     “(a)  __General Effective Date__  __.—__ 
 
 >     Except as provided in subsection (b) of this section, this title and the amendments made by this title \[amending this section and sections 606, 621, 671, and 676 of this title and enacting provisions set out as notes under this section and sections 606, 621, 671, and 676 of this title\] shall become effective on the date of the enactment of this Act \[Nov. 10, 1986\].
 
->     “(b) __Temporary Application of Existing Law.—__ 
+>     “(b)  __Temporary Application of Existing Law__  __.—__ 
 
 >     Sections 6, 9, and 21 of the Federal Meat Inspection Act ([21 U.S.C. 606][/us/usc/t21/s606], 609, and 621), as in effect immediately before the date of the enactment of this Act \[Nov. 10, 1986\], shall apply with respect to establishments until the Secretary of Agriculture first issues rules and regulations to implement the amendments made by section 403(a) \[amending [section 606 of this title][/us/usc/t21/s606]\].”
 

@@ -229,11 +229,11 @@
 
 [Pub. L. 105–115, title III, § 308][/us/pl/105/115/s308], Nov. 21, 1997, [111 Stat. 2353][/us/stat/111/2353], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary may not implement any requirement which would ban, as an unapproved food additive, lead and cadmium based enamel in the lip and rim area of glass and ceramic ware before the expiration of one year after the date such requirement is published.
 
->     “(b) __Lead and Cadmium Based Enamel.—__ 
+>     “(b)  __Lead and Cadmium Based Enamel__  __.—__ 
 
 >     Unless the Secretary determines, based on available data, that lead and cadmium based enamel on glass and ceramic ware—
 

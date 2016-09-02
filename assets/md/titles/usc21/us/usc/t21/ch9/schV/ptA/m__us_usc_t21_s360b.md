@@ -755,11 +755,11 @@
 
 [Pub. L. 104–250, § 2(e)][/us/pl/104/250/s2/e], Oct. 9, 1996, [110 Stat. 3154][/us/stat/110/3154], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Not later than 6 months after the date of enactment of this Act \[Oct. 9, 1996\], the Secretary of Health and Human Services shall issue proposed regulations implementing the amendments made by this Act as described in paragraph (2)(A) of this subsection, and not later than 18 months after the date of enactment of this Act, the Secretary shall issue final regulations implementing such amendments. Not later than 12 months after the date of enactment of this Act, the Secretary shall issue proposed regulations implementing the other amendments made by this Act as described in paragraphs (2)(B) and (2)(C) of this subsection, and not later than 24 months after the date of enactment of this Act, the Secretary shall issue final regulations implementing such amendments.
 
->     “(2) __Contents.—__ 
+>     “(2)  __Contents__  __.—__ 
 
 >     In issuing regulations implementing the amendments made by this Act \[see Short Title of 1996 Amendments note set out under [section 301 of this title][/us/usc/t21/s301]\], and in taking an action to review an application for approval of a new animal drug under section 512 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 360b][/us/usc/t21/s360b]), or a request for an investigational exemption for a new animal drug under subsection (j) of such section, that is pending or has been submitted prior to the effective date of the regulations, the Secretary shall—
 
@@ -777,11 +777,11 @@
 
 [Pub. L. 100–670, title I, § 103][/us/pl/100/670/s103], Nov. 16, 1988, [102 Stat. 3982][/us/stat/102/3982], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     The Secretary of Health and Human Services shall promulgate, in accordance with the notice and comment requirements of [section 553 of title 5][/us/usc/t5/s553], United States Code, such regulations as may be necessary for the administration of section 512 of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 360b][/us/usc/t21/s360b]\], as amended by sections 101 through 103 of this title, within one year of the date of enactment of this Act \[Nov. 16, 1988\].
 
->     “(b) __Transition.—__ 
+>     “(b)  __Transition__  __.—__ 
 
 >     During the period beginning 60 days after the date of enactment of this Act \[Nov. 16, 1988\] and ending on the date regulations promulgated under subsection (a) take effect, abbreviated new animal drug applications may be submitted in accordance with the provisions of section 314.55 and part 320 of title 21 of the Code of Federal Regulations and shall be considered as suitable for any drug which has been approved for safety and effectiveness under section 512(c) of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 360b(c)][/us/usc/t21/s360b/c]\] before the date of enactment of this Act. If any such provision of section 314.55 or part 320 is inconsistent with the requirements of section 512 of the Federal Food, Drug, and Cosmetic Act (as amended by this title), the Secretary shall consider the application under the applicable requirements of section 512 (as so amended).”
 
@@ -789,11 +789,11 @@
 
 [Pub. L. 110–316, title I, § 105(b)][/us/pl/110/316/s105/b], (c), Aug. 14, 2008, [122 Stat. 3514][/us/stat/122/3514], provided that:
 
->     “(b) __First Report.—__ 
+>     “(b)  __First Report__  __.—__ 
 
 >     For each new animal drug that is subject to the reporting requirement under section 512(l)(3) of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 360b][/us/usc/t21/s360b](l)(3)\], as added by subsection (a), and for which an approval of an application filed pursuant to section 512(b) or 571 of such Act \[[21 U.S.C. 360b(b)][/us/usc/t21/s360b/b], 360ccc\] is in effect on the date of the enactment of this title \[Aug. 14, 2008\], the Secretary of Health and Human Services shall require the sponsor of the drug to submit the first report under such section 512(l)(3) for the drug not later than March 31, 2010.
 
->     “(c) __Separate Report.—__ 
+>     “(c)  __Separate Report__  __.—__ 
 
 >     The reports required under section 512(l)(3) of the Federal Food, Drug, and Cosmetic Act, as added by subsection (a), shall be separate from periodic drug experience reports that are required under section 514.80(b)(4) of title 21, Code of Federal Regulations (as in effect on the date of the enactment of this title).”
 

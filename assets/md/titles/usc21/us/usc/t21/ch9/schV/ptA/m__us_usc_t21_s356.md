@@ -155,7 +155,7 @@
 
 [Pub. L. 112–144, title IX, § 901(a)][/us/pl/112/144/s901/a], July 9, 2012, [126 Stat. 1082][/us/stat/126/1082], provided that:
 
->     “(1) __Findings.—__ 
+>     “(1)  __Findings__  __.—__ 
 
 >     Congress finds as follows:
 
@@ -169,7 +169,7 @@
 
 >         “(E) For these reasons, the statutory authority in effect on the day before the date of enactment of this Act \[July 9, 2012\] governing expedited approval of drugs for serious or life-threatening diseases or conditions should be amended in order to enhance the authority of the FDA to consider appropriate scientific data, methods, and tools, and to expedite development and access to novel treatments for patients with a broad range of serious or life-threatening diseases or conditions.
 
->     “(2) __Sense of congress.—__ 
+>     “(2)  __Sense of congress__  __.—__ 
 
 >     It is the sense of Congress that the Food and Drug Administration should apply the accelerated approval and fast track provisions set forth in section 506 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 356][/us/usc/t21/s356]), as amended by this section, to help expedite the development and availability to patients of treatments for serious or life-threatening diseases or conditions while maintaining safety and effectiveness standards for such treatments.”
 
@@ -177,11 +177,11 @@
 
 [Pub. L. 112–144, title IX, § 901(c)][/us/pl/112/144/s901/c], July 9, 2012, [126 Stat. 1085][/us/stat/126/1085], provided that:
 
->     “(1) __Draft guidance.—__ 
+>     “(1)  __Draft guidance__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[July 9, 2012\], the Secretary of Health and Human Services (referred to in this section as the ‘Secretary’) shall issue draft guidance to implement the amendments made by this section \[amending this section\]. In developing such guidance, the Secretary shall specifically consider issues arising under the accelerated approval and fast track processes under section 506 of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 356][/us/usc/t21/s356]\], as amended by subsection (b), for drugs designated for a rare disease or condition under section 526 of such Act ([21 U.S.C. 360bb][/us/usc/t21/s360bb]) and shall also consider any unique issues associated with very rare diseases.
 
->     “(2) __Final guidance.—__ 
+>     “(2)  __Final guidance__  __.—__ 
 
 >     Not later than 1 year after the issuance of draft guidance under paragraph (1), and after an opportunity for public comment, the Secretary shall—
 
@@ -189,15 +189,15 @@
 
 >         “(B) amend the regulations governing accelerated approval in parts 314 and 601 of title 21, Code of Federal Regulations, as necessary to conform such regulations with the amendment made by subsection (b).
 
->     “(3) __Consideration.—__ 
+>     “(3)  __Consideration__  __.—__ 
 
 >     In developing the guidance under paragraphs (1) and (2)(A) and the amendments under paragraph (2)(B), the Secretary shall consider how to incorporate novel approaches to the review of surrogate endpoints based on pathophysiologic and pharmacologic evidence in such guidance, especially in instances where the low prevalence of a disease renders the existence or collection of other types of data unlikely or impractical.
 
->     “(4) __Conforming changes.—__ 
+>     “(4)  __Conforming changes__  __.—__ 
 
 >     The Secretary shall issue, as necessary, conforming amendments to the applicable regulations under title 21, Code of Federal Regulations, governing accelerated approval.
 
->     “(5) __No effect of inaction on requests.—__ 
+>     “(5)  __No effect of inaction on requests__  __.—__ 
 
 >     The issuance (or nonissuance) of guidance or conforming regulations implementing the amendment made by subsection (b) shall not preclude the review of, or action on, a request for designation or an application for approval submitted pursuant to section 506 of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 356][/us/usc/t21/s356]\], as amended by subsection (b).”
 
@@ -205,17 +205,17 @@
 
 >     “(1) __In general.—__ 
 
->         “(A) __Guidance.—__ 
+>         “(A)  __Guidance__  __.—__ 
 
 >         Not later than 18 months after the date of enactment of this Act \[July 9, 2012\], the Secretary of Health and Human Services (referred to in this section as the ‘Secretary’) shall issue draft guidance on implementing the requirements with respect to breakthrough therapies, as set forth in section 506(a) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 356(a)][/us/usc/t21/s356/a]), as amended by this section. The Secretary shall issue final guidance not later than 1 year after the close of the comment period for the draft guidance.
 
 >         “(B) __Amended regulations.—__ 
 
->             “(i) __In general.—__ 
+>             “(i)  __In general__  __.—__ 
 
 >             If the Secretary determines that it is necessary to amend the regulations under title 21, Code of Federal Regulations in order to implement the amendments made by this section to section 506(a) of the Federal Food, Drug, and Cosmetic Act, the Secretary shall amend such regulations not later than 2 years after the date of enactment of this Act.
 
->             “(ii) __Procedure.—__ 
+>             “(ii)  __Procedure__  __.—__ 
 
 >             In amending regulations under clause (i), the Secretary shall—
 
@@ -225,11 +225,11 @@
 
 >                 “(III) publish the final regulation not less than 30 days before the effective date of the regulation.
 
->             “(iii) __Restrictions.—__ 
+>             “(iii)  __Restrictions__  __.—__ 
 
 >             Notwithstanding any other provision of law, the Secretary shall promulgate regulations implementing the amendments made by this section only as described in clause (ii).
 
->     “(2) __Requirements.—__ 
+>     “(2)  __Requirements__  __.—__ 
 
 >     Guidance issued under this section shall—
 

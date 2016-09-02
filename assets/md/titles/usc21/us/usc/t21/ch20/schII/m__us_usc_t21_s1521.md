@@ -147,11 +147,11 @@
 
 [Pub. L. 107–82, § 4][/us/pl/107/82/s4], Dec. 14, 2001, [115 Stat. 821][/us/stat/115/821], as amended by [Pub. L. 109–469, title VIII, § 805][/us/pl/109/469/s805], Dec. 29, 2006, [120 Stat. 3535][/us/stat/120/3535], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Director of the Office of National Drug Control Policy shall, using amounts authorized to be appropriated by subsection (d), make a directed grant to Community Anti-Drug Coalitions of America to provide for the continuation of the National Community Anti-drug Coalition Institute.
 
->     “(b) __Use of Grant Amount.—__ 
+>     “(b)  __Use of Grant Amount__  __.—__ 
 
 >     The organization receiving the grant under subsection (a) shall establish a National Community Antidrug Coalition Institute to—
 
@@ -161,7 +161,7 @@
 
 >         “(3) bridge the gap between research and practice by translating knowledge from research into practical information.
 
->     “(c) __Authorization of Appropriations.—__ 
+>     “(c)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated for purposes of activities under this section, including the grant under subsection (a), amounts as follows:
 

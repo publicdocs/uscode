@@ -205,7 +205,7 @@
 
 [Pub. L. 107–250, title I, § 103][/us/pl/107/250/s103], Oct. 26, 2002, [116 Stat. 1600][/us/stat/116/1600], as amended by [Pub. L. 109–43, § 2(b)][/us/pl/109/43/s2/b], Aug. 1, 2005, [119 Stat. 441][/us/stat/119/441], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Beginning with fiscal year 2003, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate a report concerning—
 
@@ -213,7 +213,7 @@
 
 >         “(2) the implementation of the authority for such fees during such fiscal year, and the use, by the Food and Drug Administration, of the fees collected during such fiscal year, not later than 120 days after the end of each fiscal year during which fees are collected under the medical device user-fee program established under the amendment made by section 102 \[enacting this subpart\].
 
->     “(b) __Additional Information.—__ 
+>     “(b)  __Additional Information__  __.—__ 
 
 >     For fiscal years 2006 and 2007, the report described under subsection (a)(2) shall include—
 
@@ -229,11 +229,11 @@
 
 [Pub. L. 107–250, title I, § 105][/us/pl/107/250/s105], Oct. 26, 2002, [116 Stat. 1601][/us/stat/116/1601], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     In developing recommendations to the Congress for the goals and plans for meeting the goals for the process for the review of medical device applications for fiscal years after fiscal year 2007, and for the reauthorization of sections 737 and 738 of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 379i][/us/usc/t21/s379i], 379j\], the Secretary of Health and Human Services (referred to in this section as the ‘Secretary’) shall consult with the Committee on Energy and Commerce of the House of Representatives, the Committee on Health, Education, Labor, and Pensions of the Senate, appropriate scientific and academic experts, health care professionals, representatives of patient and consumer advocacy groups, and the regulated industry.
 
->     “(b) __Recommendations.—__ 
+>     “(b)  __Recommendations__  __.—__ 
 
 >     The Secretary shall publish in the Federal Register recommendations under subsection (a), after negotiations with the regulated industry; shall present such recommendations to the congressional committees specified in such paragraph; shall hold a meeting at which the public may present its views on such recommendations; and shall provide for a period of 30 days for the public to provide written comments on such recommendations.”
 

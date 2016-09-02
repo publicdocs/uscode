@@ -197,7 +197,7 @@
 
 [Pub. L. 111–353, title I, § 114][/us/pl/111/353/s114], Jan. 4, 2011, [124 Stat. 3921][/us/stat/124/3921], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 90 days prior to the issuance of any guidance, regulation, or suggested amendment by the Food and Drug Administration to the National Shellfish Sanitation Program’s Model Ordinance, or the issuance of any guidance or regulation by the Food and Drug Administration relating to the Seafood Hazard Analysis Critical Control Points Program of the Food and Drug Administration (parts 123 and 1240 of title 21, Code of Federal Regulations (or any successor regulations)\[)\], where such guidance, regulation or suggested amendment relates to post harvest processing for raw oysters, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report which shall include—
 
@@ -215,11 +215,11 @@
 
 >         “(7) the extent to which the Food and Drug Administration has consulted with the States and other regulatory agencies, as appropriate, with regard to post harvest processing measures.
 
->     “(b) __Limitation.—__ 
+>     “(b)  __Limitation__  __.—__ 
 
 >     Subsection (a) shall not apply to the guidance described in section 103(h) \[[section 103(h) of Pub. L. 111–353][/us/pl/111/353/s103/h], set out as a note above\].
 
->     “(c) __Review and Evaluation.—__ 
+>     “(c)  __Review and Evaluation__  __.—__ 
 
 >     Not later than 30 days after the Secretary issues a proposed regulation or guidance described in subsection (a), the Comptroller General of the United States shall—
 
@@ -229,11 +229,11 @@
 
 >         “(3) evaluate the impact of post harvest processing on the competitiveness of the domestic oyster industry in the United States and in international markets.
 
->     “(d) __Waiver.—__ 
+>     “(d)  __Waiver__  __.—__ 
 
 >     The requirement of preparing a report under subsection (a) shall be waived if the Secretary issues a guidance that is adopted as a consensus agreement between Federal and State regulators and the oyster industry, acting through the Interstate Shellfish Sanitation Conference.
 
->     “(e) __Public Access.—__ 
+>     “(e)  __Public Access__  __.—__ 
 
 >     Any report prepared under this section shall be made available to the public.”
 

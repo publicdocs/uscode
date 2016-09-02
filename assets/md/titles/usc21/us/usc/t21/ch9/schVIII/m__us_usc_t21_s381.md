@@ -553,11 +553,11 @@
 
 [Pub. L. 112–144, title VII, § 708(d)][/us/pl/112/144/s708/d], July 9, 2012, [126 Stat. 1069][/us/stat/126/1069], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Not later than 2 years after the date of enactment of this Act \[July 9, 2012\], the Secretary of Health and Human Services shall adopt final regulations implementing the amendments made this section \[amending this section\].
 
->     “(2) __Procedure.—__ 
+>     “(2)  __Procedure__  __.—__ 
 
 >     In promulgating a regulation implementing the amendments made by this section, the Secretary of Health and Human Services shall—
 
@@ -567,19 +567,19 @@
 
 >         “(C) publish the final regulation not less than 30 days before the effective date of the regulation.
 
->     “(3) __Restrictions.—__ 
+>     “(3)  __Restrictions__  __.—__ 
 
 >     Notwithstanding any other provision of law, the Secretary of Health and Human Services shall promulgate regulations implementing the amendments made by this section only as described in paragraph (2).”
 
 [Pub. L. 112–144, title VII, § 714(d)][/us/pl/112/144/s714/d], July 9, 2012, [126 Stat. 1074][/us/stat/126/1074], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Not later than 36 months after the date of the enactment of this Act \[July 9, 2012\], the Secretary of Health and Human Services, in consultation with the Secretary of Homeland Security acting through U.S. Customs and Border Protection, shall promulgate the regulations required to carry out section 801(s) of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 381(s)][/us/usc/t21/s381/s]\], as added by subsection (b).
 
 >     “(2) __Procedures for promulgating regulations.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         In promulgating a regulation under paragraph (1), the Secretary shall—
 
@@ -589,11 +589,11 @@
 
 >             “(iii) publish the final regulation not less than 30 days before the regulation’s effective date.
 
->         “(B) __Restrictions.—__ 
+>         “(B)  __Restrictions__  __.—__ 
 
 >         Notwithstanding any other provision of Federal law, in implementing section 801(s) of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 381(s)][/us/usc/t21/s381/s]\], as added by subsection (b), the Secretary shall promulgate regulations only as described in subparagraph (A).
 
->     “(3) __Effective date.—__ 
+>     “(3)  __Effective date__  __.—__ 
 
 >     In establishing the effective date of the regulations under paragraph (1), the Secretary of Health and Human Services shall, in consultation with the Secretary of Homeland Security acting through U.S. Customs and Border Protection, as determined appropriate by the Secretary of Health and Human Services, provide a reasonable period of time for an importer of a drug to comply with good importer practices, taking into account differences among importers and types of imports, including based on the level of risk posed by the imported product.”
 
@@ -603,7 +603,7 @@
 
 [Pub. L. 107–188, title III, § 307(c)][/us/pl/107/188/s307/c], June 12, 2002, [116 Stat. 672][/us/stat/116/672], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Not later than 18 months after the date of the enactment of this Act \[June 12, 2002\], the Secretary of Health and Human Services shall promulgate proposed and final regulations for the requirement of providing notice in accordance with section 801(m) of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 381(m)][/us/usc/t21/s381/m]\] (as added by subsection (a) of this section). Such requirement of notification takes effect—
 
@@ -611,7 +611,7 @@
 
 >         “(B) upon the expiration of such 18-month period if the final regulations have not been made effective as of the expiration of such period, subject to compliance with the final regulations when the final regulations are made effective.
 
->     “(2) __Default; minimum period of advance notice.—__ 
+>     “(2)  __Default; minimum period of advance notice__  __.—__ 
 
 >     If under paragraph (1) the requirement for providing notice in accordance with section 801(m) of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 381(m)][/us/usc/t21/s381/m]\] takes effect without final regulations having been made effective, then for purposes of such requirement, the specified period of time that the notice is required to be made in advance of the time of the importation of the article of food involved or the offering of the food for import shall be not fewer than eight hours and not more than five days, which shall remain in effect until the final regulations are made effective.”
 

@@ -159,11 +159,11 @@
 
 >     “(a) __Public Accountability.—__ 
 
->         “(1) __Consultation.—__ 
+>         “(1)  __Consultation__  __.—__ 
 
 >         In developing recommendations to Congress for the goals and plans for meeting the goals for the process for the review of animal drug applications for the fiscal years after fiscal year 2008, and for the reauthorization of sections 739 and 740 of the Federal Food, Drug, and Cosmetic Act (as added by section 3) \[[21 U.S.C. 379j–11][/us/usc/t21/s379j–11], 379j–12\], the Secretary of Health and Human Services (referred to in this section as the ‘Secretary’) shall consult with the Committee on Energy and Commerce of the House of Representatives, the Committee on Health, Education, Labor, and Pensions of the Senate, appropriate scientific and academic experts, veterinary professionals, representatives of consumer advocacy groups, and the regulated industry.
 
->         “(2) __Recommendations.—__ 
+>         “(2)  __Recommendations__  __.—__ 
 
 >         The Secretary shall—
 
@@ -175,11 +175,11 @@
 
 >             “(D) provide for a period of 30 days for the public to provide written comments on the recommendations.
 
->     “(b) __Performance Reports.—__ 
+>     “(b)  __Performance Reports__  __.—__ 
 
 >     Beginning with fiscal year 2004, not later than 60 days after the end of each fiscal year during which fees are collected under part 4 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 379j–11][/us/usc/t21/s379j–11] et seq.\], the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 2(3) of this Act \[set out as a note above\] toward expediting the animal drug development process and the review of the new and supplemental animal drug applications and investigational animal drug submissions during such fiscal year, the future plans of the Food and Drug Administration for meeting the goals, the review times for abbreviated new animal drug applications, and the administrative procedures adopted by the Food and Drug Administration to ensure that review times for abbreviated new animal drug applications are not increased from their current level due to activities under the user fee program.
 
->     “(c) __Fiscal Report.—__ 
+>     “(c)  __Fiscal Report__  __.—__ 
 
 >     Beginning with fiscal year 2004, not later than 120 days after the end of each fiscal year during which fees are collected under the part described in subsection (b), the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected during such fiscal year for which the report is made.”
 

@@ -275,7 +275,7 @@
 
 > “SEC. 6. __DEVELOPMENT OF MODEL PROTOCOLS, TRAINING MATERIALS, FORENSIC FIELD TESTS, AND COORDINATION MECHANISM FOR INVESTIGATIONS AND PROSECUTIONS RELATING TO GAMMA HYDROXYBUTYRIC ACID, OTHER CONTROLLED SUBSTANCES, AND DESIGNER DRUGS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Attorney General, in consultation with the Administrator of the Drug Enforcement Administration and the Director of the Federal Bureau of Investigation, shall—
 
@@ -291,21 +291,21 @@
 
 >     “(b) __Grant.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Attorney General shall make a grant, in such amount and to such public or private person or entity as the Attorney General considers appropriate, for the development of forensic field tests to assist law enforcement officials in detecting the presence of gamma hydroxybutyric acid and related substances.
 
->         “(2) __Authorization of appropriations.—__ 
+>         “(2)  __Authorization of appropriations__  __.—__ 
 
 >         There are authorized to be appropriated such sums as may be necessary to carry out this subsection.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Feb. 18, 2000\], the Attorney General shall submit to the Committees on the Judiciary of the Senate and House of Representatives a report on current mechanisms for coordinating Federal, State, and local investigations into and prosecutions related to possible violations of the Controlled Substances Act \[[21 U.S.C. 801][/us/usc/t21/s801] et seq.\] or other Federal or State laws that result in or contribute to rape, other crimes of violence, or other crimes involving the abuse of gamma hydroxybutyric acid, other controlled substances, or so-called ‘designer drugs’. The report shall also include recommendations for the improvement of such mechanisms.
 
 > “SEC. 7. __ANNUAL REPORT REGARDING DATE-RAPE DRUGS; NATIONAL AWARENESS CAMPAIGN.__ 
 
->     “(a) __Annual Report.—__ 
+>     “(a)  __Annual Report__  __.—__ 
 
 >     The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall periodically submit to Congress reports each of which provides an estimate of the number of incidents of the abuse of date-rape drugs (as defined in subsection (c)) that occurred during the most recent 1-year period for which data are available. The first such report shall be submitted not later than January 15, 2000, and subsequent reports shall be submitted annually thereafter.
 
@@ -313,7 +313,7 @@
 
 >         “(1) __Development of plan; recommendations of advisory committee.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Secretary, in consultation with the Attorney General, shall develop a plan for carrying out a national campaign to educate individuals described in subparagraph (B) on the following:
 
@@ -325,19 +325,19 @@
 
 >                 “(iv) Appropriately responding when an individual has such symptoms.
 
->             “(B) __Intended population.—__ 
+>             “(B)  __Intended population__  __.—__ 
 
 >             The individuals referred to in subparagraph (A) are young adults, youths, law enforcement personnel, educators, school nurses, counselors of rape victims, and emergency room personnel in hospitals.
 
->             “(C) __Advisory committee.—__ 
+>             “(C)  __Advisory committee__  __.—__ 
 
 >             Not later than 180 days after the date of the enactment of this Act \[Feb. 18, 2000\], the Secretary shall establish an advisory committee to make recommendations to the Secretary regarding the plan under subparagraph (A). The committee shall be composed of individuals who collectively possess expertise on the effects of date-rape drugs and on detecting and controlling the drugs.
 
->         “(2) __Implementation of plan.—__ 
+>         “(2)  __Implementation of plan__  __.—__ 
 
 >         Not later than 180 days after the date on which the advisory committee under paragraph (1) is established, the Secretary, in consultation with the Attorney General, shall commence carrying out the national campaign under such paragraph in accordance with the plan developed under such paragraph. The campaign may be carried out directly by the Secretary and through grants and contracts.
 
->     “(c) __Definition.—__ 
+>     “(c)  __Definition__  __.—__ 
 
 >     For purposes of this section, the term ‘date-rape drugs’ means gamma hydroxybutyric acid and its salts, isomers, and salts of isomers and such other drugs or substances as the Secretary, after consultation with the Attorney General, determines to be appropriate.”
 
@@ -371,7 +371,7 @@
 
 [Pub. L. 104–237, title V, § 501][/us/pl/104/237/s501], Oct. 3, 1996, [110 Stat. 3111][/us/stat/110/3111], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     There is established a ‘Methamphetamine Interagency Task Force’ (referred to as the ‘interagency task force’) which shall consist of the following members:
 
@@ -389,23 +389,23 @@
 
 >         “(7) 5 nongovernmental experts in drug abuse prevention and treatment to be selected by the Attorney General.
 
->     “(b) __Responsibilities.—__ 
+>     “(b)  __Responsibilities__  __.—__ 
 
 >     The interagency task force shall be responsible for designing, implementing, and evaluating the education and prevention and treatment practices and strategies of the Federal Government with respect to methamphetamine and other synthetic stimulants.
 
->     “(c) __Meetings.—__ 
+>     “(c)  __Meetings__  __.—__ 
 
 >     The interagency task force shall meet at least once every 6 months.
 
->     “(d) __Funding.—__ 
+>     “(d)  __Funding__  __.—__ 
 
 >     The administrative expenses of the interagency task force shall be paid out of existing Department of Justice appropriations.
 
->     “(e) __FACA.—__ 
+>     “(e)  __FACA__  __.—__ 
 
 >     The Federal Advisory Committee Act (5 U.S.C. App. 2) \[5 U.S.C. App.\] shall apply to the interagency task force.
 
->     “(f) __Termination.—__ 
+>     “(f)  __Termination__  __.—__ 
 
 >     The interagency task force shall terminate 4 years after the date of enactment of this Act \[Oct. 3, 1996\].”
 
@@ -413,7 +413,7 @@
 
 [Pub. L. 104–237, title V, § 504][/us/pl/104/237/s504], Oct. 3, 1996, [110 Stat. 3112][/us/stat/110/3112], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Attorney General shall establish a ‘Suspicious Orders Task Force’ (the ‘Task Force’) which shall consist of—
 
@@ -421,27 +421,27 @@
 
 >         “(2) representatives from the chemical and pharmaceutical industry.
 
->     “(b) __Responsibilities.—__ 
+>     “(b)  __Responsibilities__  __.—__ 
 
 >     The Task Force shall be responsible for developing proposals to define suspicious orders of listed chemicals, and particularly to develop quantifiable parameters which can be used by registrants in determining if an order is a suspicious order which must be reported to DEA. The quantifiable parameters to be addressed will include frequency of orders, deviations from prior orders, and size of orders. The Task Force shall also recommend provisions as to what types of payment practices or unusual business practices shall constitute prima facie suspicious orders. In evaluating the proposals, the Task Force shall consider effectiveness, cost and feasibility for industry and government, and other relevant factors.
 
->     “(c) __Meetings.—__ 
+>     “(c)  __Meetings__  __.—__ 
 
 >     The Task Force shall meet at least two times per year and at such other times as may be determined necessary by the Task Force.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     The Task Force shall present a report to the Attorney General on its proposals with regard to suspicious orders and the electronic reporting of suspicious orders within one year of the date of enactment of this Act \[Oct. 3, 1996\]. Copies of the report shall be forwarded to the Committees of the Senate and House of Representatives having jurisdiction over the regulation of listed chemical and controlled substances.
 
->     “(e) __Funding.—__ 
+>     “(e)  __Funding__  __.—__ 
 
 >     The administrative expenses of the Task Force shall be paid out of existing Department of Justice funds or appropriations.
 
->     “(f) __FACA.—__ 
+>     “(f)  __FACA__  __.—__ 
 
 >     The Federal Advisory Committee Act (5 U.S.C. App. 2) \[5 U.S.C. App.\] shall apply to the Task Force.
 
->     “(g) __Termination.—__ 
+>     “(g)  __Termination__  __.—__ 
 
 >     The Task Force shall terminate upon presentation of its report to the Attorney General, or two years after the date of enactment of this Act \[Oct. 3, 1996\], whichever is sooner.”
 
@@ -449,15 +449,15 @@
 
 [Pub. L. 100–690, title II, § 2405][/us/pl/100/690/s2405], Nov. 18, 1988, [102 Stat. 4231][/us/stat/102/4231], provided that:
 
->     “(a) __Establishment of Task Force.—__ 
+>     “(a)  __Establishment of Task Force__  __.—__ 
 
 >     There is established the Joint Federal Task Force on Illegal Drug Laboratories (hereafter in this section referred to as the ‘Task Force’).
 
->     “(b) __Appointment and Membership of Task Force.—__ 
+>     “(b)  __Appointment and Membership of Task Force__  __.—__ 
 
 >     The members of the Task Force shall be appointed by the Administrators of the Environmental Protection Agency and the Drug Enforcement Administration (hereafter in this section referred to as the ‘Administrators’). The Task Force shall consist of at least 6 and not more than 20 members. Each Administrator shall appoint one-half of the members as follows: (1) the Administrator of the Environmental Protection Agency shall appoint members from among Emergency Response Technicians and other appropriate employees of the Agency; and (2) the Administrator of the Drug Enforcement Administration shall appoint members from among Special Agents assigned to field divisions and other appropriate employees of the Administration.
 
->     “(c) __Duties of Task Force.—__ 
+>     “(c)  __Duties of Task Force__  __.—__ 
 
 >     The Task Force shall formulate, establish, and implement a program for the cleanup and disposal of hazardous waste produced by illegal drug laboratories. In formulating such program, the Task Force shall consider the following factors:
 
@@ -471,7 +471,7 @@
 
 >         “(5) The dissemination of information to law enforcement agencies that have responsibility for enforcement of drug laws.
 
->     “(d) __Guidelines.—__ 
+>     “(d)  __Guidelines__  __.—__ 
 
 >     The Task Force shall recommend to the Administrators guidelines for cleanup of illegal drug laboratories to protect the public health and environment. Not later than 180 days after the date of the enactment of this subtitle \[Nov. 18, 1988\], the Administrators shall formulate and publish such guidelines.
 
@@ -483,11 +483,11 @@
 
 >         “(3) The Attorney General shall, through grant or contract, provide for independent evaluations of the activities carried out pursuant to this subsection and shall recommend appropriate legislation to the Congress.
 
->     “(f) __Funding.—__ 
+>     “(f)  __Funding__  __.—__ 
 
 >     Of the amounts made available to carry out the Controlled Substances Act \[[21 U.S.C. 801][/us/usc/t21/s801] et seq.\] for fiscal year 1989, not less than $5,000,000 shall be made available to carry out subsections (d) and (e).
 
->     “(g) __Reports.—__ 
+>     “(g)  __Reports__  __.—__ 
 
 >     After consultation with the Task Force, the Administrators shall—
 
@@ -501,11 +501,11 @@
 
 [Pub. L. 100–690, title VII, § 7404][/us/pl/100/690/s7404], Nov. 18, 1988, [102 Stat. 4484][/us/stat/102/4484], provided that:
 
->     “(a) __Interagency Agreement.—__ 
+>     “(a)  __Interagency Agreement__  __.—__ 
 
 >     The Secretary of Transportation and the Secretary of the Treasury shall enter into an agreement for the purpose of increasing the effectiveness of maritime drug interdiction activities of the Coast Guard and the Customs Service in the Great Lakes area.
 
->     “(b) __Negotiations With Canada on Drug Enforcement Cooperation.—__ 
+>     “(b)  __Negotiations With Canada on Drug Enforcement Cooperation__  __.—__ 
 
 >     The Secretary of State is encouraged to enter into negotiations with appropriate officials of the Government of Canada for the purpose of establishing an agreement between the United States and Canada which provides for increased cooperation and sharing of information between United States and Canadian law enforcement officials with respect to law enforcement efforts conducted on the Great Lakes between the United States and Canada.”
 
@@ -579,13 +579,13 @@
 
 >     “(a) __Authorization of Appropriations.—__ 
 
->         “(1) __Establishment of a united states-bahamas drug interdiction task force.—__ 
+>         “(1)  __Establishment of a united states-bahamas drug interdiction task force__  __.—__ 
 
 >             (A) There is authorized to be established a United States-Bahamas Drug Interdiction Task Force to be operated jointly by the United States Government and the Government of the Bahamas.
 
 >             “(B) The Secretary of State, the Commandant of the Coast Guard, the Commissioner of Customs, the Attorney General, and the head of the National Narcotics Border Interdiction System (NNBIS), shall upon enactment of this Act \[Oct. 27, 1986\], immediately commence negotiations with the Government of the Bahamas to enter into a detailed agreement for the establishment and operation of a new drug interdiction task force, including plans for (i) the joint operation and maintenance of any drug interdiction assets authorized for the task force in this section and section 3141 \[see [19 U.S.C. 2075][/us/usc/t19/s2075]\], and (ii) any training and personnel enhancements authorized in this section and section 3141.
 
->         “(2) __Amounts authorized.—__ 
+>         “(2)  __Amounts authorized__  __.—__ 
 
 >         There are authorized to be appropriated, in addition to any other amounts authorized to be appropriated in this title \[see [section 3001 of Pub. L. 99–570][/us/pl/99/570/s3001] set out above\], $10,000,000 for the following:
 
@@ -593,13 +593,13 @@
 
 >             “(B) $1,000,000 to enhance communications capabilities for the operation of a United States-­Bahamas Drug Interdiction Task Force established under this section.
 
->         “(3) __Coast guard-bahamas drug interdiction docking facility.—__ 
+>         “(3)  __Coast guard-bahamas drug interdiction docking facility__  __.—__ 
 
 >             (A) There is authorized to be appropriated for acquisition, construction, and improvements for the Coast Guard for fiscal year 1987, $5,000,000, to be used for initial design engineering, and other activities for construction of a drug interdiction docking facility in the Bahamas to facilitate Coast Guard and Bahamian drug interdiction operations in and through the Bahama Islands. Of the amounts authorized to be appropriated in this subsection, such sums as may be necessary shall be available for necessary communication and air support.
 
 >             “(B) The Commandant of the Coast Guard shall use such amounts appropriated pursuant to the authorization in this paragraph as may be necessary to establish a repair, maintenance, and boat lift facility to provide repair and maintenance services for both Coast Guard and Bahamian marine drug interdiction equipment, vessels, and related assets.
 
->     “(b) __Concurrence by Secretary of State.—__ 
+>     “(b)  __Concurrence by Secretary of State__  __.—__ 
 
 >     Programs authorized by this section may be carried out only with the concurrence of the Secretary of State.”
 
@@ -623,7 +623,7 @@
 
 [Pub. L. 99–570, title VI, § 6006][/us/pl/99/570/s6006], Oct. 27, 1986, [100 Stat. 3207–160][/us/stat/100/3207-160], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 
@@ -637,7 +637,7 @@
 
 >         “(5) the vast majority of health benefits plans provide only limited coverage for treatment of drug and alcohol addiction, which is a fact that can discourage the abuser from seeking treatment or, if the abuser does seek treatment, can cause the abuser to face significant out of pocket expenses for the treatment.
 
->     “(b) __Sense of Congress.—__ 
+>     “(b)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of Congress that—
 
@@ -649,7 +649,7 @@
 
 [Pub. L. 91–513, title II, § 601][/us/pl/91/513/s601], Oct. 27, 1970, [84 Stat. 1280][/us/stat/84/1280], as amended by [Pub. L. 92–13][/us/pl/92/13], May 14, 1971, [85 Stat. 37][/us/stat/85/37], provided that:
 
->     “(a) __\[Establishment; composition\] There is established a commission to be known as the Commission on Marihuana and Drug Abuse (hereafter in this section referred to as the ‘Commission’). The Commission shall be composed of—__ 
+>     “(a)  __\[Establishment; composition\]__  __There is established a commission to be known as the Commission on Marihuana and Drug Abuse (hereafter in this section referred to as the ‘Commission’). The Commission shall be composed of—__ 
 
 >         “(1) two Members of the Senate appointed by the President of the Senate;
 
@@ -659,7 +659,7 @@
 
 >         At no time shall more than one of the members appointed under paragraph (1), or more than one of the members appointed under paragraph (2), or more than five of the members appointed under paragraph (3) be members of the same political party.
 
->     “(b) __\[Chairman; Vice Chairman; compensation of members; meetings\]__ 
+>     “(b)  __\[Chairman; Vice Chairman; compensation of members; meetings\]__  
 
 >         (1) The President shall designate one of the members of the Commission as Chairman and one as Vice Chairman. Seven members of the Commission shall constitute a quorum, but a lesser number may conduct hearings.
 
@@ -667,7 +667,7 @@
 
 >         “(3) The Commission shall meet at the call of the Chairman or at the call of a majority of the members thereof.
 
->     “(c) __\[Personnel; experts; information from departments and agencies\]__ 
+>     “(c)  __\[Personnel; experts; information from departments and agencies\]__  
 
 >         (1) The Commission shall have the power to appoint and fix the compensation of such personnel as it deems advisable, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and the provisions of chapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates.
 
@@ -675,7 +675,7 @@
 
 >         “(3) The Commission may secure directly from any department or agency of the United States information necessary to enable it to carry out its duties under this section. Upon request of the Chairman of the Commission, such department or agency shall furnish such information to the Commission.
 
->     “(d) __\[Marihuana study; report to the President and the Congress\]__ 
+>     “(d)  __\[Marihuana study; report to the President and the Congress\]__  
 
 >         (1)
 
@@ -695,9 +695,9 @@
 
 >         “(2) Within one year after the date on which funds first become available to carry out this section, the Commission shall submit to the President and the Congress a comprehensive report on its study and investigation under this subsection which shall include its recommendations and such proposals for legislation and administrative action as may be necessary to carry out its recommendations.
 
->     “(e) __\[Study and investigation of causes of drug abuse; report to the President and the Congress; termination of Commission\] The Commission shall conduct a comprehensive study and investigation of the causes of drug abuse and their relative significance. The Commission shall submit to the President and the Congress such interim reports as it deems advisable and shall within two years after the date on which funds first become available to carry out this section submit to the President and the Congress a final report which shall contain a detailed statement of its findings and conclusions and also such recommendations for legislation and administrative actions as it deems appropriate. The Commission shall cease to exist sixty days after the final report is submitted under this subsection.__ 
+>     “(e)  __\[Study and investigation of causes of drug abuse; report to the President and the Congress; termination of Commission\]__  __The Commission shall conduct a comprehensive study and investigation of the causes of drug abuse and their relative significance. The Commission shall submit to the President and the Congress such interim reports as it deems advisable and shall within two years after the date on which funds first become available to carry out this section submit to the President and the Congress a final report which shall contain a detailed statement of its findings and conclusions and also such recommendations for legislation and administrative actions as it deems appropriate. The Commission shall cease to exist sixty days after the final report is submitted under this subsection.__ 
 
->     “(f) __\[Limitation on expenditures\] Total expenditures of the Commission shall not exceed $4,000,000.”__ 
+>     “(f)  __\[Limitation on expenditures\]__  __Total expenditures of the Commission shall not exceed $4,000,000.”__ 
 
  __Executive Order No. 11599__ 
 

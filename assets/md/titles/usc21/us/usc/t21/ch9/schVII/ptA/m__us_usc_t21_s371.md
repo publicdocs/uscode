@@ -143,7 +143,7 @@
 
 [Pub. L. 112–144, title XI, § 1143][/us/pl/112/144/s1143], July 9, 2012, [126 Stat. 1130][/us/stat/126/1130], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Food and Drug Administration may not issue any draft or final guidance on the regulation of laboratory-developed tests under the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 301][/us/usc/t21/s301] et seq.) without, at least 60 days prior to such issuance—
 
@@ -151,7 +151,7 @@
 
 >         “(2) including in such notification the anticipated details of such action.
 
->     “(b) __Sunset.—__ 
+>     “(b)  __Sunset__  __.—__ 
 
 >     Subsection (a) shall cease to have force or effect on the date that is 5 years after the date of enactment of this Act \[July 9, 2012\].”
 
@@ -159,11 +159,11 @@
 
 [Pub. L. 105–115, title IV, § 403][/us/pl/105/115/s403], Nov. 21, 1997, [111 Stat. 2367][/us/stat/111/2367], provided that:
 
->     “(a) __Standards.—__ 
+>     “(a)  __Standards__  __.—__ 
 
 >     Not later than 180 days after the date of enactment of this Act \[Nov. 21, 1997\], the Secretary of Health and Human Services shall publish in the Federal Register standards for the prompt review of supplemental applications submitted for approved articles under the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 301][/us/usc/t21/s301] et seq.) or section 351 of the Public Health Service Act ([42 U.S.C. 262][/us/usc/t42/s262]).
 
->     “(b) __Guidance to Industry.—__ 
+>     “(b)  __Guidance to Industry__  __.—__ 
 
 >     Not later than 180 days after the date of enactment of this Act \[Nov. 21, 1997\], the Secretary shall issue final guidances to clarify the requirements for, and facilitate the submission of data to support, the approval of supplemental applications for the approved articles described in subsection (a). The guidances shall—
 
@@ -173,7 +173,7 @@
 
 >         “(3) define supplemental applications that are eligible for priority review.
 
->     “(c) __Responsibilities of Centers.—__ 
+>     “(c)  __Responsibilities of Centers__  __.—__ 
 
 >     The Secretary shall designate an individual in each center within the Food and Drug Administration (except the Center for Food Safety and Applied Nutrition) to be responsible for—
 
@@ -181,7 +181,7 @@
 
 >         “(2) working with sponsors to facilitate the development and submission of data to support supplemental applications.
 
->     “(d) __Collaboration.—__ 
+>     “(d)  __Collaboration__  __.—__ 
 
 >     The Secretary shall implement programs and policies that will foster collaboration between the Food and Drug Administration, the National Institutes of Health, professional medical and scientific societies, and other persons, to identify published and unpublished studies that may support a supplemental application, and to encourage sponsors to make supplemental applications or conduct further research in support of a supplemental application based, in whole or in part, on such studies.”
 

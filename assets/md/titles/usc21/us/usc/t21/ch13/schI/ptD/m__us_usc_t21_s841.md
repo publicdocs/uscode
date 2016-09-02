@@ -139,11 +139,11 @@
 
         (7) __Penalties for distribution.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Whoever, with intent to commit a crime of violence, as defined in [section 16 of title 18][/us/usc/t18/s16] (including rape), against an individual, violates subsection (a) of this section by distributing a controlled substance or controlled substance analogue to that individual without that individual’s knowledge, shall be imprisoned not more than 20 years and fined in accordance with title 18.
 
-            (B) __Definition.—__ 
+            (B)  __Definition__  __.—__ 
 
             For purposes of this paragraph, the term “without that individual’s knowledge” means that the individual is unaware that a substance with the ability to alter that individual’s ability to appraise conduct or to decline participation in or communicate unwillingness to participate in conduct is administered to the individual.
 

@@ -69,7 +69,7 @@
 
 [Pub. L. 101–535, § 10(b)][/us/pl/101/535/s10/b], Nov. 8, 1990, [104 Stat. 2366][/us/stat/104/2366], as amended by [Pub. L. 102–571, title I, § 107(16)][/us/pl/102/571/s107/16], title II, § 202(a)(4), Oct. 29, 1992, [106 Stat. 4499][/us/stat/106/4499], 4501, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by section 6 \[enacting this section\] shall take effect—
 
@@ -83,7 +83,7 @@
 
 >         “(E) with respect to a requirement of a State or political subdivision described in paragraph (5) of section 403A(a) of the Federal Food, Drug, and Cosmetic Act, on the date regulations to implement section 403(r) of such Act take effect.
 
->     “(2) __Exception.—__ 
+>     “(2)  __Exception__  __.—__ 
 
 >     If a State or political subdivision submits a petition under section 403A(b) of the Federal Food, Drug, and Cosmetic Act for a requirement described in section 403A(a) of such Act within 18 months of the date of the enactment of this Act, paragraphs (3) through (5) of such section 403A(a) shall not apply with respect to such State or political subdivision requirement until—
 
@@ -93,7 +93,7 @@
 
 >         whichever occurs later.
 
->     “(3) __Requirements pertaining to certain claims.—__ 
+>     “(3)  __Requirements pertaining to certain claims__  __.—__ 
 
 >     Notwithstanding subparagraphs (D) and (E) of paragraph (1) and except with respect to claims approved in accordance with section 202(b) of the Dietary Supplement Act of 1992 \[[Pub. L. 102–571][/us/pl/102/571], set out as a note under [section 343 of this title][/us/usc/t21/s343]\], the requirements described in paragraphs (4) and (5) of section 403A(a) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 343–1(a)(4)][/us/usc/t21/s343–1/a/4] and (5)) that pertain to dietary supplements of vitamins, minerals, herbs, or other similar nutritional substances shall not take effect until the date final regulations take effect to implement subsection (q) or (r), as appropriate, of section 403 of such Act with respect to such dietary supplements.”
 

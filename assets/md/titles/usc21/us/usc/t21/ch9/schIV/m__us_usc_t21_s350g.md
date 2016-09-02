@@ -319,11 +319,11 @@
 
 [Pub. L. 111–353, title I, § 103(i)][/us/pl/111/353/s103/i], Jan. 4, 2011, [124 Stat. 3898][/us/stat/124/3898], provided that:
 
->     “(1) __General rule.—__ 
+>     “(1)  __General rule__  __.—__ 
 
 >     The amendments made by this section \[enacting this section and amending [section 331 of this title][/us/usc/t21/s331]\] shall take effect 18 months after the date of enactment of this Act \[Jan. 4, 2011\].
 
->     “(2) __Flexibility for small businesses.—__ 
+>     “(2)  __Flexibility for small businesses__  __.—__ 
 
 >     Notwithstanding paragraph (1)—
 

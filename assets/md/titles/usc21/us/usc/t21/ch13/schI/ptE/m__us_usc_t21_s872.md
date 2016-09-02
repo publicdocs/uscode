@@ -91,23 +91,23 @@
 
 >     “(a) __In General.—__ 
 
->         “(1) __Requirement.—__ 
+>         “(1)  __Requirement__  __.—__ 
 
 >         The Administrator of the Drug Enforcement Administration shall carry out the programs described in subsection (b) with respect to the law enforcement personnel of States and localities determined by the Administrator to have significant levels of methamphetamine-related or amphetamine-related crime or projected by the Administrator to have the potential for such levels of crime in the future.
 
->         “(2) __Duration.—__ 
+>         “(2)  __Duration__  __.—__ 
 
 >         The duration of any program under that subsection may not exceed 3 years.
 
->     “(b) __Covered Programs.—__ 
+>     “(b)  __Covered Programs__  __.—__ 
 
 >     The programs described in this subsection are as follows:
 
->         “(1) __Advanced mobile clandestine laboratory training teams.—__ 
+>         “(1)  __Advanced mobile clandestine laboratory training teams__  __.—__ 
 
 >         A program of advanced mobile clandestine laboratory training teams, which shall provide information and training to State and local law enforcement personnel in techniques utilized in conducting undercover investigations and conspiracy cases, and other information designed to assist in the investigation of the illegal manufacturing and trafficking of amphetamine and methamphetamine.
 
->         “(2) __Basic clandestine laboratory certification training.—__ 
+>         “(2)  __Basic clandestine laboratory certification training__  __.—__ 
 
 >         A program of basic clandestine laboratory certification training, which shall provide information and training—
 
@@ -115,11 +115,11 @@
 
 >             “(B) to State and local law enforcement personnel for purposes of enabling such personnel to provide the information and training covered by subparagraph (A) to other State and local law enforcement personnel.
 
->         “(3) __Clandestine laboratory recertification and awareness training.—__ 
+>         “(3)  __Clandestine laboratory recertification and awareness training__  __.—__ 
 
 >         A program of clandestine laboratory recertification and awareness training, which shall provide information and training to State and local law enforcement personnel for purposes of enabling such personnel to provide recertification and awareness training relating to clandestine laboratories to additional State and local law enforcement personnel.
 
->     “(c) __Authorization of Appropriations.—__ 
+>     “(c)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated for each of fiscal years 2000, 2001, and 2002 amounts as follows:
 
@@ -143,15 +143,15 @@
 
 [Pub. L. 104–237, title II, § 202][/us/pl/104/237/s202], Oct. 3, 1996, [110 Stat. 3101][/us/stat/110/3101], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Attorney General of the United States shall conduct a study on possible measures to effectively prevent the diversion of red phosphorous, iodine, hydrochloric gas, and other agents for use in the production of methamphetamine. Nothing in this section shall preclude the Attorney General from taking any action the Attorney General already is authorized to take with regard to the regulation of listed chemicals under current law.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than January 1, 1998, the Attorney General shall submit a report to the Congress of its findings pursuant to the study conducted under subsection (a) on the need for and advisability of preventive measures.
 
->     “(c) __Considerations.—__ 
+>     “(c)  __Considerations__  __.—__ 
 
 >     In developing recommendations under subsection (b), the Attorney General shall consider—
 

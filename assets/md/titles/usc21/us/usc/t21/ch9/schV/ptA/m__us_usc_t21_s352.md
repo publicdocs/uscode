@@ -141,9 +141,21 @@
 
         If it is a drug, or an active pharmaceutical ingredient, and it was manufactured, prepared, propagated, compounded, or processed in a facility for which fees have not been paid as required by [section 379j–42(a)(4) of this title][/us/usc/t21/s379j–42/a/4] or for which identifying information required by [section 379j–42(f) of this title][/us/usc/t21/s379j–42/f] has not been submitted, or it contains an active pharmaceutical ingredient that was manufactured, prepared, propagated, compounded, or processed in such a facility.
 
-([June 25, 1938, ch. 675, § 502][/us/act/1938-06-25/ch675/s502], [52 Stat. 1050][/us/stat/52/1050]; [June 23, 1939, ch. 242, § 3][/us/act/1939-06-23/ch242/s3], [53 Stat. 854][/us/stat/53/854]; [Dec. 22, 1941, ch. 613, § 2][/us/act/1941-12-22/ch613/s2], [55 Stat. 851][/us/stat/55/851]; [July 6, 1945, ch. 281, § 2][/us/act/1945-07-06/ch281/s2], [59 Stat. 463][/us/stat/59/463]; [Mar. 10, 1947, ch. 16, § 2][/us/act/1947-03-10/ch16/s2], [61 Stat. 11][/us/stat/61/11]; [July 13, 1949, ch. 305, § 1][/us/act/1949-07-13/ch305/s1], [63 Stat. 409][/us/stat/63/409]; [Aug. 5, 1953, ch. 334, § 1][/us/act/1953-08-05/ch334/s1], [67 Stat. 389][/us/stat/67/389]; [Pub. L. 86–618, title I, § 102(b)(2)][/us/pl/86/618/s102/b/2], July 12, 1960, [74 Stat. 398][/us/stat/74/398]; [Pub. L. 87–781, title I][/us/pl/87/781], §§ 105(c), 112(a), (b), 131(a), title III, § 305, Oct. 10, 1962, [76 Stat. 785][/us/stat/76/785], 790, 791, 795; [Pub. L. 90–399, § 105(a)][/us/pl/90/399/s105/a], July 13, 1968, [82 Stat. 352][/us/stat/82/352]; [Pub. L. 91–601, § 6(d)][/us/pl/91/601/s6/d], formerly § 7(d), Dec. 30, 1970, [84 Stat. 1673][/us/stat/84/1673], renumbered [Pub. L. 97–35, title XII, § 1205(c)][/us/pl/97/35/s1205/c], Aug. 13, 1981, [95 Stat. 716][/us/stat/95/716]; [Pub. L. 94–295][/us/pl/94/295], §§ 3(e), 4(b)(2), 5(a), 9(b)(2), May 28, 1976, [90 Stat. 577][/us/stat/90/577], 580, 583; [Pub. L. 95–633, title I, § 111][/us/pl/95/633/s111], Nov. 10, 1978, [92 Stat. 3773][/us/stat/92/3773]; [Pub. L. 102–300, § 3(a)(2)][/us/pl/102/300/s3/a/2], June 16, 1992, [106 Stat. 239][/us/stat/106/239]; [Pub. L. 102–571, title I, § 107(9)][/us/pl/102/571/s107/9], Oct. 29, 1992, [106 Stat. 4499][/us/stat/106/4499]; [Pub. L. 103–80, § 3(m)][/us/pl/103/80/s3/m], Aug. 13, 1993, [107 Stat. 777][/us/stat/107/777]; [Pub. L. 105–115, title I][/us/pl/105/115], §§ 114(a), 125(a)(2)(B), (b)(2)(D), 126(b), title IV, § 412(c), Nov. 21, 1997, [111 Stat. 2312][/us/stat/111/2312], 2325, 2327, 2375; [Pub. L. 107–250, title II, § 206][/us/pl/107/250/s206], title III, §§ 301(a), 302(a)(1), Oct. 26, 2002, [116 Stat. 1613][/us/stat/116/1613], 1616; [Pub. L. 108–214, § 2(b)(2)(B)][/us/pl/108/214/s2/b/2/B], Apr. 1, 2004, [118 Stat. 575][/us/stat/118/575]; [Pub. L. 108–282, title I, § 102(b)(5)(E)][/us/pl/108/282/s102/b/5/E], Aug. 2, 2004, [118 Stat. 902][/us/stat/118/902]; [Pub. L. 109–43, § 2(c)(1)][/us/pl/109/43/s2/c/1], Aug. 1, 2005, [119 Stat. 441][/us/stat/119/441]; [Pub. L. 109–462, § 2(d)][/us/pl/109/462/s2/d], Dec. 22, 2006, [120 Stat. 3472][/us/stat/120/3472]; [Pub. L. 110–85, title IX][/us/pl/110/85], §§ 901(d)(3)(A), (6), 902(a), 906(a), Sept. 27, 2007, [121 Stat. 940][/us/stat/121/940], 942, 943, 949; [Pub. L. 112–144, title III, § 306][/us/pl/112/144/s306], title VII, §§ 702(a), 714(c), July 9, 2012, [126 Stat. 1024][/us/stat/126/1024], 1065, 1074; [Pub. L. 112–193, § 2(a)][/us/pl/112/193/s2/a], Oct. 5, 2012, [126 Stat. 1443][/us/stat/126/1443].)
+    (bb) __False or misleading advertisement or promotion of compounded drug__ 
+
+        If the advertising or promotion of a compounded drug is false or misleading in any particular.
+
+    (cc) __Failure to bear product identifier__ 
+
+        If it is a drug and it fails to bear the product identifier as required by [section 360eee–1 of this title][/us/usc/t21/s360eee–1].
+
+([June 25, 1938, ch. 675, § 502][/us/act/1938-06-25/ch675/s502], [52 Stat. 1050][/us/stat/52/1050]; [June 23, 1939, ch. 242, § 3][/us/act/1939-06-23/ch242/s3], [53 Stat. 854][/us/stat/53/854]; [Dec. 22, 1941, ch. 613, § 2][/us/act/1941-12-22/ch613/s2], [55 Stat. 851][/us/stat/55/851]; [July 6, 1945, ch. 281, § 2][/us/act/1945-07-06/ch281/s2], [59 Stat. 463][/us/stat/59/463]; [Mar. 10, 1947, ch. 16, § 2][/us/act/1947-03-10/ch16/s2], [61 Stat. 11][/us/stat/61/11]; [July 13, 1949, ch. 305, § 1][/us/act/1949-07-13/ch305/s1], [63 Stat. 409][/us/stat/63/409]; [Aug. 5, 1953, ch. 334, § 1][/us/act/1953-08-05/ch334/s1], [67 Stat. 389][/us/stat/67/389]; [Pub. L. 86–618, title I, § 102(b)(2)][/us/pl/86/618/s102/b/2], July 12, 1960, [74 Stat. 398][/us/stat/74/398]; [Pub. L. 87–781, title I][/us/pl/87/781], §§ 105(c), 112(a), (b), 131(a), title III, § 305, Oct. 10, 1962, [76 Stat. 785][/us/stat/76/785], 790, 791, 795; [Pub. L. 90–399, § 105(a)][/us/pl/90/399/s105/a], July 13, 1968, [82 Stat. 352][/us/stat/82/352]; [Pub. L. 91–601, § 6(d)][/us/pl/91/601/s6/d], formerly § 7(d), Dec. 30, 1970, [84 Stat. 1673][/us/stat/84/1673], renumbered [Pub. L. 97–35, title XII, § 1205(c)][/us/pl/97/35/s1205/c], Aug. 13, 1981, [95 Stat. 716][/us/stat/95/716]; [Pub. L. 94–295][/us/pl/94/295], §§ 3(e), 4(b)(2), 5(a), 9(b)(2), May 28, 1976, [90 Stat. 577][/us/stat/90/577], 580, 583; [Pub. L. 95–633, title I, § 111][/us/pl/95/633/s111], Nov. 10, 1978, [92 Stat. 3773][/us/stat/92/3773]; [Pub. L. 102–300, § 3(a)(2)][/us/pl/102/300/s3/a/2], June 16, 1992, [106 Stat. 239][/us/stat/106/239]; [Pub. L. 102–571, title I, § 107(9)][/us/pl/102/571/s107/9], Oct. 29, 1992, [106 Stat. 4499][/us/stat/106/4499]; [Pub. L. 103–80, § 3(m)][/us/pl/103/80/s3/m], Aug. 13, 1993, [107 Stat. 777][/us/stat/107/777]; [Pub. L. 105–115, title I][/us/pl/105/115], §§ 114(a), 125(a)(2)(B), (b)(2)(D), 126(b), title IV, § 412(c), Nov. 21, 1997, [111 Stat. 2312][/us/stat/111/2312], 2325, 2327, 2375; [Pub. L. 107–250, title II, § 206][/us/pl/107/250/s206], title III, §§ 301(a), 302(a)(1), Oct. 26, 2002, [116 Stat. 1613][/us/stat/116/1613], 1616; [Pub. L. 108–214, § 2(b)(2)(B)][/us/pl/108/214/s2/b/2/B], Apr. 1, 2004, [118 Stat. 575][/us/stat/118/575]; [Pub. L. 108–282, title I, § 102(b)(5)(E)][/us/pl/108/282/s102/b/5/E], Aug. 2, 2004, [118 Stat. 902][/us/stat/118/902]; [Pub. L. 109–43, § 2(c)(1)][/us/pl/109/43/s2/c/1], Aug. 1, 2005, [119 Stat. 441][/us/stat/119/441]; [Pub. L. 109–462, § 2(d)][/us/pl/109/462/s2/d], Dec. 22, 2006, [120 Stat. 3472][/us/stat/120/3472]; [Pub. L. 110–85, title IX][/us/pl/110/85], §§ 901(d)(3)(A), (6), 902(a), 906(a), Sept. 27, 2007, [121 Stat. 940][/us/stat/121/940], 942, 943, 949; [Pub. L. 112–144, title III, § 306][/us/pl/112/144/s306], title VII, §§ 702(a), 714(c), July 9, 2012, [126 Stat. 1024][/us/stat/126/1024], 1065, 1074; [Pub. L. 112–193, § 2(a)][/us/pl/112/193/s2/a], Oct. 5, 2012, [126 Stat. 1443][/us/stat/126/1443]; [Pub. L. 113–54, title I, § 103(b)][/us/pl/113/54/s103/b], title II, § 206(b), Nov. 27, 2013, [127 Stat. 597][/us/stat/127/597], 639.)
 
  __Amendments__ 
+
+    2013—Par. (bb). [Pub. L. 113–54, § 103(b)][/us/pl/113/54/s103/b], added par. (bb).
+
+    Par. (cc). [Pub. L. 113–54, § 206(b)][/us/pl/113/54/s206/b], added par. (cc).
 
     2012—Par. (o). [Pub. L. 112–144, § 714(c)][/us/pl/112/144/s714/c], inserted “if it is a drug and was imported or offered for import by a commercial importer of drugs not duly registered under [section 381(s) of this title][/us/usc/t21/s381/s],” after “not duly registered under [section 360 of this title][/us/usc/t21/s360],”.
 
@@ -249,11 +261,11 @@
 
 [Pub. L. 109–462, § 2(e)(1)][/us/pl/109/462/s2/e/1], (2), Dec. 22, 2006, [120 Stat. 3472][/us/stat/120/3472], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[enacting [section 379aa of this title][/us/usc/t21/s379aa] and amending this section and [section 331 of this title][/us/usc/t21/s331]\] shall take effect 1 year after the date of enactment of this Act \[Dec. 22, 2006\].
 
->     “(2) __Misbranding.—__ 
+>     “(2)  __Misbranding__  __.—__ 
 
 >     Section 502(x) of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 352(x)][/us/usc/t21/s352/x]\] (as added by this section) shall apply to any nonprescription drug (as defined in such section 502(x)) labeled on or after the date that is 1 year after the date of enactment of this Act \[Dec. 22, 2006\].”
 
@@ -327,15 +339,15 @@ Pars. (b) and (d) to (h) effective Jan. 1, 1940, and such paragraphs effective J
 
 [Pub. L. 111–148, title III, § 3507][/us/pl/111/148/s3507], Mar. 23, 2010, [124 Stat. 530][/us/stat/124/530], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Health and Human Services (referred to in this section as the ‘Secretary’), acting through the Commissioner of Food and Drugs, shall determine whether the addition of quantitative summaries of the benefits and risks of prescription drugs in a standardized format (such as a table or drug facts box) to the promotional labeling or print advertising of such drugs would improve health care decisionmaking by clinicians and patients and consumers.
 
->     “(b) __Review and Consultation.—__ 
+>     “(b)  __Review and Consultation__  __.—__ 
 
 >     In making the determination under subsection (a), the Secretary shall review all available scientific evidence and research on decisionmaking and social and cognitive psychology and consult with drug manufacturers, clinicians, patients and consumers, experts in health literacy, representatives of racial and ethnic minorities, and experts in women’s and pediatric health.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Mar. 23, 2010\], the Secretary shall submit to Congress a report that provides—
 
@@ -343,11 +355,11 @@ Pars. (b) and (d) to (h) effective Jan. 1, 1940, and such paragraphs effective J
 
 >         “(2) the reasoning and analysis underlying that determination.
 
->     “(d) __Authority.—__ 
+>     “(d)  __Authority__  __.—__ 
 
 >     If the Secretary determines under subsection (a) that the addition of quantitative summaries of the benefits and risks of prescription drugs in a standardized format (such as a table or drug facts box) to the promotional labeling or print advertising of such drugs would improve health care decisionmaking by clinicians and patients and consumers, then the Secretary, not later than 3 years after the date of submission of the report under subsection (c), shall promulgate proposed regulations as necessary to implement such format.
 
->     “(e) __Clarification.—__ 
+>     “(e)  __Clarification__  __.—__ 
 
 >     Nothing in this section shall be construed to restrict the existing authorities of the Secretary with respect to benefit and risk information.”
 
@@ -361,11 +373,11 @@ Pars. (b) and (d) to (h) effective Jan. 1, 1940, and such paragraphs effective J
 
 [Pub. L. 110–85, title IX, § 906(b)][/us/pl/110/85/s906/b], Sept. 27, 2007, [121 Stat. 950][/us/stat/121/950], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     In the case of direct-to-consumer television advertisements, the Secretary of Health and Human Services, in consultation with the Advisory Committee on Risk Communication under section 567 of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 360bbb–6][/us/usc/t21/s360bbb–6]\] (as added by section 917), shall, not later than 6 months after the date of the enactment of this Act \[Sept. 27, 2007\], conduct a study to determine if the statement in section 502(n) of such Act \[[21 U.S.C. 352(n)][/us/usc/t21/s352/n]\] (as added by subsection (a)) required with respect to published direct-to-consumer advertisements is appropriate for inclusion in such television advertisements.
 
->     “(2) __Content.—__ 
+>     “(2)  __Content__  __.—__ 
 
 >     As part of the study under paragraph (1), such Secretary shall consider whether the information in the statement described in paragraph (1) would detract from the presentation of risk information in a direct-to-consumer television advertisement. If such Secretary determines the inclusion of such statement is appropriate in direct-to-consumer television advertisements, such Secretary shall issue regulations requiring the implementation of such statement in direct-to-consumer television advertisements, including determining a reasonable length of time for displaying the statement in such advertisements. The Secretary shall report to the appropriate committees of Congress the findings of such study and any plans to issue regulations under this paragraph.”
 
@@ -430,6 +442,7 @@ Pars. (b) and (d) to (h) effective Jan. 1, 1940, and such paragraphs effective J
 [/us/usc/t21/s355–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%E2%80%931
 [/us/usc/t21/s379j–42/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9342%2Fa%2F4
 [/us/usc/t21/s379j–42/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9342%2Ff
+[/us/usc/t21/s360eee–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360eee%E2%80%931
 [/us/act/1938-06-25/ch675/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs502
 [/us/stat/52/1050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1050
 [/us/act/1939-06-23/ch242/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-23%2Fch242%2Fs3
@@ -482,6 +495,10 @@ Pars. (b) and (d) to (h) effective Jan. 1, 1940, and such paragraphs effective J
 [/us/stat/126/1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1024
 [/us/pl/112/193/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F193%2Fs2%2Fa
 [/us/stat/126/1443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1443
+[/us/pl/113/54/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs103%2Fb
+[/us/stat/127/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F597
+[/us/pl/113/54/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs103%2Fb
+[/us/pl/113/54/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs206%2Fb
 [/us/pl/112/144/s714/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs714%2Fc
 [/us/usc/t21/s381/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs381%2Fs
 [/us/usc/t21/s360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360

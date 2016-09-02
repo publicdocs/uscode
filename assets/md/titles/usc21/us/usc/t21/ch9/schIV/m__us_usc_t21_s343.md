@@ -269,11 +269,11 @@
 
             (H) __Restaurants, Retail Food Establishments, and Vending Machines.—__ 
 
-                (i) __General requirements for restaurants and similar retail food establishments.—__ 
+                (i)  __General requirements for restaurants and similar retail food establishments__  __.—__ 
 
                 Except for food described in subclause (vii), in the case of food that is a standard menu item that is offered for sale in a restaurant or similar retail food establishment that is part of a chain with 20 or more locations doing business under the same name (regardless of the type of ownership of the locations) and offering for sale substantially the same menu items, the restaurant or similar retail food establishment shall disclose the information described in subclauses (ii) and (iii).
 
-                (ii) __Information required to be disclosed by restaurants and retail food establishments.—__ 
+                (ii)  __Information required to be disclosed by restaurants and retail food establishments__  __.—__ 
 
                 Except as provided in subclause (vii), the restaurant or similar retail food establishment shall disclose in a clear and conspicuous manner—
 
@@ -293,25 +293,25 @@
 
                     (IV) on the menu or menu board, a prominent, clear, and conspicuous statement regarding the availability of the information described in item (III).
 
-                (iii) __Self-service food and food on display.—__ 
+                (iii)  __Self-service food and food on display__  __.—__ 
 
                 Except as provided in subclause (vii), in the case of food sold at a salad bar, buffet line, cafeteria line, or similar self-service facility, and for self-service beverages or food that is on display and that is visible to customers, a restaurant or similar retail food establishment shall place adjacent to each food offered a sign that lists calories per displayed food item or per serving.
 
-                (iv) __Reasonable basis.—__ 
+                (iv)  __Reasonable basis__  __.—__ 
 
                 For the purposes of this clause, a restaurant or similar retail food establishment shall have a reasonable basis for its nutrient content disclosures, including nutrient databases, cookbooks, laboratory analyses, and other reasonable means, as described in section 101.10 of title 21, Code of Federal Regulations (or any successor regulation) or in a related guidance of the Food and Drug Administration.
 
-                (v) __Menu variability and combination meals.—__ 
+                (v)  __Menu variability and combination meals__  __.—__ 
 
                 The Secretary shall establish by regulation standards for determining and disclosing the nutrient content for standard menu items that come in different flavors, varieties, or combinations, but which are listed as a single menu item, such as soft drinks, ice cream, pizza, doughnuts, or children’s combination meals, through means determined by the Secretary, including ranges, averages, or other methods.
 
-                (vi) __Additional information.—__ 
+                (vi)  __Additional information__  __.—__ 
 
                 If the Secretary determines that a nutrient, other than a nutrient required under subclause (ii)(III), should be disclosed for the purpose of providing information to assist consumers in maintaining healthy dietary practices, the Secretary may require, by regulation, disclosure of such nutrient in the written form required under subclause (ii)(III).
 
                 (vii) __Nonapplicability to certain food.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     Subclauses (i) through (vi) do not apply to—
 
@@ -321,13 +321,13 @@
 
                         (cc) such other food that is part of a customary market test appearing on the menu for less than 90 days, under terms and conditions established by the Secretary.
 
-                    (II) __Written forms.—__ 
+                    (II)  __Written forms__  __.—__ 
 
                     Subparagraph (5)(C) shall apply to any regulations promulgated under subclauses (ii)(III) and (vi).
 
                 (viii) __Vending machines.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     In the case of an article of food sold from a vending machine that—
 
@@ -339,25 +339,25 @@
 
                 (ix) __Voluntary provision of nutrition information.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     An authorized official of any restaurant or similar retail food establishment or vending machine operator not subject to the requirements of this clause may elect to be subject to the requirements of such clause, by registering biannually the name and address of such restaurant or similar retail food establishment or vending machine operator with the Secretary, as specified by the Secretary by regulation.
 
-                    (II) __Registration.—__ 
+                    (II)  __Registration__  __.—__ 
 
                     Within 120 days of March 23, 2010, the Secretary shall publish a notice in the Federal Register specifying the terms and conditions for implementation of item (I), pending promulgation of regulations.
 
-                    (III) __Rule of construction.—__ 
+                    (III)  __Rule of construction__  __.—__ 
 
                     Nothing in this subclause shall be construed to authorize the Secretary to require an application, review, or licensing process for any entity to register with the Secretary, as described in such item.
 
                 (x) __Regulations.—__ 
 
-                    (I) __Proposed regulation.—__ 
+                    (I)  __Proposed regulation__  __.—__ 
 
                     Not later than 1 year after March 23, 2010, the Secretary shall promulgate proposed regulations to carry out this clause.
 
-                    (II) __Contents.—__ 
+                    (II)  __Contents__  __.—__ 
 
                     In promulgating regulations, the Secretary shall—
 
@@ -365,11 +365,11 @@
 
                         (bb) specify the format and manner of the nutrient content disclosure requirements under this subclause.
 
-                    (III) __Reporting.—__ 
+                    (III)  __Reporting__  __.—__ 
 
                     The Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a quarterly report that describes the Secretary’s progress toward promulgating final regulations under this subparagraph.
 
-                (xi) __Definition.—__ 
+                (xi)  __Definition__  __.—__ 
 
                 In this clause, the term “menu” or “menu board” means the primary writing of the restaurant or other similar retail food establishment from which a consumer makes an order selection.
 
@@ -785,11 +785,11 @@
 
 [Pub. L. 109–462, § 3(d)(1)][/us/pl/109/462/s3/d/1], (2), Dec. 22, 2006, [120 Stat. 3475][/us/stat/120/3475], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[enacting [section 379aa–1 of this title][/us/usc/t21/s379aa–1] and amending this section and [section 331 of this title][/us/usc/t21/s331]\] shall take effect 1 year after the date of enactment of this Act \[Dec. 22, 2006\].
 
->     “(2) __Misbranding.—__ 
+>     “(2)  __Misbranding__  __.—__ 
 
 >     Section 403(y) of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 343(y)][/us/usc/t21/s343/y]\] (as added by this section) shall apply to any dietary supplement labeled on or after the date that is 1 year after the date of enactment of this Act \[Dec. 22, 2006\].”
 
@@ -1063,49 +1063,49 @@
 
 [Pub. L. 103–417, § 12][/us/pl/103/417/s12], Oct. 25, 1994, [108 Stat. 4332][/us/stat/108/4332], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     There shall be established as an independent agency within the executive branch a commission to be known as the Commission on Dietary Supplement Labels (hereafter in this section referred to as the ‘Commission’).
 
 >     “(b) __Membership.—__ 
 
->         “(1) __Composition.—__ 
+>         “(1)  __Composition__  __.—__ 
 
 >         The Commission shall be composed of 7 members who shall be appointed by the President.
 
->         “(2) __Expertise requirement.—__ 
+>         “(2)  __Expertise requirement__  __.—__ 
 
 >         The members of the Commission shall consist of individuals with expertise and experience in dietary supplements and in the manufacture, regulation, distribution, and use of such supplements. At least three of the members of the Commission shall be qualified by scientific training and experience to evaluate the benefits to health of the use of dietary supplements and one of such three members shall have experience in pharmacognosy, medical botany, traditional herbal medicine, or other related sciences. Members and staff of the Commission shall be without bias on the issue of dietary supplements.
 
->     “(c) __Functions of the Commission.—__ 
+>     “(c)  __Functions of the Commission__  __.—__ 
 
 >     The Commission shall conduct a study on, and provide recommendations for, the regulation of label claims and statements for dietary supplements, including the use of literature in connection with the sale of dietary supplements and procedures for the evaluation of such claims. In making such recommendations, the Commission shall evaluate how best to provide truthful, scientifically valid, and not misleading information to consumers so that such consumers may make informed and appropriate health care choices for themselves and their families.
 
 >     “(d) __Administrative Powers of the Commission.—__ 
 
->         “(1) __Hearings.—__ 
+>         “(1)  __Hearings__  __.—__ 
 
 >         The Commission may hold hearings, sit and act at such times and places, take such testimony, and receive such evidence as the Commission considers advisable to carry out the purposes of this section.
 
->         “(2) __Information from federal agencies.—__ 
+>         “(2)  __Information from federal agencies__  __.—__ 
 
 >         The Commission may secure directly from any Federal department or agency such information as the Commission considers necessary to carry out the provisions of this section.
 
->         “(3) __Authorization of appropriations.—__ 
+>         “(3)  __Authorization of appropriations__  __.—__ 
 
 >         There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
 >     “(e) __Reports and Recommendations.—__ 
 
->         “(1) __Final report required.—__ 
+>         “(1)  __Final report required__  __.—__ 
 
 >         Not later than 24 months after the date of enactment of this Act \[Oct. 25, 1994\], the Commission shall prepare and submit to the President and to the Congress a final report on the study required by this section.
 
->         “(2) __Recommendations.—__ 
+>         “(2)  __Recommendations__  __.—__ 
 
 >         The report described in paragraph (1) shall contain such recommendations, including recommendations for legislation, as the Commission deems appropriate.
 
->         “(3) __Action on recommendations.—__ 
+>         “(3)  __Action on recommendations__  __.—__ 
 
 >         Within 90 days of the issuance of the report under paragraph (1), the Secretary of Health and Human Services shall publish in the Federal Register a notice of any recommendation of Commission for changes in regulations of the Secretary for the regulation of dietary supplements and shall include in such notice a notice of proposed rulemaking on such changes together with an opportunity to present views on such changes. Such rulemaking shall be completed not later than 2 years after the date of the issuance of such report. If such rulemaking is not completed on or before the expiration of such 2 years, regulations of the Secretary published in 59 FR 395–426 on January 4, 1994, shall not be in effect.”
 
@@ -1119,11 +1119,11 @@
 
 [Pub. L. 103–80, § 2(a)][/us/pl/103/80/s2/a], Aug. 13, 1993, [107 Stat. 773][/us/stat/107/773], provided that:
 
->     “(1) __Before__  __may 8, 1995__  __.—__ 
+>     “(1)  __Before __  __may 8, 1995__  __.—__ 
 
 >     Before May 8, 1995, the exemption provided by section 403(q)(5)(D) of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 343(q)(5)(D)][/us/usc/t21/s343/q/5/D]\] shall be available in accordance with the regulations of the Secretary of Health and Human Services published at 21 C.F.R. 101.9(j)(1)(i)(1993).
 
->     “(2) __After__  __may 8, 1995__  __.—__ 
+>     “(2)  __After __  __may 8, 1995__  __.—__ 
 
 >     After May 8, 1995, the exemption provided by section 403(q)(5)(D) of the Federal Food, Drug, and Cosmetic Act shall only be available with respect to food when it is sold to consumers.”
 

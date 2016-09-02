@@ -59,15 +59,15 @@
 
 [Pub. L. 106–310, div. B, title XXXVI, § 3672][/us/pl/106/310/s3672], Oct. 17, 2000, [114 Stat. 1246][/us/stat/114/1246], provided that:
 
->     “(a) __Reimbursement Authorized.—__ 
+>     “(a)  __Reimbursement Authorized__  __.—__ 
 
 >     The Attorney General, acting through the Administrator of the Drug Enforcement Administration, may reimburse States, units of local government, Indian tribal governments, other public entities, and multi-jurisdictional or regional consortia thereof for expenses incurred to clean up and safely dispose of substances associated with clandestine methamphetamine laboratories which may present a danger to public health or the environment.
 
->     “(b) __Additional DEA Personnel.—__ 
+>     “(b)  __Additional DEA Personnel__  __.—__ 
 
 >     From amounts appropriated or otherwise made available to carry out this section, the Attorney General may hire not more than five additional Drug Enforcement Administration personnel to administer this section.
 
->     “(c) __Authorization of Appropriations.—__ 
+>     “(c)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to the Attorney General to carry out this section $20,000,000 for fiscal year 2001.”
 

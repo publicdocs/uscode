@@ -35,11 +35,11 @@
 
                     is to be regulated by the controls referred to in clause (i).
 
-            (B) __Class II, Special Controls.—__ 
+            (B)  __Class II, Special Controls__  __.—__ 
 
             A device which cannot be classified as a class I device because the general controls by themselves are insufficient to provide reasonable assurance of the safety and effectiveness of the device, and for which there is sufficient information to establish special controls to provide such assurance, including the promulgation of performance standards, postmarket surveillance, patient registries, development and dissemination of guidelines (including guidelines for the submission of clinical data in premarket notification submissions in accordance with [section 360(k) of this title][/us/usc/t21/s360/k]), recommendations, and other appropriate actions as the Secretary deems necessary to provide such assurance. For a device that is purported or represented to be for a use in supporting or sustaining human life, the Secretary shall examine and identify the special controls, if any, that are necessary to provide adequate assurance of safety and effectiveness and describe how such controls provide such assurance.
 
-            (C) __Class III, Premarket Approval.—__ 
+            (C)  __Class III, Premarket Approval__  __.—__ 
 
             A device which because—
 
@@ -427,11 +427,11 @@
 
 [Pub. L. 112–144, title VI, § 608(a)(3)][/us/pl/112/144/s608/a/3], July 9, 2012, [126 Stat. 1056][/us/stat/126/1056], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     The amendments made by this subsection \[amending this section and sections 360d and 360g of this title\] shall have no effect on a regulation promulgated with respect to the classification of a device under section 513(e) of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 360c(e)][/us/usc/t21/s360c/e]\] prior to the date of enactment of this Act \[July 9, 2012\].
 
->     “(B) __Applicability of other provisions.—__ 
+>     “(B)  __Applicability of other provisions__  __.—__ 
 
 >     In the case of a device reclassified under section 513(e) of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 360c(e)][/us/usc/t21/s360c/e]\] by regulation prior to the date of enactment of this Act \[July 9, 2012\], section 517(a)(1) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 360g(a)(1)][/us/usc/t21/s360g/a/1]) shall apply to such regulation promulgated under section 513(e) of such Act with respect to such device in the same manner such section 517(a)(1) applies to an administrative order issued with respect to a device reclassified after the date of enactment of this Act.”
 

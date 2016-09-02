@@ -793,13 +793,13 @@
 
 [Pub. L. 110–425, § 3(j)][/us/pl/110/425/s3/j], Oct. 15, 2008, [122 Stat. 4832][/us/stat/122/4832], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this Act \[enacting [section 831 of this title][/us/usc/t21/s831] and amending this section and sections 823, 827, 829, 841, 843, 882 and 960 of this title\] shall take effect 180 days after the date of enactment of this Act \[Oct. 15, 2008\].
 
 >     “(2) __Definition of practice of telemedicine.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Until the earlier of 3 months after the date on which regulations are promulgated to carry out section 311(h) of the Controlled Substances Act \[[21 U.S.C. 831(h)][/us/usc/t21/s831/h]\], as amended by this Act, or 15 months after the date of enactment of this Act—
 
@@ -807,11 +807,11 @@
 
 >             “(ii) the definition of the term ‘practice of telemedicine’ in section 102(54) of the Controlled Substances Act \[[21 U.S.C. 802(54)][/us/usc/t21/s802/54]\], as amended by this Act, shall not apply.
 
->         “(B) __Temporary phase-in of telemedicine regulation.—__ 
+>         “(B)  __Temporary phase-in of telemedicine regulation__  __.—__ 
 
 >         During the period specified in subparagraph (A), the term ‘practice of telemedicine’ means the practice of medicine in accordance with applicable Federal and State laws by a practitioner (as that term is defined in section 102 of the Controlled Substances Act ([21 U.S.C. 802][/us/usc/t21/s802])) (other than a pharmacist) who is at a location remote from the patient and is communicating with the patient, or health care professional who is treating the patient, using a telecommunications system referred to in section 1834(m) of the Social Security Act ([42 U.S.C. 1395m(m)][/us/usc/t42/s1395m/m]), if the practitioner is using an interactive telecommunications system that satisfies the requirements of section 410.78(a)(3) of title 42, Code of Federal Regulations.
 
->         “(C) __Rule of construction.—__ 
+>         “(C)  __Rule of construction__  __.—__ 
 
 >         Nothing in this subsection may be construed to create a precedent that any specific course of conduct constitutes the ‘practice of telemedicine’ (as that term is defined in section 102(54) of the Controlled Substances Act, as amended by this Act) after the end of the period specified in subparagraph (A).”
 
@@ -897,7 +897,7 @@
 
 [Pub. L. 106–310, div. B, title XXXVI, § 3642][/us/pl/106/310/s3642], Oct. 17, 2000, [114 Stat. 1237][/us/stat/114/1237], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Attorney General shall conduct a study of the use of ordinary, over-the-counter pseudoephedrine and phenylpropanolamine products in the clandestine production of illicit drugs. Sources of data for the study shall include the following:
 
@@ -907,11 +907,11 @@
 
 >     “(b) __Report.—__ 
 
->         “(1) __Requirement.—__ 
+>         “(1)  __Requirement__  __.—__ 
 
 >         Not later than 1 year after the date of the enactment of this Act \[Oct. 17, 2000\], the Attorney General shall submit to Congress a report on the study conducted under subsection (a).
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         The report shall include—
 
@@ -919,13 +919,13 @@
 
 >             “(B) such recommendations on the need to establish additional measures to prevent diversion of ordinary, over-the-counter pseudoephedrine and phenylpropanolamine (such as a threshold on ordinary, over-the-counter pseudoephedrine and phenylpropanolamine products) as the Attorney General considers appropriate.
 
->         “(3) __Matters considered.—__ 
+>         “(3)  __Matters considered__  __.—__ 
 
 >         In preparing the report, the Attorney General shall consider the comments and recommendations including the comments on the Attorney General’s proposed findings and recommendations, of State and local law enforcement and regulatory officials and of representatives of the industry described in subsection (a)(2).
 
 >     “(c) __Regulation of Retail Sales.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Notwithstanding section 401(d) of the Comprehensive Methamphetamine Control Act of 1996 \[[Pub. L. 104–237][/us/pl/104/237]\] ([21 U.S.C. 802][/us/usc/t21/s802] note) and subject to paragraph (2), the Attorney General shall establish by regulation a single-transaction limit of not less than 24 grams of ordinary, over-the-counter pseudoephedrine or phenylpropanolamine (as the case may be) for retail distributors, if the Attorney General finds, in the report under subsection (b), that—
 
@@ -933,7 +933,7 @@
 
 >             “(B) the best practical method of preventing such use is the establishment of single-transaction limits for retail distributors of either or both of such products.
 
->         “(2) __Due process.—__ 
+>         “(2)  __Due process__  __.—__ 
 
 >         The Attorney General shall establish the single-transaction limit under paragraph (1) only after notice, comment, and an informal hearing.”
 
@@ -945,7 +945,7 @@
 
 [Pub. L. 101–647, title XIX, § 1903][/us/pl/101/647/s1903], Nov. 29, 1990, [104 Stat. 4853][/us/stat/104/4853], as amended by [Pub. L. 108–358, § 2(c)][/us/pl/108/358/s2/c], Oct. 22, 2004, [118 Stat. 1663][/us/stat/118/1663], provided that:
 
->     “(a) __Drugs for Treatment of Rare Diseases.—__ 
+>     “(a)  __Drugs for Treatment of Rare Diseases__  __.—__ 
 
 >     If the Attorney General finds that a drug listed in paragraph (41) of section 102 of the Controlled Substances Act (as added by section 2 \[1902\] of this Act) is—
 
@@ -953,7 +953,7 @@
 
 >         “(2) does not have a significant potential for abuse, the Attorney General may exempt such drug from any production regulations otherwise issued under the Controlled Substances Act as may be necessary to ensure adequate supplies of such drug for medical purposes.
 
->     “(b) __Date of Issuance of Regulations.—__ 
+>     “(b)  __Date of Issuance of Regulations__  __.—__ 
 
 >     The Attorney General shall issue regulations implementing this section not later than 45 days after the date of enactment of this Act \[Nov. 29, 1990\], except that the regulations required under section 3(a) \[former 1903(a)\] shall be issued not later than 180 days after the date of enactment of this Act.”
 

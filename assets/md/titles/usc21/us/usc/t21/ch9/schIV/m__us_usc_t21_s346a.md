@@ -795,15 +795,15 @@
 
 [Pub. L. 104–170, title III, § 301][/us/pl/104/170/s301], Aug. 3, 1996, [110 Stat. 1511][/us/stat/110/1511], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Agriculture, in consultation with the Administrator of the Environmental Protection Agency and the Secretary of Health and Human Services, shall coordinate the development and implementation of survey procedures to ensure that adequate data on food consumption patterns of infants and children are collected.
 
->     “(b) __Procedures.—__ 
+>     “(b)  __Procedures__  __.—__ 
 
 >     To the extent practicable, the procedures referred to in subsection (a) shall include the collection of data on food consumption patterns of a statistically valid sample of infants and children.
 
->     “(c) __Residue Data Collection.—__ 
+>     “(c)  __Residue Data Collection__  __.—__ 
 
 >     The Secretary of Agriculture shall ensure that the residue data collection activities conducted by the Department of Agriculture in cooperation with the Environmental Protection Agency and the Department of Health and Human Services, provide for the improved data collection of pesticide residues, including guidelines for the use of comparable analytical and standardized reporting methods, and the increased sampling of foods most likely consumed by infants and children.”
 

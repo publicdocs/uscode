@@ -157,7 +157,7 @@
 
         (9) __Civil Monetary Penalties for Violation of Tobacco Product Requirements.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Subject to subparagraph (B), any person who violates a requirement of this chapter which relates to tobacco products shall be liable to the United States for a civil penalty in an amount not to exceed $15,000 for each such violation, and not to exceed $1,000,000 for all such violations adjudicated in a single proceeding.
 
@@ -193,7 +193,7 @@
 
             (A) Whether the person submitted the advertisement or a similar advertisement for review under [section 379h–1 of this title][/us/usc/t21/s379h–1].
 
-            (B) Whether the person submitted the advertisement for review if required under [section 353b of this title][/us/usc/t21/s353b].
+            (B) Whether the person submitted the advertisement for review if required under section 353c 2 of this title.
 
             (C) Whether, after submission of the advertisement as described in subparagraph (A) or (B), the person disseminated or caused another party to disseminate the advertisement before the end of the 45-day comment period.
 
@@ -233,7 +233,11 @@
 
             the Attorney General of the United States shall recover the amount assessed (plus interest at currently prevailing rates from the date of the expiration of the 60-day period referred to in paragraph (6) or the date of such final judgment, as the case may be) in an action brought in any appropriate district court of the United States. In such an action, the validity, amount, and appropriateness of such penalty shall not be subject to review.
 
-([June 25, 1938, ch. 675, § 303][/us/act/1938-06-25/ch675/s303], [52 Stat. 1043][/us/stat/52/1043]; [Oct. 26, 1951, ch. 578, § 2][/us/act/1951-10-26/ch578/s2], [65 Stat. 649][/us/stat/65/649]; [Pub. L. 86–618, title I, § 105(b)][/us/pl/86/618/s105/b], July 12, 1960, [74 Stat. 403][/us/stat/74/403]; [Pub. L. 89–74][/us/pl/89/74], §§ 7, 9(d), July 15, 1965, [79 Stat. 233][/us/stat/79/233], 235; [Pub. L. 90–639, § 3][/us/pl/90/639/s3], Oct. 24, 1968, [82 Stat. 1361][/us/stat/82/1361]; [Pub. L. 91–513, title II, § 701(b)][/us/pl/91/513/s701/b], Oct. 27, 1970, [84 Stat. 1281][/us/stat/84/1281]; [Pub. L. 94–278, title V, § 502(a)(2)(B)][/us/pl/94/278/s502/a/2/B], Apr. 22, 1976, [90 Stat. 411][/us/stat/90/411]; [Pub. L. 100–293, § 7(b)][/us/pl/100/293/s7/b], Apr. 22, 1988, [102 Stat. 99][/us/stat/102/99]; [Pub. L. 100–690, title II, § 2403][/us/pl/100/690/s2403], Nov. 18, 1988, [102 Stat. 4230][/us/stat/102/4230]; [Pub. L. 101–629, § 17(a)][/us/pl/101/629/s17/a], Nov. 28, 1990, [104 Stat. 4526][/us/stat/104/4526]; [Pub. L. 101–647, title XIX, § 1904][/us/pl/101/647/s1904], Nov. 29, 1990, [104 Stat. 4853][/us/stat/104/4853]; [Pub. L. 102–353, § 3][/us/pl/102/353/s3], Aug. 26, 1992, [106 Stat. 941][/us/stat/106/941]; [Pub. L. 103–80, § 3(e)][/us/pl/103/80/s3/e], Aug. 13, 1993, [107 Stat. 775][/us/stat/107/775]; [Pub. L. 103–322, title XXXIII, § 330015][/us/pl/103/322/s330015], Sept. 13, 1994, [108 Stat. 2146][/us/stat/108/2146]; [Pub. L. 104–170, title IV, § 407][/us/pl/104/170/s407], Aug. 3, 1996, [110 Stat. 1535][/us/stat/110/1535]; [Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title VII, § 745(d)(2)\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–40; [Pub. L. 107–250, title II, § 201(c)][/us/pl/107/250/s201/c], Oct. 26, 2002, [116 Stat. 1609][/us/stat/116/1609]; [Pub. L. 108–173, title XI, § 1121(b)(2)][/us/pl/108/173/s1121/b/2], Dec. 8, 2003, [117 Stat. 2469][/us/stat/117/2469]; [Pub. L. 110–85, title II, § 226(b)][/us/pl/110/85/s226/b], title VIII, § 801(b)(2), title IX, §§ 901(d)(4), 902(b), Sept. 27, 2007, [121 Stat. 854][/us/stat/121/854], 920, 940, 943; [Pub. L. 111–31, div. A, title I, § 103(c)][/us/pl/111/31/s103/c], June 22, 2009, [123 Stat. 1835][/us/stat/123/1835]; [Pub. L. 111–353, title II, § 206(c)][/us/pl/111/353/s206/c], Jan. 4, 2011, [124 Stat. 3943][/us/stat/124/3943]; [Pub. L. 112–144, title VII, § 716][/us/pl/112/144/s716], July 9, 2012, [126 Stat. 1075][/us/stat/126/1075].)
+([June 25, 1938, ch. 675, § 303][/us/act/1938-06-25/ch675/s303], [52 Stat. 1043][/us/stat/52/1043]; [Oct. 26, 1951, ch. 578, § 2][/us/act/1951-10-26/ch578/s2], [65 Stat. 649][/us/stat/65/649]; [Pub. L. 86–618, title I, § 105(b)][/us/pl/86/618/s105/b], July 12, 1960, [74 Stat. 403][/us/stat/74/403]; [Pub. L. 89–74][/us/pl/89/74], §§ 7, 9(d), July 15, 1965, [79 Stat. 233][/us/stat/79/233], 235; [Pub. L. 90–639, § 3][/us/pl/90/639/s3], Oct. 24, 1968, [82 Stat. 1361][/us/stat/82/1361]; [Pub. L. 91–513, title II, § 701(b)][/us/pl/91/513/s701/b], Oct. 27, 1970, [84 Stat. 1281][/us/stat/84/1281]; [Pub. L. 94–278, title V, § 502(a)(2)(B)][/us/pl/94/278/s502/a/2/B], Apr. 22, 1976, [90 Stat. 411][/us/stat/90/411]; [Pub. L. 100–293, § 7(b)][/us/pl/100/293/s7/b], Apr. 22, 1988, [102 Stat. 99][/us/stat/102/99]; [Pub. L. 100–690, title II, § 2403][/us/pl/100/690/s2403], Nov. 18, 1988, [102 Stat. 4230][/us/stat/102/4230]; [Pub. L. 101–629, § 17(a)][/us/pl/101/629/s17/a], Nov. 28, 1990, [104 Stat. 4526][/us/stat/104/4526]; [Pub. L. 101–647, title XIX, § 1904][/us/pl/101/647/s1904], Nov. 29, 1990, [104 Stat. 4853][/us/stat/104/4853]; [Pub. L. 102–353, § 3][/us/pl/102/353/s3], Aug. 26, 1992, [106 Stat. 941][/us/stat/106/941]; [Pub. L. 103–80, § 3(e)][/us/pl/103/80/s3/e], Aug. 13, 1993, [107 Stat. 775][/us/stat/107/775]; [Pub. L. 103–322, title XXXIII, § 330015][/us/pl/103/322/s330015], Sept. 13, 1994, [108 Stat. 2146][/us/stat/108/2146]; [Pub. L. 104–170, title IV, § 407][/us/pl/104/170/s407], Aug. 3, 1996, [110 Stat. 1535][/us/stat/110/1535]; [Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title VII, § 745(d)(2)\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–40; [Pub. L. 107–250, title II, § 201(c)][/us/pl/107/250/s201/c], Oct. 26, 2002, [116 Stat. 1609][/us/stat/116/1609]; [Pub. L. 108–173, title XI, § 1121(b)(2)][/us/pl/108/173/s1121/b/2], Dec. 8, 2003, [117 Stat. 2469][/us/stat/117/2469]; [Pub. L. 110–85, title II, § 226(b)][/us/pl/110/85/s226/b], title VIII, § 801(b)(2), title IX, §§ 901(d)(4), 902(b), Sept. 27, 2007, [121 Stat. 854][/us/stat/121/854], 920, 940, 943; [Pub. L. 111–31, div. A, title I, § 103(c)][/us/pl/111/31/s103/c], June 22, 2009, [123 Stat. 1835][/us/stat/123/1835]; [Pub. L. 111–353, title II, § 206(c)][/us/pl/111/353/s206/c], Jan. 4, 2011, [124 Stat. 3943][/us/stat/124/3943]; [Pub. L. 112–144, title VII, § 716][/us/pl/112/144/s716], July 9, 2012, [126 Stat. 1075][/us/stat/126/1075]; [Pub. L. 113–54, title II, § 207(a)][/us/pl/113/54/s207/a], Nov. 27, 2013, [127 Stat. 640][/us/stat/127/640].)
+
+ __Amendment of Subsection (b)(1)(D)__ 
+
+    [Pub. L. 113–54, title II, § 207][/us/pl/113/54/s207], Nov. 27, 2013, [127 Stat. 640][/us/stat/127/640], provided that, effective Jan. 1, 2015, subsection (b)(1)(D) of this section is amended by striking “353(e)(2)(A)” and inserting “353(e)(1)”. See 2013 Amendment note below.
 
  __References in Text__ 
 
@@ -241,7 +245,11 @@
 
     [Section 282(j)(5)(C)(ii) of title 42][/us/usc/t42/s282/j/5/C/ii], referred to in subsec. (f)(3)(B), was in the original “section 402(j)(5)(C)(ii)”, and was translated as meaning section 402(j)(5)(C)(ii) of the Public Health Service Act to reflect the probable intent of Congress because there is no subsec. (j) of section 402 of the Federal Food, Drug, and Cosmetic Act and section 402(j)(5)(C)(ii) of the Public Health Service Act relates to notification of noncompliance with clinical trial information requirements.
 
+    [Section 353c of this title][/us/usc/t21/s353c], referred to in subsec. (g)(3)(B), was in the original a reference to section 503B of act June 25, 1938, and was translated as if it referred to section 503C of that Act, to reflect the probable intent of Congress and the renumbering of section 503B as 503C by [Pub. L. 113–54, title I, § 102(a)(1)][/us/pl/113/54/s102/a/1], Nov. 27, 2013, [127 Stat. 587][/us/stat/127/587], and its transfer to [section 353c of this title][/us/usc/t21/s353c]. A new section 503B, which was enacted by [section 102(a)(2) of Pub. L. 113–54][/us/pl/113/54/s102/a/2], is classified to [section 353b of this title][/us/usc/t21/s353b] and does not relate to television advertisements.
+
  __Amendments__ 
+
+    2013—Subsec. (b)(1)(D). [Pub. L. 113–54][/us/pl/113/54] substituted “353(e)(1)” for “353(e)(2)(A)”.
 
     2012—Subsec. (b)(7). [Pub. L. 112–144][/us/pl/112/144] added par. (7).
 
@@ -345,15 +353,21 @@
 
     1951—Subsec. (c)(4). Act Oct. 26, 1951, added cl. (4).
 
+ __Effective Date of 2013 Amendment__ 
+
+[Pub. L. 113–54, title II, § 207(b)][/us/pl/113/54/s207/b], Nov. 27, 2013, [127 Stat. 640][/us/stat/127/640], provided that: 
+
+> “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 2015.”
+
  __Effective Date of 2009 Amendment__ 
 
 [Pub. L. 111–31, div. A, title I, § 103(q)(3)][/us/pl/111/31/s103/q/3], (4), June 22, 2009, [123 Stat. 1840][/us/stat/123/1840], provided that:
 
->     “(3) __General effective date.—__ 
+>     “(3)  __General effective date__  __.—__ 
 
 >     The amendments made by paragraphs (2) \[amending this section\], (3) \[amending this section\], and (4) \[no par. (4) has been enacted\] of subsection (c) shall take effect upon the issuance of guidance described in paragraph (1) of this subsection \[set out as a Guidance note below\].
 
->     “(4) __Special effective date.—__ 
+>     “(4)  __Special effective date__  __.—__ 
 
 >     The amendment made by subsection (c)(1) \[amending this section\] shall take effect on the date of enactment of this Act \[June 22, 2009\].”
 
@@ -423,7 +437,7 @@
 
 [Pub. L. 111–31, div. A, title I, § 103(q)(1)][/us/pl/111/31/s103/q/1], (2), June 22, 2009, [123 Stat. 1838][/us/stat/123/1838], 1839, provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary of Health and Human Services shall issue guidance \[see 76 F.R. 22905, effective Apr. 15, 2011\]—
 
@@ -453,7 +467,7 @@
 
 >     “(2) __Penalties for violations.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The amount of the civil penalty to be applied for violations of restrictions promulgated under section 906(d) \[probably means section 906(d) of the Federal Food, Drug, and Cosmetic Act, [21 U.S.C. 387f(d)][/us/usc/t21/s387f/d]\], as described in paragraph (1), shall be as follows:
 
@@ -489,11 +503,11 @@
 
 >                 “(VI) in the case of a sixth or subsequent violation within a 48-month period, $10,000 as determined by the Secretary on a case-by-case basis.
 
->         “(B) __Training program.—__ 
+>         “(B)  __Training program__  __.—__ 
 
 >         For purposes of subparagraph (A), the term ‘approved training program’ means a training program that complies with standards developed by the Food and Drug Administration for such programs.
 
->         “(C) __Consideration of state penalties.—__ 
+>         “(C)  __Consideration of state penalties__  __.—__ 
 
 >         The Secretary shall coordinate with the States in enforcing the provisions of this Act \[probably means div. A of [Pub. L. 111–31][/us/pl/111/31], see Short Title of 2009 Amendment note set out under [section 301 of this title][/us/usc/t21/s301] and Tables for classifications\] and, for purposes of mitigating a civil penalty to be applied for a violation by a retailer of any restriction promulgated under section 906(d) \[[21 U.S.C. 387f(d)][/us/usc/t21/s387f/d]\], shall consider the amount of any penalties paid by the retailer to a State for the same violation.”
 
@@ -560,7 +574,6 @@
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
 [/us/usc/t21/s379h–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379h%E2%80%931
-[/us/usc/t21/s353b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353b
 [/us/act/1938-06-25/ch675/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs303
 [/us/stat/52/1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1043
 [/us/act/1951-10-26/ch578/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-26%2Fch578%2Fs2
@@ -605,10 +618,21 @@
 [/us/stat/124/3943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3943
 [/us/pl/112/144/s716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs716
 [/us/stat/126/1075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1075
+[/us/pl/113/54/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs207%2Fa
+[/us/stat/127/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F640
+[/us/pl/113/54/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs207
+[/us/stat/127/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F640
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
 [/us/usc/t42/s282/j/5/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs282%2Fj%2F5%2FC%2Fii
+[/us/usc/t21/s353c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353c
+[/us/pl/113/54/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs102%2Fa%2F1
+[/us/stat/127/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F587
+[/us/usc/t21/s353c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353c
+[/us/pl/113/54/s102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs102%2Fa%2F2
+[/us/usc/t21/s353b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353b
+[/us/pl/113/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54
 [/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/pl/111/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353
 [/us/usc/t21/s342/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs342%2Fa%2F2%2FB
@@ -668,6 +692,8 @@
 [/us/pl/89/74/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F74%2Fs7%2Fb
 [/us/pl/89/74/s9/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F74%2Fs9%2Fd
 [/us/pl/86/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F618
+[/us/pl/113/54/s207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs207%2Fb
+[/us/stat/127/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F640
 [/us/pl/111/31/s103/q/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs103%2Fq%2F3
 [/us/stat/123/1840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1840
 [/us/pl/110/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85

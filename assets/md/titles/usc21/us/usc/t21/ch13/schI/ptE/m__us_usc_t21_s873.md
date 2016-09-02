@@ -103,7 +103,7 @@
 
 [Pub. L. 106–310, div. B, title XXXVI, § 3625][/us/pl/106/310/s3625], Oct. 17, 2000, [114 Stat. 1233][/us/stat/114/1233], provided that:
 
->     “(a) __Activities.—__ 
+>     “(a)  __Activities__  __.—__ 
 
 >     In order to combat the illegal manufacturing and trafficking in amphetamine and methamphetamine, the Administrator of the Drug Enforcement Administration may—
 
@@ -127,15 +127,15 @@
 
 >     “(b) __Additional Positions and Personnel.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In carrying out activities under subsection (a), the Administrator may establish in the Administration not more than 50 full-time positions, including not more than 31 special-agent positions, and may appoint personnel to such positions.
 
->         “(2) __Particular positions.—__ 
+>         “(2)  __Particular positions__  __.—__ 
 
 >         In carrying out activities under paragraphs (5) through (8) of subsection (a), the Administrator may establish in the Administration not more than 15 full-time positions, including not more than 10 diversion investigator positions, and may appoint personnel to such positions. Any positions established under this paragraph are in addition to any positions established under paragraph (1).
 
->     “(c) __Authorization of Appropriations.—__ 
+>     “(c)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated for the Drug Enforcement Administration for each fiscal year after fiscal year 1999, $9,500,000 for purposes of carrying out the activities authorized by subsection (a) and employing personnel in positions established under subsection (b), of which $3,000,000 shall be available for activities under paragraphs (5) through (8) of subsection (a) and for employing personnel in positions established under subsection (b)(2).”
 
@@ -143,19 +143,19 @@
 
 [Pub. L. 108–487, title I, § 104(e)][/us/pl/108/487/s104/e], Dec. 23, 2004, [118 Stat. 3942][/us/stat/118/3942], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Of the amount authorized to be appropriated in subsection (a) \[[118 Stat. 3941][/us/stat/118/3941]\], $42,322,000 shall be available for the National Drug Intelligence Center. Within such amount, funds provided for research, development, testing, and evaluation purposes shall remain available until September 30, 2006, and funds provided for procurement purposes shall remain available until September 30, 2007.
 
->     “(2) __Transfer of funds.—__ 
+>     “(2)  __Transfer of funds__  __.—__ 
 
 >     The Director of National Intelligence shall transfer to the Attorney General funds available for the National Drug Intelligence Center under paragraph (1). The Attorney General shall utilize funds so transferred for the activities of the National Drug Intelligence Center.
 
->     “(3) __Limitation.—__ 
+>     “(3)  __Limitation__  __.—__ 
 
 >     Amounts available for the National Drug Intelligence Center may not be used in contravention of the provisions of section 103(d)(1) of the National Security Act of 1947 ([50 U.S.C. 403–3(d)(1)][/us/usc/t50/s403–3/d/1]) \[now [50 U.S.C. 3025(d)(1)][/us/usc/t50/s3025/d/1]\].
 
->     “(4) __Authority.—__ 
+>     “(4)  __Authority__  __.—__ 
 
 >     Notwithstanding any other provision of law, the Attorney General shall retain full authority over the operations of the National Drug Intelligence Center.”
 

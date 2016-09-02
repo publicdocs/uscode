@@ -87,7 +87,7 @@
 
 [Pub. L. 107–281, § 2][/us/pl/107/281/s2], Nov. 6, 2002, [116 Stat. 1992][/us/stat/116/1992], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress makes the following findings:
 
@@ -105,7 +105,7 @@
 
 >         “(7) The Food and Drug Administration supports small clinical trials through Orphan Products Research Grants. Such grants embody successful partnerships of government and industry, and have led to the development of at least 23 drugs and four medical devices for rare diseases and disorders. Yet the appropriations in fiscal year 2001 for such grants were less than in fiscal year 1995.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purpose of this Act \[see Short Title of 2002 Amendments note set out under [section 301 of this title][/us/usc/t21/s301]\] is to increase the national investment in the development of diagnostics and treatments for patients with rare diseases and disorders.”
 

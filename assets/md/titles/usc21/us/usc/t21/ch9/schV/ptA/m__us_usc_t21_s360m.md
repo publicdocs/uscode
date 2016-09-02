@@ -189,15 +189,15 @@
 
 >     “(1) __Comptroller general.—__ 
 
->         “(A) __Implementation of program.—__ 
+>         “(A)  __Implementation of program__  __.—__ 
 
 >         Not later than 5 years after the date of the enactment of this Act \[Nov. 21, 1997\], the Comptroller General of the United States shall submit to the Committee on Commerce \[now Committee on Energy and Commerce\] of the House of Representatives and the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate a report describing the extent to which the program of accreditation required by the amendment made by subsection (a) \[enacting this section\] has been implemented.
 
->         “(B) __Evaluation of program.—__ 
+>         “(B)  __Evaluation of program__  __.—__ 
 
 >         Not later than 6 months prior to the date on which, pursuant to subsection (c) of section 523 of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 360m(c)][/us/usc/t21/s360m/c]\] (as added by subsection (a)), the authority provided under subsection (a) of such section will terminate, the Comptroller General shall submit to the Committee on Commerce \[now Committee on Energy and Commerce\] of the House of Representatives and the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate a report describing the use of accredited persons under such section 523, including an evaluation of the extent to which such use assisted the Secretary in carrying out the duties of the Secretary under such Act \[[21 U.S.C. 301][/us/usc/t21/s301] et seq.\] with respect to devices, and the extent to which such use promoted actions which are contrary to the purposes of such Act.
 
->     “(2) __Inclusion of certain devices within program.—__ 
+>     “(2)  __Inclusion of certain devices within program__  __.—__ 
 
 >     Not later than 3 years after the date of the enactment of this Act \[Nov. 21, 1997\], the Secretary of Health and Human Services shall submit to the Committee on Commerce of the House of Representatives and the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate a report providing a determination by the Secretary of whether, in the program of accreditation established pursuant to the amendment made by subsection (a), the limitation established in clause (iii) of section 523(a)(3)(A) of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 360m(a)(3)(A)][/us/usc/t21/s360m/a/3/A]\] (relating to class II devices for which clinical data are required in reports under section 510(k) \[[21 U.S.C. 360(k)][/us/usc/t21/s360/k]\]) should be removed.”
 

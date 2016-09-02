@@ -51,7 +51,7 @@
 
 [Pub. L. 112–144, title XI, § 1112][/us/pl/112/144/s1112], July 9, 2012, [126 Stat. 1111][/us/stat/126/1111], provided that:
 
->     “(a) __Report.—__ 
+>     “(a)  __Report__  __.—__ 
 
 >     Not later than 18 months after the date of the enactment of this Act \[July 9, 2012\], the Secretary, after obtaining input from medical gas manufacturers and any other interested members of the public, shall—
 
@@ -59,11 +59,11 @@
 
 >         “(2) submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report regarding any such changes.
 
->     “(b) __Regulations.—__ 
+>     “(b)  __Regulations__  __.—__ 
 
 >     If the Secretary determines under subsection (a) that changes to the Federal drug regulations are necessary for medical gases, the Secretary shall issue final regulations revising the Federal drug regulations with respect to medical gases not later than 48 months after the date of the enactment of this Act \[July 9, 2012\].
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     In this section:
 

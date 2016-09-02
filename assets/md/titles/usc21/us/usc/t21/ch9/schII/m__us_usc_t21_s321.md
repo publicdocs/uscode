@@ -299,7 +299,7 @@
 
     (jj) The term “antibiotic drug” means any drug (except drugs for use in animals other than humans) composed wholly or partly of any kind of penicillin, streptomycin, chlortetracycline, chloramphenicol, bacitracin, or any other drug intended for human use containing any quantity of any chemical substance which is produced by a micro-organism and which has the capacity to inhibit or destroy micro-organisms in dilute solution (including a chemically synthesized equivalent of any such substance) or any derivative thereof.
 
-    (kk) __Priority supplement.—__ 
+    (kk)  __Priority supplement__  __.—__ 
 
     The term “priority supplement” means a drug application referred to in section 101(4) of the Food and Drug Administration Modernization Act of 1997 ([111 Stat. 2298][/us/stat/111/2298]).
 

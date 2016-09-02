@@ -163,7 +163,7 @@
 
 [Pub. L. 111–31, div. A, § 4][/us/pl/111/31/s4], June 22, 2009, [123 Stat. 1782][/us/stat/123/1782], provided that:
 
->     “(a) __Intended Effect.—__ 
+>     “(a)  __Intended Effect__  __.—__ 
 
 >     Nothing in this division \[see Short Title of 2009 Amendment note set out under [section 301 of this title][/us/usc/t21/s301]\] (or an amendment made by this division) shall be construed to—
 
@@ -171,11 +171,11 @@
 
 >         “(2) affect any action pending in Federal, State, or tribal court, or any agreement, consent decree, or contract of any kind.
 
->     “(b) __Agricultural Activities.—__ 
+>     “(b)  __Agricultural Activities__  __.—__ 
 
 >     The provisions of this division (or an amendment made by this division) which authorize the Secretary to take certain actions with regard to tobacco and tobacco products shall not be construed to affect any authority of the Secretary of Agriculture under existing law regarding the growing, cultivation, or curing of raw tobacco.
 
->     “(c) __Revenue Activities.—__ 
+>     “(c)  __Revenue Activities__  __.—__ 
 
 >     The provisions of this division (or an amendment made by this division) which authorize the Secretary to take certain actions with regard to tobacco products shall not be construed to affect any authority of the Secretary of the Treasury under chapter 52 of the Internal Revenue Code of 1986 \[[26 U.S.C. 5701][/us/usc/t26/s5701] et seq.\].”
 
@@ -315,19 +315,19 @@
 
 >     “(a) __Delayed Commencement of Dates for Secretarial Action.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in subsection (c), with respect to any time periods specified in this division \[see Short Title of 2009 Amendment note set out under [section 301 of this title][/us/usc/t21/s301]\] (or in an amendment made by this division) that begin on the date of enactment of this Act \[June 22, 2009\], within which the Secretary of Health and Human Services is required to carry out and complete specified activities, the calculation of such time periods shall commence on the date described in subsection (b).
 
->         “(2) __Limitation.—__ 
+>         “(2)  __Limitation__  __.—__ 
 
 >         Subsection (a) shall only apply with respect to obligations of the Secretary of Health and Human Services that must be completed within a specified time period and shall not apply to the obligations of any other person or to any other provision of this division (including the amendments made by this division) that do not create such obligations of the Secretary and are not contingent on actions by the Secretary.
 
->     “(b) __Date Described.—__ 
+>     “(b)  __Date Described__  __.—__ 
 
 >     The date described in this subsection is the first day of the first fiscal quarter following the initial 2 consecutive fiscal quarters of fiscal year 2010 for which the Secretary of Health and Human Services has collected fees under section 919 of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 387s][/us/usc/t21/s387s]\] (as added by section 101).
 
->     “(c) __Exception.—__ 
+>     “(c)  __Exception__  __.—__ 
 
 >     Subsection (a) shall not apply to any time period (or date) contained—
 
@@ -335,7 +335,7 @@
 
 >         “(2) in sections 201 through 204 \[amending sections 1333, 1334, and 4402 of Title 15, Commerce and Trade, and enacting provisions set out as notes under sections 1333 and 4402 of Title 15\] (or the amendments made by any such sections).
 
->     “(d) __Adjustment.—__ 
+>     “(d)  __Adjustment__  __.—__ 
 
 >     The Secretary of Health and Human Services may extend or reduce the duration of one or more time periods to which subsection (a) applies if the Secretary determines appropriate \[sic\], except that no such period shall be extended for more than 90 days.”
 

@@ -275,7 +275,135 @@
 
                 (iii) approval of a biologics license application under subsection (a) of [section 262 of title 42][/us/usc/t42/s262].
 
-([June 25, 1938, ch. 675, § 503][/us/act/1938-06-25/ch675/s503], [52 Stat. 1051][/us/stat/52/1051]; [Oct. 26, 1951, ch. 578, § 1][/us/act/1951-10-26/ch578/s1], [65 Stat. 648][/us/stat/65/648]; [Pub. L. 87–781, title I, § 104(e)(2)][/us/pl/87/781/s104/e/2], Oct. 10, 1962, [76 Stat. 785][/us/stat/76/785]; [Pub. L. 91–601, § 6(e)][/us/pl/91/601/s6/e], formerly § 7(e), Dec. 30, 1970, [84 Stat. 1673][/us/stat/84/1673], renumbered [Pub. L. 97–35, title XII, § 1205(c)][/us/pl/97/35/s1205/c], Aug. 13, 1981, [95 Stat. 716][/us/stat/95/716]; [Pub. L. 100–293][/us/pl/100/293], §§ 4–6, Apr. 22, 1988, [102 Stat. 96–98][/us/stat/102/96-98]; [Pub. L. 100–670, title I, § 105][/us/pl/100/670/s105], Nov. 16, 1988, [102 Stat. 3983][/us/stat/102/3983]; [Pub. L. 101–629, § 16(a)][/us/pl/101/629/s16/a], Nov. 28, 1990, [104 Stat. 4526][/us/stat/104/4526]; [Pub. L. 102–108, § 2(d)][/us/pl/102/108/s2/d], Aug. 17, 1991, [105 Stat. 550][/us/stat/105/550]; [Pub. L. 102–300, § 6(d)][/us/pl/102/300/s6/d], June 16, 1992, [106 Stat. 240][/us/stat/106/240]; [Pub. L. 102–353][/us/pl/102/353], §§ 2(a)–(c), 4, Aug. 26, 1992, [106 Stat. 941][/us/stat/106/941], 942; [Pub. L. 104–250, § 5(a)][/us/pl/104/250/s5/a], Oct. 9, 1996, [110 Stat. 3155][/us/stat/110/3155]; [Pub. L. 105–115, title I][/us/pl/105/115], §§ 123(e), 126(a), (c)(1), (2), Nov. 21, 1997, [111 Stat. 2324][/us/stat/111/2324], 2327, 2328; [Pub. L. 107–250, title II, § 204][/us/pl/107/250/s204], Oct. 26, 2002, [116 Stat. 1611][/us/stat/116/1611]; [Pub. L. 108–282, title I, § 102(b)(5)(F)][/us/pl/108/282/s102/b/5/F], Aug. 2, 2004, [118 Stat. 903][/us/stat/118/903].)
+([June 25, 1938, ch. 675, § 503][/us/act/1938-06-25/ch675/s503], [52 Stat. 1051][/us/stat/52/1051]; [Oct. 26, 1951, ch. 578, § 1][/us/act/1951-10-26/ch578/s1], [65 Stat. 648][/us/stat/65/648]; [Pub. L. 87–781, title I, § 104(e)(2)][/us/pl/87/781/s104/e/2], Oct. 10, 1962, [76 Stat. 785][/us/stat/76/785]; [Pub. L. 91–601, § 6(e)][/us/pl/91/601/s6/e], formerly § 7(e), Dec. 30, 1970, [84 Stat. 1673][/us/stat/84/1673], renumbered [Pub. L. 97–35, title XII, § 1205(c)][/us/pl/97/35/s1205/c], Aug. 13, 1981, [95 Stat. 716][/us/stat/95/716]; [Pub. L. 100–293][/us/pl/100/293], §§ 4–6, Apr. 22, 1988, [102 Stat. 96–98][/us/stat/102/96-98]; [Pub. L. 100–670, title I, § 105][/us/pl/100/670/s105], Nov. 16, 1988, [102 Stat. 3983][/us/stat/102/3983]; [Pub. L. 101–629, § 16(a)][/us/pl/101/629/s16/a], Nov. 28, 1990, [104 Stat. 4526][/us/stat/104/4526]; [Pub. L. 102–108, § 2(d)][/us/pl/102/108/s2/d], Aug. 17, 1991, [105 Stat. 550][/us/stat/105/550]; [Pub. L. 102–300, § 6(d)][/us/pl/102/300/s6/d], June 16, 1992, [106 Stat. 240][/us/stat/106/240]; [Pub. L. 102–353][/us/pl/102/353], §§ 2(a)–(c), 4, Aug. 26, 1992, [106 Stat. 941][/us/stat/106/941], 942; [Pub. L. 104–250, § 5(a)][/us/pl/104/250/s5/a], Oct. 9, 1996, [110 Stat. 3155][/us/stat/110/3155]; [Pub. L. 105–115, title I][/us/pl/105/115], §§ 123(e), 126(a), (c)(1), (2), Nov. 21, 1997, [111 Stat. 2324][/us/stat/111/2324], 2327, 2328; [Pub. L. 107–250, title II, § 204][/us/pl/107/250/s204], Oct. 26, 2002, [116 Stat. 1611][/us/stat/116/1611]; [Pub. L. 108–282, title I, § 102(b)(5)(F)][/us/pl/108/282/s102/b/5/F], Aug. 2, 2004, [118 Stat. 903][/us/stat/118/903]; [Pub. L. 113–54, title II, § 204(a)(1)][/us/pl/113/54/s204/a/1]–(4), (b), Nov. 27, 2013, [127 Stat. 630–635][/us/stat/127/630-635].)
+
+ __Amendment of Subsections (d) and (e)__ 
+
+[Pub. L. 113–54, title II, § 204(a)(1)][/us/pl/113/54/s204/a/1]–(4), (b), (c), Nov. 27, 2013, [127 Stat. 630–636][/us/stat/127/630-636], provided that, effective Jan. 1, 2015, this section is amended as follows:
+
+    (1) in subsection (d), by adding at the end the following:
+
+    (4) In this subsection, the term “authorized distributors of record” means those distributors with whom a manufacturer has established an ongoing relationship to distribute such manufacturer’s products.; and
+
+    (2) in subsection (e), by striking paragraphs (1) to (3) and adding the following:
+
+    (1) Requirement.—Subject to [section 360eee–2 of this title][/us/usc/t21/s360eee–2]:
+
+    (A) In general.—No person may engage in wholesale distribution of a drug subject to subsection (b)(1) in any State unless such person—
+
+    (i)(I) is licensed by the State from which the drug is distributed; or
+
+    (II) if the State from which the drug is distributed has not established a licensure requirement, is licensed by the Secretary; and
+
+    (ii) if the drug is distributed interstate, is licensed by the State into which the drug is distributed if the State into which the drug is distributed requires the licensure of a person that distributes drugs into the State.
+
+    (B) Standards.—Each Federal and State license described in subparagraph (A) shall meet the standards, terms, and conditions established by the Secretary under [section 360eee–2 of this title][/us/usc/t21/s360eee–2].
+
+    (2) Reporting and database.—
+
+    (A) Reporting.—Beginning January 1, 2015, any person who owns or operates an establishment that engages in wholesale distribution shall—
+
+    (i) report to the Secretary, on an annual basis pursuant to a schedule determined by the Secretary—
+
+    (I) each State by which the person is licensed and the appropriate identification number of each such license; and
+
+    (II) the name, address, and contact information of each facility at which, and all trade names under which, the person conducts business; and
+
+    (ii) report to the Secretary within a reasonable period of time and in a reasonable manner, as determined by the Secretary, any significant disciplinary actions, such as the revocation or suspension of a wholesale distributor license, taken by a State or the Federal Government during the reporting period against the wholesale distributor.
+
+    (B) Database.—Not later than January 1, 2015, the Secretary shall establish a database of authorized wholesale distributors. Such database shall—
+
+    (i) identify each authorized wholesale distributor by name, contact information, and each State where such wholesale distributor is appropriately licensed to engage in wholesale distribution;
+
+    (ii) be available to the public on the Internet Web site of the Food and Drug Administration; and
+
+    (iii) be regularly updated on a schedule determined by the Secretary.
+
+    (C) Coordination.—The Secretary shall establish a format and procedure for appropriate State officials to access the information provided pursuant to subparagraph (A) in a prompt and secure manner.
+
+    (D) Confidentiality.—Nothing in this paragraph shall be construed as authorizing the Secretary to disclose any information that is a trade secret or confidential information subject to [section 552(b)(4) of title 5][/us/usc/t5/s552/b/4] or [section 1905 of title 18][/us/usc/t18/s1905].
+
+    (3) Costs.—
+
+    (A) Authorized fees of secretary.—If a State does not establish a licensing program for persons engaged in the wholesale distribution of a drug subject to subsection (b), the Secretary shall license a person engaged in wholesale distribution located in such State and may collect a reasonable fee in such amount necessary to reimburse the Secretary for costs associated with establishing and administering the licensure program and conducting periodic inspections under this section. The Secretary shall adjust fee rates as needed on an annual basis to generate only the amount of revenue needed to perform this service. Fees authorized under this paragraph shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts. Such fees are authorized to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation.
+
+    (B) State licensing fees.—Nothing in this chapter shall prohibit States from collecting fees from wholesale distributors in connection with State licensing of such distributors.
+
+    (4) For the purposes of this subsection and subsection (d), the term “wholesale distribution” means the distribution of a drug subject to subsection (b) to a person other than a consumer or patient, or receipt of a drug subject to subsection (b) by a person other than the consumer or patient, but does not include—
+
+    (A) intracompany distribution of any drug between members of an affiliate or within a manufacturer;
+
+    (B) the distribution of a drug, or an offer to distribute a drug among hospitals or other health care entities which are under common control;
+
+    (C) the distribution of a drug or an offer to distribute a drug for emergency medical reasons, including a public health emergency declaration pursuant to [section 247d of title 42][/us/usc/t42/s247d], except that, for purposes of this paragraph, a drug shortage not caused by a public health emergency shall not constitute an emergency medical reason;
+
+    (D) the dispensing of a drug pursuant to a prescription executed in accordance with subsection (b)(1);
+
+    (E) the distribution of minimal quantities of drug by a licensed retail pharmacy to a licensed practitioner for office use;
+
+    (F) the distribution of a drug or an offer to distribute a drug by a charitable organization to a nonprofit affiliate of the organization to the extent otherwise permitted by law;
+
+    (G) the purchase or other acquisition by a dispenser, hospital, or other health care entity of a drug for use by such dispenser, hospital, or other health care entity;
+
+    (H) the distribution of a drug by the manufacturer of such drug;
+
+    (I) the receipt or transfer of a drug by an authorized third-party logistics provider provided that such third-party logistics provider does not take ownership of the drug;
+
+    (J) a common carrier that transports a drug, provided that the common carrier does not take ownership of the drug;
+
+    (K) the distribution of a drug, or an offer to distribute a drug by an authorized repackager that has taken ownership or possession of the drug and repacks it in accordance with [section 360eee–1(e) of this title][/us/usc/t21/s360eee–1/e];
+
+    (L) salable drug returns when conducted by a dispenser;
+
+    (M) the distribution of a collection of finished medical devices, which may include a product or biological product, assembled in kit form strictly for the convenience of the purchaser or user (referred to in this subparagraph as a “medical convenience kit”) if—
+
+    (i) the medical convenience kit is assembled in an establishment that is registered with the Food and Drug Administration as a device manufacturer in accordance with [section 360(b)(2) of this title][/us/usc/t21/s360/b/2];
+
+    (ii) the medical convenience kit does not contain a controlled substance that appears in a schedule contained in the Comprehensive Drug Abuse Prevention and Control Act of 1970;
+
+    (iii) in the case of a medical convenience kit that includes a product, the person that manufacturers the kit—
+
+    (I) purchased such product directly from the pharmaceutical manufacturer or from a wholesale distributor that purchased the product directly from the pharmaceutical manufacturer; and
+
+    (II) does not alter the primary container or label of the product as purchased from the manufacturer or wholesale distributor; and
+
+    (iv) in the case of a medical convenience kit that includes a product, the product is—
+
+    (I) an intravenous solution intended for the replenishment of fluids and electrolytes;
+
+    (II) a product intended to maintain the equilibrium of water and minerals in the body;
+
+    (III) a product intended for irrigation or reconstitution;
+
+    (IV) an anesthetic;
+
+    (V) an anticoagulant;
+
+    (VI) a vasopressor; or
+
+    (VII) a sympathomimetic;
+
+    (N) the distribution of an intravenous drug that, by its formulation, is intended for the replenishment of fluids and electrolytes (such as sodium, chloride, and potassium) or calories (such as dextrose and amino acids);
+
+    (O) the distribution of an intravenous drug used to maintain the equilibrium of water and minerals in the body, such as dialysis solutions;
+
+    (P) the distribution of a drug that is intended for irrigation, or sterile water, whether intended for such purposes or for injection;
+
+    (Q) the distribution of medical gas, as defined in [section 360ddd of this title][/us/usc/t21/s360ddd];
+
+    (R) facilitating the distribution of a product by providing solely administrative services, including processing of orders and payments; or
+
+    (S) the transfer of a product by a hospital or other health care entity, or by a wholesale distributor or manufacturer operating at the direction of the hospital or other health care entity, to a repackager described in [section 360eee(16)(B) of this title][/us/usc/t21/s360eee/16/B] and registered under [section 360 of this title][/us/usc/t21/s360] for the purpose of repackaging the drug for use by that hospital, or other health care entity and other health care entities that are under common control, if ownership of the drug remains with the hospital or other health care entity at all times.
+
+    (5) Third-party logistics providers.—Notwithstanding paragraphs (1) through (4), each entity that meets the definition of a third-party logistics provider under [section 360eee(22) of this title][/us/usc/t21/s360eee/22] shall obtain a license as a third-party logistics provider as described in [section 360eee–3(a) of this title][/us/usc/t21/s360eee–3/a] and is not required to obtain a license as a wholesale distributor if the entity never assumes an ownership interest in the product it handles.
+
+    (6) Affiliate.—For purposes of this subsection, the term “affiliate” means a business entity that has a relationship with a second business entity if, directly or indirectly—
+
+    (A) one business entity controls, or has the power to control, the other business entity; or
+
+    (B) a third party controls, or has the power to control, both of the business entities.
+
+    See 2013 Amendment notes below.
 
  __References in Text__ 
 
@@ -286,6 +414,10 @@
     In subsec. (b)(5), “sections 4721, 6001, and 6151 of title 26” and “[section 4761 of title 26][/us/usc/t26/s4761]” substituted for “section 3220 of the Internal Revenue Code ([26 U.S.C. 3220][/us/usc/t26/s3220])” and “section 3238(b) of the Internal Revenue Code ([26 U.S.C. 3238(b)][/us/usc/t26/s3238/b])”, respectively, on authority of [section 7852(b) of Title 26][/us/usc/t26/s7852/b], Internal Revenue Code.
 
  __Amendments__ 
+
+    2013—Subsec. (d)(4). [Pub. L. 113–54, § 204(b)][/us/pl/113/54/s204/b], added par. (4).
+
+    Subsec. (e). [Pub. L. 113–54, § 204(a)(1)][/us/pl/113/54/s204/a/1]–(4), added pars. (1) to (6) and struck out former pars. (1) to (3). Prior to amendment, pars. (1) to (3) set out certain disclosure and licensing requirements for wholesale distributors and defined “authorized distributors of record” and “wholesale distribution”.
 
     2004—Subsec. (f)(1)(A)(ii). [Pub. L. 108–282, § 102(b)(5)(F)(i)][/us/pl/108/282/s102/b/5/F/i], substituted “360b of this title, a conditionally-approved application under [section 360ccc of this title][/us/usc/t21/s360ccc], or an index listing under [section 360ccc–1 of this title][/us/usc/t21/s360ccc–1]” for “360b of this title”.
 
@@ -361,6 +493,12 @@
 
     1951—Subsec. (b). Act Oct. 26, 1951, amended subsec. (b) generally to protect the public from abuses in the sale of potent prescription drugs, and to relieve retail pharmacists and the public from unnecessary restrictions on the dispensation of drugs that are safe to use without supervision of a doctor.
 
+ __Effective Date of 2013 Amendment__ 
+
+[Pub. L. 113–54, title II, § 204(c)][/us/pl/113/54/s204/c], Nov. 27, 2013, [127 Stat. 636][/us/stat/127/636], provided that: 
+
+> “The amendments made by subsections (a) and (b) \[enacting [section 360eee–2 of this title][/us/usc/t21/s360eee–2] and amending this section\] shall take effect on January 1, 2015.”
+
  __Effective Date of 1997 Amendment__ 
 
     Amendment by [Pub. L. 105–115][/us/pl/105/115] effective 90 days after Nov. 21, 1997, except as otherwise provided, see [section 501 of Pub. L. 105–115][/us/pl/105/115/s501], set out as a note under [section 321 of this title][/us/usc/t21/s321].
@@ -375,7 +513,7 @@
 
 [Pub. L. 100–293, § 8][/us/pl/100/293/s8], Apr. 22, 1988, [102 Stat. 100][/us/stat/102/100], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     Except as provided in subsection (b), this Act and the amendments made by this Act \[amending this section and sections 331, 333, and 381 of this title and enacting provisions set out as notes under this section and [section 301 of this title][/us/usc/t21/s301]\] shall take effect upon the expiration of 90 days after the date of the enactment of this Act \[Apr. 22, 1988\].
 
@@ -405,15 +543,15 @@
 
 [Pub. L. 104–180, title VI, § 601][/us/pl/104/180/s601], Aug. 6, 1996, [110 Stat. 1593][/us/stat/110/1593], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 30 days after the date of enactment of this Act \[Aug. 6, 1996\], the Secretary of the Department of Health and Human Services shall request that national organizations representing health care professionals, consumer organizations, voluntary health agencies, the pharmaceutical industry, drug wholesalers, patient drug information database companies, and other relevant parties collaborate to develop a long-range comprehensive action plan to achieve goals consistent with the goals of the proposed rule of the Food and Drug Administration on ‘Prescription Drug Product Labeling: Medication Guide Requirements’ (60 Fed. Reg. 44182; relating to the provision of oral and written prescription information to consumers).
 
->     “(b) __Goals.—__ 
+>     “(b)  __Goals__  __.—__ 
 
 >     Goals consistent with the proposed rule described in subsection (a) are the distribution of useful written information to 75 percent of individuals receiving new precriptions \[sic\] by the year 2000 and to 95 percent by the year 2006.
 
->     “(c) __Plan.—__ 
+>     “(c)  __Plan__  __.—__ 
 
 >     The plan described in subsection (a) shall—
 
@@ -429,11 +567,11 @@
 
 >         “(6) provide for compliance with relevant State board regulations.
 
->     “(d) __Limitation on the Authority of the Secretary.—__ 
+>     “(d)  __Limitation on the Authority of the Secretary__  __.—__ 
 
 >     The Secretary of the Department of Health and Human Services shall have no authority to implement the proposed rule described in subsection (a), or to develop any similar regulation, policy statement, or other guideline specifying a uniform content or format for written information voluntarily provided to consumers about prescription drugs if, (1) not later than 120 days after the date of enactment of this Act \[Aug. 6, 1996\], the national organizations described in subsection (a) develop and submit to the Secretary for Health and Human Services a comprehensive, long-range action plan (as described in subsection (a)) which shall be acceptable to the Secretary of Health and Human Services; (2) the aforementioned plan is submitted to the Secretary of Health and Human Services for review and acceptance: Provided, That the Secretary shall give due consideration to the submitted plan and that any such acceptance shall not be arbitrarily withheld; and (3) the implementation of (a) a plan accepted by the Secretary commences within 30 days of the Secretary’s acceptance of such plan, or (b) the plan submitted to the Secretary commences within 60 days of the submission of such plan if the Secretary fails to take any action on the plan within 30 days of the submission of the plan. The Secretary shall accept, reject or suggest modifications to the plan submitted within 30 days of its submission. The Secretary may confer with and assist private parties in the development of the plan described in subsections (a) and (b).
 
->     “(e) __Secretary Review.—__ 
+>     “(e)  __Secretary Review__  __.—__ 
 
 >     Not later than January 1, 2001, the Secretary of the Department of Health and Human Services shall review the status of private-sector initiatives designed to achieve the goals of the plan described in subsection (a), and if such goals are not achieved, the limitation in subsection (d) shall not apply, and the Secretary shall seek public comment on other initiatives that may be carried out to meet such goals.”
 
@@ -507,6 +645,22 @@
 [/us/stat/116/1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1611
 [/us/pl/108/282/s102/b/5/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F282%2Fs102%2Fb%2F5%2FF
 [/us/stat/118/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F903
+[/us/pl/113/54/s204/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs204%2Fa%2F1
+[/us/stat/127/630-635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F630-635
+[/us/pl/113/54/s204/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs204%2Fa%2F1
+[/us/stat/127/630-636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F630-636
+[/us/usc/t21/s360eee–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360eee%E2%80%932
+[/us/usc/t21/s360eee–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360eee%E2%80%932
+[/us/usc/t5/s552/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F4
+[/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
+[/us/usc/t42/s247d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d
+[/us/usc/t21/s360eee–1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360eee%E2%80%931%2Fe
+[/us/usc/t21/s360/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360%2Fb%2F2
+[/us/usc/t21/s360ddd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360ddd
+[/us/usc/t21/s360eee/16/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360eee%2F16%2FB
+[/us/usc/t21/s360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360
+[/us/usc/t21/s360eee/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360eee%2F22
+[/us/usc/t21/s360eee–3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360eee%E2%80%933%2Fa
 [/us/usc/t21/s357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs357
 [/us/pl/105/115/s125/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs125%2Fb%2F1
 [/us/stat/111/2325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2325
@@ -514,6 +668,8 @@
 [/us/usc/t26/s3220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3220
 [/us/usc/t26/s3238/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3238%2Fb
 [/us/usc/t26/s7852/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7852%2Fb
+[/us/pl/113/54/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs204%2Fb
+[/us/pl/113/54/s204/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs204%2Fa%2F1
 [/us/pl/108/282/s102/b/5/F/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F282%2Fs102%2Fb%2F5%2FF%2Fi
 [/us/usc/t21/s360ccc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360ccc
 [/us/usc/t21/s360ccc–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360ccc%E2%80%931
@@ -557,6 +713,9 @@
 [/us/pl/91/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F601
 [/us/usc/t21/s352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs352
 [/us/pl/87/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F781
+[/us/pl/113/54/s204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs204%2Fc
+[/us/stat/127/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F636
+[/us/usc/t21/s360eee–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360eee%E2%80%932
 [/us/pl/105/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115
 [/us/pl/105/115/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs501
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321

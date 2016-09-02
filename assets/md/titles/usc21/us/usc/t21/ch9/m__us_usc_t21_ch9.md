@@ -497,7 +497,23 @@ Part A—Drugs and Devices  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs353a%E2%80%931" data-uslm-ref="/us/usc/t21/s353a–1">353a–1.</a>  </td>
+
+    <td> Enhanced communication.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs353b" data-uslm-ref="/us/usc/t21/s353b">353b.</a>  </td>
+
+    <td> Outsourcing facilities.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs353c" data-uslm-ref="/us/usc/t21/s353c">353c.</a>  </td>
 
     <td> Prereview of television advertisements.  </td>
 
@@ -1211,6 +1227,54 @@ Part G—Medical Gases  </td>
 
     <td> 
 
+Part H—Pharmaceutical Distribution Supply Chain  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs360eee" data-uslm-ref="/us/usc/t21/s360eee">360eee.</a>  </td>
+
+    <td> Definitions.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs360eee%E2%80%931" data-uslm-ref="/us/usc/t21/s360eee–1">360eee–1.</a>  </td>
+
+    <td> Requirements.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs360eee%E2%80%932" data-uslm-ref="/us/usc/t21/s360eee–2">360eee–2.</a>  </td>
+
+    <td> National standards for prescription drug wholesale distributors.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs360eee%E2%80%933" data-uslm-ref="/us/usc/t21/s360eee–3">360eee–3.</a>  </td>
+
+    <td> National standards for third-party logistics providers.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs360eee%E2%80%934" data-uslm-ref="/us/usc/t21/s360eee–4">360eee–4.</a>  </td>
+
+    <td> Uniform national policy.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
 SUBCHAPTER VI—COSMETICS  </td>
 
   </tr>
@@ -1668,6 +1732,30 @@ subpart 8—fees relating to biosimilar biological products  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9353" data-uslm-ref="/us/usc/t21/s379j–53">379j–53.</a>  </td>
 
     <td> Reauthorization; reporting requirements.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+subpart 9—fees relating to outsourcing facilities  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9361" data-uslm-ref="/us/usc/t21/s379j–61">379j–61.</a>  </td>
+
+    <td> Definitions.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9362" data-uslm-ref="/us/usc/t21/s379j–62">379j–62.</a>  </td>
+
+    <td> Authority to assess and use outsourcing facility fees.  </td>
 
   </tr>
 

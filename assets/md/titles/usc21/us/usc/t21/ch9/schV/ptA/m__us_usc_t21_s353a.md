@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t21/ch9/schV/ptA/m__us_usc_t21_s353.md) | [Next](./../../../../../..//us/usc/t21/ch9/schV/ptA/m__us_usc_t21_s353b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353a)
+[Previous](./../../../../../..//us/usc/t21/ch9/schV/ptA/m__us_usc_t21_s353.md) | [Next](./../../../../../..//us/usc/t21/ch9/schV/ptA/m__us_usc_t21_s353a–1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353a)
 
 ## § 353a. Pharmacy compounding
 
     (a) __In general__ 
 
-    Sections 351(a)(2)(B), 352(f)(1), and 355 of this title shall not apply to a drug product if the drug product is compounded for an identified individual patient based on the unsolicited receipt of a valid prescription order or a notation, approved by the prescribing practitioner, on the prescription order that a compounded product is necessary for the identified patient, if the drug product meets the requirements of this section, and if the compounding—
+    Sections 351(a)(2)(B), 352(f)(1), and 355 of this title shall not apply to a drug product if the drug product is compounded for an identified individual patient based on the receipt of a valid prescription order or a notation, approved by the prescribing practitioner, on the prescription order that a compounded product is necessary for the identified patient, if the drug product meets the requirements of this section, and if the compounding—
 
         (1)
 
@@ -63,7 +63,7 @@
 
                     (II) if such a monograph does not exist, are drug substances that are components of drugs approved by the Secretary; or
 
-                    (III) if such a monograph does not exist and the drug substance is not a component of a drug approved by the Secretary, that appear on a list developed by the Secretary through regulations issued by the Secretary under subsection (d) of this section;
+                    (III) if such a monograph does not exist and the drug substance is not a component of a drug approved by the Secretary, that appear on a list developed by the Secretary through regulations issued by the Secretary under subsection (c) of this section;
 
                 (ii) that are manufactured by an establishment that is registered under [section 360 of this title][/us/usc/t21/s360] (including a foreign establishment that is registered under [section 360(i) of this title][/us/usc/t21/s360/i]); and
 
@@ -95,11 +95,7 @@
 
             The Secretary shall, in consultation with the National Association of Boards of Pharmacy, develop a standard memorandum of understanding for use by the States in complying with subparagraph (B)(i).
 
-    (c) __Advertising and promotion__ 
-
-        A drug may be compounded under subsection (a) of this section only if the pharmacy, licensed pharmacist, or licensed physician does not advertise or promote the compounding of any particular drug, class of drug, or type of drug. The pharmacy, licensed pharmacist, or licensed physician may advertise and promote the compounding service provided by the licensed pharmacist or licensed physician.
-
-    (d) __Regulations__ 
+    (c) __Regulations__ 
 
         (1) __In general__ 
 
@@ -109,7 +105,7 @@
 
             The Secretary, in consultation with the United States Pharmacopoeia Convention, Incorporated, shall promulgate regulations identifying drug substances that may be used in compounding under subsection (b)(1)(A)(i)(III) of this section for which a monograph does not exist or which are not components of drug products approved by the Secretary. The Secretary shall include in the regulation the criteria for such substances, which shall include historical use, reports in peer reviewed medical literature, or other criteria the Secretary may identify.
 
-    (e) __Application__ 
+    (d) __Application__ 
 
     This section shall not apply to—
 
@@ -117,15 +113,19 @@
 
         (2) radiopharmaceuticals.
 
-    (f) __“Compounding” defined__ 
+    (e) __“Compounding” defined__ 
 
         As used in this section, the term “compounding” does not include mixing, reconstituting, or other such acts that are performed in accordance with directions contained in approved labeling provided by the product’s manufacturer and other manufacturer directions consistent with that labeling.
 
-([June 25, 1938, ch. 675, § 503A][/us/act/1938-06-25/ch675/s503A], as added [Pub. L. 105–115, title I, § 127(a)][/us/pl/105/115/s127/a], Nov. 21, 1997, [111 Stat. 2328][/us/stat/111/2328].)
+([June 25, 1938, ch. 675, § 503A][/us/act/1938-06-25/ch675/s503A], as added [Pub. L. 105–115, title I, § 127(a)][/us/pl/105/115/s127/a], Nov. 21, 1997, [111 Stat. 2328][/us/stat/111/2328]; amended [Pub. L. 113–54, title I, § 106(a)][/us/pl/113/54/s106/a], Nov. 27, 2013, [127 Stat. 598][/us/stat/127/598].)
 
- __Constitutionality__ 
+ __Amendments__ 
 
-For information regarding constitutionality of section 503A of act June 25, 1938, as added by [section 127(a) of Pub. L. 105–115][/us/pl/105/115/s127/a], see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+    2013—Subsec. (a). [Pub. L. 113–54, § 106(a)(1)][/us/pl/113/54/s106/a/1], struck out “unsolicited” before “receipt of a valid prescription” in introductory provisions.
+
+    Subsec. (b)(1)(A)(i)(III). [Pub. L. 113–54, § 106(a)(4)][/us/pl/113/54/s106/a/4], substituted “subsection (c)” for “subsection (d)”.
+
+    Subsec. (c) to (e). [Pub. L. 113–54, § 106(a)(2)][/us/pl/113/54/s106/a/2], (3), redesignated subsecs. (d) to (f) as (c) to (e), respectively, and struck out former subsec. (c). Prior to amendment, subsec. (c) read as follows: “A drug may be compounded under subsection (a) of this section only if the pharmacy, licensed pharmacist, or licensed physician does not advertise or promote the compounding of any particular drug, class of drug, or type of drug. The pharmacy, licensed pharmacist, or licensed physician may advertise and promote the compounding service provided by the licensed pharmacist or licensed physician.”
 
  __Effective Date__ 
 
@@ -135,7 +135,7 @@ For information regarding constitutionality of section 503A of act June 25, 1938
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t21/ch9/schV/ptA/m__us_usc_t21_s353.md) | [Next](./../../../../../..//us/usc/t21/ch9/schV/ptA/m__us_usc_t21_s353b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353a)
+[Previous](./../../../../../..//us/usc/t21/ch9/schV/ptA/m__us_usc_t21_s353.md) | [Next](./../../../../../..//us/usc/t21/ch9/schV/ptA/m__us_usc_t21_s353a–1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353a)
 
 ----------
 ----------
@@ -146,7 +146,11 @@ For information regarding constitutionality of section 503A of act June 25, 1938
 [/us/act/1938-06-25/ch675/s503A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs503A
 [/us/pl/105/115/s127/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs127%2Fa
 [/us/stat/111/2328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2328
-[/us/pl/105/115/s127/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs127%2Fa
+[/us/pl/113/54/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs106%2Fa
+[/us/stat/127/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F598
+[/us/pl/113/54/s106/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs106%2Fa%2F1
+[/us/pl/113/54/s106/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs106%2Fa%2F4
+[/us/pl/113/54/s106/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs106%2Fa%2F2
 [/us/pl/105/115/s127/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs127%2Fb
 [/us/stat/111/2330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2330
 [/us/usc/t21/s353a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353a

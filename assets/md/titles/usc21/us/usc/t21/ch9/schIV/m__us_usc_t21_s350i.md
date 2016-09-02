@@ -65,11 +65,11 @@
 
 [Pub. L. 111–353, title I, § 106(b)][/us/pl/111/353/s106/b], Jan. 4, 2011, [124 Stat. 3906][/us/stat/124/3906], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Jan. 4, 2011\], the Secretary of Health and Human Services, in consultation with the Secretary of Homeland Security and the Secretary of Agriculture, shall issue guidance documents related to protection against the intentional adulteration of food, including mitigation strategies or measures to guard against such adulteration as required under section 420 of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 450i][/us/usc/t21/s450i]\], as added by subsection (a).
 
->     “(2) __Content.—__ 
+>     “(2)  __Content__  __.—__ 
 
 >     The guidance documents issued under paragraph (1) shall—
 
@@ -79,7 +79,7 @@
 
 >         “(C) specify situations in which the examples of mitigation strategies or measures described in subsection (b)(2) of such section are appropriate.
 
->     “(3) __Limited distribution.—__ 
+>     “(3)  __Limited distribution__  __.—__ 
 
 >     In the interest of national security, the Secretary of Health and Human Services, in consultation with the Secretary of Homeland Security, may determine the time, manner, and form in which the guidance documents issued under paragraph (1) are made public, including by releasing such documents to targeted audiences.”
 

@@ -95,11 +95,11 @@
 
 [Pub. L. 111–31, div. A, title I, § 103(q)(5)][/us/pl/111/31/s103/q/5], (6), June 22, 2009, [123 Stat. 1840][/us/stat/123/1840], provided that:
 
->     “(5) __Package label requirements.—__ 
+>     “(5)  __Package label requirements__  __.—__ 
 
 >     The package label requirements of paragraphs (3) and (4) of section 903(a) of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 387c(a)][/us/usc/t21/s387c/a]\] (as amended by this division) shall take effect on the date that is 12 months after the date of enactment of this Act \[June 22, 2009\]. The package label requirements of paragraph (2) of such section 903(a) for cigarettes shall take effect on the date that is 15 months after the issuance of the regulations required by section 4(d) of the Federal Cigarette Labeling and Advertising Act ([15 U.S.C. 1333][/us/usc/t15/s1333]\[(d)\]), as amended by section 201 of this division. The package label requirements of paragraph (2) of such section 903(a) for tobacco products other than cigarettes shall take effect on the date that is 12 months after the date of enactment of this Act. The effective date shall be with respect to the date of manufacture, provided that, in any case, beginning 30 days after such effective date, a manufacturer shall not introduce into the domestic commerce of the United States any product, irrespective of the date of manufacture, that is not in conformance with section 903(a)(2), (3), and (4) and section 920(a) of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 387t(a)][/us/usc/t21/s387t/a]\].
 
->     “(6) __Advertising requirements.—__ 
+>     “(6)  __Advertising requirements__  __.—__ 
 
 >     The advertising requirements of section 903(a)(8) of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 387c(a)(8)][/us/usc/t21/s387c/a/8]\] (as amended by this division) shall take effect on the date that is 12 months after the date of enactment of this Act \[June 22, 2009\].”
 

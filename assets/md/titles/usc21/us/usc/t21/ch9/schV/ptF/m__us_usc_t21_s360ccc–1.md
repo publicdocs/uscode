@@ -179,7 +179,7 @@
 
     The labeling of a new animal drug that is the subject of an index listing shall state, prominently and conspicuously—
 
-        (1) __“Not approved by fda.—__ 
+        (1) __“__  __Not approved by fda__  __.—__ 
 
         Legally marketed as an FDA indexed product. Extra-label use is prohibited.”;
 

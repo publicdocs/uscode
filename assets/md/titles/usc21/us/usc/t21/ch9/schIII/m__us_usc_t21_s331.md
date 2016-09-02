@@ -73,7 +73,7 @@
 
     (s) The failure to provide the notice required by section 350a(c) or 350a(e) of this title, the failure to make the reports required by [section 350a(f)(1)(B) of this title][/us/usc/t21/s350a/f/1/B], the failure to retain the records required by [section 350a(b)(4) of this title][/us/usc/t21/s350a/b/4], or the failure to meet the requirements prescribed under [section 350a(f)(3) of this title][/us/usc/t21/s350a/f/3].
 
-    (t) The importation of a drug in violation of [section 381(d)(1) of this title][/us/usc/t21/s381/d/1], the sale, purchase, or trade of a drug or drug sample or the offer to sell, purchase, or trade a drug or drug sample in violation of [section 353(c) of this title][/us/usc/t21/s353/c], the sale, purchase, or trade of a coupon, the offer to sell, purchase, or trade such a coupon, or the counterfeiting of such a coupon in violation of [section 353(c)(2) of this title][/us/usc/t21/s353/c/2], the distribution of a drug sample in violation of [section 353(d) of this title][/us/usc/t21/s353/d] or the failure to otherwise comply with the requirements of [section 353(d) of this title][/us/usc/t21/s353/d], or the distribution of drugs in violation of [section 353(e) of this title][/us/usc/t21/s353/e] or the failure to otherwise comply with the requirements of [section 353(e) of this title][/us/usc/t21/s353/e].
+    (t) The importation of a drug in violation of [section 381(d)(1) of this title][/us/usc/t21/s381/d/1], the sale, purchase, or trade of a drug or drug sample or the offer to sell, purchase, or trade a drug or drug sample in violation of [section 353(c) of this title][/us/usc/t21/s353/c], the sale, purchase, or trade of a coupon, the offer to sell, purchase, or trade such a coupon, or the counterfeiting of such a coupon in violation of [section 353(c)(2) of this title][/us/usc/t21/s353/c/2], the distribution of a drug sample in violation of [section 353(d) of this title][/us/usc/t21/s353/d] or the failure to otherwise comply with the requirements of [section 353(d) of this title][/us/usc/t21/s353/d], the distribution of drugs in violation of [section 353(e) of this title][/us/usc/t21/s353/e], failure to comply with the requirements under [section 360eee–1 of this title][/us/usc/t21/s360eee–1], the failure to comply with the requirements under [section 360eee–3 of this title][/us/usc/t21/s360eee–3], as applicable, or the failure to otherwise comply with the requirements of [section 353(e) of this title][/us/usc/t21/s353/e].
 
     (u) The failure to comply with any requirements of the provisions of, or any regulations or orders of the Secretary, under section 360b(a)(4)(A), 360b(a)(4)(D), or 360b(a)(5) of this title.
 
@@ -121,7 +121,7 @@
 
         (3) The submission of clinical trial information under subsection (j) of [section 282 of title 42][/us/usc/t42/s282] that is false or misleading in any particular under paragraph (5)(D) of such subsection (j).
 
-    (kk) The dissemination of a television advertisement without complying with [section 353b of this title][/us/usc/t21/s353b].
+    (kk) The dissemination of a television advertisement without complying with section 353c 1 of this title.
 
     (ll)
 
@@ -203,17 +203,31 @@
 
     (bbb) The failure to notify the Secretary in violation of [section 360bbb–7 of this title][/us/usc/t21/s360bbb–7].
 
-([June 25, 1938, ch. 675, § 301][/us/act/1938-06-25/ch675/s301], [52 Stat. 1042][/us/stat/52/1042]; [Dec. 22, 1941, ch. 613, § 1][/us/act/1941-12-22/ch613/s1], [55 Stat. 851][/us/stat/55/851]; [July 6, 1945, ch. 281, § 1][/us/act/1945-07-06/ch281/s1], [59 Stat. 463][/us/stat/59/463]; [Mar. 10, 1947, ch. 16, § 1][/us/act/1947-03-10/ch16/s1], [61 Stat. 11][/us/stat/61/11]; [June 24, 1948, ch. 613, § 1][/us/act/1948-06-24/ch613/s1], [62 Stat. 582][/us/stat/62/582]; [Mar. 16, 1950, ch. 61, § 3(b)][/us/act/1950-03-16/ch61/s3/b], [64 Stat. 20][/us/stat/64/20]; [Aug. 7, 1953, ch. 350, § 2][/us/act/1953-08-07/ch350/s2], [67 Stat. 477][/us/stat/67/477]; [Pub. L. 85–929, § 5][/us/pl/85/929/s5], Sept. 6, 1958, [72 Stat. 1788][/us/stat/72/1788]; [Pub. L. 86–618, title I][/us/pl/86/618], §§ 104, 105(a), July 12, 1960, [74 Stat. 403][/us/stat/74/403]; [Pub. L. 87–781, title I][/us/pl/87/781], §§ 103(c), 104(e)(1), 106(c), 114(a), title III, § 304, Oct. 10, 1962, [76 Stat. 784][/us/stat/76/784], 785, 788, 791, 795; [Pub. L. 89–74][/us/pl/89/74], §§ 5, 9(c), July 15, 1965, [79 Stat. 232][/us/stat/79/232], 235; [Pub. L. 90–399, § 103][/us/pl/90/399/s103], July 13, 1968, [82 Stat. 352][/us/stat/82/352]; [Pub. L. 90–639, § 2(b)][/us/pl/90/639/s2/b], Oct. 24, 1968, [82 Stat. 1361][/us/stat/82/1361]; [Pub. L. 91–513, title II, § 701(a)][/us/pl/91/513/s701/a], Oct. 27, 1970, [84 Stat. 1281][/us/stat/84/1281]; [Pub. L. 92–387, § 4(e)][/us/pl/92/387/s4/e], Aug. 16, 1972, [86 Stat. 562][/us/stat/86/562]; [Pub. L. 94–295][/us/pl/94/295], §§ 3(b), 4(b)(1), 7(b), May 28, 1976, [90 Stat. 576][/us/stat/90/576], 580, 582; [Pub. L. 96–359, § 5][/us/pl/96/359/s5], Sept. 26, 1980, [94 Stat. 1193][/us/stat/94/1193]; [Pub. L. 99–570, title IV, § 4014(b)(2)][/us/pl/99/570/s4014/b/2], Oct. 27, 1986, [100 Stat. 3207–120][/us/stat/100/3207-120]; [Pub. L. 100–293, § 7(a)][/us/pl/100/293/s7/a], Apr. 22, 1988, [102 Stat. 99][/us/stat/102/99]; [Pub. L. 101–502, § 5(j)][/us/pl/101/502/s5/j], Nov. 3, 1990, [104 Stat. 1289][/us/stat/104/1289]; [Pub. L. 101–508, title IV, § 4755(c)(2)][/us/pl/101/508/s4755/c/2], Nov. 5, 1990, [104 Stat. 1388–210][/us/stat/104/1388-210]; [Pub. L. 102–300, § 3(a)(1)][/us/pl/102/300/s3/a/1], June 16, 1992, [106 Stat. 238][/us/stat/106/238]; [Pub. L. 102–571, title I, § 107(2)][/us/pl/102/571/s107/2], (3), Oct. 29, 1992, [106 Stat. 4499][/us/stat/106/4499]; [Pub. L. 103–80, § 3(c)][/us/pl/103/80/s3/c], Aug. 13, 1993, [107 Stat. 775][/us/stat/107/775]; [Pub. L. 103–396, § 2(b)(1)][/us/pl/103/396/s2/b/1], Oct. 22, 1994, [108 Stat. 4154][/us/stat/108/4154]; [Pub. L. 103–417, § 10(b)][/us/pl/103/417/s10/b], Oct. 25, 1994, [108 Stat. 4332][/us/stat/108/4332]; [Pub. L. 104–134, title II, § 2103][/us/pl/104/134/s2103], Apr. 26, 1996, [110 Stat. 1321–319][/us/stat/110/1321-319]; [Pub. L. 104–170, title IV, § 403][/us/pl/104/170/s403], Aug. 3, 1996, [110 Stat. 1514][/us/stat/110/1514]; [Pub. L. 104–250, § 5(d)][/us/pl/104/250/s5/d], Oct. 9, 1996, [110 Stat. 3156][/us/stat/110/3156]; [Pub. L. 105–115, title I, § 125(a)(2)(A)][/us/pl/105/115/s125/a/2/A], (C), (b)(2)(B), title II, §§ 204(b), 210(c), title IV, §§ 401(b), 421, Nov. 21, 1997, [111 Stat. 2325][/us/stat/111/2325], 2336, 2345, 2364, 2380; [Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title VII, § 745(d)(1)\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–39; [Pub. L. 107–188, title III][/us/pl/107/188], §§ 303(b), 304(d), 305(b), 306(c), 307(b), 321(b)(2), 322(b), June 12, 2002, [116 Stat. 664][/us/stat/116/664], 666, 668, 670, 672, 676, 677; [Pub. L. 107–250, title II, § 201(d)][/us/pl/107/250/s201/d], Oct. 26, 2002, [116 Stat. 1609][/us/stat/116/1609]; [Pub. L. 108–136, div. A, title XVI, § 1603(c)][/us/pl/108/136/s1603/c], Nov. 24, 2003, [117 Stat. 1690][/us/stat/117/1690]; [Pub. L. 108–173, title XI, § 1121(b)(1)][/us/pl/108/173/s1121/b/1], Dec. 8, 2003, [117 Stat. 2469][/us/stat/117/2469]; [Pub. L. 108–214, § 2(b)(2)(A)][/us/pl/108/214/s2/b/2/A], Apr. 1, 2004, [118 Stat. 575][/us/stat/118/575]; [Pub. L. 108–282, title I, § 102(b)(5)(C)][/us/pl/108/282/s102/b/5/C], (D), Aug. 2, 2004, [118 Stat. 902][/us/stat/118/902]; [Pub. L. 109–59, title VII, § 7202(d)][/us/pl/109/59/s7202/d], (e), Aug. 10, 2005, [119 Stat. 1913][/us/stat/119/1913]; [Pub. L. 109–462][/us/pl/109/462], §§ 2(c), 3(b), 4(a), Dec. 22, 2006, [120 Stat. 3472][/us/stat/120/3472], 3475; [Pub. L. 110–85, title VIII, § 801(b)(1)][/us/pl/110/85/s801/b/1], title IX, §§ 901(d)(1), 912(a), title X, § 1005(d), Sept. 27, 2007, [121 Stat. 920][/us/stat/121/920], 939, 951, 968; [Pub. L. 111–31, div. A, title I, § 103(b)][/us/pl/111/31/s103/b], June 22, 2009, [123 Stat. 1833][/us/stat/123/1833]; [Pub. L. 111–353, title I][/us/pl/111/353], §§ 102(d)(1), 103(e), 105(c), 106(d), title II, §§ 204(j)(1), 206(d), 211(b), (c), title III, § 301(b), Jan. 4, 2011, [124 Stat. 3889][/us/stat/124/3889], 3898, 3904, 3906, 3937, 3943, 3953, 3954; [Pub. L. 112–144, title VII][/us/pl/112/144], §§ 714(a), 715(a), July 9, 2012, [126 Stat. 1073][/us/stat/126/1073], 1075.)
+    (ccc)
+
+        (1) The resale of a compounded drug that is labeled “not for resale” in accordance with [section 353b of this title][/us/usc/t21/s353b].
+
+        (2) With respect to a drug to be compounded pursuant to section 353a or 353b of this title, the intentional falsification of a prescription, as applicable.
+
+        (3) The failure to report drugs or adverse events by an entity that is registered in accordance with subsection (b) of [section 353b of this title][/us/usc/t21/s353b].
+
+([June 25, 1938, ch. 675, § 301][/us/act/1938-06-25/ch675/s301], [52 Stat. 1042][/us/stat/52/1042]; [Dec. 22, 1941, ch. 613, § 1][/us/act/1941-12-22/ch613/s1], [55 Stat. 851][/us/stat/55/851]; [July 6, 1945, ch. 281, § 1][/us/act/1945-07-06/ch281/s1], [59 Stat. 463][/us/stat/59/463]; [Mar. 10, 1947, ch. 16, § 1][/us/act/1947-03-10/ch16/s1], [61 Stat. 11][/us/stat/61/11]; [June 24, 1948, ch. 613, § 1][/us/act/1948-06-24/ch613/s1], [62 Stat. 582][/us/stat/62/582]; [Mar. 16, 1950, ch. 61, § 3(b)][/us/act/1950-03-16/ch61/s3/b], [64 Stat. 20][/us/stat/64/20]; [Aug. 7, 1953, ch. 350, § 2][/us/act/1953-08-07/ch350/s2], [67 Stat. 477][/us/stat/67/477]; [Pub. L. 85–929, § 5][/us/pl/85/929/s5], Sept. 6, 1958, [72 Stat. 1788][/us/stat/72/1788]; [Pub. L. 86–618, title I][/us/pl/86/618], §§ 104, 105(a), July 12, 1960, [74 Stat. 403][/us/stat/74/403]; [Pub. L. 87–781, title I][/us/pl/87/781], §§ 103(c), 104(e)(1), 106(c), 114(a), title III, § 304, Oct. 10, 1962, [76 Stat. 784][/us/stat/76/784], 785, 788, 791, 795; [Pub. L. 89–74][/us/pl/89/74], §§ 5, 9(c), July 15, 1965, [79 Stat. 232][/us/stat/79/232], 235; [Pub. L. 90–399, § 103][/us/pl/90/399/s103], July 13, 1968, [82 Stat. 352][/us/stat/82/352]; [Pub. L. 90–639, § 2(b)][/us/pl/90/639/s2/b], Oct. 24, 1968, [82 Stat. 1361][/us/stat/82/1361]; [Pub. L. 91–513, title II, § 701(a)][/us/pl/91/513/s701/a], Oct. 27, 1970, [84 Stat. 1281][/us/stat/84/1281]; [Pub. L. 92–387, § 4(e)][/us/pl/92/387/s4/e], Aug. 16, 1972, [86 Stat. 562][/us/stat/86/562]; [Pub. L. 94–295][/us/pl/94/295], §§ 3(b), 4(b)(1), 7(b), May 28, 1976, [90 Stat. 576][/us/stat/90/576], 580, 582; [Pub. L. 96–359, § 5][/us/pl/96/359/s5], Sept. 26, 1980, [94 Stat. 1193][/us/stat/94/1193]; [Pub. L. 99–570, title IV, § 4014(b)(2)][/us/pl/99/570/s4014/b/2], Oct. 27, 1986, [100 Stat. 3207–120][/us/stat/100/3207-120]; [Pub. L. 100–293, § 7(a)][/us/pl/100/293/s7/a], Apr. 22, 1988, [102 Stat. 99][/us/stat/102/99]; [Pub. L. 101–502, § 5(j)][/us/pl/101/502/s5/j], Nov. 3, 1990, [104 Stat. 1289][/us/stat/104/1289]; [Pub. L. 101–508, title IV, § 4755(c)(2)][/us/pl/101/508/s4755/c/2], Nov. 5, 1990, [104 Stat. 1388–210][/us/stat/104/1388-210]; [Pub. L. 102–300, § 3(a)(1)][/us/pl/102/300/s3/a/1], June 16, 1992, [106 Stat. 238][/us/stat/106/238]; [Pub. L. 102–571, title I, § 107(2)][/us/pl/102/571/s107/2], (3), Oct. 29, 1992, [106 Stat. 4499][/us/stat/106/4499]; [Pub. L. 103–80, § 3(c)][/us/pl/103/80/s3/c], Aug. 13, 1993, [107 Stat. 775][/us/stat/107/775]; [Pub. L. 103–396, § 2(b)(1)][/us/pl/103/396/s2/b/1], Oct. 22, 1994, [108 Stat. 4154][/us/stat/108/4154]; [Pub. L. 103–417, § 10(b)][/us/pl/103/417/s10/b], Oct. 25, 1994, [108 Stat. 4332][/us/stat/108/4332]; [Pub. L. 104–134, title II, § 2103][/us/pl/104/134/s2103], Apr. 26, 1996, [110 Stat. 1321–319][/us/stat/110/1321-319]; [Pub. L. 104–170, title IV, § 403][/us/pl/104/170/s403], Aug. 3, 1996, [110 Stat. 1514][/us/stat/110/1514]; [Pub. L. 104–250, § 5(d)][/us/pl/104/250/s5/d], Oct. 9, 1996, [110 Stat. 3156][/us/stat/110/3156]; [Pub. L. 105–115, title I, § 125(a)(2)(A)][/us/pl/105/115/s125/a/2/A], (C), (b)(2)(B), title II, §§ 204(b), 210(c), title IV, §§ 401(b), 421, Nov. 21, 1997, [111 Stat. 2325][/us/stat/111/2325], 2336, 2345, 2364, 2380; [Pub. L. 106–387, § 1(a)][/us/pl/106/387/s1/a] \[title VII, § 745(d)(1)\], Oct. 28, 2000, [114 Stat. 1549][/us/stat/114/1549], 1549A–39; [Pub. L. 107–188, title III][/us/pl/107/188], §§ 303(b), 304(d), 305(b), 306(c), 307(b), 321(b)(2), 322(b), June 12, 2002, [116 Stat. 664][/us/stat/116/664], 666, 668, 670, 672, 676, 677; [Pub. L. 107–250, title II, § 201(d)][/us/pl/107/250/s201/d], Oct. 26, 2002, [116 Stat. 1609][/us/stat/116/1609]; [Pub. L. 108–136, div. A, title XVI, § 1603(c)][/us/pl/108/136/s1603/c], Nov. 24, 2003, [117 Stat. 1690][/us/stat/117/1690]; [Pub. L. 108–173, title XI, § 1121(b)(1)][/us/pl/108/173/s1121/b/1], Dec. 8, 2003, [117 Stat. 2469][/us/stat/117/2469]; [Pub. L. 108–214, § 2(b)(2)(A)][/us/pl/108/214/s2/b/2/A], Apr. 1, 2004, [118 Stat. 575][/us/stat/118/575]; [Pub. L. 108–282, title I, § 102(b)(5)(C)][/us/pl/108/282/s102/b/5/C], (D), Aug. 2, 2004, [118 Stat. 902][/us/stat/118/902]; [Pub. L. 109–59, title VII, § 7202(d)][/us/pl/109/59/s7202/d], (e), Aug. 10, 2005, [119 Stat. 1913][/us/stat/119/1913]; [Pub. L. 109–462][/us/pl/109/462], §§ 2(c), 3(b), 4(a), Dec. 22, 2006, [120 Stat. 3472][/us/stat/120/3472], 3475; [Pub. L. 110–85, title VIII, § 801(b)(1)][/us/pl/110/85/s801/b/1], title IX, §§ 901(d)(1), 912(a), title X, § 1005(d), Sept. 27, 2007, [121 Stat. 920][/us/stat/121/920], 939, 951, 968; [Pub. L. 111–31, div. A, title I, § 103(b)][/us/pl/111/31/s103/b], June 22, 2009, [123 Stat. 1833][/us/stat/123/1833]; [Pub. L. 111–353, title I][/us/pl/111/353], §§ 102(d)(1), 103(e), 105(c), 106(d), title II, §§ 204(j)(1), 206(d), 211(b), (c), title III, § 301(b), Jan. 4, 2011, [124 Stat. 3889][/us/stat/124/3889], 3898, 3904, 3906, 3937, 3943, 3953, 3954; [Pub. L. 112–144, title VII][/us/pl/112/144], §§ 714(a), 715(a), July 9, 2012, [126 Stat. 1073][/us/stat/126/1073], 1075; [Pub. L. 113–54, title I, § 103(a)][/us/pl/113/54/s103/a], title II, § 206(a), Nov. 27, 2013, [127 Stat. 597][/us/stat/127/597], 639.)
 
  __References in Text__ 
 
     [Section 2223 of this title][/us/usc/t21/s2223], referred to in par. (e), was in the original “section 204 of the FDA Food Safety Modernization Act”, meaning [section 204 of Pub. L. 111–353][/us/pl/111/353/s204], which enacted [section 2223 of this title][/us/usc/t21/s2223] and amended this section and [section 381 of this title][/us/usc/t21/s381].
+
+    [Section 353c of this title][/us/usc/t21/s353c], referred to in par. (kk), was in the original a reference to section 503B of act June 25, 1938, and was translated as if it referred to section 503C of that Act, to reflect the probable intent of Congress and the renumbering of section 503B as 503C by [Pub. L. 113–54, title I, § 102(a)(1)][/us/pl/113/54/s102/a/1], Nov. 27, 2013, [127 Stat. 587][/us/stat/127/587], and its transfer to [section 353c of this title][/us/usc/t21/s353c]. A new section 503B, which was enacted by [section 102(a)(2) of Pub. L. 113–54][/us/pl/113/54/s102/a/2], is classified to [section 353b of this title][/us/usc/t21/s353b] and does not relate to television advertisements.
 
  __Constitutionality__ 
 
 For information regarding constitutionality of certain provisions of section 301 of act June 25, 1938, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
  __Amendments__ 
+
+    2013—Par. (t). [Pub. L. 113–54, § 206(a)][/us/pl/113/54/s206/a], struck out “or” after “the requirements of [section 353(d) of this title][/us/usc/t21/s353/d],” and inserted “, failure to comply with the requirements under [section 360eee–1 of this title][/us/usc/t21/s360eee–1], the failure to comply with the requirements under [section 360eee–3 of this title][/us/usc/t21/s360eee–3], as applicable,” after “in violation of [section 353(e) of this title][/us/usc/t21/s353/e]”.
+
+    Par. (ccc). [Pub. L. 113–54, § 103(a)][/us/pl/113/54/s103/a], added par. (ccc).
 
     2012—Par. (aaa). [Pub. L. 112–144, § 714(a)][/us/pl/112/144/s714/a], added par. (aaa).
 
@@ -421,13 +435,13 @@ For information regarding constitutionality of certain provisions of section 301
 
 [Pub. L. 110–85, title IX, § 909][/us/pl/110/85/s909], Sept. 27, 2007, [121 Stat. 950][/us/stat/121/950], provided that:
 
->     “(a) __Effective Date.—__ 
+>     “(a)  __Effective Date__  __.—__ 
 
 >     This subtitle \[subtitle A (§§ 901–909) of title IX of [Pub. L. 110–85][/us/pl/110/85], enacting sections 353b and 355–1 of this title, amending this section, sections 333, 352, and 355 of this title, and [section 262 of Title 42][/us/usc/t42/s262], The Public Health and Welfare, and enacting provisions set out as notes under sections 352, 355, and 355a of this title\] takes effect 180 days after the date of the enactment of this Act \[Sept. 27, 2007\].
 
 >     “(b) __Drugs Deemed to Have Risk Evaluation and Mitigation Strategies.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         A drug that was approved before the effective date of this Act \[probably means “this subtitle”, see above\] is, in accordance with paragraph (2), deemed to have in effect an approved risk evaluation and mitigation strategy under section 505–1 of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 355–1][/us/usc/t21/s355–1]\] (as added by section 901) (referred to in this section as the ‘Act’) if there are in effect on the effective date of this Act elements to assure safe use—
 
@@ -435,7 +449,7 @@ For information regarding constitutionality of certain provisions of section 301
 
 >             “(B) otherwise agreed to by the applicant and the Secretary for such drug.
 
->         “(2) __Elements of strategy; enforcement.—__ 
+>         “(2)  __Elements of strategy; enforcement__  __.—__ 
 
 >         The approved risk evaluation and mitigation strategy in effect for a drug under paragraph (1)—
 
@@ -443,7 +457,7 @@ For information regarding constitutionality of certain provisions of section 301
 
 >             “(B) is subject to enforcement by the Secretary to the same extent as any other risk evaluation and mitigation strategy under section 505–1 of the Act, except that sections 303(f)(4) and 502(y) and (z) of the Act \[[21 U.S.C. 333(f)(4)][/us/usc/t21/s333/f/4], 352(y), (z)\] (as added by section 902) shall not apply to such strategy before the Secretary has completed review of, and acted on, the first assessment of such strategy under such section 505–1.
 
->         “(3) __Submission.—__ 
+>         “(3)  __Submission__  __.—__ 
 
 >         Not later than 180 days after the effective date of this Act, the holder of an approved application for which a risk evaluation and mitigation strategy is deemed to be in effect under paragraph (1) shall submit to the Secretary a proposed risk evaluation and mitigation strategy. Such proposed strategy is subject to section 505–1 of the Act as if included in such application at the time of submission of the application to the Secretary.”
 
@@ -531,9 +545,23 @@ For information regarding constitutionality of certain provisions of section 301
 
  __Regulations__ 
 
+[Pub. L. 113–54, title I, § 104][/us/pl/113/54/s104], Nov. 27, 2013, [127 Stat. 597][/us/stat/127/597], provided that: 
+
+> “In promulgating any regulations to implement this title \[enacting subpart 9 of part C of subchapter VII of this chapter and sections 353a–1 and 353b of this title, amending this section and sections 352, 353a, 352b, and 353c of this title, and enacting provisions set out as notes under [section 301 of this title][/us/usc/t21/s301]\] (and the amendments made by this title), the Secretary of Health and Human Services shall—
+
+>     “(1) issue a notice of proposed rulemaking that includes the proposed regulation;
+
+>     “(2) provide a period of not less than 60 calendar days for comments on the proposed regulation; and
+
+>     “(3) publish the final regulation not more than 18 months following publication of the proposed rule and not less than 30 calendar days before the effective date of such final regulation.”
+
     Secretary of Health and Human Services to promulgate regulations to implement amendments made by [section 401 of Pub. L. 105–115][/us/pl/105/115/s401] not later than 1 year after Nov. 21, 1997, see [section 401(c) of Pub. L. 105–115][/us/pl/105/115/s401/c], set out as a note under [section 360aaa of this title][/us/usc/t21/s360aaa].
 
- __Savings Provision__ 
+ __Savings Provisions__ 
+
+[Pub. L. 113–54, title II, § 208][/us/pl/113/54/s208], Nov. 27, 2013, [127 Stat. 640][/us/stat/127/640], provided that: 
+
+> “Except as provided in the amendments made by paragraphs (1), (2), and (3) of section 204(a) \[amending [section 353 of this title][/us/usc/t21/s353]\] and by section 206(a) \[amending this section\], nothing in this title \[enacting part H of subchapter V of this chapter, amending this section and sections 333, 352, 353, and 360eee–1 of this title, and enacting provisions set out as notes under sections 301, 333, and 353 of this title\] (including the amendments made by this title) shall be construed as altering any authority of the Secretary of Health and Human Services with respect to a drug subject to section 503(b)(1) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 353(b)(1)][/us/usc/t21/s353/b/1]) under any other provision of such Act \[[21 U.S.C. 301][/us/usc/t21/s301] et seq.\] or the Public Health Service Act ([42 U.S.C. 201][/us/usc/t42/s201] et seq.).”
 
     Amendment by [Pub. L. 91–513][/us/pl/91/513] not to affect or abate any prosecutions for violation of law or any civil seizures or forfeitures and injunctive proceedings commenced prior to the effective date of such amendment, and all administrative proceedings pending before the Bureau of Narcotics and Dangerous Drugs \[now the Drug Enforcement Administration\] on Oct. 27, 1970, to be continued and brought to final determination in accord with laws and regulations in effect prior to Oct. 27, 1970, see [section 702 of Pub. L. 91–513][/us/pl/91/513/s702], set out as a note under [section 321 of this title][/us/usc/t21/s321].
 
@@ -584,6 +612,8 @@ For information regarding constitutionality of certain provisions of section 301
 [/us/usc/t21/s353/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353%2Fd
 [/us/usc/t21/s353/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353%2Fd
 [/us/usc/t21/s353/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353%2Fe
+[/us/usc/t21/s360eee–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360eee%E2%80%931
+[/us/usc/t21/s360eee–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360eee%E2%80%933
 [/us/usc/t21/s353/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353%2Fe
 [/us/usc/t21/s350b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs350b
 [/us/usc/t21/s381/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs381%2Fd%2F3
@@ -602,7 +632,6 @@ For information regarding constitutionality of certain provisions of section 301
 [/us/usc/t42/s282/j/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs282%2Fj%2F5%2FB
 [/us/usc/t42/s282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs282
 [/us/usc/t42/s282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs282
-[/us/usc/t21/s353b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353b
 [/us/usc/t21/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
 [/us/usc/t21/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355
@@ -623,6 +652,8 @@ For information regarding constitutionality of certain provisions of section 301
 [/us/usc/t21/s384a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs384a
 [/us/usc/t21/s381/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs381%2Fs
 [/us/usc/t21/s360bbb–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360bbb%E2%80%937
+[/us/usc/t21/s353b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353b
+[/us/usc/t21/s353b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353b
 [/us/act/1938-06-25/ch675/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675%2Fs301
 [/us/stat/52/1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1042
 [/us/act/1941-12-22/ch613/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-12-22%2Fch613%2Fs1
@@ -709,10 +740,24 @@ For information regarding constitutionality of certain provisions of section 301
 [/us/stat/124/3889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3889
 [/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/stat/126/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1073
+[/us/pl/113/54/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs103%2Fa
+[/us/stat/127/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F597
 [/us/usc/t21/s2223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs2223
 [/us/pl/111/353/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs204
 [/us/usc/t21/s2223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs2223
 [/us/usc/t21/s381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs381
+[/us/usc/t21/s353c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353c
+[/us/pl/113/54/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs102%2Fa%2F1
+[/us/stat/127/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F587
+[/us/usc/t21/s353c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353c
+[/us/pl/113/54/s102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs102%2Fa%2F2
+[/us/usc/t21/s353b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353b
+[/us/pl/113/54/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs206%2Fa
+[/us/usc/t21/s353/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353%2Fd
+[/us/usc/t21/s360eee–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360eee%E2%80%931
+[/us/usc/t21/s360eee–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360eee%E2%80%933
+[/us/usc/t21/s353/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353%2Fe
+[/us/pl/113/54/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs103%2Fa
 [/us/pl/112/144/s714/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs714%2Fa
 [/us/pl/112/144/s715/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs715%2Fa
 [/us/pl/111/353/s102/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs102%2Fd%2F1
@@ -910,9 +955,18 @@ For information regarding constitutionality of certain provisions of section 301
 [/us/pl/85/929/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F929%2Fs6%2Fa
 [/us/usc/t21/s342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs342
 [/us/usc/t21/s347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs347
+[/us/pl/113/54/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs104
+[/us/stat/127/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F597
+[/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 [/us/pl/105/115/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs401
 [/us/pl/105/115/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F115%2Fs401%2Fc
 [/us/usc/t21/s360aaa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360aaa
+[/us/pl/113/54/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs208
+[/us/stat/127/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F640
+[/us/usc/t21/s353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353
+[/us/usc/t21/s353/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353%2Fb%2F1
+[/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
+[/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/pl/91/513/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs702
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321

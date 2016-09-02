@@ -43,7 +43,7 @@
 
 [Pub. L. 102–237, title X, § 1012(a)][/us/pl/102/237/s1012/a], Dec. 13, 1991, [105 Stat. 1899][/us/stat/105/1899], provided that:
 
->     “(1) __Findings.—__ 
+>     “(1)  __Findings__  __.—__ 
 
 >     Congress finds that—
 
@@ -53,7 +53,7 @@
 
 >         “(C) eggs are perishable and therefore are particularly susceptible to supporting microbial growth if proper temperature controls are not maintained.
 
->     “(2) __Purposes.—__ 
+>     “(2)  __Purposes__  __.—__ 
 
 >     It is the purpose of this section \[amending sections 1034, 1037, 1041, 1042, 1046, and 1052 of this title and enacting provisions set out as a note under [section 1034 of this title][/us/usc/t21/s1034]\] to prescribe the temperature at which eggs are maintained in order to reduce the potential for harmful microbial growth to protect the health and welfare of consumers.”
 

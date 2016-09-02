@@ -153,7 +153,7 @@
 
 [Pub. L. 112–144, title IV, § 405][/us/pl/112/144/s405], July 9, 2012, [126 Stat. 1039][/us/stat/126/1039], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided under subsection (b), the amendments made by this title \[enacting this section and sections 379j–52 and 379j–53 of this title and amending sections 379d–4 and 379g of this title\] shall take effect on the later of—
 
@@ -161,7 +161,7 @@
 
 >         “(2) the date of the enactment of this title \[July 9, 2012\].
 
->     “(b) __Exception.—__ 
+>     “(b)  __Exception__  __.—__ 
 
 >     Fees under part 8 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\], as added by this title, shall be assessed for all biosimilar biological product applications received on or after October 1, 2012, regardless of the date of the enactment of this title.”
 

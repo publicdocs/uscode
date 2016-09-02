@@ -179,7 +179,7 @@
 
 [Pub. L. 109–469, title XI, § 1105][/us/pl/109/469/s1105], Dec. 29, 2006, [120 Stat. 3541][/us/stat/120/3541], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Director of the Office of National Drug Control Policy shall provide for or shall enter into an agreement with a non-profit corporation that is described in section 501(c)(3) of the Internal Revenue Code of 1986 \[[26 U.S.C. 501(c)(3)][/us/usc/t26/s501/c/3]\] and exempt from tax under section 501(a) of such Code to—
 
@@ -187,7 +187,7 @@
 
 >         “(2) revise such model State drug laws and draft supplementary model State laws to take into consideration changes in the alcohol and drug abuse problems in the State involved.
 
->     “(b) __Authorization of Appropriations.—__ 
+>     “(b)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to carry out this subsection \[probably should be “section”\] $1,500,000 for each of fiscal years 2007 through 2011.”
 

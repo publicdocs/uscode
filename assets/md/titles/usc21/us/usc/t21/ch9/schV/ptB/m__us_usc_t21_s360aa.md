@@ -43,11 +43,11 @@
 
 [Pub. L. 99–91, § 8][/us/pl/99/91/s8], Aug. 15, 1985, [99 Stat. 392][/us/stat/99/392], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     Except as provided in subsection (b), this Act and the amendments made by this Act \[amending this section, sections 360bb, 360cc, and 360ee of this title, and sections 295g–1 and 6022 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under [section 301 of this title][/us/usc/t21/s301] and [section 236 of Title 42][/us/usc/t42/s236]\] shall take effect October 1, 1985.
 
->     “(b) __Exception.—__ 
+>     “(b)  __Exception__  __.—__ 
 
 >     The amendments made by sections 2, 3, and 6(a) \[amending this section and sections 360bb and 360cc of this title\] shall take effect on the date of the enactment of this Act \[Aug. 15, 1985\]. The amendment made by section 6(b) \[amending [section 6022 of Title 42][/us/usc/t42/s6022]\] shall take effect October 19, 1984. The amendments made by section 7 \[amending [section 295g–1 of Title 42][/us/usc/t42/s295g–1]\] shall take effect October 1, 1984 and shall cease to be in effect after September 30, 1985.”
 

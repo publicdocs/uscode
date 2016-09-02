@@ -305,15 +305,15 @@
 
 >     “(a) __In General.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Director of National Drug Control Policy shall use amounts available under this section to combat the trafficking of methamphetamine and amphetamine in areas designated by the Director as high intensity drug trafficking areas.
 
->         “(2) __Activities.—__ 
+>         “(2)  __Activities__  __.—__ 
 
 >         In meeting the requirement in paragraph (1), the Director shall transfer funds to appropriate Federal, State, and local governmental agencies for employing additional Federal law enforcement personnel, or facilitating the employment of additional State and local law enforcement personnel, including agents, investigators, prosecutors, laboratory technicians, chemists, investigative assistants, and drug-prevention specialists.
 
->     “(b) __Authorization of Appropriations.—__ 
+>     “(b)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to carry out this section—
 
@@ -323,7 +323,7 @@
 
 >     “(c) __Apportionment of Funds.—__ 
 
->         “(1) __Factors in apportionment.—__ 
+>         “(1)  __Factors in apportionment__  __.—__ 
 
 >         The Director shall apportion amounts appropriated for a fiscal year pursuant to the authorization of appropriations in subsection (b) for activities under subsection (a) among and within areas designated by the Director as high intensity drug trafficking areas based on the following factors:
 
@@ -337,11 +337,11 @@
 
 >             “(E) Intelligence and predictive data from the Drug Enforcement Administration and the Department of Health and Human Services showing patterns and trends in abuse, trafficking, and transportation in methamphetamine, amphetamine, and listed chemicals (as that term is so defined).
 
->         “(2) __Certification.—__ 
+>         “(2)  __Certification__  __.—__ 
 
 >         Before the Director apportions any funds under this subsection to a high intensity drug trafficking area, the Director shall certify that the law enforcement entities responsible for clandestine methamphetamine and amphetamine laboratory seizures in that area are providing laboratory seizure data to the national clandestine laboratory database at the El Paso Intelligence Center.
 
->     “(d) __Limitation on Administrative Costs.—__ 
+>     “(d)  __Limitation on Administrative Costs__  __.—__ 
 
 >     Not more than 5 percent of the amount appropriated in a fiscal year pursuant to the authorization of appropriations for that fiscal year in subsection (b) may be available in that fiscal year for administrative costs associated with activities under subsection (a).”
 

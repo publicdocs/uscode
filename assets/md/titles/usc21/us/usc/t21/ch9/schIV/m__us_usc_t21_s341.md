@@ -41,11 +41,11 @@
 
 [Pub. L. 107–188, title III, § 301][/us/pl/107/188/s301], June 12, 2002, [116 Stat. 662][/us/stat/116/662], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The President’s Council on Food Safety (as established by Executive Order No. 13100 \[set out below\]) shall, in consultation with the Secretary of Transportation, the Secretary of the Treasury, other relevant Federal agencies, the food industry, consumer and producer groups, scientific organizations, and the States, develop a crisis communications and education strategy with respect to bioterrorist threats to the food supply. Such strategy shall address threat assessments; technologies and procedures for securing food processing and manufacturing facilities and modes of transportation; response and notification procedures; and risk communications to the public.
 
->     “(b) __Authorization of Appropriations.—__ 
+>     “(b)  __Authorization of Appropriations__  __.—__ 
 
 >     For the purpose of implementing the strategy developed under subsection (a), there are authorized to be appropriated $750,000 for fiscal year 2002, and such sums as may be necessary for each subsequent fiscal year.”
 
@@ -55,19 +55,19 @@
 
 >     “(a) __Establishment.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         There is established a commission to be known as the ‘Food Safety Commission’ (referred to in this section as the ‘Commission’).
 
 >         “(2) __Membership.—__ 
 
->             “(A) __Composition.—__ 
+>             “(A)  __Composition__  __.—__ 
 
 >             The Commission shall be composed of 15 members (including a Chairperson, appointed by the President\[)\].
 
 >             “(B) __Eligibility.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 Members of the Commission—
 
@@ -85,15 +85,15 @@
 
 >                         “(dd) health professionals.
 
->                 “(ii) __Federal employees.—__ 
+>                 “(ii)  __Federal employees__  __.—__ 
 
 >                 Not more than 3 members of the Commission may be Federal employees.
 
->             “(C) __Date of appointments.—__ 
+>             “(C)  __Date of appointments__  __.—__ 
 
 >             The appointment of the members of the Commission shall be made as soon as practicable after the date on which funds authorized to be appropriated under subsection (e)(1) are made available.
 
->             “(D) __Vacancies.—__ 
+>             “(D)  __Vacancies__  __.—__ 
 
 >             A vacancy on the Commission—
 
@@ -109,35 +109,35 @@
 
 >         “(3) __Meetings.—__ 
 
->             “(A) __Initial meeting.—__ 
+>             “(A)  __Initial meeting__  __.—__ 
 
 >             The initial meeting of the Commission shall be conducted not later than 30 days after the date of appointment of the final member of the Commission.
 
->             “(B) __Other meetings.—__ 
+>             “(B)  __Other meetings__  __.—__ 
 
 >             The Commission shall meet at the call of the Chairperson.
 
 >         “(4) __Quorum; standing rules.—__ 
 
->             “(A) __Quorum.—__ 
+>             “(A)  __Quorum__  __.—__ 
 
 >             A majority of the members of the Commission shall constitute a quorum to conduct business.
 
->             “(B) __Standing rules.—__ 
+>             “(B)  __Standing rules__  __.—__ 
 
 >             At the first meeting of the Commission, the Commission shall adopt standing rules of the Commission to guide the conduct of business and decisionmaking of the Commission.
 
 >     “(b) __Duties.—__ 
 
->         “(1) __Recommendations.—__ 
+>         “(1)  __Recommendations__  __.—__ 
 
 >         The Commission shall make specific recommendations to enhance the food safety system of the United States, including a description of how each recommendation would improve food safety.
 
->         “(2) __Components.—__ 
+>         “(2)  __Components__  __.—__ 
 
 >         Recommendations made by the Commission under paragraph (1) shall address all food available commercially in the United States.
 
->         “(3) __Report.—__ 
+>         “(3)  __Report__  __.—__ 
 
 >         Not later than 1 year after the date on which the Commission first meets, the Commission shall submit to the President and Congress—
 
@@ -149,29 +149,29 @@
 
 >     “(c) __Powers of the Commission.—__ 
 
->         “(1) __Hearings.—__ 
+>         “(1)  __Hearings__  __.—__ 
 
 >         The Commission may, for the purpose of carrying out this section, hold such hearings, meet and act at such times and places, take such testimony, and receive such evidence as the Commission considers advisable.
 
 >         “(2) __Information from federal agencies.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Commission may secure directly, from any Federal agency, such information as the Commission considers necessary to carry out this section.
 
 >             “(B) __Provision of information.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 Subject to subparagraph (C), on the request of the Commission, the head of a Federal agency described in subparagraph (A) may furnish information requested by the Commission to the Commission.
 
->                 “(ii) __Administration.—__ 
+>                 “(ii)  __Administration__  __.—__ 
 
 >                 The furnishing of information by a Federal agency to the Commission shall not be considered a waiver of any exemption available to the agency under [section 552 of title 5][/us/usc/t5/s552], United States Code.
 
 >             “(C) __Information to be kept confidential.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 For purposes of [section 1905 of title 18][/us/usc/t18/s1905], United States Code—
 
@@ -179,7 +179,7 @@
 
 >                          “(II) any individual employed by an individual, entity, or organization that is a party to a contract with the Commission under this section shall be considered an employee of the Commission.
 
->                 “(ii) __Prohibition on disclosure.—__ 
+>                 “(ii)  __Prohibition on disclosure__  __.—__ 
 
 >                 Information obtained by the Commission, other than information that is available to the public, shall not be disclosed to any person in any manner except to an employee of the Commission as described in clause (i), for the purpose of receiving, reviewing, or processing the information.
 
@@ -187,59 +187,59 @@
 
 >         “(1) __Members.—__ 
 
->             “(A) __Compensation.—__ 
+>             “(A)  __Compensation__  __.—__ 
 
 >             A member of the Commission shall serve without compensation for the services of the member on the Commission.
 
->             “(B) __Travel expenses.—__ 
+>             “(B)  __Travel expenses__  __.—__ 
 
 >             A member of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, United States Code, while away from the home or regular place of business of the member in the performance of the duties of the Commission.
 
 >         “(2) __Staff.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Chairperson of the Commission may, without regard to the civil service laws (including regulations), appoint and terminate the appointment of an executive director and such other additional personnel as are necessary to enable the Commission to perform the duties of the Commission.
 
->             “(B) __Confirmation of executive director.—__ 
+>             “(B)  __Confirmation of executive director__  __.—__ 
 
 >             The employment of an executive director shall be subject to confirmation by the Commission.
 
 >             “(C) __Compensation.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 Except as provided in clause (ii), the Chairperson of the Commission may fix the compensation of the executive director and other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates.
 
->                 “(ii) __Maximum rate of pay.—__ 
+>                 “(ii)  __Maximum rate of pay__  __.—__ 
 
 >                 The rate of pay for the executive director and other personnel shall not exceed the rate payable for level II of the Executive Schedule under [section 5316 of title 5][/us/usc/t5/s5316], United States Code.
 
->         “(3) __Detail of federal government employees.—__ 
+>         “(3)  __Detail of federal government employees__  __.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             An employee of the Federal Government may be detailed to the Commission, without reimbursement, for such period of time as is permitted by law.
 
->             “(B) __Civil service status.—__ 
+>             “(B)  __Civil service status__  __.—__ 
 
 >             The detail of the employee shall be without interruption or loss of civil service status or privilege.
 
->         “(4) __Procurement of temporary and intermittent services.—__ 
+>         “(4)  __Procurement of temporary and intermittent services__  __.—__ 
 
 >         The Chairperson of the Commission may procure temporary and intermittent services in accordance with [section 3109(b) of title 5][/us/usc/t5/s3109/b], United States Code, at rates for individuals that do not exceed the daily equivalent of the annual rate of basic pay prescribed for level II of the Executive Schedule under section 5316 of that title.
 
 >     “(e) __Authorization of Appropriations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         There is authorized to be appropriated such sums as are necessary to carry out this section.
 
->         “(2) __Limitation.—__ 
+>         “(2)  __Limitation__  __.—__ 
 
 >         No payment may be made under subsection (d) except to the extent provided for in advance in an appropriations Act.
 
->     “(f) __Termination.—__ 
+>     “(f)  __Termination__  __.—__ 
 
 >     The Commission shall terminate on the date that is 60 days after the date on which the Commission submits the recommendations and report under subsection (b)(3).”
 

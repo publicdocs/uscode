@@ -485,11 +485,11 @@
 
 [Pub. L. 112–144, title V, § 509(g)][/us/pl/112/144/s509/g], July 9, 2012, [126 Stat. 1050][/us/stat/126/1050], provided that:
 
->     “(1) __Application.—__ 
+>     “(1)  __Application__  __.—__ 
 
 >     Notwithstanding any provision of section 505A and 505B of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355a][/us/usc/t21/s355a], 355c) stating that a provision applies beginning on the date of the enactment of the Best Pharmaceuticals for Children Act of 2007 \[Sept. 27, 2007\] or the date of the enactment of the Pediatric Research Equity Act of 2007 \[Sept. 27, 2007\], any amendment made by this Act to such a provision applies beginning on the date of the enactment of this Act \[July 9, 2012\].
 
->     “(2) __Transitional rule for adverse event reporting.—__ 
+>     “(2)  __Transitional rule for adverse event reporting__  __.—__ 
 
 >     With respect to a drug for which a labeling change described under section 505A(l)(1) or 505B(i)(1) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355a][/us/usc/t21/s355a](l)(1); 355c(i)(1)) is approved or made, respectively, during the one-year period that ends on the day before the date of enactment of this Act \[July 9, 2012\], the Secretary \[of Health and Human Services\] shall apply section 505A(l) and section 505B(i), as applicable, to such drug, as such sections were in effect on such day.”
 
@@ -497,11 +497,11 @@
 
 [Pub. L. 110–85, title V, § 502(a)(2)][/us/pl/110/85/s502/a/2], Sept. 27, 2007, [121 Stat. 885][/us/stat/121/885], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     The amendment made by this subsection \[amending this section\] shall apply to written requests under section 505A of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355a][/us/usc/t21/s355a]) issued on or after the date of the enactment of this Act \[Sept. 27, 2007\].
 
->     “(B) __Certain written requests.—__ 
+>     “(B)  __Certain written requests__  __.—__ 
 
 >     A written request issued under section 505A of the Federal Food, Drug, and Cosmetic Act, as in effect on the day before the date of the enactment of this Act, which has been accepted and for which no determination under subsection (d)(2) of such section has been made before such date of enactment, shall be subject to such section 505A, except that such written requests shall be subject to subsections (d)(2)(A)(ii), (e)(1) and (2), (f), (i)(2)(A), (j), (k)(1), (l)(1), and (n) of section 505A of the Federal Food, Drug, and Cosmetic Act, as in effect on or after the date of the enactment of this Act.”
 
@@ -519,7 +519,7 @@
 
 [Pub. L. 110–85, title IX, § 901(e)][/us/pl/110/85/s901/e], Sept. 27, 2007, [121 Stat. 942][/us/stat/121/942], provided that: 
 
-> “This title \[enacting sections 353b, 355–1, 355e, 360a, and 360bbb–6 of this title, amending sections 331, 333, 334, 352, 355, and 381 of this title and [section 262 of Title 42][/us/usc/t42/s262], The Public Health and Welfare, and enacting provisions set out as notes under sections 331, 352, and 355 of this title\] and the amendments made by this title may not be construed as affecting the authority of the Secretary of Health and Human Services to request pediatric studies under section 505A of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 355a][/us/usc/t21/s355a]\] or to require such studies under section 505B of such Act \[[21 U.S.C. 355c][/us/usc/t21/s355c]\].”
+> “This title \[enacting sections 353c, 355–1, 355e, 360a, and 360bbb–6 of this title, amending sections 331, 333, 334, 352, 355, and 381 of this title and [section 262 of Title 42][/us/usc/t42/s262], The Public Health and Welfare, and enacting provisions set out as notes under sections 331, 352, and 355 of this title\] and the amendments made by this title may not be construed as affecting the authority of the Secretary of Health and Human Services to request pediatric studies under section 505A of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 355a][/us/usc/t21/s355a]\] or to require such studies under section 505B of such Act \[[21 U.S.C. 355c][/us/usc/t21/s355c]\].”
 
  __Communication With Pediatric Review Committee__ 
 

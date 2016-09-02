@@ -103,7 +103,7 @@
 
 [Pub. L. 100–418, title IV, § 4506][/us/pl/100/418/s4506], Aug. 23, 1988, [102 Stat. 1404][/us/stat/102/1404], provided that:
 
->     “(a) __Report.—__ 
+>     “(a)  __Report__  __.—__ 
 
 >     Not later than 90 days after the date of the enactment of this Act \[Aug. 23, 1988\], the Secretary of Agriculture shall submit a report to Congress—
 
@@ -137,11 +137,11 @@
 
 >         “(6) providing any recommendations the Secretary considers appropriate for legislation to add or modify penalties for violations of laws, regulations, and other enforcement requirements governing the level of residues that are permitted in or on imported covered products.
 
->     “(b) __Revision.—__ 
+>     “(b)  __Revision__  __.—__ 
 
 >     Not later than November 15, 1989, the Secretary of Agriculture shall revise, as necessary, the report prepared under subsection (a) and submit the revision to Congress.
 
->     “(c) __Definition.—__ 
+>     “(c)  __Definition__  __.—__ 
 
 >     As used in this section, the term ‘covered products’ means meat, poultry products, eggs, and egg products.”
 

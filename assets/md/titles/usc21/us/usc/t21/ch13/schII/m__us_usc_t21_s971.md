@@ -157,7 +157,7 @@
 
 >     “(1) Iodine shall not be subject to the requirements for listed chemicals provided in section 1018 of the Controlled Substances Import and Export Act ([21 U.S.C. 971][/us/usc/t21/s971]).
 
->     “(2) __Effect of Exception.—__ 
+>     “(2)  __Effect of Exception__  __.—__ 
 
 >     The exception made by paragraph (1) shall not limit the authority of the Attorney General to impose the requirements for listed chemicals provided in section 1018 of the Controlled Substances Import and Export Act ([21 U.S.C. 971][/us/usc/t21/s971]).”
 

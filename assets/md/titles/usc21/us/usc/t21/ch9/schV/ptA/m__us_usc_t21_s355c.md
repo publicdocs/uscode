@@ -529,11 +529,11 @@
 
 [Pub. L. 112–144, title V, § 506(c)][/us/pl/112/144/s506/c], July 9, 2012, [126 Stat. 1045][/us/stat/126/1045], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Subject to paragraph (2), the amendments made by this section \[amending this section\] shall take effect 180 calendar days after the date of enactment of this Act \[July 9, 2012\], irrespective of whether the Secretary \[of Health and Human Services\] has promulgated final regulations to carry out such amendments.
 
->     “(2) __Rule of construction.—__ 
+>     “(2)  __Rule of construction__  __.—__ 
 
 >     Paragraph (1) shall not be construed to affect the deadline for promulgation of proposed regulations under section 505B(e)(7) of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 355c(e)(7)][/us/usc/t21/s355c/e/7]\], as added by subsection (a) of this section.”
 
@@ -543,11 +543,11 @@
 
 [Pub. L. 110–85, title IV, § 402(b)][/us/pl/110/85/s402/b], Sept. 27, 2007, [121 Stat. 875][/us/stat/121/875], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Notwithstanding subsection (h) of section 505B of the Federal Food, Drug and Cosmetic Act \[[21 U.S.C. 355c(h)][/us/usc/t21/s355c/h]\], as in effect on the day before the date of the enactment of this Act \[Sept. 27, 2007\], a pending assessment, including a deferred assessment, required under such section 505B shall be deemed to have been required under section 505B of the Federal Food, Drug and Cosmetic Act as in effect on or after the date of the enactment of this Act.
 
->     “(2) __Certain assessments and waiver requests.—__ 
+>     “(2)  __Certain assessments and waiver requests__  __.—__ 
 
 >     An assessment pending on or after the date that is 1 year prior to the date of the enactment of this Act shall be subject to the tracking and disclosure requirements established under such section 505B, as in effect on or after such date of enactment, except that any such assessments submitted or waivers of such assessments requested before such date of enactment shall not be subject to subsections (a)(4)(C), (b)(2)(C), (f)(6)(F), and (h) of such section 505B.”
 
@@ -555,23 +555,23 @@
 
 [Pub. L. 108–155, § 4][/us/pl/108/155/s4], Dec. 3, 2003, [117 Stat. 1942][/us/stat/117/1942], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Subject to subsection (b), this Act \[enacting this section, amending sections 355, 355a, and 355b of this title and sections 262 and 284m of Title 42, The Public Health and Welfare, enacting provisions set out as a note under [section 301 of this title][/us/usc/t21/s301], and amending provisions set out as notes under [section 355a of this title][/us/usc/t21/s355a] and [section 284m of Title 42][/us/usc/t42/s284m]\] and the amendments made by this Act take effect on the date of enactment of this Act \[Dec. 3, 2003\].
 
 >     “(b) __Applicability to New Drugs and Biological Products.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subsection (a) of section 505B of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 355c(a)][/us/usc/t21/s355c/a]\] (as added by section 2) shall apply to an application described in paragraph (1) of that subsection submitted to the Secretary of Health and Human Services on or after April 1, 1999.
 
 >         “(2) __Waivers and deferrals.—__ 
 
->             “(A) __Waiver or deferral granted.—__ 
+>             “(A)  __Waiver or deferral granted__  __.—__ 
 
 >             If, with respect to an application submitted to the Secretary of Health and Human Services between April 1, 1999, and the date of enactment of this Act \[Dec. 3, 2003\], a waiver or deferral of pediatric assessments was granted under regulations of the Secretary then in effect, the waiver or deferral shall be a waiver or deferral under subsection (a) of section 505B of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 355c(a)][/us/usc/t21/s355c/a]\], except that any date specified in such a deferral shall be extended by the number of days that is equal to the number of days between October 17, 2002, and the date of enactment of this Act.
 
->             “(B) __Waiver and deferral not granted.—__ 
+>             “(B)  __Waiver and deferral not granted__  __.—__ 
 
 >             If, with respect to an application submitted to the Secretary of Health and Human Services between April 1, 1999, and the date of enactment of this Act \[Dec. 3, 2003\], neither a waiver nor deferral of pediatric assessments was granted under regulations of the Secretary then in effect, the person that submitted the application shall be required to submit assessments under subsection (a)(2) of section 505B of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 355c(a)(2)][/us/usc/t21/s355c/a/2]\] on the date that is the later of—
 
@@ -581,7 +581,7 @@
 
 >                   unless the Secretary grants a waiver under subsection (a)(4) of that section.
 
->     “(c) __No Limitation of Authority.—__ 
+>     “(c)  __No Limitation of Authority__  __.—__ 
 
 >     Neither the lack of guidance or regulations to implement this Act or the amendments made by this Act nor the pendency of the process for issuing guidance or regulations shall limit the authority of the Secretary of Health and Human Services under, or defer any requirement under, this Act or those amendments.”
 

@@ -41,7 +41,7 @@
 
         (2) A regulated person that manufactures a listed chemical shall report annually to the Attorney General, in such form and manner and containing such specific data as the Attorney General shall prescribe by regulation, information concerning listed chemicals manufactured by the person. The requirement of the preceding sentence shall not apply to the manufacture of a drug product that is exempted under [section 802(39)(A)(iv) of this title][/us/usc/t21/s802/39/A/iv].
 
-        (3) __Mail order reporting.—__ 
+        (3)  __Mail order reporting__  __.—__ 
 
             (A)
 

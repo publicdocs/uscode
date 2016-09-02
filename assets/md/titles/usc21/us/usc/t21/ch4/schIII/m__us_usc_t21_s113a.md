@@ -47,19 +47,19 @@
 
 [Pub. L. 110–234, title VII, § 7524][/us/pl/110/234/s7524], May 22, 2008, [122 Stat. 1273][/us/stat/122/1273], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7524, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2034, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary \[of Agriculture\] shall issue a permit required under [section 12 of the Act of May 29, 1884][/us/act/1884-05-29/s12] ([21 U.S.C. 113a][/us/usc/t21/s113a]) to the Secretary of Homeland Security for work on the live virus of foot and mouth disease at any facility that is a successor to the Plum Island Animal Disease Center and charged with researching high-consequence biological threats involving zoonotic and foreign animal diseases (referred to in this section as the ‘successor facility’).
 
->     “(b) __Limitation to Single Facility.—__ 
+>     “(b)  __Limitation to Single Facility__  __.—__ 
 
 >     Not more than 1 facility shall be issued a permit under subsection (a).
 
->     “(c) __Limitation on Validity.—__ 
+>     “(c)  __Limitation on Validity__  __.—__ 
 
 >     The permit issued under this section shall be valid unless the Secretary determines that the study of live foot and mouth disease virus at the successor facility is not being carried out in accordance with the regulations promulgated by the Secretary pursuant to the Agricultural Bioterrorism Protection Act of 2002 ([7 U.S.C. 8401][/us/usc/t7/s8401] et seq.).
 
->     “(d) __Authority.—__ 
+>     “(d)  __Authority__  __.—__ 
 
 >     The suspension, revocation, or other impairment of the permit issued under this section—
 

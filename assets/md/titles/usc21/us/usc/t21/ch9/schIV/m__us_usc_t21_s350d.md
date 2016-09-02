@@ -129,7 +129,7 @@
 
 [Pub. L. 111–353, title I, § 102(c)][/us/pl/111/353/s102/c], Jan. 4, 2011, [124 Stat. 3889][/us/stat/124/3889], provided that:
 
->     “(1) __Retail food establishment.—__ 
+>     “(1)  __Retail food establishment__  __.—__ 
 
 >     The Secretary shall amend the definition of the term ‘retail food establishment’ in section in \[sic\] 1.227(b)(11) of title 21, Code of Federal Regulations\[,\] to clarify that, in determining the primary function of an establishment or a retail food establishment under such section, the sale of food products directly to consumers by such establishment and the sale of food directly to consumers by such retail food establishment include—
 
@@ -139,7 +139,7 @@
 
 >         “(C) the sale and distribution of such food at any other such direct sales platform as determined by the Secretary.
 
->     “(2) __Definitions.—__ 
+>     “(2)  __Definitions__  __.—__ 
 
 >     For purposes of paragraph (1)—
 
@@ -151,7 +151,7 @@
 
 >     “(1) __Proposed rulemaking.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Not later than 9 months after the date of enactment of this Act \[Jan. 4, 2011\], the Secretary of Health and Human Services (referred to in this subsection as the ‘Secretary’) shall publish a notice of proposed rulemaking in the Federal Register to promulgate regulations with respect to—
 
@@ -159,11 +159,11 @@
 
 >             “(ii) activities that constitute on-farm manufacturing or processing of food that is not consumed on that farm or on another farm under common ownership for purposes of such section 415.
 
->         “(B) __Clarification.—__ 
+>         “(B)  __Clarification__  __.—__ 
 
 >         The rulemaking described under subparagraph (A) shall enhance the implementation of such section 415 and clarify the activities that are included as part of the definition of the term ‘facility’ under such section 415. Nothing in this Act \[see Short Title note set out under [section 2201 of this title][/us/usc/t21/s2201]\] authorizes the Secretary to modify the definition of the term ‘facility’ under such section.
 
->         “(C) __Science-based risk analysis.—__ 
+>         “(C)  __Science-based risk analysis__  __.—__ 
 
 >         In promulgating regulations under subparagraph (A), the Secretary shall conduct a science-based risk analysis of—
 
@@ -173,15 +173,15 @@
 
 >         “(D) __Authority with respect to certain facilities.—__ 
 
->             “(i) __In general.—__ 
+>             “(i)  __In general__  __.—__ 
 
 >             In promulgating the regulations under subparagraph (A), the Secretary shall consider the results of the science-based risk analysis conducted under subparagraph (C), and shall exempt certain facilities from the requirements in section 418 of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 350g][/us/usc/t21/s350g]\] (as added by this section), including hazard analysis and preventive controls, and the mandatory inspection frequency in section 421 of such Act \[[21 U.S.C. 350j][/us/usc/t21/s350j]\] (as added by section 201), or modify the requirements in such sections 418 or 421, as the Secretary determines appropriate, if such facilities are engaged only in specific types of on-farm manufacturing, processing, packing, or holding activities that the Secretary determines to be low risk involving specific foods the Secretary determines to be low risk.
 
->             “(ii) __Limitation.—__ 
+>             “(ii)  __Limitation__  __.—__ 
 
 >             The exemptions or modifications under clause (i) shall not include an exemption from the requirement to register under section 415 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 350d][/us/usc/t21/s350d]), as amended by this Act, if applicable, and shall apply only to small businesses and very small businesses, as defined in the regulation promulgated under section 418(n) of the Federal Food, Drug, and Cosmetic Act (as added under subsection (a)).
 
->     “(2) __Final regulations.—__ 
+>     “(2)  __Final regulations__  __.—__ 
 
 >     Not later than 9 months after the close of the comment period for the proposed rulemaking under paragraph (1), the Secretary shall adopt final rules with respect to—
 

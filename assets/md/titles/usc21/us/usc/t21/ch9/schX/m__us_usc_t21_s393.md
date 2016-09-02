@@ -195,11 +195,11 @@
 
 [Pub. L. 112–144, title XI, § 1124][/us/pl/112/144/s1124], July 9, 2012, [126 Stat. 1114][/us/stat/126/1114], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[July 9, 2012\], the Secretary of Health and Human Services (referred to in this section as the ‘Secretary’) shall develop a strategy and implementation plan for advancing regulatory science for medical products in order to promote the public health and advance innovation in regulatory decisionmaking.
 
->     “(b) __Requirements.—__ 
+>     “(b)  __Requirements__  __.—__ 
 
 >     The strategy and implementation plan developed under subsection (a) shall be consistent with the user fee performance goals in the Prescription Drug User Fee Agreement commitment letter, the Generic Drug User Fee Agreement commitment letter, and the Biosimilar User Fee Agreement commitment letter transmitted by the Secretary to Congress on January 13, 2012, and the Medical Device User Fee Agreement commitment letter transmitted by the Secretary to Congress on April 20, 2012, and shall—
 
@@ -219,7 +219,7 @@
 
 >             “(B) adoption of the tools, methods, and processes under section 566 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 360bbb–5][/us/usc/t21/s360bbb–5]).
 
->     “(c) __Performance Reports.—__ 
+>     “(c)  __Performance Reports__  __.—__ 
 
 >     The annual performance reports submitted to Congress under sections 736B(a) \[[21 U.S.C. 379h–2(a)][/us/usc/t21/s379h–2/a]\] (as amended by section 104 of this Act), 738A(a) \[[21 U.S.C. 379j–1(a)][/us/usc/t21/s379j–1/a]\] (as amended by section 204 of this Act), 744C(a) \[[21 U.S.C. 379j–43(a)][/us/usc/t21/s379j–43/a]\] (as added by section 303 of this Act), and 744I(a) \[[21 U.S.C. 379j–53(a)][/us/usc/t21/s379j–53/a]\] (as added by section 403 of this Act) of the Federal Food, Drug, and Cosmetic Act for each of fiscal years 2014 and 2016, shall include a report from the Secretary on the progress made with respect to—
 
@@ -229,7 +229,7 @@
 
 >         “(3) the progress made in advancing the regulatory science goals outlined in the Prescription Drug User Fee Agreement commitment letter, the Generic Drug User Fee Agreement commitment letter, and the Biosimilar User Fee Agreement commitment letter transmitted by the Secretary to Congress on January 13, 2012, and the Medical Device User Fee Agreement transmitted by the Secretary to Congress on April 20, 2012.
 
->     “(d) __Medical Product.—__ 
+>     “(d)  __Medical Product__  __.—__ 
 
 >     In this section, the term ‘medical product’ means a drug, as defined in subsection (g) of section 201 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 321][/us/usc/t21/s321]), a device, as defined in subsection (h) of such section, or a biological product, as defined in section 351(i) of the Public Health Service Act \[[42 U.S.C. 262(i)][/us/usc/t42/s262/i]\].”
 
@@ -237,7 +237,7 @@
 
 [Pub. L. 112–144, title XI, § 1125][/us/pl/112/144/s1125], July 9, 2012, [126 Stat. 1115][/us/stat/126/1115], provided that:
 
->     “(a) __HHS Report.—__ 
+>     “(a)  __HHS Report__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[July 9, 2012\], the Secretary of Health and Human Services shall—
 
@@ -261,7 +261,7 @@
 
 >             “(B) a skills inventory, needs assessment, gap analysis, and initiatives to address skills gaps as part of a strategic approach to information technology human capital planning.
 
->     “(b) __GAO Report.—__ 
+>     “(b)  __GAO Report__  __.—__ 
 
 >     Not later than January 1, 2016, the Comptroller General of the United States shall issue a report regarding the strategic plan described in subsection (a)(1)(A) and related actions carried out by the Food and Drug Administration. Such report shall assess the progress the Food and Drug Administration has made on—
 
@@ -275,7 +275,7 @@
 
 [Pub. L. 105–115, title IV, § 413][/us/pl/105/115/s413], Nov. 21, 1997, [111 Stat. 2376][/us/stat/111/2376], provided that:
 
->     “(a) __List and Analysis.—__ 
+>     “(a)  __List and Analysis__  __.—__ 
 
 >     The Secretary of Health and Human Services shall, acting through the Food and Drug Administration—
 
@@ -285,13 +285,13 @@
 
 >         The Secretary shall compile the list required by paragraph (1) within 2 years after the date of enactment of the Food and Drug Administration Modernization Act of 1997 \[Nov. 21, 1997\] and shall provide the analysis required by paragraph (2) within 2 years after such date of enactment.
 
->     “(b) __Study.—__ 
+>     “(b)  __Study__  __.—__ 
 
 >     The Secretary of Health and Human Services, acting through the Food and Drug Administration, shall conduct a study of the effect on humans of the use of mercury compounds in nasal sprays. Such study shall include data from other studies that have been made of such use.
 
 >     “(c) __Study of Mercury Sales.—__ 
 
->         “(1) __Study.—__ 
+>         “(1)  __Study__  __.—__ 
 
 >         The Secretary of Health and Human Services, acting through the Food and Drug Administration and subject to appropriations, shall conduct, or shall contract with the Institute of Medicine of the National Academy of Sciences to conduct, a study of the effect on humans of the use of elemental, organic, or inorganic mercury when offered for sale as a drug or dietary supplement. Such study shall, among other things, evaluate—
 
@@ -301,7 +301,7 @@
 
 >             In conducting such study, the Secretary shall consult with the Administrator of the Environmental Protection Agency, the Chair of the Consumer Product Safety Commission, and the Administrator of the Agency for Toxic Substances and Disease Registry, and, to the extent the Secretary believes necessary or appropriate, with any other Federal or private entity.
 
->         “(2) __Regulations.—__ 
+>         “(2)  __Regulations__  __.—__ 
 
 >         If, in the opinion of the Secretary, the use of elemental, organic, or inorganic mercury offered for sale as a drug or dietary supplement poses a threat to human health, the Secretary shall promulgate regulations restricting the sale of mercury intended for such use. At a minimum, such regulations shall be designed to protect the health of children and other sensitive populations from adverse effects resulting from exposure to, or ingestion or inhalation of, mercury. Such regulations, to the extent feasible, should not unnecessarily interfere with the availability of mercury for use in religious ceremonies.”
 

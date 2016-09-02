@@ -71,11 +71,11 @@
 
         (4) __Order to repatriate and deposit.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Pursuant to its authority to enter a pretrial restraining order under this section, the court may order a defendant to repatriate any property that may be seized and forfeited, and to deposit that property pending trial in the registry of the court, or with the United States Marshals Service or the Secretary of the Treasury, in an interest-bearing account, if appropriate.
 
-            (B) __Failure to comply.—__ 
+            (B)  __Failure to comply__  __.—__ 
 
             Failure to comply with an order under this subsection, or an order to repatriate property under subsection (p) of this section, shall be punishable as a civil or criminal contempt of court, and may also result in an enhancement of the sentence of the defendant under the obstruction of justice provision of the Federal Sentencing Guidelines.
 

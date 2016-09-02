@@ -239,21 +239,21 @@
 
 [Pub. L. 107–188, title V, § 505][/us/pl/107/188/s505], June 12, 2002, [116 Stat. 692][/us/stat/116/692], provided that:
 
->     “(a) __Public Accountability.—__ 
+>     “(a)  __Public Accountability__  __.—__ 
 
->         “(1) __Consultation.—__ 
+>         “(1)  __Consultation__  __.—__ 
 
 >         In developing recommendations to the Congress for the goals and plans for meeting the goals for the process for the review of human drug applications for the fiscal years after fiscal year 2007, and for the reauthorization of sections 735 and 736 of the Federal Food, Drug, and Cosmetic Act \[[21 U.S.C. 379g][/us/usc/t21/s379g], 379h\], the Secretary of Health and Human Services (referred to in this section as the ‘Secretary’) shall consult with the Committee on Energy and Commerce of the House of Representatives, the Committee on Health, Education, Labor, and Pensions of the Senate, appropriate scientific and academic experts, health care professionals, representatives of patient and consumer advocacy groups, and the regulated industry.
 
->         “(2) __Recommendations.—__ 
+>         “(2)  __Recommendations__  __.—__ 
 
 >         The Secretary shall publish in the Federal Register recommendations under paragraph (1), after negotiations with the regulated industry; shall present such recommendations to the congressional committees specified in such paragraph; shall hold a meeting at which the public may present its views on such recommendations; and shall provide for a period of 30 days for the public to provide written comments on such recommendations.
 
->     “(b) __Performance Report.—__ 
+>     “(b)  __Performance Report__  __.—__ 
 
 >     Beginning with fiscal year 2003, not later than 60 days after the end of each fiscal year during which fees are collected under part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379g][/us/usc/t21/s379g] et seq.), the Secretary of Health and Human Services shall prepare and submit to the President, the Committee on Energy and Commerce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 502(4) \[[section 502(4) of Pub. L. 107–188][/us/pl/107/188/s502/4], set out below\] during such fiscal year and the future plans of the Food and Drug Administration for meeting the goals.
 
->     “(c) __Fiscal Report.—__ 
+>     “(c)  __Fiscal Report__  __.—__ 
 
 >     Beginning with fiscal year 2003, not later than 120 days after the end of each fiscal year during which fees are collected under the part described in subsection (b), the Secretary of Health and Human Services shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate, a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected during such fiscal year for which the report is made.”
 
@@ -325,25 +325,25 @@
 
 [Pub. L. 105–115, title I, § 104][/us/pl/105/115/s104], Nov. 21, 1997, [111 Stat. 2304][/us/stat/111/2304], provided that:
 
->     “(a) __Performance Report.—__ 
+>     “(a)  __Performance Report__  __.—__ 
 
 >     Beginning with fiscal year 1998, not later than 60 days after the end of each fiscal year during which fees are collected under part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 379g][/us/usc/t21/s379g] et seq.), the Secretary of Health and Human Services shall prepare and submit to the Committee on Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 101(4) \[[section 101(4) of Pub. L. 105–115][/us/pl/105/115/s101/4], set out above\] during such fiscal year and the future plans of the Food and Drug Administration for meeting the goals.
 
->     “(b) __Fiscal Report.—__ 
+>     “(b)  __Fiscal Report__  __.—__ 
 
 >     Beginning with fiscal year 1998, not later than 120 days after the end of each fiscal year during which fees are collected under the part described in subsection (a), the Secretary of Health and Human Services shall prepare and submit to the Committee on Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected during such fiscal year for which the report is made.”
 
 [Pub. L. 102–571, title I, § 104][/us/pl/102/571/s104], Oct. 29, 1992, [106 Stat. 4498][/us/stat/106/4498], provided that:
 
->     “(a) __First Report.—__ 
+>     “(a)  __First Report__  __.—__ 
 
 >     Within 60 days after the end of each fiscal year during which fees are collected under part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\], the Secretary of Health and Human Services shall submit a report stating the Food and Drug Administration’s progress in achieving the goals identified in section 102(3) of this Act \[set out as a note above\] during such fiscal year and that agency’s future plans for meeting such goals.
 
->     “(b) __Second Report.—__ 
+>     “(b)  __Second Report__  __.—__ 
 
 >     Within 120 days after the end of each fiscal year during which such fees are collected, the Secretary of Health and Human Services shall submit a report on the implementation of the authority for such fees during such fiscal year and on the use the Food and Drug Administration made of the fees collected during such fiscal year for which the report is made.
 
->     “(c) __Committees.—__ 
+>     “(c)  __Committees__  __.—__ 
 
 >     The reports described in subsections (a) and (b) shall be submitted to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate.”
 

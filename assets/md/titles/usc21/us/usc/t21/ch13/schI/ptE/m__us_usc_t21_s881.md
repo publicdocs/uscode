@@ -277,11 +277,11 @@
 
 [Pub. L. 100–690, title VI, § 6079][/us/pl/100/690/s6079], Nov. 18, 1988, [102 Stat. 4325][/us/stat/102/4325], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 90 days after the date of enactment of this Act \[Nov. 18, 1988\], the Attorney General and the Secretary of the Treasury shall consult, and after providing a 30-day public comment period, shall prescribe regulations for expedited administrative procedures for seizures under section 511(a)(4), (6), and (7) of the Controlled Substances Act ([21 U.S.C. 881(a)(4)][/us/usc/t21/s881/a/4], (6), and (7)); section 596 of the Tariff Act of 1930 ([19 U.S.C. 1595a(a)][/us/usc/t19/s1595a/a]); and [section 2 of the Act of August 9, 1939][/us/act/1939-08-09/s2] ([53 Stat. 1291][/us/stat/53/1291]; 49 U.S.C. App. 782 \[now [49 U.S.C. 80303][/us/usc/t49/s80303]\]) for violations involving the possession of personal use quantities of a controlled substance.
 
->     “(b) __Specifications.—__ 
+>     “(b)  __Specifications__  __.—__ 
 
 >     The regulations prescribed pursuant to subsection (a) shall—
 
@@ -301,15 +301,15 @@
 
 >         An owner shall not have the seized property returned under this subsection if the owner had not acted in a normal and customary manner to ascertain how the property would be used.
 
->     “(c) __Notice.—__ 
+>     “(c)  __Notice__  __.—__ 
 
 >     At the time of seizure or upon issuance of a summons to appear under subsection (d), the officer making the seizure shall furnish to any person in possession of the conveyance a written notice specifying the procedures under this section. At the earliest practicable opportunity after determining ownership of the seized conveyance, the head of the department or agency that seizes the conveyance shall furnish a written notice to the owner and other interested parties (including lienholders) of the legal and factual basis of the seizure.
 
->     “(d) __Summons in Lieu of Seizure of Commercial Fishing Industry Vessels.—__ 
+>     “(d)  __Summons in Lieu of Seizure of Commercial Fishing Industry Vessels__  __.—__ 
 
 >     Not later than 90 days after the enactment of this Act \[Nov. 18, 1988\], the Attorney General, the Secretary of the Treasury, and the Secretary of Transportation shall prescribe joint regulations, after a public comment period of at least 30 days, providing for issuance of a summons to appear in lieu of seizure of a commercial fishing industry vessel as defined in section 2101(11a), (11b), and (11c) of title 46, United States Code, for violations involving the possession of personal use quantities of a controlled substance. These regulations shall apply when the violation is committed on a commercial fishing industry vessel that is proceeding to or from a fishing area or intermediate port of call, or is actively engaged in fishing operations. The authority provided under this section shall not affect existing authority to arrest an individual for drug-related offenses or to release that individual into the custody of the vessel’s master. Upon answering a summons to appear, the procedures set forth in subsections (a), (b), and (c) of this section shall apply. The jurisdiction of the district court for any forfeiture incurred shall not be affected by the use of a summons under this section.
 
->     “(e) __Personal Use Quantities of a Controlled Substance.—__ 
+>     “(e)  __Personal Use Quantities of a Controlled Substance__  __.—__ 
 
 >     For the purposes of this section, personal use quantities of a controlled substance shall not include sweepings or other evidence of non-personal use amounts.”
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t21/ch9/schVII/ptC/spt8/m__us_usc_t21_s379j–52.md) | [Next](./../../../../../../..//us/usc/t21/ch9/schVII/ptD/m__us_usc_t21_ch9_schVII_ptD.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9353)
+[Previous](./../../../../../../..//us/usc/t21/ch9/schVII/ptC/spt8/m__us_usc_t21_s379j–52.md) | [Next](./../../../../../../..//us/usc/t21/ch9/schVII/ptC/spt9/m__us_usc_t21_ch9_schVII_ptC_spt9.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9353)
 
 ## § 379j–53. Reauthorization; reporting requirements
 
@@ -97,7 +97,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t21/ch9/schVII/ptC/spt8/m__us_usc_t21_s379j–52.md) | [Next](./../../../../../../..//us/usc/t21/ch9/schVII/ptD/m__us_usc_t21_ch9_schVII_ptD.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9353)
+[Previous](./../../../../../../..//us/usc/t21/ch9/schVII/ptC/spt8/m__us_usc_t21_s379j–52.md) | [Next](./../../../../../../..//us/usc/t21/ch9/schVII/ptC/spt9/m__us_usc_t21_ch9_schVII_ptC_spt9.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379j%E2%80%9353)
 
 ----------
 ----------

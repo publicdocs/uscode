@@ -51,6 +51,18 @@
 
  __Short Title of 2013 Amendment__ 
 
+[Pub. L. 113–54, § 1][/us/pl/113/54/s1], Nov. 27, 2013, [127 Stat. 587][/us/stat/127/587], provided that: 
+
+> “This Act \[enacting part H of subchapter V and subpart 9 of part C of subchapter VII of this chapter and sections 353a–1 and 353b of this title, amending sections 331, 333, 352 to 353a, 353b, 353c, and 360eee–1 of this title, and enacting provisions set out as notes under this section and sections 331, 333, and 353 of this title\] may be cited as the ‘Drug Quality and Security Act’.”
+
+[Pub. L. 113–54, title I, § 101][/us/pl/113/54/s101], Nov. 27, 2013, [127 Stat. 587][/us/stat/127/587], provided that: 
+
+> “This Act \[probably means “This title”, enacting subpart 9 of part C of subchapter VII of this chapter and sections 353a–1 and 353b of this title, amending sections 331, 352, 353a, 353b, and 353c of this title, and enacting provisions set out as notes under this section and [section 331 of this title][/us/usc/t21/s331]\] may be cited as the ‘Compounding Quality Act’.”
+
+[Pub. L. 113–54, title II, § 201][/us/pl/113/54/s201], Nov. 27, 2013, [127 Stat. 599][/us/stat/127/599], provided that: 
+
+> “This title \[enacting part H of subchapter V of this chapter, amending sections 331, 333, 352, 353, and 360eee–1 of this title, and enacting provisions set out as notes under sections 331, 333, and 353 of this title\] may be cited as the ‘Drug Supply Chain Security Act’.”
+
 [Pub. L. 113–14, § 1][/us/pl/113/14/s1], June 13, 2013, [127 Stat. 451][/us/stat/127/451], provided that: 
 
 > “This Act \[amending sections 379j–11 to 379j–13, 379j–21, and 379j–22 of this title, enacting provisions set out as notes under this section and sections 379j–11 to 379j–13, 379j–21, and 379j–22 of this title, and repealing provisions set out as notes under sections 379j–11, 379j–21, and 379j–22 of this title\] may be cited as the ‘Animal Drug and Animal Generic Drug User Fee Reauthorization Act of 2013’.”
@@ -389,6 +401,10 @@
 
  __Severability__ 
 
+[Pub. L. 113–54, title I, § 106(b)][/us/pl/113/54/s106/b], Nov. 27, 2013, [127 Stat. 598][/us/stat/127/598], provided that: 
+
+> “If any provision of this Act \[see Short Title of 2013 Amendment note above\] (including the amendments made by this Act) is declared unconstitutional, or the applicability of this Act (including the amendments made by this Act) to any person or circumstance is held invalid, the constitutionality of the remainder of this Act (including the amendments made by this Act) and the applicability thereof to other persons and circumstances shall not be affected.”
+
 [Pub. L. 110–85, title XI, § 1105][/us/pl/110/85/s1105], Sept. 27, 2007, [121 Stat. 975][/us/stat/121/975], provided that: 
 
 > “If any provision of this Act \[see Short Title of 2007 Amendment note above\], an amendment made \[by\] this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of the provisions of such to any person or circumstances shall not be affected thereby.”
@@ -425,6 +441,13 @@
 [/us/usc/t21/s321b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321b
 [/us/stat/41/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F271
 [/us/usc/t21/s372a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs372a
+[/us/pl/113/54/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs1
+[/us/stat/127/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F587
+[/us/pl/113/54/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs101
+[/us/stat/127/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F587
+[/us/usc/t21/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs331
+[/us/pl/113/54/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs201
+[/us/stat/127/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F599
 [/us/pl/113/14/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2Fs1
 [/us/stat/127/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F451
 [/us/pl/113/14/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F14%2Fs101%2Fa
@@ -664,6 +687,8 @@
 [/us/pl/85/929/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F929%2Fs1
 [/us/stat/72/1784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1784
 [/us/usc/t42/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs210
+[/us/pl/113/54/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F54%2Fs106%2Fb
+[/us/stat/127/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F598
 [/us/pl/110/85/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs1105
 [/us/stat/121/975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F975
 [/us/pl/86/613/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613%2Fs18
