@@ -121,17 +121,9 @@ SUBCHAPTER II—EXPORT TRANSPORTATION OF AGRICULTURAL COMMODITIES  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs55316" data-uslm-ref="/us/usc/t46/s55316">55316.</a>  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs55316" data-uslm-ref="/us/usc/t46/s55316">55316</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs55317" data-uslm-ref="/us/usc/t46/s55317">55317.</a>  </td>
 
-    <td> Financing the transportation of agricultural commodities.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft46%2Fs55317" data-uslm-ref="/us/usc/t46/s55317">55317.</a>  </td>
-
-    <td> Termination of subchapter.  </td>
+    <td> Repealed.]  </td>
 
   </tr>
 
@@ -201,6 +193,10 @@ SUBCHAPTER III—AMERICAN GREAT LAKES VESSELS  </td>
 
 </table>
 
+ __Amendments__ 
+
+    2013—[Pub. L. 113–67, div. A, title VI, § 602(b)][/us/pl/113/67/s602/b], Dec. 26, 2013, [127 Stat. 1188][/us/stat/127/1188], struck out items 55316 “Financing the transportation of agricultural commodities” and 55317 “Termination of subchapter”.
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t46/stV/ptD/ch551/m__us_usc_t46_s55121.md) | [Next](./../../../../../..//us/usc/t46/stV/ptD/ch553/schI/m__us_usc_t46_stV_ptD_ch553_schI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2FstV%2FptD%2Fch553)
@@ -208,5 +204,7 @@ SUBCHAPTER III—AMERICAN GREAT LAKES VESSELS  </td>
 ----------
 ----------
 
+[/us/pl/113/67/s602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs602%2Fb
+[/us/stat/127/1188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1188
 
 

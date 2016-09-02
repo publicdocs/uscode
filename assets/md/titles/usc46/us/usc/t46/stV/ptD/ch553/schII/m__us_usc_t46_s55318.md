@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t46/stV/ptD/ch553/schII/m__us_usc_t46_s55317.md) | [Next](./../../../../../../..//us/usc/t46/stV/ptD/ch553/schIII/m__us_usc_t46_stV_ptD_ch553_schIII.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs55318)
+[Previous](./../../../../../../..//us/usc/t46/stV/ptD/ch553/schII/m__us_usc_t46_s55315.md) | [Next](./../../../../../../..//us/usc/t46/stV/ptD/ch553/schIII/m__us_usc_t46_stV_ptD_ch553_schIII.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs55318)
 
 ## § 55318. Effect on other law
 
@@ -69,7 +69,7 @@ Pub. L. 99–198, title XI, § 1143, Dec. 23, 1985, 99 Stat. 1496.  </td>
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t46/stV/ptD/ch553/schII/m__us_usc_t46_s55317.md) | [Next](./../../../../../../..//us/usc/t46/stV/ptD/ch553/schIII/m__us_usc_t46_stV_ptD_ch553_schIII.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs55318)
+[Previous](./../../../../../../..//us/usc/t46/stV/ptD/ch553/schII/m__us_usc_t46_s55315.md) | [Next](./../../../../../../..//us/usc/t46/stV/ptD/ch553/schIII/m__us_usc_t46_stV_ptD_ch553_schIII.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs55318)
 
 ----------
 ----------
