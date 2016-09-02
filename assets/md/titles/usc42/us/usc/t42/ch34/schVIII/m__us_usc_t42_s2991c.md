@@ -15,7 +15,7 @@
 
 ## § 2991c. Technical assistance and training
 
-The Commissioner shall provide, directly or through other arrangements—
+    The Commissioner shall provide, directly or through other arrangements—
 
     (1) technical assistance to the public and private agencies in planning, developing, conducting, and administering projects under this subchapter;
 

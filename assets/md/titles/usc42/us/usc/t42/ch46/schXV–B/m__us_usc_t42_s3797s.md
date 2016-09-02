@@ -15,7 +15,7 @@
 
 ## § 3797s. Grants authorized
 
-The Attorney General may make grants to States, units of local government, territories, and Indian Tribes to—
+    The Attorney General may make grants to States, units of local government, territories, and Indian Tribes to—
 
     (1) develop, implement, and expand comprehensive and clinically-appropriate family-based substance abuse treatment programs as alternatives to incarceration for nonviolent parent drug offenders; and
 

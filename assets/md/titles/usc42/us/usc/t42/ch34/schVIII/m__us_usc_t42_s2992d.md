@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch34/schVIII/m__us_usc_t42_s2992c.md) | [Next](./../../../../..//us/usc/t42/ch34/schVIII/m__us_usc_t42_s2993 to 2993b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2992d)
+[Previous](./../../../../..//us/usc/t42/ch34/schVIII/m__us_usc_t42_s2992c.md) | [Next](./../../../../..//us/usc/t42/ch34/schIX/m__us_usc_t42_ch34_schIX.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2992d)
 
 ## § 2992d. Authorization of appropriations
 
@@ -105,9 +105,209 @@
 
     Amendment by [section 505 of Pub. L. 100–175][/us/pl/100/175/s505] effective Oct. 1, 1987, and amendment by [section 506(b) of Pub. L. 100–175][/us/pl/100/175/s506/b] effective upon expiration of 90-day period beginning Nov. 29, 1987, see section 701(a), (c) of [Pub. L. 100–175][/us/pl/100/175], set out as a note under [section 3001 of this title][/us/usc/t42/s3001].
 
+§§ 2993 to 2993b. __Repealed.__  __[__  __Pub. L. 93–113, title VI, § 603__  __][/us/pl/93/113/s603]__  __,__  __Oct. 1, 1973__  __,__  __[__  __87 Stat. 417__  __][/us/stat/87/417]__ 
+
+Section 2993, [Pub. L. 88–452, title VIII, § 820][/us/pl/88/452/s820], as added [Pub. L. 90–222, title I, § 110][/us/pl/90/222/s110], Dec. 23, 1967, [81 Stat. 724][/us/stat/81/724]; amended [Pub. L. 92–424, § 26(c)][/us/pl/92/424/s26/c], Sept. 19, 1972, [86 Stat. 703][/us/stat/86/703], related to community service programs, providing in: subsec. (a) for term of service and range of activities; subsec. (b) for support and allowances; and subsec. (c) for allowance of service as non-Federal contribution.
+
+    Section 2993a, [Pub. L. 88–452, title VIII, § 821][/us/pl/88/452/s821], as added [Pub. L. 90–222, title I, § 110][/us/pl/90/222/s110], Dec. 23, 1967, [81 Stat. 724][/us/stat/81/724]; amended [Pub. L. 92–424, § 26(d)][/us/pl/92/424/s26/d], Sept. 19, 1972, [86 Stat. 703][/us/stat/86/703], related to special volunteer programs.
+
+    Section 2993b, [Pub. L. 88–452, title VIII, § 822][/us/pl/88/452/s822], as added [Pub. L. 90–222, title I, § 110][/us/pl/90/222/s110], Dec. 23, 1967, [81 Stat. 724][/us/stat/81/724], related to demonstration projects to help young adult criminal offenders.
+
+    Such former provisions are covered by various sections as follows:
+
+<table>
+
+  <tr>
+
+    <td> 
+
+Former Sections  </td>
+
+    <td> 
+
+Present Sections  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+2993(a)  </td>
+
+    <td> 
+
+See 4992(a)  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+2993(b)  </td>
+
+    <td> 
+
+See 4974(c)  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+2993(c)  </td>
+
+    <td> 
+
+Repealed  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+2993a  </td>
+
+    <td> 
+
+4973(a), 4992(a)  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+2993b  </td>
+
+    <td> 
+
+Repealed  </td>
+
+  </tr>
+
+</table>
+
+§§ 2994 to 2994d. __Repealed.__  __[__  __Pub. L. 93–113, title VI, § 603__  __][/us/pl/93/113/s603]__  __,__  __Oct. 1, 1973__  __,__  __[__  __87 Stat. 417__  __][/us/stat/87/417]__ 
+
+    Section 2994, [Pub. L. 88–452, title VIII, § 831][/us/pl/88/452/s831], as added [Pub. L. 90–222, title I, § 110][/us/pl/90/222/s110], Dec. 23, 1967, [81 Stat. 725][/us/stat/81/725], related to coordination with other programs.
+
+    Section 2994a, [Pub. L. 88–452, title VIII, § 832][/us/pl/88/452/s832], as added [Pub. L. 90–222, title I, § 110][/us/pl/90/222/s110], Dec. 23, 1967, [81 Stat. 725][/us/stat/81/725], related to participation of older persons.
+
+    Section 2994b, [Pub. L. 88–452, title VIII, § 833][/us/pl/88/452/s833], as added [Pub. L. 90–222, title I, § 110][/us/pl/90/222/s110], Dec. 23, 1967, [81 Stat. 726][/us/stat/81/726]; amended [Pub. L. 90–623, § 5(b)][/us/pl/90/623/s5/b], Oct. 22, 1968, [82 Stat. 1315][/us/stat/82/1315]; [Pub. L. 91–177, title I, § 112(b)][/us/pl/91/177/s112/b], Dec. 30, 1969, [83 Stat. 832][/us/stat/83/832]; [Pub. L. 92–424, § 3(d)(3)][/us/pl/92/424/s3/d/3], Sept. 19, 1972, [86 Stat. 689][/us/stat/86/689], related to application of Federal law.
+
+    Section 2994c, [Pub. L. 88–452, title VIII, § 834][/us/pl/88/452/s834], as added [Pub. L. 90–222, title I, § 110][/us/pl/90/222/s110], Dec. 23, 1967, [81 Stat. 726][/us/stat/81/726], related to special limitations.
+
+    Section 2994d, [Pub. L. 88–452, title VIII, § 835][/us/pl/88/452/s835], as added [Pub. L. 90–222, title I, § 110][/us/pl/90/222/s110], Dec. 23, 1967, [81 Stat. 726][/us/stat/81/726]; amended [Pub. L. 91–177, title I, § 101(b)][/us/pl/91/177/s101/b], Dec. 30, 1969, [83 Stat. 827][/us/stat/83/827]; [Pub. L. 92–424, § 2(a)][/us/pl/92/424/s2/a], Sept. 19, 1972, [86 Stat. 688][/us/stat/86/688], related to duration of program.
+
+    Such former provisions are covered by various sections as follows:
+
+<table>
+
+  <tr>
+
+    <td> 
+
+Former Sections  </td>
+
+    <td> 
+
+Present Sections  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+2994  </td>
+
+    <td> 
+
+5050  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+2994a  </td>
+
+    <td> 
+
+4957  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+2994b(a)  </td>
+
+    <td> 
+
+5055(a)  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+2994b(b)(1), (2)  </td>
+
+    <td> 
+
+5055(b)(1) to (3)  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+2994b(c)(1), (2)  </td>
+
+    <td> 
+
+5055(c)(1), (2)  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+2994c  </td>
+
+    <td> 
+
+5044  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+2994d  </td>
+
+    <td> 
+
+5053  </td>
+
+  </tr>
+
+</table>
+
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch34/schVIII/m__us_usc_t42_s2992c.md) | [Next](./../../../../..//us/usc/t42/ch34/schVIII/m__us_usc_t42_s2993 to 2993b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2992d)
+[Previous](./../../../../..//us/usc/t42/ch34/schVIII/m__us_usc_t42_s2992c.md) | [Next](./../../../../..//us/usc/t42/ch34/schIX/m__us_usc_t42_ch34_schIX.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2992d)
 
 ----------
 ----------
@@ -180,5 +380,47 @@
 [/us/pl/100/175/s506/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175%2Fs506%2Fb
 [/us/pl/100/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F175
 [/us/usc/t42/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3001
+[/us/pl/93/113/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs603
+[/us/stat/87/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F417
+[/us/pl/88/452/s820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs820
+[/us/pl/90/222/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F222%2Fs110
+[/us/stat/81/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F724
+[/us/pl/92/424/s26/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F424%2Fs26%2Fc
+[/us/stat/86/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F703
+[/us/pl/88/452/s821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs821
+[/us/pl/90/222/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F222%2Fs110
+[/us/stat/81/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F724
+[/us/pl/92/424/s26/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F424%2Fs26%2Fd
+[/us/stat/86/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F703
+[/us/pl/88/452/s822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs822
+[/us/pl/90/222/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F222%2Fs110
+[/us/stat/81/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F724
+[/us/pl/93/113/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs603
+[/us/stat/87/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F417
+[/us/pl/88/452/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs831
+[/us/pl/90/222/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F222%2Fs110
+[/us/stat/81/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F725
+[/us/pl/88/452/s832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs832
+[/us/pl/90/222/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F222%2Fs110
+[/us/stat/81/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F725
+[/us/pl/88/452/s833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs833
+[/us/pl/90/222/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F222%2Fs110
+[/us/stat/81/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F726
+[/us/pl/90/623/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623%2Fs5%2Fb
+[/us/stat/82/1315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1315
+[/us/pl/91/177/s112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F177%2Fs112%2Fb
+[/us/stat/83/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F832
+[/us/pl/92/424/s3/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F424%2Fs3%2Fd%2F3
+[/us/stat/86/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F689
+[/us/pl/88/452/s834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs834
+[/us/pl/90/222/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F222%2Fs110
+[/us/stat/81/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F726
+[/us/pl/88/452/s835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs835
+[/us/pl/90/222/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F222%2Fs110
+[/us/stat/81/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F726
+[/us/pl/91/177/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F177%2Fs101%2Fb
+[/us/stat/83/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F827
+[/us/pl/92/424/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F424%2Fs2%2Fa
+[/us/stat/86/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F688
 
 

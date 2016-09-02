@@ -147,13 +147,13 @@
 
              Any other factors as the Secretary deems appropriate which shall not exceed the seven factors in the statute, plus an additional five.
 
-                (I)  <sup>\[3\]</sup>  <sup><sup> 3 Another subpar. (I) is set out before subpar. (J). </sup></sup>  The Secretary shall:
+                (I)
 
-        (1) administer the system of evaluating public housing agencies flexibly to ensure that such agencies are not penalized as result of circumstances beyond their control;
+  <sup>\[3\]</sup>  <sup><sup> 3 Another subpar. (I) is set out before subpar. (J). </sup></sup>  The Secretary shall:    (1) administer the system of evaluating public housing agencies flexibly to ensure that such agencies are not penalized as result of circumstances beyond their control;
 
-        (2) reflect in the weights assigned to the various indicators the differences in the difficulty of managing individual projects that result from their physical condition and their neighborhood environment; and
+                    (2) reflect in the weights assigned to the various indicators the differences in the difficulty of managing individual projects that result from their physical condition and their neighborhood environment; and
 
-        (3) determine a public housing agency’s status as “troubled with respect to the program under section 1437l  <sup>\[4\]</sup>  <sup><sup> 4 See References in Text note below. </sup></sup>  of this title” based upon factors solely related to its ability to carry out that program.
+                    (3) determine a public housing agency’s status as “troubled with respect to the program under section 1437l  <sup>\[4\]</sup>  <sup><sup> 4 See References in Text note below. </sup></sup>  of this title” based upon factors solely related to its ability to carry out that program.
 
         (2)
 

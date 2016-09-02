@@ -15,7 +15,7 @@
 
 ## § 3058j. State legal assistance development
 
-A State agency shall provide the services of an individual who shall be known as a State legal assistance developer, and the services of other personnel, sufficient to ensure—
+    A State agency shall provide the services of an individual who shall be known as a State legal assistance developer, and the services of other personnel, sufficient to ensure—
 
     (1) State leadership in securing and maintaining the legal rights of older individuals;
 

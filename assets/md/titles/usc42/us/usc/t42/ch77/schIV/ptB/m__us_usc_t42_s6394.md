@@ -15,7 +15,7 @@
 
 ## § 6394. Prohibited acts
 
-It shall be unlawful for any person—
+    It shall be unlawful for any person—
 
     (1) to violate any provision of title I or title II of this Act or this title  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  (other than any provision of such titles which amend  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “amends”. </sup></sup>  another law),
 

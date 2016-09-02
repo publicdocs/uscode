@@ -15,7 +15,7 @@
 
 ## § 10191. Purpose
 
-It is the purpose of this subchapter—
+    It is the purpose of this subchapter—
 
     (1) to provide direction to the Secretary with respect to the disposal of high-level radioactive waste and spent nuclear fuel;
 

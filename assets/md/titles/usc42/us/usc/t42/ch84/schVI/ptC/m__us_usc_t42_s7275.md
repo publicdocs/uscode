@@ -15,7 +15,7 @@
 
 ## § 7275. Definitions
 
-As used in sections 7275 to 7276c of this title:
+    As used in sections 7275 to 7276c of this title:
 
     (1) The term “Administrator” means the Administrator of the Western Area Power Administration.
 

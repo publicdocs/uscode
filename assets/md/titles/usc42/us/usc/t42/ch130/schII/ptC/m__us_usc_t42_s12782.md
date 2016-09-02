@@ -15,7 +15,7 @@
 
 ## § 12782. Priorities for capacity development
 
-To carry out [section 12781 of this title][/us/usc/t42/s12781], the Secretary shall provide assistance under this part to—
+    To carry out [section 12781 of this title][/us/usc/t42/s12781], the Secretary shall provide assistance under this part to—
 
     (1) facilitate the exchange of information that would help participating jurisdictions carry out the purposes of this subchapter, including information on program design, housing finance, land use controls, and building construction techniques;
 

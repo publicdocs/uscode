@@ -15,7 +15,7 @@
 
 ## § 1592n. Definitions
 
-As used in this subchapter, the following terms shall have the meanings respectively ascribed to them below, and, unless the context clearly indicates otherwise, shall include the plural as well as the singular number:
+    As used in this subchapter, the following terms shall have the meanings respectively ascribed to them below, and, unless the context clearly indicates otherwise, shall include the plural as well as the singular number:
 
     (a) “State” shall mean the several States, the District of Columbia, and Territories, and possessions of the United States.
 

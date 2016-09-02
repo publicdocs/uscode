@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch72/schIII/ptA/m__us_usc_t42_s5712a to 5712c.md) | [Next](./../../../../../..//us/usc/t42/ch72/schIII/ptA/m__us_usc_t42_s5713.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5712d)
+[Previous](./../../../../../..//us/usc/t42/ch72/schIII/ptA/m__us_usc_t42_s5712.md) | [Next](./../../../../../..//us/usc/t42/ch72/schIII/ptA/m__us_usc_t42_s5713.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5712d)
 
 ## § 5712d. Repealed. [Pub. L. 109–162, title XI, § 1172(b)][/us/pl/109/162/s1172/b], Jan. 5, 2006, [119 Stat. 3123][/us/stat/119/3123]
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch72/schIII/ptA/m__us_usc_t42_s5712a to 5712c.md) | [Next](./../../../../../..//us/usc/t42/ch72/schIII/ptA/m__us_usc_t42_s5713.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5712d)
+[Previous](./../../../../../..//us/usc/t42/ch72/schIII/ptA/m__us_usc_t42_s5712.md) | [Next](./../../../../../..//us/usc/t42/ch72/schIII/ptA/m__us_usc_t42_s5713.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5712d)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 9859f. Reports
 
-Each State that receives an allotment under [section 9859c of this title][/us/usc/t42/s9859c] shall annually prepare and submit to the Secretary a report that describes—
+    Each State that receives an allotment under [section 9859c of this title][/us/usc/t42/s9859c] shall annually prepare and submit to the Secretary a report that describes—
 
     (1) the activities carried out with funds made available through the allotment; and
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch83/m__us_usc_t42_s7001 to 7011.md) | [Next](./../../../..//us/usc/t42/ch84/m__us_usc_t42_s7101.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch84)
+[Previous](./../../../..//us/usc/t42/ch83/m__us_usc_t42_ch83.md) | [Next](./../../../..//us/usc/t42/ch84/m__us_usc_t42_s7101.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch84)
 
 ## CHAPTER 84—DEPARTMENT OF ENERGY
 
@@ -2035,7 +2035,7 @@ SUBCHAPTER XVII—[Repealed]  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch83/m__us_usc_t42_s7001 to 7011.md) | [Next](./../../../..//us/usc/t42/ch84/m__us_usc_t42_s7101.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch84)
+[Previous](./../../../..//us/usc/t42/ch83/m__us_usc_t42_ch83.md) | [Next](./../../../..//us/usc/t42/ch84/m__us_usc_t42_s7101.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch84)
 
 ----------
 ----------

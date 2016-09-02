@@ -15,7 +15,7 @@
 
 ## § 9210. Analysis of applications of wind energy systems
 
-The Secretary shall—
+    The Secretary shall—
 
     (1)
 
@@ -49,7 +49,7 @@ The Secretary shall—
 
     (5) in carrying out his functions under this section, consult with the appropriate government agencies, industry representatives, and members of the scientific and technical community having expertise and interest in this subject.
 
-        The Secretary, as appropriate, may merge any continuing or on-going studies within the Department of Energy or any other Federal agency with those required under this section to avoid any unnecessary duplication of effort or funding.
+    The Secretary, as appropriate, may merge any continuing or on-going studies within the Department of Energy or any other Federal agency with those required under this section to avoid any unnecessary duplication of effort or funding.
 
 ([Pub. L. 96–345, § 11][/us/pl/96/345/s11], Sept. 8, 1980, [94 Stat. 1145][/us/stat/94/1145]; [Pub. L. 99–386, title I, § 104(b)][/us/pl/99/386/s104/b], Aug. 22, 1986, [100 Stat. 821][/us/stat/100/821].)
 

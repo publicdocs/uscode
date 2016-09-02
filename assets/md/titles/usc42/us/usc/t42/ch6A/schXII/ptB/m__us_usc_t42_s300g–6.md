@@ -115,7 +115,7 @@
 
 [Pub. L. 111–380, § 2][/us/pl/111/380/s2], Jan. 4, 2011, [124 Stat. 4131][/us/stat/124/4131], provided that, applicable beginning on the day that is 36 months after Jan. 4, 2011, this section is amended as follows:
 
-(1) by adding at the end of subsection (a) the following:
+    (1) by adding at the end of subsection (a) the following:
 
     “(4) Exemptions
 
@@ -125,7 +125,7 @@
 
     “(B) toilets, bidets, urinals, fill valves, flushometer valves, tub fillers, shower valves, service saddles, or water distribution main gate valves that are 2 inches in diameter or larger.”; and
 
-(2) by amending subsection (d) to read as follows:
+    (2) by amending subsection (d) to read as follows:
 
     (d) Definition of lead free
 

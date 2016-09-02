@@ -385,7 +385,7 @@
 
 >     “(2) it is shown to the satisfaction of the Secretary of Health, Education, and Welfare \[now Health and Human Services\] that there was good cause for such failure to enroll before June 1, 1966,
 
->         such individual may enroll pursuant to this subsection at any time before October 1, 1966. The determination of what constitutes good cause for purposes of the preceding sentence shall be made in accordance with regulations of the Secretary. In the case of any individual who enrolls pursuant to this subsection, the coverage period (within the meaning of section 1838 of the Social Security Act \[[42 U.S.C. 1395q][/us/usc/t42/s1395q]\]) shall begin on the first day of the 6th month after the month in which he enrolls.”
+>     such individual may enroll pursuant to this subsection at any time before October 1, 1966. The determination of what constitutes good cause for purposes of the preceding sentence shall be made in accordance with regulations of the Secretary. In the case of any individual who enrolls pursuant to this subsection, the coverage period (within the meaning of section 1838 of the Social Security Act \[[42 U.S.C. 1395q][/us/usc/t42/s1395q]\]) shall begin on the first day of the 6th month after the month in which he enrolls.”
 
 ----------
 

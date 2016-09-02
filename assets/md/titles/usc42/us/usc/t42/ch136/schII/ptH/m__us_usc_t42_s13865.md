@@ -15,7 +15,7 @@
 
 ## § 13865. Award of grants
 
-The Attorney General shall consider the following facts in awarding grants:
+    The Attorney General shall consider the following facts in awarding grants:
 
     (1) Demonstrated need and evidence of the ability to provide the services described in the plan required under [section 13863 of this title][/us/usc/t42/s13863].
 

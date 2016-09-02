@@ -15,7 +15,7 @@
 
 ## § 12904. Eligible activities
 
-Grants allocated under this chapter shall be available only for approved activities to carry out strategies designed to prevent homelessness among eligible persons. Approved activities shall include activities that—
+    Grants allocated under this chapter shall be available only for approved activities to carry out strategies designed to prevent homelessness among eligible persons. Approved activities shall include activities that—
 
     (1) enable public and nonprofit organizations or agencies to provide housing information to such persons and coordinate efforts to expand housing assistance resources for such persons under [section 12906 of this title][/us/usc/t42/s12906];
 
@@ -29,7 +29,7 @@ Grants allocated under this chapter shall be available only for approved activit
 
     (6) carry out other activities that the Secretary develops in cooperation with eligible States and localities, except that activities developed under this paragraph may be assisted only with amounts provided under [section 12903(c)(3) of this title][/us/usc/t42/s12903/c/3].
 
-        The Secretary shall establish standards and guidelines for approved activities. The Secretary shall permit grantees to refine and adapt such standards and guidelines for individual projects, where such refinements and adaptations are made necessary by local circumstances.
+    The Secretary shall establish standards and guidelines for approved activities. The Secretary shall permit grantees to refine and adapt such standards and guidelines for individual projects, where such refinements and adaptations are made necessary by local circumstances.
 
 ([Pub. L. 101–625, title VIII, § 855][/us/pl/101/625/s855], Nov. 28, 1990, [104 Stat. 4378][/us/stat/104/4378]; [Pub. L. 102–550, title VI, § 606(e)][/us/pl/102/550/s606/e], (h)(2), (j)(3), Oct. 28, 1992, [106 Stat. 3808][/us/stat/106/3808], 3810.)
 

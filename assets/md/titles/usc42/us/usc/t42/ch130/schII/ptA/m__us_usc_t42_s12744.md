@@ -15,7 +15,7 @@
 
 ## § 12744. Income targeting
 
-Each participating jurisdiction shall invest funds made available under this part within each fiscal year so that—
+    Each participating jurisdiction shall invest funds made available under this part within each fiscal year so that—
 
     (1)
 

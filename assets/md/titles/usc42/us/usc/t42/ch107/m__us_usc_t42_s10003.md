@@ -15,7 +15,7 @@
 
 ## § 10003. Definitions
 
-Unless otherwise expressly provided, for purposes of this chapter, the term—
+    Unless otherwise expressly provided, for purposes of this chapter, the term—
 
     (1) “radiation” means ionizing and nonionizing radiation in amounts beyond normal background levels from sources such as medical and dental radiologic procedures;
 

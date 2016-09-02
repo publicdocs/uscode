@@ -15,7 +15,7 @@
 
 ## § 10301. Congressional findings and declarations
 
-The Congress finds and declares that—
+    The Congress finds and declares that—
 
     (1) the existence of an adequate supply of water of good quality for the production of materials and energy for the Nation’s needs and for the efficient use of the Nation’s energy and water resources is essential to national economic stability and growth, and to the well-being of the people;
 
@@ -383,101 +383,125 @@ The Congress finds and declares that—
 
 >     “(c) The Water Resources Research Act \[of 1984\] ([Public Law 98–242][/us/pl/98/242]) \[see Short Title note above\] is amended by adding at the end thereof the following new title:
 
- __“TITLE III—OGALLALA AQUIFER RESEARCH AND DEVELOPMENT__ 
+> “TITLE III— __OGALLALA AQUIFER RESEARCH AND DEVELOPMENT__ 
 
-    “Sec. 301. (a) There is hereby established the High Plains Study Council composed of—
+> “Sec. 301.
 
-    “(1) the Governor of each State of the High Plains region (defined for the purposes of this title as the States of Colorado, Kansas, Nebraska, New Mexico, Oklahoma, South Dakota, Texas, and Wyoming and referred to hereinafter in this title as the ‘High Plains region’), or a designee of the Governor;
+>      (a)
 
-    “(2) a representative of the Department of Agriculture; and
+>      There is hereby established the High Plains Study Council composed of—
 
-    “(3) a representative of the Secretary.
+>         “(1) the Governor of each State of the High Plains region (defined for the purposes of this title as the States of Colorado, Kansas, Nebraska, New Mexico, Oklahoma, South Dakota, Texas, and Wyoming and referred to hereinafter in this title as the ‘High Plains region’), or a designee of the Governor;
 
-    “(b) The Council established pursuant to this section shall—
+>         “(2) a representative of the Department of Agriculture; and
 
-    “(1) review research work being performed by each State committee established under section 302 of this Act; and
+>         “(3) a representative of the Secretary.
 
-    “(2) coordinate such research efforts to avoid duplication of research and to assist in the development of research plans within each State of the High Plains region that will benefit the research needs of the entire region.
+>     “(b)
 
-    “Sec. 302. (a) The Secretary shall establish within each State of the High Plains region an Ogallala aquifer technical advisory committee (hereinafter in this title referred to as the ‘State committee’). Each State committee shall be composed of no more than seven members, including—
+>      The Council established pursuant to this section shall—
 
-    “(1) a representative of the United States Department of Agriculture;
+>         “(1) review research work being performed by each State committee established under section 302 of this Act; and
 
-    “(2) a representative of the Secretary; and
+>         “(2) coordinate such research efforts to avoid duplication of research and to assist in the development of research plans within each State of the High Plains region that will benefit the research needs of the entire region.
 
-    “(3) at the appointment of the Governor of the State, five representatives from agencies of that State having jurisdiction over water resources, the agricultural community, the State Water Research Institute (as designated under this Act \[see Short Title note above\]), and others with a special interest or expertise in water resources.
+> “Sec. 302.
 
-    “(b) The State committee established pursuant to subsection (a) of this section shall—
+>      (a)
 
-    “(1) review existing State laws and institutions concerning water management and, where appropriate, recommend changes to improve State or local management capabilities and more efficiently use the waters of such State, if such a review is not already being undertaken by the State;
+>      The Secretary shall establish within each State of the High Plains region an Ogallala aquifer technical advisory committee (hereinafter in this title referred to as the ‘State committee’). Each State committee shall be composed of no more than seven members, including—
 
-    “(2) establish, in coordination with other State committees, State priorities for research and demonstration projects involving water resources; and
+>         “(1) a representative of the United States Department of Agriculture;
 
-    “(3) provide public information, education, extension, and technical assistance on the need for water conservation and information on proven and cost-effective water management.
+>         “(2) a representative of the Secretary; and
 
-    “(c) Each State committee established pursuant to this section shall elect a chairman, and shall meet at least once every three months at the call of the chairman, unless the chairman determines, after consultation with a majority of the members of the committee, that such a meeting is not necessary to achieve the purposes of this section.
+>         “(3) at the appointment of the Governor of the State, five representatives from agencies of that State having jurisdiction over water resources, the agricultural community, the State Water Research Institute (as designated under this Act \[see Short Title note above\]), and others with a special interest or expertise in water resources.
 
-    “Sec. 303. The Secretary shall annually allocate among the States of the High Plains region funds authorized to be appropriated for this section for research in—
+>     “(b)
 
-    “(1) water-use efficiency;
+>      The State committee established pursuant to subsection (a) of this section shall—
 
-    “(2) cultural methods;
+>         “(1) review existing State laws and institutions concerning water management and, where appropriate, recommend changes to improve State or local management capabilities and more efficiently use the waters of such State, if such a review is not already being undertaken by the State;
 
-    “(3) irrigation technologies;
+>         “(2) establish, in coordination with other State committees, State priorities for research and demonstration projects involving water resources; and
 
-    “(4) water-efficient crops; and
+>         “(3) provide public information, education, extension, and technical assistance on the need for water conservation and information on proven and cost-effective water management.
 
-    “(5) water and soil conservation.
+>     “(c) Each State committee established pursuant to this section shall elect a chairman, and shall meet at least once every three months at the call of the chairman, unless the chairman determines, after consultation with a majority of the members of the committee, that such a meeting is not necessary to achieve the purposes of this section.
 
-    Funds distributed under this section shall be allocated to each State committee for use by institutions of higher education within each State. To qualify for funds under this section an institution of higher education shall submit a proposal to the State committee describing the costs, methods, and goals of the proposed research. Proposals shall be selected by the State committee on the basis of merit.
+> “Sec. 303.
 
-    “Sec. 304. The Secretary shall annually divide funds authorized to be appropriated under this section among the States of the High Plains region for research into—
+>  The Secretary shall annually allocate among the States of the High Plains region funds authorized to be appropriated for this section for research in—
 
-    “(1) precipitation management;
+>     “(1) water-use efficiency;
 
-    “(2) weather modification;
+>     “(2) cultural methods;
 
-    “(3) aquifer recharge opportunities;
+>     “(3) irrigation technologies;
 
-    “(4) saline water uses;
+>     “(4) water-efficient crops; and
 
-    “(5) desalinization technologies;
+>     “(5) water and soil conservation.
 
-    “(6) salt tolerant crops; and
+>     Funds distributed under this section shall be allocated to each State committee for use by institutions of higher education within each State. To qualify for funds under this section an institution of higher education shall submit a proposal to the State committee describing the costs, methods, and goals of the proposed research. Proposals shall be selected by the State committee on the basis of merit.
 
-    “(7) ground water recovery.
+> “Sec. 304.
 
-    Funds distributed under this section shall be allocated by the Secretary to the State committee for distribution to institutions of higher education within such State. To qualify for a grant under this section, an institution of higher education shall submit a research proposal to the State committee describing the costs, methods, and goals of the proposed research. Proposals shall be selected by the State committee on the basis of merit.
+>  The Secretary shall annually divide funds authorized to be appropriated under this section among the States of the High Plains region for research into—
 
-    “Sec. 305. The Secretary shall annually allocate among the States of the High Plains region funds authorized to be appropriated under this section for grants to farmers for demonstration projects for—
+>     “(1) precipitation management;
 
-    “(1) water-efficient irrigation technologies and practices;
+>     “(2) weather modification;
 
-    “(2) soil and water conservation management systems; and
+>     “(3) aquifer recharge opportunities;
 
-    “(3) the growing and marketing of more water-efficient crops.
+>     “(4) saline water uses;
 
-    Grants under this section shall be made by each State committee in amounts not to exceed 85 percent of the cost of each demonstration project. To qualify for a grant under this section, a farmer shall submit a proposal to the State committee describing the costs, methods, and goals of the proposed project. Proposals shall be selected by the State committee on the basis of merit. Each State committee shall monitor each demonstration project to assure proper implementation and make the results of the project available to other State committees.
+>     “(5) desalinization technologies;
 
-    “Sec. 306. The Secretary, acting through the United States Geological Survey and in cooperation with the States of the High Plains region, is authorized and directed to monitor the levels of the Ogallala aquifer, and report biennially to Congress. (As amended [Pub. L. 104–66, title I, § 1082(a)(1)][/us/pl/104/66/s1082/a/1], Dec. 21, 1995, [109 Stat. 721][/us/stat/109/721].)
+>     “(6) salt tolerant crops; and
 
-    “Sec. 307. The amount of any allocation of funds to a State under this title shall not exceed 75 percent of the cost of carrying out the purposes for which the grant is made.
+>     “(7) ground water recovery.
 
-    “Sec. 308. Not later than one year after the date of enactment of this title \[Nov. 17, 1986\], and at intervals of 2 years thereafter, the Secretary shall prepare and transmit to the Congress a report on activities undertaken under this title. (As amended [Pub. L. 104–66, title I, § 1082(a)(2)][/us/pl/104/66/s1082/a/2], Dec. 21, 1995, [109 Stat. 721][/us/stat/109/721].)
+>     Funds distributed under this section shall be allocated by the Secretary to the State committee for distribution to institutions of higher education within such State. To qualify for a grant under this section, an institution of higher education shall submit a research proposal to the State committee describing the costs, methods, and goals of the proposed research. Proposals shall be selected by the State committee on the basis of merit.
 
-    “Sec. 309. (a) For each of the fiscal years ending September 30, 1987, through September 30, 1995, the following sums are authorized to be appropriated to the Secretary to implement the following sections of this title, and such sums shall remain available until expended:
+> “Sec. 305.
 
-    “(1) $600,000 for the purposes of section 302;
+>  The Secretary shall annually allocate among the States of the High Plains region funds authorized to be appropriated under this section for grants to farmers for demonstration projects for—
 
-    “(2) $4,300,000 for the purposes of section 303;
+>     “(1) water-efficient irrigation technologies and practices;
 
-    “(3) $2,200,000 for the purposes of section 304;
+>     “(2) soil and water conservation management systems; and
 
-    “(4) $5,300,000 for the purposes of section 305; and
+>     “(3) the growing and marketing of more water-efficient crops.
 
-    “(5) $600,000 for the purposes of section 306.
+>     Grants under this section shall be made by each State committee in amounts not to exceed 85 percent of the cost of each demonstration project. To qualify for a grant under this section, a farmer shall submit a proposal to the State committee describing the costs, methods, and goals of the proposed project. Proposals shall be selected by the State committee on the basis of merit. Each State committee shall monitor each demonstration project to assure proper implementation and make the results of the project available to other State committees.
 
-    “(b) Funds made available under this title for distribution to the States of the High Plains region shall be distributed equally among the States.” (As amended [Pub. L. 101–397, § 1][/us/pl/101/397/s1](o), Sept. 28, 1990, [104 Stat. 854][/us/stat/104/854].)
+> “Sec. 306. The Secretary, acting through the United States Geological Survey and in cooperation with the States of the High Plains region, is authorized and directed to monitor the levels of the Ogallala aquifer, and report biennially to Congress. (As amended [Pub. L. 104–66, title I, § 1082(a)(1)][/us/pl/104/66/s1082/a/1], Dec. 21, 1995, [109 Stat. 721][/us/stat/109/721].)
+
+> “Sec. 307. The amount of any allocation of funds to a State under this title shall not exceed 75 percent of the cost of carrying out the purposes for which the grant is made.
+
+> “Sec. 308. Not later than one year after the date of enactment of this title \[Nov. 17, 1986\], and at intervals of 2 years thereafter, the Secretary shall prepare and transmit to the Congress a report on activities undertaken under this title. (As amended [Pub. L. 104–66, title I, § 1082(a)(2)][/us/pl/104/66/s1082/a/2], Dec. 21, 1995, [109 Stat. 721][/us/stat/109/721].)
+
+> “Sec. 309.
+
+>      (a)
+
+>      For each of the fiscal years ending September 30, 1987, through September 30, 1995, the following sums are authorized to be appropriated to the Secretary to implement the following sections of this title, and such sums shall remain available until expended:
+
+>         “(1) $600,000 for the purposes of section 302;
+
+>         “(2) $4,300,000 for the purposes of section 303;
+
+>         “(3) $2,200,000 for the purposes of section 304;
+
+>         “(4) $5,300,000 for the purposes of section 305; and
+
+>         “(5) $600,000 for the purposes of section 306.
+
+>     “(b) Funds made available under this title for distribution to the States of the High Plains region shall be distributed equally among the States.”
+
+ (As amended [Pub. L. 101–397, § 1][/us/pl/101/397/s1](o), Sept. 28, 1990, [104 Stat. 854][/us/stat/104/854].)
 
     \[For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 17th and 18th items on page 72 identify reporting provisions which, as subsequently amended, are contained in sections 306 and 308 of [Pub. L. 98–242][/us/pl/98/242], set out in the note above), see [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance.\]
 

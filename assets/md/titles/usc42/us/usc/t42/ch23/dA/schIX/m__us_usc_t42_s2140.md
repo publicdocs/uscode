@@ -15,7 +15,7 @@
 
 ## § 2140. Exclusions from license requirement
 
-Nothing in this subchapter shall be deemed—
+    Nothing in this subchapter shall be deemed—
 
     (a) to require a license for (1) the processing, fabricating, or refining of special nuclear material, or the separation of special nuclear material, or the separation of special nuclear material from other substances, under contract with and for the account of the Commission; or (2) the construction or operation of facilities under contract with and for the account of the Commission; or
 

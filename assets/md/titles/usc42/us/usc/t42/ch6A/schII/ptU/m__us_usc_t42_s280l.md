@@ -15,7 +15,7 @@
 
 ## § 280l. Technical assistance for employer-based wellness programs
 
-In order to expand the utilization of evidence-based prevention and health promotion approaches in the workplace, the Director shall—
+    In order to expand the utilization of evidence-based prevention and health promotion approaches in the workplace, the Director shall—
 
     (1)
 

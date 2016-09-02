@@ -91,7 +91,7 @@
 
 >     “(3) a national coverage determination made,
 
->         on or after October 1, 2001.”
+>     on or after October 1, 2001.”
 
  __Effective Date of 1984 Amendment__ 
 

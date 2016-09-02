@@ -667,7 +667,7 @@
 
 >         “(B) the notice referred to in subparagraph (A) has been so given before such month but a civil action with respect to such final decision is commenced under section 205(g) of the Social Security Act \[[42 U.S.C. 405(g)][/us/usc/t42/s405/g]\] (whether before, in, or after such month) and the decision in such civil action has not become final before such month;
 
->         except that no monthly benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] shall be payable or increased by reason of the amendments made by this section for any month before January 1973.”
+>     except that no monthly benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] shall be payable or increased by reason of the amendments made by this section for any month before January 1973.”
 
 [Pub. L. 92–603, title I, § 117(c)][/us/pl/92/603/s117/c], Oct. 30, 1972, [86 Stat. 1351][/us/stat/86/1351], provided that: 
 
@@ -683,7 +683,7 @@
 
 >         “(B) the notice referred to in subparagraph (A) has been so given before such month but a civil action with respect to such final decision is commenced under section 205(g) of the Social Security Act \[[42 U.S.C. 405(g)][/us/usc/t42/s405/g]\] (whether before, in, or after such month) and the decision in such civil action has not become final before such month;
 
->         except that no monthly benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] shall be payable or increased by reason of the amendments made by this section for months before January 1973.”
+>     except that no monthly benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] shall be payable or increased by reason of the amendments made by this section for months before January 1973.”
 
     Amendment by [section 118(a) of Pub. L. 92–603][/us/pl/92/603/s118/a] applicable in the case of deaths occurring after Dec. 31, 1969, with any applications with respect to an individual whose death occurred after Dec. 31, 1969, but before Oct. 30, 1972, to be deemed to have been filed in the month in which death occurred if filed in or within three months after Oct. 1972, see [section 118(c) of Pub. L. 92–603][/us/pl/92/603/s118/c], set out as a note under [section 416 of this title][/us/usc/t42/s416].
 
@@ -723,7 +723,7 @@
 
 >         “(ii) the notice referred to in subparagraph (i) has been so given before such month but a civil action with respect to such final decision is commenced under section 205(g) of the Social Security Act \[[42 U.S.C. 405(g)][/us/usc/t42/s405/g]\] (whether before, in, or after such month) and the decision in such civil action has not become final before such month;
 
->         except that no monthly insurance benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] shall be payable or increased by reason of the amendments made by subsections (a) and (b) \[amending this section and [section 416 of this title][/us/usc/t42/s416]\] for months before the second month following the month in which this Act is enacted \[July 1965\]. The preceding sentence shall also be applicable in the case of applications for monthly insurance benefits under title II of the Social Security Act based on the wages and self-employment income of an applicant with respect to whose application for disability insurance benefits under section 223 of such Act \[[42 U.S.C. 423][/us/usc/t42/s423]\] such preceding sentence is applicable.”
+>     except that no monthly insurance benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] shall be payable or increased by reason of the amendments made by subsections (a) and (b) \[amending this section and [section 416 of this title][/us/usc/t42/s416]\] for months before the second month following the month in which this Act is enacted \[July 1965\]. The preceding sentence shall also be applicable in the case of applications for monthly insurance benefits under title II of the Social Security Act based on the wages and self-employment income of an applicant with respect to whose application for disability insurance benefits under section 223 of such Act \[[42 U.S.C. 423][/us/usc/t42/s423]\] such preceding sentence is applicable.”
 
     Amendment by section 304(m), (n) of [Pub. L. 89–97][/us/pl/89/97] applicable with respect to monthly insurance benefits under this subchapter for and after the second month following July 1965 but only on the basis of applications filed in or after July 1965, see section 304(o) of [Pub. L. 89–97][/us/pl/89/97], set out as a note under [section 402 of this title][/us/usc/t42/s402].
 

@@ -15,7 +15,7 @@
 
 ## § 6701. Definitions
 
-As used in this subchapter, the term—
+    As used in this subchapter, the term—
 
     (1) “Secretary” means the Secretary of Commerce, acting through the Economic Development Administration.
 

@@ -15,7 +15,7 @@
 
 ## § 3796d–6. Definitions
 
-For purposes of this part:
+    For purposes of this part:
 
     (1) The term “Attorney General” means the Attorney General of the United States.
 

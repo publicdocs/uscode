@@ -41,7 +41,7 @@
 
  __Repeal of Section__ 
 
-[Pub. L. 92–603, title III, § 303(a)][/us/pl/92/603/s303/a], (b), Oct. 30, 1972, [86 Stat. 1484][/us/stat/86/1484], provided that this section is repealed effective Jan. 1, 1974, except with respect to Puerto Rico, Guam, and the Virgin Islands.
+    [Pub. L. 92–603, title III, § 303(a)][/us/pl/92/603/s303/a], (b), Oct. 30, 1972, [86 Stat. 1484][/us/stat/86/1484], provided that this section is repealed effective Jan. 1, 1974, except with respect to Puerto Rico, Guam, and the Virgin Islands.
 
  __Amendments__ 
 
@@ -229,7 +229,7 @@
 
 >     “(2) in the case of assistance in the form of medical or any other type of remedial care, under such a plan, with respect to expenditures made after September 1958.
 
->         The amendment made by section 506 \[amending [section 1301 of this title][/us/usc/t42/s1301]\] shall also become effective, for purposes of title V of the Social Security Act \[[42 U.S.C. 701][/us/usc/t42/s701] et seq.\], for fiscal years ending after June 30, 1959. The amendments made by section 507 \[amending [section 1308 of this title][/us/usc/t42/s1308]\] shall be effective for fiscal years ending after June 30, 1958. The amendment made by section 508 \[amending [section 1304 of this title][/us/usc/t42/s1304]\] shall be effective for fiscal years ending after June 30, 1959. The amendment made by section 510 shall become effective October 1, 1958.”
+>     The amendment made by section 506 \[amending [section 1301 of this title][/us/usc/t42/s1301]\] shall also become effective, for purposes of title V of the Social Security Act \[[42 U.S.C. 701][/us/usc/t42/s701] et seq.\], for fiscal years ending after June 30, 1959. The amendments made by section 507 \[amending [section 1308 of this title][/us/usc/t42/s1308]\] shall be effective for fiscal years ending after June 30, 1958. The amendment made by section 508 \[amending [section 1304 of this title][/us/usc/t42/s1304]\] shall be effective for fiscal years ending after June 30, 1959. The amendment made by section 510 shall become effective October 1, 1958.”
 
  __Effective and Termination Date of 1956 Amendment__ 
 

@@ -15,7 +15,7 @@
 
 ## § 10005. Model statute
 
-In order to encourage the administration of accreditation and certification programs by the States, the Secretary shall prepare and transmit to the States a model statute for radiologic procedure safety. Such model statute shall provide that—
+    In order to encourage the administration of accreditation and certification programs by the States, the Secretary shall prepare and transmit to the States a model statute for radiologic procedure safety. Such model statute shall provide that—
 
     (1) it shall be unlawful in a State for individuals to perform radiologic procedures unless such individuals are certified by the State to perform such procedures; and
 

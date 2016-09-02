@@ -15,7 +15,7 @@
 
 ## § 285a–1. Cancer control programs
 
-The Director of the Institute shall establish and support demonstration, education, and other programs for the detection, diagnosis, prevention, and treatment of cancer and for rehabilitation and counseling respecting cancer. Programs established and supported under this section shall include—
+    The Director of the Institute shall establish and support demonstration, education, and other programs for the detection, diagnosis, prevention, and treatment of cancer and for rehabilitation and counseling respecting cancer. Programs established and supported under this section shall include—
 
     (1)
 

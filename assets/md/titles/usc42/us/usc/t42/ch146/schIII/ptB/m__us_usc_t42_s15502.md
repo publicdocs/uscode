@@ -15,7 +15,7 @@
 
 ## § 15502. Process for adoption
 
-The adoption of the voluntary guidance under this part shall be carried out by the Commission in a manner that provides for each of the following:
+    The adoption of the voluntary guidance under this part shall be carried out by the Commission in a manner that provides for each of the following:
 
     (1) Publication of notice of the proposed recommendations in the Federal Register.
 

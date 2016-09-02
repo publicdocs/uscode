@@ -15,7 +15,7 @@
 
 ## § 7701. Congressional findings
 
-The Congress finds and declares the following:
+    The Congress finds and declares the following:
 
     (1) All 50 States are vulnerable to the hazards of earthquakes, and at least 39 of them are subject to major or moderate seismic risk, including Alaska, California, Hawaii, Illinois, Massachusetts, Missouri, Montana, Nevada, New Jersey, New York, South Carolina, Utah, and Washington. A large portion of the population of the United States lives in areas vulnerable to earthquake hazards.
 

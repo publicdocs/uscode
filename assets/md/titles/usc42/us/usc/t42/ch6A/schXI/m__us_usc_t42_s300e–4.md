@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch6A/schXI/m__us_usc_t42_s300e–2, 300e–3.md) | [Next](./../../../../..//us/usc/t42/ch6A/schXI/m__us_usc_t42_s300e–4a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%934)
+[Previous](./../../../../..//us/usc/t42/ch6A/schXI/m__us_usc_t42_s300e–1.md) | [Next](./../../../../..//us/usc/t42/ch6A/schXI/m__us_usc_t42_s300e–4a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%934)
 
 ## § 300e–4. Loans and loan guarantees for initial operation costs
 
@@ -107,7 +107,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch6A/schXI/m__us_usc_t42_s300e–2, 300e–3.md) | [Next](./../../../../..//us/usc/t42/ch6A/schXI/m__us_usc_t42_s300e–4a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%934)
+[Previous](./../../../../..//us/usc/t42/ch6A/schXI/m__us_usc_t42_s300e–1.md) | [Next](./../../../../..//us/usc/t42/ch6A/schXI/m__us_usc_t42_s300e–4a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%E2%80%934)
 
 ----------
 ----------

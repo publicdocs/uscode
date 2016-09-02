@@ -15,9 +15,9 @@
 
 ## § 4272. Declaration of purpose
 
-Because the complexity of modern life intensifies the need in a federal form of government for the fullest cooperation and coordination of activities between the levels of government, and because population growth and scientific developments portend an increasingly complex society in future years, it is essential that an appropriate agency be established to give continuing attention to intergovernmental problems.
+    Because the complexity of modern life intensifies the need in a federal form of government for the fullest cooperation and coordination of activities between the levels of government, and because population growth and scientific developments portend an increasingly complex society in future years, it is essential that an appropriate agency be established to give continuing attention to intergovernmental problems.
 
-It is intended that the Commission, in the performance of its duties, will—
+    It is intended that the Commission, in the performance of its duties, will—
 
     (1) bring together representatives of the Federal, State, and local governments for the consideration of common problems;
 

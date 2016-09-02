@@ -15,7 +15,7 @@
 
 ## § 14015. Report on recordkeeping relating to domestic violence
 
-Not later than 1 year after September 13, 1994, the Attorney General shall complete a study of, and shall submit to Congress a report and recommendations on, problems of recordkeeping of criminal complaints involving domestic violence. The study and report shall examine—
+    Not later than 1 year after September 13, 1994, the Attorney General shall complete a study of, and shall submit to Congress a report and recommendations on, problems of recordkeeping of criminal complaints involving domestic violence. The study and report shall examine—
 
     (1) the efforts that have been made by the Department of Justice, including the Federal Bureau of Investigation, to collect statistics on domestic violence; and
 

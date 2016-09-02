@@ -15,7 +15,7 @@
 
 ## § 1592h. Conditions and requirements as to contracts; utilization of existing facilities; disposition of facilities constructed by United States
 
-In carrying out this subchapter—
+    In carrying out this subchapter—
 
     (a) notwithstanding any other provisions of this subchapter, so far as is consistent with emergency needs, contracts shall be subject to [section 6101 of title 41][/us/usc/t41/s6101];
 

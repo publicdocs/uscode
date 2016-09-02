@@ -15,7 +15,7 @@
 
 ## § 10248. Administrative powers of Negotiator
 
-In carrying out his functions under this subchapter, the Negotiator may—
+    In carrying out his functions under this subchapter, the Negotiator may—
 
     (1) appoint such officers and employees as he determines to be necessary and prescribe their duties;
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch79/schVI/m__us_usc_t42_s6681 to 6685.md) | [Next](./../../../../..//us/usc/t42/ch79/schVI/m__us_usc_t42_s6687.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6686)
+[Previous](./../../../../..//us/usc/t42/ch79/schVI/m__us_usc_t42_ch79_schVI.md) | [Next](./../../../../..//us/usc/t42/ch79/schVI/m__us_usc_t42_s6687.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6686)
 
 ## § 6686. Science and Technology Policy Institute
 
@@ -155,7 +155,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch79/schVI/m__us_usc_t42_s6681 to 6685.md) | [Next](./../../../../..//us/usc/t42/ch79/schVI/m__us_usc_t42_s6687.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6686)
+[Previous](./../../../../..//us/usc/t42/ch79/schVI/m__us_usc_t42_ch79_schVI.md) | [Next](./../../../../..//us/usc/t42/ch79/schVI/m__us_usc_t42_s6687.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6686)
 
 ----------
 ----------

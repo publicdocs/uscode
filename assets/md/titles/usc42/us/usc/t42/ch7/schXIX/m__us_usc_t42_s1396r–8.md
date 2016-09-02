@@ -923,13 +923,13 @@
 
 [Pub. L. 111–148, title II, § 2502][/us/pl/111/148/s2502], Mar. 23, 2010, [124 Stat. 310][/us/stat/124/310], provided that, applicable to services furnished on or after Jan. 1, 2014, subsection (d) of this section is amended:
 
-(1) in paragraph (2)—
+    (1) in paragraph (2)—
 
-(A) by striking subparagraphs (E), (I), and (J), respectively; and
+    (A) by striking subparagraphs (E), (I), and (J), respectively; and
 
-(B) by redesignating subparagraphs (F), (G), (H), and (K) as subparagraphs (E), (F), (G), and (H), respectively; and
+    (B) by redesignating subparagraphs (F), (G), (H), and (K) as subparagraphs (E), (F), (G), and (H), respectively; and
 
-(2) by adding at the end the following new paragraph:
+    (2) by adding at the end the following new paragraph:
 
     (7) Non-excludable drugs
 
@@ -945,7 +945,7 @@
 
 > “, except, in the case of pregnant women when recommended in accordance with the Guideline referred to in [section 1396d(bb)(2)(A) of this title][/us/usc/t42/s1396d/bb/2/A], agents approved by the Food and Drug Administration under the over-the-counter monograph process for purposes of promoting, and when used to promote, tobacco cessation”.
 
-See 2010 Amendment notes below.
+    See 2010 Amendment notes below.
 
  __References in Text__ 
 

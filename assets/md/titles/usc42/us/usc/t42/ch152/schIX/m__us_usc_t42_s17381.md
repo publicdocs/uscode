@@ -15,7 +15,7 @@
 
 ## § 17381. Statement of policy on modernization of electricity grid
 
-It is the policy of the United States to support the modernization of the Nation’s electricity transmission and distribution system to maintain a reliable and secure electricity infrastructure that can meet future demand growth and to achieve each of the following, which together characterize a Smart Grid:
+    It is the policy of the United States to support the modernization of the Nation’s electricity transmission and distribution system to maintain a reliable and secure electricity infrastructure that can meet future demand growth and to achieve each of the following, which together characterize a Smart Grid:
 
     (1) Increased use of digital information and controls technology to improve reliability, security, and efficiency of the electric grid.
 

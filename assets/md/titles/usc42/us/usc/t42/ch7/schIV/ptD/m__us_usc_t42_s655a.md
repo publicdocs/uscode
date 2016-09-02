@@ -15,13 +15,13 @@
 
 ## § 655a. Provision for reimbursement of expenses
 
-For purposes of [section 655 of this title][/us/usc/t42/s655], expenses incurred to reimburse State employment offices for furnishing information requested of such offices—
+    For purposes of [section 655 of this title][/us/usc/t42/s655], expenses incurred to reimburse State employment offices for furnishing information requested of such offices—
 
     (1) pursuant to [section 49b(b) of title 29][/us/usc/t29/s49b/b], or
 
     (2) by a State or local agency charged with the duty of carrying a State plan for child support approved under this part,
 
-        shall be considered to constitute expenses incurred in the administration of such State plan.
+    shall be considered to constitute expenses incurred in the administration of such State plan.
 
 ([Pub. L. 94–566, title V, § 508(b)][/us/pl/94/566/s508/b], Oct. 20, 1976, [90 Stat. 2689][/us/stat/90/2689]; [Pub. L. 104–193, title I, § 110(a)][/us/pl/104/193/s110/a], Aug. 22, 1996, [110 Stat. 2171][/us/stat/110/2171]; [Pub. L. 105–220, title III, § 302(b)][/us/pl/105/220/s302/b], Aug. 7, 1998, [112 Stat. 1081][/us/stat/112/1081].)
 

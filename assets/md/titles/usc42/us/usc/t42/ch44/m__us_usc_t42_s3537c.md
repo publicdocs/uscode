@@ -15,7 +15,7 @@
 
 ## § 3537c. Prohibition of lump-sum payments
 
-In providing relocation assistance in connection with any program administered by the Department of Housing and Urban Development, the Secretary may not make lump-sum payments to any displaced residential tenant, except where necessary to cover—
+    In providing relocation assistance in connection with any program administered by the Department of Housing and Urban Development, the Secretary may not make lump-sum payments to any displaced residential tenant, except where necessary to cover—
 
     (1) moving expenses;
 

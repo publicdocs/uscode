@@ -15,7 +15,7 @@
 
 ## § 14043e. Findings
 
-Congress finds that:
+    Congress finds that:
 
     (1) There is a strong link between domestic violence and homelessness. Among cities surveyed, 44 percent identified domestic violence as a primary cause of homelessness.
 

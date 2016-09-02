@@ -61,11 +61,9 @@
 
             (B)
 
-                (i)
+                (i) is not younger than 18 years of age nor older than 20 years of age;
 
-                 is not younger than 18 years of age nor older than 20 years of age;
-
-                    (ii) before the individual reached 18 years of age, was described in subparagraph (A); and
+                (ii) before the individual reached 18 years of age, was described in subparagraph (A); and
 
                 (iii) was receiving shelter or services as a minor victim of sex trafficking.
 
@@ -227,7 +225,7 @@
 
  __Amendment of Section__ 
 
-For termination of amendment by [section 1241(b) of Pub. L. 113–4][/us/pl/113/4/s1241/b], see Effective and Termination Dates of 2013 Amendment note below.
+    For termination of amendment by [section 1241(b) of Pub. L. 113–4][/us/pl/113/4/s1241/b], see Effective and Termination Dates of 2013 Amendment note below.
 
  __Codification__ 
 

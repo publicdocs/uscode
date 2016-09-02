@@ -15,7 +15,7 @@
 
 ## § 3122. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) __Comprehensive economic development strategy__ 
 

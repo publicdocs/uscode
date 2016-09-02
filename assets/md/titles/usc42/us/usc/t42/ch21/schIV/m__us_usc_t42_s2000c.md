@@ -15,7 +15,7 @@
 
 ## § 2000c. Definitions
 
-As used in this subchapter—
+    As used in this subchapter—
 
     (a) “Secretary” means the Secretary of Education.
 

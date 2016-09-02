@@ -15,7 +15,7 @@
 
 ## § 2992c. Definitions
 
-As used in this subchapter, the term—
+    As used in this subchapter, the term—
 
     (1) “average” means the aggregate number of hours of instruction through the use of a Native American language to all students enrolled in a native language immersion program during a school year divided by the total number of students enrolled in the immersion program;
 

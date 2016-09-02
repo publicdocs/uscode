@@ -15,7 +15,7 @@
 
 ## § 1397. Purposes of division; authorization of appropriations
 
-For the purposes of consolidating Federal assistance to States for social services into a single grant, increasing State flexibility in using social service grants, and encouraging each State, as far as practicable under the conditions in that State, to furnish services directed at the goals of—
+    For the purposes of consolidating Federal assistance to States for social services into a single grant, increasing State flexibility in using social service grants, and encouraging each State, as far as practicable under the conditions in that State, to furnish services directed at the goals of—
 
     (1) achieving or maintaining economic self-support to prevent, reduce, or eliminate dependency;
 
@@ -27,7 +27,7 @@ For the purposes of consolidating Federal assistance to States for social servic
 
     (5) securing referral or admission for institutional care when other forms of care are not appropriate, or providing services to individuals in institutions,
 
-        there are authorized to be appropriated for each fiscal year such sums as may be necessary to carry out the purposes of this division.
+    there are authorized to be appropriated for each fiscal year such sums as may be necessary to carry out the purposes of this division.
 
 ([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XX, § 2001, as added [Pub. L. 97–35, title XXIII, § 2352(a)][/us/pl/97/35/s2352/a], Aug. 13, 1981, [95 Stat. 867][/us/stat/95/867]; amended [Pub. L. 111–148, title VI, § 6703(d)(1)][/us/pl/111/148/s6703/d/1], Mar. 23, 2010, [124 Stat. 803][/us/stat/124/803].)
 

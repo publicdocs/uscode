@@ -15,7 +15,7 @@
 
 ## § 11602. Definitions
 
-For the purposes of this chapter—
+    For the purposes of this chapter—
 
     (1) the term “applicant” means any person who, pursuant to the Convention, files an application with the United States Central Authority or a Central Authority of any other party to the Convention for the return of a child alleged to have been wrongfully removed or retained or for arrangements for organizing or securing the effective exercise of rights of access pursuant to the Convention;
 

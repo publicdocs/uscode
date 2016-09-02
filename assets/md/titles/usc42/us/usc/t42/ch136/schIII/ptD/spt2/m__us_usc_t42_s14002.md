@@ -15,7 +15,7 @@
 
 ## § 14002. Authorization of appropriations
 
-There are authorized to be appropriated—
+    There are authorized to be appropriated—
 
     (1) to the Salaries and Expenses Account of the Courts of Appeals, District Courts, and other Judicial Services to carry out [section 14001(a) of this title][/us/usc/t42/s14001/a] $500,000 for fiscal year 1996;
 

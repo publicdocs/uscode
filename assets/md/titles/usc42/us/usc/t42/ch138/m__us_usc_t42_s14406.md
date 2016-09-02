@@ -15,7 +15,7 @@
 
 ## § 14406. Clarification with respect to advance directives
 
-Subject to [section 14402(b) of this title][/us/usc/t42/s14402/b] (relating to construction and treatment of certain services), sections 1395cc(f) and 1396a(w) of this title shall not be construed—
+    Subject to [section 14402(b) of this title][/us/usc/t42/s14402/b] (relating to construction and treatment of certain services), sections 1395cc(f) and 1396a(w) of this title shall not be construed—
 
     (1) to require any provider or organization, or any employee of such a provider or organization, to inform or counsel any individual regarding any right to obtain an item or service furnished for the purpose of causing, or the purpose of assisting in causing, the death of the individual, such as by assisted suicide, euthanasia, or mercy killing; or
 

@@ -15,7 +15,7 @@
 
 ## § 5901. Congressional statement of findings
 
-The Congress hereby finds that—
+    The Congress hereby finds that—
 
     (a) The Nation is suffering from a shortage of environmentally acceptable forms of energy.
 

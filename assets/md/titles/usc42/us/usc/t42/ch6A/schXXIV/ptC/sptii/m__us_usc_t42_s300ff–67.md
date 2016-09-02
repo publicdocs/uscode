@@ -15,7 +15,7 @@
 
 ## § 300ff–67. Use of funds
 
-Counseling programs carried out under this part—
+    Counseling programs carried out under this part—
 
     (1) shall not be designed to promote or encourage, directly, intravenous drug abuse or sexual activity, homosexual or heterosexual;
 

@@ -153,7 +153,7 @@
 
  __Amendment of Section__ 
 
-For repeal of amendment by [section 3(e) of Pub. L. 111–255][/us/pl/111/255/s3/e], see Effective and Termination Dates of 2010 Amendment note below.
+    For repeal of amendment by [section 3(e) of Pub. L. 111–255][/us/pl/111/255/s3/e], see Effective and Termination Dates of 2010 Amendment note below.
 
  __References in Text__ 
 

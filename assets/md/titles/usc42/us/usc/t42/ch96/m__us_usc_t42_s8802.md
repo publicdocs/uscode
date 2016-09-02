@@ -15,7 +15,7 @@
 
 ## § 8802. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (1) The term “alcohol” means alcohol (including methanol and ethanol) which is produced from biomass and which is suitable for use by itself or in combination with other substances as a fuel or as a substitute for petroleum or petrochemical feedstocks.
 

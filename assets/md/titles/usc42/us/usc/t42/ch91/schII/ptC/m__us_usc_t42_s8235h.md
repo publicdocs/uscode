@@ -15,7 +15,7 @@
 
 ## § 8235h. Revoking approval of plans and terminating financial assistance
 
-The Secretary shall revoke the approval of any plan under [section 8235a(a) of this title][/us/usc/t42/s8235a/a] for the establishment of a prototype residential energy efficiency program, and shall terminate the provision of financial assistance under [section 8235a(c) of this title][/us/usc/t42/s8235a/c] to carry out such plan, if the Secretary determines, in consultation with the Federal Trade Commission and after notice and the opportunity for a hearing, that carrying out such plan—
+    The Secretary shall revoke the approval of any plan under [section 8235a(a) of this title][/us/usc/t42/s8235a/a] for the establishment of a prototype residential energy efficiency program, and shall terminate the provision of financial assistance under [section 8235a(c) of this title][/us/usc/t42/s8235a/c] to carry out such plan, if the Secretary determines, in consultation with the Federal Trade Commission and after notice and the opportunity for a hearing, that carrying out such plan—
 
     (1) causes unfair methods of competition;
 

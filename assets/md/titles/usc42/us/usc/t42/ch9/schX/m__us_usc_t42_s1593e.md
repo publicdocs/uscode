@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch9/schX/m__us_usc_t42_s1593 to 1593d.md) | [Next](./../../../../..//us/usc/t42/ch9/schXI/m__us_usc_t42_ch9_schXI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1593e)
+[Previous](./../../../../..//us/usc/t42/ch9/schX/m__us_usc_t42_ch9_schX.md) | [Next](./../../../../..//us/usc/t42/ch9/schXI/m__us_usc_t42_ch9_schXI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1593e)
 
 ## § 1593e. Housing of persons displaced by acquisition of property for defense installations or industries
 
@@ -31,7 +31,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch9/schX/m__us_usc_t42_s1593 to 1593d.md) | [Next](./../../../../..//us/usc/t42/ch9/schXI/m__us_usc_t42_ch9_schXI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1593e)
+[Previous](./../../../../..//us/usc/t42/ch9/schX/m__us_usc_t42_ch9_schX.md) | [Next](./../../../../..//us/usc/t42/ch9/schXI/m__us_usc_t42_ch9_schXI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1593e)
 
 ----------
 ----------

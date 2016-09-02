@@ -15,7 +15,7 @@
 
 ## § 2000d–4a. “Program or activity” and “program” defined
 
-For the purposes of this subchapter, the term “program or activity” and the term “program” mean all of the operations of—
+    For the purposes of this subchapter, the term “program or activity” and the term “program” mean all of the operations of—
 
     (1)
 
@@ -43,7 +43,7 @@ For the purposes of this subchapter, the term “program or activity” and the 
 
     (4) any other entity which is established by two or more of the entities described in paragraph (1), (2), or (3);
 
-        any part of which is extended Federal financial assistance.
+    any part of which is extended Federal financial assistance.
 
 ([Pub. L. 88–352, title VI, § 606][/us/pl/88/352/s606], as added [Pub. L. 100–259, § 6][/us/pl/100/259/s6], Mar. 22, 1988, [102 Stat. 31][/us/stat/102/31]; amended [Pub. L. 103–382, title III, § 391(q)][/us/pl/103/382/s391/q], Oct. 20, 1994, [108 Stat. 4024][/us/stat/108/4024]; [Pub. L. 107–110, title X, § 1076(y)][/us/pl/107/110/s1076/y], Jan. 8, 2002, [115 Stat. 2093][/us/stat/115/2093].)
 

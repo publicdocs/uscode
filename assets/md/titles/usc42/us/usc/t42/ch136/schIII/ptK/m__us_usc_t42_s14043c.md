@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch136/schIII/ptK/m__us_usc_t42_ch136_schIII_ptK.md) | [Next](./../../../../../..//us/usc/t42/ch136/schIII/ptK/m__us_usc_t42_s14043c–1 to 14043c–3.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14043c)
+[Previous](./../../../../../..//us/usc/t42/ch136/schIII/ptK/m__us_usc_t42_ch136_schIII_ptK.md) | [Next](./../../../../../..//us/usc/t42/ch136/schIII/ptL/m__us_usc_t42_ch136_schIII_ptL.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14043c)
 
 ## § 14043c. Creating hope through outreach, options, services, and education for children and youth (“CHOOSE Children & Youth”)
 
@@ -119,9 +119,21 @@
 
     Section not effective until the beginning of the fiscal year following Mar. 7, 2013, see [section 4 of Pub. L. 113–4][/us/pl/113/4/s4], set out as an Effective Date of 2013 Amendment note under [section 2261 of Title 18][/us/usc/t18/s2261], Crimes and Criminal Procedure.
 
+§§ 14043c–1 to 14043c–3. __Repealed.__  __[__  __Pub. L. 113–4, title III, § 302__  __][/us/pl/113/4/s302]__  __,__  __Mar. 7, 2013__  __,__  __[__  __127 Stat. 84__  __][/us/stat/127/84]__ 
+
+    Section 14043c–1, [Pub. L. 103–322, title IV, § 41202][/us/pl/103/322/s41202], as added [Pub. L. 109–162, title III, § 303][/us/pl/109/162/s303], Jan. 5, 2006, [119 Stat. 3005][/us/stat/119/3005], related to access to justice for youth.
+
+    Section 14043c–2, [Pub. L. 103–322, title IV, § 41203][/us/pl/103/322/s41203], as added [Pub. L. 109–162, title III, § 303][/us/pl/109/162/s303], Jan. 5, 2006, [119 Stat. 3008][/us/stat/119/3008], related to grants for training and collaboration on the intersection between domestic violence and child maltreatment.
+
+    Section 14043c–3, [Pub. L. 103–322, title IV, § 41204][/us/pl/103/322/s41204], as added [Pub. L. 109–162, title III, § 303][/us/pl/109/162/s303], Jan. 5, 2006, [119 Stat. 3010][/us/stat/119/3010]; amended [Pub. L. 109–271, § 4(a)][/us/pl/109/271/s4/a], Aug. 12, 2006, [120 Stat. 758][/us/stat/120/758], related to grants to combat domestic violence, dating violence, sexual assault, and stalking in middle and high schools.
+
+ __Effective Date of Repeal__ 
+
+    Repeal not effective until the beginning of the fiscal year following Mar. 7, 2013, see [section 4 of Pub. L. 113–4][/us/pl/113/4/s4], set out as an Effective Date of 2013 Amendment note under [section 2261 of Title 18][/us/usc/t18/s2261], Crimes and Criminal Procedure.
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch136/schIII/ptK/m__us_usc_t42_ch136_schIII_ptK.md) | [Next](./../../../../../..//us/usc/t42/ch136/schIII/ptK/m__us_usc_t42_s14043c–1 to 14043c–3.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14043c)
+[Previous](./../../../../../..//us/usc/t42/ch136/schIII/ptK/m__us_usc_t42_ch136_schIII_ptK.md) | [Next](./../../../../../..//us/usc/t42/ch136/schIII/ptL/m__us_usc_t42_ch136_schIII_ptL.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14043c)
 
 ----------
 ----------
@@ -140,6 +152,21 @@
 [/us/stat/119/3004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3004
 [/us/pl/113/4/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs302
 [/us/stat/127/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F84
+[/us/pl/113/4/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs4
+[/us/usc/t18/s2261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2261
+[/us/pl/113/4/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs302
+[/us/stat/127/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F84
+[/us/pl/103/322/s41202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs41202
+[/us/pl/109/162/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs303
+[/us/stat/119/3005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3005
+[/us/pl/103/322/s41203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs41203
+[/us/pl/109/162/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs303
+[/us/stat/119/3008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3008
+[/us/pl/103/322/s41204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs41204
+[/us/pl/109/162/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs303
+[/us/stat/119/3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3010
+[/us/pl/109/271/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F271%2Fs4%2Fa
+[/us/stat/120/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F758
 [/us/pl/113/4/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs4
 [/us/usc/t18/s2261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2261
 

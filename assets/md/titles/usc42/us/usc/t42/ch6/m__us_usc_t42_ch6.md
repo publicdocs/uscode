@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch5/m__us_usc_t42_s161 to 175.md) | [Next](./../../../..//us/usc/t42/ch6/m__us_usc_t42_s191.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch6)
+[Previous](./../../../..//us/usc/t42/ch5/m__us_usc_t42_ch5.md) | [Next](./../../../..//us/usc/t42/ch6/m__us_usc_t42_s191.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch6)
 
 ## CHAPTER 6—THE CHILDREN’S BUREAU
 
@@ -59,7 +59,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch5/m__us_usc_t42_s161 to 175.md) | [Next](./../../../..//us/usc/t42/ch6/m__us_usc_t42_s191.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch6)
+[Previous](./../../../..//us/usc/t42/ch5/m__us_usc_t42_ch5.md) | [Next](./../../../..//us/usc/t42/ch6/m__us_usc_t42_s191.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch6)
 
 ----------
 ----------

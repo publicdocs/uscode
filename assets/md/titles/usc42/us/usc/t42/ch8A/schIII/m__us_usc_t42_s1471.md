@@ -27,9 +27,9 @@
 
             (ii) if combined (in the case of a dwelling that the Secretary finds not to be decent, safe, and sanitary) with a loan for improvement, rehabilitation, or repairs and not refinanced, is likely to result in the applicant’s continuing to be deprived of a decent, safe, and sanitary dwelling.
 
-    (5)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original.__  __ </sup></sup> __  __Definitions.—__ 
+        (5)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original.__  __ </sup></sup> __  __Definitions.—__ 
 
-    For purposes of this subchapter, the terms “repair”, “repairs”, “rehabilitate”, and “rehabilitation” include measures to evaluate and reduce lead-based paint hazards, as such terms are defined in [section 4851b of this title][/us/usc/t42/s4851b].
+        For purposes of this subchapter, the terms “repair”, “repairs”, “rehabilitate”, and “rehabilitation” include measures to evaluate and reduce lead-based paint hazards, as such terms are defined in [section 4851b of this title][/us/usc/t42/s4851b].
 
     (b) __Definitions__ 
 

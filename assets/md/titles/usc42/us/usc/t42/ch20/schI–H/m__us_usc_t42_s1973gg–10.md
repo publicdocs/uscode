@@ -15,7 +15,7 @@
 
 ## § 1973gg–10. Criminal penalties
 
-A person, including an election official, who in any election for Federal office—
+    A person, including an election official, who in any election for Federal office—
 
     (1)
 
@@ -35,7 +35,7 @@ A person, including an election official, who in any election for Federal office
 
         (B) the procurement, casting, or tabulation of ballots that are known by the person to be materially false, fictitious, or fraudulent under the laws of the State in which the election is held,
 
-        shall be fined in accordance with title 18 (which fines shall be paid into the general fund of the Treasury, miscellaneous receipts (pursuant to [section 3302 of title 31][/us/usc/t31/s3302]), notwithstanding any other law), or imprisoned not more than 5 years, or both.
+    shall be fined in accordance with title 18 (which fines shall be paid into the general fund of the Treasury, miscellaneous receipts (pursuant to [section 3302 of title 31][/us/usc/t31/s3302]), notwithstanding any other law), or imprisoned not more than 5 years, or both.
 
 ([Pub. L. 103–31, § 12][/us/pl/103/31/s12], May 20, 1993, [107 Stat. 88][/us/stat/107/88].)
 

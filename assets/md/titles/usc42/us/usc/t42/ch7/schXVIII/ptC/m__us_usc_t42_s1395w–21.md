@@ -925,9 +925,9 @@
 
 >     Beginning in 2000, the Comptroller General shall conduct an annual audit of the expenditures by the Secretary of Health and Human Services during the preceding year in providing information regarding the Medicare+Choice program under part C of title XVIII of the Social Security Act ([42 U.S.C. 1395w–21][/us/usc/t42/s1395w–21] et seq.) to eligible medicare beneficiaries.
 
->     “(3) __\[(2)\] Reports.—__ 
+>     “(3)     \[(2) __\] Reports.—__ 
 
->     Not later than March 31 of 2001, 2004, 2007, and 2010, the Comptroller General shall submit a report to Congress on the results of the audit of the expenditures of the preceding 3 years conducted pursuant to subsection (a) \[enacting provisions set out as a note under [section 1395ss of this title][/us/usc/t42/s1395ss]\], together with an evaluation of the effectiveness of the means used by the Secretary of Health and Human Services in providing information regarding the Medicare+Choice program under part C of title XVIII of the Social Security Act ([42 U.S.C. 1395w–21][/us/usc/t42/s1395w–21] et seq.) to eligible medicare beneficiaries.”
+>         Not later than March 31 of 2001, 2004, 2007, and 2010, the Comptroller General shall submit a report to Congress on the results of the audit of the expenditures of the preceding 3 years conducted pursuant to subsection (a) \[enacting provisions set out as a note under [section 1395ss of this title][/us/usc/t42/s1395ss]\], together with an evaluation of the effectiveness of the means used by the Secretary of Health and Human Services in providing information regarding the Medicare+Choice program under part C of title XVIII of the Social Security Act ([42 U.S.C. 1395w–21][/us/usc/t42/s1395w–21] et seq.) to eligible medicare beneficiaries.”
 
  __Enrollment Transition Rule__ 
 

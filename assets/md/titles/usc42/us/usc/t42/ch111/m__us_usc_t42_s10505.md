@@ -15,7 +15,7 @@
 
 ## § 10505. Confidentiality of information
 
-[Section 3789g of this title][/us/usc/t42/s3789g] shall apply with respect to—
+    [Section 3789g of this title][/us/usc/t42/s3789g] shall apply with respect to—
 
     (1) information furnished under this chapter,
 
@@ -23,7 +23,7 @@
 
     (3) criminal intelligence systems operating with the support of Federal law enforcement assistance provided under this chapter,
 
-        except that the terms “this chapter” and “this section”, as such terms appear in such [section 3789g of this title][/us/usc/t42/s3789g], shall be deemed to be references to this chapter and this section, respectively, and a reference to the Office of Justice Programs in such section 3789g shall be deemed to be a reference to the Attorney General.
+    except that the terms “this chapter” and “this section”, as such terms appear in such [section 3789g of this title][/us/usc/t42/s3789g], shall be deemed to be references to this chapter and this section, respectively, and a reference to the Office of Justice Programs in such section 3789g shall be deemed to be a reference to the Attorney General.
 
 ([Pub. L. 98–473, title II, § 609Q][/us/pl/98/473/s609Q], Oct. 12, 1984, [98 Stat. 2105][/us/stat/98/2105].)
 

@@ -1185,7 +1185,7 @@
 
 >     “(2) require such organizations and organizations paid under section 1833(a)(1)(A) of such Act \[[42 U.S.C. 1395][/us/usc/t42/s1395]l(a)(1)(A)\] to make appropriate adjustments (including adjustments in premiums and benefits) in the terms of their agreements with medicare beneficiaries to take into account such amendments.
 
->         The Secretary shall also provide for appropriate modifications of contracts with health maintenance organizations under section 1876(i)(2)(A) of the Social Security Act \[[42 U.S.C. 1395mm(i)(2)(A)][/us/usc/t42/s1395mm/i/2/A]\] (as in effect before February 1, 1985), under section 402(a) of the Social Security Amendments of 1967 \[[42 U.S.C. 1395b–1(a)][/us/usc/t42/s1395b–1/a]\], or under section 222(a) of the Social Security Amendments of 1972 \[[42 U.S.C. 1395b–1][/us/usc/t42/s1395b–1] note\], for portions of contract years occurring after December 31, 1988, so as to apply to such organizations and contracts the requirements imposed by the amendments made by this Act upon an organization with a risk-sharing contract under section 1876 of the Social Security Act.”
+>     The Secretary shall also provide for appropriate modifications of contracts with health maintenance organizations under section 1876(i)(2)(A) of the Social Security Act \[[42 U.S.C. 1395mm(i)(2)(A)][/us/usc/t42/s1395mm/i/2/A]\] (as in effect before February 1, 1985), under section 402(a) of the Social Security Amendments of 1967 \[[42 U.S.C. 1395b–1(a)][/us/usc/t42/s1395b–1/a]\], or under section 222(a) of the Social Security Amendments of 1972 \[[42 U.S.C. 1395b–1][/us/usc/t42/s1395b–1] note\], for portions of contract years occurring after December 31, 1988, so as to apply to such organizations and contracts the requirements imposed by the amendments made by this Act upon an organization with a risk-sharing contract under section 1876 of the Social Security Act.”
 
  __Provision of Medicare DRG Rates for Certain Payments and Data on Inpatient Cost Pass-Through Items__ 
 
@@ -1321,7 +1321,11 @@
 
 >             Effective October 1, 2000—
 
->                 “(i) the case management fee per enrollee per month for—         “(I) the period described in subparagraph (A)(i) shall be determined by actuarially adjusting the case management fee for 1999 for inflation; and
+>                 “(i)
+
+>                  the case management fee per enrollee per month for—
+
+>                          “(I) the period described in subparagraph (A)(i) shall be determined by actuarially adjusting the case management fee for 1999 for inflation; and
 
 >                          “(II) 2001 shall be determined by actuarially adjusting the amount determined under subclause (I) for inflation; and
 
@@ -1331,7 +1335,11 @@
 
 >             Each project shall implement for each site—
 
->                 “(i) protocols for periodic telephonic contact with enrollees based on—         “(I) the results of such standardized written health assessment; and
+>                 “(i)
+
+>                  protocols for periodic telephonic contact with enrollees based on—
+
+>                          “(I) the results of such standardized written health assessment; and
 
 >                          “(II) the application of appropriate care planning approaches;
 

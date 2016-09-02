@@ -145,9 +145,13 @@
 
                     For purposes of subclause (I)—
 
-                        (aa) In general    The term “poverty program expense” means any expense in providing direct services referred to in clause (iii).
+                        (aa) __In general__ 
 
-                        (bb) Exceptions    Such term shall not include any management or general expense, any expense for the purpose of influencing legislation (as defined in [section 4911(d) of title 26][/us/usc/t26/s4911/d]), any expense for the purpose of fundraising, any expense for a legal service provided on behalf of any individual referred to in clause (iii), any expense for providing tuition assistance relating to compulsory school attendance, and any expense that consists of a payment to an affiliate of the organization.
+                            The term “poverty program expense” means any expense in providing direct services referred to in clause (iii).
+
+                        (bb) __Exceptions__ 
+
+                            Such term shall not include any management or general expense, any expense for the purpose of influencing legislation (as defined in [section 4911(d) of title 26][/us/usc/t26/s4911/d]), any expense for the purpose of fundraising, any expense for a legal service provided on behalf of any individual referred to in clause (iii), any expense for providing tuition assistance relating to compulsory school attendance, and any expense that consists of a payment to an affiliate of the organization.
 
                 (v) __Reporting requirement__ 
 

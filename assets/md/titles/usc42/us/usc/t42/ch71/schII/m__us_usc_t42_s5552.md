@@ -15,7 +15,7 @@
 
 ## § 5552. Definitions
 
-For the purposes of this subchapter—
+    For the purposes of this subchapter—
 
     (1) the term “solar energy” means energy which has recently originated in the Sun, including direct and indirect solar radiation and intermediate solar energy forms such as wind, sea thermal gradients, products of photosynthetic processes, organic wastes, and others;
 

@@ -15,7 +15,7 @@
 
 ## § 9831. Statement of purpose
 
-It is the purpose of this subchapter to promote the school readiness of low-income children by enhancing their cognitive, social, and emotional development—
+    It is the purpose of this subchapter to promote the school readiness of low-income children by enhancing their cognitive, social, and emotional development—
 
     (1) in a learning environment that supports children’s growth in language, literacy, mathematics, science, social and emotional functioning, creative arts, physical skills, and approaches to learning; and
 

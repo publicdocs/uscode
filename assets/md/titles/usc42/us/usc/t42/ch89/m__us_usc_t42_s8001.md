@@ -15,7 +15,7 @@
 
 ## § 8001. Congressional findings
 
-The Congress finds that—
+    The Congress finds that—
 
     (1) congregate housing, coordinated with the delivery of supportive services, offers an innovative, proven, and cost-effective means of enabling temporarily disabled or handicapped individuals to maintain their dignity and independence and to avoid costly and unnecessary institutionalization;
 

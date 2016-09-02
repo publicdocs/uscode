@@ -15,7 +15,7 @@
 
 ## § 15081. Purpose
 
-The purpose of this part is to provide grants, contracts, or cooperative agreements for projects of national significance that—
+    The purpose of this part is to provide grants, contracts, or cooperative agreements for projects of national significance that—
 
     (1) create opportunities for individuals with developmental disabilities to directly and fully contribute to, and participate in, all facets of community life; and
 

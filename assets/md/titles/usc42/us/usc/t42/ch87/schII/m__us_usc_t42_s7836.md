@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch87/schII/m__us_usc_t42_s7831 to 7835.md) | [Next](./../../../../..//us/usc/t42/ch87/schIII/m__us_usc_t42_ch87_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7836)
+[Previous](./../../../../..//us/usc/t42/ch87/schII/m__us_usc_t42_ch87_schII.md) | [Next](./../../../../..//us/usc/t42/ch87/schIII/m__us_usc_t42_ch87_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7836)
 
 ## § 7836. Transferred
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch87/schII/m__us_usc_t42_s7831 to 7835.md) | [Next](./../../../../..//us/usc/t42/ch87/schIII/m__us_usc_t42_ch87_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7836)
+[Previous](./../../../../..//us/usc/t42/ch87/schII/m__us_usc_t42_ch87_schII.md) | [Next](./../../../../..//us/usc/t42/ch87/schIII/m__us_usc_t42_ch87_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7836)
 
 ----------
 ----------

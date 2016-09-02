@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch52/schIII/m__us_usc_t42_s4221 to 4223.md) | [Next](./../../../../..//us/usc/t42/ch52/schIII/m__us_usc_t42_s4225.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4224)
+[Previous](./../../../../..//us/usc/t42/ch52/schIII/m__us_usc_t42_ch52_schIII.md) | [Next](./../../../../..//us/usc/t42/ch52/schIII/m__us_usc_t42_s4225.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4224)
 
 ## § 4224. Repealed. [Pub. L. 96–470, title I, § 101(b)][/us/pl/96/470/s101/b], Oct. 19, 1980, [94 Stat. 2237][/us/stat/94/2237]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch52/schIII/m__us_usc_t42_s4221 to 4223.md) | [Next](./../../../../..//us/usc/t42/ch52/schIII/m__us_usc_t42_s4225.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4224)
+[Previous](./../../../../..//us/usc/t42/ch52/schIII/m__us_usc_t42_ch52_schIII.md) | [Next](./../../../../..//us/usc/t42/ch52/schIII/m__us_usc_t42_s4225.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4224)
 
 ----------
 ----------

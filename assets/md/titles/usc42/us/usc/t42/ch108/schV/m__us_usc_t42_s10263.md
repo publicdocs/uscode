@@ -15,7 +15,7 @@
 
 ## § 10263. Functions
 
-The Board shall evaluate the technical and scientific validity of activities undertaken by the Secretary after December 22, 1987, including—
+    The Board shall evaluate the technical and scientific validity of activities undertaken by the Secretary after December 22, 1987, including—
 
     (1) site characterization activities; and
 

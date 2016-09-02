@@ -15,7 +15,7 @@
 
 ## § 5000. Statement of purpose
 
-It is the purpose of this subchapter to provide—
+    It is the purpose of this subchapter to provide—
 
     (1) opportunities for senior service to meet unmet local, State, and national needs in the areas of education, public safety, emergency and disaster preparedness, relief, and recovery, health and human needs, and the environment;
 

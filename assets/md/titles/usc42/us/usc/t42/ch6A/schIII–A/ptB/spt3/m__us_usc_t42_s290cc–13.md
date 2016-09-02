@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t42/ch6A/schIII–A/ptB/spt3/m__us_usc_t42_s290cc to 290cc–12.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schIII–A/ptC/m__us_usc_t42_ch6A_schIII–A_ptC.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290cc%E2%80%9313)
+[Previous](./../../../../../../..//us/usc/t42/ch6A/schIII–A/ptB/spt3/m__us_usc_t42_s290bb–42.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schIII–A/ptC/m__us_usc_t42_ch6A_schIII–A_ptC.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290cc%E2%80%9313)
 
 ## § 290cc–13. Transferred
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t42/ch6A/schIII–A/ptB/spt3/m__us_usc_t42_s290cc to 290cc–12.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schIII–A/ptC/m__us_usc_t42_ch6A_schIII–A_ptC.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290cc%E2%80%9313)
+[Previous](./../../../../../../..//us/usc/t42/ch6A/schIII–A/ptB/spt3/m__us_usc_t42_s290bb–42.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schIII–A/ptC/m__us_usc_t42_ch6A_schIII–A_ptC.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290cc%E2%80%9313)
 
 ----------
 ----------

@@ -3467,7 +3467,7 @@
 
 >     “(2) the fee schedule amount (as referred to in section 1848(a) ([42 U.S.C. 1395w–4(a)][/us/usc/t42/s1395w–4/a]) of such Act),
 
->         for physicians’ services (as defined in section 1848(j)(3) of such Act ([42 U.S.C. 1395w–4(j)(3)][/us/usc/t42/s1395w–4/j/3])) furnished on or after January 1, 1992.”
+>     for physicians’ services (as defined in section 1848(j)(3) of such Act ([42 U.S.C. 1395w–4(j)(3)][/us/usc/t42/s1395w–4/j/3])) furnished on or after January 1, 1992.”
 
  __Studies__ 
 

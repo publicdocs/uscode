@@ -15,7 +15,7 @@
 
 ## § 1590. Definitions
 
-As used in this subchapter, the following terms shall have the meanings ascribed to them below, unless the context clearly indicates otherwise:
+    As used in this subchapter, the following terms shall have the meanings ascribed to them below, unless the context clearly indicates otherwise:
 
     (a) The term “governing body of the municipality or county” means the governing body of the city, village, or other municipality having general governmental authority over the area in which the housing involved is located or, if the housing is not located in such a municipality, the term means the governing body of the county or parish in which the housing is located, or if the housing is located in the District of Columbia the term means the Council of the District of Columbia.
 

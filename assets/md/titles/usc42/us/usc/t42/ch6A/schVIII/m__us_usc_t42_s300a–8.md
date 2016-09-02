@@ -15,7 +15,7 @@
 
 ## § 300a–8. Penalty for United States, etc., officer or employee coercing or endeavoring to coerce procedure upon beneficiary of Federal program
 
-Any—
+    Any—
 
     (1) officer or employee of the United States,
 
@@ -23,7 +23,7 @@ Any—
 
     (3) person who receives, under any program receiving Federal financial assistance, compensation for services,
 
-        who coerces or endeavors to coerce any person to undergo an abortion or sterilization procedure by threatening such person with the loss of, or disqualification for the receipt of, any benefit or service under a program receiving Federal financial assistance shall be fined not more than $1,000 or imprisoned for not more than one year, or both.
+    who coerces or endeavors to coerce any person to undergo an abortion or sterilization procedure by threatening such person with the loss of, or disqualification for the receipt of, any benefit or service under a program receiving Federal financial assistance shall be fined not more than $1,000 or imprisoned for not more than one year, or both.
 
 ([Pub. L. 94–63, title II, § 205][/us/pl/94/63/s205], July 29, 1975, [89 Stat. 308][/us/stat/89/308].)
 

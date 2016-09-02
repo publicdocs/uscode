@@ -15,7 +15,7 @@
 
 ## § 13381. Report
 
-Not later than 2 years after October 24, 1992, the Secretary shall submit a report to the Congress that includes an assessment of—
+    Not later than 2 years after October 24, 1992, the Secretary shall submit a report to the Congress that includes an assessment of—
 
     (1) the feasibility and economic, energy, social, environmental, and competitive implications, including implications for jobs, of stabilizing the generation of greenhouse gases in the United States by the year 2005;
 

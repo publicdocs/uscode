@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch77/schII/ptA/m__us_usc_t42_s6261 to 6264.md) | [Next](./../../../../../..//us/usc/t42/ch77/schII/ptB/m__us_usc_t42_s6271.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch77%2FschII%2FptB)
+[Previous](./../../../../../..//us/usc/t42/ch77/schII/ptA/m__us_usc_t42_ch77_schII_ptA.md) | [Next](./../../../../../..//us/usc/t42/ch77/schII/ptB/m__us_usc_t42_s6271.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch77%2FschII%2FptB)
 
 #### Part B—Authorities With Respect to International Energy Program
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch77/schII/ptA/m__us_usc_t42_s6261 to 6264.md) | [Next](./../../../../../..//us/usc/t42/ch77/schII/ptB/m__us_usc_t42_s6271.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch77%2FschII%2FptB)
+[Previous](./../../../../../..//us/usc/t42/ch77/schII/ptA/m__us_usc_t42_ch77_schII_ptA.md) | [Next](./../../../../../..//us/usc/t42/ch77/schII/ptB/m__us_usc_t42_s6271.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch77%2FschII%2FptB)
 
 ----------
 ----------

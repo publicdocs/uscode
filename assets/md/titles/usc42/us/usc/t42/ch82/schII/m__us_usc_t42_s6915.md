@@ -15,7 +15,7 @@
 
 ## § 6915. Annual report
 
-The Administrator shall transmit to the Congress and the President, not later than ninety days after the end of each fiscal year, a comprehensive and detailed report on all activities of the Office during the preceding fiscal year. Each such report shall include—
+    The Administrator shall transmit to the Congress and the President, not later than ninety days after the end of each fiscal year, a comprehensive and detailed report on all activities of the Office during the preceding fiscal year. Each such report shall include—
 
     (1) a statement of specific and detailed objectives for the activities and programs conducted and assisted under this chapter;
 

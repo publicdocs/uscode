@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch15B/schIV/m__us_usc_t42_s1858, 1858a.md) | [Next](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1861.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch16)
+[Previous](./../../../..//us/usc/t42/ch15B/schIV/m__us_usc_t42_ch15B_schIV.md) | [Next](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1861.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch16)
 
 ## CHAPTER 16—NATIONAL SCIENCE FOUNDATION
 
@@ -787,7 +787,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch15B/schIV/m__us_usc_t42_s1858, 1858a.md) | [Next](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1861.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch16)
+[Previous](./../../../..//us/usc/t42/ch15B/schIV/m__us_usc_t42_ch15B_schIV.md) | [Next](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1861.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch16)
 
 ----------
 ----------

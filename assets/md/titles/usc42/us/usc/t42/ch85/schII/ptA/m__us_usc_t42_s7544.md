@@ -15,7 +15,7 @@
 
 ## § 7544. State grants
 
-The Administrator is authorized to make grants to appropriate State agencies in an amount up to two-thirds of the cost of developing and maintaining effective vehicle emission devices and systems inspection and emission testing and control programs, except that—
+    The Administrator is authorized to make grants to appropriate State agencies in an amount up to two-thirds of the cost of developing and maintaining effective vehicle emission devices and systems inspection and emission testing and control programs, except that—
 
     (1) no such grant shall be made for any part of any State vehicle inspection program which does not directly relate to the cost of the air pollution control aspects of such a program;
 
@@ -23,7 +23,7 @@ The Administrator is authorized to make grants to appropriate State agencies in 
 
     (3) no such grant shall be made unless the program includes provisions designed to insure that emission control devices and systems on vehicles in actual use have not been discontinued or rendered inoperative.
 
-        Grants may be made under this section by way of reimbursement in any case in which amounts have been expended by the State before the date on which any such grant was made.
+    Grants may be made under this section by way of reimbursement in any case in which amounts have been expended by the State before the date on which any such grant was made.
 
 ([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, § 210, formerly § 209, as added [Pub. L. 90–148, § 2][/us/pl/90/148/s2], Nov. 21, 1967, [81 Stat. 502][/us/stat/81/502]; renumbered and amended [Pub. L. 91–604][/us/pl/91/604], §§ 8(a), 10(b), Dec. 31, 1970, [84 Stat. 1694][/us/stat/84/1694], 1700; [Pub. L. 95–95, title II, § 204][/us/pl/95/95/s204], Aug. 7, 1977, [91 Stat. 754][/us/stat/91/754].)
 

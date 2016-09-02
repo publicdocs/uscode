@@ -15,7 +15,7 @@
 
 ## § 12702. Objective of national housing policy
 
-The objective of national housing policy shall be to reaffirm the long-established national commitment to decent, safe, and sanitary housing for every American by strengthening a nationwide partnership of public and private institutions able—
+    The objective of national housing policy shall be to reaffirm the long-established national commitment to decent, safe, and sanitary housing for every American by strengthening a nationwide partnership of public and private institutions able—
 
     (1) to ensure that every resident of the United States has access to decent shelter or assistance in avoiding homelessness;
 

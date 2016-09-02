@@ -35,7 +35,7 @@
 
  __Amendment of Subsection (a)(1)__ 
 
-[Pub. L. 112–141, div. A, title I, § 1521(b)][/us/pl/112/141/s1521/b], (g), July 6, 2012, [126 Stat. 578][/us/stat/126/578], 579, provided that, effective 2 years after the date of enactment of [Pub. L. 112–141][/us/pl/112/141], the first sentence of subsection (a)(1) of this section is amended by striking “$22,500” and inserting “$31,000, as adjusted by regulation, in accordance with 4633(d) of this title,” and by striking “one hundred and eighty days prior to” and inserting “90 days before”. See 2012 Amendment note below.
+    [Pub. L. 112–141, div. A, title I, § 1521(b)][/us/pl/112/141/s1521/b], (g), July 6, 2012, [126 Stat. 578][/us/stat/126/578], 579, provided that, effective 2 years after the date of enactment of [Pub. L. 112–141][/us/pl/112/141], the first sentence of subsection (a)(1) of this section is amended by striking “$22,500” and inserting “$31,000, as adjusted by regulation, in accordance with 4633(d) of this title,” and by striking “one hundred and eighty days prior to” and inserting “90 days before”. See 2012 Amendment note below.
 
  __Amendments__ 
 

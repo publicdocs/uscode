@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch155/schX/m__us_usc_t42_s17822 to 17824.md) | [Next](./../../../../..//us/usc/t42/ch155/schX/m__us_usc_t42_s17826.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17825)
+[Previous](./../../../../..//us/usc/t42/ch155/schX/m__us_usc_t42_s17821.md) | [Next](./../../../../..//us/usc/t42/ch155/schX/m__us_usc_t42_s17826.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17825)
 
 ## § 17825. Repealed or Omitted
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch155/schX/m__us_usc_t42_s17822 to 17824.md) | [Next](./../../../../..//us/usc/t42/ch155/schX/m__us_usc_t42_s17826.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17825)
+[Previous](./../../../../..//us/usc/t42/ch155/schX/m__us_usc_t42_s17821.md) | [Next](./../../../../..//us/usc/t42/ch155/schX/m__us_usc_t42_s17826.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17825)
 
 ----------
 ----------

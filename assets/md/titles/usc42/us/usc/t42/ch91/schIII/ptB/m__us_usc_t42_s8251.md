@@ -15,7 +15,7 @@
 
 ## § 8251. Findings
 
-The Congress finds that—
+    The Congress finds that—
 
     (1) the Federal Government is the largest single energy consumer in the Nation;
 

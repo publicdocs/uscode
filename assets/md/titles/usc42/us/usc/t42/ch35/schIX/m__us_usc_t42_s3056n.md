@@ -15,7 +15,7 @@
 
 ## § 3056n. Sense of Congress
 
-It is the sense of Congress that—
+    It is the sense of Congress that—
 
     (1) the older American community service employment program described in this subchapter was established with the intent of placing older individuals in community service positions and providing job training; and
 

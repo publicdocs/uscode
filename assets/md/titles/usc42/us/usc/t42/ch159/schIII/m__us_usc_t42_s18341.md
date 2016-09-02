@@ -15,7 +15,7 @@
 
 ## § 18341. Commercial Cargo Development program
 
-The Administrator shall continue to support the existing Commercial Orbital Transportation Services program, aimed at enabling the commercial space industry in support of NASA to develop reliable means of launching cargo and supplies to the ISS throughout the duration of the facility’s operation. The Administrator may apply funds towards the reduction of risk to the timely start of these services, specifically—
+    The Administrator shall continue to support the existing Commercial Orbital Transportation Services program, aimed at enabling the commercial space industry in support of NASA to develop reliable means of launching cargo and supplies to the ISS throughout the duration of the facility’s operation. The Administrator may apply funds towards the reduction of risk to the timely start of these services, specifically—
 
     (1) efforts to conduct a flight test;
 

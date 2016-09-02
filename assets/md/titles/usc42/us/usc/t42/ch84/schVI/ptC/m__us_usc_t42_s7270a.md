@@ -15,7 +15,7 @@
 
 ## § 7270a. Guards for Strategic Petroleum Reserve facilities
 
-Under guidelines prescribed by the Secretary and concurred with by the Attorney General, employees of the Department of Energy and employees of contractors and subcontractors (at any tier) of the Department of Energy, while discharging their official duties of protecting the Strategic Petroleum Reserve (established under part B of title I of the Energy Policy and Conservation Act \[[42 U.S.C. 6231][/us/usc/t42/s6231] et seq.\]) or its storage or related facilities or of protecting persons upon the Strategic Petroleum Reserve or its storage or related facilities, may—
+    Under guidelines prescribed by the Secretary and concurred with by the Attorney General, employees of the Department of Energy and employees of contractors and subcontractors (at any tier) of the Department of Energy, while discharging their official duties of protecting the Strategic Petroleum Reserve (established under part B of title I of the Energy Policy and Conservation Act \[[42 U.S.C. 6231][/us/usc/t42/s6231] et seq.\]) or its storage or related facilities or of protecting persons upon the Strategic Petroleum Reserve or its storage or related facilities, may—
 
     (1) carry firearms, if designated by the Secretary and qualified for the use of firearms under the guidelines; and
 

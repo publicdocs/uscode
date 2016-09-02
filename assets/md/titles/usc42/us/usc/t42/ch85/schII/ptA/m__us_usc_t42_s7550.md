@@ -15,7 +15,7 @@
 
 ## § 7550. Definitions
 
-As used in this part—
+    As used in this part—
 
     (1) The term “manufacturer” as used in sections 7521, 7522, 7525, 7541, and 7542 of this title means any person engaged in the manufacturing or assembling of new motor vehicles, new motor vehicle engines, new nonroad vehicles or new nonroad engines, or importing such vehicles or engines for resale, or who acts for and is under the control of any such person in connection with the distribution of new motor vehicles, new motor vehicle engines, new nonroad vehicles or new nonroad engines, but shall not include any dealer with respect to new motor vehicles, new motor vehicle engines, new nonroad vehicles or new nonroad engines received by him in commerce.
 

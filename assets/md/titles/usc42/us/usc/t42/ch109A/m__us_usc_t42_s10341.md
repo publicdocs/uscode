@@ -15,7 +15,7 @@
 
 ## § 10341. Findings
 
-The Congress finds that—
+    The Congress finds that—
 
     (1) there is an increasing threat of impairment to the quantity and quality of the Nation’s water resources due to, among other things, growing national needs, recurring drought in the Western States, point and nonpoint source pollution, and saltwater intrusion into existing groundwater supplies;
 

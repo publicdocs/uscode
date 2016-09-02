@@ -15,7 +15,7 @@
 
 ## § 4851b. Definitions
 
-For the purposes of this chapter, the following definitions shall apply:
+    For the purposes of this chapter, the following definitions shall apply:
 
     (1) __Abatement__ 
 

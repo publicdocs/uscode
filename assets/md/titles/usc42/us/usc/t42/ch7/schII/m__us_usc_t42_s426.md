@@ -297,15 +297,23 @@
 
 >         “(2) __Medicare coverage.—__ 
 
->             “(A) __In general.—The amendments made by subsection (b) \[amending this section and sections 410, 426–1, and 1395c of this title\] are effective on and after__  __January 1, 1983__  __, and the amendments made by paragraph (2) of that subsection \[amending this section and__  __[__  __section 426–1 of this title__  __][/us/usc/t42/s426–1]__  __\] apply to remuneration (for medicare qualified Federal employment) paid after__  __December 31, 1982__  __.__ 
+>             “(A) __In general.—__ 
 
->             “(B) __Treatment of current disabilities.—For purposes of establishing entitlement to hospital insurance benefits under part A of title XVIII of the Social Security Act \[__  __[__  __42 U.S.C. 1395c__  __][/us/usc/t42/s1395c]__  __et seq.\] pursuant to the amendments made by subsection (b) or the provisions of subsection (d), no individual may be considered to be under a disability for any period before__  __January 1, 1983__  __.__ 
+>             The amendments made by subsection (b) \[amending this section and sections 410, 426–1, and 1395c of this title\] are effective on and after January 1, 1983, and the amendments made by paragraph (2) of that subsection \[amending this section and [section 426–1 of this title][/us/usc/t42/s426–1]\] apply to remuneration (for medicare qualified Federal employment) paid after December 31, 1982.
+
+>             “(B) __Treatment of current disabilities.—__ 
+
+>             For purposes of establishing entitlement to hospital insurance benefits under part A of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\] pursuant to the amendments made by subsection (b) or the provisions of subsection (d), no individual may be considered to be under a disability for any period before January 1, 1983.
 
 >     “(d) __Transitional Provisions.—__ 
 
->         “(1) __In general.—For purposes of sections 226, 226A, and 1811 of the Social Security Act \[__  __[__  __42 U.S.C. 426__  __][/us/usc/t42/s426]__  __, 426–1, 1395c\], in the case of any individual who performs service both during January 1983, and before__  __January 1, 1983__  __, which constitutes medicare qualified Federal employment (as defined in section 210(p) of such Act \[__  __[__  __42 U.S.C. 410(p)__  __][/us/usc/t42/s410/p]__  __\]), the individual’s medicare qualified Federal employment (as so defined) performed before__  __January 1, 1983__  __, for which remuneration was paid before such date, shall be considered to be ‘employment’ (as defined for purposes of title II of such Act \[__  __[__  __42 U.S.C. 401__  __][/us/usc/t42/s401]__  __et seq.\]), but only for the purpose of providing the individual (or another person) with entitlement to hospital insurance benefits under part A of title XVIII of such Act \[__  __[__  __42 U.S.C. 1395c__  __][/us/usc/t42/s1395c]__  __et seq.\].__ 
+>         “(1) __In general.—__ 
 
->         “(2) __Appropriations.—There are authorized to be appropriated to the Federal Hospital Insurance Trust Fund from time to time such sums as the Secretary of Health and Human Services deems necessary for any fiscal year, on account of—__ 
+>         For purposes of sections 226, 226A, and 1811 of the Social Security Act \[[42 U.S.C. 426][/us/usc/t42/s426], 426–1, 1395c\], in the case of any individual who performs service both during January 1983, and before January 1, 1983, which constitutes medicare qualified Federal employment (as defined in section 210(p) of such Act \[[42 U.S.C. 410(p)][/us/usc/t42/s410/p]\]), the individual’s medicare qualified Federal employment (as so defined) performed before January 1, 1983, for which remuneration was paid before such date, shall be considered to be ‘employment’ (as defined for purposes of title II of such Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\]), but only for the purpose of providing the individual (or another person) with entitlement to hospital insurance benefits under part A of title XVIII of such Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\].
+
+>         “(2) __Appropriations.—__ 
+
+>         There are authorized to be appropriated to the Federal Hospital Insurance Trust Fund from time to time such sums as the Secretary of Health and Human Services deems necessary for any fiscal year, on account of—
 
 >             “(A) payments made or to be made during such fiscal year from such Trust Fund with respect to individuals who are entitled to benefits under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\] solely by reason of paragraph (1) of this subsection,
 

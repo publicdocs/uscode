@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247d.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247d–2, 247d–3.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%931)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247d.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247d–3a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%931)
 
 ## § 247d–1. Vaccine tracking and distribution
 
@@ -53,9 +53,15 @@
 
     2002—Subsec. (a)(1). [Pub. L. 107–188][/us/pl/107/188] substituted “five years” for “10 years”.
 
+§§ 247d–2, 247d–3. __Repealed.__  __[__  __Pub. L. 109–417, title II, § 204(b)(1)__  __][/us/pl/109/417/s204/b/1]__  __,__  __Dec. 19, 2006__  __,__  __[__  __120 Stat. 2851__  __][/us/stat/120/2851]__ 
+
+    Section 247d–2, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 319B, as added [Pub. L. 106–505, title I, § 102][/us/pl/106/505/s102], Nov. 13, 2000, [114 Stat. 2317][/us/stat/114/2317]; amended [Pub. L. 107–188, title I, § 111(2)][/us/pl/107/188/s111/2], June 12, 2002, [116 Stat. 611][/us/stat/116/611], related to grants to States to assess public health needs.
+
+    Section 247d–3, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 319C, as added [Pub. L. 106–505, title I, § 102][/us/pl/106/505/s102], Nov. 13, 2000, [114 Stat. 2317][/us/stat/114/2317]; amended [Pub. L. 107–188, title I, § 131(b)][/us/pl/107/188/s131/b], June 12, 2002, [116 Stat. 626][/us/stat/116/626], related to grants to improve State and local public health agencies.
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247d.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247d–2, 247d–3.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%931)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247d.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247d–3a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%931)
 
 ----------
 ----------
@@ -76,5 +82,17 @@
 [/us/pl/113/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5
 [/us/pl/109/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417
 [/us/pl/107/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188
+[/us/pl/109/417/s204/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F417%2Fs204%2Fb%2F1
+[/us/stat/120/2851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2851
+[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
+[/us/pl/106/505/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2Fs102
+[/us/stat/114/2317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2317
+[/us/pl/107/188/s111/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs111%2F2
+[/us/stat/116/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F611
+[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
+[/us/pl/106/505/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505%2Fs102
+[/us/stat/114/2317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2317
+[/us/pl/107/188/s131/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs131%2Fb
+[/us/stat/116/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F626
 
 

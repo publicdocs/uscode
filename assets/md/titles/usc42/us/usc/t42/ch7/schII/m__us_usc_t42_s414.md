@@ -15,7 +15,7 @@
 
 ## § 414. Insured status for purposes of old-age and survivors insurance benefits
 
-For the purposes of this subchapter—
+    For the purposes of this subchapter—
 
     (a) __“Fully insured individual” defined__ 
 

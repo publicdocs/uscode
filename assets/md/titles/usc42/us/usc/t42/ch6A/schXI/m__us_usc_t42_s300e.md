@@ -235,7 +235,7 @@
 
 >     “(B) which requests that the resources of the other organization be considered in determining its qualification under such section,
 
->         if the Secretary receives satisfactory assurances from the other organization that it will assume the financial obligations of the health maintenance organization and if the Secretary determines that the other organization meets such other requirements as the Secretary determines are necessary.”
+>     if the Secretary receives satisfactory assurances from the other organization that it will assume the financial obligations of the health maintenance organization and if the Secretary determines that the other organization meets such other requirements as the Secretary determines are necessary.”
 
  __Study on Health Maintenance Organization Program__ 
 

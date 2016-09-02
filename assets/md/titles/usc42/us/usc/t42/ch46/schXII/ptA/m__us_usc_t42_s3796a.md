@@ -15,7 +15,7 @@
 
 ## § 3796a. Limitations on benefits
 
-No benefit shall be paid under this subchapter—
+    No benefit shall be paid under this subchapter—
 
     (1) if the fatal or catastrophic injury was caused by the intentional misconduct of the public safety officer or by such officer’s intention to bring about his death, disability, or injury;
 

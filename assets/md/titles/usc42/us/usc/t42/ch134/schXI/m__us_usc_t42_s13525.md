@@ -15,7 +15,7 @@
 
 ## § 13525. Limits on participation by companies
 
-A company shall be eligible to receive financial assistance under subchapters VIII through XI of this chapter only if—
+    A company shall be eligible to receive financial assistance under subchapters VIII through XI of this chapter only if—
 
     (1) the Secretary finds that the company’s participation in any program under such subchapters would be in the economic interest of the United States, as evidenced by investments in the United States in research, development, and manufacturing (including, for example, the manufacture of major components or subassemblies in the United States); significant contributions to employment in the United States; an agreement with respect to any technology arising from assistance provided under this section to promote the manufacture within the United States of products resulting from that technology (taking into account the goals of promoting the competitiveness of United States industry), and to procure parts and materials from competitive suppliers; and
 

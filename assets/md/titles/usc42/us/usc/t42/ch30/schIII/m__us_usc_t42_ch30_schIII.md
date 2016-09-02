@@ -11,16 +11,107 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch30/schII/ptE/m__us_usc_t42_s2610c.md) | [Next](./../../../../..//us/usc/t42/ch30/schIII/m__us_usc_t42_s2611 to 2620.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch30%2FschIII)
+[Previous](./../../../../..//us/usc/t42/ch30/schII/ptE/m__us_usc_t42_s2610c.md) | [Next](./../../../../..//us/usc/t42/ch30/schIV/m__us_usc_t42_ch30_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch30%2FschIII)
 
 ### SUBCHAPTER III—MISCELLANEOUS PROVISIONS
 
+§§ 2611 to 2620. __Repealed.__  __[__  __Pub. L. 93–203, title VII, § 714__  __][/us/pl/93/203/s714]__  __, formerly title VI, § 614,__  __Dec. 28, 1973__  __,__  __[__  __87 Stat. 883__  __][/us/stat/87/883]__  __; renumbered title VII, § 714,__  __[__  __Pub. L. 93–567, title I, § 101__  __][/us/pl/93/567/s101]__  __,__  __Dec. 31, 1974__  __,__  __[__  __88 Stat. 1845__  __][/us/stat/88/1845]__ 
+
+    Section 2611, [Pub. L. 87–415, title III, § 301][/us/pl/87/415/s301], Mar. 15, 1962, [76 Stat. 30][/us/stat/76/30]; [Pub. L. 89–15, § 10][/us/pl/89/15/s10], Apr. 26, 1965, [79 Stat. 79][/us/stat/79/79]; [Pub. L. 89–792, § 7][/us/pl/89/792/s7], Nov. 7, 1966, [80 Stat. 1437][/us/stat/80/1437]; [Pub. L. 90–636][/us/pl/90/636], §§ 8–10, Oct. 24, 1968, [82 Stat. 1354][/us/stat/82/1354]; [Pub. L. 91–4, § 1][/us/pl/91/4/s1], Mar. 19, 1969, [83 Stat. 6][/us/stat/83/6], provided for apportionment of benefits and State administration of funds.
+
+    Section 2612, [Pub. L. 87–415, title III, § 302][/us/pl/87/415/s302], Mar. 15, 1962, [76 Stat. 31][/us/stat/76/31]; [Pub. L. 89–15, § 11][/us/pl/89/15/s11], Apr. 26, 1965, [79 Stat. 79][/us/stat/79/79], required maintenance of a State effort as a prerequisite to approval of Federal financing.
+
+    Section 2613, [Pub. L. 87–415, title III, § 303][/us/pl/87/415/s303], Mar. 15, 1962, [76 Stat. 31][/us/stat/76/31], called for the utilization of available services and facilities of other Federal agencies and instrumentalities and of resources for skill development.
+
+    Section 2614, [Pub. L. 87–415, title III, § 304][/us/pl/87/415/s304], Mar. 15, 1962, [76 Stat. 31][/us/stat/76/31]; [Pub. L. 88–214, § 7][/us/pl/88/214/s7], Dec. 19, 1963, [77 Stat. 424][/us/stat/77/424]; [Pub. L. 89–15, § 12][/us/pl/89/15/s12], Apr. 26, 1965, [79 Stat. 80][/us/stat/79/80]; [Pub. L. 89–792, § 6(b)][/us/pl/89/792/s6/b], Nov. 7, 1966, [80 Stat. 1437][/us/stat/80/1437]; [Pub. L. 90–636, § 1(4)][/us/pl/90/636/s1/4], Oct. 24, 1968, [82 Stat. 1352][/us/stat/82/1352], authorized appropriations.
+
+    Section 2615, [Pub. L. 87–415, title III, § 305][/us/pl/87/415/s305], Mar. 15, 1962, [76 Stat. 32][/us/stat/76/32]; [Pub. L. 88–214, § 8][/us/pl/88/214/s8], Dec. 19, 1963, [77 Stat. 424][/us/stat/77/424]; [Pub. L. 89–15, § 13][/us/pl/89/15/s13], Apr. 26, 1965, [79 Stat. 80][/us/stat/79/80]; 1970 Reorg. Plan No. 2, eff. July 1, 1970, 35 F.R. 7959, [84 Stat. 2085][/us/stat/84/2085], placed certain limitations on uses of appropriated funds.
+
+    Section 2616, [Pub. L. 87–415, title III, § 306][/us/pl/87/415/s306], Mar. 15, 1962, [76 Stat. 32][/us/stat/76/32]; [Pub. L. 89–15, § 14][/us/pl/89/15/s14], Apr. 26, 1965, [79 Stat. 80][/us/stat/79/80], set out authority of Secretaries of Labor and of Health, Education, and Welfare to contract, establish procedures, and make payments.
+
+    Section 2617, [Pub. L. 87–415, title III, § 307][/us/pl/87/415/s307], Mar. 15, 1962, [76 Stat. 32][/us/stat/76/32], provided that selection of persons for training shall not be contingent upon their membership or non-membership in a labor organization.
+
+    Section 2618, [Pub. L. 87–415, title III, § 308][/us/pl/87/415/s308], Mar. 15, 1962, [76 Stat. 32][/us/stat/76/32]; [Pub. L. 90–636, § 5(c)][/us/pl/90/636/s5/c], Oct. 24, 1968, [82 Stat. 1353][/us/stat/82/1353], defined “State”.
+
+    Section 2619, [Pub. L. 87–415, title III, § 309][/us/pl/87/415/s309], as added [Pub. L. 90–636, § 11][/us/pl/90/636/s11], Oct. 24, 1968, [82 Stat. 1354][/us/stat/82/1354], provided for training and technical assistance.
+
+    Section 2620, [Pub. L. 87–415, title III, § 310][/us/pl/87/415/s310], Mar. 15, 1962, [76 Stat. 33][/us/stat/76/33]; [Pub. L. 88–214, § 10][/us/pl/88/214/s10], Dec. 19, 1963, [77 Stat. 424][/us/stat/77/424]; [Pub. L. 89–15, § 16][/us/pl/89/15/s16], Apr. 26, 1965, [79 Stat. 80][/us/stat/79/80]; [Pub. L. 90–636, § 1(5)][/us/pl/90/636/s1/5], Oct. 24, 1968, [82 Stat. 1352][/us/stat/82/1352]; [Pub. L. 92–277, § 1][/us/pl/92/277/s1], Apr. 24, 1972, [86 Stat. 124][/us/stat/86/124], called for termination of authority to operate training and skill development programs under title II of [Pub. L. 87–415][/us/pl/87/415] at the close of June 30, 1973.
+
+ __Effective Date of Repeal__ 
+
+    [Pub. L. 93–203, title VII, § 714][/us/pl/93/203/s714], formerly title VI, § 614, Dec. 28, 1973, [87 Stat. 883][/us/stat/87/883]; renumbered title VII, § 714, [Pub. L. 93–567, title I, § 101][/us/pl/93/567/s101], Dec. 31, 1974, [88 Stat. 1845][/us/stat/88/1845], provided that the repeal is effective with respect to fiscal years after June 30, 1974.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch30/schII/ptE/m__us_usc_t42_s2610c.md) | [Next](./../../../../..//us/usc/t42/ch30/schIII/m__us_usc_t42_s2611 to 2620.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch30%2FschIII)
+[Previous](./../../../../..//us/usc/t42/ch30/schII/ptE/m__us_usc_t42_s2610c.md) | [Next](./../../../../..//us/usc/t42/ch30/schIV/m__us_usc_t42_ch30_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch30%2FschIII)
 
 ----------
 ----------
 
+[/us/pl/93/203/s714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F203%2Fs714
+[/us/stat/87/883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F883
+[/us/pl/93/567/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F567%2Fs101
+[/us/stat/88/1845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1845
+[/us/pl/87/415/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F415%2Fs301
+[/us/stat/76/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F30
+[/us/pl/89/15/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F15%2Fs10
+[/us/stat/79/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F79
+[/us/pl/89/792/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F792%2Fs7
+[/us/stat/80/1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1437
+[/us/pl/90/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F636
+[/us/stat/82/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1354
+[/us/pl/91/4/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F4%2Fs1
+[/us/stat/83/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F6
+[/us/pl/87/415/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F415%2Fs302
+[/us/stat/76/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F31
+[/us/pl/89/15/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F15%2Fs11
+[/us/stat/79/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F79
+[/us/pl/87/415/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F415%2Fs303
+[/us/stat/76/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F31
+[/us/pl/87/415/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F415%2Fs304
+[/us/stat/76/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F31
+[/us/pl/88/214/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F214%2Fs7
+[/us/stat/77/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F424
+[/us/pl/89/15/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F15%2Fs12
+[/us/stat/79/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F80
+[/us/pl/89/792/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F792%2Fs6%2Fb
+[/us/stat/80/1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1437
+[/us/pl/90/636/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F636%2Fs1%2F4
+[/us/stat/82/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1352
+[/us/pl/87/415/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F415%2Fs305
+[/us/stat/76/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F32
+[/us/pl/88/214/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F214%2Fs8
+[/us/stat/77/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F424
+[/us/pl/89/15/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F15%2Fs13
+[/us/stat/79/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F80
+[/us/stat/84/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2085
+[/us/pl/87/415/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F415%2Fs306
+[/us/stat/76/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F32
+[/us/pl/89/15/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F15%2Fs14
+[/us/stat/79/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F80
+[/us/pl/87/415/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F415%2Fs307
+[/us/stat/76/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F32
+[/us/pl/87/415/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F415%2Fs308
+[/us/stat/76/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F32
+[/us/pl/90/636/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F636%2Fs5%2Fc
+[/us/stat/82/1353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1353
+[/us/pl/87/415/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F415%2Fs309
+[/us/pl/90/636/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F636%2Fs11
+[/us/stat/82/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1354
+[/us/pl/87/415/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F415%2Fs310
+[/us/stat/76/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F33
+[/us/pl/88/214/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F214%2Fs10
+[/us/stat/77/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F424
+[/us/pl/89/15/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F15%2Fs16
+[/us/stat/79/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F80
+[/us/pl/90/636/s1/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F636%2Fs1%2F5
+[/us/stat/82/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1352
+[/us/pl/92/277/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F277%2Fs1
+[/us/stat/86/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F124
+[/us/pl/87/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F415
+[/us/pl/93/203/s714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F203%2Fs714
+[/us/stat/87/883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F883
+[/us/pl/93/567/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F567%2Fs101
+[/us/stat/88/1845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1845
 
 

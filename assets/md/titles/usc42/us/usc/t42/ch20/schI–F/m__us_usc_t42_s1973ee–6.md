@@ -15,7 +15,7 @@
 
 ## § 1973ee–6. Definitions
 
-As used in this subchapter, the term—
+    As used in this subchapter, the term—
 
     (1) “accessible” means accessible to handicapped and elderly individuals for the purpose of voting or registration, as determined under guidelines established by the chief election officer of the State involved;
 

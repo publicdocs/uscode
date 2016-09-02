@@ -15,7 +15,7 @@
 
 ## § 300b–6. Applied technology
 
-The Secretary, acting through an identifiable administrative unit, shall—
+    The Secretary, acting through an identifiable administrative unit, shall—
 
     (1) conduct epidemiological assessments and surveillance of genetic diseases to define the scope and extent of such diseases and the need for programs for the diagnosis, treatment, and control of such diseases, screening for such diseases, and the counseling of persons with such diseases;
 
@@ -23,7 +23,7 @@ The Secretary, acting through an identifiable administrative unit, shall—
 
     (3) on the basis of the assessments and surveillance described in paragraph (1), provide technical assistance to States to implement the programs developed under paragraph (2) and train appropriate personnel for such programs.
 
-        In carrying out this section, the Secretary may, from funds allotted for use under [section 702(a) of this title][/us/usc/t42/s702/a], make grants to or contracts with public or nonprofit private entities (including grants and contracts for demonstration projects).
+    In carrying out this section, the Secretary may, from funds allotted for use under [section 702(a) of this title][/us/usc/t42/s702/a], make grants to or contracts with public or nonprofit private entities (including grants and contracts for demonstration projects).
 
 ([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XI, § 1107, as added [Pub. L. 95–626, title II, § 205(d)(1)][/us/pl/95/626/s205/d/1], Nov. 10, 1978, [92 Stat. 3584][/us/stat/92/3584]; amended [Pub. L. 97–35, title XXI, § 2193(b)(5)][/us/pl/97/35/s2193/b/5], Aug. 13, 1981, [95 Stat. 827][/us/stat/95/827].)
 

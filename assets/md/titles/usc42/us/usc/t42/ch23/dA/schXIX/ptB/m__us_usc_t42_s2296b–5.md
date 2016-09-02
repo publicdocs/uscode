@@ -15,7 +15,7 @@
 
 ## § 2296b–5. Uranium inventory study
 
-Within 1 year after October 24, 1992, the Secretary shall submit to the Congress a study and report that includes—
+    Within 1 year after October 24, 1992, the Secretary shall submit to the Congress a study and report that includes—
 
     (1) a comprehensive inventory of all Government owned uranium or uranium equivalents, including natural uranium, depleted tailings, low-enriched uranium, and highly enriched uranium available for conversion to commercial use;
 

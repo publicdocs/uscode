@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch105/schIII/ptIII/m__us_usc_t42_s9866 to 9869.md) | [Next](./../../../../..//us/usc/t42/ch105/schIV/m__us_usc_t42_s9871.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch105%2FschIV)
+[Previous](./../../../../..//us/usc/t42/ch105/schIII/ptIII/m__us_usc_t42_ch105_schIII_ptIII.md) | [Next](./../../../../..//us/usc/t42/ch105/schIV/m__us_usc_t42_s9871.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch105%2FschIV)
 
 ### SUBCHAPTER IV—GRANTS TO STATES FOR PLANNING AND DEVELOPMENT OF DEPENDENT CARE PROGRAMS AND FOR OTHER PURPOSES
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch105/schIII/ptIII/m__us_usc_t42_s9866 to 9869.md) | [Next](./../../../../..//us/usc/t42/ch105/schIV/m__us_usc_t42_s9871.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch105%2FschIV)
+[Previous](./../../../../..//us/usc/t42/ch105/schIII/ptIII/m__us_usc_t42_ch105_schIII_ptIII.md) | [Next](./../../../../..//us/usc/t42/ch105/schIV/m__us_usc_t42_s9871.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch105%2FschIV)
 
 ----------
 ----------

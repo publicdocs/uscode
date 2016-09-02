@@ -15,7 +15,7 @@
 
 ## § 1883. Office of Small Business Research and Development
 
-The National Science Foundation is authorized and directed to establish an Office of Small Business Research and Development. The Foundation through the Office of Small Business Research and Development and in cooperation and consultation with the Small Business Administration shall—
+    The National Science Foundation is authorized and directed to establish an Office of Small Business Research and Development. The Foundation through the Office of Small Business Research and Development and in cooperation and consultation with the Small Business Administration shall—
 
     (1) foster communication between the National Science Foundation and the small business community, and insure that the set-aside for small business concerns provided under this Act or any other Act authorizing appropriations for the National Science Foundation is fully and effectively utilized;
 

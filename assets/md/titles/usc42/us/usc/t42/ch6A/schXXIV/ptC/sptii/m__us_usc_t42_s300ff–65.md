@@ -15,7 +15,7 @@
 
 ## § 300ff–65. Requirement of submission of application containing certain agreements and assurances
 
-The Secretary may not make a grant under this part unless—
+    The Secretary may not make a grant under this part unless—
 
     (1) an application for the grant is submitted to the Secretary containing agreements and assurances in accordance with this part and containing the information specified in [section 300ff–64(a)(1) of this title][/us/usc/t42/s300ff–64/a/1];
 

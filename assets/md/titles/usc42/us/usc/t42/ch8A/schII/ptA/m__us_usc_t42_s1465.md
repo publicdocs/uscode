@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch8A/schII/ptA/m__us_usc_t42_s1462 to 1464.md) | [Next](./../../../../../..//us/usc/t42/ch8A/schII/ptA/m__us_usc_t42_s1466.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1465)
+[Previous](./../../../../../..//us/usc/t42/ch8A/schII/ptA/m__us_usc_t42_s1461.md) | [Next](./../../../../../..//us/usc/t42/ch8A/schII/ptA/m__us_usc_t42_s1466.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1465)
 
 ## § 1465. Repealed. [Pub. L. 91–646, title II, § 220(a)(5)][/us/pl/91/646/s220/a/5], Jan. 2, 1971, [84 Stat. 1903][/us/stat/84/1903]
 
@@ -27,7 +27,7 @@ Section, [act July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title I, § 1
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch8A/schII/ptA/m__us_usc_t42_s1462 to 1464.md) | [Next](./../../../../../..//us/usc/t42/ch8A/schII/ptA/m__us_usc_t42_s1466.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1465)
+[Previous](./../../../../../..//us/usc/t42/ch8A/schII/ptA/m__us_usc_t42_s1461.md) | [Next](./../../../../../..//us/usc/t42/ch8A/schII/ptA/m__us_usc_t42_s1466.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1465)
 
 ----------
 ----------

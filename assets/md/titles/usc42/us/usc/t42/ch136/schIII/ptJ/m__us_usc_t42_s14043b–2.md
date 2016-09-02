@@ -15,7 +15,7 @@
 
 ## § 14043b–2. Eligible entities
 
-Entities eligible for grants under this part include—
+    Entities eligible for grants under this part include—
 
     (1) jurisdictions or agencies within jurisdictions having authority or responsibility for developing or maintaining public databases, registries or victim notification systems;
 

@@ -17,19 +17,17 @@
 
     (a) __In general__ 
 
-        To carry out the provisions of this subchapter, there are authorized to be appropriated such sums as may be necessary for fiscal years 2008 through 2013.
+        To carry out the provisions of this subchapter, there are authorized to be appropriated $40,000,000 for each of the fiscal years 2014 through 2018, up to $32,200,000 of which shall be used to carry out [section 5773(b) of this title][/us/usc/t42/s5773/b] for each such fiscal year.
 
     (b) __Evaluation__ 
 
         The Administrator may use not more than 5 percent of the amount appropriated for a fiscal year under subsection (a) of this section to conduct an evaluation of the effectiveness of the programs and activities established and operated under this subchapter.
 
-([Pub. L. 93–415, title IV, § 407][/us/pl/93/415/s407], formerly § 408, as added [Pub. L. 98–473, title II, § 660][/us/pl/98/473/s660], Oct. 12, 1984, [98 Stat. 2129][/us/stat/98/2129]; renumbered § 407 and amended [Pub. L. 100–690, title VII][/us/pl/100/690], §§ 7289, 7290(a), Nov. 18, 1988, [102 Stat. 4461][/us/stat/102/4461]; [Pub. L. 101–204, title X, § 1001(e)(3)][/us/pl/101/204/s1001/e/3], Dec. 7, 1989, [103 Stat. 1827][/us/stat/103/1827]; [Pub. L. 102–586, § 4][/us/pl/102/586/s4], Nov. 4, 1992, [106 Stat. 5027][/us/stat/106/5027]; renumbered § 408, [Pub. L. 103–322, title XVII, § 170303(1)][/us/pl/103/322/s170303/1], Sept. 13, 1994, [108 Stat. 2043][/us/stat/108/2043]; [Pub. L. 104–235, title II, § 231(a)][/us/pl/104/235/s231/a], Oct. 3, 1996, [110 Stat. 3092][/us/stat/110/3092]; [Pub. L. 106–71, § 2(e)][/us/pl/106/71/s2/e], Oct. 12, 1999, [113 Stat. 1035][/us/stat/113/1035]; [Pub. L. 108–21, title III, § 321(a)][/us/pl/108/21/s321/a], Apr. 30, 2003, [117 Stat. 664][/us/stat/117/664]; [Pub. L. 108–96, title II, § 202(b)][/us/pl/108/96/s202/b], Oct. 10, 2003, [117 Stat. 1172][/us/stat/117/1172]; renumbered § 407 and amended [Pub. L. 110–240][/us/pl/110/240], §§ 4, 5(2), June 3, 2008, [122 Stat. 1563][/us/stat/122/1563], 1564.)
-
- __Prior Provisions__ 
-
-    A prior [section 407 of Pub. L. 93–415][/us/pl/93/415/s407] was classified to section 5776a prior to repeal by [Pub. L. 110–240, § 5(1)][/us/pl/110/240/s5/1], June 3, 2008, [122 Stat. 1564][/us/stat/122/1564].
+([Pub. L. 93–415, title IV, § 408][/us/pl/93/415/s408], as added [Pub. L. 98–473, title II, § 660][/us/pl/98/473/s660], Oct. 12, 1984, [98 Stat. 2129][/us/stat/98/2129]; renumbered § 407 and amended [Pub. L. 100–690, title VII][/us/pl/100/690], §§ 7289, 7290(a), Nov. 18, 1988, [102 Stat. 4461][/us/stat/102/4461]; [Pub. L. 101–204, title X, § 1001(e)(3)][/us/pl/101/204/s1001/e/3], Dec. 7, 1989, [103 Stat. 1827][/us/stat/103/1827]; [Pub. L. 102–586, § 4][/us/pl/102/586/s4], Nov. 4, 1992, [106 Stat. 5027][/us/stat/106/5027]; renumbered § 408, [Pub. L. 103–322, title XVII, § 170303(1)][/us/pl/103/322/s170303/1], Sept. 13, 1994, [108 Stat. 2043][/us/stat/108/2043]; [Pub. L. 104–235, title II, § 231(a)][/us/pl/104/235/s231/a], Oct. 3, 1996, [110 Stat. 3092][/us/stat/110/3092]; [Pub. L. 106–71, § 2(e)][/us/pl/106/71/s2/e], Oct. 12, 1999, [113 Stat. 1035][/us/stat/113/1035]; [Pub. L. 108–21, title III, § 321(a)][/us/pl/108/21/s321/a], Apr. 30, 2003, [117 Stat. 664][/us/stat/117/664]; [Pub. L. 108–96, title II, § 202(b)][/us/pl/108/96/s202/b], Oct. 10, 2003, [117 Stat. 1172][/us/stat/117/1172]; renumbered § 407 and amended [Pub. L. 110–240][/us/pl/110/240], §§ 4, 5(2), June 3, 2008, [122 Stat. 1563][/us/stat/122/1563], 1564; renumbered § 408 and amended [Pub. L. 113–38, § 3][/us/pl/113/38/s3], Sept. 30, 2013, [127 Stat. 528][/us/stat/127/528].)
 
  __Amendments__ 
+
+    2013—Subsec. (a). [Pub. L. 113–38, § 3(1)][/us/pl/113/38/s3/1], substituted “$40,000,000 for each of the fiscal years 2014 through 2018, up to $32,200,000 of which shall be used to carry out [section 5773(b) of this title][/us/usc/t42/s5773/b] for each such fiscal year.” for “such sums as may be necessary for fiscal years 2008 through 2013.”
 
     2008—Subsec. (a). [Pub. L. 110–240, § 4][/us/pl/110/240/s4], which directed substitution of “2008 through 2013” for “2007 through 2008”, was executed by making the substitution for “2004 through 2008”, to reflect the probable intent of Congress.
 
@@ -58,7 +56,8 @@
 ----------
 ----------
 
-[/us/pl/93/415/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs407
+[/us/usc/t42/s5773/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5773%2Fb
+[/us/pl/93/415/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs408
 [/us/pl/98/473/s660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs660
 [/us/stat/98/2129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2129
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
@@ -79,9 +78,10 @@
 [/us/stat/117/1172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1172
 [/us/pl/110/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F240
 [/us/stat/122/1563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1563
-[/us/pl/93/415/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs407
-[/us/pl/110/240/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F240%2Fs5%2F1
-[/us/stat/122/1564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1564
+[/us/pl/113/38/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F38%2Fs3
+[/us/stat/127/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F528
+[/us/pl/113/38/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F38%2Fs3%2F1
+[/us/usc/t42/s5773/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5773%2Fb
 [/us/pl/110/240/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F240%2Fs4
 [/us/pl/108/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F96
 [/us/pl/108/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21

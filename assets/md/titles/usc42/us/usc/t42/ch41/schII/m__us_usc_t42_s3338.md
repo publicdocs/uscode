@@ -15,7 +15,7 @@
 
 ## § 3338. Definitions
 
-As used in this subchapter—
+    As used in this subchapter—
 
     (1) “Areawide development” means all proj­ects or programs for the acquisition, use, and development of open-space land; and the planning and construction of hospitals, libraries, airports, water supply and distribution facilities, sewerage facilities and waste treatment works, transportation facilities, highways, water development and land conservation, and other public works facilities.
 

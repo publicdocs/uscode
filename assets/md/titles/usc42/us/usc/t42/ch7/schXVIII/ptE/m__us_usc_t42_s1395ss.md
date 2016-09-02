@@ -145,11 +145,9 @@
 
                  The disclosure statement described in this clause for a type of policy is the statement specified under subparagraph (D) of this paragraph (as in effect before August 21, 1996) for that type of policy, as revised as follows:
 
-                    (I) In each statement, amend the second line to read as follows:
+                    (I) In each statement, amend the second line to read as follows:“THIS IS NOT MEDICARE SUPPLEMENT
 
-                    “THIS IS NOT MEDICARE SUPPLEMENT
-
-                    INSURANCE”.
+                INSURANCE”.
 
                     (II) In each statement, strike the third line and insert the following: “Some health care services paid for by Medicare may also trigger the payment of benefits under this policy.”.
 
@@ -1769,9 +1767,7 @@
 
 >     “(2)
 
->         \[(3) __\] Report.—__ 
-
->         Not later than July 31, 2001, the Comptroller General shall submit a report to Congress on the results of the study conducted under this subsection, together with any recommendations for legislation that the Comptroller General determines to be appropriate as a result of such study.”
+>         \[(3)\] Report.—Not later than July 31, 2001, the Comptroller General shall submit a report to Congress on the results of the study conducted under this subsection, together with any recommendations for legislation that the Comptroller General determines to be appropriate as a result of such study.”
 
  __Conforming Benefits to Changes in Terminology for Hospital Outpatient Department Cost Sharing__ 
 

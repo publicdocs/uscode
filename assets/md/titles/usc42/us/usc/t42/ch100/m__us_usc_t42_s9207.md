@@ -15,7 +15,7 @@
 
 ## § 9207. Criteria for program selection
 
-The Secretary shall set priorities which are, as far as possible, consistent with the intent and purposes of this chapter and which are set in accordance with the following criteria:
+    The Secretary shall set priorities which are, as far as possible, consistent with the intent and purposes of this chapter and which are set in accordance with the following criteria:
 
     (1) the construction, operation, and maintenance costs of wind energy systems shall be minimized;
 

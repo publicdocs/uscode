@@ -15,7 +15,7 @@
 
 ## § 1437q. Financing limitations
 
-On and after October 1, 1983, the Secretary—
+    On and after October 1, 1983, the Secretary—
 
     (1) may only enter into contracts for annual contributions regarding obligations financing public housing projects authorized by [section 1437c(c) of this title][/us/usc/t42/s1437c/c] if such obligations are exempt from taxation under [section 1437i(b) of this title][/us/usc/t42/s1437i/b], or if such obligations are issued under [section 1437b of this title][/us/usc/t42/s1437b] and such obligations are exempt from taxation; and
 

@@ -15,7 +15,7 @@
 
 ## § 2286g. “Department of Energy defense nuclear facility” defined
 
-As used in this subchapter, the term “Department of Energy defense nuclear facility” means any of the following:
+    As used in this subchapter, the term “Department of Energy defense nuclear facility” means any of the following:
 
     (1)
 

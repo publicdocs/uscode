@@ -15,7 +15,7 @@
 
 ## § 13726a. Definitions
 
-In sections 13726 to 13726c of this title:
+    In sections 13726 to 13726c of this title:
 
     (1) __Crime of violence__ 
 

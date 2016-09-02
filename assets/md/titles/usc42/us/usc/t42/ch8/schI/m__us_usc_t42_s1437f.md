@@ -901,7 +901,7 @@
 
  __Amendment of Section__ 
 
-For termination of amendment by [section 704 of Pub. L. 111–22][/us/pl/111/22/s704], see Termination Date of 2009 Amendment note below.
+    For termination of amendment by [section 704 of Pub. L. 111–22][/us/pl/111/22/s704], see Termination Date of 2009 Amendment note below.
 
  __References in Text__ 
 
@@ -1867,517 +1867,687 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 [Pub. L. 105–65, title V][/us/pl/105/65], subtitle A (§§ 511–524), subtitle D (§§ 571–579), Oct. 27, 1997, [111 Stat. 1385–1408][/us/stat/111/1385-1408], 1420–1423, as amended by [Pub. L. 105–276, title V][/us/pl/105/276], §§ 549(c), 597(b), Oct. 21, 1998, [112 Stat. 2608][/us/stat/112/2608], 2659; [Pub. L. 106–74, title II][/us/pl/106/74], §§ 213(b), 219, title V, §§ 531(a)–(c), 534, 538(b), Oct. 20, 1999, [113 Stat. 1074][/us/stat/113/1074], 1075, 1109–1116, 1120, 1123; [Pub. L. 106–400, § 2][/us/pl/106/400/s2], Oct. 30, 2000, [114 Stat. 1675][/us/stat/114/1675]; [Pub. L. 107–116, title VI][/us/pl/107/116], §§ 611–614, 616(a)(1), (b), 621, 622(a), 623(a), 624, 625, Jan. 10, 2002, [115 Stat. 2222–2227][/us/stat/115/2222-2227]; [Pub. L. 109–289, div. B, title II, § 21043(a)][/us/pl/109/289/s21043/a], as added by [Pub. L. 110–5, § 2][/us/pl/110/5/s2], Feb. 15, 2007, [121 Stat. 53][/us/stat/121/53]; [Pub. L. 110–289, div. A, title II, § 1216(d)][/us/pl/110/289/s1216/d], July 30, 2008, [122 Stat. 2792][/us/stat/122/2792]; [Pub. L. 112–55, div. C, title II, § 237][/us/pl/112/55/s237], Nov. 18, 2011, [125 Stat. 702][/us/stat/125/702], provided that:
 
- __“subtitle a—fha-insured multifamily housing mortgage and housing assistance restructuring__ 
+> “subtitle a— __fha-insured multifamily housing mortgage and housing assistance restructuring__ 
 
-    “SEC. 511. FINDINGS AND PURPOSES.
+> “SEC. 511. __FINDINGS AND PURPOSES.__ 
 
-    “(a) Findings.—Congress finds that—
+>     “(a) __Findings.—__ 
 
-    “(1) there exists throughout the Nation a need for decent, safe, and affordable housing;
+>     Congress finds that—
 
-    “(2) as of the date of enactment of this Act \[Oct. 27, 1997\], it is estimated that—
+>         “(1) there exists throughout the Nation a need for decent, safe, and affordable housing;
 
-    “(A) the insured multifamily housing portfolio of the Federal Housing Administration consists of 14,000 rental properties, with an aggregate unpaid principal mortgage balance of $38,000,000,000; and
+>         “(2)
 
-    “(B) approximately 10,000 of these properties contain housing units that are assisted with project-based rental assistance under section 8 of the United States Housing Act of 1937 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f]\];
+>          as of the date of enactment of this Act \[Oct. 27, 1997\], it is estimated that—
 
-    “(3) FHA-insured multifamily rental properties are a major Federal investment, providing affordable rental housing to an estimated 2,000,000 low- and very low-income families;
+>             “(A) the insured multifamily housing portfolio of the Federal Housing Administration consists of 14,000 rental properties, with an aggregate unpaid principal mortgage balance of $38,000,000,000; and
 
-    “(4) approximately 1,600,000 of these families live in dwelling units that are assisted with project-based rental assistance under section 8 of the United States Housing Act of 1937;
+>             “(B) approximately 10,000 of these properties contain housing units that are assisted with project-based rental assistance under section 8 of the United States Housing Act of 1937 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f]\];
 
-    “(5) a substantial number of housing units receiving project-based assistance have rents that are higher than the rents of comparable, unassisted rental units in the same housing rental market;
+>         “(3) FHA-insured multifamily rental properties are a major Federal investment, providing affordable rental housing to an estimated 2,000,000 low- and very low-income families;
 
-    “(6) many of the contracts for project-based assistance will expire during the several years following the date of enactment of this Act;
+>         “(4) approximately 1,600,000 of these families live in dwelling units that are assisted with project-based rental assistance under section 8 of the United States Housing Act of 1937;
 
-    “(7) it is estimated that—
+>         “(5) a substantial number of housing units receiving project-based assistance have rents that are higher than the rents of comparable, unassisted rental units in the same housing rental market;
 
-    “(A) if no changes in the terms and conditions of the contracts for project-based assistance are made before fiscal year 2000, the cost of renewing all expiring rental assistance contracts under section 8 of the United States Housing Act of 1937 for both project-based and tenant-based rental assistance will increase from approximately $3,600,000,000 in fiscal year 1997 to over $14,300,000,000 by fiscal year 2000 and some $22,400,000,000 in fiscal year 2006;
+>         “(6) many of the contracts for project-based assistance will expire during the several years following the date of enactment of this Act;
 
-    “(B) of those renewal amounts, the cost of renewing project-based assistance will increase from $1,200,000,000 in fiscal year 1997 to almost $7,400,000,000 by fiscal year 2006; and
+>         “(7)
 
-    “(C) without changes in the manner in which project-based rental assistance is provided, renewals of expiring contracts for project-based rental assistance will require an increasingly larger portion of the discretionary budget authority of the Department of Housing and Urban Development in each subsequent fiscal year for the foreseeable future;
+>          it is estimated that—
 
-    “(8) absent new budget authority for the renewal of expiring rental contracts for project-based assistance, many of the FHA-insured multifamily housing projects that are assisted with project-based assistance are likely to default on their FHA-insured mortgage payments, resulting in substantial claims to the FHA General Insurance Fund and Special Risk Insurance Fund;
+>             “(A) if no changes in the terms and conditions of the contracts for project-based assistance are made before fiscal year 2000, the cost of renewing all expiring rental assistance contracts under section 8 of the United States Housing Act of 1937 for both project-based and tenant-based rental assistance will increase from approximately $3,600,000,000 in fiscal year 1997 to over $14,300,000,000 by fiscal year 2000 and some $22,400,000,000 in fiscal year 2006;
 
-    “(9) more than 15 percent of federally assisted multifamily housing projects are physically or financially distressed, including a number which suffer from mismanagement;
+>             “(B) of those renewal amounts, the cost of renewing project-based assistance will increase from $1,200,000,000 in fiscal year 1997 to almost $7,400,000,000 by fiscal year 2006; and
 
-    “(10) due to Federal budget constraints, the downsizing of the Department of Housing and Urban Development, and diminished administrative capacity, the Department lacks the ability to ensure the continued economic and physical well-being of the stock of federally insured and assisted multifamily housing projects;
+>             “(C) without changes in the manner in which project-based rental assistance is provided, renewals of expiring contracts for project-based rental assistance will require an increasingly larger portion of the discretionary budget authority of the Department of Housing and Urban Development in each subsequent fiscal year for the foreseeable future;
 
-    “(11) the economic, physical, and management problems facing the stock of federally insured and assisted multifamily housing projects will be best served by reforms that—
+>         “(8) absent new budget authority for the renewal of expiring rental contracts for project-based assistance, many of the FHA-insured multifamily housing projects that are assisted with project-based assistance are likely to default on their FHA-insured mortgage payments, resulting in substantial claims to the FHA General Insurance Fund and Special Risk Insurance Fund;
 
-    “(A) reduce the cost of Federal rental assistance, including project-based assistance, to these projects by reducing the debt service and operating costs of these projects while retaining the low-income affordability and availability of this housing;
+>         “(9) more than 15 percent of federally assisted multifamily housing projects are physically or financially distressed, including a number which suffer from mismanagement;
 
-    “(B) address physical and economic distress of this housing and the failure of some project managers and owners of projects to comply with management and ownership rules and requirements; and
+>         “(10) due to Federal budget constraints, the downsizing of the Department of Housing and Urban Development, and diminished administrative capacity, the Department lacks the ability to ensure the continued economic and physical well-being of the stock of federally insured and assisted multifamily housing projects;
 
-    “(C) transfer and share many of the loan and contract administration functions and responsibilities of the Secretary to and with capable State, local, and other entities; and
+>         “(11)
 
-    “(12) the authority and duties of the Secretary, not including the control by the Secretary of applicable accounts in the Treasury of the United States, may be delegated to State, local or other entities at the discretion of the Secretary, to the extent the Secretary determines, and for the purpose of carrying out this title \[see Short Title of 1997 Amendment note set out under [section 1701 of Title 12][/us/usc/t12/s1701], Banks and Banking\], so that the Secretary has the discretion to be relieved of processing and approving any document or action required by these reforms.
+>          the economic, physical, and management problems facing the stock of federally insured and assisted multifamily housing projects will be best served by reforms that—
 
-    “(b) Purposes.—Consistent with the purposes and requirements of the Government Performance and Results Act of 1993 \[[Pub. L. 103–62][/us/pl/103/62], see Short Title of 1993 Amendment note set out under [section 1101 of Title 31][/us/usc/t31/s1101], Money and Finance\], the purposes of this subtitle are—
+>             “(A) reduce the cost of Federal rental assistance, including project-based assistance, to these projects by reducing the debt service and operating costs of these projects while retaining the low-income affordability and availability of this housing;
 
-    “(1) to preserve low-income rental housing affordability and availability while reducing the long-term costs of project-based assistance;
+>             “(B) address physical and economic distress of this housing and the failure of some project managers and owners of projects to comply with management and ownership rules and requirements; and
 
-    “(2) to reform the design and operation of Federal rental housing assistance programs, administered by the Secretary, to promote greater multifamily housing project operating and cost efficiencies;
+>             “(C) transfer and share many of the loan and contract administration functions and responsibilities of the Secretary to and with capable State, local, and other entities; and
 
-    “(3) to encourage owners of eligible multifamily housing projects to restructure their FHA-insured mortgages and project-based assistance contracts in a manner that is consistent with this subtitle before the year in which the contract expires;
+>         “(12) the authority and duties of the Secretary, not including the control by the Secretary of applicable accounts in the Treasury of the United States, may be delegated to State, local or other entities at the discretion of the Secretary, to the extent the Secretary determines, and for the purpose of carrying out this title \[see Short Title of 1997 Amendment note set out under [section 1701 of Title 12][/us/usc/t12/s1701], Banks and Banking\], so that the Secretary has the discretion to be relieved of processing and approving any document or action required by these reforms.
 
-    “(4) to reduce the cost of insurance claims under the National Housing Act \[[12 U.S.C. 1701][/us/usc/t12/s1701] et seq.\] related to mortgages insured by the Secretary and used to finance eligible multifamily housing projects;
+>     “(b) __Purposes.—__ 
 
-    “(5) to streamline and improve federally insured and assisted multifamily housing project oversight and administration;
+>     Consistent with the purposes and requirements of the Government Performance and Results Act of 1993 \[[Pub. L. 103–62][/us/pl/103/62], see Short Title of 1993 Amendment note set out under [section 1101 of Title 31][/us/usc/t31/s1101], Money and Finance\], the purposes of this subtitle are—
 
-    “(6) to resolve the problems affecting financially and physically troubled federally insured and assisted multifamily housing projects through cooperation with residents, owners, State and local governments, and other interested entities and individuals;
+>         “(1) to preserve low-income rental housing affordability and availability while reducing the long-term costs of project-based assistance;
 
-    “(7) to protect the interest of project owners and managers, because they are partners of the Federal Government in meeting the affordable housing needs of the Nation through the section 8 rental housing assistance program;
+>         “(2) to reform the design and operation of Federal rental housing assistance programs, administered by the Secretary, to promote greater multifamily housing project operating and cost efficiencies;
 
-    “(8) to protect the interest of tenants residing in the multifamily housing projects at the time of the restructuring for the housing; and
+>         “(3) to encourage owners of eligible multifamily housing projects to restructure their FHA-insured mortgages and project-based assistance contracts in a manner that is consistent with this subtitle before the year in which the contract expires;
 
-    “(9) to grant additional enforcement tools to use against those who violate agreements and program requirements, in order to ensure that the public interest is safeguarded and that Federal multifamily housing programs serve their intended purposes.
+>         “(4) to reduce the cost of insurance claims under the National Housing Act \[[12 U.S.C. 1701][/us/usc/t12/s1701] et seq.\] related to mortgages insured by the Secretary and used to finance eligible multifamily housing projects;
 
-    “SEC. 512. DEFINITIONS.
+>         “(5) to streamline and improve federally insured and assisted multifamily housing project oversight and administration;
 
-    “In this subtitle:
+>         “(6) to resolve the problems affecting financially and physically troubled federally insured and assisted multifamily housing projects through cooperation with residents, owners, State and local governments, and other interested entities and individuals;
 
-    “(1) Comparable properties.—The term ‘comparable properties’ means properties in the same market areas, where practicable, that—
+>         “(7) to protect the interest of project owners and managers, because they are partners of the Federal Government in meeting the affordable housing needs of the Nation through the section 8 rental housing assistance program;
 
-    “(A) are similar to the eligible multifamily housing project as to neighborhood (including risk of crime), type of location, access, street appeal, age, property size, apartment mix, physical configuration, property and unit amenities, utilities, and other relevant characteristics; and
+>         “(8) to protect the interest of tenants residing in the multifamily housing projects at the time of the restructuring for the housing; and
 
-    “(B) are not receiving project-based assistance.
+>         “(9) to grant additional enforcement tools to use against those who violate agreements and program requirements, in order to ensure that the public interest is safeguarded and that Federal multifamily housing programs serve their intended purposes.
 
-    “(2) Eligible multifamily housing project.—The term ‘eligible multifamily housing project’ means a property consisting of more than 4 dwelling units—
+> “SEC. 512. __DEFINITIONS.__ 
 
-    “(A) with rents that, on an average per unit or per room basis, exceed the rent of comparable properties in the same market area, determined in accordance with guidelines established by the Secretary;
+> “In this subtitle:
 
-    “(B) that is covered in whole or in part by a contract for project-based assistance under—
+>     “(1) __Comparable properties.—__ 
 
-    “(i) the new construction or substantial rehabilitation program under section 8(b)(2) of the United States Housing Act of 1937 \[[42 U.S.C. 1437f(b)(2)][/us/usc/t42/s1437f/b/2]\] (as in effect before October 1, 1983);
+>     The term ‘comparable properties’ means properties in the same market areas, where practicable, that—
 
-    “(ii) the property disposition program under section 8(b) of the United States Housing Act of 1937;
+>         “(A) are similar to the eligible multifamily housing project as to neighborhood (including risk of crime), type of location, access, street appeal, age, property size, apartment mix, physical configuration, property and unit amenities, utilities, and other relevant characteristics; and
 
-    “(iii) the moderate rehabilitation program under section 8(e)(2) of the United States Housing Act of 1937;
+>         “(B) are not receiving project-based assistance.
 
-    “(iv) the loan management assistance program under section 8 of the United States Housing Act of 1937;
+>     “(2) __Eligible multifamily housing project.—__ 
 
-    “(v) section 23 of the United States Housing Act of 1937 \[[42 U.S.C. 1437u][/us/usc/t42/s1437u]\] (as in effect before January 1, 1975);
+>     The term ‘eligible multifamily housing project’ means a property consisting of more than 4 dwelling units—
 
-    “(vi) the rent supplement program under section 101 of the Housing and Urban Development Act of 1965 \[[12 U.S.C. 1701s][/us/usc/t12/s1701s]\]; or
+>         “(A) with rents that, on an average per unit or per room basis, exceed the rent of comparable properties in the same market area, determined in accordance with guidelines established by the Secretary;
 
-    “(vii) section 8 of the United States Housing Act of 1937, following conversion from assistance under section 101 of the Housing and Urban Development Act of 1965; and
+>         “(B)
 
-    “(C) financed by a mortgage insured or held by the Secretary under the National Housing Act \[[12 U.S.C. 1701][/us/usc/t12/s1701] et seq.\].
+>          that is covered in whole or in part by a contract for project-based assistance under—
 
-    Such term does not include any project with an expiring contract described in paragraph (1) or (2) of section 524(e), but does include a project described in section 524(e)(3). Notwithstanding any other provision of this title, the Secretary may treat a project as an eligible multifamily housing project for purposes of this title if (I) the project is assisted pursuant to a contract for project-based assistance under section 8 of the United States Housing Act of 1937 renewed under section 524 of this Act, (II) the owner consents to such treatment, and (III) the project met the requirements of the first sentence of this paragraph for eligibility as an eligible multifamily housing project before the initial renewal of the contract under section 524.
+>             “(i) the new construction or substantial rehabilitation program under section 8(b)(2) of the United States Housing Act of 1937 \[[42 U.S.C. 1437f(b)(2)][/us/usc/t42/s1437f/b/2]\] (as in effect before October 1, 1983);
 
-    “(3) Expiring contract.—The term ‘expiring contract’ means a project-based assistance contract attached to an eligible multifamily housing project which, under the terms of the contract, will expire.
+>             “(ii) the property disposition program under section 8(b) of the United States Housing Act of 1937;
 
-    “(4) Expiration date.—The term ‘expiration date’ means the date on which an expiring contract expires.
+>             “(iii) the moderate rehabilitation program under section 8(e)(2) of the United States Housing Act of 1937;
 
-    “(5) Fair market rent.—The term ‘fair market rent’ means the fair market rental established under section 8(c) of the United States Housing Act of 1937.
+>             “(iv) the loan management assistance program under section 8 of the United States Housing Act of 1937;
 
-    “(6) Low-income families.—The term ‘low-income families’ has the same meaning as provided under section 3(b)(2) of the United States Housing Act of 1937 \[[42 U.S.C. 1437a(b)(2)][/us/usc/t42/s1437a/b/2]\].
+>             “(v) section 23 of the United States Housing Act of 1937 \[[42 U.S.C. 1437u][/us/usc/t42/s1437u]\] (as in effect before January 1, 1975);
 
-    “(7) Mortgage restructuring and rental assistance sufficiency plan.—The term ‘mortgage restructuring and rental assistance sufficiency plan’ means the plan as provided under section 514.
+>             “(vi) the rent supplement program under section 101 of the Housing and Urban Development Act of 1965 \[[12 U.S.C. 1701s][/us/usc/t12/s1701s]\]; or
 
-    “(8) Nonprofit organization.—The term ‘nonprofit organization’ means any private nonprofit organization that—
+>             “(vii) section 8 of the United States Housing Act of 1937, following conversion from assistance under section 101 of the Housing and Urban Development Act of 1965; and
 
-    “(A) is organized under State or local laws;
+>         “(C) financed by a mortgage insured or held by the Secretary under the National Housing Act \[[12 U.S.C. 1701][/us/usc/t12/s1701] et seq.\].
 
-    “(B) has no part of its net earnings inuring to the benefit of any member, founder, contributor, or individual; and
+>         Such term does not include any project with an expiring contract described in paragraph (1) or (2) of section 524(e), but does include a project described in section 524(e)(3). Notwithstanding any other provision of this title, the Secretary may treat a project as an eligible multifamily housing project for purposes of this title if (I) the project is assisted pursuant to a contract for project-based assistance under section 8 of the United States Housing Act of 1937 renewed under section 524 of this Act, (II) the owner consents to such treatment, and (III) the project met the requirements of the first sentence of this paragraph for eligibility as an eligible multifamily housing project before the initial renewal of the contract under section 524.
 
-    “(C) has a long-term record of service in providing or financing quality affordable housing for low-income families through relationships with public entities.
+>     “(3) __Expiring contract.—__ 
 
-    “(9) Portfolio restructuring agreement.—The term ‘portfolio restructuring agreement’ means the agreement entered into between the Secretary and a participating administrative entity, as provided under section 513.
+>     The term ‘expiring contract’ means a project-based assistance contract attached to an eligible multifamily housing project which, under the terms of the contract, will expire.
 
-    “(10) Participating administrative entity.—The term ‘participating administrative entity’ means a public agency (including a State housing finance agency or a local housing agency), a nonprofit organization, or any other entity (including a law firm or an accounting firm) or a combination of such entities, that meets the requirements under section 513(b).
+>     “(4) __Expiration date.—__ 
 
-    “(11) Project-based assistance.—The term ‘project-based assistance’ means rental assistance described in paragraph (2)(B) of this section that is attached to a multifamily housing project.
+>     The term ‘expiration date’ means the date on which an expiring contract expires.
 
-    “(12) Renewal.—The term ‘renewal’ means the replacement of an expiring Federal rental contract with a new contract under section 8 of the United States Housing Act of 1937, consistent with the requirements of this subtitle.
+>     “(5) __Fair market rent.—__ 
 
-    “(13) Secretary.—The term ‘Secretary’ means the Secretary of Housing and Urban Development.
+>     The term ‘fair market rent’ means the fair market rental established under section 8(c) of the United States Housing Act of 1937.
 
-    “(14) State.—The term ‘State’ has the same meaning as in section 104 of the Cranston-Gonzalez National Affordable Housing Act \[[42 U.S.C. 12704][/us/usc/t42/s12704]\].
+>     “(6) __Low-income families.—__ 
 
-    “(15) Tenant-based assistance.—The term ‘tenant-based assistance’ has the same meaning as in section 8(f) of the United States Housing Act of 1937.
+>     The term ‘low-income families’ has the same meaning as provided under section 3(b)(2) of the United States Housing Act of 1937 \[[42 U.S.C. 1437a(b)(2)][/us/usc/t42/s1437a/b/2]\].
 
-    “(16) Unit of general local government.—The term ‘unit of general local government’ has the same meaning as in section 104 of the Cranston-Gonzalez National Affordable Housing Act.
+>     “(7) __Mortgage restructuring and rental assistance sufficiency plan.—__ 
 
-    “(17) Very low-income family.—The term ‘very low-income family’ has the same meaning as in section 3(b) of the United States Housing Act of 1937 \[[42 U.S.C. 1437a(b)][/us/usc/t42/s1437a/b]\].
+>     The term ‘mortgage restructuring and rental assistance sufficiency plan’ means the plan as provided under section 514.
 
-    “(18) Qualified mortgagee.—The term ‘qualified mortgagee’ means an entity approved by the Secretary that is capable of servicing, as well as originating, FHA-insured mortgages, and that—
+>     “(8) __Nonprofit organization.—__ 
 
-    “(A) is not suspended or debarred by the Secretary;
+>     The term ‘nonprofit organization’ means any private nonprofit organization that—
 
-    “(B) is not suspended or on probation imposed by the Mortgagee Review Board; and
+>         “(A) is organized under State or local laws;
 
-    “(C) is not in default under any Government National Mortgage Association obligation.
+>         “(B) has no part of its net earnings inuring to the benefit of any member, founder, contributor, or individual; and
 
-    “(19) Office.—The term ‘Office’ means the Office of Multifamily Housing Assistance Restructuring established under section 571.
+>         “(C) has a long-term record of service in providing or financing quality affordable housing for low-income families through relationships with public entities.
 
-    “SEC. 513. AUTHORITY OF PARTICIPATING ADMINISTRATIVE ENTITIES.
+>     “(9) __Portfolio restructuring agreement.—__ 
 
-    “(a) Participating Administrative Entities.—
+>     The term ‘portfolio restructuring agreement’ means the agreement entered into between the Secretary and a participating administrative entity, as provided under section 513.
 
-    “(1) In general.—Subject to subsection (b)(3), the Secretary shall enter into portfolio restructuring agreements with participating administrative entities for the implementation of mortgage restructuring and rental assistance sufficiency plans to restructure multifamily housing mortgages insured or held by the Secretary under the National Housing Act \[[12 U.S.C. 1701][/us/usc/t12/s1701] et seq.\], in order to—
+>     “(10) __Participating administrative entity.—__ 
 
-    “(A) reduce the costs of expiring contracts for assistance under section 8 of the United States Housing Act of 1937 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f]\];
+>     The term ‘participating administrative entity’ means a public agency (including a State housing finance agency or a local housing agency), a nonprofit organization, or any other entity (including a law firm or an accounting firm) or a combination of such entities, that meets the requirements under section 513(b).
 
-    “(B) address financially and physically troubled projects; and
+>     “(11) __Project-based assistance.—__ 
 
-    “(C) correct management and ownership deficiencies.
+>     The term ‘project-based assistance’ means rental assistance described in paragraph (2)(B) of this section that is attached to a multifamily housing project.
 
-    “(2) Portfolio restructuring agreements.—Each portfolio restructuring agreement entered into under this subsection shall—
+>     “(12) __Renewal.—__ 
 
-    “(A) be a cooperative agreement to establish the obligations and requirements between the Secretary and the participating administrative entity;
+>     The term ‘renewal’ means the replacement of an expiring Federal rental contract with a new contract under section 8 of the United States Housing Act of 1937, consistent with the requirements of this subtitle.
 
-    “(B) identify the eligible multifamily housing projects or groups of projects for which the participating administrative entity is responsible for assisting in developing and implementing approved mortgage restructuring and rental assistance sufficiency plans under section 514;
+>     “(13) __Secretary.—__ 
 
-    “(C) require the participating administrative entity to review and certify to the accuracy and completeness of the evaluation of rehabilitation needs required under section 514(e)(3) for each eligible multifamily housing project included in the portfolio restructuring agreement, in accordance with regulations promulgated by the Secretary;
+>     The term ‘Secretary’ means the Secretary of Housing and Urban Development.
 
-    “(D) identify the responsibilities of both the participating administrative entity and the Secretary in implementing a mortgage restructuring and rental assistance sufficiency plan, including any actions proposed to be taken under section 516 or 517;
+>     “(14) __State.—__ 
 
-    “(E) require each mortgage restructuring and rental assistance sufficiency plan to be prepared in accordance with the requirements of section 514 for each eligible multifamily housing project;
+>     The term ‘State’ has the same meaning as in section 104 of the Cranston-Gonzalez National Affordable Housing Act \[[42 U.S.C. 12704][/us/usc/t42/s12704]\].
 
-    “(F) include other requirements established by the Secretary, including a right of the Secretary to terminate the contract immediately for failure of the participating administrative entity to comply with any applicable requirement;
+>     “(15) __Tenant-based assistance.—__ 
 
-    “(G) if the participating administrative entity is a State housing finance agency or a local housing agency, indemnify the participating administrative entity against lawsuits and penalties for actions taken pursuant to the agreement, excluding actions involving willful misconduct or negligence;
+>     The term ‘tenant-based assistance’ has the same meaning as in section 8(f) of the United States Housing Act of 1937.
 
-    “(H) include compensation for all reasonable expenses incurred by the participating administrative entity necessary to perform its duties under this subtitle; and
+>     “(16) __Unit of general local government.—__ 
 
-    “(I) include, where appropriate, incentive agreements with the participating administrative entity to reward superior performance in meeting the purposes of this title.
+>     The term ‘unit of general local government’ has the same meaning as in section 104 of the Cranston-Gonzalez National Affordable Housing Act.
 
-    “(b) Selection of Participating Administrative Entity.—
+>     “(17) __Very low-income family.—__ 
 
-    “(1) Selection criteria.—The Secretary shall select a participating administrative entity based on whether, in the determination of the Secretary, the participating administrative entity—
+>     The term ‘very low-income family’ has the same meaning as in section 3(b) of the United States Housing Act of 1937 \[[42 U.S.C. 1437a(b)][/us/usc/t42/s1437a/b]\].
 
-    “(A) has demonstrated experience in working directly with residents of low-income housing projects and with tenants and other community-based organizations;
+>     “(18) __Qualified mortgagee.—__ 
 
-    “(B) has demonstrated experience with and capacity for multifamily restructuring and multifamily financing (which may include risk-sharing arrangements and restructuring eligible multifamily housing properties under the fiscal year 1997 Federal Housing Administration multifamily housing demonstration program);
+>     The term ‘qualified mortgagee’ means an entity approved by the Secretary that is capable of servicing, as well as originating, FHA-insured mortgages, and that—
 
-    “(C) has a history of stable, financially sound, and responsible administrative performance (which may include the management of affordable low-income rental housing);
+>         “(A) is not suspended or debarred by the Secretary;
 
-    “(D) has demonstrated financial strength in terms of asset quality, capital adequacy, and liquidity;
+>         “(B) is not suspended or on probation imposed by the Mortgagee Review Board; and
 
-    “(E) has demonstrated that it will carry out the specific transactions and other responsibilities under this subtitle in a timely, efficient, and cost-effective manner; and
+>         “(C) is not in default under any Government National Mortgage Association obligation.
 
-    “(F) meets other criteria, as determined by the Secretary.
+>     “(19) __Office.—__ 
 
-    “(2) Selection.—If more than 1 interested entity meets the qualifications and selection criteria for a participating administrative entity, the Secretary may select the entity that demonstrates, as determined by the Secretary, that it will—
+>     The term ‘Office’ means the Office of Multifamily Housing Assistance Restructuring established under section 571.
 
-    “(A) provide the most timely, efficient, and cost-effective—
+> “SEC. 513. __AUTHORITY OF PARTICIPATING ADMINISTRATIVE ENTITIES.__ 
 
-    “(i) restructuring of the mortgages covered by the portfolio restructuring agreement; and
+>     “(a) __Participating Administrative Entities.—__ 
 
-    “(ii) administration of the section 8 project-based assistance contract, if applicable; and
+>         “(1) __In general.—__ 
 
-    “(B) protect the public interest (including the long-term provision of decent low-income affordable rental housing and protection of residents, communities, and the American taxpayer).
+>         Subject to subsection (b)(3), the Secretary shall enter into portfolio restructuring agreements with participating administrative entities for the implementation of mortgage restructuring and rental assistance sufficiency plans to restructure multifamily housing mortgages insured or held by the Secretary under the National Housing Act \[[12 U.S.C. 1701][/us/usc/t12/s1701] et seq.\], in order to—
 
-    “(3) Partnerships.—For the purposes of any participating administrative entity applying under this subsection, participating administrative entities are encouraged to develop partnerships with each other and with nonprofit organizations, if such partnerships will further the participating administrative entity’s ability to meet the purposes of this title.
+>             “(A) reduce the costs of expiring contracts for assistance under section 8 of the United States Housing Act of 1937 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f]\];
 
-    “(4) Alternative administrators.—With respect to any eligible multifamily housing project for which a participating administrative entity is unavailable, or should not be selected to carry out the requirements of this subtitle with respect to that multifamily housing project for reasons relating to the selection criteria under paragraph (1), the Secretary shall—
+>             “(B) address financially and physically troubled projects; and
 
-    “(A) carry out the requirements of this subtitle with respect to that eligible multifamily housing project; or
+>             “(C) correct management and ownership deficiencies.
 
-    “(B) contract with other qualified entities that meet the requirements of paragraph (1) to provide the authority to carry out all or a portion of the requirements of this subtitle with respect to that eligible multifamily housing project.
+>         “(2) __Portfolio restructuring agreements.—__ 
 
-    “(5) Priority for public agencies as participating administrative entities.—The Secretary shall provide a reasonable period during which the Secretary will consider proposals only from State housing finance agencies or local housing agencies, and the Secretary shall select such an agency without considering other applicants if the Secretary determines that the agency is qualified. The period shall be of sufficient duration for the Secretary to determine whether any State housing finance agencies or local housing agencies are interested and qualified. Not later than the end of the period, the Secretary shall notify the State housing finance agency or the local housing agency regarding the status of the proposal and, if the proposal is rejected, the reasons for the rejection and an opportunity for the applicant to respond.
+>         Each portfolio restructuring agreement entered into under this subsection shall—
 
-    “(6) State and local portfolio requirements.—
+>             “(A) be a cooperative agreement to establish the obligations and requirements between the Secretary and the participating administrative entity;
 
-    “(A) In general.—If the housing finance agency of a State is selected as the participating administrative entity, that agency shall be responsible for such eligible multifamily housing projects in that State as may be agreed upon by the participating administrative entity and the Secretary. If a local housing agency is selected as the participating administrative entity, that agency shall be responsible for such eligible multifamily housing projects in the jurisdiction of the agency as may be agreed upon by the participating administrative entity and the Secretary.
+>             “(B) identify the eligible multifamily housing projects or groups of projects for which the participating administrative entity is responsible for assisting in developing and implementing approved mortgage restructuring and rental assistance sufficiency plans under section 514;
 
-    “(B) Nondelegation.—Except with the prior approval of the Secretary, a participating administrative entity may not delegate or transfer responsibilities and functions under this subtitle to 1 or more entities.
+>             “(C) require the participating administrative entity to review and certify to the accuracy and completeness of the evaluation of rehabilitation needs required under section 514(e)(3) for each eligible multifamily housing project included in the portfolio restructuring agreement, in accordance with regulations promulgated by the Secretary;
 
-    “(7) Private entity requirements.—
+>             “(D) identify the responsibilities of both the participating administrative entity and the Secretary in implementing a mortgage restructuring and rental assistance sufficiency plan, including any actions proposed to be taken under section 516 or 517;
 
-    “(A) In general.—If a for-profit entity is selected as the participating administrative entity, that entity shall be required to enter into a partnership with a public purpose entity (including the Department).
+>             “(E) require each mortgage restructuring and rental assistance sufficiency plan to be prepared in accordance with the requirements of section 514 for each eligible multifamily housing project;
 
-    “(B) Prohibition.—No private entity shall share, participate in, or otherwise benefit from any equity created, received, or restructured as a result of the portfolio restructuring agreement.
+>             “(F) include other requirements established by the Secretary, including a right of the Secretary to terminate the contract immediately for failure of the participating administrative entity to comply with any applicable requirement;
 
-    “SEC. 514. MORTGAGE RESTRUCTURING AND RENTAL ASSISTANCE SUFFICIENCY PLAN.
+>             “(G) if the participating administrative entity is a State housing finance agency or a local housing agency, indemnify the participating administrative entity against lawsuits and penalties for actions taken pursuant to the agreement, excluding actions involving willful misconduct or negligence;
 
-    “(a) In General.—
+>             “(H) include compensation for all reasonable expenses incurred by the participating administrative entity necessary to perform its duties under this subtitle; and
 
-    “(1) Development of procedures and requirements.—The Secretary shall develop procedures and requirements for the submission of a mortgage restructuring and rental assistance sufficiency plan for each eligible multifamily housing project with an expiring contract.
+>             “(I) include, where appropriate, incentive agreements with the participating administrative entity to reward superior performance in meeting the purposes of this title.
 
-    “(2) Terms and conditions.—Each mortgage restructuring and rental assistance sufficiency plan submitted under this subsection shall be developed by the participating administrative entity, in cooperation with an owner of an eligible multifamily housing project and any servicer for the mortgage that is a qualified mortgagee, under such terms and conditions as the Secretary shall require.
+>     “(b) __Selection of Participating Administrative Entity.—__ 
 
-    “(3) Consolidation.—Mortgage restructuring and rental assistance sufficiency plans submitted under this subsection may be consolidated as part of an overall strategy for more than 1 property.
+>         “(1) __Selection criteria.—__ 
 
-    “(b) Notice Requirements.—The Secretary shall establish notice procedures and hearing requirements for tenants and owners concerning the dates for the expiration of project-based assistance contracts for any eligible multifamily housing project.
+>         The Secretary shall select a participating administrative entity based on whether, in the determination of the Secretary, the participating administrative entity—
 
-    “(c) Extension of Contract Term.—Subject to agreement by a project owner, the Secretary may extend the term of any expiring contract or provide a section 8 contract with rent levels set in accordance with subsection (g) for a period sufficient to facilitate the implementation of a mortgage restructuring and rental assistance sufficiency plan, as determined by the Secretary.
+>             “(A) has demonstrated experience in working directly with residents of low-income housing projects and with tenants and other community-based organizations;
 
-    “(d) Tenant Rent Protection.—If the owner of a project with an expiring Federal rental assistance contract does not agree to extend the contract, not less than 12 months prior to terminating the contract, the project owner shall provide written notice to the Secretary and the tenants and the Secretary shall make tenant-based assistance available to tenants residing in units assisted under the expiring contract at the time of expiration. In addition, if after giving the notice required in the first sentence, an owner determines to terminate a contract, an owner shall provide an additional written notice with respect to the termination, in a form prescribed by the Secretary, not less than 120 days prior to the termination. In the event the owner does not provide the 120-day notice required in the preceding sentence, the owner may not evict the tenants or increase the tenants’ rent payment until such time as the owner has provided the 120-day notice and such period has elapsed. The Secretary may allow the owner to renew the terminating contract for a period of time sufficient to give tenants 120 days of advance notice in accordance with section 524 of this Act.
+>             “(B) has demonstrated experience with and capacity for multifamily restructuring and multifamily financing (which may include risk-sharing arrangements and restructuring eligible multifamily housing properties under the fiscal year 1997 Federal Housing Administration multifamily housing demonstration program);
 
-    “(e) Mortgage Restructuring and Rental Assistance Sufficiency Plan.—Each mortgage restructuring and rental assistance sufficiency plan shall—
+>             “(C) has a history of stable, financially sound, and responsible administrative performance (which may include the management of affordable low-income rental housing);
 
-    “(1) except as otherwise provided, restructure the project-based assistance rents for the eligible multifamily housing project in a manner consistent with subsection (g), or provide for tenant-based assistance in accordance with section 515;
+>             “(D) has demonstrated financial strength in terms of asset quality, capital adequacy, and liquidity;
 
-    “(2) allow for rent adjustments by applying an operating cost adjustment factor established under guidelines established by the Secretary;
+>             “(E) has demonstrated that it will carry out the specific transactions and other responsibilities under this subtitle in a timely, efficient, and cost-effective manner; and
 
-    “(3) require the owner or purchaser of an eligible multifamily housing project to evaluate the rehabilitation needs of the project, in accordance with regulations of the Secretary, and notify the participating administrative entity of the rehabilitation needs;
+>             “(F) meets other criteria, as determined by the Secretary.
 
-    “(4) require the owner or purchaser of the project to provide or contract for competent management of the project;
+>         “(2) __Selection.—__ 
 
-    “(5) require the owner or purchaser of the project to take such actions as may be necessary to rehabilitate, maintain adequate reserves, and to maintain the project in decent and safe condition, based on housing quality standards established by—
+>         If more than 1 interested entity meets the qualifications and selection criteria for a participating administrative entity, the Secretary may select the entity that demonstrates, as determined by the Secretary, that it will—
 
-    “(A) the Secretary; or
+>             “(A)
 
-    “(B) local housing codes or codes adopted by public housing agencies that—
+>              provide the most timely, efficient, and cost-effective—
 
-    “(i) meet or exceed housing quality standards established by the Secretary; and
+>                 “(i) restructuring of the mortgages covered by the portfolio restructuring agreement; and
 
-    “(ii) do not severely restrict housing choice;
+>                 “(ii) administration of the section 8 project-based assistance contract, if applicable; and
 
-    “(6) require the owner or purchaser of the project to maintain affordability and use restrictions in accordance with regulations promulgated by the Secretary, for a term of not less than 30 years which restrictions shall be—
+>             “(B) protect the public interest (including the long-term provision of decent low-income affordable rental housing and protection of residents, communities, and the American taxpayer).
 
-    “(A) contained in a legally enforceable document recorded in the appropriate records; and
+>         “(3) __Partnerships.—__ 
 
-    “(B) consistent with the long-term physical and financial viability and character of the project as affordable housing;
+>         For the purposes of any participating administrative entity applying under this subsection, participating administrative entities are encouraged to develop partnerships with each other and with nonprofit organizations, if such partnerships will further the participating administrative entity’s ability to meet the purposes of this title.
 
-    “(7) include a certification by the participating administrative entity that the restructuring meets subsidy layering requirements established by the Secretary by regulation for purposes of this subtitle;
+>         “(4) __Alternative administrators.—__ 
 
-    “(8) require the owner or purchaser of the project to meet such other requirements as the Secretary determines to be appropriate; and
+>         With respect to any eligible multifamily housing project for which a participating administrative entity is unavailable, or should not be selected to carry out the requirements of this subtitle with respect to that multifamily housing project for reasons relating to the selection criteria under paragraph (1), the Secretary shall—
 
-    “(9) prohibit the owner from refusing to lease a reasonable number of units to holders of certificates and vouchers under section 8 of the United States Housing Act of 1937 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f]\] because of the status of the prospective tenants as certificate and voucher holders.
+>             “(A) carry out the requirements of this subtitle with respect to that eligible multifamily housing project; or
 
-    “(f) Tenant and Other Participation and Capacity Building.—
+>             “(B) contract with other qualified entities that meet the requirements of paragraph (1) to provide the authority to carry out all or a portion of the requirements of this subtitle with respect to that eligible multifamily housing project.
 
-    “(1) Procedures.—
+>         “(5) __Priority for public agencies as participating administrative entities.—__ 
 
-    “(A) In general.—The Secretary shall establish procedures to provide an opportunity for tenants of the project, residents of the neighborhood, the local government, and other affected parties to participate effectively and on a timely basis in the restructuring process established by this subtitle.
+>         The Secretary shall provide a reasonable period during which the Secretary will consider proposals only from State housing finance agencies or local housing agencies, and the Secretary shall select such an agency without considering other applicants if the Secretary determines that the agency is qualified. The period shall be of sufficient duration for the Secretary to determine whether any State housing finance agencies or local housing agencies are interested and qualified. Not later than the end of the period, the Secretary shall notify the State housing finance agency or the local housing agency regarding the status of the proposal and, if the proposal is rejected, the reasons for the rejection and an opportunity for the applicant to respond.
 
-    “(B) Coverage.—These procedures shall take into account the need to provide tenants of the project, residents of the neighborhood, the local government, and other affected parties timely notice of proposed restructuring actions and appropriate access to relevant information about restructuring activities. To the extent practicable and consistent with the need to accomplish project restructuring in an efficient manner, the procedures shall give all such parties an opportunity to provide comments to the participating administrative entity in writing, in meetings, or in another appropriate manner (which comments shall be taken into consideration by the participating administrative entity).
+>         “(6) __State and local portfolio requirements.—__ 
 
-    “(2) Required consultation.—The procedures developed pursuant to paragraph (1) shall require consultation with tenants of the project, residents of the neighborhood, the local government, and other affected parties, in connection with at least the following:
+>             “(A) __In general.—__ 
 
-    “(A) the mortgage restructuring and rental assistance sufficiency plan;
+>             If the housing finance agency of a State is selected as the participating administrative entity, that agency shall be responsible for such eligible multifamily housing projects in that State as may be agreed upon by the participating administrative entity and the Secretary. If a local housing agency is selected as the participating administrative entity, that agency shall be responsible for such eligible multifamily housing projects in the jurisdiction of the agency as may be agreed upon by the participating administrative entity and the Secretary.
 
-    “(B) any proposed transfer of the project; and
+>             “(B) __Nondelegation.—__ 
 
-    “(C) the rental assistance assessment plan pursuant to section 515(c).
+>             Except with the prior approval of the Secretary, a participating administrative entity may not delegate or transfer responsibilities and functions under this subtitle to 1 or more entities.
 
-    “(3) Funding.—
+>         “(7) __Private entity requirements.—__ 
 
-    “(A) In general.—The Secretary shall make available not more than $10,000,000 annually in funding, which amount shall be in addition to any amounts made available under this subparagraph and carried over from previous years, from which the Secretary may make obligations to tenant groups, nonprofit organizations, and public entities for building the capacity of tenant organizations, for technical assistance in furthering any of the purposes of this subtitle (including transfer of developments to new owners), for technical assistance for preservation of low-income housing for which project-based rental assistance is provided at below market rent levels and may not be renewed (including transfer of developments to tenant groups, nonprofit organizations, and public entities), for tenant services, and for tenant groups, nonprofit organizations, and public entities described in section 517(a)(5), from those amounts made available under appropriations Acts for implementing this subtitle or previously made available for technical assistance in connection with the preservation of affordable rental housing for low-income persons.
+>             “(A) __In general.—__ 
 
-    “(B) Manner of providing.—Notwithstanding any other provision of law restricting the use of preservation technical assistance funds, the Secretary may provide any funds made available under subparagraph (A) through existing technical assistance programs pursuant to any other Federal law, including the Low-Income Housing Preservation and Resident Homeownership Act of 1990 \[[12 U.S.C. 4101][/us/usc/t12/s4101] et seq.\] and the Multifamily Housing Property Disposition Reform Act of 1994 \[[Pub. L. 103–233][/us/pl/103/233], see Short Title of 1994 Amendment note set out under [section 1701 of Title 12][/us/usc/t12/s1701], Banks and Banking\], or through any other means that the Secretary considers consistent with the purposes of this subtitle, without regard to any set-aside requirement otherwise applicable to those funds.
+>             If a for-profit entity is selected as the participating administrative entity, that entity shall be required to enter into a partnership with a public purpose entity (including the Department).
 
-    “(C) Prohibition.—None of the funds made available under subparagraph (A) may be used directly or indirectly to pay for any personal service, advertisement, telegram, telephone, letter, printed or written matter, or other device, intended or designed to influence in any manner a Member of Congress, to favor or oppose, by vote or otherwise, any legislation or appropriation by Congress, whether before or after the introduction of any bill or resolution proposing such legislation or appropriation.
+>             “(B) __Prohibition.—__ 
 
-    “(g) Rent Levels.—
+>             No private entity shall share, participate in, or otherwise benefit from any equity created, received, or restructured as a result of the portfolio restructuring agreement.
 
-    “(1) In general.—Except as provided in paragraph (2), each mortgage restructuring and rental assistance sufficiency plan pursuant to the terms, conditions, and requirements of this subtitle shall establish for units assisted with project-based assistance in eligible multifamily housing projects adjusted rent levels that—
+> “SEC. 514. __MORTGAGE RESTRUCTURING AND RENTAL ASSISTANCE SUFFICIENCY PLAN.__ 
 
-    “(A) are equivalent to rents derived from comparable properties, if—
+>     “(a) __In General.—__ 
 
-    “(i) the participating administrative entity makes the rent determination within a reasonable period of time; and
+>         “(1) __Development of procedures and requirements.—__ 
 
-    “(ii) the market rent determination is based on not less than 2 comparable properties; or
+>         The Secretary shall develop procedures and requirements for the submission of a mortgage restructuring and rental assistance sufficiency plan for each eligible multifamily housing project with an expiring contract.
 
-    “(B) if those rents cannot be determined, are equal to 90 percent of the fair market rents for the relevant market area.
+>         “(2) __Terms and conditions.—__ 
 
-    “(2) Exceptions.—
+>         Each mortgage restructuring and rental assistance sufficiency plan submitted under this subsection shall be developed by the participating administrative entity, in cooperation with an owner of an eligible multifamily housing project and any servicer for the mortgage that is a qualified mortgagee, under such terms and conditions as the Secretary shall require.
 
-    “(A) In general.—A contract under this section may include rent levels that exceed the rent level described in paragraph (1) at rent levels that do not exceed 120 percent of the fair market rent for the market area (except that the Secretary may waive this limit for not more than five percent of all units subject to portfolio restructuring agreements, based on a finding of special need), if the participating administrative entity—
+>         “(3) __Consolidation.—__ 
 
-    “(i) determines that the housing needs of the tenants and the community cannot be adequately addressed through implementation of the rent limitation required to be established through a mortgage restructuring and rental assistance sufficiency plan under paragraph (1); and
+>         Mortgage restructuring and rental assistance sufficiency plans submitted under this subsection may be consolidated as part of an overall strategy for more than 1 property.
 
-    “(ii) follows the procedures under paragraph (3).
+>     “(b) __Notice Requirements.—__ 
 
-    “(B) Exception rents.—In any fiscal year, a participating administrative entity may approve exception rents on not more than 20 percent of all units covered by the portfolio restructuring agreement with expiring contracts in that fiscal year, except that the Secretary may waive this ceiling upon a finding of special need.
+>     The Secretary shall establish notice procedures and hearing requirements for tenants and owners concerning the dates for the expiration of project-based assistance contracts for any eligible multifamily housing project.
 
-    “(3) Rent levels for exception projects.—For purposes of this section, a project eligible for an exception rent shall receive a rent calculated on the actual and projected costs of operating the project, at a level that provides income sufficient to support a budget-based rent that consists of—
+>     “(c) __Extension of Contract Term.—__ 
 
-    “(A) the debt service of the project;
+>     Subject to agreement by a project owner, the Secretary may extend the term of any expiring contract or provide a section 8 contract with rent levels set in accordance with subsection (g) for a period sufficient to facilitate the implementation of a mortgage restructuring and rental assistance sufficiency plan, as determined by the Secretary.
 
-    “(B) the operating expenses of the project, as determined by the participating administrative entity, including—
+>     “(d) __Tenant Rent Protection.—__ 
 
-    “(i) contributions to adequate reserves;
+>     If the owner of a project with an expiring Federal rental assistance contract does not agree to extend the contract, not less than 12 months prior to terminating the contract, the project owner shall provide written notice to the Secretary and the tenants and the Secretary shall make tenant-based assistance available to tenants residing in units assisted under the expiring contract at the time of expiration. In addition, if after giving the notice required in the first sentence, an owner determines to terminate a contract, an owner shall provide an additional written notice with respect to the termination, in a form prescribed by the Secretary, not less than 120 days prior to the termination. In the event the owner does not provide the 120-day notice required in the preceding sentence, the owner may not evict the tenants or increase the tenants’ rent payment until such time as the owner has provided the 120-day notice and such period has elapsed. The Secretary may allow the owner to renew the terminating contract for a period of time sufficient to give tenants 120 days of advance notice in accordance with section 524 of this Act.
 
-    “(ii) the costs of maintenance and necessary rehabilitation; and
+>     “(e) __Mortgage Restructuring and Rental Assistance Sufficiency Plan.—__ 
 
-    “(iii) other eligible costs permitted under section 8 of the United States Housing Act of 1937;
+>     Each mortgage restructuring and rental assistance sufficiency plan shall—
 
-    “(C) an adequate allowance for potential operating losses due to vacancies and failure to collect rents, as determined by the participating administrative entity;
+>         “(1) except as otherwise provided, restructure the project-based assistance rents for the eligible multifamily housing project in a manner consistent with subsection (g), or provide for tenant-based assistance in accordance with section 515;
 
-    “(D) an allowance for a reasonable rate of return to the owner or purchaser of the project, as determined by the participating administrative entity, which may be established to provide incentives for owners or purchasers to meet benchmarks of quality for management and housing quality; and
+>         “(2) allow for rent adjustments by applying an operating cost adjustment factor established under guidelines established by the Secretary;
 
-    “(E) other expenses determined by the participating administrative entity to be necessary for the operation of the project.
+>         “(3) require the owner or purchaser of an eligible multifamily housing project to evaluate the rehabilitation needs of the project, in accordance with regulations of the Secretary, and notify the participating administrative entity of the rehabilitation needs;
 
-    “(h) Exemptions From Restructuring.—The following categories of projects shall not be covered by a mortgage restructuring and rental assistance sufficiency plan if—
+>         “(4) require the owner or purchaser of the project to provide or contract for competent management of the project;
 
-    “(1) the primary financing or mortgage insurance for the multifamily housing project that is covered by that expiring contract was provided by a unit of State government or a unit of general local government (or an agency or instrumentality of a unit of a State government or unit of general local government) and the financing involves mortgage insurance under the National Housing Act \[[42 U.S.C. 1701][/us/usc/t42/s1701] et seq.\], such that the implementation of a mortgage restructuring and rental assistance sufficiency plan under this subtitle is in conflict with applicable law or agreements governing such financing;
+>         “(5)
 
-    “(2) the project is a project financed under section 202 of the Housing Act of 1959 \[[12 U.S.C. 1701q][/us/usc/t12/s1701q]\] or section 515 of the Housing Act of 1949 \[[42 U.S.C. 1485][/us/usc/t42/s1485]\], or refinanced pursuant to section 811 of the American Homeownership and Economic Opportunity Act of 2000 ([12 U.S.C. 1701q][/us/usc/t12/s1701q] note); or
+>          require the owner or purchaser of the project to take such actions as may be necessary to rehabilitate, maintain adequate reserves, and to maintain the project in decent and safe condition, based on housing quality standards established by—
 
-    “(3) the project has an expiring contract under section 8 of the United States Housing Act of 1937 entered into pursuant to \[former\] section 441 of the McKinney-Vento Homeless Assistance Act \[[42 U.S.C. 11401][/us/usc/t42/s11401]\].
+>             “(A) the Secretary; or
 
-    “SEC. 515. SECTION 8 RENEWALS AND LONG-TERM AFFORDABILITY COMMITMENT BY OWNER OF PROJECT.
+>             “(B)
 
-    “(a) Section 8 Renewals of Restructured Projects.—
+>              local housing codes or codes adopted by public housing agencies that—
 
-    “(1) Project-based assistance.—Subject to the availability of amounts provided in advance in appropriations Acts, and to the control of the Secretary of applicable accounts in the Treasury of the United States, with respect to an expiring section 8 contract on an eligible multifamily housing project to be renewed with project-based assistance (based on a determination under subsection (c)), the Secretary shall enter into contracts with participating administrative entities pursuant to which the participating administrative entity shall offer to renew or extend the contract, or the Secretary shall offer to renew such contract, and the owner of the project shall accept the offer, if the initial renewal is in accordance with the terms and conditions specified in the mortgage restructuring and rental assistance sufficiency plan and the rental assistance assessment plan.
+>                 “(i) meet or exceed housing quality standards established by the Secretary; and
 
-    “(2) Tenant-based assistance.—Subject to the availability of amounts provided in advance in appropriations Acts and to the control of the Secretary of applicable accounts in the Treasury of the United States, with respect to an expiring section 8 contract on an eligible multifamily housing project to be renewed with tenant-based assistance (based on a determination under subsection (c)), the Secretary shall enter into contracts with participating administrative entities pursuant to which the participating administrative entity shall provide for the renewal of section 8 assistance on an eligible multifamily housing project with tenant-based assistance, or the Secretary shall provide for such renewal, in accordance with the terms and conditions specified in the mortgage restructuring and rental assistance sufficiency plan and the rental assistance assessment plan.
+>                 “(ii) do not severely restrict housing choice;
 
-    “(b) Required Commitment.—After the initial renewal of a section 8 contract pursuant to this section, the owner shall accept each offer made pursuant to subsection (a) to renew the contract, for the term of the affordability and use restrictions required by section 514(e)(6), if the offer to renew is on terms and conditions specified in the mortgage restructuring and rental assistance sufficiency plan.
+>         “(6)
 
-    “(c) Determination of Whether To Renew With Project-Based or Tenant-Based Assistance.—
+>          require the owner or purchaser of the project to maintain affordability and use restrictions in accordance with regulations promulgated by the Secretary, for a term of not less than 30 years which restrictions shall be—
 
-    “(1) Mandatory renewal of project-based assistance.—Section 8 assistance shall be renewed with project-based assistance, if—
+>             “(A) contained in a legally enforceable document recorded in the appropriate records; and
 
-    “(A) the project is located in an area in which the participating administrative entity determines, based on housing market indicators, such as low vacancy rates or high absorption rates, that there is not adequate available and affordable housing or that the tenants of the project would not be able to locate suitable units or use the tenant-based assistance successfully;
+>             “(B) consistent with the long-term physical and financial viability and character of the project as affordable housing;
 
-    “(B) a predominant number of the units in the project are occupied by elderly families, disabled families, or elderly and disabled families; or
+>         “(7) include a certification by the participating administrative entity that the restructuring meets subsidy layering requirements established by the Secretary by regulation for purposes of this subtitle;
 
-    “(C) the project is held by a nonprofit cooperative ownership housing corporation or nonprofit cooperative housing trust.
+>         “(8) require the owner or purchaser of the project to meet such other requirements as the Secretary determines to be appropriate; and
 
-    “(2) Rental assistance assessment plan.—
+>         “(9) prohibit the owner from refusing to lease a reasonable number of units to holders of certificates and vouchers under section 8 of the United States Housing Act of 1937 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f]\] because of the status of the prospective tenants as certificate and voucher holders.
 
-    “(A) In general.—With respect to any project that is not described in paragraph (1), the participating administrative entity shall, after consultation with the owner of the project, develop a rental assistance assessment plan to determine whether to renew assistance for the project with tenant-based assistance or project-based assistance.
+>     “(f) __Tenant and Other Participation and Capacity Building.—__ 
 
-    “(B) Rental assistance assessment plan requirements.—Each rental assistance assessment plan developed under this paragraph shall include an assessment of the impact of converting to tenant-based assistance and the impact of extending project-based assistance on—
+>         “(1) __Procedures.—__ 
 
-    “(i) the ability of the tenants to find adequate, available, decent, comparable, and affordable housing in the local market;
+>             “(A) __In general.—__ 
 
-    “(ii) the types of tenants residing in the project (such as elderly families, disabled families, large families, and cooperative homeowners);
+>             The Secretary shall establish procedures to provide an opportunity for tenants of the project, residents of the neighborhood, the local government, and other affected parties to participate effectively and on a timely basis in the restructuring process established by this subtitle.
 
-    “(iii) the local housing needs identified in the comprehensive housing affordability strategy, and local market vacancy trends;
+>             “(B) __Coverage.—__ 
 
-    “(iv) the cost of providing assistance, comparing the applicable payment standard to the project’s adjusted rent levels determined under section 514(g);
+>             These procedures shall take into account the need to provide tenants of the project, residents of the neighborhood, the local government, and other affected parties timely notice of proposed restructuring actions and appropriate access to relevant information about restructuring activities. To the extent practicable and consistent with the need to accomplish project restructuring in an efficient manner, the procedures shall give all such parties an opportunity to provide comments to the participating administrative entity in writing, in meetings, or in another appropriate manner (which comments shall be taken into consideration by the participating administrative entity).
 
-    “(v) the long-term financial stability of the project;
+>         “(2) __Required consultation.—__ 
 
-    “(vi) the ability of residents to make reasonable choices about their individual living situations;
+>         The procedures developed pursuant to paragraph (1) shall require consultation with tenants of the project, residents of the neighborhood, the local government, and other affected parties, in connection with at least the following:
 
-    “(vii) the quality of the neighborhood in which the tenants would reside; and
+>             “(A) the mortgage restructuring and rental assistance sufficiency plan;
 
-    “(viii) the project’s ability to compete in the marketplace.
+>             “(B) any proposed transfer of the project; and
 
-    “(C) Reports to director.—Each participating administrative entity shall report regularly to the Director as defined in subtitle D, as the Director shall require, identifying—
+>             “(C) the rental assistance assessment plan pursuant to section 515(c).
 
-    “(i) each eligible multifamily housing project for which the entity has developed a rental assistance assessment plan under this paragraph that determined that the tenants of the project generally supported renewal of assistance with tenant-based assistance, but under which assistance for the project was renewed with project-based assistance; and
+>         “(3) __Funding.—__ 
 
-    “(ii) each project for which the entity has developed such a plan under which the assistance is renewed using tenant-based assistance.
+>             “(A) __In general.—__ 
 
-    “(3) Eligibility for tenant-based assistance.—Subject to paragraph (4), with respect to any project that is not described in paragraph (1), if a participating administrative entity approves the use of tenant-based assistance based on a rental assistance assessment plan developed under paragraph (2), tenant-based assistance shall be provided to each assisted family (other than a family already receiving tenant-based assistance) residing in the project at the time the assistance described in section 512(2)(B) terminates.
+>             The Secretary shall make available not more than $10,000,000 annually in funding, which amount shall be in addition to any amounts made available under this subparagraph and carried over from previous years, from which the Secretary may make obligations to tenant groups, nonprofit organizations, and public entities for building the capacity of tenant organizations, for technical assistance in furthering any of the purposes of this subtitle (including transfer of developments to new owners), for technical assistance for preservation of low-income housing for which project-based rental assistance is provided at below market rent levels and may not be renewed (including transfer of developments to tenant groups, nonprofit organizations, and public entities), for tenant services, and for tenant groups, nonprofit organizations, and public entities described in section 517(a)(5), from those amounts made available under appropriations Acts for implementing this subtitle or previously made available for technical assistance in connection with the preservation of affordable rental housing for low-income persons.
 
-    “(4) Assistance through enhanced vouchers.—In the case of any family described in paragraph (3) that resides in a project described in section 512(2)(B), the tenant-based assistance provided shall be enhanced voucher assistance under section 8(t) of the United States Housing Act of 1937 ([42 U.S.C. 1437f(t)][/us/usc/t42/s1437f/t]).
+>             “(B) __Manner of providing.—__ 
 
-    “(5) Inapplicability of certain provision.—If a participating administrative entity approves renewal with project-based assistance under this subsection, section 8(d)(2) of the United States Housing Act of 1937 shall not apply.
+>             Notwithstanding any other provision of law restricting the use of preservation technical assistance funds, the Secretary may provide any funds made available under subparagraph (A) through existing technical assistance programs pursuant to any other Federal law, including the Low-Income Housing Preservation and Resident Homeownership Act of 1990 \[[12 U.S.C. 4101][/us/usc/t12/s4101] et seq.\] and the Multifamily Housing Property Disposition Reform Act of 1994 \[[Pub. L. 103–233][/us/pl/103/233], see Short Title of 1994 Amendment note set out under [section 1701 of Title 12][/us/usc/t12/s1701], Banks and Banking\], or through any other means that the Secretary considers consistent with the purposes of this subtitle, without regard to any set-aside requirement otherwise applicable to those funds.
 
-    “SEC. 516. PROHIBITION ON RESTRUCTURING.
+>             “(C) __Prohibition.—__ 
 
-    “(a) Prohibition on Restructuring.—The Secretary may elect not to consider any mortgage restructuring and rental assistance sufficiency plan or request for contract renewal if the Secretary or the participating administrative entity determines that—
+>             None of the funds made available under subparagraph (A) may be used directly or indirectly to pay for any personal service, advertisement, telegram, telephone, letter, printed or written matter, or other device, intended or designed to influence in any manner a Member of Congress, to favor or oppose, by vote or otherwise, any legislation or appropriation by Congress, whether before or after the introduction of any bill or resolution proposing such legislation or appropriation.
 
-    “(1)(A) the owner or purchaser of the project has engaged in material adverse financial or managerial actions or omissions with regard to such project; or
+>     “(g) __Rent Levels.—__ 
 
-    “(B) the owner or purchaser of the project has engaged in material adverse financial or managerial actions or omissions with regard to other projects of such owner or purchaser that are federally assisted or financed with a loan from, or mortgage insured or guaranteed by, an agency of the Federal Government;
+>         “(1) __In general.—__ 
 
-    “(2) material adverse financial or managerial actions or omissions include—
+>         Except as provided in paragraph (2), each mortgage restructuring and rental assistance sufficiency plan pursuant to the terms, conditions, and requirements of this subtitle shall establish for units assisted with project-based assistance in eligible multifamily housing projects adjusted rent levels that—
 
-    “(A) materially violating any Federal, State, or local law or regulation with regard to this project or any other federally assisted project, after receipt of notice and an opportunity to cure;
+>             “(A)
 
-    “(B) materially breaching a contract for assistance under section 8 of the United States Housing Act of 1937 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f]\], after receipt of notice and an opportunity to cure;
+>              are equivalent to rents derived from comparable properties, if—
 
-    “(C) materially violating any applicable regulatory or other agreement with the Secretary or a participating administrative entity, after receipt of notice and an opportunity to cure;
+>                 “(i) the participating administrative entity makes the rent determination within a reasonable period of time; and
 
-    “(D) repeatedly and materially violating any Federal, State, or local law or regulation with regard to the project or any other federally assisted project;
+>                 “(ii) the market rent determination is based on not less than 2 comparable properties; or
 
-    “(E) repeatedly and materially breaching a contract for assistance under section 8 of the United States Housing Act of 1937;
+>             “(B) if those rents cannot be determined, are equal to 90 percent of the fair market rents for the relevant market area.
 
-    “(F) repeatedly and materially violating any applicable regulatory or other agreement with the Secretary or a participating administrative entity;
+>         “(2) __Exceptions.—__ 
 
-    “(G) repeatedly failing to make mortgage payments at times when project income was sufficient to maintain and operate the property;
+>             “(A) __In general.—__ 
 
-    “(H) materially failing to maintain the property according to housing quality standards after receipt of notice and a reasonable opportunity to cure; or
+>             A contract under this section may include rent levels that exceed the rent level described in paragraph (1) at rent levels that do not exceed 120 percent of the fair market rent for the market area (except that the Secretary may waive this limit for not more than five percent of all units subject to portfolio restructuring agreements, based on a finding of special need), if the participating administrative entity—
 
-    “(I) committing any actions or omissions that would warrant suspension or debarment by the Secretary;
+>                 “(i) determines that the housing needs of the tenants and the community cannot be adequately addressed through implementation of the rent limitation required to be established through a mortgage restructuring and rental assistance sufficiency plan under paragraph (1); and
 
-    “(3) the owner or purchaser of the property materially failed to follow the procedures and requirements of this subtitle, after receipt of notice and an opportunity to cure; or
+>                 “(ii) follows the procedures under paragraph (3).
 
-    “(4) the poor condition of the project cannot be remedied in a cost effective manner, as determined by the participating administrative entity.
+>             “(B) __Exception rents.—__ 
 
-    The term ‘owner’ as used in this subsection, in addition to it having the same meaning as in section 8(f) of the United States Housing Act of 1937, also means an affiliate of the owner. The term ‘purchaser’ as used in this subsection means any private person or entity, including a cooperative, an agency of the Federal Government, or a public housing agency, that, upon purchase of the project, would have the legal right to lease or sublease dwelling units in the project, and also means an affiliate of the purchaser. The terms ‘affiliate of the owner’ and ‘affiliate of the purchaser’ means any person or entity (including, but not limited to, a general partner or managing member, or an officer of either) that controls an owner or purchaser, is controlled by an owner or purchaser, or is under common control with the owner or purchaser. The term ‘control’ means the direct or indirect power (under contract, equity ownership, the right to vote or determine a vote, or otherwise) to direct the financial, legal, beneficial or other interests of the owner or purchaser.
+>             In any fiscal year, a participating administrative entity may approve exception rents on not more than 20 percent of all units covered by the portfolio restructuring agreement with expiring contracts in that fiscal year, except that the Secretary may waive this ceiling upon a finding of special need.
 
-    “(b) Opportunity To Dispute Findings.—
+>         “(3) __Rent levels for exception projects.—__ 
 
-    “(1) In general.—During the 30-day period beginning on the date on which the owner or purchaser of an eligible multifamily housing project receives notice of a rejection under subsection (a) or of a mortgage restructuring and rental assistance sufficiency plan under section 514, the Secretary or participating administrative entity shall provide that owner or purchaser with an opportunity to dispute the basis for the rejection and an opportunity to cure.
+>         For purposes of this section, a project eligible for an exception rent shall receive a rent calculated on the actual and projected costs of operating the project, at a level that provides income sufficient to support a budget-based rent that consists of—
 
-    “(2) Affirmation, modification, or reversal.—
+>             “(A) the debt service of the project;
 
-    “(A) In general.—After providing an opportunity to dispute under paragraph (1), the Secretary or the participating administrative entity may affirm, modify, or reverse any rejection under subsection (a) or rejection of a mortgage restructuring and rental assistance sufficiency plan under section 514.
+>             “(B)
 
-    “(B) Reasons for decision.—The Secretary or the participating administrative entity, as applicable, shall identify the reasons for any final decision under this paragraph.
+>              the operating expenses of the project, as determined by the participating administrative entity, including—
 
-    “(C) Review process.—The Secretary shall establish an administrative review process to appeal any final decision under this paragraph.
+>                 “(i) contributions to adequate reserves;
 
-    “(c) Final Determination.—Any final determination under this section shall not be subject to judicial review.
+>                 “(ii) the costs of maintenance and necessary rehabilitation; and
 
-    “(d) Displaced Tenants.—
+>                 “(iii) other eligible costs permitted under section 8 of the United States Housing Act of 1937;
 
-    “(1) Notice to certain residents.—The Office shall notify any tenant that is residing in a project or receiving assistance under section 8 of the United States Housing Act of 1937 ([42 U.S.C. 1437f][/us/usc/t42/s1437f]) at the time of rejection under this section, of such rejection, except that the Office may delegate the responsibility to provide notice under this paragraph to the participating administrative entity.
+>             “(C) an adequate allowance for potential operating losses due to vacancies and failure to collect rents, as determined by the participating administrative entity;
 
-    “(2) Assistance and moving expenses.—Subject to the availability of amounts provided in advance in appropriations Acts, for any low-income tenant that is residing in a project or receiving assistance under section 8 of the United States Housing Act of 1937 at the time of rejection under this section, that tenant shall be provided with tenant-based assistance and reasonable moving expenses, as determined by the Secretary.
+>             “(D) an allowance for a reasonable rate of return to the owner or purchaser of the project, as determined by the participating administrative entity, which may be established to provide incentives for owners or purchasers to meet benchmarks of quality for management and housing quality; and
 
-    “(e) Transfer of Property.—For properties disqualified from the consideration of a mortgage restructuring and rental assistance sufficiency plan under this section in accordance with paragraph (1) or (2) of subsection (a) because of actions by an owner or purchaser, the Secretary shall establish procedures to facilitate the voluntary sale or transfer of a property as part of a mortgage restructuring and rental assistance sufficiency plan, with a preference for tenant organizations and tenant-endorsed community-based nonprofit and public agency purchasers meeting such reasonable qualifications as may be established by the Secretary.
+>             “(E) other expenses determined by the participating administrative entity to be necessary for the operation of the project.
 
-    “SEC. 517. RESTRUCTURING TOOLS.
+>     “(h) __Exemptions From Restructuring.—__ 
 
-    “(a) Mortgage Restructuring.—
+>     The following categories of projects shall not be covered by a mortgage restructuring and rental assistance sufficiency plan if—
 
-    “(1) In this subtitle, an approved mortgage restructuring and rental assistance sufficiency plan shall include restructuring mortgages in accordance with this subsection to provide—
+>         “(1) the primary financing or mortgage insurance for the multifamily housing project that is covered by that expiring contract was provided by a unit of State government or a unit of general local government (or an agency or instrumentality of a unit of a State government or unit of general local government) and the financing involves mortgage insurance under the National Housing Act \[[42 U.S.C. 1701][/us/usc/t42/s1701] et seq.\], such that the implementation of a mortgage restructuring and rental assistance sufficiency plan under this subtitle is in conflict with applicable law or agreements governing such financing;
 
-    “(A) a restructured or new first mortgage that is sustainable at rents at levels that are established in section 514(g); and
+>         “(2) the project is a project financed under section 202 of the Housing Act of 1959 \[[12 U.S.C. 1701q][/us/usc/t12/s1701q]\] or section 515 of the Housing Act of 1949 \[[42 U.S.C. 1485][/us/usc/t42/s1485]\], or refinanced pursuant to section 811 of the American Homeownership and Economic Opportunity Act of 2000 ([12 U.S.C. 1701q][/us/usc/t12/s1701q] note); or
 
-    “(B) a second mortgage that is in an amount equal to not more than the greater of—
+>         “(3) the project has an expiring contract under section 8 of the United States Housing Act of 1937 entered into pursuant to \[former\] section 441 of the McKinney-Vento Homeless Assistance Act \[[42 U.S.C. 11401][/us/usc/t42/s11401]\].
 
-    “(i) the full or partial payment of claim made under this subtitle; or
+> “SEC. 515. __SECTION 8 RENEWALS AND LONG-TERM AFFORDABILITY COMMITMENT BY OWNER OF PROJECT.__ 
 
-    “(ii) the difference between the restructured or new first mortgage and the indebtedness under the existing insured mortgage immediately before it is restructured or refinanced, provided that the amount of the second mortgage shall be in an amount that the Secretary or participating administrative entity determines can reasonably be expected to be repaid.
+>     “(a) __Section 8 Renewals of Restructured Projects.—__ 
 
-    “(2) The second mortgage shall bear interest at a rate not to exceed the applicable Federal rate as defined in section 1274(d) of the Internal Revenue Code of 1986 \[[26 U.S.C. 1274(d)][/us/usc/t26/s1274/d]\]. The term of the second mortgage shall be equal to the term of the restructured or new first mortgage.
+>         “(1) __Project-based assistance.—__ 
 
-    “(3) Payments on the second mortgage shall be deferred when the first mortgage remains outstanding, except to the extent there is excess project income remaining after payment of all reasonable and necessary operating expenses (including deposits in a reserve for replacement), debt service on the first mortgage, and any other expenditures approved by the Secretary. At least 75 percent of any excess project income shall be applied to payments on the second mortgage, and the Secretary or the participating administrative entity may permit up to 25 percent to be paid to the project owner if the Secretary or participating administrative entity determines that the project owner meets benchmarks for management and housing quality.
+>         Subject to the availability of amounts provided in advance in appropriations Acts, and to the control of the Secretary of applicable accounts in the Treasury of the United States, with respect to an expiring section 8 contract on an eligible multifamily housing project to be renewed with project-based assistance (based on a determination under subsection (c)), the Secretary shall enter into contracts with participating administrative entities pursuant to which the participating administrative entity shall offer to renew or extend the contract, or the Secretary shall offer to renew such contract, and the owner of the project shall accept the offer, if the initial renewal is in accordance with the terms and conditions specified in the mortgage restructuring and rental assistance sufficiency plan and the rental assistance assessment plan.
 
-    “(4) The full amount of the second mortgage shall be immediately due and payable if—
+>         “(2) __Tenant-based assistance.—__ 
 
-    “(A) the first mortgage is terminated or paid in full, except as otherwise provided by the holder of the second mortgage;
+>         Subject to the availability of amounts provided in advance in appropriations Acts and to the control of the Secretary of applicable accounts in the Treasury of the United States, with respect to an expiring section 8 contract on an eligible multifamily housing project to be renewed with tenant-based assistance (based on a determination under subsection (c)), the Secretary shall enter into contracts with participating administrative entities pursuant to which the participating administrative entity shall provide for the renewal of section 8 assistance on an eligible multifamily housing project with tenant-based assistance, or the Secretary shall provide for such renewal, in accordance with the terms and conditions specified in the mortgage restructuring and rental assistance sufficiency plan and the rental assistance assessment plan.
 
-    “(B) the project is purchased and the second mortgage is assumed by any subsequent purchaser in violation of guidelines established by the Secretary; or
+>     “(b) __Required Commitment.—__ 
 
-    “(C) the Secretary provides notice to the project owner that such owner has failed to materially comply with any requirements of this section or the United States Housing Act of 1937 \[[42 U.S.C. 1437][/us/usc/t42/s1437] et seq.\] as those requirements apply to the project, with a reasonable opportunity for such owner to cure such failure.
+>     After the initial renewal of a section 8 contract pursuant to this section, the owner shall accept each offer made pursuant to subsection (a) to renew the contract, for the term of the affordability and use restrictions required by section 514(e)(6), if the offer to renew is on terms and conditions specified in the mortgage restructuring and rental assistance sufficiency plan.
 
-    “(5) The Secretary may modify the terms of the second mortgage, assign the second mortgage to the acquiring organization or agency, or forgive all or part of the second mortgage if the Secretary holds the second mortgage and if the project is acquired by a tenant organization or tenant-endorsed community-based nonprofit or public agency, pursuant to guidelines established by the Secretary.
+>     “(c) __Determination of Whether To Renew With Project-Based or Tenant-Based Assistance.—__ 
 
-    “(6) The second mortgage under this section may be a first mortgage if no restructured or new first mortgage will meet the requirement of paragraph (1)(A).
+>         “(1) __Mandatory renewal of project-based assistance.—__ 
 
-“(b) Restructuring Tools.—In addition to the requirements of subsection (a) and to the extent these actions are consistent with this section and with the control of the Secretary of applicable accounts in the Treasury of the United States, an approved mortgage restructuring and rental assistance sufficiency plan under this subtitle may include one or more of the following actions:
+>         Section 8 assistance shall be renewed with project-based assistance, if—
 
->     “(1) __Full or partial payment of claim.—__ 
+>             “(A) the project is located in an area in which the participating administrative entity determines, based on housing market indicators, such as low vacancy rates or high absorption rates, that there is not adequate available and affordable housing or that the tenants of the project would not be able to locate suitable units or use the tenant-based assistance successfully;
 
->     Making a full payment of claim or partial payment of claim under section 541(b) of the National Housing Act \[[12 U.S.C. 1735f–19(b)][/us/usc/t12/s1735f–19/b]\], as amended by section 523(b) of this Act. Any payment under this paragraph shall not require the approval of a mortgagee.
+>             “(B) a predominant number of the units in the project are occupied by elderly families, disabled families, or elderly and disabled families; or
 
->     “(2) __Refinancing of debt.—__ 
+>             “(C) the project is held by a nonprofit cooperative ownership housing corporation or nonprofit cooperative housing trust.
 
->     Refinancing of all or part of the debt on a project. If the refinancing involves a mortgage that will continue to be insured under the National Housing Act \[[12 U.S.C. 1701][/us/usc/t12/s1701] et seq.\], the refinancing shall be documented through amendment of the existing insurance contract and not through a new insurance contract.
+>         “(2) __Rental assistance assessment plan.—__ 
 
->     “(3) __Mortgage insurance.—__ 
+>             “(A) __In general.—__ 
 
->     Providing FHA multifamily mortgage insurance, reinsurance or other credit enhancement alternatives, including multifamily risk-sharing mortgage programs, as provided under section 542 of the Housing and Community Development Act of 1992 \[[Pub. L. 102–550][/us/pl/102/550], [12 U.S.C. 1707][/us/usc/t12/s1707] note\]. The Secretary shall use risk-shared financing under section 542(c) of the Housing and Community Development Act of 1992 for any mortgage restructuring, rehabilitation financing, or debt refinancing included as part of a mortgage restructuring and rental assistance sufficiency plan if the terms and conditions are considered to be the best available financing in terms of financial savings to the FHA insurance funds and will result in reduced risk of loss to the Federal Government. Any limitations on the number of units available for mortgage insurance under section 542 shall not apply to eligible multifamily housing projects. Any credit subsidy costs of providing mortgage insurance shall be paid from the Liquidating Accounts of the General Insurance Fund or the Special Risk Insurance Fund and shall not be subject to any limitation on appropriations.
+>             With respect to any project that is not described in paragraph (1), the participating administrative entity shall, after consultation with the owner of the project, develop a rental assistance assessment plan to determine whether to renew assistance for the project with tenant-based assistance or project-based assistance.
 
->     “(4) __Credit enhancement.—__ 
+>             “(B) __Rental assistance assessment plan requirements.—__ 
 
->     Providing any additional State or local mortgage credit enhancements and risk-sharing arrangements that may be established with State or local housing finance agencies, the Federal Housing Finance Agency, the Federal National Mortgage Association, and the Federal Home Loan Mortgage Corporation, to a modified or refinanced first mortgage.
+>             Each rental assistance assessment plan developed under this paragraph shall include an assessment of the impact of converting to tenant-based assistance and the impact of extending project-based assistance on—
 
->     “(5) __Compensation of third parties.—__ 
+>                 “(i) the ability of the tenants to find adequate, available, decent, comparable, and affordable housing in the local market;
 
->     Consistent with the portfolio restructuring agreement, entering into agreements, incurring costs, or making payments, including incentive agreements designed to reward superior performance in meeting the purposes of this Act, as may be reasonably necessary, to compensate the participation of participating administrative entities and other parties in undertaking actions authorized by this subtitle. Upon request to the Secretary, participating administrative entities that are qualified under the United States Housing Act of 1937 to serve as contract administrators shall be the contract administrators under section 8 of the United States Housing Act of 1937 \[[12 U.S.C. 1437f][/us/usc/t12/s1437f]\] for purposes of any contracts entered into as part of an approved mortgage restructuring and rental assistance sufficiency plan. Subject to the availability of amounts provided in advance in appropriations Acts for administrative fees under section 8 of the United States Housing Act of 1937, such amounts may be used to compensate participating administrative entities for compliance monitoring costs incurred under section 519.
+>                 “(ii) the types of tenants residing in the project (such as elderly families, disabled families, large families, and cooperative homeowners);
 
->     “(6) __Use of project accounts.—__ 
+>                 “(iii) the local housing needs identified in the comprehensive housing affordability strategy, and local market vacancy trends;
 
->     Applying any residual receipts, replacement reserves, and any other project accounts not required for project operations, to maintain the long-term affordability and physical condition of the property or of other eligible multifamily housing projects. The participating administrative entity may expedite the acquisition of residual receipts, replacement reserves, or other such accounts, by entering into agreements with owners of housing covered by an expiring contract to provide an owner with a share of the receipts, not to exceed 10 percent, in accordance with guidelines established by the Secretary.
+>                 “(iv) the cost of providing assistance, comparing the applicable payment standard to the project’s adjusted rent levels determined under section 514(g);
+
+>                 “(v) the long-term financial stability of the project;
+
+>                 “(vi) the ability of residents to make reasonable choices about their individual living situations;
+
+>                 “(vii) the quality of the neighborhood in which the tenants would reside; and
+
+>                 “(viii) the project’s ability to compete in the marketplace.
+
+>             “(C) __Reports to director.—__ 
+
+>             Each participating administrative entity shall report regularly to the Director as defined in subtitle D, as the Director shall require, identifying—
+
+>                 “(i) each eligible multifamily housing project for which the entity has developed a rental assistance assessment plan under this paragraph that determined that the tenants of the project generally supported renewal of assistance with tenant-based assistance, but under which assistance for the project was renewed with project-based assistance; and
+
+>                 “(ii) each project for which the entity has developed such a plan under which the assistance is renewed using tenant-based assistance.
+
+>         “(3) __Eligibility for tenant-based assistance.—__ 
+
+>         Subject to paragraph (4), with respect to any project that is not described in paragraph (1), if a participating administrative entity approves the use of tenant-based assistance based on a rental assistance assessment plan developed under paragraph (2), tenant-based assistance shall be provided to each assisted family (other than a family already receiving tenant-based assistance) residing in the project at the time the assistance described in section 512(2)(B) terminates.
+
+>         “(4) __Assistance through enhanced vouchers.—__ 
+
+>         In the case of any family described in paragraph (3) that resides in a project described in section 512(2)(B), the tenant-based assistance provided shall be enhanced voucher assistance under section 8(t) of the United States Housing Act of 1937 ([42 U.S.C. 1437f(t)][/us/usc/t42/s1437f/t]).
+
+>         “(5) __Inapplicability of certain provision.—__ 
+
+>         If a participating administrative entity approves renewal with project-based assistance under this subsection, section 8(d)(2) of the United States Housing Act of 1937 shall not apply.
+
+> “SEC. 516. __PROHIBITION ON RESTRUCTURING.__ 
+
+>     “(a) __Prohibition on Restructuring.—__ 
+
+>     The Secretary may elect not to consider any mortgage restructuring and rental assistance sufficiency plan or request for contract renewal if the Secretary or the participating administrative entity determines that—
+
+>         “(1)
+
+>             (A) the owner or purchaser of the project has engaged in material adverse financial or managerial actions or omissions with regard to such project; or
+
+>             “(B) the owner or purchaser of the project has engaged in material adverse financial or managerial actions or omissions with regard to other projects of such owner or purchaser that are federally assisted or financed with a loan from, or mortgage insured or guaranteed by, an agency of the Federal Government;
+
+>         “(2)
+
+>          material adverse financial or managerial actions or omissions include—
+
+>             “(A) materially violating any Federal, State, or local law or regulation with regard to this project or any other federally assisted project, after receipt of notice and an opportunity to cure;
+
+>             “(B) materially breaching a contract for assistance under section 8 of the United States Housing Act of 1937 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f]\], after receipt of notice and an opportunity to cure;
+
+>             “(C) materially violating any applicable regulatory or other agreement with the Secretary or a participating administrative entity, after receipt of notice and an opportunity to cure;
+
+>             “(D) repeatedly and materially violating any Federal, State, or local law or regulation with regard to the project or any other federally assisted project;
+
+>             “(E) repeatedly and materially breaching a contract for assistance under section 8 of the United States Housing Act of 1937;
+
+>             “(F) repeatedly and materially violating any applicable regulatory or other agreement with the Secretary or a participating administrative entity;
+
+>             “(G) repeatedly failing to make mortgage payments at times when project income was sufficient to maintain and operate the property;
+
+>             “(H) materially failing to maintain the property according to housing quality standards after receipt of notice and a reasonable opportunity to cure; or
+
+>             “(I) committing any actions or omissions that would warrant suspension or debarment by the Secretary;
+
+>         “(3) the owner or purchaser of the property materially failed to follow the procedures and requirements of this subtitle, after receipt of notice and an opportunity to cure; or
+
+>         “(4) the poor condition of the project cannot be remedied in a cost effective manner, as determined by the participating administrative entity.
+
+>         The term ‘owner’ as used in this subsection, in addition to it having the same meaning as in section 8(f) of the United States Housing Act of 1937, also means an affiliate of the owner. The term ‘purchaser’ as used in this subsection means any private person or entity, including a cooperative, an agency of the Federal Government, or a public housing agency, that, upon purchase of the project, would have the legal right to lease or sublease dwelling units in the project, and also means an affiliate of the purchaser. The terms ‘affiliate of the owner’ and ‘affiliate of the purchaser’ means any person or entity (including, but not limited to, a general partner or managing member, or an officer of either) that controls an owner or purchaser, is controlled by an owner or purchaser, or is under common control with the owner or purchaser. The term ‘control’ means the direct or indirect power (under contract, equity ownership, the right to vote or determine a vote, or otherwise) to direct the financial, legal, beneficial or other interests of the owner or purchaser.
+
+>     “(b) __Opportunity To Dispute Findings.—__ 
+
+>         “(1) __In general.—__ 
+
+>         During the 30-day period beginning on the date on which the owner or purchaser of an eligible multifamily housing project receives notice of a rejection under subsection (a) or of a mortgage restructuring and rental assistance sufficiency plan under section 514, the Secretary or participating administrative entity shall provide that owner or purchaser with an opportunity to dispute the basis for the rejection and an opportunity to cure.
+
+>         “(2) __Affirmation, modification, or reversal.—__ 
+
+>             “(A) __In general.—__ 
+
+>             After providing an opportunity to dispute under paragraph (1), the Secretary or the participating administrative entity may affirm, modify, or reverse any rejection under subsection (a) or rejection of a mortgage restructuring and rental assistance sufficiency plan under section 514.
+
+>             “(B) __Reasons for decision.—__ 
+
+>             The Secretary or the participating administrative entity, as applicable, shall identify the reasons for any final decision under this paragraph.
+
+>             “(C) __Review process.—__ 
+
+>             The Secretary shall establish an administrative review process to appeal any final decision under this paragraph.
+
+>     “(c) __Final Determination.—__ 
+
+>     Any final determination under this section shall not be subject to judicial review.
+
+>     “(d) __Displaced Tenants.—__ 
+
+>         “(1) __Notice to certain residents.—__ 
+
+>         The Office shall notify any tenant that is residing in a project or receiving assistance under section 8 of the United States Housing Act of 1937 ([42 U.S.C. 1437f][/us/usc/t42/s1437f]) at the time of rejection under this section, of such rejection, except that the Office may delegate the responsibility to provide notice under this paragraph to the participating administrative entity.
+
+>         “(2) __Assistance and moving expenses.—__ 
+
+>         Subject to the availability of amounts provided in advance in appropriations Acts, for any low-income tenant that is residing in a project or receiving assistance under section 8 of the United States Housing Act of 1937 at the time of rejection under this section, that tenant shall be provided with tenant-based assistance and reasonable moving expenses, as determined by the Secretary.
+
+>     “(e) __Transfer of Property.—__ 
+
+>     For properties disqualified from the consideration of a mortgage restructuring and rental assistance sufficiency plan under this section in accordance with paragraph (1) or (2) of subsection (a) because of actions by an owner or purchaser, the Secretary shall establish procedures to facilitate the voluntary sale or transfer of a property as part of a mortgage restructuring and rental assistance sufficiency plan, with a preference for tenant organizations and tenant-endorsed community-based nonprofit and public agency purchasers meeting such reasonable qualifications as may be established by the Secretary.
+
+> “SEC. 517. __RESTRUCTURING TOOLS.__ 
+
+>     “(a) __Mortgage Restructuring.—__ 
+
+>         “(1)
+
+>          In this subtitle, an approved mortgage restructuring and rental assistance sufficiency plan shall include restructuring mortgages in accordance with this subsection to provide—
+
+>             “(A) a restructured or new first mortgage that is sustainable at rents at levels that are established in section 514(g); and
+
+>             “(B)
+
+>              a second mortgage that is in an amount equal to not more than the greater of—
+
+>                 “(i) the full or partial payment of claim made under this subtitle; or
+
+>                 “(ii) the difference between the restructured or new first mortgage and the indebtedness under the existing insured mortgage immediately before it is restructured or refinanced, provided that the amount of the second mortgage shall be in an amount that the Secretary or participating administrative entity determines can reasonably be expected to be repaid.
+
+>         “(2) The second mortgage shall bear interest at a rate not to exceed the applicable Federal rate as defined in section 1274(d) of the Internal Revenue Code of 1986 \[[26 U.S.C. 1274(d)][/us/usc/t26/s1274/d]\]. The term of the second mortgage shall be equal to the term of the restructured or new first mortgage.
+
+>         “(3) Payments on the second mortgage shall be deferred when the first mortgage remains outstanding, except to the extent there is excess project income remaining after payment of all reasonable and necessary operating expenses (including deposits in a reserve for replacement), debt service on the first mortgage, and any other expenditures approved by the Secretary. At least 75 percent of any excess project income shall be applied to payments on the second mortgage, and the Secretary or the participating administrative entity may permit up to 25 percent to be paid to the project owner if the Secretary or participating administrative entity determines that the project owner meets benchmarks for management and housing quality.
+
+>         “(4)
+
+>          The full amount of the second mortgage shall be immediately due and payable if—
+
+>             “(A) the first mortgage is terminated or paid in full, except as otherwise provided by the holder of the second mortgage;
+
+>             “(B) the project is purchased and the second mortgage is assumed by any subsequent purchaser in violation of guidelines established by the Secretary; or
+
+>             “(C) the Secretary provides notice to the project owner that such owner has failed to materially comply with any requirements of this section or the United States Housing Act of 1937 \[[42 U.S.C. 1437][/us/usc/t42/s1437] et seq.\] as those requirements apply to the project, with a reasonable opportunity for such owner to cure such failure.
+
+>         “(5) The Secretary may modify the terms of the second mortgage, assign the second mortgage to the acquiring organization or agency, or forgive all or part of the second mortgage if the Secretary holds the second mortgage and if the project is acquired by a tenant organization or tenant-endorsed community-based nonprofit or public agency, pursuant to guidelines established by the Secretary.
+
+>         “(6) The second mortgage under this section may be a first mortgage if no restructured or new first mortgage will meet the requirement of paragraph (1)(A).
+
+>     “(b) __Restructuring Tools.—__ 
+
+>     In addition to the requirements of subsection (a) and to the extent these actions are consistent with this section and with the control of the Secretary of applicable accounts in the Treasury of the United States, an approved mortgage restructuring and rental assistance sufficiency plan under this subtitle may include one or more of the following actions:
+
+>         “(1) __Full or partial payment of claim.—__ 
+
+>         Making a full payment of claim or partial payment of claim under section 541(b) of the National Housing Act \[[12 U.S.C. 1735f–19(b)][/us/usc/t12/s1735f–19/b]\], as amended by section 523(b) of this Act. Any payment under this paragraph shall not require the approval of a mortgagee.
+
+>         “(2) __Refinancing of debt.—__ 
+
+>         Refinancing of all or part of the debt on a project. If the refinancing involves a mortgage that will continue to be insured under the National Housing Act \[[12 U.S.C. 1701][/us/usc/t12/s1701] et seq.\], the refinancing shall be documented through amendment of the existing insurance contract and not through a new insurance contract.
+
+>         “(3) __Mortgage insurance.—__ 
+
+>         Providing FHA multifamily mortgage insurance, reinsurance or other credit enhancement alternatives, including multifamily risk-sharing mortgage programs, as provided under section 542 of the Housing and Community Development Act of 1992 \[[Pub. L. 102–550][/us/pl/102/550], [12 U.S.C. 1707][/us/usc/t12/s1707] note\]. The Secretary shall use risk-shared financing under section 542(c) of the Housing and Community Development Act of 1992 for any mortgage restructuring, rehabilitation financing, or debt refinancing included as part of a mortgage restructuring and rental assistance sufficiency plan if the terms and conditions are considered to be the best available financing in terms of financial savings to the FHA insurance funds and will result in reduced risk of loss to the Federal Government. Any limitations on the number of units available for mortgage insurance under section 542 shall not apply to eligible multifamily housing projects. Any credit subsidy costs of providing mortgage insurance shall be paid from the Liquidating Accounts of the General Insurance Fund or the Special Risk Insurance Fund and shall not be subject to any limitation on appropriations.
+
+>         “(4) __Credit enhancement.—__ 
+
+>         Providing any additional State or local mortgage credit enhancements and risk-sharing arrangements that may be established with State or local housing finance agencies, the Federal Housing Finance Agency, the Federal National Mortgage Association, and the Federal Home Loan Mortgage Corporation, to a modified or refinanced first mortgage.
+
+>         “(5) __Compensation of third parties.—__ 
+
+>         Consistent with the portfolio restructuring agreement, entering into agreements, incurring costs, or making payments, including incentive agreements designed to reward superior performance in meeting the purposes of this Act, as may be reasonably necessary, to compensate the participation of participating administrative entities and other parties in undertaking actions authorized by this subtitle. Upon request to the Secretary, participating administrative entities that are qualified under the United States Housing Act of 1937 to serve as contract administrators shall be the contract administrators under section 8 of the United States Housing Act of 1937 \[[12 U.S.C. 1437f][/us/usc/t12/s1437f]\] for purposes of any contracts entered into as part of an approved mortgage restructuring and rental assistance sufficiency plan. Subject to the availability of amounts provided in advance in appropriations Acts for administrative fees under section 8 of the United States Housing Act of 1937, such amounts may be used to compensate participating administrative entities for compliance monitoring costs incurred under section 519.
+
+>         “(6) __Use of project accounts.—__ 
+
+>         Applying any residual receipts, replacement reserves, and any other project accounts not required for project operations, to maintain the long-term affordability and physical condition of the property or of other eligible multifamily housing projects. The participating administrative entity may expedite the acquisition of residual receipts, replacement reserves, or other such accounts, by entering into agreements with owners of housing covered by an expiring contract to provide an owner with a share of the receipts, not to exceed 10 percent, in accordance with guidelines established by the Secretary.
 
 >     “(c) __Rehabilitation Needs and Addition of Significant Features.—__ 
 
@@ -2577,7 +2747,11 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 >                 “(iii) is decent, safe, and sanitary housing, as determined by the Secretary;
 
->                 “(iv) is not—         “(I) owned by a nonprofit entity;
+>                 “(iv)
+
+>                  is not—
+
+>                          “(I) owned by a nonprofit entity;
 
 >                          “(II) subject to a contract for moderate rehabilitation assistance under section 8(e)(2) of the United States Housing Act of 1937, as in effect before October 1, 1991; or
 
@@ -2689,7 +2863,11 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 >                 “(i) consists of more than four dwelling units;
 
->                 “(ii) is covered in whole or in part by a contract for project-based assistance under—         “(I) the new construction or substantial rehabilitation program under section 8(b)(2) of the United States Housing Act of 1937 (as in effect before October 1, 1983);
+>                 “(ii)
+
+>                  is covered in whole or in part by a contract for project-based assistance under—
+
+>                          “(I) the new construction or substantial rehabilitation program under section 8(b)(2) of the United States Housing Act of 1937 (as in effect before October 1, 1983);
 
 >                          “(II) the property disposition program under section 8(b) of the United States Housing Act of 1937;
 
@@ -2783,23 +2961,33 @@ Section 101(e) \[title II, § 203(d)\] of [Pub. L. 104–134][/us/pl/104/134],
 
 >         The comparable market rents for the market area, for purposes of section 524(a)(4) of this Act.
 
- __“subtitle d—office of multifamily housing assistance restructuring__ 
+> “subtitle d— __office of multifamily housing assistance restructuring__ 
 
-    “\[SECS. 571 to 578. Repealed. [Pub. L. 105–65, title V, § 579(a)(2)][/us/pl/105/65/s579/a/2], as added by [Pub. L. 107–116, title VI, § 621(1)][/us/pl/107/116/s621/1], Jan. 10, 2002, [115 Stat. 2226][/us/stat/115/2226].\]
+> “\[SECS. 571 to 578. Repealed. [Pub. L. 105–65, title V, § 579(a)(2)][/us/pl/105/65/s579/a/2], as added by [Pub. L. 107–116, title VI, § 621(1)][/us/pl/107/116/s621/1], Jan. 10, 2002, [115 Stat. 2226][/us/stat/115/2226].\]
 
-    “SEC. 579. TERMINATION.
+> “SEC. 579. __TERMINATION.__ 
 
-    “(a) Repeals.—
+>     “(a) __Repeals.—__ 
 
-    “(1) Mark-to-market program.—Subtitle A (except for section 524) is repealed effective October 1, 2015.
+>         “(1) __Mark-to-market program.—__ 
 
-    “(2) OMHAR.—Subtitle D (except for this section) is repealed effective October 1, 2004.
+>         Subtitle A (except for section 524) is repealed effective October 1, 2015.
 
-    “(b) Exception.—Notwithstanding the repeal under subsection (a), the provisions of subtitle A (as in effect immediately before such repeal) shall apply with respect to projects and programs for which binding commitments have been entered into under this Act before October 1, 2015.
+>         “(2) __OMHAR.—__ 
 
-    “(c) Termination of Director and Office.—The Office of Multifamily Housing Assistance Restructuring and the position of Director of such Office shall terminate at the end of September 30, 2004.
+>         Subtitle D (except for this section) is repealed effective October 1, 2004.
 
-    “(d) Transfer of Authority.—Effective upon the repeal of subtitle D under subsection (a)(2) of this section, all authority and responsibilities to administer the program under subtitle A are transferred to the Secretary.”
+>     “(b) __Exception.—__ 
+
+>     Notwithstanding the repeal under subsection (a), the provisions of subtitle A (as in effect immediately before such repeal) shall apply with respect to projects and programs for which binding commitments have been entered into under this Act before October 1, 2015.
+
+>     “(c) __Termination of Director and Office.—__ 
+
+>     The Office of Multifamily Housing Assistance Restructuring and the position of Director of such Office shall terminate at the end of September 30, 2004.
+
+>     “(d) __Transfer of Authority.—__ 
+
+>     Effective upon the repeal of subtitle D under subsection (a)(2) of this section, all authority and responsibilities to administer the program under subtitle A are transferred to the Secretary.”
 
 \[[Pub. L. 109–289, div. B, title II, § 21043(b)][/us/pl/109/289/s21043/b], as added by [Pub. L. 110–5, § 2][/us/pl/110/5/s2], Feb. 15, 2007, [121 Stat. 53][/us/stat/121/53], provided that: 
 

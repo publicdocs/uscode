@@ -15,7 +15,7 @@
 
 ## § 5506. Test procedures and definitive performance criteria for solar heating and combined solar heating and cooling components and systems and suitable dwellings; determination, consultation and publication in Federal Register
 
-As soon as feasible, and utilizing data available from the demonstration programs under sections 5503 and 5504 of this title, the Secretary, utilizing the services of the Director of the National Institute of Standards and Technology and in consultation with the Administrator and the Secretary of Energy shall determine, prescribe, and publish in the Federal Register in accordance with the applicable provisions regarding rulemaking prescribed by [section 553 of title 5][/us/usc/t5/s553],
+    As soon as feasible, and utilizing data available from the demonstration programs under sections 5503 and 5504 of this title, the Secretary, utilizing the services of the Director of the National Institute of Standards and Technology and in consultation with the Administrator and the Secretary of Energy shall determine, prescribe, and publish in the Federal Register in accordance with the applicable provisions regarding rulemaking prescribed by [section 553 of title 5][/us/usc/t5/s553],
 
     (1) definitive performance criteria for solar heating and combined solar heating and cooling components and systems to be used in residential dwellings, taking into account climatic variations existing between different geographic areas;
 

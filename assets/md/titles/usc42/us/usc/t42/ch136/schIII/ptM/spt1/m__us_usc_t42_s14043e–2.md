@@ -15,7 +15,7 @@
 
 ## § 14043e–2. Definitions
 
-For purposes of this subpart—
+    For purposes of this subpart—
 
     (1)
 

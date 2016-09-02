@@ -15,7 +15,7 @@
 
 ## § 12703. Purposes of Cranston-Gonzalez National Affordable Housing Act
 
-The purposes of this Act are—
+    The purposes of this Act are—
 
     (1) to help families not owning a home to save for a down payment for the purchase of a home;
 

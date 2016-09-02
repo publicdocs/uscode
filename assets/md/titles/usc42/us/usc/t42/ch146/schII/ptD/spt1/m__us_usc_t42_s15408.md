@@ -15,7 +15,7 @@
 
 ## § 15408. Reports
 
-Not later than 6 months after the end of each fiscal year for which a State received a requirements payment under this subpart, the State shall submit a report to the Commission on the activities conducted with the funds provided during the year, and shall include in the report—
+    Not later than 6 months after the end of each fiscal year for which a State received a requirements payment under this subpart, the State shall submit a report to the Commission on the activities conducted with the funds provided during the year, and shall include in the report—
 
     (1) a list of expenditures made with respect to each category of activities described in [section 15401(b) of this title][/us/usc/t42/s15401/b];
 

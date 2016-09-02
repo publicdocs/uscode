@@ -11,16 +11,42 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch87/schI/m__us_usc_t42_s7811 to 7819.md) | [Next](./../../../../..//us/usc/t42/ch87/schII/m__us_usc_t42_s7831 to 7835.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch87%2FschII)
+[Previous](./../../../../..//us/usc/t42/ch87/schI/m__us_usc_t42_ch87_schI.md) | [Next](./../../../../..//us/usc/t42/ch87/schII/m__us_usc_t42_s7836.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch87%2FschII)
 
 ### SUBCHAPTER II—WATER RESEARCH AND DEVELOPMENT FOR SALINE AND OTHER IMPAIRED WATERS
 
+§§ 7831 to 7835. __Repealed.__  __[__  __Pub. L. 98–242, title I, § 110(a)__  __][/us/pl/98/242/s110/a]__  __,__  __Mar. 22, 1984__  __,__  __[__  __98 Stat. 101__  __][/us/stat/98/101]__ 
+
+    Section 7831, [Pub. L. 95–467, title II, § 200][/us/pl/95/467/s200], Oct. 17, 1978, [92 Stat. 1310][/us/stat/92/1310], set out Congressional findings and declaration of policy in establishing a program for water research and development for saline and other impaired waters.
+
+    Section 7832, [Pub. L. 95–467, title II, § 201][/us/pl/95/467/s201], Oct. 17, 1978, [92 Stat. 1310][/us/stat/92/1310], set out functions of the Secretary.
+
+    Section 7833, [Pub. L. 95–467, title II, § 202][/us/pl/95/467/s202], Oct. 17, 1978, [92 Stat. 1310][/us/stat/92/1310], set out additional functions of the Secretary with regard to demonstrations and prototype plants, utilization of Federal expertise, and financial assistance from State or public agencies.
+
+    Section 7834, [Pub. L. 95–467, title II, § 203][/us/pl/95/467/s203], Oct. 17, 1978, [92 Stat. 1311][/us/stat/92/1311], authorized the Secretary to issue rules and regulations to carry out this subchapter.
+
+    Section 7835, [Pub. L. 95–467, title II, § 204][/us/pl/95/467/s204], Oct. 17, 1978, [92 Stat. 1311][/us/stat/92/1311], defined “saline and other impaired water”, “United States”, “pilot plant”, “demonstration”, and “prototype”.
+
+    For similar provisions, see section 10301 et seq. of this title.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch87/schI/m__us_usc_t42_s7811 to 7819.md) | [Next](./../../../../..//us/usc/t42/ch87/schII/m__us_usc_t42_s7831 to 7835.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch87%2FschII)
+[Previous](./../../../../..//us/usc/t42/ch87/schI/m__us_usc_t42_ch87_schI.md) | [Next](./../../../../..//us/usc/t42/ch87/schII/m__us_usc_t42_s7836.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch87%2FschII)
 
 ----------
 ----------
 
+[/us/pl/98/242/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F242%2Fs110%2Fa
+[/us/stat/98/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F101
+[/us/pl/95/467/s200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F467%2Fs200
+[/us/stat/92/1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1310
+[/us/pl/95/467/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F467%2Fs201
+[/us/stat/92/1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1310
+[/us/pl/95/467/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F467%2Fs202
+[/us/stat/92/1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1310
+[/us/pl/95/467/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F467%2Fs203
+[/us/stat/92/1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1311
+[/us/pl/95/467/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F467%2Fs204
+[/us/stat/92/1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1311
 
 

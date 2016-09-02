@@ -143,9 +143,15 @@ SUBCHAPTER II—MISCELLANEOUS PROVISIONS  </td>
 
   </tr>
 
-</table>
+  <tr>
 
- __Repeals__ 
+    <td> 
+
+Repeals  </td>
+
+  </tr>
+
+</table>
 
     [Act June 30, 1953, ch. 176, § 6][/us/act/1953-06-30/ch176/s6], [67 Stat. 135][/us/stat/67/135], repealed section 1(a)(13) of Joint Res. [July 3, 1952, ch. 570][/us/act/1952-07-03/ch570], [66 Stat. 332][/us/stat/66/332], which, as amended by Joint Res. [Mar. 31, 1953, ch. 13, § 1][/us/act/1953-03-31/ch13/s1], [67 Stat. 18][/us/stat/67/18], provided for the continuation of this chapter until July 1, 1953.
 

@@ -15,7 +15,7 @@
 
 ## § 8285a. Definitions
 
-For the purposes of this subchapter—
+    For the purposes of this subchapter—
 
     (1) the term “Governor” means the chief executive officer of each State, including the Mayor of the District of Columbia;
 

@@ -15,7 +15,7 @@
 
 ## § 14193. Purposes
 
-The purposes of the Commission are as follows:
+    The purposes of the Commission are as follows:
 
     (1) To develop a comprehensive proposal for preventing and controlling crime and violence in the United States, including cost estimates for implementing any recommendations made by the Commission.
 

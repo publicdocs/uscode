@@ -15,7 +15,7 @@
 
 ## § 3030n. Distribution to area agencies on aging
 
-The State agency shall give priority, in carrying out this part, to areas of the State—
+    The State agency shall give priority, in carrying out this part, to areas of the State—
 
     (1) which are medically underserved; and
 

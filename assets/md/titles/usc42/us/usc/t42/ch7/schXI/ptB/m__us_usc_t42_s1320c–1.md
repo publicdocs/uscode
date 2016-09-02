@@ -15,7 +15,7 @@
 
 ## § 1320c–1. Definition of quality improvement organization
 
-The term “quality improvement organization” means an entity which—
+    The term “quality improvement organization” means an entity which—
 
     (1) is able, as determined by the Secretary, to perform its functions under this part in a manner consistent with the efficient and effective administration of this part and subchapter XVIII;
 

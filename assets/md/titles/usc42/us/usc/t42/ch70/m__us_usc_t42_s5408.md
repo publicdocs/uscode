@@ -15,7 +15,7 @@
 
 ## § 5408. Cooperation by Secretary with public and private agencies
 
-The Secretary is authorized to advise, assist, and cooperate with other Federal agencies and with State and other interested public and private agencies, in the planning and development of—
+    The Secretary is authorized to advise, assist, and cooperate with other Federal agencies and with State and other interested public and private agencies, in the planning and development of—
 
     (1) manufactured home construction and safety standards; and
 

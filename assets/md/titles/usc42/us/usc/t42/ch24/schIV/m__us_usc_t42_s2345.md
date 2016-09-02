@@ -15,7 +15,7 @@
 
 ## § 2345. Deeds; form and provisions
 
-Deeds executed in connection with the disposal of property pursuant to the provisions of this chapter—
+    Deeds executed in connection with the disposal of property pursuant to the provisions of this chapter—
 
     (a) shall be as simple as the Commission shall find to be appropriate, and may contain such warranties or covenants of title and other provisions (including any indemnity) as the Commission may deem appropriate;
 

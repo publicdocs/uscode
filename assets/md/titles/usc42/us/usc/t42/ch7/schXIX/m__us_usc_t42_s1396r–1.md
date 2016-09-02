@@ -117,7 +117,7 @@
 
  __Amendment of Subsection (e)__ 
 
-[Pub. L. 111–148, title II, § 2004(b)][/us/pl/111/148/s2004/b], (d), title X, § 10201(a)(3), Mar. 23, 2010, [124 Stat. 283][/us/stat/124/283], 918, provided that, effective Jan. 1, 2014, subsection (e) of this section is amended by inserting “, clause (i)(IX),” after “clause (i)(VIII)”. See 2010 Amendment note below.
+    [Pub. L. 111–148, title II, § 2004(b)][/us/pl/111/148/s2004/b], (d), title X, § 10201(a)(3), Mar. 23, 2010, [124 Stat. 283][/us/stat/124/283], 918, provided that, effective Jan. 1, 2014, subsection (e) of this section is amended by inserting “, clause (i)(IX),” after “clause (i)(VIII)”. See 2010 Amendment note below.
 
  __References in Text__ 
 

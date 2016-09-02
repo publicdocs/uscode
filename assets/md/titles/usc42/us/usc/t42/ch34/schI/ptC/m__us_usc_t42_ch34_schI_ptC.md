@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch34/schI/ptB/m__us_usc_t42_s2737 to 2749.md) | [Next](./../../../../../..//us/usc/t42/ch34/schI/ptC/m__us_usc_t42_s2751.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch34%2FschI%2FptC)
+[Previous](./../../../../../..//us/usc/t42/ch34/schI/ptB/m__us_usc_t42_s2731.md) | [Next](./../../../../../..//us/usc/t42/ch34/schI/ptC/m__us_usc_t42_s2751.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch34%2FschI%2FptC)
 
 #### Part C—Federal Work-Study Programs
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch34/schI/ptB/m__us_usc_t42_s2737 to 2749.md) | [Next](./../../../../../..//us/usc/t42/ch34/schI/ptC/m__us_usc_t42_s2751.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch34%2FschI%2FptC)
+[Previous](./../../../../../..//us/usc/t42/ch34/schI/ptB/m__us_usc_t42_s2731.md) | [Next](./../../../../../..//us/usc/t42/ch34/schI/ptC/m__us_usc_t42_s2751.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch34%2FschI%2FptC)
 
 ----------
 ----------

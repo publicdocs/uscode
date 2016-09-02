@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch27/m__us_usc_t42_s2491 to 2494.md) | [Next](./../../../..//us/usc/t42/ch28/m__us_usc_t42_ch28.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2495)
+[Previous](./../../../..//us/usc/t42/ch27/m__us_usc_t42_ch27.md) | [Next](./../../../..//us/usc/t42/ch28/m__us_usc_t42_ch28.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2495)
 
 ## § 2495. National Advisory Committee on Education of the Deaf
 
@@ -59,7 +59,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch27/m__us_usc_t42_s2491 to 2494.md) | [Next](./../../../..//us/usc/t42/ch28/m__us_usc_t42_ch28.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2495)
+[Previous](./../../../..//us/usc/t42/ch27/m__us_usc_t42_ch27.md) | [Next](./../../../..//us/usc/t42/ch28/m__us_usc_t42_ch28.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2495)
 
 ----------
 ----------

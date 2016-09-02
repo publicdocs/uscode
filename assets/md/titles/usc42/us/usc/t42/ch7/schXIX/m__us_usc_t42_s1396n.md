@@ -449,9 +449,13 @@
 
                     The term “self-directed” means, with respect to the home and community-based services offered under the State plan amendment, such services for the individual which are planned and purchased under the direction and control of such individual or the individual’s authorized representative, including the amount, duration, scope, provider, and location of such services, under the State plan consistent with the following requirements:
 
-                        (aa) Assessment    There is an assessment of the needs, capabilities, and preferences of the individual with respect to such services.
+                        (aa) __Assessment__ 
 
-                        (bb) Service plan    Based on such assessment, there is developed jointly with such individual or the individual’s authorized representative a plan for such services for such individual that is approved by the State and that satisfies the requirements of subclause (III).
+                            There is an assessment of the needs, capabilities, and preferences of the individual with respect to such services.
+
+                        (bb) __Service plan__ 
+
+                            Based on such assessment, there is developed jointly with such individual or the individual’s authorized representative a plan for such services for such individual that is approved by the State and that satisfies the requirements of subclause (III).
 
                     (III) __Plan requirements__ 
 

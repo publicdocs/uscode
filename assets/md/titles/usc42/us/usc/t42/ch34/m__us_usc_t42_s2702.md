@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch34/m__us_usc_t42_s2701.md) | [Next](./../../../..//us/usc/t42/ch34/m__us_usc_t42_s2702a, 2702b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2702)
+[Previous](./../../../..//us/usc/t42/ch34/m__us_usc_t42_s2701.md) | [Next](./../../../..//us/usc/t42/ch34/m__us_usc_t42_s2703.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2702)
 
 ## § 2702. Omitted
 
@@ -35,9 +35,19 @@
 
     [Pub. L. 90–222, title II][/us/pl/90/222], Dec. 23, 1967, [81 Stat. 727][/us/stat/81/727], authorized the Comptroller General of the United States to make an investigation in sufficient depth of programs and activities financed in whole or in part by funds authorized under this section in order to determine the efficiency of the administration of such programs and activities by the Office of Economic Opportunity and by local public and private agencies carrying out such programs and activities, and the extent to which such programs and activities achieve the objectives set forth in the relevant part or title of this chapter which authorizes such programs or activities, and to transmit his final report to the Congress not later than Dec. 1, 1968 containing a detailed statement of his findings and conclusions together with such recommendations, including recommendations for additional legislation as he deemed advisable.
 
+§§ 2702a, 2702b. __Omitted__ 
+
+ __Codification__ 
+
+    Section 2702a, [Pub. L. 91–177, title I, § 102][/us/pl/91/177/s102], Dec. 30, 1969, [83 Stat. 827][/us/stat/83/827], authorized appropriations for fiscal years 1970 and 1971.
+
+    Section 2702b, which was based on section 3(a), (b)(1), (3), (c), (d)(1), (2), (e) of [Pub. L. 92–424][/us/pl/92/424], Sept. 19, 1972, [86 Stat. 688][/us/stat/86/688], 689, authorized appropriations for fiscal years 1973 and 1974.
+
+    Subsection (b)(2) of section 2702b, was based on [section 3(b)(2) of Pub. L. 92–424][/us/pl/92/424/s3/b/2], and related to functions of Secretary of Health, Education, and Welfare with respect to status of handicapped children in Headstart program. See [section 9835(d) of this title][/us/usc/t42/s9835/d].
+
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch34/m__us_usc_t42_s2701.md) | [Next](./../../../..//us/usc/t42/ch34/m__us_usc_t42_s2702a, 2702b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2702)
+[Previous](./../../../..//us/usc/t42/ch34/m__us_usc_t42_s2701.md) | [Next](./../../../..//us/usc/t42/ch34/m__us_usc_t42_s2703.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2702)
 
 ----------
 ----------
@@ -54,5 +64,11 @@
 [/us/stat/84/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F46
 [/us/pl/90/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F222
 [/us/stat/81/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F727
+[/us/pl/91/177/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F177%2Fs102
+[/us/stat/83/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F827
+[/us/pl/92/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F424
+[/us/stat/86/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F688
+[/us/pl/92/424/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F424%2Fs3%2Fb%2F2
+[/us/usc/t42/s9835/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9835%2Fd
 
 

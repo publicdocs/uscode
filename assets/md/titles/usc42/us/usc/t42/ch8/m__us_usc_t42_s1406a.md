@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch8/m__us_usc_t42_s1405, 1406.md) | [Next](./../../../..//us/usc/t42/ch8/m__us_usc_t42_s1406b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1406a)
+[Previous](./../../../..//us/usc/t42/ch8/m__us_usc_t42_s1404a.md) | [Next](./../../../..//us/usc/t42/ch8/m__us_usc_t42_s1406b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1406a)
 
 ## § 1406a. Expenses of management and operation of transferred projects as nonadministrative; payment
 
@@ -35,7 +35,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch8/m__us_usc_t42_s1405, 1406.md) | [Next](./../../../..//us/usc/t42/ch8/m__us_usc_t42_s1406b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1406a)
+[Previous](./../../../..//us/usc/t42/ch8/m__us_usc_t42_s1404a.md) | [Next](./../../../..//us/usc/t42/ch8/m__us_usc_t42_s1406b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1406a)
 
 ----------
 ----------

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch7/schV/m__us_usc_t42_s729 to 729a, 731.md) | [Next](./../../../../..//us/usc/t42/ch7/schVI/m__us_usc_t42_s801.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch7%2FschVI)
+[Previous](./../../../../..//us/usc/t42/ch7/schV/m__us_usc_t42_s713.md) | [Next](./../../../../..//us/usc/t42/ch7/schVI/m__us_usc_t42_s801.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch7%2FschVI)
 
 ### SUBCHAPTER VI—TEMPORARY STATE FISCAL RELIEF
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch7/schV/m__us_usc_t42_s729 to 729a, 731.md) | [Next](./../../../../..//us/usc/t42/ch7/schVI/m__us_usc_t42_s801.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch7%2FschVI)
+[Previous](./../../../../..//us/usc/t42/ch7/schV/m__us_usc_t42_s713.md) | [Next](./../../../../..//us/usc/t42/ch7/schVI/m__us_usc_t42_s801.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch7%2FschVI)
 
 ----------
 ----------

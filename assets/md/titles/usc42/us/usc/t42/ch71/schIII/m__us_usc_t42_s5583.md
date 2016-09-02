@@ -15,7 +15,7 @@
 
 ## § 5583. Establishment and promotion of research, development, and demonstration programs
 
-The Secretary is directed to establish immediately and carry forth such research, development, and demonstration programs as may be necessary to meet the objectives of this subchapter as set forth in [section 5581(b) of this title][/us/usc/t42/s5581/b], and as a part of any such program shall—
+    The Secretary is directed to establish immediately and carry forth such research, development, and demonstration programs as may be necessary to meet the objectives of this subchapter as set forth in [section 5581(b) of this title][/us/usc/t42/s5581/b], and as a part of any such program shall—
 
     (a) conduct, and promote the coordination and acceleration of, research, development, and demonstrations relating to solar photovoltaic energy systems and components thereof, and
 

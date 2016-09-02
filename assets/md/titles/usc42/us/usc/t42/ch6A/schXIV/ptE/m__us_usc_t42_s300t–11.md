@@ -15,7 +15,7 @@
 
 ## § 300t–11. Grants and assistance for establishment of program
 
-The Secretary shall, by April 1, 1980, establish a program under which—
+    The Secretary shall, by April 1, 1980, establish a program under which—
 
     (1) grants and technical assistance may be provided to hospitals in operation on October 4, 1979, (A) for the discontinuance of unneeded hospital services, and (B) for the conversion of unneeded hospital services to other health services needed by the community; and
 

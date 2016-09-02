@@ -15,7 +15,7 @@
 
 ## § 13311. Purposes
 
-The purposes of this subchapter are to promote—
+    The purposes of this subchapter are to promote—
 
     (1) increases in the production and utilization of energy from renewable energy resources;
 

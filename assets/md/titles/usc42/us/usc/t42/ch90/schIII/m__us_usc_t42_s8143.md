@@ -15,7 +15,7 @@
 
 ## § 8143. Definitions
 
-For the purpose of this subchapter—
+    For the purpose of this subchapter—
 
     (1) the terms “art” and “arts” include, but are not limited to, architecture (including preservation, restoration, or adaptive use of existing structures), landscape architecture, urban design, interior design, graphic arts, fine arts (including painting and sculpture), performing arts (including music, drama, and dance), literature, crafts, photography, communications media and film, as well as other similar activities which reflect the cultural heritage of the Nation’s communities and their citizens;
 

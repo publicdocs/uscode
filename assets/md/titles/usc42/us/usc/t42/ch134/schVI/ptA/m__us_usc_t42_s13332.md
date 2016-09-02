@@ -15,7 +15,7 @@
 
 ## § 13332. Coal-fired diesel engines
 
-The Secretary shall conduct a program of research, development, demonstration, and commercial application for utilizing coal-derived liquid or gaseous fuels, including ultra-clean coal-water slurries, in diesel engines. The program shall address—
+    The Secretary shall conduct a program of research, development, demonstration, and commercial application for utilizing coal-derived liquid or gaseous fuels, including ultra-clean coal-water slurries, in diesel engines. The program shall address—
 
     (1) required engine retrofit technology;
 

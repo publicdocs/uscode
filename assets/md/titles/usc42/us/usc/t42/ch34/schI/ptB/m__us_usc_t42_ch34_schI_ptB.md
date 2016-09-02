@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch34/schI/ptA/m__us_usc_t42_s2717 to 2729.md) | [Next](./../../../../../..//us/usc/t42/ch34/schI/ptB/m__us_usc_t42_s2731.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch34%2FschI%2FptB)
+[Previous](./../../../../../..//us/usc/t42/ch34/schI/ptA/m__us_usc_t42_ch34_schI_ptA.md) | [Next](./../../../../../..//us/usc/t42/ch34/schI/ptB/m__us_usc_t42_s2731.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch34%2FschI%2FptB)
 
 #### Part B—Work and Training for Youth and Adults
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch34/schI/ptA/m__us_usc_t42_s2717 to 2729.md) | [Next](./../../../../../..//us/usc/t42/ch34/schI/ptB/m__us_usc_t42_s2731.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch34%2FschI%2FptB)
+[Previous](./../../../../../..//us/usc/t42/ch34/schI/ptA/m__us_usc_t42_ch34_schI_ptA.md) | [Next](./../../../../../..//us/usc/t42/ch34/schI/ptB/m__us_usc_t42_s2731.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch34%2FschI%2FptB)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 15406. Requirement for public notice and comment
 
-For purposes of section 15401(a)(1)(C)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, a State plan meets the public notice and comment requirements of this section if—
+    For purposes of section 15401(a)(1)(C)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, a State plan meets the public notice and comment requirements of this section if—
 
     (1) not later than 30 days prior to the submission of the plan, the State made a preliminary version of the plan available for public inspection and comment;
 

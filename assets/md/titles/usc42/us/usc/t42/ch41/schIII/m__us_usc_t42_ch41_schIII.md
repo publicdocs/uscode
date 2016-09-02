@@ -11,16 +11,52 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch41/schII/m__us_usc_t42_s3339.md) | [Next](./../../../../..//us/usc/t42/ch41/schIII/m__us_usc_t42_s3351 to 3356.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch41%2FschIII)
+[Previous](./../../../../..//us/usc/t42/ch41/schII/m__us_usc_t42_s3339.md) | [Next](./../../../../..//us/usc/t42/ch41/schIV/m__us_usc_t42_ch41_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch41%2FschIII)
 
 ### SUBCHAPTER III—URBAN INFORMATION AND TECHNICAL ASSISTANCE SERVICES
 
+§§ 3351 to 3356. __Omitted__ 
+
+ __Codification__ 
+
+    Appropriations for this subchapter have not been authorized for fiscal years commencing after June 30, 1972.
+
+    Section 3351, [Pub. L. 89–754, title IX, § 901][/us/pl/89/754/s901], Nov. 3, 1966, [80 Stat. 1282][/us/stat/80/1282], set out the declaration of purpose for this subchapter.
+
+    Section 3352, [Pub. L. 89–754, title IX, § 902][/us/pl/89/754/s902], Nov. 3, 1966, [80 Stat. 1283][/us/stat/80/1283], related to grant authority, scope of assistance, and terms and conditions of programs under this subchapter.
+
+    Section 3353, [Pub. L. 89–754, title IX, § 903][/us/pl/89/754/s903], Nov. 3, 1966, [80 Stat. 1283][/us/stat/80/1283], related to amounts and restrictions on grants under this subchapter.
+
+    Section 3354, [Pub. L. 89–754, title IX, § 904][/us/pl/89/754/s904], Nov. 3, 1966, [80 Stat. 1283][/us/stat/80/1283], related to cooperation of Federal departments and agencies with States, and coordination by Secretary of urban information and technical assistance programs under this subchapter.
+
+    Section 3355, [Pub. L. 89–754, title IX, § 905][/us/pl/89/754/s905], Nov. 3, 1966, [80 Stat. 1283][/us/stat/80/1283], defined “State”, “Secretary”, and “small communities”.
+
+    Section 3356, [Pub. L. 89–754, title IX, § 906][/us/pl/89/754/s906], Nov. 3, 1966, [80 Stat. 1284][/us/stat/80/1284]; [Pub. L. 90–448, title XVII, § 1703][/us/pl/90/448/s1703], Aug. 1, 1968, [82 Stat. 603][/us/stat/82/603]; [Pub. L. 91–152, title III, § 308][/us/pl/91/152/s308], Dec. 24, 1969, [83 Stat. 394][/us/stat/83/394]; [Pub. L. 91–609, title III, § 305][/us/pl/91/609/s305], Dec. 31, 1970, [84 Stat. 1781][/us/stat/84/1781], authorized appropriations.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch41/schII/m__us_usc_t42_s3339.md) | [Next](./../../../../..//us/usc/t42/ch41/schIII/m__us_usc_t42_s3351 to 3356.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch41%2FschIII)
+[Previous](./../../../../..//us/usc/t42/ch41/schII/m__us_usc_t42_s3339.md) | [Next](./../../../../..//us/usc/t42/ch41/schIV/m__us_usc_t42_ch41_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch41%2FschIII)
 
 ----------
 ----------
 
+[/us/pl/89/754/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2Fs901
+[/us/stat/80/1282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1282
+[/us/pl/89/754/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2Fs902
+[/us/stat/80/1283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1283
+[/us/pl/89/754/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2Fs903
+[/us/stat/80/1283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1283
+[/us/pl/89/754/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2Fs904
+[/us/stat/80/1283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1283
+[/us/pl/89/754/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2Fs905
+[/us/stat/80/1283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1283
+[/us/pl/89/754/s906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2Fs906
+[/us/stat/80/1284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1284
+[/us/pl/90/448/s1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1703
+[/us/stat/82/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F603
+[/us/pl/91/152/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152%2Fs308
+[/us/stat/83/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F394
+[/us/pl/91/609/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2Fs305
+[/us/stat/84/1781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1781
 
 

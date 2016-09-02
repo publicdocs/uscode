@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch9/schXI/m__us_usc_t42_s1594a–1, 1594a–2.md) | [Next](./../../../../..//us/usc/t42/ch9/schXI/m__us_usc_t42_s1594c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1594b)
+[Previous](./../../../../..//us/usc/t42/ch9/schXI/m__us_usc_t42_s1594a.md) | [Next](./../../../../..//us/usc/t42/ch9/schXI/m__us_usc_t42_s1594c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1594b)
 
 ## § 1594b. Maintenance and operation of housing; use of quarters; payment of principal, interest, and other obligations
 
@@ -33,7 +33,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch9/schXI/m__us_usc_t42_s1594a–1, 1594a–2.md) | [Next](./../../../../..//us/usc/t42/ch9/schXI/m__us_usc_t42_s1594c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1594b)
+[Previous](./../../../../..//us/usc/t42/ch9/schXI/m__us_usc_t42_s1594a.md) | [Next](./../../../../..//us/usc/t42/ch9/schXI/m__us_usc_t42_s1594c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1594b)
 
 ----------
 ----------

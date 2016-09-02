@@ -15,7 +15,7 @@
 
 ## § 3001. Congressional declaration of objectives
 
-The Congress hereby finds and declares that, in keeping with the traditional American concept of the inherent dignity of the individual in our democratic society, the older people of our Nation are entitled to, and it is the joint and several duty and responsibility of the governments of the United States, of the several States and their political subdivisions, and of Indian tribes to assist our older people to secure equal opportunity to the full and free enjoyment of the following objectives:
+    The Congress hereby finds and declares that, in keeping with the traditional American concept of the inherent dignity of the individual in our democratic society, the older people of our Nation are entitled to, and it is the joint and several duty and responsibility of the governments of the United States, of the several States and their political subdivisions, and of Indian tribes to assist our older people to secure equal opportunity to the full and free enjoyment of the following objectives:
 
     (1) An adequate income in retirement in accordance with the American standard of living.
 
@@ -75,7 +75,7 @@ The Congress hereby finds and declares that, in keeping with the traditional Ame
 
 >     “(2) title VII \[enacting sections 3058 to 3058ee of this title and amending sections 1395i–3, 1396r, 3012, 3018, 3021, 3023, 3027, 3030d, and 3030l of this title\],
 
->         of the Older Americans Act Amendments of 1992 ([Public Law 102–375][/us/pl/102/375]; [106 Stat. 1221][/us/stat/106/1221] et seq.) shall not apply with respect to fiscal year 1993.”
+>     of the Older Americans Act Amendments of 1992 ([Public Law 102–375][/us/pl/102/375]; [106 Stat. 1221][/us/stat/106/1221] et seq.) shall not apply with respect to fiscal year 1993.”
 
 [Pub. L. 102–375, title IX, § 905][/us/pl/102/375/s905], Sept. 30, 1992, [106 Stat. 1309][/us/stat/106/1309], provided that:
 
@@ -469,7 +469,11 @@ The Congress hereby finds and declares that, in keeping with the traditional Ame
 
 >                 “(i) the length of employment of the aides with the current employer of the aides;
 
->                 “(ii) the number of aides who are—         “(I) employed by a for-profit employer;
+>                 “(ii)
+
+>                  the number of aides who are—
+
+>                          “(I) employed by a for-profit employer;
 
 >                          “(II) employed by a nonprofit private employer;
 

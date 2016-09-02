@@ -15,7 +15,7 @@
 
 ## § 4275. Duties of Commission
 
-It shall be the duty of the Commission—
+    It shall be the duty of the Commission—
 
     (1) to engage in such activities and to make such studies and investigations as are necessary or desirable in the accomplishment of the purposes set forth in [section 4272 of this title][/us/usc/t42/s4272];
 

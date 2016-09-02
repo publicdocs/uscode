@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch34/schII/ptC/m__us_usc_t42_s2827, 2828.md) | [Next](./../../../../../..//us/usc/t42/ch34/schII/ptC/m__us_usc_t42_s2830.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2829)
+[Previous](./../../../../../..//us/usc/t42/ch34/schII/ptC/m__us_usc_t42_s2826.md) | [Next](./../../../../../..//us/usc/t42/ch34/schII/ptC/m__us_usc_t42_s2830.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2829)
 
 ## § 2829. Repealed. [Pub. L. 95–568, § 6(d)][/us/pl/95/568/s6/d], Nov. 2, 1978, [92 Stat. 2428][/us/stat/92/2428]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch34/schII/ptC/m__us_usc_t42_s2827, 2828.md) | [Next](./../../../../../..//us/usc/t42/ch34/schII/ptC/m__us_usc_t42_s2830.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2829)
+[Previous](./../../../../../..//us/usc/t42/ch34/schII/ptC/m__us_usc_t42_s2826.md) | [Next](./../../../../../..//us/usc/t42/ch34/schII/ptC/m__us_usc_t42_s2830.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2829)
 
 ----------
 ----------

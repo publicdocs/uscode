@@ -15,7 +15,7 @@
 
 ## § 12004. Energy efficiency authorizations
 
-There are authorized to be appropriated to the Secretary for the following energy efficiency research, development, and demonstration programs: transportation, industrial, buildings and community systems, multi-sector, and policy and management—
+    There are authorized to be appropriated to the Secretary for the following energy efficiency research, development, and demonstration programs: transportation, industrial, buildings and community systems, multi-sector, and policy and management—
 
     (1)
 

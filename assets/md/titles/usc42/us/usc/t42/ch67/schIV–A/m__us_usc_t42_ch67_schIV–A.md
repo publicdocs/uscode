@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch67/schIV/m__us_usc_t42_s5117 to 5117d.md) | [Next](./../../../../..//us/usc/t42/ch67/schIV–A/m__us_usc_t42_s5117aa.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch67%2FschIV%E2%80%93A)
+[Previous](./../../../../..//us/usc/t42/ch67/schIV/m__us_usc_t42_ch67_schIV.md) | [Next](./../../../../..//us/usc/t42/ch67/schIV–A/m__us_usc_t42_s5117aa.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch67%2FschIV%E2%80%93A)
 
 ### SUBCHAPTER IV–A—ABANDONED INFANTS ASSISTANCE
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch67/schIV/m__us_usc_t42_s5117 to 5117d.md) | [Next](./../../../../..//us/usc/t42/ch67/schIV–A/m__us_usc_t42_s5117aa.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch67%2FschIV%E2%80%93A)
+[Previous](./../../../../..//us/usc/t42/ch67/schIV/m__us_usc_t42_ch67_schIV.md) | [Next](./../../../../..//us/usc/t42/ch67/schIV–A/m__us_usc_t42_s5117aa.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch67%2FschIV%E2%80%93A)
 
 ----------
 ----------

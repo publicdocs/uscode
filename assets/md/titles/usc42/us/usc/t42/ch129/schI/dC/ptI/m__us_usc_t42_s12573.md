@@ -15,7 +15,7 @@
 
 ## § 12573. Types of national service positions eligible for approval for national service educational awards
 
-The Corporation may approve of any of the following service positions as an approved national service position that includes the national service educational award described in division D of this subchapter as one of the benefits to be provided for successful service in the position:
+    The Corporation may approve of any of the following service positions as an approved national service position that includes the national service educational award described in division D of this subchapter as one of the benefits to be provided for successful service in the position:
 
     (1) A position for a participant in a national service program described in subsection (a), (b), or (c) of [section 12572 of this title][/us/usc/t42/s12572] that receives assistance under subsection (a) of [section 12571 of this title][/us/usc/t42/s12571].
 

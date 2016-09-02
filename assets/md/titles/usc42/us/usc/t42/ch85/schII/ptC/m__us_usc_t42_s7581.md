@@ -15,7 +15,7 @@
 
 ## § 7581. Definitions
 
-For purposes of this part—
+    For purposes of this part—
 
     (1) __Terms defined in part A__ 
 

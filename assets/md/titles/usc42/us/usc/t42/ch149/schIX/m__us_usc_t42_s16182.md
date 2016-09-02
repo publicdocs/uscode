@@ -15,7 +15,7 @@
 
 ## § 16182. Definitions
 
-In this subchapter:
+    In this subchapter:
 
     (1) __Departmental mission__ 
 

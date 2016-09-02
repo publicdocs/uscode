@@ -15,7 +15,7 @@
 
 ## § 1437bbb–8. Definitions
 
-For purposes of this subchapter, the following definitions shall apply:
+    For purposes of this subchapter, the following definitions shall apply:
 
     (1) __Jurisdiction__ 
 

@@ -15,7 +15,7 @@
 
 ## § 14043d. Findings
 
-Congress finds that—
+    Congress finds that—
 
     (1) the former United States Advisory Board on Child Abuse suggests that domestic violence may be the single major precursor to child abuse and neglect fatalities in this country;
 

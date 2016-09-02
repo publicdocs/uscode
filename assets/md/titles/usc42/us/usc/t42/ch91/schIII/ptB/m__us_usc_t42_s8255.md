@@ -15,7 +15,7 @@
 
 ## § 8255. Budget treatment for energy conservation measures
 
-The President shall transmit to the Congress, along with each budget that is submitted to the Congress under [section 1105 of title 31][/us/usc/t31/s1105], a statement of the amount of appropriations requested in such budget, if any, on an individual agency basis, for—
+    The President shall transmit to the Congress, along with each budget that is submitted to the Congress under [section 1105 of title 31][/us/usc/t31/s1105], a statement of the amount of appropriations requested in such budget, if any, on an individual agency basis, for—
 
     (1) electric and other energy costs to be incurred in operating and maintaining agency facilities; and
 

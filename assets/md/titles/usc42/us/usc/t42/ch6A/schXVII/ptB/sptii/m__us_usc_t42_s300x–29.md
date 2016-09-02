@@ -15,7 +15,7 @@
 
 ## § 300x–29. Submission to Secretary of statewide assessment of needs
 
-The Secretary may make a grant under [section 300x–21 of this title][/us/usc/t42/s300x–21] only if the State submits to the Secretary an assessment of the need in the State for authorized activities (which assessment is conducted in accordance with criteria issued by the Secretary), both by locality and by the State in general, which assessment includes a description of—
+    The Secretary may make a grant under [section 300x–21 of this title][/us/usc/t42/s300x–21] only if the State submits to the Secretary an assessment of the need in the State for authorized activities (which assessment is conducted in accordance with criteria issued by the Secretary), both by locality and by the State in general, which assessment includes a description of—
 
     (1) the incidence and prevalence in the State of drug abuse and the incidence and prevalence in the State of alcohol abuse and alcoholism;
 

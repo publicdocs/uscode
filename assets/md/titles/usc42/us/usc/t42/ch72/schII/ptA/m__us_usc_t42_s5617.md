@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch72/schII/ptA/m__us_usc_t42_s5616.md) | [Next](./../../../../../..//us/usc/t42/ch72/schII/ptA/m__us_usc_t42_s5618, 5619.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5617)
+[Previous](./../../../../../..//us/usc/t42/ch72/schII/ptA/m__us_usc_t42_s5616.md) | [Next](./../../../../../..//us/usc/t42/ch72/schII/ptB/m__us_usc_t42_ch72_schII_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5617)
 
 ## § 5617. Annual report
 
-Not later than 180 days after the end of a fiscal year, the Administrator shall submit to the President, the Speaker of the House of Representatives, and the President pro tempore of the Senate a report that contains the following with respect to such fiscal year:
+    Not later than 180 days after the end of a fiscal year, the Administrator shall submit to the President, the Speaker of the House of Representatives, and the President pro tempore of the Senate a report that contains the following with respect to such fiscal year:
 
     (1)
 
@@ -75,9 +75,15 @@ Not later than 180 days after the end of a fiscal year, the Administrator shall 
 
     [Pub. L. 100–690, title VII, § 7295][/us/pl/100/690/s7295], Nov. 18, 1988, [102 Stat. 4462][/us/stat/102/4462], directed Comptroller General of the United States, not later than 180 days after Nov. 18, 1988, to conduct an investigation of extent to which valid court orders and court orders other than valid court orders, used in the 5-year period ending on Dec. 31, 1988, to place juveniles in secure detention facilities, in secure correctional facilities, and in jails and lockups for adults, and submit, not later than 3 years after Nov. 18, 1988, a report to certain congressional committees of results of investigation.
 
+§§ 5618, 5619. __Repealed.__  __[__  __Pub. L. 96–509, § 9__  __][/us/pl/96/509/s9]__  __,__  __Dec. 8, 1980__  __,__  __[__  __94 Stat. 2753__  __][/us/stat/94/2753]__ 
+
+    Section 5618, [Pub. L. 93–415, title II, § 208][/us/pl/93/415/s208], Sept. 7, 1974, [88 Stat. 1117][/us/stat/88/1117], [Pub. L. 95–115, § 3(a)(3)(B)][/us/pl/95/115/s3/a/3/B], (f), Oct. 3, 1977, [91 Stat. 1048][/us/stat/91/1048], 1050, set out the duties and provided for the staffing of the National Advisory Committee and numerous subcommittees.
+
+    Section 5619, [Pub. L. 93–415, title II, § 209][/us/pl/93/415/s209], Sept. 7, 1974, [88 Stat. 1118][/us/stat/88/1118], set out provisions for compensation and reimbursement for travel and other expenses of full and part time Federal employees serving on the Advisory Committee.
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch72/schII/ptA/m__us_usc_t42_s5616.md) | [Next](./../../../../../..//us/usc/t42/ch72/schII/ptA/m__us_usc_t42_s5618, 5619.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5617)
+[Previous](./../../../../../..//us/usc/t42/ch72/schII/ptA/m__us_usc_t42_s5616.md) | [Next](./../../../../../..//us/usc/t42/ch72/schII/ptB/m__us_usc_t42_ch72_schII_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5617)
 
 ----------
 ----------
@@ -113,5 +119,13 @@ Not later than 180 days after the end of a fiscal year, the Administrator shall 
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/pl/100/690/s7295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7295
 [/us/stat/102/4462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4462
+[/us/pl/96/509/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F509%2Fs9
+[/us/stat/94/2753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2753
+[/us/pl/93/415/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs208
+[/us/stat/88/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1117
+[/us/pl/95/115/s3/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs3%2Fa%2F3%2FB
+[/us/stat/91/1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1048
+[/us/pl/93/415/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs209
+[/us/stat/88/1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1118
 
 

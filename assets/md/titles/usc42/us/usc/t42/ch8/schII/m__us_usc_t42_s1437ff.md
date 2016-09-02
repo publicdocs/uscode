@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch8/schII/m__us_usc_t42_s1437aa to 1437ee.md) | [Next](./../../../../..//us/usc/t42/ch8/schII–A/m__us_usc_t42_ch8_schII–A.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437ff)
+[Previous](./../../../../..//us/usc/t42/ch8/schII/m__us_usc_t42_ch8_schII.md) | [Next](./../../../../..//us/usc/t42/ch8/schII–A/m__us_usc_t42_ch8_schII–A.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437ff)
 
 ## § 1437ff. Transferred
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch8/schII/m__us_usc_t42_s1437aa to 1437ee.md) | [Next](./../../../../..//us/usc/t42/ch8/schII–A/m__us_usc_t42_ch8_schII–A.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437ff)
+[Previous](./../../../../..//us/usc/t42/ch8/schII/m__us_usc_t42_ch8_schII.md) | [Next](./../../../../..//us/usc/t42/ch8/schII–A/m__us_usc_t42_ch8_schII–A.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437ff)
 
 ----------
 ----------

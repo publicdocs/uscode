@@ -15,7 +15,7 @@
 
 ## § 18421. Study of potential commercial orbital platform program impact on science, technology, engineering, and mathematics
 
-A fundamental and unique capability of NASA is in stimulating science, technology, engineering, and mathematics education in the United States. In ensuring maximum use of that capability, the Administrator shall carry out a study to—
+    A fundamental and unique capability of NASA is in stimulating science, technology, engineering, and mathematics education in the United States. In ensuring maximum use of that capability, the Administrator shall carry out a study to—
 
     (1) identify the benefits of and lessons learned from ongoing and previous NASA orbital student programs including, at a minimum, the Get Away Special (GAS) and Earth Knowledge Acquired by Middle School Students (EarthKAM) programs, on science, technology, engineering, and mathematics education;
 

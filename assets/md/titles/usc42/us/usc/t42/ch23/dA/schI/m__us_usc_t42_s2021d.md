@@ -189,31 +189,31 @@
 
 >     “This Title may be cited as the ‘Omnibus Low-Level Radioactive Waste Interstate Compact Consent Act’.
 
- __“Subtitle A—General Provisions__ 
+> “Subtitle A— __General Provisions__ 
 
-    “SEC. 211. CONGRESSIONAL FINDING.
+> “SEC. 211. __CONGRESSIONAL FINDING.__ 
 
-    “The Congress hereby finds that each of the compacts set forth in subtitle B is in furtherance of the Low-Level Radioactive Waste Policy Act \[[42 U.S.C. 2021b–202][/us/usc/t42/s2021b–202]1j\].
+>     “The Congress hereby finds that each of the compacts set forth in subtitle B is in furtherance of the Low-Level Radioactive Waste Policy Act \[[42 U.S.C. 2021b–202][/us/usc/t42/s2021b–202]1j\].
 
-    “SEC. 212. CONDITIONS OF CONSENT TO COMPACTS.
+> “SEC. 212. __CONDITIONS OF CONSENT TO COMPACTS.__ 
 
-    “The consent of the Congress to each of the compacts set forth in subtitle B—
+> “The consent of the Congress to each of the compacts set forth in subtitle B—
 
-    “(1) shall become effective on the date of the enactment of this Act \[Jan. 15, 1986\];
+>     “(1) shall become effective on the date of the enactment of this Act \[Jan. 15, 1986\];
 
-    “(2) is granted subject to the provisions of the Low-Level Radioactive Waste Policy Act, as amended \[[42 U.S.C. 2021b–202][/us/usc/t42/s2021b–202]1j\]; and
+>     “(2) is granted subject to the provisions of the Low-Level Radioactive Waste Policy Act, as amended \[[42 U.S.C. 2021b–202][/us/usc/t42/s2021b–202]1j\]; and
 
-    “(3) is granted only for so long as the regional commission, committee, or board established in the compact complies with all of the provisions of such Act.
+>     “(3) is granted only for so long as the regional commission, committee, or board established in the compact complies with all of the provisions of such Act.
 
-    “SEC. 213. CONGRESSIONAL REVIEW.
+> “SEC. 213. __CONGRESSIONAL REVIEW.__ 
 
-    “The Congress may alter, amend, or repeal this Act with respect to any compact set forth in subtitle B after the expiration of the 10-year period following the date of the enactment of this Act \[Jan. 15, 1986\], and at such intervals thereafter as may be provided in such compact.
+>     “The Congress may alter, amend, or repeal this Act with respect to any compact set forth in subtitle B after the expiration of the 10-year period following the date of the enactment of this Act \[Jan. 15, 1986\], and at such intervals thereafter as may be provided in such compact.
 
- __“Subtitle B—Congressional Consent to Compacts__ 
+> “Subtitle B— __Congressional Consent to Compacts__ 
 
-    “SEC. 221. NORTHWEST INTERSTATE COMPACT ON LOW-LEVEL RADIOACTIVE WASTE MANAGEMENT.
+> “SEC. 221. __NORTHWEST INTERSTATE COMPACT ON LOW-LEVEL RADIOACTIVE WASTE MANAGEMENT.__ 
 
-“The consent of Congress is hereby given to the states of Alaska, Hawaii, Idaho, Montana, Oregon, Utah, Washington, and Wyoming to enter into the Northwest Interstate Compact on Low-level Radioactive Waste Management, and to each and every part and article thereof. Such compact reads substantially as follows: \[Text of compact appears at [99 Stat. 1860][/us/stat/99/1860].\]
+>     “The consent of Congress is hereby given to the states of Alaska, Hawaii, Idaho, Montana, Oregon, Utah, Washington, and Wyoming to enter into the Northwest Interstate Compact on Low-level Radioactive Waste Management, and to each and every part and article thereof. Such compact reads substantially as follows: \[Text of compact appears at [99 Stat. 1860][/us/stat/99/1860].\]
 
 > “SEC. 222. __CENTRAL INTERSTATE LOW-LEVEL RADIOACTIVE WASTE COMPACT.__ 
 

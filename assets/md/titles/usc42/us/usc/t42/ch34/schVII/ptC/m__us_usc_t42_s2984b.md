@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch34/schVII/ptC/m__us_usc_t42_s2984, 2984a.md) | [Next](./../../../../../..//us/usc/t42/ch34/schVII/ptD/m__us_usc_t42_ch34_schVII_ptD.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2984b)
+[Previous](./../../../../../..//us/usc/t42/ch34/schVII/ptC/m__us_usc_t42_ch34_schVII_ptC.md) | [Next](./../../../../../..//us/usc/t42/ch34/schVII/ptD/m__us_usc_t42_ch34_schVII_ptD.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2984b)
 
 ## § 2984b. Omitted
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch34/schVII/ptC/m__us_usc_t42_s2984, 2984a.md) | [Next](./../../../../../..//us/usc/t42/ch34/schVII/ptD/m__us_usc_t42_ch34_schVII_ptD.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2984b)
+[Previous](./../../../../../..//us/usc/t42/ch34/schVII/ptC/m__us_usc_t42_ch34_schVII_ptC.md) | [Next](./../../../../../..//us/usc/t42/ch34/schVII/ptD/m__us_usc_t42_ch34_schVII_ptD.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2984b)
 
 ----------
 ----------

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch26B/m__us_usc_t42_ch26B.md) | [Next](./../../../..//us/usc/t42/ch26B/m__us_usc_t42_s2487a to 2487c.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2487)
+[Previous](./../../../..//us/usc/t42/ch26B/m__us_usc_t42_ch26B.md) | [Next](./../../../..//us/usc/t42/ch26B/m__us_usc_t42_s2487d.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2487)
 
 ## § 2487. Transferred
 
@@ -19,9 +19,17 @@
 
     Section, [Pub. L. 102–588, title VI, § 601][/us/pl/102/588/s601], Nov. 4, 1992, [106 Stat. 5130][/us/stat/106/5130], which related to congressional findings, was transferred and is set out as a note under [section 40501 of Title 51][/us/usc/t51/s40501], National and Commercial Space Programs.
 
+§§ 2487a to 2487c. __Repealed.__  __[__  __Pub. L. 111–314, § 6__  __][/us/pl/111/314/s6]__  __,__  __Dec. 18, 2010__  __,__  __[__  __124 Stat. 3444__  __][/us/stat/124/3444]__ 
+
+    Section 2487a, [Pub. L. 102–588, title VI, § 602][/us/pl/102/588/s602], Nov. 4, 1992, [106 Stat. 5130][/us/stat/106/5130], related to biomedical research joint working group. See [section 40501 of Title 51][/us/usc/t51/s40501], National and Commercial Space Programs.
+
+    Section 2487b, [Pub. L. 102–588, title VI, § 603][/us/pl/102/588/s603], Nov. 4, 1992, [106 Stat. 5130][/us/stat/106/5130], related to biomedical research grants. See [section 40502 of Title 51][/us/usc/t51/s40502].
+
+    Section 2487c, [Pub. L. 102–588, title VI, § 604][/us/pl/102/588/s604], Nov. 4, 1992, [106 Stat. 5131][/us/stat/106/5131], related to biomedical research fellowships. See [section 40503 of Title 51][/us/usc/t51/s40503].
+
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch26B/m__us_usc_t42_ch26B.md) | [Next](./../../../..//us/usc/t42/ch26B/m__us_usc_t42_s2487a to 2487c.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2487)
+[Previous](./../../../..//us/usc/t42/ch26B/m__us_usc_t42_ch26B.md) | [Next](./../../../..//us/usc/t42/ch26B/m__us_usc_t42_s2487d.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2487)
 
 ----------
 ----------
@@ -29,5 +37,16 @@
 [/us/pl/102/588/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F588%2Fs601
 [/us/stat/106/5130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5130
 [/us/usc/t51/s40501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs40501
+[/us/pl/111/314/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs6
+[/us/stat/124/3444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3444
+[/us/pl/102/588/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F588%2Fs602
+[/us/stat/106/5130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5130
+[/us/usc/t51/s40501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs40501
+[/us/pl/102/588/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F588%2Fs603
+[/us/stat/106/5130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5130
+[/us/usc/t51/s40502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs40502
+[/us/pl/102/588/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F588%2Fs604
+[/us/stat/106/5131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5131
+[/us/usc/t51/s40503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs40503
 
 

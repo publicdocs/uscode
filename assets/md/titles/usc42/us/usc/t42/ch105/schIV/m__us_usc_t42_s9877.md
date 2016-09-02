@@ -15,7 +15,7 @@
 
 ## § 9877. Definitions
 
-For purposes of this subchapter—
+    For purposes of this subchapter—
 
     (1) the term “community center” means facilities operated by nonprofit community-based organizations for the provision of recreational, social, or educational services to the general public;
 

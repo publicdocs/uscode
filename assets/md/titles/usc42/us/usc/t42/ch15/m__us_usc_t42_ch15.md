@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch14/m__us_usc_t42_s1801 to 1819.md) | [Next](./../../../..//us/usc/t42/ch15/schI/m__us_usc_t42_ch15_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch15)
+[Previous](./../../../..//us/usc/t42/ch14/m__us_usc_t42_ch14.md) | [Next](./../../../..//us/usc/t42/ch15/schI/m__us_usc_t42_ch15_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch15)
 
 ## CHAPTER 15—DISASTER RELIEF
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch14/m__us_usc_t42_s1801 to 1819.md) | [Next](./../../../..//us/usc/t42/ch15/schI/m__us_usc_t42_ch15_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch15)
+[Previous](./../../../..//us/usc/t42/ch14/m__us_usc_t42_ch14.md) | [Next](./../../../..//us/usc/t42/ch15/schI/m__us_usc_t42_ch15_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch15)
 
 ----------
 ----------

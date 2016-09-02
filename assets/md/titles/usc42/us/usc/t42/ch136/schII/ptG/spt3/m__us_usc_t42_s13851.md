@@ -15,7 +15,7 @@
 
 ## § 13851. Definitions
 
-As used in this part:
+    As used in this part:
 
     (1) __Community development corporation__ 
 

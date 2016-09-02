@@ -15,7 +15,7 @@
 
 ## § 290cc–26. Provision of certain information from State
 
-The Secretary may not make payments under [section 290cc–21 of this title][/us/usc/t42/s290cc–21] to a State unless, as part of the application required in [section 290cc–29 of this title][/us/usc/t42/s290cc–29], the State submits to the Secretary a statement—
+    The Secretary may not make payments under [section 290cc–21 of this title][/us/usc/t42/s290cc–21] to a State unless, as part of the application required in [section 290cc–29 of this title][/us/usc/t42/s290cc–29], the State submits to the Secretary a statement—
 
     (1) identifying existing programs providing services and housing to eligible homeless individuals and identify gaps in the delivery systems of such programs;
 

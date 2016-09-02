@@ -15,25 +15,27 @@
 
 ## § 5771. Findings
 
-The Congress finds that—
+    The Congress finds that—
 
     (1) each year thousands of children are abducted or removed from the control of a parent having legal custody without such parent’s consent, under circumstances which immediately place the child in grave danger;
 
     (2) many missing children are at great risk of both physical harm and sexual exploitation;
 
-    (3) in many cases, parents and local law enforcement officials have neither the resources nor the expertise to mount expanded search efforts;
+    (3) many missing children are runaways;
 
-    (4) abducted children are frequently moved from one locality to another, requiring the cooperation and coordination of local, State, and Federal law enforcement efforts;
+    (4) in many cases, parents and local law enforcement officials have neither the resources nor the expertise to mount expanded search efforts;
 
-    (5) growing numbers of children are the victims of child sexual exploitation, increasingly involving the use of new technology to access the Internet;
+    (5) abducted children are frequently moved from one locality to another, requiring the cooperation and coordination of local, State, and Federal law enforcement efforts;
 
-    (6) children may be separated from their parents or legal guardians as a result of national disasters such as hurricanes and floods;
+    (6) growing numbers of children are the victims of child sexual exploitation, increasingly involving the use of new technology to access the Internet;
 
-    (7) sex offenders pose a threat to children;
+    (7) children may be separated from their parents or legal guardians as a result of national disasters such as hurricanes and floods;
 
-    (8) the Office of Juvenile Justice and Delinquency Prevention administers programs under this chapter through the Child Protection Division, including programs which prevent or address offenses committed against vulnerable children and which support missing children’s organizations; and
+    (8) sex offenders pose a threat to children;
 
-    (9)
+    (9) the Office of Juvenile Justice and Delinquency Prevention administers programs under this chapter through the Child Protection Division, including programs which prevent or address offenses committed against vulnerable children and which support missing children’s organizations; and
+
+    (10)
 
      a key component of such programs is the National Center for Missing and Exploited Children, which—
 
@@ -43,17 +45,19 @@ The Congress finds that—
 
         (C) operates a national network, linking the Center online with each of the missing children clearinghouses operated by the 50 States, the District of Columbia, and Puerto Rico, as well as with international organizations, including Scotland Yard in the United Kingdom, the Royal Canadian Mounted Police, INTERPOL headquarters in Lyon, France, and others, which enable the Center to transmit images and information regarding missing and exploited children to law enforcement across the United States and around the world instantly.
 
-([Pub. L. 93–415, title IV, § 402][/us/pl/93/415/s402], as added [Pub. L. 98–473, title II, § 660][/us/pl/98/473/s660], Oct. 12, 1984, [98 Stat. 2125][/us/stat/98/2125]; amended [Pub. L. 106–71, § 2(a)][/us/pl/106/71/s2/a], Oct. 12, 1999, [113 Stat. 1032][/us/stat/113/1032]; [Pub. L. 108–96, title II, § 201][/us/pl/108/96/s201], Oct. 10, 2003, [117 Stat. 1171][/us/stat/117/1171]; [Pub. L. 110–240, § 2][/us/pl/110/240/s2], June 3, 2008, [122 Stat. 1560][/us/stat/122/1560].)
+([Pub. L. 93–415, title IV, § 402][/us/pl/93/415/s402], as added [Pub. L. 98–473, title II, § 660][/us/pl/98/473/s660], Oct. 12, 1984, [98 Stat. 2125][/us/stat/98/2125]; amended [Pub. L. 106–71, § 2(a)][/us/pl/106/71/s2/a], Oct. 12, 1999, [113 Stat. 1032][/us/stat/113/1032]; [Pub. L. 108–96, title II, § 201][/us/pl/108/96/s201], Oct. 10, 2003, [117 Stat. 1171][/us/stat/117/1171]; [Pub. L. 110–240, § 2][/us/pl/110/240/s2], June 3, 2008, [122 Stat. 1560][/us/stat/122/1560]; [Pub. L. 113–38, § 2(a)][/us/pl/113/38/s2/a], Sept. 30, 2013, [127 Stat. 527][/us/stat/127/527].)
 
  __References in Text__ 
 
-    This chapter, referred to in par. (8), was in the original “this Act”, meaning [Pub. L. 93–415][/us/pl/93/415], Sept. 7, 1974, [88 Stat. 1109][/us/stat/88/1109], known as the Juvenile Justice and Delinquency Prevention Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5601 of this title][/us/usc/t42/s5601] and Tables.
+    This chapter, referred to in par. (9), was in the original “this Act”, meaning [Pub. L. 93–415][/us/pl/93/415], Sept. 7, 1974, [88 Stat. 1109][/us/stat/88/1109], known as the Juvenile Justice and Delinquency Prevention Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5601 of this title][/us/usc/t42/s5601] and Tables.
 
  __Prior Provisions__ 
 
     A prior [section 402 of Pub. L. 93–415][/us/pl/93/415/s402] amended [section 3888 of this title][/us/usc/t42/s3888] and repealed [section 3889 of this title][/us/usc/t42/s3889], and was repealed by [Pub. L. 95–115, § 10][/us/pl/95/115/s10], Oct. 3, 1977, [91 Stat. 1061][/us/stat/91/1061], and [Pub. L. 107–273, div. C, title II, § 12221(a)(4)][/us/pl/107/273/s12221/a/4], Nov. 2, 2002, [116 Stat. 1894][/us/stat/116/1894].
 
  __Amendments__ 
+
+    2013—[Pub. L. 113–38][/us/pl/113/38] added par. (3) and redesignated former pars. (3) to (9) as (4) to (10), respectively.
 
     2008—[Pub. L. 110–240][/us/pl/110/240] amended section generally. Prior to amendment, section consisted of pars. (1) to (5) stating findings of Congress concerning missing or abducted children and the role of the National Center for Missing and Exploited Children.
 
@@ -85,6 +89,8 @@ The Congress finds that—
 [/us/stat/117/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1171
 [/us/pl/110/240/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F240%2Fs2
 [/us/stat/122/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1560
+[/us/pl/113/38/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F38%2Fs2%2Fa
+[/us/stat/127/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F527
 [/us/pl/93/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415
 [/us/stat/88/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1109
 [/us/usc/t42/s5601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5601
@@ -95,6 +101,7 @@ The Congress finds that—
 [/us/stat/91/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1061
 [/us/pl/107/273/s12221/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12221%2Fa%2F4
 [/us/stat/116/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1894
+[/us/pl/113/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F38
 [/us/pl/110/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F240
 [/us/pl/108/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F96
 [/us/pl/106/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F71

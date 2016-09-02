@@ -739,7 +739,7 @@ SUBCHAPTER IV—MISSING CHILDREN  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs5776a" data-uslm-ref="/us/usc/t42/s5776a">5776a.</a>  </td>
 
-    <td> Repealed.  </td>
+    <td> Oversight and accountability.  </td>
 
   </tr>
 

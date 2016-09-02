@@ -673,7 +673,7 @@
 
 >     “(4) no refund of such taxes has been obtained,
 
->         the amount of such remuneration with respect to which such taxes have been paid shall be deemed to constitute remuneration for employment as defined in section 209(b) of the Social Security Act \[former subsec. (b) of this section\] as in effect prior to the enactment of this Act \[Aug. 28, 1950\] (but it shall not constitute wages for purposes of deductions under section 203 of such Act \[[42 U.S.C. 403][/us/usc/t42/s403]\] for months for which benefits under title II of such Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] have been certified and paid prior to the enactment of this act.”
+>     the amount of such remuneration with respect to which such taxes have been paid shall be deemed to constitute remuneration for employment as defined in section 209(b) of the Social Security Act \[former subsec. (b) of this section\] as in effect prior to the enactment of this Act \[Aug. 28, 1950\] (but it shall not constitute wages for purposes of deductions under section 203 of such Act \[[42 U.S.C. 403][/us/usc/t42/s403]\] for months for which benefits under title II of such Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] have been certified and paid prior to the enactment of this act.”
 
  __Refunds or Credits for Overpayments__ 
 

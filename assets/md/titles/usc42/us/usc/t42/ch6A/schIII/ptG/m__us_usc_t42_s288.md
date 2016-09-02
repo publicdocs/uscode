@@ -89,13 +89,15 @@
 
         (4)
 
-            (A) If any individual to whom the requirement of paragraph (1) is applicable fails, within the period prescribed by paragraph (3), to comply with such requirements, the United States shall be entitled to recover from such individual an amount determined in accordance with the formula—         t−s  
+            (A) If any individual to whom the requirement of paragraph (1) is applicable fails, within the period prescribed by paragraph (3), to comply with such requirements, the United States shall be entitled to recover from such individual an amount determined in accordance with the formula—
 
-                A=ϕ  A——B
+             t−s  
 
-                    t  
+        A=ϕ  A——B
 
-                in which “A” is the amount the United States is entitled to recover; “ϕ” is the sum of the total amount paid under one or more Ruth L. Kirschstein National Research Service Awards to such individual; “t” is the total number of months in such individual’s service obligation; and “s” is the number of months of such obligation served by such individual in accordance with paragraphs (1) and (2) of this subsection.
+            t  
+
+            in which “A” is the amount the United States is entitled to recover; “ϕ” is the sum of the total amount paid under one or more Ruth L. Kirschstein National Research Service Awards to such individual; “t” is the total number of months in such individual’s service obligation; and “s” is the number of months of such obligation served by such individual in accordance with paragraphs (1) and (2) of this subsection.
 
             (B) Any amount which the United States is entitled to recover under subparagraph (A) shall, within the three-year period beginning on the date the United States becomes entitled to recover such amount, be paid to the United States. Until any amount due the United States under subparagraph (A) on account of any Ruth L. Kirschstein National Research Service Award is paid, there shall accrue to the United States interest on such amount at a rate fixed by the Secretary of the Treasury after taking into consideration private consumer rates of interest prevailing on the date the United States becomes entitled to such amount.
 

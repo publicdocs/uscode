@@ -15,7 +15,7 @@
 
 ## § 4851. Findings
 
-The Congress finds that—
+    The Congress finds that—
 
     (1) low-level lead poisoning is widespread among American children, afflicting as many as 3,000,000 children under age 6, with minority and low-income communities disproportionately affected;
 

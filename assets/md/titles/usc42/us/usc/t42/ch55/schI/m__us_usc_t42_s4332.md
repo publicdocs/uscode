@@ -15,7 +15,7 @@
 
 ## § 4332. Cooperation of agencies; reports; availability of information; recommendations; international and national coordination of efforts
 
-The Congress authorizes and directs that, to the fullest extent possible: (1) the policies, regulations, and public laws of the United States shall be interpreted and administered in accordance with the policies set forth in this chapter, and (2) all agencies of the Federal Government shall—
+    The Congress authorizes and directs that, to the fullest extent possible: (1) the policies, regulations, and public laws of the United States shall be interpreted and administered in accordance with the policies set forth in this chapter, and (2) all agencies of the Federal Government shall—
 
     (A) utilize a systematic, interdisciplinary approach which will insure the integrated use of the natural and social sciences and the environmental design arts in planning and in decisionmaking which may have an impact on man’s environment;
 

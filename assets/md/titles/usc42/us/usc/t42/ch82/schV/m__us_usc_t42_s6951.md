@@ -15,7 +15,7 @@
 
 ## § 6951. Functions
 
-The Secretary of Commerce shall encourage greater commercialization of proven resource recovery technology by providing—
+    The Secretary of Commerce shall encourage greater commercialization of proven resource recovery technology by providing—
 
     (1) accurate specifications for recovered materials;
 

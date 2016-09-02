@@ -15,7 +15,7 @@
 
 ## § 3796d. Purposes
 
-The purposes of this part are—
+    The purposes of this part are—
 
     (1) to enhance the appeal of service in public safety agencies;
 

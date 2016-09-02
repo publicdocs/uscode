@@ -15,7 +15,7 @@
 
 ## § 8141. Congressional findings
 
-The Congress finds and declares—
+    The Congress finds and declares—
 
     (1) that artistic, cultural, and historic resources, including urban design, constitute an integral part of a suitable living environment for the residents of the Nation’s urban areas, and should be available to all residents of such areas, regardless of income;
 

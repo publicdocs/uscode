@@ -705,11 +705,19 @@
 
 >                 “(ii) such comparable replacement dwellings shall be designed to remain affordable to persons of low- and moderate-income for 10 years from the time of initial occupancy;
 
->                 “(iii) relocation benefits shall be provided for all low- or moderate-income persons who occupied housing demolished or converted to a use other than for low- or moderate-income housing, including reimbursement for actual and reasonable moving expenses, security deposits, credit checks, and other moving-related expenses, including any interim living costs; and in the case of displaced persons of low- and moderate-income, provide either—         “(I) compensation sufficient to ensure that, for a 5-year period, the displaced families shall not bear, after relocation, a ratio of shelter costs to income that exceeds 30 percent; or
+>                 “(iii)
+
+>                  relocation benefits shall be provided for all low- or moderate-income persons who occupied housing demolished or converted to a use other than for low- or moderate-income housing, including reimbursement for actual and reasonable moving expenses, security deposits, credit checks, and other moving-related expenses, including any interim living costs; and in the case of displaced persons of low- and moderate-income, provide either—
+
+>                          “(I) compensation sufficient to ensure that, for a 5-year period, the displaced families shall not bear, after relocation, a ratio of shelter costs to income that exceeds 30 percent; or
 
 >                          “(II) if elected by a family, a lump-sum payment equal to the capitalized value of the benefits available under subclause (I) to permit the household to secure participation in a housing cooperative or mutual housing association; and
 
->                 “(iv) persons displaced shall be relocated into comparable replacement housing that is—         “(I) decent, safe, and sanitary;
+>                 “(iv)
+
+>                  persons displaced shall be relocated into comparable replacement housing that is—
+
+>                          “(I) decent, safe, and sanitary;
 
 >                          “(II) adequate in size to accommodate the occupants;
 

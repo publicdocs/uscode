@@ -15,7 +15,7 @@
 
 ## § 6725. Statement of assurances as prerequisite for payments; rules governing time and manner of filing; contents of statement
 
-Each State and unit of local government may receive payments under this subchapter only upon filing with the Secretary, at such time and in such manner as the Secretary prescribes by rule, a statement of assurances. Such rules shall be prescribed by the Secretary not later than ninety days after July 22, 1976. The Secretary may not require any State or local government to file more than one such statement during each fiscal year. Each such statement shall contain—
+    Each State and unit of local government may receive payments under this subchapter only upon filing with the Secretary, at such time and in such manner as the Secretary prescribes by rule, a statement of assurances. Such rules shall be prescribed by the Secretary not later than ninety days after July 22, 1976. The Secretary may not require any State or local government to file more than one such statement during each fiscal year. Each such statement shall contain—
 
     (1) an assurance that payments made under this subchapter to the State or local government will be used for the maintenance, to the extent practical, of levels of public employment and of basic services customarily provided to persons in that State or in the area under the jurisdiction of that unit of local government which is consistent with the provisions of [section 6724 of this title][/us/usc/t42/s6724];
 

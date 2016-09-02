@@ -15,13 +15,13 @@
 
 ## § 300a–2. Conduct, etc., of research activities
 
-The Secretary may—
+    The Secretary may—
 
     (1) conduct, and
 
     (2) make grants to public or nonprofit private entities and enter into contracts with public or private entities and individuals for projects for,
 
-        research in the biomedical, contraceptive development, behavioral, and program implementation fields related to family planning and population.
+    research in the biomedical, contraceptive development, behavioral, and program implementation fields related to family planning and population.
 
 ([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title X, § 1004, as added [Pub. L. 91–572, § 6(c)][/us/pl/91/572/s6/c], Dec. 24, 1970, [84 Stat. 1507][/us/stat/84/1507]; amended [Pub. L. 93–45, title I, § 111(c)][/us/pl/93/45/s111/c], June 18, 1973, [87 Stat. 93][/us/stat/87/93]; [Pub. L. 94–63, title II, § 202(c)][/us/pl/94/63/s202/c], title VII, § 701(d), July 29, 1975, [89 Stat. 306][/us/stat/89/306], 352; [Pub. L. 95–83, title III, § 305(c)][/us/pl/95/83/s305/c], Aug. 1, 1977, [91 Stat. 389][/us/stat/91/389]; [Pub. L. 95–613, § 1(b)(3)][/us/pl/95/613/s1/b/3], Nov. 8, 1978, [92 Stat. 3093][/us/stat/92/3093]; [Pub. L. 96–32, § 1(a)][/us/pl/96/32/s1/a], July 10, 1979, [93 Stat. 82][/us/stat/93/82]; [Pub. L. 97–35, title IX, § 931(b)(2)][/us/pl/97/35/s931/b/2], Aug. 13, 1981, [95 Stat. 570][/us/stat/95/570].)
 

@@ -15,7 +15,7 @@
 
 ## § 5592. Priorities
 
-The Secretary shall set priorities, as far as possible consistent with the intent and operation of this subchapter, in accordance with the following criteria:
+    The Secretary shall set priorities, as far as possible consistent with the intent and operation of this subchapter, in accordance with the following criteria:
 
     (1) The applications utilizing photovoltaic systems which will be part of the research, development, and demonstration program and testing and demonstration programs referred to in sections 5583, 5584, 5585, and 5586 of this title shall be located in a sufficient number of different geographic areas in the United States to assure a realistic and effective demonstration of the use of photovoltaic systems and of the applications themselves, in both rural and urban locations and under climatic conditions which vary as much as possible.
 

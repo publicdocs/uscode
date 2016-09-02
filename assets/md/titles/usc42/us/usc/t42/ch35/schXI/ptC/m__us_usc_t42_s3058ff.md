@@ -15,7 +15,7 @@
 
 ## § 3058ff. Rule of construction
 
-Nothing in this subchapter shall be construed to interfere with or abridge the right of an older individual to practice the individual’s religion through reliance on prayer alone for healing, in a case in which a decision to so practice the religion—
+    Nothing in this subchapter shall be construed to interfere with or abridge the right of an older individual to practice the individual’s religion through reliance on prayer alone for healing, in a case in which a decision to so practice the religion—
 
     (1)
 

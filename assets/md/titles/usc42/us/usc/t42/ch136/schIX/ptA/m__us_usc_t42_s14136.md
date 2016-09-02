@@ -67,7 +67,11 @@
 
 >             “(i) under a State statute or a State or local rule, regulation, or practice, enacted or adopted before the date of enactment of this Act (or extended or renewed after such date), in a manner that ensures that reasonable measures are taken by all jurisdictions within the State to preserve such evidence; or
 
->             “(ii) under a State statute or a State or local rule, regulation, or practice, enacted or adopted after the date of enactment of this Act, in a manner comparable to [section 3600A of title 18][/us/usc/t18/s3600A], United States Code, if—         “(I) all jurisdictions within the State comply with this requirement; and
+>             “(ii)
+
+>              under a State statute or a State or local rule, regulation, or practice, enacted or adopted after the date of enactment of this Act, in a manner comparable to [section 3600A of title 18][/us/usc/t18/s3600A], United States Code, if—
+
+>                      “(I) all jurisdictions within the State comply with this requirement; and
 
 >                      “(II) such jurisdictions may preserve such evidence for longer than the period of time that such evidence would be required to be preserved under such section 3600A.”
 

@@ -11,15 +11,33 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch26/schII/m__us_usc_t42_s2473d.md) | [Next](./../../../../..//us/usc/t42/ch26/schII/m__us_usc_t42_s2474 to 2477.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2473e)
+[Previous](./../../../../..//us/usc/t42/ch26/schII/m__us_usc_t42_s2473d.md) | [Next](./../../../../..//us/usc/t42/ch26/schIII/m__us_usc_t42_ch26_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2473e)
 
 ## § 2473e. Repealed. [Pub. L. 109–155, title VII, § 703(b)][/us/pl/109/155/s703/b], Dec. 30, 2005, [119 Stat. 2936][/us/stat/119/2936]
 
     Section, [Pub. L. 108–176, title VII, § 703][/us/pl/108/176/s703], Dec. 12, 2003, [117 Stat. 2579][/us/stat/117/2579], related to the National Aeronautics and Space Administration Science and Technology Scholarship Program.
 
+§§ 2474 to 2477. __Repealed.__  __[__  __Pub. L. 111–314, § 6__  __][/us/pl/111/314/s6]__  __,__  __Dec. 18, 2010__  __,__  __[__  __124 Stat. 3444__  __][/us/stat/124/3444]__ 
+
+    Section 2474, [Pub. L. 85–568, title II, § 204][/us/pl/85/568/s204], July 29, 1958, [72 Stat. 431][/us/stat/72/431]; [Pub. L. 88–426, title III, § 305(13)(B)][/us/pl/88/426/s305/13/B], Aug. 14, 1964, [78 Stat. 423][/us/stat/78/423]; [Pub. L. 88–448, title IV, § 401(g)][/us/pl/88/448/s401/g], Aug. 19, 1964, [78 Stat. 490][/us/stat/78/490], which established the Civilian-Military Liaison Committee, had been previously omitted from the Code due to the abolition of the Committee and transfer of its functions to the President of the United States by sections 1(e) and 3(a) of Reorg. Plan No. 4 of 1965, set out in the Appendix to Title 5, Government Organization and Employees. For restated provisions of subsecs. (b) and (c) of prior section 2474, see [section 20114 of Title 51][/us/usc/t51/s20114], National and Commercial Space Programs.
+
+    Section 2475, [Pub. L. 85–568, title II, § 205][/us/pl/85/568/s205], July 29, 1958, [72 Stat. 432][/us/stat/72/432], authorized international cooperation agreements. See [section 20115 of Title 51][/us/usc/t51/s20115].
+
+    Section 2475a, [Pub. L. 106–391, title I, § 126][/us/pl/106/391/s126], Oct. 30, 2000, [114 Stat. 1585][/us/stat/114/1585], related to competitiveness and international cooperation. See section 30701(a), (b)(2) of Title 51.
+
+    Section 2475b, [Pub. L. 106–391, title III, § 305][/us/pl/106/391/s305], Oct. 30, 2000, [114 Stat. 1592][/us/stat/114/1592], related to foreign contract limitation. See [section 30702 of Title 51][/us/usc/t51/s30702].
+
+    Section 2476, [Pub. L. 85–568, title II, § 206][/us/pl/85/568/s206], July 29, 1958, [72 Stat. 432][/us/stat/72/432]; [Pub. L. 92–68, § 7][/us/pl/92/68/s7], Aug. 6, 1971, [85 Stat. 177][/us/stat/85/177]; [Pub. L. 106–391, title III, § 302(b)][/us/pl/106/391/s302/b], Oct. 30, 2000, [114 Stat. 1591][/us/stat/114/1591], related to reports to Congress. See [section 20116 of Title 51][/us/usc/t51/s20116].
+
+    Section 2476a, [Pub. L. 85–568, title II, § 207][/us/pl/85/568/s207], as added [Pub. L. 93–74, § 7][/us/pl/93/74/s7], July 23, 1973, [87 Stat. 175][/us/stat/87/175]; amended [Pub. L. 103–437, § 15(j)][/us/pl/103/437/s15/j], Nov. 2, 1994, [108 Stat. 4593][/us/stat/108/4593], related to disposal of excess land and approval by congressional committees. See [section 20117 of Title 51][/us/usc/t51/s20117].
+
+    Section 2476b, [Pub. L. 85–568, title II, § 208][/us/pl/85/568/s208], as added [Pub. L. 100–147, title I, § 115][/us/pl/100/147/s115], Oct. 30, 1987, [101 Stat. 866][/us/stat/101/866], related to Administrator’s authority to accept gifts or donations for space shuttle orbiter, terminating five years after Oct. 30, 1987.
+
+    Section 2477, [Pub. L. 90–67, § 6][/us/pl/90/67/s6], Aug. 21, 1967, [81 Stat. 170][/us/stat/81/170]; [Pub. L. 94–307, § 8][/us/pl/94/307/s8], June 4, 1976, [90 Stat. 681][/us/stat/90/681]; [Pub. L. 99–234, title I, § 107(f)][/us/pl/99/234/s107/f], Jan. 2, 1986, [99 Stat. 1759][/us/stat/99/1759]; [Pub. L. 109–155, title I, § 106][/us/pl/109/155/s106], Dec. 30, 2005, [119 Stat. 2912][/us/stat/119/2912], related to Aerospace Safety Advisory Panel. See [section 31101 of Title 51][/us/usc/t51/s31101].
+
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch26/schII/m__us_usc_t42_s2473d.md) | [Next](./../../../../..//us/usc/t42/ch26/schII/m__us_usc_t42_s2474 to 2477.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2473e)
+[Previous](./../../../../..//us/usc/t42/ch26/schII/m__us_usc_t42_s2473d.md) | [Next](./../../../../..//us/usc/t42/ch26/schIII/m__us_usc_t42_ch26_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2473e)
 
 ----------
 ----------
@@ -28,5 +46,47 @@
 [/us/stat/119/2936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2936
 [/us/pl/108/176/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs703
 [/us/stat/117/2579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2579
+[/us/pl/111/314/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs6
+[/us/stat/124/3444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3444
+[/us/pl/85/568/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F568%2Fs204
+[/us/stat/72/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F431
+[/us/pl/88/426/s305/13/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs305%2F13%2FB
+[/us/stat/78/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F423
+[/us/pl/88/448/s401/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F448%2Fs401%2Fg
+[/us/stat/78/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F490
+[/us/usc/t51/s20114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs20114
+[/us/pl/85/568/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F568%2Fs205
+[/us/stat/72/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F432
+[/us/usc/t51/s20115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs20115
+[/us/pl/106/391/s126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F391%2Fs126
+[/us/stat/114/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1585
+[/us/pl/106/391/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F391%2Fs305
+[/us/stat/114/1592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1592
+[/us/usc/t51/s30702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs30702
+[/us/pl/85/568/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F568%2Fs206
+[/us/stat/72/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F432
+[/us/pl/92/68/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F68%2Fs7
+[/us/stat/85/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F177
+[/us/pl/106/391/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F391%2Fs302%2Fb
+[/us/stat/114/1591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1591
+[/us/usc/t51/s20116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs20116
+[/us/pl/85/568/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F568%2Fs207
+[/us/pl/93/74/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F74%2Fs7
+[/us/stat/87/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F175
+[/us/pl/103/437/s15/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs15%2Fj
+[/us/stat/108/4593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4593
+[/us/usc/t51/s20117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs20117
+[/us/pl/85/568/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F568%2Fs208
+[/us/pl/100/147/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F147%2Fs115
+[/us/stat/101/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F866
+[/us/pl/90/67/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F67%2Fs6
+[/us/stat/81/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F170
+[/us/pl/94/307/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F307%2Fs8
+[/us/stat/90/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F681
+[/us/pl/99/234/s107/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234%2Fs107%2Ff
+[/us/stat/99/1759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1759
+[/us/pl/109/155/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F155%2Fs106
+[/us/stat/119/2912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2912
+[/us/usc/t51/s31101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs31101
 
 

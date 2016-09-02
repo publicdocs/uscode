@@ -15,7 +15,7 @@
 
 ## § 13774. Applications
 
-To request a grant under this part the chief local elected official of an area shall—
+    To request a grant under this part the chief local elected official of an area shall—
 
     (1) prepare and submit to the Attorney General an application in such form, at such time, and in accordance with such procedures, as the Attorney General shall establish; and
 

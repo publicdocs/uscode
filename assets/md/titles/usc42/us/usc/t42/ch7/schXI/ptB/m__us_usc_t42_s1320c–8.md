@@ -15,13 +15,13 @@
 
 ## § 1320c–8. Authorization for use of certain funds to administer provisions of this part
 
-Expenses incurred in the administration of the contracts described in [section 1395y(g) of this title][/us/usc/t42/s1395y/g] shall be payable from—
+    Expenses incurred in the administration of the contracts described in [section 1395y(g) of this title][/us/usc/t42/s1395y/g] shall be payable from—
 
     (1) funds in the Federal Hospital Insurance Trust Fund; and
 
     (2) funds in the Federal Supplementary Medical Insurance Trust Fund,
 
-        in such amounts from each of such Trust Funds as the Secretary shall deem to be fair and equitable after taking into consideration the expenses attributable to the administration of this part with respect to each of such programs. The Secretary shall make such transfers of moneys between such Trust Funds as may be appropriate to settle accounts between them in cases where expenses properly payable from one such Trust Fund have been paid from the other such Trust Fund.
+    in such amounts from each of such Trust Funds as the Secretary shall deem to be fair and equitable after taking into consideration the expenses attributable to the administration of this part with respect to each of such programs. The Secretary shall make such transfers of moneys between such Trust Funds as may be appropriate to settle accounts between them in cases where expenses properly payable from one such Trust Fund have been paid from the other such Trust Fund.
 
 ([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1159, as added [Pub. L. 97–248, title I, § 143][/us/pl/97/248/s143], Sept. 3, 1982, [96 Stat. 390][/us/stat/96/390].)
 

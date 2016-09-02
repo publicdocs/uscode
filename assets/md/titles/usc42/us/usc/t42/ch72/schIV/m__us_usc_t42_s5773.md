@@ -25,11 +25,13 @@
 
         (3) provide for the furnishing of information derived from the national toll-free telephone line, established under subsection (b)(1) of this section, to appropriate entities;
 
-        (4) provide adequate staff and agency resources which are necessary to properly carry out the responsibilities pursuant to this subchapter; and
+        (4) coordinate with the United States Interagency Council on Homelessness to ensure that homeless services professionals are aware of educational resources and assistance provided by the Center regarding child sexual exploitation;
 
-        (5)
+        (5) provide adequate staff and agency resources which are necessary to properly carry out the responsibilities pursuant to this subchapter; and
 
-         not later than 180 days after the end of each fiscal year, submit a report to the President, Speaker of the House of Representatives, and the President pro tempore of the Senate—
+        (6)
+
+         not later than 180 days after the end of each fiscal year, submit a report to the President, Speaker of the House of Representatives, the Committee on Education and the Workforce of the House of Representatives, the President pro tempore of the Senate, and the Committee on the Judiciary of the Senate—
 
             (A) containing a comprehensive plan for facilitating cooperation and coordination in the succeeding fiscal year among all agencies and organizations with responsibilities related to missing children;
 
@@ -73,7 +75,7 @@
 
             (C)
 
-             provide to State and local governments, and public and private nonprofit agencies, and individuals, information regarding—
+             provide to State and local governments, public and private nonprofit agencies, State and local educational agencies, and individuals, information regarding—
 
                 (i) free or low-cost legal, restaurant, lodging, and transportation services that are available for the benefit of missing and exploited children and their families; and
 
@@ -137,7 +139,7 @@
 
             (Q) work with law enforcement, Internet service providers, electronic payment service providers, and others on methods to reduce the distribution on the Internet of images and videos of sexually exploited children;
 
-            (R) operate a child victim identification program in order to assist the efforts of law enforcement agencies in identifying victims of child pornography and other sexual crimes; and
+            (R) operate a child victim identification program in order to assist the efforts of law enforcement agencies in identifying victims of child pornography and other sexual crimes;
 
             (S)
 
@@ -145,31 +147,69 @@
 
                 (i) the prevention of child abduction and sexual exploitation; and
 
-                (ii) internet safety.
+                (ii) internet safety;
 
-        (2) __Authorization of appropriations__ 
+            (T) provide technical assistance and training to State and local law enforcement agencies and statewide clearinghouses to coordinate with State and local educational agencies in identifying and recovering missing children;
 
-            There is authorized to be appropriated to the Administrator to carry out this subsection, $40,000,000 for fiscal year 2008 and such sums as may be necessary for fiscal years 2009 through 2013.
+            (U) assist the efforts of law enforcement agencies in coordinating with child welfare agencies to respond to foster children missing from the State welfare system; and
+
+            (V) provide technical assistance to law enforcement agencies and first responders in identifying, locating, and recovering victims of, and children at risk for, child sex trafficking.
+
+        (2) __Limitation__ 
+
+            (A) __In general__ 
+
+                Notwithstanding any other provision of law, no Federal funds may be used to pay the compensation of an individual employed by the Center if such compensation, as determined at the beginning of each grant year, exceeds 110 percent of the maximum annual salary payable to a member of the Federal Government’s Senior Executive Service (SES) for that year. The Center may compensate an employee at a higher rate provided the amount in excess of this limitation is paid with non-Federal funds.
+
+            (B) __Definition of compensation__ 
+
+            For the purpose of this paragraph, the term “compensation”—
+
+                (i) includes salary, bonuses, periodic payments, severance pay, the value of a compensatory or paid leave benefit not excluded by clause (ii), and the fair market value of any employee perquisite or benefit not excluded by clause (ii); and
+
+                (ii) excludes any Center expenditure for health, medical, or life insurance, or disability or retirement pay, including pensions benefits.
 
     (c) __National incidence studies__ 
 
     The Administrator, either by making grants to or entering into contracts with public agencies or nonprofit private agencies, shall—
 
-        (1) periodically conduct national incidence studies to determine for a given year the actual number of children reported missing each year, the number of children who are victims of abduction by strangers, the number of children who are the victims of parental kidnapings, and the number of children who are recovered each year; and
+        (1) triennially conduct national incidence studies to determine for a given year the actual number of children reported missing each year, the number of children who are victims of abduction by strangers, the number of children who are the victims of parental kidnappings, and the number of children who are recovered each year; and
 
-        (2) provide to State and local governments, public and private nonprofit agencies, and individuals information to facilitate the lawful use of school records and birth certificates to identify and locate missing children.
+        (2) provide to State and local governments, public and private nonprofit agencies, and individuals information to facilitate the lawful use of school records and birth certificates, in compliance with the Family Educational Rights and Privacy Act of 1974 ([20 U.S.C. 1232g][/us/usc/t20/s1232g])  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be followed by a comma. </sup></sup>  to identify and locate missing children.
 
     (d) __Independent status of other Federal agencies__ 
 
         Nothing contained in this subchapter shall be construed to grant to the Administrator any law enforcement responsibility or supervisory authority over any other Federal agency.
 
-([Pub. L. 93–415, title IV, § 404][/us/pl/93/415/s404], as added [Pub. L. 98–473, title II, § 660][/us/pl/98/473/s660], Oct. 12, 1984, [98 Stat. 2126][/us/stat/98/2126]; amended [Pub. L. 100–690, title VII, § 7285][/us/pl/100/690/s7285], Nov. 18, 1988, [102 Stat. 4459][/us/stat/102/4459]; [Pub. L. 101–204, title X, § 1004(2)][/us/pl/101/204/s1004/2], Dec. 7, 1989, [103 Stat. 1828][/us/stat/103/1828]; [Pub. L. 106–71, § 2(c)][/us/pl/106/71/s2/c], Oct. 12, 1999, [113 Stat. 1034][/us/stat/113/1034]; [Pub. L. 107–273, div. C, title II, § 12221(b)(2)][/us/pl/107/273/s12221/b/2], Nov. 2, 2002, [116 Stat. 1894][/us/stat/116/1894]; [Pub. L. 108–21, title III][/us/pl/108/21], §§ 321(b), 323, Apr. 30, 2003, [117 Stat. 664][/us/stat/117/664], 665; [Pub. L. 108–96, title II, § 202(a)][/us/pl/108/96/s202/a], Oct. 10, 2003, [117 Stat. 1172][/us/stat/117/1172]; [Pub. L. 110–240, § 3][/us/pl/110/240/s3], June 3, 2008, [122 Stat. 1561][/us/stat/122/1561].)
+([Pub. L. 93–415, title IV, § 404][/us/pl/93/415/s404], as added [Pub. L. 98–473, title II, § 660][/us/pl/98/473/s660], Oct. 12, 1984, [98 Stat. 2126][/us/stat/98/2126]; amended [Pub. L. 100–690, title VII, § 7285][/us/pl/100/690/s7285], Nov. 18, 1988, [102 Stat. 4459][/us/stat/102/4459]; [Pub. L. 101–204, title X, § 1004(2)][/us/pl/101/204/s1004/2], Dec. 7, 1989, [103 Stat. 1828][/us/stat/103/1828]; [Pub. L. 106–71, § 2(c)][/us/pl/106/71/s2/c], Oct. 12, 1999, [113 Stat. 1034][/us/stat/113/1034]; [Pub. L. 107–273, div. C, title II, § 12221(b)(2)][/us/pl/107/273/s12221/b/2], Nov. 2, 2002, [116 Stat. 1894][/us/stat/116/1894]; [Pub. L. 108–21, title III][/us/pl/108/21], §§ 321(b), 323, Apr. 30, 2003, [117 Stat. 664][/us/stat/117/664], 665; [Pub. L. 108–96, title II, § 202(a)][/us/pl/108/96/s202/a], Oct. 10, 2003, [117 Stat. 1172][/us/stat/117/1172]; [Pub. L. 110–240, § 3][/us/pl/110/240/s3], June 3, 2008, [122 Stat. 1561][/us/stat/122/1561]; [Pub. L. 113–38, § 2(b)][/us/pl/113/38/s2/b], Sept. 30, 2013, [127 Stat. 527][/us/stat/127/527].)
+
+ __References in Text__ 
+
+    The Family Educational Rights and Privacy Act of 1974, referred to in subsec. (c)(2), is [section 513 of Pub. L. 93–380][/us/pl/93/380/s513], title V, Aug. 21, 1974, [88 Stat. 571][/us/stat/88/571], which enacted [section 1232g of Title 20][/us/usc/t20/s1232g], Education, and provisions set out as notes under sections 1221 and 1232g of Title 20. For complete classification of this Act to the Code, see Short Title of 1974 Amendment note set out under [section 1221 of Title 20][/us/usc/t20/s1221] and Tables.
 
  __Prior Provisions__ 
 
     A prior [section 404 of Pub. L. 93–415][/us/pl/93/415/s404] amended [section 3882 of this title][/us/usc/t42/s3882], and was repealed by [Pub. L. 95–115, § 10][/us/pl/95/115/s10], Oct. 3, 1977, [91 Stat. 1061][/us/stat/91/1061], and [Pub. L. 107–273, div. C, title II, § 12221(a)(4)][/us/pl/107/273/s12221/a/4], Nov. 2, 2002, [116 Stat. 1894][/us/stat/116/1894].
 
  __Amendments__ 
+
+    2013—Subsec. (a)(4). [Pub. L. 113–38, § 2(b)(1)(C)][/us/pl/113/38/s2/b/1/C], added par. (4). Former par. (4) redesignated (5).
+
+    Subsec. (a)(5). [Pub. L. 113–38, § 2(b)(1)(B)][/us/pl/113/38/s2/b/1/B], redesignated par. (4) as (5). Former par. (5) redesignated (6).
+
+    [Pub. L. 113–38, § 2(b)(1)(A)][/us/pl/113/38/s2/b/1/A], in introductory provisions, substituted “Representatives, the Committee on Education and the Workforce of the House of Representatives,” for “Representatives, and” and inserted “, and the Committee on the Judiciary of the Senate” after “Senate”.
+
+    Subsec. (a)(6). [Pub. L. 113–38, § 2(b)(1)(B)][/us/pl/113/38/s2/b/1/B], redesignated par. (5) as (6).
+
+    Subsec. (b)(1)(C). [Pub. L. 113–38, § 2(b)(2)(A)(i)][/us/pl/113/38/s2/b/2/A/i], in introductory provisions, struck out “and” after “governments,” and inserted “State and local educational agencies,” after “nonprofit agencies,”.
+
+    Subsec. (b)(1)(T) to (V). [Pub. L. 113–38, § 2(b)(2)(A)(ii)][/us/pl/113/38/s2/b/2/A/ii]–(iv), added subpars. (T) to (V).
+
+    Subsec. (b)(2). [Pub. L. 113–38, § 2(b)(2)(B)][/us/pl/113/38/s2/b/2/B], amended par. (2) generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to the Administrator to carry out this subsection, $40,000,000 for fiscal year 2008 and such sums as may be necessary for fiscal years 2009 through 2013.”
+
+    Subsec. (c)(1). [Pub. L. 113–38, § 2(b)(3)][/us/pl/113/38/s2/b/3], substituted “triennially” for “periodically” and “kidnappings” for “kidnapings”.
+
+    Subsec. (c)(2). [Pub. L. 113–38, § 2(b)(4)][/us/pl/113/38/s2/b/4], inserted “, in compliance with the Family Educational Rights and Privacy Act of 1974 ([20 U.S.C. 1232g][/us/usc/t20/s1232g])” after “birth certificates”.
 
     2008—Subsec. (b)(1). [Pub. L. 110–240, § 3(1)][/us/pl/110/240/s3/1], amended par. (1) generally. Prior to amendment, par. (1) consisted of subpars. (A) to (H) relating to annual grants to Center.
 
@@ -219,11 +259,11 @@
 
  __Effective Date of 1988 Amendment__ 
 
-    Amendment by [Pub. L. 100–690][/us/pl/100/690] effective Oct. 1, 1988, with the report required by subsec. (a)(5) of this section with respect to fiscal year 1988 to be submitted not later than Aug. 1, 1989, notwithstanding the 180-day period provided in subsec. (a)(5) of this section, see section 7296(a), (b)(3) of [Pub. L. 100–690][/us/pl/100/690], as amended, set out as a note under [section 5601 of this title][/us/usc/t42/s5601].
+    Amendment by [Pub. L. 100–690][/us/pl/100/690] effective Oct. 1, 1988, with the report required by subsec. (a)(6) of this section with respect to fiscal year 1988 to be submitted not later than Aug. 1, 1989, notwithstanding the 180-day period provided in subsec. (a)(6) of this section, see section 7296(a), (b)(3) of [Pub. L. 100–690][/us/pl/100/690], as amended, set out as a note under [section 5601 of this title][/us/usc/t42/s5601].
 
  __Termination of Reporting Requirements__ 
 
-    For termination, effective May 15, 2000, of provisions in subsec. (a)(5) of this section relating to submittal of annual report to the Speaker of the House of Representatives and the President pro tempore of the Senate, see [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance, and the 2nd item on page 122 of House Document No. 103–7.
+    For termination, effective May 15, 2000, of provisions in subsec. (a)(6) of this section relating to submittal of annual report to the Speaker of the House of Representatives and the President pro tempore of the Senate, see [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance, and the 2nd item on page 122 of House Document No. 103–7.
 
 ----------
 
@@ -236,6 +276,7 @@
 [/us/usc/t42/s5775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5775
 [/us/usc/t42/s5775/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5775%2Fa%2F9
 [/us/usc/t42/s5775/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5775%2Fa%2F9
+[/us/usc/t20/s1232g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1232g
 [/us/pl/93/415/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs404
 [/us/pl/98/473/s660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs660
 [/us/stat/98/2126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2126
@@ -253,12 +294,28 @@
 [/us/stat/117/1172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1172
 [/us/pl/110/240/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F240%2Fs3
 [/us/stat/122/1561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1561
+[/us/pl/113/38/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F38%2Fs2%2Fb
+[/us/stat/127/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F527
+[/us/pl/93/380/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs513
+[/us/stat/88/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F571
+[/us/usc/t20/s1232g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1232g
+[/us/usc/t20/s1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1221
 [/us/pl/93/415/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs404
 [/us/usc/t42/s3882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3882
 [/us/pl/95/115/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115%2Fs10
 [/us/stat/91/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1061
 [/us/pl/107/273/s12221/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs12221%2Fa%2F4
 [/us/stat/116/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1894
+[/us/pl/113/38/s2/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F38%2Fs2%2Fb%2F1%2FC
+[/us/pl/113/38/s2/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F38%2Fs2%2Fb%2F1%2FB
+[/us/pl/113/38/s2/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F38%2Fs2%2Fb%2F1%2FA
+[/us/pl/113/38/s2/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F38%2Fs2%2Fb%2F1%2FB
+[/us/pl/113/38/s2/b/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F38%2Fs2%2Fb%2F2%2FA%2Fi
+[/us/pl/113/38/s2/b/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F38%2Fs2%2Fb%2F2%2FA%2Fii
+[/us/pl/113/38/s2/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F38%2Fs2%2Fb%2F2%2FB
+[/us/pl/113/38/s2/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F38%2Fs2%2Fb%2F3
+[/us/pl/113/38/s2/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F38%2Fs2%2Fb%2F4
+[/us/usc/t20/s1232g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1232g
 [/us/pl/110/240/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F240%2Fs3%2F1
 [/us/pl/110/240/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F240%2Fs3%2F2
 [/us/pl/108/21/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F21%2Fs323

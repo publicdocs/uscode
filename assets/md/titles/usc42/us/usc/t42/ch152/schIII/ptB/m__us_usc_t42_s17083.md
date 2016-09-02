@@ -15,7 +15,7 @@
 
 ## § 17083. Public outreach
 
-The Commercial Director and Federal Director, in coordination with the Consortium, shall carry out public outreach to inform individuals and entities of the information and services available governmentwide by—
+    The Commercial Director and Federal Director, in coordination with the Consortium, shall carry out public outreach to inform individuals and entities of the information and services available governmentwide by—
 
     (1)
 

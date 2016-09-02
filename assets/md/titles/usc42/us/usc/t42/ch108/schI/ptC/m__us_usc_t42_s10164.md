@@ -15,7 +15,7 @@
 
 ## § 10164. Survey
 
-After the MRS Commission submits its report to the Congress under [section 10163 of this title][/us/usc/t42/s10163], the Secretary may conduct a survey and evaluation of potentially suitable sites for a monitored retrievable storage facility. In conducting such survey and evaluation, the Secretary shall consider the extent to which siting a monitored retrievable storage facility at each site surveyed would—
+    After the MRS Commission submits its report to the Congress under [section 10163 of this title][/us/usc/t42/s10163], the Secretary may conduct a survey and evaluation of potentially suitable sites for a monitored retrievable storage facility. In conducting such survey and evaluation, the Secretary shall consider the extent to which siting a monitored retrievable storage facility at each site surveyed would—
 
     (1) enhance the reliability and flexibility of the system for the disposal of spent nuclear fuel and high-level radioactive waste established under this chapter;
 

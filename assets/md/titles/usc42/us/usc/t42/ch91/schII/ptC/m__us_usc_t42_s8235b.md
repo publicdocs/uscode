@@ -15,7 +15,7 @@
 
 ## § 8235b. Applications for approval of plans for prototype residential energy efficiency programs
 
-Each application for the approval of a plan under [section 8235a(a) of this title][/us/usc/t42/s8235a/a] for the establishment of a prototype residential energy efficiency program shall be submitted by a State or local government and shall include, at least—
+    Each application for the approval of a plan under [section 8235a(a) of this title][/us/usc/t42/s8235a/a] for the establishment of a prototype residential energy efficiency program shall be submitted by a State or local government and shall include, at least—
 
     (1) a description of the plan, including the provisions of the plan specified in [section 8235a(a) of this title][/us/usc/t42/s8235a/a] and a description of the portion of the service area of the public utility proposing to enter into a contract under [section 8235a(a)(1) of this title][/us/usc/t42/s8235a/a/1] which is designated under the contract;
 

@@ -537,7 +537,7 @@
 
 >     “(B) the effective date of laws enacted by the legislature of such State implementing such amendments,
 
->         but in no event later than the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date specified in subparagraph (A). For purposes of the preceding sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.”
+>     but in no event later than the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date specified in subparagraph (A). For purposes of the preceding sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.”
 
 \[[Pub. L. 105–306, § 4(b)(2)][/us/pl/105/306/s4/b/2], Oct. 28, 1998, [112 Stat. 2927][/us/stat/112/2927], provided that: 
 
@@ -593,7 +593,7 @@
 
 >     “(2) the date of enactment by the legislature of such State of all laws required by such amendments,
 
->         but in no event later than the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of enactment of this Act \[Aug. 10, 1993\]. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.”
+>     but in no event later than the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of enactment of this Act \[Aug. 10, 1993\]. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.”
 
  __Effective Date of 1989 Amendment__ 
 

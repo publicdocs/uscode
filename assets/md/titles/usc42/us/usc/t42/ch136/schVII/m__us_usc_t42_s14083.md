@@ -15,7 +15,7 @@
 
 ## § 14083. More agents for Drug Enforcement Administration
 
-There are authorized to be appropriated for the hiring of additional Drug Enforcement Administration agents—
+    There are authorized to be appropriated for the hiring of additional Drug Enforcement Administration agents—
 
     (1) $12,000,000 for fiscal year 1996;
 

@@ -15,7 +15,7 @@
 
 ## § 4854a. Testing technologies
 
-The Secretary, in cooperation with other Federal agencies, shall conduct research to—
+    The Secretary, in cooperation with other Federal agencies, shall conduct research to—
 
     (1) develop improved methods for evaluating lead-based paint hazards in housing;
 

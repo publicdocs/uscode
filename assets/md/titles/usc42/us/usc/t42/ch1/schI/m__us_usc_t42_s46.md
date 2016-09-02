@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch1/schI/m__us_usc_t42_s44, 45.md) | [Next](./../../../../..//us/usc/t42/ch1/schII/m__us_usc_t42_ch1_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs46)
+[Previous](./../../../../..//us/usc/t42/ch1/schI/m__us_usc_t42_s27.md) | [Next](./../../../../..//us/usc/t42/ch1/schII/m__us_usc_t42_ch1_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs46)
 
 ## § 46. Omitted
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch1/schI/m__us_usc_t42_s44, 45.md) | [Next](./../../../../..//us/usc/t42/ch1/schII/m__us_usc_t42_ch1_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs46)
+[Previous](./../../../../..//us/usc/t42/ch1/schI/m__us_usc_t42_s27.md) | [Next](./../../../../..//us/usc/t42/ch1/schII/m__us_usc_t42_ch1_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs46)
 
 ----------
 ----------

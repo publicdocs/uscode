@@ -15,7 +15,7 @@
 
 ## § 1962c–2. State programs; approval by Council; submission; requirements; notice and hearing prior to disapproval
 
-The Council shall approve any program for comprehensive water and related land resources planning which is submitted by a State, if such program—
+    The Council shall approve any program for comprehensive water and related land resources planning which is submitted by a State, if such program—
 
     (1) provides for comprehensive planning with respect to intrastate or interstate water resources, or both, in such State to meet the needs for water and water-related activities taking into account prospective demands for all purposes served through or affected by water and related land resources development, with adequate provision for coordination with all Federal, State, and local agencies, and nongovernmental entities having responsibilities in affected fields;
 
@@ -29,7 +29,7 @@ The Council shall approve any program for comprehensive water and related land r
 
     (6) provides such accounting, budgeting, and other fiscal methods and procedures as are necessary for keeping appropriate accountability of the funds and for the proper and efficient administration of the program.
 
-        The Council shall not disapprove any program without first giving reasonable notice and opportunity for hearing to the State agency administering such program.
+    The Council shall not disapprove any program without first giving reasonable notice and opportunity for hearing to the State agency administering such program.
 
 ([Pub. L. 89–80, title III, § 303][/us/pl/89/80/s303], July 22, 1965, [79 Stat. 252][/us/stat/79/252].)
 

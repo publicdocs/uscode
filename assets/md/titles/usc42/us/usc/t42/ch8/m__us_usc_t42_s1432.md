@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch8/m__us_usc_t42_s1427 to 1431.md) | [Next](./../../../..//us/usc/t42/ch8/m__us_usc_t42_s1433.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1432)
+[Previous](./../../../..//us/usc/t42/ch8/m__us_usc_t42_s1417.md) | [Next](./../../../..//us/usc/t42/ch8/m__us_usc_t42_s1433.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1432)
 
 ## § 1432. Repealed. [July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title VI, § 606, [63 Stat. 441][/us/stat/63/441]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch8/m__us_usc_t42_s1427 to 1431.md) | [Next](./../../../..//us/usc/t42/ch8/m__us_usc_t42_s1433.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1432)
+[Previous](./../../../..//us/usc/t42/ch8/m__us_usc_t42_s1417.md) | [Next](./../../../..//us/usc/t42/ch8/m__us_usc_t42_s1433.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1432)
 
 ----------
 ----------

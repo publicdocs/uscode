@@ -15,7 +15,7 @@
 
 ## § 300j–21. Definitions
 
-As used in this part—
+    As used in this part—
 
     (1) __Drinking water cooler__ 
 

@@ -15,7 +15,7 @@
 
 ## § 17613. Purpose of ICAC task forces
 
-The ICAC Task Force Program, and each State or local ICAC task force that is part of the national program of task forces, shall be dedicated toward—
+    The ICAC Task Force Program, and each State or local ICAC task force that is part of the national program of task forces, shall be dedicated toward—
 
     (1) increasing the investigative capabilities of State and local law enforcement officers in the detection, investigation, and apprehension of Internet crimes against children offenses or offenders, including technology-facilitated child exploitation offenses;
 

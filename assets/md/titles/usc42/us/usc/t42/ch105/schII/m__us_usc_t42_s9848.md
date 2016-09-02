@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch105/schII/m__us_usc_t42_s9846a, 9847.md) | [Next](./../../../../..//us/usc/t42/ch105/schII/m__us_usc_t42_s9849.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9848)
+[Previous](./../../../../..//us/usc/t42/ch105/schII/m__us_usc_t42_s9846.md) | [Next](./../../../../..//us/usc/t42/ch105/schII/m__us_usc_t42_s9849.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9848)
 
 ## § 9848. Comparability of wages
 
@@ -47,7 +47,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch105/schII/m__us_usc_t42_s9846a, 9847.md) | [Next](./../../../../..//us/usc/t42/ch105/schII/m__us_usc_t42_s9849.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9848)
+[Previous](./../../../../..//us/usc/t42/ch105/schII/m__us_usc_t42_s9846.md) | [Next](./../../../../..//us/usc/t42/ch105/schII/m__us_usc_t42_s9849.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9848)
 
 ----------
 ----------

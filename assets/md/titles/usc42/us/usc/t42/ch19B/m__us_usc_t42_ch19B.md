@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch19A/schIII/m__us_usc_t42_s1961c to 1961c–8.md) | [Next](./../../../..//us/usc/t42/ch19B/m__us_usc_t42_s1962.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch19B)
+[Previous](./../../../..//us/usc/t42/ch19A/schIII/m__us_usc_t42_ch19A_schIII.md) | [Next](./../../../..//us/usc/t42/ch19B/m__us_usc_t42_s1962.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch19B)
 
 ## CHAPTER 19B—WATER RESOURCES PLANNING
 
@@ -491,7 +491,7 @@ SUBCHAPTER IV—MISCELLANEOUS PROVISIONS  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch19A/schIII/m__us_usc_t42_s1961c to 1961c–8.md) | [Next](./../../../..//us/usc/t42/ch19B/m__us_usc_t42_s1962.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch19B)
+[Previous](./../../../..//us/usc/t42/ch19A/schIII/m__us_usc_t42_ch19A_schIII.md) | [Next](./../../../..//us/usc/t42/ch19B/m__us_usc_t42_s1962.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch19B)
 
 ----------
 ----------

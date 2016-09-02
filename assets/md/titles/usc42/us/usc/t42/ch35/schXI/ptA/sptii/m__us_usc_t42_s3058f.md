@@ -15,7 +15,7 @@
 
 ## § 3058f. Definitions
 
-As used in this subpart:
+    As used in this subpart:
 
     (1) __Office__ 
 

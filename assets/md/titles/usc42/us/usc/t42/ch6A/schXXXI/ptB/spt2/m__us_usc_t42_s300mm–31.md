@@ -91,9 +91,13 @@
 
                     (II) __Timing__ 
 
-                        (aa) Currently identified survivors    In the case of an individual who is described in subparagraph (A)(i), the WTC Program Administrator shall provide the written documentation under subclause (I) not later than July 1, 2011.
+                        (aa) __Currently identified survivors__ 
 
-                        (bb) Other members    In the case of another individual who is determined under clause (i) and consistent with paragraph (3) to be a screening-eligible WTC survivor, the WTC Program Administrator shall provide the written documentation under subclause (I) at the time of such determination.
+                            In the case of an individual who is described in subparagraph (A)(i), the WTC Program Administrator shall provide the written documentation under subclause (I) not later than July 1, 2011.
+
+                        (bb) __Other members__ 
+
+                            In the case of another individual who is determined under clause (i) and consistent with paragraph (3) to be a screening-eligible WTC survivor, the WTC Program Administrator shall provide the written documentation under subclause (I) at the time of such determination.
 
         (2) __Certified-eligible WTC survivors__ 
 

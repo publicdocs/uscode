@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch7/schXVIII/ptB/m__us_usc_t42_s1395s.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXVIII/ptB/m__us_usc_t42_s1395t–1, 1395t–2.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395t)
+[Previous](./../../../../../..//us/usc/t42/ch7/schXVIII/ptB/m__us_usc_t42_s1395s.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXVIII/ptB/m__us_usc_t42_s1395u.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395t)
 
 ## § 1395t. Federal Supplementary Medical Insurance Trust Fund
 
@@ -171,9 +171,19 @@
 
     Notwithstanding subsec. (b)(2) of this section, the annual report of the Board of Trustees of the Trust Fund required for calendar year 1983 under this section may be filed at any time not later than forty-five days after Apr. 20, 1983, see [section 154(d) of Pub. L. 98–21][/us/pl/98/21/s154/d], set out as a note under [section 401 of this title][/us/usc/t42/s401].
 
+§§ 1395t–1, 1395t–2. __Repealed.__  __[__  __Pub. L. 101–234, title II, § 202(a)__  __][/us/pl/101/234/s202/a]__  __,__  __Dec. 13, 1989__  __,__  __[__  __103 Stat. 1981__  __][/us/stat/103/1981]__ 
+
+    Section 1395t–1, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1841A, as added July 1, 1988, [Pub. L. 100–360, title II, § 212(a)][/us/pl/100/360/s212/a], [102 Stat. 739][/us/stat/102/739]; amended Oct. 13, 1988, [Pub. L. 100–485, title VI, § 608(d)(10)(A)][/us/pl/100/485/s608/d/10/A], [102 Stat. 2415][/us/stat/102/2415], provided for the creation of the Federal Catastrophic Drug Insurance Trust Fund.
+
+    Section 1395t–2, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1841B, as added July 1, 1988, [Pub. L. 100–360, title II, § 213][/us/pl/100/360/s213], formerly § 213(a), [102 Stat. 741][/us/stat/102/741], as redesignated Oct. 13, 1988, [Pub. L. 100–485, title VI, § 608(d)(11)][/us/pl/100/485/s608/d/11], [102 Stat. 2415][/us/stat/102/2415], provided for the creation of the Medicare Catastrophic Coverage Account.
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective Jan. 1, 1990, see [section 202(b) of Pub. L. 101–234][/us/pl/101/234/s202/b], set out as an Effective Date of 1989 Amendment note under [section 401 of this title][/us/usc/t42/s401].
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch7/schXVIII/ptB/m__us_usc_t42_s1395s.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXVIII/ptB/m__us_usc_t42_s1395t–1, 1395t–2.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395t)
+[Previous](./../../../../../..//us/usc/t42/ch7/schXVIII/ptB/m__us_usc_t42_s1395s.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXVIII/ptB/m__us_usc_t42_s1395u.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395t)
 
 ----------
 ----------
@@ -293,6 +303,20 @@
 [/us/usc/t42/s1395i–1a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%931a%2Fa
 [/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
 [/us/pl/98/21/s154/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs154%2Fd
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
+[/us/pl/101/234/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234%2Fs202%2Fa
+[/us/stat/103/1981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1981
+[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
+[/us/pl/100/360/s212/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs212%2Fa
+[/us/stat/102/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F739
+[/us/pl/100/485/s608/d/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F10%2FA
+[/us/stat/102/2415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2415
+[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
+[/us/pl/100/360/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs213
+[/us/stat/102/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F741
+[/us/pl/100/485/s608/d/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs608%2Fd%2F11
+[/us/stat/102/2415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2415
+[/us/pl/101/234/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234%2Fs202%2Fb
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 
 

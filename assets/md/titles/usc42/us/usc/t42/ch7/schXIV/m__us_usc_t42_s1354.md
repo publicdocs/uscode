@@ -15,19 +15,19 @@
 
 ## § 1354. Operation of State plans
 
-In the case of any State plan for aid to the permanently and totally disabled which has been approved by the Secretary of Health and Human Services, if the Secretary after reasonable notice and opportunity for hearing to the State agency administering or supervising the administration of such plan, finds—
+    In the case of any State plan for aid to the permanently and totally disabled which has been approved by the Secretary of Health and Human Services, if the Secretary after reasonable notice and opportunity for hearing to the State agency administering or supervising the administration of such plan, finds—
 
     (1) that the plan has been so changed as to impose any residence or citizenship requirement prohibited by [section 1352(b) of this title][/us/usc/t42/s1352/b], or that in the administration of the plan any such prohibited requirement is imposed, with the knowledge of such State agency, in a substantial number of cases; or
 
     (2) that in the administration of the plan there is a failure to comply substantially with any provision required by [section 1352(a) of this title][/us/usc/t42/s1352/a] to be included in the plan;
 
-        the Secretary shall notify such State agency that further payments will not be made to the State (or, in his discretion, that payments will be limited to categories under or parts of the State plan not affected by such failure) until he is satisfied that such prohibited requirement is no longer so imposed, and that there is no longer any such failure to comply. Until he is so satisfied he shall make no further payments to such State (or shall limit payments to categories under or parts of the State plan not affected by such failure).
+    the Secretary shall notify such State agency that further payments will not be made to the State (or, in his discretion, that payments will be limited to categories under or parts of the State plan not affected by such failure) until he is satisfied that such prohibited requirement is no longer so imposed, and that there is no longer any such failure to comply. Until he is so satisfied he shall make no further payments to such State (or shall limit payments to categories under or parts of the State plan not affected by such failure).
 
 ([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIV, § 1404, as added [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title III, pt. 5, § 351, [64 Stat. 557][/us/stat/64/557]; amended 1953 Reorg. Plan No. 1, §§ 5, 8 eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Pub. L. 90–248, title II, § 245][/us/pl/90/248/s245], Jan. 2, 1968, [81 Stat. 918][/us/stat/81/918]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
 
  __Repeal of Section__ 
 
-[Pub. L. 92–603, title III, § 303(a)][/us/pl/92/603/s303/a], (b), Oct. 30, 1972, [86 Stat. 1484][/us/stat/86/1484], provided that this section is repealed effective Jan. 1, 1974, except with respect to Puerto Rico, Guam, and the Virgin Islands.
+    [Pub. L. 92–603, title III, § 303(a)][/us/pl/92/603/s303/a], (b), Oct. 30, 1972, [86 Stat. 1484][/us/stat/86/1484], provided that this section is repealed effective Jan. 1, 1974, except with respect to Puerto Rico, Guam, and the Virgin Islands.
 
  __Amendments__ 
 

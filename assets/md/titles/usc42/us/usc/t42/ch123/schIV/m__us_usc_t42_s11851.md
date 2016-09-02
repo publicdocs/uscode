@@ -15,7 +15,7 @@
 
 ## § 11851. Definitions
 
-Unless otherwise defined by an Act amended by this title, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  for purposes of this title  <sup>\[1\]</sup>  and the amendments made by this title—  <sup>\[1\]</sup> 
+    Unless otherwise defined by an Act amended by this title, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  for purposes of this title  <sup>\[1\]</sup>  and the amendments made by this title—  <sup>\[1\]</sup> 
 
     (1) the term “community based” has the meaning given it in [section 5603(1) of this title][/us/usc/t42/s5603/1],
 

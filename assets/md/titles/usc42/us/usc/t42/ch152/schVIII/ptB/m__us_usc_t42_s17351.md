@@ -15,7 +15,7 @@
 
 ## § 17351. Definitions
 
-In this part:
+    In this part:
 
     (1) __Board__ 
 

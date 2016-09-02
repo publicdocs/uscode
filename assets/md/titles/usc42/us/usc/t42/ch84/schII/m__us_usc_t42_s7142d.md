@@ -15,7 +15,7 @@
 
 ## § 7142d. Definitions
 
-For purposes of sections 7142a to 7142d of this title:
+    For purposes of sections 7142a to 7142d of this title:
 
     (1) __Museum__ 
 

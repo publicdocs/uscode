@@ -15,7 +15,7 @@
 
 ## § 9702. Definitions
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (1) the term “Secretary” means the Secretary of Energy;
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch37/m__us_usc_t42_s3102, 3103.md) | [Next](./../../../..//us/usc/t42/ch37/m__us_usc_t42_s3105.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3104)
+[Previous](./../../../..//us/usc/t42/ch37/m__us_usc_t42_s3101.md) | [Next](./../../../..//us/usc/t42/ch37/m__us_usc_t42_s3105.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3104)
 
 ## § 3104. Advance acquisition of land for public purposes
 
@@ -55,7 +55,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch37/m__us_usc_t42_s3102, 3103.md) | [Next](./../../../..//us/usc/t42/ch37/m__us_usc_t42_s3105.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3104)
+[Previous](./../../../..//us/usc/t42/ch37/m__us_usc_t42_s3101.md) | [Next](./../../../..//us/usc/t42/ch37/m__us_usc_t42_s3105.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3104)
 
 ----------
 ----------

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptC/m__us_usc_t42_s248c, 248d.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptC/m__us_usc_t42_s250.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs249)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptC/m__us_usc_t42_s248b.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptC/m__us_usc_t42_s250.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs249)
 
 ## § 249. Medical care and treatment of quarantined and detained persons
 
@@ -87,11 +87,11 @@
 
  __Foreign Seamen__ 
 
-    Section 810(c), formerly § 710(c), of act July 1, 1944, as renumbered by acts [Aug. 13, 1946, ch. 958, § 5][/us/act/1946-08-13/ch958/s5], [60 Stat. 1049][/us/stat/60/1049]; [July 30, 1956, ch. 779, § 3(b)][/us/act/1956-07-30/ch779/s3/b], [70 Stat. 720][/us/stat/70/720], which gave foreign seamen the same benefits as accorded seamen employed on United States vessels under subsec. (a)(1) of this section, was repealed effective Jan. 25, 1948, by Joint Res. [July 25, 1947, ch. 327, § 2(b)][/us/act/1947-07-25/ch327/s2/b], [61 Stat. 451][/us/stat/61/451].
+    Section 810(c), formerly § 710(c), of act July 1, 1944, as renumbered by acts [Aug. 13, 1946, ch. 958, § 5][/us/act/1946-08-13/ch958/s5], [60 Stat. 1049][/us/stat/60/1049]; [July 30, 1956, ch. 779, § 3(b)][/us/act/1956-07-30/ch779/s3/b], [70 Stat. 721][/us/stat/70/721], which gave foreign seamen the same benefits as accorded seamen employed on United States vessels under subsec. (a)(1) of this section, was repealed effective Jan. 25, 1948, by Joint Res. [July 25, 1947, ch. 327, § 2(b)][/us/act/1947-07-25/ch327/s2/b], [61 Stat. 451][/us/stat/61/451].
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptC/m__us_usc_t42_s248c, 248d.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptC/m__us_usc_t42_s250.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs249)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptC/m__us_usc_t42_s248b.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptC/m__us_usc_t42_s250.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs249)
 
 ----------
 ----------
@@ -130,7 +130,7 @@
 [/us/act/1946-08-13/ch958/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-13%2Fch958%2Fs5
 [/us/stat/60/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1049
 [/us/act/1956-07-30/ch779/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-30%2Fch779%2Fs3%2Fb
-[/us/stat/70/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F720
+[/us/stat/70/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F721
 [/us/act/1947-07-25/ch327/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-25%2Fch327%2Fs2%2Fb
 [/us/stat/61/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F451
 

@@ -15,7 +15,7 @@
 
 ## § 9811. Limitation on assistance
 
-No financial assistance shall be provided under this part unless the Secretary determines that—
+    No financial assistance shall be provided under this part unless the Secretary determines that—
 
     (1) any cooperative association receiving assistance has a minimum of fifteen active members, a majority of which are low-income rural persons;
 

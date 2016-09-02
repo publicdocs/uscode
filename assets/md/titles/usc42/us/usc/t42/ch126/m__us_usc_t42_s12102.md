@@ -15,7 +15,7 @@
 
 ## § 12102. Definition of disability
 
-As used in this chapter:
+    As used in this chapter:
 
     (1) __Disability__ 
 

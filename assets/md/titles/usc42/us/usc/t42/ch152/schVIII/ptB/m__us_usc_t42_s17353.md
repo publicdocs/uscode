@@ -15,7 +15,7 @@
 
 ## § 17353. Duties of Foundation
 
-The Foundation shall—
+    The Foundation shall—
 
     (1) use the funds authorized by this part to make grants to promote projects outside of the United States that serve as models of how to significantly reduce the emissions of global greenhouse gases through clean and efficient energy technologies, processes, and services;
 

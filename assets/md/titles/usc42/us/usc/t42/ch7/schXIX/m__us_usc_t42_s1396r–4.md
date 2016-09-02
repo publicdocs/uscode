@@ -2233,7 +2233,7 @@
 
 >     “(B) in the case of a State with a State legislature which is not scheduled to have a regular legislative session in 1994, the end of the State fiscal year that ends during 1995;
 
->         without regard to whether or not final regulations to carry out such amendments have been promulgated by either such date.”
+>     without regard to whether or not final regulations to carry out such amendments have been promulgated by either such date.”
 
 [Pub. L. 103–66, title XIII, § 13621(b)(3)][/us/pl/103/66/s13621/b/3], Aug. 10, 1993, [107 Stat. 631][/us/stat/107/631], provided that:
 

@@ -15,7 +15,7 @@
 
 ## § 3796kk–2. Application requirements
 
-No grant may be made under this subchapter unless an application has been submitted to the Attorney General in which the applicant certifies that—
+    No grant may be made under this subchapter unless an application has been submitted to the Attorney General in which the applicant certifies that—
 
     (1) DNA analyses performed at the laboratory will satisfy or exceed then current standards for a quality assurance program for DNA analysis issued by the Director of the Federal Bureau of Investigation under [section 14131 of this title][/us/usc/t42/s14131]. <sup>\[1\]</sup>  <sup><sup> 1 So in original. The period probably should be a semicolon. </sup></sup> 
 

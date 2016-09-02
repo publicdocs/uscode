@@ -371,7 +371,7 @@
 
 >     “(3) published in the National Priorities List.
 
->         In preparing such plans, the Secretary of Energy shall consult with the Administrator of the Environmental Protection Agency.”
+>     In preparing such plans, the Secretary of Energy shall consult with the Administrator of the Environmental Protection Agency.”
 
 ----------
 

@@ -15,7 +15,7 @@
 
 ## § 7142b. Authority
 
-To carry out the activities of the Museum, the Secretary may—
+    To carry out the activities of the Museum, the Secretary may—
 
     (1)
 

@@ -41,13 +41,13 @@
 
 >         (A) The provisions of the Public Health Service Act referred to in subparagraph (B), as similarly amended by the enactment of the bill, S. 1727, of the One Hundredth Congress, by subtitle A of title I of the Health Omnibus Programs Extension of 1988, and by subsection (a)(1) of this section, are amended to read as if the amendments made by such subtitle A and such subsection (a)(1) had not been enacted.
 
->         “(B) The provisions of the Public Health Service Act referred to in subparagraph (A) are—
+>         “(B)
 
->         “(A) sections 401(b)(1) and 457 \[[42 U.S.C. 281(b)(1)][/us/usc/t42/s281/b/1], 285j\];
+>          The provisions of the Public Health Service Act referred to in subparagraph (A) are—    “(A) sections 401(b)(1) and 457 \[[42 U.S.C. 281(b)(1)][/us/usc/t42/s281/b/1], 285j\];
 
->         “(B) part C of title IV \[[42 U.S.C. 285][/us/usc/t42/s285] et seq.\]; and
+>             “(B) part C of title IV \[[42 U.S.C. 285][/us/usc/t42/s285] et seq.\]; and
 
->         “(C) the heading for subpart 10 of such part C \[42 U.S.C. prec. 285j\].
+>             “(C) the heading for subpart 10 of such part C \[42 U.S.C. prec. 285j\].
 
 >     “(3) Subsection (a)(2) of this section \[formerly set out below\] is repealed.”
 

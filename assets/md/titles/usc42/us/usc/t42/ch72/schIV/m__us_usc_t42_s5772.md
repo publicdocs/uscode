@@ -15,7 +15,7 @@
 
 ## § 5772. Definitions
 
-For the purpose of this subchapter—
+    For the purpose of this subchapter—
 
     (1) the term “missing child” means any individual less than 18 years of age whose whereabouts are unknown to such individual’s legal custodian;
 

@@ -15,7 +15,7 @@
 
 ## § 411. Definitions relating to self-employment
 
-For the purposes of this subchapter—
+    For the purposes of this subchapter—
 
     (a) __Net earnings from self-employment__ 
 

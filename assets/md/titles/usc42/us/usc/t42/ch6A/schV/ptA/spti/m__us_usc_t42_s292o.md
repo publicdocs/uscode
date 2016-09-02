@@ -15,7 +15,7 @@
 
 ## § 292o. Definitions
 
-For purposes of this subpart:
+    For purposes of this subpart:
 
     (1) The term “eligible institution” means, with respect to a fiscal year, a school of medicine, osteopathic medicine, dentistry, veterinary medicine, optometry, podiatric medicine, pharmacy, public health, allied health, or chiropractic, or a graduate program in health administration or behavioral and mental health practice, including clinical psychology.
 

@@ -3341,7 +3341,7 @@
 
 >     “(3) the total of benefits to which all persons are entitled under section 202 of such Act on the basis of such wages and self-employment income for January 1979 is reduced by reason of section 203(a) of such Act as amended by this Act \[[42 U.S.C. 403(a)][/us/usc/t42/s403/a]\] (or would, but for the first sentence of section 203(a)(4), be so reduced),
 
->         then the amount of the benefit to which each such person referred to in paragraph (1) is entitled for months after December 1978 shall in no case be less after the application of this section \[see [section 336(c)(1) of Pub. L. 95–216][/us/pl/95/216/s336/c/1], set out as an Effective Date of 1977 Amendment note under this section\] and such section 203(a) \[[42 U.S.C. 403(a)][/us/usc/t42/s403/a]\] than the amount it would have been without the application of this section.”
+>     then the amount of the benefit to which each such person referred to in paragraph (1) is entitled for months after December 1978 shall in no case be less after the application of this section \[see [section 336(c)(1) of Pub. L. 95–216][/us/pl/95/216/s336/c/1], set out as an Effective Date of 1977 Amendment note under this section\] and such section 203(a) \[[42 U.S.C. 403(a)][/us/usc/t42/s403/a]\] than the amount it would have been without the application of this section.”
 
  __Termination of Special $50 Payments Under Tax Reduction Act of 1975__ 
 
@@ -3417,7 +3417,7 @@
 
 >     “(3) the total of benefits to which all persons are entitled under such sections 202 and 223 on the basis of such wages and self-employment income for January 1973 is reduced by reason of section 203(a) of such Act \[[42 U.S.C. 403(a)][/us/usc/t42/s403/a]\] as amended by this Act, or would, but for the penultimate sentence of such section 203(a), be so reduced),
 
->         then the amount of the benefit to which each person referred to in paragraph (1) of this subsection is entitled for months after December 1972 shall be adjusted, after the application of such section 203(a) \[[42 U.S.C. 403(a)][/us/usc/t42/s403/a]\], to an amount no less than the amount it would have been if the person or persons referred to in paragraph (2) of this subsection were not entitled to a benefit referred to in such paragraph (2).”
+>     then the amount of the benefit to which each person referred to in paragraph (1) of this subsection is entitled for months after December 1972 shall be adjusted, after the application of such section 203(a) \[[42 U.S.C. 403(a)][/us/usc/t42/s403/a]\], to an amount no less than the amount it would have been if the person or persons referred to in paragraph (2) of this subsection were not entitled to a benefit referred to in such paragraph (2).”
 
  __Termination of Child’s Insurance Benefits by Reason of Adoption__ 
 
@@ -3429,7 +3429,7 @@
 
 >     “(2) who, except for such adoption, would be entitled to child’s insurance benefits under such section for a month after the month in which this Act is enacted \[October 1972\],
 
->         may, upon filing application for child’s insurance benefits under the Social Security Act after the date of enactment of this Act, become reentitled to such benefits; except that no child shall, by reason of the enactment of this section, become reentitled to such benefits for any month prior to the month after the month in which this Act is enacted.”
+>     may, upon filing application for child’s insurance benefits under the Social Security Act after the date of enactment of this Act, become reentitled to such benefits; except that no child shall, by reason of the enactment of this section, become reentitled to such benefits for any month prior to the month after the month in which this Act is enacted.”
 
  __Savings Provision__ 
 
@@ -3443,7 +3443,7 @@
 
 >     “(3) the total of benefits to which all persons are entitled under section 202 of such Act on the basis of such wages and self-employment income for January 1973 is reduced by reason of section 203(a) of such Act \[[42 U.S.C. 403(a)][/us/usc/t42/s403/a]\], as amended by this Act (or would, but for the penultimate sentence of such section 203(a), be so reduced),
 
->         then the amount of the benefit to which each such person referred to in paragraph (1) is entitled for months after December 1972 shall in no case be less after the application of this section and such section 203(a) than the amount it would have been without the application of this section.”
+>     then the amount of the benefit to which each such person referred to in paragraph (1) is entitled for months after December 1972 shall in no case be less after the application of this section and such section 203(a) than the amount it would have been without the application of this section.”
 
 [Pub. L. 92–603, title I, § 114(e)][/us/pl/92/603/s114/e], Oct. 30, 1972, [86 Stat. 1348][/us/stat/86/1348], provided that: 
 
@@ -3455,7 +3455,7 @@
 
 >     “(3) the total of benefits to which all persons are entitled under such section\[s\] 202 and 223 \[[42 U.S.C. 402][/us/usc/t42/s402], 423\] on the basis of such wages and self-employment income for any month after December 1972 is reduced by reason of section 203(a) of such Act \[[42 U.S.C. 403(a)][/us/usc/t42/s403/a]\] as amended by this Act (or would, but for the penultimate sentence of such section 203(a), be so reduced)
 
->         then the amount of the benefit to which each person referred to in paragraph (1) of this subsection is entitled beginning with the first month after December 1972 for which any person referred to in paragraph (2) becomes entitled shall be adjusted, after the application of such section 203(a), to an amount no less than the amount it would have been if the person or persons referred to in paragraph (2) of this subsection were not entitled to a benefit referred to in such paragraph (2).”
+>     then the amount of the benefit to which each person referred to in paragraph (1) of this subsection is entitled beginning with the first month after December 1972 for which any person referred to in paragraph (2) becomes entitled shall be adjusted, after the application of such section 203(a), to an amount no less than the amount it would have been if the person or persons referred to in paragraph (2) of this subsection were not entitled to a benefit referred to in such paragraph (2).”
 
 1961—[Pub. L. 87–64, title I, § 104(f)][/us/pl/87/64/s104/f], June 30, 1961, [75 Stat. 139][/us/stat/75/139], provided that: 
 
@@ -3467,7 +3467,7 @@
 
 >     “(3) the total of the benefits to which all persons are entitled under such section 202 on the basis of such individual’s wages and self-employment income for such subsequent month is reduced by reason of the application of section 203(a) of such Act \[[42 U.S.C. 403(a)][/us/usc/t42/s403/a]\],
 
->         then the amount of the benefit to which each such person referred to in paragraph (1) of this subsection is entitled for such subsequent month shall be determined without regard to this Act if, after the application of this Act, such benefit for such month is less than the amount of such benefit for such last month. The preceding provisions of this subsection shall not apply to any monthly benefit of any person for any month beginning after the effective date of this title \[see Effective Date note of 1961 Amendment note set out above\] unless paragraph (3) also applies to such benefit for the month beginning on such effective date (or would so apply but for the next to the last sentence of section 203(a) of the Social Security Act).”
+>     then the amount of the benefit to which each such person referred to in paragraph (1) of this subsection is entitled for such subsequent month shall be determined without regard to this Act if, after the application of this Act, such benefit for such month is less than the amount of such benefit for such last month. The preceding provisions of this subsection shall not apply to any monthly benefit of any person for any month beginning after the effective date of this title \[see Effective Date note of 1961 Amendment note set out above\] unless paragraph (3) also applies to such benefit for the month beginning on such effective date (or would so apply but for the next to the last sentence of section 203(a) of the Social Security Act).”
 
 1960—[Pub. L. 86–778, title II, § 208(e)][/us/pl/86/778/s208/e], Sept. 13, 1960, [74 Stat. 952][/us/stat/74/952], provided that: 
 
@@ -3479,7 +3479,7 @@
 
 >     “(3) the total of the benefits to which all persons are entitled under section 202 of the Social Security Act on the basis of such individual’s wages and self-employment income for such subsequent month is reduced by reason of the application of section 203(a) of such Act \[[42 U.S.C. 403(a)][/us/usc/t42/s403/a]\],
 
->         then the amount of the benefit to which each person referred to in paragraph (1) of this subsection is entitled for such subsequent month shall not, after the application of such section 203(a), be less than the amount it would have been (determined without regard to section 301 \[[42 U.S.C. 501][/us/usc/t42/s501]\]) if no person referred to in paragraph (2) of this subsection was entitled to a benefit referred to in such paragraph for such subsequent month on the basis of such wages and self-employment income of such individual.”
+>     then the amount of the benefit to which each person referred to in paragraph (1) of this subsection is entitled for such subsequent month shall not, after the application of such section 203(a), be less than the amount it would have been (determined without regard to section 301 \[[42 U.S.C. 501][/us/usc/t42/s501]\]) if no person referred to in paragraph (2) of this subsection was entitled to a benefit referred to in such paragraph for such subsequent month on the basis of such wages and self-employment income of such individual.”
 
 [Pub. L. 86–778, title III, § 301(c)][/us/pl/86/778/s301/c], Sept. 13, 1960, [74 Stat. 959][/us/stat/74/959], provided that: 
 
@@ -3489,15 +3489,13 @@
 
 >     “(2) no person, other than (i) those persons referred to in paragraph (1) of this subsection (ii) those persons who are entitled to benefits under section 202(d), (e), (f), or (g) of the Social Security Act but would not be so entitled except for the enactment of section 208 of this Act \[[42 U.S.C. 408][/us/usc/t42/s408]\], is entitled to benefits under such section 202 \[this section\] on the basis of such individual’s wages and self-employment income for any subsequent month or for any month after the second month following the month in which this Act is enacted \[September 1960\] and prior to such subsequent month; and
 
->     “(3)
+>     “(3) the total of the benefits to which all persons referred to in paragraph (1) of this subsection are entitled under section 202 of the Social Security Act on the basis of such individual’s wages and self-employment income for such subsequent month exceeds the maximum of benefits payable, as provided in section 203(a) of such Act \[[42 U.S.C. 403(a)][/us/usc/t42/s403/a]\], on the basis of such wages and self-employment income,
 
->      the total of the benefits to which all persons referred to in paragraph (1) of this subsection are entitled under section 202 of the Social Security Act on the basis of such individual’s wages and self-employment income for such subsequent month exceeds the maximum of benefits payable, as provided in section 203(a) of such Act \[[42 U.S.C. 403(a)][/us/usc/t42/s403/a]\], on the basis of such wages and self-employment income,
+>     then the amount of the benefit to which each such person referred to in paragraph (1) of this subsection is entitled for such subsequent month shall be determined—
 
->         then the amount of the benefit to which each such person referred to in paragraph (1) of this subsection is entitled for such subsequent month shall be determined—
+>     “(4) in case such person is entitled to benefits under section 202(e), (f), (g), or (h), as though this section and section 208 \[[42 U.S.C. 408][/us/usc/t42/s408]\] had not been enacted, or
 
->         “(4) in case such person is entitled to benefits under section 202(e), (f), (g), or (h), as though this section and section 208 \[[42 U.S.C. 408][/us/usc/t42/s408]\] had not been enacted, or
-
->         “(5) in case such person is entitled to benefits under section 202(d), as though (i) no person is entitled to benefits under section 202(e), (f), (g), or (h) for such subsequent month, and (ii) the maximum of benefits payable, as described in paragraph (3), is such maximum less the amount of each person’s benefit for such month determined pursuant to paragraph (4).”
+>     “(5) in case such person is entitled to benefits under section 202(d), as though (i) no person is entitled to benefits under section 202(e), (f), (g), or (h) for such subsequent month, and (ii) the maximum of benefits payable, as described in paragraph (3), is such maximum less the amount of each person’s benefit for such month determined pursuant to paragraph (4).”
 
 1958—[Pub. L. 85–840, title III, § 304(b)][/us/pl/85/840/s304/b], Aug. 28, 1958, [72 Stat. 1029][/us/stat/72/1029], provided that: 
 
@@ -3509,7 +3507,7 @@
 
 >     “(3) the total of the benefits to which all persons are entitled under section 202 of the Social Security Act on the basis of such wages and self-employment income for such subsequent month are reduced by reason of the application of section 203(a) of such Act \[[42 U.S.C. 403(a)][/us/usc/t42/s403/a]\].
 
->         then the amount of the benefit to which each such person referred to in paragraph (1) of this subsection is entitled for such subsequent month shall be increased, after the application of such section 203(a), to the amount it would have been if no person referred to in paragraph (2) of this subsection was entitled to a parent’s insurance benefit for such subsequent month on the basis of such wages and self-employment income.”
+>     then the amount of the benefit to which each such person referred to in paragraph (1) of this subsection is entitled for such subsequent month shall be increased, after the application of such section 203(a), to the amount it would have been if no person referred to in paragraph (2) of this subsection was entitled to a parent’s insurance benefit for such subsequent month on the basis of such wages and self-employment income.”
 
 1957—[Pub. L. 85–238, § 5][/us/pl/85/238/s5], Aug. 30, 1957, [71 Stat. 520][/us/stat/71/520], provided that: 
 
@@ -3519,15 +3517,13 @@
 
 >     “(b) a person becomes entitled to a widow’s, widower’s or mother’s insurance benefit under section 202(e), (f), or (g) of the Social Security Act for any subsequent month on the basis of such wages and self-employment income;
 
->     “(c)
+>     “(c) the total of the benefits to which all persons are entitled under section 202 of the Social Security Act, on the basis of such wages and self-employment income for such subsequent month are reduced by reason of the application of section 203(a) of such Act \[[42 U.S.C. 403(a)][/us/usc/t42/s403/a]\];
 
->      the total of the benefits to which all persons are entitled under section 202 of the Social Security Act, on the basis of such wages and self-employment income for such subsequent month are reduced by reason of the application of section 203(a) of such Act \[[42 U.S.C. 403(a)][/us/usc/t42/s403/a]\];
+>     then the amount of the benefit to which each such person referred to in paragraph (a) or (b) is entitled for such subsequent month shall be increased, after the application of such section 203(a), to the amount it would have been—
 
->         then the amount of the benefit to which each such person referred to in paragraph (a) or (b) is entitled for such subsequent month shall be increased, after the application of such section 203(a), to the amount it would have been—
+>     “(d) if, in the case of a parent’s insurance benefit, the person referred to in paragraph (b) was not entitled to the benefit referred to in such paragraph, or
 
->         “(d) if, in the case of a parent’s insurance benefit, the person referred to in paragraph (b) was not entitled to the benefit referred to in such paragraph, or
-
->         “(e) if, in the case of a benefit referred to in paragraph (b), no person was entitled to a parent’s insurance benefit for such subsequent month on the basis of such wages and self-employment income.”
+>     “(e) if, in the case of a benefit referred to in paragraph (b), no person was entitled to a parent’s insurance benefit for such subsequent month on the basis of such wages and self-employment income.”
 
  __Filing of Proof of Support__ 
 

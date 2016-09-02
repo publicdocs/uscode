@@ -15,7 +15,7 @@
 
 ## § 18114. Access to therapies
 
-Notwithstanding any other provision of this Act, the Secretary of Health and Human Services shall not promulgate any regulation that—
+    Notwithstanding any other provision of this Act, the Secretary of Health and Human Services shall not promulgate any regulation that—
 
     (1) creates any unreasonable barriers to the ability of individuals to obtain appropriate medical care;
 

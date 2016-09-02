@@ -15,7 +15,7 @@
 
 ## § 3058h. Regulations
 
-The Assistant Secretary shall issue and periodically update regulations respecting—
+    The Assistant Secretary shall issue and periodically update regulations respecting—
 
     (1) conflicts of interest by persons described in paragraphs (1) and (2) of [section 3058g(f) of this title][/us/usc/t42/s3058g/f]; and
 

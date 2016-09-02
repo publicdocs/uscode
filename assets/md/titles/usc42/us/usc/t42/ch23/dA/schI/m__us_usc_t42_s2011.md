@@ -15,7 +15,7 @@
 
 ## § 2011. Congressional declaration of policy
 
-Atomic energy is capable of application for peaceful as well as military purposes. It is therefore declared to be the policy of the United States that—
+    Atomic energy is capable of application for peaceful as well as military purposes. It is therefore declared to be the policy of the United States that—
 
     (a) the development, use, and control of atomic energy shall be directed so as to make the maximum contribution to the general welfare, subject at all times to the paramount objective of making the maximum contribution to the common defense and security; and
 

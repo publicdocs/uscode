@@ -15,7 +15,7 @@
 
 ## § 13401. Goals
 
-It is the goal of the United States in carrying out energy supply and energy conservation research and development—
+    It is the goal of the United States in carrying out energy supply and energy conservation research and development—
 
     (1) to strengthen national energy security by reducing dependence on imported oil;
 

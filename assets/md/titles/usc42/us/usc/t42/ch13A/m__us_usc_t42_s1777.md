@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch13A/m__us_usc_t42_s1776a, 1776b.md) | [Next](./../../../..//us/usc/t42/ch13A/m__us_usc_t42_s1778.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1777)
+[Previous](./../../../..//us/usc/t42/ch13A/m__us_usc_t42_s1776.md) | [Next](./../../../..//us/usc/t42/ch13A/m__us_usc_t42_s1778.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1777)
 
 ## § 1777. Use in school breakfast program of food designated as being in abundance or food donated by the Secretary of Agriculture
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch13A/m__us_usc_t42_s1776a, 1776b.md) | [Next](./../../../..//us/usc/t42/ch13A/m__us_usc_t42_s1778.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1777)
+[Previous](./../../../..//us/usc/t42/ch13A/m__us_usc_t42_s1776.md) | [Next](./../../../..//us/usc/t42/ch13A/m__us_usc_t42_s1778.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1777)
 
 ----------
 ----------

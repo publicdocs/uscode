@@ -15,7 +15,7 @@
 
 ## § 5848. Abnormal occurrence reports
 
-The Commission shall submit to the Congress an annual report listing for the previous fiscal year any abnormal occurrences at or associated with any facility which is licensed or otherwise regulated pursuant to the Atomic Energy Act of 1954 as amended \[[42 U.S.C. 2011][/us/usc/t42/s2011] et seq.\], or pursuant to this chapter. For the purposes of this section an abnormal occurrence is an unscheduled incident or event which the Commission determines is significant from the standpoint of public health or safety. Nothing in the preceding sentence shall limit the authority of a court to review the determination of the Commission. Each such report shall contain—
+    The Commission shall submit to the Congress an annual report listing for the previous fiscal year any abnormal occurrences at or associated with any facility which is licensed or otherwise regulated pursuant to the Atomic Energy Act of 1954 as amended \[[42 U.S.C. 2011][/us/usc/t42/s2011] et seq.\], or pursuant to this chapter. For the purposes of this section an abnormal occurrence is an unscheduled incident or event which the Commission determines is significant from the standpoint of public health or safety. Nothing in the preceding sentence shall limit the authority of a court to review the determination of the Commission. Each such report shall contain—
 
     (1) the date and place of each occurrence;
 
@@ -25,7 +25,7 @@ The Commission shall submit to the Congress an annual report listing for the pre
 
     (4) any action taken to prevent reoccurrence;
 
-        the Commission shall also provide as wide dissemination to the public of the information specified in clauses (1) and (2) of this section as reasonably possible within fifteen days of its receiving information of each abnormal occurrence and shall provide as wide dissemination to the public as reasonably possible of the information specified in clauses (3) and (4) as soon as such information becomes available to it.
+    the Commission shall also provide as wide dissemination to the public of the information specified in clauses (1) and (2) of this section as reasonably possible within fifteen days of its receiving information of each abnormal occurrence and shall provide as wide dissemination to the public as reasonably possible of the information specified in clauses (3) and (4) as soon as such information becomes available to it.
 
 ([Pub. L. 93–438, title II, § 208][/us/pl/93/438/s208], Oct. 11, 1974, [88 Stat. 1248][/us/stat/88/1248]; [Pub. L. 104–66, title II, § 2171][/us/pl/104/66/s2171], Dec. 21, 1995, [109 Stat. 731][/us/stat/109/731].)
 

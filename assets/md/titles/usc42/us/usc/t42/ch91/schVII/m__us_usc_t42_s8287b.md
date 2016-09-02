@@ -15,7 +15,7 @@
 
 ## § 8287b. Reports
 
-Each Federal agency shall periodically furnish the Secretary of Energy with full and complete information on its activities under this subchapter, and the Secretary shall include in the report submitted to Congress under section 8260  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title a description of the progress made by each Federal agency in—
+    Each Federal agency shall periodically furnish the Secretary of Energy with full and complete information on its activities under this subchapter, and the Secretary shall include in the report submitted to Congress under section 8260  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title a description of the progress made by each Federal agency in—
 
     (1) including the authority provided by this subchapter in its contracting practices; and
 

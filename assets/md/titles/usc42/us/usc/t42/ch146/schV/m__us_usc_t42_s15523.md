@@ -15,7 +15,7 @@
 
 ## § 15523. Authorization of appropriations
 
-In addition to any funds authorized to be appropriated to the Commission under [section 15330 of this title][/us/usc/t42/s15330], there are authorized to be appropriated to carry out this subchapter—
+    In addition to any funds authorized to be appropriated to the Commission under [section 15330 of this title][/us/usc/t42/s15330], there are authorized to be appropriated to carry out this subchapter—
 
     (1) $5,000,000 for fiscal year 2003; and
 

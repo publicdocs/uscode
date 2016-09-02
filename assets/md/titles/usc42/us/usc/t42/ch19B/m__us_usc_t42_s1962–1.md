@@ -15,7 +15,7 @@
 
 ## § 1962–1. Effect on existing laws
 
-Nothing in this chapter shall be construed—
+    Nothing in this chapter shall be construed—
 
     (a) to expand or diminish either Federal or State jurisdiction, responsibility, or rights in the field of water resources planning, development, or control; nor to displace, supersede, limit or modify any interstate compact or the jurisdiction or responsibility of any legally established joint or common agency of two or more States, or of two or more States and the Federal Government; nor to limit the authority of Congress to authorize and fund proj­ects;
 

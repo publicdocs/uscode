@@ -15,7 +15,7 @@
 
 ## § 12906. Grants for AIDS housing information and coordination services
 
-Grants under this section may only be used for the following activities:
+    Grants under this section may only be used for the following activities:
 
     (1) __Housing information services__ 
 

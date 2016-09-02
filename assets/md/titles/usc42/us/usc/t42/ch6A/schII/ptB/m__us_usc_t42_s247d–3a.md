@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247d–2, 247d–3.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247d–3b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%933a)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247d–1.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247d–3b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%933a)
 
 ## § 247d–3a. Improving State and local public health security
 
@@ -423,7 +423,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247d–2, 247d–3.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247d–3b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%933a)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247d–1.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247d–3b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%933a)
 
 ----------
 ----------

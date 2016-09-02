@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch16A/m__us_usc_t42_s1891, 1892.md) | [Next](./../../../..//us/usc/t42/ch16B/m__us_usc_t42_ch16B.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1893)
+[Previous](./../../../..//us/usc/t42/ch16A/m__us_usc_t42_ch16A.md) | [Next](./../../../..//us/usc/t42/ch16B/m__us_usc_t42_ch16B.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1893)
 
 ## § 1893. Repealed. [Pub. L. 93–608, § 1(1)][/us/pl/93/608/s1/1], Jan. 2, 1975, [88 Stat. 1967][/us/stat/88/1967]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch16A/m__us_usc_t42_s1891, 1892.md) | [Next](./../../../..//us/usc/t42/ch16B/m__us_usc_t42_ch16B.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1893)
+[Previous](./../../../..//us/usc/t42/ch16A/m__us_usc_t42_ch16A.md) | [Next](./../../../..//us/usc/t42/ch16B/m__us_usc_t42_ch16B.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1893)
 
 ----------
 ----------

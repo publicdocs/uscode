@@ -15,7 +15,7 @@
 
 ## § 300d–17. Requirement of submission of application containing certain agreements and assurances
 
-The Secretary may not make payments under [section 300d–11(a) of this title][/us/usc/t42/s300d–11/a] to a State for a fiscal year unless—
+    The Secretary may not make payments under [section 300d–11(a) of this title][/us/usc/t42/s300d–11/a] to a State for a fiscal year unless—
 
     (1) the State submits to the Secretary an application for the payments containing agreements in accordance with this part;
 

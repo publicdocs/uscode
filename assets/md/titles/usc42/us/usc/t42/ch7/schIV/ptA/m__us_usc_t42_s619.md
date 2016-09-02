@@ -15,7 +15,7 @@
 
 ## § 619. Definitions
 
-As used in this part:
+    As used in this part:
 
     (1) __Adult__ 
 

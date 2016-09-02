@@ -15,7 +15,7 @@
 
 ## § 13211. Definitions
 
-For purposes of this subchapter, subchapter II of this chapter, and subchapter III of this chapter (unless otherwise specified)—
+    For purposes of this subchapter, subchapter II of this chapter, and subchapter III of this chapter (unless otherwise specified)—
 
     (1) the term “Administrator” means the Administrator of the Environmental Protection Agency;
 

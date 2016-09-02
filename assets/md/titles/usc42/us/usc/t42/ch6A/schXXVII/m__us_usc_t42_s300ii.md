@@ -15,7 +15,7 @@
 
 ## § 300ii. Definitions
 
-In this subchapter:
+    In this subchapter:
 
     (1) __Adult with a special need__ 
 

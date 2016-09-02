@@ -15,7 +15,7 @@
 
 ## § 3797q–4. Geographic distribution
 
-The Attorney General shall ensure that, to the extent practicable, the distribution of grants under this subchapter is equitable and includes State, Tribal, or local prosecutors—
+    The Attorney General shall ensure that, to the extent practicable, the distribution of grants under this subchapter is equitable and includes State, Tribal, or local prosecutors—
 
     (1) in each State; and
 

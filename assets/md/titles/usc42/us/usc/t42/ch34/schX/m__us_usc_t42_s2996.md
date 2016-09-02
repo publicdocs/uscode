@@ -15,7 +15,7 @@
 
 ## § 2996. Congressional findings and declaration of purpose
 
-The Congress finds and declares that—
+    The Congress finds and declares that—
 
     (1) there is a need to provide equal access to the system of justice in our Nation for individuals who seek redress of grievances;
 

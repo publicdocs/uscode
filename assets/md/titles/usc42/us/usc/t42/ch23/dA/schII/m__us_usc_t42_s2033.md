@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch23/dA/schII/m__us_usc_t42_s2031, 2032.md) | [Next](./../../../../../..//us/usc/t42/ch23/dA/schII/m__us_usc_t42_s2034.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2033)
+[Previous](./../../../../../..//us/usc/t42/ch23/dA/schII/m__us_usc_t42_ch23_dA_schII.md) | [Next](./../../../../../..//us/usc/t42/ch23/dA/schII/m__us_usc_t42_s2034.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2033)
 
 ## § 2033. Principal office
 
@@ -29,7 +29,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch23/dA/schII/m__us_usc_t42_s2031, 2032.md) | [Next](./../../../../../..//us/usc/t42/ch23/dA/schII/m__us_usc_t42_s2034.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2033)
+[Previous](./../../../../../..//us/usc/t42/ch23/dA/schII/m__us_usc_t42_ch23_dA_schII.md) | [Next](./../../../../../..//us/usc/t42/ch23/dA/schII/m__us_usc_t42_s2034.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2033)
 
 ----------
 ----------

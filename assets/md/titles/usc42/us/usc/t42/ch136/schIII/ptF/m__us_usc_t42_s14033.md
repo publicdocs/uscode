@@ -15,7 +15,7 @@
 
 ## § 14033. Application requirements
 
-An application for a grant under this part shall be submitted in such form and manner, and contain such information, as the Attorney General may prescribe. In addition, applications shall include documentation showing—
+    An application for a grant under this part shall be submitted in such form and manner, and contain such information, as the Attorney General may prescribe. In addition, applications shall include documentation showing—
 
     (1) the need for grant funds and that State or local funding, as the case may be, does not already cover these operations;
 

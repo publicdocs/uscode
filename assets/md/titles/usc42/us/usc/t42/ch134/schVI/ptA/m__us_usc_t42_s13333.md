@@ -15,7 +15,7 @@
 
 ## § 13333. Clean coal, waste-to-energy
 
-The Secretary shall establish a program of research, development, demonstration, and commercial application with respect to the use of solid waste combined with coal as a fuel source for clean coal combustion technologies. The program shall address—
+    The Secretary shall establish a program of research, development, demonstration, and commercial application with respect to the use of solid waste combined with coal as a fuel source for clean coal combustion technologies. The program shall address—
 
     (1) the feasibility of cofiring coal and used vehicle tires in fluidized bed combustion units;
 

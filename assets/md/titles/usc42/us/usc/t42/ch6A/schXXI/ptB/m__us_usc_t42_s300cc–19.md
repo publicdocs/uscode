@@ -15,7 +15,7 @@
 
 ## § 300cc–19. National blood resource education program
 
-After consultation with the Director of the National Heart, Lung, and Blood Institute and the Commissioner of Food and Drugs, the Secretary shall establish a program of research and education regarding blood donations and transfusions to maintain and improve the safety of the blood supply. Education programs shall be directed at health professionals, patients, and the community to—
+    After consultation with the Director of the National Heart, Lung, and Blood Institute and the Commissioner of Food and Drugs, the Secretary shall establish a program of research and education regarding blood donations and transfusions to maintain and improve the safety of the blood supply. Education programs shall be directed at health professionals, patients, and the community to—
 
     (1)
 

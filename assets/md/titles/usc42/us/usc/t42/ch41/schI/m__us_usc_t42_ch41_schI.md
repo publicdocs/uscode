@@ -11,16 +11,91 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch41/m__us_usc_t42_ch41.md) | [Next](./../../../../..//us/usc/t42/ch41/schI/m__us_usc_t42_s3301 to 3313.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch41%2FschI)
+[Previous](./../../../../..//us/usc/t42/ch41/m__us_usc_t42_ch41.md) | [Next](./../../../../..//us/usc/t42/ch41/schII/m__us_usc_t42_ch41_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch41%2FschI)
 
 ### SUBCHAPTER I—COMPREHENSIVE CITY DEMONSTRATION PROGRAMS
 
+§§ 3301 to 3313. __Omitted__ 
+
+ __Codification__ 
+
+    Sections were omitted pursuant to [section 5316 of this title][/us/usc/t42/s5316], which terminated authority to make grants or loans under this subchapter after Jan. 1, 1975.
+
+    Section 3301, [Pub. L. 89–754, title I, § 101][/us/pl/89/754/s101], Nov. 3, 1966, [80 Stat. 1255][/us/stat/80/1255], set out Congressional findings and declaration of purpose for this subchapter.
+
+    Section 3302, [Pub. L. 89–754, title I, § 102][/us/pl/89/754/s102], Nov. 3, 1966, [80 Stat. 1255][/us/stat/80/1255], set out basic authority of Secretary of Housing and Urban Development under this subchapter.
+
+    Section 3303, [Pub. L. 89–754, title I, § 103][/us/pl/89/754/s103], Nov. 3, 1966, [80 Stat. 1256][/us/stat/80/1256]; [Pub. L. 93–503, title I, § 105][/us/pl/93/503/s105], Nov. 26, 1974, [88 Stat. 1572][/us/stat/88/1572], related to demonstration programs.
+
+    Section 3304, [Pub. L. 89–754, title I, § 104][/us/pl/89/754/s104], Nov. 3, 1966, [80 Stat. 1257][/us/stat/80/1257], related to financial assistance for planning and developing programs under this subchapter.
+
+    Section 3305, [Pub. L. 89–754, title I, § 105][/us/pl/89/754/s105], Nov. 3, 1966, [80 Stat. 1257][/us/stat/80/1257], related to financial assistance for approved programs under this subchapter.
+
+    Section 3306, [Pub. L. 89–754, title I, § 106][/us/pl/89/754/s106], Nov. 3, 1966, [80 Stat. 1258][/us/stat/80/1258], related to technical assistance under this subchapter.
+
+    Section 3307, [Pub. L. 89–754, title I, § 107][/us/pl/89/754/s107], Nov. 3, 1966, [80 Stat. 1259][/us/stat/80/1259]; [Pub. L. 91–646, title II, § 220(a)(9)][/us/pl/91/646/s220/a/9], Jan. 2, 1971, [84 Stat. 1903][/us/stat/84/1903], related to relocation requirements and payments.
+
+    Section 3308, [Pub. L. 89–754, title I, § 108][/us/pl/89/754/s108], Nov. 3, 1966, [80 Stat. 1259][/us/stat/80/1259], related to continued availability of Federal grant-in-aid program funds.
+
+    Section 3309, [Pub. L. 89–754, title I, § 109][/us/pl/89/754/s109], Nov. 3, 1966, [80 Stat. 1259][/us/stat/80/1259], related to consultations by the Secretary with other Federal departments and agencies administering Federal grant-in-aid programs.
+
+    Section 3310, [Pub. L. 89–754, title I, § 110][/us/pl/89/754/s110], Nov. 3, 1966, [80 Stat. 1259][/us/stat/80/1259], related to labor standards.
+
+    Section 3311, [Pub. L. 89–754, title I, § 111][/us/pl/89/754/s111], Nov. 3, 1966, [80 Stat. 1260][/us/stat/80/1260]; [Pub. L. 90–448, title XVII, § 1701][/us/pl/90/448/s1701], Aug. 1, 1968, [82 Stat. 602][/us/stat/82/602]; [Pub. L. 91–152, title III, § 301][/us/pl/91/152/s301], Dec. 24, 1969, [83 Stat. 391][/us/stat/83/391]; [Pub. L. 91–609, title III, § 301][/us/pl/91/609/s301], Dec. 31, 1970, [84 Stat. 1780][/us/stat/84/1780]; [Pub. L. 92–335, § 2][/us/pl/92/335/s2], July 1, 1972, [86 Stat. 405][/us/stat/86/405]; [Pub. L. 93–117, § 6][/us/pl/93/117/s6], Oct. 2, 1973, [87 Stat. 422][/us/stat/87/422]; [Pub. L. 93–383, title I, § 116(d)][/us/pl/93/383/s116/d], Aug. 22, 1974, [88 Stat. 652][/us/stat/88/652], authorized appropriations.
+
+    Section 3312, [Pub. L. 89–754, title I, § 112][/us/pl/89/754/s112], Nov. 3, 1966, [80 Stat. 1260][/us/stat/80/1260], provided definitions of “Federal grant-in-aid program”, “city demonstration agency”, “city”, and “local agencies”.
+
+    Section 3313, [Pub. L. 89–754, title I, § 114][/us/pl/89/754/s114], Nov. 3, 1966, [80 Stat. 1261][/us/stat/80/1261], provided for limitations on amount of grants.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch41/m__us_usc_t42_ch41.md) | [Next](./../../../../..//us/usc/t42/ch41/schI/m__us_usc_t42_s3301 to 3313.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch41%2FschI)
+[Previous](./../../../../..//us/usc/t42/ch41/m__us_usc_t42_ch41.md) | [Next](./../../../../..//us/usc/t42/ch41/schII/m__us_usc_t42_ch41_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch41%2FschI)
 
 ----------
 ----------
 
+[/us/usc/t42/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5316
+[/us/pl/89/754/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2Fs101
+[/us/stat/80/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1255
+[/us/pl/89/754/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2Fs102
+[/us/stat/80/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1255
+[/us/pl/89/754/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2Fs103
+[/us/stat/80/1256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1256
+[/us/pl/93/503/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F503%2Fs105
+[/us/stat/88/1572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1572
+[/us/pl/89/754/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2Fs104
+[/us/stat/80/1257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1257
+[/us/pl/89/754/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2Fs105
+[/us/stat/80/1257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1257
+[/us/pl/89/754/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2Fs106
+[/us/stat/80/1258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1258
+[/us/pl/89/754/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2Fs107
+[/us/stat/80/1259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1259
+[/us/pl/91/646/s220/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2Fs220%2Fa%2F9
+[/us/stat/84/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1903
+[/us/pl/89/754/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2Fs108
+[/us/stat/80/1259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1259
+[/us/pl/89/754/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2Fs109
+[/us/stat/80/1259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1259
+[/us/pl/89/754/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2Fs110
+[/us/stat/80/1259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1259
+[/us/pl/89/754/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2Fs111
+[/us/stat/80/1260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1260
+[/us/pl/90/448/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1701
+[/us/stat/82/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F602
+[/us/pl/91/152/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152%2Fs301
+[/us/stat/83/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F391
+[/us/pl/91/609/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2Fs301
+[/us/stat/84/1780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1780
+[/us/pl/92/335/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F335%2Fs2
+[/us/stat/86/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F405
+[/us/pl/93/117/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F117%2Fs6
+[/us/stat/87/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F422
+[/us/pl/93/383/s116/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs116%2Fd
+[/us/stat/88/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F652
+[/us/pl/89/754/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2Fs112
+[/us/stat/80/1260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1260
+[/us/pl/89/754/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2Fs114
+[/us/stat/80/1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1261
 
 

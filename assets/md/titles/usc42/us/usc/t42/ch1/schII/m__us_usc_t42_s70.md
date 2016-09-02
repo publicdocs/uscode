@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch1/schII/m__us_usc_t42_s66 to 69.md) | [Next](./../../../../..//us/usc/t42/ch1/schII/m__us_usc_t42_s70a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs70)
+[Previous](./../../../../..//us/usc/t42/ch1/schII/m__us_usc_t42_s65.md) | [Next](./../../../../..//us/usc/t42/ch1/schII/m__us_usc_t42_s70a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs70)
 
 ## § 70. Repealed. [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 655][/us/stat/80/655]
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch1/schII/m__us_usc_t42_s66 to 69.md) | [Next](./../../../../..//us/usc/t42/ch1/schII/m__us_usc_t42_s70a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs70)
+[Previous](./../../../../..//us/usc/t42/ch1/schII/m__us_usc_t42_s65.md) | [Next](./../../../../..//us/usc/t42/ch1/schII/m__us_usc_t42_s70a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs70)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 2996a. Definitions
 
-As used in this subchapter, the term—
+    As used in this subchapter, the term—
 
     (1) “Board” means the Board of Directors of the Legal Services Corporation;
 

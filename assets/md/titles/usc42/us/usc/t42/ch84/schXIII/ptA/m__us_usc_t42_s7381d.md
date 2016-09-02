@@ -15,7 +15,7 @@
 
 ## § 7381d. Definitions
 
-In this subchapter:
+    In this subchapter:
 
     (1) The term “Secretary” means the Secretary of Energy.
 

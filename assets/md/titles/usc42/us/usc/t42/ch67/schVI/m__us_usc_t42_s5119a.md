@@ -137,7 +137,9 @@
 
 >                 “(i) __Eligible organizations.—__ 
 
->                 Eligible organizations include—         “(I) the Boys and Girls Clubs of America;
+>                 Eligible organizations include—
+
+>                          “(I) the Boys and Girls Clubs of America;
 
 >                          “(II) the MENTOR/National Mentoring Partnership;
 
@@ -163,7 +165,11 @@
 
 >                 “(i) forward to the Attorney General the volunteer’s fingerprints; and
 
->                 “(ii) obtain a statement completed and signed by the volunteer that—         “(I) sets out the provider or volunteer’s name, address, date of birth appearing on a valid identification document as defined in [section 1028 of title 18][/us/usc/t18/s1028], United States Code, and a photocopy of the valid identifying document;
+>                 “(ii)
+
+>                  obtain a statement completed and signed by the volunteer that—
+
+>                          “(I) sets out the provider or volunteer’s name, address, date of birth appearing on a valid identification document as defined in [section 1028 of title 18][/us/usc/t18/s1028], United States Code, and a photocopy of the valid identifying document;
 
 >                          “(II) states whether the volunteer has a criminal record, and, if so, sets out the particulars of such record;
 

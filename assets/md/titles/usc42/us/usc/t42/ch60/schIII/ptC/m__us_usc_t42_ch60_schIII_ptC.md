@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch60/schIII/ptB/m__us_usc_t42_s4578.md) | [Next](./../../../../../..//us/usc/t42/ch60/schIII/ptC/m__us_usc_t42_s4581, 4582.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch60%2FschIII%2FptC)
+[Previous](./../../../../../..//us/usc/t42/ch60/schIII/ptB/m__us_usc_t42_s4578.md) | [Next](./../../../../../..//us/usc/t42/ch60/schIV/m__us_usc_t42_ch60_schIV.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch60%2FschIII%2FptC)
 
 #### Part C—Admission to Hospitals and Outpatient Facilities; Confidentiality of Records
 
@@ -19,9 +19,17 @@
 
     Part consists of part C and portions of part D of title III of [Pub. L. 91–616][/us/pl/91/616]. Part B of such title enacted [section 2688j–2 of this title][/us/usc/t42/s2688j–2]. Part D, in addition to enacting [section 4582 of this title][/us/usc/t42/s4582], amended sections 246 and 2688h of this title.
 
+§§ 4581, 4582. __Transferred__ 
+
+ __Codification__ 
+
+    Section 4581, [Pub. L. 91–616, title III, § 321][/us/pl/91/616/s321], Dec. 31, 1970, [84 Stat. 1852][/us/stat/84/1852]; [Pub. L. 93–282, title I, § 121(a)][/us/pl/93/282/s121/a], May 14, 1974, [88 Stat. 130][/us/stat/88/130]; [Pub. L. 94–371, § 11(a)][/us/pl/94/371/s11/a], (b), July 26, 1976, [90 Stat. 1041][/us/stat/90/1041]; [Pub. L. 94–581, title I, § 111(c)(1)][/us/pl/94/581/s111/c/1], Oct. 21, 1976, [90 Stat. 2852][/us/stat/90/2852], which provided for the admission of alcohol abusers and alcoholics to general hospitals and outpatient facilities, was redesignated section 522 of the Public Health Service Act by [Pub. L. 98–24, § 2(b)(13)][/us/pl/98/24/s2/b/13], Apr. 26, 1983, [97 Stat. 181][/us/stat/97/181], and is classified to [section 290dd–2 of this title][/us/usc/t42/s290dd–2].
+
+    Section 4582, [Pub. L. 91–616, title III, § 333][/us/pl/91/616/s333], Dec. 31, 1970, [84 Stat. 1853][/us/stat/84/1853]; [Pub. L. 93–282, title I, § 122(a)][/us/pl/93/282/s122/a], May 14, 1974, [88 Stat. 131][/us/stat/88/131]; [Pub. L. 94–581, title I, § 111(c)(4)][/us/pl/94/581/s111/c/4], Oct. 21, 1976, [90 Stat. 2852][/us/stat/90/2852], which provided for confidentiality of patient records, was redesignated section 523 of the Public Health Service Act by [Pub. L. 98–24, § 2(b)(13)][/us/pl/98/24/s2/b/13], Apr. 26, 1983, [97 Stat. 181][/us/stat/97/181], and is classified to [section 290dd–3 of this title][/us/usc/t42/s290dd–3].
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch60/schIII/ptB/m__us_usc_t42_s4578.md) | [Next](./../../../../../..//us/usc/t42/ch60/schIII/ptC/m__us_usc_t42_s4581, 4582.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch60%2FschIII%2FptC)
+[Previous](./../../../../../..//us/usc/t42/ch60/schIII/ptB/m__us_usc_t42_s4578.md) | [Next](./../../../../../..//us/usc/t42/ch60/schIV/m__us_usc_t42_ch60_schIV.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch60%2FschIII%2FptC)
 
 ----------
 ----------
@@ -29,5 +37,25 @@
 [/us/pl/91/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F616
 [/us/usc/t42/s2688j–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2688j%E2%80%932
 [/us/usc/t42/s4582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4582
+[/us/pl/91/616/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F616%2Fs321
+[/us/stat/84/1852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1852
+[/us/pl/93/282/s121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F282%2Fs121%2Fa
+[/us/stat/88/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F130
+[/us/pl/94/371/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F371%2Fs11%2Fa
+[/us/stat/90/1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1041
+[/us/pl/94/581/s111/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581%2Fs111%2Fc%2F1
+[/us/stat/90/2852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2852
+[/us/pl/98/24/s2/b/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F24%2Fs2%2Fb%2F13
+[/us/stat/97/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F181
+[/us/usc/t42/s290dd–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290dd%E2%80%932
+[/us/pl/91/616/s333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F616%2Fs333
+[/us/stat/84/1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1853
+[/us/pl/93/282/s122/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F282%2Fs122%2Fa
+[/us/stat/88/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F131
+[/us/pl/94/581/s111/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F581%2Fs111%2Fc%2F4
+[/us/stat/90/2852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2852
+[/us/pl/98/24/s2/b/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F24%2Fs2%2Fb%2F13
+[/us/stat/97/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F181
+[/us/usc/t42/s290dd–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290dd%E2%80%933
 
 

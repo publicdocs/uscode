@@ -15,7 +15,7 @@
 
 ## § 4344. Duties and functions
 
-It shall be the duty and function of the Council—
+    It shall be the duty and function of the Council—
 
     (1) to assist and advise the President in the preparation of the Environmental Quality Report required by section 4341  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title;
 

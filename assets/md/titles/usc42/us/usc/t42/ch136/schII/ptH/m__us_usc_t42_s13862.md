@@ -15,7 +15,7 @@
 
 ## § 13862. Use of funds
 
-Grants made by the Attorney General under this section shall be used—
+    Grants made by the Attorney General under this section shall be used—
 
     (1) to fund programs that require the cooperation and coordination of prosecutors, school officials, police, probation officers, youth and social service professionals, and community members in the effort to reduce the incidence of, and increase the successful identification and speed of prosecution of, young violent offenders;
 

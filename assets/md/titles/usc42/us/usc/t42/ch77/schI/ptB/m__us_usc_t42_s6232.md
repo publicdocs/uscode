@@ -15,7 +15,7 @@
 
 ## § 6232. Definitions
 
-As used in this part and part C of this subchapter:
+    As used in this part and part C of this subchapter:
 
     (1) Repealed. [Pub. L. 106–469, title I, § 103(5)(A)][/us/pl/106/469/s103/5/A], Nov. 9, 2000, [114 Stat. 2029][/us/stat/114/2029].
 

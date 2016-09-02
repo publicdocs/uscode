@@ -15,7 +15,7 @@
 
 ## § 7382. Findings
 
-The Congress finds that—
+    The Congress finds that—
 
     (1) the Department of Energy has unique and extensive mathematics and science capabilities that contribute to mathematics and science education programs throughout the Nation;
 

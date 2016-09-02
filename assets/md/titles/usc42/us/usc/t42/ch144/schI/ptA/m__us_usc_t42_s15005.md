@@ -15,7 +15,7 @@
 
 ## § 15005. Reports of the Secretary
 
-At least once every 2 years, the Secretary, using information submitted in the reports and information required under parts B, C, D, and E of this subchapter, shall prepare and submit to the President, Congress, and the National Council on Disability, a report that describes the goals and outcomes of programs supported under parts B, C, D, and E of this subchapter. In preparing the report, the Secretary shall provide—
+    At least once every 2 years, the Secretary, using information submitted in the reports and information required under parts B, C, D, and E of this subchapter, shall prepare and submit to the President, Congress, and the National Council on Disability, a report that describes the goals and outcomes of programs supported under parts B, C, D, and E of this subchapter. In preparing the report, the Secretary shall provide—
 
     (1)
 

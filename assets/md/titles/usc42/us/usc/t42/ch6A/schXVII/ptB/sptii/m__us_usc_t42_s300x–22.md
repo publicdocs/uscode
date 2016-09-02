@@ -63,7 +63,7 @@
 
  __Amendment of Subsection (b)(2), (3)__ 
 
-[Pub. L. 106–310, div. B, title XXXIII, § 3303(f)(2)][/us/pl/106/310/s3303/f/2], Oct. 17, 2000, [114 Stat. 1211][/us/stat/114/1211], provided that, effective upon publication of regulations developed in accordance with [section 300x–32(e)(1) of this title][/us/usc/t42/s300x–32/e/1], subsection (c) of this section \[now subsection (b)\] is amended by striking out paragraph (2) and redesignating paragraph (3) as paragraph (2).
+    [Pub. L. 106–310, div. B, title XXXIII, § 3303(f)(2)][/us/pl/106/310/s3303/f/2], Oct. 17, 2000, [114 Stat. 1211][/us/stat/114/1211], provided that, effective upon publication of regulations developed in accordance with [section 300x–32(e)(1) of this title][/us/usc/t42/s300x–32/e/1], subsection (c) of this section \[now subsection (b)\] is amended by striking out paragraph (2) and redesignating paragraph (3) as paragraph (2).
 
  __Prior Provisions__ 
 

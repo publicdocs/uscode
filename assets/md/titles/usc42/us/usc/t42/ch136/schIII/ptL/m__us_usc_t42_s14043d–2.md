@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch136/schIII/ptL/m__us_usc_t42_s14043d–1.md) | [Next](./../../../../../..//us/usc/t42/ch136/schIII/ptL/m__us_usc_t42_s14043d–3, 14043d–4.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14043d%E2%80%932)
+[Previous](./../../../../../..//us/usc/t42/ch136/schIII/ptL/m__us_usc_t42_s14043d–1.md) | [Next](./../../../../../..//us/usc/t42/ch136/schIII/ptM/m__us_usc_t42_ch136_schIII_ptM.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14043d%E2%80%932)
 
 ## § 14043d–2. Saving money and reducing tragedies through prevention (SMART Prevention)
 
@@ -129,9 +129,19 @@
 
     Amendment by [Pub. L. 113–4][/us/pl/113/4] not effective until the beginning of the fiscal year following Mar. 7, 2013, see [section 4 of Pub. L. 113–4][/us/pl/113/4/s4], set out as a note under [section 2261 of Title 18][/us/usc/t18/s2261], Crimes and Criminal Procedure.
 
+§§ 14043d–3, 14043d–4. __Repealed.__  __[__  __Pub. L. 113–4, title IV, § 402(b)(1)__  __][/us/pl/113/4/s402/b/1]__  __,__  __Mar. 7, 2013__  __,__  __[__  __127 Stat. 95__  __][/us/stat/127/95]__ 
+
+    Section 14043d–3, [Pub. L. 103–322, title IV, § 41304][/us/pl/103/322/s41304], as added [Pub. L. 109–162, title IV, § 401][/us/pl/109/162/s401], Jan. 5, 2006, [119 Stat. 3020][/us/stat/119/3020], authorized grants for the development of curricula and pilot programs for home visitation projects.
+
+    Section 14043d–4, [Pub. L. 103–322, title IV, § 41305][/us/pl/103/322/s41305], as added [Pub. L. 109–162, title IV, § 401][/us/pl/109/162/s401], Jan. 5, 2006, [119 Stat. 3021][/us/stat/119/3021], authorized grants for engaging men and youth in preventing domestic violence, dating violence, sexual assault, and stalking.
+
+ __Effective Date of Repeal__ 
+
+    Repeal not effective until the beginning of the fiscal year following Mar. 7, 2013, see [section 4 of Pub. L. 113–4][/us/pl/113/4/s4], set out as an Effective Date of 2013 Amendment note under [section 2261 of Title 18][/us/usc/t18/s2261], Crimes and Criminal Procedure.
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch136/schIII/ptL/m__us_usc_t42_s14043d–1.md) | [Next](./../../../../../..//us/usc/t42/ch136/schIII/ptL/m__us_usc_t42_s14043d–3, 14043d–4.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14043d%E2%80%932)
+[Previous](./../../../../../..//us/usc/t42/ch136/schIII/ptL/m__us_usc_t42_s14043d–1.md) | [Next](./../../../../../..//us/usc/t42/ch136/schIII/ptM/m__us_usc_t42_ch136_schIII_ptM.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14043d%E2%80%932)
 
 ----------
 ----------
@@ -152,6 +162,16 @@
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs4
+[/us/usc/t18/s2261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2261
+[/us/pl/113/4/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs402%2Fb%2F1
+[/us/stat/127/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F95
+[/us/pl/103/322/s41304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs41304
+[/us/pl/109/162/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs401
+[/us/stat/119/3020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3020
+[/us/pl/103/322/s41305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs41305
+[/us/pl/109/162/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs401
+[/us/stat/119/3021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3021
 [/us/pl/113/4/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs4
 [/us/usc/t18/s2261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2261
 

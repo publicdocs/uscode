@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch155/schII/m__us_usc_t42_s17721, 17722.md) | [Next](./../../../../..//us/usc/t42/ch155/schII/m__us_usc_t42_s17724.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17723)
+[Previous](./../../../../..//us/usc/t42/ch155/schII/m__us_usc_t42_ch155_schII.md) | [Next](./../../../../..//us/usc/t42/ch155/schII/m__us_usc_t42_s17724.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17723)
 
 ## § 17723. Repealed or Transferred
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch155/schII/m__us_usc_t42_s17721, 17722.md) | [Next](./../../../../..//us/usc/t42/ch155/schII/m__us_usc_t42_s17724.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17723)
+[Previous](./../../../../..//us/usc/t42/ch155/schII/m__us_usc_t42_ch155_schII.md) | [Next](./../../../../..//us/usc/t42/ch155/schII/m__us_usc_t42_s17724.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17723)
 
 ----------
 ----------

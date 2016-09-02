@@ -15,7 +15,7 @@
 
 ## § 6941a. Energy and materials conservation and recovery; Congressional findings
 
-The Congress finds that—
+    The Congress finds that—
 
     (1) significant savings could be realized by conserving materials in order to reduce the volume or quantity of material which ultimately becomes waste;
 

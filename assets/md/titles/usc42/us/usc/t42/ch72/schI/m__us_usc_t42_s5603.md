@@ -15,7 +15,7 @@
 
 ## § 5603. Definitions
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (1) the term “community based” facility, program, or service means a small, open group home or other suitable place located near the juvenile’s home or family and programs of community supervision and service which maintain community and consumer participation in the planning operation, and evaluation of their programs which may include, but are not limited to, medical, educational, vocational, social, and psychological guidance, training, special education, counseling, alcoholism treatment, drug treatment, and other rehabilitative services;
 

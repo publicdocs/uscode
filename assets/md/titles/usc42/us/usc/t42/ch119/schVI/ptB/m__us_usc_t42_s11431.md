@@ -15,7 +15,7 @@
 
 ## § 11431. Statement of policy
 
-The following is the policy of the Congress:
+    The following is the policy of the Congress:
 
     (1) Each State educational agency shall ensure that each child of a homeless individual and each homeless youth has equal access to the same free, appropriate public education, including a public preschool education, as provided to other children and youths.
 

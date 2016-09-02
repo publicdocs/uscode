@@ -15,7 +15,7 @@
 
 ## § 6804. Funding, administrative, and judicial authorities of Secretary
 
-The Secretary may—
+    The Secretary may—
 
     (1) fund (A) demonstration projects to improve electric utility load management procedures and (B) regulatory rate reform initiatives,
 

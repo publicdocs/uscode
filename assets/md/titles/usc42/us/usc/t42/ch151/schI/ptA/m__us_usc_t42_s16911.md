@@ -15,7 +15,7 @@
 
 ## § 16911. Relevant definitions, including Amie Zyla expansion of sex offender definition and expanded inclusion of child predators
 
-In this subchapter the following definitions apply:
+    In this subchapter the following definitions apply:
 
     (1) __Sex offender__ 
 

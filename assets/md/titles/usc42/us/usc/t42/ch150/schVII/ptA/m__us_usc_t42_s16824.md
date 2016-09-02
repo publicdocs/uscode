@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch150/schVII/ptA/m__us_usc_t42_s16821 to 16823.md) | [Next](./../../../../../..//us/usc/t42/ch150/schVII/ptB/m__us_usc_t42_ch150_schVII_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16824)
+[Previous](./../../../../../..//us/usc/t42/ch150/schVII/ptA/m__us_usc_t42_ch150_schVII_ptA.md) | [Next](./../../../../../..//us/usc/t42/ch150/schVII/ptB/m__us_usc_t42_ch150_schVII_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16824)
 
 ## § 16824. Omitted
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch150/schVII/ptA/m__us_usc_t42_s16821 to 16823.md) | [Next](./../../../../../..//us/usc/t42/ch150/schVII/ptB/m__us_usc_t42_ch150_schVII_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16824)
+[Previous](./../../../../../..//us/usc/t42/ch150/schVII/ptA/m__us_usc_t42_ch150_schVII_ptA.md) | [Next](./../../../../../..//us/usc/t42/ch150/schVII/ptB/m__us_usc_t42_ch150_schVII_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16824)
 
 ----------
 ----------

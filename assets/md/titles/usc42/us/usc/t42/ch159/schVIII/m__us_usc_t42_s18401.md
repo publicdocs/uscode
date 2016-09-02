@@ -15,7 +15,7 @@
 
 ## § 18401. Aeronautics research goals
 
-The Administrator should ensure that NASA maintains a strong aeronautics research portfolio ranging from fundamental research through systems research with specific research goals, including the following:
+    The Administrator should ensure that NASA maintains a strong aeronautics research portfolio ranging from fundamental research through systems research with specific research goals, including the following:
 
     (1) __Airspace capacity__ 
 

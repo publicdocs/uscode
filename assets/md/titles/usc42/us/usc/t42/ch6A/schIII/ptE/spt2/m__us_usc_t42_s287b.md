@@ -15,7 +15,7 @@
 
 ## § 287b. General purpose
 
-The general purpose of the John E. Fogarty International Center for Advanced Study in the Health Sciences is to—
+    The general purpose of the John E. Fogarty International Center for Advanced Study in the Health Sciences is to—
 
     (1) facilitate the assembly of scientists and others in the biomedical, behavioral, and related fields for discussion, study, and research relating to the development of health science internationally;
 

@@ -15,7 +15,7 @@
 
 ## § 6872. Authorization of appropriations
 
-For the purpose of carrying out the weatherization program under this part, there are authorized to be appropriated—
+    For the purpose of carrying out the weatherization program under this part, there are authorized to be appropriated—
 
     (1) $750,000,000 for fiscal year 2008;
 

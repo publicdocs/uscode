@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schI/ptA/m__us_usc_t42_s208.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schI/ptA/m__us_usc_t42_s209a, 209b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs209)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schI/ptA/m__us_usc_t42_s208.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schI/ptA/m__us_usc_t42_s209c.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs209)
 
 ## § 209. Appointment of personnel
 
@@ -185,9 +185,17 @@ Similar provisions were contained in the following prior appropriation acts:
 
 > “The enactment of paragraph (1) of this subsection \[amending this section\] shall not affect the term of the commission of any officer in the Reserve Corps in effect on the date of such enactment \[Apr. 27, 1956\] unless such officer consents in writing to the extension of his commission for an indefinite period, in which event his commission shall be so extended without the necessity of a new appointment.”
 
+§§ 209a, 209b. __Omitted__ 
+
+ __Codification__ 
+
+    Section 209a, [act Dec. 22, 1944, ch. 660][/us/act/1944-12-22/ch660], title I, [58 Stat. 856][/us/stat/58/856], which related to number of regular commissioned nurses to be appointed, their grades, and their length of service for purposes of pay and pay periods, was not repeated in subsequent appropriation acts.
+
+    Section 209b, [act Dec. 22, 1944, ch. 660][/us/act/1944-12-22/ch660], title I, [58 Stat. 857][/us/stat/58/857], which authorized appointment of fifty additional regular commissioned officers of which twenty-four were to be in grades above that of senior assistant, was not repeated in subsequent appropriation acts.
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schI/ptA/m__us_usc_t42_s208.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schI/ptA/m__us_usc_t42_s209a, 209b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs209)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schI/ptA/m__us_usc_t42_s208.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schI/ptA/m__us_usc_t42_s209c.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs209)
 
 ----------
 ----------
@@ -272,5 +280,9 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
 [/us/act/1956-04-27/ch211/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-04-27%2Fch211%2Fs3%2Fc%2F2
 [/us/stat/70/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F117
+[/us/act/1944-12-22/ch660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-12-22%2Fch660
+[/us/stat/58/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F856
+[/us/act/1944-12-22/ch660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-12-22%2Fch660
+[/us/stat/58/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F857
 
 

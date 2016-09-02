@@ -15,7 +15,7 @@
 
 ## § 4651. Uniform policy on real property acquisition practices
 
-In order to encourage and expedite the acquisition of real property by agreements with owners, to avoid litigation and relieve congestion in the courts, to assure consistent treatment for owners in the many Federal programs, and to promote public confidence in Federal land acquisition practices, heads of Federal agencies shall, to the greatest extent practicable, be guided by the following policies:
+    In order to encourage and expedite the acquisition of real property by agreements with owners, to avoid litigation and relieve congestion in the courts, to assure consistent treatment for owners in the many Federal programs, and to promote public confidence in Federal land acquisition practices, heads of Federal agencies shall, to the greatest extent practicable, be guided by the following policies:
 
     (1) The head of a Federal agency shall make every reasonable effort to acquire expeditiously real property by negotiation.
 

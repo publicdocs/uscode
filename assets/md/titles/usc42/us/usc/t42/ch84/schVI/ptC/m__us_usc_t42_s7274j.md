@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7274h, 7274i.md) | [Next](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7274k.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7274j)
+[Previous](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7274g.md) | [Next](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7274k.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7274j)
 
 ## § 7274j. Repealed. [Pub. L. 108–136, div. C, title XXXI, § 3141(m)(2)][/us/pl/108/136/s3141/m/2], Nov. 24, 2003, [117 Stat. 1787][/us/stat/117/1787]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7274h, 7274i.md) | [Next](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7274k.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7274j)
+[Previous](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7274g.md) | [Next](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7274k.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7274j)
 
 ----------
 ----------

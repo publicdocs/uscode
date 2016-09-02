@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch15B/schII/ptB/m__us_usc_t42_s1857f–9 to 1857k.md) | [Next](./../../../../..//us/usc/t42/ch15B/schIII/m__us_usc_t42_s1857l.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch15B%2FschIII)
+[Previous](./../../../../..//us/usc/t42/ch15B/schII/ptB/m__us_usc_t42_ch15B_schII_ptB.md) | [Next](./../../../../..//us/usc/t42/ch15B/schIII/m__us_usc_t42_s1857l.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch15B%2FschIII)
 
 ### SUBCHAPTER III—GENERAL PROVISIONS
 
@@ -47,7 +47,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch15B/schII/ptB/m__us_usc_t42_s1857f–9 to 1857k.md) | [Next](./../../../../..//us/usc/t42/ch15B/schIII/m__us_usc_t42_s1857l.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch15B%2FschIII)
+[Previous](./../../../../..//us/usc/t42/ch15B/schII/ptB/m__us_usc_t42_ch15B_schII_ptB.md) | [Next](./../../../../..//us/usc/t42/ch15B/schIII/m__us_usc_t42_s1857l.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch15B%2FschIII)
 
 ----------
 ----------

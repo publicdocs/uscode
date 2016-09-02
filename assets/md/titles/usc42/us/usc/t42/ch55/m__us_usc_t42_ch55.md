@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch54/m__us_usc_t42_s4301 to 4312.md) | [Next](./../../../..//us/usc/t42/ch55/m__us_usc_t42_s4321.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch55)
+[Previous](./../../../..//us/usc/t42/ch54/m__us_usc_t42_ch54.md) | [Next](./../../../..//us/usc/t42/ch55/m__us_usc_t42_s4321.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch55)
 
 ## CHAPTER 55—NATIONAL ENVIRONMENTAL POLICY
 
@@ -387,7 +387,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch54/m__us_usc_t42_s4301 to 4312.md) | [Next](./../../../..//us/usc/t42/ch55/m__us_usc_t42_s4321.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch55)
+[Previous](./../../../..//us/usc/t42/ch54/m__us_usc_t42_ch54.md) | [Next](./../../../..//us/usc/t42/ch55/m__us_usc_t42_s4321.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch55)
 
 ----------
 ----------

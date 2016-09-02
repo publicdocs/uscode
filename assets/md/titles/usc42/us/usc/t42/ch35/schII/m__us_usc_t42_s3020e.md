@@ -15,7 +15,7 @@
 
 ## § 3020e. Nutrition education
 
-The Assistant Secretary, in consultation with the Secretary of Agriculture, shall conduct outreach and provide technical assistance to agencies and organizations that serve older individuals to assist such agencies and organizations to carry out integrated health promotion and disease prevention programs that—
+    The Assistant Secretary, in consultation with the Secretary of Agriculture, shall conduct outreach and provide technical assistance to agencies and organizations that serve older individuals to assist such agencies and organizations to carry out integrated health promotion and disease prevention programs that—
 
     (1) are designed for older individuals; and
 

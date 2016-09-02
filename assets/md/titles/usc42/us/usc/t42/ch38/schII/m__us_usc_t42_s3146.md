@@ -15,7 +15,7 @@
 
 ## § 3146. Regulations on relative needs and allocations
 
-In promulgating rules, regulations, and procedures for assistance under this subchapter, the Secretary shall ensure that—
+    In promulgating rules, regulations, and procedures for assistance under this subchapter, the Secretary shall ensure that—
 
     (1)
 

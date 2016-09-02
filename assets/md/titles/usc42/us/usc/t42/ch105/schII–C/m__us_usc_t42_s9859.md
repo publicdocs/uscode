@@ -15,7 +15,7 @@
 
 ## § 9859. Definitions
 
-In this subchapter:
+    In this subchapter:
 
     (1) __Child with a disability; infant or toddler with a disability__ 
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch39/m__us_usc_t42_s3256 to 3259.md) | [Next](./../../../..//us/usc/t42/ch40/m__us_usc_t42_s3271.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch40)
+[Previous](./../../../..//us/usc/t42/ch39/m__us_usc_t42_s3255.md) | [Next](./../../../..//us/usc/t42/ch40/m__us_usc_t42_s3271.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch40)
 
 ## CHAPTER 40—SOIL INFORMATION ASSISTANCE FOR COMMUNITY PLANNING AND RESOURCE DEVELOPMENT
 
@@ -59,7 +59,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch39/m__us_usc_t42_s3256 to 3259.md) | [Next](./../../../..//us/usc/t42/ch40/m__us_usc_t42_s3271.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch40)
+[Previous](./../../../..//us/usc/t42/ch39/m__us_usc_t42_s3255.md) | [Next](./../../../..//us/usc/t42/ch40/m__us_usc_t42_s3271.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch40)
 
 ----------
 ----------

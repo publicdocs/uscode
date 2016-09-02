@@ -15,7 +15,7 @@
 
 ## § 12704. Definitions
 
-As used in this subchapter and in subchapter II of this chapter:
+    As used in this subchapter and in subchapter II of this chapter:
 
     (1) The term “unit of general local government” means a city, town, township, county, parish, village, or other general purpose political subdivision of a State; the Federated States of Micronesia and Palau, the Marshall Islands, or a general purpose political subdivision thereof; a consortium of such political subdivisions recognized by the Secretary in accordance with [section 12746(2) of this title][/us/usc/t42/s12746/2]; and any agency or instrumentality thereof that is established pursuant to legislation and designated by the chief executive to act on behalf of the jurisdiction with regard to provisions of this Act.
 

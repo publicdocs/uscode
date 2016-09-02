@@ -15,7 +15,7 @@
 
 ## § 2304. Definitions
 
-The intent of Congress in the definitions as given in this section should be construed from the words or phrases used in the definitions. As used in this chapter—
+    The intent of Congress in the definitions as given in this section should be construed from the words or phrases used in the definitions. As used in this chapter—
 
     (a) The term “Commission” means the Atomic Energy Commission.
 

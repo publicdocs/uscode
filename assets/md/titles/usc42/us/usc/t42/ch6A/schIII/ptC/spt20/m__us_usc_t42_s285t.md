@@ -109,11 +109,11 @@
 
         (1) __In general__ 
 
-        The Director of the Institute may carry out a program to facilitate minority health disparities research and other health disparities research by providing for research endowments—
+            The Director of the Institute may carry out a program to facilitate minority health disparities research and other health disparities research by providing for research endowments—
 
-            (1)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “(A)”. </sup></sup>  at centers of excellence under [section 293 of this title][/us/usc/t42/s293]; and
+        (1)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “(A)”. </sup></sup>  at centers of excellence under [section 293 of this title][/us/usc/t42/s293]; and
 
-            (2)  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “(B)”. </sup></sup>  at centers of excellence under [section 285t–1 of this title][/us/usc/t42/s285t–1].
+        (2)  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “(B)”. </sup></sup>  at centers of excellence under [section 285t–1 of this title][/us/usc/t42/s285t–1].
 
         (2) __Eligibility__ 
 

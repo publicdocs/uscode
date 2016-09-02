@@ -589,9 +589,7 @@
 
                     (I)
 
-                     offered by or in a skilled nursing facility which, within the previous 2 years—
-
-                        (a) has operated under a waiver under subsection (b)(4)(C)(ii)(II) of this section;
+                     offered by or in a skilled nursing facility which, within the previous 2 years—    (a) has operated under a waiver under subsection (b)(4)(C)(ii)(II) of this section;
 
                         (b) has been subject to an extended (or partial extended) survey under subsection (g)(2)(B)(i) of this section or [section 1396r(g)(2)(B)(i) of this title][/us/usc/t42/s1396r/g/2/B/i], unless the survey shows that the facility is in compliance with the requirements of subsections (b), (c), and (d) of this section; or
 
@@ -891,9 +889,13 @@
 
                     (III) __Prohibitions on reduction for certain deficiencies__ 
 
-                        (aa) Repeat deficiencies    The Secretary may not reduce the amount of a penalty under subclause (II) if the Secretary had reduced a penalty imposed on the facility in the preceding year under such subclause with respect to a repeat deficiency.
+                        (aa) __Repeat deficiencies__ 
 
-                        (bb) Certain other deficiencies    The Secretary may not reduce the amount of a penalty under subclause (II) if the penalty is imposed on the facility for a deficiency that is found to result in a pattern of harm or widespread harm, immediately jeopardizes the health or safety of a resident or residents of the facility, or results in the death of a resident of the facility.
+                            The Secretary may not reduce the amount of a penalty under subclause (II) if the Secretary had reduced a penalty imposed on the facility in the preceding year under such subclause with respect to a repeat deficiency.
+
+                        (bb) __Certain other deficiencies__ 
+
+                            The Secretary may not reduce the amount of a penalty under subclause (II) if the penalty is imposed on the facility for a deficiency that is found to result in a pattern of harm or widespread harm, immediately jeopardizes the health or safety of a resident or residents of the facility, or results in the death of a resident of the facility.
 
                     (IV) __Collection of civil money penalties__ 
 
@@ -1053,9 +1055,9 @@
 
     The facility shall not make available under clause (i) identifying information about complainants or residents.
 
-See 2010 Amendment note below.
+    See 2010 Amendment note below.
 
-[Pub. L. 111–148, title VI, § 6101(c)(1)(A)][/us/pl/111/148/s6101/c/1/A], (2), Mar. 23, 2010, [124 Stat. 702][/us/stat/124/702], provided that, effective on the date on which the Secretary of Health and Human Services makes certain information available to the public, subsection (d)(1) of this section is amended by striking subparagraph (B) and redesignating subparagraph (C) as subparagraph (B). See 2010 Amendment note and Effective Date of 2010 Amendment note below.
+    [Pub. L. 111–148, title VI, § 6101(c)(1)(A)][/us/pl/111/148/s6101/c/1/A], (2), Mar. 23, 2010, [124 Stat. 702][/us/stat/124/702], provided that, effective on the date on which the Secretary of Health and Human Services makes certain information available to the public, subsection (d)(1) of this section is amended by striking subparagraph (B) and redesignating subparagraph (C) as subparagraph (B). See 2010 Amendment note and Effective Date of 2010 Amendment note below.
 
  __References in Text__ 
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch64/m__us_usc_t42_s4871 to 4883.md) | [Next](./../../../..//us/usc/t42/ch65/m__us_usc_t42_s4901.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch65)
+[Previous](./../../../..//us/usc/t42/ch64/m__us_usc_t42_ch64.md) | [Next](./../../../..//us/usc/t42/ch65/m__us_usc_t42_s4901.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch65)
 
 ## CHAPTER 65—NOISE CONTROL
 
@@ -171,7 +171,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch64/m__us_usc_t42_s4871 to 4883.md) | [Next](./../../../..//us/usc/t42/ch65/m__us_usc_t42_s4901.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch65)
+[Previous](./../../../..//us/usc/t42/ch64/m__us_usc_t42_ch64.md) | [Next](./../../../..//us/usc/t42/ch65/m__us_usc_t42_s4901.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch65)
 
 ----------
 ----------

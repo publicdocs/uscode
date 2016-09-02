@@ -15,7 +15,7 @@
 
 ## § 1320c–10. Annual reports
 
-The Secretary shall submit to the Congress not later than April 1 of each year, a full and complete report on the administration, impact, and cost of the program under this part during the preceding fiscal year, including data and information on—
+    The Secretary shall submit to the Congress not later than April 1 of each year, a full and complete report on the administration, impact, and cost of the program under this part during the preceding fiscal year, including data and information on—
 
     (1) the number, status, and service areas of all quality improvement organizations participating in the program;
 

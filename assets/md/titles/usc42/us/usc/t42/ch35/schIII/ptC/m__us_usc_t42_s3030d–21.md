@@ -15,7 +15,7 @@
 
 ## § 3030d–21. Purposes
 
-The purposes of this part are—
+    The purposes of this part are—
 
     (1) to reduce hunger and food insecurity;
 

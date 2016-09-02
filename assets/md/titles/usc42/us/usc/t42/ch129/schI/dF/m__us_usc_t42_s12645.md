@@ -15,7 +15,7 @@
 
 ## § 12645. Sustainability
 
-The Corporation, after consultation with State Commissions and recipients of assistance, may set sustainability goals for projects or programs under the national service laws, so that recipients of assistance under the national service laws are carrying out sustainable projects or programs. Such sustainability goals shall be in writing and shall be used—
+    The Corporation, after consultation with State Commissions and recipients of assistance, may set sustainability goals for projects or programs under the national service laws, so that recipients of assistance under the national service laws are carrying out sustainable projects or programs. Such sustainability goals shall be in writing and shall be used—
 
     (1) to build the capacity of the projects or programs that receive assistance under the national service laws to meet community needs;
 

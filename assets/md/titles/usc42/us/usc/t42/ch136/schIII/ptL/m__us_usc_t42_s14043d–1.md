@@ -15,7 +15,7 @@
 
 ## § 14043d–1. Purpose
 
-The purpose of this part is to—
+    The purpose of this part is to—
 
     (1) prevent crimes involving violence against women, children, and youth;
 

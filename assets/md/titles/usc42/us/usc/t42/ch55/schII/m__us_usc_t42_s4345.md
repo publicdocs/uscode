@@ -15,7 +15,7 @@
 
 ## § 4345. Consultation with Citizens’ Advisory Committee on Environmental Quality and other representatives
 
-In exercising its powers, functions, and duties under this chapter, the Council shall—
+    In exercising its powers, functions, and duties under this chapter, the Council shall—
 
     (1) consult with the Citizens’ Advisory Committee on Environmental Quality established by Executive Order numbered 11472, dated May 29, 1969, and with such representatives of science, industry, agriculture, labor, conservation organizations, State and local governments and other groups, as it deems advisable; and
 

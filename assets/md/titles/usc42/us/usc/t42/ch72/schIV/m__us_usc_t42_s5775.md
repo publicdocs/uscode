@@ -19,11 +19,11 @@
 
     The Administrator is authorized to make grants to and enter into contracts with the Center and with public agencies or nonprofit private organizations, or combinations thereof, for research, demonstration projects, or service programs designed—
 
-        (1) to educate parents, children, and community agencies and organizations in ways to prevent the abduction and sexual exploitation of children;
+        (1) to educate parents, children, schools, school leaders, teachers, State and local educational agencies, homeless shelters and service providers, and community agencies and organizations in ways to prevent the abduction and sexual exploitation of children;
 
         (2) to provide information to assist in the locating and return of missing children;
 
-        (3) to aid communities in the collection of materials which would be useful to parents in assisting others in the identification of missing children;
+        (3) to aid communities and schools in the collection of materials which would be useful to parents in assisting others in the identification of missing children;
 
         (4)
 
@@ -65,13 +65,17 @@
 
         In order to receive assistance under this subchapter for a fiscal year, applicants shall give assurance that they will expend, to the greatest extent practicable, for such fiscal year an amount of funds (without regard to any funds received under any Federal law) that is not less than the amount of funds they received in the preceding fiscal year from State, local, and private sources.
 
-([Pub. L. 93–415, title IV, § 405][/us/pl/93/415/s405], formerly § 406, as added [Pub. L. 98–473, title II, § 660][/us/pl/98/473/s660], Oct. 12, 1984, [98 Stat. 2128][/us/stat/98/2128]; renumbered § 405 and amended [Pub. L. 100–690, title VII][/us/pl/100/690], §§ 7287, 7290(a), Nov. 18, 1988, [102 Stat. 4460][/us/stat/102/4460], 4461; [Pub. L. 101–204, title X, § 1004(3)][/us/pl/101/204/s1004/3], Dec. 7, 1989, [103 Stat. 1828][/us/stat/103/1828]; [Pub. L. 106–71, § 2(d)][/us/pl/106/71/s2/d], Oct. 12, 1999, [113 Stat. 1035][/us/stat/113/1035].)
+([Pub. L. 93–415, title IV, § 405][/us/pl/93/415/s405], formerly § 406, as added [Pub. L. 98–473, title II, § 660][/us/pl/98/473/s660], Oct. 12, 1984, [98 Stat. 2128][/us/stat/98/2128]; renumbered § 405 and amended [Pub. L. 100–690, title VII][/us/pl/100/690], §§ 7287, 7290(a), Nov. 18, 1988, [102 Stat. 4460][/us/stat/102/4460], 4461; [Pub. L. 101–204, title X, § 1004(3)][/us/pl/101/204/s1004/3], Dec. 7, 1989, [103 Stat. 1828][/us/stat/103/1828]; [Pub. L. 106–71, § 2(d)][/us/pl/106/71/s2/d], Oct. 12, 1999, [113 Stat. 1035][/us/stat/113/1035]; [Pub. L. 113–38, § 2(c)][/us/pl/113/38/s2/c], Sept. 30, 2013, [127 Stat. 528][/us/stat/127/528].)
 
  __Prior Provisions__ 
 
     A prior [section 405 of Pub. L. 93–415][/us/pl/93/415/s405] was classified to [section 5774 of this title][/us/usc/t42/s5774] prior to repeal by [Pub. L. 100–690, title VII, § 7286][/us/pl/100/690/s7286], Nov. 18, 1988, [102 Stat. 4460][/us/stat/102/4460].
 
  __Amendments__ 
+
+    2013—Subsec. (a)(1). [Pub. L. 113–38, § 2(c)(1)][/us/pl/113/38/s2/c/1], inserted “schools, school leaders, teachers, State and local educational agencies, homeless shelters and service providers,” after “children,”.
+
+    Subsec. (a)(3). [Pub. L. 113–38, § 2(c)(2)][/us/pl/113/38/s2/c/2], inserted “and schools” after “communities”.
 
     1999—Subsec. (a). [Pub. L. 106–71][/us/pl/106/71] inserted “the Center and with” before “public agencies” in introductory provisions.
 
@@ -100,10 +104,14 @@
 [/us/stat/103/1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1828
 [/us/pl/106/71/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F71%2Fs2%2Fd
 [/us/stat/113/1035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1035
+[/us/pl/113/38/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F38%2Fs2%2Fc
+[/us/stat/127/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F528
 [/us/pl/93/415/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs405
 [/us/usc/t42/s5774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5774
 [/us/pl/100/690/s7286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7286
 [/us/stat/102/4460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4460
+[/us/pl/113/38/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F38%2Fs2%2Fc%2F1
+[/us/pl/113/38/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F38%2Fs2%2Fc%2F2
 [/us/pl/106/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F71
 [/us/pl/101/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F204
 [/us/pl/100/690/s7287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7287

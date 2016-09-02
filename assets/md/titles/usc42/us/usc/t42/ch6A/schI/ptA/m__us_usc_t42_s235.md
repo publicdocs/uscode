@@ -15,7 +15,7 @@
 
 ## § 235. Administration of grants in multigrant proj­ects; promulgation of regulations
 
-For the purpose of facilitating the administration of, and expediting the carrying out of the purposes of, the programs established by subchapters V, VI, and VII  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this chapter, and sections 242b, 246(a), 246(b), 246(c), 246(d), <sup>\[1\]</sup>  and 246(e)  <sup>\[1\]</sup>  of this title in situations in which grants are sought or made under two or more of such programs with respect to a single project, the Secretary is authorized to promulgate regulations—
+    For the purpose of facilitating the administration of, and expediting the carrying out of the purposes of, the programs established by subchapters V, VI, and VII  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this chapter, and sections 242b, 246(a), 246(b), 246(c), 246(d), <sup>\[1\]</sup>  and 246(e)  <sup>\[1\]</sup>  of this title in situations in which grants are sought or made under two or more of such programs with respect to a single project, the Secretary is authorized to promulgate regulations—
 
     (1) under which the administrative functions under such programs with respect to such project will be performed by a single administrative unit which is the administrative unit charged with the administration of any of such programs or is the administrative unit charged with the supervision of two or more of such programs;
 
@@ -23,7 +23,7 @@ For the purpose of facilitating the administration of, and expediting the carryi
 
     (3) under which inconsistent or duplicative requirements imposed by such programs will be revised and made uniform with respect to such project;
 
-        except that nothing in this section shall be construed to authorize the Secretary to waive or suspend, with respect to any such project, any requirement with respect to any of such programs if such requirement is imposed by law or by any regulation required by law.
+    except that nothing in this section shall be construed to authorize the Secretary to waive or suspend, with respect to any such project, any requirement with respect to any of such programs if such requirement is imposed by law or by any regulation required by law.
 
 ([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 226, formerly title III, § 310A, as added [Pub. L. 91–515, title II, § 270][/us/pl/91/515/s270], Oct. 30, 1970, [84 Stat. 1306][/us/stat/84/1306]; amended [Pub. L. 92–157, title II, § 201][/us/pl/92/157/s201], Nov. 18, 1971, [85 Stat. 461][/us/stat/85/461]; renumbered § 226, [Pub. L. 93–353, title I, § 102(e)][/us/pl/93/353/s102/e], July 23, 1974, [88 Stat. 362][/us/stat/88/362].)
 

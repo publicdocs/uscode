@@ -15,7 +15,7 @@
 
 ## § 11101. Findings
 
-The Congress finds the following:
+    The Congress finds the following:
 
     (1) The increasing occurrence of medical malpractice and the need to improve the quality of medical care have become nationwide problems that warrant greater efforts than those that can be undertaken by any individual State.
 

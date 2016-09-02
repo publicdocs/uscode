@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch67/schV/m__us_usc_t42_s5118 to 5118e.md) | [Next](./../../../../..//us/usc/t42/ch67/schVI/m__us_usc_t42_s5119.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch67%2FschVI)
+[Previous](./../../../../..//us/usc/t42/ch67/schV/m__us_usc_t42_ch67_schV.md) | [Next](./../../../../..//us/usc/t42/ch67/schVI/m__us_usc_t42_s5119.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch67%2FschVI)
 
 ### SUBCHAPTER VI—CHILD ABUSE CRIME INFORMATION AND BACKGROUND CHECKS
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch67/schV/m__us_usc_t42_s5118 to 5118e.md) | [Next](./../../../../..//us/usc/t42/ch67/schVI/m__us_usc_t42_s5119.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch67%2FschVI)
+[Previous](./../../../../..//us/usc/t42/ch67/schV/m__us_usc_t42_ch67_schV.md) | [Next](./../../../../..//us/usc/t42/ch67/schVI/m__us_usc_t42_s5119.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch67%2FschVI)
 
 ----------
 ----------

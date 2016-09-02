@@ -15,7 +15,7 @@
 
 ## § 1012. Definitions
 
-In this subchapter:
+    In this subchapter:
 
     (1) __World War II veteran__ 
 

@@ -15,7 +15,7 @@
 
 ## § 1397k–3. Authorization of appropriations
 
-There are authorized to be appropriated to carry out this subpart—
+    There are authorized to be appropriated to carry out this subpart—
 
     (1) for fiscal year 2011, $6,500,000; and
 

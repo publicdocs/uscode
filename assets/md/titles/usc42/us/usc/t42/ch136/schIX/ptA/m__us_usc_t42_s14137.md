@@ -15,7 +15,7 @@
 
 ## § 14137. Definitions
 
-For purposes of sections 14137 to 14137c of this title:
+    For purposes of sections 14137 to 14137c of this title:
 
     (1) __DNA arrestee collection process__ 
 

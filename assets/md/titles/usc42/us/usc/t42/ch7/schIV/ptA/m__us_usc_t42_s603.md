@@ -371,9 +371,13 @@
 
                     (II) __Distribution of funds__ 
 
-                        (aa) In general    If the amount allocated by the formula to a service delivery area is at least $100,000, the State shall distribute the amount to the entity administering the grant in the area.
+                        (aa) __In general__ 
 
-                        (bb) Special rule    If the amount allocated by the formula to a service delivery area is less than $100,000, the sum shall be available for distribution in the State under subclause (III) during the fiscal year.
+                            If the amount allocated by the formula to a service delivery area is at least $100,000, the State shall distribute the amount to the entity administering the grant in the area.
+
+                        (bb) __Special rule__ 
+
+                            If the amount allocated by the formula to a service delivery area is less than $100,000, the sum shall be available for distribution in the State under subclause (III) during the fiscal year.
 
                     (III) __Projects to help long-term recipients of assistance enter unsubsidized jobs__ 
 
@@ -689,9 +693,13 @@
 
                     (IV) __Appeals__ 
 
-                        (aa) Filing    Not later than 30 days after a grievant or complainant receives an adverse decision under the procedure established pursuant to subclause (I), the grievant or complainant may appeal the decision to a State agency designated by the State which shall be independent of the State or local agency that is administering the programs operated with funds provided under this paragraph and the State agency administering, or supervising the administration of, the State program funded under this part.
+                        (aa) __Filing__ 
 
-                        (bb) Final determination    Not later than 120 days after the State agency designated under item (aa) receives a grievance or complaint made under the procedure established by a State pursuant to subclause (I), the State agency shall make a final determination on the appeal.
+                            Not later than 30 days after a grievant or complainant receives an adverse decision under the procedure established pursuant to subclause (I), the grievant or complainant may appeal the decision to a State agency designated by the State which shall be independent of the State or local agency that is administering the programs operated with funds provided under this paragraph and the State agency administering, or supervising the administration of, the State program funded under this part.
+
+                        (bb) __Final determination__ 
+
+                            Not later than 120 days after the State agency designated under item (aa) receives a grievance or complaint made under the procedure established by a State pursuant to subclause (I), the State agency shall make a final determination on the appeal.
 
                 (v) __Rule of interpretation__ 
 

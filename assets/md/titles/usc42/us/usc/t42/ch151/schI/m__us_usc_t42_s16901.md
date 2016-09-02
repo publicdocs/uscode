@@ -15,7 +15,7 @@
 
 ## § 16901. Declaration of purpose
 
-In order to protect the public from sex offenders and offenders against children, and in response to the vicious attacks by violent predators against the victims listed below, Congress in this chapter establishes a comprehensive national system for the registration of those offenders:
+    In order to protect the public from sex offenders and offenders against children, and in response to the vicious attacks by violent predators against the victims listed below, Congress in this chapter establishes a comprehensive national system for the registration of those offenders:
 
     (1) Jacob Wetterling, who was 11 years old, was abducted in 1989 in Minnesota, and remains missing.
 

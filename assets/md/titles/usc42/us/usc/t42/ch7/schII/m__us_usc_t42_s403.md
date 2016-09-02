@@ -861,7 +861,7 @@
 
 >     “(3) dies,
 
->         after December 1995.”
+>     after December 1995.”
 
 [Pub. L. 103–296, title III, § 314(b)][/us/pl/103/296/s314/b], Aug. 15, 1994, [108 Stat. 1530][/us/stat/108/1530], provided that: 
 
@@ -1179,7 +1179,7 @@ Act Aug. 1, 1956,ch. 836, title I, § 112(c), [70 Stat. 831][/us/stat/70/831],
 
 >     “(3) the total of benefits to which all persons are entitled under such section 202 or 223 \[[42 U.S.C. 402][/us/usc/t42/s402], 423\] on the basis of such wages and self-employment for February 1968 are reduced by reason of section 203(a) of such Act, as amended by this Act (or would, but for the penultimate sentence of such section 203(a), be so reduced),
 
->         then the amount of the benefit to which each such person referred to in paragraph (1) is entitled for months after January 1968 shall be increased, after the application of such section 203(a) \[[42 U.S.C. 403(a)][/us/usc/t42/s403/a]\], to the amount it would have been if the person or persons referred to in paragraph (2) were not entitled to a benefit referred to in such paragraph.”
+>     then the amount of the benefit to which each such person referred to in paragraph (1) is entitled for months after January 1968 shall be increased, after the application of such section 203(a) \[[42 U.S.C. 403(a)][/us/usc/t42/s403/a]\], to the amount it would have been if the person or persons referred to in paragraph (2) were not entitled to a benefit referred to in such paragraph.”
 
 [Act Sept. 1, 1954, ch. 1206][/us/act/1954-09-01/ch1206], title I, § 102(h), [68 Stat. 1072][/us/stat/68/1072], provided that:
 
@@ -1255,7 +1255,7 @@ Act Aug. 1, 1956,ch. 836, title I, § 112(c), [70 Stat. 831][/us/stat/70/831],
 
 >     “(3) the total of benefits to which all persons are entitled under such section 202 or 223 of such Act \[[42 U.S.C. 402][/us/usc/t42/s402], 423\] on the basis of such wages and self-employment for January 1968 are reduced by reason of section 203(a) of such Act \[[42 U.S.C. 403(a)][/us/usc/t42/s403/a]\], as amended by this Act (or would, but for the penultimate sentence of such section 203(a), be so reduced),
 
->         then the amount of the benefit to which each such person referred to in paragraph (1) above (but not including persons referred to in paragraph (2) above) is entitled for months after January 1968 shall be increased, after the application of such section 203(a), to the amount it would have been if the person or persons referred to in paragraph (2) were not entitled to a benefit referred to in such paragraph (2).”
+>     then the amount of the benefit to which each such person referred to in paragraph (1) above (but not including persons referred to in paragraph (2) above) is entitled for months after January 1968 shall be increased, after the application of such section 203(a), to the amount it would have been if the person or persons referred to in paragraph (2) were not entitled to a benefit referred to in such paragraph (2).”
 
  __Prohibition on Imposition of Deduction for Failure To File Certain Reports of Events__ 
 
@@ -1275,7 +1275,7 @@ Act Aug. 1, 1956,ch. 836, title I, § 112(c), [70 Stat. 831][/us/stat/70/831],
 
 >     “(3) one or more months in the taxable year specified in paragraph (2) are included in the taxable year specified in paragraph (1),
 
->         then, if a deduction is imposed against the benefits payable to such individual with respect to a month described in paragraph (3), such spouse or child, as the case may be, shall not, for purposes of subsections (b) and (f) of section 203 of the Social Security Act \[[42 U.S.C. 403(b)][/us/usc/t42/s403/b], (f)\] as amended by this Act, be entitled to a payment for such month.”
+>     then, if a deduction is imposed against the benefits payable to such individual with respect to a month described in paragraph (3), such spouse or child, as the case may be, shall not, for purposes of subsections (b) and (f) of section 203 of the Social Security Act \[[42 U.S.C. 403(b)][/us/usc/t42/s403/b], (f)\] as amended by this Act, be entitled to a payment for such month.”
 
 ----------
 

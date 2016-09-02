@@ -15,7 +15,7 @@
 
 ## § 7382b. Definitions
 
-As used in this subchapter—
+    As used in this subchapter—
 
     (1) the term “elementary school” has the meaning provided by [section 7801 of title 20][/us/usc/t20/s7801];
 

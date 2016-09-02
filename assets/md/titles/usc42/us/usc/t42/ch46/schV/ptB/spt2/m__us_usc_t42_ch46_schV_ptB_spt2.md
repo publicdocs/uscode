@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t42/ch46/schV/ptB/spt1/m__us_usc_t42_s3760 to 3762.md) | [Next](./../../../../../../..//us/usc/t42/ch46/schV/ptB/spt2/m__us_usc_t42_s3762a.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch46%2FschV%2FptB%2Fspt2)
+[Previous](./../../../../../../..//us/usc/t42/ch46/schV/ptB/spt1/m__us_usc_t42_ch46_schV_ptB_spt1.md) | [Next](./../../../../../../..//us/usc/t42/ch46/schV/ptB/spt2/m__us_usc_t42_s3762a.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch46%2FschV%2FptB%2Fspt2)
 
 ##### subpart 2—grants to public agencies
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t42/ch46/schV/ptB/spt1/m__us_usc_t42_s3760 to 3762.md) | [Next](./../../../../../../..//us/usc/t42/ch46/schV/ptB/spt2/m__us_usc_t42_s3762a.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch46%2FschV%2FptB%2Fspt2)
+[Previous](./../../../../../../..//us/usc/t42/ch46/schV/ptB/spt1/m__us_usc_t42_ch46_schV_ptB_spt1.md) | [Next](./../../../../../../..//us/usc/t42/ch46/schV/ptB/spt2/m__us_usc_t42_s3762a.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch46%2FschV%2FptB%2Fspt2)
 
 ----------
 ----------

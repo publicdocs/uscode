@@ -15,7 +15,7 @@
 
 ## § 1962b–3. Duties of commissions
 
-Each river basin commission shall—
+    Each river basin commission shall—
 
     (1) engage in such activities and make such studies and investigations as are necessary and desirable in carrying out the policy set forth in [section 1962 of this title][/us/usc/t42/s1962] and in accomplishing the purposes set forth in [section 1962b(b) of this title][/us/usc/t42/s1962b/b];
 

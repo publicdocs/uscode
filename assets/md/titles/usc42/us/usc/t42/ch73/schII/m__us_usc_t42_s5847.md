@@ -23,9 +23,7 @@
 
         (3)
 
-         The survey shall include—
-
-            (a) a regional evaluation of natural resources, including land, air, and water resources, available for use in connection with nuclear energy center sites; estimates of future electric power requirements that can be served by each nuclear energy center site; an assessment of the economic impact of each nuclear energy site; and consideration of any other relevant factors, including but not limited to population distribution, proximity to electric load centers and to other elements of the fuel cycle, transmission line rights-of-way, and the availability of other fuel resources;
+         The survey shall include—    (a) a regional evaluation of natural resources, including land, air, and water resources, available for use in connection with nuclear energy center sites; estimates of future electric power requirements that can be served by each nuclear energy center site; an assessment of the economic impact of each nuclear energy site; and consideration of any other relevant factors, including but not limited to population distribution, proximity to electric load centers and to other elements of the fuel cycle, transmission line rights-of-way, and the availability of other fuel resources;
 
             (b) an evaluation of the environmental impact likely to result from construction and operation of such nuclear energy centers, including an evaluation whether such nuclear energy centers will result in greater or lesser environmental impact than separate siting of the reactors and/or fuel cycle facilities; and
 

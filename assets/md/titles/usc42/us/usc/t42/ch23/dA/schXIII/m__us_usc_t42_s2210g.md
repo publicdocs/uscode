@@ -15,7 +15,7 @@
 
 ## § 2210g. Expenses authorized to be paid by the Commission
 
-The Commission may—
+    The Commission may—
 
     (1)
 

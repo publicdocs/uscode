@@ -15,7 +15,7 @@
 
 ## § 13812. Authorization of appropriations
 
-There are authorized to be appropriated for grants under [section 13811 of this title][/us/usc/t42/s13811]—
+    There are authorized to be appropriated for grants under [section 13811 of this title][/us/usc/t42/s13811]—
 
     (1) $2,000,000 for fiscal year 1996;
 

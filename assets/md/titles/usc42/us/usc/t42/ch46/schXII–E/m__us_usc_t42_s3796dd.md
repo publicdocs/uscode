@@ -207,7 +207,7 @@
 
 >     “(4) encourage the development of new technologies to assist State, Indian tribal government, and local law enforcement agencies in reorienting the emphasis of their activities from reacting to crime to preventing crime,
 
->         by establishing a program of grants and assistance in furtherance of these objectives, including the authorization for a period of 6 years of grants for the hiring and rehiring of additional career law enforcement officers.”
+>     by establishing a program of grants and assistance in furtherance of these objectives, including the authorization for a period of 6 years of grants for the hiring and rehiring of additional career law enforcement officers.”
 
  __Improving Public Safety Presence in Rural Alaska__ 
 

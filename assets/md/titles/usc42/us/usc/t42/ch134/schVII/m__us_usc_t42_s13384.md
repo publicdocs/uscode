@@ -15,7 +15,7 @@
 
 ## § 13384. Assessment of alternative policy mechanisms for addressing greenhouse gas emissions
 
-Not later than 18 months after October 24, 1992, the Secretary shall transmit a report to Congress containing a comparative assessment of alternative policy mechanisms for reducing the generation of greenhouse gases. Such assessment shall include a short-run and long-run analysis of the social, economic, energy, environmental, competitive, and agricultural costs and benefits, including costs and benefits for jobs and competition, and the practicality of each of the following policy mechanisms:
+    Not later than 18 months after October 24, 1992, the Secretary shall transmit a report to Congress containing a comparative assessment of alternative policy mechanisms for reducing the generation of greenhouse gases. Such assessment shall include a short-run and long-run analysis of the social, economic, energy, environmental, competitive, and agricultural costs and benefits, including costs and benefits for jobs and competition, and the practicality of each of the following policy mechanisms:
 
     (1) Various systems for controlling the generation of greenhouse gases, including caps for the generation of greenhouse gases from major sources and emissions trading programs.
 

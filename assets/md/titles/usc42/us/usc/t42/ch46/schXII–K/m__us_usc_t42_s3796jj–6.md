@@ -15,7 +15,7 @@
 
 ## § 3796jj–6. Reports
 
-A State or local law enforcement agency or organization that receives a grant under this subchapter shall submit to the Attorney General an annual report that includes—
+    A State or local law enforcement agency or organization that receives a grant under this subchapter shall submit to the Attorney General an annual report that includes—
 
     (1) program descriptions;
 

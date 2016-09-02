@@ -15,7 +15,7 @@
 
 ## § 6107. Definitions
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (1) the term “Commission” means the Commission on Civil Rights;
 

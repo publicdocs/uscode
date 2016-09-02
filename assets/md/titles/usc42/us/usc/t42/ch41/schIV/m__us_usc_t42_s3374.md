@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch41/schIV/m__us_usc_t42_s3372, 3373.md) | [Next](./../../../../..//us/usc/t42/ch42/m__us_usc_t42_ch42.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3374)
+[Previous](./../../../../..//us/usc/t42/ch41/schIV/m__us_usc_t42_s3371.md) | [Next](./../../../../..//us/usc/t42/ch42/m__us_usc_t42_ch42.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3374)
 
 ## § 3374. Acquisition of property at or near military bases which have been ordered to be closed and certain property owned by members of the Armed Forces, Department of Defense and United States Coast Guard civilian employees, and surviving spouses
 
@@ -371,7 +371,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch41/schIV/m__us_usc_t42_s3372, 3373.md) | [Next](./../../../../..//us/usc/t42/ch42/m__us_usc_t42_ch42.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3374)
+[Previous](./../../../../..//us/usc/t42/ch41/schIV/m__us_usc_t42_s3371.md) | [Next](./../../../../..//us/usc/t42/ch42/m__us_usc_t42_ch42.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3374)
 
 ----------
 ----------

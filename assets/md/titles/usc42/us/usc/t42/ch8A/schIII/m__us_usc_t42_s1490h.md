@@ -15,7 +15,7 @@
 
 ## § 1490h. Taxation of property held by Secretary
 
-All property subject to a lien held by the United States or the title to which is acquired or held by the Secretary under this subchapter other than property used for administrative purposes shall be subject to taxation by a State, Commonwealth, territory, possession, district, and local political subdivisions in the same manner and to the same extent as other property is taxed: Provided, That no tax shall be imposed or collected on or with respect to any instrument if the tax is based on—
+    All property subject to a lien held by the United States or the title to which is acquired or held by the Secretary under this subchapter other than property used for administrative purposes shall be subject to taxation by a State, Commonwealth, territory, possession, district, and local political subdivisions in the same manner and to the same extent as other property is taxed: Provided, That no tax shall be imposed or collected on or with respect to any instrument if the tax is based on—
 
     (1) the value of any notes or mortgages or other lien instruments held by or transferred to the Secretary;
 

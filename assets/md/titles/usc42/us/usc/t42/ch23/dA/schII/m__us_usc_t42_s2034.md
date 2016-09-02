@@ -15,7 +15,7 @@
 
 ## § 2034. General Manager, Deputy and Assistant General Managers
 
-There is established within the Commission—
+    There is established within the Commission—
 
     (a) __General Manager; chief executive officer; duties; appointment; removal__ 
 

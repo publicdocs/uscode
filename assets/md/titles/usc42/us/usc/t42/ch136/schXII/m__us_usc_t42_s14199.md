@@ -15,7 +15,7 @@
 
 ## § 14199. Authorization of appropriations
 
-There are authorized to be appropriated to carry out this subchapter—
+    There are authorized to be appropriated to carry out this subchapter—
 
     (1)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. No par. (2) has been enacted. </sup></sup>  $1,000,000 for fiscal year 1996.
 

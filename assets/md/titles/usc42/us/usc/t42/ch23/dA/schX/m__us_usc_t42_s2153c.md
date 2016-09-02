@@ -59,7 +59,7 @@
 
 [Pub. L. 96–280][/us/pl/96/280], June 18, 1980, [94 Stat. 550][/us/stat/94/550], provided that:
 
->     “Section 1. Limits contained in agreements for cooperation on the amount of low-enriched uranium which may be transferred by or exported from the United States pursuant thereto shall not be construed to preclude transfer or export of amounts of low-enriched uranium in excess of such limits to nations which are parties to the Treaty on the Non-Proliferation of Nuclear Weapons.
+> “Section 1. Limits contained in agreements for cooperation on the amount of low-enriched uranium which may be transferred by or exported from the United States pursuant thereto shall not be construed to preclude transfer or export of amounts of low-enriched uranium in excess of such limits to nations which are parties to the Treaty on the Non-Proliferation of Nuclear Weapons.
 
 > “Sec. 2.
 

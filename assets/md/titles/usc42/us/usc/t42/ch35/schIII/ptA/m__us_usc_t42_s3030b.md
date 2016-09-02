@@ -15,13 +15,13 @@
 
 ## § 3030b. Recapture of payments made for multipurpose senior centers
 
-If, within 10 years after acquisition, or within 20 years after the completion of construction, of any facility for which funds have been paid under this subchapter—
+    If, within 10 years after acquisition, or within 20 years after the completion of construction, of any facility for which funds have been paid under this subchapter—
 
     (1) the owner of the facility ceases to be a public or nonprofit private agency or organization; or
 
     (2) the facility ceases to be used for the purposes for which it was acquired (unless the Assistant Secretary determines, in accordance with regulations, that there is good cause for releasing the applicant or other owner from the obligation to do so);
 
-        the United States shall be entitled to recover from the applicant or other owner of the facility an amount which bears to the then value of the facility (or so much thereof as constituted an approved project or projects) the same ratio as the amount of such Federal funds bore to the cost of the facility financed with the aid of such funds. Such value shall be determined by agreement of the parties or by action brought in the United States district court for the district in which such facility is situated.
+    the United States shall be entitled to recover from the applicant or other owner of the facility an amount which bears to the then value of the facility (or so much thereof as constituted an approved project or projects) the same ratio as the amount of such Federal funds bore to the cost of the facility financed with the aid of such funds. Such value shall be determined by agreement of the parties or by action brought in the United States district court for the district in which such facility is situated.
 
 ([Pub. L. 89–73, title III, § 312][/us/pl/89/73/s312], as added [Pub. L. 95–478, title I, § 103(b)][/us/pl/95/478/s103/b], Oct. 18, 1978, [92 Stat. 1534][/us/stat/92/1534]; amended [Pub. L. 103–171, § 3(a)(13)][/us/pl/103/171/s3/a/13], Dec. 2, 1993, [107 Stat. 1990][/us/stat/107/1990].)
 

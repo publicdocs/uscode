@@ -15,7 +15,7 @@
 
 ## § 5116a. Eligibility
 
-A State shall be eligible for a grant under this subchapter for a fiscal year if—
+    A State shall be eligible for a grant under this subchapter for a fiscal year if—
 
     (1)
 

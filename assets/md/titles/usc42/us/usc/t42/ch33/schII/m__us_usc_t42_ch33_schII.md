@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch33/schI/m__us_usc_t42_s2661 to 2666.md) | [Next](./../../../../..//us/usc/t42/ch33/schII/m__us_usc_t42_s2670.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch33%2FschII)
+[Previous](./../../../../..//us/usc/t42/ch33/schI/m__us_usc_t42_ch33_schI.md) | [Next](./../../../../..//us/usc/t42/ch33/schII/m__us_usc_t42_s2670.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch33%2FschII)
 
 ### SUBCHAPTER II—GRANTS FOR PLANNING, PROVISION OF SERVICES, AND CONSTRUCTION AND OPERATION OF FACILITIES FOR PERSONS WITH DEVELOPMENTAL DISABILITIES
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch33/schI/m__us_usc_t42_s2661 to 2666.md) | [Next](./../../../../..//us/usc/t42/ch33/schII/m__us_usc_t42_s2670.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch33%2FschII)
+[Previous](./../../../../..//us/usc/t42/ch33/schI/m__us_usc_t42_ch33_schI.md) | [Next](./../../../../..//us/usc/t42/ch33/schII/m__us_usc_t42_s2670.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch33%2FschII)
 
 ----------
 ----------

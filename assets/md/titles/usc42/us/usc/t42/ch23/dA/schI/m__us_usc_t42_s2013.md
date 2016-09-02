@@ -15,7 +15,7 @@
 
 ## § 2013. Purpose of chapter
 
-It is the purpose of this chapter to effectuate the policies set forth above by providing for—
+    It is the purpose of this chapter to effectuate the policies set forth above by providing for—
 
     (a) a program of conducting, assisting, and fostering research and development in order to encourage maximum scientific and industrial progress;
 

@@ -15,7 +15,7 @@
 
 ## § 300bb–8. Definitions
 
-For purposes of this subchapter—
+    For purposes of this subchapter—
 
     (1) __Group health plan__ 
 

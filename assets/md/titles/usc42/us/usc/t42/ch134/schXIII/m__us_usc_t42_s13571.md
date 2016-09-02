@@ -15,7 +15,7 @@
 
 ## § 13571. Purposes
 
-The purposes of this subchapter are to—
+    The purposes of this subchapter are to—
 
     (1) promote national energy policy and energy security, diversity, and economic competitiveness benefits that result from the increased use of coal;
 

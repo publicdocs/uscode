@@ -15,7 +15,7 @@
 
 ## § 7352. Contents of review
 
-Each comprehensive review prepared for submission under [section 7351 of this title][/us/usc/t42/s7351] shall include—
+    Each comprehensive review prepared for submission under [section 7351 of this title][/us/usc/t42/s7351] shall include—
 
     (1) the name of the component of the Department responsible for administering the program;
 

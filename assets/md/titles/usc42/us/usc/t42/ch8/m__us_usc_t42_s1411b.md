@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch8/m__us_usc_t42_s1406c to 1411a.md) | [Next](./../../../..//us/usc/t42/ch8/m__us_usc_t42_s1411c.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1411b)
+[Previous](./../../../..//us/usc/t42/ch8/m__us_usc_t42_s1406b.md) | [Next](./../../../..//us/usc/t42/ch8/m__us_usc_t42_s1411c.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1411b)
 
 ## § 1411b. Repealed. [Aug. 7, 1956, ch. 1029][/us/act/1956-08-07/ch1029], title IV, § 401(b), [70 Stat. 1103][/us/stat/70/1103]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch8/m__us_usc_t42_s1406c to 1411a.md) | [Next](./../../../..//us/usc/t42/ch8/m__us_usc_t42_s1411c.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1411b)
+[Previous](./../../../..//us/usc/t42/ch8/m__us_usc_t42_s1406b.md) | [Next](./../../../..//us/usc/t42/ch8/m__us_usc_t42_s1411c.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1411b)
 
 ----------
 ----------

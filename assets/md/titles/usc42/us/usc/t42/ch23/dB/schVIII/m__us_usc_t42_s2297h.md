@@ -15,7 +15,7 @@
 
 ## § 2297h. Definitions
 
-Except as provided in [section 2297h–10a of this title][/us/usc/t42/s2297h–10a], for purposes of this subchapter:
+    Except as provided in [section 2297h–10a of this title][/us/usc/t42/s2297h–10a], for purposes of this subchapter:
 
     (1) The term “AVLIS” means atomic vapor laser isotope separation technology.
 

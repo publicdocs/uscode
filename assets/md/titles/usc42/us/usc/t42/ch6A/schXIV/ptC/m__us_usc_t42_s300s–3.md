@@ -15,7 +15,7 @@
 
 ## § 300s–3. Definitions
 
-Except as provided in [section 300t–12(e) of this title][/us/usc/t42/s300t–12/e], for purposes of this subchapter—
+    Except as provided in [section 300t–12(e) of this title][/us/usc/t42/s300t–12/e], for purposes of this subchapter—
 
     (1) The term “hospital” includes general, tuberculosis, and other types of hospitals, and related facilities, such as laboratories, outpatient departments, nurses’ home facilities, extended care facilities, facilities related to programs for home health services, self-care units, and central service facilities, operated in connection with hospitals, and also includes education or training facilities for health professonal  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “professional”. </sup></sup>  personnel operated as an integral part of a hospital, but does not include any hospital furnishing primarily domiciliary care.
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247b–4b to 247b–4d.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247b–4f.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247b%E2%80%934e)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247b–4a.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247b–4f.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247b%E2%80%934e)
 
 ## § 247b–4e. Repealed. [Pub. L. 109–416, § 3(b)(4)][/us/pl/109/416/s3/b/4], Dec. 19, 2006, [120 Stat. 2829][/us/stat/120/2829]; [Pub. L. 109–482, title I, § 104(b)(3)(D)][/us/pl/109/482/s104/b/3/D], Jan. 15, 2007, [120 Stat. 3694][/us/stat/120/3694]
 
@@ -23,7 +23,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247b–4b to 247b–4d.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247b–4f.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247b%E2%80%934e)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247b–4a.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247b–4f.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247b%E2%80%934e)
 
 ----------
 ----------

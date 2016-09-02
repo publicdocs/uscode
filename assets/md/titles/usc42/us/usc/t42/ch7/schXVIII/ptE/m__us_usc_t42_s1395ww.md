@@ -1145,9 +1145,7 @@
 
                     (I)
 
-                     in the case of such a hospital with a disproportionate patient percentage (as defined in clause (vi)) greater than 20.2—
-
-                        (a) for discharges occurring on or after April 1, 1990, and on or before December 31, 1990, (P−20.2)(.65) + 5.62,
+                     in the case of such a hospital with a disproportionate patient percentage (as defined in clause (vi)) greater than 20.2—    (a) for discharges occurring on or after April 1, 1990, and on or before December 31, 1990, (P−20.2)(.65) + 5.62,
 
                         (b) for discharges occurring on or after January 1, 1991, and on or before September 30, 1993, (P−20.2)(.7) + 5.62,
 
@@ -1157,9 +1155,7 @@
 
                     (II)
 
-                     in the case of any other such hospital—
-
-                        (a) for discharges occurring on or after April 1, 1990, and on or before December 31, 1990, (P−15)(.6) + 2.5,
+                     in the case of any other such hospital—    (a) for discharges occurring on or after April 1, 1990, and on or before December 31, 1990, (P−15)(.6) + 2.5,
 
                         (b) for discharges occurring on or after January 1, 1991, and on or before September 30, 1993, (P−15)(.6) + 2.5, <sup>\[7\]</sup>  <sup><sup> 7 So in original. Probably should be followed by “and”. </sup></sup> 
 
@@ -6311,7 +6307,7 @@
 
 >     “(2) the wage index applicable for such hospital during such period was lower than the wage index applicable for such hospital during the period beginning on October 1, 2006, and ending on March 31, 2007,
 
->         the Secretary \[of Health and Human Services\] shall apply the higher wage index that was applicable for such hospital during the period beginning on October 1, 2006, and ending on March 31, 2007, for the entire fiscal year 2007. If the Secretary determines that the application of the preceding sentence to a hospital will result in a hospital being owed additional reimbursement, the Secretary shall make such payments within 90 days after the settlement of the applicable cost report.”
+>     the Secretary \[of Health and Human Services\] shall apply the higher wage index that was applicable for such hospital during the period beginning on October 1, 2006, and ending on March 31, 2007, for the entire fiscal year 2007. If the Secretary determines that the application of the preceding sentence to a hospital will result in a hospital being owed additional reimbursement, the Secretary shall make such payments within 90 days after the settlement of the applicable cost report.”
 
  __Correction of Mid-Year Reclassification Expiration__ 
 
@@ -8323,7 +8319,7 @@
 
 >     “(3) elects, by notice to the Secretary of Health and Human Services by not later than April 1, 1988, to have this subsection apply,
 
->         during the first 7 months of such cost reporting period the ‘target percentage’ shall be 75 percent and the ‘DRG percentage’ shall be 25 percent, and during the remaining 5 months of such period the ‘target percentage’ and the ‘DRG percentage’ shall each be 50 percent.”
+>     during the first 7 months of such cost reporting period the ‘target percentage’ shall be 75 percent and the ‘DRG percentage’ shall be 25 percent, and during the remaining 5 months of such period the ‘target percentage’ and the ‘DRG percentage’ shall each be 50 percent.”
 
     \[[Section 4008(e) of Pub. L. 100–203][/us/pl/100/203/s4008/e] provided that the amendment of [section 9307(d) of Pub. L. 99–509][/us/pl/99/509/s9307/d], set out above, by [section 4008(e) of Pub. L. 100–203][/us/pl/100/203/s4008/e] is effective as if included in the enactment of [Pub. L. 99–509][/us/pl/99/509].\]
 
@@ -8331,7 +8327,7 @@
 
 [Pub. L. 99–509, title IX, § 9321(c)][/us/pl/99/509/s9321/c], Oct. 21, 1986, [100 Stat. 2016][/us/stat/100/2016], as amended by [Pub. L. 100–119, title I, § 107(a)(2)][/us/pl/100/119/s107/a/2], Sept. 29, 1987, [101 Stat. 783][/us/stat/101/783]; [Pub. L. 100–203, title IV, § 4009(j)(6)(D)][/us/pl/100/203/s4009/j/6/D], (F), Dec. 22, 1987, [101 Stat. 1330–59][/us/stat/101/1330-59], provided that:
 
->     “(1) __Prohibition of issuance of final regulations on capital-related costs as part of payment for operating costs before november 21, 1987.—__ 
+>     “(1) __Prohibition of issuance of final regulations on capital-related costs as part of payment for operating costs before__  __november 21, 1987__  __.—__ 
 
 >     Notwithstanding any other provision of law (except as provided in paragraph (3)), the Secretary of Health and Human Services may not issue, in final form, after September 1, 1986, and before November 21, 1987, any regulation that changes the methodology for computing the amount of payment for capital-related costs (as defined in paragraph (4)) for inpatient hospital services under part A of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\]. Any regulation published in violation of the previous sentence is void and of no effect.
 
@@ -8479,7 +8475,7 @@
 
 >     “(3) the Secretary shall adjust the hospital-specific portion of payment under section 1886(d) of such Act \[[42 U.S.C. 1395ww(d)][/us/usc/t42/s1395ww/d]\] for any such hospital that actually chooses to use the medicare cost report.
 
->         The Secretary shall implement this subsection based on the best available data.”
+>     The Secretary shall implement this subsection based on the best available data.”
 
  __Moratorium on Laboratory Payment Demonstrations; Cooperation in Study; Report to Congress__ 
 

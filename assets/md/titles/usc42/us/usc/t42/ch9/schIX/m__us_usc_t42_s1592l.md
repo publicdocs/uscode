@@ -15,7 +15,7 @@
 
 ## § 1592l. Authorization of appropriations
 
-There are authorized to be appropriated—
+    There are authorized to be appropriated—
 
     (a) such sums, not exceeding $100,000,000, as may be necessary for carrying out the provisions and purposes of this subchapter relating to community facilities and services in critical defense housing areas; and
 

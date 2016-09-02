@@ -15,7 +15,7 @@
 
 ## § 1962c–4. Payments to States; computation of amount
 
-The method of computing and paying amounts pursuant to this subchapter shall be as follows:
+    The method of computing and paying amounts pursuant to this subchapter shall be as follows:
 
     (1) The Council shall, prior to the beginning of each calendar quarter or other period prescribed by it, estimate the amount to be paid to each State under the provisions of this subchapter for such period, such estimate to be based on such records of the State and information furnished by it, and such other investigation, as the Council may find necessary.
 

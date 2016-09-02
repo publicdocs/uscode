@@ -15,7 +15,7 @@
 
 ## § 7112. Congressional declaration of purpose
 
-The Congress therefore declares that the establishment of a Department of Energy is in the public interest and will promote the general welfare by assuring coordinated and effective administration of Federal energy policy and programs. It is the purpose of this chapter:
+    The Congress therefore declares that the establishment of a Department of Energy is in the public interest and will promote the general welfare by assuring coordinated and effective administration of Federal energy policy and programs. It is the purpose of this chapter:
 
     (1) To establish a Department of Energy in the executive branch.
 

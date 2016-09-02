@@ -107,7 +107,7 @@
 
 >     “(2) the expiration of the 3-month period beginning upon publication by the Secretary of Housing and Urban Development of final regulations pursuant to section 1504 \[the first final regulations pursuant to section 1504 ([42 U.S.C. 11301][/us/usc/t42/s11301] note) were published on Dec. 5, 2011, see 76 F.R. 75994\],
 
->         whichever occurs first.”
+>     whichever occurs first.”
 
  __Effective Date of 1998 Amendment__ 
 

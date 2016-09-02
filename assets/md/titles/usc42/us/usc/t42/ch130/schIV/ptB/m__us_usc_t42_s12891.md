@@ -15,7 +15,7 @@
 
 ## § 12891. Program authority
 
-The Secretary is authorized to make—
+    The Secretary is authorized to make—
 
     (1) planning grants to help applicants develop homeownership programs in accordance with this part; and
 

@@ -15,7 +15,7 @@
 
 ## § 290jj–1. Reporting requirement
 
-Each facility to which this part applies shall notify the appropriate State licensing or regulatory agency, as determined by the Secretary—
+    Each facility to which this part applies shall notify the appropriate State licensing or regulatory agency, as determined by the Secretary—
 
     (1) of each death that occurs at each such facility. A notification under this section shall include the name of the resident and shall be provided not later than 24 hours after the time of the individuals  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “individual’s”. </sup></sup>  death; and
 

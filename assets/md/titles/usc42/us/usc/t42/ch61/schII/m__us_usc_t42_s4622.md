@@ -83,11 +83,11 @@
 
 [Pub. L. 112–141, div. A, title I, § 1521(a)][/us/pl/112/141/s1521/a], (g), July 6, 2012, [126 Stat. 577][/us/stat/126/577], 579, provided that, effective 2 years after the date of enactment of this Act, this section is amended as follows:
 
-(1) in subsection (a)(4), by striking “$10,000” and inserting “$25,000, as adjusted by regulation, in accordance with [section 4633(d) of this title][/us/usc/t42/s4633/d]”; and
+    (1) in subsection (a)(4), by striking “$10,000” and inserting “$25,000, as adjusted by regulation, in accordance with [section 4633(d) of this title][/us/usc/t42/s4633/d]”; and
 
-(2) in the second sentence of subsection (c), by striking “$20,000” and inserting “$40,000, as adjusted by regulation, in accordance with [section 4633(d) of this title][/us/usc/t42/s4633/d]”.
+    (2) in the second sentence of subsection (c), by striking “$20,000” and inserting “$40,000, as adjusted by regulation, in accordance with [section 4633(d) of this title][/us/usc/t42/s4633/d]”.
 
-See 2012 Amendment notes below.
+    See 2012 Amendment notes below.
 
  __Amendments__ 
 

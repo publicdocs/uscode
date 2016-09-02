@@ -575,7 +575,11 @@
 
 >              As of the date of the enactment of this Act \[July 15, 2008\], a facility designated as a critical access hospital which meets the following requirements was located in the county:
 
->                 “(i) As of the date of the enactment of this Act, the critical access hospital furnished 1 or more of the following:         “(I) Home health services.
+>                 “(i)
+
+>                  As of the date of the enactment of this Act, the critical access hospital furnished 1 or more of the following:
+
+>                          “(I) Home health services.
 
 >                          “(II) Hospice care.
 

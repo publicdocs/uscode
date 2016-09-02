@@ -213,7 +213,7 @@
 
                 except that in no case may any amended standard apply to products manufactured within three years after publication of the final rule establishing such amended standard.
 
-        (4) __Refrigerators and freezers manufactured on or after january 1, 2014.—__ 
+        (4) __Refrigerators and freezers manufactured on or after__  __january 1, 2014__  __.—__ 
 
             (A) __In general.—__ 
 
@@ -1497,7 +1497,7 @@
 
                 (iii) a ballast that has a power factor of less than 0.90 and is designed and labeled for use only in residential applications.
 
-        (9) __Residential clothes washers manufactured on or after january 1, 2011.—__ 
+        (9) __Residential clothes washers manufactured on or after__  __january 1, 2011__  __.—__ 
 
             (A) __In general.—__ 
 
@@ -1517,7 +1517,7 @@
 
                 The final rule shall contain any amended standards.
 
-        (10) __Residential dishwashers manufactured on or after january 1, 2010.—__ 
+        (10) __Residential dishwashers manufactured on or after__  __january 1, 2010__  __.—__ 
 
             (A) __In general.—__ 
 
@@ -1927,9 +1927,9 @@
 
                 The standards specified in subparagraph (B) shall apply with respect to ER incandescent reflector lamps, BR incandescent reflector lamps, BPAR incandescent reflector lamps, and similar bulb shapes on and after January 1, 2008.
 
-                (ii) __Lamps between 2.25–2.75 inches in diameter.—__ 
+                (ii) __Lamps between 2.__ 
 
-                The standards specified in subparagraph (B) shall apply with respect to incandescent reflector lamps with a diameter of more than 2.25 inches, but not more than 2.75 inches, on and after the later of January 1, 2008, or the date that is 180 days after December 19, 2007.
+                25–2.75 inches in diameter.—The standards specified in subparagraph (B) shall apply with respect to incandescent reflector lamps with a diameter of more than 2.25 inches, but not more than 2.75 inches, on and after the later of January 1, 2008, or the date that is 180 days after December 19, 2007.
 
         (2) Notwithstanding [section 6302(a)(5) of this title][/us/usc/t42/s6302/a/5] and [section 6302(b) of this title][/us/usc/t42/s6302/b], it shall not be unlawful for a manufacturer to sell a lamp which is in compliance with the law at the time such lamp was manufactured.
 
@@ -1941,7 +1941,7 @@
 
         (6) __Standards for general service lamps.—__ 
 
-            (A) __Rulemaking before january 1, 2014.—__ 
+            (A) __Rulemaking before__  __january 1, 2014__  __.—__ 
 
                 (i) __In general.—__ 
 
@@ -1985,7 +1985,7 @@
 
                     (III) in the case of California, if a final rule described in subclause (I) has not been adopted, any California regulations relating to these covered products adopted pursuant to State statute in effect as of December 19, 2007.
 
-            (B) __Rulemaking before january 1, 2020.—__ 
+            (B) __Rulemaking before__  __january 1, 2020__  __.—__ 
 
                 (i) __In general.—__ 
 
@@ -2357,7 +2357,7 @@
 
                     (II) a requirement that those lamps be sold at retail only in a package containing 1 lamp.
 
-            (I) __Rulemakings before january 1, 2025.—__ 
+            (I) __Rulemakings before__  __january 1, 2025__  __.—__ 
 
                 (i) __In general.—__ 
 
@@ -2777,209 +2777,207 @@
 
      For each product class, any energy conservation standards issued under clause (i) shall be set at the lowest level of energy use that—
 
-        (I)
+        (I) meets the criteria and procedures of subsections (o), (p), (q), (r), (s), and (t) of this section; and
 
-         meets the criteria and procedures of subsections (o), (p), (q), (r), (s), and (t) of this section; and
+        (II) would result in significant overall annual energy savings, considering standby mode and other operating modes.
 
-            (II) would result in significant overall annual energy savings, considering standby mode and other operating modes.
+        (2) The Secretary and the Administrator shall collaborate and develop programs (including programs under [section 6294a of this title][/us/usc/t42/s6294a] and other voluntary industry agreements or codes of conduct) that are designed to reduce standby mode energy use.
 
-    (2) The Secretary and the Administrator shall collaborate and develop programs (including programs under [section 6294a of this title][/us/usc/t42/s6294a] and other voluntary industry agreements or codes of conduct) that are designed to reduce standby mode energy use.
+        (3) __Efficiency standards for class a external power supplies.—__ 
 
-    (3) __Efficiency standards for class a external power supplies.—__ 
+            (A) __In general.—__ 
 
-        (A) __In general.—__ 
-
-        Subject to subparagraphs (B) through (E), a class A external power supply manufactured on or after the later of July 1, 2008, or December 19, 2007, shall meet the following standards:
+            Subject to subparagraphs (B) through (E), a class A external power supply manufactured on or after the later of July 1, 2008, or December 19, 2007, shall meet the following standards:
 
 <table>
 
-          <tr>
+              <tr>
 
-            <td colspan="2"> 
+                <td colspan="2"> 
 
-        Active Mode  </td>
-
-  </tr>
-
-          <tr>
-
-            <td> 
-
-        Nameplate Output  </td>
-
-            <td> 
-
-        Required Efficiency
-
-        (decimal equivalent of a percentage)  </td>
+            Active Mode  </td>
 
   </tr>
 
-          <tr>
+              <tr>
 
-            <td> 
+                <td> 
 
-        Less than 1 watt  </td>
+            Nameplate Output  </td>
 
-            <td> 
+                <td> 
 
-        0.5 times the Nameplate Output  </td>
+            Required Efficiency
 
-  </tr>
-
-          <tr>
-
-            <td> 
-
-        From 1 watt to not more than 51 watts  </td>
-
-            <td> 
-
-        The sum of 0.09 times the Natural Logarithm of the Nameplate Output and 0.5  </td>
+            (decimal equivalent of a percentage)  </td>
 
   </tr>
 
-          <tr>
+              <tr>
 
-            <td> 
+                <td> 
 
-        Greater than 51 watts  </td>
+            Less than 1 watt  </td>
 
-            <td> 
+                <td> 
 
-        0.85  </td>
-
-  </tr>
-
-          <tr>
-
-            <td colspan="2"> 
-
-        No-Load Mode  </td>
+            0.5 times the Nameplate Output  </td>
 
   </tr>
 
-          <tr>
+              <tr>
 
-            <td> 
+                <td> 
 
-        Nameplate Output  </td>
+            From 1 watt to not more than 51 watts  </td>
 
-            <td> 
+                <td> 
 
-        Maximum Consumption  </td>
-
-  </tr>
-
-          <tr>
-
-            <td> 
-
-        Not more than 250 watts  </td>
-
-            <td> 
-
-        0.5 watts  </td>
+            The sum of 0.09 times the Natural Logarithm of the Nameplate Output and 0.5  </td>
 
   </tr>
 
-        </table>
+              <tr>
 
-        (B) __Noncovered supplies.—__ 
+                <td> 
 
-        A class A external power supply shall not be subject to subparagraph (A) if the class A external power supply is—
+            Greater than 51 watts  </td>
 
-            (i) manufactured during the period beginning on July 1, 2008, and ending on June 30, 2015; and
+                <td> 
 
-            (ii)
+            0.85  </td>
 
-             made available by the manufacturer as a service part or a spare part for an end-use product—
+  </tr>
 
-                (I) that constitutes the primary load; and
+              <tr>
 
-                (II) was manufactured before July 1, 2008.
+                <td colspan="2"> 
 
-        (C) __Marking.—__ 
+            No-Load Mode  </td>
 
-        Any class A external power supply manufactured on or after the later of July 1, 2008 or December 19, 2007, shall be clearly and permanently marked in accordance with the External Power Supply International Efficiency Marking Protocol, as referenced in the “Energy Star Program Requirements for Single Voltage External AC–DC and AC–AC Power Supplies, version 1.1” published by the Environmental Protection Agency.
+  </tr>
 
-        (D) __Amendment of standards.—__ 
+              <tr>
 
-            (i) __Final rule by july 1, 2011.—__ 
+                <td> 
 
-                (I) __In general.—__ 
+            Nameplate Output  </td>
 
-                Not later than July 1, 2011, the Secretary shall publish a final rule to determine whether the standards established under subparagraph (A) should be amended.
+                <td> 
 
-                (II) __Administration.—__ 
+            Maximum Consumption  </td>
 
-                The final rule shall—
+  </tr>
 
-                    (aa) contain any amended standards; and
+              <tr>
 
-                    (bb) apply to products manufactured on or after July 1, 2013.
+                <td> 
 
-            (ii) __Final rule by july 1, 2015.—__ 
+            Not more than 250 watts  </td>
 
-                (I) __In general.—__ 
+                <td> 
 
-                Not later than July 1, 2015 the Secretary shall publish a final rule to determine whether the standards then in effect should be amended.
+            0.5 watts  </td>
 
-                (II) __Administration.—__ 
+  </tr>
 
-                The final rule shall—
+            </table>
 
-                    (aa) contain any amended standards; and
+            (B) __Noncovered supplies.—__ 
 
-                    (bb) apply to products manufactured on or after July 1, 2017.
+            A class A external power supply shall not be subject to subparagraph (A) if the class A external power supply is—
 
-        (E) __Nonapplication of no-load mode energy efficiency standards to external power supplies for certain security or life safety alarms or surveillance systems.—__ 
+                (i) manufactured during the period beginning on July 1, 2008, and ending on June 30, 2015; and
 
-            (i) __Definition of security or life safety alarm or surveillance system.—__ 
+                (ii)
 
-            In this subparagraph:
+                 made available by the manufacturer as a service part or a spare part for an end-use product—
 
-                (I) __In general.—__ 
+                    (I) that constitutes the primary load; and
 
-                The term “security or life safety alarm or surveillance system” means equipment designed and marketed to perform any of the following functions (on a continuous basis):
+                    (II) was manufactured before July 1, 2008.
 
-                    (aa) Monitor, detect, record, or provide notification of intrusion or access to real property or physical assets or notification of threats to life safety.
+            (C) __Marking.—__ 
 
-                    (bb) Deter or control access to real property or physical assets, or prevent the unauthorized removal of physical assets.
+            Any class A external power supply manufactured on or after the later of July 1, 2008 or December 19, 2007, shall be clearly and permanently marked in accordance with the External Power Supply International Efficiency Marking Protocol, as referenced in the “Energy Star Program Requirements for Single Voltage External AC–DC and AC–AC Power Supplies, version 1.1” published by the Environmental Protection Agency.
 
-                    (cc) Monitor, detect, record, or provide notification of fire, gas, smoke, flooding, or other physical threats to real property, physical assets, or life safety.
+            (D) __Amendment of standards.—__ 
 
-                (II) __Exclusion.—__ 
+                (i) __Final rule by__  __july 1, 2011__  __.—__ 
 
-                The term “security or life safety alarm or surveillance system” does not include any product with a principal function other than life safety, security, or surveillance that—
+                    (I) __In general.—__ 
 
-                    (aa) is designed and marketed with a built-in alarm or theft-deterrent feature; or
+                    Not later than July 1, 2011, the Secretary shall publish a final rule to determine whether the standards established under subparagraph (A) should be amended.
 
-                    (bb) does not operate necessarily and continuously in active mode.
+                    (II) __Administration.—__ 
 
-            (ii) __Nonapplication of no-load mode requirements.—__ 
+                    The final rule shall—
 
-            The No-Load Mode energy efficiency standards established by this paragraph shall not apply to an external power supply manufactured before July 1, 2017, that—
+                        (aa) contain any amended standards; and
 
-                (I) is an AC-to-AC external power supply;
+                        (bb) apply to products manufactured on or after July 1, 2013.
 
-                (II) has a nameplate output of 20 watts or more;
+                (ii) __Final rule by__  __july 1, 2015__  __.—__ 
 
-                (III) is certified to the Secretary as being designed to be connected to a security or life safety alarm or surveillance system component; and
+                    (I) __In general.—__ 
 
-                (IV) on establishment within the External Power Supply International Efficiency Marking Protocol, as referenced in the “Energy Star Program Requirements for Single Voltage External Ac–Dc and Ac–Ac Power Supplies”, published by the Environmental Protection Agency, of a distinguishing mark for products described in this clause, is permanently marked with the distinguishing mark.
+                    Not later than July 1, 2015 the Secretary shall publish a final rule to determine whether the standards then in effect should be amended.
 
-            (iii) __Administration.—__ 
+                    (II) __Administration.—__ 
 
-            In carrying out this subparagraph, the Secretary shall—
+                    The final rule shall—
 
-                (I) require, with appropriate safeguard for the protection of confidential business information, the submission of unit shipment data on an annual basis; and
+                        (aa) contain any amended standards; and
 
-                (II) restrict the eligibility of external power supplies for the exemption provided under this subparagraph on a finding that a substantial number of the external power supplies are being marketed to or installed in applications other than security or life safety alarm or surveillance systems.
+                        (bb) apply to products manufactured on or after July 1, 2017.
 
-    (4) __End-use products.—__ 
+            (E) __Nonapplication of no-load mode energy efficiency standards to external power supplies for certain security or life safety alarms or surveillance systems.—__ 
 
-    An energy conservation standard for external power supplies shall not constitute an energy conservation standard for the separate end-use product to which the external power supply is connected.
+                (i) __Definition of security or life safety alarm or surveillance system.—__ 
+
+                In this subparagraph:
+
+                    (I) __In general.—__ 
+
+                    The term “security or life safety alarm or surveillance system” means equipment designed and marketed to perform any of the following functions (on a continuous basis):
+
+                        (aa) Monitor, detect, record, or provide notification of intrusion or access to real property or physical assets or notification of threats to life safety.
+
+                        (bb) Deter or control access to real property or physical assets, or prevent the unauthorized removal of physical assets.
+
+                        (cc) Monitor, detect, record, or provide notification of fire, gas, smoke, flooding, or other physical threats to real property, physical assets, or life safety.
+
+                    (II) __Exclusion.—__ 
+
+                    The term “security or life safety alarm or surveillance system” does not include any product with a principal function other than life safety, security, or surveillance that—
+
+                        (aa) is designed and marketed with a built-in alarm or theft-deterrent feature; or
+
+                        (bb) does not operate necessarily and continuously in active mode.
+
+                (ii) __Nonapplication of no-load mode requirements.—__ 
+
+                The No-Load Mode energy efficiency standards established by this paragraph shall not apply to an external power supply manufactured before July 1, 2017, that—
+
+                    (I) is an AC-to-AC external power supply;
+
+                    (II) has a nameplate output of 20 watts or more;
+
+                    (III) is certified to the Secretary as being designed to be connected to a security or life safety alarm or surveillance system component; and
+
+                    (IV) on establishment within the External Power Supply International Efficiency Marking Protocol, as referenced in the “Energy Star Program Requirements for Single Voltage External Ac–Dc and Ac–Ac Power Supplies”, published by the Environmental Protection Agency, of a distinguishing mark for products described in this clause, is permanently marked with the distinguishing mark.
+
+                (iii) __Administration.—__ 
+
+                In carrying out this subparagraph, the Secretary shall—
+
+                    (I) require, with appropriate safeguard for the protection of confidential business information, the submission of unit shipment data on an annual basis; and
+
+                    (II) restrict the eligibility of external power supplies for the exemption provided under this subparagraph on a finding that a substantial number of the external power supplies are being marketed to or installed in applications other than security or life safety alarm or surveillance systems.
+
+        (4) __End-use products.—__ 
+
+        An energy conservation standard for external power supplies shall not constitute an energy conservation standard for the separate end-use product to which the external power supply is connected.
 
     (v) __Refrigerated beverage vending machines__ 
 
@@ -3127,7 +3125,7 @@
 
         </table>
 
-        (2) __Dehumidifiers manufactured on or after october 1, 2012.—__ 
+        (2) __Dehumidifiers manufactured on or after__  __october 1, 2012__  __.—__ 
 
         Dehumidifiers manufactured on or after October 1, 2012, shall have an Energy Factor that meets or exceeds the following values:
 

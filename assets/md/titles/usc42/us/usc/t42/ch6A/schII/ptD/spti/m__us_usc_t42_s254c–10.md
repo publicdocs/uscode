@@ -15,7 +15,7 @@
 
 ## § 254c–10. Certain requirements
 
-A grant may be made under [section 254c–9 of this title][/us/usc/t42/s254c–9] only if the applicant involved makes the following agreements:
+    A grant may be made under [section 254c–9 of this title][/us/usc/t42/s254c–9] only if the applicant involved makes the following agreements:
 
     (1) Not more than 5 percent of the grant will be used for administration, accounting, reporting, and program oversight functions.
 

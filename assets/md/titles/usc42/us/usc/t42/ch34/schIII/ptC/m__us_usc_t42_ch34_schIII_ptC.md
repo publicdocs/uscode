@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch34/schIII/ptB/m__us_usc_t42_s2861 to 2865.md) | [Next](./../../../../../..//us/usc/t42/ch34/schIII/ptC/m__us_usc_t42_s2871.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch34%2FschIII%2FptC)
+[Previous](./../../../../../..//us/usc/t42/ch34/schIII/ptB/m__us_usc_t42_ch34_schIII_ptB.md) | [Next](./../../../../../..//us/usc/t42/ch34/schIII/ptC/m__us_usc_t42_s2871.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch34%2FschIII%2FptC)
 
 #### Part C—Duration of Program
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch34/schIII/ptB/m__us_usc_t42_s2861 to 2865.md) | [Next](./../../../../../..//us/usc/t42/ch34/schIII/ptC/m__us_usc_t42_s2871.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch34%2FschIII%2FptC)
+[Previous](./../../../../../..//us/usc/t42/ch34/schIII/ptB/m__us_usc_t42_ch34_schIII_ptB.md) | [Next](./../../../../../..//us/usc/t42/ch34/schIII/ptC/m__us_usc_t42_s2871.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch34%2FschIII%2FptC)
 
 ----------
 ----------

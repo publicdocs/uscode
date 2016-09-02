@@ -15,7 +15,7 @@
 
 ## § 10502. Definitions
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (1) the term “Federal law enforcement assistance” means funds, equipment, training, intelligence information, and personnel,
 

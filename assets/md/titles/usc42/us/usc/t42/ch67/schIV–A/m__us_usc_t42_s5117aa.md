@@ -15,7 +15,7 @@
 
 ## § 5117aa. Findings
 
-The Congress finds that—
+    The Congress finds that—
 
     (1) studies indicate that a number of factors contribute to the inability of some parents to provide adequate care for their infants and young children and a lack of suitable shelter homes for such infants and young children have led to the abandonment of such infants and young children in hospitals for extended periods;
 

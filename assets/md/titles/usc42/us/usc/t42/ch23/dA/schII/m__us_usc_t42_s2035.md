@@ -15,7 +15,7 @@
 
 ## § 2035. Divisions, offices, and positions
 
-There is established within the Commission—
+    There is established within the Commission—
 
     (a) __Program divisions; appointment and powers of Assistant General Manager and Division Directors__ 
 

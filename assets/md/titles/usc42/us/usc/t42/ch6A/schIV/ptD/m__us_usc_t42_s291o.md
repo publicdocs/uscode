@@ -15,7 +15,7 @@
 
 ## § 291o. Definitions
 
-For the purposes of this subchapter—
+    For the purposes of this subchapter—
 
     (a) The term “State” includes the Commonwealth of Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Virgin Islands, and the District of Columbia.
 

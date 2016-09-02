@@ -15,7 +15,7 @@
 
 ## § 7300. Report to Congress; effect on personnel
 
-The Civil Service Commission shall, as soon as practicable but not later than one year after October 1, 1977, prepare and transmit to the Congress a report on the effects on employees of the reorganization under this chapter which shall include—
+    The Civil Service Commission shall, as soon as practicable but not later than one year after October 1, 1977, prepare and transmit to the Congress a report on the effects on employees of the reorganization under this chapter which shall include—
 
     (1) an identification of any position within the Department or elsewhere in the executive branch, which it considers unnecessary due to consolidation of functions under this chapter;
 

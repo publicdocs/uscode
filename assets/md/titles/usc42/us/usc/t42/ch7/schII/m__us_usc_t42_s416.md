@@ -15,7 +15,7 @@
 
 ## § 416. Additional definitions
 
-For the purposes of this subchapter—
+    For the purposes of this subchapter—
 
     (a) __Spouse; surviving spouse__ 
 

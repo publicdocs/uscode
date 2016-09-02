@@ -15,7 +15,7 @@
 
 ## § 10001. Statement of findings
 
-The Congress finds that—
+    The Congress finds that—
 
     (1) it is in the interest of public health and safety to minimize unnecessary exposure to potentially hazardous radiation due to medical and dental radiologic procedures;
 

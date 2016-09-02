@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schI/ptA/m__us_usc_t42_s228 to 229d.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schI/ptA/m__us_usc_t42_s231.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs230)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schI/ptA/m__us_usc_t42_s227a.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schI/ptA/m__us_usc_t42_s231.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs230)
 
 ## § 230. Repealed. [Apr. 27, 1956, ch. 211, § 5(e)][/us/act/1956-04-27/ch211/s5/e], [70 Stat. 117][/us/stat/70/117]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schI/ptA/m__us_usc_t42_s228 to 229d.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schI/ptA/m__us_usc_t42_s231.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs230)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schI/ptA/m__us_usc_t42_s227a.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schI/ptA/m__us_usc_t42_s231.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs230)
 
 ----------
 ----------

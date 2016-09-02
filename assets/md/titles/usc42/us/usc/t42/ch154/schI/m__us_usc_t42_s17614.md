@@ -15,7 +15,7 @@
 
 ## § 17614. Duties and functions of task forces
 
-Each State or local ICAC task force that is part of the national program of task forces shall—
+    Each State or local ICAC task force that is part of the national program of task forces shall—
 
     (1) consist of State and local investigators, prosecutors, forensic specialists, and education specialists who are dedicated to addressing the goals of such task force;
 

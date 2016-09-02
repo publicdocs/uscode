@@ -15,7 +15,7 @@
 
 ## § 263a–5. Publication
 
-The Secretary, through the Centers for Disease Control, shall not later than 3 years after October 24, 1992, and annually thereafter publish and distribute to the States and the public—
+    The Secretary, through the Centers for Disease Control, shall not later than 3 years after October 24, 1992, and annually thereafter publish and distribute to the States and the public—
 
     (1)
 

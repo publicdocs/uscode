@@ -15,7 +15,7 @@
 
 ## § 7651a. Definitions
 
-As used in this subchapter:
+    As used in this subchapter:
 
     (1) The term “affected source” means a source that includes one or more affected units.
 

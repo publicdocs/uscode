@@ -15,7 +15,7 @@
 
 ## § 17504. Rule of construction
 
-Nothing in this Act or an amendment made by this Act shall be construed as creating a right or entitlement to assistance or services for any individual, program, or grant recipient. Each grant made under this Act or an amendment made by this Act shall—
+    Nothing in this Act or an amendment made by this Act shall be construed as creating a right or entitlement to assistance or services for any individual, program, or grant recipient. Each grant made under this Act or an amendment made by this Act shall—
 
     (1) be made as competitive grants  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “a competitive grant”. </sup></sup>  to eligible entities for a 12-month period, except that grants awarded under section 113  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup> , [section 17521 of this title][/us/usc/t42/s17521], [section 17531 of this title][/us/usc/t42/s17531], and [section 17532 of this title][/us/usc/t42/s17532] may be made for a 24-month period; and
 

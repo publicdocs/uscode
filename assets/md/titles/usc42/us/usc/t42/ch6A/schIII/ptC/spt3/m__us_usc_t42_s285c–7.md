@@ -15,13 +15,13 @@
 
 ## § 285c–7. Biennial report
 
-The Director of the Institute shall prepare for inclusion in the biennial report made under section 284b  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title a description of the Institute’s activities—
+    The Director of the Institute shall prepare for inclusion in the biennial report made under section 284b  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title a description of the Institute’s activities—
 
     (1) under the current diabetes plan under the National Diabetes Mellitus Research and Education Act; and
 
     (2) under the current digestive diseases plan formulated under the Arthritis, Diabetes, and Digestive Diseases Amendments of 1976.
 
-        The description submitted by the Director shall include an evaluation of the activities of the centers supported under [section 285c–5 of this title][/us/usc/t42/s285c–5].
+    The description submitted by the Director shall include an evaluation of the activities of the centers supported under [section 285c–5 of this title][/us/usc/t42/s285c–5].
 
 ([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 433, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 848][/us/stat/99/848].)
 

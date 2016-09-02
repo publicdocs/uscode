@@ -15,7 +15,7 @@
 
 ## § 300ff–137. Limitation with respect to duties of medical facilities
 
-The duties established in this part for a medical facility—
+    The duties established in this part for a medical facility—
 
     (1) shall apply only to medical information possessed by the facility during the period in which the facility is treating the victim for conditions arising from the emergency, or during the 60-day period beginning on the date on which the victim is transported by emergency response employees to the facility, whichever period expires first; and
 

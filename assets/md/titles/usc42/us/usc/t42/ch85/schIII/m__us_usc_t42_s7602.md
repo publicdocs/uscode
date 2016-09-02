@@ -15,7 +15,7 @@
 
 ## § 7602. Definitions
 
-When used in this chapter—
+    When used in this chapter—
 
     (a) The term “Administrator” means the Administrator of the Environmental Protection Agency.
 

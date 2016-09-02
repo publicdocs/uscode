@@ -15,7 +15,7 @@
 
 ## § 14099. State plan requirements
 
-A State Police Corps plan shall—
+    A State Police Corps plan shall—
 
     (1) provide for the screening and selection of participants in accordance with the criteria set out in [section 14096 of this title][/us/usc/t42/s14096];
 

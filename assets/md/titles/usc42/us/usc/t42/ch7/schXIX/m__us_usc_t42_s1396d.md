@@ -15,7 +15,7 @@
 
 ## § 1396d. Definitions
 
-For purposes of this subchapter—
+    For purposes of this subchapter—
 
     (a) __Medical assistance__ 
 
@@ -1641,9 +1641,9 @@ For purposes of this subchapter—
 
 >         The State agrees to make, not later than the end of the 6-month period that begins on the date the State submits an application under this section, the following changes:
 
->             “(A) __‘No wrong door—single entry point system’.—__ 
+>             “(A) __‘No wrong door—__ 
 
->             Development of a statewide system to enable consumers to access all long-term services and supports through an agency, organization, coordinated network, or portal, in accordance with such standards as the State shall establish and that shall provide information regarding the availability of such services, how to apply for such services, referral services for services and supports otherwise available in the community, and determinations of financial and functional eligibility for such services and supports, or assistance with assessment processes for financial and functional eligibility.
+>             single entry point system’.—Development of a statewide system to enable consumers to access all long-term services and supports through an agency, organization, coordinated network, or portal, in accordance with such standards as the State shall establish and that shall provide information regarding the availability of such services, how to apply for such services, referral services for services and supports otherwise available in the community, and determinations of financial and functional eligibility for such services and supports, or assistance with assessment processes for financial and functional eligibility.
 
 >             “(B) __Conflict-free case management services.—__ 
 

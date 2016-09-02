@@ -15,7 +15,7 @@
 
 ## § 4151. “Building” defined
 
-As used in this chapter, the term “building” means any building or facility (other than (A) a privately owned residential structure not leased by the Government for subsidized housing programs and (B) any building or facility on a military installation designed and constructed primarily for use by able bodied military personnel) the intended use for which either will require that such building or facility be accessible to the public, or may result in the employment or residence therein of physically handicapped persons, which building or facility is—
+    As used in this chapter, the term “building” means any building or facility (other than (A) a privately owned residential structure not leased by the Government for subsidized housing programs and (B) any building or facility on a military installation designed and constructed primarily for use by able bodied military personnel) the intended use for which either will require that such building or facility be accessible to the public, or may result in the employment or residence therein of physically handicapped persons, which building or facility is—
 
     (1) to be constructed or altered by or on behalf of the United States;
 

@@ -315,7 +315,7 @@
 
 >     “(3) by substituting ‘Secretary of Health and Human Services’ for the term ‘Federal Security Administrator’ in any other case where the reference is to that term;
 
->         and any reference to the Federal Security Agency which may remain in such provisions is amended by substituting ‘Department of Health and Human Services’ for the term ‘Federal Security Agency’; but nothing in this subsection shall affect the exercise under section 402(a)(5) of such Act \[[42 U.S.C. 602(a)(5)][/us/usc/t42/s602/a/5]\] of the functions, powers, and duties relating to the prescription of personnel standards on a merit basis which were transferred from the Secretary of Health, Education, and Welfare by [section 208(a)(3)(D) of Public Law 91–648][/us/pl/91/648/s208/a/3/D] \[[42 U.S.C. 4728(a)(3)(D)][/us/usc/t42/s4728/a/3/D]\].”
+>     and any reference to the Federal Security Agency which may remain in such provisions is amended by substituting ‘Department of Health and Human Services’ for the term ‘Federal Security Agency’; but nothing in this subsection shall affect the exercise under section 402(a)(5) of such Act \[[42 U.S.C. 602(a)(5)][/us/usc/t42/s602/a/5]\] of the functions, powers, and duties relating to the prescription of personnel standards on a merit basis which were transferred from the Secretary of Health, Education, and Welfare by [section 208(a)(3)(D) of Public Law 91–648][/us/pl/91/648/s208/a/3/D] \[[42 U.S.C. 4728(a)(3)(D)][/us/usc/t42/s4728/a/3/D]\].”
 
  __Definitions of “BIPA” and “Secretary”__ 
 

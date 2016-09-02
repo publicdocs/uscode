@@ -15,7 +15,7 @@
 
 ## § 2291. Definitions
 
-As used in this subchapter—
+    As used in this subchapter—
 
     (a) “The Community” means the European Atomic Energy Community (EURATOM).
 

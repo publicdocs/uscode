@@ -15,7 +15,7 @@
 
 ## § 5502. Definitions
 
-For purposes of this subchapter—
+    For purposes of this subchapter—
 
     (1) the term “solar heating”, with respect to any building, means the use of solar energy to meet such portion of the total heating needs of such building (including hot water), or such portion of the needs of such building for hot water (where its remaining heating needs are met by other methods), as may be required under performance criteria prescribed by the Secretary of Housing and Urban Development utilizing the services of the Director of the National Institute of Standards and Technology, and in consultation with the Secretary of Energy, and the Administrator of the National Aeronautics and Space Administration;
 

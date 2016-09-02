@@ -15,7 +15,7 @@
 
 ## § 1862j. Authorization of appropriations
 
-There are authorized to be appropriated, from sums otherwise authorized to be appropriated, to the Director for carrying out sections 1862h to 1862j of this title—
+    There are authorized to be appropriated, from sums otherwise authorized to be appropriated, to the Director for carrying out sections 1862h to 1862j of this title—
 
     (1) $35,000,000 for fiscal year 1992; and
 

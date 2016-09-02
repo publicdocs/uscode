@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch94/schI/m__us_usc_t42_s8601 to 8612.md) | [Next](./../../../../..//us/usc/t42/ch94/schII/m__us_usc_t42_s8621.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch94%2FschII)
+[Previous](./../../../../..//us/usc/t42/ch94/schI/m__us_usc_t42_ch94_schI.md) | [Next](./../../../../..//us/usc/t42/ch94/schII/m__us_usc_t42_s8621.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch94%2FschII)
 
 ### SUBCHAPTER II—LOW-INCOME HOME ENERGY ASSISTANCE
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch94/schI/m__us_usc_t42_s8601 to 8612.md) | [Next](./../../../../..//us/usc/t42/ch94/schII/m__us_usc_t42_s8621.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch94%2FschII)
+[Previous](./../../../../..//us/usc/t42/ch94/schI/m__us_usc_t42_ch94_schI.md) | [Next](./../../../../..//us/usc/t42/ch94/schII/m__us_usc_t42_s8621.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch94%2FschII)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 1395x. Definitions
 
-For purposes of this subchapter—
+    For purposes of this subchapter—
 
     (a) __Spell of illness__ 
 
@@ -357,35 +357,33 @@ For purposes of this subchapter—
 
             (Y) diabetes screening tests (as defined in subsection (yy) of this section);
 
-            (Z)
+            (Z) intravenous immune globulin for the treatment of primary immune deficiency diseases in the home (as defined in subsection (zz) of this section);
 
-             intravenous immune globulin for the treatment of primary immune deficiency diseases in the home (as defined in subsection (zz) of this section);
+            (AA)
 
-                (AA) ultrasound screening for abdominal aortic aneurysm (as defined in subsection (bbb)) for an individual—
+             ultrasound screening for abdominal aortic aneurysm (as defined in subsection (bbb)) for an individual—
 
-            (i) who receives a referral for such an ultrasound screening as a result of an initial preventive physical examination (as defined in subsection (ww)(1));
+                (i) who receives a referral for such an ultrasound screening as a result of an initial preventive physical examination (as defined in subsection (ww)(1));
 
-            (ii) who has not been previously furnished such an ultrasound screening under this subchapter; and
+                (ii) who has not been previously furnished such an ultrasound screening under this subchapter; and
 
-            (iii)
+                (iii)
 
-             who—
+                 who—
 
-                (I) has a family history of abdominal aortic aneurysm; or
+                    (I) has a family history of abdominal aortic aneurysm; or
 
-                (II)
+                    (II) manifests risk factors included in a beneficiary category recommended for screening by the United States Preventive Services Task Force regarding abdominal aortic aneurysms;
 
-                 manifests risk factors included in a beneficiary category recommended for screening by the United States Preventive Services Task Force regarding abdominal aortic aneurysms;
+            (BB) additional preventive services (described in subsection (ddd)(1));
 
-                    (BB) additional preventive services (described in subsection (ddd)(1));
+            (CC) items and services furnished under a cardiac rehabilitation program (as defined in subsection (eee)(1)) or under a pulmonary rehabilitation program (as defined in subsection (fff)(1));
 
-                    (CC) items and services furnished under a cardiac rehabilitation program (as defined in subsection (eee)(1)) or under a pulmonary rehabilitation program (as defined in subsection (fff)(1));
+            (DD) items and services furnished under an intensive cardiac rehabilitation program (as defined in subsection (eee)(4));
 
-                    (DD) items and services furnished under an intensive cardiac rehabilitation program (as defined in subsection (eee)(4));
+            (EE) kidney disease education services (as defined in subsection (ggg)); and
 
-                    (EE) kidney disease education services (as defined in subsection (ggg)); and
-
-                    (FF) personalized prevention plan services (as defined in subsection (hhh));
+            (FF) personalized prevention plan services (as defined in subsection (hhh));
 
         (3) diagnostic X-ray tests (including tests under the supervision of a physician, furnished in a place of residence used as the patient’s home, if the performance of such tests meets such conditions relating to health and safety as the Secretary may find necessary and including diagnostic mammography if conducted by a facility that has a certificate (or provisional certificate) issued under section 354 of the Public Health Service Act \[[42 U.S.C. 263b][/us/usc/t42/s263b]\]), diagnostic laboratory tests, and other diagnostic tests;
 
@@ -579,17 +577,15 @@ For purposes of this subchapter—
 
      For services furnished by home health agencies for cost reporting periods beginning on or after October 1, 1997, subject to clause (viii)(I), the Secretary shall provide for an interim system of limits. Payment shall not exceed the costs determined under the preceding provisions of this subparagraph or, if lower, the product of—
 
-        (I)
+        (I) an agency-specific per beneficiary annual limitation calculated based 75 percent on 98 percent of the reasonable costs (including nonroutine medical supplies) for the agency’s 12-month cost reporting period ending during fiscal year 1994, and based 25 percent on 98 percent of the standardized regional average of such costs for the agency’s census division, as applied to such agency, for cost reporting periods ending during fiscal year 1994, such costs updated by the home health market basket index; and
 
-         an agency-specific per beneficiary annual limitation calculated based 75 percent on 98 percent of the reasonable costs (including nonroutine medical supplies) for the agency’s 12-month cost reporting period ending during fiscal year 1994, and based 25 percent on 98 percent of the standardized regional average of such costs for the agency’s census division, as applied to such agency, for cost reporting periods ending during fiscal year 1994, such costs updated by the home health market basket index; and
+        (II) the agency’s unduplicated census count of patients (entitled to benefits under this subchapter) for the cost reporting period subject to the limitation.
 
-            (II) the agency’s unduplicated census count of patients (entitled to benefits under this subchapter) for the cost reporting period subject to the limitation.
+        (vi)
 
-        (vi) For services furnished by home health agencies for cost reporting periods beginning on or after October 1, 1997, the following rules apply:
+         For services furnished by home health agencies for cost reporting periods beginning on or after October 1, 1997, the following rules apply:
 
-        (I)
-
-         For new providers and those providers without a 12-month cost reporting period ending in fiscal year 1994 subject to clauses (viii)(II) and (viii)(III), the per beneficiary limitation shall be equal to the median of these limits (or the Secretary’s best estimates thereof) applied to other home health agencies as determined by the Secretary. A home health agency that has altered its corporate structure or name shall not be considered a new provider for this purpose.
+            (I) For new providers and those providers without a 12-month cost reporting period ending in fiscal year 1994 subject to clauses (viii)(II) and (viii)(III), the per beneficiary limitation shall be equal to the median of these limits (or the Secretary’s best estimates thereof) applied to other home health agencies as determined by the Secretary. A home health agency that has altered its corporate structure or name shall not be considered a new provider for this purpose.
 
             (II) For beneficiaries who use services furnished by more than one home health agency, the per beneficiary limitations shall be prorated among the agencies.
 
@@ -701,47 +697,47 @@ For purposes of this subchapter—
 
             (ii) A provider described in this clause is a provider of services not described in subparagraph (T) or (V), a supplier, or any other type of entity that receives payment for bad debts under the authority under subparagraph (A).
 
-    (2)
+        (2)
 
-        (A) If the bed and board furnished as part of inpatient hospital services (including inpatient tuberculosis hospital services and inpatient psychiatric hospital services) or post-hospital extended care services is in accommodations more expensive than semi-private accommodations, the amount taken into account for purposes of payment under this subchapter with respect to such services may not exceed the amount that would be taken into account with respect to such services if furnished in such semi-private accommodations unless the more expensive accommodations were required for medical reasons.
+            (A) If the bed and board furnished as part of inpatient hospital services (including inpatient tuberculosis hospital services and inpatient psychiatric hospital services) or post-hospital extended care services is in accommodations more expensive than semi-private accommodations, the amount taken into account for purposes of payment under this subchapter with respect to such services may not exceed the amount that would be taken into account with respect to such services if furnished in such semi-private accommodations unless the more expensive accommodations were required for medical reasons.
 
-        (B) Where a provider of services which has an agreement in effect under this subchapter furnishes to an individual items or services which are in excess of or more expensive than the items or services with respect to which payment may be made under part A or part B of this subchapter, as the case may be, the Secretary shall take into account for purposes of payment to such provider of services only the items or services with respect to which such payment may be made.
+            (B) Where a provider of services which has an agreement in effect under this subchapter furnishes to an individual items or services which are in excess of or more expensive than the items or services with respect to which payment may be made under part A or part B of this subchapter, as the case may be, the Secretary shall take into account for purposes of payment to such provider of services only the items or services with respect to which such payment may be made.
 
-    (3) If the bed and board furnished as part of inpatient hospital services (including inpatient tuberculosis hospital services and inpatient psychiatric hospital services) or post-hospital extended care services is in accommodations other than, but not more expensive than, semi-private accommodations and the use of such other accommodations rather than semi-private accommodations was neither at the request of the patient nor for a reason which the Secretary determines is consistent with the purposes of this subchapter, the amount of the payment with respect to such bed and board under part A of this subchapter shall be the amount otherwise payable under this subchapter for such bed and board furnished in semi-private accommodations minus the difference between the charge customarily made by the hospital or skilled nursing facility for bed and board in semi-private accommodations and the charge customarily made by it for bed and board in the accommodations furnished.
+        (3) If the bed and board furnished as part of inpatient hospital services (including inpatient tuberculosis hospital services and inpatient psychiatric hospital services) or post-hospital extended care services is in accommodations other than, but not more expensive than, semi-private accommodations and the use of such other accommodations rather than semi-private accommodations was neither at the request of the patient nor for a reason which the Secretary determines is consistent with the purposes of this subchapter, the amount of the payment with respect to such bed and board under part A of this subchapter shall be the amount otherwise payable under this subchapter for such bed and board furnished in semi-private accommodations minus the difference between the charge customarily made by the hospital or skilled nursing facility for bed and board in semi-private accommodations and the charge customarily made by it for bed and board in the accommodations furnished.
 
-    (4) If a provider of services furnishes items or services to an individual which are in excess of or more expensive than the items or services determined to be necessary in the efficient delivery of needed health services and charges are imposed for such more expensive items or services under the authority granted in section 1395cc(a)(2)(B)(ii)  <sup>\[8\]</sup>  <sup><sup> 8 See References in Text note below. </sup></sup>  of this title, the amount of payment with respect to such items or services otherwise due such provider in any fiscal period shall be reduced to the extent that such payment plus such charges exceed the cost actually incurred for such items or services in the fiscal period in which such charges are imposed.
+        (4) If a provider of services furnishes items or services to an individual which are in excess of or more expensive than the items or services determined to be necessary in the efficient delivery of needed health services and charges are imposed for such more expensive items or services under the authority granted in section 1395cc(a)(2)(B)(ii)  <sup>\[8\]</sup>  <sup><sup> 8 See References in Text note below. </sup></sup>  of this title, the amount of payment with respect to such items or services otherwise due such provider in any fiscal period shall be reduced to the extent that such payment plus such charges exceed the cost actually incurred for such items or services in the fiscal period in which such charges are imposed.
 
-    (5)
+        (5)
 
-        (A) Where physical therapy services, occupational therapy services, speech therapy services, or other therapy services or services of other health-related personnel (other than physicians) are furnished under an arrangement with a provider of services or other organization, specified in the first sentence of subsection (p) of this section (including through the operation of subsection (g) of this section) the amount included in any payment to such provider or other organization under this subchapter as the reasonable cost of such services (as furnished under such arrangements) shall not exceed an amount equal to the salary which would reasonably have been paid for such services (together with any additional costs that would have been incurred by the provider or other organization) to the person performing them if they had been performed in an employment relationship with such provider or other organization (rather than under such arrangement) plus the cost of such other expenses (including a reasonable allowance for traveltime and other reasonable types of expense related to any differences in acceptable methods of organization for the provision of such therapy) incurred by such person, as the Secretary may in regulations determine to be appropriate.
+            (A) Where physical therapy services, occupational therapy services, speech therapy services, or other therapy services or services of other health-related personnel (other than physicians) are furnished under an arrangement with a provider of services or other organization, specified in the first sentence of subsection (p) of this section (including through the operation of subsection (g) of this section) the amount included in any payment to such provider or other organization under this subchapter as the reasonable cost of such services (as furnished under such arrangements) shall not exceed an amount equal to the salary which would reasonably have been paid for such services (together with any additional costs that would have been incurred by the provider or other organization) to the person performing them if they had been performed in an employment relationship with such provider or other organization (rather than under such arrangement) plus the cost of such other expenses (including a reasonable allowance for traveltime and other reasonable types of expense related to any differences in acceptable methods of organization for the provision of such therapy) incurred by such person, as the Secretary may in regulations determine to be appropriate.
 
-        (B) Notwithstanding the provisions of subparagraph (A), if a provider of services or other organization specified in the first sentence of subsection (p) of this section requires the services of a therapist on a limited part-time basis, or only to perform intermittent services, the Secretary may make payment on the basis of a reasonable rate per unit of service, even though such rate is greater per unit of time than salary related amounts, where he finds that such greater payment is, in the aggregate, less than the amount that would have been paid if such organization had employed a therapist on a full- or part-time salary basis.
+            (B) Notwithstanding the provisions of subparagraph (A), if a provider of services or other organization specified in the first sentence of subsection (p) of this section requires the services of a therapist on a limited part-time basis, or only to perform intermittent services, the Secretary may make payment on the basis of a reasonable rate per unit of service, even though such rate is greater per unit of time than salary related amounts, where he finds that such greater payment is, in the aggregate, less than the amount that would have been paid if such organization had employed a therapist on a full- or part-time salary basis.
 
-    (6) For purposes of this subsection, the term, “semi-private accommodations” means two-bed, three-bed, or four-bed accommodations.
+        (6) For purposes of this subsection, the term, “semi-private accommodations” means two-bed, three-bed, or four-bed accommodations.
 
-    (7)
+        (7)
 
-        (A) For limitation on Federal participation for capital expenditures which are out of conformity with a comprehensive plan of a State or areawide planning agency, see [section 1320a–1 of this title][/us/usc/t42/s1320a–1].
+            (A) For limitation on Federal participation for capital expenditures which are out of conformity with a comprehensive plan of a State or areawide planning agency, see [section 1320a–1 of this title][/us/usc/t42/s1320a–1].
 
-        (B) For further limitations on reasonable cost and determination of payment amounts for operating costs of inpatient hospital services and waivers for certain States, see [section 1395ww of this title][/us/usc/t42/s1395ww].
+            (B) For further limitations on reasonable cost and determination of payment amounts for operating costs of inpatient hospital services and waivers for certain States, see [section 1395ww of this title][/us/usc/t42/s1395ww].
 
-        (C) For provisions restricting payment for provider-based physicians’ services and for payments under certain percentage arrangements, see [section 1395xx of this title][/us/usc/t42/s1395xx].
+            (C) For provisions restricting payment for provider-based physicians’ services and for payments under certain percentage arrangements, see [section 1395xx of this title][/us/usc/t42/s1395xx].
 
-        (D) For further limitations on reasonable cost and determination of payment amounts for routine service costs of skilled nursing facilities, see subsections (a) through (c) of [section 1395yy of this title][/us/usc/t42/s1395yy].
+            (D) For further limitations on reasonable cost and determination of payment amounts for routine service costs of skilled nursing facilities, see subsections (a) through (c) of [section 1395yy of this title][/us/usc/t42/s1395yy].
 
-    (8) __Items unrelated to patient care.—__ 
+        (8) __Items unrelated to patient care.—__ 
 
-    Reasonable costs do not include costs for the following—
+        Reasonable costs do not include costs for the following—
 
-        (i) entertainment, including tickets to sporting and other entertainment events;
+            (i) entertainment, including tickets to sporting and other entertainment events;
 
-        (ii) gifts or donations;
+            (ii) gifts or donations;
 
-        (iii) personal use of motor vehicles;
+            (iii) personal use of motor vehicles;
 
-        (iv) costs for fines and penalties resulting from violations of Federal, State, or local laws; and
+            (iv) costs for fines and penalties resulting from violations of Federal, State, or local laws; and
 
-        (v) education expenses for spouses or other dependents of providers of services, their employees or contractors.
+            (v) education expenses for spouses or other dependents of providers of services, their employees or contractors.
 
     (w) __Arrangements for certain services; payments pursuant to arrangements for utilization review activities__ 
 
@@ -1521,377 +1517,363 @@ For purposes of this subchapter—
 
     (zz) __Intravenous immune globulin__ 
 
-    The term “intravenous immune globulin” means an approved pooled plasma derivative for the treatment in the patient’s home of a patient with a diagnosed primary immune deficiency disease, but not including items or services related to the administration of the derivative, if a physician determines administration of the derivative in the patient’s home is medically appropriate.
+        The term “intravenous immune globulin” means an approved pooled plasma derivative for the treatment in the patient’s home of a patient with a diagnosed primary immune deficiency disease, but not including items or services related to the administration of the derivative, if a physician determines administration of the derivative in the patient’s home is medically appropriate.
 
-        (aaa) __Extended care in religious nonmedical health care institutions__ 
+    (aaa) __Extended care in religious nonmedical health care institutions__ 
 
-    (1) The term “home health agency” also includes a religious nonmedical health care institution (as defined in subsection (ss)(1) of this section), but only with respect to items and services ordinarily furnished by such an institution to individuals in their homes, and that are comparable to items and services furnished to individuals by a home health agency that is not religious nonmedical health care institution.
+        (1) The term “home health agency” also includes a religious nonmedical health care institution (as defined in subsection (ss)(1) of this section), but only with respect to items and services ordinarily furnished by such an institution to individuals in their homes, and that are comparable to items and services furnished to individuals by a home health agency that is not religious nonmedical health care institution.
 
-    (2)
+        (2)
 
-        (A) Subject to subparagraphs (B), payment may be made with respect to services provided by such an institution only to such extent and under such conditions, limitations, and requirements (in addition to or in lieu of the conditions, limitations, and requirements otherwise applicable) as may be provided in regulations consistent with [section 1395i–5 of this title][/us/usc/t42/s1395i–5].
+            (A) Subject to subparagraphs (B), payment may be made with respect to services provided by such an institution only to such extent and under such conditions, limitations, and requirements (in addition to or in lieu of the conditions, limitations, and requirements otherwise applicable) as may be provided in regulations consistent with [section 1395i–5 of this title][/us/usc/t42/s1395i–5].
 
-        (B)
+            (B)
 
-         Notwithstanding any other provision of this subchapter, payment may not be made under subparagraph (A)—
+             Notwithstanding any other provision of this subchapter, payment may not be made under subparagraph (A)—
 
-            (i) in a year insofar as such payments exceed $700,000; and
+                (i) in a year insofar as such payments exceed $700,000; and
 
-            (ii)
+                (ii) after December 31, 2006.
 
-             after December 31, 2006.
+    (bbb) __Ultrasound screening for abdominal aortic aneurysm__ 
 
-                (bbb) __Ultrasound screening for abdominal aortic aneurysm__ 
+    The term “ultrasound screening for abdominal aortic aneurysm” means—
 
-                    The term “ultrasound screening for abdominal aortic aneurysm” means—
+        (1) a procedure using sound waves (or such other procedures using alternative technologies, of commensurate accuracy and cost, that the Secretary may specify) provided for the early detection of abdominal aortic aneurysm; and
 
-    (1) a procedure using sound waves (or such other procedures using alternative technologies, of commensurate accuracy and cost, that the Secretary may specify) provided for the early detection of abdominal aortic aneurysm; and
+        (2) includes a physician’s interpretation of the results of the procedure.
 
-    (2)
+    (ccc) __Long-term care hospital__ 
 
-     includes a physician’s interpretation of the results of the procedure.
+     The term “long-term care hospital” means a hospital which—
 
-        (ccc) __Long-term care hospital__ 
+        (1) is primarily engaged in providing inpatient services, by or under the supervision of a physician, to Medicare beneficiaries whose medically complex conditions require a long hospital stay and programs of care provided by a long-term care hospital;
 
-             The term “long-term care hospital” means a hospital which—
+        (2) has an average inpatient length of stay (as determined by the Secretary) of greater than 25 days, or meets the requirements of clause (II) of [section 1395ww(d)(1)(B)(iv) of this title][/us/usc/t42/s1395ww/d/1/B/iv];
 
-    (1) is primarily engaged in providing inpatient services, by or under the supervision of a physician, to Medicare beneficiaries whose medically complex conditions require a long hospital stay and programs of care provided by a long-term care hospital;
+        (3) satisfies the requirements of subsection (e); and
 
-    (2) has an average inpatient length of stay (as determined by the Secretary) of greater than 25 days, or meets the requirements of clause (II) of [section 1395ww(d)(1)(B)(iv) of this title][/us/usc/t42/s1395ww/d/1/B/iv];
+        (4)
 
-    (3) satisfies the requirements of subsection (e); and
+         meets the following facility criteria:
 
-    (4)
+            (A) the institution has a patient review process, documented in the patient medical record, that screens patients prior to admission for appropriateness of admission to a long-term care hospital, validates within 48 hours of admission that patients meet admission criteria for long-term care hospitals, regularly evaluates patients throughout their stay for continuation of care in a long-term care hospital, and assesses the available discharge options when patients no longer meet such continued stay criteria;
 
-     meets the following facility criteria:
+            (B) the institution has active physician involvement with patients during their treatment through an organized medical staff, physician-directed treatment with physician on-site availability on a daily basis to review patient progress, and consulting physicians on call and capable of being at the patient’s side within a moderate period of time, as determined by the Secretary; and
 
-        (A) the institution has a patient review process, documented in the patient medical record, that screens patients prior to admission for appropriateness of admission to a long-term care hospital, validates within 48 hours of admission that patients meet admission criteria for long-term care hospitals, regularly evaluates patients throughout their stay for continuation of care in a long-term care hospital, and assesses the available discharge options when patients no longer meet such continued stay criteria;
+            (C) the institution has interdisciplinary team treatment for patients, requiring interdisciplinary teams of health care professionals, including physicians, to prepare and carry out an individualized treatment plan for each patient.
 
-        (B) the institution has active physician involvement with patients during their treatment through an organized medical staff, physician-directed treatment with physician on-site availability on a daily basis to review patient progress, and consulting physicians on call and capable of being at the patient’s side within a moderate period of time, as determined by the Secretary; and
+    (ddd) __Additional preventive services; preventive services__ 
 
-        (C)
+        (1)
 
-         the institution has interdisciplinary team treatment for patients, requiring interdisciplinary teams of health care professionals, including physicians, to prepare and carry out an individualized treatment plan for each patient.
+         The term “additional preventive services” means services not described in subparagraph (A) or (C) of paragraph (3) that identify medical conditions or risk factors and that the Secretary determines are—
 
-            (ddd) __Additional preventive services; preventive services__ 
+            (A) reasonable and necessary for the prevention or early detection of an illness or disability;
 
-    (1)
+            (B) recommended with a grade of A or B by the United States Preventive Services Task Force; and
 
-     The term “additional preventive services” means services not described in subparagraph (A) or (C) of paragraph (3) that identify medical conditions or risk factors and that the Secretary determines are—
+            (C) appropriate for individuals entitled to benefits under part A or enrolled under part B.
 
-        (A) reasonable and necessary for the prevention or early detection of an illness or disability;
+        (2) In making determinations under paragraph (1) regarding the coverage of a new service, the Secretary shall use the process for making national coverage determinations (as defined in [section 1395ff(f)(1)(B) of this title][/us/usc/t42/s1395ff/f/1/B]) under this subchapter. As part of the use of such process, the Secretary may conduct an assessment of the relation between predicted outcomes and the expenditures for such service and may take into account the results of such assessment in making such determination.
 
-        (B) recommended with a grade of A or B by the United States Preventive Services Task Force; and
+        (3)
 
-        (C) appropriate for individuals entitled to benefits under part A or enrolled under part B.
+         The term “preventive services” means the following:
 
-    (2) In making determinations under paragraph (1) regarding the coverage of a new service, the Secretary shall use the process for making national coverage determinations (as defined in [section 1395ff(f)(1)(B) of this title][/us/usc/t42/s1395ff/f/1/B]) under this subchapter. As part of the use of such process, the Secretary may conduct an assessment of the relation between predicted outcomes and the expenditures for such service and may take into account the results of such assessment in making such determination.
+            (A) The screening and preventive services described in subsection (ww)(2) (other than the service described in subparagraph (M) of such subsection).
 
-    (3)
+            (B) An initial preventive physical examination (as defined in subsection (ww)).
 
-     The term “preventive services” means the following:
+            (C) Personalized prevention plan services (as defined in subsection (hhh)(1)).
 
-        (A) The screening and preventive services described in subsection (ww)(2) (other than the service described in subparagraph (M) of such subsection).
+    (eee) __Cardiac rehabilitation program; intensive cardiac rehabilitation program__ 
 
-        (B) An initial preventive physical examination (as defined in subsection (ww)).
+        (1) The term “cardiac rehabilitation program” means a physician-supervised program (as described in paragraph (2)) that furnishes the items and services described in paragraph (3).
 
-        (C)
+        (2)
 
-         Personalized prevention plan services (as defined in subsection (hhh)(1)).
+         A program described in this paragraph is a program under which—
 
-            (eee) __Cardiac rehabilitation program; intensive cardiac rehabilitation program__ 
+            (A)
 
-    (1) The term “cardiac rehabilitation program” means a physician-supervised program (as described in paragraph (2)) that furnishes the items and services described in paragraph (3).
+             items and services under the program are delivered—
 
-    (2)
+                (i) in a physician’s office;
 
-     A program described in this paragraph is a program under which—
+                (ii) in a hospital on an outpatient basis; or
 
-        (A)
+                (iii) in other settings determined appropriate by the Secretary.
 
-         items and services under the program are delivered—
+            (B) a physician is immediately available and accessible for medical consultation and medical emergencies at all times items and services are being furnished under the program, except that, in the case of items and services furnished under such a program in a hospital, such availability shall be presumed; and
 
-            (i) in a physician’s office;
+            (C)
 
-            (ii) in a hospital on an outpatient basis; or
+             individualized treatment is furnished under a written plan established, reviewed, and signed by a physician every 30 days that describes—
 
-            (iii) in other settings determined appropriate by the Secretary.
+                (i) the individual’s diagnosis;
 
-        (B) a physician is immediately available and accessible for medical consultation and medical emergencies at all times items and services are being furnished under the program, except that, in the case of items and services furnished under such a program in a hospital, such availability shall be presumed; and
+                (ii) the type, amount, frequency, and duration of the items and services furnished under the plan; and
 
-        (C)
+                (iii) the goals set for the individual under the plan.
 
-         individualized treatment is furnished under a written plan established, reviewed, and signed by a physician every 30 days that describes—
+        (3)
 
-            (i) the individual’s diagnosis;
+         The items and services described in this paragraph are—
 
-            (ii) the type, amount, frequency, and duration of the items and services furnished under the plan; and
+            (A) physician-prescribed exercise;
 
-            (iii) the goals set for the individual under the plan.
+            (B) cardiac risk factor modification, including education, counseling, and behavioral intervention (to the extent such education, counseling, and behavioral intervention is closely related to the individual’s care and treatment and is tailored to the individual’s needs);
 
-    (3)
+            (C) psychosocial assessment;
 
-     The items and services described in this paragraph are—
+            (D) outcomes assessment; and
 
-        (A) physician-prescribed exercise;
+            (E)
 
-        (B) cardiac risk factor modification, including education, counseling, and behavioral intervention (to the extent such education, counseling, and behavioral intervention is closely related to the individual’s care and treatment and is tailored to the individual’s needs);
+             such other items and services as the Secretary may determine, but only if such items and services are—
 
-        (C) psychosocial assessment;
+                (i) reasonable and necessary for the diagnosis or active treatment of the individual’s condition;
 
-        (D) outcomes assessment; and
+                (ii) reasonably expected to improve or maintain the individual’s condition and functional level; and
 
-        (E)
+                (iii) furnished under such guidelines relating to the frequency and duration of such items and services as the Secretary shall establish, taking into account accepted norms of medical practice and the reasonable expectation of improvement of the individual.
 
-         such other items and services as the Secretary may determine, but only if such items and services are—
+        (4)
 
-            (i) reasonable and necessary for the diagnosis or active treatment of the individual’s condition;
+            (A)
 
-            (ii) reasonably expected to improve or maintain the individual’s condition and functional level; and
+             The term “intensive cardiac rehabilitation program” means a physician-supervised program (as described in paragraph (2)) that furnishes the items and services described in paragraph (3) and has shown, in peer-reviewed published research, that it accomplished—
 
-            (iii) furnished under such guidelines relating to the frequency and duration of such items and services as the Secretary shall establish, taking into account accepted norms of medical practice and the reasonable expectation of improvement of the individual.
+                (i)
 
-    (4)
+                 one or more of the following:
 
-        (A)
+                    (I) positively affected the progression of coronary heart disease; or
 
-         The term “intensive cardiac rehabilitation program” means a physician-supervised program (as described in paragraph (2)) that furnishes the items and services described in paragraph (3) and has shown, in peer-reviewed published research, that it accomplished—
+                    (II) reduced the need for coronary bypass surgery; or
 
-            (i)
+                    (III) reduced the need for percutaneous coronary interventions; and
 
-             one or more of the following:
+                (ii)
 
-                (I) positively affected the progression of coronary heart disease; or
+                 a statistically significant reduction in 5 or more of the following measures from their level before receipt of cardiac rehabilitation services to their level after receipt of such services:
 
-                (II) reduced the need for coronary bypass surgery; or
+                    (I) low density lipoprotein;
 
-                (III) reduced the need for percutaneous coronary interventions; and
+                    (II) triglycerides;
 
-            (ii)
+                    (III) body mass index;
 
-             a statistically significant reduction in 5 or more of the following measures from their level before receipt of cardiac rehabilitation services to their level after receipt of such services:
+                    (IV) systolic blood pressure;
 
-                (I) low density lipoprotein;
+                    (V) diastolic blood pressure; or
 
-                (II) triglycerides;
+                    (VI) the need for cholesterol, blood pressure, and diabetes medications.
 
-                (III) body mass index;
+            (B)
 
-                (IV) systolic blood pressure;
+             To be eligible for an intensive cardiac rehabilitation program, an individual must have—
 
-                (V) diastolic blood pressure; or
+                (i) had an acute myocardial infarction within the preceding 12 months;
 
-                (VI) the need for cholesterol, blood pressure, and diabetes medications.
+                (ii) had coronary bypass surgery;
 
-        (B)
+                (iii) stable angina pectoris;
 
-         To be eligible for an intensive cardiac rehabilitation program, an individual must have—
+                (iv) had heart valve repair or replacement;
 
-            (i) had an acute myocardial infarction within the preceding 12 months;
+                (v) had percutaneous transluminal coronary angioplasty (PTCA) or coronary stenting; or
 
-            (ii) had coronary bypass surgery;
+                (vi) had a heart or heart-lung transplant.
 
-            (iii) stable angina pectoris;
+            (C) An intensive cardiac rehabilitation program may be provided in a series of 72 one-hour sessions (as defined in [section 1395w–4(b)(5) of this title][/us/usc/t42/s1395w–4/b/5]), up to 6 sessions per day, over a period of up to 18 weeks.
 
-            (iv) had heart valve repair or replacement;
+        (5)
 
-            (v) had percutaneous transluminal coronary angioplasty (PTCA) or coronary stenting; or
+         The Secretary shall establish standards to ensure that a physician with expertise in the management of individuals with cardiac pathophysiology who is licensed to practice medicine in the State in which a cardiac rehabilitation program (or the intensive cardiac rehabilitation program, as the case may be) is offered—
 
-            (vi) had a heart or heart-lung transplant.
+            (A) is responsible for such program; and
 
-        (C) An intensive cardiac rehabilitation program may be provided in a series of 72 one-hour sessions (as defined in [section 1395w–4(b)(5) of this title][/us/usc/t42/s1395w–4/b/5]), up to 6 sessions per day, over a period of up to 18 weeks.
+            (B) in consultation with appropriate staff, is involved substantially in directing the progress of individual 1 in the program.
 
-    (5)
+    (fff) __Pulmonary rehabilitation program__ 
 
-     The Secretary shall establish standards to ensure that a physician with expertise in the management of individuals with cardiac pathophysiology who is licensed to practice medicine in the State in which a cardiac rehabilitation program (or the intensive cardiac rehabilitation program, as the case may be) is offered—
+        (1) The term “pulmonary rehabilitation program” means a physician-supervised program (as described in subsection (eee)(2) with respect to a program under this subsection) that furnishes the items and services described in paragraph (2).
 
-        (A) is responsible for such program; and
+        (2)
 
-        (B)
+         The items and services described in this paragraph are—
 
-         in consultation with appropriate staff, is involved substantially in directing the progress of individual 1 in the program.
+            (A) physician-prescribed exercise;
 
-            (fff) __Pulmonary rehabilitation program__ 
+            (B) education or training (to the extent the education or training is closely and clearly related to the individual’s care and treatment and is tailored to such individual’s needs);
 
-    (1) The term “pulmonary rehabilitation program” means a physician-supervised program (as described in subsection (eee)(2) with respect to a program under this subsection) that furnishes the items and services described in paragraph (2).
+            (C) psychosocial assessment;
 
-    (2)
+            (D) outcomes assessment; and
 
-     The items and services described in this paragraph are—
+            (E)
 
-        (A) physician-prescribed exercise;
+             such other items and services as the Secretary may determine, but only if such items and services are—
 
-        (B) education or training (to the extent the education or training is closely and clearly related to the individual’s care and treatment and is tailored to such individual’s needs);
+                (i) reasonable and necessary for the diagnosis or active treatment of the individual’s condition;
 
-        (C) psychosocial assessment;
+                (ii) reasonably expected to improve or maintain the individual’s condition and functional level; and
 
-        (D) outcomes assessment; and
+                (iii) furnished under such guidelines relating to the frequency and duration of such items and services as the Secretary shall establish, taking into account accepted norms of medical practice and the reasonable expectation of improvement of the individual.
 
-        (E)
+        (3)
 
-         such other items and services as the Secretary may determine, but only if such items and services are—
+         The Secretary shall establish standards to ensure that a physician with expertise in the management of individuals with respiratory pathophysiology who is licensed to practice medicine in the State in which a pulmonary rehabilitation program is offered—
 
-            (i) reasonable and necessary for the diagnosis or active treatment of the individual’s condition;
+            (A) is responsible for such program; and
 
-            (ii) reasonably expected to improve or maintain the individual’s condition and functional level; and
+            (B) in consultation with appropriate staff, is involved substantially in directing the progress of individual 1 in the program.
 
-            (iii) furnished under such guidelines relating to the frequency and duration of such items and services as the Secretary shall establish, taking into account accepted norms of medical practice and the reasonable expectation of improvement of the individual.
+    (ggg) __Kidney disease education services__ 
 
-    (3)
+        (1)
 
-     The Secretary shall establish standards to ensure that a physician with expertise in the management of individuals with respiratory pathophysiology who is licensed to practice medicine in the State in which a pulmonary rehabilitation program is offered—
+         The term “kidney disease education services” means educational services that are—
 
-        (A) is responsible for such program; and
+            (A) furnished to an individual with stage IV chronic kidney disease who, according to accepted clinical guidelines identified by the Secretary, will require dialysis or a kidney transplant;
 
-        (B)
+            (B) furnished, upon the referral of the physician managing the individual’s kidney condition, by a qualified person (as defined in paragraph (2)); and
 
-         in consultation with appropriate staff, is involved substantially in directing the progress of individual 1 in the program.
+            (C)
 
-            (ggg) __Kidney disease education services__ 
+             designed—
 
-    (1)
+                (i)
 
-     The term “kidney disease education services” means educational services that are—
+                 to provide comprehensive information (consistent with the standards set under paragraph (3)) regarding—
 
-        (A) furnished to an individual with stage IV chronic kidney disease who, according to accepted clinical guidelines identified by the Secretary, will require dialysis or a kidney transplant;
+                    (I) the management of comorbidities, including for purposes of delaying the need for dialysis;
 
-        (B) furnished, upon the referral of the physician managing the individual’s kidney condition, by a qualified person (as defined in paragraph (2)); and
+                    (II) the prevention of uremic complications; and
 
-        (C)
+                    (III) each option for renal replacement therapy (including hemodialysis and peritoneal dialysis at home and in-center as well as vascular access options and transplantation);
 
-         designed—
+                (ii) to ensure that the individual has the opportunity to actively participate in the choice of therapy; and
 
-            (i)
+                (iii) to be tailored to meet the needs of the individual involved.
 
-             to provide comprehensive information (consistent with the standards set under paragraph (3)) regarding—
+        (2)
 
-                (I) the management of comorbidities, including for purposes of delaying the need for dialysis;
+            (A)
 
-                (II) the prevention of uremic complications; and
+             The term “qualified person” means—
 
-                (III) each option for renal replacement therapy (including hemodialysis and peritoneal dialysis at home and in-center as well as vascular access options and transplantation);
+                (i) a physician (as defined in subsection (r)(1)) or a physician assistant, nurse practitioner, or clinical nurse specialist (as defined in subsection (aa)(5)), who furnishes services for which payment may be made under the fee schedule established under [section 1395w–4 of this title][/us/usc/t42/s1395w–4]; and
 
-            (ii) to ensure that the individual has the opportunity to actively participate in the choice of therapy; and
+                (ii) a provider of services located in a rural area (as defined in [section 1395ww(d)(2)(D) of this title][/us/usc/t42/s1395ww/d/2/D]).
 
-            (iii) to be tailored to meet the needs of the individual involved.
+            (B) Such term does not include a provider of services (other than a provider of services described in subparagraph (A)(ii)) or a renal dialysis facility.
 
-    (2)
+        (3) The Secretary shall set standards for the content of such information to be provided under paragraph (1)(C)(i) after consulting with physicians, other health professionals, health educators, professional organizations, accrediting organizations, kidney patient organizations, dialysis facilities, transplant centers, network organizations described in [section 1395rr(c)(2) of this title][/us/usc/t42/s1395rr/c/2], and other knowledgeable persons. To the extent possible the Secretary shall consult with persons or entities described in the previous sentence, other than a dialysis facility, that has not received industry funding from a drug or biological manufacturer or dialysis facility.
 
-        (A)
+        (4) No individual shall be furnished more than 6 sessions of kidney disease education services under this subchapter.
 
-         The term “qualified person” means—
+    (hhh) __Annual wellness visit__ 
 
-            (i) a physician (as defined in subsection (r)(1)) or a physician assistant, nurse practitioner, or clinical nurse specialist (as defined in subsection (aa)(5)), who furnishes services for which payment may be made under the fee schedule established under [section 1395w–4 of this title][/us/usc/t42/s1395w–4]; and
+        (1)
 
-            (ii) a provider of services located in a rural area (as defined in [section 1395ww(d)(2)(D) of this title][/us/usc/t42/s1395ww/d/2/D]).
+         The term “personalized prevention plan services” means the creation of a plan for an individual—
 
-        (B) Such term does not include a provider of services (other than a provider of services described in subparagraph (A)(ii)) or a renal dialysis facility.
+            (A) that includes a health risk assessment (that meets the guidelines established by the Secretary under paragraph (4)(A)) of the individual that is completed prior to or as part of the same visit with a health professional described in paragraph (3); and
 
-    (3) The Secretary shall set standards for the content of such information to be provided under paragraph (1)(C)(i) after consulting with physicians, other health professionals, health educators, professional organizations, accrediting organizations, kidney patient organizations, dialysis facilities, transplant centers, network organizations described in [section 1395rr(c)(2) of this title][/us/usc/t42/s1395rr/c/2], and other knowledgeable persons. To the extent possible the Secretary shall consult with persons or entities described in the previous sentence, other than a dialysis facility, that has not received industry funding from a drug or biological manufacturer or dialysis facility.
+            (B)
 
-    (4)
+             that—
 
-     No individual shall be furnished more than 6 sessions of kidney disease education services under this subchapter.
+                (i) takes into account the results of the health risk assessment; and
 
-        (hhh) __Annual wellness visit__ 
+                (ii) may contain the elements described in paragraph (2).
 
-    (1)
+        (2)
 
-     The term “personalized prevention plan services” means the creation of a plan for an individual—
+         Subject to paragraph (4)(H), the elements described in this paragraph are the following:
 
-        (A) that includes a health risk assessment (that meets the guidelines established by the Secretary under paragraph (4)(A)) of the individual that is completed prior to or as part of the same visit with a health professional described in paragraph (3); and
+            (A) The establishment of, or an update to, the individual’s medical and family history.
 
-        (B)
+            (B) A list of current providers and suppliers that are regularly involved in providing medical care to the individual (including a list of all prescribed medications).
 
-         that—
+            (C) A measurement of height, weight, body mass index (or waist circumference, if appropriate), blood pressure, and other routine measurements.
 
-            (i) takes into account the results of the health risk assessment; and
+            (D) Detection of any cognitive impairment.
 
-            (ii) may contain the elements described in paragraph (2).
+            (E)
 
-    (2)
+             The establishment of, or an update to, the following:
 
-     Subject to paragraph (4)(H), the elements described in this paragraph are the following:
+                (i) A screening schedule for the next 5 to 10 years, as appropriate, based on recommendations of the United States Preventive Services Task Force and the Advisory Committee on Immunization Practices, and the individual’s health status, screening history, and age-appropriate preventive services covered under this subchapter.
 
-        (A) The establishment of, or an update to, the individual’s medical and family history.
+                (ii) A list of risk factors and conditions for which primary, secondary, or tertiary prevention interventions are recommended or are underway, including any mental health conditions or any such risk factors or conditions that have been identified through an initial preventive physical examination (as described under subsection (ww)(1)), and a list of treatment options and their associated risks and benefits.
 
-        (B) A list of current providers and suppliers that are regularly involved in providing medical care to the individual (including a list of all prescribed medications).
+            (F) The furnishing of personalized health advice and a referral, as appropriate, to health education or preventive counseling services or programs aimed at reducing identified risk factors and improving self-management, or community-based lifestyle interventions to reduce health risks and promote self-management and wellness, including weight loss, physical activity, smoking cessation, fall prevention, and nutrition.
 
-        (C) A measurement of height, weight, body mass index (or waist circumference, if appropriate), blood pressure, and other routine measurements.
+            (G) Any other element determined appropriate by the Secretary.
 
-        (D) Detection of any cognitive impairment.
+        (3)
 
-        (E)
+         A health professional described in this paragraph is—
 
-         The establishment of, or an update to, the following:
+            (A) a physician;
 
-            (i) A screening schedule for the next 5 to 10 years, as appropriate, based on recommendations of the United States Preventive Services Task Force and the Advisory Committee on Immunization Practices, and the individual’s health status, screening history, and age-appropriate preventive services covered under this subchapter.
+            (B) a practitioner described in clause (i) of [section 1395u(b)(18)(C) of this title][/us/usc/t42/s1395u/b/18/C]; or
 
-            (ii) A list of risk factors and conditions for which primary, secondary, or tertiary prevention interventions are recommended or are underway, including any mental health conditions or any such risk factors or conditions that have been identified through an initial preventive physical examination (as described under subsection (ww)(1)), and a list of treatment options and their associated risks and benefits.
+            (C) a medical professional (including a health educator, registered dietitian, or nutrition professional) or a team of medical professionals, as determined appropriate by the Secretary, under the supervision of a physician.
 
-        (F) The furnishing of personalized health advice and a referral, as appropriate, to health education or preventive counseling services or programs aimed at reducing identified risk factors and improving self-management, or community-based lifestyle interventions to reduce health risks and promote self-management and wellness, including weight loss, physical activity, smoking cessation, fall prevention, and nutrition.
+        (4)
 
-        (G) Any other element determined appropriate by the Secretary.
+            (A)
 
-    (3)
+             For purposes of paragraph (1)(A), the Secretary, not later than 1 year after March 23, 2010, shall establish publicly available guidelines for health risk assessments. Such guidelines shall be developed in consultation with relevant groups and entities and shall provide that a health risk assessment—
 
-     A health professional described in this paragraph is—
+                (i) identify chronic diseases, injury risks, modifiable risk factors, and urgent health needs of the individual; and
 
-        (A) a physician;
+                (ii)
 
-        (B) a practitioner described in clause (i) of [section 1395u(b)(18)(C) of this title][/us/usc/t42/s1395u/b/18/C]; or
+                 may be furnished—
 
-        (C) a medical professional (including a health educator, registered dietitian, or nutrition professional) or a team of medical professionals, as determined appropriate by the Secretary, under the supervision of a physician.
+                    (I) through an interactive telephonic or web-based program that meets the standards established under subparagraph (B);
 
-    (4)
+                    (II) during an encounter with a health care professional;
 
-        (A)
+                    (III) through community-based prevention programs; or
 
-         For purposes of paragraph (1)(A), the Secretary, not later than 1 year after March 23, 2010, shall establish publicly available guidelines for health risk assessments. Such guidelines shall be developed in consultation with relevant groups and entities and shall provide that a health risk assessment—
+                    (IV) through any other means the Secretary determines appropriate to maximize accessibility and ease of use by beneficiaries, while ensuring the privacy of such beneficiaries.
 
-            (i) identify chronic diseases, injury risks, modifiable risk factors, and urgent health needs of the individual; and
+            (B) Not later than 1 year after March 23, 2010, the Secretary shall establish standards for interactive telephonic or web-based programs used to furnish health risk assessments under subparagraph (A)(ii)(I). The Secretary may utilize any health risk assessment developed under [section 300u–12(f) of this title][/us/usc/t42/s300u–12/f] as part of the requirement to develop a personalized prevention plan to comply with this subparagraph.
 
-            (ii)
+            (C)
 
-             may be furnished—
+                (i) Not later than 18 months after March 23, 2010, the Secretary shall develop and make available to the public a health risk assessment model. Such model shall meet the guidelines under subparagraph (A) and may be used to meet the requirement under paragraph (1)(A).
 
-                (I) through an interactive telephonic or web-based program that meets the standards established under subparagraph (B);
+                (ii) Any health risk assessment that meets the guidelines under subparagraph (A) and is approved by the Secretary may be used to meet the requirement under paragraph (1)(A).
 
-                (II) during an encounter with a health care professional;
+            (D)
 
-                (III) through community-based prevention programs; or
+             The Secretary may coordinate with community-based entities (including State Health Insurance Programs, Area Agencies on Aging, Aging and Disability Resource Centers, and the Administration on Aging) to—
 
-                (IV) through any other means the Secretary determines appropriate to maximize accessibility and ease of use by beneficiaries, while ensuring the privacy of such beneficiaries.
+                (i) ensure that health risk assessments are accessible to beneficiaries; and
 
-        (B) Not later than 1 year after March 23, 2010, the Secretary shall establish standards for interactive telephonic or web-based programs used to furnish health risk assessments under subparagraph (A)(ii)(I). The Secretary may utilize any health risk assessment developed under [section 300u–12(f) of this title][/us/usc/t42/s300u–12/f] as part of the requirement to develop a personalized prevention plan to comply with this subparagraph.
+                (ii) provide appropriate support for the completion of health risk assessments by beneficiaries.
 
-        (C)
+            (E) The Secretary shall establish procedures to make beneficiaries and providers aware of the requirement that a beneficiary complete a health risk assessment prior to or at the same time as receiving personalized prevention plan services.
 
-            (i) Not later than 18 months after March 23, 2010, the Secretary shall develop and make available to the public a health risk assessment model. Such model shall meet the guidelines under subparagraph (A) and may be used to meet the requirement under paragraph (1)(A).
+            (F) To the extent practicable, the Secretary shall encourage the use of, integration with, and coordination of health information technology (including use of technology that is compatible with electronic medical records and personal health records) and may experiment with the use of personalized technology to aid in the development of self-management skills and management of and adherence to provider recommendations in order to improve the health status of beneficiaries.
 
-            (ii) Any health risk assessment that meets the guidelines under subparagraph (A) and is approved by the Secretary may be used to meet the requirement under paragraph (1)(A).
+            (G) A beneficiary shall be eligible to receive only an initial preventive physical examination (as defined under subsection (ww)(1)) during the 12-month period after the date that the beneficiary’s coverage begins under part B and shall be eligible to receive personalized prevention plan services under this subsection each year thereafter provided that the beneficiary has not received either an initial preventive physical examination or personalized prevention plan services within the preceding 12-month period.
 
-        (D)
+            (H)
 
-         The Secretary may coordinate with community-based entities (including State Health Insurance Programs, Area Agencies on Aging, Aging and Disability Resource Centers, and the Administration on Aging) to—
+             The Secretary shall issue guidance that—
 
-            (i) ensure that health risk assessments are accessible to beneficiaries; and
+                (i) identifies elements under paragraph (2) that are required to be provided to a beneficiary as part of their first visit for personalized prevention plan services; and
 
-            (ii) provide appropriate support for the completion of health risk assessments by beneficiaries.
-
-        (E) The Secretary shall establish procedures to make beneficiaries and providers aware of the requirement that a beneficiary complete a health risk assessment prior to or at the same time as receiving personalized prevention plan services.
-
-        (F) To the extent practicable, the Secretary shall encourage the use of, integration with, and coordination of health information technology (including use of technology that is compatible with electronic medical records and personal health records) and may experiment with the use of personalized technology to aid in the development of self-management skills and management of and adherence to provider recommendations in order to improve the health status of beneficiaries.
-
-        (G) A beneficiary shall be eligible to receive only an initial preventive physical examination (as defined under subsection (ww)(1)) during the 12-month period after the date that the beneficiary’s coverage begins under part B and shall be eligible to receive personalized prevention plan services under this subsection each year thereafter provided that the beneficiary has not received either an initial preventive physical examination or personalized prevention plan services within the preceding 12-month period.
-
-        (H)
-
-         The Secretary shall issue guidance that—
-
-            (i) identifies elements under paragraph (2) that are required to be provided to a beneficiary as part of their first visit for personalized prevention plan services; and
-
-            (ii) establishes a yearly schedule for appropriate provision of such elements thereafter.
+                (ii) establishes a yearly schedule for appropriate provision of such elements thereafter.
 
 ([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1861, as added [Pub. L. 89–97, title I, § 102(a)][/us/pl/89/97/s102/a], July 30, 1965, [79 Stat. 313][/us/stat/79/313]; amended [Pub. L. 89–713, § 7][/us/pl/89/713/s7], Nov. 2, 1966, [80 Stat. 1111][/us/stat/80/1111]; [Pub. L. 90–248, title I][/us/pl/90/248], §§ 127(a), 129(a), (b), (c)(9)(C), (10), (11), 132(a), 133(a), (b), 134(a), 143(a), 144(a)–(d), Jan. 2, 1968, [81 Stat. 846–850][/us/stat/81/846-850], 852, 857, 858; [Pub. L. 91–690][/us/pl/91/690], Jan. 12, 1971, [84 Stat. 2074][/us/stat/84/2074]; [Pub. L. 92–603, title II][/us/pl/92/603], §§ 211(b), (c)(2), 221(c)(4), 223(a)–(d), (f), 227(a), (c), (d)(1), (f), 234(a)–(f), 237(c), 244(c), 246(b), 248, 249(b), 251(a)(1), (b)(1), (c), 252(a), 256(b), 264(a), 265, 267, 273(a), 276(a), 278(a) (4)–(15), (b)(6), (10), (11), (13), 283(a), Oct. 30, 1972, [86 Stat. 1383][/us/stat/86/1383], 1384, 1389, 1393, 1394, 1404–1407, 1412, 1413, 1416, 1423–1426, 1445–1447, 1449–1454, 1456; [Pub. L. 94–182, title I][/us/pl/94/182], §§ 102, 106(a), 112(a)(1), Dec. 31, 1975, [89 Stat. 1051][/us/stat/89/1051], 1052, 1055; [Pub. L. 95–142][/us/pl/95/142], §§ 3(a)(2), 5(m), 19(b)(1), 21(a), Oct. 25, 1977, [91 Stat. 1178][/us/stat/91/1178], 1191, 1204, 1207; [Pub. L. 95–210, § 1(d)][/us/pl/95/210/s1/d], (g), (h), Dec. 13, 1977, [91 Stat. 1485][/us/stat/91/1485], 1487, 1488; [Pub. L. 95–216, title V, § 501(a)][/us/pl/95/216/s501/a], Dec. 20, 1977, [91 Stat. 1564][/us/stat/91/1564]; [Pub. L. 95–292, § 4(d)][/us/pl/95/292/s4/d], June 13, 1978, [92 Stat. 315][/us/stat/92/315]; [Pub. L. 96–499, title IX][/us/pl/96/499], §§ 902(a)(1), 915(a), 930(k)–(n), (p), 931(c), (d), 933(c)–(e), 936(a), 937(a), 938(a), 948(a)(1), 949, 950, 951(a), (b), 952(a), formerly 952, Dec. 5, 1980, [94 Stat. 2612][/us/stat/94/2612], 2623, 2632, 2633, 2635, 2639, 2640, 2643, 2645, 2646; [Pub. L. 96–611, § 1(a)(1)][/us/pl/96/611/s1/a/1], (b)(3), Dec. 28, 1980, [94 Stat. 3566][/us/stat/94/3566]; [Pub. L. 97–35, title XXI][/us/pl/97/35], §§ 2102(a), 2114, 2121(c), (d), 2141(a), 2142(a), 2143(a), 2144(a), 2193(c)(9), Aug. 13, 1981, [95 Stat. 787][/us/stat/95/787], 796–799, 828; [Pub. L. 97–248, title I][/us/pl/97/248], §§ 101(a)(2), (d), 102(a), 103(a), 105(a), 106(a), 107(a), 108(a)(2), 109(b), 114(b), 122(d), 127(1), 128(a)(1), (d)(2), 148(b), Sept. 3, 1982, [96 Stat. 335–339][/us/stat/96/335-339], 350, 359, 366, 367, 394; [Pub. L. 97–448, title III, § 309(a)(4)][/us/pl/97/448/s309/a/4], Jan. 12, 1983, [96 Stat. 2408][/us/stat/96/2408]; [Pub. L. 98–21, title VI][/us/pl/98/21], §§ 602(d), 607(b)(2), (d), Apr. 20, 1983, [97 Stat. 163][/us/stat/97/163], 171, 172; [Pub. L. 98–369, div. B, title III][/us/pl/98/369], §§ 2314(a), 2318(a), (b), 2319(a), 2321(e), 2322(a), 2323(a), 2324(a), 2335(b), 2340(a), 2341(a), (c), 2342(a), 2343(a), (b), 2354(b)(18)–(29), July 18, 1984, [98 Stat. 1079][/us/stat/98/1079], 1081, 1082, 1085, 1086, 1090, 1093, 1094, 1101; [Pub. L. 98–617, § 3(a)(4)][/us/pl/98/617/s3/a/4], (b)(7), Nov. 8, 1984, [98 Stat. 3295][/us/stat/98/3295], 3296; [Pub. L. 99–272, title IX][/us/pl/99/272], §§ 9107(b), 9110(a), 9202(i)(1), 9219(b)(1)(B), (3)(A), Apr. 7, 1986, [100 Stat. 160][/us/stat/100/160], 162, 177, 182, 183; [Pub. L. 99–509, title IX][/us/pl/99/509], §§ 9305(c)(1), (2), 9313(a)(2), 9315(a), 9320(b), (c), (f), 9335(c)(1), 9336(a), 9337(d), 9338(a), Oct. 21, 1986, [100 Stat. 1989][/us/stat/100/1989], 2002, 2005, 2013, 2015, 2030, 2033, 2034; [Pub. L. 100–203, title IV][/us/pl/100/203], §§ 4009(e)(1), (f), 4021(a), 4026(a)(1), 4039(b), 4064(e)(1), 4065(a), 4070(b)(1), (2), 4071(a), 4072(a), 4073(a), (c), 4074(a), (b), 4075(a), 4076(a), 4077(a)(1), (b)(1), (4), formerly (5), 4078, 4084(c)(1), 4085(i)(9)–(14), 4201(a)(1), (b)(1), (d)(1), (2), (5), formerly (d), Dec. 22, 1987, [101 Stat. 1330–57][/us/stat/101/1330-57], 1330–58, 1330–67, 1330–74, 1330–81, 1330–111, 1330–112, 1330–114, 1330–116, 1330–118 to 1330–121, 1330–132, 1330–133, 1330–160, 1330–174, as amended [Pub. L. 100–360, title IV, § 411(h)(4)(D)][/us/pl/100/360/s411/h/4/D], (5)–(7)(A), (E), (F), (i)(3), (4)(C)(iii), (l)(1)(B), (C), July 1, 1988, [102 Stat. 787–789][/us/stat/102/787-789], 801, as amended [Pub. L. 100–485, title VI, § 608(d)(27)(B)][/us/pl/100/485/s608/d/27/B], Oct. 13, 1988, [102 Stat. 2422][/us/stat/102/2422]; [Pub. L. 100–360, title I, § 104(d)(4)][/us/pl/100/360/s104/d/4], title II, §§ 202(a), 203(b), (e)(1), 204(a), 205(b), 206(a), title IV, § 411(d)(1)(B)(i), (5)(A), (g)(3)(H), (h)(1)(B), (2), (3)(A), July 1, 1988, [102 Stat. 689][/us/stat/102/689], 702, 721, 725, 730, 731, 773, 774, 785, 786; [Pub. L. 100–485, title VI, § 608(d)(6)(A)][/us/pl/100/485/s608/d/6/A], (23)(B), Oct. 13, 1988, [102 Stat. 2414][/us/stat/102/2414], 2421; [Pub. L. 100–647, title VIII][/us/pl/100/647], §§ 8423(a), 8424(a), Nov. 10, 1988, [102 Stat. 3803][/us/stat/102/3803]; [Pub. L. 101–234, title I, § 101(a)][/us/pl/101/234/s101/a], title II, § 201(a), Dec. 13, 1989, [103 Stat. 1979][/us/stat/103/1979], 1981; [Pub. L. 101–239, title VI][/us/pl/101/239], §§ 6003(g)(3)(A), (C)(i), (D)(x), 6110, 6112(e)(1), 6113(a)–(b)(2), 6114(a), (d), 6115(a), 6116(a)(1), 6131(a)(2), 6141(a), 6213(a)–(c), Dec. 19, 1989, [103 Stat. 2151–2153][/us/stat/103/2151-2153], 2213, 2215–2219, 2221, 2225, 2250, 2251; [Pub. L. 101–508, title IV][/us/pl/101/508], §§ 4008(h)(2)(A)(i), 4151(a), (b)(1), 4152(a)(2), 4153(b)(2)(A), 4155(a), (d), 4156(a), 4157(a), 4161(a)(1), (2), (5), (b)(1), (2), 4162(a), 4163(a), 4201(d)(1), 4207(d)(1), formerly 4027(d)(1), Nov. 5, 1990, [104 Stat. 1388–48][/us/stat/104/1388-48], 1388–71, 1388–72, 1388–74, 1388–84, 1388–86 to 1388–88, 1388–93 to 1388–96, 1388–104, 1388–120, renumbered [Pub. L. 103–432, title I, § 160(d)(4)][/us/pl/103/432/s160/d/4], Oct. 31, 1994, [108 Stat. 4444][/us/stat/108/4444]; [Pub. L. 101–597, title IV, § 401(c)(2)][/us/pl/101/597/s401/c/2], Nov. 16, 1990, [104 Stat. 3035][/us/stat/104/3035]; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13503(c)(1)(A), 13521, 13522, 13553(a), (b), 13554(a), 13556(a), 13564(a)(2), (b)(1), 13565, 13566(b), Aug. 10, 1993, [107 Stat. 578][/us/stat/107/578], 586, 591, 592, 607; [Pub. L. 103–432, title I][/us/pl/103/432], §§ 102(g)(4), 104, 107(a), 145(b), 146(a), (b), 147(e)(1), (4), (5), (f)(3), (4)(A), (6)(A), (B), (E), 158(a)(1), Oct. 31, 1994, [108 Stat. 4404][/us/stat/108/4404], 4405, 4407, 4427–4432, 4442; [Pub. L. 104–299, § 4(b)(1)][/us/pl/104/299/s4/b/1], Oct. 11, 1996, [110 Stat. 3645][/us/stat/110/3645]; [Pub. L. 105–33, title IV][/us/pl/105/33], §§ 4102(a), (c), 4103(a), 4104(a)(1), 4105(a)(1), (b)(1), 4106(a), 4201(c)(1), (2), 4205(b)(1), (c)(1), (d)(1)–(3)(A), 4312(b)(1), (2), (d), (e), 4320, 4321(a), 4404(a), 4432(b)(5)(D), (E), 4444(a), 4445, 4446, 4451, 4454(a)(1), 4511(a)(1)–(2)(B), (d), 4512(a), 4513(a), 4522, 4531(a)(1), 4557(a), 4601(a), 4602(a)–(c), 4604(b), 4611(b), 4612(a), Aug. 5, 1997, [111 Stat. 360–362][/us/stat/111/360-362], 366, 367, 373, 376, 377, 386, 387, 394, 400, 421–426, 442–444, 450, 463, 466, 472, 474; [Pub. L. 105–277, div. J, title V, § 5101(a)][/us/pl/105/277/s5101/a], (b), (d)(1), Oct. 21, 1998, [112 Stat. 2681–913][/us/stat/112/2681-913], 2681–914; [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title II, §§ 201(k), 221(b)(1), 227(a), title III, §§ 303(a), 304(a), 321(k)(7)–(9), title V, § 521\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–341, 1501A–351, 1501A–354, 1501A–360, 1501A–361, 1501A–367, 1501A–386; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title I, §§ 101(a), 102(a), (b), 103(a), 105(a), (b), 112(a), 113(a), title IV, §§ 430(b), 431(a), title V, §§ 502(a), 541\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–467, 2763A–468, 2763A–471, 2763A–473, 2763A–525, 2763A–529, 2763A–550; [Pub. L. 108–173, title III, § 303(i)(2)][/us/pl/108/173/s303/i/2], title IV, §§ 408(a), 414(f)(2), formerly 414(g)(2), 415(b), title V, § 512(c), title VI, §§ 611(a), (b), (d)(2), 612(a), (b), 613(a), (b), 642(a), title VII, §§ 706(b), 736(a)(10), (11), (b)(3), (11), (12), (c)(4), title IX, §§ 901(b), 926(b)(1), 946(a), Dec. 8, 2003, [117 Stat. 2254][/us/stat/117/2254], 2270, 2281, 2282, 2299, 2303–2305, 2322, 2339, 2355, 2356, 2374, 2396, 2424, renumbered [Pub. L. 111–68, div. A, title I, § 1501(e)(2)][/us/pl/111/68/s1501/e/2], Oct. 1, 2009, [123 Stat. 2041][/us/stat/123/2041]; [Pub. L. 109–171, title V][/us/pl/109/171], §§ 5004, 5112(a), (b), 5114(a)(1), (b), title VI, § 6001(f)(1), Feb. 8, 2006, [120 Stat. 32][/us/stat/120/32], 43–45, 58; [Pub. L. 110–173, title I, § 114(a)][/us/pl/110/173/s114/a], Dec. 29, 2007, [121 Stat. 2501][/us/stat/121/2501]; [Pub. L. 110–275, title I][/us/pl/110/275], §§ 101(a)(1), (b)(1), 125(b)(2), 143(a), (b)(5), (6), 144(a)(1), 152(b)(1)(A), (B), 153(b)(3)(B), 182(b), July 15, 2008, [122 Stat. 2496][/us/stat/122/2496], 2497, 2519, 2542–2544, 2551, 2556, 2583; [Pub. L. 110–355, § 7(a)][/us/pl/110/355/s7/a], Oct. 8, 2008, [122 Stat. 3995][/us/stat/122/3995]; [Pub. L. 111–148, title IV][/us/pl/111/148], §§ 4103(a), (b), 4104(a), title V, § 5502(a)(1), title VI, § 6402(g)(2), title X, §§ 10402(b), 10501(i)(1), (2)(A), Mar. 23, 2010, [124 Stat. 553][/us/stat/124/553], 557, 654, 759, 975, 997; [Pub. L. 111–152, title I, § 1301(a)][/us/pl/111/152/s1301/a], (b), Mar. 30, 2010, [124 Stat. 1057][/us/stat/124/1057]; [Pub. L. 112–40, title II, § 261(a)(3)(B)][/us/pl/112/40/s261/a/3/B], Oct. 21, 2011, [125 Stat. 423][/us/stat/125/423]; [Pub. L. 112–96, title III, § 3201(a)][/us/pl/112/96/s3201/a]–(c), Feb. 22, 2012, [126 Stat. 191][/us/stat/126/191], 192.)
 
@@ -4255,7 +4237,7 @@ For purposes of this subchapter—
 
 >         “(B) bills all recipients who receive ALS intercept services from the entity, regardless of whether or not such recipients are medicare beneficiaries.
 
->         For purposes of this subsection, an area shall be treated as a rural area if it is designated as a rural area by any law or regulation of the State or if it is located in a rural census tract of a metropolitan statistical area (as determined under the most recent Goldsmith Modification, originally published in the Federal Register on February 27, 1992 (57 Fed. Reg. 6725)).”
+>     For purposes of this subsection, an area shall be treated as a rural area if it is designated as a rural area by any law or regulation of the State or if it is located in a rural census tract of a metropolitan statistical area (as determined under the most recent Goldsmith Modification, originally published in the Federal Register on February 27, 1992 (57 Fed. Reg. 6725)).”
 
 \[[Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title IV, § 412(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–377, provided that: 
 
@@ -4403,7 +4385,7 @@ For purposes of this subchapter—
 
 >     “(2) take into account the changes in costs of home health agencies for billing and verification procedures that result from the Secretary’s changing the requirements for such procedures, to the extent the changes in costs are not reflected in such data.
 
->         Paragraph (2) shall apply to changes in requirements effected before, on, or after July 1, 1986.”
+>     Paragraph (2) shall apply to changes in requirements effected before, on, or after July 1, 1986.”
 
  __Comptroller General Study and Report on Cost Limits for Home Health Services__ 
 
@@ -4467,7 +4449,7 @@ For purposes of this subchapter—
 
 >     “(2) meets the definition of a rural health clinic under section 1861(aa)(2) \[[42 U.S.C. 1395x(aa)(2)][/us/usc/t42/s1395x/aa/2]\] or section 1905(l) of the Social Security Act \[[42 U.S.C. 1396d][/us/usc/t42/s1396d](l)\], except for clause (i) of section 1861(aa)(2) \[[42 U.S.C. 1395x(aa)(2)][/us/usc/t42/s1395x/aa/2]\],
 
->         shall be considered, for the purposes of title XVIII or XIX, respectively, of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq., 1396 et seq.\], as satisfying the definition of a rural health clinic under such section.”
+>     shall be considered, for the purposes of title XVIII or XIX, respectively, of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq., 1396 et seq.\], as satisfying the definition of a rural health clinic under such section.”
 
  __Promulgation of Regulations Defining Costs Chargeable to Personal Funds of Patients in Skilled Nursing Facilities; Date of Issuance__ 
 

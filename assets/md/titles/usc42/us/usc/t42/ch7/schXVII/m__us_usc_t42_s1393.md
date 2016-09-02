@@ -15,7 +15,7 @@
 
 ## § 1393. Applications; single State agency designation; essential planning services; plans for expenditure; final activities report and other necessary reports; records; accounting
 
-In order to be eligible for a grant under [section 1392 of this title][/us/usc/t42/s1392], a State must submit an application therefor which—
+    In order to be eligible for a grant under [section 1392 of this title][/us/usc/t42/s1392], a State must submit an application therefor which—
 
     (1) designates or establishes a single State agency, which may be an interdepartmental agency, as the sole agency for carrying out the purposes of this subchapter;
 

@@ -15,7 +15,7 @@
 
 ## § 11317. Definitions
 
-For purposes of this subchapter:
+    For purposes of this subchapter:
 
     (1) The term “Council” means the United States Interagency Council on Homelessness established in [section 11311 of this title][/us/usc/t42/s11311].
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch86/m__us_usc_t42_s7705, 7705a.md) | [Next](./../../../..//us/usc/t42/ch86/m__us_usc_t42_s7705c.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7705b)
+[Previous](./../../../..//us/usc/t42/ch86/m__us_usc_t42_s7704a.md) | [Next](./../../../..//us/usc/t42/ch86/m__us_usc_t42_s7705c.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7705b)
 
 ## § 7705b. Seismic standards
 
@@ -83,7 +83,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch86/m__us_usc_t42_s7705, 7705a.md) | [Next](./../../../..//us/usc/t42/ch86/m__us_usc_t42_s7705c.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7705b)
+[Previous](./../../../..//us/usc/t42/ch86/m__us_usc_t42_s7704a.md) | [Next](./../../../..//us/usc/t42/ch86/m__us_usc_t42_s7705c.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7705b)
 
 ----------
 ----------

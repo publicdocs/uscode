@@ -15,7 +15,7 @@
 
 ## § 15112. Definitions
 
-In this subchapter:
+    In this subchapter:
 
     (1) __Developmental disability__ 
 

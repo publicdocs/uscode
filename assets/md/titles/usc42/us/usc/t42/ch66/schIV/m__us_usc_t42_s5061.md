@@ -15,7 +15,7 @@
 
 ## § 5061. Definitions
 
-For the purposes of this chapter—
+    For the purposes of this chapter—
 
     (1) the term “Director” means the Chief Executive Officer of the Corporation for National and Community Service appointed under [section 12651c of this title][/us/usc/t42/s12651c];
 

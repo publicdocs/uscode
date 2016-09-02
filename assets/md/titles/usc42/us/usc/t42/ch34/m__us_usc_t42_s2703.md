@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch34/m__us_usc_t42_s2702a, 2702b.md) | [Next](./../../../..//us/usc/t42/ch34/m__us_usc_t42_s2704.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2703)
+[Previous](./../../../..//us/usc/t42/ch34/m__us_usc_t42_s2702.md) | [Next](./../../../..//us/usc/t42/ch34/m__us_usc_t42_s2704.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2703)
 
 ## § 2703. Repealed. [Pub. L. 93–644, § 16(b)][/us/pl/93/644/s16/b], Jan. 4, 1975, [88 Stat. 2330][/us/stat/88/2330]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch34/m__us_usc_t42_s2702a, 2702b.md) | [Next](./../../../..//us/usc/t42/ch34/m__us_usc_t42_s2704.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2703)
+[Previous](./../../../..//us/usc/t42/ch34/m__us_usc_t42_s2702.md) | [Next](./../../../..//us/usc/t42/ch34/m__us_usc_t42_s2704.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2703)
 
 ----------
 ----------

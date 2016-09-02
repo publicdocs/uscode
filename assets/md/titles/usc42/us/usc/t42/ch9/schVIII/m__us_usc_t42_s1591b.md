@@ -15,7 +15,7 @@
 
 ## § 1591b. Community facilities or services by local agencies
 
-In order to assure that community facilities or services required in connection with national defense activities shall, wherever possible, be provided by the appropriate local agencies with local funds, in any area which the President, pursuant to the authority contained in [section 1591 of this title][/us/usc/t42/s1591], has declared to be a critical defense housing area—
+    In order to assure that community facilities or services required in connection with national defense activities shall, wherever possible, be provided by the appropriate local agencies with local funds, in any area which the President, pursuant to the authority contained in [section 1591 of this title][/us/usc/t42/s1591], has declared to be a critical defense housing area—
 
     (a) __Certification of necessity for loan__ 
 
@@ -29,7 +29,7 @@ In order to assure that community facilities or services required in connection 
 
         no community facilities or services shall be provided, and no community facilities shall be maintained and operated, by the United States directly except where the appropriate local agency is demonstrably unable to provide such facilities and services, or to maintain or operate such community facilities and services adequately with its own personnel, with loans, grants, or payments authorized to be made pursuant to subchapter IX of this chapter.
 
-        For the purposes of this section, the term “chief executive officer of the appropriate political subdivision” shall mean appropriate principal executive officer or governing body having primary responsibility with respect to the community facility or service involved, but shall not, in any case, mean any public housing authority, or its governing body, or any of its officers, acting in such capacity.
+    For the purposes of this section, the term “chief executive officer of the appropriate political subdivision” shall mean appropriate principal executive officer or governing body having primary responsibility with respect to the community facility or service involved, but shall not, in any case, mean any public housing authority, or its governing body, or any of its officers, acting in such capacity.
 
 ([Sept. 1, 1951, ch. 378][/us/act/1951-09-01/ch378], title I, § 103, [65 Stat. 294][/us/stat/65/294]; [Pub. L. 89–174, § 5(a)][/us/pl/89/174/s5/a], Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669].)
 

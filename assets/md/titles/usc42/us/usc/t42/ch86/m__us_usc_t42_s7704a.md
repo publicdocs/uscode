@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch86/m__us_usc_t42_s7704.md) | [Next](./../../../..//us/usc/t42/ch86/m__us_usc_t42_s7705, 7705a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7704a)
+[Previous](./../../../..//us/usc/t42/ch86/m__us_usc_t42_s7704.md) | [Next](./../../../..//us/usc/t42/ch86/m__us_usc_t42_s7705b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7704a)
 
 ## § 7704a. Report on seismic safety property standards
 
@@ -49,9 +49,15 @@
 
     For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].
 
+§§ 7705, 7705a. __Repealed.__  __[__  __Pub. L. 105–47, § 4__  __][/us/pl/105/47/s4]__  __,__  __Oct. 1, 1997__  __,__  __[__  __111 Stat. 1164__  __][/us/stat/111/1164]__ 
+
+    Section 7705, [Pub. L. 95–124, § 6][/us/pl/95/124/s6], Oct. 7, 1977, [91 Stat. 1102][/us/stat/91/1102]; [Pub. L. 96–472, title I, § 102(a)][/us/pl/96/472/s102/a], Oct. 19, 1980, [94 Stat. 2259][/us/stat/94/2259]; [Pub. L. 101–614, § 6][/us/pl/101/614/s6], Nov. 16, 1990, [104 Stat. 3236][/us/stat/104/3236], related to Office of Science and Technology Policy report.
+
+    Section 7705a, [Pub. L. 95–124, § 7][/us/pl/95/124/s7], as added [Pub. L. 101–614, § 7(2)][/us/pl/101/614/s7/2], Nov. 16, 1990, [104 Stat. 3236][/us/stat/104/3236], related to establishment of a National Earthquake Hazards Reduction Program Advisory Committee.
+
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch86/m__us_usc_t42_s7704.md) | [Next](./../../../..//us/usc/t42/ch86/m__us_usc_t42_s7705, 7705a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7704a)
+[Previous](./../../../..//us/usc/t42/ch86/m__us_usc_t42_s7704.md) | [Next](./../../../..//us/usc/t42/ch86/m__us_usc_t42_s7705b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7704a)
 
 ----------
 ----------
@@ -73,5 +79,16 @@
 [/us/usc/t6/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs313
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
+[/us/pl/105/47/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F47%2Fs4
+[/us/stat/111/1164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1164
+[/us/pl/95/124/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F124%2Fs6
+[/us/stat/91/1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1102
+[/us/pl/96/472/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F472%2Fs102%2Fa
+[/us/stat/94/2259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2259
+[/us/pl/101/614/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F614%2Fs6
+[/us/stat/104/3236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3236
+[/us/pl/95/124/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F124%2Fs7
+[/us/pl/101/614/s7/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F614%2Fs7%2F2
+[/us/stat/104/3236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3236
 
 

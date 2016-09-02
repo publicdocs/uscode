@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch2/m__us_usc_t42_s110, 111.md) | [Next](./../../../..//us/usc/t42/ch2/m__us_usc_t42_s113.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs112)
+[Previous](./../../../..//us/usc/t42/ch2/m__us_usc_t42_s109.md) | [Next](./../../../..//us/usc/t42/ch2/m__us_usc_t42_s113.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs112)
 
 ## § 112. Removal of revenue officers from port during epidemic
 
@@ -29,7 +29,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch2/m__us_usc_t42_s110, 111.md) | [Next](./../../../..//us/usc/t42/ch2/m__us_usc_t42_s113.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs112)
+[Previous](./../../../..//us/usc/t42/ch2/m__us_usc_t42_s109.md) | [Next](./../../../..//us/usc/t42/ch2/m__us_usc_t42_s113.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs112)
 
 ----------
 ----------

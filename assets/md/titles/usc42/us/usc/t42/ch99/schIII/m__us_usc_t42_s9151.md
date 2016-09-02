@@ -15,7 +15,7 @@
 
 ## § 9151. Prohibited acts
 
-It is unlawful for any person who is a United States citizen or national, or a foreign national in or on board an ocean thermal energy conversion facility or plantship or on board any vessel documented or numbered under the laws of the United States, or who is subject to the jurisdiction of the United States by an international agreement to which the United States is a party—
+    It is unlawful for any person who is a United States citizen or national, or a foreign national in or on board an ocean thermal energy conversion facility or plantship or on board any vessel documented or numbered under the laws of the United States, or who is subject to the jurisdiction of the United States by an international agreement to which the United States is a party—
 
     (1) to violate any provision of this chapter; or any rule, regulation, or order issued pursuant to this chapter; or any term or condition of any license issued to such person pursuant to this chapter;
 

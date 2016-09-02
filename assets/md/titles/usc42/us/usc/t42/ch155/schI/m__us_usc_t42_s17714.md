@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch155/schI/m__us_usc_t42_s17712, 17713.md) | [Next](./../../../../..//us/usc/t42/ch155/schII/m__us_usc_t42_ch155_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17714)
+[Previous](./../../../../..//us/usc/t42/ch155/schI/m__us_usc_t42_s17711.md) | [Next](./../../../../..//us/usc/t42/ch155/schII/m__us_usc_t42_ch155_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17714)
 
 ## § 17714. Repealed. [Pub. L. 111–314, § 6][/us/pl/111/314/s6], Dec. 18, 2010, [124 Stat. 3444][/us/stat/124/3444]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch155/schI/m__us_usc_t42_s17712, 17713.md) | [Next](./../../../../..//us/usc/t42/ch155/schII/m__us_usc_t42_ch155_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17714)
+[Previous](./../../../../..//us/usc/t42/ch155/schI/m__us_usc_t42_s17711.md) | [Next](./../../../../..//us/usc/t42/ch155/schII/m__us_usc_t42_ch155_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17714)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 300aa–33. Definitions
 
-For purposes of this part:
+    For purposes of this part:
 
     (1) The term “health care provider” means any licensed health care professional, organization, or institution, whether public or private (including Federal, State, and local departments, agencies, and instrumentalities) under whose authority a vaccine set forth in the Vaccine Injury Table is administered.
 

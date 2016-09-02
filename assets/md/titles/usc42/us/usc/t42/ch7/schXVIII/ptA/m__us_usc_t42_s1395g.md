@@ -179,7 +179,7 @@
 
 >     “(C) is paid through an agency or organization with an agreement under section 1816 of such Act \[[42 U.S.C. 1395h][/us/usc/t42/s1395h]\],
 
->         the Secretary of Health and Human Services shall continue payment on such a basis until not earlier than the end of the first period of three consecutive calendar months (beginning no earlier than April 1987) during all of which the agency or organization has met the requirements of section 1816(c)(2) of such Act (relating to prompt payment of claims).”
+>     the Secretary of Health and Human Services shall continue payment on such a basis until not earlier than the end of the first period of three consecutive calendar months (beginning no earlier than April 1987) during all of which the agency or organization has met the requirements of section 1816(c)(2) of such Act (relating to prompt payment of claims).”
 
  __Delay in Periodic Interim Payments__ 
 

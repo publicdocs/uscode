@@ -61,7 +61,7 @@
 
  __Enactment of Section__ 
 
-For delayed effective date of section, see Effective Date note below.
+    For delayed effective date of section, see Effective Date note below.
 
  __Prior Provisions__ 
 
@@ -315,9 +315,13 @@ A prior section 300gg, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], ti
 
 >                 “(i) __Outreach to employees regarding availability of Medicaid and CHIP coverage.—__ 
 
->                          “(I) In general.—Each employer that maintains a group health plan in a State that provides medical assistance under a State Medicaid plan under title XIX of the Social Security Act, or child health assistance under a State child health plan under title XXI of such Act, in the form of premium assistance for the purchase of coverage under a group health plan, shall provide to each employee a written notice informing the employee of potential opportunities then currently available in the State in which the employee resides for premium assistance under such plans for health coverage of the employee or the employee’s dependents. For purposes of compliance with this subclause, the employer may use any State-specific model notice developed in accordance with [section 1181(f)(3)(B)(i)(II) of title 29][/us/usc/t29/s1181/f/3/B/i/II].
+>                          “(I) __In general.—__ 
 
->                          “(II) Option to provide concurrent with provision of plan materials to employee.—An employer may provide the model notice applicable to the State in which an employee resides concurrent with the furnishing of materials notifying the employee of health plan eligibility, concurrent with materials provided to the employee in connection with an open season or election process conducted under the plan, or concurrent with the furnishing of the summary plan description as provided in [section 1024(b) of title 29][/us/usc/t29/s1024/b].
+>                     Each employer that maintains a group health plan in a State that provides medical assistance under a State Medicaid plan under title XIX of the Social Security Act, or child health assistance under a State child health plan under title XXI of such Act, in the form of premium assistance for the purchase of coverage under a group health plan, shall provide to each employee a written notice informing the employee of potential opportunities then currently available in the State in which the employee resides for premium assistance under such plans for health coverage of the employee or the employee’s dependents. For purposes of compliance with this subclause, the employer may use any State-specific model notice developed in accordance with [section 1181(f)(3)(B)(i)(II) of title 29][/us/usc/t29/s1181/f/3/B/i/II].
+
+>                          “(II) __Option to provide concurrent with provision of plan materials to employee.—__ 
+
+>                     An employer may provide the model notice applicable to the State in which an employee resides concurrent with the furnishing of materials notifying the employee of health plan eligibility, concurrent with materials provided to the employee in connection with an open season or election process conducted under the plan, or concurrent with the furnishing of the summary plan description as provided in [section 1024(b) of title 29][/us/usc/t29/s1024/b].
 
 >                 “(ii) __Disclosure about group health plan benefits to States for Medicaid and CHIP eligible individuals.—__ 
 
@@ -391,11 +395,11 @@ A prior section 300gg, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], ti
 
 >             Subject to clauses (ii) and (iii), subsection (e) of section 2701 \[now 2704\] of the Public Health Service Act \[[42 U.S.C. 300gg–3(e)][/us/usc/t42/s300gg–3/e]\] (as added by this section) shall apply to events occurring after June 30, 1996.
 
->             “(ii) __No certification required to be provided before june 1, 1997.—__ 
+>             “(ii) __No certification required to be provided before__  __june 1, 1997__  __.—__ 
 
 >             In no case is a certification required to be provided under such subsection before June 1, 1997.
 
->             “(iii) __Certification only on written request for events occurring before october 1, 1996.—__ 
+>             “(iii) __Certification only on written request for events occurring before__  __october 1, 1996__  __.—__ 
 
 >             In the case of an event occurring after June 30, 1996, and before October 1, 1996, a certification is not required to be provided under such subsection unless an individual (with respect to whom the certification is otherwise required to be made) requests such certification in writing.
 

@@ -15,7 +15,7 @@
 
 ## § 3796aa–2. Applications to receive grants
 
-To request a grant under [section 3796aa–1 of this title][/us/usc/t42/s3796aa–1], the chief executive officer of a State or unit of local government shall submit to the Director an application at such time and in such form as the Director may require. Such application shall include—
+    To request a grant under [section 3796aa–1 of this title][/us/usc/t42/s3796aa–1], the chief executive officer of a State or unit of local government shall submit to the Director an application at such time and in such form as the Director may require. Such application shall include—
 
     (1) a certification that Federal funds made available under [section 3796aa–1 of this title][/us/usc/t42/s3796aa–1] will not be used to supplant State or local funds, but will be used to increase the amounts of such funds that would, in the absence of such funds, be made available for criminal proceedings for the violation of laws relating to the abuse of children; and
 

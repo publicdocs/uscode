@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch84/schVI/ptA/m__us_usc_t42_s7213 to 7217.md) | [Next](./../../../../../..//us/usc/t42/ch84/schVI/ptB/m__us_usc_t42_ch84_schVI_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7218)
+[Previous](./../../../../../..//us/usc/t42/ch84/schVI/ptA/m__us_usc_t42_ch84_schVI_ptA.md) | [Next](./../../../../../..//us/usc/t42/ch84/schVI/ptB/m__us_usc_t42_ch84_schVI_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7218)
 
 ## § 7218. Repealed. [Pub. L. 104–106, div. D, title XLIII, § 4304(b)(6)][/us/pl/104/106/s4304/b/6], Feb. 10, 1996, [110 Stat. 664][/us/stat/110/664]
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch84/schVI/ptA/m__us_usc_t42_s7213 to 7217.md) | [Next](./../../../../../..//us/usc/t42/ch84/schVI/ptB/m__us_usc_t42_ch84_schVI_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7218)
+[Previous](./../../../../../..//us/usc/t42/ch84/schVI/ptA/m__us_usc_t42_ch84_schVI_ptA.md) | [Next](./../../../../../..//us/usc/t42/ch84/schVI/ptB/m__us_usc_t42_ch84_schVI_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7218)
 
 ----------
 ----------

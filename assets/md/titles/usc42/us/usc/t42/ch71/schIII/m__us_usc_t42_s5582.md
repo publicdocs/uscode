@@ -15,7 +15,7 @@
 
 ## § 5582. Definitions
 
-For purposes of this subchapter—
+    For purposes of this subchapter—
 
     (1) a “solar photovoltaic energy system” is a system of components which generates electricity from incident sunlight by means of the photovoltaic effect, and which shall include all components, including energy storage devices where appropriate, necessary to provide electricity for individual, industrial, agricultural, or governmental use;
 

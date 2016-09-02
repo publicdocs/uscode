@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch30/schII/ptA/m__us_usc_t42_s2581 to 2587.md) | [Next](./../../../../../..//us/usc/t42/ch30/schII/ptB/m__us_usc_t42_ch30_schII_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2588)
+[Previous](./../../../../../..//us/usc/t42/ch30/schII/ptA/m__us_usc_t42_ch30_schII_ptA.md) | [Next](./../../../../../..//us/usc/t42/ch30/schII/ptB/m__us_usc_t42_ch30_schII_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2588)
 
 ## § 2588. Repealed. [Pub. L. 89–15, § 7][/us/pl/89/15/s7], Apr. 26, 1965, [79 Stat. 78][/us/stat/79/78]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch30/schII/ptA/m__us_usc_t42_s2581 to 2587.md) | [Next](./../../../../../..//us/usc/t42/ch30/schII/ptB/m__us_usc_t42_ch30_schII_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2588)
+[Previous](./../../../../../..//us/usc/t42/ch30/schII/ptA/m__us_usc_t42_ch30_schII_ptA.md) | [Next](./../../../../../..//us/usc/t42/ch30/schII/ptB/m__us_usc_t42_ch30_schII_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2588)
 
 ----------
 ----------

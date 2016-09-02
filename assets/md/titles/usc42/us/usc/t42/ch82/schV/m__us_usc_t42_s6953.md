@@ -15,7 +15,7 @@
 
 ## § 6953. Development of markets for recovered materials
 
-The Secretary of Commerce shall within two years after September 1, 1979, take such actions as may be necessary to—
+    The Secretary of Commerce shall within two years after September 1, 1979, take such actions as may be necessary to—
 
     (1) identify the geographical location of existing or potential markets for recovered materials;
 

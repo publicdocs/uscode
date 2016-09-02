@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch59/ptB/m__us_usc_t42_s4511 to 4524.md) | [Next](./../../../../..//us/usc/t42/ch59/ptB/m__us_usc_t42_s4526.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4525)
+[Previous](./../../../../..//us/usc/t42/ch59/ptB/m__us_usc_t42_ch59_ptB.md) | [Next](./../../../../..//us/usc/t42/ch59/ptB/m__us_usc_t42_s4526.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4525)
 
 ## § 4525. Real property taxation
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch59/ptB/m__us_usc_t42_s4511 to 4524.md) | [Next](./../../../../..//us/usc/t42/ch59/ptB/m__us_usc_t42_s4526.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4525)
+[Previous](./../../../../..//us/usc/t42/ch59/ptB/m__us_usc_t42_ch59_ptB.md) | [Next](./../../../../..//us/usc/t42/ch59/ptB/m__us_usc_t42_s4526.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4525)
 
 ----------
 ----------

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch92/schIV/m__us_usc_t42_s8371, 8372.md) | [Next](./../../../../..//us/usc/t42/ch92/schIV/m__us_usc_t42_s8374.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8373)
+[Previous](./../../../../..//us/usc/t42/ch92/schIV/m__us_usc_t42_ch92_schIV.md) | [Next](./../../../../..//us/usc/t42/ch92/schIV/m__us_usc_t42_s8374.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8373)
 
 ## § 8373. Conservation in Federal facilities, contracts, and financial assistance programs
 
@@ -115,7 +115,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch92/schIV/m__us_usc_t42_s8371, 8372.md) | [Next](./../../../../..//us/usc/t42/ch92/schIV/m__us_usc_t42_s8374.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8373)
+[Previous](./../../../../..//us/usc/t42/ch92/schIV/m__us_usc_t42_ch92_schIV.md) | [Next](./../../../../..//us/usc/t42/ch92/schIV/m__us_usc_t42_s8374.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8373)
 
 ----------
 ----------

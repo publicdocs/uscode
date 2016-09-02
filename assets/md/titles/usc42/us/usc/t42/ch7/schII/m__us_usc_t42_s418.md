@@ -865,7 +865,7 @@
 
 >     “(3) no refunds of such amounts paid in lieu of taxes have been obtained,
 
->         the amount of the remuneration for such services with respect to which such amounts have been paid shall be deemed to constitute remuneration for employment as defined in section 209 of the Social Security Act \[[42 U.S.C. 409][/us/usc/t42/s409]\].”
+>     the amount of the remuneration for such services with respect to which such amounts have been paid shall be deemed to constitute remuneration for employment as defined in section 209 of the Social Security Act \[[42 U.S.C. 409][/us/usc/t42/s409]\].”
 
  __Validation of Coverage for Certain Employees of an Integral Unit of a Political Subdivision of Alaska__ 
 

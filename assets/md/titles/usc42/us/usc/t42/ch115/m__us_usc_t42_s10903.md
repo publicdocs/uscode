@@ -15,7 +15,7 @@
 
 ## § 10903. Definitions
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (1) the term “eligible individual” means a candidate for the Child Development Associate credential whose income does not exceed the  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The word “the” probably should not appear. </sup></sup>  130 percent of the lower living standard income level, <sup>\[2\]</sup>  <sup><sup> 2 So in original. The comma probably should not appear. </sup></sup>  by more than 50 percent;
 

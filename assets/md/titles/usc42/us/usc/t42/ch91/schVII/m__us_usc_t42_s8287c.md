@@ -15,7 +15,7 @@
 
 ## § 8287c. Definitions
 
-For purposes of this subchapter, the following definitions apply:
+    For purposes of this subchapter, the following definitions apply:
 
     (1) The term “Federal agency” means each authority of the Government of the United States, whether or not it is within or subject to review by another agency.
 

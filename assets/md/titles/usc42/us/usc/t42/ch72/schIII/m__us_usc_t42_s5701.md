@@ -15,7 +15,7 @@
 
 ## § 5701. Findings
 
-The Congress finds that—
+    The Congress finds that—
 
     (1) youth who have become homeless or who leave and remain away from home without parental permission, are at risk of developing, and have a disproportionate share of, serious health, behavioral, and emotional problems because they lack sufficient resources to obtain care and may live on the street for extended periods thereby endangering themselves and creating a substantial law enforcement problem for communities in which they congregate;
 

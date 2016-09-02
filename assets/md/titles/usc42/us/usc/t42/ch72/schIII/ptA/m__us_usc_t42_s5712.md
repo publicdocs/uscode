@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch72/schIII/ptA/m__us_usc_t42_s5711.md) | [Next](./../../../../../..//us/usc/t42/ch72/schIII/ptA/m__us_usc_t42_s5712a to 5712c.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5712)
+[Previous](./../../../../../..//us/usc/t42/ch72/schIII/ptA/m__us_usc_t42_s5711.md) | [Next](./../../../../../..//us/usc/t42/ch72/schIII/ptA/m__us_usc_t42_s5712d.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5712)
 
 ## § 5712. Eligibility; plan requirements
 
@@ -207,9 +207,17 @@
 
     Amendment by [Pub. L. 95–115][/us/pl/95/115] effective Oct. 1, 1977, see [section 263(c) of Pub. L. 93–415][/us/pl/93/415/s263/c], as added by [Pub. L. 95–115][/us/pl/95/115], set out as a note under [section 5601 of this title][/us/usc/t42/s5601].
 
+§§ 5712a to 5712c. __Repealed.__  __[__  __Pub. L. 102–586, § 3(g)(2)(A)__  __][/us/pl/102/586/s3/g/2/A]__  __–(C),__  __Nov. 4, 1992__  __,__  __[__  __106 Stat. 5025__  __][/us/stat/106/5025]__ 
+
+    Section 5712a, [Pub. L. 93–415, title III, § 313][/us/pl/93/415/s313], as added [Pub. L. 100–690, title VII, § 7275(b)][/us/pl/100/690/s7275/b], Nov. 18, 1988, [102 Stat. 4457][/us/stat/102/4457], related to grants for a national communication system to assist runaway and homeless youth. See [section 5714–11 of this title][/us/usc/t42/s5714–11].
+
+    Section 5712b, [Pub. L. 93–415, title III, § 314][/us/pl/93/415/s314], as added [Pub. L. 100–690, title VII, § 7276][/us/pl/100/690/s7276], Nov. 18, 1988, [102 Stat. 4457][/us/stat/102/4457], related to grants for technical assistance and training to public and private entities for establishment and operation of runaway and homeless youth centers.
+
+    Section 5712c, [Pub. L. 93–415, title III, § 315][/us/pl/93/415/s315], as added [Pub. L. 100–690, title VII, § 7277][/us/pl/100/690/s7277], Nov. 18, 1988, [102 Stat. 4457][/us/stat/102/4457], related to authority of the Secretary to make grants for research, demonstration, and service projects.
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch72/schIII/ptA/m__us_usc_t42_s5711.md) | [Next](./../../../../../..//us/usc/t42/ch72/schIII/ptA/m__us_usc_t42_s5712a to 5712c.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5712)
+[Previous](./../../../../../..//us/usc/t42/ch72/schIII/ptA/m__us_usc_t42_s5711.md) | [Next](./../../../../../..//us/usc/t42/ch72/schIII/ptA/m__us_usc_t42_s5712d.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5712)
 
 ----------
 ----------
@@ -287,5 +295,17 @@
 [/us/pl/93/415/s263/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs263%2Fc
 [/us/pl/95/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F115
 [/us/usc/t42/s5601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5601
+[/us/pl/102/586/s3/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs3%2Fg%2F2%2FA
+[/us/stat/106/5025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5025
+[/us/pl/93/415/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs313
+[/us/pl/100/690/s7275/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7275%2Fb
+[/us/stat/102/4457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4457
+[/us/usc/t42/s5714–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5714%E2%80%9311
+[/us/pl/93/415/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs314
+[/us/pl/100/690/s7276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7276
+[/us/stat/102/4457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4457
+[/us/pl/93/415/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F415%2Fs315
+[/us/pl/100/690/s7277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7277
+[/us/stat/102/4457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4457
 
 

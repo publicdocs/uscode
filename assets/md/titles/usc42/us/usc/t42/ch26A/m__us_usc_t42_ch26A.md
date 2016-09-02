@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch26/schIII/m__us_usc_t42_s2481 to 2484.md) | [Next](./../../../..//us/usc/t42/ch26A/m__us_usc_t42_s2486.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch26A)
+[Previous](./../../../..//us/usc/t42/ch26/schIII/m__us_usc_t42_ch26_schIII.md) | [Next](./../../../..//us/usc/t42/ch26A/m__us_usc_t42_s2486.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch26A)
 
 ## CHAPTER 26A—NATIONAL SPACE GRANT COLLEGE AND FELLOWSHIP PROGRAM
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch26/schIII/m__us_usc_t42_s2481 to 2484.md) | [Next](./../../../..//us/usc/t42/ch26A/m__us_usc_t42_s2486.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch26A)
+[Previous](./../../../..//us/usc/t42/ch26/schIII/m__us_usc_t42_ch26_schIII.md) | [Next](./../../../..//us/usc/t42/ch26A/m__us_usc_t42_s2486.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch26A)
 
 ----------
 ----------

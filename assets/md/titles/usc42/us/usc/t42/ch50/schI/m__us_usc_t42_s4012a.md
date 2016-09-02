@@ -283,7 +283,7 @@
 
  __Amendment of Subsection (d)(1)__ 
 
-[Pub. L. 112–141, div. F, title II, § 100209][/us/pl/112/141/s100209], July 6, 2012, [126 Stat. 920][/us/stat/126/920], as amended by [Pub. L. 112–281, § 1][/us/pl/112/281/s1], Jan. 14, 2013, [126 Stat. 2485][/us/stat/126/2485], provided that, applicable to any mortgage outstanding or entered into on or after the expiration of the 2-year period beginning on July 6, 2012, subsection (d) of this section is amended to read as follows:
+    [Pub. L. 112–141, div. F, title II, § 100209][/us/pl/112/141/s100209], July 6, 2012, [126 Stat. 920][/us/stat/126/920], as amended by [Pub. L. 112–281, § 1][/us/pl/112/281/s1], Jan. 14, 2013, [126 Stat. 2485][/us/stat/126/2485], provided that, applicable to any mortgage outstanding or entered into on or after the expiration of the 2-year period beginning on July 6, 2012, subsection (d) of this section is amended to read as follows:
 
     (1) Regulated lending institutions
 
@@ -303,7 +303,7 @@
 
     (II) did not have a policy of consistently and uniformly requiring the deposit of taxes, insurance premiums, fees, or any other charges in an escrow account for loans secured by residential improved real estate or a mobile home.
 
-See 2012 Amendment note below.
+    See 2012 Amendment note below.
 
  __References in Text__ 
 

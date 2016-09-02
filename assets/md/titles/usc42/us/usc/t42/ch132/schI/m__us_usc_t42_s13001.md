@@ -15,7 +15,7 @@
 
 ## § 13001. Findings
 
-The Congress finds that—
+    The Congress finds that—
 
     (1) over 2,000,000 reports of suspected child abuse and neglect are made each year, and drug abuse is associated with a significant portion of these;
 

@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch8A/schII/ptB/m__us_usc_t42_s1469 to 1469c.md) | [Next](./../../../../..//us/usc/t42/ch8A/schIII/m__us_usc_t42_s1471.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch8A%2FschIII)
+[Previous](./../../../../..//us/usc/t42/ch8A/schII/ptB/m__us_usc_t42_ch8A_schII_ptB.md) | [Next](./../../../../..//us/usc/t42/ch8A/schIII/m__us_usc_t42_s1471.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch8A%2FschIII)
 
 ### SUBCHAPTER III—FARM HOUSING
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch8A/schII/ptB/m__us_usc_t42_s1469 to 1469c.md) | [Next](./../../../../..//us/usc/t42/ch8A/schIII/m__us_usc_t42_s1471.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch8A%2FschIII)
+[Previous](./../../../../..//us/usc/t42/ch8A/schII/ptB/m__us_usc_t42_ch8A_schII_ptB.md) | [Next](./../../../../..//us/usc/t42/ch8A/schIII/m__us_usc_t42_s1471.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch8A%2FschIII)
 
 ----------
 ----------

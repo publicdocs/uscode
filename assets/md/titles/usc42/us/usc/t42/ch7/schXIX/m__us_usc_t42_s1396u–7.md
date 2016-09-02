@@ -231,7 +231,7 @@
 
  __Amendment of Subsection (a)(2)(B)(viii)__ 
 
-[Pub. L. 111–148, title II, § 2004(c)(2)][/us/pl/111/148/s2004/c/2], (d), title X, § 10201(a)(3), Mar. 23, 2010, [124 Stat. 283][/us/stat/124/283], 918, provided that, effective Jan. 1, 2014, subsection (a)(2)(B)(viii) of this section is amended by inserting “, or the individual qualifies for medical assistance on the basis of [section 1396a(a)(10)(A)(i)(IX) of this title][/us/usc/t42/s1396a/a/10/A/i/IX]” before the period. See 2010 Amendment note below.
+    [Pub. L. 111–148, title II, § 2004(c)(2)][/us/pl/111/148/s2004/c/2], (d), title X, § 10201(a)(3), Mar. 23, 2010, [124 Stat. 283][/us/stat/124/283], 918, provided that, effective Jan. 1, 2014, subsection (a)(2)(B)(viii) of this section is amended by inserting “, or the individual qualifies for medical assistance on the basis of [section 1396a(a)(10)(A)(i)(IX) of this title][/us/usc/t42/s1396a/a/10/A/i/IX]” before the period. See 2010 Amendment note below.
 
  __Prior Provisions__ 
 

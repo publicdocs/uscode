@@ -69,33 +69,33 @@
 
  __Amendment of Section__ 
 
-[Pub. L. 111–148, title II, § 2003][/us/pl/111/148/s2003], title X, § 10203(b)(2)(B), Mar. 23, 2010, [124 Stat. 282][/us/stat/124/282], 927, provided that, effective Jan. 1, 2014, this section is amended:
+    [Pub. L. 111–148, title II, § 2003][/us/pl/111/148/s2003], title X, § 10203(b)(2)(B), Mar. 23, 2010, [124 Stat. 282][/us/stat/124/282], 927, provided that, effective Jan. 1, 2014, this section is amended:
 
-(1) in the section catchline, by striking “option for children”;
+    (1) in the section catchline, by striking “option for children”;
 
-(2) in subsection (a)—
+    (2) in subsection (a)—
 
-(A) \[Omitted\]
+    (A) \[Omitted\]
 
-(B) by striking “under age 19”; and
+    (B) by striking “under age 19”; and
 
-(C) by inserting “, in the case of an individual under age 19,” after “(and”;
+    (C) by inserting “, in the case of an individual under age 19,” after “(and”;
 
-(3) in subsection (c), in the first sentence, by striking “under age 19”; and
+    (3) in subsection (c), in the first sentence, by striking “under age 19”; and
 
-(4) in subsection (d)—
+    (4) in subsection (d)—
 
-(A) in paragraph (2)—
+    (A) in paragraph (2)—
 
-(i) in the first sentence, by striking “under age 19”; and
+    (i) in the first sentence, by striking “under age 19”; and
 
-(ii) by striking the third sentence and inserting “A State may not require, as a condition of an individual (or the individual’s parent) being or remaining eligible for medical assistance under this subchapter, that the individual (or the individual’s parent) apply for enrollment in qualified employer-sponsored coverage under this section.”; and
+    (ii) by striking the third sentence and inserting “A State may not require, as a condition of an individual (or the individual’s parent) being or remaining eligible for medical assistance under this subchapter, that the individual (or the individual’s parent) apply for enrollment in qualified employer-sponsored coverage under this section.”; and
 
-(B) in paragraph (3), by striking “the parent of an individual under age 19” and inserting “an individual (or the parent of an individual)”; and
+    (B) in paragraph (3), by striking “the parent of an individual under age 19” and inserting “an individual (or the parent of an individual)”; and
 
-(5) in subsection (e), by striking “under age 19” each place it appears.
+    (5) in subsection (e), by striking “under age 19” each place it appears.
 
-See 2010 Amendment notes below.
+    See 2010 Amendment notes below.
 
  __References in Text__ 
 

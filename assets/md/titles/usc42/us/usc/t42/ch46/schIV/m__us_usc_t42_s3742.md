@@ -15,7 +15,7 @@
 
 ## § 3742. Duties and functions of Director
 
-The Director shall have the following duties:
+    The Director shall have the following duties:
 
     (1) Providing funds to eligible States, units of local government, and nonprofit organizations pursuant to subchapters V and XII–B of this chapter.
 

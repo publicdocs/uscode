@@ -15,7 +15,7 @@
 
 ## § 16395. Relationship to other laws
 
-Except as otherwise provided in this Act or an amendment made by this Act, the Secretary shall carry out the research, development, demonstration, and commercial application programs, projects, and activities authorized by this Act or an amendment made by this Act in accordance with the applicable provisions of—
+    Except as otherwise provided in this Act or an amendment made by this Act, the Secretary shall carry out the research, development, demonstration, and commercial application programs, projects, and activities authorized by this Act or an amendment made by this Act in accordance with the applicable provisions of—
 
     (1) the Atomic Energy Act of 1954 ([42 U.S.C. 2011][/us/usc/t42/s2011] et seq.);
 

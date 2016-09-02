@@ -15,7 +15,7 @@
 
 ## § 4726. Coordination of Federal programs
 
-The Office, after consultation with other agencies concerned, shall—
+    The Office, after consultation with other agencies concerned, shall—
 
     (1) coordinate the personnel administration support and technical assistance given to State and local governments and the support given State programs or projects to strengthen local government personnel administration, including the furnishing of needed personnel administration services and technical assistance, under authority of this chapter with any such support given under other Federal programs; and
 

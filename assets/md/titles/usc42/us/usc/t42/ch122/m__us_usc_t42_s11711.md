@@ -15,7 +15,7 @@
 
 ## § 11711. Definitions
 
-For purposes of this chapter:
+    For purposes of this chapter:
 
     (1) __Disease prevention__ 
 

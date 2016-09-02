@@ -15,7 +15,7 @@
 
 ## § 6862. Definitions
 
-As used in this part:
+    As used in this part:
 
     (1) The term “Secretary” means the Secretary of Energy.
 

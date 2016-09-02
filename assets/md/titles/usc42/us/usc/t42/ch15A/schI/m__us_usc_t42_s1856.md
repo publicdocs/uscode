@@ -15,7 +15,7 @@
 
 ## § 1856. Definitions
 
-As used in this subchapter—
+    As used in this subchapter—
 
     (a) The term “agency head” means the head of any executive department, military department, agency, or independent establishment in the executive branch of the Government;
 

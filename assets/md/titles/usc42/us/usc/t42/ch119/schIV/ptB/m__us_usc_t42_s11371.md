@@ -15,7 +15,7 @@
 
 ## § 11371. Definitions
 
-For purposes of this part:
+    For purposes of this part:
 
     (1) The term “local government” means a unit of general purpose local government.
 

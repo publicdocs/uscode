@@ -15,7 +15,7 @@
 
 ## § 5116g. National network for community-based family resource programs
 
-The Secretary may allocate such sums as may be necessary from the amount provided under the State allotment to support the activities of the lead entity in the State—
+    The Secretary may allocate such sums as may be necessary from the amount provided under the State allotment to support the activities of the lead entity in the State—
 
     (1) to create, operate, and maintain a peer review process;
 

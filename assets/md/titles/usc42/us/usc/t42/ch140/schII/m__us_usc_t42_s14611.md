@@ -15,7 +15,7 @@
 
 ## § 14611. Findings
 
-Congress finds that—
+    Congress finds that—
 
     (1) both the Federal Bureau of Investigation and State criminal history record repositories maintain fingerprint-based criminal history records;
 

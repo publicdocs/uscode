@@ -15,7 +15,7 @@
 
 ## § 1973gg–1. Definitions
 
-As used in this subchapter—
+    As used in this subchapter—
 
     (1) the term “election” has the meaning stated in [section 431(1) of title 2][/us/usc/t2/s431/1];
 

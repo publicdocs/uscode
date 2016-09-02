@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch9/schVI/m__us_usc_t42_s1575, 1576.md) | [Next](./../../../../..//us/usc/t42/ch9/schVII/m__us_usc_t42_s1581.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch9%2FschVII)
+[Previous](./../../../../..//us/usc/t42/ch9/schVI/m__us_usc_t42_s1574.md) | [Next](./../../../../..//us/usc/t42/ch9/schVII/m__us_usc_t42_s1581.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch9%2FschVII)
 
 ### SUBCHAPTER VII—DISPOSAL OF WAR AND VETERANS’ HOUSING
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch9/schVI/m__us_usc_t42_s1575, 1576.md) | [Next](./../../../../..//us/usc/t42/ch9/schVII/m__us_usc_t42_s1581.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch9%2FschVII)
+[Previous](./../../../../..//us/usc/t42/ch9/schVI/m__us_usc_t42_s1574.md) | [Next](./../../../../..//us/usc/t42/ch9/schVII/m__us_usc_t42_s1581.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch9%2FschVII)
 
 ----------
 ----------

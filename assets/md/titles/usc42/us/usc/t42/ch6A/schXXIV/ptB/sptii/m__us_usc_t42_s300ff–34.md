@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t42/ch6A/schXXIV/ptB/sptii/m__us_usc_t42_s300ff–33.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schXXIV/ptB/sptii/m__us_usc_t42_s300ff–35, 300ff–36.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9334)
+[Previous](./../../../../../../..//us/usc/t42/ch6A/schXXIV/ptB/sptii/m__us_usc_t42_s300ff–33.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schXXIV/ptB/sptii/m__us_usc_t42_s300ff–37.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9334)
 
 ## § 300ff–34. Perinatal transmission of HIV/AIDS; contingent requirement regarding State grants under this part
 
@@ -63,9 +63,15 @@
 
     Section effective May 20, 1996, see [section 13(b) of Pub. L. 104–146][/us/pl/104/146/s13/b], set out as an Effective Date of 1996 Amendment note under [section 300ff–11 of this title][/us/usc/t42/s300ff–11].
 
+§§ 300ff–35, 300ff–36. __Repealed.__  __[__  __Pub. L. 106–345, title II, § 211(2)__  __][/us/pl/106/345/s211/2]__  __,__  __Oct. 20, 2000__  __,__  __[__  __114 Stat. 1339__  __][/us/stat/114/1339]__ 
+
+    Section 300ff–35, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2627, as added [Pub. L. 104–146, § 7(b)(3)][/us/pl/104/146/s7/b/3], May 20, 1996, [110 Stat. 1371][/us/stat/110/1371], related to testing of pregnant women and newborn infants for HIV disease.
+
+    Section 300ff–36, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVI, § 2628, as added [Pub. L. 104–146, § 7(b)(3)][/us/pl/104/146/s7/b/3], May 20, 1996, [110 Stat. 1372][/us/stat/110/1372], related to report to Congress by Institute of Medicine.
+
 ----------
 
-[Previous](./../../../../../../..//us/usc/t42/ch6A/schXXIV/ptB/sptii/m__us_usc_t42_s300ff–33.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schXXIV/ptB/sptii/m__us_usc_t42_s300ff–35, 300ff–36.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9334)
+[Previous](./../../../../../../..//us/usc/t42/ch6A/schXXIV/ptB/sptii/m__us_usc_t42_s300ff–33.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schXXIV/ptB/sptii/m__us_usc_t42_s300ff–37.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9334)
 
 ----------
 ----------
@@ -95,5 +101,13 @@
 [/us/usc/t42/s300ff–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9311
 [/us/pl/104/146/s13/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs13%2Fb
 [/us/usc/t42/s300ff–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9311
+[/us/pl/106/345/s211/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F345%2Fs211%2F2
+[/us/stat/114/1339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1339
+[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
+[/us/pl/104/146/s7/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs7%2Fb%2F3
+[/us/stat/110/1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1371
+[/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
+[/us/pl/104/146/s7/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F146%2Fs7%2Fb%2F3
+[/us/stat/110/1372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1372
 
 

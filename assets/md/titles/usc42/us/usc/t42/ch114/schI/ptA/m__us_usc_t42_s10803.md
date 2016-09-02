@@ -15,7 +15,7 @@
 
 ## § 10803. Allotments
 
-The Secretary shall make allotments under this subchapter to eligible systems to establish and administer systems—
+    The Secretary shall make allotments under this subchapter to eligible systems to establish and administer systems—
 
     (1) which meet the requirements of [section 10805 of this title][/us/usc/t42/s10805]; and
 

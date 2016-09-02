@@ -301,7 +301,7 @@
 
  __Amendment of Section__ 
 
-For delayed effective date of amendment and renumbering by [section 1201(2) of Pub. L. 111–148][/us/pl/111/148/s1201/2], see Effective Date of 2010 Amendment note below.
+    For delayed effective date of amendment and renumbering by [section 1201(2) of Pub. L. 111–148][/us/pl/111/148/s1201/2], see Effective Date of 2010 Amendment note below.
 
  __References in Text__ 
 

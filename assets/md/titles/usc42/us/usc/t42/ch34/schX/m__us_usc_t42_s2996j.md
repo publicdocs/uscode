@@ -15,7 +15,7 @@
 
 ## § 2996j. Special limitations
 
-The Corporation shall prescribe procedures to insure that—
+    The Corporation shall prescribe procedures to insure that—
 
     (1) financial assistance under this subchapter shall not be suspended unless the grantee, contractor, or person or entity receiving financial assistance under this subchapter has been given reasonable notice and opportunity to show cause why such action should not be taken; and
 

@@ -15,7 +15,7 @@
 
 ## § 300d–31. Definitions
 
-For purposes of this part and parts A and B of this subchapter:
+    For purposes of this part and parts A and B of this subchapter:
 
     (1) __Designated trauma center__ 
 

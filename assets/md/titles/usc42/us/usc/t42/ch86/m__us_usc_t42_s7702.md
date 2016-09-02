@@ -15,7 +15,7 @@
 
 ## § 7702. Congressional statement of purpose
 
-It is the purpose of the Congress in this chapter to reduce the risks of life and property from future earthquakes in the United States through the establishment and maintenance of an effective earthquake hazards reduction program. The objectives of such program shall include—
+    It is the purpose of the Congress in this chapter to reduce the risks of life and property from future earthquakes in the United States through the establishment and maintenance of an effective earthquake hazards reduction program. The objectives of such program shall include—
 
     (1) the education of the public, including State and local officials, as to earthquake phenomena, the identification of locations and structures which are especially susceptible to earthquake damage, ways to reduce the adverse consequences of an earthquake, and related matters;
 

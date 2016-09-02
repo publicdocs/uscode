@@ -15,11 +15,11 @@
 
 ## § 13882. Definitions
 
-In this part—
+    In this part—
 
-“child” means a person who is less than 7 years of age.
+    “child” means a person who is less than 7 years of age.
 
-“community correctional facility” means a residential facility that—
+    “community correctional facility” means a residential facility that—
 
     (A) is used only for eligible offenders and their children under 7 years of age;
 
@@ -27,59 +27,51 @@ In this part—
 
     (C) houses no more than 50 prisoners in addition to their children; and
 
-    (D)
+    (D) provides to inmates and their children—
 
-     provides to inmates and their children—
+    (i) a safe, stable, environment for children;
 
-        (i) a safe, stable, environment for children;
+    (ii) pediatric and adult medical care consistent with medical standards for correctional facilities;
 
-        (ii) pediatric and adult medical care consistent with medical standards for correctional facilities;
+    (iii) programs to improve the stability of the parent-child relationship, including educating parents regarding—
 
-        (iii)
+    (I) child development; and
 
-         programs to improve the stability of the parent-child relationship, including educating parents regarding—
+    (II) household management;
 
-            (I) child development; and
+    (iv) alcoholism and drug addiction treatment for prisoners; and
 
-            (II) household management;
+    (v) programs and support services to help inmates—
 
-        (iv) alcoholism and drug addiction treatment for prisoners; and
+    (I) to improve and maintain mental and physical health, including access to counseling;
 
-        (v)
+    (II) to obtain adequate housing upon release from State incarceration;
 
-         programs and support services to help inmates—
+    (III) to obtain suitable education, employment, or training for employment; and
 
-            (I) to improve and maintain mental and physical health, including access to counseling;
+    (IV) to obtain suitable child care.
 
-            (II) to obtain adequate housing upon release from State incarceration;
+    “eligible offender” means a primary caretaker parent who—
 
-            (III) to obtain suitable education, employment, or training for employment; and
+    (A) has been sentenced to a term of imprisonment of not more than 7 years or is awaiting sentencing for a conviction punishable by such a term of imprisonment; and
 
-            (IV) to obtain suitable child care.
+    (B) has not engaged in conduct that—
 
-        “eligible offender” means a primary caretaker parent who—
+    (i) knowingly resulted in death or serious bodily injury;
 
-        (A) has been sentenced to a term of imprisonment of not more than 7 years or is awaiting sentencing for a conviction punishable by such a term of imprisonment; and
+    (ii) is a felony for a crime of violence against a person; or
 
-        (B)
+    (iii) constitutes child neglect or mental, physical, or sexual abuse of a child.
 
-         has not engaged in conduct that—
+    “primary caretaker parent” means—
 
-            (i) knowingly resulted in death or serious bodily injury;
+    (A) a parent who has consistently assumed responsibility for the housing, health, and safety of a child prior to incarceration; or
 
-            (ii) is a felony for a crime of violence against a person; or
+    (B) a woman who has given birth to a child after or while awaiting her sentencing hearing and who expresses a willingness to assume responsibility for the housing, health, and safety of that child,
 
-            (iii) constitutes child neglect or mental, physical, or sexual abuse of a child.
+    a parent who, in the best interest of a child, has arranged for the temporary care of the child in the home of a relative or other responsible adult shall not for that reason be excluded from the category “primary caretaker”.
 
-        “primary caretaker parent” means—
-
-        (A) a parent who has consistently assumed responsibility for the housing, health, and safety of a child prior to incarceration; or
-
-        (B) a woman who has given birth to a child after or while awaiting her sentencing hearing and who expresses a willingness to assume responsibility for the housing, health, and safety of that child,
-
-        a parent who, in the best interest of a child, has arranged for the temporary care of the child in the home of a relative or other responsible adult shall not for that reason be excluded from the category “primary caretaker”.
-
-        “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands.
+    “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands.
 
 ([Pub. L. 103–322, title III, § 31903][/us/pl/103/322/s31903], Sept. 13, 1994, [108 Stat. 1893][/us/stat/108/1893].)
 

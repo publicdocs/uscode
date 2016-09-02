@@ -15,7 +15,7 @@
 
 ## § 8273. Purpose of program
 
-The purpose of the program established by [section 8272 of this title][/us/usc/t42/s8272] is to—
+    The purpose of the program established by [section 8272 of this title][/us/usc/t42/s8272] is to—
 
     (1) accelerate the growth of a commercially viable and competitive industry to make photovoltaic solar electric systems available to the general public as an option in order to reduce national consumption of fossil fuel;
 

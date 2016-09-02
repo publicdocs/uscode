@@ -43,13 +43,15 @@
 
         (1)
 
-            (A) Except as provided in paragraph (2), if an individual breaches his written contract by failing (for any reason not specified in subsection (a) of this section or [section 254p(d) of this title][/us/usc/t42/s254p/d]) to begin such individual’s service obligation under section 254l of this title in accordance with section 254m or 254n of this title, to complete such service obligation, or to complete a required residency as specified in section 254l(f)(1)(B)(iv) of this title, the United States shall be entitled to recover from the individual an amount determined in accordance with the formula         t−s
+            (A) Except as provided in paragraph (2), if an individual breaches his written contract by failing (for any reason not specified in subsection (a) of this section or [section 254p(d) of this title][/us/usc/t42/s254p/d]) to begin such individual’s service obligation under section 254l of this title in accordance with section 254m or 254n of this title, to complete such service obligation, or to complete a required residency as specified in section 254l(f)(1)(B)(iv) of this title, the United States shall be entitled to recover from the individual an amount determined in accordance with the formula
 
-                A=3ϕ  A——B
+             t−s
 
-                    t
+        A=3ϕ  A——B
 
-                in which “A” is the amount the United States is entitled to recover, “ϕ” is the sum of the amounts paid under this subpart to or on behalf of the individual and the interest on such amounts which would be payable if at the time the amounts were paid they were loans bearing interest at the maximum legal prevailing rate, as determined by the Treasurer of the United States; “t” is the total number of months in the individual’s period of obligated service; and “s” is the number of months of such period served by him in accordance with [section 254m of this title][/us/usc/t42/s254m] or a written agreement under [section 254n of this title][/us/usc/t42/s254n].
+            t
+
+            in which “A” is the amount the United States is entitled to recover, “ϕ” is the sum of the amounts paid under this subpart to or on behalf of the individual and the interest on such amounts which would be payable if at the time the amounts were paid they were loans bearing interest at the maximum legal prevailing rate, as determined by the Treasurer of the United States; “t” is the total number of months in the individual’s period of obligated service; and “s” is the number of months of such period served by him in accordance with [section 254m of this title][/us/usc/t42/s254m] or a written agreement under [section 254n of this title][/us/usc/t42/s254n].
 
             (B)
 

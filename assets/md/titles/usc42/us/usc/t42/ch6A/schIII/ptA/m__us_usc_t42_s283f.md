@@ -15,7 +15,7 @@
 
 ## § 283f. Requirements regarding surveys of sexual behavior
 
-With respect to any survey of human sexual behavior proposed to be conducted or supported through the National Institutes of Health, the survey may not be carried out unless—
+    With respect to any survey of human sexual behavior proposed to be conducted or supported through the National Institutes of Health, the survey may not be carried out unless—
 
     (1) the proposal has undergone review in accordance with any applicable requirements of sections 289 and 289a of this title; and
 

@@ -15,21 +15,19 @@
 
 ## § 1962a–3. Review of river basin commission plans; report to President and Congress
 
-Upon receipt of a plan or revision thereof from any river basin commission under the provisions of [section 1962b–3(3) of this title][/us/usc/t42/s1962b–3/3], the Council shall review the plan or revision with special regard to—
+    Upon receipt of a plan or revision thereof from any river basin commission under the provisions of [section 1962b–3(3) of this title][/us/usc/t42/s1962b–3/3], the Council shall review the plan or revision with special regard to—
 
     (1) the efficacy of such plan or revision in achieving optimum use of the water and related land resources in the area involved;
 
     (2) the effect of the plan on the achievement of other programs for the development of agricultural, urban, energy, industrial, recreational, fish and wildlife, and other resources of the entire Nation; and
 
-    (3)
+    (3) the contributions which such plan or revision will make in obtaining the Nation’s economic and social goals.
 
-     the contributions which such plan or revision will make in obtaining the Nation’s economic and social goals.
+    Based on such review the Council shall—
 
-        Based on such review the Council shall—
+    (a) formulate such recommendations as it deems desirable in the national interest; and
 
-        (a) formulate such recommendations as it deems desirable in the national interest; and
-
-        (b) transmit its recommendations, together with the plan or revision of the river basin commission and the views, comments, and recommendations with respect to such plan or revision submitted by any Federal agency, Governor, interstate commission, or United States section of an international commission, to the President for his review and transmittal to the Congress with his recommendations in regard to authorization of Federal projects.
+    (b) transmit its recommendations, together with the plan or revision of the river basin commission and the views, comments, and recommendations with respect to such plan or revision submitted by any Federal agency, Governor, interstate commission, or United States section of an international commission, to the President for his review and transmittal to the Congress with his recommendations in regard to authorization of Federal projects.
 
 ([Pub. L. 89–80, title I, § 104][/us/pl/89/80/s104], July 22, 1965, [79 Stat. 245][/us/stat/79/245].)
 

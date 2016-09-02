@@ -15,7 +15,7 @@
 
 ## § 621. Purpose
 
-The purpose of this subpart is to promote State flexibility in the development and expansion of a coordinated child and family services program that utilizes community-based agencies and ensures all children are raised in safe, loving families, by—
+    The purpose of this subpart is to promote State flexibility in the development and expansion of a coordinated child and family services program that utilizes community-based agencies and ensures all children are raised in safe, loving families, by—
 
     (1) protecting and promoting the welfare of all children;
 

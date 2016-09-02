@@ -15,7 +15,7 @@
 
 ## § 15801. Definitions
 
-Except as otherwise provided, in this Act:
+    Except as otherwise provided, in this Act:
 
     (1) __Department__ 
 

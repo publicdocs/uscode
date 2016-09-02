@@ -15,7 +15,7 @@
 
 ## § 248. Control and management of hospitals; furnishing prosthetic and orthopedic devices; transfer of patients; disposal of articles produced by patients; disposal of money and effects of deceased patients; payment of burial expenses
 
-The Surgeon General, pursuant to regulations, shall—
+    The Surgeon General, pursuant to regulations, shall—
 
     (a) Control, manage, and operate all institutions, hospitals, and stations of the Service, including minor repairs and maintenance, and provide for the care, treatment, and hospitalization of patients, including the furnishing of prosthetic and orthopedic devices; and from time to time, with the approval of the President, select suitable sites for and establish such additional institutions, hospitals, and stations in the States and possessions of the United States as in his judgment are necessary to enable the Service to discharge its functions and duties;
 

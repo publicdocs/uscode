@@ -171,7 +171,11 @@
 
 >                 “(iii) The average length of stay of children in foster care.
 
->                 “(iv) With respect to each child under the jurisdiction of the court—         “(I) the number of episodes of placement in foster care;
+>                 “(iv)
+
+>                  With respect to each child under the jurisdiction of the court—
+
+>                          “(I) the number of episodes of placement in foster care;
 
 >                          “(II) the number of days placed in foster care and the type of placement (foster family home, group home, or special residential care facility);
 
@@ -185,7 +189,11 @@
 
 >                 “(vii) The number of child abuse and neglect proceedings closed that had been pending for 2 or more years.
 
->                 “(viii) With respect to each proceeding conducted by, or under the supervision of, an abuse and neglect court—         “(I) the timeliness of each stage of the proceeding from initial filing through legal finalization of a permanency plan (for both contested and uncontested hearings);
+>                 “(viii)
+
+>                  With respect to each proceeding conducted by, or under the supervision of, an abuse and neglect court—
+
+>                          “(I) the timeliness of each stage of the proceeding from initial filing through legal finalization of a permanency plan (for both contested and uncontested hearings);
 
 >                          “(II) the number of adjournments, delays, and continuances occurring during the proceeding, including identification of the party requesting each adjournment, delay, or continuance and the reasons given for the request;
 

@@ -991,9 +991,9 @@
 
 >     The Comptroller General of the United States shall conduct a study to determine the feasibility and advisability of updating the payment rates and the cap amount determined with respect to a fiscal year under section 1814(i) of the Social Security Act ([42 U.S.C. 1395f(i)][/us/usc/t42/s1395f/i]) for routine home care and other services included in hospice care. Such study shall examine the cost factors used to determine such rates and such amount and shall evaluate whether such factors should be modified, eliminated, or supplemented with additional cost factors.
 
->     “(b) __Report.—__ 
+>     “(b) __Report.__ 
 
->     Not later than one year after the date of enactment of this Act \[Nov. 29, 1999\], the Comptroller General of the United States shall submit to Congress a report on the study conducted under subsection (a), together with any recommendations for legislation that the Comptroller General determines to be appropriate as a result of such study.”
+>     —Not later than one year after the date of enactment of this Act \[Nov. 29, 1999\], the Comptroller General of the United States shall submit to Congress a report on the study conducted under subsection (a), together with any recommendations for legislation that the Comptroller General determines to be appropriate as a result of such study.”
 
  __Study of Methods To Compensate Hospices for High-Cost Care__ 
 

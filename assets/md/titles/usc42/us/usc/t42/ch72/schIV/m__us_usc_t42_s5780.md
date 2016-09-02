@@ -15,7 +15,7 @@
 
 ## § 5780. State requirements
 
-Each State reporting under the provisions of this section and [section 5779 of this title][/us/usc/t42/s5779] shall—
+    Each State reporting under the provisions of this section and [section 5779 of this title][/us/usc/t42/s5779] shall—
 
     (1) ensure that no law enforcement agency within the State establishes or maintains any policy that requires the observance of any waiting period before accepting a missing child or unidentified person report;
 

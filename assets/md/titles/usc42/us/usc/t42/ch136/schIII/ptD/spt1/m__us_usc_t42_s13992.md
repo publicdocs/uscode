@@ -15,7 +15,7 @@
 
 ## § 13992. Training provided by grants
 
-Training provided pursuant to grants made under this part may include current information, existing studies, or current data on—
+    Training provided pursuant to grants made under this part may include current information, existing studies, or current data on—
 
     (1) the nature and incidence of rape and sexual assault by strangers and nonstrangers, marital rape, and incest;
 

@@ -15,7 +15,7 @@
 
 ## § 3796ii. Grant authority
 
-The Attorney General shall make grants to States, State courts, local courts, units of local government, and Indian tribal governments, acting directly or through agreements with other public or nonprofit entities, for not more than 100 programs that involve—
+    The Attorney General shall make grants to States, State courts, local courts, units of local government, and Indian tribal governments, acting directly or through agreements with other public or nonprofit entities, for not more than 100 programs that involve—
 
     (1) continuing judicial supervision, including periodic review, over preliminarily qualified offenders with mental illness, mental retardation, or co-occurring mental illness and substance abuse disorders, who are charged with misdemeanors or nonviolent offenses; and
 

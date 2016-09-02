@@ -15,7 +15,7 @@
 
 ## § 2297h–4. Transfers to private corporation
 
-Concurrent with privatization, the Corporation shall transfer to the private corporation—
+    Concurrent with privatization, the Corporation shall transfer to the private corporation—
 
     (1) the lease of the gaseous diffusion plants in accordance with [section 2297h–5 of this title][/us/usc/t42/s2297h–5],
 

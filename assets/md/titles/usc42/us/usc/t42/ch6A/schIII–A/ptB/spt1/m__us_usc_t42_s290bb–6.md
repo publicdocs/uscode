@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t42/ch6A/schIII–A/ptB/spt1/m__us_usc_t42_s290bb–3 to 290bb–5.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schIII–A/ptB/spt1/m__us_usc_t42_s290bb–7.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290bb%E2%80%936)
+[Previous](./../../../../../../..//us/usc/t42/ch6A/schIII–A/ptB/spt1/m__us_usc_t42_s290bb–2a.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schIII–A/ptB/spt1/m__us_usc_t42_s290bb–7.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290bb%E2%80%936)
 
 ## § 290bb–6. Action by Center for Substance Abuse Treatment and States concerning military facilities
 
@@ -69,7 +69,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t42/ch6A/schIII–A/ptB/spt1/m__us_usc_t42_s290bb–3 to 290bb–5.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schIII–A/ptB/spt1/m__us_usc_t42_s290bb–7.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290bb%E2%80%936)
+[Previous](./../../../../../../..//us/usc/t42/ch6A/schIII–A/ptB/spt1/m__us_usc_t42_s290bb–2a.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schIII–A/ptB/spt1/m__us_usc_t42_s290bb–7.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290bb%E2%80%936)
 
 ----------
 ----------

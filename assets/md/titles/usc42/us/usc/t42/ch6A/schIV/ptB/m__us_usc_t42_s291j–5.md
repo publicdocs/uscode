@@ -15,7 +15,7 @@
 
 ## § 291j–5. Limitation on amounts of loans guaranteed or directly made
 
-The cumulative total of the principal of the loans outstanding at any time with respect to which guarantees have been issued, or which have been directly made, under this part may not exceed the lesser of—
+    The cumulative total of the principal of the loans outstanding at any time with respect to which guarantees have been issued, or which have been directly made, under this part may not exceed the lesser of—
 
     (1) such limitations as may be specified in appropriations Acts, or
 

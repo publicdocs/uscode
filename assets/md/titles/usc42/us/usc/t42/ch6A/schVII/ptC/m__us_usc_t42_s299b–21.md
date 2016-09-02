@@ -15,7 +15,7 @@
 
 ## § 299b–21. Definitions
 
-In this part:
+    In this part:
 
     (1) __HIPAA confidentiality regulations__ 
 

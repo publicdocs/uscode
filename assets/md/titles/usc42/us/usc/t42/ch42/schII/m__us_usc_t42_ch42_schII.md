@@ -11,16 +11,88 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch42/schI/m__us_usc_t42_s3402.md) | [Next](./../../../../..//us/usc/t42/ch42/schII/m__us_usc_t42_s3411 to 3426.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch42%2FschII)
+[Previous](./../../../../..//us/usc/t42/ch42/schI/m__us_usc_t42_s3402.md) | [Next](./../../../../..//us/usc/t42/ch42/schIII/m__us_usc_t42_ch42_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch42%2FschII)
 
 ### SUBCHAPTER II—CIVIL COMMITMENT OF PERSONS NOT CHARGED WITH ANY CRIMINAL OFFENSE
 
+§§ 3411 to 3426. __Repealed.__  __[__  __Pub. L. 106–310, div. B, title XXXIV, § 3405(b)__  __][/us/pl/106/310/s3405/b]__  __,__  __Oct. 17, 2000__  __,__  __[__  __114 Stat. 1221__  __][/us/stat/114/1221]__ 
+
+    Section 3411, [Pub. L. 89–793, title III, § 301][/us/pl/89/793/s301], Nov. 8, 1966, [80 Stat. 1444][/us/stat/80/1444]; [Pub. L. 91–513, title III, § 1102(p)][/us/pl/91/513/s1102/p], Oct. 27, 1970, [84 Stat. 1293][/us/stat/84/1293]; [Pub. L. 92–420, § 4][/us/pl/92/420/s4], Sept. 16, 1972, [86 Stat. 677][/us/stat/86/677], defined terms used in this subchapter.
+
+    Section 3412, [Pub. L. 89–793, title III, § 302][/us/pl/89/793/s302], Nov. 8, 1966, [80 Stat. 1444][/us/stat/80/1444], related to preliminary proceedings.
+
+    Section 3413, [Pub. L. 89–793, title III, § 303][/us/pl/89/793/s303], Nov. 8, 1966, [80 Stat. 1445][/us/stat/80/1445], related to judicial proceedings, advisement of patient, appointment of physicians, examination of patient, conduct and report of examination, and return of patient for further proceedings.
+
+    Section 3414, [Pub. L. 89–793, title III, § 304][/us/pl/89/793/s304], Nov. 8, 1966, [80 Stat. 1446][/us/stat/80/1446], related to hearings.
+
+    Section 3415, [Pub. L. 89–793, title III, § 305][/us/pl/89/793/s305], Nov. 8, 1966, [80 Stat. 1446][/us/stat/80/1446], related to order of commitment for treatment to care and custody of Surgeon General and reports of Surgeon General.
+
+    Section 3416, [Pub. L. 89–793, title III, § 306][/us/pl/89/793/s306], Nov. 8, 1966, [80 Stat. 1446][/us/stat/80/1446], related to period of commitment to care and custody of Surgeon General, patient subject to posthospitalization program, and release from confinement.
+
+    Section 3417, [Pub. L. 89–793, title III, § 307][/us/pl/89/793/s307], Nov. 8, 1966, [80 Stat. 1446][/us/stat/80/1446], related to release from confinement.
+
+    Section 3418, [Pub. L. 89–793, title III, § 308][/us/pl/89/793/s308], Nov. 8, 1966, [80 Stat. 1447][/us/stat/80/1447], related to petition for inquiry into health and general condition and necessity for continuation of confinement, order for release from confinement and return to court, and placing patient under posthospitalization treatment.
+
+    Section 3419, [Pub. L. 89–793, title III, § 309][/us/pl/89/793/s309], Nov. 8, 1966, [80 Stat. 1447][/us/stat/80/1447], related to criminal conviction or criminal appellation from determination of being narcotic addict and criminal proceedings prohibited from using information gained in addiction inquiry.
+
+    Section 3420, [Pub. L. 89–793, title III, § 310][/us/pl/89/793/s310], Nov. 8, 1966, [80 Stat. 1447][/us/stat/80/1447], related to evidence, examining physician as a competent and compellable witness, and physician-patient privilege.
+
+    Section 3421, [Pub. L. 89–793, title III, § 311][/us/pl/89/793/s311], Nov. 8, 1966, [80 Stat. 1447][/us/stat/80/1447], related to inapplicability of subchapter to persons with criminal charge pending, on probation, or with sentence unserved and consent to commitment of such persons by authority with power over their custody.
+
+    Section 3422, [Pub. L. 89–793, title III, § 312][/us/pl/89/793/s312], Nov. 8, 1966, [80 Stat. 1447][/us/stat/80/1447], related to commitment to hospital of the Service being dependent upon certification of availability of facilities or personnel for treatment.
+
+    Section 3423, [Pub. L. 89–793, title III, § 313][/us/pl/89/793/s313], Nov. 8, 1966, [80 Stat. 1447][/us/stat/80/1447], related to compensation of physicians and counsel and source of funds.
+
+    Section 3424, [Pub. L. 89–793, title III, § 314][/us/pl/89/793/s314], Nov. 8, 1966, [80 Stat. 1448][/us/stat/80/1448], related to authority of Surgeon General.
+
+    Section 3425, [Pub. L. 89–793, title III, § 315][/us/pl/89/793/s315], Nov. 8, 1966, [80 Stat. 1448][/us/stat/80/1448], related to penalties for escape or rescue from custody.
+
+    Section 3426, [Pub. L. 89–793, title III, § 316][/us/pl/89/793/s316], Nov. 8, 1966, [80 Stat. 1448][/us/stat/80/1448], related to penalties for false statements.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch42/schI/m__us_usc_t42_s3402.md) | [Next](./../../../../..//us/usc/t42/ch42/schII/m__us_usc_t42_s3411 to 3426.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch42%2FschII)
+[Previous](./../../../../..//us/usc/t42/ch42/schI/m__us_usc_t42_s3402.md) | [Next](./../../../../..//us/usc/t42/ch42/schIII/m__us_usc_t42_ch42_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch42%2FschII)
 
 ----------
 ----------
 
+[/us/pl/106/310/s3405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs3405%2Fb
+[/us/stat/114/1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1221
+[/us/pl/89/793/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F793%2Fs301
+[/us/stat/80/1444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1444
+[/us/pl/91/513/s1102/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs1102%2Fp
+[/us/stat/84/1293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1293
+[/us/pl/92/420/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F420%2Fs4
+[/us/stat/86/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F677
+[/us/pl/89/793/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F793%2Fs302
+[/us/stat/80/1444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1444
+[/us/pl/89/793/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F793%2Fs303
+[/us/stat/80/1445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1445
+[/us/pl/89/793/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F793%2Fs304
+[/us/stat/80/1446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1446
+[/us/pl/89/793/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F793%2Fs305
+[/us/stat/80/1446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1446
+[/us/pl/89/793/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F793%2Fs306
+[/us/stat/80/1446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1446
+[/us/pl/89/793/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F793%2Fs307
+[/us/stat/80/1446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1446
+[/us/pl/89/793/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F793%2Fs308
+[/us/stat/80/1447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1447
+[/us/pl/89/793/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F793%2Fs309
+[/us/stat/80/1447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1447
+[/us/pl/89/793/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F793%2Fs310
+[/us/stat/80/1447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1447
+[/us/pl/89/793/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F793%2Fs311
+[/us/stat/80/1447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1447
+[/us/pl/89/793/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F793%2Fs312
+[/us/stat/80/1447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1447
+[/us/pl/89/793/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F793%2Fs313
+[/us/stat/80/1447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1447
+[/us/pl/89/793/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F793%2Fs314
+[/us/stat/80/1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1448
+[/us/pl/89/793/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F793%2Fs315
+[/us/stat/80/1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1448
+[/us/pl/89/793/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F793%2Fs316
+[/us/stat/80/1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1448
 
 

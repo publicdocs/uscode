@@ -15,7 +15,7 @@
 
 ## § 3505b. Functions and duties of Deputy Assistant Secretary for Population Affairs
 
-The Secretary shall utilize the Deputy Assistant Secretary for Population Affairs—
+    The Secretary shall utilize the Deputy Assistant Secretary for Population Affairs—
 
     (1) to administer all Federal laws for which the Secretary has administrative responsibility and which provide for or authorize the making of grants or contracts related to population research and family planning programs;
 

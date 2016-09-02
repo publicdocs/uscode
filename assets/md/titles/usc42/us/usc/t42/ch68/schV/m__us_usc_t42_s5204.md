@@ -15,7 +15,7 @@
 
 ## § 5204. Insular areas disaster survival and recovery; definitions
 
-As used in sections 5204 to 5204c of this title—
+    As used in sections 5204 to 5204c of this title—
 
     (1) the term “insular area” means any of the following: American Samoa, the Federated States of Micronesia, Guam, the Marshall Islands, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and the Virgin Islands;
 

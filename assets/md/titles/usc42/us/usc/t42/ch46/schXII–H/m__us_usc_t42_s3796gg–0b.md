@@ -15,7 +15,7 @@
 
 ## § 3796gg–0b. Duties and functions of Director of Violence Against Women Office
 
-The Director shall have the following duties:
+    The Director shall have the following duties:
 
     (1) Maintaining liaison with the judicial branches of the Federal and State Governments on matters relating to violence against women.
 

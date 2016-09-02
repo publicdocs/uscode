@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch19B/schIV/m__us_usc_t42_s1962d–12 to 1962d–14.md) | [Next](./../../../../..//us/usc/t42/ch19B/schIV/m__us_usc_t42_s1962d–15.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%9314a)
+[Previous](./../../../../..//us/usc/t42/ch19B/schIV/m__us_usc_t42_s1962d–11b.md) | [Next](./../../../../..//us/usc/t42/ch19B/schIV/m__us_usc_t42_s1962d–15.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%9314a)
 
 ## § 1962d–14a. Alaska hydroelectric power development
 
@@ -73,7 +73,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch19B/schIV/m__us_usc_t42_s1962d–12 to 1962d–14.md) | [Next](./../../../../..//us/usc/t42/ch19B/schIV/m__us_usc_t42_s1962d–15.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%9314a)
+[Previous](./../../../../..//us/usc/t42/ch19B/schIV/m__us_usc_t42_s1962d–11b.md) | [Next](./../../../../..//us/usc/t42/ch19B/schIV/m__us_usc_t42_s1962d–15.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%9314a)
 
 ----------
 ----------

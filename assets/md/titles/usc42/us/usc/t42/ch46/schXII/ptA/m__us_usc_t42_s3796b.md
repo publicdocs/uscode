@@ -15,7 +15,7 @@
 
 ## § 3796b. Definitions
 
-As used in this subchapter—
+    As used in this subchapter—
 
     (1) “catastrophic injury” means an injury, the direct and proximate consequences of which permanently prevent an individual from performing any gainful work;
 

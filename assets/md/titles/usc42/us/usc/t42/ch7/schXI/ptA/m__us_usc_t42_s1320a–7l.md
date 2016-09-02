@@ -247,7 +247,11 @@
 
 >                 “(i) give a prospective direct access patient employee notice that the long-term care facility or provider is required to perform background checks with respect to new employees;
 
->                 “(ii) require, as a condition of employment, that the employee—         “(I) provide a written statement disclosing any disqualifying information;
+>                 “(ii)
+
+>                  require, as a condition of employment, that the employee—
+
+>                          “(I) provide a written statement disclosing any disqualifying information;
 
 >                          “(II) provide a statement signed by the employee authorizing the facility to request national and State criminal history background checks;
 
@@ -331,7 +335,9 @@
 
 >                 “(i) __In general.—__ 
 
->                 In selecting States to participate in the pilot program, the Secretary shall establish criteria to ensure—         “(I) geographic diversity;
+>                 In selecting States to participate in the pilot program, the Secretary shall establish criteria to ensure—
+
+>                          “(I) geographic diversity;
 
 >                          “(II) the inclusion of a variety of long-term care facilities or providers;
 
@@ -341,7 +347,9 @@
 
 >                 “(ii) __Additional criteria.—__ 
 
->                 The Secretary shall, to the greatest extent practicable, select States to participate in the pilot program in accordance with the following:         “(I) At least one participating State should permit long-term care facilities or providers to provide for a provisional period of employment pending completion of a background check and at least one such State should not permit such a period of employment.
+>                 The Secretary shall, to the greatest extent practicable, select States to participate in the pilot program in accordance with the following:
+
+>                          “(I) At least one participating State should permit long-term care facilities or providers to provide for a provisional period of employment pending completion of a background check and at least one such State should not permit such a period of employment.
 
 >                          “(II) At least one participating State should establish procedures under which employment agencies (including temporary employment agencies) may contact the State directly to conduct background checks on prospective direct patient access employees.
 

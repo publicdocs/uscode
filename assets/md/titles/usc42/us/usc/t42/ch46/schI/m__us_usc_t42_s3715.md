@@ -15,7 +15,7 @@
 
 ## § 3715. Office of Justice Programs grants, cooperative agreements, and contracts
 
-Notwithstanding any other provision of law, during any fiscal year the Attorney General—
+    Notwithstanding any other provision of law, during any fiscal year the Attorney General—
 
     (1) may make grants, or enter into cooperative agreements and contracts, for the Office of Justice Programs and the component organizations of that Office (including, notwithstanding any contrary provision of law (unless the same should expressly refer to this section), any organization that administers any program established in title 1 of [Public Law 90–351][/us/pl/90/351]);  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and
 

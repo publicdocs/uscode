@@ -15,7 +15,7 @@
 
 ## § 9601. Definitions
 
-For purpose of this subchapter—
+    For purpose of this subchapter—
 
     (1) The term “act of God” means an unanticipated grave natural disaster or other natural phenomenon of an exceptional, inevitable, and irresistible character, the effects of which could not have been prevented or avoided by the exercise of due care or foresight.
 
@@ -285,7 +285,7 @@ For purpose of this subchapter—
 
             (iv) __Interim standards and practices.—__ 
 
-                (I) __Property purchased before may 31, 1997.—__ 
+                (I) __Property purchased before__  __may 31, 1997__  __.—__ 
 
                 With respect to property purchased before May 31, 1997, in making a determination with respect to a defendant described in clause (i), a court shall take into account—
 
@@ -299,7 +299,7 @@ For purpose of this subchapter—
 
                     (ee) the ability of the defendant to detect the contamination by appropriate inspection.
 
-                (II) __Property purchased on or after may 31, 1997.—__ 
+                (II) __Property purchased on or after__  __may 31, 1997__  __.—__ 
 
                 With respect to property purchased on or after May 31, 1997, and until the Administrator promulgates the regulations described in clause (ii), the procedures of the American Society for Testing and Materials, including the document known as “Standard E1527–97”, entitled “Standard Practice for Environmental Site Assessment: Phase 1 Environmental Site Assessment Process”, shall satisfy the requirements in clause (i).
 

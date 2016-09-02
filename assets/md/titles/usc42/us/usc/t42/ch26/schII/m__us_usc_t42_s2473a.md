@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch26/schII/m__us_usc_t42_s2472, 2473.md) | [Next](./../../../../..//us/usc/t42/ch26/schII/m__us_usc_t42_s2473b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2473a)
+[Previous](./../../../../..//us/usc/t42/ch26/schII/m__us_usc_t42_ch26_schII.md) | [Next](./../../../../..//us/usc/t42/ch26/schII/m__us_usc_t42_s2473b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2473a)
 
 ## § 2473a. Repealed. [Pub. L. 96–470, title I, § 118(b)][/us/pl/96/470/s118/b], Oct. 19, 1980, [94 Stat. 2241][/us/stat/94/2241]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch26/schII/m__us_usc_t42_s2472, 2473.md) | [Next](./../../../../..//us/usc/t42/ch26/schII/m__us_usc_t42_s2473b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2473a)
+[Previous](./../../../../..//us/usc/t42/ch26/schII/m__us_usc_t42_ch26_schII.md) | [Next](./../../../../..//us/usc/t42/ch26/schII/m__us_usc_t42_s2473b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2473a)
 
 ----------
 ----------

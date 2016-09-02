@@ -15,7 +15,7 @@
 
 ## § 16001. Energy efficiency in federally assisted housing
 
-The Secretary of Housing and Urban Development shall promote energy conservation in housing that is located on Indian land and assisted with Federal resources through—
+    The Secretary of Housing and Urban Development shall promote energy conservation in housing that is located on Indian land and assisted with Federal resources through—
 
     (1) the use of energy-efficient technologies and innovations (including the procurement of energy-efficient refrigerators and other appliances);
 

@@ -15,7 +15,7 @@
 
 ## § 6992h. Health impacts report
 
-Within 24 months after November 1, 1988, the Administrator of the Agency for Toxic Substances and Disease Registry shall prepare for Congress a report on the health effects of medical waste, including each of the following—
+    Within 24 months after November 1, 1988, the Administrator of the Agency for Toxic Substances and Disease Registry shall prepare for Congress a report on the health effects of medical waste, including each of the following—
 
     (1) A description of the potential for infection or injury from the segregation, handling, storage, treatment, or disposal of medical wastes.
 

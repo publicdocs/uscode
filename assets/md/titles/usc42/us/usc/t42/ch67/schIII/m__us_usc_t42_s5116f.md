@@ -15,7 +15,7 @@
 
 ## § 5116f. Performance measures
 
-A State receiving a grant under this subchapter, through reports provided to the Secretary—
+    A State receiving a grant under this subchapter, through reports provided to the Secretary—
 
     (1) shall demonstrate the effective development, operation, and expansion of community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect that meets the requirements of this subchapter;
 

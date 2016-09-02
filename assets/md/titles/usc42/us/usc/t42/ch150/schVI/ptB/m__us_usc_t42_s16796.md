@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch150/schVI/ptB/m__us_usc_t42_s16794, 16795.md) | [Next](./../../../../../..//us/usc/t42/ch150/schVI/ptB/m__us_usc_t42_s16797.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16796)
+[Previous](./../../../../../..//us/usc/t42/ch150/schVI/ptB/m__us_usc_t42_s16793.md) | [Next](./../../../../../..//us/usc/t42/ch150/schVI/ptB/m__us_usc_t42_s16797.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16796)
 
 ## § 16796. Transferred
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch150/schVI/ptB/m__us_usc_t42_s16794, 16795.md) | [Next](./../../../../../..//us/usc/t42/ch150/schVI/ptB/m__us_usc_t42_s16797.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16796)
+[Previous](./../../../../../..//us/usc/t42/ch150/schVI/ptB/m__us_usc_t42_s16793.md) | [Next](./../../../../../..//us/usc/t42/ch150/schVI/ptB/m__us_usc_t42_s16797.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16796)
 
 ----------
 ----------

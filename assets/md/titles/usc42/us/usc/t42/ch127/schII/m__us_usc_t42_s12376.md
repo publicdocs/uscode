@@ -15,7 +15,7 @@
 
 ## § 12376. Definitions
 
-For purposes of this subchapter—
+    For purposes of this subchapter—
 
     (1) the term “Conference” means the 1993 White House Conference on Children, Youth, and Families; and
 

@@ -15,7 +15,7 @@
 
 ## § 6808. Authorization of appropriations
 
-There are authorized to be appropriated—
+    There are authorized to be appropriated—
 
     (1) not to exceed $40,000,000 for each of the fiscal years 1979 and 1980 to carry out [section 6807 of this title][/us/usc/t42/s6807] (relating to State utility regulatory assistance);
 

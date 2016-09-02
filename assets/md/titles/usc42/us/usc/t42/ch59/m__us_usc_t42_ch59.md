@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch58/schII/m__us_usc_t42_s4481 to 4485.md) | [Next](./../../../..//us/usc/t42/ch59/m__us_usc_t42_s4501.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch59)
+[Previous](./../../../..//us/usc/t42/ch58/schII/m__us_usc_t42_s4452.md) | [Next](./../../../..//us/usc/t42/ch59/m__us_usc_t42_s4501.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch59)
 
 ## CHAPTER 59—NATIONAL URBAN POLICY AND NEW COMMUNITY DEVELOPMENT
 
@@ -107,7 +107,7 @@ Part B—Development of New Communities  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch58/schII/m__us_usc_t42_s4481 to 4485.md) | [Next](./../../../..//us/usc/t42/ch59/m__us_usc_t42_s4501.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch59)
+[Previous](./../../../..//us/usc/t42/ch58/schII/m__us_usc_t42_s4452.md) | [Next](./../../../..//us/usc/t42/ch59/m__us_usc_t42_s4501.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch59)
 
 ----------
 ----------

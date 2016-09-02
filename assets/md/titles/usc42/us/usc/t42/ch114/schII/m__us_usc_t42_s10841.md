@@ -15,7 +15,7 @@
 
 ## § 10841. Restatement of bill of rights
 
-It is the sense of the Congress that, as previously stated in title V of the Mental Health Systems Act \[[42 U.S.C. 9501][/us/usc/t42/s9501] et seq.\], each State should review and revise, if necessary, its laws to ensure that mental health patients receive the protection and services they require, and that in making such review and revision, States should take into account the recommendations of the President’s Commission on Mental Health and the following:
+    It is the sense of the Congress that, as previously stated in title V of the Mental Health Systems Act \[[42 U.S.C. 9501][/us/usc/t42/s9501] et seq.\], each State should review and revise, if necessary, its laws to ensure that mental health patients receive the protection and services they require, and that in making such review and revision, States should take into account the recommendations of the President’s Commission on Mental Health and the following:
 
     (1)
 

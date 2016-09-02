@@ -41,11 +41,11 @@
 
         (F) appropriate prenatal care;
 
-    (2) programs to improve the treatment and outcomes for babies born premature, including the use of evidence-based standards of care by health care professionals for pregnant women at risk of preterm labor or other serious complications and for infants born preterm and at a low birthweight;
+        (2) programs to improve the treatment and outcomes for babies born premature, including the use of evidence-based standards of care by health care professionals for pregnant women at risk of preterm labor or other serious complications and for infants born preterm and at a low birthweight;
 
-    (3) programs to respond to the informational needs of families during the stay of an infant in a neonatal intensive care unit, during the transition of the infant to the home, and in the event of a newborn death; and
+        (3) programs to respond to the informational needs of families during the stay of an infant in a neonatal intensive care unit, during the transition of the infant to the home, and in the event of a newborn death; and
 
-    (4) such other programs as the Secretary determines appropriate to achieve the purpose specified in subsection (a).
+        (4) such other programs as the Secretary determines appropriate to achieve the purpose specified in subsection (a).
 
     (c) __Authorization of appropriations__ 
 

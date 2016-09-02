@@ -3905,7 +3905,7 @@
 
 >     “(2) in each of the following 2 years a proportion (specified by the Secretary and not to exceed one-half and three-fourths, respectively) of the payment for such services shall be made under such system and the remainder shall be made in accordance with current regulations.
 
->         By not later than January 1, 2003, the Secretary shall incorporate data from a 1999 medicare cost survey or a subsequent cost survey for purposes of implementing or revising such system.”
+>     By not later than January 1, 2003, the Secretary shall incorporate data from a 1999 medicare cost survey or a subsequent cost survey for purposes of implementing or revising such system.”
 
  __MedPAC Study on Postsurgical Recovery Care Center Services__ 
 
@@ -3975,7 +3975,7 @@
 
 >     “(B) the establishment of an alternative payment policy for such services based on classification of individuals by diagnostic category, functional status, prior use of services (in both inpatient and outpatient settings), and such other criteria as the Secretary determines appropriate, in place of the uniform dollar limitations specified in section 1833(g) of such Act \[[42 U.S.C. 1395][/us/usc/t42/s1395]l(g) \], as amended by paragraph (1).
 
->         The recommendations shall include how such a mechanism or policy might be implemented in a budget-neutral manner.”
+>     The recommendations shall include how such a mechanism or policy might be implemented in a budget-neutral manner.”
 
 \[[Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title II, § 221(c)(2)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–352, provided that: 
 

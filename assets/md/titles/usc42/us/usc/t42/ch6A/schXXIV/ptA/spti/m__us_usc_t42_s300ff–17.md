@@ -15,7 +15,7 @@
 
 ## § 300ff–17. Definitions
 
-For purposes of this subpart:
+    For purposes of this subpart:
 
     (1) __Eligible area__ 
 

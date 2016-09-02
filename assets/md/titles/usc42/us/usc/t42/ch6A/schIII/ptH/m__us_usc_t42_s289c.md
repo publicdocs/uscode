@@ -15,7 +15,7 @@
 
 ## § 289c. Research on public health emergencies
 
-If the Secretary determines, after consultation with the Director of NIH, the Commissioner of the Food and Drug Administration, or the Director of the Centers for Disease Control and Prevention, that a disease or disorder constitutes a public health emergency, the Secretary, acting through the Director of NIH—
+    If the Secretary determines, after consultation with the Director of NIH, the Commissioner of the Food and Drug Administration, or the Director of the Centers for Disease Control and Prevention, that a disease or disorder constitutes a public health emergency, the Secretary, acting through the Director of NIH—
 
     (1) shall expedite the review by advisory councils under [section 284a of this title][/us/usc/t42/s284a] and by peer review groups under [section 289a of this title][/us/usc/t42/s289a] of applications for grants for research on such disease or disorder or proposals for contracts for such research;
 
@@ -25,7 +25,7 @@ If the Secretary determines, after consultation with the Director of NIH, the Co
 
     (4) shall disseminate, to health professionals and the public, information on the cause, prevention, and treatment of such disease or disorder that has been developed in research assisted under this section.
 
-        The amount of an increase in a grant or contract provided under paragraph (3) may not exceed one-half the original amount of the grant or contract.
+    The amount of an increase in a grant or contract provided under paragraph (3) may not exceed one-half the original amount of the grant or contract.
 
 ([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 494, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 875][/us/stat/99/875]; amended [Pub. L. 102–531, title III, § 312(d)(9)][/us/pl/102/531/s312/d/9], Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504]; [Pub. L. 109–482, title I, § 104(b)(1)(P)][/us/pl/109/482/s104/b/1/P], Jan. 15, 2007, [120 Stat. 3693][/us/stat/120/3693].)
 

@@ -15,7 +15,7 @@
 
 ## § 1997f. Report to Congress
 
-The Attorney General shall include in the report to Congress on the business of the Department of Justice prepared pursuant to [section 522 of title 28][/us/usc/t28/s522]—
+    The Attorney General shall include in the report to Congress on the business of the Department of Justice prepared pursuant to [section 522 of title 28][/us/usc/t28/s522]—
 
     (1) a statement of the number, variety, and outcome of all actions instituted pursuant to this subchapter including the history of, precise reasons for, and procedures followed in initiation or intervention in each case in which action was commenced;
 

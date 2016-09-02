@@ -15,7 +15,7 @@
 
 ## § 9008. Definitions
 
-As used in this chapter, the term—
+    As used in this chapter, the term—
 
     (1) “ocean thermal energy conversion” means a method of converting part of the heat from the Sun which is stored in the surface layers of a body of water into electrical energy or energy product equivalent;
 

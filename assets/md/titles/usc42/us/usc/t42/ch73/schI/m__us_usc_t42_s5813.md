@@ -15,7 +15,7 @@
 
 ## § 5813. Responsibilities of Administrator
 
-The responsibilities of the Administrator shall include, but not be limited to—
+    The responsibilities of the Administrator shall include, but not be limited to—
 
     (1) exercising central responsibility for policy planning, coordination, support, and management of research and development programs respecting all energy sources, including assessing the requirements for research and development in regard to various energy sources in relation to near-term and long-range needs, policy planning in regard to meeting those requirements, undertaking programs for the optimal development of the various forms of energy sources, managing such programs, and disseminating information resulting therefrom;
 

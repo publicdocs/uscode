@@ -35,7 +35,7 @@
 
  __Enactment of Section__ 
 
-For delayed effective date of section, see Effective Date note below.
+    For delayed effective date of section, see Effective Date note below.
 
  __References in Text__ 
 

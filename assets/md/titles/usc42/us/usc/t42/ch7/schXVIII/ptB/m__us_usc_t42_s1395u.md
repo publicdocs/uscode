@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch7/schXVIII/ptB/m__us_usc_t42_s1395t–1, 1395t–2.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXVIII/ptB/m__us_usc_t42_s1395v.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u)
+[Previous](./../../../../../..//us/usc/t42/ch7/schXVIII/ptB/m__us_usc_t42_s1395t.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXVIII/ptB/m__us_usc_t42_s1395v.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u)
 
 ## § 1395u. Provisions relating to the administration of part B
 
@@ -2037,25 +2037,25 @@
 
 [Pub. L. 100–360, title II, § 202(m)][/us/pl/100/360/s202/m], July 1, 1988, [102 Stat. 721][/us/stat/102/721], as amended by [Pub. L. 101–234, title II, § 201(a)][/us/pl/101/234/s201/a], Dec. 13, 1989, [103 Stat. 1981][/us/stat/103/1981], provided that:
 
->     “(1) __\[Repealed. Prior to repeal by__  __[__  __Pub. L. 101–234__  __][/us/pl/101/234]__  __, par. (1) read as follows: ‘In general.—__ 
+>     “(1) __\[Repealed. Prior to repeal by__  __[__  __Pub. L. 101–234__  __][/us/pl/101/234]__  __, par. (1) read as follows:__ 
 
->     Except as otherwise provided in this subsection, the amendments made by this section \[enacting [section 1395w–3 of this title][/us/usc/t42/s1395w–3] and amending this section and sections 1320a–7a, 1395l, 1395m, 1395x, 1395y, 1395cc, 1395mm, and 1396b of this title\] shall apply to items dispensed on or after January 1, 1990.’\]
+>      ‘In general.—Except as otherwise provided in this subsection, the amendments made by this section \[enacting [section 1395w–3 of this title][/us/usc/t42/s1395w–3] and amending this section and sections 1320a–7a, 1395l, 1395m, 1395x, 1395y, 1395cc, 1395mm, and 1396b of this title\] shall apply to items dispensed on or after January 1, 1990.’\]
 
->     “(2) __\[Repealed. Prior to repeal by__  __[__  __Pub. L. 101–234__  __][/us/pl/101/234]__  __, par. (2) read as follows: ‘Carriers.—__ 
+>     “(2) __\[Repealed. Prior to repeal by__  __[__  __Pub. L. 101–234__  __][/us/pl/101/234]__  __, par. (2) read as follows:__ 
 
->     The amendments made by subsection (e) \[amending this section\] shall take effect on the date of the enactment of this Act \[July 1, 1988\]; except that the amendments made by subsection (e)(5) \[amending this section\] shall take effect on January 1, 1991, but shall not be construed as requiring payment before February 1, 1991.’\]
+>      ‘Carriers.—The amendments made by subsection (e) \[amending this section\] shall take effect on the date of the enactment of this Act \[July 1, 1988\]; except that the amendments made by subsection (e)(5) \[amending this section\] shall take effect on January 1, 1991, but shall not be construed as requiring payment before February 1, 1991.’\]
 
->     “(3) __\[Repealed. Prior to repeal by__  __[__  __Pub. L. 101–234__  __][/us/pl/101/234]__  __, par. (3) read as follows: ‘HMO/CMP enrollments.—__ 
+>     “(3) __\[Repealed. Prior to repeal by__  __[__  __Pub. L. 101–234__  __][/us/pl/101/234]__  __, par. (3) read as follows:__ 
 
->     The amendment made by subsection (f) \[amending [section 1395mm of this title][/us/usc/t42/s1395mm]\] shall apply to enrollments effected on or after January 1, 1990.’\]
+>      ‘HMO/CMP enrollments.—The amendment made by subsection (f) \[amending [section 1395mm of this title][/us/usc/t42/s1395mm]\] shall apply to enrollments effected on or after January 1, 1990.’\]
 
 >     “(4) __Diagnostic coding.—__ 
 
 >     The amendment made by subsection (g) \[amending this section\] shall apply to services furnished after March 31, 1989.
 
->     “(5) __\[Repealed. Prior to repeal by__  __[__  __Pub. L. 101–234__  __][/us/pl/101/234]__  __, par. (5) read as follows: ‘Transition.—__ 
+>     “(5) __\[Repealed. Prior to repeal by__  __[__  __Pub. L. 101–234__  __][/us/pl/101/234]__  __, par. (5) read as follows:__ 
 
->     With respect to administrative expenses (and costs of the Prescription Drug Payment Review Commission) for periods before January 1, 1990, amounts otherwise payable from the Federal Catastrophic Drug Insurance Trust Fund shall be payable from the Federal Supplementary Medical Insurance Trust Fund and shall also be treated as a debit to the Medicare Catastrophic Coverage Account.’\].”
+>      ‘Transition.—With respect to administrative expenses (and costs of the Prescription Drug Payment Review Commission) for periods before January 1, 1990, amounts otherwise payable from the Federal Catastrophic Drug Insurance Trust Fund shall be payable from the Federal Supplementary Medical Insurance Trust Fund and shall also be treated as a debit to the Medicare Catastrophic Coverage Account.’\].”
 
     \[Amendment of [section 202(m) of Pub. L. 100–360][/us/pl/100/360/s202/m], set out above, effective Jan. 1, 1990, see [section 201(c) of Pub. L. 101–234][/us/pl/101/234/s201/c], set out as an Effective Date of 1989 Amendment note under [section 1320a–7a of this title][/us/usc/t42/s1320a–7a].\]
 
@@ -2621,7 +2621,7 @@
 
 >     “(D) instead of providing to nonparticipating physicians, under section 1842(b)(3)(G) of the Social Security Act \[[42 U.S.C. 1395u(b)(3)(G)][/us/usc/t42/s1395u/b/3/G]\] at the beginning of 1988, a list of maximum allowable actual charges for 1988, the Secretary shall provide, at the beginning of the 9-month period beginning on April 1, 1988, to such physicians such a list for such 9-month period.
 
->         An agreement with a participating physician in effect on December 31, 1987, under section 1842(h)(1) of the Social Security Act shall not remain in effect for the period described in subparagraph (A) if the participating physician requests on or before December 31, 1987, that the agreement be terminated.”
+>     An agreement with a participating physician in effect on December 31, 1987, under section 1842(h)(1) of the Social Security Act shall not remain in effect for the period described in subparagraph (A) if the participating physician requests on or before December 31, 1987, that the agreement be terminated.”
 
  __Development of Uniform Relative Value Guide__ 
 
@@ -2883,7 +2883,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch7/schXVIII/ptB/m__us_usc_t42_s1395t–1, 1395t–2.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXVIII/ptB/m__us_usc_t42_s1395v.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u)
+[Previous](./../../../../../..//us/usc/t42/ch7/schXVIII/ptB/m__us_usc_t42_s1395t.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXVIII/ptB/m__us_usc_t42_s1395v.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 12521. Purpose
 
-The purpose of this part is to promote service-learning as a strategy to—
+    The purpose of this part is to promote service-learning as a strategy to—
 
     (1) support high-quality service-learning projects that engage students in meeting community needs with demonstrable results, while enhancing students’ academic and civic learning; and
 

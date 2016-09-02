@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch63/schV/m__us_usc_t42_s4842.md) | [Next](./../../../../..//us/usc/t42/ch63/schV/m__us_usc_t42_s4844, 4845.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4843)
+[Previous](./../../../../..//us/usc/t42/ch63/schV/m__us_usc_t42_s4842.md) | [Next](./../../../../..//us/usc/t42/ch63/schV/m__us_usc_t42_s4846.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4843)
 
 ## § 4843. Authorization of appropriations
 
@@ -39,9 +39,19 @@
 
     Subsec. (d). [Pub. L. 93–151, § 7(d)][/us/pl/93/151/s7/d], substituted “amounts authorized for one fiscal year but not appropriated may be appropriated for the succeeding fiscal year” for “amounts authorized for the fiscal year 1971 but not appropriated may be appropriated for the fiscal year 1972”.
 
+§§ 4844, 4845. __Repealed.__  __[__  __Pub. L. 95–626, title II, § 208(b)__  __][/us/pl/95/626/s208/b]__  __,__  __Nov. 10, 1978__  __,__  __[__  __92 Stat. 3588__  __][/us/stat/92/3588]__ 
+
+    Section 4844, [Pub. L. 91–695, title V, § 504][/us/pl/91/695/s504], as added [Pub. L. 93–151, § 7(e)][/us/pl/93/151/s7/e], Nov. 9, 1973, [87 Stat. 567][/us/stat/87/567], related to the eligibility of certain State agencies with respect to grants made under former sections 4801 and 4811 of this title.
+
+    Section 4845, [Pub. L. 91–695, title V, § 505][/us/pl/91/695/s505], as added [Pub. L. 93–151, § 7(e)][/us/pl/93/151/s7/e], Nov. 9, 1973, [87 Stat. 568][/us/stat/87/568], provided for the establishment of a National Childhood Lead Based Paint Poisoning Advisory Board.
+
+ __Effective Date of Repeal__ 
+
+    [Pub. L. 95–626, title II, § 208(b)][/us/pl/95/626/s208/b], Nov. 10, 1978, [92 Stat. 3588][/us/stat/92/3588], provided that the repeal is effective Oct. 1, 1979.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch63/schV/m__us_usc_t42_s4842.md) | [Next](./../../../../..//us/usc/t42/ch63/schV/m__us_usc_t42_s4844, 4845.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4843)
+[Previous](./../../../../..//us/usc/t42/ch63/schV/m__us_usc_t42_s4842.md) | [Next](./../../../../..//us/usc/t42/ch63/schV/m__us_usc_t42_s4846.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4843)
 
 ----------
 ----------
@@ -60,5 +70,15 @@
 [/us/pl/93/151/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F151%2Fs7%2Fb
 [/us/pl/93/151/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F151%2Fs7%2Fc
 [/us/pl/93/151/s7/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F151%2Fs7%2Fd
+[/us/pl/95/626/s208/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs208%2Fb
+[/us/stat/92/3588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3588
+[/us/pl/91/695/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F695%2Fs504
+[/us/pl/93/151/s7/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F151%2Fs7%2Fe
+[/us/stat/87/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F567
+[/us/pl/91/695/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F695%2Fs505
+[/us/pl/93/151/s7/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F151%2Fs7%2Fe
+[/us/stat/87/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F568
+[/us/pl/95/626/s208/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F626%2Fs208%2Fb
+[/us/stat/92/3588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3588
 
 

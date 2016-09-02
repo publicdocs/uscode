@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch150/schII/m__us_usc_t42_s16635, 16636.md) | [Next](./../../../../..//us/usc/t42/ch150/schIII/ptA/m__us_usc_t42_ch150_schIII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch150%2FschIII)
+[Previous](./../../../../..//us/usc/t42/ch150/schII/m__us_usc_t42_ch150_schII.md) | [Next](./../../../../..//us/usc/t42/ch150/schIII/ptA/m__us_usc_t42_ch150_schIII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch150%2FschIII)
 
 ### SUBCHAPTER III—SCIENCE
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch150/schII/m__us_usc_t42_s16635, 16636.md) | [Next](./../../../../..//us/usc/t42/ch150/schIII/ptA/m__us_usc_t42_ch150_schIII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch150%2FschIII)
+[Previous](./../../../../..//us/usc/t42/ch150/schII/m__us_usc_t42_ch150_schII.md) | [Next](./../../../../..//us/usc/t42/ch150/schIII/ptA/m__us_usc_t42_ch150_schIII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch150%2FschIII)
 
 ----------
 ----------

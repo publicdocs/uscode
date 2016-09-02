@@ -15,13 +15,13 @@
 
 ## § 1395o. Eligible individuals
 
-Every individual who—
+    Every individual who—
 
     (1) is entitled to hospital insurance benefits under part A of this subchapter, or
 
     (2) has attained age 65 and is a resident of the United States, and is either (A) a citizen or (B) an alien lawfully admitted for permanent residence who has resided in the United States continuously during the 5 years immediately preceding the month in which he applies for enrollment under this part,
 
-        is eligible to enroll in the insurance program established by this part.
+    is eligible to enroll in the insurance program established by this part.
 
 ([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1836, as added [Pub. L. 89–97, title I, § 102(a)][/us/pl/89/97/s102/a], July 30, 1965, [79 Stat. 304][/us/stat/79/304]; amended [Pub. L. 92–603, title II, § 201(c)(1)][/us/pl/92/603/s201/c/1], Oct. 30, 1972, [86 Stat. 1372][/us/stat/86/1372].)
 

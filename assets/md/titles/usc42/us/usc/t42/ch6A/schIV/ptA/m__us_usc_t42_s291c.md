@@ -15,7 +15,7 @@
 
 ## § 291c. General regulations
 
-The Surgeon General, with the approval of the Federal Hospital Council and the Secretary of Health and Human Services shall by general regulations prescribe—
+    The Surgeon General, with the approval of the Federal Hospital Council and the Secretary of Health and Human Services shall by general regulations prescribe—
 
     (a) __Priority of projects; determination__ 
 

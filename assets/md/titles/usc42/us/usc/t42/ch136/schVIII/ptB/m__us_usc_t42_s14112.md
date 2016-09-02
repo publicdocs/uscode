@@ -15,7 +15,7 @@
 
 ## § 14112. Allotment
 
-From amounts appropriated under [section 14119 of this title][/us/usc/t42/s14119], the Director shall allot—
+    From amounts appropriated under [section 14119 of this title][/us/usc/t42/s14119], the Director shall allot—
 
     (1) 80 percent of such amounts to States on the basis of the number of law enforcement officers in each State compared to the number of law enforcement officers in all States; and
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1876 to 1879.md) | [Next](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1881.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1880)
+[Previous](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1875.md) | [Next](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1881.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1880)
 
 ## § 1880. National Medal of Science
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1876 to 1879.md) | [Next](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1881.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1880)
+[Previous](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1875.md) | [Next](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1881.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1880)
 
 ----------
 ----------

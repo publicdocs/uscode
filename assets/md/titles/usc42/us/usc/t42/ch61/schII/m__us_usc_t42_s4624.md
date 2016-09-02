@@ -23,13 +23,13 @@
 
  __Amendment of Section__ 
 
-[Pub. L. 112–141, div. A, title I, § 1521(c)][/us/pl/112/141/s1521/c], (g), July 6, 2012, [126 Stat. 578][/us/stat/126/578], 579, provided that, effective 2 years after the date of enactment of [Pub. L. 112–141][/us/pl/112/141], this section is amended as follows:
+    [Pub. L. 112–141, div. A, title I, § 1521(c)][/us/pl/112/141/s1521/c], (g), July 6, 2012, [126 Stat. 578][/us/stat/126/578], 579, provided that, effective 2 years after the date of enactment of [Pub. L. 112–141][/us/pl/112/141], this section is amended as follows:
 
-(1) in the second sentence of subsection (a), by striking “$5,250” and inserting “$7,200, as adjusted by regulation, in accordance with [section 4633(d) of this title][/us/usc/t42/s4633/d]”; and
+    (1) in the second sentence of subsection (a), by striking “$5,250” and inserting “$7,200, as adjusted by regulation, in accordance with [section 4633(d) of this title][/us/usc/t42/s4633/d]”; and
 
-(2) in the second sentence of subsection (b), by striking “, except” and all that follows through the end of the subsection and inserting a period.
+    (2) in the second sentence of subsection (b), by striking “, except” and all that follows through the end of the subsection and inserting a period.
 
-See 2012 Amendment notes below.
+    See 2012 Amendment notes below.
 
  __Amendments__ 
 

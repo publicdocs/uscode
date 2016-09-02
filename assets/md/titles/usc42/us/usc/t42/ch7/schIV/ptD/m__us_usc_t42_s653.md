@@ -499,7 +499,11 @@
 
             (G) __Expiration of authority__ 
 
-                The authority under this paragraph shall expire on November 18, 2011.
+            The authority under this paragraph shall be in effect as follows:
+
+                (i) During the period beginning on December 26, 2007, and ending on November 18, 2011.
+
+                (ii) During the period beginning on September 30, 2013, and ending 180 days after that date.
 
     (k) __Fees__ 
 
@@ -545,7 +549,7 @@
 
         As used in this part, the term “support order” means a judgment, decree, or order, whether temporary, final, or subject to modification, issued by a court or an administrative agency of competent jurisdiction, for the support and maintenance of a child, including a child who has attained the age of majority under the law of the issuing State, or of the parent with whom the child is living, which provides for monetary support, health care, arrearages, or reimbursement, and which may include related costs and fees, interest and penalties, income withholding, attorneys’ fees, and other relief.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 453, as added [Pub. L. 93–647, § 101(a)][/us/pl/93/647/s101/a], Jan. 4, 1975, [88 Stat. 2353][/us/stat/88/2353]; amended [Pub. L. 97–35, title XXIII, § 2332(c)][/us/pl/97/35/s2332/c], Aug. 13, 1981, [95 Stat. 862][/us/stat/95/862]; [Pub. L. 98–369, div. B, title VI, § 2663(c)(13)][/us/pl/98/369/s2663/c/13], (j)(2)(B)(ix), July 18, 1984, [98 Stat. 1166][/us/stat/98/1166], 1170; [Pub. L. 98–378][/us/pl/98/378], §§ 17, 19(a), Aug. 16, 1984, [98 Stat. 1321][/us/stat/98/1321], 1322; [Pub. L. 100–485, title I, § 124(a)][/us/pl/100/485/s124/a], Oct. 13, 1988, [102 Stat. 2353][/us/stat/102/2353]; [Pub. L. 104–193, title I, § 108(c)(10)][/us/pl/104/193/s108/c/10], title III, §§ 316(a)–(f), 345(b), 366, 395(d)(1)(C), (2)(A), Aug. 22, 1996, [110 Stat. 2166][/us/stat/110/2166], 2214–2216, 2237, 2250, 2259; [Pub. L. 104–208, div. A, title I, § 101(e)][/us/pl/104/208/s101/e] \[title II, § 215\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–255; [Pub. L. 105–33, title V][/us/pl/105/33], §§ 5534(a), 5535, 5541(b), 5543, 5553, 5556(c), Aug. 5, 1997, [111 Stat. 627][/us/stat/111/627], 629–631, 636, 637; [Pub. L. 105–34, title X, § 1090(a)(2)][/us/pl/105/34/s1090/a/2], Aug. 5, 1997, [111 Stat. 961][/us/stat/111/961]; [Pub. L. 105–89, title I, § 105][/us/pl/105/89/s105], Nov. 19, 1997, [111 Stat. 2120][/us/stat/111/2120]; [Pub. L. 105–200, title IV][/us/pl/105/200], §§ 402(a), (b), 410(d), July 16, 1998, [112 Stat. 668][/us/stat/112/668], 669, 673; [Pub. L. 106–113, div. B, § 1000(a)(5)][/us/pl/106/113/s1000/a/5] \[title III, § 303(a), (b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–304, 1501A–306; [Pub. L. 108–199, div. G, title II, § 217(a)][/us/pl/108/199/s217/a], Jan. 23, 2004, [118 Stat. 394][/us/stat/118/394]; [Pub. L. 108–295, § 3][/us/pl/108/295/s3], Aug. 9, 2004, [118 Stat. 1091][/us/stat/118/1091]; [Pub. L. 108–447, div. H, title VI, § 643][/us/pl/108/447/s643], Dec. 8, 2004, [118 Stat. 3283][/us/stat/118/3283]; [Pub. L. 109–171, title VII][/us/pl/109/171], §§ 7305, 7306(b), Feb. 8, 2006, [120 Stat. 145][/us/stat/120/145], 146; [Pub. L. 109–250, § 2][/us/pl/109/250/s2], July 27, 2006, [120 Stat. 652][/us/stat/120/652]; [Pub. L. 110–157, title III, § 301(a)][/us/pl/110/157/s301/a], Dec. 26, 2007, [121 Stat. 1833][/us/stat/121/1833]; [Pub. L. 110–234, title IV, § 4002(b)(1)(A)][/us/pl/110/234/s4002/b/1/A], (B), (2)(V), May 22, 2008, [122 Stat. 1095–1097][/us/stat/122/1095-1097]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(A), (B), (2)(V), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858; [Pub. L. 110–351, title I, § 105][/us/pl/110/351/s105], Oct. 7, 2008, [122 Stat. 3957][/us/stat/122/3957]; [Pub. L. 112–37, § 17(b)][/us/pl/112/37/s17/b], Oct. 5, 2011, [125 Stat. 398][/us/stat/125/398].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 453, as added [Pub. L. 93–647, § 101(a)][/us/pl/93/647/s101/a], Jan. 4, 1975, [88 Stat. 2353][/us/stat/88/2353]; amended [Pub. L. 97–35, title XXIII, § 2332(c)][/us/pl/97/35/s2332/c], Aug. 13, 1981, [95 Stat. 862][/us/stat/95/862]; [Pub. L. 98–369, div. B, title VI, § 2663(c)(13)][/us/pl/98/369/s2663/c/13], (j)(2)(B)(ix), July 18, 1984, [98 Stat. 1166][/us/stat/98/1166], 1170; [Pub. L. 98–378][/us/pl/98/378], §§ 17, 19(a), Aug. 16, 1984, [98 Stat. 1321][/us/stat/98/1321], 1322; [Pub. L. 100–485, title I, § 124(a)][/us/pl/100/485/s124/a], Oct. 13, 1988, [102 Stat. 2353][/us/stat/102/2353]; [Pub. L. 104–193, title I, § 108(c)(10)][/us/pl/104/193/s108/c/10], title III, §§ 316(a)–(f), 345(b), 366, 395(d)(1)(C), (2)(A), Aug. 22, 1996, [110 Stat. 2166][/us/stat/110/2166], 2214–2216, 2237, 2250, 2259; [Pub. L. 104–208, div. A, title I, § 101(e)][/us/pl/104/208/s101/e] \[title II, § 215\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–255; [Pub. L. 105–33, title V][/us/pl/105/33], §§ 5534(a), 5535, 5541(b), 5543, 5553, 5556(c), Aug. 5, 1997, [111 Stat. 627][/us/stat/111/627], 629–631, 636, 637; [Pub. L. 105–34, title X, § 1090(a)(2)][/us/pl/105/34/s1090/a/2], Aug. 5, 1997, [111 Stat. 961][/us/stat/111/961]; [Pub. L. 105–89, title I, § 105][/us/pl/105/89/s105], Nov. 19, 1997, [111 Stat. 2120][/us/stat/111/2120]; [Pub. L. 105–200, title IV][/us/pl/105/200], §§ 402(a), (b), 410(d), July 16, 1998, [112 Stat. 668][/us/stat/112/668], 669, 673; [Pub. L. 106–113, div. B, § 1000(a)(5)][/us/pl/106/113/s1000/a/5] \[title III, § 303(a), (b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–304, 1501A–306; [Pub. L. 108–199, div. G, title II, § 217(a)][/us/pl/108/199/s217/a], Jan. 23, 2004, [118 Stat. 394][/us/stat/118/394]; [Pub. L. 108–295, § 3][/us/pl/108/295/s3], Aug. 9, 2004, [118 Stat. 1091][/us/stat/118/1091]; [Pub. L. 108–447, div. H, title VI, § 643][/us/pl/108/447/s643], Dec. 8, 2004, [118 Stat. 3283][/us/stat/118/3283]; [Pub. L. 109–171, title VII][/us/pl/109/171], §§ 7305, 7306(b), Feb. 8, 2006, [120 Stat. 145][/us/stat/120/145], 146; [Pub. L. 109–250, § 2][/us/pl/109/250/s2], July 27, 2006, [120 Stat. 652][/us/stat/120/652]; [Pub. L. 110–157, title III, § 301(a)][/us/pl/110/157/s301/a], Dec. 26, 2007, [121 Stat. 1833][/us/stat/121/1833]; [Pub. L. 110–234, title IV, § 4002(b)(1)(A)][/us/pl/110/234/s4002/b/1/A], (B), (2)(V), May 22, 2008, [122 Stat. 1095–1097][/us/stat/122/1095-1097]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(A), (B), (2)(V), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858; [Pub. L. 110–351, title I, § 105][/us/pl/110/351/s105], Oct. 7, 2008, [122 Stat. 3957][/us/stat/122/3957]; [Pub. L. 112–37, § 17(b)][/us/pl/112/37/s17/b], Oct. 5, 2011, [125 Stat. 398][/us/stat/125/398]; [Pub. L. 113–37, § 3(a)][/us/pl/113/37/s3/a], Sept. 30, 2013, [127 Stat. 525][/us/stat/127/525].)
 
  __References in Text__ 
 
@@ -564,6 +568,8 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2013—Subsec. (j)(11)(G). [Pub. L. 113–37][/us/pl/113/37] added subpar. (G) and struck out former subpar. (G). Prior to amendment, text read as follows: “The authority under this paragraph shall expire on November 18, 2011.”
 
     2011—Subsec. (j)(11)(G). [Pub. L. 112–37][/us/pl/112/37] substituted “November 18, 2011” for “September 30, 2011”.
 
@@ -686,6 +692,10 @@
     Subsec. (f). [Pub. L. 98–378, § 17][/us/pl/98/378/s17], struck out “, after determining that the absent parent cannot be located through the procedures under the control of such State agencies,” before “to transmit to the Secretary”.
 
     1981—Subsec. (c)(1). [Pub. L. 97–35][/us/pl/97/35] substituted “child and spousal support” for “child support”.
+
+ __Effective Date of 2013 Amendment__ 
+
+    Amendment by [Pub. L. 113–37][/us/pl/113/37] effective Oct. 1, 2013, see [section 4(a) of Pub. L. 113–37][/us/pl/113/37/s4/a], set out as a note under [section 322 of Title 38][/us/usc/t38/s322], Veterans’ Benefits.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -860,6 +870,8 @@
 [/us/stat/122/3957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3957
 [/us/pl/112/37/s17/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F37%2Fs17%2Fb
 [/us/stat/125/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F398
+[/us/pl/113/37/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37%2Fs3%2Fa
+[/us/stat/127/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F525
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
@@ -877,6 +889,7 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37
 [/us/pl/112/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F37
 [/us/pl/110/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F351
 [/us/pl/110/246/s4002/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FA
@@ -939,6 +952,9 @@
 [/us/pl/98/369/s2663/c/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fc%2F13
 [/us/pl/98/378/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F378%2Fs17
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/113/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37
+[/us/pl/113/37/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37%2Fs4%2Fa
+[/us/usc/t38/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs322
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

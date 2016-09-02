@@ -15,7 +15,7 @@
 
 ## § 7111. Congressional findings
 
-The Congress of the United States finds that—
+    The Congress of the United States finds that—
 
     (1) the United States faces an increasing shortage of nonrenewable energy resources;
 

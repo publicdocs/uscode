@@ -15,7 +15,7 @@
 
 ## § 4374. Authorization of appropriations
 
-There are hereby authorized to be appropriated for the operations of the Office of Environmental Quality and the Council on Environmental Quality not to exceed the following sums for the following fiscal years which sums are in addition to those contained in [Public Law 91–190][/us/pl/91/190]:
+    There are hereby authorized to be appropriated for the operations of the Office of Environmental Quality and the Council on Environmental Quality not to exceed the following sums for the following fiscal years which sums are in addition to those contained in [Public Law 91–190][/us/pl/91/190]:
 
     (a) $2,126,000 for the fiscal year ending September 30, 1979.
 

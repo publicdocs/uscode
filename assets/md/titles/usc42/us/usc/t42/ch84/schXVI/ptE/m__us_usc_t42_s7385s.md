@@ -15,7 +15,7 @@
 
 ## § 7385s. Definitions
 
-In this part:
+    In this part:
 
     (1) The term “covered DOE contractor employee” means any Department of Energy contractor employee determined under [section 7385s–4 of this title][/us/usc/t42/s7385s–4] to have contracted a covered illness through exposure at a Department of Energy facility.
 

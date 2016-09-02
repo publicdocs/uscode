@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch75/schI/m__us_usc_t42_s6000, 6001.md) | [Next](./../../../../..//us/usc/t42/ch75/schI/m__us_usc_t42_s6003.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6002)
+[Previous](./../../../../..//us/usc/t42/ch75/schI/m__us_usc_t42_ch75_schI.md) | [Next](./../../../../..//us/usc/t42/ch75/schI/m__us_usc_t42_s6003.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6002)
 
 ## § 6002. Repealed. [Pub. L. 103–230, title I, § 104][/us/pl/103/230/s104], Apr. 6, 1994, [108 Stat. 293][/us/stat/108/293]
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch75/schI/m__us_usc_t42_s6000, 6001.md) | [Next](./../../../../..//us/usc/t42/ch75/schI/m__us_usc_t42_s6003.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6002)
+[Previous](./../../../../..//us/usc/t42/ch75/schI/m__us_usc_t42_ch75_schI.md) | [Next](./../../../../..//us/usc/t42/ch75/schI/m__us_usc_t42_s6003.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6002)
 
 ----------
 ----------

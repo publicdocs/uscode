@@ -11,16 +11,45 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch102/schIII/ptA/m__us_usc_t42_s9451, 9452.md) | [Next](./../../../../../..//us/usc/t42/ch102/schIII/ptB/m__us_usc_t42_s9461 to 9465.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch102%2FschIII%2FptB)
+[Previous](./../../../../../..//us/usc/t42/ch102/schIII/ptA/m__us_usc_t42_ch102_schIII_ptA.md) | [Next](./../../../../../..//us/usc/t42/ch102/schIII/ptC/m__us_usc_t42_ch102_schIII_ptC.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch102%2FschIII%2FptB)
 
 #### Part B—Applications and Related Provisions
 
+§§ 9461 to 9465. __Repealed.__  __[__  __Pub. L. 97–35, title IX, § 902(e)(1)__  __][/us/pl/97/35/s902/e/1]__  __,__  __Aug. 13, 1981__  __,__  __[__  __95 Stat. 560__  __][/us/stat/95/560]__ 
+
+    Section 9461, [Pub. L. 96–398, title III, § 305][/us/pl/96/398/s305], Oct. 7, 1980, [94 Stat. 1588][/us/stat/94/1588], set forth provisions respecting State administration of programs, and authorized agreements, etc., for implementation.
+
+    Section 9462, [Pub. L. 96–398, title III, § 306][/us/pl/96/398/s306], Oct. 7, 1980, [94 Stat. 1590][/us/stat/94/1590], related to processing of applications by State mental health authorities.
+
+    Section 9463, [Pub. L. 96–398, title III, § 307][/us/pl/96/398/s307], Oct. 7, 1980, [94 Stat. 1592][/us/stat/94/1592], set forth provisions relating to requirements for applications.
+
+    Section 9464, [Pub. L. 96–398, title III, § 308][/us/pl/96/398/s308], Oct. 7, 1980, [94 Stat. 1594][/us/stat/94/1594], related to Indian tribes and organizations.
+
+    Section 9465, [Pub. L. 96–398, title III, § 309][/us/pl/96/398/s309], Oct. 7, 1980, [94 Stat. 1595][/us/stat/94/1595], related to procedures for consideration of grant or contract application.
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective Oct. 1, 1981, see [section 902(h) of Pub. L. 97–35][/us/pl/97/35/s902/h], set out as an Effective Date of 1981 Amendment note under section 238l of this title.
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch102/schIII/ptA/m__us_usc_t42_s9451, 9452.md) | [Next](./../../../../../..//us/usc/t42/ch102/schIII/ptB/m__us_usc_t42_s9461 to 9465.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch102%2FschIII%2FptB)
+[Previous](./../../../../../..//us/usc/t42/ch102/schIII/ptA/m__us_usc_t42_ch102_schIII_ptA.md) | [Next](./../../../../../..//us/usc/t42/ch102/schIII/ptC/m__us_usc_t42_ch102_schIII_ptC.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch102%2FschIII%2FptB)
 
 ----------
 ----------
 
+[/us/pl/97/35/s902/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs902%2Fe%2F1
+[/us/stat/95/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F560
+[/us/pl/96/398/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F398%2Fs305
+[/us/stat/94/1588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1588
+[/us/pl/96/398/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F398%2Fs306
+[/us/stat/94/1590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1590
+[/us/pl/96/398/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F398%2Fs307
+[/us/stat/94/1592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1592
+[/us/pl/96/398/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F398%2Fs308
+[/us/stat/94/1594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1594
+[/us/pl/96/398/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F398%2Fs309
+[/us/stat/94/1595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1595
+[/us/pl/97/35/s902/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs902%2Fh
 
 

@@ -671,11 +671,11 @@
 
  __Amendment of Subsection (b)__ 
 
-[Pub. L. 112–242, title II, § 202][/us/pl/112/242/s202], Jan. 10, 2013, [126 Stat. 2378][/us/stat/126/2378], provided that, applicable to years beginning with 2014, subsection (b) of this section is amended—
+    [Pub. L. 112–242, title II, § 202][/us/pl/112/242/s202], Jan. 10, 2013, [126 Stat. 2378][/us/stat/126/2378], provided that, applicable to years beginning with 2014, subsection (b) of this section is amended—
 
-(1) in paragraph (2)(B)(ii), by striking “A primary plan” and inserting “Subject to paragraph (9), a primary plan”; and
+    (1) in paragraph (2)(B)(ii), by striking “A primary plan” and inserting “Subject to paragraph (9), a primary plan”; and
 
-(2) by adding at the end the following new paragraph:
+    (2) by adding at the end the following new paragraph:
 
     (9) Exception
 
@@ -709,7 +709,7 @@
 
     (ii) include a summary of the methodology and data used in calculating each threshold amount and the amount of estimated savings under this subchapter achieved by the Secretary implementing each such threshold.
 
-See 2012 Amendment note below.
+    See 2012 Amendment note below.
 
  __References in Text__ 
 
@@ -1577,7 +1577,7 @@ See 2012 Amendment note below.
 
 >     “(ii) request from the Secretary disclosure of information described in section 6013(l)(12)(A) of the Internal Revenue Code of 1986 \[[26 U.S.C. 6013][/us/usc/t26/s6013](l)(12)(A)\],
 
->         by not later than 14 days after the date of the enactment of this Act \[Dec. 19, 1989\].”
+>     by not later than 14 days after the date of the enactment of this Act \[Dec. 19, 1989\].”
 
  __Designation of Pediatric Hospitals as Meeting Certification as Heart Transplant Facility__ 
 

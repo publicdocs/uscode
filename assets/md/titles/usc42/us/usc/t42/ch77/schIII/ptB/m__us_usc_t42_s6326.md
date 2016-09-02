@@ -15,7 +15,7 @@
 
 ## § 6326. Definitions
 
-As used in this part—
+    As used in this part—
 
     (1) The term “appliance” means any article, such as a room air-conditioner, refrigerator-freezer, or dishwasher, which the Secretary classifies as an appliance for purposes of this part.
 

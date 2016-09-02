@@ -15,7 +15,7 @@
 
 ## § 1862p–3. Sustainable chemistry basic research
 
-The Director shall establish a Green Chemistry Basic Research program to award competitive, merit-based grants to support research into green and sustainable chemistry which will lead to clean, safe, and economical alternatives to traditional chemical products and practices. The research program shall provide sustained support for green chemistry research, education, and technology transfer through—
+    The Director shall establish a Green Chemistry Basic Research program to award competitive, merit-based grants to support research into green and sustainable chemistry which will lead to clean, safe, and economical alternatives to traditional chemical products and practices. The research program shall provide sustained support for green chemistry research, education, and technology transfer through—
 
     (1) merit-reviewed competitive grants to individual investigators and teams of investigators, including, to the extent practicable, young investigators, for research;
 

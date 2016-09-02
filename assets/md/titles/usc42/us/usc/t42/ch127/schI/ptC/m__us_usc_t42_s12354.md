@@ -15,7 +15,7 @@
 
 ## § 12354. Evaluation
 
-The Commissioner shall, through grants or contracts awarded or entered into with independent auditors, conduct evaluations and related activities, of family resource and support programs, including—
+    The Commissioner shall, through grants or contracts awarded or entered into with independent auditors, conduct evaluations and related activities, of family resource and support programs, including—
 
     (1) evaluations of on-going programs;
 

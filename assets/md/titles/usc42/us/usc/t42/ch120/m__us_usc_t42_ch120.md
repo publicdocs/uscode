@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch119/schVI/ptF/m__us_usc_t42_s11481 to 11489.md) | [Next](./../../../..//us/usc/t42/ch120/m__us_usc_t42_s11501.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch120)
+[Previous](./../../../..//us/usc/t42/ch119/schVI/ptF/m__us_usc_t42_ch119_schVI_ptF.md) | [Next](./../../../..//us/usc/t42/ch120/m__us_usc_t42_s11501.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch120)
 
 ## CHAPTER 120—ENTERPRISE ZONE DEVELOPMENT
 
@@ -67,7 +67,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch119/schVI/ptF/m__us_usc_t42_s11481 to 11489.md) | [Next](./../../../..//us/usc/t42/ch120/m__us_usc_t42_s11501.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch120)
+[Previous](./../../../..//us/usc/t42/ch119/schVI/ptF/m__us_usc_t42_ch119_schVI_ptF.md) | [Next](./../../../..//us/usc/t42/ch120/m__us_usc_t42_s11501.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch120)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 14040. Definitions
 
-As used in this part—
+    As used in this part—
 
     (1) the term “national crime information databases” refers to the National Crime Information Center and its incorporated criminal history databases, including the Interstate Identification Index; and
 

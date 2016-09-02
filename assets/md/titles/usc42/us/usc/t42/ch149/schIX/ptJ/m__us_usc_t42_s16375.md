@@ -15,7 +15,7 @@
 
 ## § 16375. Limits on participation
 
-An entity shall be eligible to receive an award under this part only if the Secretary finds—
+    An entity shall be eligible to receive an award under this part only if the Secretary finds—
 
     (1) that the entity’s participation in the program under this part would be in the economic interest of the United States; and
 

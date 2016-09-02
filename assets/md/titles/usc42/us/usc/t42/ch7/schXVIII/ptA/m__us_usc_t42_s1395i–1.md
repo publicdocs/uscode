@@ -15,7 +15,7 @@
 
 ## § 1395i–1. Authorization of appropriations
 
-There are authorized to be appropriated to the Federal Hospital Insurance Trust Fund (established by [section 1395i of this title][/us/usc/t42/s1395i]) from time to time such sums as the Secretary deems necessary for any fiscal year, on account of—
+    There are authorized to be appropriated to the Federal Hospital Insurance Trust Fund (established by [section 1395i of this title][/us/usc/t42/s1395i]) from time to time such sums as the Secretary deems necessary for any fiscal year, on account of—
 
     (1) payments made or to be made during such fiscal year from such Trust Fund under this part with respect to individuals who are qualified railroad retirement beneficiaries (as defined in [section 426(c) of this title][/us/usc/t42/s426/c]) and who are not, and upon filing application for monthly insurance benefits under [section 402 of this title][/us/usc/t42/s402] would not be, entitled to such benefits if service as an employee (as defined in the Railroad Retirement Act of 1937 \[[45 U.S.C. 228a][/us/usc/t45/s228a] et seq.\]) after December 31, 1936, had been included in the term “employment” as defined in this chapter,
 
@@ -23,7 +23,7 @@ There are authorized to be appropriated to the Federal Hospital Insurance Trust 
 
     (3) any loss of interest to such Trust Fund resulting from the payment of such amounts,
 
-        in order to place such Trust Fund in the same position at the end of such fiscal year in which it would have been if the individuals described in paragraph (1) had not been entitled to benefits under this part.
+    in order to place such Trust Fund in the same position at the end of such fiscal year in which it would have been if the individuals described in paragraph (1) had not been entitled to benefits under this part.
 
 ([Pub. L. 89–97, title I, § 111(d)][/us/pl/89/97/s111/d], July 30, 1965, [79 Stat. 343][/us/stat/79/343].)
 

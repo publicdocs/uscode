@@ -15,7 +15,7 @@
 
 ## § 3058c. Organization
 
-In order for a State to be eligible to receive allotments under this part—
+    In order for a State to be eligible to receive allotments under this part—
 
     (1) the State shall demonstrate eligibility under [section 3025 of this title][/us/usc/t42/s3025];
 

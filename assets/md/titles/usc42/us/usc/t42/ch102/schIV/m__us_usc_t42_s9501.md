@@ -15,7 +15,7 @@
 
 ## § 9501. Bill of Rights
 
-It is the sense of the Congress that each State should review and revise, if necessary, its laws to ensure that mental health patients receive the protection and services they require; and in making such review and revision should take into account the recommendations of the President’s Commission on Mental Health and the following:
+    It is the sense of the Congress that each State should review and revise, if necessary, its laws to ensure that mental health patients receive the protection and services they require; and in making such review and revision should take into account the recommendations of the President’s Commission on Mental Health and the following:
 
     (1)
 

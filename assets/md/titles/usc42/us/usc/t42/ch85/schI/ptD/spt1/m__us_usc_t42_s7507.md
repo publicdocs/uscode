@@ -15,13 +15,13 @@
 
 ## § 7507. New motor vehicle emission standards in nonattainment areas
 
-Notwithstanding [section 7543(a) of this title][/us/usc/t42/s7543/a], any State which has plan provisions approved under this part may adopt and enforce for any model year standards relating to control of emissions from new motor vehicles or new motor vehicle engines and take such other actions as are referred to in [section 7543(a) of this title][/us/usc/t42/s7543/a] respecting such vehicles if—
+    Notwithstanding [section 7543(a) of this title][/us/usc/t42/s7543/a], any State which has plan provisions approved under this part may adopt and enforce for any model year standards relating to control of emissions from new motor vehicles or new motor vehicle engines and take such other actions as are referred to in [section 7543(a) of this title][/us/usc/t42/s7543/a] respecting such vehicles if—
 
     (1) such standards are identical to the California standards for which a waiver has been granted for such model year, and
 
     (2) California and such State adopt such standards at least two years before commencement of such model year (as determined by regulations of the Administrator).
 
-        Nothing in this section or in subchapter II of this chapter shall be construed as authorizing any such State to prohibit or limit, directly or indirectly, the manufacture or sale of a new motor vehicle or motor vehicle engine that is certified in California as meeting California standards, or to take any action of any kind to create, or have the effect of creating, a motor vehicle or motor vehicle engine different than a motor vehicle or engine certified in California under California standards (a “third vehicle”) or otherwise create such a “third vehicle”.
+    Nothing in this section or in subchapter II of this chapter shall be construed as authorizing any such State to prohibit or limit, directly or indirectly, the manufacture or sale of a new motor vehicle or motor vehicle engine that is certified in California as meeting California standards, or to take any action of any kind to create, or have the effect of creating, a motor vehicle or motor vehicle engine different than a motor vehicle or engine certified in California under California standards (a “third vehicle”) or otherwise create such a “third vehicle”.
 
 ([July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title I, § 177, as added [Pub. L. 95–95, title I, § 129(b)][/us/pl/95/95/s129/b], Aug. 7, 1977, [91 Stat. 750][/us/stat/91/750]; amended [Pub. L. 101–549, title II, § 232][/us/pl/101/549/s232], Nov. 15, 1990, [104 Stat. 2529][/us/stat/104/2529].)
 

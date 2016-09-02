@@ -15,7 +15,7 @@
 
 ## § 3796dd–8. Definitions
 
-In this subchapter—
+    In this subchapter—
 
     (1) “career law enforcement officer” means a person hired on a permanent basis who is authorized by law or by a State or local public agency to engage in or supervise the prevention, detection, or investigation of violations of criminal laws.
 

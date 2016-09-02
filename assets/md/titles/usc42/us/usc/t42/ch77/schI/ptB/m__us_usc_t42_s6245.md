@@ -15,7 +15,7 @@
 
 ## § 6245. Annual report
 
-The Secretary shall report annually to the President and the Congress on actions taken to implement this part. This report shall include—
+    The Secretary shall report annually to the President and the Congress on actions taken to implement this part. This report shall include—
 
     (1) the status of the physical capacity of the Reserve and the type and quantity of petroleum products in the Reserve;
 

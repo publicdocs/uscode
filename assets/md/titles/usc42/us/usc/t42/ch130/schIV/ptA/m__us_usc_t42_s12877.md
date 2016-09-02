@@ -15,7 +15,7 @@
 
 ## § 12877. Exemption
 
-Eligible property covered by a homeownership program approved under this part shall not be subject to—
+    Eligible property covered by a homeownership program approved under this part shall not be subject to—
 
     (1) the Low-Income Housing Preservation and Resident Homeownership Act of 1990 \[[12 U.S.C. 4101][/us/usc/t12/s4101] et seq.\], or
 

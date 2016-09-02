@@ -15,7 +15,7 @@
 
 ## § 300ii–4. Authorization of appropriations
 
-There are authorized to be appropriated to carry out this subchapter—
+    There are authorized to be appropriated to carry out this subchapter—
 
     (1) $30,000,000 for fiscal year 2007;
 

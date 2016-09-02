@@ -15,7 +15,7 @@
 
 ## § 11901. Congressional findings
 
-The Congress finds that—
+    The Congress finds that—
 
     (1) the Federal Government has a duty to provide public and other federally assisted low-income housing that is decent, safe, and free from illegal drugs;
 

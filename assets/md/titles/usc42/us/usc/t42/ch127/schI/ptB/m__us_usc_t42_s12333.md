@@ -15,7 +15,7 @@
 
 ## § 12333. Establishment of programs
 
-The Commissioner shall make grants—
+    The Commissioner shall make grants—
 
     (1)
 

@@ -15,7 +15,7 @@
 
 ## § 2136. Classes of facilities
 
-The Commission may—
+    The Commission may—
 
     (a) group the facilities licensed either under section 2133 or 2134 of this title into classes which may include either production or utilization facilities or both, upon the basis of the similarity of operating and technical characteristics of the facilities;
 

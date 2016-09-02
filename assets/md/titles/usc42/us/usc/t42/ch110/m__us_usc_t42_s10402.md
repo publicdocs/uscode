@@ -15,7 +15,7 @@
 
 ## § 10402. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) __Alaska Native__ 
 

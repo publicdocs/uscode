@@ -15,7 +15,7 @@
 
 ## § 15701. Findings
 
-The Congress finds the following:
+    The Congress finds the following:
 
     (1) Hurricanes, tropical storms, tornadoes, and thunderstorms can cause significant loss of life, injury, destruction of property, and economic and social disruption. All States and regions are vulnerable to these hazards.
 

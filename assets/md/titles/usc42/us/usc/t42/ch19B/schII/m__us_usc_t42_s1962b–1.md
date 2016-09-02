@@ -15,7 +15,7 @@
 
 ## § 1962b–1. Membership of commissions; appointment of chairman
 
-Each river basin commission shall be composed of members appointed as follows:
+    Each river basin commission shall be composed of members appointed as follows:
 
     (a) A chairman appointed by the President who shall also serve as chairman and coordinating officer of the Federal members of the commission and who shall represent the Federal Government in Federal-State relations on the commission and who shall not, during the period of his service on the commission, hold any other position as an officer or employee of the United States, except as a retired officer or retired civilian employee of the Federal Government;
 

@@ -15,7 +15,7 @@
 
 ## § 12896. Definitions
 
-For purposes of this part:
+    For purposes of this part:
 
     (1) The term “applicant” means a private nonprofit organization, cooperative association, or a public agency (including an agency or instrumentality thereof) in cooperation with a private nonprofit organization.
 

@@ -15,7 +15,7 @@
 
 ## § 15111. Findings
 
-Congress finds that—
+    Congress finds that—
 
     (1) direct support workers, especially young adults, have played essential roles in providing the support needed by individuals with developmental disabilities and expanding community options for those individuals;
 

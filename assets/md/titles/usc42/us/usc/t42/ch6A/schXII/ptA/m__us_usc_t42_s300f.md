@@ -15,7 +15,7 @@
 
 ## § 300f. Definitions
 
-For purposes of this subchapter:
+    For purposes of this subchapter:
 
     (1)
 
@@ -159,7 +159,7 @@ For purposes of this subchapter:
 
 >     “(3) the regulation or control of point or nonpoint sources of pollution discharged into waters covered by that Act.
 
->         The Administrator shall identify in the agency’s annual budget all funding and full-time equivalents administering such title XIV separately from funding and staffing for the Federal Water Pollution Control Act.”
+>     The Administrator shall identify in the agency’s annual budget all funding and full-time equivalents administering such title XIV separately from funding and staffing for the Federal Water Pollution Control Act.”
 
  __Congressional Findings__ 
 
@@ -207,7 +207,7 @@ For purposes of this subchapter:
 
 >     “(C) review State and water system compliance with the exclusion provisions of section 1401(4)(B) of such Act.
 
->         The Comptroller General shall submit a report to the Congress within 3 years after the date of enactment of this Act \[Aug. 6, 1996\] containing the results of such study.”
+>     The Comptroller General shall submit a report to the Congress within 3 years after the date of enactment of this Act \[Aug. 6, 1996\] containing the results of such study.”
 
  __Safe Drinking Water Amendments of 1977 Restrictions on Appropriations for Research__ 
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch2/m__us_usc_t42_s92 to 96.md) | [Next](./../../../..//us/usc/t42/ch2/m__us_usc_t42_s98.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs97)
+[Previous](./../../../..//us/usc/t42/ch2/m__us_usc_t42_s91.md) | [Next](./../../../..//us/usc/t42/ch2/m__us_usc_t42_s98.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs97)
 
 ## § 97. State health laws observed by United States officers
 
@@ -39,7 +39,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch2/m__us_usc_t42_s92 to 96.md) | [Next](./../../../..//us/usc/t42/ch2/m__us_usc_t42_s98.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs97)
+[Previous](./../../../..//us/usc/t42/ch2/m__us_usc_t42_s91.md) | [Next](./../../../..//us/usc/t42/ch2/m__us_usc_t42_s98.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs97)
 
 ----------
 ----------

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch23/dA/schXVI/m__us_usc_t42_s2251 to 2257.md) | [Next](./../../../../../..//us/usc/t42/ch23/dA/schXVI/m__us_usc_t42_s2259.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2258)
+[Previous](./../../../../../..//us/usc/t42/ch23/dA/schXVI/m__us_usc_t42_ch23_dA_schXVI.md) | [Next](./../../../../../..//us/usc/t42/ch23/dA/schXVI/m__us_usc_t42_s2259.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2258)
 
 ## § 2258. Joint Committee on Atomic Energy abolished
 
@@ -31,7 +31,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch23/dA/schXVI/m__us_usc_t42_s2251 to 2257.md) | [Next](./../../../../../..//us/usc/t42/ch23/dA/schXVI/m__us_usc_t42_s2259.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2258)
+[Previous](./../../../../../..//us/usc/t42/ch23/dA/schXVI/m__us_usc_t42_ch23_dA_schXVI.md) | [Next](./../../../../../..//us/usc/t42/ch23/dA/schXVI/m__us_usc_t42_s2259.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2258)
 
 ----------
 ----------

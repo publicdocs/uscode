@@ -15,7 +15,7 @@
 
 ## § 10002. Statement of purpose
 
-It is the purpose of this chapter to—
+    It is the purpose of this chapter to—
 
     (1) provide for the establishment of minimum standards by the Federal Government for the accreditation of education programs for persons who administer radiologic procedures and for the certification of such persons; and
 

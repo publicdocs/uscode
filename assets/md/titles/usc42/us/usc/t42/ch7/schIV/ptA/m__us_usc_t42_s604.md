@@ -615,9 +615,9 @@
 
 >         For purposes of determining the net worth of a household, a household’s assets shall not be considered to include the primary dwelling unit and one motor vehicle owned by a member of the household.
 
->     “(b) __Individuals Unable To Complete the Project.—__ 
+>             “(b) __Individuals Unable To Complete the Project.—__ 
 
->     The Secretary shall establish such regulations as are necessary to ensure compliance with this title if an individual participating in the demonstration project moves from the community in which the project is conducted or is otherwise unable to continue participating in that project, including regulations prohibiting future eligibility to participate in any other demonstration project conducted under this title.
+>             The Secretary shall establish such regulations as are necessary to ensure compliance with this title if an individual participating in the demonstration project moves from the community in which the project is conducted or is otherwise unable to continue participating in that project, including regulations prohibiting future eligibility to participate in any other demonstration project conducted under this title.
 
 > “SEC. 409. __SELECTION OF INDIVIDUALS TO PARTICIPATE.__ 
 

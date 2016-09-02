@@ -15,7 +15,7 @@
 
 ## § 10007. Federal radiation guidelines
 
-The Secretary shall, in conjunction with the Radiation Policy Council, the Secretary of Veterans Affairs, the Administrator of the Environmental Protection Agency, appropriate agencies of the States, and appropriate professional organizations, promulgate Federal radiation guidelines with respect to radiologic procedures. Such guidelines shall—
+    The Secretary shall, in conjunction with the Radiation Policy Council, the Secretary of Veterans Affairs, the Administrator of the Environmental Protection Agency, appropriate agencies of the States, and appropriate professional organizations, promulgate Federal radiation guidelines with respect to radiologic procedures. Such guidelines shall—
 
     (1) determine the level of radiation exposure due to radiologic procedures which is unnecessary and specify the techniques, procedures, and methods to minimize such unnecessary exposure;
 

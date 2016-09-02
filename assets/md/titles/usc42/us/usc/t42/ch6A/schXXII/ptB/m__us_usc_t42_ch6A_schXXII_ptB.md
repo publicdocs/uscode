@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schXXII/ptA/m__us_usc_t42_s300dd to 300dd–14.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schXXII/ptB/m__us_usc_t42_s300dd–21.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch6A%2FschXXII%2FptB)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schXXII/ptA/m__us_usc_t42_ch6A_schXXII_ptA.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schXXII/ptB/m__us_usc_t42_s300dd–21.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch6A%2FschXXII%2FptB)
 
 #### Part B—Subacute Care
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schXXII/ptA/m__us_usc_t42_s300dd to 300dd–14.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schXXII/ptB/m__us_usc_t42_s300dd–21.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch6A%2FschXXII%2FptB)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schXXII/ptA/m__us_usc_t42_ch6A_schXXII_ptA.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schXXII/ptB/m__us_usc_t42_s300dd–21.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch6A%2FschXXII%2FptB)
 
 ----------
 ----------

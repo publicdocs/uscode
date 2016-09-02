@@ -15,7 +15,7 @@
 
 ## § 12722. Purposes
 
-The purposes of this subchapter are—
+    The purposes of this subchapter are—
 
     (1) to expand the supply of decent, safe, sanitary, and affordable housing, with primary attention to rental housing, for very low-income and low-income Americans;
 

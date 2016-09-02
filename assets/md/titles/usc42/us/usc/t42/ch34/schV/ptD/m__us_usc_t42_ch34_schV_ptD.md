@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch34/schV/ptC/m__us_usc_t42_s2930 to 2930f.md) | [Next](./../../../../../..//us/usc/t42/ch34/schV/ptD/m__us_usc_t42_s2931 to 2933.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch34%2FschV%2FptD)
+[Previous](./../../../../../..//us/usc/t42/ch34/schV/ptC/m__us_usc_t42_ch34_schV_ptC.md) | [Next](./../../../../../..//us/usc/t42/ch34/schVI/m__us_usc_t42_ch34_schVI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch34%2FschV%2FptD)
 
 #### Part D—Day Care Projects
 
@@ -19,9 +19,21 @@
 
     This part, formerly designated as Part B, was redesignated Part D by [Pub. L. 93–644, § 8(a)][/us/pl/93/644/s8/a], Jan. 4, 1975, [88 Stat. 2300][/us/stat/88/2300], as part of the general revision and amendment of this subchapter by [Pub. L. 93–644][/us/pl/93/644].
 
+§§ 2931 to 2933. __Repealed.__  __[__  __Pub. L. 97–35, title VI, § 683(a)__  __][/us/pl/97/35/s683/a]__  __,__  __Aug. 13, 1981__  __,__  __[__  __95 Stat. 519__  __][/us/stat/95/519]__ 
+
+    Section 2931, [Pub. L. 88–452, title V, § 581][/us/pl/88/452/s581], formerly § 521, as added [Pub. L. 90–222, title I, § 107(a)][/us/pl/90/222/s107/a], Dec. 23, 1967, [81 Stat. 713][/us/stat/81/713]; renumbered § 581, [Pub. L. 93–644, § 8(c)][/us/pl/93/644/s8/c], Jan. 4, 1975, [88 Stat. 2310][/us/stat/88/2310], set forth Congressional statement of purpose for day care projects.
+
+    Section 2932, [Pub. L. 88–452, title V, § 582][/us/pl/88/452/s582], formerly § 522, as added [Pub. L. 90–222, title I, § 107(a)][/us/pl/90/222/s107/a], Dec. 23, 1967, [81 Stat. 713][/us/stat/81/713]; amended [Pub. L. 92–424, § 19][/us/pl/92/424/s19], Sept. 19, 1972, [86 Stat. 696][/us/stat/86/696]; renumbered § 582 and amended [Pub. L. 93–644, § 8(b)][/us/pl/93/644/s8/b], (c), Jan. 4, 1975, [88 Stat. 2310][/us/stat/88/2310]; [Pub. L. 95–568, § 17(a)(24)][/us/pl/95/568/s17/a/24], Nov. 2, 1978, [92 Stat. 2441][/us/stat/92/2441], set forth authority, etc., for projects.
+
+    Section 2933, [Pub. L. 88–452, title V, § 583][/us/pl/88/452/s583], formerly § 523, as added [Pub. L. 90–222, title I, § 107(a)][/us/pl/90/222/s107/a], Dec. 23, 1967, [81 Stat. 714][/us/stat/81/714]; amended [Pub. L. 91–177, title I, § 101(c)][/us/pl/91/177/s101/c], Dec. 30, 1969, [83 Stat. 827][/us/stat/83/827]; [Pub. L. 92–424, § 2(b)][/us/pl/92/424/s2/b], Sept. 19, 1972, [86 Stat. 688][/us/stat/86/688]; renumbered § 583 and amended [Pub. L. 93–644][/us/pl/93/644], §§ 8(b), (c), 14(b), Jan. 4, 1975, [88 Stat. 2310][/us/stat/88/2310], 2329; [Pub. L. 94–341, § 3(c)][/us/pl/94/341/s3/c], July 6, 1976, [90 Stat. 807][/us/stat/90/807]; [Pub. L. 95–568, § 12][/us/pl/95/568/s12], Nov. 2, 1978, [92 Stat. 2435][/us/stat/92/2435], related to program duration.
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective Oct. 1, 1981, see [section 9912(a) of this title][/us/usc/t42/s9912/a], prior to the general amendment of chapter 106 (§ 9901 et seq.) of this title by [Pub. L. 105–285][/us/pl/105/285].
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch34/schV/ptC/m__us_usc_t42_s2930 to 2930f.md) | [Next](./../../../../../..//us/usc/t42/ch34/schV/ptD/m__us_usc_t42_s2931 to 2933.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch34%2FschV%2FptD)
+[Previous](./../../../../../..//us/usc/t42/ch34/schV/ptC/m__us_usc_t42_ch34_schV_ptC.md) | [Next](./../../../../../..//us/usc/t42/ch34/schVI/m__us_usc_t42_ch34_schVI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch34%2FschV%2FptD)
 
 ----------
 ----------
@@ -29,5 +41,36 @@
 [/us/pl/93/644/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F644%2Fs8%2Fa
 [/us/stat/88/2300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2300
 [/us/pl/93/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F644
+[/us/pl/97/35/s683/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs683%2Fa
+[/us/stat/95/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F519
+[/us/pl/88/452/s581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs581
+[/us/pl/90/222/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F222%2Fs107%2Fa
+[/us/stat/81/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F713
+[/us/pl/93/644/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F644%2Fs8%2Fc
+[/us/stat/88/2310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2310
+[/us/pl/88/452/s582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs582
+[/us/pl/90/222/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F222%2Fs107%2Fa
+[/us/stat/81/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F713
+[/us/pl/92/424/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F424%2Fs19
+[/us/stat/86/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F696
+[/us/pl/93/644/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F644%2Fs8%2Fb
+[/us/stat/88/2310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2310
+[/us/pl/95/568/s17/a/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F568%2Fs17%2Fa%2F24
+[/us/stat/92/2441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2441
+[/us/pl/88/452/s583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs583
+[/us/pl/90/222/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F222%2Fs107%2Fa
+[/us/stat/81/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F714
+[/us/pl/91/177/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F177%2Fs101%2Fc
+[/us/stat/83/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F827
+[/us/pl/92/424/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F424%2Fs2%2Fb
+[/us/stat/86/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F688
+[/us/pl/93/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F644
+[/us/stat/88/2310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2310
+[/us/pl/94/341/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F341%2Fs3%2Fc
+[/us/stat/90/807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F807
+[/us/pl/95/568/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F568%2Fs12
+[/us/stat/92/2435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2435
+[/us/usc/t42/s9912/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9912%2Fa
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
 
 

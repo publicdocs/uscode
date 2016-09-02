@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch20/schI–E/m__us_usc_t42_s1973dd to 1973dd–6.md) | [Next](./../../../../..//us/usc/t42/ch20/schI–F/m__us_usc_t42_s1973ee.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch20%2FschI%E2%80%93F)
+[Previous](./../../../../..//us/usc/t42/ch20/schI–E/m__us_usc_t42_ch20_schI–E.md) | [Next](./../../../../..//us/usc/t42/ch20/schI–F/m__us_usc_t42_s1973ee.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch20%2FschI%E2%80%93F)
 
 ### SUBCHAPTER I–F—VOTING ACCESSIBILITY FOR THE ELDERLY AND HANDICAPPED
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch20/schI–E/m__us_usc_t42_s1973dd to 1973dd–6.md) | [Next](./../../../../..//us/usc/t42/ch20/schI–F/m__us_usc_t42_s1973ee.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch20%2FschI%E2%80%93F)
+[Previous](./../../../../..//us/usc/t42/ch20/schI–E/m__us_usc_t42_ch20_schI–E.md) | [Next](./../../../../..//us/usc/t42/ch20/schI–F/m__us_usc_t42_s1973ee.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch20%2FschI%E2%80%93F)
 
 ----------
 ----------

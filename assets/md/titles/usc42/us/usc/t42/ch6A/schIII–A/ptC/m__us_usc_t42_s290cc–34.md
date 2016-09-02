@@ -15,7 +15,7 @@
 
 ## § 290cc–34. Definitions
 
-For purposes of this part:
+    For purposes of this part:
 
     (1) __Eligible homeless individual__ 
 

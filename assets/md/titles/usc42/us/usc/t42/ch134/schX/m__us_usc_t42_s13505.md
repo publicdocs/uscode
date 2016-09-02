@@ -15,7 +15,7 @@
 
 ## § 13505. Integration of research and development
 
-Within 180 days after October 24, 1992, the Secretary, in consultation with appropriate representatives of industry, institutions of higher education, Department of Energy national laboratories, and professional and technical societies, shall prepare and submit to Congress a 5-year program plan for improving the integration of basic energy research programs with other energy programs within the Department of Energy. Such program plan shall include—
+    Within 180 days after October 24, 1992, the Secretary, in consultation with appropriate representatives of industry, institutions of higher education, Department of Energy national laboratories, and professional and technical societies, shall prepare and submit to Congress a 5-year program plan for improving the integration of basic energy research programs with other energy programs within the Department of Energy. Such program plan shall include—
 
     (1) an evaluation of current procedures and mechanisms used to achieve such integration;
 

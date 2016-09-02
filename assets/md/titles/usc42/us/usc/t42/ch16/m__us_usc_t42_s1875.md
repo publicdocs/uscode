@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1874.md) | [Next](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1876 to 1879.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1875)
+[Previous](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1874.md) | [Next](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1880.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1875)
 
 ## § 1875. Appropriations
 
@@ -41,9 +41,19 @@
 
     Amendment by [Pub. L. 90–407][/us/pl/90/407] intended to continue in effect the existing offices, procedures, and organization of the Foundation, see [section 16 of Pub. L. 90–407][/us/pl/90/407/s16], set out as a note under [section 1862 of this title][/us/usc/t42/s1862].
 
+§§ 1876 to 1879. __Repealed.__  __[__  __Pub. L. 99–383, § 11__  __][/us/pl/99/383/s11]__  __,__  __Aug. 21, 1986__  __,__  __[__  __100 Stat. 817__  __][/us/stat/100/817]__ 
+
+    Section 1876, [Pub. L. 85–864, title IX, § 901][/us/pl/85/864/s901], Sept. 2, 1958, [72 Stat. 1601][/us/stat/72/1601], authorized establishment of a Science Information Service by National Science Foundation.
+
+    Section 1877, [Pub. L. 85–864, title IX, § 902][/us/pl/85/864/s902], Sept. 2, 1958, [72 Stat. 1601][/us/stat/72/1601]; [Pub. L. 90–407, § 15(b)][/us/pl/90/407/s15/b], July 18, 1968, [82 Stat. 367][/us/stat/82/367], authorized establishment of a Science Information Council within National Science Foundation.
+
+    Section 1878, [Pub. L. 85–864, title IX, § 903][/us/pl/85/864/s903], Sept. 2, 1958, [72 Stat. 1601][/us/stat/72/1601], provided National Science Foundation with same power and authority in carrying out its functions under sections 1876 to 1879 of this title as it had in carrying out its functions under this chapter.
+
+    Section 1879, [Pub. L. 85–864, title IX, § 904][/us/pl/85/864/s904], Sept. 2, 1958, [72 Stat. 1602][/us/stat/72/1602], authorized appropriations to carry out programs of the Science Information Service and the Science Information Council.
+
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1874.md) | [Next](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1876 to 1879.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1875)
+[Previous](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1874.md) | [Next](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1880.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1875)
 
 ----------
 ----------
@@ -71,5 +81,17 @@
 [/us/pl/90/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407
 [/us/pl/90/407/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407%2Fs16
 [/us/usc/t42/s1862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862
+[/us/pl/99/383/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F383%2Fs11
+[/us/stat/100/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F817
+[/us/pl/85/864/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F864%2Fs901
+[/us/stat/72/1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1601
+[/us/pl/85/864/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F864%2Fs902
+[/us/stat/72/1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1601
+[/us/pl/90/407/s15/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F407%2Fs15%2Fb
+[/us/stat/82/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F367
+[/us/pl/85/864/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F864%2Fs903
+[/us/stat/72/1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1601
+[/us/pl/85/864/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F864%2Fs904
+[/us/stat/72/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1602
 
 

@@ -143,7 +143,7 @@
 
 >             “(B) section 361 of the Runaway and Homeless Youth Act ([42 U.S.C. 5701][/us/usc/t42/s5701] et seq.) \[[42 U.S.C. 5715][/us/usc/t42/s5715]\], as redesignated by section 7273(e)(2) and amended by section 7274; and
 
->             “(C) section 404(a)(5) of the Missing Children’s Assistance Act ([42 U.S.C. 5773(a)(5)][/us/usc/t42/s5773/a/5]), as amended by section 7285(a)(3);
+>             “(C) section 404(a)(5) \[now 404(a)(6)\] of the Missing Children’s Assistance Act ([42 U.S.C. 5773(a)(5)][/us/usc/t42/s5773/a/5] \[now 5773(a)(6)\]), as amended by section 7285(a)(3);
 
 >             the reports required by such sections to be submitted with respect to fiscal year 1988 shall be submitted not later than August 1, 1989.”
 
@@ -162,6 +162,12 @@
  __Effective Date__ 
 
     [Pub. L. 93–415, title II, § 263(a)][/us/pl/93/415/s263/a], (b), Sept. 7, 1974, [88 Stat. 1129][/us/stat/88/1129], as amended by [Pub. L. 94–273, § 32(a)][/us/pl/94/273/s32/a], Apr. 21, 1976, [90 Stat. 380][/us/stat/90/380]; [Pub. L. 95–115, § 6(d)(1)][/us/pl/95/115/s6/d/1], Oct. 3, 1977, [91 Stat. 1058][/us/stat/91/1058], which provided that (a) except as provided by subsections (b) and (c) (set out as an Effective Date of 1977 Amendment note above), the foregoing provisions of such Act (enacting subchapters I and II of this chapter and amending [section 5108 of Title 5][/us/usc/t5/s5108], Government Organization and Employees) were to take effect on Sept. 7, 1974, and that (b) section 5614(b)(5) and 5614(b)(6) of this title was to become effective at the close of the thirty-first day of the twelfth calendar month of 1974 and section 5614(l) of this title was to become effective at the close of the thirtieth day of the eleventh month of 1976, was repealed by [Pub. L. 100–690, title VII, § 7266(2)][/us/pl/100/690/s7266/2], Nov. 18, 1988, [102 Stat. 4449][/us/stat/102/4449].
+
+ __Short Title of 2013 Amendment__ 
+
+[Pub. L. 113–38, § 1][/us/pl/113/38/s1], Sept. 30, 2013, [127 Stat. 527][/us/stat/127/527], provided that: 
+
+> “This Act \[enacting [section 5776a of this title][/us/usc/t42/s5776a] and amending sections 5771, 5773, 5775, and 5777 of this title\] may be cited as the ‘E. Clay Shaw, Jr. Missing Children’s Assistance Reauthorization Act of 2013’.”
 
  __Short Title of 2008 Amendment__ 
 
@@ -310,6 +316,9 @@
 [/us/usc/t5/s5108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5108
 [/us/pl/100/690/s7266/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7266%2F2
 [/us/stat/102/4449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4449
+[/us/pl/113/38/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F38%2Fs1
+[/us/stat/127/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F527
+[/us/usc/t42/s5776a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5776a
 [/us/pl/110/378/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F378%2Fs1
 [/us/stat/122/4068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4068
 [/us/pl/110/240/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F240%2Fs1

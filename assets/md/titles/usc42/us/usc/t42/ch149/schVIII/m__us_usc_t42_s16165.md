@@ -15,7 +15,7 @@
 
 ## § 16165. Savings clause
 
-Nothing in this subchapter shall be construed to affect the authority of the Secretary of Transportation that may exist prior to August 8, 2005, with respect to—
+    Nothing in this subchapter shall be construed to affect the authority of the Secretary of Transportation that may exist prior to August 8, 2005, with respect to—
 
     (1) research into, and regulation of, hydrogen-powered vehicles fuel systems integrity, standards, and safety under subtitle VI of title 49;
 

@@ -15,7 +15,7 @@
 
 ## § 14044e. Definitions
 
-In this part:
+    In this part:
 
     (1) __Severe forms of trafficking in persons__ 
 

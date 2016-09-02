@@ -15,7 +15,7 @@
 
 ## § 14321. Purpose
 
-The purpose of this subchapter is to facilitate the efficient recycling or proper disposal of used nickel-cadmium rechargeable batteries, used small sealed lead-acid rechargeable batteries, other regulated batteries, and such rechargeable batteries in used consumer products, by—
+    The purpose of this subchapter is to facilitate the efficient recycling or proper disposal of used nickel-cadmium rechargeable batteries, used small sealed lead-acid rechargeable batteries, other regulated batteries, and such rechargeable batteries in used consumer products, by—
 
     (1) providing for uniform labeling requirements and streamlined regulatory requirements for regulated battery collection programs; and
 

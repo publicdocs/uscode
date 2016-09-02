@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch15B/schII/ptA/m__us_usc_t42_s1857f–6e to 1857f–7.md) | [Next](./../../../../../..//us/usc/t42/ch15B/schII/ptB/m__us_usc_t42_ch15B_schII_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857f%E2%80%938)
+[Previous](./../../../../../..//us/usc/t42/ch15B/schII/ptA/m__us_usc_t42_s1857f–6d.md) | [Next](./../../../../../..//us/usc/t42/ch15B/schII/ptB/m__us_usc_t42_ch15B_schII_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857f%E2%80%938)
 
 ## § 1857f–8. Repealed. [Pub. L. 89–675, § 2(b)][/us/pl/89/675/s2/b], Oct. 15, 1966, [80 Stat. 954][/us/stat/80/954]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch15B/schII/ptA/m__us_usc_t42_s1857f–6e to 1857f–7.md) | [Next](./../../../../../..//us/usc/t42/ch15B/schII/ptB/m__us_usc_t42_ch15B_schII_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857f%E2%80%938)
+[Previous](./../../../../../..//us/usc/t42/ch15B/schII/ptA/m__us_usc_t42_s1857f–6d.md) | [Next](./../../../../../..//us/usc/t42/ch15B/schII/ptB/m__us_usc_t42_ch15B_schII_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857f%E2%80%938)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 291a. Authorization of appropriations
 
-In order to assist the States in carrying out the purposes of [section 291 of this title][/us/usc/t42/s291], there are authorized to be appropriated—
+    In order to assist the States in carrying out the purposes of [section 291 of this title][/us/usc/t42/s291], there are authorized to be appropriated—
 
     (a)
 

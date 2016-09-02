@@ -15,7 +15,7 @@
 
 ## § 5119c. Definitions
 
-For the purposes of this subchapter—
+    For the purposes of this subchapter—
 
     (1) the term “authorized agency” means a division or office of a State designated by a State to report, receive, or disseminate information under this subchapter;
 

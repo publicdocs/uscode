@@ -15,7 +15,7 @@
 
 ## § 16151. Purposes
 
-The purposes of this subchapter are—
+    The purposes of this subchapter are—
 
     (1) to enable and promote comprehensive development, demonstration, and commercialization of hydrogen and fuel cell technology in partnership with industry;
 

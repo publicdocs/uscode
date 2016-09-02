@@ -15,7 +15,7 @@
 
 ## § 11361. Housing affordability strategy
 
-Assistance may be made under this subchapter only if the grantee certifies that it is following—
+    Assistance may be made under this subchapter only if the grantee certifies that it is following—
 
     (1) a consolidated plan which has been approved by the Secretary in accordance with [section 12705 of this title][/us/usc/t42/s12705] (referred to in such section as a “comprehensive housing affordability strategy”), or
 

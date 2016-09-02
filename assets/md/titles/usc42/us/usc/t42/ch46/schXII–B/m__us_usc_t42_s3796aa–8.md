@@ -15,7 +15,7 @@
 
 ## § 3796aa–8. Definitions
 
-For purposes of this subchapter—
+    For purposes of this subchapter—
 
     (1) the term “child” means an individual under the age of 18 years; and
 

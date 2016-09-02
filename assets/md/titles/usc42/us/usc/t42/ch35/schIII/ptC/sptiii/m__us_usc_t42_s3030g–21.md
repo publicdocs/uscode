@@ -15,7 +15,7 @@
 
 ## § 3030g–21. Nutrition
 
-A State that establishes and operates a nutrition project under this chapter  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Title III of [Pub. L. 89–73][/us/pl/89/73], as amended, contained parts and subparts, but not chapters. </sup></sup>  shall—
+    A State that establishes and operates a nutrition project under this chapter  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Title III of [Pub. L. 89–73][/us/pl/89/73], as amended, contained parts and subparts, but not chapters. </sup></sup>  shall—
 
     (1) solicit the expertise of a dietitian or other individual with equivalent education and training in nutrition science, or if such an individual is not available, an individual with comparable expertise in the planning of nutritional services, and
 

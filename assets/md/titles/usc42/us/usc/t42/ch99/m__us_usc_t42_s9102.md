@@ -15,7 +15,7 @@
 
 ## § 9102. Definitions
 
-As used in this chapter, unless the context otherwise requires, the term—
+    As used in this chapter, unless the context otherwise requires, the term—
 
     (1) “adjacent coastal State” means any coastal State which is required to be designated as such by [section 9115(a)(1) of this title][/us/usc/t42/s9115/a/1] or is designated as such by the Administrator in accordance with [section 9115(a)(2) of this title][/us/usc/t42/s9115/a/2];
 

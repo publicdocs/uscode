@@ -15,7 +15,7 @@
 
 ## § 1870. General authority of Foundation
 
-The Foundation shall have the authority, within the limits of available appropriations, to do all things necessary to carry out the provisions of this chapter, including, but without being limited thereto, the authority—
+    The Foundation shall have the authority, within the limits of available appropriations, to do all things necessary to carry out the provisions of this chapter, including, but without being limited thereto, the authority—
 
     (a) to prescribe such rules and regulations as it deems necessary governing the manner of its operations and its organization and personnel;
 

@@ -15,7 +15,7 @@
 
 ## § 300g. Coverage
 
-Subject to sections 300g–4 and 300g–5 of this title, national primary drinking water regulations under this part shall apply to each public water system in each State; except that such regulations shall not apply to a public water system—
+    Subject to sections 300g–4 and 300g–5 of this title, national primary drinking water regulations under this part shall apply to each public water system in each State; except that such regulations shall not apply to a public water system—
 
     (1) which consists only of distribution and storage facilities (and does not have any collection and treatment facilities);
 

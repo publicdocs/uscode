@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch48/m__us_usc_t42_s3912, 3913.md) | [Next](./../../../..//us/usc/t42/ch49/m__us_usc_t42_ch49.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3914)
+[Previous](./../../../..//us/usc/t42/ch48/m__us_usc_t42_s3911.md) | [Next](./../../../..//us/usc/t42/ch49/m__us_usc_t42_ch49.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3914)
 
 ## § 3914. Repealed. [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 474(e)\], Nov. 30, 1983, [97 Stat. 1239][/us/stat/97/1239]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch48/m__us_usc_t42_s3912, 3913.md) | [Next](./../../../..//us/usc/t42/ch49/m__us_usc_t42_ch49.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3914)
+[Previous](./../../../..//us/usc/t42/ch48/m__us_usc_t42_s3911.md) | [Next](./../../../..//us/usc/t42/ch49/m__us_usc_t42_ch49.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3914)
 
 ----------
 ----------

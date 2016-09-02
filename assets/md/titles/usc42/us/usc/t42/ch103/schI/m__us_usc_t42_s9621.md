@@ -219,7 +219,7 @@
 
 >     “(2) If the ROD was signed, or the consent decree lodged, within the 30-day period immediately following enactment of the Act \[Oct. 17, 1986\], the Administrator shall certify in writing that the portion of the remedial action covered by the ROD or consent decree complies to the maximum extent practicable with section 121 of CERCLA.
 
->         Any ROD signed before enactment of this Act \[Oct. 17, 1986\] and reopened after enactment of this Act to modify or supplement the selection of remedy shall be subject to the requirements of section 121 of CERCLA.”
+>     Any ROD signed before enactment of this Act \[Oct. 17, 1986\] and reopened after enactment of this Act to modify or supplement the selection of remedy shall be subject to the requirements of section 121 of CERCLA.”
 
  __Termination of Reporting Requirements__ 
 

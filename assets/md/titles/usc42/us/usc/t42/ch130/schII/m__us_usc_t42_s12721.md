@@ -15,7 +15,7 @@
 
 ## § 12721. Findings
 
-The Congress finds that—
+    The Congress finds that—
 
     (1) the Nation has not made adequate progress toward the goal of national housing policy, as set out in the Housing Act of 1949 \[[42 U.S.C. 1441][/us/usc/t42/s1441] et seq.\] and reaffirmed in the Housing and Urban Development Act of 1968, which would provide decent, safe, sanitary, and affordable living environments for all Americans;
 

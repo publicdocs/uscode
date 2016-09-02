@@ -15,7 +15,7 @@
 
 ## § 13726c. Enforcement
 
-Any person who is found in violation of the regulations established by sections 13726 to 13726c of this title shall—
+    Any person who is found in violation of the regulations established by sections 13726 to 13726c of this title shall—
 
     (1) be liable to the United States for a civil penalty in an amount not to exceed $10,000 for each violation and, in addition, to the United States for the costs of prosecution; and
 

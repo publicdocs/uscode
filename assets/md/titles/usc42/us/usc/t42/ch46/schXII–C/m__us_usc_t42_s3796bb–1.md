@@ -15,7 +15,7 @@
 
 ## § 3796bb–1. Other requirements
 
-Parts A and C of subchapter V of this chapter shall apply with respect to funds appropriated to carry out this subchapter, in the same manner as such parts apply to funds appropriated to carry out subchapter V of this chapter, except that—
+    Parts A and C of subchapter V of this chapter shall apply with respect to funds appropriated to carry out this subchapter, in the same manner as such parts apply to funds appropriated to carry out subchapter V of this chapter, except that—
 
     (1) [section 3755(a) of this title][/us/usc/t42/s3755/a] shall not apply with respect to this subchapter; and
 

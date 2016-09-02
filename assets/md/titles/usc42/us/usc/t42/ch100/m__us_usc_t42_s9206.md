@@ -15,7 +15,7 @@
 
 ## § 9206. Wind resource assessment
 
-The Secretary shall initiate a three-year national wind resource assessment program. As part of such program, the Secretary shall—
+    The Secretary shall initiate a three-year national wind resource assessment program. As part of such program, the Secretary shall—
 
     (1) conduct activities to validate existing assessments of known wind resources;
 

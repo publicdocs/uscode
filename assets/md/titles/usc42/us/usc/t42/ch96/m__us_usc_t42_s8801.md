@@ -15,7 +15,7 @@
 
 ## § 8801. Congressional findings
 
-The Congress finds that—
+    The Congress finds that—
 
     (1) the dependence of the United States on imported petroleum and natural gas must be reduced by all economically and environmentally feasible means, including the use of biomass energy resources; and
 

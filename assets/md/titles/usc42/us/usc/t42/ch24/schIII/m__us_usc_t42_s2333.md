@@ -15,7 +15,7 @@
 
 ## § 2333. Transfer of priorities
 
-No priority shall be transferable, except—
+    No priority shall be transferable, except—
 
     (a) a husband and wife may exercise a priority in their joint names;
 

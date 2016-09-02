@@ -123,7 +123,9 @@
 
 >                 “(i) __In general.—__ 
 
->                 The Secretary of Health and Human Services shall ensure that any material provided under subparagraph (A) to the National Committee on Vital and Health Statistics or any organization described in subparagraph (C) is redacted so as to prevent the disclosure of any—         “(I) trade secrets;
+>                 The Secretary of Health and Human Services shall ensure that any material provided under subparagraph (A) to the National Committee on Vital and Health Statistics or any organization described in subparagraph (C) is redacted so as to prevent the disclosure of any—
+
+>                          “(I) trade secrets;
 
 >                          “(II) commercial or financial information that is privileged or confidential; and
 

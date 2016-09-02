@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch17/m__us_usc_t42_s1901 to 1918.md) | [Next](./../../../..//us/usc/t42/ch18/m__us_usc_t42_s1921.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch18)
+[Previous](./../../../..//us/usc/t42/ch17/m__us_usc_t42_ch17.md) | [Next](./../../../..//us/usc/t42/ch18/m__us_usc_t42_s1921.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch18)
 
 ## CHAPTER 18—YOUTH MEDALS
 
@@ -75,7 +75,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch17/m__us_usc_t42_s1901 to 1918.md) | [Next](./../../../..//us/usc/t42/ch18/m__us_usc_t42_s1921.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch18)
+[Previous](./../../../..//us/usc/t42/ch17/m__us_usc_t42_ch17.md) | [Next](./../../../..//us/usc/t42/ch18/m__us_usc_t42_s1921.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch18)
 
 ----------
 ----------

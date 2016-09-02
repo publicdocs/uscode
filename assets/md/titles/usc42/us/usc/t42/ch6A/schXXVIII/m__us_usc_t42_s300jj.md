@@ -15,7 +15,7 @@
 
 ## § 300jj. Definitions
 
-In this subchapter:
+    In this subchapter:
 
     (1) __Certified EHR technology__ 
 

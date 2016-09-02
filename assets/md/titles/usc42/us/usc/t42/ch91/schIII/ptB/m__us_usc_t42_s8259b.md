@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch91/schIII/ptB/m__us_usc_t42_s8259a.md) | [Next](./../../../../../..//us/usc/t42/ch91/schIII/ptB/m__us_usc_t42_s8260, 8261.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8259b)
+[Previous](./../../../../../..//us/usc/t42/ch91/schIII/ptB/m__us_usc_t42_s8259a.md) | [Next](./../../../../../..//us/usc/t42/ch91/schIII/ptB/m__us_usc_t42_s8262.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8259b)
 
 ## § 8259b. Federal procurement of energy efficient products
 
@@ -143,9 +143,19 @@
 
 > “Not later than 9 months after the date of enactment of this Act \[Dec. 19, 2007\], the General Services Administration and the Defense Logistics Agency shall ensure that the requirement established by the amendment made by subsection (a)(2)(A) \[amending this section\] has been fully complied with.”
 
+§§ 8260, 8261. __Omitted__ 
+
+ __Codification__ 
+
+    Sections 8260 and 8261 were omitted in the general amendment of this part by Pub. L 100–615, § 2(a), Nov. 5, 1988, [102 Stat. 3185][/us/stat/102/3185].
+
+    Section 8260, [Pub. L. 95–619, title V, § 550][/us/pl/95/619/s550], Nov. 9, 1978, [92 Stat. 3280][/us/stat/92/3280], directed each Federal agency to periodically furnish Secretary with full and complete information on its activities under this part, and directed Secretary to annually submit to Congress a comprehensive report on all activities under this part and on progress made toward achievement of objectives of this part.
+
+    Section 8261, [Pub. L. 95–619, title V, § 551][/us/pl/95/619/s551], Nov. 9, 1978, [92 Stat. 3280][/us/stat/92/3280], authorized to be appropriated to Secretary not to exceed $2,000,000 for fiscal year ending Sept. 30, 1979, to enable Secretary to perform analytical and administrative functions under this part.
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch91/schIII/ptB/m__us_usc_t42_s8259a.md) | [Next](./../../../../../..//us/usc/t42/ch91/schIII/ptB/m__us_usc_t42_s8260, 8261.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8259b)
+[Previous](./../../../../../..//us/usc/t42/ch91/schIII/ptB/m__us_usc_t42_s8259a.md) | [Next](./../../../../../..//us/usc/t42/ch91/schIII/ptB/m__us_usc_t42_s8262.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8259b)
 
 ----------
 ----------
@@ -165,5 +175,10 @@
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824
 [/us/pl/110/140/s525/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs525%2Fb
 [/us/stat/121/1663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1663
+[/us/stat/102/3185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3185
+[/us/pl/95/619/s550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs550
+[/us/stat/92/3280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3280
+[/us/pl/95/619/s551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619%2Fs551
+[/us/stat/92/3280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3280
 
 

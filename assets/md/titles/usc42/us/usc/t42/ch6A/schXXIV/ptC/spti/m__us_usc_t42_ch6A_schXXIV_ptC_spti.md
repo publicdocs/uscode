@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t42/ch6A/schXXIV/ptC/m__us_usc_t42_s300ff–41 to 300ff–50.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schXXIV/ptC/spti/m__us_usc_t42_s300ff–51.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch6A%2FschXXIV%2FptC%2Fspti)
+[Previous](./../../../../../../..//us/usc/t42/ch6A/schXXIV/ptC/m__us_usc_t42_ch6A_schXXIV_ptC.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schXXIV/ptC/spti/m__us_usc_t42_s300ff–51.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch6A%2FschXXIV%2FptC%2Fspti)
 
 ##### subpart i—categorical grants
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t42/ch6A/schXXIV/ptC/m__us_usc_t42_s300ff–41 to 300ff–50.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schXXIV/ptC/spti/m__us_usc_t42_s300ff–51.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch6A%2FschXXIV%2FptC%2Fspti)
+[Previous](./../../../../../../..//us/usc/t42/ch6A/schXXIV/ptC/m__us_usc_t42_ch6A_schXXIV_ptC.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schXXIV/ptC/spti/m__us_usc_t42_s300ff–51.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch6A%2FschXXIV%2FptC%2Fspti)
 
 ----------
 ----------

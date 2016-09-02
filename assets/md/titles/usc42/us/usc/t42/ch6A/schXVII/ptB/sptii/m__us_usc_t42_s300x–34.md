@@ -15,7 +15,7 @@
 
 ## § 300x–34. Definitions
 
-For purposes of this subpart:
+    For purposes of this subpart:
 
     (1) The term “authorized activities”, subject to [section 300x–31 of this title][/us/usc/t42/s300x–31], means the activities described in [section 300x–21(b) of this title][/us/usc/t42/s300x–21/b].
 

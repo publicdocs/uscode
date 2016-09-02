@@ -15,7 +15,7 @@
 
 ## § 11381. Purposes
 
-The purposes of this part are—
+    The purposes of this part are—
 
     (1) to promote community-wide commitment to the goal of ending homelessness;
 

@@ -15,7 +15,7 @@
 
 ## § 10361. Findings
 
-Congress finds that—
+    Congress finds that—
 
     (1) adequate and safe supplies of water are fundamental to the health, economy, security, and ecology of the United States;
 

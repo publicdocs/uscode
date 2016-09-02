@@ -15,7 +15,7 @@
 
 ## § 11701. Findings
 
-The Congress finds that:
+    The Congress finds that:
 
     (1) Native Hawaiians comprise a distinct and unique indigenous people with a historical continuity to the original inhabitants of the Hawaiian archipelago whose society was organized as a Nation prior to the arrival of the first nonindigenous people in 1778.
 

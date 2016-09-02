@@ -15,7 +15,7 @@
 
 ## § 5170a. General Federal assistance
 
-In any major disaster, the President may—
+    In any major disaster, the President may—
 
     (1) direct any Federal agency, with or without reimbursement, to utilize its authorities and the resources granted to it under Federal law (including personnel, equipment, supplies, facilities, and managerial, technical, and advisory services) in support of State and local assistance response or recovery efforts, including precautionary evacuations;
 

@@ -15,7 +15,7 @@
 
 ## § 629. Purpose
 
-The purpose of this program is to enable States to develop and establish, or expand, and to operate coordinated programs of community-based family support services, family preservation services, time-limited family reunification services, and adoption promotion and support services to accomplish the following objectives:
+    The purpose of this program is to enable States to develop and establish, or expand, and to operate coordinated programs of community-based family support services, family preservation services, time-limited family reunification services, and adoption promotion and support services to accomplish the following objectives:
 
     (1) To prevent child maltreatment among families at risk through the provision of supportive family services.
 

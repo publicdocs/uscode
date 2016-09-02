@@ -15,7 +15,7 @@
 
 ## § 3797d. Definitions
 
-For purposes of this subchapter—
+    For purposes of this subchapter—
 
     (1) the term “school” means a public elementary or secondary school;
 

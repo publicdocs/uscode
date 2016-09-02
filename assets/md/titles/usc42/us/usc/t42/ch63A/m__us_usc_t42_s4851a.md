@@ -15,7 +15,7 @@
 
 ## § 4851a. Purposes
 
-The purposes of this chapter are—
+    The purposes of this chapter are—
 
     (1) to develop a national strategy to build the infrastructure necessary to eliminate lead-based paint hazards in all housing as expeditiously as possible;
 

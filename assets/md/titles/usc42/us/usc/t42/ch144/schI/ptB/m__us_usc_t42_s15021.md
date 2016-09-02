@@ -15,7 +15,7 @@
 
 ## § 15021. Purpose
 
-The purpose of this part is to provide for allotments to support State Councils on Developmental Disabilities (referred to individually in this part as a “Council”) in each State to—
+    The purpose of this part is to provide for allotments to support State Councils on Developmental Disabilities (referred to individually in this part as a “Council”) in each State to—
 
     (1) engage in advocacy, capacity building, and systemic change activities that are consistent with the purpose described in [section 15001(b) of this title][/us/usc/t42/s15001/b] and the policy described in [section 15001(c) of this title][/us/usc/t42/s15001/c]; and
 

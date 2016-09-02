@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch19B/schIV/m__us_usc_t42_s1962d–11a.md) | [Next](./../../../../..//us/usc/t42/ch19B/schIV/m__us_usc_t42_s1962d–12 to 1962d–14.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%9311b)
+[Previous](./../../../../..//us/usc/t42/ch19B/schIV/m__us_usc_t42_s1962d–11a.md) | [Next](./../../../../..//us/usc/t42/ch19B/schIV/m__us_usc_t42_s1962d–14a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%9311b)
 
 ## § 1962d–11b. Dalecarlia Reservoir; delivery of water to metropolitan Maryland; expenses; payments; purchase of water from State or local authorities in Maryland or Virginia
 
@@ -29,9 +29,17 @@
 
     Secretary means the Secretary of the Army, see [section 2201 of Title 33][/us/usc/t33/s2201], Navigation and Navigable Waters.
 
+§§ 1962d–12 to 1962d–14. __Repealed.__  __[__  __Pub. L. 104–58, title I, § 104(g)(3)__  __][/us/pl/104/58/s104/g/3]__  __,__  __Nov. 28, 1995__  __,__  __[__  __109 Stat. 560__  __][/us/stat/109/560]__ 
+
+    Section 1962d–12, [act Aug. 9, 1955, ch. 682, § 1][/us/act/1955-08-09/ch682/s1], [69 Stat. 618][/us/stat/69/618], authorized Secretary of the Interior to make investigations of projects for conservation, development, and utilization of Alaskan water resources and to report findings, with recommendations, to President and Congress.
+
+    Section 1962d–13, [act Aug. 9, 1955, ch. 682, § 2][/us/act/1955-08-09/ch682/s2], [69 Stat. 618][/us/stat/69/618], directed Secretary of the Interior, prior to transmission of report on Alaskan water resource projects to Congress, to transmit copies thereof for information and comment to Governor of Alaska and to heads of interested Federal departments and agencies, and to include copies of views of such officials along with transmission of Secretary’s report to Congress.
+
+    Section 1962d–14, [act Aug. 9, 1955, ch. 682, § 3][/us/act/1955-08-09/ch682/s3], [69 Stat. 618][/us/stat/69/618], authorized to be appropriated not more than $250,000 in any one fiscal year for Alaskan water resources investigation.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch19B/schIV/m__us_usc_t42_s1962d–11a.md) | [Next](./../../../../..//us/usc/t42/ch19B/schIV/m__us_usc_t42_s1962d–12 to 1962d–14.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%9311b)
+[Previous](./../../../../..//us/usc/t42/ch19B/schIV/m__us_usc_t42_s1962d–11a.md) | [Next](./../../../../..//us/usc/t42/ch19B/schIV/m__us_usc_t42_s1962d–14a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1962d%E2%80%9311b)
 
 ----------
 ----------
@@ -39,5 +47,13 @@
 [/us/pl/99/662/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs1111
 [/us/stat/100/4231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4231
 [/us/usc/t33/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2201
+[/us/pl/104/58/s104/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F58%2Fs104%2Fg%2F3
+[/us/stat/109/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F560
+[/us/act/1955-08-09/ch682/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch682%2Fs1
+[/us/stat/69/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F618
+[/us/act/1955-08-09/ch682/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch682%2Fs2
+[/us/stat/69/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F618
+[/us/act/1955-08-09/ch682/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch682%2Fs3
+[/us/stat/69/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F618
 
 

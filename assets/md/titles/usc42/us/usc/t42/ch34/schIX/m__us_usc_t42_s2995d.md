@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch34/schIX/m__us_usc_t42_s2995 to 2995c.md) | [Next](./../../../../..//us/usc/t42/ch34/schX/m__us_usc_t42_ch34_schX.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2995d)
+[Previous](./../../../../..//us/usc/t42/ch34/schIX/m__us_usc_t42_ch34_schIX.md) | [Next](./../../../../..//us/usc/t42/ch34/schX/m__us_usc_t42_ch34_schX.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2995d)
 
 ## § 2995d. Omitted
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch34/schIX/m__us_usc_t42_s2995 to 2995c.md) | [Next](./../../../../..//us/usc/t42/ch34/schX/m__us_usc_t42_ch34_schX.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2995d)
+[Previous](./../../../../..//us/usc/t42/ch34/schIX/m__us_usc_t42_ch34_schIX.md) | [Next](./../../../../..//us/usc/t42/ch34/schX/m__us_usc_t42_ch34_schX.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2995d)
 
 ----------
 ----------

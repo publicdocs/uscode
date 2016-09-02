@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch25/m__us_usc_t42_s2401 to 2413.md) | [Next](./../../../..//us/usc/t42/ch25/m__us_usc_t42_s2415 to 2421.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2414)
+[Previous](./../../../..//us/usc/t42/ch25/m__us_usc_t42_ch25.md) | [Next](./../../../..//us/usc/t42/ch26/m__us_usc_t42_ch26.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2414)
 
 ## § 2414. Issuance of notes by Administrator of Federal Emergency Management Agency; terms and conditions
 
@@ -53,9 +53,31 @@
 
     Functions of Public Housing Administration and of Housing and Home Finance Agency (of which Public Housing Administration is a constituent agency) and of heads thereof transferred to Secretary of Housing and Urban Development by [Pub. L. 89–174, § 5(a)][/us/pl/89/174/s5/a], Sept. 9, 1965, [79 Stat. 669][/us/stat/79/669], which is classified to [section 3534(a) of this title][/us/usc/t42/s3534/a]. Section 9(c) of such act, set out as a note under [section 3531 of this title][/us/usc/t42/s3531], provides that references to Housing and Home Finance Agency or to any agency or officer therein are to be deemed to mean Secretary of Housing and Urban Development and that Housing and Home Finance Agency and Public Housing Administration have lapsed.
 
+§§ 2415 to 2421. __Repealed.__  __[__  __Pub. L. 90–448, title XIII, § 1303(c)__  __][/us/pl/90/448/s1303/c]__  __,__  __Aug. 1, 1968__  __,__  __[__  __82 Stat. 573__  __][/us/stat/82/573]__ 
+
+    Section 2415, [act Aug. 7, 1956, ch. 1025, § 16][/us/act/1956-08-07/ch1025/s16], [70 Stat. 1085][/us/stat/70/1085], authorized appointment of an advisory committee.
+
+    Section 2416, [act Aug. 7, 1956, ch. 1025, § 17][/us/act/1956-08-07/ch1025/s17], [70 Stat. 1085][/us/stat/70/1085], provided for studies.
+
+    Section 2417, [act Aug. 7, 1956, ch. 1025, § 18][/us/act/1956-08-07/ch1025/s18], [70 Stat. 1085][/us/stat/70/1085], prescribed additional functions of the Administrator.
+
+    Section 2418, [act Aug. 7, 1956, ch. 1025, § 19][/us/act/1956-08-07/ch1025/s19], [70 Stat. 1086][/us/stat/70/1086], reserved rights in acquired real estate.
+
+    Section 2419, [act Aug. 7, 1956, ch. 1025, § 20][/us/act/1956-08-07/ch1025/s20], [70 Stat. 1086][/us/stat/70/1086], related to exemption of real estate from taxation.
+
+    Section 2420, [act Aug. 7, 1956, ch. 1025, § 21][/us/act/1956-08-07/ch1025/s21], [70 Stat. 1086][/us/stat/70/1086], provided for annual reports.
+
+    Section 2421, [act Aug. 7, 1956, ch. 1025, § 22][/us/act/1956-08-07/ch1025/s22], [70 Stat. 1086][/us/stat/70/1086], defined terms used in this chapter.
+
+    See section 4001 et seq. of this title.
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see [section 1377 of Pub. L. 90–448][/us/pl/90/448/s1377], set out as an Effective Date note under [section 4001 of this title][/us/usc/t42/s4001].
+
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch25/m__us_usc_t42_s2401 to 2413.md) | [Next](./../../../..//us/usc/t42/ch25/m__us_usc_t42_s2415 to 2421.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2414)
+[Previous](./../../../..//us/usc/t42/ch25/m__us_usc_t42_ch25.md) | [Next](./../../../..//us/usc/t42/ch26/m__us_usc_t42_ch26.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2414)
 
 ----------
 ----------
@@ -92,5 +114,23 @@
 [/us/stat/79/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F669
 [/us/usc/t42/s3534/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3534%2Fa
 [/us/usc/t42/s3531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3531
+[/us/pl/90/448/s1303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1303%2Fc
+[/us/stat/82/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F573
+[/us/act/1956-08-07/ch1025/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-07%2Fch1025%2Fs16
+[/us/stat/70/1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1085
+[/us/act/1956-08-07/ch1025/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-07%2Fch1025%2Fs17
+[/us/stat/70/1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1085
+[/us/act/1956-08-07/ch1025/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-07%2Fch1025%2Fs18
+[/us/stat/70/1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1085
+[/us/act/1956-08-07/ch1025/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-07%2Fch1025%2Fs19
+[/us/stat/70/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1086
+[/us/act/1956-08-07/ch1025/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-07%2Fch1025%2Fs20
+[/us/stat/70/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1086
+[/us/act/1956-08-07/ch1025/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-07%2Fch1025%2Fs21
+[/us/stat/70/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1086
+[/us/act/1956-08-07/ch1025/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-07%2Fch1025%2Fs22
+[/us/stat/70/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1086
+[/us/pl/90/448/s1377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1377
+[/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
 
 

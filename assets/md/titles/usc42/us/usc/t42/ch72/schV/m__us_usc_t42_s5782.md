@@ -15,7 +15,7 @@
 
 ## § 5782. Duties and functions of the Administrator
 
-The Administrator shall—
+    The Administrator shall—
 
     (1) issue such rules as are necessary or appropriate to carry out this subchapter;
 

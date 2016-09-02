@@ -15,7 +15,7 @@
 
 ## § 12611. Purpose
 
-It is the purpose of this division to authorize the operation of, and support for, residential and other service programs that combine the best practices of civilian service with the best aspects of military service, including leadership and team building, to meet national and community needs. The needs to be met under such programs include those needs related to—
+    It is the purpose of this division to authorize the operation of, and support for, residential and other service programs that combine the best practices of civilian service with the best aspects of military service, including leadership and team building, to meet national and community needs. The needs to be met under such programs include those needs related to—
 
     (1) natural and other disasters;
 

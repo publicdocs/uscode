@@ -23,9 +23,11 @@
 
             No later than 2 years from November 15, 1990, the State shall submit a comprehensive, accurate, current inventory of actual emissions from all sources, as described in [section 7502(c)(3) of this title][/us/usc/t42/s7502/c/3], in accordance with guidance provided by the Administrator.
 
-        (2) __(A) Vehicle miles traveled__ 
+        (2)
 
-        No later than 2 years after November 15, 1990, for areas with a design value above 12.7 ppm at the time of classification, the plan revision shall contain a forecast of vehicle miles traveled in the nonattainment area concerned for each year before the year in which the plan projects the national ambient air quality standard for carbon monoxide to be attained in the area. The forecast shall be based on guidance which shall be published by the Administrator, in consultation with the Secretary of Transportation, within 6 months after November 15, 1990. The plan revision shall provide for annual updates of the forecasts to be submitted to the Administrator together with annual reports regarding the extent to which such forecasts proved to be accurate. Such annual reports shall contain estimates of actual vehicle miles traveled in each year for which a forecast was required.
+            (A) __Vehicle miles traveled__ 
+
+                No later than 2 years after November 15, 1990, for areas with a design value above 12.7 ppm at the time of classification, the plan revision shall contain a forecast of vehicle miles traveled in the nonattainment area concerned for each year before the year in which the plan projects the national ambient air quality standard for carbon monoxide to be attained in the area. The forecast shall be based on guidance which shall be published by the Administrator, in consultation with the Secretary of Transportation, within 6 months after November 15, 1990. The plan revision shall provide for annual updates of the forecasts to be submitted to the Administrator together with annual reports regarding the extent to which such forecasts proved to be accurate. Such annual reports shall contain estimates of actual vehicle miles traveled in each year for which a forecast was required.
 
             (B) __Special rule for Denver__ 
 

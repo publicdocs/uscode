@@ -15,13 +15,13 @@
 
 ## § 5673. Withholding
 
-Whenever the Administrator, after giving reasonable notice and opportunity for hearing to a recipient of financial assistance under this subchapter, finds that—
+    Whenever the Administrator, after giving reasonable notice and opportunity for hearing to a recipient of financial assistance under this subchapter, finds that—
 
     (1) the program or activity for which the grant or contract involved was made has been so changed that it no longer complies with this subchapter; or
 
     (2) in the operation of such program or activity there is failure to comply substantially with any provision of this subchapter;
 
-        the Administrator shall initiate such proceedings as are appropriate.
+    the Administrator shall initiate such proceedings as are appropriate.
 
 ([Pub. L. 93–415, title II, § 299B][/us/pl/93/415/s299B], formerly § 293, as added [Pub. L. 100–690, title VII, § 7266(4)][/us/pl/100/690/s7266/4], Nov. 18, 1988, [102 Stat. 4449][/us/stat/102/4449]; renumbered § 299B, [Pub. L. 102–586, § 2(i)(1)(B)][/us/pl/102/586/s2/i/1/B], Nov. 4, 1992, [106 Stat. 5006][/us/stat/106/5006].)
 

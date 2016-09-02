@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7274a to 7274d.md) | [Next](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7274f.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7274e)
+[Previous](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7274.md) | [Next](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7274f.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7274e)
 
 ## § 7274e. Scholarship and fellowship program for environmental restoration and waste management
 
@@ -115,7 +115,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7274a to 7274d.md) | [Next](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7274f.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7274e)
+[Previous](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7274.md) | [Next](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7274f.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7274e)
 
 ----------
 ----------

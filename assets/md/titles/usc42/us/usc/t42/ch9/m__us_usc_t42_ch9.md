@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch8C/m__us_usc_t42_s1500c–1 to 1500e.md) | [Next](./../../../..//us/usc/t42/ch9/schI/m__us_usc_t42_ch9_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch9)
+[Previous](./../../../..//us/usc/t42/ch8C/m__us_usc_t42_s1500c.md) | [Next](./../../../..//us/usc/t42/ch9/schI/m__us_usc_t42_ch9_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch9)
 
 ## CHAPTER 9—HOUSING OF PERSONS ENGAGED IN NATIONAL DEFENSE
 
@@ -715,7 +715,7 @@ SUBCHAPTER XI—HOUSING FOR MILITARY PERSONNEL  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch8C/m__us_usc_t42_s1500c–1 to 1500e.md) | [Next](./../../../..//us/usc/t42/ch9/schI/m__us_usc_t42_ch9_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch9)
+[Previous](./../../../..//us/usc/t42/ch8C/m__us_usc_t42_s1500c.md) | [Next](./../../../..//us/usc/t42/ch9/schI/m__us_usc_t42_ch9_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch9)
 
 ----------
 ----------

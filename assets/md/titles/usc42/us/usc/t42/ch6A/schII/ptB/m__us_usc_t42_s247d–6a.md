@@ -389,11 +389,19 @@
 
 >             The term ‘covered activities’ shall not include, with respect to a meeting or consultation conducted under subsection (a)(1) or an agreement for which an exemption has been granted under subsection (a)(4), the following activities involving 2 or more persons:
 
->                 “(i) Exchanging information among competitors relating to costs, profitability, or distribution of any product, process, or service if such information is not reasonably necessary to carry out covered activities—         “(I) with respect to a countermeasure or product regarding which such meeting or consultation is being conducted; or
+>                 “(i)
+
+>                  Exchanging information among competitors relating to costs, profitability, or distribution of any product, process, or service if such information is not reasonably necessary to carry out covered activities—
+
+>                          “(I) with respect to a countermeasure or product regarding which such meeting or consultation is being conducted; or
 
 >                          “(II) that are described in the agreement as exempted.
 
->                 “(ii) Entering into any agreement or engaging in any other conduct—         “(I) to restrict or require the sale, licensing, or sharing of inventions, developments, products, processes, or services not developed through, produced by, or distributed or sold through such covered activities; or
+>                 “(ii)
+
+>                  Entering into any agreement or engaging in any other conduct—
+
+>                          “(I) to restrict or require the sale, licensing, or sharing of inventions, developments, products, processes, or services not developed through, produced by, or distributed or sold through such covered activities; or
 
 >                          “(II) to restrict or require participation, by any person participating in such covered activities, in other research and development activities, except as reasonably necessary to prevent the misappropriation of proprietary information contributed by any person participating in such covered activities or of the results of such covered activities.
 

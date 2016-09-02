@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch150/schIV/ptB/m__us_usc_t42_s16721 to 16727.md) | [Next](./../../../../../..//us/usc/t42/ch150/schIV/ptC/m__us_usc_t42_s16741.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch150%2FschIV%2FptC)
+[Previous](./../../../../../..//us/usc/t42/ch150/schIV/ptB/m__us_usc_t42_ch150_schIV_ptB.md) | [Next](./../../../../../..//us/usc/t42/ch150/schIV/ptC/m__us_usc_t42_s16741.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch150%2FschIV%2FptC)
 
 #### Part C—Scholarships
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch150/schIV/ptB/m__us_usc_t42_s16721 to 16727.md) | [Next](./../../../../../..//us/usc/t42/ch150/schIV/ptC/m__us_usc_t42_s16741.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch150%2FschIV%2FptC)
+[Previous](./../../../../../..//us/usc/t42/ch150/schIV/ptB/m__us_usc_t42_ch150_schIV_ptB.md) | [Next](./../../../../../..//us/usc/t42/ch150/schIV/ptC/m__us_usc_t42_s16741.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch150%2FschIV%2FptC)
 
 ----------
 ----------

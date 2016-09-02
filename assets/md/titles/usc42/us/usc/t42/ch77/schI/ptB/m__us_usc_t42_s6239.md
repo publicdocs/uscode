@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch77/schI/ptB/m__us_usc_t42_s6235 to 6238.md) | [Next](./../../../../../..//us/usc/t42/ch77/schI/ptB/m__us_usc_t42_s6240.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6239)
+[Previous](./../../../../../..//us/usc/t42/ch77/schI/ptB/m__us_usc_t42_s6234.md) | [Next](./../../../../../..//us/usc/t42/ch77/schI/ptB/m__us_usc_t42_s6240.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6239)
 
 ## § 6239. Development, operation, and maintenance of the Reserve
 
@@ -93,7 +93,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch77/schI/ptB/m__us_usc_t42_s6235 to 6238.md) | [Next](./../../../../../..//us/usc/t42/ch77/schI/ptB/m__us_usc_t42_s6240.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6239)
+[Previous](./../../../../../..//us/usc/t42/ch77/schI/ptB/m__us_usc_t42_s6234.md) | [Next](./../../../../../..//us/usc/t42/ch77/schI/ptB/m__us_usc_t42_s6240.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6239)
 
 ----------
 ----------

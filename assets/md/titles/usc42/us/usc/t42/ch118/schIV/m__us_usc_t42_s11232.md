@@ -11,15 +11,21 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch118/schIV/m__us_usc_t42_s11231.md) | [Next](./../../../../..//us/usc/t42/ch118/schIV/m__us_usc_t42_s11241, 11242.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11232)
+[Previous](./../../../../..//us/usc/t42/ch118/schIV/m__us_usc_t42_s11231.md) | [Next](./../../../../..//us/usc/t42/ch118/schIV/m__us_usc_t42_s11243.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11232)
 
 ## § 11232. Repealed. [Pub. L. 100–607, title I, § 142(c)(1)(A)][/us/pl/100/607/s142/c/1/A], Nov. 4, 1988, [102 Stat. 3057][/us/stat/102/3057]
 
     Section, [Pub. L. 99–660, title IX, § 932][/us/pl/99/660/s932], Nov. 14, 1986, [100 Stat. 3808][/us/stat/100/3808], authorized appropriations for fiscal years 1988 through 1991 to carry out program of awards for research on Alzheimer’s disease and related dementias.
 
+§§ 11241, 11242. __Transferred__ 
+
+    Section 11241, [Pub. L. 99–660, title IX, § 941][/us/pl/99/660/s941], Nov. 14, 1986, [100 Stat. 3808][/us/stat/100/3808], which provided for Director of National Institute on Aging to conduct, or make grants for conduct of, research on services for individuals with Alzheimer’s disease and related dementias and their families, was redesignated section 445C of the Public Health Service Act by [Pub. L. 100–607, title I, § 142(a)][/us/pl/100/607/s142/a], Nov. 4, 1988, [102 Stat. 3057][/us/stat/102/3057], and is classified to [section 285e–5 of this title][/us/usc/t42/s285e–5].
+
+    Section 11242, [Pub. L. 99–660, title IX, § 942][/us/pl/99/660/s942], Nov. 14, 1986, [100 Stat. 3809][/us/stat/100/3809], which provided for Director to disseminate results of such research to professional entities and the public, was redesignated section 445D of the Public Health Service Act by [Pub. L. 100–607, title I, § 142(a)][/us/pl/100/607/s142/a], Nov. 4, 1988, [102 Stat. 3057][/us/stat/102/3057], and is classified to [section 285e–6 of this title][/us/usc/t42/s285e–6].
+
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch118/schIV/m__us_usc_t42_s11231.md) | [Next](./../../../../..//us/usc/t42/ch118/schIV/m__us_usc_t42_s11241, 11242.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11232)
+[Previous](./../../../../..//us/usc/t42/ch118/schIV/m__us_usc_t42_s11231.md) | [Next](./../../../../..//us/usc/t42/ch118/schIV/m__us_usc_t42_s11243.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11232)
 
 ----------
 ----------
@@ -28,5 +34,15 @@
 [/us/stat/102/3057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3057
 [/us/pl/99/660/s932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs932
 [/us/stat/100/3808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3808
+[/us/pl/99/660/s941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs941
+[/us/stat/100/3808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3808
+[/us/pl/100/607/s142/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs142%2Fa
+[/us/stat/102/3057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3057
+[/us/usc/t42/s285e–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs285e%E2%80%935
+[/us/pl/99/660/s942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs942
+[/us/stat/100/3809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3809
+[/us/pl/100/607/s142/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F607%2Fs142%2Fa
+[/us/stat/102/3057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3057
+[/us/usc/t42/s285e–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs285e%E2%80%936
 
 

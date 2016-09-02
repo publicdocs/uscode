@@ -243,7 +243,11 @@
 
 >              a requirement that the Administrator shall—
 
->                 “(i) consult with the owner of the flood protection system—         “(I) 6 months after the date of a determination under subsection (a);
+>                 “(i)
+
+>                  consult with the owner of the flood protection system—
+
+>                          “(I) 6 months after the date of a determination under subsection (a);
 
 >                          “(II) 18 months after the date of a determination under subsection (a); and
 

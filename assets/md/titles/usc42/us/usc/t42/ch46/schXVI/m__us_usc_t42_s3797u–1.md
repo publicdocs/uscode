@@ -15,7 +15,7 @@
 
 ## § 3797u–1. Prohibition of participation by violent offenders
 
-The Attorney General shall—
+    The Attorney General shall—
 
     (1) issue regulations or guidelines to ensure that the programs authorized in this subchapter do not permit participation by violent offenders; and
 

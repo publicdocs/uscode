@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch7/schVII/m__us_usc_t42_s905, 905a.md) | [Next](./../../../../..//us/usc/t42/ch7/schVII/m__us_usc_t42_s907.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs906)
+[Previous](./../../../../..//us/usc/t42/ch7/schVII/m__us_usc_t42_s904.md) | [Next](./../../../../..//us/usc/t42/ch7/schVII/m__us_usc_t42_s907.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs906)
 
 ## § 906. Training grants for public welfare personnel
 
@@ -69,7 +69,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch7/schVII/m__us_usc_t42_s905, 905a.md) | [Next](./../../../../..//us/usc/t42/ch7/schVII/m__us_usc_t42_s907.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs906)
+[Previous](./../../../../..//us/usc/t42/ch7/schVII/m__us_usc_t42_s904.md) | [Next](./../../../../..//us/usc/t42/ch7/schVII/m__us_usc_t42_s907.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs906)
 
 ----------
 ----------

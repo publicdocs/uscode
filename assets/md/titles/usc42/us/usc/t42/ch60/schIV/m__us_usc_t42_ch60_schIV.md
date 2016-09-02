@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch60/schIII/ptC/m__us_usc_t42_s4581, 4582.md) | [Next](./../../../../..//us/usc/t42/ch60/schIV/m__us_usc_t42_s4585.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch60%2FschIV)
+[Previous](./../../../../..//us/usc/t42/ch60/schIII/ptC/m__us_usc_t42_ch60_schIII_ptC.md) | [Next](./../../../../..//us/usc/t42/ch60/schIV/m__us_usc_t42_s4585.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch60%2FschIV)
 
 ### SUBCHAPTER IV—RESEARCH
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch60/schIII/ptC/m__us_usc_t42_s4581, 4582.md) | [Next](./../../../../..//us/usc/t42/ch60/schIV/m__us_usc_t42_s4585.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch60%2FschIV)
+[Previous](./../../../../..//us/usc/t42/ch60/schIII/ptC/m__us_usc_t42_ch60_schIII_ptC.md) | [Next](./../../../../..//us/usc/t42/ch60/schIV/m__us_usc_t42_s4585.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch60%2FschIV)
 
 ----------
 ----------

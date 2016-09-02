@@ -15,7 +15,7 @@
 
 ## § 1962a–1. Powers and duties
 
-The Council shall—
+    The Council shall—
 
     (a) maintain a continuing study and prepare an assessment biennially, or at such less frequent intervals as the Council may determine, of the adequacy of supplies of water necessary to meet the water requirements in each water resource region in the United States and the national interest therein; and
 

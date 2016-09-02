@@ -15,7 +15,7 @@
 
 ## § 5903. Duties and authorities of the Secretary
 
-The Secretary shall—
+    The Secretary shall—
 
     (a) review the current status of nonnuclear energy resources and current nonnuclear energy research and development activities, including research and development being conducted by Federal and non-Federal entities;
 

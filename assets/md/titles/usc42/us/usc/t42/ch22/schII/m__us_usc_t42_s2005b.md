@@ -15,7 +15,7 @@
 
 ## § 2005b. Conditions of assistance
 
-As a condition to providing assistance under [section 2005 of this title][/us/usc/t42/s2005], the Surgeon General shall—
+    As a condition to providing assistance under [section 2005 of this title][/us/usc/t42/s2005], the Surgeon General shall—
 
     (a) require plans and specifications meeting such standards of construction and equipment as he may prescribe, and
 

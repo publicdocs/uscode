@@ -15,7 +15,7 @@
 
 ## § 300bb–2. Continuation coverage
 
-For purposes of [section 300bb–1 of this title][/us/usc/t42/s300bb–1], the term “continuation coverage” means coverage under the plan which meets the following requirements:
+    For purposes of [section 300bb–1 of this title][/us/usc/t42/s300bb–1], the term “continuation coverage” means coverage under the plan which meets the following requirements:
 
     (1) __Type of benefit coverage__ 
 

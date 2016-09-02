@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch36/m__us_usc_t42_s3071 to 3074.md) | [Next](./../../../..//us/usc/t42/ch37/m__us_usc_t42_s3101.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch37)
+[Previous](./../../../..//us/usc/t42/ch36/m__us_usc_t42_ch36.md) | [Next](./../../../..//us/usc/t42/ch37/m__us_usc_t42_s3101.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch37)
 
 ## CHAPTER 37—COMMUNITY FACILITIES AND ADVANCE LAND ACQUISITION
 
@@ -83,7 +83,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch36/m__us_usc_t42_s3071 to 3074.md) | [Next](./../../../..//us/usc/t42/ch37/m__us_usc_t42_s3101.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch37)
+[Previous](./../../../..//us/usc/t42/ch36/m__us_usc_t42_ch36.md) | [Next](./../../../..//us/usc/t42/ch37/m__us_usc_t42_s3101.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch37)
 
 ----------
 ----------

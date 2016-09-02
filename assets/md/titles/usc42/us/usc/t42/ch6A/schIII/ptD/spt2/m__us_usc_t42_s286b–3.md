@@ -15,7 +15,7 @@
 
 ## § 286b–3. Grants for training in medical library sciences
 
-The Secretary shall make grants—
+    The Secretary shall make grants—
 
     (1) to individuals to enable them to accept traineeships and fellowships leading to postbaccalaureate academic degrees in the field of medical library science, in related fields pertaining to sciences related to health, or in the field of the communication of information;
 

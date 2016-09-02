@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch84/schXV/m__us_usc_t42_s7383f to 7383h–1.md) | [Next](./../../../../..//us/usc/t42/ch84/schXV/m__us_usc_t42_s7383j.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7383i)
+[Previous](./../../../../..//us/usc/t42/ch84/schXV/m__us_usc_t42_s7383e.md) | [Next](./../../../../..//us/usc/t42/ch84/schXV/m__us_usc_t42_s7383j.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7383i)
 
 ## § 7383i. Definitions of national laboratory and nuclear weapons production facility
 
-For purposes of this subchapter:
+    For purposes of this subchapter:
 
     (1)
 
@@ -49,7 +49,7 @@ For purposes of this subchapter:
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch84/schXV/m__us_usc_t42_s7383f to 7383h–1.md) | [Next](./../../../../..//us/usc/t42/ch84/schXV/m__us_usc_t42_s7383j.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7383i)
+[Previous](./../../../../..//us/usc/t42/ch84/schXV/m__us_usc_t42_s7383e.md) | [Next](./../../../../..//us/usc/t42/ch84/schXV/m__us_usc_t42_s7383j.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7383i)
 
 ----------
 ----------

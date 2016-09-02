@@ -15,7 +15,7 @@
 
 ## § 3796jj. Duties
 
-The Attorney General shall—
+    The Attorney General shall—
 
     (1) establish guidelines and oversee the implementation of family-friendly policies within law enforcement-related offices and divisions in the Department of Justice;
 

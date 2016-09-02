@@ -15,7 +15,7 @@
 
 ## § 300bb–4. Applicable premium
 
-For purposes of this subchapter—
+    For purposes of this subchapter—
 
     (1) __In general__ 
 

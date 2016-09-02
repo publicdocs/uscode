@@ -15,7 +15,7 @@
 
 ## § 3106. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (a) The term “State” means the several States, the District of Columbia, the Commonwealth of Puerto Rico, and the territories and possessions of the United States.
 

@@ -15,7 +15,7 @@
 
 ## § 15327. Annual report
 
-Not later than January 31 of each year (beginning with 2004), the Commission shall submit a report to the Committee on House Administration of the House of Representatives and the Committee on Rules and Administration of the Senate detailing its activities during the fiscal year which ended on September 30 of the previous calendar year, and shall include in the report the following information:
+    Not later than January 31 of each year (beginning with 2004), the Commission shall submit a report to the Committee on House Administration of the House of Representatives and the Committee on Rules and Administration of the Senate detailing its activities during the fiscal year which ended on September 30 of the previous calendar year, and shall include in the report the following information:
 
     (1) A detailed description of activities conducted with respect to each program carried out by the Commission under this chapter, including information on each grant or other payment made under such programs.
 

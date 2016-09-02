@@ -15,7 +15,7 @@
 
 ## § 14134. Authorization of appropriations
 
-There are authorized to be appropriated to the Federal Bureau of Investigation to carry out sections 14131, 14132, and 14133 of this title—
+    There are authorized to be appropriated to the Federal Bureau of Investigation to carry out sections 14131, 14132, and 14133 of this title—
 
     (1) $5,500,000 for fiscal year 1996;
 

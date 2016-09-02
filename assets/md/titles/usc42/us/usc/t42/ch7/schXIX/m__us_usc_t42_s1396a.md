@@ -1645,15 +1645,15 @@
 
  __Amendment of Subsection (a)__ 
 
-For repeal of amendment by [section 3(e) of Pub. L. 111–255][/us/pl/111/255/s3/e], see Effective and Termination Dates of 2010 Amendment note below.
+    For repeal of amendment by [section 3(e) of Pub. L. 111–255][/us/pl/111/255/s3/e], see Effective and Termination Dates of 2010 Amendment note below.
 
-[Pub. L. 111–148, title II, § 2004(a)][/us/pl/111/148/s2004/a], (d), title X, § 10201(a)(1), (3), Mar. 23, 2010, [124 Stat. 283][/us/stat/124/283], 917, 918, provided that, effective Jan. 1, 2014, subsection (a)(10)(A)(i) of this section is amended:
+    [Pub. L. 111–148, title II, § 2004(a)][/us/pl/111/148/s2004/a], (d), title X, § 10201(a)(1), (3), Mar. 23, 2010, [124 Stat. 283][/us/stat/124/283], 917, 918, provided that, effective Jan. 1, 2014, subsection (a)(10)(A)(i) of this section is amended:
 
-(1) by striking “or” at the end of subclause (VII);
+    (1) by striking “or” at the end of subclause (VII);
 
-(2) by adding “or” at the end of subclause (VIII); and
+    (2) by adding “or” at the end of subclause (VIII); and
 
-(3) by inserting after subclause (VIII) the following:
+    (3) by inserting after subclause (VIII) the following:
 
     (IX) who—
 
@@ -1665,35 +1665,35 @@ For repeal of amendment by [section 3(e) of Pub. L. 111–255][/us/pl/111/255/s3
 
     (dd) were enrolled in the State plan under this subchapter or under a waiver of the plan while in such foster care;
 
-[Pub. L. 111–148, title II, § 2002(b)][/us/pl/111/148/s2002/b], (c), Mar. 23, 2010, [124 Stat. 282][/us/stat/124/282], provided that, effective Jan. 1, 2014, subsection (a)(17) of this section is amended by inserting “(e)(14),” before “(l)(3)”.
+    [Pub. L. 111–148, title II, § 2002(b)][/us/pl/111/148/s2002/b], (c), Mar. 23, 2010, [124 Stat. 282][/us/stat/124/282], provided that, effective Jan. 1, 2014, subsection (a)(17) of this section is amended by inserting “(e)(14),” before “(l)(3)”.
 
 [Pub. L. 111–148, title II, § 2202(a)][/us/pl/111/148/s2202/a], (c), Mar. 23, 2010, [124 Stat. 291][/us/stat/124/291], 292, provided that, effective Jan. 1, 2014, subsection (a)(47) of this section is amended as follows:
 
-(1) by striking “at the option of the State, provide” and inserting “provide—
+    (1) by striking “at the option of the State, provide” and inserting “provide—
 
     “(A) at the option of the State,”;
 
-(2) by inserting “and” after the semicolon; and
+    (2) by inserting “and” after the semicolon; and
 
-(3) by adding at the end the following:
+    (3) by adding at the end the following:
 
     (B) that any hospital that is a participating provider under the State plan may elect to be a qualified entity for purposes of determining, on the basis of preliminary information, whether any individual is eligible for medical assistance under the State plan or under a waiver of the plan for purposes of providing the individual with medical assistance during a presumptive eligibility period, in the same manner, and subject to the same requirements, as apply to the State options with respect to populations described in section 1396r–1, 1396r–1a, or 1396r–1b of this title (but without regard to whether the State has elected to provide for a presumptive eligibility period under any such sections), subject to such guidance as the Secretary shall establish;
 
 [Pub. L. 111–148, title II, § 2303(b)(2)(A)][/us/pl/111/148/s2303/b/2/A], (d), Mar. 23, 2010, [124 Stat. 296][/us/stat/124/296], provided that, effective Mar. 23, 2010, and applicable to items and services furnished on or after such date, subsection (a)(47) of this section, as amended by [section 2202(a) of Pub. L. 111–148][/us/pl/111/148/s2202/a], set out above, is amended as follows:
 
-(1) in subparagraph (A), by inserting before the semicolon at the end the following: “and provide for making medical assistance available to individuals described in subsection (a) of [section 1396r–1c of this title][/us/usc/t42/s1396r–1c] during a presumptive eligibility period in accordance with such section”; and
+    (1) in subparagraph (A), by inserting before the semicolon at the end the following: “and provide for making medical assistance available to individuals described in subsection (a) of [section 1396r–1c of this title][/us/usc/t42/s1396r–1c] during a presumptive eligibility period in accordance with such section”; and
 
-(2) in subparagraph (B), by striking “or 1396r–1b of this title” and inserting “1396r–1b, or 1396r–1c of this title”.
+    (2) in subparagraph (B), by striking “or 1396r–1b of this title” and inserting “1396r–1b, or 1396r–1c of this title”.
 
-See 2010 Amendment notes below.
+    See 2010 Amendment notes below.
 
-[Pub. L. 101–508, title IV, § 4801(e)(11)][/us/pl/101/508/s4801/e/11], Nov. 5, 1990, [104 Stat. 1388–217][/us/stat/104/1388-217], provided that, effective on the date on which the Secretary promulgates standards regarding the qualifications of nursing facility administrators under [section 1396r(f)(4) of this title][/us/usc/t42/s1396r/f/4], subsection (a)(29) of this section is repealed.
+    [Pub. L. 101–508, title IV, § 4801(e)(11)][/us/pl/101/508/s4801/e/11], Nov. 5, 1990, [104 Stat. 1388–217][/us/stat/104/1388-217], provided that, effective on the date on which the Secretary promulgates standards regarding the qualifications of nursing facility administrators under [section 1396r(f)(4) of this title][/us/usc/t42/s1396r/f/4], subsection (a)(29) of this section is repealed.
 
  __Amendment of Subsection (e)(14)__ 
 
-For repeal of amendment by [section 3(e) of Pub. L. 111–255][/us/pl/111/255/s3/e], see Effective and Termination Dates of 2010 Amendment note below.
+    For repeal of amendment by [section 3(e) of Pub. L. 111–255][/us/pl/111/255/s3/e], see Effective and Termination Dates of 2010 Amendment note below.
 
-[Pub. L. 111–148, title II, § 2002(a)][/us/pl/111/148/s2002/a], (c), Mar. 23, 2010, [124 Stat. 279][/us/stat/124/279], 282; [Pub. L. 111–152, title I, § 1004(b)(1)(A)][/us/pl/111/152/s1004/b/1/A], (e), Mar. 30, 2010, [124 Stat. 1034][/us/stat/124/1034], 1036, provided that, effective Jan. 1, 2014, subsection (e) of this section is amended by adding at the end the following:
+    [Pub. L. 111–148, title II, § 2002(a)][/us/pl/111/148/s2002/a], (c), Mar. 23, 2010, [124 Stat. 279][/us/stat/124/279], 282; [Pub. L. 111–152, title I, § 1004(b)(1)(A)][/us/pl/111/152/s1004/b/1/A], (e), Mar. 30, 2010, [124 Stat. 1034][/us/stat/124/1034], 1036, provided that, effective Jan. 1, 2014, subsection (e) of this section is amended by adding at the end the following:
 
     (14) Income determined using modified adjusted gross income.—
 
@@ -1743,7 +1743,7 @@ For repeal of amendment by [section 3(e) of Pub. L. 111–255][/us/pl/111/255/s3
 
     (ii) notwithstanding the requirement in subparagraph (A) with respect to use of modified adjusted gross income, utilize as the applicable income of such individual, in determining such income eligibility, an amount equal to the modified adjusted gross income applicable to such individual reduced by such dollar equivalent amount.
 
-See 2010 Amendment notes below.
+    See 2010 Amendment notes below.
 
  __References in Text__ 
 
@@ -4731,7 +4731,11 @@ See 2010 Amendment notes below.
 
 >                 “(iii) specifies the role of family members and others whose participation is sought by the individual or the individual’s authorized representative with respect to such services;
 
->                 “(iv) is developed through a person-centered process that—         “(I) is directed by the individual or the individual’s authorized representative;
+>                 “(iv)
+
+>                  is developed through a person-centered process that—
+
+>                          “(I) is directed by the individual or the individual’s authorized representative;
 
 >                          “(II) builds upon the individual’s capacity to engage in activities that promote community life and that respects the individual’s preferences, choices, and abilities; and
 
@@ -5201,7 +5205,9 @@ See 2010 Amendment notes below.
 
 >                 “(i) __In general.—__ 
 
->                 Out of any funds in the Treasury not otherwise appropriated, there is appropriated to carry out this section—         “(I) $42,000,000 for each of fiscal years 2001 through 2004; and
+>                 Out of any funds in the Treasury not otherwise appropriated, there is appropriated to carry out this section—
+
+>                          “(I) $42,000,000 for each of fiscal years 2001 through 2004; and
 
 >                          “(II) $41,000,000 for each of fiscal years 2005 and 2006.
 
@@ -5739,7 +5745,7 @@ See 2010 Amendment notes below.
 
 >     “(2) in like manner, and subject to the same terms and conditions, as medical assistance is provided under such plan to individuals with respect to whom benefits are payable for such month under the supplementary security income program established by title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\].
 
->         Federal matching under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] shall be available for the medical assistance furnished to individuals who are eligible for such assistance under this subsection.”
+>     Federal matching under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] shall be available for the medical assistance furnished to individuals who are eligible for such assistance under this subsection.”
 
  __Coverage of Essential Persons Under Medicaid__ 
 
@@ -5751,7 +5757,7 @@ See 2010 Amendment notes below.
 
 >     “(2) such person continues to have the relationship with such individual described in such sentence and meets the other criteria (referred to in such sentence) with respect to a State plan (so referred to) as such plan was in effect for December 1973.
 
->         Federal matching under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] shall be available for the medical assistance furnished to individuals eligible for such assistance under this section.”
+>     Federal matching under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] shall be available for the medical assistance furnished to individuals eligible for such assistance under this section.”
 
  __Persons in Medical Institutions__ 
 
@@ -5767,13 +5773,13 @@ See 2010 Amendment notes below.
 
 >         “(B), \[sic\] on the basis of his status as described in subparagraph (A), was included as an individual eligible for medical assistance under a State plan approved under title XIX of such Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] (whether or not such individual actually received aid or assistance under a State plan referred to in subparagraph (A)),
 
->         shall be deemed to be receiving such aid or assistance for such month and for each succeeding month in a continuous period of months if, for each month in such period—
+>     shall be deemed to be receiving such aid or assistance for such month and for each succeeding month in a continuous period of months if, for each month in such period—
 
->         “(3) such individual continues to be (for all of such month) an inpatient in such an institution and would (except for his being an inpatient in such institution) continue to meet the conditions of eligibility to receive aid or assistance under such plan (as such plan was in effect for December 1973), and
+>     “(3) such individual continues to be (for all of such month) an inpatient in such an institution and would (except for his being an inpatient in such institution) continue to meet the conditions of eligibility to receive aid or assistance under such plan (as such plan was in effect for December 1973), and
 
->         “(4) such individual is determined (under the utilization review and other professional audit procedures applicable to State plans approved under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\]) to be in need of care in such an institution.
+>     “(4) such individual is determined (under the utilization review and other professional audit procedures applicable to State plans approved under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\]) to be in need of care in such an institution.
 
->         Federal matching under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] shall be available for the medical assistance furnished to individuals eligible for such assistance under this section.”
+>     Federal matching under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] shall be available for the medical assistance furnished to individuals eligible for such assistance under this section.”
 
  __Blind and Disabled Medically Indigent Persons__ 
 
@@ -5797,7 +5803,9 @@ See 2010 Amendment notes below.
 
 [Pub. L. 90–227, § 1][/us/pl/90/227/s1], Dec. 27, 1967, [81 Stat. 744][/us/stat/81/744], provided: 
 
-> “That (a) the Commissioner of the District of Columbia \[now Mayor\] (hereafter in this Act \[enacting this note and provisions set out as a note under [section 1395v of this title][/us/usc/t42/s1395v]\] referred to as the ‘Commissioner’) may submit under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] to the Secretary of Health, Education, and Welfare \[now Health and Human Services\] (hereafter in this Act referred to as the ‘Secretary’) a plan for medical assistance (and any modifications of such plan) to enable the District of Columbia to receive Federal financial assistance under such title for a medical assistance program established by the Commissioner under such plan.
+>     “That 
+
+>     (a) the Commissioner of the District of Columbia \[now Mayor\] (hereafter in this Act \[enacting this note and provisions set out as a note under [section 1395v of this title][/us/usc/t42/s1395v]\] referred to as the ‘Commissioner’) may submit under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] to the Secretary of Health, Education, and Welfare \[now Health and Human Services\] (hereafter in this Act referred to as the ‘Secretary’) a plan for medical assistance (and any modifications of such plan) to enable the District of Columbia to receive Federal financial assistance under such title for a medical assistance program established by the Commissioner under such plan.
 
 >     “(b)
 

@@ -15,13 +15,13 @@
 
 ## § 4701. Congressional findings and declaration of policy
 
-The Congress hereby finds and declares—
+    The Congress hereby finds and declares—
 
-That effective State and local governmental institutions are essential in the maintenance and development of the Federal system in an increasingly complex and interdependent society.
+    That effective State and local governmental institutions are essential in the maintenance and development of the Federal system in an increasingly complex and interdependent society.
 
-That, since numerous governmental activities administered by the State and local governments are related to national purpose and are financed in part by Federal funds, a national interest exists in a high caliber of public service in State and local governments.
+    That, since numerous governmental activities administered by the State and local governments are related to national purpose and are financed in part by Federal funds, a national interest exists in a high caliber of public service in State and local governments.
 
-That the quality of public service at all levels of government can be improved by the development of systems of personnel administration consistent with such merit principles as—
+    That the quality of public service at all levels of government can be improved by the development of systems of personnel administration consistent with such merit principles as—
 
     (1) recruiting, selecting, and advancing employees on the basis of their relative ability, knowledge, and skills, including open consideration of qualified applicants for initial appointment;
 
@@ -35,7 +35,7 @@ That the quality of public service at all levels of government can be improved b
 
     (6) assuring that employees are protected against coercion for partisan political purposes and are prohibited from using their official authority for the purpose of interfering with or affecting the result of an election or a nomination for office.
 
-        That Federal financial and technical assistance to State and local governments for strengthening their personnel administration in a manner consistent with these principles is in the national interest.
+    That Federal financial and technical assistance to State and local governments for strengthening their personnel administration in a manner consistent with these principles is in the national interest.
 
 ([Pub. L. 91–648, § 2][/us/pl/91/648/s2], Jan. 5, 1971, [84 Stat. 1909][/us/stat/84/1909].)
 

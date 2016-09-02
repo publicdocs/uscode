@@ -15,7 +15,7 @@
 
 ## § 300e–12. Limitation on source of funding for health maintenance organizations
 
-No funds appropriated under any provision of this chapter (except as provided in sections 254b  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text notes below. </sup></sup>  and 254b of this title) other than this subchapter may be used—
+    No funds appropriated under any provision of this chapter (except as provided in sections 254b  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text notes below. </sup></sup>  and 254b of this title) other than this subchapter may be used—
 
     (1) for grants or contracts for surveys or other activities to determine the feasibility of developing or expanding health maintenance organizations or other entities which provide, directly or indirectly, health services to a defined population on a prepaid basis;
 

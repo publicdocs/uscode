@@ -15,11 +15,11 @@
 
 ## § 14111. Definitions
 
-In this part—
+    In this part—
 
-“Director” means the Director of the Office of the Police Corps and Law Enforcement Education appointed under section 14093  <sup>\[1\]</sup>  <sup><sup> 1 So in original. [Section 14093 of this title][/us/usc/t42/s14093] does not provide for the appointment of a Director. </sup></sup>  of this title.
+    “Director” means the Director of the Office of the Police Corps and Law Enforcement Education appointed under section 14093  <sup>\[1\]</sup>  <sup><sup> 1 So in original. [Section 14093 of this title][/us/usc/t42/s14093] does not provide for the appointment of a Director. </sup></sup>  of this title.
 
-“educational expenses” means expenses that are directly attributable to—
+    “educational expenses” means expenses that are directly attributable to—
 
     (A) a course of education leading to the award of an associate degree;
 
@@ -27,13 +27,13 @@ In this part—
 
     (C) a course of graduate study following award of a baccalaureate degree,
 
-        including the cost of tuition, fees, books, supplies, and related expenses.
+    including the cost of tuition, fees, books, supplies, and related expenses.
 
-        “institution of higher education” has the meaning stated in the first sentence of [section 1001 of title 20][/us/usc/t20/s1001].
+    “institution of higher education” has the meaning stated in the first sentence of [section 1001 of title 20][/us/usc/t20/s1001].
 
-        “law enforcement position” means employment as an officer in a State or local police force, or correctional institution.
+    “law enforcement position” means employment as an officer in a State or local police force, or correctional institution.
 
-        “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands.
+    “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands.
 
 ([Pub. L. 103–322, title XX, § 200202][/us/pl/103/322/s200202], Sept. 13, 1994, [108 Stat. 2057][/us/stat/108/2057]; [Pub. L. 105–244, title I, § 102(a)(13)(P)][/us/pl/105/244/s102/a/13/P], Oct. 7, 1998, [112 Stat. 1621][/us/stat/112/1621].)
 

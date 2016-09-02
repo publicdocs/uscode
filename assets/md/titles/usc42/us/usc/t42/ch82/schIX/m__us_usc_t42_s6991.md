@@ -15,7 +15,7 @@
 
 ## § 6991. Definitions and exemptions
 
-In this subchapter:
+    In this subchapter:
 
     (1) __Indian tribe.—__ 
 
@@ -205,7 +205,11 @@ In this subchapter:
 
 >              that is located—
 
->                 “(i) within the boundaries of—         “(I) a unit of the National Park System;
+>                 “(i)
+
+>                  within the boundaries of—
+
+>                          “(I) a unit of the National Park System;
 
 >                          “(II) a unit of the National Wildlife Refuge System; or
 

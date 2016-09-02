@@ -15,7 +15,7 @@
 
 ## § 16153. Plan
 
-Not later than 6 months after August 8, 2005, the Secretary shall transmit to Congress a coordinated plan for the programs described in this subchapter and any other programs of the Department that are directly related to fuel cells or hydrogen. The plan shall describe, at a minimum—
+    Not later than 6 months after August 8, 2005, the Secretary shall transmit to Congress a coordinated plan for the programs described in this subchapter and any other programs of the Department that are directly related to fuel cells or hydrogen. The plan shall describe, at a minimum—
 
     (1) the agenda for the next 5 years for the programs authorized under this subchapter, including the agenda for each activity enumerated in [section 16154(e) of this title][/us/usc/t42/s16154/e];
 

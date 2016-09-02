@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7255.md) | [Next](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7256a, 7256b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7256)
+[Previous](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7255.md) | [Next](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7257.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7256)
 
 ## § 7256. Contracts, leases, etc., with public agencies and private organizations and persons
 
@@ -177,9 +177,17 @@
 
     \[For termination, effective May 15, 2000, of reporting provisions in [section 204(b) of Pub. L. 95–238][/us/pl/95/238/s204/b], set out above, see [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance, and the 21st item on page 89 of House Document No. 103–7.\]
 
+§§ 7256a, 7256b. __Transferred__ 
+
+ __Codification__ 
+
+    Section 7256a, [Pub. L. 99–145, title XV, § 1534][/us/pl/99/145/s1534], Nov. 8, 1985, [99 Stat. 774][/us/stat/99/774]; [Pub. L. 100–180, div. C, title I, § 3131(a)][/us/pl/100/180/s3131/a], Dec. 4, 1987, [101 Stat. 1238][/us/stat/101/1238], which related to costs not allowed under covered contracts, was renumbered [section 4801 of Pub. L. 107–314][/us/pl/107/314/s4801], the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by [Pub. L. 108–136, div. C, title XXXI, § 3141(k)(2)(A)][/us/pl/108/136/s3141/k/2/A]–(C), Nov. 24, 2003, [117 Stat. 1783][/us/stat/117/1783], and is classified to [section 2781 of Title 50][/us/usc/t50/s2781], War and National Defense.
+
+    Section 7256b, [Pub. L. 101–189, div. C, title XXXI, § 3151][/us/pl/101/189/s3151], Nov. 29, 1989, [103 Stat. 1682][/us/stat/103/1682], which related to the prohibition of bonuses to contractors operating defense nuclear facilities, was renumbered [section 4802 of Pub. L. 107–314][/us/pl/107/314/s4802], the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by [Pub. L. 108–136, div. C, title XXXI, § 3141(k)(3)(A)][/us/pl/108/136/s3141/k/3/A]–(C), Nov. 24, 2003, [117 Stat. 1783][/us/stat/117/1783], and is classified to [section 2782 of Title 50][/us/usc/t50/s2782], War and National Defense.
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7255.md) | [Next](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7256a, 7256b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7256)
+[Previous](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7255.md) | [Next](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7257.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7256)
 
 ----------
 ----------
@@ -228,5 +236,19 @@
 [/us/pl/95/238/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2Fs204%2Fb
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
+[/us/pl/99/145/s1534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1534
+[/us/stat/99/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F774
+[/us/pl/100/180/s3131/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs3131%2Fa
+[/us/stat/101/1238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1238
+[/us/pl/107/314/s4801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4801
+[/us/pl/108/136/s3141/k/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fk%2F2%2FA
+[/us/stat/117/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1783
+[/us/usc/t50/s2781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2781
+[/us/pl/101/189/s3151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs3151
+[/us/stat/103/1682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1682
+[/us/pl/107/314/s4802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs4802
+[/us/pl/108/136/s3141/k/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs3141%2Fk%2F3%2FA
+[/us/stat/117/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1783
+[/us/usc/t50/s2782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2782
 
 

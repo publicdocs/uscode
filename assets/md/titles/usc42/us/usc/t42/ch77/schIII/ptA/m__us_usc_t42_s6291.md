@@ -15,7 +15,7 @@
 
 ## § 6291. Definitions
 
-For purposes of this part:
+    For purposes of this part:
 
     (1)
 
@@ -439,13 +439,11 @@ For purposes of this part:
 
                 (I) the designation on the lamp packaging; and
 
-                (II)
+                (II) marketing materials that identify the lamp as being shatter-resistant, shatter-proof, or shatter-protected.
 
-                 marketing materials that identify the lamp as being shatter-resistant, shatter-proof, or shatter-protected.
+        (AA) __Vibration service lamp.—__ 
 
-                    (AA) __Vibration service lamp.—__ 
-
-                    The term “vibration service lamp” means a lamp that—
+        The term “vibration service lamp” means a lamp that—
 
             (i) has filament configurations that are C–5, C–7A, or C–9, as listed in Figure 6–12 of the 9th Edition of the IESNA Lighting Handbook or similar configurations;
 
@@ -459,11 +457,9 @@ For purposes of this part:
 
                 (I) the designation appearing on the lamp packaging; and
 
-                (II)
+                (II) marketing materials that identify the lamp as being vibration service only.
 
-                 marketing materials that identify the lamp as being vibration service only.
-
-                    (BB) __General service lamp.—__ 
+        (BB) __General service lamp.—__ 
 
             (i) __In general.—__ 
 
@@ -483,11 +479,9 @@ For purposes of this part:
 
                 (I) any lighting application or bulb shape described in any of subclauses (I) through (XXII) of subparagraph (D)(ii); or
 
-                (II)
+                (II) any general service fluorescent lamp or incandescent reflector lamp.
 
-                 any general service fluorescent lamp or incandescent reflector lamp.
-
-                    (CC) __Light-emitting diode; led.—__ 
+        (CC) __Light-emitting diode; led.—__ 
 
             (i) __In general.—__ 
 
@@ -501,17 +495,15 @@ For purposes of this part:
 
                 (II) the visible region; or
 
-                (III)
+                (III) the ultraviolet region.
 
-                 the ultraviolet region.
+        (DD) __Organic light-emitting diode; oled.—__ 
 
-                    (DD) __Organic light-emitting diode; oled.—__ 
+        The terms “organic light-emitting diode” and “OLED” mean a thin-film light-emitting device that typically consists of a series of organic layers between 2 electrical contacts (electrodes).
 
-                    The terms “organic light-emitting diode” and “OLED” mean a thin-film light-emitting device that typically consists of a series of organic layers between 2 electrical contacts (electrodes).
+        (EE) __Colored incandescent lamp.—__ 
 
-                    (EE) __Colored incandescent lamp.—__ 
-
-                    The term “colored incandescent lamp” means an incandescent lamp designated and marketed as a colored lamp that has—
+        The term “colored incandescent lamp” means an incandescent lamp designated and marketed as a colored lamp that has—
 
             (i) a color rendering index of less than 50, as determined according to the test method given in C.I.E. publication 13.3–1995; or
 

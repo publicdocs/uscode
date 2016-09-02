@@ -11,16 +11,81 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch34/schIII/m__us_usc_t42_ch34_schIII.md) | [Next](./../../../../../..//us/usc/t42/ch34/schIII/ptA/m__us_usc_t42_s2841, 2851 to 2856.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch34%2FschIII%2FptA)
+[Previous](./../../../../../..//us/usc/t42/ch34/schIII/m__us_usc_t42_ch34_schIII.md) | [Next](./../../../../../..//us/usc/t42/ch34/schIII/ptB/m__us_usc_t42_ch34_schIII_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch34%2FschIII%2FptA)
 
 #### Part A—Rural Loan Program
 
+§§ 2841, 2851 to 2856. __Repealed.__  __[__  __Pub. L. 97–35, title VI, § 683(a)__  __][/us/pl/97/35/s683/a]__  __,__  __Aug. 13, 1981__  __,__  __[__  __95 Stat. 519__  __][/us/stat/95/519]__ 
+
+    Section 2841, [Pub. L. 88–452, title III, § 301][/us/pl/88/452/s301], Aug. 20, 1964, [78 Stat. 524][/us/stat/78/524]; [Pub. L. 90–222, title I, § 105(b)][/us/pl/90/222/s105/b], Dec. 23, 1967, [81 Stat. 709][/us/stat/81/709]; [Pub. L. 95–568, § 8(b)(1)][/us/pl/95/568/s8/b/1], Nov. 2, 1978, [92 Stat. 2428][/us/stat/92/2428], set forth Congressional statement of purpose for special programs to combat poverty in rural areas.
+
+    Section 2851, [Pub. L. 88–452, title III, § 302][/us/pl/88/452/s302], Aug. 20, 1964, [78 Stat. 524][/us/stat/78/524]; [Pub. L. 89–253, § 21][/us/pl/89/253/s21], Oct. 9, 1965, [79 Stat. 976][/us/stat/79/976]; [Pub. L. 89–794, title III, § 301(a)][/us/pl/89/794/s301/a], Nov. 8, 1966, [80 Stat. 1464][/us/stat/80/1464]; [Pub. L. 90–222, title I, § 105(c)][/us/pl/90/222/s105/c], Dec. 23, 1967, [81 Stat. 709][/us/stat/81/709]; [Pub. L. 91–177, title I, § 108][/us/pl/91/177/s108], Dec. 30, 1969, [83 Stat. 830][/us/stat/83/830], set forth amount, maturity date, etc., for loans to low income rural families.
+
+    Section 2852, [Pub. L. 88–452, title III, § 303][/us/pl/88/452/s303], Aug. 20, 1964, [78 Stat. 524][/us/stat/78/524], set forth provisions respecting loans to rural cooperative associations.
+
+    Section 2853, [Pub. L. 88–452, title III, § 304][/us/pl/88/452/s304], Aug. 20, 1964, [78 Stat. 524][/us/stat/78/524], set forth provisions relating to limitations on loans.
+
+    Section 2854, [Pub. L. 88–452, title III, § 305][/us/pl/88/452/s305], Aug. 20, 1964, [78 Stat. 524][/us/stat/78/524]; [Pub. L. 89–253, § 22][/us/pl/89/253/s22], Oct. 9, 1965, [79 Stat. 977][/us/stat/79/977]; [Pub. L. 89–794, title III, § 301(b)][/us/pl/89/794/s301/b], Nov. 8, 1966, [80 Stat. 1464][/us/stat/80/1464], set forth provisions respecting terms and conditions for loans.
+
+    Section 2855, [Pub. L. 88–452, title III, § 306][/us/pl/88/452/s306], formerly title VI, § 606, Aug. 20, 1964, [78 Stat. 531][/us/stat/78/531]; [Pub. L. 89–794, title IV, § 407][/us/pl/89/794/s407], Nov. 8, 1966, [80 Stat. 1465][/us/stat/80/1465]; renumbered title III, § 306, and amended [Pub. L. 90–222, title I, § 105(d)][/us/pl/90/222/s105/d], Dec. 23, 1967, [81 Stat. 709][/us/stat/81/709]; [Pub. L. 93–386, § 2(b)][/us/pl/93/386/s2/b], Aug. 23, 1974, [88 Stat. 745][/us/stat/88/745]; [Pub. L. 94–341, § 2(a)(15)][/us/pl/94/341/s2/a/15], July 6, 1976, [90 Stat. 804][/us/stat/90/804]; [Pub. L. 95–568, § 8(b)(2)][/us/pl/95/568/s8/b/2], Nov. 2, 1978, [92 Stat. 2428][/us/stat/92/2428], set forth provisions respecting establishment, capital, etc., for revolving fund.
+
+    Section 2856, [Pub. L. 88–452, title III, § 307][/us/pl/88/452/s307], as added [Pub. L. 95–568, § 8(a)(3)][/us/pl/95/568/s8/a/3], Nov. 2, 1978, [92 Stat. 2428][/us/stat/92/2428], related to authorization of appropriations.
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective Oct. 1, 1981, see [section 9912(a) of this title][/us/usc/t42/s9912/a], prior to the general amendment of chapter 106 (§ 9901 et seq.) of this title by [Pub. L. 105–285][/us/pl/105/285].
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch34/schIII/m__us_usc_t42_ch34_schIII.md) | [Next](./../../../../../..//us/usc/t42/ch34/schIII/ptA/m__us_usc_t42_s2841, 2851 to 2856.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch34%2FschIII%2FptA)
+[Previous](./../../../../../..//us/usc/t42/ch34/schIII/m__us_usc_t42_ch34_schIII.md) | [Next](./../../../../../..//us/usc/t42/ch34/schIII/ptB/m__us_usc_t42_ch34_schIII_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch34%2FschIII%2FptA)
 
 ----------
 ----------
 
+[/us/pl/97/35/s683/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs683%2Fa
+[/us/stat/95/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F519
+[/us/pl/88/452/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs301
+[/us/stat/78/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F524
+[/us/pl/90/222/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F222%2Fs105%2Fb
+[/us/stat/81/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F709
+[/us/pl/95/568/s8/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F568%2Fs8%2Fb%2F1
+[/us/stat/92/2428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2428
+[/us/pl/88/452/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs302
+[/us/stat/78/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F524
+[/us/pl/89/253/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F253%2Fs21
+[/us/stat/79/976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F976
+[/us/pl/89/794/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F794%2Fs301%2Fa
+[/us/stat/80/1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1464
+[/us/pl/90/222/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F222%2Fs105%2Fc
+[/us/stat/81/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F709
+[/us/pl/91/177/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F177%2Fs108
+[/us/stat/83/830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F830
+[/us/pl/88/452/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs303
+[/us/stat/78/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F524
+[/us/pl/88/452/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs304
+[/us/stat/78/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F524
+[/us/pl/88/452/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs305
+[/us/stat/78/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F524
+[/us/pl/89/253/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F253%2Fs22
+[/us/stat/79/977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F977
+[/us/pl/89/794/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F794%2Fs301%2Fb
+[/us/stat/80/1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1464
+[/us/pl/88/452/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs306
+[/us/stat/78/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F531
+[/us/pl/89/794/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F794%2Fs407
+[/us/stat/80/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1465
+[/us/pl/90/222/s105/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F222%2Fs105%2Fd
+[/us/stat/81/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F709
+[/us/pl/93/386/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F386%2Fs2%2Fb
+[/us/stat/88/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F745
+[/us/pl/94/341/s2/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F341%2Fs2%2Fa%2F15
+[/us/stat/90/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F804
+[/us/pl/95/568/s8/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F568%2Fs8%2Fb%2F2
+[/us/stat/92/2428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2428
+[/us/pl/88/452/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452%2Fs307
+[/us/pl/95/568/s8/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F568%2Fs8%2Fa%2F3
+[/us/stat/92/2428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2428
+[/us/usc/t42/s9912/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9912%2Fa
+[/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
 
 

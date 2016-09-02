@@ -15,7 +15,7 @@
 
 ## § 1002. Qualified individuals
 
-Except as otherwise provided in this subchapter, an individual—
+    Except as otherwise provided in this subchapter, an individual—
 
     (1) who has attained the age of 65 on or before December 14, 1999;
 
@@ -35,7 +35,7 @@ Except as otherwise provided in this subchapter, an individual—
 
     (6) who is in compliance with all requirements imposed by the Commissioner of Social Security under this subchapter,
 
-        shall be a qualified individual for purposes of this subchapter.
+    shall be a qualified individual for purposes of this subchapter.
 
 ([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VIII, § 802, as added [Pub. L. 106–169, title II, § 251(a)][/us/pl/106/169/s251/a], Dec. 14, 1999, [113 Stat. 1844][/us/stat/113/1844].)
 

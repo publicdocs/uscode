@@ -15,13 +15,13 @@
 
 ## § 4125. Finality of certain financial transactions
 
-Notwithstanding the provisions of any other law—
+    Notwithstanding the provisions of any other law—
 
     (1) any financial transaction authorized to be carried out under this chapter, and
 
     (2) any payment authorized to be made or to be received in connection with any such financial transaction,
 
-        shall be final and conclusive upon all officers of the Government.
+    shall be final and conclusive upon all officers of the Government.
 
 ([Pub. L. 90–448, title XIII, § 1374][/us/pl/90/448/s1374], Aug. 1, 1968, [82 Stat. 589][/us/stat/82/589].)
 

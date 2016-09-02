@@ -15,7 +15,7 @@
 
 ## § 11201. Findings
 
-The Congress finds that—
+    The Congress finds that—
 
     (1) best estimates indicate that between 2,000,000 and 3,000,000 Americans presently have Alzheimer’s disease or related dementias;
 

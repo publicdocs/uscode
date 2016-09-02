@@ -15,7 +15,7 @@
 
 ## § 16233. Low-cost renewable hydrogen and infrastructure for vehicle propulsion
 
-The Secretary shall—
+    The Secretary shall—
 
     (1) establish a research, development, and demonstration program to determine the feasibility of using hydrogen propulsion in light-weight vehicles and the integration of the associated hydrogen production infrastructure using off-the-shelf components; and
 

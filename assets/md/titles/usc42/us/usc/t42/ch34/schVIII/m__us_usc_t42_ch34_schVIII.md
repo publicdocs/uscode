@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch34/schVII/ptD/m__us_usc_t42_s2985d to 2985g.md) | [Next](./../../../../..//us/usc/t42/ch34/schVIII/m__us_usc_t42_s2991.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch34%2FschVIII)
+[Previous](./../../../../..//us/usc/t42/ch34/schVII/ptD/m__us_usc_t42_s2985c–1.md) | [Next](./../../../../..//us/usc/t42/ch34/schVIII/m__us_usc_t42_s2991.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch34%2FschVIII)
 
 ### SUBCHAPTER VIII—NATIVE AMERICAN PROGRAMS
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch34/schVII/ptD/m__us_usc_t42_s2985d to 2985g.md) | [Next](./../../../../..//us/usc/t42/ch34/schVIII/m__us_usc_t42_s2991.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch34%2FschVIII)
+[Previous](./../../../../..//us/usc/t42/ch34/schVII/ptD/m__us_usc_t42_s2985c–1.md) | [Next](./../../../../..//us/usc/t42/ch34/schVIII/m__us_usc_t42_s2991.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch34%2FschVIII)
 
 ----------
 ----------

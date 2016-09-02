@@ -15,7 +15,7 @@
 
 ## § 254c–12. Definitions
 
-For purposes of sections 254c–9 to 254c–13 of this title:
+    For purposes of sections 254c–9 to 254c–13 of this title:
 
     (1) __Official poverty line__ 
 

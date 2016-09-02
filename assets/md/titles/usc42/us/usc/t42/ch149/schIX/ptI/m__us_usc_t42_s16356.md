@@ -15,7 +15,7 @@
 
 ## § 16356. Report on equal employment opportunity practices
 
-Not later than 12 months after August 8, 2005, and biennially thereafter, the Secretary shall transmit to Congress a report on the equal employment opportunity practices at National Laboratories. Such report shall include—
+    Not later than 12 months after August 8, 2005, and biennially thereafter, the Secretary shall transmit to Congress a report on the equal employment opportunity practices at National Laboratories. Such report shall include—
 
     (1) a thorough review of each National Laboratory contractor’s equal employment opportunity policies, including promotion to management and professional positions and pay raises;
 

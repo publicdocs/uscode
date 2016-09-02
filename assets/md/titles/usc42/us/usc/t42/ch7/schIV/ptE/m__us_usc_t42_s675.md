@@ -15,7 +15,7 @@
 
 ## § 675. Definitions
 
-As used in this part or part B of this subchapter:
+    As used in this part or part B of this subchapter:
 
     (1)
 

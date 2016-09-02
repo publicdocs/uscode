@@ -15,7 +15,7 @@
 
 ## § 7911. Definitions
 
-For purposes of this subchapter—
+    For purposes of this subchapter—
 
     (1) The term “Secretary” means the Secretary of Energy.
 

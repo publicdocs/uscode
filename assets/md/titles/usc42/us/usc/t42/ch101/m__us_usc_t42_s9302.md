@@ -15,7 +15,7 @@
 
 ## § 9302. Definitions
 
-For the purposes of this chapter—
+    For the purposes of this chapter—
 
     (1) “fusion” means a process whereby two light nuclei, such as deuterium and tritium, collide at high velocity, forming a compound nucleus, which subsequently separates into constituents which are different from the original colliding nuclei, and which carry away the accompanying energy release;
 

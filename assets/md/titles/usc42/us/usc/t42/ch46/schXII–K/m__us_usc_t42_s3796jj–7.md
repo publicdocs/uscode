@@ -15,7 +15,7 @@
 
 ## § 3796jj–7. Definitions
 
-For purposes of this subchapter—
+    For purposes of this subchapter—
 
     (1) the term “family-friendly policy” means a policy to promote or improve the morale and well being of law enforcement personnel and their families; and
 

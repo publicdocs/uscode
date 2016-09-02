@@ -15,7 +15,7 @@
 
 ## § 6201. Congressional statement of purpose
 
-The purposes of this chapter are—
+    The purposes of this chapter are—
 
     (1) to grant specific authority to the President to fulfill obligations of the United States under the international energy program;
 

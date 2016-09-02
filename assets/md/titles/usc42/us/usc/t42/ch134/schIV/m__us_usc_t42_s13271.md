@@ -15,7 +15,7 @@
 
 ## § 13271. Definitions
 
-For the purposes of this subchapter—
+    For the purposes of this subchapter—
 
     (1) the term “antitrust laws” means the Acts set forth in [section 12 of title 15][/us/usc/t15/s12];
 

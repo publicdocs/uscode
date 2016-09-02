@@ -11,16 +11,63 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch95/schIII/m__us_usc_t42_s8721 to 8725.md) | [Next](./../../../../..//us/usc/t42/ch95/schIV/m__us_usc_t42_s8731 to 8740.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch95%2FschIV)
+[Previous](./../../../../..//us/usc/t42/ch95/schIII/m__us_usc_t42_ch95_schIII.md) | [Next](./../../../../..//us/usc/t42/ch95/schV/m__us_usc_t42_ch95_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch95%2FschIV)
 
 ### SUBCHAPTER IV—FINANCIAL ASSISTANCE
 
+§§ 8731 to 8740. __Omitted__ 
+
+ __Codification__ 
+
+    Sections 8731 to 8740 were omitted from the Code in view of termination of United States Synthetic Fuels Corporation. See note set out under [section 8791 of this title][/us/usc/t42/s8791].
+
+    Section 8731, [Pub. L. 96–294, title I, § 131][/us/pl/96/294/s131], June 30, 1980, [94 Stat. 654][/us/stat/94/654], authorized financial assistance.
+
+    Section 8732, [Pub. L. 96–294, title I, § 132][/us/pl/96/294/s132], June 30, 1980, [94 Stat. 658][/us/stat/94/658], related to loans made by Corporation.
+
+    Section 8733, [Pub. L. 96–294, title I, § 133][/us/pl/96/294/s133], June 30, 1980, [94 Stat. 660][/us/stat/94/660], related to loan guarantees made by Corporation.
+
+    Section 8734, [Pub. L. 96–294, title I, § 134][/us/pl/96/294/s134], June 30, 1980, [94 Stat. 661][/us/stat/94/661], related to price guarantees by Corporation.
+
+    Section 8735, [Pub. L. 96–294, title I, § 135][/us/pl/96/294/s135], June 30, 1980, [94 Stat. 661][/us/stat/94/661], related to purchase agreements made by Corporation.
+
+    Section 8736, [Pub. L. 96–294, title I, § 136][/us/pl/96/294/s136], June 30, 1980, [94 Stat. 662][/us/stat/94/662], related to joint ventures by Corporation.
+
+    Section 8737, [Pub. L. 96–294, title I, § 137][/us/pl/96/294/s137], June 30, 1980, [94 Stat. 663][/us/stat/94/663], related to control of assets.
+
+    Section 8738, [Pub. L. 96–294, title I, § 138][/us/pl/96/294/s138], June 30, 1980, [94 Stat. 665][/us/stat/94/665], related to unlawful contracts.
+
+    Section 8739, [Pub. L. 96–294, title I, § 139][/us/pl/96/294/s139], June 30, 1980, [94 Stat. 665][/us/stat/94/665], related to fees and application of receipts.
+
+    Section 8740, [Pub. L. 96–294, title I, § 140][/us/pl/96/294/s140], June 30, 1980, [94 Stat. 665][/us/stat/94/665], related to disposition of securities.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch95/schIII/m__us_usc_t42_s8721 to 8725.md) | [Next](./../../../../..//us/usc/t42/ch95/schIV/m__us_usc_t42_s8731 to 8740.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch95%2FschIV)
+[Previous](./../../../../..//us/usc/t42/ch95/schIII/m__us_usc_t42_ch95_schIII.md) | [Next](./../../../../..//us/usc/t42/ch95/schV/m__us_usc_t42_ch95_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch95%2FschIV)
 
 ----------
 ----------
 
+[/us/usc/t42/s8791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8791
+[/us/pl/96/294/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs131
+[/us/stat/94/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F654
+[/us/pl/96/294/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs132
+[/us/stat/94/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F658
+[/us/pl/96/294/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs133
+[/us/stat/94/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F660
+[/us/pl/96/294/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs134
+[/us/stat/94/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F661
+[/us/pl/96/294/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs135
+[/us/stat/94/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F661
+[/us/pl/96/294/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs136
+[/us/stat/94/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F662
+[/us/pl/96/294/s137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs137
+[/us/stat/94/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F663
+[/us/pl/96/294/s138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs138
+[/us/stat/94/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F665
+[/us/pl/96/294/s139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs139
+[/us/stat/94/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F665
+[/us/pl/96/294/s140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs140
+[/us/stat/94/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F665
 
 

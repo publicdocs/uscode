@@ -15,7 +15,7 @@
 
 ## § 1591a. Construction by private enterprise
 
-In order to assure that private enterprise shall be afforded full opportunity to provide the defense housing needed wherever possible, in any area which the President, pursuant to the authority contained in [section 1591 of this title][/us/usc/t42/s1591], has declared to be a critical defense housing area—
+    In order to assure that private enterprise shall be afforded full opportunity to provide the defense housing needed wherever possible, in any area which the President, pursuant to the authority contained in [section 1591 of this title][/us/usc/t42/s1591], has declared to be a critical defense housing area—
 
     (a) __Publication of number of units needed__ 
 

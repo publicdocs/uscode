@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch52A/m__us_usc_t42_s4251 to 4261.md) | [Next](./../../../..//us/usc/t42/ch53/m__us_usc_t42_s4271.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch53)
+[Previous](./../../../..//us/usc/t42/ch52A/m__us_usc_t42_ch52A.md) | [Next](./../../../..//us/usc/t42/ch53/m__us_usc_t42_s4271.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch53)
 
 ## CHAPTER 53—ADVISORY COMMISSION ON INTERGOVERNMENTAL RELATIONS
 
@@ -109,7 +109,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch52A/m__us_usc_t42_s4251 to 4261.md) | [Next](./../../../..//us/usc/t42/ch53/m__us_usc_t42_s4271.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch53)
+[Previous](./../../../..//us/usc/t42/ch52A/m__us_usc_t42_ch52A.md) | [Next](./../../../..//us/usc/t42/ch53/m__us_usc_t42_s4271.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch53)
 
 ----------
 ----------

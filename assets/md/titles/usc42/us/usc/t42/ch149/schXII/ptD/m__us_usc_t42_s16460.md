@@ -15,7 +15,7 @@
 
 ## § 16460. Implementation
 
-Not later than 4 months after August 8, 2005, the Commission shall—
+    Not later than 4 months after August 8, 2005, the Commission shall—
 
     (1) issue such regulations as may be necessary or appropriate to implement this part (other than [section 16453 of this title][/us/usc/t42/s16453], relating to State access to books and records); and
 

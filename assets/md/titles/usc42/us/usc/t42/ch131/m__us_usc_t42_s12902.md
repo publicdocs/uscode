@@ -15,7 +15,7 @@
 
 ## § 12902. Definitions
 
-For purposes of this chapter:
+    For purposes of this chapter:
 
     (1) The term “acquired immunodeficiency syndrome and related diseases” means the disease of acquired immunodeficiency syndrome or any conditions arising from the etiologic agent for acquired immunodeficiency syndrome.
 

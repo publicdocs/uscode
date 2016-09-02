@@ -15,7 +15,7 @@
 
 ## § 3796jj–3. Applications
 
-A law enforcement agency or organization desiring to receive a grant under this subchapter shall submit to the Attorney General an application at such time, in such manner, and containing or accompanied by such information as the Attorney General may reasonably require. Such application shall—
+    A law enforcement agency or organization desiring to receive a grant under this subchapter shall submit to the Attorney General an application at such time, in such manner, and containing or accompanied by such information as the Attorney General may reasonably require. Such application shall—
 
     (1) certify that the law enforcement agency shall match all Federal funds with an equal amount of cash or in-kind goods or services from other non-Federal sources;
 

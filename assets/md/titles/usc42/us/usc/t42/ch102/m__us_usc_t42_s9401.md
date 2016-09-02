@@ -15,7 +15,7 @@
 
 ## § 9401. Congressional statement of findings
 
-The Congress finds—
+    The Congress finds—
 
     (1) despite the significant progress that has been made in making community mental health services available and in improving residential mental health facilities since the original community mental health centers legislation was enacted in 1963, unserved and underserved populations remain and there are certain groups in the population, such as chronically mentally ill individuals, children and youth, elderly individuals, racial and ethnic minorities, women, poor persons, and persons in rural areas, which often lack access to adequate private and public mental health services and support services;
 

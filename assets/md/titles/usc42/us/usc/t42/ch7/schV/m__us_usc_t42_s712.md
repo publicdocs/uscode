@@ -127,7 +127,11 @@
 
 >                 “(i) include public service announcements through television, radio, and other means; and
 
->                 “(ii) focus on—         “(I) raising awareness about screening;
+>                 “(ii)
+
+>                  focus on—
+
+>                          “(I) raising awareness about screening;
 
 >                          “(II) educating new mothers and their families about postpartum conditions to promote earlier diagnosis and treatment; and
 

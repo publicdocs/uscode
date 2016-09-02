@@ -15,7 +15,7 @@
 
 ## § 300ee–12. Provisions with respect to carrying out purpose of grants
 
-A State may expend payments received under [section 300ee–11(a) of this title][/us/usc/t42/s300ee–11/a]—
+    A State may expend payments received under [section 300ee–11(a) of this title][/us/usc/t42/s300ee–11/a]—
 
     (1) to develop, establish, and conduct public information activities relating to the prevention and diagnosis of acquired immune deficiency syndrome for those populations or communities in the State in which there are a significant number of individuals at risk of infection with the etiologic agent for such syndrome;
 

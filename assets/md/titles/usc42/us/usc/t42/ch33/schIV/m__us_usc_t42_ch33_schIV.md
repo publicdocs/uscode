@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch33/schIII/ptE/m__us_usc_t42_s2689r to 2689aa.md) | [Next](./../../../../..//us/usc/t42/ch33/schIV/m__us_usc_t42_s2691.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch33%2FschIV)
+[Previous](./../../../../..//us/usc/t42/ch33/schIII/ptE/m__us_usc_t42_ch33_schIII_ptE.md) | [Next](./../../../../..//us/usc/t42/ch33/schIV/m__us_usc_t42_s2691.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch33%2FschIV)
 
 ### SUBCHAPTER IV—GENERAL PROVISIONS
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch33/schIII/ptE/m__us_usc_t42_s2689r to 2689aa.md) | [Next](./../../../../..//us/usc/t42/ch33/schIV/m__us_usc_t42_s2691.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch33%2FschIV)
+[Previous](./../../../../..//us/usc/t42/ch33/schIII/ptE/m__us_usc_t42_ch33_schIII_ptE.md) | [Next](./../../../../..//us/usc/t42/ch33/schIV/m__us_usc_t42_s2691.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch33%2FschIV)
 
 ----------
 ----------

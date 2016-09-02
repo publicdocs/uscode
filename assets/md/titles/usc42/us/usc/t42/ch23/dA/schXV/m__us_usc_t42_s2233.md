@@ -15,7 +15,7 @@
 
 ## § 2233. Terms of licenses
 
-Each license shall be in such form and contain such terms and conditions as the Commission may, by rule or regulation, prescribe to effectuate the provisions of this chapter, including the following provisions:
+    Each license shall be in such form and contain such terms and conditions as the Commission may, by rule or regulation, prescribe to effectuate the provisions of this chapter, including the following provisions:
 
     (a) Repealed. [Pub. L. 88–489, § 18][/us/pl/88/489/s18], Aug. 26, 1964, [78 Stat. 607][/us/stat/78/607].
 

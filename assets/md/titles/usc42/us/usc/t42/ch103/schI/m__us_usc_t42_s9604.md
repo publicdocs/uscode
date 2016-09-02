@@ -77,7 +77,7 @@
 
             The credit under this paragraph shall include funds expended or obligated by the State or a political subdivision thereof after January 1, 1978, and before December 11, 1980, for cost-eligible response actions and claims for damages compensable under [section 9611 of this title][/us/usc/t42/s9611].
 
-            (D) __State expenses after december 11, 1980, in excess of 10 percent of costs.—__ 
+            (D) __State expenses after__  __december 11, 1980__  __, in excess of 10 percent of costs.—__ 
 
             The credit under this paragraph shall include 90 percent of State expenses incurred at a facility owned, but not operated, by such State or by a political subdivision thereof. Such credit applies only to expenses incurred pursuant to a contract or cooperative agreement under subsection (d) of this section and only to expenses incurred after December 11, 1980, but before October 17, 1986.
 

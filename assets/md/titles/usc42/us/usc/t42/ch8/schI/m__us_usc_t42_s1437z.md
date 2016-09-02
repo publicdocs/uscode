@@ -15,7 +15,7 @@
 
 ## § 1437z. Exchange of information with law enforcement agencies
 
-Notwithstanding any other provision of law, each public housing agency that enters into a contract for assistance under section 1437d or 1437f of this title with the Secretary shall furnish any Federal, State, or local law enforcement officer, upon the request of the officer, with the current address, Social Security number, and photograph (if applicable) of any recipient of assistance under this chapter, if the officer—
+    Notwithstanding any other provision of law, each public housing agency that enters into a contract for assistance under section 1437d or 1437f of this title with the Secretary shall furnish any Federal, State, or local law enforcement officer, upon the request of the officer, with the current address, Social Security number, and photograph (if applicable) of any recipient of assistance under this chapter, if the officer—
 
     (1) furnishes the public housing agency with the name of the recipient; and
 

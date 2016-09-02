@@ -41,7 +41,7 @@
 
 [Pub. L. 96–368][/us/pl/96/368], Oct. 1, 1980, [94 Stat. 1347][/us/stat/94/1347], as amended by [Pub. L. 102–154, title I][/us/pl/102/154], Nov. 13, 1991, [105 Stat. 1000][/us/stat/105/1000], provided that:
 
->     “Section 1. This Act may be cited as the ‘West Valley Demonstration Project Act’.
+> “Section 1. This Act may be cited as the ‘West Valley Demonstration Project Act’.
 
 > “Sec. 2.
 

@@ -15,7 +15,7 @@
 
 ## § 211c. Promotion credit for medical officers in assistant grade
 
-Any medical officer of the Regular Corps of the Public Health Service who—
+    Any medical officer of the Regular Corps of the Public Health Service who—
 
     (1)
 
@@ -23,7 +23,7 @@ Any medical officer of the Regular Corps of the Public Health Service who—
 
     (2) had or will have completed a medical internship on the date of such appointment,
 
-        shall be credited with one year for purposes of promotion and seniority in grade, except that no such credit shall be authorized if the officer has received or will receive similar credit for his internship under other provisions of law. In the case of an officer on active duty on the effective date of this section who is entitled to the credit authorized herein, the one year shall be added to the promotion and seniority-in-grade credits with which he is credited on such date.
+    shall be credited with one year for purposes of promotion and seniority in grade, except that no such credit shall be authorized if the officer has received or will receive similar credit for his internship under other provisions of law. In the case of an officer on active duty on the effective date of this section who is entitled to the credit authorized herein, the one year shall be added to the promotion and seniority-in-grade credits with which he is credited on such date.
 
 ([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title II, § 220, as added [Apr. 30, 1956, ch. 223, § 3][/us/act/1956-04-30/ch223/s3], [70 Stat. 121][/us/stat/70/121].)
 

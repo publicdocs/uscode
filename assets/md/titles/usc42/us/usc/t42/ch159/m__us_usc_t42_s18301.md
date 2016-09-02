@@ -15,7 +15,7 @@
 
 ## § 18301. Findings
 
-Congress makes the following findings:
+    Congress makes the following findings:
 
     (1) The United States human space flight program has, since the first Mercury flight on May 5, 1961, been a source of pride and inspiration for the Nation.
 

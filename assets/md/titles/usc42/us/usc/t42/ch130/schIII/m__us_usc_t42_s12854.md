@@ -15,7 +15,7 @@
 
 ## § 12854. Definitions
 
-For purposes of this subchapter:
+    For purposes of this subchapter:
 
     (1) __Board of Directors__ 
 

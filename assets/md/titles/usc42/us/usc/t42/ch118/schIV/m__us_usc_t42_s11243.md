@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch118/schIV/m__us_usc_t42_s11241, 11242.md) | [Next](./../../../../..//us/usc/t42/ch118/schIV/pt1/m__us_usc_t42_ch118_schIV_pt1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11243)
+[Previous](./../../../../..//us/usc/t42/ch118/schIV/m__us_usc_t42_s11232.md) | [Next](./../../../../..//us/usc/t42/ch118/schIV/pt1/m__us_usc_t42_ch118_schIV_pt1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11243)
 
 ## § 11243. Repealed. [Pub. L. 100–607, title I, § 142(c)(2)(A)][/us/pl/100/607/s142/c/2/A], Nov. 4, 1988, [102 Stat. 3057][/us/stat/102/3057]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch118/schIV/m__us_usc_t42_s11241, 11242.md) | [Next](./../../../../..//us/usc/t42/ch118/schIV/pt1/m__us_usc_t42_ch118_schIV_pt1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11243)
+[Previous](./../../../../..//us/usc/t42/ch118/schIV/m__us_usc_t42_s11232.md) | [Next](./../../../../..//us/usc/t42/ch118/schIV/pt1/m__us_usc_t42_ch118_schIV_pt1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11243)
 
 ----------
 ----------

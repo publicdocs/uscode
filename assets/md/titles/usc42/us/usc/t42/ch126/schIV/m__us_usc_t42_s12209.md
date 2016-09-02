@@ -15,7 +15,7 @@
 
 ## § 12209. Instrumentalities of Congress
 
-The Government Accountability Office, the Government Printing Office, and the Library of Congress shall be covered as follows:
+    The Government Accountability Office, the Government Printing Office, and the Library of Congress shall be covered as follows:
 
     (1) __In general__ 
 

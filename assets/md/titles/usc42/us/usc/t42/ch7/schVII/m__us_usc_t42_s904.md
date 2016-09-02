@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch7/schVII/m__us_usc_t42_s903.md) | [Next](./../../../../..//us/usc/t42/ch7/schVII/m__us_usc_t42_s905, 905a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs904)
+[Previous](./../../../../..//us/usc/t42/ch7/schVII/m__us_usc_t42_s903.md) | [Next](./../../../../..//us/usc/t42/ch7/schVII/m__us_usc_t42_s906.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs904)
 
 ## § 904. Administrative duties of Commissioner
 
@@ -115,9 +115,17 @@
 
     [Pub. L. 103–296, title I, § 104(b)][/us/pl/103/296/s104/b], Aug. 15, 1994, [108 Stat. 1472][/us/stat/108/1472], provided that within 60 days after establishment by Commissioner of Social Security of comprehensive work force plan required under subsec. (b)(2) of this section, Director of Office of Personnel Management was to transmit to Congress a report specifying total number of Senior Executive Services positions authorized for Social Security Administration in connection with such work force plan.
 
+§§ 905, 905a. __Transferred__ 
+
+ __Codification__ 
+
+    Section 905, [act July 5, 1952, ch. 575][/us/act/1952-07-05/ch575], title II, § 201, [66 Stat. 369][/us/stat/66/369], as amended, which related to the working capital fund, was transferred to [section 3513 of this title][/us/usc/t42/s3513].
+
+    Section 905a, act Aug. 10, 1971, [Pub. L. 92–80, title II, § 200][/us/pl/92/80/s200], [85 Stat. 297][/us/stat/85/297], which related to additional use of the working capital fund, was transferred to [section 3513b of this title][/us/usc/t42/s3513b].
+
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch7/schVII/m__us_usc_t42_s903.md) | [Next](./../../../../..//us/usc/t42/ch7/schVII/m__us_usc_t42_s905, 905a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs904)
+[Previous](./../../../../..//us/usc/t42/ch7/schVII/m__us_usc_t42_s903.md) | [Next](./../../../../..//us/usc/t42/ch7/schVII/m__us_usc_t42_s906.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs904)
 
 ----------
 ----------
@@ -160,5 +168,11 @@
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/pl/103/296/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs104%2Fb
 [/us/stat/108/1472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1472
+[/us/act/1952-07-05/ch575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-05%2Fch575
+[/us/stat/66/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F369
+[/us/usc/t42/s3513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3513
+[/us/pl/92/80/s200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F80%2Fs200
+[/us/stat/85/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F297
+[/us/usc/t42/s3513b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3513b
 
 

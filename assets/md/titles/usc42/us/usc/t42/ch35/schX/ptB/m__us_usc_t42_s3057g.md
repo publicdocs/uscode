@@ -15,7 +15,7 @@
 
 ## § 3057g. Findings
 
-The Congress finds the older Native Hawaiians—
+    The Congress finds the older Native Hawaiians—
 
     (1) have a life expectancy 10 years less than any other ethnic group in the State of Hawaii;
 

@@ -15,7 +15,7 @@
 
 ## § 14043e–1. Purpose
 
-The purpose of this subpart is to reduce domestic violence, dating violence, sexual assault, and stalking, and to prevent homelessness by—
+    The purpose of this subpart is to reduce domestic violence, dating violence, sexual assault, and stalking, and to prevent homelessness by—
 
     (1) protecting the safety of victims of domestic violence, dating violence, sexual assault, and stalking who reside in homeless shelters, public housing, assisted housing, tribally designated housing, or other emergency, transitional, permanent, or affordable housing, and ensuring that such victims have meaningful access to the criminal justice system without jeopardizing such housing;
 

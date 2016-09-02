@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch150/schI/m__us_usc_t42_s16616, 16617.md) | [Next](./../../../../..//us/usc/t42/ch150/schII/m__us_usc_t42_ch150_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16618)
+[Previous](./../../../../..//us/usc/t42/ch150/schI/m__us_usc_t42_s16612.md) | [Next](./../../../../..//us/usc/t42/ch150/schII/m__us_usc_t42_ch150_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16618)
 
 ## § 16618. Repealed. [Pub. L. 111–314, § 6][/us/pl/111/314/s6], Dec. 18, 2010, [124 Stat. 3444][/us/stat/124/3444]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch150/schI/m__us_usc_t42_s16616, 16617.md) | [Next](./../../../../..//us/usc/t42/ch150/schII/m__us_usc_t42_ch150_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16618)
+[Previous](./../../../../..//us/usc/t42/ch150/schI/m__us_usc_t42_s16612.md) | [Next](./../../../../..//us/usc/t42/ch150/schII/m__us_usc_t42_ch150_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16618)
 
 ----------
 ----------

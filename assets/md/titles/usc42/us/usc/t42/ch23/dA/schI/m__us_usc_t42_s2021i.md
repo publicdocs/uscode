@@ -15,7 +15,7 @@
 
 ## § 2021i. Licensing review and approval
 
-In order to ensure the timely development of new low-level radioactive waste disposal facilities, the Nuclear Regulatory Commission or, as appropriate, agreement States, shall consider an application for a disposal facility license in accordance with the laws applicable to such application, except that the Commission and the agreement state  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “States”. </sup></sup>  shall—
+    In order to ensure the timely development of new low-level radioactive waste disposal facilities, the Nuclear Regulatory Commission or, as appropriate, agreement States, shall consider an application for a disposal facility license in accordance with the laws applicable to such application, except that the Commission and the agreement state  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “States”. </sup></sup>  shall—
 
     (1) not later than 12 months after January 15, 1986, establish procedures and develop the technical capability for processing applications for such licenses;
 

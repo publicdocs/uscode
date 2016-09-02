@@ -15,7 +15,7 @@
 
 ## § 5566. Authorization of appropriations
 
-To carry out the provisions of this subchapter, there are authorized to be appropriated—
+    To carry out the provisions of this subchapter, there are authorized to be appropriated—
 
     (1) for the fiscal year ending June 30, 1976, $75,000,000;
 

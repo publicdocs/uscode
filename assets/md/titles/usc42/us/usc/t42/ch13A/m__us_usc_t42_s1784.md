@@ -15,7 +15,7 @@
 
 ## § 1784. Definitions
 
-For the purposes of this chapter—
+    For the purposes of this chapter—
 
     (1) “State” means any of the fifty States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, or the Commonwealth of the Northern Mariana Islands.
 

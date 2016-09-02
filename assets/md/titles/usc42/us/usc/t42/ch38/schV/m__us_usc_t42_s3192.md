@@ -15,7 +15,7 @@
 
 ## § 3192. Economic development information clearinghouse
 
-In carrying out this chapter, the Secretary shall—
+    In carrying out this chapter, the Secretary shall—
 
     (1)
 

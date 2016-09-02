@@ -15,7 +15,7 @@
 
 ## § 7372. “Secretary” and “renewable energy resource” defined
 
-For purposes of this subchapter—
+    For purposes of this subchapter—
 
     (1) the term “Secretary” means the Secretary of Energy; and
 

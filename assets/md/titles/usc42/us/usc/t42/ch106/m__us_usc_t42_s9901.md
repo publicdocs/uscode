@@ -15,7 +15,7 @@
 
 ## § 9901. Purposes and goals
 
-The purposes of this chapter are—
+    The purposes of this chapter are—
 
     (1) to provide assistance to States and local communities, working through a network of community action agencies and other neighborhood-based organizations, for the reduction of poverty, the revitalization of low-income communities, and the empowerment of low-income families and individuals in rural and urban areas to become fully self-sufficient (particularly families who are attempting to transition off a State program carried out under part A of title IV of the Social Security Act ([42 U.S.C. 601][/us/usc/t42/s601] et seq.)); and
 

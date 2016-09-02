@@ -15,7 +15,7 @@
 
 ## § 1437aaa–8. Annual report
 
-The Secretary shall annually submit to the Congress a report setting forth—
+    The Secretary shall annually submit to the Congress a report setting forth—
 
     (1) the number, type, and cost of public housing units sold pursuant to this subchapter;
 

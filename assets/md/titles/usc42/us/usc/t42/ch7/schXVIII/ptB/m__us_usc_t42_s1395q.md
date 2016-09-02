@@ -181,7 +181,7 @@
 
 >     “(2) shall terminate at the close of March 31, 1968, if he filed his notice of termination after December 31, 1967, and before April 1, 1968.
 
->         An individual whose coverage period terminated pursuant to paragraph (1) at the close of December 31, 1967, may, notwithstanding section 1837(b)(2) of such Act \[[42 U.S.C. 1395p(b)(2)][/us/usc/t42/s1395p/b/2]\], enroll in such program before April 1, 1968, and for purposes of sections 1838(a)(2)(E) \[[42 U.S.C. 1395q(a)(2)(E)][/us/usc/t42/s1395q/a/2/E]\] and 1837(b)(2) of such Act \[[42 U.S.C. 1395p(b)(2)][/us/usc/t42/s1395p/b/2]\] such enrollment shall be deemed an enrollment under section 1837(e) of such Act \[[42 U.S.C. 1395p(e)][/us/usc/t42/s1395p/e]\] and a second enrollment under such part.”
+>     An individual whose coverage period terminated pursuant to paragraph (1) at the close of December 31, 1967, may, notwithstanding section 1837(b)(2) of such Act \[[42 U.S.C. 1395p(b)(2)][/us/usc/t42/s1395p/b/2]\], enroll in such program before April 1, 1968, and for purposes of sections 1838(a)(2)(E) \[[42 U.S.C. 1395q(a)(2)(E)][/us/usc/t42/s1395q/a/2/E]\] and 1837(b)(2) of such Act \[[42 U.S.C. 1395p(b)(2)][/us/usc/t42/s1395p/b/2]\] such enrollment shall be deemed an enrollment under section 1837(e) of such Act \[[42 U.S.C. 1395p(e)][/us/usc/t42/s1395p/e]\] and a second enrollment under such part.”
 
  __Extension of 1967 General Enrollment Period Through__  __March 31, 1968__ 
 

@@ -15,7 +15,7 @@
 
 ## § 12880. Report
 
-The Secretary shall no later than December 31, 1995, submit to the Congress a report setting forth—
+    The Secretary shall no later than December 31, 1995, submit to the Congress a report setting forth—
 
     (1) the number, type and cost of eligible properties transferred pursuant to this part;
 

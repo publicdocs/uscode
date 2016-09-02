@@ -15,7 +15,7 @@
 
 ## § 9202. Definitions
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (1) the term “wind energy system” means a system of components which converts the kinetic energy of the wind into electricity or mechanical power, and which comprises all necessary components, including energy storage, power conditioning, control systems, and transmission systems, where appropriate, to provide electricity or mechanical power for individual, residential, agricultural, commercial, industrial, utility, or governmental use;
 

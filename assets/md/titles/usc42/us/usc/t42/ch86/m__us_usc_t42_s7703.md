@@ -15,7 +15,7 @@
 
 ## § 7703. Definitions
 
-As used in this chapter, unless the context otherwise requires:
+    As used in this chapter, unless the context otherwise requires:
 
     (1) The term “includes” and variants thereof should be read as if the phrase “but is not limited to” were also set forth.
 

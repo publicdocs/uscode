@@ -15,7 +15,7 @@
 
 ## § 291. Congressional declaration of purpose
 
-The purpose of this subchapter is—
+    The purpose of this subchapter is—
 
     (a) to assist the several States in the carrying out of their programs for the construction and modernization of such public or other nonprofit community hospitals and other medical facilities as may be necessary, in conjunction with existing facilities, to furnish adequate hospital, clinic, or similar services to all their people;
 

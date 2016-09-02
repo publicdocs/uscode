@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch9/schV/m__us_usc_t42_s1561 to 1563.md) | [Next](./../../../../..//us/usc/t42/ch9/schVI/m__us_usc_t42_ch9_schVI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1564)
+[Previous](./../../../../..//us/usc/t42/ch9/schV/m__us_usc_t42_ch9_schV.md) | [Next](./../../../../..//us/usc/t42/ch9/schVI/m__us_usc_t42_ch9_schVI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1564)
 
 ## § 1564. Definitions
 
@@ -37,7 +37,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch9/schV/m__us_usc_t42_s1561 to 1563.md) | [Next](./../../../../..//us/usc/t42/ch9/schVI/m__us_usc_t42_ch9_schVI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1564)
+[Previous](./../../../../..//us/usc/t42/ch9/schV/m__us_usc_t42_ch9_schV.md) | [Next](./../../../../..//us/usc/t42/ch9/schVI/m__us_usc_t42_ch9_schVI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1564)
 
 ----------
 ----------

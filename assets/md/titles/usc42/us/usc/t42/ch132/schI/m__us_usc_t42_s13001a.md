@@ -15,7 +15,7 @@
 
 ## § 13001a. Definitions
 
-For purposes of this subchapter—
+    For purposes of this subchapter—
 
     (1) the term “Administrator” means the agency head designated under [section 5611(b) of this title][/us/usc/t42/s5611/b];
 

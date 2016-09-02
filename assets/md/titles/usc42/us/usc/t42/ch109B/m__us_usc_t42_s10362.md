@@ -15,7 +15,7 @@
 
 ## § 10362. Definitions
 
-In this section:  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be a reference to this chapter. </sup></sup> 
+    In this section:  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be a reference to this chapter. </sup></sup> 
 
     (1) __Administrator__ 
 

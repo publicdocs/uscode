@@ -15,7 +15,7 @@
 
 ## § 6250a. Authority
 
-To the extent necessary or appropriate to carry out this part, the Secretary may—
+    To the extent necessary or appropriate to carry out this part, the Secretary may—
 
     (1) purchase, contract for, lease, or otherwise acquire, in whole or in part, storage and related facilities, and storage services;
 

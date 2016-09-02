@@ -15,7 +15,7 @@
 
 ## § 6721. Congressional findings of fact and declaration of policy
 
-The Congress finds—
+    The Congress finds—
 
     (1) that State and local governments represent a significant segment of the national economy whose economic health is essential to national economic prosperity;
 

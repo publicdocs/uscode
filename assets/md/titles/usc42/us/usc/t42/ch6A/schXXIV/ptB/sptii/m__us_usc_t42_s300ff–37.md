@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t42/ch6A/schXXIV/ptB/sptii/m__us_usc_t42_s300ff–35, 300ff–36.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schXXIV/ptB/sptii/m__us_usc_t42_s300ff–37a.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9337)
+[Previous](./../../../../../../..//us/usc/t42/ch6A/schXXIV/ptB/sptii/m__us_usc_t42_s300ff–34.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schXXIV/ptB/sptii/m__us_usc_t42_s300ff–37a.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9337)
 
 ## § 300ff–37. State HIV testing programs established prior to or after May 20, 1996
 
@@ -39,7 +39,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t42/ch6A/schXXIV/ptB/sptii/m__us_usc_t42_s300ff–35, 300ff–36.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schXXIV/ptB/sptii/m__us_usc_t42_s300ff–37a.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9337)
+[Previous](./../../../../../../..//us/usc/t42/ch6A/schXXIV/ptB/sptii/m__us_usc_t42_s300ff–34.md) | [Next](./../../../../../../..//us/usc/t42/ch6A/schXXIV/ptB/sptii/m__us_usc_t42_s300ff–37a.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300ff%E2%80%9337)
 
 ----------
 ----------

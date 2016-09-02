@@ -267,15 +267,15 @@
 
  __Amendment of Subsection (a)__ 
 
-[Pub. L. 112–141, div. F, title II, § 100243(b)][/us/pl/112/141/s100243/b], July 6, 2012, [126 Stat. 966][/us/stat/126/966], provided that, effective on the date that is 2 years after July 6, 2012, subsection (a) of this section is amended as follows:
+    [Pub. L. 112–141, div. F, title II, § 100243(b)][/us/pl/112/141/s100243/b], July 6, 2012, [126 Stat. 966][/us/stat/126/966], provided that, effective on the date that is 2 years after July 6, 2012, subsection (a) of this section is amended as follows:
 
-(1) in paragraph (25), by adding “and” at the end;
+    (1) in paragraph (25), by adding “and” at the end;
 
-(2) in paragraph (26), by striking the semicolon at the end and inserting a period; and
+    (2) in paragraph (26), by striking the semicolon at the end and inserting a period; and
 
-(3) by striking paragraphs (27) and (28).
+    (3) by striking paragraphs (27) and (28).
 
-See 2012 Amendment notes below.
+    See 2012 Amendment notes below.
 
  __References in Text__ 
 

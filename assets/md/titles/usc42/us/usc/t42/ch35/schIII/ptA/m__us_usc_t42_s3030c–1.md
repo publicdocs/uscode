@@ -15,7 +15,7 @@
 
 ## § 3030c–1. Rights relating to in-home services for frail older individuals
 
-The Assistant Secretary shall require entities that provide in-home services under this subchapter to promote the rights of each older individual who receives such services. Such rights include the following:
+    The Assistant Secretary shall require entities that provide in-home services under this subchapter to promote the rights of each older individual who receives such services. Such rights include the following:
 
     (1)
 

@@ -15,7 +15,7 @@
 
 ## § 1320d. Definitions
 
-For purposes of this part:
+    For purposes of this part:
 
     (1) __Code set__ 
 

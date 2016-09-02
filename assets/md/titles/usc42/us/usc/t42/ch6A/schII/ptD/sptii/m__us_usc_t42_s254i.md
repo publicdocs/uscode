@@ -15,7 +15,7 @@
 
 ## § 254i. Annual report to Congress; contents
 
-The Secretary shall submit an annual report to Congress, and shall include in such report with respect to the previous calendar year—
+    The Secretary shall submit an annual report to Congress, and shall include in such report with respect to the previous calendar year—
 
     (1) the number, identity, and priority of all health professional shortage areas designated in such year and the number of health professional shortage areas which the Secretary estimates will be designated in the subsequent year;
 

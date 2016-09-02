@@ -89,11 +89,19 @@
 
 >             If the Secretary of Health and Human Services receives from a State a plan described in section 402(a) of the Social Security Act \[[42 U.S.C. 602(a)][/us/usc/t42/s602/a]\] (as added by the amendment made by section 103(a)(1) of this Act), then—
 
->                 “(i) on and after the date of such receipt—         “(I) except as provided in clause (ii), this title and the amendments made by this title (other than by section 103(c) of this Act \[amending sections 602 and 603 of this title\]) shall apply with respect to the State; and
+>                 “(i)
+
+>                  on and after the date of such receipt—
+
+>                          “(I) except as provided in clause (ii), this title and the amendments made by this title (other than by section 103(c) of this Act \[amending sections 602 and 603 of this title\]) shall apply with respect to the State; and
 
 >                          “(II) the State shall be considered an eligible State for purposes of part A of title IV of the Social Security Act \[[42 U.S.C. 601][/us/usc/t42/s601] et seq.\] (as in effect pursuant to the amendments made by such section 103(a)); and
 
->                 “(ii) during the period that begins on the date of such receipt and ends on the later of June 30, 1997, or the day before the date described in subsection (a)(2)(B) of this section, there shall remain in effect with respect to the State—         “(I) section 403(h) of the Social Security Act \[[42 U.S.C. 603(h)][/us/usc/t42/s603/h]\] (as in effect on September 30, 1995); and
+>                 “(ii)
+
+>                  during the period that begins on the date of such receipt and ends on the later of June 30, 1997, or the day before the date described in subsection (a)(2)(B) of this section, there shall remain in effect with respect to the State—
+
+>                          “(I) section 403(h) of the Social Security Act \[[42 U.S.C. 603(h)][/us/usc/t42/s603/h]\] (as in effect on September 30, 1995); and
 
 >                          “(II) all State reporting requirements under parts A and F of title IV of the Social Security Act \[[42 U.S.C. 601][/us/usc/t42/s601] et seq., 681 et seq.\] (as in effect on September 30, 1995), modified by the Secretary as appropriate, taking into account the State program under part A of title IV of the Social Security Act (as in effect pursuant to the amendments made by such section 103(a)).
 
@@ -107,15 +115,21 @@
 
 >                 Notwithstanding section 403(a)(1) of the Social Security Act \[[42 U.S.C. 603(a)(1)][/us/usc/t42/s603/a/1]\] (as in effect pursuant to the amendments made by section 103(a) of this Act), the total obligations of the Federal Government to a State under such section 403(a)(1)—
 
->                      “(I) for fiscal year 1996, shall be an amount equal to—
+>                          “(I)
 
->                     “(aa) the State family assistance grant; multiplied by
+>                      for fiscal year 1996, shall be an amount equal to—
 
->                     “(bb) 1⁄366 of the number of days during the period that begins on the date the Secretary of Health and Human Services first receives from the State a plan described in section 402(a) of the Social Security Act \[[42 U.S.C. 602(a)][/us/usc/t42/s602/a]\] (as added by the amendment made by section 103(a)(1) of this Act) and ends on September 30, 1996; and         “(II) for fiscal year 1997, shall be an amount equal to the lesser of—
+>                         “(aa) the State family assistance grant; multiplied by
 
->                     “(aa) the amount (if any) by which the sum of the State family assistance grant and the amount, if any, that the State would have been eligible to be paid under the Contingency Fund for State Welfare Programs established under section 403(b) of the Social Security Act \[[42 U.S.C. 603(b)][/us/usc/t42/s603/b]\] (as amended by section 103(a)(1) of this Act), during the period beginning on October 1, 1996, and ending on the date the Secretary of Health and Human Services first receives from the State a plan described in section 402(a) of the Social Security Act \[[42 U.S.C. 602(a)][/us/usc/t42/s602/a]\] (as so amended) if, with respect to such State, the effective date of this Act \[title\] under subsection (a)(1) were August 22, 1996, exceeds the total obligations of the Federal Government to the State under part A of title IV of the Social Security Act \[[42 U.S.C. 601][/us/usc/t42/s601] et seq.\] (as in effect on September 30, 1995) with respect to expenditures in fiscal year 1997; or
+>                         “(bb) 1⁄366 of the number of days during the period that begins on the date the Secretary of Health and Human Services first receives from the State a plan described in section 402(a) of the Social Security Act \[[42 U.S.C. 602(a)][/us/usc/t42/s602/a]\] (as added by the amendment made by section 103(a)(1) of this Act) and ends on September 30, 1996; and
 
->                     “(bb) the sum of the State family assistance grant, multiplied by 1⁄365 of the number of days during the period that begins on October 1, 1996, or the date the Secretary of Health and Human Services first receives from the State a plan described in section 402(a) of the Social Security Act (as added by the amendment made by section 103(a)(1) of this Act), whichever is later, and ends on September 30, 1997, and the amount, if any, that the State would have been eligible to be paid under the Contingency Fund for State Welfare Programs established under section 403(b) of the Social Security Act (as amended by section 103(a)(1) of this Act), during the period beginning on October 1, 1996, and ending on the date the Secretary of Health and Human Services first receives from the State a plan described in section 402(a) of the Social Security Act (as so amended) if, with respect to such State, the effective date of this Act \[title\] under subsection (a)(1) were August 22, 1996.
+>                          “(II)
+
+>                      for fiscal year 1997, shall be an amount equal to the lesser of—
+
+>                         “(aa) the amount (if any) by which the sum of the State family assistance grant and the amount, if any, that the State would have been eligible to be paid under the Contingency Fund for State Welfare Programs established under section 403(b) of the Social Security Act \[[42 U.S.C. 603(b)][/us/usc/t42/s603/b]\] (as amended by section 103(a)(1) of this Act), during the period beginning on October 1, 1996, and ending on the date the Secretary of Health and Human Services first receives from the State a plan described in section 402(a) of the Social Security Act \[[42 U.S.C. 602(a)][/us/usc/t42/s602/a]\] (as so amended) if, with respect to such State, the effective date of this Act \[title\] under subsection (a)(1) were August 22, 1996, exceeds the total obligations of the Federal Government to the State under part A of title IV of the Social Security Act \[[42 U.S.C. 601][/us/usc/t42/s601] et seq.\] (as in effect on September 30, 1995) with respect to expenditures in fiscal year 1997; or
+
+>                         “(bb) the sum of the State family assistance grant, multiplied by 1⁄365 of the number of days during the period that begins on October 1, 1996, or the date the Secretary of Health and Human Services first receives from the State a plan described in section 402(a) of the Social Security Act (as added by the amendment made by section 103(a)(1) of this Act), whichever is later, and ends on September 30, 1997, and the amount, if any, that the State would have been eligible to be paid under the Contingency Fund for State Welfare Programs established under section 403(b) of the Social Security Act (as amended by section 103(a)(1) of this Act), during the period beginning on October 1, 1996, and ending on the date the Secretary of Health and Human Services first receives from the State a plan described in section 402(a) of the Social Security Act (as so amended) if, with respect to such State, the effective date of this Act \[title\] under subsection (a)(1) were August 22, 1996.
 
 >                 “(iii) __Child care obligations excluded in determining federal afdc obligations.—__ 
 

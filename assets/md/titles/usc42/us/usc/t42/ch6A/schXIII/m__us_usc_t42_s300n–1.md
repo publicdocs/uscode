@@ -15,7 +15,7 @@
 
 ## § 300n–1. Description of intended uses of grant
 
-The Secretary may not make a grant under [section 300k of this title][/us/usc/t42/s300k] unless—
+    The Secretary may not make a grant under [section 300k of this title][/us/usc/t42/s300k] unless—
 
     (1) the State involved submits to the Secretary a description of the purposes for which the State intends to expend the grant;
 

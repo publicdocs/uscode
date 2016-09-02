@@ -15,7 +15,7 @@
 
 ## § 13414. Natural gas end-use technologies
 
-The Secretary shall carry out a 5-year program, in accordance with sections 13541 and 13542 of this title, on new and advanced natural gas utilization technologies including, but not limited to—
+    The Secretary shall carry out a 5-year program, in accordance with sections 13541 and 13542 of this title, on new and advanced natural gas utilization technologies including, but not limited to—
 
     (1) stationary source emissions control and efficiency improvements including combustion systems, industrial processes, cogeneration, and waste fuels; and
 

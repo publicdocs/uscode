@@ -11,16 +11,35 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch66/schII/ptE/m__us_usc_t42_s5028a.md) | [Next](./../../../../..//us/usc/t42/ch66/schIII/m__us_usc_t42_s5031, 5032.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch66%2FschIII)
+[Previous](./../../../../..//us/usc/t42/ch66/schII/ptE/m__us_usc_t42_s5028a.md) | [Next](./../../../../..//us/usc/t42/ch66/schIV/m__us_usc_t42_ch66_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch66%2FschIII)
 
 ### SUBCHAPTER III—NATIONAL VOLUNTEER PROGRAMS TO ASSIST SMALL BUSINESSES AND PROMOTE VOLUNTEER SERVICE BY PERSONS WITH BUSINESS EXPERIENCE
 
+§§ 5031, 5032. __Repealed.__  __[__  __Pub. L. 95–510, § 102(a)__  __][/us/pl/95/510/s102/a]__  __,__  __Oct. 24, 1978__  __,__  __[__  __92 Stat. 1781__  __][/us/stat/92/1781]__ 
+
+    Section 5031, [Pub. L. 93–113, title III, § 301][/us/pl/93/113/s301], Oct. 1, 1973, [87 Stat. 404][/us/stat/87/404], set out Congressional statement of purpose in enacting this subchapter.
+
+    Section 5032, [Pub. L. 93–113, title III, § 302][/us/pl/93/113/s302], Oct. 1, 1973, [87 Stat. 404][/us/stat/87/404], authorized Director to establish, coordinate, and operate national volunteer programs. See [section 637 of Title 15][/us/usc/t15/s637], Commerce and Trade.
+
+ __Effective Date of Repeal__ 
+
+    Repeal of sections 5031 and 5032 effective Oct. 1, 1979, see [section 105 of Pub. L. 95–510][/us/pl/95/510/s105], set out as an Effective Date of 1978 Amendment note under [section 634 of Title 15][/us/usc/t15/s634], Commerce and Trade.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch66/schII/ptE/m__us_usc_t42_s5028a.md) | [Next](./../../../../..//us/usc/t42/ch66/schIII/m__us_usc_t42_s5031, 5032.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch66%2FschIII)
+[Previous](./../../../../..//us/usc/t42/ch66/schII/ptE/m__us_usc_t42_s5028a.md) | [Next](./../../../../..//us/usc/t42/ch66/schIV/m__us_usc_t42_ch66_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch66%2FschIII)
 
 ----------
 ----------
 
+[/us/pl/95/510/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F510%2Fs102%2Fa
+[/us/stat/92/1781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1781
+[/us/pl/93/113/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs301
+[/us/stat/87/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F404
+[/us/pl/93/113/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F113%2Fs302
+[/us/stat/87/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F404
+[/us/usc/t15/s637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637
+[/us/pl/95/510/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F510%2Fs105
+[/us/usc/t15/s634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs634
 
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch105/schII–A/m__us_usc_t42_s9855 to 9855g.md) | [Next](./../../../../..//us/usc/t42/ch105/schII–B/m__us_usc_t42_s9858.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch105%2FschII%E2%80%93B)
+[Previous](./../../../../..//us/usc/t42/ch105/schII–A/m__us_usc_t42_ch105_schII–A.md) | [Next](./../../../../..//us/usc/t42/ch105/schII–B/m__us_usc_t42_s9858.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch105%2FschII%E2%80%93B)
 
 ### SUBCHAPTER II–B—CHILD CARE AND DEVELOPMENT BLOCK GRANT
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch105/schII–A/m__us_usc_t42_s9855 to 9855g.md) | [Next](./../../../../..//us/usc/t42/ch105/schII–B/m__us_usc_t42_s9858.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch105%2FschII%E2%80%93B)
+[Previous](./../../../../..//us/usc/t42/ch105/schII–A/m__us_usc_t42_ch105_schII–A.md) | [Next](./../../../../..//us/usc/t42/ch105/schII–B/m__us_usc_t42_s9858.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch105%2FschII%E2%80%93B)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 7470. Congressional declaration of purpose
 
-The purposes of this part are as follows:
+    The purposes of this part are as follows:
 
     (1) to protect public health and welfare from any actual or potential adverse effect which in the Administrator’s judgment may reasonably be anticipate  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “anticipated”. </sup></sup>  to occur from air pollution or from exposures to pollutants in other media, which pollutants originate as emissions to the ambient air)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Section was enacted without an opening parenthesis. </sup></sup> , notwithstanding attainment and maintenance of all national ambient air quality standards;
 

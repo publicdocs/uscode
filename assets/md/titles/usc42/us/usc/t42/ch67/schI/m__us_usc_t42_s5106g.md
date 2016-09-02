@@ -15,7 +15,7 @@
 
 ## § 5106g. Definitions
 
-For purposes of this subchapter—
+    For purposes of this subchapter—
 
     (1) the term “Alaska Native” has the meaning given the term “Native” in [section 1602 of title 43][/us/usc/t43/s1602];
 

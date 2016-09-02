@@ -15,7 +15,7 @@
 
 ## § 291g. Withholding of payments; noncompliance with requirements
 
-Whenever the Surgeon General, after reasonable notice and opportunity for hearing to the State agency designated as provided in [section 291d(a)(1) of this title][/us/usc/t42/s291d/a/1], finds—
+    Whenever the Surgeon General, after reasonable notice and opportunity for hearing to the State agency designated as provided in [section 291d(a)(1) of this title][/us/usc/t42/s291d/a/1], finds—
 
     (a) that the State agency is not complying substantially with the provisions required by [section 291d of this title][/us/usc/t42/s291d] to be included in its State plan; or
 
@@ -23,17 +23,15 @@ Whenever the Surgeon General, after reasonable notice and opportunity for hearin
 
     (c) that there is a substantial failure to carry out plans and specifications approved by the Surgeon General under [section 291e of this title][/us/usc/t42/s291e]; or
 
-    (d)
+    (d) that adequate State funds are not being provided annually for the direct administration of the State plan,
 
-     that adequate State funds are not being provided annually for the direct administration of the State plan,
+    the Surgeon General may forthwith notify the State agency that—
 
-        the Surgeon General may forthwith notify the State agency that—
+    (e) no further payments will be made to the State under this part, or
 
-        (e) no further payments will be made to the State under this part, or
+    (f) no further payments will be made from the allotments of such State from appropriations under any one or more subparagraphs or paragraphs of [section 291a of this title][/us/usc/t42/s291a], or for any project or projects, designated by the Surgeon General as being affected by the action or inaction referred to in paragraph (a), (b), (c), or (d) of this section,
 
-        (f) no further payments will be made from the allotments of such State from appropriations under any one or more subparagraphs or paragraphs of [section 291a of this title][/us/usc/t42/s291a], or for any project or projects, designated by the Surgeon General as being affected by the action or inaction referred to in paragraph (a), (b), (c), or (d) of this section,
-
-        as the Surgeon General may determine to be appropriate under the circumstances; and, except with regard to any project for which the application has already been approved and which is not directly affected, further payments may be withheld, in whole or in part, until there is no longer any failure to comply (or carry out the assurance or plans and specifications or provide adequate State funds, as the case may be) or, if such compliance (or other action) is impossible, until the State repays or arranges for the repayment of Federal moneys to which the recipient was not entitled.
+    as the Surgeon General may determine to be appropriate under the circumstances; and, except with regard to any project for which the application has already been approved and which is not directly affected, further payments may be withheld, in whole or in part, until there is no longer any failure to comply (or carry out the assurance or plans and specifications or provide adequate State funds, as the case may be) or, if such compliance (or other action) is impossible, until the State repays or arranges for the repayment of Federal moneys to which the recipient was not entitled.
 
 ([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title VI, § 607, as added [Pub. L. 88–443, § 3(a)][/us/pl/88/443/s3/a], Aug. 18, 1964, [78 Stat. 455][/us/stat/78/455].)
 

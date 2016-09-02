@@ -15,7 +15,7 @@
 
 ## § 3797s–1. Use of grant funds
 
-Grants made to an entity under [section 3797s of this title][/us/usc/t42/s3797s] for a program described in such section may be used for—
+    Grants made to an entity under [section 3797s of this title][/us/usc/t42/s3797s] for a program described in such section may be used for—
 
     (1) the development, implementation, and expansion of prison-based family treatment programs in correctional facilities for incarcerated parents with minor children (except for any such parent who there is reasonable evidence to believe engaged in domestic violence or child abuse);
 

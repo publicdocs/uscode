@@ -1343,19 +1343,19 @@
 
  __Amendment of Subsection (f)(4)__ 
 
-[Pub. L. 111–148, title II, § 2004(c)(1)][/us/pl/111/148/s2004/c/1], (d), Mar. 23, 2010, [124 Stat. 283][/us/stat/124/283], provided that, effective Jan. 1, 2014, subsection (f)(4) of this section is amended by inserting “1396a(a)(10)(A)(i)(IX),” after “1396a(a)(10)(A)(i)(VIII),”.
+    [Pub. L. 111–148, title II, § 2004(c)(1)][/us/pl/111/148/s2004/c/1], (d), Mar. 23, 2010, [124 Stat. 283][/us/stat/124/283], provided that, effective Jan. 1, 2014, subsection (f)(4) of this section is amended by inserting “1396a(a)(10)(A)(i)(IX),” after “1396a(a)(10)(A)(i)(VIII),”.
 
  __Amendment of Subsection (u)(1)(D)(v)__ 
 
-[Pub. L. 111–148, title II, § 2202(b)][/us/pl/111/148/s2202/b], (c), Mar. 23, 2010, [124 Stat. 291][/us/stat/124/291], 292, provided that, effective Jan. 1, 2014, and applicable to services furnished on or after that date, subsection (u)(1)(D)(v) of this section is amended—
+    [Pub. L. 111–148, title II, § 2202(b)][/us/pl/111/148/s2202/b], (c), Mar. 23, 2010, [124 Stat. 291][/us/stat/124/291], 292, provided that, effective Jan. 1, 2014, and applicable to services furnished on or after that date, subsection (u)(1)(D)(v) of this section is amended—
 
-(1) by striking “or for” and inserting “for”; and
+    (1) by striking “or for” and inserting “for”; and
 
-(2) by inserting before the period at the end the following: “, or for medical assistance provided to an individual during a presumptive eligibility period resulting from a determination of presumptive eligibility made by a hospital that elects under [section 1396a(a)(47)(B) of this title][/us/usc/t42/s1396a/a/47/B] to be a qualified entity for such purpose”.
+    (2) by inserting before the period at the end the following: “, or for medical assistance provided to an individual during a presumptive eligibility period resulting from a determination of presumptive eligibility made by a hospital that elects under [section 1396a(a)(47)(B) of this title][/us/usc/t42/s1396a/a/47/B] to be a qualified entity for such purpose”.
 
-[Pub. L. 111–148, title II, § 2303(b)(2)(B)][/us/pl/111/148/s2303/b/2/B], (d), Mar. 23, 2010, [124 Stat. 296][/us/stat/124/296], provided that, effective Mar. 23, 2010, and applicable to items and services furnished on or after such date, subsection (u)(1)(D)(v) of this title, as amended by [section 2202(b) of Pub. L. 111–148][/us/pl/111/148/s2202/b], is amended by inserting “or for medical assistance provided to an individual described in subsection (a) of [section 1396r–1c of this title][/us/usc/t42/s1396r–1c] during a presumptive eligibility period under such section,” after “1396r–1b of this title during a presumptive eligibility period under such section,”.
+    [Pub. L. 111–148, title II, § 2303(b)(2)(B)][/us/pl/111/148/s2303/b/2/B], (d), Mar. 23, 2010, [124 Stat. 296][/us/stat/124/296], provided that, effective Mar. 23, 2010, and applicable to items and services furnished on or after such date, subsection (u)(1)(D)(v) of this title, as amended by [section 2202(b) of Pub. L. 111–148][/us/pl/111/148/s2202/b], is amended by inserting “or for medical assistance provided to an individual described in subsection (a) of [section 1396r–1c of this title][/us/usc/t42/s1396r–1c] during a presumptive eligibility period under such section,” after “1396r–1b of this title during a presumptive eligibility period under such section,”.
 
-See 2010 Amendment notes below.
+    See 2010 Amendment notes below.
 
  __References in Text__ 
 
@@ -2277,9 +2277,9 @@ See 2010 Amendment notes below.
 
 >         The amendments made by section 4702 \[amending this section and sections 1396a and 1396d of this title\] shall apply to primary care case management services furnished on or after October 1, 1997.
 
->         “(2) __75:25 rule.—__ 
+>         “(2) __75:__ 
 
->         The amendments made by section 4703 \[amending this section and [section 1396r–6 of this title][/us/usc/t42/s1396r–6]\] apply to contracts under section 1903(m) of the Social Security Act ([42 U.S.C. 1396b(m)][/us/usc/t42/s1396b/m]) on and after June 20, 1997.
+>         25 rule.—The amendments made by section 4703 \[amending this section and [section 1396r–6 of this title][/us/usc/t42/s1396r–6]\] apply to contracts under section 1903(m) of the Social Security Act ([42 U.S.C. 1396b(m)][/us/usc/t42/s1396b/m]) on and after June 20, 1997.
 
 >         “(3) __Quality standards.—__ 
 
@@ -2641,7 +2641,7 @@ See 2010 Amendment notes below.
 
 >     “(B) after the expiration of the one-year period beginning on such date,
 
->         whichever occurs first.”
+>     whichever occurs first.”
 
  __Effective Date of 1976 Amendment__ 
 
@@ -2655,7 +2655,7 @@ See 2010 Amendment notes below.
 
 >     “(2) after the expiration of the 1-year period beginning on such date of enactment,
 
->         whichever occurs first.”
+>     whichever occurs first.”
 
  __Effective Date of 1975 Amendment__ 
 

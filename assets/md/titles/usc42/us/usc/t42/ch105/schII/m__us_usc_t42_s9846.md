@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch105/schII/m__us_usc_t42_s9845.md) | [Next](./../../../../..//us/usc/t42/ch105/schII/m__us_usc_t42_s9846a, 9847.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9846)
+[Previous](./../../../../..//us/usc/t42/ch105/schII/m__us_usc_t42_s9845.md) | [Next](./../../../../..//us/usc/t42/ch105/schII/m__us_usc_t42_s9848.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9846)
 
 ## § 9846. Reports
 
@@ -167,9 +167,19 @@
 
     For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 4th item on page 79 identifies a reporting provision which, as subsequently amended, is contained in subsec. (a) of this section), see [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance.
 
+§§ 9846a, 9847. __Repealed.__  __[__  __Pub. L. 103–252, title I, § 119__  __][/us/pl/103/252/s119]__  __,__  __May 18, 1994__  __,__  __[__  __108 Stat. 648__  __][/us/stat/108/648]__ 
+
+    Section 9846a, [Pub. L. 97–35, title VI, § 651A][/us/pl/97/35/s651A], as added [Pub. L. 101–501, title I, § 120(a)][/us/pl/101/501/s120/a], Nov. 3, 1990, [104 Stat. 1235][/us/stat/104/1235]; amended [Pub. L. 102–401, § 2(k)(6)][/us/pl/102/401/s2/k/6], Oct. 7, 1992, [106 Stat. 1959][/us/stat/106/1959], related to longitudinal study of Head Start participants.
+
+    Section 9847, [Pub. L. 97–35, title VI, § 652][/us/pl/97/35/s652], Aug. 13, 1981, [95 Stat. 506][/us/stat/95/506]; [Pub. L. 101–501, title I, § 121(a)][/us/pl/101/501/s121/a], (c), Nov. 3, 1990, [104 Stat. 1237][/us/stat/104/1237], directed Secretary to annually determine poverty line to be used as criterion of eligibility for participation in Head Start programs.
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective May 18, 1994, but not applicable to Head Start agencies and other recipients of financial assistance under the Head Start Act ([42 U.S.C. 9831][/us/usc/t42/s9831] et seq.) until Oct. 1, 1994, see [section 127 of Pub. L. 103–252][/us/pl/103/252/s127], set out as an Effective Date of 1994 Amendment note under [section 9832 of this title][/us/usc/t42/s9832].
+
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch105/schII/m__us_usc_t42_s9845.md) | [Next](./../../../../..//us/usc/t42/ch105/schII/m__us_usc_t42_s9846a, 9847.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9846)
+[Previous](./../../../../..//us/usc/t42/ch105/schII/m__us_usc_t42_s9845.md) | [Next](./../../../../..//us/usc/t42/ch105/schII/m__us_usc_t42_s9848.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9846)
 
 ----------
 ----------
@@ -237,5 +247,19 @@
 [/us/usc/t42/s8621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8621
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
+[/us/pl/103/252/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs119
+[/us/stat/108/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F648
+[/us/pl/97/35/s651A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs651A
+[/us/pl/101/501/s120/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs120%2Fa
+[/us/stat/104/1235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1235
+[/us/pl/102/401/s2/k/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401%2Fs2%2Fk%2F6
+[/us/stat/106/1959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1959
+[/us/pl/97/35/s652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs652
+[/us/stat/95/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F506
+[/us/pl/101/501/s121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F501%2Fs121%2Fa
+[/us/stat/104/1237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1237
+[/us/usc/t42/s9831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9831
+[/us/pl/103/252/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F252%2Fs127
+[/us/usc/t42/s9832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9832
 
 

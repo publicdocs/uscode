@@ -761,7 +761,11 @@
 
 >                     “(III) participated onsite in a test involving the atmospheric detonation of a nuclear device; and
 
->                 “(ii) submits written documentation that such individual developed leukemia—         “(I) after the applicable period of physical presence described in subclause (I) or (II) of clause (i) or onsite participation described in clause (i)(III) (as the case may be); and
+>                 “(ii)
+
+>                  submits written documentation that such individual developed leukemia—
+
+>                          “(I) after the applicable period of physical presence described in subclause (I) or (II) of clause (i) or onsite participation described in clause (i)(III) (as the case may be); and
 
 >                          “(II) more that \[sic\] 2 years after first exposure to fallout.
 
@@ -925,7 +929,9 @@
 
 >                 “(ii) __Description of physicians.—__ 
 
->                 A physician referred to under clause (i) is a physician who—         “(I) is employed by the Indian Health Service or the Department of Veterans Affairs; or
+>                 A physician referred to under clause (i) is a physician who—
+
+>                          “(I) is employed by the Indian Health Service or the Department of Veterans Affairs; or
 
 >                          “(II) is a board certified physician; and
 
@@ -951,11 +957,15 @@
 
 >                 A physician referred to under clause (i) is a physician who—
 
->                      “(I) is employed by—
+>                          “(I)
 
->                     “(aa) the Indian Health Service; or
+>                      is employed by—
 
->                     “(bb) the Department of Veterans Affairs; and         “(II) has a documented ongoing physician patient relationship with the claimant.
+>                         “(aa) the Indian Health Service; or
+
+>                         “(bb) the Department of Veterans Affairs; and
+
+>                          “(II) has a documented ongoing physician patient relationship with the claimant.
 
 > “SEC. 6. __DETERMINATION AND PAYMENT OF CLAIMS.__ 
 
@@ -1181,7 +1191,7 @@
 
 > “SEC. 13. __REPEAL.__ 
 
->     “Section 1631 of the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1985 ([42 U.S.C. 2212][/us/usc/t42/s2212]) is repealed.”
+> “Section 1631 of the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1985 ([42 U.S.C. 2212][/us/usc/t42/s2212]) is repealed.”
 
  __Negotiated Rulemaking on Financial Protection for Radiopharmaceutical Licensees__ 
 

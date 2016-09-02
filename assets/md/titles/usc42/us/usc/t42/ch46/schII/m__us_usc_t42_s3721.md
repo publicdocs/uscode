@@ -15,7 +15,7 @@
 
 ## § 3721. Statement of purpose
 
-It is the purpose of this subchapter to establish a National Institute of Justice, which shall provide for and encourage research and demonstration efforts for the purpose of—
+    It is the purpose of this subchapter to establish a National Institute of Justice, which shall provide for and encourage research and demonstration efforts for the purpose of—
 
     (1) improving Federal, State, and local criminal justice systems and related aspects of the civil justice system;
 
@@ -25,7 +25,7 @@ It is the purpose of this subchapter to establish a National Institute of Justic
 
     (4) identifying programs of proven effectiveness, programs having a record of proven success, or programs which offer a high probability of improving the functioning of the criminal justice system.
 
-        The Institute shall have authority to engage in and encourage research and development to improve and strengthen the criminal justice system and related aspects of the civil justice system and to disseminate the results of such efforts to Federal, State, and local governments, to evaluate the effectiveness of programs funded under this chapter, to develop and demonstrate new or improved approaches and techniques, to improve and strengthen the administration of justice, and to identify programs or projects carried out under this chapter which have demonstrated success in improving the quality of justice systems and which offer the likelihood of success if continued or repeated. In carrying out the provisions of this subchapter, the Institute shall give primary emphasis to the problems of State and local justice systems and shall insure that there is a balance between basic and applied research.
+    The Institute shall have authority to engage in and encourage research and development to improve and strengthen the criminal justice system and related aspects of the civil justice system and to disseminate the results of such efforts to Federal, State, and local governments, to evaluate the effectiveness of programs funded under this chapter, to develop and demonstrate new or improved approaches and techniques, to improve and strengthen the administration of justice, and to identify programs or projects carried out under this chapter which have demonstrated success in improving the quality of justice systems and which offer the likelihood of success if continued or repeated. In carrying out the provisions of this subchapter, the Institute shall give primary emphasis to the problems of State and local justice systems and shall insure that there is a balance between basic and applied research.
 
 ([Pub. L. 90–351, title I, § 201][/us/pl/90/351/s201], as added [Pub. L. 96–157, § 2][/us/pl/96/157/s2], Dec. 27, 1979, [93 Stat. 1172][/us/stat/93/1172]; amended [Pub. L. 98–473, title II, § 604(a)][/us/pl/98/473/s604/a], Oct. 12, 1984, [98 Stat. 2078][/us/stat/98/2078].)
 
@@ -227,101 +227,93 @@ It is the purpose of this subchapter to establish a National Institute of Justic
 
 [Pub. L. 101–515, title II, § 211(B)][/us/pl/101/515/s211/B], Nov. 5, 1990, [104 Stat. 2122][/us/stat/104/2122], as amended by [Pub. L. 103–322, title XXVI, § 260001][/us/pl/103/322/s260001], Sept. 13, 1994, [108 Stat. 2088][/us/stat/108/2088]; [Pub. L. 104–316, title I, § 122(m)][/us/pl/104/316/s122/m], Oct. 19, 1996, [110 Stat. 3838][/us/stat/110/3838], provided that:
 
->     “(B)
+>     “(B)    (a) This subsection may be cited as the ‘National Commission to Support Law Enforcement Act’.
 
->         (a) This subsection may be cited as the ‘National Commission to Support Law Enforcement Act’.
+>         “(b)
 
->         “(b) The Congress finds that—
+>          The Congress finds that—    “(1) law enforcement officers risk their lives daily to protect citizens, for modest rewards and too little recognition;
 
->     “(1) law enforcement officers risk their lives daily to protect citizens, for modest rewards and too little recognition;
+>             “(2) a significant shift has occurred in the problems that law enforcement officers face without a corresponding change in the support from the Federal Government;
 
->     “(2) a significant shift has occurred in the problems that law enforcement officers face without a corresponding change in the support from the Federal Government;
+>             “(3) law enforcement officers are on the front line in the war against drugs and crime;
 
->     “(3) law enforcement officers are on the front line in the war against drugs and crime;
+>             “(4) the rate of violent crime continues to increase along with the increase in drug use;
 
->     “(4) the rate of violent crime continues to increase along with the increase in drug use;
+>             “(5) a large percentage of individuals arrested test positive for drug usage;
 
->     “(5) a large percentage of individuals arrested test positive for drug usage;
+>             “(6) the Presidential Commission on Law Enforcement and the Administration of Justice of 1965 focused attention on many issues affecting law enforcement, and a review twenty-five years later would help to evaluate current problems, including drug-related crime, violence, racial conflict, and decrease\[d\] funding; and
 
->     “(6) the Presidential Commission on Law Enforcement and the Administration of Justice of 1965 focused attention on many issues affecting law enforcement, and a review twenty-five years later would help to evaluate current problems, including drug-related crime, violence, racial conflict, and decrease\[d\] funding; and
+>             “(7) a comprehensive study of law enforcement issues, including the role of the Federal Government in supporting law enforcement officers, working conditions, and responsibility for crime control would assist in redefining the relationships between the Federal Government, the public, and law enforcement officials.
 
->     “(7) a comprehensive study of law enforcement issues, including the role of the Federal Government in supporting law enforcement officers, working conditions, and responsibility for crime control would assist in redefining the relationships between the Federal Government, the public, and law enforcement officials.
+>         “(c) There is established a national commission to be known as the ‘National Commission to Support Law Enforcement’ (referred to in this section as the ‘Commission’).
 
->     “(c) There is established a national commission to be known as the ‘National Commission to Support Law Enforcement’ (referred to in this section as the ‘Commission’).
+>         “(d)
 
->     “(d)
+>          The Commission shall study and recommend changes regarding law enforcement agencies and law enforcement issues on the Federal, State, and local levels, including the following:    “(1) The sufficiency of funding, including a review of grant programs at the Federal level.
 
->      The Commission shall study and recommend changes regarding law enforcement agencies and law enforcement issues on the Federal, State, and local levels, including the following:
+>             “(2) The conditions of law enforcement employment.
 
->         “(1) The sufficiency of funding, including a review of grant programs at the Federal level.
+>             “(3) The effectiveness of information-sharing systems, intelligence, infrastructure, and procedures among law enforcement agencies of Federal, State, and local governments.
 
->         “(2) The conditions of law enforcement employment.
+>             “(4) The status of law enforcement research and education and training.
 
->         “(3) The effectiveness of information-sharing systems, intelligence, infrastructure, and procedures among law enforcement agencies of Federal, State, and local governments.
+>             “(5) The adequacy of equipment, physical resources, and human resources.
 
->         “(4) The status of law enforcement research and education and training.
+>             “(6) The cooperation among Federal, State, and local law enforcement agencies.
 
->         “(5) The adequacy of equipment, physical resources, and human resources.
+>             “(7) The responsibility of governments and law enforcement agencies in solving the crime problem.
 
->         “(6) The cooperation among Federal, State, and local law enforcement agencies.
+>             “(8) The impact of the criminal justice system, including court schedules and prison overcrowding, on law enforcement.
 
->         “(7) The responsibility of governments and law enforcement agencies in solving the crime problem.
+>         “(e) The Commission shall conduct surveys and consult with focus groups of law enforcement officers, local officials, and community leaders across the Nation to obtain information and seek advice on important law enforcement issues.
 
->         “(8) The impact of the criminal justice system, including court schedules and prison overcrowding, on law enforcement.
+>         “(f) __Number and Appointment.—__ 
 
->     “(e) The Commission shall conduct surveys and consult with focus groups of law enforcement officers, local officials, and community leaders across the Nation to obtain information and seek advice on important law enforcement issues.
+>             “(1) __In general.—__ 
 
->     “(f) __Number and Appointment.—__ 
+>             The Commission shall be composed of 29 members as follows:    “(A)
 
->         “(1) __In general.—__ 
+>                  Nine individuals appointed from national law enforcement organizations representing law enforcement officers, of whom—    “(i) two shall be appointed by the Speaker of the House of Representatives;
 
->         The Commission shall be composed of 29 members as follows:
+>                     “(ii) two shall be appointed by the majority leader of the Senate;
 
->             “(A)
+>                     “(iii) two shall be appointed by the minority leader of the House of Representatives;
 
->              Nine individuals appointed from national law enforcement organizations representing law enforcement officers, of whom—
+>                     “(iv) two shall be appointed by the minority leader of the Senate; and
 
->                 “(i) two shall be appointed by the Speaker of the House of Representatives;
+>                     “(v) one shall be appointed by the President.
 
->                 “(ii) two shall be appointed by the majority leader of the Senate;
+>                 “(B)
 
->                 “(iii) two shall be appointed by the minority leader of the House of Representatives;
+>                  Nine individuals appointed from national law enforcement organizations representing law enforcement management, of whom—    “(i) two shall be appointed by the Speaker of the House of Representatives;
 
->                 “(iv) two shall be appointed by the minority leader of the Senate; and
+>                     “(ii) two shall be appointed by the majority leader of the Senate;
 
->                 “(v) one shall be appointed by the President.
+>                     “(iii) two shall be appointed by the minority leader of the House of Representatives;
 
->             “(B)
+>                     “(iv) two shall be appointed by the minority leader of the Senate; and
 
->              Nine individuals appointed from national law enforcement organizations representing law enforcement management, of whom—
+>                     “(v) one shall be appointed by the President.
 
->                 “(i) two shall be appointed by the Speaker of the House of Representatives;
+>     “(C)
 
->                 “(ii) two shall be appointed by the majority leader of the Senate;
+>      Two individuals appointed with academic expertise regarding law enforcement issues, of whom—
 
->                 “(iii) two shall be appointed by the minority leader of the House of Representatives;
+>         “(i) one shall be appointed by the Speaker of the House of Representatives and the majority leader of the Senate; and
 
->                 “(iv) two shall be appointed by the minority leader of the Senate; and
+>         “(ii) one shall be appointed by the minority leader of the Senate and the minority leader of the House of Representatives.
 
->                 “(v) one shall be appointed by the President.
+>     “(D) Two Members of the House of Representatives, appointed by the Speaker and the minority leader of the House of Representatives.
 
->             “(C)
+>     “(E) Two Members of the Senate, appointed by the majority leader and the minority leader of the Senate.
 
->              Two individuals appointed with academic expertise regarding law enforcement issues, of whom—
+>     “(F) One individual from the Department of Justice, appointed by the President.
 
->                 “(i) one shall be appointed by the Speaker of the House of Representatives and the majority leader of the Senate; and
+>     “(G) Two individuals representing a State or local governmental entity, such as a Governor, mayor, or State attorney general, to be appointed jointly by the majority leader and the minority leader of the Senate.
 
->                 “(ii) one shall be appointed by the minority leader of the Senate and the minority leader of the House of Representatives.
+>     “(H)
 
->             “(D) Two Members of the House of Representatives, appointed by the Speaker and the minority leader of the House of Representatives.
-
->             “(E) Two Members of the Senate, appointed by the majority leader and the minority leader of the Senate.
-
->             “(F) One individual from the Department of Justice, appointed by the President.
-
->             “(G) Two individuals representing a State or local governmental entity, such as a Governor, mayor, or State attorney general, to be appointed jointly by the majority leader and the minority leader of the Senate.
-
->             “(H) Two individuals representing a State or local governmental entity, such as a Governor, mayor, or State attorney general, to be appointed jointly by the Speaker and the minority leader of the House of Representatives.
+>      Two individuals representing a State or local governmental entity, such as a Governor, mayor, or State attorney general, to be appointed jointly by the Speaker and the minority leader of the House of Representatives.
 
 >         “(2) __Comptroller general.—__ 
 
@@ -335,31 +327,31 @@ It is the purpose of this subchapter to establish a National Institute of Justic
 
 >         Members of the Commission shall be appointed no later than 90 days after the enactment of this Act \[probably means enactment of [Pub. L. 103–322][/us/pl/103/322], which was approved Sept. 13, 1994\].
 
->     “(g)
+>             “(g)
 
->         (1) Members of the Commission shall receive no additional pay, allowance, or benefit by reason of service on the Commission.
+>                 (1) Members of the Commission shall receive no additional pay, allowance, or benefit by reason of service on the Commission.
 
->         “(2) Each member of the Commission shall receive travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5, United States Code.
+>                 “(2) Each member of the Commission shall receive travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5, United States Code.
 
->     “(h) The Commission may procure temporary and intermittent services under [section 3109(b) of title 5][/us/usc/t5/s3109/b], United States Code.
+>             “(h) The Commission may procure temporary and intermittent services under [section 3109(b) of title 5][/us/usc/t5/s3109/b], United States Code.
 
->     “(i) Upon request of the Commission, the head of any Federal agency is authorized to detail, on a reimbursable basis, any of the personnel of that agency to the Commission to assist the Commission in carrying out its duties under this section.
+>             “(i) Upon request of the Commission, the head of any Federal agency is authorized to detail, on a reimbursable basis, any of the personnel of that agency to the Commission to assist the Commission in carrying out its duties under this section.
 
->     “(j) The Administrator of General Services shall provide to the Commission, on a reimbursable basis, administrative support services as the Commission may request.
+>             “(j) The Administrator of General Services shall provide to the Commission, on a reimbursable basis, administrative support services as the Commission may request.
 
->     “(k) The Commission may, for purposes of this section, hold hearings, sit and act at the times and places, take testimony, and receive evidence, as the Commission considers appropriate.
+>             “(k) The Commission may, for purposes of this section, hold hearings, sit and act at the times and places, take testimony, and receive evidence, as the Commission considers appropriate.
 
->     “(l) Any member or agent of the Commission may, if authorized by the Commission, take any action the Commission is authorized to take by this section.
+>             “(l) Any member or agent of the Commission may, if authorized by the Commission, take any action the Commission is authorized to take by this section.
 
->     “(m) The Commission may secure directly from any Federal agency information necessary to enable it to carry out this section. Upon request of the chairperson of the Commission, the head of an agency shall furnish the information to the Commission to the extent permitted by law.
+>             “(m) The Commission may secure directly from any Federal agency information necessary to enable it to carry out this section. Upon request of the chairperson of the Commission, the head of an agency shall furnish the information to the Commission to the extent permitted by law.
 
->     “(n) The Commission may accept, use, and dispose of gifts or donations of services or property.
+>             “(n) The Commission may accept, use, and dispose of gifts or donations of services or property.
 
->     “(o) The Commission may use the United States mails in the same manner and under the same conditions as other Federal agencies.
+>             “(o) The Commission may use the United States mails in the same manner and under the same conditions as other Federal agencies.
 
->     “(p) Not later than March 31, 1996, the Commission shall submit to the Congress a report containing the findings of the Commission and specific proposals for legislation and administrative actions that the Commission has determined to be appropriate.
+>             “(p) Not later than March 31, 1996, the Commission shall submit to the Congress a report containing the findings of the Commission and specific proposals for legislation and administrative actions that the Commission has determined to be appropriate.
 
->     “(q) The Commission shall cease to exist upon the expiration of the sixty-day period beginning on the date on which the Commission submits its report under subsection (p).”
+>             “(q) The Commission shall cease to exist upon the expiration of the sixty-day period beginning on the date on which the Commission submits its report under subsection (p).”
 
 ----------
 

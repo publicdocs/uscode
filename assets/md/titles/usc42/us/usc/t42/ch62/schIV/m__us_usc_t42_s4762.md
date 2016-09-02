@@ -15,7 +15,7 @@
 
 ## § 4762. Definitions
 
-For the purpose of this chapter—
+    For the purpose of this chapter—
 
     (1) “Office” means the Office of Personnel Management;
 

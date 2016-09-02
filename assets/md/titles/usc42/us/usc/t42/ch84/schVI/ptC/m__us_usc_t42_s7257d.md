@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7257a to 7257c.md) | [Next](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7258.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7257d)
+[Previous](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7257.md) | [Next](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7258.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7257d)
 
 ## § 7257d. Expanded research by Secretary of Energy
 
@@ -47,7 +47,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7257a to 7257c.md) | [Next](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7258.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7257d)
+[Previous](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7257.md) | [Next](./../../../../../..//us/usc/t42/ch84/schVI/ptC/m__us_usc_t42_s7258.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7257d)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 11434a. Definitions
 
-For purposes of this part:
+    For purposes of this part:
 
     (1) The terms “enroll” and “enrollment” include attending classes and participating fully in school activities.
 

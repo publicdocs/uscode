@@ -15,7 +15,7 @@
 
 ## § 2000bb–2. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (1) the term “government” includes a branch, department, agency, instrumentality, and official (or other person acting under color of law) of the United States, or of a covered entity;
 

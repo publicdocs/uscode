@@ -83,7 +83,7 @@
 
 >     “(B) are in effect at the time this section takes effect, or were final before the date of enactment of this section and are to become effective on or after such date,
 
->         shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the President, the Secretary, or other authorized official, a court of competent jurisdiction, or by operation of law.”
+>     shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the President, the Secretary, or other authorized official, a court of competent jurisdiction, or by operation of law.”
 
  __No New Regulatory Authority__ 
 

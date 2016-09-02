@@ -15,7 +15,7 @@
 
 ## § 2296b–7. Definitions
 
-For purposes of this part:
+    For purposes of this part:
 
     (1) The term “Corporation” means the United States Enrichment Corporation established under section 2297b  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title or its successor.
 

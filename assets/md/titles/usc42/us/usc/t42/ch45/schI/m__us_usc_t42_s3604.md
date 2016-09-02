@@ -15,7 +15,7 @@
 
 ## § 3604. Discrimination in the sale or rental of housing and other prohibited practices
 
-As made applicable by [section 3603 of this title][/us/usc/t42/s3603] and except as exempted by sections 3603(b) and 3607 of this title, it shall be unlawful—
+    As made applicable by [section 3603 of this title][/us/usc/t42/s3603] and except as exempted by sections 3603(b) and 3607 of this title, it shall be unlawful—
 
     (a) To refuse to sell or rent after the making of a bona fide offer, or to refuse to negotiate for the sale or rental of, or otherwise make unavailable or deny, a dwelling to any person because of race, color, religion, sex, familial status, or national origin.
 

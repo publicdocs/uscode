@@ -31,7 +31,7 @@
 
  __Partial Repeal of Subsection (d)__ 
 
-Subsection (d) of this section was repealed by [Pub. L. 87–649, § 14b][/us/pl/87/649/s14b], Sept. 7, 1962, [76 Stat. 499][/us/stat/76/499], insofar as it was applicable to the last sentence of subsection (c) of this section which authorized a lump-sum payment to an officer credited with unused accumulated and accrued annual leave. See [section 501 of Title 37][/us/usc/t37/s501], Pay and Allowances of the Uniformed Services.
+    Subsection (d) of this section was repealed by [Pub. L. 87–649, § 14b][/us/pl/87/649/s14b], Sept. 7, 1962, [76 Stat. 499][/us/stat/76/499], insofar as it was applicable to the last sentence of subsection (c) of this section which authorized a lump-sum payment to an officer credited with unused accumulated and accrued annual leave. See [section 501 of Title 37][/us/usc/t37/s501], Pay and Allowances of the Uniformed Services.
 
  __Amendments__ 
 

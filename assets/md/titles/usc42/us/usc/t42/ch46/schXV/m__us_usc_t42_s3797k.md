@@ -15,7 +15,7 @@
 
 ## § 3797k. Applications
 
-To request a grant under this subchapter, a State or unit of local government shall submit to the Attorney General—
+    To request a grant under this subchapter, a State or unit of local government shall submit to the Attorney General—
 
     (1) a certification that the State or unit of local government has developed a plan for forensic science laboratories under a program described in [section 3797m(a) of this title][/us/usc/t42/s3797m/a], and a specific description of the manner in which the grant will be used to carry out that plan;
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch20A/m__us_usc_t42_s1975e, 1975f.md) | [Next](./../../../..//us/usc/t42/ch21/schI/m__us_usc_t42_ch21_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch21)
+[Previous](./../../../..//us/usc/t42/ch20A/m__us_usc_t42_s1975d.md) | [Next](./../../../..//us/usc/t42/ch21/schI/m__us_usc_t42_ch21_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch21)
 
 ## CHAPTER 21—CIVIL RIGHTS
 
@@ -859,7 +859,7 @@ SUBCHAPTER IX—MISCELLANEOUS PROVISIONS  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch20A/m__us_usc_t42_s1975e, 1975f.md) | [Next](./../../../..//us/usc/t42/ch21/schI/m__us_usc_t42_ch21_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch21)
+[Previous](./../../../..//us/usc/t42/ch20A/m__us_usc_t42_s1975d.md) | [Next](./../../../..//us/usc/t42/ch21/schI/m__us_usc_t42_ch21_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch21)
 
 ----------
 ----------

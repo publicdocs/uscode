@@ -15,7 +15,7 @@
 
 ## § 5402. Definitions
 
-As used in this chapter, the term—
+    As used in this chapter, the term—
 
     (1) “manufactured home construction” means all activities relating to the assembly and manufacture of a manufactured home including but not limited to those relating to durability, quality, and safety;
 

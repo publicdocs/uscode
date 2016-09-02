@@ -15,7 +15,7 @@
 
 ## § 17151. Definitions
 
-In this part:
+    In this part:
 
     (1) __Eligible entity__ 
 
@@ -35,33 +35,35 @@ In this part:
 
         (B) an eligible unit of local government-alternative 2.
 
-    (3) __(A) Eligible unit of local government-alternative 1__ 
+    (3)
 
-    The term “eligible unit of local government-alternative 1” means—
+        (A) __Eligible unit of local government-alternative 1__ 
 
-        (i)
+        The term “eligible unit of local government-alternative 1” means—
 
-         a city with a population—
+            (i)
 
-            (I) of at least 35,000; or
+             a city with a population—
 
-            (II) that causes the city to be 1 of the 10 highest-populated cities of the State in which the city is located; and
+                (I) of at least 35,000; or
 
-        (ii)
+                (II) that causes the city to be 1 of the 10 highest-populated cities of the State in which the city is located; and
 
-         a county with a population—
+            (ii)
 
-            (I) of at least 200,000; or
+             a county with a population—
 
-            (II) that causes the county to be 1 of the 10 highest-populated counties of the State in which the county is located.
+                (I) of at least 200,000; or
 
-    (B) __Eligible unit of local government-alternative 2__ 
+                (II) that causes the county to be 1 of the 10 highest-populated counties of the State in which the county is located.
 
-    The term “eligible unit of local government-alternative 2” means—
+        (B) __Eligible unit of local government-alternative 2__ 
 
-        (i) a city with a population of at least 50,000; or
+        The term “eligible unit of local government-alternative 2” means—
 
-        (ii) a county with a population of at least 200,000.
+            (i) a city with a population of at least 50,000; or
+
+            (ii) a county with a population of at least 200,000.
 
     (4) __Indian tribe__ 
 

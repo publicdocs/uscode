@@ -377,7 +377,7 @@
 
  __Amendment of Section__ 
 
-For termination of amendment by [section 1106 of Pub. L. 113–4][/us/pl/113/4/s1106], see Termination Date of 2013 Amendment note below.
+    For termination of amendment by [section 1106 of Pub. L. 113–4][/us/pl/113/4/s1106], see Termination Date of 2013 Amendment note below.
 
  __References in Text__ 
 

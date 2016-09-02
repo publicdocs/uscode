@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch136/schVI/m__us_usc_t42_s14071 to 14073.md) | [Next](./../../../../..//us/usc/t42/ch136/schVII/m__us_usc_t42_s14081.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch136%2FschVII)
+[Previous](./../../../../..//us/usc/t42/ch136/schVI/m__us_usc_t42_ch136_schVI.md) | [Next](./../../../../..//us/usc/t42/ch136/schVII/m__us_usc_t42_s14081.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch136%2FschVII)
 
 ### SUBCHAPTER VII—RURAL CRIME
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch136/schVI/m__us_usc_t42_s14071 to 14073.md) | [Next](./../../../../..//us/usc/t42/ch136/schVII/m__us_usc_t42_s14081.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch136%2FschVII)
+[Previous](./../../../../..//us/usc/t42/ch136/schVI/m__us_usc_t42_ch136_schVI.md) | [Next](./../../../../..//us/usc/t42/ch136/schVII/m__us_usc_t42_s14081.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch136%2FschVII)
 
 ----------
 ----------

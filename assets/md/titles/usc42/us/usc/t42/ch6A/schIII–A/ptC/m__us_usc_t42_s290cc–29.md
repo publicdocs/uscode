@@ -15,7 +15,7 @@
 
 ## § 290cc–29. Requirement of application
 
-The Secretary may not make payments under [section 290cc–21 of this title][/us/usc/t42/s290cc–21] unless the State involved—
+    The Secretary may not make payments under [section 290cc–21 of this title][/us/usc/t42/s290cc–21] unless the State involved—
 
     (1) submits to the Secretary an application for the payments containing agreements and information in accordance with this part;
 

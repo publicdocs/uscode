@@ -15,7 +15,7 @@
 
 ## § 6371. Definitions
 
-For the purposes of this part—
+    For the purposes of this part—
 
     (1) The term “building” means any structure the construction of which was completed on or before May 1, 1989, which includes a heating or cooling system, or both.
 

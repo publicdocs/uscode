@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch1A/m__us_usc_t42_s71n to 71q.md) | [Next](./../../../..//us/usc/t42/ch2/m__us_usc_t42_ch2.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs71r)
+[Previous](./../../../..//us/usc/t42/ch1A/m__us_usc_t42_s71m.md) | [Next](./../../../..//us/usc/t42/ch2/m__us_usc_t42_ch2.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs71r)
 
 ## § 71r. Omitted
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch1A/m__us_usc_t42_s71n to 71q.md) | [Next](./../../../..//us/usc/t42/ch2/m__us_usc_t42_ch2.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs71r)
+[Previous](./../../../..//us/usc/t42/ch1A/m__us_usc_t42_s71m.md) | [Next](./../../../..//us/usc/t42/ch2/m__us_usc_t42_ch2.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs71r)
 
 ----------
 ----------

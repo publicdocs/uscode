@@ -15,7 +15,7 @@
 
 ## § 16276. Security of nuclear facilities
 
-The Secretary, acting through the Director of the Office of Nuclear Energy, Science and Technology, shall conduct a research and development program on cost-effective technologies for increasing—
+    The Secretary, acting through the Director of the Office of Nuclear Energy, Science and Technology, shall conduct a research and development program on cost-effective technologies for increasing—
 
     (1) the safety of nuclear facilities from natural phenomena; and
 

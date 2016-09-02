@@ -15,7 +15,7 @@
 
 ## § 14505. Definitions
 
-For purposes of this chapter:
+    For purposes of this chapter:
 
     (1) __Economic loss__ 
 

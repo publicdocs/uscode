@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch1/schI/m__us_usc_t42_s17 to 25e.md) | [Next](./../../../../..//us/usc/t42/ch1/schI/m__us_usc_t42_s27.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs26)
+[Previous](./../../../../..//us/usc/t42/ch1/schI/m__us_usc_t42_s16.md) | [Next](./../../../../..//us/usc/t42/ch1/schI/m__us_usc_t42_s27.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs26)
 
 ## § 26. Isolation of civilians for protection of military, air and naval forces
 
@@ -29,7 +29,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch1/schI/m__us_usc_t42_s17 to 25e.md) | [Next](./../../../../..//us/usc/t42/ch1/schI/m__us_usc_t42_s27.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs26)
+[Previous](./../../../../..//us/usc/t42/ch1/schI/m__us_usc_t42_s16.md) | [Next](./../../../../..//us/usc/t42/ch1/schI/m__us_usc_t42_s27.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs26)
 
 ----------
 ----------

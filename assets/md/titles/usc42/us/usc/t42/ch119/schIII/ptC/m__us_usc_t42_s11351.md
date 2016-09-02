@@ -15,7 +15,7 @@
 
 ## § 11351. Definitions
 
-For purposes of this subchapter:
+    For purposes of this subchapter:
 
     (1) The term “Director” means the Administrator of the Federal Emergency Management Agency.
 

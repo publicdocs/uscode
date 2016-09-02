@@ -15,7 +15,7 @@
 
 ## § 14612. Definitions
 
-In this subchapter:
+    In this subchapter:
 
     (1) __Attorney General__ 
 

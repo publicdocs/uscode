@@ -15,7 +15,7 @@
 
 ## § 3797s–6. Definitions
 
-In this subchapter:
+    In this subchapter:
 
     (1) __Nonviolent parent drug offender__ 
 

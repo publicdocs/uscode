@@ -15,7 +15,7 @@
 
 ## § 8259. Definitions
 
-For the purposes of this part—
+    For the purposes of this part—
 
     (1) the term “agency” has the meaning given it in [section 551(1) of title 5][/us/usc/t5/s551/1];
 

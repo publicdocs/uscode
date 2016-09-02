@@ -15,7 +15,7 @@
 
 ## § 3332. Cooperation between Federal agencies
 
-In order to insure that all Federal programs related to areawide development are carried out in a coordinated manner—
+    In order to insure that all Federal programs related to areawide development are carried out in a coordinated manner—
 
     (1) the Secretary is authorized to call upon other Federal agencies to supply such statistical data, program reports, and other materials as he deems necessary to discharge his responsibilities for areawide development, and to assist the President in coordinating the areawide development efforts of all Federal agencies; and
 

@@ -15,7 +15,7 @@
 
 ## § 12408. Authorization of appropriations
 
-There is hereby authorized to be appropriated to carry out the purposes of this chapter (in addition to any amounts made available for such purposes under other Acts)—
+    There is hereby authorized to be appropriated to carry out the purposes of this chapter (in addition to any amounts made available for such purposes under other Acts)—
 
     (1) $3,000,000 for the fiscal year 1992;
 

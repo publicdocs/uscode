@@ -15,7 +15,7 @@
 
 ## § 9006. Program selection criteria
 
-The Secretary shall, in fulfilling his responsibilities under this chapter, select program activities and set priorities which are consistent with the following criteria:
+    The Secretary shall, in fulfilling his responsibilities under this chapter, select program activities and set priorities which are consistent with the following criteria:
 
     (1) realization of energy production costs for ocean thermal energy conversion systems that are competitive with costs from conventional energy production systems;
 

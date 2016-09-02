@@ -15,7 +15,7 @@
 
 ## § 300mm–2. Education and outreach
 
-The WTC Program Administrator shall institute a program that provides education and outreach on the existence and availability of services under the WTC Program. The outreach and education program—
+    The WTC Program Administrator shall institute a program that provides education and outreach on the existence and availability of services under the WTC Program. The outreach and education program—
 
     (1)
 

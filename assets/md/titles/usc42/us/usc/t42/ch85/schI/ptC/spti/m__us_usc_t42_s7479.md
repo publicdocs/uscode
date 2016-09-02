@@ -15,7 +15,7 @@
 
 ## § 7479. Definitions
 
-For purposes of this part—
+    For purposes of this part—
 
     (1) The term “major emitting facility” means any of the following stationary sources of air pollutants which emit, or have the potential to emit, one hundred tons per year or more of any air pollutant from the following types of stationary sources: fossil-fuel fired steam electric plants of more than two hundred and fifty million British thermal units per hour heat input, coal cleaning plants (thermal dryers), kraft pulp mills, Portland Cement plants, primary zinc smelters, iron and steel mill plants, primary aluminum ore reduction plants, primary copper smelters, municipal incinerators capable of charging more than fifty tons of refuse per day, hydrofluoric, sulfuric, and nitric acid plants, petroleum refineries, lime plants, phosphate rock processing plants, coke oven batteries, sulfur recovery plants, carbon black plants (furnace process), primary lead smelters, fuel conversion plants, sintering plants, secondary metal production facilities, chemical process plants, fossil-fuel boilers of more than two hundred and fifty million British thermal units per hour heat input, petroleum storage and transfer facilities with a capacity exceeding three hundred thousand barrels, taconite ore processing facilities, glass fiber processing plants, charcoal production facilities. Such term also includes any other source with the potential to emit two hundred and fifty tons per year or more of any air pollutant. This term shall not include new or modified facilities which are nonprofit health or education institutions which have been exempted by the State.
 

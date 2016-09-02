@@ -121,11 +121,17 @@
 
                     (I) __Unobligated national allotment__ 
 
-                        (aa) Fiscal years 2009 through 2012    As of December 31 of fiscal year 2009, and as of December 31 of each succeeding fiscal year through fiscal year 2012, the portion, if any, of the amount appropriated under subsection (a) for such fiscal year that is unobligated for allotment to a State under subsection (m)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. This section does not contain a subsec. (m). </sup></sup>  for such fiscal year or set aside under subsection (a)(3) or (b)(2) of [section 1397kk of this title][/us/usc/t42/s1397kk] for such fiscal year.
+                        (aa) __Fiscal years 2009 through 2012__ 
 
-                        (bb) First half of fiscal year 2013    As of December 31 of fiscal year 2013, the portion, if any, of the sum of the amounts appropriated under subsection (a)(16)(A)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Subsec. (a) of this section does not contain a par. (16). </sup></sup>  and under section 108 of the Children’s Health Insurance Reauthorization Act of 2009 for the period beginning on October 1, 2012, and ending on March 31, 2013, that is unobligated for allotment to a State under subsection (m) 1 for such fiscal year or set aside under subsection (b)(2) of [section 1397kk of this title][/us/usc/t42/s1397kk] for such fiscal year.
+                            As of December 31 of fiscal year 2009, and as of December 31 of each succeeding fiscal year through fiscal year 2012, the portion, if any, of the amount appropriated under subsection (a) for such fiscal year that is unobligated for allotment to a State under subsection (m)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. This section does not contain a subsec. (m). </sup></sup>  for such fiscal year or set aside under subsection (a)(3) or (b)(2) of [section 1397kk of this title][/us/usc/t42/s1397kk] for such fiscal year.
 
-                        (cc) Second half of fiscal year 2013    As of June 30 of fiscal year 2013, the portion, if any, of the amount appropriated under subsection (a)(16)(B) 2 for the period beginning on April 1, 2013, and ending on September 30, 2013, that is unobligated for allotment to a State under subsection (m) 1 for such fiscal year or set aside under subsection (b)(2) of [section 1397kk of this title][/us/usc/t42/s1397kk] for such fiscal year.
+                        (bb) __First half of fiscal year 2013__ 
+
+                            As of December 31 of fiscal year 2013, the portion, if any, of the sum of the amounts appropriated under subsection (a)(16)(A)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Subsec. (a) of this section does not contain a par. (16). </sup></sup>  and under section 108 of the Children’s Health Insurance Reauthorization Act of 2009 for the period beginning on October 1, 2012, and ending on March 31, 2013, that is unobligated for allotment to a State under subsection (m) 1 for such fiscal year or set aside under subsection (b)(2) of [section 1397kk of this title][/us/usc/t42/s1397kk] for such fiscal year.
+
+                        (cc) __Second half of fiscal year 2013__ 
+
+                            As of June 30 of fiscal year 2013, the portion, if any, of the amount appropriated under subsection (a)(16)(B) 2 for the period beginning on April 1, 2013, and ending on September 30, 2013, that is unobligated for allotment to a State under subsection (m) 1 for such fiscal year or set aside under subsection (b)(2) of [section 1397kk of this title][/us/usc/t42/s1397kk] for such fiscal year.
 
                     (II) __Unexpended allotments not used for redistribution__ 
 

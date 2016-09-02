@@ -203,7 +203,7 @@
 
 >     Section 19(d)(1)(C) of the Richard B. Russell National School Lunch Act \[[42 U.S.C. 1769a(d)(1)(C)][/us/usc/t42/s1769a/d/1/C]\] (as amended by paragraph (1)) may be waived by a State until July 1, 2010, for each secondary school in the State that has been awarded funding under section 18(f) of that Act ([42 U.S.C. 1769(f)][/us/usc/t42/s1769/f]) for the school year beginning July 1, 2008.
 
->     “(B) __School year beginning july 1, 2008.—__ 
+>     “(B) __School year beginning__  __july 1, 2008__  __.—__ 
 
 >     To facilitate transition from the program authorized under section 18(f) of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1769(f)][/us/usc/t42/s1769/f]) (as in effect on the day before the date of enactment of this Act \[June 18, 2008\]) to the program established under section 19 of that Act \[[42 U.S.C. 1769a][/us/usc/t42/s1769a]\] (as amended by paragraph (1))—
 

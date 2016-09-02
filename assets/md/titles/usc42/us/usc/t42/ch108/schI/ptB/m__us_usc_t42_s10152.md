@@ -15,7 +15,7 @@
 
 ## § 10152. Available capacity for interim storage of spent nuclear fuel
 
-The Secretary, the Commission, and other authorized Federal officials shall each take such actions as such official considers necessary to encourage and expedite the effective use of available storage, and necessary additional storage, at the site of each civilian nuclear power reactor consistent with—
+    The Secretary, the Commission, and other authorized Federal officials shall each take such actions as such official considers necessary to encourage and expedite the effective use of available storage, and necessary additional storage, at the site of each civilian nuclear power reactor consistent with—
 
     (1) the protection of the public health and safety, and the environment;
 

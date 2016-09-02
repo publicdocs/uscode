@@ -15,7 +15,7 @@
 
 ## § 15002. Definitions
 
-In this subchapter:
+    In this subchapter:
 
     (1) __American Indian Consortium__ 
 

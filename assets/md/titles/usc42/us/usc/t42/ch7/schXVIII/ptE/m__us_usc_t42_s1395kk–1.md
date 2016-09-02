@@ -381,7 +381,7 @@
 
 >     “(2) to prevent or impede the Department of Health and Human Services in any way from its ongoing efforts to eliminate waste, fraud, and abuse in the medicare program.
 
->         Furthermore, the consolidation of medicare administrative contracting set forth in this division \[[Pub. L. 108–173][/us/pl/108/173] does not contain any divisions\] does not constitute consolidation of the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund or reflect any position on that issue.”
+>     Furthermore, the consolidation of medicare administrative contracting set forth in this division \[[Pub. L. 108–173][/us/pl/108/173] does not contain any divisions\] does not constitute consolidation of the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund or reflect any position on that issue.”
 
  __Consideration of Incorporation of Current Law Standards__ 
 

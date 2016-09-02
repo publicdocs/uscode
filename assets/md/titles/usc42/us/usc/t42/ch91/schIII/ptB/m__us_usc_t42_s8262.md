@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch91/schIII/ptB/m__us_usc_t42_s8260, 8261.md) | [Next](./../../../../../..//us/usc/t42/ch91/schIII/ptB/m__us_usc_t42_s8262a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8262)
+[Previous](./../../../../../..//us/usc/t42/ch91/schIII/ptB/m__us_usc_t42_s8259b.md) | [Next](./../../../../../..//us/usc/t42/ch91/schIII/ptB/m__us_usc_t42_s8262a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8262)
 
 ## § 8262. Definitions
 
-For purposes of this subtitle—  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
+    For purposes of this subtitle—  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
     (1) the term “agency” means  <sup>\[2\]</sup>  <sup><sup> 2 So in original. The word “means” probably should not appear. </sup></sup>  has the meaning given such term in [section 551(1) of title 5][/us/usc/t5/s551/1], except that such term does not include the United States Postal Service;
 
@@ -39,7 +39,7 @@ For purposes of this subtitle—  <sup>\[1\]</sup>  <sup><sup> 1 See Referen
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch91/schIII/ptB/m__us_usc_t42_s8260, 8261.md) | [Next](./../../../../../..//us/usc/t42/ch91/schIII/ptB/m__us_usc_t42_s8262a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8262)
+[Previous](./../../../../../..//us/usc/t42/ch91/schIII/ptB/m__us_usc_t42_s8259b.md) | [Next](./../../../../../..//us/usc/t42/ch91/schIII/ptB/m__us_usc_t42_s8262a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8262)
 
 ----------
 ----------

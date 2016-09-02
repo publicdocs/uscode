@@ -15,7 +15,7 @@
 
 ## § 6991m. Authorization of appropriations
 
-There are authorized to be appropriated to the Administrator the following amounts:
+    There are authorized to be appropriated to the Administrator the following amounts:
 
     (1) To carry out this subchapter (except sections 6991b(h), 6991d(c), 6991j, and 6991k of this title) $50,000,000 for each of fiscal years 2006 through 2011.
 

@@ -15,7 +15,7 @@
 
 ## § 1320d–8. Processing payment transactions by financial institutions
 
-To the extent that an entity is engaged in activities of a financial institution (as defined in [section 3401 of title 12][/us/usc/t12/s3401]), or is engaged in authorizing, processing, clearing, settling, billing, transferring, reconciling, or collecting payments, for a financial institution, this part, and any standard adopted under this part, shall not apply to the entity with respect to such activities, including the following:
+    To the extent that an entity is engaged in activities of a financial institution (as defined in [section 3401 of title 12][/us/usc/t12/s3401]), or is engaged in authorizing, processing, clearing, settling, billing, transferring, reconciling, or collecting payments, for a financial institution, this part, and any standard adopted under this part, shall not apply to the entity with respect to such activities, including the following:
 
     (1) The use or disclosure of information by the entity for authorizing, processing, clearing, settling, billing, transferring, reconciling or collecting, a payment for, or related to, health plan premiums or health care, where such payment is made by any means, including a credit, debit, or other payment card, an account, check, or electronic funds transfer.
 

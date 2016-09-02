@@ -15,7 +15,7 @@
 
 ## § 4746. Coordination of Federal programs
 
-The Office, after consultation with other agencies concerned, shall—
+    The Office, after consultation with other agencies concerned, shall—
 
     (1) prescribe regulations concerning administration of training for employees and officials of State and local governments provided for in this subchapter, including requirements for coordination of and reasonable consistency in such training programs;
 

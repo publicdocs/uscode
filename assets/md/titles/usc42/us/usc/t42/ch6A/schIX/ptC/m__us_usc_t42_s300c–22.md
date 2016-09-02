@@ -69,157 +69,223 @@
 
 >     \[Omitted.\]
 
- __“title i—hemophilia relief fund__ 
+> “title i— __hemophilia relief fund__ 
 
-    “SEC. 101. RICKY RAY HEMOPHILIA RELIEF FUND.
+> “SEC. 101. __RICKY RAY HEMOPHILIA RELIEF FUND.__ 
 
-    “(a) Establishment.—There is established in the Treasury of the United States a trust fund to be known as the ‘Ricky Ray Hemophilia Relief Fund’, which shall be administered by the Secretary of the Treasury.
+>     “(a) __Establishment.—__ 
 
-    “(b) Investment of Amounts in Fund.—Amounts in the Fund shall be invested in accordance with [section 9702 of title 31][/us/usc/t31/s9702], United States Code, and any interest on and proceeds from any such investment shall be credited to and become part of the Fund.
+>     There is established in the Treasury of the United States a trust fund to be known as the ‘Ricky Ray Hemophilia Relief Fund’, which shall be administered by the Secretary of the Treasury.
 
-    “(c) Availability of Fund.—Amounts in the Fund shall be available only for disbursement by the Secretary of Health and Human Services under section 103.
+>     “(b) __Investment of Amounts in Fund.—__ 
 
-    “(d) Termination.—The Fund shall terminate upon the expiration of the 5-year period beginning on the date of the enactment of this Act \[Nov. 12, 1998\]. If all of the amounts in the Fund have not been expended by the end of the 5-year period, investments of amounts in the Fund shall be liquidated, the receipts of such liquidation shall be deposited in the Fund, and all funds remaining in the Fund shall be deposited in the miscellaneous receipts account in the Treasury of the United States.
+>     Amounts in the Fund shall be invested in accordance with [section 9702 of title 31][/us/usc/t31/s9702], United States Code, and any interest on and proceeds from any such investment shall be credited to and become part of the Fund.
 
-    “(e) Authorization of Appropriations.—There is authorized to be appropriated to the Fund to carry out this title $750,000,000. There is appropriated to the Fund $475,000,000 for fiscal year 2001, to remain available until expended.
+>     “(c) __Availability of Fund.—__ 
 
-    “SEC. 102. COMPASSIONATE PAYMENT RELATING TO INDIVIDUALS WITH BLOOD-CLOTTING DISORDERS AND HIV.
+>     Amounts in the Fund shall be available only for disbursement by the Secretary of Health and Human Services under section 103.
 
-    “(a) In General.—If the conditions described in subsection (b) are met and if there are sufficient amounts in the Fund to make each payment, the Secretary shall make a single payment of $100,000 from the Fund to any individual who has an HIV infection and who is described in one of the following paragraphs:
+>     “(d) __Termination.—__ 
 
-    “(1) The individual has any form of blood-clotting disorder, such as hemophilia, and was treated with antihemophilic factor at any time during the period beginning on July 1, 1982, and ending on December 31, 1987.
+>     The Fund shall terminate upon the expiration of the 5-year period beginning on the date of the enactment of this Act \[Nov. 12, 1998\]. If all of the amounts in the Fund have not been expended by the end of the 5-year period, investments of amounts in the Fund shall be liquidated, the receipts of such liquidation shall be deposited in the Fund, and all funds remaining in the Fund shall be deposited in the miscellaneous receipts account in the Treasury of the United States.
 
-    “(2) The individual—
+>     “(e) __Authorization of Appropriations.—__ 
 
-    “(A) is the lawful spouse of an individual described in paragraph (1); or
+>     There is authorized to be appropriated to the Fund to carry out this title $750,000,000. There is appropriated to the Fund $475,000,000 for fiscal year 2001, to remain available until expended.
 
-    “(B) is the former lawful spouse of an individual described in paragraph (1) and was the lawful spouse of the individual at any time after a date, within the period described in such subparagraph, on which the individual was treated as described in such paragraph and through medical documentation can assert reasonable certainty of transmission of HIV from individual described in paragraph (1).
+> “SEC. 102. __COMPASSIONATE PAYMENT RELATING TO INDIVIDUALS WITH BLOOD-CLOTTING DISORDERS AND HIV.__ 
 
-    “(3) The individual acquired the HIV infection through perinatal transmission from a parent who is an individual described in paragraph (1) or (2).
+>     “(a) __In General.—__ 
 
-    “(b) Conditions.—The conditions described in this subsection are, with respect to an individual, as follows:
+>     If the conditions described in subsection (b) are met and if there are sufficient amounts in the Fund to make each payment, the Secretary shall make a single payment of $100,000 from the Fund to any individual who has an HIV infection and who is described in one of the following paragraphs:
 
-    “(1) Submission of medical documentation of hiv infection.—The individual submits to the Secretary written medical documentation that the individual has an HIV infection.
+>         “(1) The individual has any form of blood-clotting disorder, such as hemophilia, and was treated with antihemophilic factor at any time during the period beginning on July 1, 1982, and ending on December 31, 1987.
 
-    “(2) Petition.—A petition for the payment is filed with the Secretary by or on behalf of the individual.
+>         “(2)
 
-    “(3) Determination.—The Secretary determines, in accordance with section 103(b), that the petition meets the requirements of this title.
+>          The individual—
 
-    “SEC. 103. DETERMINATION AND PAYMENT.
+>             “(A) is the lawful spouse of an individual described in paragraph (1); or
 
-    “(a) Establishment of Filing Procedures.—The Secretary of Health and Human Services shall establish procedures under which individuals may submit petitions for payment under this title. The procedures shall include a requirement that each petition filed under this Act include written medical documentation that the relevant individual described in section 102(a)(1) has (or had) a blood-clotting disorder, such as hemophilia, and was treated as described in such section.
+>             “(B) is the former lawful spouse of an individual described in paragraph (1) and was the lawful spouse of the individual at any time after a date, within the period described in such subparagraph, on which the individual was treated as described in such paragraph and through medical documentation can assert reasonable certainty of transmission of HIV from individual described in paragraph (1).
 
-    “(b) Determination.—For each petition filed under this title, the Secretary shall determine whether the petition meets the requirements of this title.
+>         “(3) The individual acquired the HIV infection through perinatal transmission from a parent who is an individual described in paragraph (1) or (2).
 
-    “(c) Payment.—
+>     “(b) __Conditions.—__ 
 
-    “(1) In general.—To the extent there are sufficient amounts in the Fund to cover each payment, the Secretary shall pay, from the Fund, each petition that the Secretary determines meets the requirements of this title in the order received.
+>     The conditions described in this subsection are, with respect to an individual, as follows:
 
-    “(2) Payments in case of deceased individuals.—
+>         “(1) __Submission of medical documentation of hiv infection.—__ 
 
-    “(A) In general.—In the case of an individual referred to in section 102(a) who is deceased at the time that payment is made under this section on a petition filed by or on behalf of the individual, the payment shall be made as follows:
+>         The individual submits to the Secretary written medical documentation that the individual has an HIV infection.
 
-    “(i) If the individual is survived by a spouse who is living at the time of payment, the payment shall be made to such surviving spouse.
+>         “(2) __Petition.—__ 
 
-    “(ii) If the individual is not survived by a spouse described in clause (i), the payment shall be made in equal shares to all children of the individual who are living at the time of the payment.
+>         A petition for the payment is filed with the Secretary by or on behalf of the individual.
 
-    “(iii) If the individual is not survived by a person described in clause (i) or (ii), the payment shall be made in equal shares to the parents of the individual who are living at the time of the payment.
+>         “(3) __Determination.—__ 
 
-    “(iv) If the individual is not survived by a person described in clause (i), (ii), or (iii), the payment shall revert back to the Fund.
+>         The Secretary determines, in accordance with section 103(b), that the petition meets the requirements of this title.
 
-    “(B) Filing of petition by survivor.—If an individual eligible for payment under section 102(a) dies before filing a petition under this title, a survivor of the individual may file a petition for payment under this title on behalf of the individual if the survivor may receive payment under subparagraph (A).
+> “SEC. 103. __DETERMINATION AND PAYMENT.__ 
 
-    “(C) Definitions.—For purposes of this paragraph:
+>     “(a) __Establishment of Filing Procedures.—__ 
 
-    “(i) The term ‘spouse’ means an individual who was lawfully married to the relevant individual at the time of death.
+>     The Secretary of Health and Human Services shall establish procedures under which individuals may submit petitions for payment under this title. The procedures shall include a requirement that each petition filed under this Act include written medical documentation that the relevant individual described in section 102(a)(1) has (or had) a blood-clotting disorder, such as hemophilia, and was treated as described in such section.
 
-    “(ii) The term ‘child’ includes a recognized natural child, a stepchild who lived with the relevant individual in a regular parent-child relationship, and an adopted child.
+>     “(b) __Determination.—__ 
 
-    “(iii) The term ‘parent’ includes fathers and mothers through adoption.
+>     For each petition filed under this title, the Secretary shall determine whether the petition meets the requirements of this title.
 
-    “(3) Timing of payment.—The Secretary may not make a payment on a petition under this title before the expiration of the 120-day period beginning on the date of the enactment of this Act \[Nov. 12, 1998\] or after the expiration of the 5-year period beginning on the date of the enactment of this Act.
+>     “(c) __Payment.—__ 
 
-    “(d) Action on Petitions.—The Secretary shall complete the determination required by subsection (b) regarding a petition not later than 120 days after the date the petition is filed under this title.
+>         “(1) __In general.—__ 
 
-    “(e) Humanitarian Nature of Payment.—This Act does not create or admit any claim of or on behalf of the individual against the United States or against any officer, employee, or agent thereof acting within the scope of employment or agency that relate to an HIV infection arising from treatment with antihemophilic factor, at any time during the period beginning on July 1, 1982, and ending on December 31, 1987. A payment under this Act shall, however, when accepted by or on behalf of the individual, be in full satisfaction of all such claims by or on behalf of that individual.
+>         To the extent there are sufficient amounts in the Fund to cover each payment, the Secretary shall pay, from the Fund, each petition that the Secretary determines meets the requirements of this title in the order received.
 
-    “(f) Administrative Costs Not Paid From Fund.—No costs incurred by the Secretary in carrying out this title may be paid from the Fund or set off against, or otherwise deducted from, any payment made under subsection (c)(1).
+>         “(2) __Payments in case of deceased individuals.—__ 
 
-    “(g) Termination of Duties of Secretary.—The duties of the Secretary under this section shall cease when the Fund terminates.
+>             “(A) __In general.—__ 
 
-    “(h) Treatment of Payments Under Other Laws.—A payment under subsection (c)(1) to an individual—
+>             In the case of an individual referred to in section 102(a) who is deceased at the time that payment is made under this section on a petition filed by or on behalf of the individual, the payment shall be made as follows:
 
-    “(1) shall be treated for purposes of the Internal Revenue Code of 1986 as damages described in section 104(a)(2) of such Code;
+>                 “(i) If the individual is survived by a spouse who is living at the time of payment, the payment shall be made to such surviving spouse.
 
-    “(2) shall not be included as income or resources for purposes of determining the eligibility of the individual to receive benefits described in [section 3803(c)(2)(C) of title 31][/us/usc/t31/s3803/c/2/C], United States Code, or the amount of such benefits, and such benefits shall not be secondary to, conditioned upon reimbursement from, or subject to any reduction because of receipt of, any such payment; and
+>                 “(ii) If the individual is not survived by a spouse described in clause (i), the payment shall be made in equal shares to all children of the individual who are living at the time of the payment.
 
-    “(3) shall not be treated as a third party payment or payment in relation to a legal liability with respect to such benefits and shall not be subject (whether by subrogation or otherwise) to recovery, recoupment, reimbursement, or collection with respect to such benefits (including the Federal or State governments or any entity that provides such benefits under a contract).
+>                 “(iii) If the individual is not survived by a person described in clause (i) or (ii), the payment shall be made in equal shares to the parents of the individual who are living at the time of the payment.
 
-    “(i) Regulatory Authority.—The Secretary may issue regulations necessary to carry out this title.
+>                 “(iv) If the individual is not survived by a person described in clause (i), (ii), or (iii), the payment shall revert back to the Fund.
 
-    “(j) Time of Issuance of Procedures.—The Secretary shall, through the promulgation of appropriate regulations, guidelines, or otherwise, first establish the procedures to carry out this title not later than 120 days after the date of the enactment of this Act \[Nov. 12, 1998\].
+>             “(B) __Filing of petition by survivor.—__ 
 
-    “SEC. 104. LIMITATION ON TRANSFER OF RIGHTS AND NUMBER OF PETITIONS.
+>             If an individual eligible for payment under section 102(a) dies before filing a petition under this title, a survivor of the individual may file a petition for payment under this title on behalf of the individual if the survivor may receive payment under subparagraph (A).
 
-    “(a) Rights Not Assignable or Transferable.—Any right under this title shall not be assignable or transferable.
+>             “(C) __Definitions.—__ 
 
-    “(b) One Petition With Respect to Each Victim.—With respect to each individual described in paragraph (1), (2), or (3) of section 102(a), the Secretary may not make payment with respect to more than one petition filed in respect to an individual.
+>             For purposes of this paragraph:
 
-    “SEC. 105. TIME LIMITATION.
+>                 “(i) The term ‘spouse’ means an individual who was lawfully married to the relevant individual at the time of death.
 
-    “The Secretary may not make any payment with respect to any petition filed under this title unless the petition is filed within 3 years after the date of the enactment of this Act \[Nov. 12, 1998\].
+>                 “(ii) The term ‘child’ includes a recognized natural child, a stepchild who lived with the relevant individual in a regular parent-child relationship, and an adopted child.
 
-    “SEC. 106. CERTAIN CLAIMS NOT AFFECTED BY PAYMENT.
+>                 “(iii) The term ‘parent’ includes fathers and mothers through adoption.
 
-    “A payment made under section 103(c)(1) shall not be considered as any form of compensation, or reimbursement for a loss, for purposes of imposing liability on the individual receiving the payment, on the basis of such receipt, to repay any insurance carrier for insurance payments or to repay any person on account of worker’s compensation payments. A payment under this title shall not affect any claim against an insurance carrier with respect to insurance or against any person with respect to worker’s compensation.
+>         “(3) __Timing of payment.—__ 
 
-    “SEC. 107. LIMITATION ON AGENT AND ATTORNEY FEES.
+>         The Secretary may not make a payment on a petition under this title before the expiration of the 120-day period beginning on the date of the enactment of this Act \[Nov. 12, 1998\] or after the expiration of the 5-year period beginning on the date of the enactment of this Act.
 
-    “Notwithstanding any contract, the representative of an individual may not receive, for services rendered in connection with the petition of an individual under this title, more than 5 percent of a payment made under this title on the petition. Any such representative who violates this section shall be fined not more than $50,000.
+>     “(d) __Action on Petitions.—__ 
 
-    “SEC. 108. DEFINITIONS.
+>     The Secretary shall complete the determination required by subsection (b) regarding a petition not later than 120 days after the date the petition is filed under this title.
 
-    “For purposes of this title:
+>     “(e) __Humanitarian Nature of Payment.—__ 
 
-    “(1) The term ‘AIDS’ means acquired immune deficiency syndrome.
+>     This Act does not create or admit any claim of or on behalf of the individual against the United States or against any officer, employee, or agent thereof acting within the scope of employment or agency that relate to an HIV infection arising from treatment with antihemophilic factor, at any time during the period beginning on July 1, 1982, and ending on December 31, 1987. A payment under this Act shall, however, when accepted by or on behalf of the individual, be in full satisfaction of all such claims by or on behalf of that individual.
 
-    “(2) The term ‘Fund’ means the Ricky Ray Hemophilia Relief Fund.
+>     “(f) __Administrative Costs Not Paid From Fund.—__ 
 
-    “(3) The term ‘HIV’ means human immunodeficiency virus.
+>     No costs incurred by the Secretary in carrying out this title may be paid from the Fund or set off against, or otherwise deducted from, any payment made under subsection (c)(1).
 
-    “(4) Unless otherwise provided, the term ‘Secretary’ means Secretary of Health and Human Services.
+>     “(g) __Termination of Duties of Secretary.—__ 
 
- __“title ii—treatment of certain payments in hemophilia-clotting-factor suit under the ssi program__ 
+>     The duties of the Secretary under this section shall cease when the Fund terminates.
 
-    “SEC. 201. TREATMENT OF CERTAIN PAYMENTS IN HEMOPHILIA-CLOTTING-FACTOR SUIT UNDER THE MEDICAID AND SSI PROGRAMS.
+>     “(h) __Treatment of Payments Under Other Laws.—__ 
 
-    “(a) Private Payments.—
+>     A payment under subsection (c)(1) to an individual—
 
-    “(1) In general.—Notwithstanding any other provision of law, the payments described in paragraph (2) shall not be considered income or resources in determining eligibility for, or the amount of—
+>         “(1) shall be treated for purposes of the Internal Revenue Code of 1986 as damages described in section 104(a)(2) of such Code;
 
-    “(A) medical assistance under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\]; or
+>         “(2) shall not be included as income or resources for purposes of determining the eligibility of the individual to receive benefits described in [section 3803(c)(2)(C) of title 31][/us/usc/t31/s3803/c/2/C], United States Code, or the amount of such benefits, and such benefits shall not be secondary to, conditioned upon reimbursement from, or subject to any reduction because of receipt of, any such payment; and
 
-    “(B) supplemental security income benefits under title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\].
+>         “(3) shall not be treated as a third party payment or payment in relation to a legal liability with respect to such benefits and shall not be subject (whether by subrogation or otherwise) to recovery, recoupment, reimbursement, or collection with respect to such benefits (including the Federal or State governments or any entity that provides such benefits under a contract).
 
-    “(2) Private payments described.—The payments described in this subsection are—
+>     “(i) __Regulatory Authority.—__ 
 
-    “(A) payments made from any fund established pursuant to a class settlement in the case of Susan Walker v. Bayer Corporation, et al., 96–C–5024 (N.D. Ill.); and
+>     The Secretary may issue regulations necessary to carry out this title.
 
-    “(B) payments made pursuant to a release of all claims in a case—
+>     “(j) __Time of Issuance of Procedures.—__ 
 
-    “(i) that is entered into in lieu of the class settlement referred to in subparagraph (A); and
+>     The Secretary shall, through the promulgation of appropriate regulations, guidelines, or otherwise, first establish the procedures to carry out this title not later than 120 days after the date of the enactment of this Act \[Nov. 12, 1998\].
 
-    “(ii) that is signed by all affected parties in such case on or before the later of—
+> “SEC. 104. __LIMITATION ON TRANSFER OF RIGHTS AND NUMBER OF PETITIONS.__ 
 
-         “(I) December 31, 1997; or
+>     “(a) __Rights Not Assignable or Transferable.—__ 
 
-         “(II) the date that is 270 days after the date on which such release is first sent to the persons (or the legal representative of such persons) to whom the payment is to be made.
+>     Any right under this title shall not be assignable or transferable.
 
-    “(b) Government Payments.—
+>     “(b) __One Petition With Respect to Each Victim.—__ 
 
-    “(1) In general.—Notwithstanding any other provision of law, the payments described in paragraph (2) shall not be considered income or resources in determining eligibility for, or the amount of supplemental security income benefits under title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\].
+>     With respect to each individual described in paragraph (1), (2), or (3) of section 102(a), the Secretary may not make payment with respect to more than one petition filed in respect to an individual.
 
-    “(2) Government payments described.—The payments described in this subsection are payments made from the Fund established pursuant to section 101 of this Act.”
+> “SEC. 105. __TIME LIMITATION.__ 
+
+>     “The Secretary may not make any payment with respect to any petition filed under this title unless the petition is filed within 3 years after the date of the enactment of this Act \[Nov. 12, 1998\].
+
+> “SEC. 106. __CERTAIN CLAIMS NOT AFFECTED BY PAYMENT.__ 
+
+>     “A payment made under section 103(c)(1) shall not be considered as any form of compensation, or reimbursement for a loss, for purposes of imposing liability on the individual receiving the payment, on the basis of such receipt, to repay any insurance carrier for insurance payments or to repay any person on account of worker’s compensation payments. A payment under this title shall not affect any claim against an insurance carrier with respect to insurance or against any person with respect to worker’s compensation.
+
+> “SEC. 107. __LIMITATION ON AGENT AND ATTORNEY FEES.__ 
+
+>     “Notwithstanding any contract, the representative of an individual may not receive, for services rendered in connection with the petition of an individual under this title, more than 5 percent of a payment made under this title on the petition. Any such representative who violates this section shall be fined not more than $50,000.
+
+> “SEC. 108. __DEFINITIONS.__ 
+
+> “For purposes of this title:
+
+>     “(1) The term ‘AIDS’ means acquired immune deficiency syndrome.
+
+>     “(2) The term ‘Fund’ means the Ricky Ray Hemophilia Relief Fund.
+
+>     “(3) The term ‘HIV’ means human immunodeficiency virus.
+
+>     “(4) Unless otherwise provided, the term ‘Secretary’ means Secretary of Health and Human Services.
+
+> “title ii— __treatment of certain payments in hemophilia-clotting-factor suit under the ssi program__ 
+
+> “SEC. 201. __TREATMENT OF CERTAIN PAYMENTS IN HEMOPHILIA-CLOTTING-FACTOR SUIT UNDER THE MEDICAID AND SSI PROGRAMS.__ 
+
+>     “(a) __Private Payments.—__ 
+
+>         “(1) __In general.—__ 
+
+>         Notwithstanding any other provision of law, the payments described in paragraph (2) shall not be considered income or resources in determining eligibility for, or the amount of—
+
+>             “(A) medical assistance under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\]; or
+
+>             “(B) supplemental security income benefits under title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\].
+
+>         “(2) __Private payments described.—__ 
+
+>         The payments described in this subsection are—
+
+>             “(A) payments made from any fund established pursuant to a class settlement in the case of Susan Walker v. Bayer Corporation, et al., 96–C–5024 (N.D. Ill.); and
+
+>             “(B)
+
+>              payments made pursuant to a release of all claims in a case—
+
+>                 “(i) that is entered into in lieu of the class settlement referred to in subparagraph (A); and
+
+>                 “(ii)
+
+>                  that is signed by all affected parties in such case on or before the later of—
+
+>                          “(I) December 31, 1997; or
+
+>                          “(II) the date that is 270 days after the date on which such release is first sent to the persons (or the legal representative of such persons) to whom the payment is to be made.
+
+>     “(b) __Government Payments.—__ 
+
+>         “(1) __In general.—__ 
+
+>         Notwithstanding any other provision of law, the payments described in paragraph (2) shall not be considered income or resources in determining eligibility for, or the amount of supplemental security income benefits under title XVI of the Social Security Act \[[42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\].
+
+>         “(2) __Government payments described.—__ 
+
+>         The payments described in this subsection are payments made from the Fund established pursuant to section 101 of this Act.”
 
 ----------
 

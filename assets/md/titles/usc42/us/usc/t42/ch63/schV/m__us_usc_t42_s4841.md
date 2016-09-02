@@ -15,7 +15,7 @@
 
 ## § 4841. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (1) The term “State” means the several States, the District of Columbia, the Commonwealth of Puerto Rico, and the territories and possessions of the United States.
 

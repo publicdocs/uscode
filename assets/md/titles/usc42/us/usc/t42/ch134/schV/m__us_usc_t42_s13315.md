@@ -15,7 +15,7 @@
 
 ## § 13315. Data system and energy technology evaluation
 
-The Secretary of Commerce, in his or her role as a member of the interagency working group established under [section 6276 of this title][/us/usc/t42/s6276], shall—
+    The Secretary of Commerce, in his or her role as a member of the interagency working group established under [section 6276 of this title][/us/usc/t42/s6276], shall—
 
     (1) develop a comprehensive data base and information dissemination system, using the National Trade Data Bank and the Commercial Information Management System of the Department of Commerce, that will provide information on the specific energy technology needs of foreign countries, and the technical and economic competitiveness of various renewable energy and energy efficiency products and technologies;
 

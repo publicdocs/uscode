@@ -15,7 +15,7 @@
 
 ## § 15204. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) __Public safety officer__ 
 

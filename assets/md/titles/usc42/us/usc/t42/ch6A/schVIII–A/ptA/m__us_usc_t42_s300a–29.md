@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schVIII–A/ptA/m__us_usc_t42_s300a–21 to 300a–28.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schVIII–A/ptB/m__us_usc_t42_ch6A_schVIII–A_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300a%E2%80%9329)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schVIII–A/ptA/m__us_usc_t42_ch6A_schVIII–A_ptA.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schVIII–A/ptB/m__us_usc_t42_ch6A_schVIII–A_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300a%E2%80%9329)
 
 ## § 300a–29. Omitted
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schVIII–A/ptA/m__us_usc_t42_s300a–21 to 300a–28.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schVIII–A/ptB/m__us_usc_t42_ch6A_schVIII–A_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300a%E2%80%9329)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schVIII–A/ptA/m__us_usc_t42_ch6A_schVIII–A_ptA.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schVIII–A/ptB/m__us_usc_t42_ch6A_schVIII–A_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300a%E2%80%9329)
 
 ----------
 ----------

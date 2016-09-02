@@ -15,7 +15,7 @@
 
 ## § 8236b. Report
 
-Not later than 3 years after October 24, 1992, the Secretary shall transmit to the President and the Congress a final report containing—
+    Not later than 3 years after October 24, 1992, the Secretary shall transmit to the President and the Congress a final report containing—
 
     (1) a description of actions taken by the Secretary and other Federal agencies to implement this part;
 

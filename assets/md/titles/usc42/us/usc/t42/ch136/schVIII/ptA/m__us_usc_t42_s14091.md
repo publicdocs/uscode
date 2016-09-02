@@ -15,7 +15,7 @@
 
 ## § 14091. Purposes
 
-The purposes of this part are to—
+    The purposes of this part are to—
 
     (1) address violent crime by increasing the number of police with advanced education and training on community patrol; and
 

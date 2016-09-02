@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch155/schX/m__us_usc_t42_s17827 to 17829.md) | [Next](./../../../..//us/usc/t42/ch156/schI/m__us_usc_t42_ch156_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch156)
+[Previous](./../../../..//us/usc/t42/ch155/schX/m__us_usc_t42_s17826.md) | [Next](./../../../..//us/usc/t42/ch156/schI/m__us_usc_t42_ch156_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch156)
 
 ## CHAPTER 156—HEALTH INFORMATION TECHNOLOGY
 
@@ -219,7 +219,7 @@ Part B—Relationship to Other Laws; Regulatory References; Effective Date; Repo
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch155/schX/m__us_usc_t42_s17827 to 17829.md) | [Next](./../../../..//us/usc/t42/ch156/schI/m__us_usc_t42_ch156_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch156)
+[Previous](./../../../..//us/usc/t42/ch155/schX/m__us_usc_t42_s17826.md) | [Next](./../../../..//us/usc/t42/ch156/schI/m__us_usc_t42_ch156_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch156)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 13744. Authorization of appropriations
 
-There are authorized to be appropriated to carry out this part—
+    There are authorized to be appropriated to carry out this part—
 
     (1) $1,500,000 for fiscal year 1995;
 

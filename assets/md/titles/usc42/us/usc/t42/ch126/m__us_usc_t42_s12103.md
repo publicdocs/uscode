@@ -15,7 +15,7 @@
 
 ## § 12103. Additional definitions
 
-As used in this chapter:
+    As used in this chapter:
 
     (1) __Auxiliary aids and services__ 
 

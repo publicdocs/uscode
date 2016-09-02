@@ -15,7 +15,7 @@
 
 ## § 14043b–1. Purpose areas
 
-Grants made under this part may be used—
+    Grants made under this part may be used—
 
     (1) to develop or improve protocols, procedures, and policies for the purpose of preventing the release of personally identifying information of victims (such as developing alternative identifiers);
 

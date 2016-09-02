@@ -15,7 +15,7 @@
 
 ## § 300hh–17. Emergency response coordination of primary care providers
 
-The Secretary, acting through Administrator  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “the”. </sup></sup>  of the Health Resources and Services Administration, and in coordination with the Assistant Secretary for Preparedness and Response, shall
+    The Secretary, acting through Administrator  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “the”. </sup></sup>  of the Health Resources and Services Administration, and in coordination with the Assistant Secretary for Preparedness and Response, shall
 
     (1) provide guidance and technical assistance to health centers funded under [section 254b of this title][/us/usc/t42/s254b] and to State and local health departments and emergency managers to integrate health centers into State and local emergency response plans and to better meet the primary care needs of populations served by health centers during public health emergencies; and
 

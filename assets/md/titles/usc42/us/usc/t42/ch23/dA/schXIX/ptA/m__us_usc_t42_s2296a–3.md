@@ -15,7 +15,7 @@
 
 ## § 2296a–3. Definitions
 
-For purposes of this part:
+    For purposes of this part:
 
     (1)
 

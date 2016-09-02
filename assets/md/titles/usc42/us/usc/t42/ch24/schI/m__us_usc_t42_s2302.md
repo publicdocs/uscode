@@ -15,7 +15,7 @@
 
 ## § 2302. Congressional findings
 
-The Congress of the United States makes the following findings concerning the communities owned by the Atomic Energy Commission:
+    The Congress of the United States makes the following findings concerning the communities owned by the Atomic Energy Commission:
 
     (a) The continued morale of project-connected persons is essential to the common defense and security of the United States.
 

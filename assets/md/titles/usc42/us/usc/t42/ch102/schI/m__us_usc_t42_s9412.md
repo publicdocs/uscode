@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch102/schI/m__us_usc_t42_s9411.md) | [Next](./../../../../..//us/usc/t42/ch102/schI/m__us_usc_t42_s9421 to 9423.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9412)
+[Previous](./../../../../..//us/usc/t42/ch102/schI/m__us_usc_t42_s9411.md) | [Next](./../../../../..//us/usc/t42/ch102/schII/m__us_usc_t42_ch102_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9412)
 
 ## § 9412. Definitions
 
-For purposes of this chapter:
+    For purposes of this chapter:
 
     (1) The term “Secretary” means the Secretary of Health and Human Services.
 
@@ -41,9 +41,21 @@ For purposes of this chapter:
 
     For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48][/us/usc/t48/s1681], Territories and Insular Possessions.
 
+§§ 9421 to 9423. __Repealed.__  __[__  __Pub. L. 97–35, title IX, § 902(e)(1)__  __][/us/pl/97/35/s902/e/1]__  __,__  __Aug. 13, 1981__  __,__  __[__  __95 Stat. 560__  __][/us/stat/95/560]__ 
+
+    Section 9421, [Pub. L. 96–398, title I, § 105][/us/pl/96/398/s105], Oct. 7, 1980, [94 Stat. 1570][/us/stat/94/1570], related to designation of State agency for mental health programs.
+
+    Section 9422, [Pub. L. 96–398, title I, § 106][/us/pl/96/398/s106], Oct. 7, 1980, [94 Stat. 1570][/us/stat/94/1570], related to establishment, etc., of State mental health service areas.
+
+    Section 9423, [Pub. L. 96–398, title I, § 107(a)][/us/pl/96/398/s107/a]–(c), Oct. 7, 1980, [94 Stat. 1570][/us/stat/94/1570], related to allotments to improve State administration of mental health programs.
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective Oct. 1, 1981, see [section 902(h) of Pub. L. 97–35][/us/pl/97/35/s902/h], set out as an Effective Date of 1981 Amendment note under section 238l of this title.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch102/schI/m__us_usc_t42_s9411.md) | [Next](./../../../../..//us/usc/t42/ch102/schI/m__us_usc_t42_s9421 to 9423.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9412)
+[Previous](./../../../../..//us/usc/t42/ch102/schI/m__us_usc_t42_s9411.md) | [Next](./../../../../..//us/usc/t42/ch102/schII/m__us_usc_t42_ch102_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9412)
 
 ----------
 ----------
@@ -60,5 +72,14 @@ For purposes of this chapter:
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35/s902/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs902%2Fh
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
+[/us/pl/97/35/s902/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs902%2Fe%2F1
+[/us/stat/95/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F560
+[/us/pl/96/398/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F398%2Fs105
+[/us/stat/94/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1570
+[/us/pl/96/398/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F398%2Fs106
+[/us/stat/94/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1570
+[/us/pl/96/398/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F398%2Fs107%2Fa
+[/us/stat/94/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1570
+[/us/pl/97/35/s902/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs902%2Fh
 
 

@@ -15,7 +15,7 @@
 
 ## § 7156. Transfers from Department of the Navy
 
-There are transferred to and vested in the Secretary all functions vested by chapter 641 of title 10, in the Secretary of the Navy as they relate to the administration of and jurisdiction over—
+    There are transferred to and vested in the Secretary all functions vested by chapter 641 of title 10, in the Secretary of the Navy as they relate to the administration of and jurisdiction over—
 
     (1) Naval Petroleum Reserve Numbered 1 (Elk Hills), located in Kern County, California, established by Executive order of the President, dated September 2, 1912;
 
@@ -29,7 +29,7 @@ There are transferred to and vested in the Secretary all functions vested by cha
 
     (6) Oil Shale Reserve Numbered 3, located in Colorado, established by Executive order of the President, dated September 27, 1924.
 
-        In the administration of any of the functions transferred to, and vested in, the Secretary by this section the Secretary shall take into consideration the requirements of national security.
+    In the administration of any of the functions transferred to, and vested in, the Secretary by this section the Secretary shall take into consideration the requirements of national security.
 
 ([Pub. L. 95–91, title III, § 307][/us/pl/95/91/s307], Aug. 4, 1977, [91 Stat. 581][/us/stat/91/581].)
 

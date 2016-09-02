@@ -15,7 +15,7 @@
 
 ## § 7385e. Certification of treatment of payments under other laws
 
-Compensation or benefits provided to an individual under this subchapter—
+    Compensation or benefits provided to an individual under this subchapter—
 
     (1) shall be treated for purposes of the internal revenue laws of the United States as damages for human suffering; and
 

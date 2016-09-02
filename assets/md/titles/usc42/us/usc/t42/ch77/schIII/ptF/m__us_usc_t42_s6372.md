@@ -15,7 +15,7 @@
 
 ## § 6372. Definitions
 
-For purposes of this part—
+    For purposes of this part—
 
     (1) The terms “hospital”, “State”, “school”, “Governor”, “State energy agency”, “energy conservation measure”, “energy conservation maintenance and operating procedure”, “preliminary energy audit”, “technical assistance costs”, “energy audit” and “Secretary” have the meanings provided in [section 6371 of this title][/us/usc/t42/s6371].
 
@@ -75,7 +75,9 @@ For purposes of this part—
 
 >         “(4) units of local government and public care institutions in many instances need financial assistance in order to conduct energy audits and to identify energy conservation maintenance and operating procedures and to evaluate the potential benefits of acquiring and installing energy conservation measures.
 
->     “(b) __Purpose.—It is the purpose of this part \[part 2 (§§ 310–312) of title III of__  __[__  __Pub. L. 95–619__  __][/us/pl/95/619]__  __, enacting sections 6371j and 6372 to 6372i of this title\] to authorize grants to States and units of local government and public care institutions to assist them in conducting preliminary energy audits and energy audits in identifying and implementing energy conservation maintenance and operating procedures and in evaluating energy conservation measures to reduce the energy use and anticipated energy costs of buildings owned by units of local government and public care institutions.”__ 
+>     “(b) __Purpose.—__ 
+
+>     It is the purpose of this part \[part 2 (§§ 310–312) of title III of [Pub. L. 95–619][/us/pl/95/619], enacting sections 6371j and 6372 to 6372i of this title\] to authorize grants to States and units of local government and public care institutions to assist them in conducting preliminary energy audits and energy audits in identifying and implementing energy conservation maintenance and operating procedures and in evaluating energy conservation measures to reduce the energy use and anticipated energy costs of buildings owned by units of local government and public care institutions.”
 
  __Application of Davis-Bacon Act__ 
 

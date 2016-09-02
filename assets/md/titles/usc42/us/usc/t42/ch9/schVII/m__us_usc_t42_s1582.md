@@ -15,7 +15,7 @@
 
 ## § 1582. Temporary housing exempted from provisions of [section 1553 of this title][/us/usc/t42/s1553]
 
-The requirements of [section 1553 of this title][/us/usc/t42/s1553] shall not apply to any temporary housing—
+    The requirements of [section 1553 of this title][/us/usc/t42/s1553] shall not apply to any temporary housing—
 
     (a) for which such requirements have been waived pursuant to section 1575  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  or [section 1581 of this title][/us/usc/t42/s1581];
 

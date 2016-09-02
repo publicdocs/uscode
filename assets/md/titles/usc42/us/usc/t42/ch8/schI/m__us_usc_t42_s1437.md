@@ -109,9 +109,7 @@
 
 >     No provision of this title may be construed to repeal the regulations of the Secretary regarding tenant participation and tenant opportunities in public housing (24 C.F.R. 964).
 
->     “(g)
-
->         \[(f) __\] Effective Date.—__ 
+>     “(g)    \[(f) __\] Effective Date.—__ 
 
 >         This section shall take effect on the date of the enactment of this Act \[Oct. 21, 1998\].”
 

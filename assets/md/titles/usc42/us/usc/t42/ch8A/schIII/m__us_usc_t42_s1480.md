@@ -15,7 +15,7 @@
 
 ## § 1480. Administrative powers of Secretary
 
-In carrying out the provisions of this subchapter, the Secretary shall have the power to—
+    In carrying out the provisions of this subchapter, the Secretary shall have the power to—
 
     (a) __Service and supply contracts__ 
 

@@ -15,7 +15,7 @@
 
 ## § 5116d. Application
 
-A grant may not be made to a State under this subchapter unless an application therefor is submitted by the State to the Secretary and such application contains the types of information specified by the Secretary as essential to carrying out the provisions of [section 5116a of this title][/us/usc/t42/s5116a], including—
+    A grant may not be made to a State under this subchapter unless an application therefor is submitted by the State to the Secretary and such application contains the types of information specified by the Secretary as essential to carrying out the provisions of [section 5116a of this title][/us/usc/t42/s5116a], including—
 
     (1) a description of the lead entity that will be responsible for the administration of funds provided under this subchapter and the oversight of programs funded through the community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect which meets the requirements of [section 5116a of this title][/us/usc/t42/s5116a];
 

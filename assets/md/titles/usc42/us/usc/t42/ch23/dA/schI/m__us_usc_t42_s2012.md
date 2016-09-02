@@ -15,7 +15,7 @@
 
 ## § 2012. Congressional findings
 
-The Congress of the United States makes the following findings concerning the development, use, and control of atomic energy:
+    The Congress of the United States makes the following findings concerning the development, use, and control of atomic energy:
 
     (a) The development, utilization, and control of atomic energy for military and for all other purposes are vital to the common defense and security.
 

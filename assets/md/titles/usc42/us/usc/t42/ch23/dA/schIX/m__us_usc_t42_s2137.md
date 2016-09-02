@@ -15,7 +15,7 @@
 
 ## § 2137. Operators’ licenses
 
-The Commission shall—
+    The Commission shall—
 
     (a) prescribe uniform conditions for licensing individuals as operators of any of the various classes of production and utilization facilities licensed in this chapter;
 

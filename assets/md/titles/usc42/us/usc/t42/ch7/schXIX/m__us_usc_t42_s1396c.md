@@ -15,13 +15,13 @@
 
 ## § 1396c. Operation of State plans
 
-If the Secretary, after reasonable notice and opportunity for hearing to the State agency administering or supervising the administration of the State plan approved under this subchapter, finds—
+    If the Secretary, after reasonable notice and opportunity for hearing to the State agency administering or supervising the administration of the State plan approved under this subchapter, finds—
 
     (1) that the plan has been so changed that it no longer complies with the provisions of [section 1396a of this title][/us/usc/t42/s1396a]; or
 
     (2) that in the administration of the plan there is a failure to comply substantially with any such provision;
 
-        the Secretary shall notify such State agency that further payments will not be made to the State (or, in his discretion, that payments will be limited to categories under or parts of the State plan not affected by such failure), until the Secretary is satisfied that there will no longer be any such failure to comply. Until he is so satisfied he shall make no further payments to such State (or shall limit payments to categories under or parts of the State plan not affected by such failure).
+    the Secretary shall notify such State agency that further payments will not be made to the State (or, in his discretion, that payments will be limited to categories under or parts of the State plan not affected by such failure), until the Secretary is satisfied that there will no longer be any such failure to comply. Until he is so satisfied he shall make no further payments to such State (or shall limit payments to categories under or parts of the State plan not affected by such failure).
 
 ([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1904, as added [Pub. L. 89–97, title I, § 121(a)][/us/pl/89/97/s121/a], July 30, 1965, [79 Stat. 351][/us/stat/79/351].)
 

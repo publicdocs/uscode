@@ -15,7 +15,7 @@
 
 ## § 2000e. Definitions
 
-For the purposes of this subchapter—
+    For the purposes of this subchapter—
 
     (a) The term “person” includes one or more individuals, governments, governmental agencies, political subdivisions, labor unions, partnerships, associations, corporations, legal representatives, mutual companies, joint-stock companies, trusts, unincorporated organizations, trustees, trustees in cases under title 11, or receivers.
 

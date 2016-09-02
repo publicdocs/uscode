@@ -15,7 +15,7 @@
 
 ## § 2014. Definitions
 
-The intent of Congress in the definitions as given in this section should be construed from the words or phrases used in the definitions. As used in this chapter:
+    The intent of Congress in the definitions as given in this section should be construed from the words or phrases used in the definitions. As used in this chapter:
 
     (a) The term “agency of the United States” means the executive branch of the United States, or any Government agency, or the legislative branch of the United States, or any agency, committee, commission, office, or other establishment in the legislative branch, or the judicial branch of the United States, or any office, agency, committee, commission, or other establishment in the judicial branch.
 

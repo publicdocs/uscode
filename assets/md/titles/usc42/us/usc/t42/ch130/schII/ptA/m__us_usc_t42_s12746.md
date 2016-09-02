@@ -15,7 +15,7 @@
 
 ## § 12746. Participation by States and local governments
 
-The Secretary shall designate a State or unit of general local government to be a participating jurisdiction when it complies with procedures that the Secretary shall establish by regulation, which procedures shall only provide for the following:
+    The Secretary shall designate a State or unit of general local government to be a participating jurisdiction when it complies with procedures that the Secretary shall establish by regulation, which procedures shall only provide for the following:
 
     (1) __Allocation__ 
 

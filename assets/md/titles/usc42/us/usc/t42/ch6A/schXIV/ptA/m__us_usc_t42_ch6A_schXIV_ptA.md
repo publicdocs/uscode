@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schXIV/m__us_usc_t42_s300p to 300p–3.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schXIV/ptA/m__us_usc_t42_s300q.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch6A%2FschXIV%2FptA)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schXIV/m__us_usc_t42_ch6A_schXIV.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schXIV/ptA/m__us_usc_t42_s300q.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch6A%2FschXIV%2FptA)
 
 #### Part A—Loans and Loan Guarantees
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schXIV/m__us_usc_t42_s300p to 300p–3.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schXIV/ptA/m__us_usc_t42_s300q.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch6A%2FschXIV%2FptA)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schXIV/m__us_usc_t42_ch6A_schXIV.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schXIV/ptA/m__us_usc_t42_s300q.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch6A%2FschXIV%2FptA)
 
 ----------
 ----------

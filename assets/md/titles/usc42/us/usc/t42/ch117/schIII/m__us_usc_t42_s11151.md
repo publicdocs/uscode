@@ -15,7 +15,7 @@
 
 ## § 11151. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) The term “adversely affecting” includes reducing, restricting, suspending, revoking, denying, or failing to renew clinical privileges or membership in a health care entity.
 

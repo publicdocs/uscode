@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch42/schII/m__us_usc_t42_s3411 to 3426.md) | [Next](./../../../../..//us/usc/t42/ch42/schIII/m__us_usc_t42_s3441.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch42%2FschIII)
+[Previous](./../../../../..//us/usc/t42/ch42/schII/m__us_usc_t42_ch42_schII.md) | [Next](./../../../../..//us/usc/t42/ch42/schIII/m__us_usc_t42_s3441.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch42%2FschIII)
 
 ### SUBCHAPTER III—REHABILITATION AND POSTHOSPITALIZATION CARE PROGRAMS AND ASSISTANCE TO STATES AND LOCALITIES
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch42/schII/m__us_usc_t42_s3411 to 3426.md) | [Next](./../../../../..//us/usc/t42/ch42/schIII/m__us_usc_t42_s3441.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch42%2FschIII)
+[Previous](./../../../../..//us/usc/t42/ch42/schII/m__us_usc_t42_ch42_schII.md) | [Next](./../../../../..//us/usc/t42/ch42/schIII/m__us_usc_t42_s3441.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch42%2FschIII)
 
 ----------
 ----------

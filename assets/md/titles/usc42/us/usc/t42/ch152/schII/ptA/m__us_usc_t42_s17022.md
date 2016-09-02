@@ -29,9 +29,13 @@
 
     (c) __Authorization of appropriations__ 
 
-        There is authorized to be appropriated to carry out this section $500,000,000 for the period of fiscal years 2008 through 2015.
+        There is authorized to be appropriated to carry out this section $500,000,000 for the period of fiscal years 2008 through 2015, except that the amount authorized to be appropriated to carry out this section not appropriated as of October 2, 2013, shall be reduced by $6,000,000.
 
-([Pub. L. 110–140, title II, § 207][/us/pl/110/140/s207], Dec. 19, 2007, [121 Stat. 1531][/us/stat/121/1531].)
+([Pub. L. 110–140, title II, § 207][/us/pl/110/140/s207], Dec. 19, 2007, [121 Stat. 1531][/us/stat/121/1531]; [Pub. L. 113–40, § 10(f)][/us/pl/113/40/s10/f], Oct. 2, 2013, [127 Stat. 546][/us/stat/127/546].)
+
+ __Amendments__ 
+
+    2013—Subsec. (c). [Pub. L. 113–40][/us/pl/113/40] inserted “, except that the amount authorized to be appropriated to carry out this section not appropriated as of October 2, 2013, shall be reduced by $6,000,000” before period at end.
 
 ----------
 
@@ -42,5 +46,8 @@
 
 [/us/pl/110/140/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs207
 [/us/stat/121/1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1531
+[/us/pl/113/40/s10/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40%2Fs10%2Ff
+[/us/stat/127/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F546
+[/us/pl/113/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40
 
 

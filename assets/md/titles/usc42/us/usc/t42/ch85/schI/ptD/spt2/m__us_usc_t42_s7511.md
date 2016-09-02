@@ -185,19 +185,19 @@
 
         (B) The Administrator shall publish a notice in the Federal Register, no later than 6 months following the attainment date, identifying each area that the Administrator has determined under subparagraph (A) as having failed to attain and identifying the reclassification, if any, described under subparagraph (A).
 
-    (3) __Voluntary reclassification__ 
+        (3) __Voluntary reclassification__ 
 
-        The Administrator shall grant the request of any State to reclassify a nonattainment area in that State in accordance with table 1 of subsection (a) of this section to a higher classification. The Administrator shall publish a notice in the Federal Register of any such request and of action by the Administrator granting the request.
+            The Administrator shall grant the request of any State to reclassify a nonattainment area in that State in accordance with table 1 of subsection (a) of this section to a higher classification. The Administrator shall publish a notice in the Federal Register of any such request and of action by the Administrator granting the request.
 
-    (4) __Failure of Severe Areas to attain standard__ 
+        (4) __Failure of Severe Areas to attain standard__ 
 
-        (A) If any Severe Area fails to achieve the national primary ambient air quality standard for ozone by the applicable attainment date (including any extension thereof), the fee provisions under [section 7511d of this title][/us/usc/t42/s7511d] shall apply within the area, the percent reduction requirements of section 7511a(c)(2)(B) and (C) of this title (relating to reasonable further progress demonstration and NOx control) shall continue to apply to the area, and the State shall demonstrate that such percent reduction has been achieved in each 3-year interval after such failure until the standard is attained. Any failure to make such a demonstration shall be subject to the sanctions provided under this part.
+            (A) If any Severe Area fails to achieve the national primary ambient air quality standard for ozone by the applicable attainment date (including any extension thereof), the fee provisions under [section 7511d of this title][/us/usc/t42/s7511d] shall apply within the area, the percent reduction requirements of section 7511a(c)(2)(B) and (C) of this title (relating to reasonable further progress demonstration and NOx control) shall continue to apply to the area, and the State shall demonstrate that such percent reduction has been achieved in each 3-year interval after such failure until the standard is attained. Any failure to make such a demonstration shall be subject to the sanctions provided under this part.
 
-        (B) In addition to the requirements of subparagraph (A), if the ozone design value for a Severe Area referred to in subparagraph (A) is above 0.140 ppm for the year of the applicable attainment date, or if the area has failed to achieve its most recent milestone under [section 7511a(g) of this title][/us/usc/t42/s7511a/g], the new source review requirements applicable under this subpart in Extreme Areas shall apply in the area and the term  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “terms”. </sup></sup>  “major source” and “major stationary source” shall have the same meaning as in Extreme Areas.
+            (B) In addition to the requirements of subparagraph (A), if the ozone design value for a Severe Area referred to in subparagraph (A) is above 0.140 ppm for the year of the applicable attainment date, or if the area has failed to achieve its most recent milestone under [section 7511a(g) of this title][/us/usc/t42/s7511a/g], the new source review requirements applicable under this subpart in Extreme Areas shall apply in the area and the term  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “terms”. </sup></sup>  “major source” and “major stationary source” shall have the same meaning as in Extreme Areas.
 
-        (C) In addition to the requirements of subparagraph (A) for those areas referred to in subparagraph (A) and not covered by subparagraph (B), the provisions referred to in subparagraph (B) shall apply after 3 years from the applicable attainment date unless the area has attained the standard by the end of such 3-year period.
+            (C) In addition to the requirements of subparagraph (A) for those areas referred to in subparagraph (A) and not covered by subparagraph (B), the provisions referred to in subparagraph (B) shall apply after 3 years from the applicable attainment date unless the area has attained the standard by the end of such 3-year period.
 
-        (D) If, after November 15, 1990, the Administrator modifies the method of determining compliance with the national primary ambient air quality standard, a design value or other indicator comparable to 0.140 in terms of its relationship to the standard shall be used in lieu of 0.140 for purposes of applying the provisions of subparagraphs (B) and (C).
+            (D) If, after November 15, 1990, the Administrator modifies the method of determining compliance with the national primary ambient air quality standard, a design value or other indicator comparable to 0.140 in terms of its relationship to the standard shall be used in lieu of 0.140 for purposes of applying the provisions of subparagraphs (B) and (C).
 
     (c) __References to terms__ 
 
@@ -217,7 +217,7 @@
 
 >     “(2) stripper well natural gas, as defined in section 108(b) of the Natural Gas Policy Act of 1978 ([15 U.S.C. 3318(b)][/us/usc/t15/s3318/b]).\[,\]
 
->         except to the extent that provisions of such amendments cover areas designated as Serious pursuant to part D of title I of the Clean Air Act \[this part\] and having a population of 350,000 or more, or areas designated as Severe or Extreme pursuant to such part D.”
+>     except to the extent that provisions of such amendments cover areas designated as Serious pursuant to part D of title I of the Clean Air Act \[this part\] and having a population of 350,000 or more, or areas designated as Severe or Extreme pursuant to such part D.”
 
 ----------
 

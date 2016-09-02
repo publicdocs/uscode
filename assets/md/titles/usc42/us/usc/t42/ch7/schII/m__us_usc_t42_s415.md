@@ -15,7 +15,7 @@
 
 ## § 415. Computation of primary insurance amount
 
-For the purposes of this subchapter—
+    For the purposes of this subchapter—
 
     (a) __Primary insurance amount__ 
 
@@ -1547,11 +1547,13 @@ For the purposes of this subchapter—
 
 [Pub. L. 98–604, § 1][/us/pl/98/604/s1], Oct. 30, 1984, [98 Stat. 3161][/us/stat/98/3161], provided:
 
->     “That (a) in determining whether the base quarter ending on September 30, 1984, is a cost-of-living computation quarter for the purposes of the cost-of-living increases under sections 215(i) and 1617 of the Social Security Act \[[42 U.S.C. 415(i)][/us/usc/t42/s415/i], 1382f\], the phrase ‘is 3 percent or more’ appearing in section 215(i)(1)(B) of such Act shall be deemed to read ‘is greater than zero’ (and the phrase ‘exceeds, by not less than 3 per centum, such Index’ appearing in section 215(i)(1)(B) of such Act as in effect in December 1978 shall be deemed to read ‘exceeds such Index’).
+>     “That 
+
+>     (a) in determining whether the base quarter ending on September 30, 1984, is a cost-of-living computation quarter for the purposes of the cost-of-living increases under sections 215(i) and 1617 of the Social Security Act \[[42 U.S.C. 415(i)][/us/usc/t42/s415/i], 1382f\], the phrase ‘is 3 percent or more’ appearing in section 215(i)(1)(B) of such Act shall be deemed to read ‘is greater than zero’ (and the phrase ‘exceeds, by not less than 3 per centum, such Index’ appearing in section 215(i)(1)(B) of such Act as in effect in December 1978 shall be deemed to read ‘exceeds such Index’).
 
 >     “(b) For purposes of section 215(i) of such Act, the provisions of subsection (a) shall not constitute a ‘general benefit increase’.”
 
- __“Base Quarter” in Calendar Year 1983__ 
+“Base Quarter” in Calendar Year 1983
 
 [Pub. L. 98–21, title I, § 111(d)][/us/pl/98/21/s111/d], Apr. 20, 1983, [97 Stat. 72][/us/stat/97/72], provided that: 
 
@@ -1615,7 +1617,7 @@ For the purposes of this subchapter—
 
 >     “(B) the primary insurance amount on which the amount of such benefit is based was determined by applying section 215(d) of the Social Security Act \[[42 U.S.C. 415(d)][/us/usc/t42/s415/d]\] as amended by this Act,
 
->         such primary insurance amount shall, for purposes of section 215(c) of the Social Security Act \[[42 U.S.C. 415(c)][/us/usc/t42/s415/c]\], as amended by this Act, be deemed to have been computed on the basis of the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq.\] in effect prior to the enactment of this Act \[Jan. 2, 1968\].”
+>     such primary insurance amount shall, for purposes of section 215(c) of the Social Security Act \[[42 U.S.C. 415(c)][/us/usc/t42/s415/c]\], as amended by this Act, be deemed to have been computed on the basis of the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq.\] in effect prior to the enactment of this Act \[Jan. 2, 1968\].”
 
  __Computation of Primary Insurance Amount for Certain Individuals Who Were Fully Insured and Had Attained Retirement Age Prior to 1961__ 
 
@@ -1657,7 +1659,7 @@ For the purposes of this subchapter—
 
 >     “(2) who is (or would, but for the fact that such recomputation would not result in a higher primary insurance amount for such individual, be) entitled, by reason of section 215(f) of the Social Security Act \[[42 U.S.C. 415(f)][/us/usc/t42/s415/f]\], to have his primary insurance amount recomputed effective for a month prior to January 1961,
 
->         his average monthly wage as determined under the provisions of such section 215(b) \[[42 U.S.C. 415(b)][/us/usc/t42/s415/b]\] shall be his average monthly wage for the purposes of determining his primary insurance amount for such prior month.”
+>     his average monthly wage as determined under the provisions of such section 215(b) \[[42 U.S.C. 415(b)][/us/usc/t42/s415/b]\] shall be his average monthly wage for the purposes of determining his primary insurance amount for such prior month.”
 
  __Lag Recomputation Preserved for Certain Individuals Eligible or Dead Prior to September 1954__ 
 
@@ -1699,7 +1701,7 @@ For the purposes of this subchapter—
 
 >         “(B) his wages and self-employment income in the year in which he died without becoming entitled to old-age insurance benefits, or (if he was entitled to such benefits) the year in which application was filed for the last previous computation of his primary insurance amount or in which he died, whichever first occurred, where he has died at the time of the application for such recomputation.
 
->         If the primary insurance amount of an individual was recomputed under section 215(f)(3) of the Social Security Act \[[42 U.S.C. 415(f)(3)][/us/usc/t42/s415/f/3]\] as in effect prior to the enactment of this Act, and such amount would have been larger if the recomputation had been made under such section as modified by this subsection, then the Secretary shall recompute such primary insurance amount under such section as so modified, but only if an application for such recomputation is filed on or after the date of the enactment of this Act \[Sept. 13, 1960\]. A recomputation under the preceding sentence shall be effective for and after the first month for which the last previous recomputation of such individual’s primary insurance amount under such section 215 \[[42 U.S.C. 415][/us/usc/t42/s415]\] was effective, but in no event for any month prior to the twenty-fourth month before the month in which the application for a recomputation is filed under the preceding sentence.”
+>     If the primary insurance amount of an individual was recomputed under section 215(f)(3) of the Social Security Act \[[42 U.S.C. 415(f)(3)][/us/usc/t42/s415/f/3]\] as in effect prior to the enactment of this Act, and such amount would have been larger if the recomputation had been made under such section as modified by this subsection, then the Secretary shall recompute such primary insurance amount under such section as so modified, but only if an application for such recomputation is filed on or after the date of the enactment of this Act \[Sept. 13, 1960\]. A recomputation under the preceding sentence shall be effective for and after the first month for which the last previous recomputation of such individual’s primary insurance amount under such section 215 \[[42 U.S.C. 415][/us/usc/t42/s415]\] was effective, but in no event for any month prior to the twenty-fourth month before the month in which the application for a recomputation is filed under the preceding sentence.”
 
  __Special Starting and Closing Dates for Certain Individuals for Computation of 1957 Benefit Amounts__ 
 

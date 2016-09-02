@@ -15,7 +15,7 @@
 
 ## § 13340. Low-rank coal research and development
 
-The Secretary shall pursue a program of research and development with respect to the technologies needed to expand the use of low-rank coals which take into account the unique properties of lignites and sub-bituminous coals, including, but not limited to, the following areas—
+    The Secretary shall pursue a program of research and development with respect to the technologies needed to expand the use of low-rank coals which take into account the unique properties of lignites and sub-bituminous coals, including, but not limited to, the following areas—
 
     (1) high value-added carbon products;
 

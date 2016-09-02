@@ -15,7 +15,7 @@
 
 ## § 15602. Purposes
 
-The purposes of this chapter are to—
+    The purposes of this chapter are to—
 
     (1) establish a zero-tolerance standard for the incidence of prison rape in prisons in the United States;
 

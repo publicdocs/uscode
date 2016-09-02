@@ -15,7 +15,7 @@
 
 ## § 17154. Use of funds
 
-An eligible entity may use a grant received under this part to carry out activities to achieve the purposes of the program, including—
+    An eligible entity may use a grant received under this part to carry out activities to achieve the purposes of the program, including—
 
     (1) development and implementation of an energy efficiency and conservation strategy under [section 17155(b) of this title][/us/usc/t42/s17155/b];
 

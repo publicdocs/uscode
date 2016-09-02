@@ -15,7 +15,7 @@
 
 ## § 2303. Purpose of chapter
 
-It is the purpose of this chapter to effectuate the policies set forth above by providing for—
+    It is the purpose of this chapter to effectuate the policies set forth above by providing for—
 
     (a) the maintenance of conditions which will not impede the recruitment and retention of personnel essential to the atomic energy program;
 

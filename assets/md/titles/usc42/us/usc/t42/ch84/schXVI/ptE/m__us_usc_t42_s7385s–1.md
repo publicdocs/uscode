@@ -15,7 +15,7 @@
 
 ## § 7385s–1. Compensation to be provided
 
-Subject to the other provisions of this part:
+    Subject to the other provisions of this part:
 
     (1) __Contractor employees__ 
 

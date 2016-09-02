@@ -15,7 +15,7 @@
 
 ## § 18091. Requirement to maintain minimum essential coverage; findings
 
-Congress makes the following findings:
+    Congress makes the following findings:
 
     (1) __In general__ 
 
