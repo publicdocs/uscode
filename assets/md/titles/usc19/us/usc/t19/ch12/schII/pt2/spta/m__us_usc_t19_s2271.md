@@ -41,11 +41,21 @@
 
         If the petitioner, or any other person found by the Secretary to have a substantial interest in the proceedings, submits not later than 10 days after the date of the Secretary’s publication under subsection (a) of this section a request for a hearing, the Secretary shall provide for a public hearing and afford such interested persons an opportunity to be present, to produce evidence, and to be heard.
 
-([Pub. L. 93–618, title II, § 221][/us/pl/93/618/s221], Jan. 3, 1975, [88 Stat. 2019][/us/stat/88/2019]; [Pub. L. 99–272, title XIII, § 13002(a)][/us/pl/99/272/s13002/a], Apr. 7, 1986, [100 Stat. 300][/us/stat/100/300]; [Pub. L. 103–182, title V, § 503(a)][/us/pl/103/182/s503/a], Dec. 8, 1993, [107 Stat. 2151][/us/stat/107/2151]; [Pub. L. 107–210, div. A, title I, § 112(a)][/us/pl/107/210/s112/a], Aug. 6, 2002, [116 Stat. 937][/us/stat/116/937]; [Pub. L. 108–429, title II, § 2004(a)(4)][/us/pl/108/429/s2004/a/4], Dec. 3, 2004, [118 Stat. 2590][/us/stat/118/2590]; [Pub. L. 111–5, div. B, title I, § 1801(e)(1)][/us/pl/111/5/s1801/e/1], Feb. 17, 2009, [123 Stat. 370][/us/stat/123/370]; [Pub. L. 112–40, title II, § 201(b)][/us/pl/112/40/s201/b], (c), Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403].)
+([Pub. L. 93–618, title II, § 221][/us/pl/93/618/s221], Jan. 3, 1975, [88 Stat. 2019][/us/stat/88/2019]; [Pub. L. 99–272, title XIII, § 13002(a)][/us/pl/99/272/s13002/a], Apr. 7, 1986, [100 Stat. 300][/us/stat/100/300]; [Pub. L. 103–182, title V, § 503(a)][/us/pl/103/182/s503/a], Dec. 8, 1993, [107 Stat. 2151][/us/stat/107/2151]; [Pub. L. 107–210, div. A, title I, § 112(a)][/us/pl/107/210/s112/a], Aug. 6, 2002, [116 Stat. 937][/us/stat/116/937]; [Pub. L. 108–429, title II, § 2004(a)(4)][/us/pl/108/429/s2004/a/4], Dec. 3, 2004, [118 Stat. 2590][/us/stat/118/2590]; [Pub. L. 111–5, div. B, title I, § 1801(e)(1)][/us/pl/111/5/s1801/e/1], Feb. 17, 2009, [123 Stat. 370][/us/stat/123/370]; [Pub. L. 112–40, title II, § 201(b)][/us/pl/112/40/s201/b], (c), Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403]; [Pub. L. 113–128, title V, § 512(hh)(1)][/us/pl/113/128/s512/hh/1], July 22, 2014, [128 Stat. 1720][/us/stat/128/1720].)
 
  __Reversion to Provisions in Effect on__  __February 13, 2011__ 
 
     For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to [section 233(b) of Pub. L. 112–40][/us/pl/112/40/s233/b], see Codification and Effective and Termination Dates of 2011 Revival notes below.
+
+ __Amendment of Subsection (a)__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(hh)(1), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1720, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (a) of this section is amended as follows:
+
+    (1) in paragraph (1)(C), by striking “, one-stop operators or one-stop partners (as defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801])) including State employment security agencies,” and inserting “, one-stop operators or one-stop partners (as defined in [section 3102 of title 29][/us/usc/t29/s3102]) including State employment security agencies,” and by striking “or the State dislocated worker unit established under title I of such Act,” and inserting “or a State dislocated worker unit,”; and
+
+    (2) in subsection (a)(2)(A), by striking “rapid response activities and appropriate core and intensive services (as described in section 134 of the Workforce Investment Act of 1998 ([29 U.S.C. 2864][/us/usc/t29/s2864])) authorized under other Federal laws” and inserting “rapid response activities and appropriate career services (as described in [section 3174 of title 29][/us/usc/t29/s3174]) authorized under other Federal laws”.
+
+    See note above and 2014 Amendment notes below.
 
  __References in Text__ 
 
@@ -56,6 +66,12 @@
     [Section 1893 of Pub. L. 111–5][/us/pl/111/5/s1893], which provided for Feb. 13, 2011, termination of amendment by [Pub. L. 111–5][/us/pl/111/5], was repealed by [Pub. L. 112–40, title II, § 201(a)][/us/pl/112/40/s201/a], Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403], and the provisions of this section, as amended by [Pub. L. 111–5][/us/pl/111/5] and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by [Pub. L. 112–40][/us/pl/112/40], §§ 201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival note below.
 
  __Amendments__ 
+
+    2014—Subsec. (a)(1)(C). [Pub. L. 113–128, § 512(hh)(1)(A)(ii)][/us/pl/113/128/s512/hh/1/A/ii], substituted “or a State dislocated worker unit,” for “or the State dislocated worker unit established under title I of such Act,”.
+
+    [Pub. L. 113–128, § 512(hh)(1)(A)(i)][/us/pl/113/128/s512/hh/1/A/i], which directed substitution of “, one-stop operators or one-stop partners (as defined in [section 3102 of title 29][/us/usc/t29/s3102]) including State employment security agencies,” for “, one-stop operators or one-stop partners (as defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801])) including State employment security agencies,”, was executed by making the substitution for “, one-stop operators or one-stop partners (as defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801])), including State employment security agencies,” to reflect the probable intent of Congress.
+
+    Subsec. (a)(2)(A). [Pub. L. 113–128, § 512(hh)(1)(B)][/us/pl/113/128/s512/hh/1/B], substituted “rapid response activities and appropriate career services (as described in [section 3174 of title 29][/us/usc/t29/s3174]) authorized under other Federal laws” for “rapid response activities and appropriate core and intensive services (as described in section 134 of the Workforce Investment Act of 1998 ([29 U.S.C. 2864][/us/usc/t29/s2864])) authorized under other Federal laws”.
 
     2011—[Pub. L. 112–40][/us/pl/112/40], §§ 201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 Amendment and Effective and Termination Dates of 2011 Revival notes below.
 
@@ -74,6 +90,10 @@
     1993—Subsec. (a). [Pub. L. 103–182][/us/pl/103/182] substituted “assistance under this subpart” for “assistance under this part”.
 
     1986—Subsec. (a). [Pub. L. 99–272][/us/pl/99/272] inserted “(including workers in any agricultural firm or subdivision of an agricultural firm)” after “group of workers”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective and Termination Dates of 2011 Revival__ 
 
@@ -310,7 +330,15 @@
 [/us/stat/123/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F370
 [/us/pl/112/40/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs201%2Fb
 [/us/stat/125/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F403
+[/us/pl/113/128/s512/hh/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fhh%2F1
+[/us/stat/128/1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1720
 [/us/pl/112/40/s233/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs233%2Fb
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
+[/us/usc/t29/s2864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2864
+[/us/usc/t29/s3174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3174
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
 [/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
@@ -320,6 +348,14 @@
 [/us/stat/125/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F403
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
+[/us/pl/113/128/s512/hh/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fhh%2F1%2FA%2Fii
+[/us/pl/113/128/s512/hh/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fhh%2F1%2FA%2Fi
+[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
+[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/pl/113/128/s512/hh/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fhh%2F1%2FB
+[/us/usc/t29/s3174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3174
+[/us/usc/t29/s2864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2864
 [/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/usc/t19/s2319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2319
@@ -330,6 +366,7 @@
 [/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
 [/us/pl/112/40/s233/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs233%2Fb
 [/us/pl/112/40/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs233

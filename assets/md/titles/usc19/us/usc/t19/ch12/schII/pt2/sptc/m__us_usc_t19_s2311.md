@@ -119,11 +119,21 @@
 
             The Secretary shall establish procedures to ensure the uniform application by the States of the requirements of this subsection.
 
-([Pub. L. 93–618, title II, § 239][/us/pl/93/618/s239], Jan. 3, 1975, [88 Stat. 2024][/us/stat/88/2024]; [Pub. L. 97–35, title XXV, § 2513(d)(6)][/us/pl/97/35/s2513/d/6], Aug. 13, 1981, [95 Stat. 889][/us/stat/95/889]; [Pub. L. 99–272, title XIII][/us/pl/99/272], §§ 13003(a)(3), 13004(c), Apr. 7, 1986, [100 Stat. 301][/us/stat/100/301], 303; [Pub. L. 100–418, title I][/us/pl/100/418], §§ 1423(a)(4), 1424(d)(1)(B), (2), Aug. 23, 1988, [102 Stat. 1246][/us/stat/102/1246], 1250; [Pub. L. 105–220, title III, § 321][/us/pl/105/220/s321], Aug. 7, 1998, [112 Stat. 1087][/us/stat/112/1087]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(14)(B), (f)(11)(B)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–421, 2681–431; [Pub. L. 111–5, div. B, title I][/us/pl/111/5], §§ 1852, 1853, Feb. 17, 2009, [123 Stat. 390][/us/stat/123/390], 392; [Pub. L. 112–40, title II][/us/pl/112/40], §§ 201(b), (c), 216(a)(1), Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403], 407.)
+([Pub. L. 93–618, title II, § 239][/us/pl/93/618/s239], Jan. 3, 1975, [88 Stat. 2024][/us/stat/88/2024]; [Pub. L. 97–35, title XXV, § 2513(d)(6)][/us/pl/97/35/s2513/d/6], Aug. 13, 1981, [95 Stat. 889][/us/stat/95/889]; [Pub. L. 99–272, title XIII][/us/pl/99/272], §§ 13003(a)(3), 13004(c), Apr. 7, 1986, [100 Stat. 301][/us/stat/100/301], 303; [Pub. L. 100–418, title I][/us/pl/100/418], §§ 1423(a)(4), 1424(d)(1)(B), (2), Aug. 23, 1988, [102 Stat. 1246][/us/stat/102/1246], 1250; [Pub. L. 105–220, title III, § 321][/us/pl/105/220/s321], Aug. 7, 1998, [112 Stat. 1087][/us/stat/112/1087]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(14)(B), (f)(11)(B)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–421, 2681–431; [Pub. L. 111–5, div. B, title I][/us/pl/111/5], §§ 1852, 1853, Feb. 17, 2009, [123 Stat. 390][/us/stat/123/390], 392; [Pub. L. 112–40, title II][/us/pl/112/40], §§ 201(b), (c), 216(a)(1), Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403], 407; [Pub. L. 113–128, title V, § 512(hh)(4)][/us/pl/113/128/s512/hh/4], July 22, 2014, [128 Stat. 1721][/us/stat/128/1721].)
 
  __Reversion to Provisions in Effect on__  __February 13, 2011__ 
 
     For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to [section 233(b) of Pub. L. 112–40][/us/pl/112/40/s233/b], see Codification and Effective and Termination Dates of 2011 Revival notes below.
+
+ __Amendment of Subsections (f) and (h)__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(hh)(4), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1721, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is amended as follows:
+
+    (1) in subsection (f), by striking “Any agreement entered into under this section shall provide for the coordination of the administration of the provisions for employment services, training, and supplemental assistance under sections 2295 and 2296 of this title and under title I of the Workforce Investment Act of 1998” and inserting “Any agreement entered into under this section shall provide for the coordination of the administration of the provisions for employment services, training, and supplemental assistance under sections 2295 and 2296 of this title and under title I of the Workforce Innovation and Opportunity Act”; and
+
+    (2) in subsection (h), by striking “the description and information described in paragraphs (8) and (14) of section 112(b) of the Workforce Investment Act of 1998 ([29 U.S.C. 2822(b)][/us/usc/t29/s2822/b])” and inserting “the descriptions described in sections 102(b)(2)(B)(ii) and 103(b)(3)(A) of the Workforce Innovation and Opportunity Act, a description of how the State board will carry out the activities described in section 101(d)(3)(F) of such Act,”.
+
+    See note above and 2014 Amendment notes below.
 
  __References in Text__ 
 
@@ -142,6 +152,10 @@
     Amendment by [section 1424(d)(1)(B) of Pub. L. 100–418][/us/pl/100/418/s1424/d/1/B], which directed amendment of subsec. (e) of [section 239 of Pub. L. 93–618][/us/pl/93/618/s239], was executed to the subsec. (e) (now subsec. (f)) set out in this section and not the subsec. (e) that amended [section 3302 of Title 26][/us/usc/t26/s3302], Internal Revenue Code, to reflect the probable intent of Congress.
 
  __Amendments__ 
+
+    2014—Subsec. (f). [Pub. L. 113–128, § 512(hh)(4)(A)][/us/pl/113/128/s512/hh/4/A], substituted “Any agreement entered into under this section shall provide for the coordination of the administration of the provisions for employment services, training, and supplemental assistance under sections 2295 and 2296 of this title and under title I of the Workforce Innovation and Opportunity Act” for “Any agreement entered into under this section shall provide for the coordination of the administration of the provisions for employment services, training, and supplemental assistance under sections 2295 and 2296 of this title and under title I of the Workforce Investment Act of 1998”.
+
+    Subsec. (h). [Pub. L. 113–128, § 512(hh)(4)(B)][/us/pl/113/128/s512/hh/4/B], substituted “the descriptions described in sections 102(b)(2)(B)(ii) and 103(b)(3)(A) of the Workforce Innovation and Opportunity Act, a description of how the State board will carry out the activities described in section 101(d)(3)(F) of such Act,” for “the description and information described in paragraphs (8) and (14) of section 112(b) of the Workforce Investment Act of 1998 ([29 U.S.C. 2822(b)][/us/usc/t29/s2822/b])”.
 
     2011—[Pub. L. 112–40][/us/pl/112/40], §§ 201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 Amendment and Effective and Termination Dates of 2011 Revival notes below.
 
@@ -206,6 +220,10 @@
     Subsecs. (e), (f). [Pub. L. 99–272, § 13004(c)(2)][/us/pl/99/272/s13004/c/2], added subsecs. (e) and (f).
 
     1981—Subsec. (a). [Pub. L. 97–35][/us/pl/97/35] struck out provisions respecting persons applying for payments under this part.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective and Termination Dates of 2011 Revival__ 
 
@@ -279,7 +297,12 @@
 [/us/stat/123/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F390
 [/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
 [/us/stat/125/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F403
+[/us/pl/113/128/s512/hh/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fhh%2F4
+[/us/stat/128/1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1721
 [/us/pl/112/40/s233/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs233%2Fb
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/usc/t29/s2822/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2822%2Fb
 [/us/usc/t19/s2291/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2291%2Fc%2F2
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
@@ -299,6 +322,9 @@
 [/us/pl/100/418/s1424/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1424%2Fd%2F1%2FB
 [/us/pl/93/618/s239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs239
 [/us/usc/t26/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3302
+[/us/pl/113/128/s512/hh/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fhh%2F4%2FA
+[/us/pl/113/128/s512/hh/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fhh%2F4%2FB
+[/us/usc/t29/s2822/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2822%2Fb
 [/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
 [/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
@@ -327,6 +353,7 @@
 [/us/pl/99/272/s13003/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs13003%2Fa%2F3
 [/us/pl/99/272/s13004/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs13004%2Fc%2F2
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
 [/us/usc/t19/s2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2271
 [/us/pl/112/40/s233/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs233%2Fb

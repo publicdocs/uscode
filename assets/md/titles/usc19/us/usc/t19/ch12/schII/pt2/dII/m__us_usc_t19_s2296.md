@@ -299,11 +299,21 @@
 
             Notwithstanding paragraph (1), a worker participating in part-time training approved under subsection (a) may not receive a trade readjustment allowance under [section 2291 of this title][/us/usc/t19/s2291].
 
-([Pub. L. 93–618, title II, § 236][/us/pl/93/618/s236], Jan. 3, 1975, [88 Stat. 2023][/us/stat/88/2023]; [Pub. L. 97–35, title XXV, § 2506(2)][/us/pl/97/35/s2506/2], Aug. 13, 1981, [95 Stat. 885][/us/stat/95/885]; [Pub. L. 99–272, title XIII, § 13004(a)][/us/pl/99/272/s13004/a], Apr. 7, 1986, [100 Stat. 301][/us/stat/100/301]; [Pub. L. 100–418, title I, § 1424(a)][/us/pl/100/418/s1424/a]–(c), Aug. 23, 1988, [102 Stat. 1248][/us/stat/102/1248], 1249; [Pub. L. 100–647, title IX, § 9001(a)(20)][/us/pl/100/647/s9001/a/20], Nov. 10, 1988, [102 Stat. 3808][/us/stat/102/3808]; [Pub. L. 103–66, title XIII, § 13803(b)][/us/pl/103/66/s13803/b], Aug. 10, 1993, [107 Stat. 668][/us/stat/107/668]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(14)(A), (f)(11)(A)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–421, 2681–431; [Pub. L. 107–210, div. A, title I][/us/pl/107/210], §§ 117, 118, Aug. 6, 2002, [116 Stat. 941][/us/stat/116/941]; [Pub. L. 109–270, § 2(b)(2)][/us/pl/109/270/s2/b/2], Aug. 12, 2006, [120 Stat. 746][/us/stat/120/746]; [Pub. L. 111–5, div. B, title I][/us/pl/111/5], §§ 1828(a)–(c), 1829(a), (c), 1830(a)(1), (b), 1831, 1832, Feb. 17, 2009, [123 Stat. 381–386][/us/stat/123/381-386]; [Pub. L. 111–344, title I, § 101(c)(1)][/us/pl/111/344/s101/c/1], Dec. 29, 2010, [124 Stat. 3613][/us/stat/124/3613]; [Pub. L. 112–40, title II][/us/pl/112/40], §§ 201(b), (c), 214(a), (f), Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403], 405, 406.)
+([Pub. L. 93–618, title II, § 236][/us/pl/93/618/s236], Jan. 3, 1975, [88 Stat. 2023][/us/stat/88/2023]; [Pub. L. 97–35, title XXV, § 2506(2)][/us/pl/97/35/s2506/2], Aug. 13, 1981, [95 Stat. 885][/us/stat/95/885]; [Pub. L. 99–272, title XIII, § 13004(a)][/us/pl/99/272/s13004/a], Apr. 7, 1986, [100 Stat. 301][/us/stat/100/301]; [Pub. L. 100–418, title I, § 1424(a)][/us/pl/100/418/s1424/a]–(c), Aug. 23, 1988, [102 Stat. 1248][/us/stat/102/1248], 1249; [Pub. L. 100–647, title IX, § 9001(a)(20)][/us/pl/100/647/s9001/a/20], Nov. 10, 1988, [102 Stat. 3808][/us/stat/102/3808]; [Pub. L. 103–66, title XIII, § 13803(b)][/us/pl/103/66/s13803/b], Aug. 10, 1993, [107 Stat. 668][/us/stat/107/668]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(14)(A), (f)(11)(A)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–421, 2681–431; [Pub. L. 107–210, div. A, title I][/us/pl/107/210], §§ 117, 118, Aug. 6, 2002, [116 Stat. 941][/us/stat/116/941]; [Pub. L. 109–270, § 2(b)(2)][/us/pl/109/270/s2/b/2], Aug. 12, 2006, [120 Stat. 746][/us/stat/120/746]; [Pub. L. 111–5, div. B, title I][/us/pl/111/5], §§ 1828(a)–(c), 1829(a), (c), 1830(a)(1), (b), 1831, 1832, Feb. 17, 2009, [123 Stat. 381–386][/us/stat/123/381-386]; [Pub. L. 111–344, title I, § 101(c)(1)][/us/pl/111/344/s101/c/1], Dec. 29, 2010, [124 Stat. 3613][/us/stat/124/3613]; [Pub. L. 112–40, title II][/us/pl/112/40], §§ 201(b), (c), 214(a), (f), Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403], 405, 406; [Pub. L. 113–128, title V, § 512(hh)(3)][/us/pl/113/128/s512/hh/3], July 22, 2014, [128 Stat. 1720][/us/stat/128/1720].)
 
  __Reversion to Provisions in Effect on__  __February 13, 2011__ 
 
     For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to [section 233(b) of Pub. L. 112–40][/us/pl/112/40/s233/b], see Codification and Effective and Termination Dates of 2011 Revival notes below.
+
+ __Amendment of Subsection (a)(5)__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(hh)(3), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1720, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (a)(5) of this section is amended as follows:
+
+    (1) in subparagraph (B), by striking “any training program provided by a State pursuant to title I of the Workforce Investment Act of 1998” and inserting “any training program provided by a State pursuant to title I of the Workforce Innovation and Opportunity Act”; and
+
+    (2) in concluding provisions, by striking “The Secretary may not limit approval of a training program under paragraph (1) to a program provided pursuant to title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.).” and inserting “The Secretary may not limit approval of a training program under paragraph (1) to a program provided pursuant to title I of the Workforce Innovation and Opportunity Act.”
+
+    See note above and 2014 Amendment notes below.
 
  __References in Text__ 
 
@@ -318,6 +328,10 @@
     [Section 1893 of Pub. L. 111–5][/us/pl/111/5/s1893], which provided for Feb. 13, 2011, termination of amendment by [Pub. L. 111–5][/us/pl/111/5], was repealed by [Pub. L. 112–40, title II, § 201(a)][/us/pl/112/40/s201/a], Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403], and the provisions of this section, as amended by [Pub. L. 111–5][/us/pl/111/5] and [Pub. L. 111–344][/us/pl/111/344] and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by [Pub. L. 112–40][/us/pl/112/40], §§ 201(b), (c), 233. See 2009, 2010, and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, Effective Date of 2010 Amendment note, and Effective and Termination Dates of 2011 Revival note below.
 
  __Amendments__ 
+
+    2014—Subsec. (a)(5). [Pub. L. 113–128, § 512(hh)(3)(B)][/us/pl/113/128/s512/hh/3/B], substituted “The Secretary may not limit approval of a training program under paragraph (1) to a program provided pursuant to title I of the Workforce Innovation and Opportunity Act.” for “The Secretary may not limit approval of a training program under paragraph (1) to a program provided pursuant to title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.).” in concluding provisions.
+
+    Subsec. (a)(5)(B). [Pub. L. 113–128, § 512(hh)(3)(A)][/us/pl/113/128/s512/hh/3/A], substituted “any training program provided by a State pursuant to title I of the Workforce Innovation and Opportunity Act” for “any training program provided by a State pursuant to title I of the Workforce Investment Act of 1998”.
 
     2011—[Pub. L. 112–40][/us/pl/112/40], §§ 201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 and 2010 Amendment and Effective and Termination Dates of 2011 Revival notes below.
 
@@ -459,6 +473,10 @@
 
     Subsec. (b). [Pub. L. 97–35][/us/pl/97/35] substituted provisions limiting the maximum amount of travel expenses on the basis of amounts paid under Federal travel regulations for provisions establishing specific maximum amounts for subsistence and transportation expenses.
 
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+
  __Effective and Termination Dates of 2011 Revival__ 
 
     For temporary revival and applicability of provisions as in effect on Feb. 12, 2011, see sections 201(b), (c) and 233 of [Pub. L. 112–40][/us/pl/112/40], set out as notes preceding [section 2271 of this title][/us/usc/t19/s2271]. For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to [section 233(b) of Pub. L. 112–40][/us/pl/112/40/s233/b], see [section 233 of Pub. L. 112–40][/us/pl/112/40/s233], set out as a note preceding [section 2271 of this title][/us/usc/t19/s2271].
@@ -546,7 +564,12 @@
 [/us/stat/124/3613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3613
 [/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
 [/us/stat/125/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F403
+[/us/pl/113/128/s512/hh/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fhh%2F3
+[/us/stat/128/1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1720
 [/us/pl/112/40/s233/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs233%2Fb
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
 [/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
@@ -567,6 +590,9 @@
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/111/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F344
 [/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
+[/us/pl/113/128/s512/hh/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fhh%2F3%2FB
+[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/pl/113/128/s512/hh/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fhh%2F3%2FA
 [/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
 [/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
 [/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
@@ -631,6 +657,7 @@
 [/us/pl/99/272/s13004/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs13004%2Fa%2F5
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
 [/us/usc/t19/s2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2271
 [/us/pl/112/40/s233/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs233%2Fb
