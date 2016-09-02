@@ -15,7 +15,7 @@
 
 ## § 1536. Assistance to Congressional Budget Office
 
-The Director of the Office of Management and Budget shall—
+    The Director of the Office of Management and Budget shall—
 
     (1) collect from agencies the statements prepared under [section 1532 of this title][/us/usc/t2/s1532]; and
 

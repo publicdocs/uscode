@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1" data-uslm-ref="/us/usc/t2/s1">1.</a>  </td>
 
     <td> Time for election of Senators.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1a" data-uslm-ref="/us/usc/t2/s1a">1a.</a>  </td>
 
     <td> Election to be certified by governor.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1b" data-uslm-ref="/us/usc/t2/s1b">1b.</a>  </td>
 
     <td> Countersignature of certificate of election.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs2" data-uslm-ref="/us/usc/t2/s2">2.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs2a" data-uslm-ref="/us/usc/t2/s2a">2a.</a>  </td>
 
     <td> Reapportionment of Representatives; time and manner; existing decennial census figures as basis; statement by President; duty of clerk.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs2b" data-uslm-ref="/us/usc/t2/s2b">2b.</a>  </td>
 
     <td> Number of Representatives from each State in 78th and subsequent Congresses.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs2c" data-uslm-ref="/us/usc/t2/s2c">2c.</a>  </td>
 
     <td> Number of Congressional Districts; number of Representatives from each District.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 3, 4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs3" data-uslm-ref="/us/usc/t2/s3">3</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs4" data-uslm-ref="/us/usc/t2/s4">4.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs5" data-uslm-ref="/us/usc/t2/s5">5.</a>  </td>
 
     <td> Nominations for Representatives at large.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 6.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs6" data-uslm-ref="/us/usc/t2/s6">6.</a>  </td>
 
     <td> Reduction of representation.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 7.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs7" data-uslm-ref="/us/usc/t2/s7">7.</a>  </td>
 
     <td> Time of election.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 8.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs8" data-uslm-ref="/us/usc/t2/s8">8.</a>  </td>
 
     <td> Vacancies.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 9.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs9" data-uslm-ref="/us/usc/t2/s9">9.</a>  </td>
 
     <td> Voting for Representatives.  </td>
 

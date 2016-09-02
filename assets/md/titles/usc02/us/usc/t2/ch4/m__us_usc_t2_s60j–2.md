@@ -21,7 +21,7 @@
 
  __Inapplicability of Section to Certain Employees On and After__  __October 1, 1983__ 
 
-[Section 60j of this title][/us/usc/t2/s60j], referred to in text, not to apply, on or after Oct. 1, 1983, to any individual whose pay is disbursed by the Secretary of the Senate except for individuals entitled to longevity compensation prior to Oct. 1, 1983, on the basis of service performed prior to such date, see [section 60j–4 of this title][/us/usc/t2/s60j–4].
+    [Section 60j of this title][/us/usc/t2/s60j], referred to in text, not to apply, on or after Oct. 1, 1983, to any individual whose pay is disbursed by the Secretary of the Senate except for individuals entitled to longevity compensation prior to Oct. 1, 1983, on the basis of service performed prior to such date, see [section 60j–4 of this title][/us/usc/t2/s60j–4].
 
  __Amendments__ 
 

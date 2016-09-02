@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s84a–1.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s85 to 88a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs84b)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s84a–1.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s88b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs84b)
 
 ## § 84b. Omitted
 
@@ -23,9 +23,21 @@
 
     Provisions similar to those in this section were contained in appropriation acts which were classified to [section 117a of this title][/us/usc/t2/s117a].
 
+§§ 85 to 88a. __Repealed.__  __[__  __Pub. L. 104–186, title II, § 204(33)__  __][/us/pl/104/186/s204/33]__  __, (34)(A),__  __Aug. 20, 1996__  __,__  __[__  __110 Stat. 1734__  __][/us/stat/110/1734]__ 
+
+    Section 85, [act Mar. 3, 1901, ch. 830, § 1][/us/act/1901-03-03/ch830/s1], [31 Stat. 968][/us/stat/31/968], related to performance of duties by employees of House.
+
+    Section 86, [act Mar. 3, 1901, ch. 830, § 1][/us/act/1901-03-03/ch830/s1], [31 Stat. 968][/us/stat/31/968], related to division of salaries of employees of House.
+
+    Section 87, [act Mar. 3, 1901, ch. 830, § 1][/us/act/1901-03-03/ch830/s1], [31 Stat. 968][/us/stat/31/968], related to requiring or permitting employees of House to sublet duties.
+
+    Section 88, [act Mar. 3, 1901, ch. 830, § 1][/us/act/1901-03-03/ch830/s1], [31 Stat. 968][/us/stat/31/968], prescribed age limits of twelve and eighteen for service as pages in House of Representatives but made the restriction inapplicable to chief pages, riding pages, and telephone pages. See [section 88b–1(b) of this title][/us/usc/t2/s88b–1/b].
+
+    Section 88a, [act Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], title II, § 243, [60 Stat. 839][/us/stat/60/839], related to education of Congressional and Supreme Court pages, authorized appropriations, and allowed pages to elect to attend private or parochial schools.
+
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s84a–1.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s85 to 88a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs84b)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s84a–1.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s88b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs84b)
 
 ----------
 ----------
@@ -45,5 +57,18 @@
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/usc/t2/s117a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs117a
+[/us/pl/104/186/s204/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs204%2F33
+[/us/stat/110/1734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1734
+[/us/act/1901-03-03/ch830/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch830%2Fs1
+[/us/stat/31/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F968
+[/us/act/1901-03-03/ch830/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch830%2Fs1
+[/us/stat/31/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F968
+[/us/act/1901-03-03/ch830/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch830%2Fs1
+[/us/stat/31/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F968
+[/us/act/1901-03-03/ch830/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch830%2Fs1
+[/us/stat/31/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F968
+[/us/usc/t2/s88b–1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs88b%E2%80%931%2Fb
+[/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
+[/us/stat/60/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F839
 
 

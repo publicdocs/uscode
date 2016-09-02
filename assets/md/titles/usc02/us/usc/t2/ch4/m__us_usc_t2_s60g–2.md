@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60g, 60g–1.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60h.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60g%E2%80%932)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60f–1.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60h.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60g%E2%80%932)
 
 ## § 60g–2. Lyndon Baines Johnson congressional interns
 
@@ -63,7 +63,7 @@ Section 3 of House Resolution No. 420, Ninety-third Congress, as enacted into pe
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60g, 60g–1.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60h.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60g%E2%80%932)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60f–1.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60h.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60g%E2%80%932)
 
 ----------
 ----------

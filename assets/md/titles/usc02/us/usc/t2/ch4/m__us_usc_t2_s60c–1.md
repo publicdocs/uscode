@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60b, 60c.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60c–2.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60c%E2%80%931)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60a–2a.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60c–2.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60c%E2%80%931)
 
 ## § 60c–1. Vice President, Senators, officers, and employees paid by Secretary of Senate; payment of salary; advance payment
 
-The compensation of the Vice President, Senators, and officers and employees, whose compensation is disbursed by the Secretary of the Senate, shall be payable on the fifth day of the month following the month in which such compensation accrued, except that—
+    The compensation of the Vice President, Senators, and officers and employees, whose compensation is disbursed by the Secretary of the Senate, shall be payable on the fifth day of the month following the month in which such compensation accrued, except that—
 
     (1) Repealed. [Pub. L. 97–51, § 111(a)(1)][/us/pl/97/51/s111/a/1], Oct. 1, 1981, [95 Stat. 962][/us/stat/95/962];
 
@@ -23,7 +23,7 @@ The compensation of the Vice President, Senators, and officers and employees, wh
 
     (3) any part of such compensation accrued for any month may, in the discretion of the Secretary of the Senate, be paid prior to the day specified in the preceding provisions of this section.
 
-        For purposes of title 26 and for accounting and reporting purposes, disbursements made in accordance with this section on the fifth day of a month, or on the next preceding workday if such fifth day falls on Saturday, Sunday, or a legal holiday, shall be considered to have been made on the last day of the preceding month.
+    For purposes of title 26 and for accounting and reporting purposes, disbursements made in accordance with this section on the fifth day of a month, or on the next preceding workday if such fifth day falls on Saturday, Sunday, or a legal holiday, shall be considered to have been made on the last day of the preceding month.
 
 ([Pub. L. 86–426, § 1][/us/pl/86/426/s1], Apr. 20, 1960, [74 Stat. 53][/us/stat/74/53]; [Pub. L. 92–136, § 6][/us/pl/92/136/s6], Oct. 11, 1971, [85 Stat. 378][/us/stat/85/378]; [Pub. L. 96–38, title I, § 108(a)][/us/pl/96/38/s108/a], July 25, 1979, [93 Stat. 113][/us/stat/93/113]; [Pub. L. 97–51][/us/pl/97/51], §§ 111(a), 112(a), Oct. 1, 1981, [95 Stat. 962][/us/stat/95/962]; [Pub. L. 97–257, title I, § 105(a)][/us/pl/97/257/s105/a], Sept. 10, 1982, [96 Stat. 849][/us/stat/96/849]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
 
@@ -73,7 +73,7 @@ The compensation of the Vice President, Senators, and officers and employees, wh
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60b, 60c.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60c–2.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60c%E2%80%931)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60a–2a.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60c–2.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60c%E2%80%931)
 
 ----------
 ----------

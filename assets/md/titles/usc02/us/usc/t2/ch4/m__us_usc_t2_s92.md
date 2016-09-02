@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s90, 91.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s92–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs92)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s89a.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s92–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs92)
 
 ## § 92. Employees of Members of House of Representatives
 
@@ -97,7 +97,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s90, 91.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s92–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs92)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s89a.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s92–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs92)
 
 ----------
 ----------

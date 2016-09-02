@@ -15,7 +15,7 @@
 
 ## § 479. Coordination of activities with National Science Foundation
 
-The Office shall maintain a continuing liaison with the National Science Foundation with respect to—
+    The Office shall maintain a continuing liaison with the National Science Foundation with respect to—
 
     (1) grants and contracts formulated or activated by the Foundation which are for purposes of technology assessment; and
 

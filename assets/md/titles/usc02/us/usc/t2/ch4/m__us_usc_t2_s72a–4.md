@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s72a–2, 72a–3.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s72b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72a%E2%80%934)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s72a–1i.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s72b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72a%E2%80%934)
 
 ## § 72a–4. Repealed. [Pub. L. 90–57, § 105(i)(1)][/us/pl/90/57/s105/i/1], July 28, 1967, [81 Stat. 144][/us/stat/81/144]
 
@@ -23,7 +23,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s72a–2, 72a–3.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s72b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72a%E2%80%934)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s72a–1i.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s72b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72a%E2%80%934)
 
 ----------
 ----------

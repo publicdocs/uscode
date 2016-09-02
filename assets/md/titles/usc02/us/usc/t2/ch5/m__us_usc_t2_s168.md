@@ -15,7 +15,7 @@
 
 ## § 168. Constitution of the United States; preparation and publication of revised edition; annotations; supplements; decennial editions and supplements
 
-The Librarian of Congress shall have prepared—
+    The Librarian of Congress shall have prepared—
 
     (1) a hardbound revised edition of the Constitution of the United States of America—Analysis and Interpretation, published as Senate Document Numbered 39, Eighty-eighth Congress (referred to hereinafter as the “Constitution Annotated”), which shall contain annotations of decisions of the Supreme Court of the United States through the end of the October 1971 term of the Supreme Court, construing provisions of the Constitution;
 

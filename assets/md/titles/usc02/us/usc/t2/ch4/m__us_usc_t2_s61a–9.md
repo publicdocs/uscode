@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s61a–6 to 61a–8.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s61a–9a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61a%E2%80%939)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s61a–5.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s61a–9a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61a%E2%80%939)
 
 ## § 61a–9. Advancement by Secretary of Senate of travel funds to employees under his jurisdiction for Federal Election Campaign Act travel expenses
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s61a–6 to 61a–8.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s61a–9a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61a%E2%80%939)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s61a–5.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s61a–9a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61a%E2%80%939)
 
 ----------
 ----------

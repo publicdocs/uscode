@@ -15,7 +15,7 @@
 
 ## § 1102. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) The term “Center” means the John C. Stennis Center for Public Service Training and Development established under [section 1103(a) of this title][/us/usc/t2/s1103/a].
 

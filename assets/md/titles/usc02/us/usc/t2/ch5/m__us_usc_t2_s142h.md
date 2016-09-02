@@ -15,7 +15,7 @@
 
 ## § 142h. Biomedical Ethics Board; disbursement of funds, computation and disbursement of basic pay, and provision of financial management services and support by Library of Congress
 
-Effective October 1, 1988, and to continue thereafter, the Disbursing Officer of the Library of Congress is authorized to—
+    Effective October 1, 1988, and to continue thereafter, the Disbursing Officer of the Library of Congress is authorized to—
 
     (1) disburse funds appropriated for the Biomedical Ethics Board;
 
@@ -23,7 +23,7 @@ Effective October 1, 1988, and to continue thereafter, the Disbursing Officer of
 
     (3) provide financial management services and support to the Biomedical Ethics Board,
 
-        in the same manner as provided with respect to the Office of Technology Assessment under [section 142f of this title][/us/usc/t2/s142f].
+    in the same manner as provided with respect to the Office of Technology Assessment under [section 142f of this title][/us/usc/t2/s142f].
 
 ([Pub. L. 101–163, title I][/us/pl/101/163], Nov. 21, 1989, [103 Stat. 1054][/us/stat/103/1054].)
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch10/m__us_usc_t2_s292.md) | [Next](./../../../..//us/usc/t2/ch10/m__us_usc_t2_s293a to 293c.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs293)
+[Previous](./../../../..//us/usc/t2/ch10/m__us_usc_t2_s292.md) | [Next](./../../../..//us/usc/t2/ch10/m__us_usc_t2_s294.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs293)
 
 ## § 293. Compensation schedules
 
@@ -59,9 +59,17 @@
 
     Increases in compensation for House officers and employees under authority of Federal Salary Act of 1967 ([Pub. L. 90–206][/us/pl/90/206]), Federal Pay Comparability Act of 1970 ([Pub. L. 91–656][/us/pl/91/656]), and Legislative Branch Appropriations Act, 1988 ([Pub. L. 100–202][/us/pl/100/202]), see sections 60a–2 and 60a–2a of this title, and Salary Directives of Speaker of the House, set out as notes under those sections.
 
+§§ 293a to 293c. __Omitted__ 
+
+    Section 293a, [Pub. L. 89–301, § 11(c)][/us/pl/89/301/s11/c], Oct. 29, 1965, [79 Stat. 1120][/us/stat/79/1120], required compensation of employees of House of Representatives whose compensation is fixed under this chapter to be increased by amounts equal to increases provided by [section 60e–12(a) of this title][/us/usc/t2/s60e–12/a].
+
+    Section 293b, [Pub. L. 89–504, title III, § 302(c)][/us/pl/89/504/s302/c], July 18, 1966, [80 Stat. 295][/us/stat/80/295], required compensation of employees of House of Representatives whose compensation is fixed under this chapter to be increased by amounts equal to increases provided by [section 60e–13(a) of this title][/us/usc/t2/s60e–13/a].
+
+    Section 293c, [Pub. L. 90–206, title II, § 214(c)][/us/pl/90/206/s214/c], Dec. 16, 1967, [81 Stat. 636][/us/stat/81/636], required compensation of employees of House of Representatives whose compensation is fixed under this chapter to be increased by amounts equal to increases provided by [section 60e–14(a) of this title][/us/usc/t2/s60e–14/a].
+
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch10/m__us_usc_t2_s292.md) | [Next](./../../../..//us/usc/t2/ch10/m__us_usc_t2_s293a to 293c.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs293)
+[Previous](./../../../..//us/usc/t2/ch10/m__us_usc_t2_s292.md) | [Next](./../../../..//us/usc/t2/ch10/m__us_usc_t2_s294.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs293)
 
 ----------
 ----------
@@ -90,5 +98,14 @@
 [/us/pl/90/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206
 [/us/pl/91/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F656
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
+[/us/pl/89/301/s11/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F301%2Fs11%2Fc
+[/us/stat/79/1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1120
+[/us/usc/t2/s60e–12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60e%E2%80%9312%2Fa
+[/us/pl/89/504/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F504%2Fs302%2Fc
+[/us/stat/80/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F295
+[/us/usc/t2/s60e–13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60e%E2%80%9313%2Fa
+[/us/pl/90/206/s214/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs214%2Fc
+[/us/stat/81/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F636
+[/us/usc/t2/s60e–14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60e%E2%80%9314%2Fa
 
 

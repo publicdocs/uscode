@@ -15,7 +15,7 @@
 
 ## § 431. Definitions
 
-When used in this Act:
+    When used in this Act:
 
     (1)
 
@@ -103,9 +103,7 @@ When used in this Act:
 
             (ix)
 
-             the payment by a State or local committee of a political party of the costs of campaign materials (such as pins, bumper stickers, handbills, brochures, posters, party tabloids, and yard signs) used by such committee in connection with volunteer activities on behalf of nominees of such party: Provided, That—
-
-                (1) such payments are not for the costs of campaign materials or activities used in connection with any broadcasting, newspaper, magazine, billboard, direct mail, or similar type of general public communication or political advertising;
+             the payment by a State or local committee of a political party of the costs of campaign materials (such as pins, bumper stickers, handbills, brochures, posters, party tabloids, and yard signs) used by such committee in connection with volunteer activities on behalf of nominees of such party: Provided, That—    (1) such payments are not for the costs of campaign materials or activities used in connection with any broadcasting, newspaper, magazine, billboard, direct mail, or similar type of general public communication or political advertising;
 
                 (2) such payments are made from contributions subject to the limitations and prohibitions of this Act; and
 
@@ -115,9 +113,7 @@ When used in this Act:
 
             (xi)
 
-             the payment by a State or local committee of a political party of the costs of voter registration and get-out-the-vote activities conducted by such committee on behalf of nominees of such party for President and Vice President: Provided, That—
-
-                (1) such payments are not for the costs of campaign materials or activities used in connection with any broadcasting, newspaper, magazine, billboard, direct mail, or similar type of general public communication or political advertising;
+             the payment by a State or local committee of a political party of the costs of voter registration and get-out-the-vote activities conducted by such committee on behalf of nominees of such party for President and Vice President: Provided, That—    (1) such payments are not for the costs of campaign materials or activities used in connection with any broadcasting, newspaper, magazine, billboard, direct mail, or similar type of general public communication or political advertising;
 
                 (2) such payments are made from contributions subject to the limitations and prohibitions of this Act; and
 
@@ -167,9 +163,7 @@ When used in this Act:
 
             (viii)
 
-             the payment by a State or local committee of a political party of the costs of campaign materials (such as pins, bumper stickers, handbills, brochures, posters, party tabloids, and yard signs) used by such committee in connection with volunteer activities on behalf of nominees of such party: Provided, That—
-
-                (1) such payments are not for the costs of campaign materials or activities used in connection with any broadcasting, newspaper, magazine, billboard, direct mail, or similar type of general public communication or political advertising;
+             the payment by a State or local committee of a political party of the costs of campaign materials (such as pins, bumper stickers, handbills, brochures, posters, party tabloids, and yard signs) used by such committee in connection with volunteer activities on behalf of nominees of such party: Provided, That—    (1) such payments are not for the costs of campaign materials or activities used in connection with any broadcasting, newspaper, magazine, billboard, direct mail, or similar type of general public communication or political advertising;
 
                 (2) such payments are made from contributions subject to the limitations and prohibitions of this Act; and
 
@@ -177,9 +171,7 @@ When used in this Act:
 
             (ix)
 
-             the payment by a State or local committee of a political party of the costs of voter registration and get-out-the-vote activities conducted by such committee on behalf of nominees of such party for President and Vice President: Provided, That—
-
-                (1) such payments are not for the costs of campaign materials or activities used in connection with any broadcasting, newspaper, magazine, billboard, direct mail, or similar type of general public communication or political advertising;
+             the payment by a State or local committee of a political party of the costs of voter registration and get-out-the-vote activities conducted by such committee on behalf of nominees of such party for President and Vice President: Provided, That—    (1) such payments are not for the costs of campaign materials or activities used in connection with any broadcasting, newspaper, magazine, billboard, direct mail, or similar type of general public communication or political advertising;
 
                 (2) such payments are made from contributions subject to the limitations and prohibitions of this Act; and
 
@@ -397,7 +389,9 @@ When used in this Act:
 
 >                 “(i) __In general.—__ 
 
->                 Subject to clauses (ii) and (iii), the national committee of a political party may use the amount described in subparagraph (A) prior to January 1, 2003, solely for the purpose of—         “(I) retiring outstanding debts or obligations that were incurred solely in connection with an election held prior to November 6, 2002; or
+>                 Subject to clauses (ii) and (iii), the national committee of a political party may use the amount described in subparagraph (A) prior to January 1, 2003, solely for the purpose of—
+
+>                          “(I) retiring outstanding debts or obligations that were incurred solely in connection with an election held prior to November 6, 2002; or
 
 >                          “(II) paying expenses or retiring outstanding debts or paying for obligations that were incurred solely in connection with any runoff election, recount, or election contest resulting from an election held prior to November 6, 2002.
 
@@ -515,7 +509,11 @@ When used in this Act:
 
 >             The Comptroller General shall determine—
 
->                 “(i) the number of candidates who have chosen to run for public office with clean money clean elections including—         “(I) the office for which they were candidates;
+>                 “(i)
+
+>                  the number of candidates who have chosen to run for public office with clean money clean elections including—
+
+>                          “(I) the office for which they were candidates;
 
 >                          “(II) whether the candidate was an incumbent or a challenger; and
 

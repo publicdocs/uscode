@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s61g–1 to 61g–3.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s61g–5.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61g%E2%80%934)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s61g.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s61g–5.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61g%E2%80%934)
 
 ## § 61g–4. Appointment and compensation of employees by Secretary of Conference of Majority of Senate and Secretary of Conference of Minority of Senate
 
@@ -33,7 +33,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s61g–1 to 61g–3.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s61g–5.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61g%E2%80%934)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s61g.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s61g–5.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61g%E2%80%934)
 
 ----------
 ----------

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s85 to 88a.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s88b–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs88b)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s84b.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s88b–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs88b)
 
 ## § 88b. Education of other minors who are Senate employees
 
@@ -31,7 +31,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s85 to 88a.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s88b–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs88b)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s84b.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s88b–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs88b)
 
 ----------
 ----------

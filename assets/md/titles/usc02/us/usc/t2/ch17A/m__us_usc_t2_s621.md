@@ -15,7 +15,7 @@
 
 ## § 621. Congressional declaration of purpose
 
-The Congress declares that it is essential—
+    The Congress declares that it is essential—
 
     (1) to assure effective congressional control over the budgetary process;
 

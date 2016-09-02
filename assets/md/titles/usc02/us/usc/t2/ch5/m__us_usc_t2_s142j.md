@@ -15,7 +15,7 @@
 
 ## § 142j. John C. Stennis Center for Public Service Training and Development; disbursement of funds, computation and disbursement of basic pay, and provision of financial management services and support by Library of Congress; payment for services
 
-From and after October 1, 1988, the Library of Congress is authorized to—
+    From and after October 1, 1988, the Library of Congress is authorized to—
 
     (1) disburse funds appropriated for the John C. Stennis Center for Public Service Training and Development;
 

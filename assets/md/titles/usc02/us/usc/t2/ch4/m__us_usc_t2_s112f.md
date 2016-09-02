@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s112e.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s § 112g.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs112f)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s112e.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s112g.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs112f)
 
 ## § 112f. Incidental use of equipment and supplies
 
@@ -31,7 +31,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s112e.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s § 112g.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs112f)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s112e.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s112g.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs112f)
 
 ----------
 ----------

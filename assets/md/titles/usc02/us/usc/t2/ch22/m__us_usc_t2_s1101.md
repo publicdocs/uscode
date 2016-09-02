@@ -15,7 +15,7 @@
 
 ## § 1101. Congressional findings
 
-The Congress makes the following findings:
+    The Congress makes the following findings:
 
     (1) Senator John C. Stennis of the State of Mississippi has served his State and country with distinction for more than 60 years as a public servant, including service in the United States Senate for a period of 41 years.
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 288.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs288" data-uslm-ref="/us/usc/t2/s288">288.</a>  </td>
 
     <td> Office of Senate Legal Counsel.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 288a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs288a" data-uslm-ref="/us/usc/t2/s288a">288a.</a>  </td>
 
     <td> Senate Joint Leadership Group.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 288b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs288b" data-uslm-ref="/us/usc/t2/s288b">288b.</a>  </td>
 
     <td> Requirements for authorizing representation activity.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 288c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs288c" data-uslm-ref="/us/usc/t2/s288c">288c.</a>  </td>
 
     <td> Defending the Senate, committee, subcommittee, member, officer, or employee of Senate.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 288d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs288d" data-uslm-ref="/us/usc/t2/s288d">288d.</a>  </td>
 
     <td> Enforcement of Senate subpena or order.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 288e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs288e" data-uslm-ref="/us/usc/t2/s288e">288e.</a>  </td>
 
     <td> Intervention or appearance.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 288f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs288f" data-uslm-ref="/us/usc/t2/s288f">288f.</a>  </td>
 
     <td> Immunity proceedings.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 288g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs288g" data-uslm-ref="/us/usc/t2/s288g">288g.</a>  </td>
 
     <td> Advisory and other functions.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 288h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs288h" data-uslm-ref="/us/usc/t2/s288h">288h.</a>  </td>
 
     <td> Defense of certain constitutional powers.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 288i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs288i" data-uslm-ref="/us/usc/t2/s288i">288i.</a>  </td>
 
     <td> Representation conflict or inconsistency.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 288j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs288j" data-uslm-ref="/us/usc/t2/s288j">288j.</a>  </td>
 
     <td> Consideration of resolutions to direct counsel.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 288k.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs288k" data-uslm-ref="/us/usc/t2/s288k">288k.</a>  </td>
 
     <td> Attorney General relieved of responsibility.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 288l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs288" data-uslm-ref="/us/usc/t2/s288">288</a>l.  </td>
 
     <td> Procedural provisions.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 288m.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs288m" data-uslm-ref="/us/usc/t2/s288m">288m.</a>  </td>
 
     <td> Contingent fund.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 288n.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs288n" data-uslm-ref="/us/usc/t2/s288n">288n.</a>  </td>
 
     <td> Travel and related expenses.  </td>
 

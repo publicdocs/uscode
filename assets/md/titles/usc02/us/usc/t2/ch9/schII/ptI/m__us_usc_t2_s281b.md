@@ -15,7 +15,7 @@
 
 ## § 281b. Functions
 
-The functions of the Office shall be as follows:
+    The functions of the Office shall be as follows:
 
     (1) Upon request of the managers on the part of the House at any conference on the disagreeing votes of the two Houses, to advise and assist the managers on the part of the House in the course of the conference, and to assist the committee of conference in the preparation of the conference report and any accompanying explanatory statement.
 

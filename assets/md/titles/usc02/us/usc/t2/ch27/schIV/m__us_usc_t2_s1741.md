@@ -15,7 +15,7 @@
 
 ## § 1741. Definitions
 
-As used in this chapter:
+    As used in this chapter:
 
     (1) The term “Librarian” means the Librarian of Congress.
 

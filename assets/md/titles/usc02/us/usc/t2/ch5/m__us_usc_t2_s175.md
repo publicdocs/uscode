@@ -15,7 +15,7 @@
 
 ## § 175. Administrative provisions
 
-The Librarian of Congress, in carrying out the Center’s functions, is authorized to—
+    The Librarian of Congress, in carrying out the Center’s functions, is authorized to—
 
     (1) prescribe such regulations as he deems necessary;
 

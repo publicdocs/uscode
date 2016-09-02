@@ -15,7 +15,7 @@
 
 ## § 74d–2. Effective date
 
-The allowance under [section 74d–1 of this title][/us/usc/t2/s74d–1]—
+    The allowance under [section 74d–1 of this title][/us/usc/t2/s74d–1]—
 
     (1) shall be available beginning with the month of May 1997;
 

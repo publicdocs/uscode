@@ -15,7 +15,7 @@
 
 ## § 681. Disclaimer
 
-Nothing contained in this Act, or in any amendments made by this Act, shall be construed as—
+    Nothing contained in this Act, or in any amendments made by this Act, shall be construed as—
 
     (1) asserting or conceding the constitutional powers or limitations of either the Congress or the President;
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s122b to 122g.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s123a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs123)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s122a.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s123a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs123)
 
 ## § 123. Repealed. [June 27, 1956, ch. 453, § 105(m)][/us/act/1956-06-27/ch453/s105/m], [70 Stat. 372][/us/stat/70/372]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s122b to 122g.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s123a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs123)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s122a.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s123a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs123)
 
 ----------
 ----------

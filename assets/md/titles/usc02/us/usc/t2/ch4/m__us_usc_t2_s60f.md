@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60e–3 to 60e–14.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60f–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60f)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60e–2b.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60f–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60f)
 
 ## § 60f. Repealed. [Pub. L. 90–57, § 105(i)(2)][/us/pl/90/57/s105/i/2], July 28, 1967, [81 Stat. 144][/us/stat/81/144]
 
@@ -23,7 +23,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60e–3 to 60e–14.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60f–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60f)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60e–2b.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60f–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60f)
 
 ----------
 ----------

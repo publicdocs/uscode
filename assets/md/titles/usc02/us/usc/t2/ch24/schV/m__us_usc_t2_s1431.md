@@ -15,7 +15,7 @@
 
 ## § 1431. Exercise of rulemaking powers
 
-The provisions of sections 1302(b)(3) and 1384(c) of this title are enacted—
+    The provisions of sections 1302(b)(3) and 1384(c) of this title are enacted—
 
     (1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such they shall be considered as part of the rules of such House, respectively, and such rules shall supersede other rules only to the extent that they are inconsistent therewith; and
 

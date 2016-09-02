@@ -15,7 +15,7 @@
 
 ## § 292. Positions affected
 
-This chapter shall apply to—
+    This chapter shall apply to—
 
     (1) all positions under the Clerk, the Sergeant at Arms, the Chief Administrative Officer, and the Inspector General of the House of Representatives, except the positions of telephone operator and positions on the United States Capitol Police force;
 

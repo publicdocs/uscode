@@ -87,9 +87,7 @@
 
             (A) Liability insurance in the amount of $1,000,000 shall be provided with respect to the operation and use of such mobile office.
 
-            (B) Either of the following inscriptions shall be clearly visible on three sides of such mobile office in letters not less than three inches high:
-
-            “UNITED STATES GOVERNMENT VEHICLE
+            (B) Either of the following inscriptions shall be clearly visible on three sides of such mobile office in letters not less than three inches high:“UNITED STATES GOVERNMENT VEHICLE
 
             “FOR OFFICIAL USE ONLY”;
 

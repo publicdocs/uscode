@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 291.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs291" data-uslm-ref="/us/usc/t2/s291">291.</a>  </td>
 
     <td> Congressional declaration of purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 292.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs292" data-uslm-ref="/us/usc/t2/s292">292.</a>  </td>
 
     <td> Positions affected.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 293.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs293" data-uslm-ref="/us/usc/t2/s293">293.</a>  </td>
 
     <td> Compensation schedules.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 293a to 293c.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs293a" data-uslm-ref="/us/usc/t2/s293a">293a</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs293c" data-uslm-ref="/us/usc/t2/s293c">293c.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 294.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs294" data-uslm-ref="/us/usc/t2/s294">294.</a>  </td>
 
     <td> Position standards and descriptions.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 295.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs295" data-uslm-ref="/us/usc/t2/s295">295.</a>  </td>
 
     <td> Placement of positions in compensation schedules.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 296.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs296" data-uslm-ref="/us/usc/t2/s296">296.</a>  </td>
 
     <td> Step increases; waiting periods; service in Armed Forces; automatic advancement.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 297.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs297" data-uslm-ref="/us/usc/t2/s297">297.</a>  </td>
 
     <td> Appointments and reclassifications to higher compensation levels.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 298.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs298" data-uslm-ref="/us/usc/t2/s298">298.</a>  </td>
 
     <td> Reductions in compensation level.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 299.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs299" data-uslm-ref="/us/usc/t2/s299">299.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 300.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs300" data-uslm-ref="/us/usc/t2/s300">300.</a>  </td>
 
     <td> Establishment of positions; payment from applicable accounts.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs301" data-uslm-ref="/us/usc/t2/s301">301.</a>  </td>
 
     <td> Preservation of existing appointing authorities.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs302" data-uslm-ref="/us/usc/t2/s302">302.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs303" data-uslm-ref="/us/usc/t2/s303">303.</a>  </td>
 
     <td> Dual compensation.  </td>
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch2/m__us_usc_t2_s29b, 29c.md) | [Next](./../../../..//us/usc/t2/ch2/m__us_usc_t2_s30.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs29d)
+[Previous](./../../../..//us/usc/t2/ch2/m__us_usc_t2_s29a.md) | [Next](./../../../..//us/usc/t2/ch2/m__us_usc_t2_s30.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs29d)
 
 ## § 29d. Committee on Standards of Official Conduct of House of Representatives
 
@@ -119,7 +119,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch2/m__us_usc_t2_s29b, 29c.md) | [Next](./../../../..//us/usc/t2/ch2/m__us_usc_t2_s30.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs29d)
+[Previous](./../../../..//us/usc/t2/ch2/m__us_usc_t2_s29a.md) | [Next](./../../../..//us/usc/t2/ch2/m__us_usc_t2_s30.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs29d)
 
 ----------
 ----------

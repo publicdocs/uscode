@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t2/ch28/schII/m__us_usc_t2_s § 1820.md) | [Next](./../../../../..//us/usc/t2/ch28/schII/m__us_usc_t2_s1822.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1821)
+[Previous](./../../../../..//us/usc/t2/ch28/schII/m__us_usc_t2_s1820.md) | [Next](./../../../../..//us/usc/t2/ch28/schII/m__us_usc_t2_s1822.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1821)
 
 ## § 1821. Small purchase contracting authority
 
@@ -41,7 +41,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t2/ch28/schII/m__us_usc_t2_s § 1820.md) | [Next](./../../../../..//us/usc/t2/ch28/schII/m__us_usc_t2_s1822.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1821)
+[Previous](./../../../../..//us/usc/t2/ch28/schII/m__us_usc_t2_s1820.md) | [Next](./../../../../..//us/usc/t2/ch28/schII/m__us_usc_t2_s1822.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1821)
 
 ----------
 ----------

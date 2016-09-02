@@ -15,7 +15,7 @@
 
 ## § 471. Congressional findings and declaration of purpose
 
-The Congress hereby finds and declares that:
+    The Congress hereby finds and declares that:
 
     (a)
 

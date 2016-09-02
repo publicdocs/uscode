@@ -21,9 +21,7 @@
 
         (1) following the objection to a unanimous consent to proceeding to, and, or passage of, a measure or matter on their behalf, submits the notice of intent in writing to the appropriate leader or their designee; and
 
-        (2) not later than 6 session days after the submission under paragraph (1), submits for inclusion in the Congressional Record and in the applicable calendar section described in subsection (b) the following notice:
-
-        “I, Senator \_\_\_\_, intend to object to proceedings to \_\_\_\_, dated \_\_\_\_ for the following reasons \_\_\_\_.”.
+        (2) not later than 6 session days after the submission under paragraph (1), submits for inclusion in the Congressional Record and in the applicable calendar section described in subsection (b) the following notice:    “I, Senator \_\_\_\_, intend to object to proceedings to \_\_\_\_, dated \_\_\_\_ for the following reasons \_\_\_\_.”.
 
     (b) __Calendar__ 
 

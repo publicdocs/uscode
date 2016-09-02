@@ -15,7 +15,7 @@
 
 ## § 1404. Election of proceeding
 
-Not later than 90 days after a covered employee receives notice of the end of the period of mediation, but no sooner than 30 days after receipt of such notification, such covered employee may either—
+    Not later than 90 days after a covered employee receives notice of the end of the period of mediation, but no sooner than 30 days after receipt of such notification, such covered employee may either—
 
     (1) file a complaint with the Office in accordance with [section 1405 of this title][/us/usc/t2/s1405], or
 

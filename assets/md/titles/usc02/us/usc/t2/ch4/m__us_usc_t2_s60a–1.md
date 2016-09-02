@@ -181,7 +181,7 @@
 
                               Robert C. Byrd  
 
-    President pro tempore
+President pro tempore
 
     Prior Orders of the President pro tempore of the Senate were issued on the following dates:
 

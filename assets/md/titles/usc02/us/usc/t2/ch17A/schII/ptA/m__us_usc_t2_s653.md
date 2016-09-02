@@ -15,7 +15,7 @@
 
 ## § 653. Analysis by Congressional Budget Office
 
-The Director of the Congressional Budget Office shall, to the extent practicable, prepare for each bill or resolution of a public character reported by any committee of the House of Representatives or the Senate (except the Committee on Appropriations of each House), and submit to such committee—
+    The Director of the Congressional Budget Office shall, to the extent practicable, prepare for each bill or resolution of a public character reported by any committee of the House of Representatives or the Senate (except the Committee on Appropriations of each House), and submit to such committee—
 
     (1) an estimate of the costs which would be incurred in carrying out such bill or resolution in the fiscal year in which it is to become effective and in each of the 4 fiscal years following such fiscal year, together with the basis for each such estimate;
 
@@ -23,7 +23,7 @@ The Director of the Congressional Budget Office shall, to the extent practicable
 
     (3) a description of each method for establishing a Federal financial commitment contained in such bill or resolution.
 
-        The estimates, comparison, and description so submitted shall be included in the report accompanying such bill or resolution if timely submitted to such committee before such report is filed.
+    The estimates, comparison, and description so submitted shall be included in the report accompanying such bill or resolution if timely submitted to such committee before such report is filed.
 
 ([Pub. L. 93–344, title IV, § 402][/us/pl/93/344/s402], formerly § 403, July 12, 1974, [88 Stat. 320][/us/stat/88/320]; [Pub. L. 97–108, § 2(a)][/us/pl/97/108/s2/a], Dec. 23, 1981, [95 Stat. 1510][/us/stat/95/1510]; [Pub. L. 99–177, title II, § 213][/us/pl/99/177/s213], Dec. 12, 1985, [99 Stat. 1059][/us/stat/99/1059]; [Pub. L. 104–4, title I, § 104][/us/pl/104/4/s104], Mar. 22, 1995, [109 Stat. 62][/us/stat/109/62]; renumbered § 402, [Pub. L. 105–33, title X, § 10116(c)(1)][/us/pl/105/33/s10116/c/1], Aug. 5, 1997, [111 Stat. 692][/us/stat/111/692].)
 

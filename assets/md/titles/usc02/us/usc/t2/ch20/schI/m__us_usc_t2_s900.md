@@ -287,7 +287,9 @@
 
 >                 “(i) __In general.—__ 
 
->                 Not later than November 23, 2011, the joint committee shall vote on—         “(I) a report that contains a detailed statement of the findings, conclusions, and recommendations of the joint committee and the estimate of the Congressional Budget Office required by paragraph (5)(D)(ii); and
+>                 Not later than November 23, 2011, the joint committee shall vote on—
+
+>                          “(I) a report that contains a detailed statement of the findings, conclusions, and recommendations of the joint committee and the estimate of the Congressional Budget Office required by paragraph (5)(D)(ii); and
 
 >                          “(II) proposed legislative language to carry out such recommendations as described in subclause (I), which shall include a statement of the deficit reduction achieved by the legislation over the period of fiscal years 2012 to 2021.
 
@@ -387,9 +389,13 @@
 
 >                 “(ii) __Hearing procedures and responsibilities of co-chairs.—__ 
 
->                          “(I) Announcement.—The Co-Chairs of the joint committee shall make a public announcement of the date, place, time, and subject matter of any hearing to be conducted, not less than 7 days in advance of such hearing, unless the Co-Chairs determine that there is good cause to begin such hearing at an earlier date.
+>                          “(I) __Announcement.—__ 
 
->                          “(II) Written statement.—A witness appearing before the joint committee shall file a written statement of proposed testimony at least 2 calendar days before the appearance of the witness, unless the requirement is waived by the Co-Chairs, following their determination that there is good cause for failure to comply with such requirement.
+>                     The Co-Chairs of the joint committee shall make a public announcement of the date, place, time, and subject matter of any hearing to be conducted, not less than 7 days in advance of such hearing, unless the Co-Chairs determine that there is good cause to begin such hearing at an earlier date.
+
+>                          “(II) __Written statement.—__ 
+
+>                     A witness appearing before the joint committee shall file a written statement of proposed testimony at least 2 calendar days before the appearance of the witness, unless the requirement is waived by the Co-Chairs, following their determination that there is good cause for failure to comply with such requirement.
 
 >             “(G) __Technical assistance.—__ 
 

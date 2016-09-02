@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1801.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1801" data-uslm-ref="/us/usc/t2/s1801">1801.</a>  </td>
 
     <td> Appointment.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1802.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1802" data-uslm-ref="/us/usc/t2/s1802">1802.</a>  </td>
 
     <td> Compensation.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1803.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1803" data-uslm-ref="/us/usc/t2/s1803">1803.</a>  </td>
 
     <td> Delegation of authority.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1804.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1804" data-uslm-ref="/us/usc/t2/s1804">1804.</a>  </td>
 
     <td> Deputy Architect of the Capitol to act in case of absence, disability, or vacancy.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1805.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1805" data-uslm-ref="/us/usc/t2/s1805">1805.</a>  </td>
 
     <td> Deputy Architect of the Capitol/Chief Operating Officer.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1806, 1807.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1806" data-uslm-ref="/us/usc/t2/s1806">1806</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1807" data-uslm-ref="/us/usc/t2/s1807">1807.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1808.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1808" data-uslm-ref="/us/usc/t2/s1808">1808.</a>  </td>
 
     <td> Inspector General of the Architect of the Capitol.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—GENERAL POWERS AND DUTIES  </td>
 
   <tr>
 
-    <td> 1811.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1811" data-uslm-ref="/us/usc/t2/s1811">1811.</a>  </td>
 
     <td> Powers and duties.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—GENERAL POWERS AND DUTIES  </td>
 
   <tr>
 
-    <td> 1812.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1812" data-uslm-ref="/us/usc/t2/s1812">1812.</a>  </td>
 
     <td> Care and superintendence of Capitol.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—GENERAL POWERS AND DUTIES  </td>
 
   <tr>
 
-    <td> 1813.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1813" data-uslm-ref="/us/usc/t2/s1813">1813.</a>  </td>
 
     <td> Exterior of Capitol.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—GENERAL POWERS AND DUTIES  </td>
 
   <tr>
 
-    <td> 1814.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1814" data-uslm-ref="/us/usc/t2/s1814">1814.</a>  </td>
 
     <td> Repairs of Capitol.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—GENERAL POWERS AND DUTIES  </td>
 
   <tr>
 
-    <td> 1815.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1815" data-uslm-ref="/us/usc/t2/s1815">1815.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—GENERAL POWERS AND DUTIES  </td>
 
   <tr>
 
-    <td> 1816.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1816" data-uslm-ref="/us/usc/t2/s1816">1816.</a>  </td>
 
     <td> Construction contracts.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—GENERAL POWERS AND DUTIES  </td>
 
   <tr>
 
-    <td> 1816a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1816a" data-uslm-ref="/us/usc/t2/s1816a">1816a.</a>  </td>
 
     <td> Design-build contracts.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—GENERAL POWERS AND DUTIES  </td>
 
   <tr>
 
-    <td> 1817.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1817" data-uslm-ref="/us/usc/t2/s1817">1817.</a>  </td>
 
     <td> Transfer of discontinued apparatus to other branches.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—GENERAL POWERS AND DUTIES  </td>
 
   <tr>
 
-    <td> 1817a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1817a" data-uslm-ref="/us/usc/t2/s1817a">1817a.</a>  </td>
 
     <td> Disposition of surplus or obsolete personal property.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—GENERAL POWERS AND DUTIES  </td>
 
   <tr>
 
-    <td> 1818.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1818" data-uslm-ref="/us/usc/t2/s1818">1818.</a>  </td>
 
     <td> Rental or lease of storage space.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER II—GENERAL POWERS AND DUTIES  </td>
 
   <tr>
 
-    <td> 1819.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1819" data-uslm-ref="/us/usc/t2/s1819">1819.</a>  </td>
 
     <td> Computer backup facilities for legislative offices.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER II—GENERAL POWERS AND DUTIES  </td>
 
   <tr>
 
-    <td> 1820.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1820" data-uslm-ref="/us/usc/t2/s1820">1820.</a>  </td>
 
     <td> Acquisition of real property for Capitol Police.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER II—GENERAL POWERS AND DUTIES  </td>
 
   <tr>
 
-    <td> 1821.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1821" data-uslm-ref="/us/usc/t2/s1821">1821.</a>  </td>
 
     <td> Small purchase contracting authority.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER II—GENERAL POWERS AND DUTIES  </td>
 
   <tr>
 
-    <td> 1822.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1822" data-uslm-ref="/us/usc/t2/s1822">1822.</a>  </td>
 
     <td> Leasing of space.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER II—GENERAL POWERS AND DUTIES  </td>
 
   <tr>
 
-    <td> 1823.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1823" data-uslm-ref="/us/usc/t2/s1823">1823.</a>  </td>
 
     <td> Acquisition of real property for Sergeant at Arms and Doorkeeper of the Senate.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER II—GENERAL POWERS AND DUTIES  </td>
 
   <tr>
 
-    <td> 1823a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1823a" data-uslm-ref="/us/usc/t2/s1823a">1823a.</a>  </td>
 
     <td> Acquisition of real property for Library of Congress.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER II—GENERAL POWERS AND DUTIES  </td>
 
   <tr>
 
-    <td> 1824.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1824" data-uslm-ref="/us/usc/t2/s1824">1824.</a>  </td>
 
     <td> Energy and environmental measures in Capitol Complex Master Plan.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER II—GENERAL POWERS AND DUTIES  </td>
 
   <tr>
 
-    <td> 1825.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1825" data-uslm-ref="/us/usc/t2/s1825">1825.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER II—GENERAL POWERS AND DUTIES  </td>
 
   <tr>
 
-    <td> 1826.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1826" data-uslm-ref="/us/usc/t2/s1826">1826.</a>  </td>
 
     <td> Easements for rights-of-way.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER II—GENERAL POWERS AND DUTIES  </td>
 
   <tr>
 
-    <td> 1827.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1827" data-uslm-ref="/us/usc/t2/s1827">1827.</a>  </td>
 
     <td> Support and maintenance during emergencies.  </td>
 
@@ -273,7 +273,7 @@ Part A—General  </td>
 
   <tr>
 
-    <td> 1831.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1831" data-uslm-ref="/us/usc/t2/s1831">1831.</a>  </td>
 
     <td> Human resources program.  </td>
 
@@ -281,7 +281,7 @@ Part A—General  </td>
 
   <tr>
 
-    <td> 1832.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1832" data-uslm-ref="/us/usc/t2/s1832">1832.</a>  </td>
 
     <td> Assignment and reassignment of personnel.  </td>
 
@@ -289,7 +289,7 @@ Part A—General  </td>
 
   <tr>
 
-    <td> 1833.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1833" data-uslm-ref="/us/usc/t2/s1833">1833.</a>  </td>
 
     <td> Lighting, heating, and ventilating House of Representatives.  </td>
 
@@ -297,7 +297,7 @@ Part A—General  </td>
 
   <tr>
 
-    <td> 1834.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1834" data-uslm-ref="/us/usc/t2/s1834">1834.</a>  </td>
 
     <td> Heating and ventilating Senate wing.  </td>
 
@@ -313,7 +313,7 @@ Part B—Compensation  </td>
 
   <tr>
 
-    <td> 1841.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1841" data-uslm-ref="/us/usc/t2/s1841">1841.</a>  </td>
 
     <td> Single per annum gross rates of pay.  </td>
 
@@ -321,7 +321,7 @@ Part B—Compensation  </td>
 
   <tr>
 
-    <td> 1842.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1842" data-uslm-ref="/us/usc/t2/s1842">1842.</a>  </td>
 
     <td> Conversion of existing pay rates.  </td>
 
@@ -329,7 +329,7 @@ Part B—Compensation  </td>
 
   <tr>
 
-    <td> 1843.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1843" data-uslm-ref="/us/usc/t2/s1843">1843.</a>  </td>
 
     <td> Obsolete references.  </td>
 
@@ -337,7 +337,7 @@ Part B—Compensation  </td>
 
   <tr>
 
-    <td> 1844.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1844" data-uslm-ref="/us/usc/t2/s1844">1844.</a>  </td>
 
     <td> Savings provisions.  </td>
 
@@ -345,7 +345,7 @@ Part B—Compensation  </td>
 
   <tr>
 
-    <td> 1845.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1845" data-uslm-ref="/us/usc/t2/s1845">1845.</a>  </td>
 
     <td> Effect on existing law.  </td>
 
@@ -353,7 +353,7 @@ Part B—Compensation  </td>
 
   <tr>
 
-    <td> 1846.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1846" data-uslm-ref="/us/usc/t2/s1846">1846.</a>  </td>
 
     <td> Exemptions.  </td>
 
@@ -361,7 +361,7 @@ Part B—Compensation  </td>
 
   <tr>
 
-    <td> 1847.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1847" data-uslm-ref="/us/usc/t2/s1847">1847.</a>  </td>
 
     <td> Authorization to fix basic rate of compensation for certain positions.  </td>
 
@@ -369,7 +369,7 @@ Part B—Compensation  </td>
 
   <tr>
 
-    <td> 1848.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1848" data-uslm-ref="/us/usc/t2/s1848">1848.</a>  </td>
 
     <td> Compensation of certain positions in Office of Architect of the Capitol.  </td>
 
@@ -377,7 +377,7 @@ Part B—Compensation  </td>
 
   <tr>
 
-    <td> 1849.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1849" data-uslm-ref="/us/usc/t2/s1849">1849.</a>  </td>
 
     <td> Compensation of certain positions under jurisdiction of Architect of the Capitol.  </td>
 
@@ -385,7 +385,7 @@ Part B—Compensation  </td>
 
   <tr>
 
-    <td> 1850.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1850" data-uslm-ref="/us/usc/t2/s1850">1850.</a>  </td>
 
     <td> Compensation of registered nurses.  </td>
 
@@ -393,7 +393,7 @@ Part B—Compensation  </td>
 
   <tr>
 
-    <td> 1851.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1851" data-uslm-ref="/us/usc/t2/s1851">1851.</a>  </td>
 
     <td> Gratuities for survivors of deceased employees.  </td>
 
@@ -401,7 +401,7 @@ Part B—Compensation  </td>
 
   <tr>
 
-    <td> 1852.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1852" data-uslm-ref="/us/usc/t2/s1852">1852.</a>  </td>
 
     <td> Withholding and remittance of State income tax.  </td>
 
@@ -417,7 +417,7 @@ SUBCHAPTER IV—APPROPRIATIONS AND EXPENDITURES  </td>
 
   <tr>
 
-    <td> 1861.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1861" data-uslm-ref="/us/usc/t2/s1861">1861.</a>  </td>
 
     <td> Appropriations under control of Architect of the Capitol.  </td>
 
@@ -425,7 +425,7 @@ SUBCHAPTER IV—APPROPRIATIONS AND EXPENDITURES  </td>
 
   <tr>
 
-    <td> 1862.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1862" data-uslm-ref="/us/usc/t2/s1862">1862.</a>  </td>
 
     <td> Transfer of funds.  </td>
 
@@ -433,7 +433,7 @@ SUBCHAPTER IV—APPROPRIATIONS AND EXPENDITURES  </td>
 
   <tr>
 
-    <td> 1862a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1862a" data-uslm-ref="/us/usc/t2/s1862a">1862a.</a>  </td>
 
     <td> Use of construction project funds to reimburse Capitol Police for related overtime costs.  </td>
 
@@ -441,7 +441,7 @@ SUBCHAPTER IV—APPROPRIATIONS AND EXPENDITURES  </td>
 
   <tr>
 
-    <td> 1863.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1863" data-uslm-ref="/us/usc/t2/s1863">1863.</a>  </td>
 
     <td> Funds out of Contingent Expenses, Architect of the Capitol Appropriation.  </td>
 
@@ -449,7 +449,7 @@ SUBCHAPTER IV—APPROPRIATIONS AND EXPENDITURES  </td>
 
   <tr>
 
-    <td> 1864.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1864" data-uslm-ref="/us/usc/t2/s1864">1864.</a>  </td>
 
     <td> Funds out of Capitol Buildings, Architect of the Capitol Appropriation.  </td>
 
@@ -457,7 +457,7 @@ SUBCHAPTER IV—APPROPRIATIONS AND EXPENDITURES  </td>
 
   <tr>
 
-    <td> 1865.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1865" data-uslm-ref="/us/usc/t2/s1865">1865.</a>  </td>
 
     <td> Capitol Police Buildings and Grounds Account.  </td>
 
@@ -465,7 +465,7 @@ SUBCHAPTER IV—APPROPRIATIONS AND EXPENDITURES  </td>
 
   <tr>
 
-    <td> 1866.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1866" data-uslm-ref="/us/usc/t2/s1866">1866.</a>  </td>
 
     <td> Certification of vouchers.  </td>
 
@@ -473,7 +473,7 @@ SUBCHAPTER IV—APPROPRIATIONS AND EXPENDITURES  </td>
 
   <tr>
 
-    <td> 1867.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1867" data-uslm-ref="/us/usc/t2/s1867">1867.</a>  </td>
 
     <td> Advancement and reimbursement of expenses for flying American flags and providing certification services therefor.  </td>
 
@@ -481,7 +481,7 @@ SUBCHAPTER IV—APPROPRIATIONS AND EXPENDITURES  </td>
 
   <tr>
 
-    <td> 1868.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1868" data-uslm-ref="/us/usc/t2/s1868">1868.</a>  </td>
 
     <td> Semiannual compilation and report of expenditures.  </td>
 
@@ -489,7 +489,7 @@ SUBCHAPTER IV—APPROPRIATIONS AND EXPENDITURES  </td>
 
   <tr>
 
-    <td> 1869.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1869" data-uslm-ref="/us/usc/t2/s1869">1869.</a>  </td>
 
     <td> Advance payments.  </td>
 
@@ -497,7 +497,7 @@ SUBCHAPTER IV—APPROPRIATIONS AND EXPENDITURES  </td>
 
   <tr>
 
-    <td> 1870.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1870" data-uslm-ref="/us/usc/t2/s1870">1870.</a>  </td>
 
     <td> House Historic Buildings Revitalization Trust Fund.  </td>
 
@@ -505,7 +505,7 @@ SUBCHAPTER IV—APPROPRIATIONS AND EXPENDITURES  </td>
 
   <tr>
 
-    <td> 1871.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1871" data-uslm-ref="/us/usc/t2/s1871">1871.</a>  </td>
 
     <td> Expired appropriations available for deposit into Employees’ Compensation Fund.  </td>
 

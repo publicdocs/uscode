@@ -33,7 +33,7 @@ SUBCHAPTER I—ELIMINATION OF DEFICITS IN EXCESS OF MAXIMUM DEFICIT AMOUNT  </td
 
   <tr>
 
-    <td> 900.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs900" data-uslm-ref="/us/usc/t2/s900">900.</a>  </td>
 
     <td> Statement of budget enforcement through sequestration; definitions.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—ELIMINATION OF DEFICITS IN EXCESS OF MAXIMUM DEFICIT AMOUNT  </td
 
   <tr>
 
-    <td> 901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs901" data-uslm-ref="/us/usc/t2/s901">901.</a>  </td>
 
     <td> Enforcing discretionary spending limits.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—ELIMINATION OF DEFICITS IN EXCESS OF MAXIMUM DEFICIT AMOUNT  </td
 
   <tr>
 
-    <td> 901a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs901a" data-uslm-ref="/us/usc/t2/s901a">901a.</a>  </td>
 
     <td> Enforcement of budget goal.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—ELIMINATION OF DEFICITS IN EXCESS OF MAXIMUM DEFICIT AMOUNT  </td
 
   <tr>
 
-    <td> 902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs902" data-uslm-ref="/us/usc/t2/s902">902.</a>  </td>
 
     <td> Enforcing pay-as-you-go.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—ELIMINATION OF DEFICITS IN EXCESS OF MAXIMUM DEFICIT AMOUNT  </td
 
   <tr>
 
-    <td> 903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs903" data-uslm-ref="/us/usc/t2/s903">903.</a>  </td>
 
     <td> Enforcing deficit targets.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—ELIMINATION OF DEFICITS IN EXCESS OF MAXIMUM DEFICIT AMOUNT  </td
 
   <tr>
 
-    <td> 904.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs904" data-uslm-ref="/us/usc/t2/s904">904.</a>  </td>
 
     <td> Reports and orders.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—ELIMINATION OF DEFICITS IN EXCESS OF MAXIMUM DEFICIT AMOUNT  </td
 
   <tr>
 
-    <td> 905.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs905" data-uslm-ref="/us/usc/t2/s905">905.</a>  </td>
 
     <td> Exempt programs and activities.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—ELIMINATION OF DEFICITS IN EXCESS OF MAXIMUM DEFICIT AMOUNT  </td
 
   <tr>
 
-    <td> 906.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs906" data-uslm-ref="/us/usc/t2/s906">906.</a>  </td>
 
     <td> General and special sequestration rules.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—ELIMINATION OF DEFICITS IN EXCESS OF MAXIMUM DEFICIT AMOUNT  </td
 
   <tr>
 
-    <td> 907.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs907" data-uslm-ref="/us/usc/t2/s907">907.</a>  </td>
 
     <td> The baseline.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—ELIMINATION OF DEFICITS IN EXCESS OF MAXIMUM DEFICIT AMOUNT  </td
 
   <tr>
 
-    <td> 907a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs907a" data-uslm-ref="/us/usc/t2/s907a">907a.</a>  </td>
 
     <td> Suspension in event of war or low growth.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—ELIMINATION OF DEFICITS IN EXCESS OF MAXIMUM DEFICIT AMOUNT  </td
 
   <tr>
 
-    <td> 907b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs907b" data-uslm-ref="/us/usc/t2/s907b">907b.</a>  </td>
 
     <td> Modification of Presidential order.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER I—ELIMINATION OF DEFICITS IN EXCESS OF MAXIMUM DEFICIT AMOUNT  </td
 
   <tr>
 
-    <td> 907c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs907c" data-uslm-ref="/us/usc/t2/s907c">907c.</a>  </td>
 
     <td> Flexibility among defense programs, projects, and activities.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER I—ELIMINATION OF DEFICITS IN EXCESS OF MAXIMUM DEFICIT AMOUNT  </td
 
   <tr>
 
-    <td> 907d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs907d" data-uslm-ref="/us/usc/t2/s907d">907d.</a>  </td>
 
     <td> Special reconciliation process.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER I—ELIMINATION OF DEFICITS IN EXCESS OF MAXIMUM DEFICIT AMOUNT  </td
 
   <tr>
 
-    <td> 908, 909.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs908" data-uslm-ref="/us/usc/t2/s908">908</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs909" data-uslm-ref="/us/usc/t2/s909">909.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—OPERATION AND REVIEW  </td>
 
   <tr>
 
-    <td> 921.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs921" data-uslm-ref="/us/usc/t2/s921">921.</a>  </td>
 
     <td> Transferred.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—OPERATION AND REVIEW  </td>
 
   <tr>
 
-    <td> 922.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs922" data-uslm-ref="/us/usc/t2/s922">922.</a>  </td>
 
     <td> Judicial review.  </td>
 

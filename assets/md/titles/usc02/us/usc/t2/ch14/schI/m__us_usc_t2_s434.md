@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t2/ch14/schI/m__us_usc_t2_s433.md) | [Next](./../../../../..//us/usc/t2/ch14/schI/m__us_usc_t2_s435, 436.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs434)
+[Previous](./../../../../..//us/usc/t2/ch14/schI/m__us_usc_t2_s433.md) | [Next](./../../../../..//us/usc/t2/ch14/schI/m__us_usc_t2_s437.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs434)
 
 ## § 434. Reporting requirements
 
@@ -713,9 +713,19 @@
 
     [Pub. L. 93–443, title II, § 204(e)][/us/pl/93/443/s204/e], Oct. 15, 1974, [88 Stat. 1278][/us/stat/88/1278], provided that notwithstanding the amendment to this section as to the time to file reports, nothing in [Pub. L. 93–443][/us/pl/93/443] \[see Short Title note set out under [section 431 of this title][/us/usc/t2/s431]\] is to be construed as waiving the report required to be filed by Jan. 31, 1975 under the provisions of this section as in effect on Oct. 15, 1974, the date of enactment of [Pub. L. 93–443][/us/pl/93/443].
 
+§§ 435, 436. __Repealed.__  __[__  __Pub. L. 96–187, title I, § 105(1)__  __][/us/pl/96/187/s105/1]__  __,__  __Jan. 8, 1980__  __,__  __[__  __93 Stat. 1354__  __][/us/stat/93/1354]__ 
+
+    Section 435, [Pub. L. 92–225, title III, § 305][/us/pl/92/225/s305], Feb. 7, 1972, [86 Stat. 16][/us/stat/86/16]; [Pub. L. 93–443, title II, § 205(a)][/us/pl/93/443/s205/a], Oct. 15, 1974, [88 Stat. 1278][/us/stat/88/1278], related to requirements for campaign advertising.
+
+    Section 436, [Pub. L. 92–225, title III, § 306][/us/pl/92/225/s306], Feb. 7, 1972, [86 Stat. 16][/us/stat/86/16]; [Pub. L. 93–443, title II][/us/pl/93/443], §§ 206, 207, 208(c)(5), Oct. 15, 1974, [88 Stat. 1278][/us/stat/88/1278], 1279, 1286; [Pub. L. 94–283, title I, § 115(a)][/us/pl/94/283/s115/a], May 11, 1976, [90 Stat. 495][/us/stat/90/495], set forth formal requirements respecting reports and statements.
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective Jan. 8, 1980, see [section 301(a) of Pub. L. 96–187][/us/pl/96/187/s301/a], set out as an Effective Date of 1980 Amendment note under [section 431 of this title][/us/usc/t2/s431].
+
 ----------
 
-[Previous](./../../../../..//us/usc/t2/ch14/schI/m__us_usc_t2_s433.md) | [Next](./../../../../..//us/usc/t2/ch14/schI/m__us_usc_t2_s435, 436.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs434)
+[Previous](./../../../../..//us/usc/t2/ch14/schI/m__us_usc_t2_s433.md) | [Next](./../../../../..//us/usc/t2/ch14/schI/m__us_usc_t2_s437.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs434)
 
 ----------
 ----------
@@ -845,5 +855,19 @@
 [/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
 [/us/usc/t2/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431
 [/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
+[/us/pl/96/187/s105/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F187%2Fs105%2F1
+[/us/stat/93/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1354
+[/us/pl/92/225/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs305
+[/us/stat/86/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F16
+[/us/pl/93/443/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs205%2Fa
+[/us/stat/88/1278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1278
+[/us/pl/92/225/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs306
+[/us/stat/86/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F16
+[/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
+[/us/stat/88/1278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1278
+[/us/pl/94/283/s115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs115%2Fa
+[/us/stat/90/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F495
+[/us/pl/96/187/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F187%2Fs301%2Fa
+[/us/usc/t2/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431
 
 

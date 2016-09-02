@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch10/m__us_usc_t2_s293a to 293c.md) | [Next](./../../../..//us/usc/t2/ch10/m__us_usc_t2_s295.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs294)
+[Previous](./../../../..//us/usc/t2/ch10/m__us_usc_t2_s293.md) | [Next](./../../../..//us/usc/t2/ch10/m__us_usc_t2_s295.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs294)
 
 ## § 294. Position standards and descriptions
 
@@ -91,7 +91,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch10/m__us_usc_t2_s293a to 293c.md) | [Next](./../../../..//us/usc/t2/ch10/m__us_usc_t2_s295.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs294)
+[Previous](./../../../..//us/usc/t2/ch10/m__us_usc_t2_s293.md) | [Next](./../../../..//us/usc/t2/ch10/m__us_usc_t2_s295.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs294)
 
 ----------
 ----------

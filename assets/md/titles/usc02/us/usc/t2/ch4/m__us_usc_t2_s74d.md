@@ -15,7 +15,7 @@
 
 ## § 74d. Corrections Calendar Office
 
-There is established in the House of Representatives an office to be known as the Corrections Calendar Office, which shall have the responsibility of assisting the Speaker in the management of the Corrections Calendar under the Rules of the House of Representatives. The Office shall have not more than five employees—
+    There is established in the House of Representatives an office to be known as the Corrections Calendar Office, which shall have the responsibility of assisting the Speaker in the management of the Corrections Calendar under the Rules of the House of Representatives. The Office shall have not more than five employees—
 
     (1) who shall be appointed by the Speaker, in consultation with the minority leader; and
 

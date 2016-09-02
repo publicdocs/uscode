@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s103, 104.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s104b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs104a)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s102a.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s104b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs104a)
 
 ## § 104a. Semiannual statements of expenditures by Secretary of Senate and Chief Administrative Officer of House
 
@@ -43,9 +43,7 @@
 
     (6)
 
-     Beginning with the report covering the first full semiannual period of the 112th Congress, the Secretary of the Senate—
-
-        (1) shall publicly post on-line on the website of the Senate each report in a searchable, itemized format as required under this section;
+     Beginning with the report covering the first full semiannual period of the 112th Congress, the Secretary of the Senate—    (1) shall publicly post on-line on the website of the Senate each report in a searchable, itemized format as required under this section;
 
         (2) shall issue each report required under this section in electronic form; and
 
@@ -55,7 +53,7 @@
 
  __Inapplicability of Section to House of Representatives__ 
 
-Provisions of this section requiring submission and printing of statements and reports not applicable to the House of Representatives, see [section 104b(e) of this title][/us/usc/t2/s104b/e].
+    Provisions of this section requiring submission and printing of statements and reports not applicable to the House of Representatives, see [section 104b(e) of this title][/us/usc/t2/s104b/e].
 
  __References in Text__ 
 
@@ -111,7 +109,7 @@ Provisions of this section requiring submission and printing of statements and r
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s103, 104.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s104b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs104a)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s102a.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s104b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs104a)
 
 ----------
 ----------

@@ -83,11 +83,11 @@
 
             (B) __Modification of rates and fees__ 
 
-            If a determination is made under subparagraph (A) that a subsidy is being received, the Architect of the Capitol shall submit a plan to the Committee on House Administration of the House of Representatives on how to update the program to ensure no subsidy is being received. If the committee does not act on the plan within 60 days, the Architect of the Capitol shall take appropriate steps to increase rates or fees to ensure reimbursement for the cost of the program consistent with an appropriate schedule for amortization, to be charged to those using the charging stations.
+                If a determination is made under subparagraph (A) that a subsidy is being received, the Architect of the Capitol shall submit a plan to the Committee on House Administration of the House of Representatives on how to update the program to ensure no subsidy is being received. If the committee does not act on the plan within 60 days, the Architect of the Capitol shall take appropriate steps to increase rates or fees to ensure reimbursement for the cost of the program consistent with an appropriate schedule for amortization, to be charged to those using the charging stations.
 
-                (f) __Effective date__ 
+    (f) __Effective date__ 
 
-                    This section shall apply with respect to fiscal year 2011 and each fiscal year thereafter.
+        This section shall apply with respect to fiscal year 2011 and each fiscal year thereafter.
 
 ([Pub. L. 112–170, § 1][/us/pl/112/170/s1], Aug. 16, 2012, [126 Stat. 1303][/us/stat/126/1303].)
 

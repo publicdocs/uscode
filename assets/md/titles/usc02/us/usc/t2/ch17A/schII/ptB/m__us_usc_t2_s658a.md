@@ -15,7 +15,7 @@
 
 ## § 658a. Exclusions
 
-This part shall not apply to any provision in a bill, joint resolution, amendment, motion, or conference report before Congress that—
+    This part shall not apply to any provision in a bill, joint resolution, amendment, motion, or conference report before Congress that—
 
     (1) enforces constitutional rights of individuals;
 

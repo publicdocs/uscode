@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s179 to 179k.md) | [Next](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s179m.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs179l)
+[Previous](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s177.md) | [Next](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s179m.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs179l)
 
 ## § 179l. National Film Registry of Library of Congress
 
@@ -51,7 +51,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s179 to 179k.md) | [Next](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s179m.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs179l)
+[Previous](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s177.md) | [Next](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s179m.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs179l)
 
 ----------
 ----------

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s52, 53.md) | [Next](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s55.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs54)
+[Previous](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s51.md) | [Next](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s55.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs54)
 
 ## § 54. Annotated United States Code for Members of House of Representatives to be paid for from Members’ Representational Allowance
 
@@ -43,7 +43,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s52, 53.md) | [Next](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s55.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs54)
+[Previous](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s51.md) | [Next](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s55.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs54)
 
 ----------
 ----------

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s61b–1 to 61b–2.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s61c.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61b%E2%80%933)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s61b.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s61c.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61b%E2%80%933)
 
 ## § 61b–3. Professional archivist; Secretary’s authority to obtain services from General Services Administration
 
@@ -27,7 +27,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s61b–1 to 61b–2.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s61c.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61b%E2%80%933)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s61b.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s61c.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61b%E2%80%933)
 
 ----------
 ----------

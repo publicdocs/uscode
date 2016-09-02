@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch23/m__us_usc_t2_s1223, 1224.md) | [Next](./../../../..//us/usc/t2/ch24/schI/m__us_usc_t2_ch24_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch24)
+[Previous](./../../../..//us/usc/t2/ch23/m__us_usc_t2_s1222.md) | [Next](./../../../..//us/usc/t2/ch24/schI/m__us_usc_t2_ch24_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch24)
 
 ## CHAPTER 24—CONGRESSIONAL ACCOUNTABILITY
 
@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1301" data-uslm-ref="/us/usc/t2/s1301">1301.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1302" data-uslm-ref="/us/usc/t2/s1302">1302.</a>  </td>
 
     <td> Application of laws.  </td>
 
@@ -65,7 +65,7 @@ Part A—Employment Discrimination, Family and Medical Leave, Fair Labor Standar
 
   <tr>
 
-    <td> 1311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1311" data-uslm-ref="/us/usc/t2/s1311">1311.</a>  </td>
 
     <td> Rights and protections under title VII of Civil Rights Act of 1964, Age Discrimination in Employment Act of 1967, Rehabilitation Act of 1973, and title I of Americans with Disabilities Act of 1990.  </td>
 
@@ -73,7 +73,7 @@ Part A—Employment Discrimination, Family and Medical Leave, Fair Labor Standar
 
   <tr>
 
-    <td> 1312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1312" data-uslm-ref="/us/usc/t2/s1312">1312.</a>  </td>
 
     <td> Rights and protections under Family and Medical Leave Act of 1993.  </td>
 
@@ -81,7 +81,7 @@ Part A—Employment Discrimination, Family and Medical Leave, Fair Labor Standar
 
   <tr>
 
-    <td> 1313.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1313" data-uslm-ref="/us/usc/t2/s1313">1313.</a>  </td>
 
     <td> Rights and protections under Fair Labor Standards Act of 1938.  </td>
 
@@ -89,7 +89,7 @@ Part A—Employment Discrimination, Family and Medical Leave, Fair Labor Standar
 
   <tr>
 
-    <td> 1314.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1314" data-uslm-ref="/us/usc/t2/s1314">1314.</a>  </td>
 
     <td> Rights and protections under Employee Polygraph Protection Act of 1988.  </td>
 
@@ -97,7 +97,7 @@ Part A—Employment Discrimination, Family and Medical Leave, Fair Labor Standar
 
   <tr>
 
-    <td> 1315.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1315" data-uslm-ref="/us/usc/t2/s1315">1315.</a>  </td>
 
     <td> Rights and protections under Worker Adjustment and Retraining Notification Act.  </td>
 
@@ -105,7 +105,7 @@ Part A—Employment Discrimination, Family and Medical Leave, Fair Labor Standar
 
   <tr>
 
-    <td> 1316.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1316" data-uslm-ref="/us/usc/t2/s1316">1316.</a>  </td>
 
     <td> Rights and protections relating to veterans’ employment and reemployment.  </td>
 
@@ -113,7 +113,7 @@ Part A—Employment Discrimination, Family and Medical Leave, Fair Labor Standar
 
   <tr>
 
-    <td> 1316a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1316a" data-uslm-ref="/us/usc/t2/s1316a">1316a.</a>  </td>
 
     <td> Legislative branch appointments.  </td>
 
@@ -121,7 +121,7 @@ Part A—Employment Discrimination, Family and Medical Leave, Fair Labor Standar
 
   <tr>
 
-    <td> 1317.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1317" data-uslm-ref="/us/usc/t2/s1317">1317.</a>  </td>
 
     <td> Prohibition of intimidation or reprisal.  </td>
 
@@ -137,7 +137,7 @@ Part B—Public Services and Accommodations Under Americans with Disabilities Ac
 
   <tr>
 
-    <td> 1331.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1331" data-uslm-ref="/us/usc/t2/s1331">1331.</a>  </td>
 
     <td> Rights and protections under Americans with Disabilities Act of 1990 relating to public services and accommodations; procedures for remedy of violations.  </td>
 
@@ -153,7 +153,7 @@ Part C—Occupational Safety and Health Act of 1970  </td>
 
   <tr>
 
-    <td> 1341.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1341" data-uslm-ref="/us/usc/t2/s1341">1341.</a>  </td>
 
     <td> Rights and protections under Occupational Safety and Health Act of 1970; procedures for remedy of violations.  </td>
 
@@ -169,7 +169,7 @@ Part D—Labor-Management Relations  </td>
 
   <tr>
 
-    <td> 1351.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1351" data-uslm-ref="/us/usc/t2/s1351">1351.</a>  </td>
 
     <td> Application of chapter 71 of title 5 relating to Federal service labor-management relations; procedures for remedy of violations.  </td>
 
@@ -185,7 +185,7 @@ Part E—General  </td>
 
   <tr>
 
-    <td> 1361.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1361" data-uslm-ref="/us/usc/t2/s1361">1361.</a>  </td>
 
     <td> Generally applicable remedies and limitations.  </td>
 
@@ -201,7 +201,7 @@ Part F—Study  </td>
 
   <tr>
 
-    <td> 1371.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1371" data-uslm-ref="/us/usc/t2/s1371">1371.</a>  </td>
 
     <td> Study and recommendations regarding Government Accountability Office, Government Printing Office, and Library of Congress.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER III—OFFICE OF COMPLIANCE  </td>
 
   <tr>
 
-    <td> 1381.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1381" data-uslm-ref="/us/usc/t2/s1381">1381.</a>  </td>
 
     <td> Establishment of Office of Compliance.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER III—OFFICE OF COMPLIANCE  </td>
 
   <tr>
 
-    <td> 1382.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1382" data-uslm-ref="/us/usc/t2/s1382">1382.</a>  </td>
 
     <td> Officers, staff, and other personnel.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER III—OFFICE OF COMPLIANCE  </td>
 
   <tr>
 
-    <td> 1383.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1383" data-uslm-ref="/us/usc/t2/s1383">1383.</a>  </td>
 
     <td> Procedural rules.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER III—OFFICE OF COMPLIANCE  </td>
 
   <tr>
 
-    <td> 1384.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1384" data-uslm-ref="/us/usc/t2/s1384">1384.</a>  </td>
 
     <td> Substantive regulations.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER III—OFFICE OF COMPLIANCE  </td>
 
   <tr>
 
-    <td> 1385.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1385" data-uslm-ref="/us/usc/t2/s1385">1385.</a>  </td>
 
     <td> Expenses.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER III—OFFICE OF COMPLIANCE  </td>
 
   <tr>
 
-    <td> 1386.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1386" data-uslm-ref="/us/usc/t2/s1386">1386.</a>  </td>
 
     <td> Disposition of surplus or obsolete personal property.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER IV—ADMINISTRATIVE AND JUDICIAL DISPUTE-RESOLUTION PROCEDURES  </td>
 
   <tr>
 
-    <td> 1401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1401" data-uslm-ref="/us/usc/t2/s1401">1401.</a>  </td>
 
     <td> Procedure for consideration of alleged violations.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER IV—ADMINISTRATIVE AND JUDICIAL DISPUTE-RESOLUTION PROCEDURES  </td>
 
   <tr>
 
-    <td> 1402.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1402" data-uslm-ref="/us/usc/t2/s1402">1402.</a>  </td>
 
     <td> Counseling.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER IV—ADMINISTRATIVE AND JUDICIAL DISPUTE-RESOLUTION PROCEDURES  </td>
 
   <tr>
 
-    <td> 1403.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1403" data-uslm-ref="/us/usc/t2/s1403">1403.</a>  </td>
 
     <td> Mediation.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER IV—ADMINISTRATIVE AND JUDICIAL DISPUTE-RESOLUTION PROCEDURES  </td>
 
   <tr>
 
-    <td> 1404.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1404" data-uslm-ref="/us/usc/t2/s1404">1404.</a>  </td>
 
     <td> Election of proceeding.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER IV—ADMINISTRATIVE AND JUDICIAL DISPUTE-RESOLUTION PROCEDURES  </td>
 
   <tr>
 
-    <td> 1405.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1405" data-uslm-ref="/us/usc/t2/s1405">1405.</a>  </td>
 
     <td> Complaint and hearing.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER IV—ADMINISTRATIVE AND JUDICIAL DISPUTE-RESOLUTION PROCEDURES  </td>
 
   <tr>
 
-    <td> 1406.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1406" data-uslm-ref="/us/usc/t2/s1406">1406.</a>  </td>
 
     <td> Appeal to Board.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER IV—ADMINISTRATIVE AND JUDICIAL DISPUTE-RESOLUTION PROCEDURES  </td>
 
   <tr>
 
-    <td> 1407.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1407" data-uslm-ref="/us/usc/t2/s1407">1407.</a>  </td>
 
     <td> Judicial review of Board decisions and enforcement.  </td>
 
@@ -329,7 +329,7 @@ SUBCHAPTER IV—ADMINISTRATIVE AND JUDICIAL DISPUTE-RESOLUTION PROCEDURES  </td>
 
   <tr>
 
-    <td> 1408.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1408" data-uslm-ref="/us/usc/t2/s1408">1408.</a>  </td>
 
     <td> Civil action.  </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER IV—ADMINISTRATIVE AND JUDICIAL DISPUTE-RESOLUTION PROCEDURES  </td>
 
   <tr>
 
-    <td> 1409.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1409" data-uslm-ref="/us/usc/t2/s1409">1409.</a>  </td>
 
     <td> Judicial review of regulations.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER IV—ADMINISTRATIVE AND JUDICIAL DISPUTE-RESOLUTION PROCEDURES  </td>
 
   <tr>
 
-    <td> 1410.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1410" data-uslm-ref="/us/usc/t2/s1410">1410.</a>  </td>
 
     <td> Other judicial review prohibited.  </td>
 
@@ -353,7 +353,7 @@ SUBCHAPTER IV—ADMINISTRATIVE AND JUDICIAL DISPUTE-RESOLUTION PROCEDURES  </td>
 
   <tr>
 
-    <td> 1411.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1411" data-uslm-ref="/us/usc/t2/s1411">1411.</a>  </td>
 
     <td> Effect of failure to issue regulations.  </td>
 
@@ -361,7 +361,7 @@ SUBCHAPTER IV—ADMINISTRATIVE AND JUDICIAL DISPUTE-RESOLUTION PROCEDURES  </td>
 
   <tr>
 
-    <td> 1412.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1412" data-uslm-ref="/us/usc/t2/s1412">1412.</a>  </td>
 
     <td> Expedited review of certain appeals.  </td>
 
@@ -369,7 +369,7 @@ SUBCHAPTER IV—ADMINISTRATIVE AND JUDICIAL DISPUTE-RESOLUTION PROCEDURES  </td>
 
   <tr>
 
-    <td> 1413.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1413" data-uslm-ref="/us/usc/t2/s1413">1413.</a>  </td>
 
     <td> Privileges and immunities.  </td>
 
@@ -377,7 +377,7 @@ SUBCHAPTER IV—ADMINISTRATIVE AND JUDICIAL DISPUTE-RESOLUTION PROCEDURES  </td>
 
   <tr>
 
-    <td> 1414.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1414" data-uslm-ref="/us/usc/t2/s1414">1414.</a>  </td>
 
     <td> Settlement of complaints.  </td>
 
@@ -385,7 +385,7 @@ SUBCHAPTER IV—ADMINISTRATIVE AND JUDICIAL DISPUTE-RESOLUTION PROCEDURES  </td>
 
   <tr>
 
-    <td> 1415.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1415" data-uslm-ref="/us/usc/t2/s1415">1415.</a>  </td>
 
     <td> Payments.  </td>
 
@@ -393,7 +393,7 @@ SUBCHAPTER IV—ADMINISTRATIVE AND JUDICIAL DISPUTE-RESOLUTION PROCEDURES  </td>
 
   <tr>
 
-    <td> 1416.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1416" data-uslm-ref="/us/usc/t2/s1416">1416.</a>  </td>
 
     <td> Confidentiality.  </td>
 
@@ -409,7 +409,7 @@ SUBCHAPTER V—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 1431.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1431" data-uslm-ref="/us/usc/t2/s1431">1431.</a>  </td>
 
     <td> Exercise of rulemaking powers.  </td>
 
@@ -417,7 +417,7 @@ SUBCHAPTER V—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 1432.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1432" data-uslm-ref="/us/usc/t2/s1432">1432.</a>  </td>
 
     <td> Political affiliation and place of residence.  </td>
 
@@ -425,7 +425,7 @@ SUBCHAPTER V—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 1433.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1433" data-uslm-ref="/us/usc/t2/s1433">1433.</a>  </td>
 
     <td> Nondiscrimination rules of House and Senate.  </td>
 
@@ -433,7 +433,7 @@ SUBCHAPTER V—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 1434.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1434" data-uslm-ref="/us/usc/t2/s1434">1434.</a>  </td>
 
     <td> Judicial branch coverage study.  </td>
 
@@ -441,7 +441,7 @@ SUBCHAPTER V—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 1435.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1435" data-uslm-ref="/us/usc/t2/s1435">1435.</a>  </td>
 
     <td> Savings provisions.  </td>
 
@@ -449,7 +449,7 @@ SUBCHAPTER V—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 1436.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1436" data-uslm-ref="/us/usc/t2/s1436">1436.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -457,7 +457,7 @@ SUBCHAPTER V—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 1437.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1437" data-uslm-ref="/us/usc/t2/s1437">1437.</a>  </td>
 
     <td> Sense of Senate regarding adoption of simplified and streamlined acquisition procedures for Senate acquisitions.  </td>
 
@@ -465,7 +465,7 @@ SUBCHAPTER V—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 1438.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1438" data-uslm-ref="/us/usc/t2/s1438">1438.</a>  </td>
 
     <td> Severability.  </td>
 
@@ -475,7 +475,7 @@ SUBCHAPTER V—MISCELLANEOUS PROVISIONS  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch23/m__us_usc_t2_s1223, 1224.md) | [Next](./../../../..//us/usc/t2/ch24/schI/m__us_usc_t2_ch24_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch24)
+[Previous](./../../../..//us/usc/t2/ch23/m__us_usc_t2_s1222.md) | [Next](./../../../..//us/usc/t2/ch24/schI/m__us_usc_t2_ch24_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch24)
 
 ----------
 ----------

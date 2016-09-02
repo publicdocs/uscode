@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s112a to 112d.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s112f.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs112e)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s112.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s112f.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs112e)
 
 ## § 112e. Office equipment for House Members, officers, and committees
 
@@ -59,7 +59,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s112a to 112d.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s112f.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs112e)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s112.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s112f.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs112e)
 
 ----------
 ----------

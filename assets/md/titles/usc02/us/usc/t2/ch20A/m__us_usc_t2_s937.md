@@ -15,7 +15,7 @@
 
 ## § 937. Application of BBEDCA
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (1) notwithstanding section 275 of BBEDCA, the provisions of sections 905, 906, 907, and 922 of this title, as amended by this title, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  shall apply to the provisions of this chapter;
 

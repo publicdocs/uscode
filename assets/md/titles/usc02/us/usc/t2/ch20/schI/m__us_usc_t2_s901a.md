@@ -15,7 +15,7 @@
 
 ## § 901a. Enforcement of budget goal
 
-Unless a joint committee bill achieving an amount greater than $1,200,000,000,000 in deficit reduction as provided in section 401(b)(3)(B)(i)(II) of the Budget Control Act of 2011 is enacted by January 15, 2012, the discretionary spending limits listed in [section 901(c) of this title][/us/usc/t2/s901/c] shall be revised, and discretionary appropriations and direct spending shall be reduced, as follows:
+    Unless a joint committee bill achieving an amount greater than $1,200,000,000,000 in deficit reduction as provided in section 401(b)(3)(B)(i)(II) of the Budget Control Act of 2011 is enacted by January 15, 2012, the discretionary spending limits listed in [section 901(c) of this title][/us/usc/t2/s901/c] shall be revised, and discretionary appropriations and direct spending shall be reduced, as follows:
 
     (1) __Revised security category; revised nonsecurity category__ 
 

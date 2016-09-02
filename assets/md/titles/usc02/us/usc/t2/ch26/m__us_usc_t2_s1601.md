@@ -15,7 +15,7 @@
 
 ## § 1601. Findings
 
-The Congress finds that—
+    The Congress finds that—
 
     (1) responsible representative Government requires public awareness of the efforts of paid lobbyists to influence the public decisionmaking process in both the legislative and executive branches of the Federal Government;
 

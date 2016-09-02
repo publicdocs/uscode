@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 621.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs621" data-uslm-ref="/us/usc/t2/s621">621.</a>  </td>
 
     <td> Congressional declaration of purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 622.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs622" data-uslm-ref="/us/usc/t2/s622">622.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 623.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs623" data-uslm-ref="/us/usc/t2/s623">623.</a>  </td>
 
     <td> Continuing study of additional budget reform proposals.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—CONGRESSIONAL BUDGET PROCESS  </td>
 
   <tr>
 
-    <td> 631.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs631" data-uslm-ref="/us/usc/t2/s631">631.</a>  </td>
 
     <td> Timetable.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—CONGRESSIONAL BUDGET PROCESS  </td>
 
   <tr>
 
-    <td> 632.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs632" data-uslm-ref="/us/usc/t2/s632">632.</a>  </td>
 
     <td> Annual adoption of concurrent resolution on the budget.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—CONGRESSIONAL BUDGET PROCESS  </td>
 
   <tr>
 
-    <td> 633.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs633" data-uslm-ref="/us/usc/t2/s633">633.</a>  </td>
 
     <td> Committee allocations.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—CONGRESSIONAL BUDGET PROCESS  </td>
 
   <tr>
 
-    <td> 634.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs634" data-uslm-ref="/us/usc/t2/s634">634.</a>  </td>
 
     <td> Concurrent resolution on the budget must be adopted before budget-related legislation is considered.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—CONGRESSIONAL BUDGET PROCESS  </td>
 
   <tr>
 
-    <td> 635.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs635" data-uslm-ref="/us/usc/t2/s635">635.</a>  </td>
 
     <td> Permissible revisions of concurrent resolutions on the budget.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—CONGRESSIONAL BUDGET PROCESS  </td>
 
   <tr>
 
-    <td> 636.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs636" data-uslm-ref="/us/usc/t2/s636">636.</a>  </td>
 
     <td> Provisions relating to consideration of concurrent resolutions on the budget.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—CONGRESSIONAL BUDGET PROCESS  </td>
 
   <tr>
 
-    <td> 637.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs637" data-uslm-ref="/us/usc/t2/s637">637.</a>  </td>
 
     <td> Legislation dealing with Congressional budget must be handled by Budget Committees.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—CONGRESSIONAL BUDGET PROCESS  </td>
 
   <tr>
 
-    <td> 638.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs638" data-uslm-ref="/us/usc/t2/s638">638.</a>  </td>
 
     <td> House Committee action on all appropriation bills to be completed by June 10.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER I—CONGRESSIONAL BUDGET PROCESS  </td>
 
   <tr>
 
-    <td> 639.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs639" data-uslm-ref="/us/usc/t2/s639">639.</a>  </td>
 
     <td> Reports, summaries, and projections of Congressional budget actions.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER I—CONGRESSIONAL BUDGET PROCESS  </td>
 
   <tr>
 
-    <td> 640.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs640" data-uslm-ref="/us/usc/t2/s640">640.</a>  </td>
 
     <td> House approval of regular appropriation bills.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER I—CONGRESSIONAL BUDGET PROCESS  </td>
 
   <tr>
 
-    <td> 641.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs641" data-uslm-ref="/us/usc/t2/s641">641.</a>  </td>
 
     <td> Reconciliation.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER I—CONGRESSIONAL BUDGET PROCESS  </td>
 
   <tr>
 
-    <td> 642.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs642" data-uslm-ref="/us/usc/t2/s642">642.</a>  </td>
 
     <td> Budget-related legislation must be within appropriate levels.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER I—CONGRESSIONAL BUDGET PROCESS  </td>
 
   <tr>
 
-    <td> 643.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs643" data-uslm-ref="/us/usc/t2/s643">643.</a>  </td>
 
     <td> Determinations and points of order.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER I—CONGRESSIONAL BUDGET PROCESS  </td>
 
   <tr>
 
-    <td> 644.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs644" data-uslm-ref="/us/usc/t2/s644">644.</a>  </td>
 
     <td> Extraneous matter in reconciliation legislation.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER I—CONGRESSIONAL BUDGET PROCESS  </td>
 
   <tr>
 
-    <td> 645.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs645" data-uslm-ref="/us/usc/t2/s645">645.</a>  </td>
 
     <td> Adjustments.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER I—CONGRESSIONAL BUDGET PROCESS  </td>
 
   <tr>
 
-    <td> 645a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs645a" data-uslm-ref="/us/usc/t2/s645a">645a.</a>  </td>
 
     <td> Effect of adoption of special order of business in House of Representatives.  </td>
 
@@ -201,7 +201,7 @@ Part A—General Provisions  </td>
 
   <tr>
 
-    <td> 651.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs651" data-uslm-ref="/us/usc/t2/s651">651.</a>  </td>
 
     <td> Budget-related legislation not subject to appropriations.  </td>
 
@@ -209,7 +209,7 @@ Part A—General Provisions  </td>
 
   <tr>
 
-    <td> 652.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs652" data-uslm-ref="/us/usc/t2/s652">652.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -217,7 +217,7 @@ Part A—General Provisions  </td>
 
   <tr>
 
-    <td> 653.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs653" data-uslm-ref="/us/usc/t2/s653">653.</a>  </td>
 
     <td> Analysis by Congressional Budget Office.  </td>
 
@@ -225,7 +225,7 @@ Part A—General Provisions  </td>
 
   <tr>
 
-    <td> 654.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs654" data-uslm-ref="/us/usc/t2/s654">654.</a>  </td>
 
     <td> Study by Government Accountability Office of forms of Federal financial commitment not reviewed annually by Congress.  </td>
 
@@ -233,7 +233,7 @@ Part A—General Provisions  </td>
 
   <tr>
 
-    <td> 655.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs655" data-uslm-ref="/us/usc/t2/s655">655.</a>  </td>
 
     <td> Off-budget agencies, programs, and activities.  </td>
 
@@ -241,7 +241,7 @@ Part A—General Provisions  </td>
 
   <tr>
 
-    <td> 656.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs656" data-uslm-ref="/us/usc/t2/s656">656.</a>  </td>
 
     <td> Member User Group.  </td>
 
@@ -257,7 +257,7 @@ Part B—Federal Mandates  </td>
 
   <tr>
 
-    <td> 658.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs658" data-uslm-ref="/us/usc/t2/s658">658.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -265,7 +265,7 @@ Part B—Federal Mandates  </td>
 
   <tr>
 
-    <td> 658a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs658a" data-uslm-ref="/us/usc/t2/s658a">658a.</a>  </td>
 
     <td> Exclusions.  </td>
 
@@ -273,7 +273,7 @@ Part B—Federal Mandates  </td>
 
   <tr>
 
-    <td> 658b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs658b" data-uslm-ref="/us/usc/t2/s658b">658b.</a>  </td>
 
     <td> Duties of Congressional committees.  </td>
 
@@ -281,7 +281,7 @@ Part B—Federal Mandates  </td>
 
   <tr>
 
-    <td> 658c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs658c" data-uslm-ref="/us/usc/t2/s658c">658c.</a>  </td>
 
     <td> Duties of Director; statements on bills and joint resolutions other than appropriations bills and joint resolutions.  </td>
 
@@ -289,7 +289,7 @@ Part B—Federal Mandates  </td>
 
   <tr>
 
-    <td> 658d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs658d" data-uslm-ref="/us/usc/t2/s658d">658d.</a>  </td>
 
     <td> Legislation subject to point of order.  </td>
 
@@ -297,7 +297,7 @@ Part B—Federal Mandates  </td>
 
   <tr>
 
-    <td> 658e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs658e" data-uslm-ref="/us/usc/t2/s658e">658e.</a>  </td>
 
     <td> Provisions relating to House of Representatives.  </td>
 
@@ -305,7 +305,7 @@ Part B—Federal Mandates  </td>
 
   <tr>
 
-    <td> 658f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs658f" data-uslm-ref="/us/usc/t2/s658f">658f.</a>  </td>
 
     <td> Requests to Congressional Budget Office from Senators.  </td>
 
@@ -313,7 +313,7 @@ Part B—Federal Mandates  </td>
 
   <tr>
 
-    <td> 658g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs658g" data-uslm-ref="/us/usc/t2/s658g">658g.</a>  </td>
 
     <td> Clarification of application.  </td>
 
@@ -329,7 +329,7 @@ SUBCHAPTER III—CREDIT REFORM  </td>
 
   <tr>
 
-    <td> 661.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs661" data-uslm-ref="/us/usc/t2/s661">661.</a>  </td>
 
     <td> Purposes.  </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER III—CREDIT REFORM  </td>
 
   <tr>
 
-    <td> 661a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs661a" data-uslm-ref="/us/usc/t2/s661a">661a.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER III—CREDIT REFORM  </td>
 
   <tr>
 
-    <td> 661b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs661b" data-uslm-ref="/us/usc/t2/s661b">661b.</a>  </td>
 
     <td> OMB and CBO analysis, coordination, and review.  </td>
 
@@ -353,7 +353,7 @@ SUBCHAPTER III—CREDIT REFORM  </td>
 
   <tr>
 
-    <td> 661c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs661c" data-uslm-ref="/us/usc/t2/s661c">661c.</a>  </td>
 
     <td> Budgetary treatment.  </td>
 
@@ -361,7 +361,7 @@ SUBCHAPTER III—CREDIT REFORM  </td>
 
   <tr>
 
-    <td> 661d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs661d" data-uslm-ref="/us/usc/t2/s661d">661d.</a>  </td>
 
     <td> Authorizations.  </td>
 
@@ -369,7 +369,7 @@ SUBCHAPTER III—CREDIT REFORM  </td>
 
   <tr>
 
-    <td> 661e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs661e" data-uslm-ref="/us/usc/t2/s661e">661e.</a>  </td>
 
     <td> Treatment of deposit insurance and agencies and other insurance programs.  </td>
 
@@ -377,7 +377,7 @@ SUBCHAPTER III—CREDIT REFORM  </td>
 
   <tr>
 
-    <td> 661f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs661f" data-uslm-ref="/us/usc/t2/s661f">661f.</a>  </td>
 
     <td> Effect on other laws.  </td>
 
@@ -393,7 +393,7 @@ SUBCHAPTER IV—BUDGET AGREEMENT ENFORCEMENT PROVISIONS  </td>
 
   <tr>
 
-    <td> 665 to 665e.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs665" data-uslm-ref="/us/usc/t2/s665">665</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs665e" data-uslm-ref="/us/usc/t2/s665e">665e.</a>  </td>
 
     <td> Repealed.  </td>
 

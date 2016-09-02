@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 931.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs931" data-uslm-ref="/us/usc/t2/s931">931.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 932.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs932" data-uslm-ref="/us/usc/t2/s932">932.</a>  </td>
 
     <td> Definitions and applications.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 933.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs933" data-uslm-ref="/us/usc/t2/s933">933.</a>  </td>
 
     <td> PAYGO estimates and PAYGO scorecards.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 934.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs934" data-uslm-ref="/us/usc/t2/s934">934.</a>  </td>
 
     <td> Annual report and sequestration order.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 935.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs935" data-uslm-ref="/us/usc/t2/s935">935.</a>  </td>
 
     <td> Calculating a sequestration.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 936.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs936" data-uslm-ref="/us/usc/t2/s936">936.</a>  </td>
 
     <td> Adjustment for current policies.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 937.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs937" data-uslm-ref="/us/usc/t2/s937">937.</a>  </td>
 
     <td> Application of BBEDCA.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 938.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs938" data-uslm-ref="/us/usc/t2/s938">938.</a>  </td>
 
     <td> Determinations and points of order.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 939.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs939" data-uslm-ref="/us/usc/t2/s939">939.</a>  </td>
 
     <td> Limitation on changes to the Social Security Act.  </td>
 

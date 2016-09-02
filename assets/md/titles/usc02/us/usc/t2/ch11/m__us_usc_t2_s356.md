@@ -15,7 +15,7 @@
 
 ## § 356. Functions
 
-The Commission shall conduct, in each of the respective fiscal years referred to in subparagraphs (A) and (B) of [section 352(8) of this title][/us/usc/t2/s352/8], a review of the rates of pay of—
+    The Commission shall conduct, in each of the respective fiscal years referred to in subparagraphs (A) and (B) of [section 352(8) of this title][/us/usc/t2/s352/8], a review of the rates of pay of—
 
     (A) the Vice President of the United States, Senators, Members of the House of Representatives, the Resident Commissioner from Puerto Rico, the Speaker of the House of Representatives, the President pro tempore of the Senate, and the majority and minority leaders of the Senate and the House of Representatives;
 
@@ -25,17 +25,15 @@ The Commission shall conduct, in each of the respective fiscal years referred to
 
     (D) offices and positions under the Executive Schedule in subchapter II of chapter 53 of title 5; and
 
-    (E)
+    (E) the Governors of the Board of Governors of the United States Postal Service appointed under [section 202 of title 39][/us/usc/t39/s202].
 
-     the Governors of the Board of Governors of the United States Postal Service appointed under [section 202 of title 39][/us/usc/t39/s202].
+    Such review by the Commission shall be made for the purpose of determining and providing—
 
-        Such review by the Commission shall be made for the purpose of determining and providing—
+    (i) the appropriate pay levels and relationships between and among the respective offices and positions covered by such review, and
 
-        (i) the appropriate pay levels and relationships between and among the respective offices and positions covered by such review, and
+    (ii) the appropriate pay relationships between such offices and positions and the offices and positions subject to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, relating to classification and General Schedule pay rates.
 
-        (ii) the appropriate pay relationships between such offices and positions and the offices and positions subject to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, relating to classification and General Schedule pay rates.
-
-        In reviewing the rates of pay of the offices or positions referred to in subparagraph (D) of this section, the Commission shall determine and consider the appropriateness of the executive levels of such offices and positions.
+    In reviewing the rates of pay of the offices or positions referred to in subparagraph (D) of this section, the Commission shall determine and consider the appropriateness of the executive levels of such offices and positions.
 
 ([Pub. L. 90–206, title II, § 225(f)][/us/pl/90/206/s225/f], Dec. 16, 1967, [81 Stat. 643][/us/stat/81/643]; [Pub. L. 91–375, § 6(a)][/us/pl/91/375/s6/a], Aug. 12, 1970, [84 Stat. 775][/us/stat/84/775]; [Pub. L. 94–82, title II, § 206(a)][/us/pl/94/82/s206/a], Aug. 9, 1975, [89 Stat. 423][/us/stat/89/423]; [Pub. L. 95–598, title III, § 301][/us/pl/95/598/s301], Nov. 6, 1978, [92 Stat. 2673][/us/stat/92/2673]; [Pub. L. 97–164, title I, § 143][/us/pl/97/164/s143], Apr. 2, 1982, [96 Stat. 45][/us/stat/96/45]; [Pub. L. 99–190, § 135(b)][/us/pl/99/190/s135/b], Dec. 19, 1985, [99 Stat. 1322][/us/stat/99/1322]; [Pub. L. 100–202, § 101(a)][/us/pl/100/202/s101/a] \[title IV, § 408(c)\], Dec. 22, 1987, [101 Stat. 1329][/us/stat/101/1329], 1329–27; [Pub. L. 101–194, title VII, § 701(d)][/us/pl/101/194/s701/d], Nov. 30, 1989, [103 Stat. 1764][/us/stat/103/1764]; [Pub. L. 102–572, title IX, § 902(b)(1)][/us/pl/102/572/s902/b/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
 

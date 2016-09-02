@@ -41,7 +41,7 @@ Part A—General  </td>
 
   <tr>
 
-    <td> 1901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1901" data-uslm-ref="/us/usc/t2/s1901">1901.</a>  </td>
 
     <td> Establishment; officer appointments.  </td>
 
@@ -49,7 +49,7 @@ Part A—General  </td>
 
   <tr>
 
-    <td> 1902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1902" data-uslm-ref="/us/usc/t2/s1902">1902.</a>  </td>
 
     <td> Compensation of Chief.  </td>
 
@@ -57,7 +57,7 @@ Part A—General  </td>
 
   <tr>
 
-    <td> 1903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1903" data-uslm-ref="/us/usc/t2/s1903">1903.</a>  </td>
 
     <td> Chief Administrative Officer.  </td>
 
@@ -65,7 +65,7 @@ Part A—General  </td>
 
   <tr>
 
-    <td> 1904.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1904" data-uslm-ref="/us/usc/t2/s1904">1904.</a>  </td>
 
     <td> Certifying officers.  </td>
 
@@ -73,7 +73,7 @@ Part A—General  </td>
 
   <tr>
 
-    <td> 1905.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1905" data-uslm-ref="/us/usc/t2/s1905">1905.</a>  </td>
 
     <td> Deposit and use of reimbursements for law enforcement assistance.  </td>
 
@@ -81,7 +81,7 @@ Part A—General  </td>
 
   <tr>
 
-    <td> 1905a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1905a" data-uslm-ref="/us/usc/t2/s1905a">1905a.</a>  </td>
 
     <td> Reimbursement for salaries paid for service at Federal Law Enforcement Training Center.  </td>
 
@@ -89,7 +89,7 @@ Part A—General  </td>
 
   <tr>
 
-    <td> 1906.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1906" data-uslm-ref="/us/usc/t2/s1906">1906.</a>  </td>
 
     <td> Disposal of surplus property.  </td>
 
@@ -97,7 +97,7 @@ Part A—General  </td>
 
   <tr>
 
-    <td> 1907.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1907" data-uslm-ref="/us/usc/t2/s1907">1907.</a>  </td>
 
     <td> Transfer of disbursing function.  </td>
 
@@ -105,7 +105,7 @@ Part A—General  </td>
 
   <tr>
 
-    <td> 1908.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1908" data-uslm-ref="/us/usc/t2/s1908">1908.</a>  </td>
 
     <td> Legal representation authority.  </td>
 
@@ -113,7 +113,7 @@ Part A—General  </td>
 
   <tr>
 
-    <td> 1909.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1909" data-uslm-ref="/us/usc/t2/s1909">1909.</a>  </td>
 
     <td> Inspector General for the United States Capitol Police.  </td>
 
@@ -121,7 +121,7 @@ Part A—General  </td>
 
   <tr>
 
-    <td> 1910.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1910" data-uslm-ref="/us/usc/t2/s1910">1910.</a>  </td>
 
     <td> Report of disbursements.  </td>
 
@@ -129,7 +129,7 @@ Part A—General  </td>
 
   <tr>
 
-    <td> 1911.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1911" data-uslm-ref="/us/usc/t2/s1911">1911.</a>  </td>
 
     <td> General Counsel to the Chief of Police and the United States Capitol Police.  </td>
 
@@ -145,7 +145,7 @@ Part B—Compensation and Other Personnel Matters  </td>
 
   <tr>
 
-    <td> 1921.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1921" data-uslm-ref="/us/usc/t2/s1921">1921.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -153,7 +153,7 @@ Part B—Compensation and Other Personnel Matters  </td>
 
   <tr>
 
-    <td> 1921a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1921a" data-uslm-ref="/us/usc/t2/s1921a">1921a.</a>  </td>
 
     <td> Sole and exclusive authority of Board and Chief to determine rates of pay.  </td>
 
@@ -161,7 +161,7 @@ Part B—Compensation and Other Personnel Matters  </td>
 
   <tr>
 
-    <td> 1922.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1922" data-uslm-ref="/us/usc/t2/s1922">1922.</a>  </td>
 
     <td> Unified payroll administration.  </td>
 
@@ -169,7 +169,7 @@ Part B—Compensation and Other Personnel Matters  </td>
 
   <tr>
 
-    <td> 1923.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1923" data-uslm-ref="/us/usc/t2/s1923">1923.</a>  </td>
 
     <td> Unified schedules of rates of basic pay and leave system.  </td>
 
@@ -177,7 +177,7 @@ Part B—Compensation and Other Personnel Matters  </td>
 
   <tr>
 
-    <td> 1924, 1925.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1924" data-uslm-ref="/us/usc/t2/s1924">1924</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1925" data-uslm-ref="/us/usc/t2/s1925">1925.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -185,7 +185,7 @@ Part B—Compensation and Other Personnel Matters  </td>
 
   <tr>
 
-    <td> 1926.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1926" data-uslm-ref="/us/usc/t2/s1926">1926.</a>  </td>
 
     <td> Educational assistance program for employees.  </td>
 
@@ -193,7 +193,7 @@ Part B—Compensation and Other Personnel Matters  </td>
 
   <tr>
 
-    <td> 1927.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1927" data-uslm-ref="/us/usc/t2/s1927">1927.</a>  </td>
 
     <td> Bonuses, retention allowances, and additional compensation.  </td>
 
@@ -201,7 +201,7 @@ Part B—Compensation and Other Personnel Matters  </td>
 
   <tr>
 
-    <td> 1928, 1929.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1928" data-uslm-ref="/us/usc/t2/s1928">1928</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1929" data-uslm-ref="/us/usc/t2/s1929">1929.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -209,7 +209,7 @@ Part B—Compensation and Other Personnel Matters  </td>
 
   <tr>
 
-    <td> 1930.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1930" data-uslm-ref="/us/usc/t2/s1930">1930.</a>  </td>
 
     <td> Applicable pay rate upon appointment.  </td>
 
@@ -217,7 +217,7 @@ Part B—Compensation and Other Personnel Matters  </td>
 
   <tr>
 
-    <td> 1931.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1931" data-uslm-ref="/us/usc/t2/s1931">1931.</a>  </td>
 
     <td> Additional compensation for employees with specialty assignments and proficiencies.  </td>
 
@@ -225,7 +225,7 @@ Part B—Compensation and Other Personnel Matters  </td>
 
   <tr>
 
-    <td> 1932.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1932" data-uslm-ref="/us/usc/t2/s1932">1932.</a>  </td>
 
     <td> Application of premium pay limits on annualized basis.  </td>
 
@@ -233,7 +233,7 @@ Part B—Compensation and Other Personnel Matters  </td>
 
   <tr>
 
-    <td> 1933.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1933" data-uslm-ref="/us/usc/t2/s1933">1933.</a>  </td>
 
     <td> Clarification of authorities regarding certain personnel benefits.  </td>
 
@@ -241,7 +241,7 @@ Part B—Compensation and Other Personnel Matters  </td>
 
   <tr>
 
-    <td> 1934.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1934" data-uslm-ref="/us/usc/t2/s1934">1934.</a>  </td>
 
     <td> Waiver by Chief of Capitol Police of claims arising out of erroneous payments to officers and employees.  </td>
 
@@ -257,7 +257,7 @@ Part C—Uniform and Arms  </td>
 
   <tr>
 
-    <td> 1941.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1941" data-uslm-ref="/us/usc/t2/s1941">1941.</a>  </td>
 
     <td> Uniform.  </td>
 
@@ -265,7 +265,7 @@ Part C—Uniform and Arms  </td>
 
   <tr>
 
-    <td> 1942.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1942" data-uslm-ref="/us/usc/t2/s1942">1942.</a>  </td>
 
     <td> Uniform to display United States flag or colors.  </td>
 
@@ -273,7 +273,7 @@ Part C—Uniform and Arms  </td>
 
   <tr>
 
-    <td> 1943.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1943" data-uslm-ref="/us/usc/t2/s1943">1943.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -281,7 +281,7 @@ Part C—Uniform and Arms  </td>
 
   <tr>
 
-    <td> 1944.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1944" data-uslm-ref="/us/usc/t2/s1944">1944.</a>  </td>
 
     <td> Wearing uniform on duty.  </td>
 
@@ -297,7 +297,7 @@ Part D—United States Capitol Police Memorial Fund  </td>
 
   <tr>
 
-    <td> 1951.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1951" data-uslm-ref="/us/usc/t2/s1951">1951.</a>  </td>
 
     <td> Establishment of United States Capitol Police Memorial Fund.  </td>
 
@@ -305,7 +305,7 @@ Part D—United States Capitol Police Memorial Fund  </td>
 
   <tr>
 
-    <td> 1952.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1952" data-uslm-ref="/us/usc/t2/s1952">1952.</a>  </td>
 
     <td> Payments from Fund for families of Detective Gibson and Private First Class Chestnut.  </td>
 
@@ -313,7 +313,7 @@ Part D—United States Capitol Police Memorial Fund  </td>
 
   <tr>
 
-    <td> 1953.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1953" data-uslm-ref="/us/usc/t2/s1953">1953.</a>  </td>
 
     <td> Tax treatment of Fund.  </td>
 
@@ -321,7 +321,7 @@ Part D—United States Capitol Police Memorial Fund  </td>
 
   <tr>
 
-    <td> 1954.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1954" data-uslm-ref="/us/usc/t2/s1954">1954.</a>  </td>
 
     <td> Administration by Capitol Police Board.  </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER II—POWERS AND DUTIES  </td>
 
   <tr>
 
-    <td> 1961.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1961" data-uslm-ref="/us/usc/t2/s1961">1961.</a>  </td>
 
     <td> Policing of Capitol Buildings and Grounds.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER II—POWERS AND DUTIES  </td>
 
   <tr>
 
-    <td> 1962.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1962" data-uslm-ref="/us/usc/t2/s1962">1962.</a>  </td>
 
     <td> Detail of police.  </td>
 
@@ -353,7 +353,7 @@ SUBCHAPTER II—POWERS AND DUTIES  </td>
 
   <tr>
 
-    <td> 1963.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1963" data-uslm-ref="/us/usc/t2/s1963">1963.</a>  </td>
 
     <td> Protection of grounds.  </td>
 
@@ -361,7 +361,7 @@ SUBCHAPTER II—POWERS AND DUTIES  </td>
 
   <tr>
 
-    <td> 1964.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1964" data-uslm-ref="/us/usc/t2/s1964">1964.</a>  </td>
 
     <td> Security systems for Capitol buildings and grounds.  </td>
 
@@ -369,7 +369,7 @@ SUBCHAPTER II—POWERS AND DUTIES  </td>
 
   <tr>
 
-    <td> 1965.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1965" data-uslm-ref="/us/usc/t2/s1965">1965.</a>  </td>
 
     <td> Maintenance of security systems for Capitol buildings and grounds.  </td>
 
@@ -377,7 +377,7 @@ SUBCHAPTER II—POWERS AND DUTIES  </td>
 
   <tr>
 
-    <td> 1966.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1966" data-uslm-ref="/us/usc/t2/s1966">1966.</a>  </td>
 
     <td> Protection of Members of Congress, officers of Congress, and members of their families.  </td>
 
@@ -385,7 +385,7 @@ SUBCHAPTER II—POWERS AND DUTIES  </td>
 
   <tr>
 
-    <td> 1967.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1967" data-uslm-ref="/us/usc/t2/s1967">1967.</a>  </td>
 
     <td> Law enforcement authority.  </td>
 
@@ -393,7 +393,7 @@ SUBCHAPTER II—POWERS AND DUTIES  </td>
 
   <tr>
 
-    <td> 1968.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1968" data-uslm-ref="/us/usc/t2/s1968">1968.</a>  </td>
 
     <td> Citation release.  </td>
 
@@ -401,7 +401,7 @@ SUBCHAPTER II—POWERS AND DUTIES  </td>
 
   <tr>
 
-    <td> 1969.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1969" data-uslm-ref="/us/usc/t2/s1969">1969.</a>  </td>
 
     <td> Regulation of traffic by Capitol Police Board.  </td>
 
@@ -409,7 +409,7 @@ SUBCHAPTER II—POWERS AND DUTIES  </td>
 
   <tr>
 
-    <td> 1970.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1970" data-uslm-ref="/us/usc/t2/s1970">1970.</a>  </td>
 
     <td> Assistance by Executive departments and agencies.  </td>
 
@@ -417,7 +417,7 @@ SUBCHAPTER II—POWERS AND DUTIES  </td>
 
   <tr>
 
-    <td> 1971.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1971" data-uslm-ref="/us/usc/t2/s1971">1971.</a>  </td>
 
     <td> Contributions of meals and refreshments during emergency duty.  </td>
 
@@ -425,7 +425,7 @@ SUBCHAPTER II—POWERS AND DUTIES  </td>
 
   <tr>
 
-    <td> 1972.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1972" data-uslm-ref="/us/usc/t2/s1972">1972.</a>  </td>
 
     <td> Contributions of comfort and other incidental items and services during emergency duty.  </td>
 
@@ -433,7 +433,7 @@ SUBCHAPTER II—POWERS AND DUTIES  </td>
 
   <tr>
 
-    <td> 1973.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1973" data-uslm-ref="/us/usc/t2/s1973">1973.</a>  </td>
 
     <td> Support and maintenance expenditures during emergency duty.  </td>
 
@@ -441,7 +441,7 @@ SUBCHAPTER II—POWERS AND DUTIES  </td>
 
   <tr>
 
-    <td> 1974.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1974" data-uslm-ref="/us/usc/t2/s1974">1974.</a>  </td>
 
     <td> Capitol Police special officers.  </td>
 
@@ -449,7 +449,7 @@ SUBCHAPTER II—POWERS AND DUTIES  </td>
 
   <tr>
 
-    <td> 1975.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1975" data-uslm-ref="/us/usc/t2/s1975">1975.</a>  </td>
 
     <td> Overseas travel.  </td>
 
@@ -457,7 +457,7 @@ SUBCHAPTER II—POWERS AND DUTIES  </td>
 
   <tr>
 
-    <td> 1976.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1976" data-uslm-ref="/us/usc/t2/s1976">1976.</a>  </td>
 
     <td> Acceptance of donations of animals.  </td>
 
@@ -465,7 +465,7 @@ SUBCHAPTER II—POWERS AND DUTIES  </td>
 
   <tr>
 
-    <td> 1977.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1977" data-uslm-ref="/us/usc/t2/s1977">1977.</a>  </td>
 
     <td> Settlement and payment of tort claims.  </td>
 
@@ -473,7 +473,7 @@ SUBCHAPTER II—POWERS AND DUTIES  </td>
 
   <tr>
 
-    <td> 1978.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1978" data-uslm-ref="/us/usc/t2/s1978">1978.</a>  </td>
 
     <td> Deployment outside of jurisdiction.  </td>
 
@@ -481,7 +481,7 @@ SUBCHAPTER II—POWERS AND DUTIES  </td>
 
   <tr>
 
-    <td> 1979.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1979" data-uslm-ref="/us/usc/t2/s1979">1979.</a>  </td>
 
     <td> Release of security information.  </td>
 
@@ -489,7 +489,7 @@ SUBCHAPTER II—POWERS AND DUTIES  </td>
 
   <tr>
 
-    <td> 1980.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1980" data-uslm-ref="/us/usc/t2/s1980">1980.</a>  </td>
 
     <td> Mounted horse unit.  </td>
 
@@ -497,7 +497,7 @@ SUBCHAPTER II—POWERS AND DUTIES  </td>
 
   <tr>
 
-    <td> 1981.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1981" data-uslm-ref="/us/usc/t2/s1981">1981.</a>  </td>
 
     <td> Advance payments.  </td>
 

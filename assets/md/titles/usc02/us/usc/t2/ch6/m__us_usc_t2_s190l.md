@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch6/m__us_usc_t2_s190i to 190k.md) | [Next](./../../../..//us/usc/t2/ch6/m__us_usc_t2_s190m.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs190l)
+[Previous](./../../../..//us/usc/t2/ch6/m__us_usc_t2_s190h.md) | [Next](./../../../..//us/usc/t2/ch6/m__us_usc_t2_s190m.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs190l)
 
 ## § 190l. Private claims pending before Congress; taking of testimony
 
@@ -33,7 +33,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch6/m__us_usc_t2_s190i to 190k.md) | [Next](./../../../..//us/usc/t2/ch6/m__us_usc_t2_s190m.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs190l)
+[Previous](./../../../..//us/usc/t2/ch6/m__us_usc_t2_s190h.md) | [Next](./../../../..//us/usc/t2/ch6/m__us_usc_t2_s190m.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs190l)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 285b. Functions
 
-The functions of the Office shall be as follows:
+    The functions of the Office shall be as follows:
 
     (1) To prepare, and submit to the Committee on the Judiciary one title at a time, a complete compilation, restatement, and revision of the general and permanent laws of the United States which conforms to the understood policy, intent, and purpose of the Congress in the original enactments, with such amendments and corrections as will remove ambiguities, contradictions, and other imperfections both of substance and of form, separately stated, with a view to the enactment of each title as positive law.
 

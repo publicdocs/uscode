@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs601" data-uslm-ref="/us/usc/t2/s601">601.</a>  </td>
 
     <td> Establishment.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 602.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs602" data-uslm-ref="/us/usc/t2/s602">602.</a>  </td>
 
     <td> Duties and functions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 603.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs603" data-uslm-ref="/us/usc/t2/s603">603.</a>  </td>
 
     <td> Public access to budget data.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 604.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs604" data-uslm-ref="/us/usc/t2/s604">604.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 605.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs605" data-uslm-ref="/us/usc/t2/s605">605.</a>  </td>
 
     <td> Sale or lease of property, supplies, or services.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 606.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs606" data-uslm-ref="/us/usc/t2/s606">606.</a>  </td>
 
     <td> Disposition of surplus or obsolete property.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 607.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs607" data-uslm-ref="/us/usc/t2/s607">607.</a>  </td>
 
     <td> Lump-sum payments for annual leave to separated employees.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 608.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs608" data-uslm-ref="/us/usc/t2/s608">608.</a>  </td>
 
     <td> Lump-sum payments to enhance staff recruitment and to reward exceptional performance.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 609.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs609" data-uslm-ref="/us/usc/t2/s609">609.</a>  </td>
 
     <td> Employee training.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 610.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs610" data-uslm-ref="/us/usc/t2/s610">610.</a>  </td>
 
     <td> Repayment of student loan on behalf of employee.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 611.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs611" data-uslm-ref="/us/usc/t2/s611">611.</a>  </td>
 
     <td> Employee development program.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 612.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs612" data-uslm-ref="/us/usc/t2/s612">612.</a>  </td>
 
     <td> Executive exchange program.  </td>
 

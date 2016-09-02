@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch9B/m__us_usc_t2_s286 to 286g.md) | [Next](./../../../..//us/usc/t2/ch9C/m__us_usc_t2_s287.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch9C)
+[Previous](./../../../..//us/usc/t2/ch9B/m__us_usc_t2_ch9B.md) | [Next](./../../../..//us/usc/t2/ch9C/m__us_usc_t2_s287.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch9C)
 
 ## CHAPTER 9C—OFFICE OF PARLIAMENTARIAN OF HOUSE OF REPRESENTATIVES
 
@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 287.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs287" data-uslm-ref="/us/usc/t2/s287">287.</a>  </td>
 
     <td> Establishment.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 287a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs287a" data-uslm-ref="/us/usc/t2/s287a">287a.</a>  </td>
 
     <td> Parliamentarian.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 287b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs287b" data-uslm-ref="/us/usc/t2/s287b">287b.</a>  </td>
 
     <td> Staff; Deputy Parliamentarian; delegation of functions.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 287c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs287c" data-uslm-ref="/us/usc/t2/s287c">287c.</a>  </td>
 
     <td> Compensation.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 287d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs287d" data-uslm-ref="/us/usc/t2/s287d">287d.</a>  </td>
 
     <td> Expenditures.  </td>
 
@@ -67,7 +67,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch9B/m__us_usc_t2_s286 to 286g.md) | [Next](./../../../..//us/usc/t2/ch9C/m__us_usc_t2_s287.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch9C)
+[Previous](./../../../..//us/usc/t2/ch9B/m__us_usc_t2_ch9B.md) | [Next](./../../../..//us/usc/t2/ch9C/m__us_usc_t2_s287.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch9C)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 301. Preservation of existing appointing authorities
 
-This chapter shall not be held or considered to change or otherwise affect—
+    This chapter shall not be held or considered to change or otherwise affect—
 
     (1) any authority to establish positions under the House of Representatives which are not within the purview of this chapter, or
 

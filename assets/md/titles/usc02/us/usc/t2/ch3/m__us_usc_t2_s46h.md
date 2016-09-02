@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s46g, 46g–1.md) | [Next](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s46i.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs46h)
+[Previous](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s46f–1.md) | [Next](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s46i.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs46h)
 
 ## § 46h. Repealed. [May 29, 1951, ch. 117, § 2][/us/act/1951-05-29/ch117/s2], [65 Stat. 47][/us/stat/65/47], eff. July 1, 1951
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s46g, 46g–1.md) | [Next](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s46i.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs46h)
+[Previous](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s46f–1.md) | [Next](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s46i.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs46h)
 
 ----------
 ----------

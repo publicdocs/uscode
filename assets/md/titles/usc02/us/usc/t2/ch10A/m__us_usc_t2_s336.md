@@ -15,7 +15,7 @@
 
 ## § 336. Saving provision
 
-The provisions of this chapter shall not be construed to—
+    The provisions of this chapter shall not be construed to—
 
     (1) limit or otherwise affect any authority for the making of any appointment to, or for fixing or adjusting the pay for, any position for which the pay is disbursed by the Chief Administrative Officer of the House of Representatives; or
 

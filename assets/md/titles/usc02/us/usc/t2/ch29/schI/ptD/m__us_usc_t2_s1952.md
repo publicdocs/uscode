@@ -15,7 +15,7 @@
 
 ## § 1952. Payments from Fund for families of Detective Gibson and Private First Class Chestnut
 
-Subject to the regulations issued under [section 1954 of this title][/us/usc/t2/s1954], amounts in the Fund shall be paid to the families of Detective John Michael Gibson and Private First Class Jacob Joseph Chestnut of the United States Capitol Police as follows:
+    Subject to the regulations issued under [section 1954 of this title][/us/usc/t2/s1954], amounts in the Fund shall be paid to the families of Detective John Michael Gibson and Private First Class Jacob Joseph Chestnut of the United States Capitol Police as follows:
 
     (1) Fifty percent of such amounts shall be paid to the widow and children of Detective Gibson.
 

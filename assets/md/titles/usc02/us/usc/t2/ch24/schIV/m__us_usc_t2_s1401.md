@@ -15,7 +15,7 @@
 
 ## § 1401. Procedure for consideration of alleged violations
 
-Except as otherwise provided, the procedure for consideration of alleged violations of part A of subchapter II of this chapter consists of—
+    Except as otherwise provided, the procedure for consideration of alleged violations of part A of subchapter II of this chapter consists of—
 
     (1) counseling as provided in [section 1402 of this title][/us/usc/t2/s1402];
 
@@ -29,7 +29,7 @@ Except as otherwise provided, the procedure for consideration of alleged violati
 
         (B) a civil action in a district court of the United States as provided in [section 1408 of this title][/us/usc/t2/s1408].
 
-        In the case of an employee of the Office of the Architect of the Capitol or of the Capitol Police, the Executive Director, after receiving a request for counseling under [section 1402 of this title][/us/usc/t2/s1402], may recommend that the employee use the grievance procedures of the Architect of the Capitol or the Capitol Police for resolution of the employee’s grievance for a specific period of time, which shall not count against the time available for counseling or mediation.
+    In the case of an employee of the Office of the Architect of the Capitol or of the Capitol Police, the Executive Director, after receiving a request for counseling under [section 1402 of this title][/us/usc/t2/s1402], may recommend that the employee use the grievance procedures of the Architect of the Capitol or the Capitol Police for resolution of the employee’s grievance for a specific period of time, which shall not count against the time available for counseling or mediation.
 
 ([Pub. L. 104–1, title IV, § 401][/us/pl/104/1/s401], Jan. 23, 1995, [109 Stat. 32][/us/stat/109/32].)
 

@@ -15,7 +15,7 @@
 
 ## § 88c–4. Definitions
 
-As used in sections 88c–2 to 88c–4 of this title, the term—
+    As used in sections 88c–2 to 88c–4 of this title, the term—
 
     (1) “academic year” means a regular school year, consisting of two semesters;
 

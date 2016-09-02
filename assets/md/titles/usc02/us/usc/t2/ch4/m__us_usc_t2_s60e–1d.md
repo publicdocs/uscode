@@ -15,7 +15,7 @@
 
 ## § 60e–1d. Withholding of charitable contributions; definitions
 
-For purposes of [section 60e–1c of this title][/us/usc/t2/s60e–1c]—
+    For purposes of [section 60e–1c of this title][/us/usc/t2/s60e–1c]—
 
     (1) the term “charitable organizations” means national voluntary health and welfare agencies designated by the Director of the Office of Personnel Management pursuant to Executive Order 10927, dated March 19, 1961; and
 

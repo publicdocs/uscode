@@ -15,7 +15,7 @@
 
 ## § 1844. Savings provisions
 
-The provisions of sections 1841 to 1846 of this title shall not be construed to—
+    The provisions of sections 1841 to 1846 of this title shall not be construed to—
 
     (1) limit or otherwise affect any authority for the making of any appointment to, or for fixing or adjusting the pay for, the position of any employee described in subparagraph (1) or subparagraph (2) of [section 1841 of this title][/us/usc/t2/s1841];
 

@@ -15,7 +15,7 @@
 
 ## § 60e–1b. State income tax withholding; definitions
 
-For purposes of [section 60e–1a of this title][/us/usc/t2/s60e–1a] and this section—
+    For purposes of [section 60e–1a of this title][/us/usc/t2/s60e–1a] and this section—
 
     (1) the term “State” means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, or any other territory or possession of the United States;
 

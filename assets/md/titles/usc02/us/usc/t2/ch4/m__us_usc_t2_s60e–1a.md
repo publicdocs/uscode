@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60e, 60e–1.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60e–1b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60e%E2%80%931a)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60d–1.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60e–1b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60e%E2%80%931a)
 
 ## § 60e–1a. Withholding of State income tax by Chief Administrative Officer of House
 
@@ -75,7 +75,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60e, 60e–1.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60e–1b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60e%E2%80%931a)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60d–1.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60e–1b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60e%E2%80%931a)
 
 ----------
 ----------

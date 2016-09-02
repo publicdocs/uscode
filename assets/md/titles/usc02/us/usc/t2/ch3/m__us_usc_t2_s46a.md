@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s44 to 46.md) | [Next](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s46a–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs46a)
+[Previous](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s43d.md) | [Next](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s46a–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs46a)
 
 ## § 46a. Stationery allowance for President of Senate
 
@@ -81,7 +81,7 @@ The following acts authorized additional stationery allowances for each Senator 
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s44 to 46.md) | [Next](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s46a–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs46a)
+[Previous](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s43d.md) | [Next](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s46a–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs46a)
 
 ----------
 ----------

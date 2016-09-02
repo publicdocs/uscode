@@ -15,7 +15,7 @@
 
 ## § 661a. Definitions
 
-For purposes of this subchapter—
+    For purposes of this subchapter—
 
     (1) The term “direct loan” means a disbursement of funds by the Government to a non-Federal borrower under a contract that requires the repayment of such funds with or without interest. The term includes the purchase of, or participation in, a loan made by another lender and financing arrangements that defer payment for more than 90 days, including the sale of a government  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  asset on credit terms. The term does not include the acquisition of a federally guaranteed loan in satisfaction of default claims or the price support loans of the Commodity Credit Corporation.
 

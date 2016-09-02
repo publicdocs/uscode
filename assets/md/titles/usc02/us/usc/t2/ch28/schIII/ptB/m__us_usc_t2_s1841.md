@@ -15,13 +15,13 @@
 
 ## § 1841. Single per annum gross rates of pay
 
-Whenever the rate of pay of—
+    Whenever the rate of pay of—
 
     (1) an employee of the Office of the Architect of the Capitol; or
 
     (2) an employee of the House Restaurant, or of the Senate Restaurant, under the supervision of the Architect of the Capitol as an agent of the House or Senate, respectively, as the case may be;
 
-        is fixed or adjusted on or after the effective date of this section, that rate, as so fixed and adjusted, shall be a single per annum gross rate.
+    is fixed or adjusted on or after the effective date of this section, that rate, as so fixed and adjusted, shall be a single per annum gross rate.
 
 ([Pub. L. 91–510, title IV, § 481][/us/pl/91/510/s481], Oct. 26, 1970, [84 Stat. 1196][/us/stat/84/1196].)
 

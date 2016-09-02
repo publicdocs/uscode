@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s84, 84–1.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s84–3, 84–4.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs84%E2%80%932)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s83.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s84a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs84%E2%80%932)
 
 ## § 84–2. Compensation of Chaplain of House
 
@@ -51,9 +51,17 @@
 
     Increases in compensation for House officers and employees under authority of Federal Salary Act of 1967 ([Pub. L. 90–206][/us/pl/90/206]), Federal Pay Comparability Act of 1970 ([Pub. L. 91–656][/us/pl/91/656]), and Legislative Branch Appropriations Act, 1988 ([Pub. L. 100–202][/us/pl/100/202]), see sections 60a–2 and 60a–2a of this title, and Salary Directives of Speaker of the House, set out as notes under those sections.
 
+§§ 84–3, 84–4. __Omitted__ 
+
+ __Codification__ 
+
+    Section 84–3, which related to compensation of Deputy Sergeant at Arms (charge of pairs), was based on House Resolution No. 138, Feb. 2, 1961, which was enacted into permanent law by [Pub. L. 87–130, § 103][/us/pl/87/130/s103], Aug. 10, 1961, [75 Stat. 334][/us/stat/75/334]. See section 291 et seq. of this title.
+
+    Section 84–4, which related to compensation of a clerk-messenger in office of Parliamentarian, was based on House Resolution No. 603, Apr. 16, 1962, which was enacted into permanent law by [Pub. L. 88–248, § 103][/us/pl/88/248/s103], Dec. 30, 1963, [77 Stat. 817][/us/stat/77/817], and was omitted because a lump-sum appropriation is now made for the Office of Parliamentarian.
+
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s84, 84–1.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s84–3, 84–4.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs84%E2%80%932)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s83.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s84a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs84%E2%80%932)
 
 ----------
 ----------
@@ -83,5 +91,9 @@
 [/us/pl/90/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206
 [/us/pl/91/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F656
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
+[/us/pl/87/130/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F130%2Fs103
+[/us/stat/75/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F334
+[/us/pl/88/248/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F248%2Fs103
+[/us/stat/77/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F817
 
 

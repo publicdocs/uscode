@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s136a, 136a–1.md) | [Next](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s136b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs136a%E2%80%932)
+[Previous](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s136.md) | [Next](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s136b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs136a%E2%80%932)
 
 ## § 136a–2. Librarian of Congress and Deputy Librarian of Congress; compensation
 
-Notwithstanding any other provision of law—
+    Notwithstanding any other provision of law—
 
     (1) the Librarian of Congress shall be compensated at an annual rate of pay which is equal to the annual rate of basic pay payable for positions at level II of the Executive Schedule under [section 5313 of title 5][/us/usc/t5/s5313]; and
 
@@ -55,7 +55,7 @@ Notwithstanding any other provision of law—
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s136a, 136a–1.md) | [Next](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s136b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs136a%E2%80%932)
+[Previous](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s136.md) | [Next](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s136b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs136a%E2%80%932)
 
 ----------
 ----------

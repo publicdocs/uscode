@@ -15,7 +15,7 @@
 
 ## § 1515. Exercise of rulemaking powers
 
-The provisions of sections 658 to 658g and 1514 of this title are enacted by Congress—
+    The provisions of sections 658 to 658g and 1514 of this title are enacted by Congress—
 
     (1) as an exercise of the rulemaking power of the Senate and the House of Representatives, respectively, and as such they shall be considered as part of the rules of such House, respectively, and such rules shall supersede other rules only to the extent that they are inconsistent therewith; and
 

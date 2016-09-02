@@ -15,7 +15,7 @@
 
 ## § 932. Definitions and applications
 
-As used in this chapter—
+    As used in this chapter—
 
     (1) The term “BBEDCA” means the Balanced Budget and Emergency Deficit Control Act of 1985.
 

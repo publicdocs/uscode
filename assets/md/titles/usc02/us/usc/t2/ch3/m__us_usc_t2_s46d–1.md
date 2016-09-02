@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s46c, 46d.md) | [Next](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s46d–2.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs46d%E2%80%931)
+[Previous](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s46b–2.md) | [Next](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s46d–2.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs46d%E2%80%931)
 
 ## § 46d–1. Long-distance telephone calls for Vice President
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s46c, 46d.md) | [Next](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s46d–2.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs46d%E2%80%931)
+[Previous](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s46b–2.md) | [Next](./../../../..//us/usc/t2/ch3/m__us_usc_t2_s46d–2.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs46d%E2%80%931)
 
 ----------
 ----------

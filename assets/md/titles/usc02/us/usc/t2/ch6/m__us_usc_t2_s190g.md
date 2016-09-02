@@ -21,7 +21,7 @@
 
  __Partial Repeal__ 
 
-Section 2(a), S. Res. 274, Ninety-sixth Congress, Nov. 14, 1979, provided in part that this section, insofar as it relates to the Senate, is repealed. See Standing Rules of the Senate.
+    Section 2(a), S. Res. 274, Ninety-sixth Congress, Nov. 14, 1979, provided in part that this section, insofar as it relates to the Senate, is repealed. See Standing Rules of the Senate.
 
  __References in Text__ 
 

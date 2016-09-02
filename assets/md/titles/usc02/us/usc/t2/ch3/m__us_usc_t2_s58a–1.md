@@ -15,7 +15,7 @@
 
 ## § 58a–1. Payment for telecommunications equipment and services; definitions
 
-As used in sections 58a–1 to 58a–3 of this title, the term—
+    As used in sections 58a–1 to 58a–3 of this title, the term—
 
     (1) “Sergeant at Arms” means the Sergeant at Arms and Doorkeeper of the United States Senate; and
 

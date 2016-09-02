@@ -15,7 +15,7 @@
 
 ## § 682. Definitions
 
-For purposes of sections 682 to 688 of this title—
+    For purposes of sections 682 to 688 of this title—
 
     (1)
 

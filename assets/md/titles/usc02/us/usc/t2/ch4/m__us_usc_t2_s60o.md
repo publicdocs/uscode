@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60m, 60n.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60p.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60o)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60l.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60p.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60o)
 
 ## § 60o. Lump sum payment for accrued annual leave of House employees
 
@@ -119,7 +119,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60m, 60n.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60p.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60o)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60l.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60p.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60o)
 
 ----------
 ----------

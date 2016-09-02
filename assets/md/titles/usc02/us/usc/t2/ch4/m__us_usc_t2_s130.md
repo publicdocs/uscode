@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s128, 129.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s130–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs130)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s127b.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s130–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs130)
 
 ## § 130. Repealed. [Pub. L. 95–391, title I, § 111][/us/pl/95/391/s111], Sept. 30, 1978, [92 Stat. 777][/us/stat/92/777]
 
@@ -33,7 +33,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s128, 129.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s130–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs130)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s127b.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s130–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs130)
 
 ----------
 ----------

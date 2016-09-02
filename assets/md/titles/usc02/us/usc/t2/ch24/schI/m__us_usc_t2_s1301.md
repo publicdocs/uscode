@@ -15,7 +15,7 @@
 
 ## § 1301. Definitions
 
-Except as otherwise specifically provided in this chapter, as used in this chapter:
+    Except as otherwise specifically provided in this chapter, as used in this chapter:
 
     (1) __Board__ 
 

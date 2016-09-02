@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch6/m__us_usc_t2_s190b, 190c.md) | [Next](./../../../..//us/usc/t2/ch6/m__us_usc_t2_s190e.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs190d)
+[Previous](./../../../..//us/usc/t2/ch6/m__us_usc_t2_s190a–3.md) | [Next](./../../../..//us/usc/t2/ch6/m__us_usc_t2_s190e.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs190d)
 
 ## § 190d. Legislative review by standing committees of the Senate and the House of Representatives
 
@@ -37,7 +37,7 @@
 
  __Partial Repeal__ 
 
-Section 2(a), S. Res. 274, Ninety-sixth Congress, Nov. 14, 1979, provided in part that this section, insofar as it relates to the Senate, is repealed. See Standing Rules of the Senate.
+    Section 2(a), S. Res. 274, Ninety-sixth Congress, Nov. 14, 1979, provided in part that this section, insofar as it relates to the Senate, is repealed. See Standing Rules of the Senate.
 
  __Amendments__ 
 
@@ -77,7 +77,7 @@ Section 2(a), S. Res. 274, Ninety-sixth Congress, Nov. 14, 1979, provided in par
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch6/m__us_usc_t2_s190b, 190c.md) | [Next](./../../../..//us/usc/t2/ch6/m__us_usc_t2_s190e.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs190d)
+[Previous](./../../../..//us/usc/t2/ch6/m__us_usc_t2_s190a–3.md) | [Next](./../../../..//us/usc/t2/ch6/m__us_usc_t2_s190e.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs190d)
 
 ----------
 ----------

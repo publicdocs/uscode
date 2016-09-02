@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s137a, 137b.md) | [Next](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s138.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs137c)
+[Previous](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s137.md) | [Next](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s138.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs137c)
 
 ## § 137c. Withdrawal of books from Library of Congress
 
@@ -29,7 +29,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s137a, 137b.md) | [Next](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s138.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs137c)
+[Previous](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s137.md) | [Next](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s138.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs137c)
 
 ----------
 ----------

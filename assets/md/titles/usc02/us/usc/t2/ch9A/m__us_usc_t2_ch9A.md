@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 285.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs285" data-uslm-ref="/us/usc/t2/s285">285.</a>  </td>
 
     <td> Establishment.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 285a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs285a" data-uslm-ref="/us/usc/t2/s285a">285a.</a>  </td>
 
     <td> Purpose and policy.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 285b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs285b" data-uslm-ref="/us/usc/t2/s285b">285b.</a>  </td>
 
     <td> Functions.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 285c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs285c" data-uslm-ref="/us/usc/t2/s285c">285c.</a>  </td>
 
     <td> Law Revision Counsel.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 285d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs285d" data-uslm-ref="/us/usc/t2/s285d">285d.</a>  </td>
 
     <td> Staff; Deputy Law Revision Counsel; delegation of functions.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 285e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs285e" data-uslm-ref="/us/usc/t2/s285e">285e.</a>  </td>
 
     <td> Compensation.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 285f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs285f" data-uslm-ref="/us/usc/t2/s285f">285f.</a>  </td>
 
     <td> Expenditures.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 285g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs285g" data-uslm-ref="/us/usc/t2/s285g">285g.</a>  </td>
 
     <td> Availability of applicable accounts of House.  </td>
 

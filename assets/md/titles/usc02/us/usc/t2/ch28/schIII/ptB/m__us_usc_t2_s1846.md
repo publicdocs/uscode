@@ -15,7 +15,7 @@
 
 ## § 1846. Exemptions
 
-Notwithstanding any other provision of sections 1841 to 1846 of this title, the foregoing provisions of such sections do not apply to any employee described in [section 1841 of this title][/us/usc/t2/s1841] whose pay is fixed and adjusted—
+    Notwithstanding any other provision of sections 1841 to 1846 of this title, the foregoing provisions of such sections do not apply to any employee described in [section 1841 of this title][/us/usc/t2/s1841] whose pay is fixed and adjusted—
 
     (1) in accordance with chapter 51, and subchapter III of chapter 53, of title 5, relating to classification and General Schedule pay rates;
 

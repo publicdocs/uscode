@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1501" data-uslm-ref="/us/usc/t2/s1501">1501.</a>  </td>
 
     <td> Purposes.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1502" data-uslm-ref="/us/usc/t2/s1502">1502.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1503" data-uslm-ref="/us/usc/t2/s1503">1503.</a>  </td>
 
     <td> Exclusions.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1504" data-uslm-ref="/us/usc/t2/s1504">1504.</a>  </td>
 
     <td> Agency assistance.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—LEGISLATIVE ACCOUNTABILITY AND REFORM  </td>
 
   <tr>
 
-    <td> 1511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1511" data-uslm-ref="/us/usc/t2/s1511">1511.</a>  </td>
 
     <td> Cost of regulations.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—LEGISLATIVE ACCOUNTABILITY AND REFORM  </td>
 
   <tr>
 
-    <td> 1512.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1512" data-uslm-ref="/us/usc/t2/s1512">1512.</a>  </td>
 
     <td> Consideration for Federal funding.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—LEGISLATIVE ACCOUNTABILITY AND REFORM  </td>
 
   <tr>
 
-    <td> 1513.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1513" data-uslm-ref="/us/usc/t2/s1513">1513.</a>  </td>
 
     <td> Impact on local governments.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—LEGISLATIVE ACCOUNTABILITY AND REFORM  </td>
 
   <tr>
 
-    <td> 1514.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1514" data-uslm-ref="/us/usc/t2/s1514">1514.</a>  </td>
 
     <td> Enforcement in House of Representatives.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—LEGISLATIVE ACCOUNTABILITY AND REFORM  </td>
 
   <tr>
 
-    <td> 1515.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1515" data-uslm-ref="/us/usc/t2/s1515">1515.</a>  </td>
 
     <td> Exercise of rulemaking powers.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—LEGISLATIVE ACCOUNTABILITY AND REFORM  </td>
 
   <tr>
 
-    <td> 1516.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1516" data-uslm-ref="/us/usc/t2/s1516">1516.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—REGULATORY ACCOUNTABILITY AND REFORM  </td>
 
   <tr>
 
-    <td> 1531.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1531" data-uslm-ref="/us/usc/t2/s1531">1531.</a>  </td>
 
     <td> Regulatory process.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—REGULATORY ACCOUNTABILITY AND REFORM  </td>
 
   <tr>
 
-    <td> 1532.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1532" data-uslm-ref="/us/usc/t2/s1532">1532.</a>  </td>
 
     <td> Statements to accompany significant regulatory actions.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—REGULATORY ACCOUNTABILITY AND REFORM  </td>
 
   <tr>
 
-    <td> 1533.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1533" data-uslm-ref="/us/usc/t2/s1533">1533.</a>  </td>
 
     <td> Small government agency plan.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—REGULATORY ACCOUNTABILITY AND REFORM  </td>
 
   <tr>
 
-    <td> 1534.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1534" data-uslm-ref="/us/usc/t2/s1534">1534.</a>  </td>
 
     <td> State, local, and tribal government input.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—REGULATORY ACCOUNTABILITY AND REFORM  </td>
 
   <tr>
 
-    <td> 1535.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1535" data-uslm-ref="/us/usc/t2/s1535">1535.</a>  </td>
 
     <td> Least burdensome option or explanation required.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—REGULATORY ACCOUNTABILITY AND REFORM  </td>
 
   <tr>
 
-    <td> 1536.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1536" data-uslm-ref="/us/usc/t2/s1536">1536.</a>  </td>
 
     <td> Assistance to Congressional Budget Office.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—REGULATORY ACCOUNTABILITY AND REFORM  </td>
 
   <tr>
 
-    <td> 1537.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1537" data-uslm-ref="/us/usc/t2/s1537">1537.</a>  </td>
 
     <td> Pilot program on small government flexibility.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER II—REGULATORY ACCOUNTABILITY AND REFORM  </td>
 
   <tr>
 
-    <td> 1538.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1538" data-uslm-ref="/us/usc/t2/s1538">1538.</a>  </td>
 
     <td> Annual statements to Congress on agency compliance.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER III—REVIEW OF FEDERAL MANDATES  </td>
 
   <tr>
 
-    <td> 1551.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1551" data-uslm-ref="/us/usc/t2/s1551">1551.</a>  </td>
 
     <td> Baseline study of costs and benefits.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER III—REVIEW OF FEDERAL MANDATES  </td>
 
   <tr>
 
-    <td> 1552.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1552" data-uslm-ref="/us/usc/t2/s1552">1552.</a>  </td>
 
     <td> Report on Federal mandates by Advisory Commission on Intergovernmental Relations.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER III—REVIEW OF FEDERAL MANDATES  </td>
 
   <tr>
 
-    <td> 1553.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1553" data-uslm-ref="/us/usc/t2/s1553">1553.</a>  </td>
 
     <td> Special authorities of Advisory Commission.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER III—REVIEW OF FEDERAL MANDATES  </td>
 
   <tr>
 
-    <td> 1554.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1554" data-uslm-ref="/us/usc/t2/s1554">1554.</a>  </td>
 
     <td> Annual report to Congress regarding Federal court rulings.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER III—REVIEW OF FEDERAL MANDATES  </td>
 
   <tr>
 
-    <td> 1555.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1555" data-uslm-ref="/us/usc/t2/s1555">1555.</a>  </td>
 
     <td> “Federal mandate” defined.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER III—REVIEW OF FEDERAL MANDATES  </td>
 
   <tr>
 
-    <td> 1556.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1556" data-uslm-ref="/us/usc/t2/s1556">1556.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER IV—JUDICIAL REVIEW  </td>
 
   <tr>
 
-    <td> 1571.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1571" data-uslm-ref="/us/usc/t2/s1571">1571.</a>  </td>
 
     <td> Judicial review.  </td>
 

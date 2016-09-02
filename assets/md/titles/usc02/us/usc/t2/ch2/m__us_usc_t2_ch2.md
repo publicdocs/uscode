@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 21.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs21" data-uslm-ref="/us/usc/t2/s21">21.</a>  </td>
 
     <td> Oath of Senators.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 22.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs22" data-uslm-ref="/us/usc/t2/s22">22.</a>  </td>
 
     <td> Oath of President of Senate.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 23.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs23" data-uslm-ref="/us/usc/t2/s23">23.</a>  </td>
 
     <td> Presiding officer of Senate may administer oaths.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 24.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs24" data-uslm-ref="/us/usc/t2/s24">24.</a>  </td>
 
     <td> Secretary of Senate or assistant secretary may administer oaths.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 25.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs25" data-uslm-ref="/us/usc/t2/s25">25.</a>  </td>
 
     <td> Oath of Speaker, Members, and Delegates.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 25a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs25a" data-uslm-ref="/us/usc/t2/s25a">25a.</a>  </td>
 
     <td> Delegate to House of Representatives from District of Columbia.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 25b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs25b" data-uslm-ref="/us/usc/t2/s25b">25b.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 26.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs26" data-uslm-ref="/us/usc/t2/s26">26.</a>  </td>
 
     <td> Roll of Representatives-elect.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 27.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs27" data-uslm-ref="/us/usc/t2/s27">27.</a>  </td>
 
     <td> Change of place of meeting.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 28.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs28" data-uslm-ref="/us/usc/t2/s28">28.</a>  </td>
 
     <td> Parliamentary precedents of House of Representatives.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 28a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs28a" data-uslm-ref="/us/usc/t2/s28a">28a.</a>  </td>
 
     <td> Compilation of the Precedents of House of Representatives; date of completion; biennial update; printing and availability of copies.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 28b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs28b" data-uslm-ref="/us/usc/t2/s28b">28b.</a>  </td>
 
     <td> Printing and binding as public document of Precedents of House of Representatives; number of sets authorized.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 28c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs28c" data-uslm-ref="/us/usc/t2/s28c">28c.</a>  </td>
 
     <td> Distribution of Precedents by Public Printer.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 28d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs28d" data-uslm-ref="/us/usc/t2/s28d">28d.</a>  </td>
 
     <td> Distribution of Precedents by Public Printer for official use; particular distribution; marking and ownership of sets.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 28e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs28e" data-uslm-ref="/us/usc/t2/s28e">28e.</a>  </td>
 
     <td> Distribution of Precedents by Joint Committee on Printing of surplus sets; additional printing, etc., of sets under authority of Joint Committee.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 29.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs29" data-uslm-ref="/us/usc/t2/s29">29.</a>  </td>
 
     <td> Condensed and simplified versions of House precedents; other useful materials in summary form; form and distribution to Members of Congress, Resident Commissioner from Puerto Rico, and others; appointment and compensation of personnel; utilization of services of personnel of Federal agencies.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 29a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs29a" data-uslm-ref="/us/usc/t2/s29a">29a.</a>  </td>
 
     <td> Early organization of House of Representatives.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 29b, 29c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs29b" data-uslm-ref="/us/usc/t2/s29b">29b</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs29c" data-uslm-ref="/us/usc/t2/s29c">29c.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 29d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs29d" data-uslm-ref="/us/usc/t2/s29d">29d.</a>  </td>
 
     <td> Committee on Standards of Official Conduct of House of Representatives.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 30.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs30" data-uslm-ref="/us/usc/t2/s30">30.</a>  </td>
 
     <td> Term of service of Members of Congress as trustees or directors of corporations or institutions appropriated for.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 30a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs30a" data-uslm-ref="/us/usc/t2/s30a">30a.</a>  </td>
 
     <td> Jury duty exemption of elected officials of legislative branch.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 30b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs30b" data-uslm-ref="/us/usc/t2/s30b">30b.</a>  </td>
 
     <td> Notice of objecting to proceeding.  </td>
 

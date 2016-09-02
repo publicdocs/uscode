@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60a–2.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60b, 60c.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%932a)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60a–2.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60c–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%932a)
 
 ## § 60a–2a. Rates of compensation disbursed by Chief Administrative Officer of House; adjustments by Speaker; “Member of the House of Representatives” defined
 
@@ -153,7 +153,7 @@
 
                               Nancy Pelosi  
 
-    Speaker of the House
+Speaker of the House
 
     Prior Orders of the Speaker of the House of Representatives were issued on the following dates:
 
@@ -191,9 +191,17 @@
 
     Jan. 20, 1988, eff. Jan. 1, 1988.
 
+§§ 60b, 60c. __Omitted__ 
+
+ __Codification__ 
+
+    Section 60b, acts [June 20, 1929, ch. 33, § 2][/us/act/1929-06-20/ch33/s2], [46 Stat. 38][/us/stat/46/38]; [July 25, 1939, ch. 352, § 3][/us/act/1939-07-25/ch352/s3], [53 Stat. 1080][/us/stat/53/1080], which provided that clerk hire should be at rate of $6,500 per annum and limited individual salaries to $3,900 per annum, was superseded by former [section 60g of this title][/us/usc/t2/s60g].
+
+    Section 60c, R.S. § 55, related to payment of salaries of chaplains.
+
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60a–2.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60b, 60c.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%932a)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60a–2.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s60c–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%932a)
 
 ----------
 ----------
@@ -221,5 +229,10 @@
 [/us/usc/t2/s60a–2a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%932a
 [/us/usc/t2/s60a–2a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%932a
 [/us/stat/77/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F817
+[/us/act/1929-06-20/ch33/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-06-20%2Fch33%2Fs2
+[/us/stat/46/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F38
+[/us/act/1939-07-25/ch352/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-07-25%2Fch352%2Fs3
+[/us/stat/53/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1080
+[/us/usc/t2/s60g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60g
 
 

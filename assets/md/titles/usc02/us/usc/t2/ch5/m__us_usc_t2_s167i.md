@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s167 to 167h.md) | [Next](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s167j.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs167i)
+[Previous](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s166.md) | [Next](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s167j.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs167i)
 
 ## § 167i. Suspension of prohibitions against use of Library buildings and grounds
 
@@ -37,7 +37,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s167 to 167h.md) | [Next](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s167j.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs167i)
+[Previous](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s166.md) | [Next](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s167j.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs167i)
 
 ----------
 ----------

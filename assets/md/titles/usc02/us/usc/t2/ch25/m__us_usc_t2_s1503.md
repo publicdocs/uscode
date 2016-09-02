@@ -15,7 +15,7 @@
 
 ## § 1503. Exclusions
 
-This chapter shall not apply to any provision in a bill, joint resolution, amendment, motion, or conference report before Congress and any provision in a proposed or final Federal regulation that—
+    This chapter shall not apply to any provision in a bill, joint resolution, amendment, motion, or conference report before Congress and any provision in a proposed or final Federal regulation that—
 
     (1) enforces constitutional rights of individuals;
 

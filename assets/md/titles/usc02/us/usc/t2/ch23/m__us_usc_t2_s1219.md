@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch23/m__us_usc_t2_s1203 to 1218.md) | [Next](./../../../..//us/usc/t2/ch23/m__us_usc_t2_s1220.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1219)
+[Previous](./../../../..//us/usc/t2/ch23/m__us_usc_t2_ch23.md) | [Next](./../../../..//us/usc/t2/ch23/m__us_usc_t2_s1220.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1219)
 
 ## § 1219. Repealed. [Pub. L. 104–331, § 5(a)][/us/pl/104/331/s5/a], Oct. 26, 1996, [110 Stat. 4072][/us/stat/110/4072]
 
@@ -33,7 +33,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch23/m__us_usc_t2_s1203 to 1218.md) | [Next](./../../../..//us/usc/t2/ch23/m__us_usc_t2_s1220.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1219)
+[Previous](./../../../..//us/usc/t2/ch23/m__us_usc_t2_ch23.md) | [Next](./../../../..//us/usc/t2/ch23/m__us_usc_t2_s1220.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1219)
 
 ----------
 ----------

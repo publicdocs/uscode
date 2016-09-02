@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 471.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs471" data-uslm-ref="/us/usc/t2/s471">471.</a>  </td>
 
     <td> Congressional findings and declaration of purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 472.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs472" data-uslm-ref="/us/usc/t2/s472">472.</a>  </td>
 
     <td> Office of Technology Assessment.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 473.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs473" data-uslm-ref="/us/usc/t2/s473">473.</a>  </td>
 
     <td> Technology Assessment Board.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 474.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs474" data-uslm-ref="/us/usc/t2/s474">474.</a>  </td>
 
     <td> Director of Office of Technology Assessment.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 475.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs475" data-uslm-ref="/us/usc/t2/s475">475.</a>  </td>
 
     <td> Powers of Office of Technology Assessment.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 476.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs476" data-uslm-ref="/us/usc/t2/s476">476.</a>  </td>
 
     <td> Technology Assessment Advisory Council.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 477.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs477" data-uslm-ref="/us/usc/t2/s477">477.</a>  </td>
 
     <td> Utilization of services of Library of Congress.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 478.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs478" data-uslm-ref="/us/usc/t2/s478">478.</a>  </td>
 
     <td> Utilization of the Government Accountability Office.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 479.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs479" data-uslm-ref="/us/usc/t2/s479">479.</a>  </td>
 
     <td> Coordination of activities with National Science Foundation.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 480.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs480" data-uslm-ref="/us/usc/t2/s480">480.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 481.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs481" data-uslm-ref="/us/usc/t2/s481">481.</a>  </td>
 
     <td> Authorization of appropriations; availability of appropriations.  </td>
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch1/m__us_usc_t2_s3, 4.md) | [Next](./../../../..//us/usc/t2/ch1/m__us_usc_t2_s6.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5)
+[Previous](./../../../..//us/usc/t2/ch1/m__us_usc_t2_s2c.md) | [Next](./../../../..//us/usc/t2/ch1/m__us_usc_t2_s6.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5)
 
 ## § 5. Nominations for Representatives at large
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch1/m__us_usc_t2_s3, 4.md) | [Next](./../../../..//us/usc/t2/ch1/m__us_usc_t2_s6.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5)
+[Previous](./../../../..//us/usc/t2/ch1/m__us_usc_t2_s2c.md) | [Next](./../../../..//us/usc/t2/ch1/m__us_usc_t2_s6.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs5)
 
 ----------
 ----------

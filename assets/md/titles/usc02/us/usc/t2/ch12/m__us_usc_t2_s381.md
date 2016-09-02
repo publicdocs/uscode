@@ -15,7 +15,7 @@
 
 ## § 381. Definitions
 
-For purposes of this chapter:
+    For purposes of this chapter:
 
     (1) The term “election” means an official general or special election to choose a Representative in, or Delegate or Resident Commissioner to, the Congress, but that term does not include a primary election, or a caucus or convention of a political party.
 

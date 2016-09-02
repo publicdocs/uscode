@@ -37,55 +37,55 @@
 
              Except as is otherwise provided in subparagraphs (B) and (C), the aggregate of gross compensation paid employees in the office of a Senator shall not exceed during each fiscal year the following:
 
-            $1,518,333 if the population of the State is less than 5,000,000;
+                $1,518,333 if the population of the State is less than 5,000,000;
 
-            $1,573,297 if such population is 5,000,000 but less than 6,000,000;
+                $1,573,297 if such population is 5,000,000 but less than 6,000,000;
 
-            $1,628,265 if such population is 6,000,000 but less than 7,000,000;
+                $1,628,265 if such population is 6,000,000 but less than 7,000,000;
 
-            $1,683,230 if such population is 7,000,000 but less than 8,000,000;
+                $1,683,230 if such population is 7,000,000 but less than 8,000,000;
 
-            $1,738,197 if such population is 8,000,000 but less than 9,000,000;
+                $1,738,197 if such population is 8,000,000 but less than 9,000,000;
 
-            $1,793,161 if such population is 9,000,000 but less than 10,000,000;
+                $1,793,161 if such population is 9,000,000 but less than 10,000,000;
 
-            $1,848,130 if such population is 10,000,000 but less than 11,000,000;
+                $1,848,130 if such population is 10,000,000 but less than 11,000,000;
 
-            $1,903,096 if such population is 11,000,000 but less than 12,000,000;
+                $1,903,096 if such population is 11,000,000 but less than 12,000,000;
 
-            $1,958,061 if such population is 12,000,000 but less than 13,000,000;
+                $1,958,061 if such population is 12,000,000 but less than 13,000,000;
 
-            $2,013,027 if such population is 13,000,000 but less than 14,000,000;
+                $2,013,027 if such population is 13,000,000 but less than 14,000,000;
 
-            $2,067,994 if such population is 14,000,000 but less than 15,000,000;
+                $2,067,994 if such population is 14,000,000 but less than 15,000,000;
 
-            $2,122,960 if such population is 15,000,000 but less than 16,000,000;
+                $2,122,960 if such population is 15,000,000 but less than 16,000,000;
 
-            $2,177,928 if such population is 16,000,000 but less than 17,000,000;
+                $2,177,928 if such population is 16,000,000 but less than 17,000,000;
 
-            $2,232,894 if such population is 17,000,000 but less than 18,000,000;
+                $2,232,894 if such population is 17,000,000 but less than 18,000,000;
 
-            $2,268,057 if such population is 18,000,000 but less than 19,000,000;
+                $2,268,057 if such population is 18,000,000 but less than 19,000,000;
 
-            $2,303,224 if such population is 19,000,000 but less than 20,000,000;
+                $2,303,224 if such population is 19,000,000 but less than 20,000,000;
 
-            $2,338,391 if such population is 20,000,000 but less than 21,000,000;
+                $2,338,391 if such population is 20,000,000 but less than 21,000,000;
 
-            $2,373,558 if such population is 21,000,000 but less than 22,000,000;
+                $2,373,558 if such population is 21,000,000 but less than 22,000,000;
 
-            $2,408,725 if such population is 22,000,000 but less than 23,000,000;
+                $2,408,725 if such population is 22,000,000 but less than 23,000,000;
 
-            $2,443,891 if such population is 23,000,000 but less than 24,000,000;
+                $2,443,891 if such population is 23,000,000 but less than 24,000,000;
 
-            $2,479,054 if such population is 24,000,000 but less than 25,000,000;
+                $2,479,054 if such population is 24,000,000 but less than 25,000,000;
 
-            $2,514,218 if such population is 25,000,000 but less than 26,000,000;
+                $2,514,218 if such population is 25,000,000 but less than 26,000,000;
 
-            $2,549,387 if such population is 26,000,000 but less than 27,000,000;
+                $2,549,387 if such population is 26,000,000 but less than 27,000,000;
 
-            $2,584,552 if such population is 27,000,000 but less than 28,000,000; and
+                $2,584,552 if such population is 27,000,000 but less than 28,000,000; and
 
-            $2,619,720 if such population is 28,000,000 or more.
+                $2,619,720 if such population is 28,000,000 or more.
 
                 For any fiscal year, the population of a State shall be deemed to be whichever of the following is the higher:
 
@@ -163,7 +163,7 @@
 
  __Increase in Aggregate Compensation of Employees in Offices of Senators__ 
 
-For increase in amounts in table in subsection (d)(1)(A) of this section, that is not reflected in text, see 2002 to 2010 Amendment notes below.
+    For increase in amounts in table in subsection (d)(1)(A) of this section, that is not reflected in text, see 2002 to 2010 Amendment notes below.
 
  __Codification__ 
 
@@ -1103,7 +1103,9 @@ Section is comprised of subsecs. (a) to (f) and (j) of [section 105 of Pub. L. 9
 
 [Pub. L. 95–4][/us/pl/95/4], Feb. 16, 1977, [91 Stat. 12][/us/stat/91/12], provided: 
 
-> “That (a) notwithstanding the limitations contained in section 105(e) of the Legislative Branch Appropriation Act, 1968, as amended and modified \[subsec. (e) of this section\], each eligible staff member of a new committee to whom section 703(d) of the Committee System Reorganization Amendments of 1977 \[S. Res. 4, Feb. 4, 1977\] applies may, during the transition period of such new committee, be paid gross annual compensation at the rate which that eligible staff member was receiving on January 4, 1977.
+>     “That 
+
+>     (a) notwithstanding the limitations contained in section 105(e) of the Legislative Branch Appropriation Act, 1968, as amended and modified \[subsec. (e) of this section\], each eligible staff member of a new committee to whom section 703(d) of the Committee System Reorganization Amendments of 1977 \[S. Res. 4, Feb. 4, 1977\] applies may, during the transition period of such new committee, be paid gross annual compensation at the rate which that eligible staff member was receiving on January 4, 1977.
 
 >     “(b) For purposes of subsection (a), the terms ‘eligible staff member’, ‘new committee’, and ‘transition period’ have the meanings given to them by section 701 of the Committee System Reorganization Amendments of 1977 \[S. Res. 4, Feb. 4, 1977\].”
 

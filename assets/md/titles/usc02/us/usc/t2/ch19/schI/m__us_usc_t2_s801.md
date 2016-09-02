@@ -25,6 +25,12 @@
 
     [Pub. L. 106–533, § 1(b)(3)(B)][/us/pl/106/533/s1/b/3/B], made technical amendment to reference in original act which appears in text as reference to [section 802 of this title][/us/usc/t2/s802].
 
+ __Short Title of 2013 Amendment__ 
+
+[Pub. L. 113–43, § 1][/us/pl/113/43/s1], Oct. 4, 2013, [127 Stat. 554][/us/stat/127/554], provided that: 
+
+> “This Act \[amending [section 808 of this title][/us/usc/t2/s808] and enacting provisions set out as a note under [section 808 of this title][/us/usc/t2/s808]\] may be cited as the ‘Congressional Award Program Reauthorization Act of 2013’.”
+
  __Short Title of 2010 Amendment__ 
 
 [Pub. L. 111–200, § 1][/us/pl/111/200/s1], July 7, 2010, [124 Stat. 1368][/us/stat/124/1368], provided that: 
@@ -80,6 +86,10 @@
 [/us/pl/106/533/s1/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F533%2Fs1%2Fb%2F3%2FA
 [/us/pl/106/533/s1/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F533%2Fs1%2Fb%2F3%2FB
 [/us/usc/t2/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs802
+[/us/pl/113/43/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F43%2Fs1
+[/us/stat/127/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F554
+[/us/usc/t2/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs808
+[/us/usc/t2/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs808
 [/us/pl/111/200/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F200%2Fs1
 [/us/stat/124/1368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1368
 [/us/usc/t2/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs808

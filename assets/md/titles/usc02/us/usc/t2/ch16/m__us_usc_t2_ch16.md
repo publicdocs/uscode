@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs501" data-uslm-ref="/us/usc/t2/s501">501.</a>  </td>
 
     <td> House Commission on Congressional Mailing Standards.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs502" data-uslm-ref="/us/usc/t2/s502">502.</a>  </td>
 
     <td> Select Committee on Standards and Conduct of the Senate.  </td>
 

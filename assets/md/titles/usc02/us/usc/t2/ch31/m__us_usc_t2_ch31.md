@@ -33,7 +33,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 2201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs2201" data-uslm-ref="/us/usc/t2/s2201">2201.</a>  </td>
 
     <td> Designation of facility as Capitol Visitor Center; purposes of facility; treatment of the Capitol Visitor Center.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 2202.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs2202" data-uslm-ref="/us/usc/t2/s2202">2202.</a>  </td>
 
     <td> Designation and naming within the Capitol Visitor Center.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—IN GENERAL  </td>
 
   <tr>
 
-    <td> 2203.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs2203" data-uslm-ref="/us/usc/t2/s2203">2203.</a>  </td>
 
     <td> Use of the Emancipation Hall of the Capitol Visitor Center.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER II—OFFICE OF THE CAPITOL VISITOR CENTER  </td>
 
   <tr>
 
-    <td> 2211.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs2211" data-uslm-ref="/us/usc/t2/s2211">2211.</a>  </td>
 
     <td> Establishment.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—OFFICE OF THE CAPITOL VISITOR CENTER  </td>
 
   <tr>
 
-    <td> 2212.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs2212" data-uslm-ref="/us/usc/t2/s2212">2212.</a>  </td>
 
     <td> Appointment and supervision of Chief Executive Officer for Visitor Services.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—OFFICE OF THE CAPITOL VISITOR CENTER  </td>
 
   <tr>
 
-    <td> 2213.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs2213" data-uslm-ref="/us/usc/t2/s2213">2213.</a>  </td>
 
     <td> General duties of Chief Executive Officer.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—OFFICE OF THE CAPITOL VISITOR CENTER  </td>
 
   <tr>
 
-    <td> 2214.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs2214" data-uslm-ref="/us/usc/t2/s2214">2214.</a>  </td>
 
     <td> Assistant to the Chief Executive Officer.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—OFFICE OF THE CAPITOL VISITOR CENTER  </td>
 
   <tr>
 
-    <td> 2215.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs2215" data-uslm-ref="/us/usc/t2/s2215">2215.</a>  </td>
 
     <td> Gift Shop.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—OFFICE OF THE CAPITOL VISITOR CENTER  </td>
 
   <tr>
 
-    <td> 2216.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs2216" data-uslm-ref="/us/usc/t2/s2216">2216.</a>  </td>
 
     <td> Food service operations.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER III—CAPITOL VISITOR CENTER REVOLVING FUND  </td>
 
   <tr>
 
-    <td> 2231.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs2231" data-uslm-ref="/us/usc/t2/s2231">2231.</a>  </td>
 
     <td> Establishment and accounts.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER III—CAPITOL VISITOR CENTER REVOLVING FUND  </td>
 
   <tr>
 
-    <td> 2232.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs2232" data-uslm-ref="/us/usc/t2/s2232">2232.</a>  </td>
 
     <td> Deposits in the Fund.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER III—CAPITOL VISITOR CENTER REVOLVING FUND  </td>
 
   <tr>
 
-    <td> 2233.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs2233" data-uslm-ref="/us/usc/t2/s2233">2233.</a>  </td>
 
     <td> Use of monies.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER III—CAPITOL VISITOR CENTER REVOLVING FUND  </td>
 
   <tr>
 
-    <td> 2234.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs2234" data-uslm-ref="/us/usc/t2/s2234">2234.</a>  </td>
 
     <td> Administration of Fund.  </td>
 
@@ -169,7 +169,7 @@ Part A—Capitol Guide Service  </td>
 
   <tr>
 
-    <td> 2241.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs2241" data-uslm-ref="/us/usc/t2/s2241">2241.</a>  </td>
 
     <td> Transfer of Capitol Guide Service.  </td>
 
@@ -177,7 +177,7 @@ Part A—Capitol Guide Service  </td>
 
   <tr>
 
-    <td> 2242.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs2242" data-uslm-ref="/us/usc/t2/s2242">2242.</a>  </td>
 
     <td> Duties of employees of Capitol Guide Service.  </td>
 
@@ -193,7 +193,7 @@ Part B—Office of Congressional Accessibility Services  </td>
 
   <tr>
 
-    <td> 2251.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs2251" data-uslm-ref="/us/usc/t2/s2251">2251.</a>  </td>
 
     <td> Office of Congressional Accessibility Services.  </td>
 
@@ -201,7 +201,7 @@ Part B—Office of Congressional Accessibility Services  </td>
 
   <tr>
 
-    <td> 2252.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs2252" data-uslm-ref="/us/usc/t2/s2252">2252.</a>  </td>
 
     <td> Transfer from Capitol Guide Service.  </td>
 
@@ -217,7 +217,7 @@ Part C—Transfer Date  </td>
 
   <tr>
 
-    <td> 2261.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs2261" data-uslm-ref="/us/usc/t2/s2261">2261.</a>  </td>
 
     <td> Transfer date.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER V—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 2271.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs2271" data-uslm-ref="/us/usc/t2/s2271">2271.</a>  </td>
 
     <td> Jurisdictions unaffected.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER V—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 2272.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs2272" data-uslm-ref="/us/usc/t2/s2272">2272.</a>  </td>
 
     <td> Acceptance of volunteer services.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER V—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 2273.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs2273" data-uslm-ref="/us/usc/t2/s2273">2273.</a>  </td>
 
     <td> Coins treated as gifts.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER VI—AUTHORIZATION OF APPROPRIATIONS  </td>
 
   <tr>
 
-    <td> 2281.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs2281" data-uslm-ref="/us/usc/t2/s2281">2281.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

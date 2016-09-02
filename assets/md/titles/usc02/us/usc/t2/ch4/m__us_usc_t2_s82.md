@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s81a to 81c.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s83.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs82)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s81.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s83.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs82)
 
 ## § 82. Repealed. [Pub. L. 92–310, title II, § 220(d)][/us/pl/92/310/s220/d], (e), June 6, 1972, [86 Stat. 204][/us/stat/86/204]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s81a to 81c.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s83.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs82)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s81.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s83.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs82)
 
 ----------
 ----------

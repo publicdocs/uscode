@@ -15,7 +15,7 @@
 
 ## § 622. Definitions
 
-For purposes of this Act—
+    For purposes of this Act—
 
     (1) The terms “budget outlays” and “outlays” mean, with respect to any fiscal year, expenditures and net lending of funds under budget authority during such year.
 

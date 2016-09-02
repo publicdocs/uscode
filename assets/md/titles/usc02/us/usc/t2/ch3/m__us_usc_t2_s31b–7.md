@@ -15,7 +15,7 @@
 
 ## § 31b–7. Availability of entitlements of former Speaker for 5 years
 
-The entitlements of a former Speaker of the House of Representatives under sections 31b–1 to 31b–7 of this title shall be available—
+    The entitlements of a former Speaker of the House of Representatives under sections 31b–1 to 31b–7 of this title shall be available—
 
     (1) in the case of an individual who is a former Speaker on October 1, 1993, for 5 years, commencing on October 1, 1993; and
 

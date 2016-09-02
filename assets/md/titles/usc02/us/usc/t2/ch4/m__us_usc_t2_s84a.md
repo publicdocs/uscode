@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s84–3, 84–4.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s84a–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs84a)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s84–2.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s84a–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs84a)
 
 ## § 84a. Reporters for House of Representatives
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s84–3, 84–4.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s84a–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs84a)
+[Previous](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s84–2.md) | [Next](./../../../..//us/usc/t2/ch4/m__us_usc_t2_s84a–1.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs84a)
 
 ----------
 ----------

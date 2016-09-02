@@ -15,7 +15,7 @@
 
 ## § 1502. Definitions
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (1) except as provided in [section 1555 of this title][/us/usc/t2/s1555], the terms defined under [section 658 of this title][/us/usc/t2/s658] shall have the meanings as so defined; and
 

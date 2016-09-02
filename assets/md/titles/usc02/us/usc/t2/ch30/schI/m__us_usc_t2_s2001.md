@@ -211,7 +211,7 @@ House Resolution No. 208, Ninety-fourth Congress, Feb. 24, 1975, as enacted into
 
 >     “(4) to utilize the services of the Architect of the Capitol to prepare bids, leases, or otherwise assist in obtaining such additional parking facilities.
 
->         Until otherwise provided by law, there shall be paid out of the applicable accounts of the House of Representatives such sums as may be necessary to carry out this authorization.”
+>     Until otherwise provided by law, there shall be paid out of the applicable accounts of the House of Representatives such sums as may be necessary to carry out this authorization.”
 
  __Inclusion of Additional Areas and Buildings__ 
 

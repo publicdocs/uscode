@@ -15,7 +15,7 @@
 
 ## § 661. Purposes
 
-The purposes of this subchapter are to—
+    The purposes of this subchapter are to—
 
     (1) measure more accurately the costs of Federal credit programs;
 
