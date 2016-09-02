@@ -15,15 +15,15 @@
 
 ## § 321. Post-grant review
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Subject to the provisions of this chapter, a person who is not the owner of a patent may file with the Office a petition to institute a post-grant review of the patent. The Director shall establish, by regulation, fees to be paid by the person requesting the review, in such amounts as the Director determines to be reasonable, considering the aggregate costs of the post-grant review.
 
-    (b) __Scope.—__ 
+    (b)  __Scope__  __.—__ 
 
     A petitioner in a post-grant review may request to cancel as unpatentable 1 or more claims of a patent on any ground that could be raised under paragraph (2) or (3) of section 282(b) (relating to invalidity of the patent or any claim).
 
-    (c) __Filing Deadline.—__ 
+    (c)  __Filing Deadline__  __.—__ 
 
     A petition for a post-grant review may only be filed not later than the date that is 9 months after the date of the grant of the patent or of the issuance of a reissue patent (as the case may be).
 
@@ -35,17 +35,17 @@
 
 >     “(2) __Applicability.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The amendments made by subsection (d) \[enacting this chapter\] shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act \[Sept. 16, 2011\] and, except as provided in section 18 \[set out as a note below\] and in paragraph (3), shall apply only to patents described in section 3(n)(1) \[set out as an Effective Date of 2011 Amendment; Savings Provisions note under [section 100 of this title][/us/usc/t35/s100]\].
 
->         “(B) __Limitation.—__ 
+>         “(B)  __Limitation__  __.—__ 
 
 >         The Director \[Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office\] may impose a limit on the number of post-grant reviews that may be instituted under chapter 32 of title 35, United States Code, during each of the first 4 1-year periods in which the amendments made by subsection (d) are in effect.
 
 >     “(3) __Pending interferences.—__ 
 
->         “(A) __Procedures in general.—__ 
+>         “(A)  __Procedures in general__  __.—__ 
 
 >         The Director shall determine, and include in the regulations issued under paragraph (1) \[set out as a note below\], the procedures under which an interference commenced before the effective date set forth in paragraph (2)(A) is to proceed, including whether such interference—
 
@@ -53,11 +53,11 @@
 
 >             “(ii) is to proceed as if this Act \[see Short Title of 2011 Amendment note set out under [section 1 of this title][/us/usc/t35/s1]\] had not been enacted.
 
->         “(B) __Proceedings by patent trial and appeal board.—__ 
+>         “(B)  __Proceedings by patent trial and appeal board__  __.—__ 
 
 >         For purposes of an interference that is commenced before the effective date set forth in paragraph (2)(A), the Director may deem the Patent Trial and Appeal Board to be the Board of Patent Appeals and Interferences, and may allow the Patent Trial and Appeal Board to conduct any further proceedings in that interference.
 
->         “(C) __Appeals.—__ 
+>         “(C)  __Appeals__  __.—__ 
 
 >         The authorization to appeal or have remedy from derivation proceedings in sections 141(d) and 146 of title 35, United States Code, as amended by this Act, and the jurisdiction to entertain appeals from derivation proceedings in [section 1295(a)(4)(A) of title 28][/us/usc/t28/s1295/a/4/A], United States Code, as amended by this Act, shall be deemed to extend to any final decision in an interference that is commenced before the effective date set forth in paragraph (2)(A) of this subsection and that is not dismissed pursuant to this paragraph.”
 
@@ -73,7 +73,7 @@
 
 >     “(a) __Transitional Program.—__ 
 
->         “(1) __Establishment.—__ 
+>         “(1)  __Establishment__  __.—__ 
 
 >         Not later than the date that is 1 year after the date of the enactment of this Act \[Sept. 16, 2011\], the Director \[Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office\] shall issue regulations establishing and implementing a transitional post-grant review proceeding for review of the validity of covered business method patents. The transitional proceeding implemented pursuant to this subsection shall be regarded as, and shall employ the standards and procedures of, a post-grant review under chapter 32 of title 35, United States Code, subject to the following:
 
@@ -99,23 +99,23 @@
 
 >             “(E) The Director may institute a transitional proceeding only for a patent that is a covered business method patent.
 
->         “(2) __Effective date.—__ 
+>         “(2)  __Effective date__  __.—__ 
 
 >         The regulations issued under paragraph (1) shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act \[Sept. 16, 2011\] and shall apply to any covered business method patent issued before, on, or after that effective date, except that the regulations shall not apply to a patent described in section 6(f)(2)(A) of this Act \[set out as a note above\] during the period in which a petition for post-grant review of that patent would satisfy the requirements of [section 321(c) of title 35][/us/usc/t35/s321/c], United States Code.
 
 >         “(3) __Sunset.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             This subsection, and the regulations issued under this subsection, are repealed effective upon the expiration of the 8-year period beginning on the date that the regulations issued under to \[sic\] paragraph (1) take effect.
 
->             “(B) __Applicability.—__ 
+>             “(B)  __Applicability__  __.—__ 
 
 >             Notwithstanding subparagraph (A), this subsection and the regulations issued under this subsection shall continue to apply, after the date of the repeal under subparagraph (A), to any petition for a transitional proceeding that is filed before the date of such repeal.
 
 >     “(b) __Request for Stay.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         If a party seeks a stay of a civil action alleging infringement of a patent under [section 281 of title 35][/us/usc/t35/s281], United States Code, relating to a transitional proceeding for that patent, the court shall decide whether to enter a stay based on—
 
@@ -127,25 +127,25 @@
 
 >             “(D) whether a stay, or the denial thereof, will reduce the burden of litigation on the parties and on the court.
 
->         “(2) __Review.—__ 
+>         “(2)  __Review__  __.—__ 
 
 >         A party may take an immediate interlocutory appeal from a district court’s decision under paragraph (1). The United States Court of Appeals for the Federal Circuit shall review the district court’s decision to ensure consistent application of established precedent, and such review may be de novo.
 
->     “(c) __ATM Exemption for Venue Purposes.—__ 
+>     “(c)  __ATM Exemption for Venue Purposes__  __.—__ 
 
 >     In an action for infringement under [section 281 of title 35][/us/usc/t35/s281], United States Code, of a covered business method patent, an automated teller machine shall not be deemed to be a regular and established place of business for purposes of [section 1400(b) of title 28][/us/usc/t28/s1400/b], United States Code.
 
 >     “(d) __Definition.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         For purposes of this section, the term ‘covered business method patent’ means a patent that claims a method or corresponding apparatus for performing data processing or other operations used in the practice, administration, or management of a financial product or service, except that the term does not include patents for technological inventions.
 
->         “(2) __Regulations.—__ 
+>         “(2)  __Regulations__  __.—__ 
 
 >         To assist in implementing the transitional proceeding authorized by this section, the Director shall issue regulations for determining whether a patent is for a technological invention.
 
->     “(e) __Rule of Construction.—__ 
+>     “(e)  __Rule of Construction__  __.—__ 
 
 >     Nothing in this section shall be construed as amending or interpreting categories of patent-eligible subject matter set forth under [section 101 of title 35][/us/usc/t35/s101], United States Code.”
 

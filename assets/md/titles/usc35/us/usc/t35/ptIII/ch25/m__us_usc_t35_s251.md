@@ -15,19 +15,19 @@
 
 ## § 251. Reissue of defective patents
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Whenever any patent is, through error, deemed wholly or partly inoperative or invalid, by reason of a defective specification or drawing, or by reason of the patentee claiming more or less than he had a right to claim in the patent, the Director shall, on the surrender of such patent and the payment of the fee required by law, reissue the patent for the invention disclosed in the original patent, and in accordance with a new and amended application, for the unexpired part of the term of the original patent. No new matter shall be introduced into the application for reissue.
 
-    (b) __Multiple Reissued Patents.—__ 
+    (b)  __Multiple Reissued Patents__  __.—__ 
 
     The Director may issue several reissued patents for distinct and separate parts of the thing patented, upon demand of the applicant, and upon payment of the required fee for a reissue for each of such reissued patents.
 
-    (c) __Applicability of This Title.—__ 
+    (c)  __Applicability of This Title__  __.—__ 
 
     The provisions of this title relating to applications for patent shall be applicable to applications for reissue of a patent, except that application for reissue may be made and sworn to by the assignee of the entire interest if the application does not seek to enlarge the scope of the claims of the original patent or the application for the original patent was filed by the assignee of the entire interest.
 
-    (d) __Reissue Patent Enlarging Scope of Claims.—__ 
+    (d)  __Reissue Patent Enlarging Scope of Claims__  __.—__ 
 
     No reissued patent shall be granted enlarging the scope of the claims of the original patent unless applied for within two years from the grant of the original patent.
 

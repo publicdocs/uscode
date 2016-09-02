@@ -15,7 +15,7 @@
 
 ## § 322. Petitions
 
-    (a) __Requirements of Petition.—__ 
+    (a)  __Requirements of Petition__  __.—__ 
 
     A petition filed under section 321 may be considered only if—
 
@@ -35,7 +35,7 @@
 
         (5) the petitioner provides copies of any of the documents required under paragraphs (2), (3), and (4) to the patent owner or, if applicable, the designated representative of the patent owner.
 
-    (b) __Public Availability.—__ 
+    (b)  __Public Availability__  __.—__ 
 
     As soon as practicable after the receipt of a petition under section 321, the Director shall make the petition available to the public.
 

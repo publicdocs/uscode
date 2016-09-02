@@ -15,7 +15,7 @@
 
 ## § 209. Licensing federally owned inventions
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     A Federal agency may grant an exclusive or partially exclusive license on a federally owned invention under section 207(a)(2) only if—
 
@@ -35,15 +35,15 @@
 
         (5) in the case of an invention covered by a foreign patent application or patent, the interests of the Federal Government or United States industry in foreign commerce will be enhanced.
 
-    (b) __Manufacture in United States.—__ 
+    (b)  __Manufacture in United States__  __.—__ 
 
     A Federal agency shall normally grant a license under section 207(a)(2) to use or sell any federally owned invention in the United States only to a licensee who agrees that any products embodying the invention or produced through the use of the invention will be manufactured substantially in the United States.
 
-    (c) __Small Business.—__ 
+    (c)  __Small Business__  __.—__ 
 
     First preference for the granting of any exclusive or partially exclusive licenses under section 207(a)(2) shall be given to small business firms having equal or greater likelihood as other applicants to bring the invention to practical application within a reasonable time.
 
-    (d) __Terms and Conditions.—__ 
+    (d)  __Terms and Conditions__  __.—__ 
 
     Any licenses granted under section 207(a)(2) shall contain such terms and conditions as the granting agency considers appropriate, and shall include provisions—
 
@@ -63,11 +63,11 @@
 
             (D) the licensee has been found by a court of competent jurisdiction to have violated the Federal antitrust laws in connection with its performance under the license agreement.
 
-    (e) __Public Notice.—__ 
+    (e)  __Public Notice__  __.—__ 
 
     No exclusive or partially exclusive license may be granted under section 207(a)(2) unless public notice of the intention to grant an exclusive or partially exclusive license on a federally owned invention has been provided in an appropriate manner at least 15 days before the license is granted, and the Federal agency has considered all comments received before the end of the comment period in response to that public notice. This subsection shall not apply to the licensing of inventions made under a cooperative research and development agreement entered into under section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3710a][/us/usc/t15/s3710a]).
 
-    (f) __Plan.—__ 
+    (f)  __Plan__  __.—__ 
 
     No Federal agency shall grant any license under a patent or patent application on a federally owned invention unless the person requesting the license has supplied the agency with a plan for development or marketing of the invention, except that any such plan shall be treated by the Federal agency as commercial and financial information obtained from a person and privileged and confidential and not subject to disclosure under [section 552 of title 5][/us/usc/t5/s552].
 

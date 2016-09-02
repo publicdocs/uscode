@@ -15,7 +15,7 @@
 
 ## § 102. Conditions for patentability; novelty
 
-    (a) __Novelty; Prior Art.—__ 
+    (a)  __Novelty; Prior Art__  __.—__ 
 
     A person shall be entitled to a patent unless—
 
@@ -25,7 +25,7 @@
 
     (b) __Exceptions.—__ 
 
-        (1) __Disclosures made 1 year or less before the effective filing date of the claimed invention.—__ 
+        (1)  __Disclosures made 1 year or less before the effective filing date of the claimed invention__  __.—__ 
 
         A disclosure made 1 year or less before the effective filing date of a claimed invention shall not be prior art to the claimed invention under subsection (a)(1) if—
 
@@ -33,7 +33,7 @@
 
             (B) the subject matter disclosed had, before such disclosure, been publicly disclosed by the inventor or a joint inventor or another who obtained the subject matter disclosed directly or indirectly from the inventor or a joint inventor.
 
-        (2) __Disclosures appearing in applications and patents.—__ 
+        (2)  __Disclosures appearing in applications and patents__  __.—__ 
 
         A disclosure shall not be prior art to a claimed invention under subsection (a)(2) if—
 
@@ -43,7 +43,7 @@
 
             (C) the subject matter disclosed and the claimed invention, not later than the effective filing date of the claimed invention, were owned by the same person or subject to an obligation of assignment to the same person.
 
-    (c) __Common Ownership Under Joint Research Agreements.—__ 
+    (c)  __Common Ownership Under Joint Research Agreements__  __.—__ 
 
     Subject matter disclosed and a claimed invention shall be deemed to have been owned by the same person or subject to an obligation of assignment to the same person in applying the provisions of subsection (b)(2)(C) if—
 
@@ -53,7 +53,7 @@
 
         (3) the application for patent for the claimed invention discloses or is amended to disclose the names of the parties to the joint research agreement.
 
-    (d) __Patents and Published Applications Effective as Prior Art.—__ 
+    (d)  __Patents and Published Applications Effective as Prior Art__  __.—__ 
 
     For purposes of determining whether a patent or application for patent is prior art to a claimed invention under subsection (a)(2), such patent or application shall be considered to have been effectively filed, with respect to any subject matter described in the patent or application—
 
@@ -141,15 +141,15 @@
 
 [Pub. L. 112–29, § 14][/us/pl/112/29/s14], Sept. 16, 2011, [125 Stat. 327][/us/stat/125/327], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     For purposes of evaluating an invention under section 102 or 103 of title 35, United States Code, any strategy for reducing, avoiding, or deferring tax liability, whether known or unknown at the time of the invention or application for patent, shall be deemed insufficient to differentiate a claimed invention from the prior art.
 
->     “(b) __Definition.—__ 
+>     “(b)  __Definition__  __.—__ 
 
 >     For purposes of this section, the term ‘tax liability’ refers to any liability for a tax under any Federal, State, or local law, or the law of any foreign jurisdiction, including any statute, rule, regulation, or ordinance that levies, imposes, or assesses such tax liability.
 
->     “(c) __Exclusions.—__ 
+>     “(c)  __Exclusions__  __.—__ 
 
 >     This section does not apply to that part of an invention that—
 
@@ -157,11 +157,11 @@
 
 >         “(2) is a method, apparatus, technology, computer program product, or system used solely for financial management, to the extent that it is severable from any tax strategy or does not limit the use of any tax strategy by any taxpayer or tax advisor.
 
->     “(d) __Rule of Construction.—__ 
+>     “(d)  __Rule of Construction__  __.—__ 
 
 >     Nothing in this section shall be construed to imply that other business methods are patentable or that other business method patents are valid.
 
->     “(e) __Effective Date; Applicability.—__ 
+>     “(e)  __Effective Date; Applicability__  __.—__ 
 
 >     This section shall take effect on the date of the enactment of this Act \[Sept. 16, 2011\] and shall apply to any patent application that is pending on, or filed on or after, that date, and to any patent that is issued on or after that date.”
 

@@ -15,27 +15,27 @@
 
 ## § 112. Specification
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The specification shall contain a written description of the invention, and of the manner and process of making and using it, in such full, clear, concise, and exact terms as to enable any person skilled in the art to which it pertains, or with which it is most nearly connected, to make and use the same, and shall set forth the best mode contemplated by the inventor or joint inventor of carrying out the invention.
 
-    (b) __Conclusion.—__ 
+    (b)  __Conclusion__  __.—__ 
 
     The specification shall conclude with one or more claims particularly pointing out and distinctly claiming the subject matter which the inventor or a joint inventor regards as the invention.
 
-    (c) __Form.—__ 
+    (c)  __Form__  __.—__ 
 
     A claim may be written in independent or, if the nature of the case admits, in dependent or multiple dependent form.
 
-    (d) __Reference in Dependent Forms.—__ 
+    (d)  __Reference in Dependent Forms__  __.—__ 
 
     Subject to subsection (e), a claim in dependent form shall contain a reference to a claim previously set forth and then specify a further limitation of the subject matter claimed. A claim in dependent form shall be construed to incorporate by reference all the limitations of the claim to which it refers.
 
-    (e) __Reference in Multiple Dependent Form.—__ 
+    (e)  __Reference in Multiple Dependent Form__  __.—__ 
 
     A claim in multiple dependent form shall contain a reference, in the alternative only, to more than one claim previously set forth and then specify a further limitation of the subject matter claimed. A multiple dependent claim shall not serve as a basis for any other multiple dependent claim. A multiple dependent claim shall be construed to incorporate by reference all the limitations of the particular claim in relation to which it is being considered.
 
-    (f) __Element in Claim for a Combination.—__ 
+    (f)  __Element in Claim for a Combination__  __.—__ 
 
     An element in a claim for a combination may be expressed as a means or step for performing a specified function without the recital of structure, material, or acts in support thereof, and such claim shall be construed to cover the corresponding structure, material, or acts described in the specification and equivalents thereof.
 

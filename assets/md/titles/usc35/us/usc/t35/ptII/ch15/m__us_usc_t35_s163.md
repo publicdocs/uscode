@@ -39,7 +39,7 @@
 
 [Pub. L. 105–289, § 2][/us/pl/105/289/s2], Oct. 27, 1998, [112 Stat. 2780][/us/stat/112/2780], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress makes the following findings:
 
@@ -53,7 +53,7 @@
 
 >         “(5) Infringers producing such plant parts from unauthorized plants enjoy an unfair competitive advantage over producers who pay royalties on varieties protected by United States plant patents.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of this Act \[see [section 1 of Pub. L. 105–289][/us/pl/105/289/s1], set out as a Short Title of 1998 Amendments note under [section 1 of this title][/us/usc/t35/s1]\] are—
 

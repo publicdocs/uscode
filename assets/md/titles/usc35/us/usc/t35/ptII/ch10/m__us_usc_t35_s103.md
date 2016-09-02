@@ -49,11 +49,11 @@
 
 [Pub. L. 108–453, § 3][/us/pl/108/453/s3], Dec. 10, 2004, [118 Stat. 3596][/us/stat/118/3596], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The amendments made by this Act \[amending this section\] shall apply to any patent granted on or after the date of the enactment of this Act \[Dec. 10, 2004\].
 
->     “(b) __Special Rule.—__ 
+>     “(b)  __Special Rule__  __.—__ 
 
 >     The amendments made by this Act shall not affect any final decision of a court or the United States Patent and Trademark Office rendered before the date of the enactment of this Act, and shall not affect the right of any party in any action pending before the United States Patent and Trademark Office or a court on the date of the enactment of this Act to have that party’s rights determined on the basis of the provisions of title 35, United States Code, in effect on the day before the date of the enactment of this Act.”
 

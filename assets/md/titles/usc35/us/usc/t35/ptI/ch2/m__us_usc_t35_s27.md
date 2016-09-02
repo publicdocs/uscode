@@ -23,7 +23,7 @@
 
 [Pub. L. 112–211, title II, § 203][/us/pl/112/211/s203], Dec. 18, 2012, [126 Stat. 1536][/us/stat/126/1536], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The amendments made by this title \[enacting this section and [section 151 of this title][/us/usc/t35/s151], amending sections 41, 111, 119, 120, 122, 133, 171, 261, 361, 364, 365, and 371 of this title, and repealing [section 151 of this title][/us/usc/t35/s151]\]—
 
@@ -39,11 +39,11 @@
 
 >     “(b) __Exceptions.—__ 
 
->         “(1) __Section 201(a).—__ 
+>         “(1)  __Section 201__  __(a).—__ 
 
 >         The amendments made by section 201(a) \[amending [section 111 of this title][/us/usc/t35/s111]\] shall apply only to applications that are filed on or after the effective date set forth in subsection (a)(1).
 
->         “(2) __Patents in litigation.—__ 
+>         “(2)  __Patents in litigation__  __.—__ 
 
 >         The amendments made by this title shall have no effect with respect to any patent that is the subject of litigation in an action commenced before the effective date set forth in subsection (a)(1).”
 

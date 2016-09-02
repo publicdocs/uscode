@@ -31,17 +31,17 @@
 
 [Pub. L. 112–29, § 33][/us/pl/112/29/s33], Sept. 16, 2011, [125 Stat. 340][/us/stat/125/340], provided that:
 
->     “(a) __Limitation.—__ 
+>     “(a)  __Limitation__  __.—__ 
 
 >     Notwithstanding any other provision of law, no patent may issue on a claim directed to or encompassing a human organism.
 
 >     “(b) __Effective Date.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subsection (a) shall apply to any application for patent that is pending on, or filed on or after, the date of the enactment of this Act \[Sept. 16, 2011\].
 
->         “(2) __Prior applications.—__ 
+>         “(2)  __Prior applications__  __.—__ 
 
 >         Subsection (a) shall not affect the validity of any patent issued on an application to which paragraph (1) does not apply.”
 

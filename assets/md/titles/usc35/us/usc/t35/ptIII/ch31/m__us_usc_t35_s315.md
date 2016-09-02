@@ -17,11 +17,11 @@
 
     (a) __Infringer’s Civil Action.—__ 
 
-        (1) __Inter partes review barred by civil action.—__ 
+        (1)  __Inter partes review barred by civil action__  __.—__ 
 
         An inter partes review may not be instituted if, before the date on which the petition for such a review is filed, the petitioner or real party in interest filed a civil action challenging the validity of a claim of the patent.
 
-        (2) __Stay of civil action.—__ 
+        (2)  __Stay of civil action__  __.—__ 
 
         If the petitioner or real party in interest files a civil action challenging the validity of a claim of the patent on or after the date on which the petitioner files a petition for inter partes review of the patent, that civil action shall be automatically stayed until either—
 
@@ -31,29 +31,29 @@
 
             (C) the petitioner or real party in interest moves the court to dismiss the civil action.
 
-        (3) __Treatment of counterclaim.—__ 
+        (3)  __Treatment of counterclaim__  __.—__ 
 
         A counterclaim challenging the validity of a claim of a patent does not constitute a civil action challenging the validity of a claim of a patent for purposes of this subsection.
 
-    (b) __Patent Owner’s Action.—__ 
+    (b)  __Patent Owner’s Action__  __.—__ 
 
     An inter partes review may not be instituted if the petition requesting the proceeding is filed more than 1 year after the date on which the petitioner, real party in interest, or privy of the petitioner is served with a complaint alleging infringement of the patent. The time limitation set forth in the preceding sentence shall not apply to a request for joinder under subsection (c).
 
-    (c) __Joinder.—__ 
+    (c)  __Joinder__  __.—__ 
 
     If the Director institutes an inter partes review, the Director, in his or her discretion, may join as a party to that inter partes review any person who properly files a petition under section 311 that the Director, after receiving a preliminary response under section 313 or the expiration of the time for filing such a response, determines warrants the institution of an inter partes review under section 314.
 
-    (d) __Multiple Proceedings.—__ 
+    (d)  __Multiple Proceedings__  __.—__ 
 
     Notwithstanding sections 135(a), 251, and 252, and chapter 30, during the pendency of an inter partes review, if another proceeding or matter involving the patent is before the Office, the Director may determine the manner in which the inter partes review or other proceeding or matter may proceed, including providing for stay, transfer, consolidation, or termination of any such matter or proceeding.
 
     (e) __Estoppel.—__ 
 
-        (1) __Proceedings before the office.—__ 
+        (1)  __Proceedings before the office__  __.—__ 
 
         The petitioner in an inter partes review of a claim in a patent under this chapter that results in a final written decision under section 318(a), or the real party in interest or privy of the petitioner, may not request or maintain a proceeding before the Office with respect to that claim on any ground that the petitioner raised or reasonably could have raised during that inter partes review.
 
-        (2) __Civil actions and other proceedings.—__ 
+        (2)  __Civil actions and other proceedings__  __.—__ 
 
         The petitioner in an inter partes review of a claim in a patent under this chapter that results in a final written decision under section 318(a), or the real party in interest or privy of the petitioner, may not assert either in a civil action arising in whole or in part under [section 1338 of title 28][/us/usc/t28/s1338] or in a proceeding before the International Trade Commission under section 337 of the Tariff Act of 1930 that the claim is invalid on any ground that the petitioner raised or reasonably could have raised during that inter partes review.
 

@@ -15,15 +15,15 @@
 
 ## § 386. Right of priority
 
-    (a) __National Application.—__ 
+    (a)  __National Application__  __.—__ 
 
     In accordance with the conditions and requirements of subsections (a) through (d) of section 119 and section 172, a national application shall be entitled to the right of priority based on a prior international design application that designated at least 1 country other than the United States.
 
-    (b) __Prior Foreign Application.—__ 
+    (b)  __Prior Foreign Application__  __.—__ 
 
     In accordance with the conditions and requirements of subsections (a) through (d) of section 119 and section 172 and the treaty and the Regulations, an international design application designating the United States shall be entitled to the right of priority based on a prior foreign application, a prior international application as defined in section 351(c) designating at least 1 country other than the United States, or a prior international design application designating at least 1 country other than the United States.
 
-    (c) __Prior National Application.—__ 
+    (c)  __Prior National Application__  __.—__ 
 
     In accordance with the conditions and requirements of section 120, an international design application designating the United States shall be entitled to the benefit of the filing date of a prior national application, a prior international application as defined in section 351(c) designating the United States, or a prior international design application designating the United States, and a national application shall be entitled to the benefit of the filing date of a prior international design application designating the United States. If any claim for the benefit of an earlier filing date is based on a prior international application as defined in section 351(c) which designated but did not originate in the United States or a prior international design application which designated but did not originate in the United States, the Director may require the filing in the Patent and Trademark Office of a certified copy of such application together with a translation thereof into the English language, if it was filed in another language.
 

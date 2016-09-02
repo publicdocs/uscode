@@ -25,19 +25,19 @@
 
 [Pub. L. 101–580, § 2][/us/pl/101/580/s2], Nov. 15, 1990, [104 Stat. 2863][/us/stat/104/2863], provided that:
 
->     “(a) __Effective Date.—__ 
+>     “(a)  __Effective Date__  __.—__ 
 
 >     Subject to subsections (b), (c), and (d) of this section, the amendments made by the first section of this Act \[enacting this section\] shall apply to all United States patents granted before, on, or after the date of enactment of this Act \[Nov. 15, 1990\], and to all applications for United States patents pending on or filed on or after such date of enactment.
 
->     “(b) __Final Decisions.—__ 
+>     “(b)  __Final Decisions__  __.—__ 
 
 >     The amendments made by the first section of this Act \[enacting this section\] shall not affect any final decision made by a court or the Patent and Trademark Office before the date of enactment of this Act \[Nov. 15, 1990\] with respect to a patent or an application for a patent, if no appeal from such decision is pending and the time for filing an appeal has expired.
 
->     “(c) __Pending Cases.—__ 
+>     “(c)  __Pending Cases__  __.—__ 
 
 >     The amendments made by the first section of this Act \[enacting this section\] shall not affect the right of any party in any case pending in a court on the date of enactment of this Act \[Nov. 15, 1990\] to have the party’s rights determined on the basis of the substantive law in effect before such date of enactment.
 
->     “(d) __Non-Applicability.—__ 
+>     “(d)  __Non-Applicability__  __.—__ 
 
 >     The amendments made by the first section of this Act \[enacting this section\] shall not apply to any process, machine, article of manufacture, or composition of matter, an embodiment of which was launched prior to the date of enactment of this Act \[Nov. 15, 1990\].”
 

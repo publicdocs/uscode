@@ -15,7 +15,7 @@
 
 ## § 312. Petitions
 
-    (a) __Requirements of Petition.—__ 
+    (a)  __Requirements of Petition__  __.—__ 
 
     A petition filed under section 311 may be considered only if—
 
@@ -35,7 +35,7 @@
 
         (5) the petitioner provides copies of any of the documents required under paragraphs (2), (3), and (4) to the patent owner or, if applicable, the designated representative of the patent owner.
 
-    (b) __Public Availability.—__ 
+    (b)  __Public Availability__  __.—__ 
 
     As soon as practicable after the receipt of a petition under section 311, the Director shall make the petition available to the public.
 
@@ -63,7 +63,7 @@
 
 [Pub. L. 112–29, § 6(c)(3)(B)][/us/pl/112/29/s6/c/3/B], (C), Sept. 16, 2011, [125 Stat. 305][/us/stat/125/305], provided that:
 
->     “(B) __Application.—__ 
+>     “(B)  __Application__  __.—__ 
 
 >     The amendments made by this paragraph \[amending this section and [section 313 of this title][/us/usc/t35/s313]\]—
 
@@ -71,7 +71,7 @@
 
 >         “(ii) shall apply to requests for inter partes reexamination that are filed on or after such date of enactment, but before the effective date set forth in paragraph (2)(A) of this subsection \[set out as a note under [section 311 of this title][/us/usc/t35/s311]\].
 
->     “(C) __Continued applicability of prior provisions.—__ 
+>     “(C)  __Continued applicability of prior provisions__  __.—__ 
 
 >     The provisions of chapter 31 of title 35, United States Code, as amended by this paragraph \[amending this section and [section 313 of this title][/us/usc/t35/s313]\], shall continue to apply to requests for inter partes reexamination that are filed before the effective date set forth in paragraph (2)(A) as if subsection (a) \[enacting [section 319 of this title][/us/usc/t35/s319] and amending this section and sections 312 to 318 of this title\] had not been enacted.”
 

@@ -17,15 +17,15 @@
 
     (a) __Establishment of Public Advisory Committees.—__ 
 
-        (1) __Appointment.—__ 
+        (1)  __Appointment__  __.—__ 
 
         The United States Patent and Trademark Office shall have a Patent Public Advisory Committee and a Trademark Public Advisory Committee, each of which shall have nine voting members who shall be appointed by the Secretary of Commerce and serve at the pleasure of the Secretary of Commerce. In each year, 3 members shall be appointed to each Advisory Committee for 3-year terms that shall begin on December 1 of that year. Any vacancy on an Advisory Committee shall be filled within 90 days after it occurs. A new member who is appointed to fill a vacancy shall be appointed to serve for the remainder of the predecessor’s term.
 
-        (2) __Chair.—__ 
+        (2)  __Chair__  __.—__ 
 
         The Secretary of Commerce, in consultation with the Director, shall designate a Chair and Vice Chair of each Advisory Committee from among the members appointed under paragraph (1). If the Chair resigns before the completion of his or her term, or is otherwise unable to exercise the functions of the Chair, the Vice Chair shall exercise the functions of the Chair.
 
-    (b) __Basis for Appointments.—__ 
+    (b)  __Basis for Appointments__  __.—__ 
 
     Members of each Advisory Committee—
 
@@ -37,11 +37,11 @@
 
         In addition to the voting members, each Advisory Committee shall include a representative of each labor organization recognized by the United States Patent and Trademark Office. Such representatives shall be nonvoting members of the Advisory Committee to which they are appointed.
 
-    (c) __Meetings.—__ 
+    (c)  __Meetings__  __.—__ 
 
     Each Advisory Committee shall meet at the call of the chair to consider an agenda set by the chair.
 
-    (d) __Duties.—__ 
+    (d)  __Duties__  __.—__ 
 
     Each Advisory Committee shall—
 
@@ -57,27 +57,27 @@
 
             (C) publish the report in the Official Gazette of the United States Patent and Trademark Office.
 
-    (e) __Compensation.—__ 
+    (e)  __Compensation__  __.—__ 
 
     Each member of each Advisory Committee shall be compensated for each day (including travel time) during which such member is attending meetings or conferences of that Advisory Committee or otherwise engaged in the business of that Advisory Committee, at the rate which is the daily equivalent of the annual rate of basic pay in effect for level III of the Executive Schedule under [section 5314 of title 5][/us/usc/t5/s5314]. While away from such member’s home or regular place of business such member shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by [section 5703 of title 5][/us/usc/t5/s5703].
 
-    (f) __Access to Information.—__ 
+    (f)  __Access to Information__  __.—__ 
 
     Members of each Advisory Committee shall be provided access to records and information in the United States Patent and Trademark Office, except for personnel or other privileged information and information concerning patent applications required to be kept in confidence by section 122.
 
-    (g) __Applicability of Certain Ethics Laws.—__ 
+    (g)  __Applicability of Certain Ethics Laws__  __.—__ 
 
     Members of each Advisory Committee shall be special Government employees within the meaning of [section 202 of title 18][/us/usc/t18/s202].
 
-    (h) __Inapplicability of Federal Advisory Committee Act.—__ 
+    (h)  __Inapplicability of Federal Advisory Committee Act__  __.—__ 
 
     The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to each Advisory Committee.
 
-    (i) __Open Meetings.—__ 
+    (i)  __Open Meetings__  __.—__ 
 
     The meetings of each Advisory Committee shall be open to the public, except that each Advisory Committee may by majority vote meet in executive session when considering personnel, privileged, or other confidential information.
 
-    (j) __Inapplicability of Patent Prohibition.—__ 
+    (j)  __Inapplicability of Patent Prohibition__  __.—__ 
 
     Section 4 shall not apply to voting members of the Advisory Committees.
 
@@ -121,11 +121,11 @@
 
 [Pub. L. 112–274, § 1][/us/pl/112/274/s1](l)(2), Jan. 14, 2013, [126 Stat. 2459][/us/stat/126/2459], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     The Secretary of Commerce shall, in the Secretary’s discretion, determine the time and manner in which the amendments made by paragraph (1) \[amending this section\] shall take effect, except that, in each year following the year in which this Act is enacted \[2013\], 3 members shall be appointed to each Advisory Committee (to which such amendments apply) for 3-year terms that begin on December 1 of that year, in accordance with [section 5(a) of title 35][/us/usc/t35/s5/a], United States Code, as amended by paragraph (1) of this subsection.
 
->     “(B) __Deemed termination of terms.—__ 
+>     “(B)  __Deemed termination of terms__  __.—__ 
 
 >     In order to implement the amendments made by paragraph (1), the Secretary of Commerce may determine that the term of an existing member of an Advisory Committee under [section 5 of title 35][/us/usc/t35/s5], United States Code, shall be deemed to terminate on December 1 of a year beginning after the date of the enactment of this Act \[Jan. 14, 2013\], regardless of whether December 1 is before or after the date on which such member’s term would terminate if this Act had not been enacted.”
 

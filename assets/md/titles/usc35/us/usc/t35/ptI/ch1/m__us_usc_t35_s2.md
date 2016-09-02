@@ -15,7 +15,7 @@
 
 ## § 2. Powers and duties
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The United States Patent and Trademark Office, subject to the policy direction of the Secretary of Commerce—
 
@@ -23,7 +23,7 @@
 
         (2) shall be responsible for disseminating to the public information with respect to patents and trademarks.
 
-    (b) __Specific Powers.—__ 
+    (b)  __Specific Powers__  __.—__ 
 
     The Office—
 
@@ -81,7 +81,7 @@
 
             (B) with the concurrence of the Secretary of State, may authorize the transfer of not to exceed $100,000 in any year to the Department of State for the purpose of making special payments to international intergovernmental organizations for studies and programs for advancing international cooperation concerning patents, trademarks, and other matters.
 
-    (c) __Clarification of Specific Powers.—__ 
+    (c)  __Clarification of Specific Powers__  __.—__ 
 
         (1) The special payments under subsection (b)(13)(B) shall be in addition to any other payments or contributions to international organizations described in subsection (b)(13)(B) and shall not be subject to any limitations imposed by law on the amounts of such other payments or contributions by the United States Government.
 
@@ -93,7 +93,7 @@
 
         (5) In exercising the Director’s powers and duties under this section, the Director shall consult with the Register of Copyrights on all copyright and related matters.
 
-    (d) __Construction.—__ 
+    (d)  __Construction__  __.—__ 
 
     Nothing in this section shall be construed to nullify, void, cancel, or interrupt any pending request-for-proposal let or contract issued by the General Services Administration for the specific purpose of relocating or leasing space to the United States Patent and Trademark Office.
 
@@ -163,11 +163,11 @@
 
 [Pub. L. 112–29, § 32][/us/pl/112/29/s32], Sept. 16, 2011, [125 Stat. 340][/us/stat/125/340], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Director \[Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office\] shall work with and support intellectual property law associations across the country in the establishment of pro bono programs designed to assist financially under-resourced independent inventors and small businesses.
 
->     “(b) __Effective Date.—__ 
+>     “(b)  __Effective Date__  __.—__ 
 
 >     This section shall take effect on the date of the enactment of this Act \[Sept. 16, 2011\].”
 
@@ -175,7 +175,7 @@
 
 [Pub. L. 107–273, div. C, title III, § 13103][/us/pl/107/273/s13103], Nov. 2, 2002, [116 Stat. 1899][/us/stat/116/1899], provided that:
 
->     “(a) __Electronic Filing and Processing.—__ 
+>     “(a)  __Electronic Filing and Processing__  __.—__ 
 
 >     The Director \[of the Patent and Trademark Office\] shall, beginning not later than 90 days after the date of enactment of this Act \[Nov. 2, 2002\], and during the 3-year period thereafter, develop an electronic system for the filing and processing of patent and trademark applications, that—
 
@@ -189,7 +189,7 @@
 
 >             “(B) to allow the Office to process, maintain, and search electronically the contents and history of each application.
 
->     “(b) __Authorization of Appropriations.—__ 
+>     “(b)  __Authorization of Appropriations__  __.—__ 
 
 >     Of amounts authorized under section 13102 \[set out as a note under [section 42 of this title][/us/usc/t35/s42]\], there is authorized to be appropriated to carry out subsection (a) of this section not more than $50,000,000 for each of fiscal years 2003, 2004, and 2005. Amounts made available pursuant to this subsection shall remain available until expended.”
 

@@ -15,25 +15,19 @@
 
 ## § 171. Patents for designs
 
+    (a)  __In General__  __.—__ 
+
     Whoever invents any new, original and ornamental design for an article of manufacture may obtain a patent therefor, subject to the conditions and requirements of this title.
+
+    (b)  __Applicability of This Title__  __.—__ 
 
     The provisions of this title relating to patents for inventions shall apply to patents for designs, except as otherwise provided.
 
+    (c)  __Filing Date__  __.—__ 
+
+    The filing date of an application for patent for design shall be the date on which the specification as prescribed by section 112 and any required drawings are filed.
+
 ([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 805][/us/stat/66/805]; [Pub. L. 112–211, title II, § 202(a)][/us/pl/112/211/s202/a], Dec. 18, 2012, [126 Stat. 1535][/us/stat/126/1535].)
-
- __Amendment of Section__ 
-
-    [Pub. L. 112–211, title II][/us/pl/112/211], §§ 202(a), 203, Dec. 18, 2012, [126 Stat. 1535][/us/stat/126/1535], 1536, provided that, effective on the date that is 1 year after Dec. 18, 2012, applicable to patents issued before, on, or after that effective date and patent applications pending on or filed after that effective date, and not effective with respect to patents in litigation commenced before that effective date, this section is amended as follows:
-
-    (1) by striking “Whoever” and inserting “(a) In General.—Whoever”;
-
-    (2) by striking “The provisions” and inserting “(b) Applicability of This Title.—The provisions”; and
-
-    (3) by adding at the end the following:
-
-    (c) Filing Date.—The filing date of an application for patent for design shall be the date on which the specification as prescribed by section 112 and any required drawings are filed.
-
-    See 2012 Amendment note below.
 
  __Historical and Revision Notes__ 
 
@@ -59,8 +53,6 @@
 [/us/act/1952-07-19/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950
 [/us/stat/66/805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F805
 [/us/pl/112/211/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs202%2Fa
-[/us/stat/126/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1535
-[/us/pl/112/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211
 [/us/stat/126/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1535
 [/us/act/1902-05-09/ch783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-05-09%2Fch783
 [/us/stat/32/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F193

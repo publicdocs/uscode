@@ -17,19 +17,19 @@
 
     (a) __In General.—__ 
 
-        (1) __Contents.—__ 
+        (1)  __Contents__  __.—__ 
 
         Every patent shall contain a short title of the invention and a grant to the patentee, his heirs or assigns, of the right to exclude others from making, using, offering for sale, or selling the invention throughout the United States or importing the invention into the United States, and, if the invention is a process, of the right to exclude others from using, offering for sale or selling throughout the United States, or importing into the United States, products made by that process, referring to the specification for the particulars thereof.
 
-        (2) __Term.—__ 
+        (2)  __Term__  __.—__ 
 
         Subject to the payment of fees under this title, such grant shall be for a term beginning on the date on which the patent issues and ending 20 years from the date on which the application for the patent was filed in the United States or, if the application contains a specific reference to an earlier filed application or applications under section 120, 121, or 365(c), from the date on which the earliest such application was filed.
 
-        (3) __Priority.—__ 
+        (3)  __Priority__  __.—__ 
 
         Priority under section 119, 365(a), or 365(b) shall not be taken into account in determining the term of a patent.
 
-        (4) __Specification and drawing.—__ 
+        (4)  __Specification and drawing__  __.—__ 
 
         A copy of the specification and drawing shall be annexed to the patent and be a part of such patent.
 
@@ -37,7 +37,7 @@
 
         (1) __Patent term guarantees.—__ 
 
-            (A) __Guarantee of prompt patent and trademark office responses.—__ 
+            (A)  __Guarantee of prompt patent and trademark office responses__  __.—__ 
 
             Subject to the limitations under paragraph (2), if the issue of an original patent is delayed due to the failure of the Patent and Trademark Office to—
 
@@ -57,7 +57,7 @@
 
                 the term of the patent shall be extended 1 day for each day after the end of the period specified in clause (i), (ii), (iii), or (iv), as the case may be, until the action described in such clause is taken.
 
-            (B) __Guarantee of no more than 3-year application pendency.—__ 
+            (B)  __Guarantee of no more than 3-year application pendency__  __.—__ 
 
             Subject to the limitations under paragraph (2), if the issue of an original patent is delayed due to the failure of the United States Patent and Trademark Office to issue a patent within 3 years after the actual filing date of the application under section 111(a) in the United States or, in the case of an international application, the date of commencement of the national stage under section 371 in the international application, not including—
 
@@ -69,7 +69,7 @@
 
                 the term of the patent shall be extended 1 day for each day after the end of that 3-year period until the patent is issued.
 
-            (C) __Guarantee of adjustments for delays due to derivation proceedings, secrecy orders, and appeals.—__ 
+            (C)  __Guarantee of adjustments for delays due to derivation proceedings, secrecy orders, and appeals__  __.—__ 
 
             Subject to the limitations under paragraph (2), if the issue of an original patent is delayed due to—
 
@@ -83,11 +83,11 @@
 
         (2) __Limitations.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             To the extent that periods of delay attributable to grounds specified in paragraph (1) overlap, the period of any adjustment granted under this subsection shall not exceed the actual number of days the issuance of the patent was delayed.
 
-            (B) __Disclaimed term.—__ 
+            (B)  __Disclaimed term__  __.—__ 
 
             No patent the term of which has been disclaimed beyond a specified date may be adjusted under this section beyond the expiration date specified in the disclaimer.
 
@@ -123,11 +123,11 @@
 
     (c) __Continuation.—__ 
 
-        (1) __Determination.—__ 
+        (1)  __Determination__  __.—__ 
 
         The term of a patent that is in force on or that results from an application filed before the date that is 6 months after the date of the enactment of the Uruguay Round Agreements Act shall be the greater of the 20-year term as provided in subsection (a), or 17 years from grant, subject to any terminal disclaimers.
 
-        (2) __Remedies.—__ 
+        (2)  __Remedies__  __.—__ 
 
         The remedies of sections 283, 284, and 285 shall not apply to acts which—
 
@@ -135,13 +135,13 @@
 
             (B) became infringing by reason of paragraph (1).
 
-        (3) __Remuneration.—__ 
+        (3)  __Remuneration__  __.—__ 
 
         The acts referred to in paragraph (2) may be continued only upon the payment of an equitable remuneration to the patentee that is determined in an action brought under chapter 28 and chapter 29 (other than those provisions excluded by paragraph (2)).
 
     (d) __Provisional Rights.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         In addition to other rights provided by this section, a patent shall include the right to obtain a reasonable royalty from any person who, during the period beginning on the date of publication of the application for such patent under section 122(b), or in the case of an international application filed under the treaty defined in section 351(a) designating the United States under Article 21(2)(a) of such treaty, the date of publication of the application, and ending on the date the patent is issued—
 
@@ -153,21 +153,21 @@
 
             (B) had actual notice of the published patent application and, in a case in which the right arising under this paragraph is based upon an international application designating the United States that is published in a language other than English, had a translation of the international application into the English language.
 
-        (2) __Right based on substantially identical inventions.—__ 
+        (2)  __Right based on substantially identical inventions__  __.—__ 
 
         The right under paragraph (1) to obtain a reasonable royalty shall not be available under this subsection unless the invention as claimed in the patent is substantially identical to the invention as claimed in the published patent application.
 
-        (3) __Time limitation on obtaining a reasonable royalty.—__ 
+        (3)  __Time limitation on obtaining a reasonable royalty__  __.—__ 
 
         The right under paragraph (1) to obtain a reasonable royalty shall be available only in an action brought not later than 6 years after the patent is issued. The right under paragraph (1) to obtain a reasonable royalty shall not be affected by the duration of the period described in paragraph (1).
 
         (4) __Requirements for international applications.—__ 
 
-            (A) __Effective date.—__ 
+            (A)  __Effective date__  __.—__ 
 
             The right under paragraph (1) to obtain a reasonable royalty based upon the publication under the treaty defined in section 351(a) of an international application designating the United States shall commence on the date of publication under the treaty of the international application, or, if the publication under the treaty of the international application is in a language other than English, on the date on which the Patent and Trademark Office receives a translation of the publication in the English language.
 
-            (B) __Copies.—__ 
+            (B)  __Copies__  __.—__ 
 
             The Director may require the applicant to provide a copy of the international application and a translation thereof.
 
@@ -285,21 +285,21 @@
 
 [Pub. L. 103–465, title V, § 534][/us/pl/103/465/s534], Dec. 8, 1994, [108 Stat. 4990][/us/stat/108/4990], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Subject to subsection (b), the amendments made by this subtitle \[subtitle C (§§ 531–534) of title V of [Pub. L. 103–465][/us/pl/103/465], amending this section and sections 41, 104, 111, 119, 156, 172, 173, 252, 262, 271, 272, 287, 292, 295, 307, 365, and 373 of this title\] take effect on the date that is one year after the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\].
 
 >     “(b) __Patent Applications.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to paragraph (2), the amendments made by section 532 \[amending this section and sections 41, 111, 119, 156, 172, 173, 365, and 373 of this title\] take effect on the date that is 6 months after the date of the enactment of this Act \[Dec. 8, 1994\] and shall apply to all patent applications filed in the United States on or after the effective date.
 
->         “(2) __Section 154(a)(1).—__ 
+>         “(2)  __Section 154__  __(a)__  __(1)__  __.—__ 
 
 >         [Section 154(a)(1) of title 35][/us/usc/t35/s154/a/1], United States Code, as amended by section 532(a)(1) of this Act, shall take effect on the effective date described in subsection (a).
 
->         “(3) __Earliest filing.—__ 
+>         “(3)  __Earliest filing__  __.—__ 
 
 >         The term of a patent granted on an application that is filed on or after the effective date described in subsection (a) and that contains a specific reference to an earlier application filed under the provisions of section 120, 121, or 365(c) of title 35, United States Code, shall be measured from the filing date of the earliest filed application.”
 

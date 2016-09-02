@@ -15,7 +15,7 @@
 
 ## § 381. Definitions
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     When used in this part, unless the context otherwise indicates—
 
@@ -39,7 +39,7 @@
 
         (7) the term “international registration” means the international registration of an industrial design filed under the treaty.
 
-    (b) __Rule of Construction.—__ 
+    (b)  __Rule of Construction__  __.—__ 
 
     Terms and expressions not defined in this part are to be taken in the sense indicated by the treaty and the Regulations.
 

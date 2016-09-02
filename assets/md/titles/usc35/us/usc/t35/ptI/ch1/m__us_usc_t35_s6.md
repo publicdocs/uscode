@@ -15,11 +15,11 @@
 
 ## § 6. Patent Trial and Appeal Board
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     There shall be in the Office a Patent Trial and Appeal Board. The Director, the Deputy Director, the Commissioner for Patents, the Commissioner for Trademarks, and the administrative patent judges shall constitute the Patent Trial and Appeal Board. The administrative patent judges shall be persons of competent legal knowledge and scientific ability who are appointed by the Secretary, in consultation with the Director. Any reference in any Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or pertaining to the Board of Patent Appeals and Interferences is deemed to refer to the Patent Trial and Appeal Board.
 
-    (b) __Duties.—__ 
+    (b)  __Duties__  __.—__ 
 
     The Patent Trial and Appeal Board shall—
 
@@ -31,11 +31,11 @@
 
         (4) conduct inter partes reviews and post-grant reviews pursuant to chapters 31 and 32.
 
-    (c) __3-Member Panels.—__ 
+    (c) __3-__  __Member Panels__  __.—__ 
 
     Each appeal, derivation proceeding, post-grant review, and inter partes review shall be heard by at least 3 members of the Patent Trial and Appeal Board, who shall be designated by the Director. Only the Patent Trial and Appeal Board may grant rehearings.
 
-    (d) __Treatment of Prior Appointments.—__ 
+    (d)  __Treatment of Prior Appointments__  __.—__ 
 
     The Secretary of Commerce may, in the Secretary’s discretion, deem the appointment of an administrative patent judge who, before the date of the enactment of this subsection, held office pursuant to an appointment by the Director to take effect on the date on which the Director initially appointed the administrative patent judge. It shall be a defense to a challenge to the appointment of an administrative patent judge on the basis of the judge’s having been originally appointed by the Director that the administrative patent judge so appointed was acting as a de facto officer.
 

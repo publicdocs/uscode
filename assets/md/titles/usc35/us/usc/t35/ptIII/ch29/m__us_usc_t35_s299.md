@@ -15,7 +15,7 @@
 
 ## § 299. Joinder of parties
 
-    (a) __Joinder of Accused Infringers.—__ 
+    (a)  __Joinder of Accused Infringers__  __.—__ 
 
     With respect to any civil action arising under any Act of Congress relating to patents, other than an action or trial in which an act of infringement under section 271(e)(2) has been pled, parties that are accused infringers may be joined in one action as defendants or counterclaim defendants, or have their actions consolidated for trial, only if—
 
@@ -23,11 +23,11 @@
 
         (2) questions of fact common to all defendants or counterclaim defendants will arise in the action.
 
-    (b) __Allegations Insufficient for Joinder.—__ 
+    (b)  __Allegations Insufficient for Joinder__  __.—__ 
 
     For purposes of this subsection, accused infringers may not be joined in one action as defendants or counterclaim defendants, or have their actions consolidated for trial, based solely on allegations that they each have infringed the patent or patents in suit.
 
-    (c) __Waiver.—__ 
+    (c)  __Waiver__  __.—__ 
 
     A party that is an accused infringer may waive the limitations set forth in this section with respect to that party.
 

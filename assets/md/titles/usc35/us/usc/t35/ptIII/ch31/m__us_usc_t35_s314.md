@@ -15,11 +15,11 @@
 
 ## § 314. Institution of inter partes review
 
-    (a) __Threshold.—__ 
+    (a)  __Threshold__  __.—__ 
 
     The Director may not authorize an inter partes review to be instituted unless the Director determines that the information presented in the petition filed under section 311 and any response filed under section 313 shows that there is a reasonable likelihood that the petitioner would prevail with respect to at least 1 of the claims challenged in the petition.
 
-    (b) __Timing.—__ 
+    (b)  __Timing__  __.—__ 
 
     The Director shall determine whether to institute an inter partes review under this chapter pursuant to a petition filed under section 311 within 3 months after—
 
@@ -27,11 +27,11 @@
 
         (2) if no such preliminary response is filed, the last date on which such response may be filed.
 
-    (c) __Notice.—__ 
+    (c)  __Notice__  __.—__ 
 
     The Director shall notify the petitioner and patent owner, in writing, of the Director’s determination under subsection (a), and shall make such notice available to the public as soon as is practicable. Such notice shall include the date on which the review shall commence.
 
-    (d) __No Appeal.—__ 
+    (d)  __No Appeal__  __.—__ 
 
     The determination by the Director whether to institute an inter partes review under this section shall be final and nonappealable.
 

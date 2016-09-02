@@ -15,11 +15,11 @@
 
 ## § 134. Appeal to the Patent Trial and Appeal Board
 
-    (a) __Patent Applicant.—__ 
+    (a)  __Patent Applicant__  __.—__ 
 
     An applicant for a patent, any of whose claims has been twice rejected, may appeal from the decision of the primary examiner to the Patent Trial and Appeal Board, having once paid the fee for such appeal.
 
-    (b) __Patent Owner.—__ 
+    (b)  __Patent Owner__  __.—__ 
 
     A patent owner in a reexamination may appeal from the final rejection of any claim by the primary examiner to the Patent Trial and Appeal Board, having once paid the fee for such appeal.
 

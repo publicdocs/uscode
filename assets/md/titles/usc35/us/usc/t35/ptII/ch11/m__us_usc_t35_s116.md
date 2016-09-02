@@ -15,15 +15,15 @@
 
 ## § 116. Inventors
 
-    (a) __Joint Inventions.—__ 
+    (a)  __Joint Inventions__  __.—__ 
 
     When an invention is made by two or more persons jointly, they shall apply for patent jointly and each make the required oath, except as otherwise provided in this title. Inventors may apply for a patent jointly even though (1) they did not physically work together or at the same time, (2) each did not make the same type or amount of contribution, or (3) each did not make a contribution to the subject matter of every claim of the patent.
 
-    (b) __Omitted Inventor.—__ 
+    (b)  __Omitted Inventor__  __.—__ 
 
     If a joint inventor refuses to join in an application for patent or cannot be found or reached after diligent effort, the application may be made by the other inventor on behalf of himself and the omitted inventor. The Director, on proof of the pertinent facts and after such notice to the omitted inventor as he prescribes, may grant a patent to the inventor making the application, subject to the same rights which the omitted inventor would have had if he had been joined. The omitted inventor may subsequently join in the application.
 
-    (c) __Correction of Errors in Application.—__ 
+    (c)  __Correction of Errors in Application__  __.—__ 
 
     Whenever through error a person is named in an application for patent as the inventor, or through error an inventor is not named in an application, the Director may permit the application to be amended accordingly, under such terms as he prescribes.
 

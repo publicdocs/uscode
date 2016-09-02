@@ -15,13 +15,9 @@
 
 ## § 133. Time for prosecuting application
 
-    Upon failure of the applicant to prosecute the application within six months after any action therein, of which notice has been given or mailed to the applicant, or within such shorter time, not less than thirty days, as fixed by the Director in such action, the application shall be regarded as abandoned by the parties thereto, unless it be shown to the satisfaction of the Director that such delay was unavoidable.
+    Upon failure of the applicant to prosecute the application within six months after any action therein, of which notice has been given or mailed to the applicant, or within such shorter time, not less than thirty days, as fixed by the Director in such action, the application shall be regarded as abandoned by the parties thereto.
 
 ([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 801][/us/stat/66/801]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(a)(10)(A)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–582; [Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B)][/us/pl/107/273/s13206/b/1/B], Nov. 2, 2002, [116 Stat. 1906][/us/stat/116/1906]; [Pub. L. 112–211, title II, § 202(b)(5)][/us/pl/112/211/s202/b/5], Dec. 18, 2012, [126 Stat. 1536][/us/stat/126/1536].)
-
- __Amendment of Section__ 
-
-    [Pub. L. 112–211, title II][/us/pl/112/211], §§ 202(b)(5), 203, Dec. 18, 2012, [126 Stat. 1536][/us/stat/126/1536], provided that, effective on the date that is 1 year after Dec. 18, 2012, applicable to patents issued before, on, or after that effective date and patent applications pending on or filed after that effective date, and not effective with respect to patents in litigation commenced before that effective date, this section is amended by striking “, unless it be shown” and all that follows through “unavoidable”. See 2012 Amendment note below.
 
  __Historical and Revision Notes__ 
 
@@ -59,8 +55,6 @@
 [/us/pl/107/273/s13206/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fb%2F1%2FB
 [/us/stat/116/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1906
 [/us/pl/112/211/s202/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs202%2Fb%2F5
-[/us/stat/126/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1536
-[/us/pl/112/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211
 [/us/stat/126/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1536
 [/us/act/1897-03-03/ch391/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-03-03%2Fch391%2Fs4
 [/us/stat/29/692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F29%2F692

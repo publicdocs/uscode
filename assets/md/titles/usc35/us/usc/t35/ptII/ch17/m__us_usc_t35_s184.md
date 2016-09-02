@@ -15,15 +15,15 @@
 
 ## § 184. Filing of application in foreign country
 
-    (a) __Filing in Foreign Country.—__ 
+    (a)  __Filing in Foreign Country__  __.—__ 
 
     Except when authorized by a license obtained from the Commissioner of Patents a person shall not file or cause or authorize to be filed in any foreign country prior to six months after filing in the United States an application for patent or for the registration of a utility model, industrial design, or model in respect of an invention made in this country. A license shall not be granted with respect to an invention subject to an order issued by the Commissioner of Patents pursuant to section 181 without the concurrence of the head of the departments and the chief officers of the agencies who caused the order to be issued. The license may be granted retroactively where an application has been filed abroad through error and the application does not disclose an invention within the scope of section 181.
 
-    (b) __Application.—__ 
+    (b)  __Application__  __.—__ 
 
     The term “application” when used in this chapter includes applications and any modifications, amendments, or supplements thereto, or divisions thereof.
 
-    (c) __Subsequent Modifications, Amendments, and Supplements.—__ 
+    (c)  __Subsequent Modifications, Amendments, and Supplements__  __.—__ 
 
     The scope of a license shall permit subsequent modifications, amendments, and supplements containing additional subject matter if the application upon which the request for the license is based is not, or was not, required to be made available for inspection under section 181 and if such modifications, amendments, and supplements do not change the general nature of the invention in a manner which would require such application to be made available for inspection under such section 181. In any case in which a license is not, or was not, required in order to file an application in any foreign country, such subsequent modifications, amendments, and supplements may be made, without a license, to the application filed in the foreign country if the United States application was not required to be made available for inspection under section 181 and if such modifications, amendments, and supplements do not, or did not, change the general nature of the invention in a manner which would require the United States application to have been made available for inspection under such section 181.
 

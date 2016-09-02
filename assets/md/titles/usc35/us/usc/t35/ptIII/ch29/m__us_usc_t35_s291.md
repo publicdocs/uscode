@@ -15,11 +15,11 @@
 
 ## § 291. Derived patents
 
-    (a)  __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The owner of a patent may have relief by civil action against the owner of another patent that claims the same invention and has an earlier effective filing date, if the invention claimed in such other patent was derived from the inventor of the invention claimed in the patent owned by the person seeking relief under this section.
 
-    (b) __Filing Limitation.—__ 
+    (b)  __Filing Limitation__  __.—__ 
 
     An action under this section may be filed only before the end of the 1-year period beginning on the date of the issuance of the first patent containing a claim to the allegedly derived invention and naming an individual alleged to have derived such invention as the inventor or joint inventor.
 

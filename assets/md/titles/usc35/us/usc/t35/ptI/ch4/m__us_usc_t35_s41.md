@@ -15,7 +15,7 @@
 
 ## § 41. Patent fees; patent and trademark search systems
 
-    (a) __General Fees.—__ 
+    (a)  __General Fees__  __.—__ 
 
     The Director shall charge the following fees:
 
@@ -37,7 +37,7 @@
 
         (2) __Excess claims fees.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             In addition to the fee specified in paragraph (1)—
 
@@ -47,11 +47,11 @@
 
                 (iii) for each application containing a multiple dependent claim, $390.
 
-            (B) __Multiple dependent claims.—__ 
+            (B)  __Multiple dependent claims__  __.—__ 
 
             For the purpose of computing fees under subparagraph (A), a multiple dependent claim referred to in section 112 or any claim depending therefrom shall be considered as separate dependent claims in accordance with the number of claims to which reference is made.
 
-            (C) __Refunds; errors in payment.—__ 
+            (C)  __Refunds; errors in payment__  __.—__ 
 
             The Director may by regulation provide for a refund of any part of the fee specified in subparagraph (A) for any claim that is canceled before an examination on the merits, as prescribed by the Director, has been made of the application under section 131. Errors in payment of the additional fees under this paragraph may be rectified in accordance with regulations prescribed by the Director.
 
@@ -69,7 +69,7 @@
 
                 (v) For examination of each application for the reissue of a patent, $650.
 
-            (B) __Applicability of other fee provisions.—__ 
+            (B)  __Applicability of other fee provisions__  __.—__ 
 
             The provisions of paragraphs (3) and (4) of section 111(a) relating to the payment of the fee for filing the application shall apply to the payment of the fee specified in subparagraph (A) with respect to an application filed under section 111(a). The provisions of section 371(d) relating to the payment of the national fee shall apply to the payment of the fee specified in subparagraph (A) with respect to an international application.
 
@@ -83,7 +83,7 @@
 
             (D) For issuing each reissue patent, $1,510.
 
-        (5) __Disclaimer fee.—__ 
+        (5)  __Disclaimer fee__  __.—__ 
 
         On filing each disclaimer, $140.
 
@@ -93,11 +93,11 @@
 
             (B) In addition, on filing a brief in support of the appeal, $540, and on requesting an oral hearing in the appeal before the Patent Trial and Appeal Board, $1,080.
 
-        (7) __Revival fees.—__ 
+        (7)  __Revival fees__  __.—__ 
 
-        On filing each petition for the revival of an unintentionally abandoned application for a patent, for the unintentionally delayed payment of the fee for issuing each patent, or for an unintentionally delayed response by the patent owner in any reexamination proceeding, $1,620, unless the petition is filed under section 133 or 151, in which case the fee shall be $540.
+        On filing each petition for the revival of an abandoned application for a patent, for the delayed payment of the fee for issuing each patent, for the delayed response by the patent owner in any reexamination proceeding, for the delayed payment of the fee for maintaining a patent in force, for the delayed submission of a priority or benefit claim, or for the extension of the 12-month period for filing a subsequent application, $1,700.00. The Director may refund any part of the fee specified in this paragraph, in exceptional circumstances as determined by the Director  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a period. </sup></sup> 
 
-        (8) __Extension fees.—__ 
+        (8)  __Extension fees__  __.—__ 
 
         For petitions for 1-month extensions of time to take actions required by the Director in an application—
 
@@ -109,7 +109,7 @@
 
     (b) __Maintenance Fees.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Director shall charge the following fees for maintaining in force all patents based on applications filed on or after December 12, 1980:
 
@@ -119,21 +119,21 @@
 
             (C) Eleven years and 6 months after grant, $4,110.
 
-        (2) __Grace period; surcharge.—__ 
+        (2)  __Grace period; surcharge__  __.—__ 
 
         Unless payment of the applicable maintenance fee under paragraph (1) is received in the Office on or before the date the fee is due or within a grace period of 6 months thereafter, the patent shall expire as of the end of such grace period. The Director may require the payment of a surcharge as a condition of accepting within such 6-month grace period the payment of an applicable maintenance fee.
 
-        (3) __No maintenance fee for design or plant patent.—__ 
+        (3)  __No maintenance fee for design or plant patent__  __.—__ 
 
         No fee may be established for maintaining a design or plant patent in force.
 
     (c) __Delays in Payment of Maintenance Fees.—__ 
 
-        (1) __Acceptance.—__ 
+        (1)  __Acceptance__  __.—__ 
 
-        The Director may accept the payment of any maintenance fee required by subsection (b) of this section which is made within twenty-four months after the six-month grace period if the delay is shown to the satisfaction of the Director to have been unintentional, or at any time after the six-month grace period if the delay is shown to the satisfaction of the Director to have been unavoidable. The Director may require the payment of a surcharge as a condition of accepting payment of any maintenance fee after the six-month grace period. If the Director accepts payment of a maintenance fee after the six-month grace period, the patent shall be considered as not having expired at the end of the grace period.
+        The Director may accept the payment of any maintenance fee required by subsection (b) after the 6-month grace period if the delay is shown to the satisfaction of the Director to have been unintentional. The Director may require the payment of the fee specified in subsection (a)(7) as a condition of accepting payment of any maintenance fee after the 6-month grace period. If the Director accepts payment of a maintenance fee after the 6-month grace period, the patent shall be considered as not having expired at the end of the grace period.
 
-        (2) __Effect on rights of others.—__ 
+        (2)  __Effect on rights of others__  __.—__ 
 
         A patent, the term of which has been maintained as a result of the acceptance of a payment of a maintenance fee under this subsection, shall not abridge or affect the right of any person or that person’s successors in business who made, purchased, offered to sell, or used anything protected by the patent within the United States, or imported anything protected by the patent into the United States after the 6-month grace period but prior to the acceptance of a maintenance fee under this subsection, to continue the use of, to offer for sale, or to sell to others to be used, offered for sale, or sold, the specific thing so made, purchased, offered for sale, used, or imported. The court before which such matter is in question may provide for the continued manufacture, use, offer for sale, or sale of the thing made, purchased, offered for sale, or used within the United States, or imported into the United States, as specified, or for the manufacture, use, offer for sale, or sale in the United States of which substantial preparation was made after the 6-month grace period but before the acceptance of a maintenance fee under this subsection, and the court may also provide for the continued practice of any process that is practiced, or for the practice of which substantial preparation was made, after the 6-month grace period but before the acceptance of a maintenance fee under this subsection, to the extent and under such terms as the court deems equitable for the protection of investments made or business commenced after the 6-month grace period but before the acceptance of a maintenance fee under this subsection.
 
@@ -141,11 +141,11 @@
 
         (1) __Patent search fees.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Director shall charge the fees specified under subparagraph (B) for the search of each application for a patent, except for provisional applications. The Director shall adjust the fees charged under this paragraph to ensure that the fees recover an amount not to exceed the estimated average cost to the Office of searching applications for patent by Office personnel.
 
-            (B) __Specific fees.—__ 
+            (B)  __Specific fees__  __.—__ 
 
             The fees referred to in subparagraph (A) are—
 
@@ -159,17 +159,17 @@
 
                 (v) $540 for each application for the reissue of a patent.
 
-            (C) __Applicability of other provisions.—__ 
+            (C)  __Applicability of other provisions__  __.—__ 
 
             The provisions of paragraphs (3) and (4) of section 111(a) relating to the payment of the fee for filing the application shall apply to the payment of the fee specified in this paragraph with respect to an application filed under section 111(a). The provisions of section 371(d) relating to the payment of the national fee shall apply to the payment of the fee specified in this paragraph with respect to an international application.
 
-            (D) __Refunds.—__ 
+            (D)  __Refunds__  __.—__ 
 
             The Director may by regulation provide for a refund of any part of the fee specified in this paragraph for any applicant who files a written declaration of express abandonment as prescribed by the Director before an examination has been made of the application under section 131.
 
         (2) __Other fees.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Director shall establish fees for all other processing, services, or materials relating to patents not specified in this section to recover the estimated average cost to the Office of such processing, services, or materials, except that the Director shall charge the following fees for the following services:
 
@@ -179,15 +179,15 @@
 
                 (iii) For each black and white copy of a patent, $3.
 
-            (B) __Copies for libraries.—__ 
+            (B)  __Copies for libraries__  __.—__ 
 
             The yearly fee for providing a library specified in section 12 with uncertified printed copies of the specifications and drawings for all patents in that year shall be $50.
 
-    (e) __Waiver of Fees; Copies Regarding Notice.—__ 
+    (e)  __Waiver of Fees; Copies Regarding Notice__  __.—__ 
 
     The Director may waive the payment of any fee for any service or material related to patents in connection with an occasional or incidental request made by a department or agency of the Government, or any officer thereof. The Director may provide any applicant issued a notice under section 132 with a copy of the specifications and drawings for all patents referred to in that notice without charge.
 
-    (f) __Adjustment of Fees.—__ 
+    (f)  __Adjustment of Fees__  __.—__ 
 
     The fees established in subsections (a) and (b) of this section may be adjusted by the Director on October 1, 1992, and every year thereafter, to reflect any fluctuations occurring during the previous 12 months in the Consumer Price Index, as determined by the Secretary of Labor. Changes of less than 1 per centum may be ignored.
 
@@ -195,51 +195,37 @@
 
     (h) __Fees for Small Entities.—__ 
 
-        (1) __Reductions in fees.—__ 
+        (1)  __Reductions in fees__  __.—__ 
 
         Subject to paragraph (3), fees charged under subsections (a), (b), and (d)(1) shall be reduced by 50 percent with respect to their application to any small business concern as defined under section 3 of the Small Business Act, and to any independent inventor or nonprofit organization as defined in regulations issued by the Director.
 
-        (2) __Surcharges and other fees.—__ 
+        (2)  __Surcharges and other fees__  __.—__ 
 
         With respect to its application to any entity described in paragraph (1), any surcharge or fee charged under subsection (c) or (d) shall not be higher than the surcharge or fee required of any other entity under the same or substantially similar circumstances.
 
-        (3) __Reduction for electronic filing.—__ 
+        (3)  __Reduction for electronic filing__  __.—__ 
 
         The fee charged under subsection (a)(1)(A) shall be reduced by 75 percent with respect to its application to any entity to which paragraph (1) applies, if the application is filed by electronic means as prescribed by the Director.
 
     (i) __Electronic Patent and Trademark Data.—__ 
 
-        (1) __Maintenance of collections.—__ 
+        (1)  __Maintenance of collections__  __.—__ 
 
         The Director shall maintain, for use by the public, paper, microform, or electronic collections of United States patents, foreign patent documents, and United States trademark registrations arranged to permit search for and retrieval of information. The Director may not impose fees directly for the use of such collections, or for the use of the public patent or trademark search rooms or libraries.
 
-        (2) __Availability of automated search systems.—__ 
+        (2)  __Availability of automated search systems__  __.—__ 
 
         The Director shall provide for the full deployment of the automated search systems of the Patent and Trademark Office so that such systems are available for use by the public, and shall assure full access by the public to, and dissemination of, patent and trademark information, using a variety of automated methods, including electronic bulletin boards and remote access by users to mass storage and retrieval systems.
 
-        (3) __Access fees.—__ 
+        (3)  __Access fees__  __.—__ 
 
         The Director may establish reasonable fees for access by the public to the automated search systems of the Patent and Trademark Office. If such fees are established, a limited amount of free access shall be made available to users of the systems for purposes of education and training. The Director may waive the payment by an individual of fees authorized by this subsection upon a showing of need or hardship, and if such a waiver is in the public interest.
 
-        (4) __Annual report to congress.—__ 
+        (4)  __Annual report to congress__  __.—__ 
 
         The Director shall submit to the Congress an annual report on the automated search systems of the Patent and Trademark Office and the access by the public to such systems. The Director shall also publish such report in the Federal Register. The Director shall provide an opportunity for the submission of comments by interested persons on each such report.
 
 ([July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], [66 Stat. 796][/us/stat/66/796]; [Pub. L. 89–83][/us/pl/89/83], §§ 1, 2, July 24, 1965, [79 Stat. 259][/us/stat/79/259]; [Pub. L. 93–596, § 1][/us/pl/93/596/s1], Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949]; [Pub. L. 94–131, § 3][/us/pl/94/131/s3], Nov. 14, 1975, [89 Stat. 690][/us/stat/89/690]; [Pub. L. 96–517, § 2][/us/pl/96/517/s2], Dec. 12, 1980, [94 Stat. 3017][/us/stat/94/3017]; [Pub. L. 97–247, § 3(a)][/us/pl/97/247/s3/a]–(e), Aug. 27, 1982, [96 Stat. 317–319][/us/stat/96/317-319]; [Pub. L. 97–256, title I, § 101(1)][/us/pl/97/256/s101/1]–(4), Sept. 8, 1982, [96 Stat. 816][/us/stat/96/816]; [Pub. L. 98–622, title II, § 204(a)][/us/pl/98/622/s204/a], Nov. 8, 1984, [98 Stat. 3388][/us/stat/98/3388]; [Pub. L. 99–607, § 1(b)(2)][/us/pl/99/607/s1/b/2], Nov. 6, 1986, [100 Stat. 3470][/us/stat/100/3470]; [Pub. L. 102–204, § 5(a)][/us/pl/102/204/s5/a]–(c)(1), (d)(1), (2)(A), Dec. 10, 1991, [105 Stat. 1637–1639][/us/stat/105/1637-1639]; [Pub. L. 102–444, § 1][/us/pl/102/444/s1], Oct. 23, 1992, [106 Stat. 2245][/us/stat/106/2245]; [Pub. L. 103–465, title V][/us/pl/103/465], §§ 532(b)(2), 533(b)(1), Dec. 8, 1994, [108 Stat. 4986][/us/stat/108/4986], 4988; [Pub. L. 105–358, § 3][/us/pl/105/358/s3], Nov. 10, 1998, [112 Stat. 3272][/us/stat/112/3272]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, §§ 4202, 4605(a), 4732(a)(5), (10)(A), 4804(d)(1)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–554, 1501A–570, 1501A–582, 1501A–589; [Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B)][/us/pl/107/273/s13206/b/1/B], Nov. 2, 2002, [116 Stat. 1906][/us/stat/116/1906]; [Pub. L. 112–29][/us/pl/112/29], §§ 11(a)–(e), 20(j), Sept. 16, 2011, [125 Stat. 320–323][/us/stat/125/320-323], 335; [Pub. L. 112–211, title II, § 202(b)(1)][/us/pl/112/211/s202/b/1], Dec. 18, 2012, [126 Stat. 1535][/us/stat/126/1535].)
-
- __Amendment of Subsections (a)(7) and (c)(1)__ 
-
-    [Pub. L. 112–211, title II][/us/pl/112/211], §§ 202(b)(1), 203, Dec. 18, 2012, [126 Stat. 1535][/us/stat/126/1535], 1536, provided that, effective on the date that is 1 year after Dec. 18, 2012, applicable to patents issued before, on, or after that effective date and patent applications pending on or filed after that effective date, and not effective with respect to patents in litigation commenced before that effective date, this section is amended as follows:
-
-    (1) in subsection (a), by striking paragraph (7) and inserting the following:
-
-    “(7) Revival fees.—On filing each petition for the revival of an abandoned application for a patent, for the delayed payment of the fee for issuing each patent, for the delayed response by the patent owner in any reexamination proceeding, for the delayed payment of the fee for maintaining a patent in force, for the delayed submission of a priority or benefit claim, or for the extension of the 12-month period for filing a subsequent application, $1,700.00. The Director may refund any part of the fee specified in this paragraph, in exceptional circumstances as determined by the Director”; and
-
-    (2) in subsection (c), by striking paragraph (1) and inserting the following:
-
-    “(1) Acceptance.—The Director may accept the payment of any maintenance fee required by subsection (b) after the 6-month grace period if the delay is shown to the satisfaction of the Director to have been unintentional. The Director may require the payment of the fee specified in subsection (a)(7) as a condition of accepting payment of any maintenance fee after the 6-month grace period. If the Director accepts payment of a maintenance fee after the 6-month grace period, the patent shall be considered as not having expired at the end of the grace period.”
-
-    See 2012 Amendment notes below.
 
  __Historical and Revision Notes__ 
 
@@ -469,21 +455,21 @@
 
 [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, subtitle B, § 4206\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–555, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b), the amendments made by this subtitle \[amending this section and [section 42 of this title][/us/usc/t35/s42]\] shall take effect on the date of the enactment of this Act \[Nov. 29, 1999\].
 
->     “(b) __Section 4202.—__ 
+>     “(b)  __Section__  __4202.—__ 
 
 >     The amendments made by section 4202 \[amending this section\] of this subtitle shall take effect 30 days after the date of the enactment of this Act.”
 
 [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, subtitle F, § 4608\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–572, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Subject to subsection (b), this subtitle \[enacting chapter 31 of this title, amending this section and sections 100, 134, 141, 143, and 145 of this title, and enacting provisions set out as notes under sections 1, 311, and 315 of this title\] and the amendments made by this subtitle shall take effect on the date of the enactment of this Act \[Nov. 29, 1999\] and shall apply to any patent that issues from an original application filed in the United States on or after that date.
 
->     “(b) __Section 4605(a).—__ 
+>     “(b)  __Section__  __4605(a).—__ 
 
 >     The amendments made by section 4605(a) \[amending this section\] shall take effect on the date that is 1 year after the date of the enactment of this Act.”
 
@@ -571,19 +557,19 @@
 
 >     “(a) __Fee Setting.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Director \[Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office\] may set or adjust by rule any fee established, authorized, or charged under title 35, United States Code, or the Trademark Act of 1946 ([15 U.S.C. 1051][/us/usc/t15/s1051] et seq.), for any services performed by or materials furnished by, the \[United States Patent and Trademark\] Office, subject to paragraph (2).
 
->         “(2) __Fees to recover costs.—__ 
+>         “(2)  __Fees to recover costs__  __.—__ 
 
 >         Fees may be set or adjusted under paragraph (1) only to recover the aggregate estimated costs to the Office for processing, activities, services, and materials relating to patents (in the case of patent fees) and trademarks (in the case of trademark fees), including administrative costs of the Office with respect to such patent or trademark fees (as the case may be).
 
->     “(b) __Small and Micro Entities.—__ 
+>     “(b)  __Small and Micro Entities__  __.—__ 
 
 >     The fees set or adjusted under subsection (a) for filing, searching, examining, issuing, appealing, and maintaining patent applications and patents shall be reduced by 50 percent with respect to the application of such fees to any small entity that qualifies for reduced fees under [section 41(h)(1) of title 35][/us/usc/t35/s41/h/1], United States Code, and shall be reduced by 75 percent with respect to the application of such fees to any micro entity as defined in section 123 of that title (as added by subsection (g) of this section).
 
->     “(c) __Reduction of Fees in Certain Fiscal Years.—__ 
+>     “(c)  __Reduction of Fees in Certain Fiscal Years__  __.—__ 
 
 >     In each fiscal year, the Director—
 
@@ -591,7 +577,7 @@
 
 >         “(2) after the consultation required under paragraph (1), may reduce such fees.
 
->     “(d) __Role of the Public Advisory Committee.—__ 
+>     “(d)  __Role of the Public Advisory Committee__  __.—__ 
 
 >     The Director shall—
 
@@ -611,7 +597,7 @@
 
 >     “(e) __Publication in the Federal Register.—__ 
 
->         “(1) __Publication and rationale.—__ 
+>         “(1)  __Publication and rationale__  __.—__ 
 
 >         The Director shall—
 
@@ -621,15 +607,15 @@
 
 >             “(C) notify, through the Chair and Ranking Member of the Committees on the Judiciary of the Senate and the House of Representatives, the Congress of the proposed change not later than the date on which the proposed change is published under subparagraph (A).
 
->         “(2) __Public comment period.—__ 
+>         “(2)  __Public comment period__  __.—__ 
 
 >         The Director shall, in the publication under paragraph (1), provide the public a period of not less than 45 days in which to submit comments on the proposed change in fees.
 
->         “(3) __Publication of final rule.—__ 
+>         “(3)  __Publication of final rule__  __.—__ 
 
 >         The final rule setting or adjusting a fee under this section shall be published in the Federal Register and in the Official Gazette of the Patent and Trademark Office.
 
->         “(4) __Congressional comment period.—__ 
+>         “(4)  __Congressional comment period__  __.—__ 
 
 >         A fee set or adjusted under subsection (a) may not become effective—
 
@@ -637,7 +623,7 @@
 
 >             “(B) if a law is enacted disapproving such fee.
 
->         “(5) __Rule of construction.—__ 
+>         “(5)  __Rule of construction__  __.—__ 
 
 >         Rules prescribed under this section shall not diminish—
 
@@ -645,35 +631,35 @@
 
 >             “(B) any rights under a ratified treaty.
 
->     “(f) __Retention of Authority.—__ 
+>     “(f)  __Retention of Authority__  __.—__ 
 
 >     The Director retains the authority under subsection (a) to set or adjust fees only during such period as the Patent and Trademark Office remains an agency within the Department of Commerce.
 
->     “(g) __Micro Entity Defined.—__ 
+>     “(g)  __Micro Entity Defined__  __.—__ 
 
 >     \[Enacted [section 123 of this title][/us/usc/t35/s123] and amended analysis of this chapter.\]
 
 >     “(h) __Electronic Filing Incentive.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Notwithstanding any other provision of this section, an additional fee of $400 shall be established for each application for an original patent, except for a design, plant, or provisional application, that is not filed by electronic means as prescribed by the Director. The fee established by this subsection shall be reduced by 50 percent for small entities that qualify for reduced fees under [section 41(h)(1) of title 35][/us/usc/t35/s41/h/1], United States Code. All fees paid under this subsection shall be deposited in the Treasury as an offsetting receipt that shall not be available for obligation or expenditure.
 
->         “(2) __Effective date.—__ 
+>         “(2)  __Effective date__  __.—__ 
 
 >         This subsection shall take effect upon the expiration of the 60-day period beginning on the date of the enactment of this Act \[Sept. 16, 2011\].
 
 >     “(i) __Effective Date; Sunset.—__ 
 
->         “(1) __Effective date.—__ 
+>         “(1)  __Effective date__  __.—__ 
 
 >         Except as provided in subsection (h), this section \[enacting [section 123 of this title][/us/usc/t35/s123]\] and the amendments made by this section shall take effect on the date of the enactment of this Act \[Sept. 16, 2011\].
 
->         “(2) __Sunset.—__ 
+>         “(2)  __Sunset__  __.—__ 
 
 >         The authority of the Director to set or adjust any fee under subsection (a) shall terminate upon the expiration of the 7-year period beginning on the date of the enactment of this Act.
 
->         “(3) __Prior regulations not affected.—__ 
+>         “(3)  __Prior regulations not affected__  __.—__ 
 
 >         The termination of authority under this subsection shall not affect any regulations issued under this section before the effective date of such termination or any rulemaking proceeding for the issuance of regulations under this section that is pending on such date.”
 
@@ -687,43 +673,43 @@
 
 >         “(A) __Fee.—__ 
 
->             “(i) __Prioritized examination fee.—__ 
+>             “(i)  __Prioritized examination fee__  __.—__ 
 
 >             A fee of $4,800 shall be established for filing a request, pursuant to [section 2(b)(2)(G) of title 35][/us/usc/t35/s2/b/2/G], United States Code, for prioritized examination of a nonprovisional application for an original utility or plant patent.
 
->             “(ii) __Additional fees.—__ 
+>             “(ii)  __Additional fees__  __.—__ 
 
 >             In addition to the prioritized examination fee under clause (i), the fees due on an application for which prioritized examination is being sought are the filing, search, and examination fees (including any applicable excess claims and application size fees), processing fee, and publication fee for that application.
 
 >         “(B) __Regulations; limitations.—__ 
 
->             “(i) __Regulations.—__ 
+>             “(i)  __Regulations__  __.—__ 
 
 >             The Director \[Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office\] may by regulation prescribe conditions for acceptance of a request under subparagraph (A) and a limit on the number of filings for prioritized examination that may be accepted.
 
->             “(ii) __Limitation on claims.—__ 
+>             “(ii)  __Limitation on claims__  __.—__ 
 
 >             Until regulations are prescribed under clause (i), no application for which prioritized examination is requested may contain or be amended to contain more than 4 independent claims or more than 30 total claims.
 
->             “(iii) __Limitation on total number of requests.—__ 
+>             “(iii)  __Limitation on total number of requests__  __.—__ 
 
 >             The Director may not accept in any fiscal year more than 10,000 requests for prioritization until regulations are prescribed under this subparagraph setting another limit.
 
->     “(2) __Reduction in fees for small entities.—__ 
+>     “(2)  __Reduction in fees for small entities__  __.—__ 
 
 >     The Director shall reduce fees for providing prioritized examination of nonprovisional applications for original utility and plant patents by 50 percent for small entities that qualify for reduced fees under [section 41(h)(1) of title 35][/us/usc/t35/s41/h/1], United States Code.
 
->     “(3) __Deposit of fees.—__ 
+>     “(3)  __Deposit of fees__  __.—__ 
 
 >     All fees paid under this subsection shall be credited to the United States Patent and Trademark Office Appropriation Account, shall remain available until expended, and may be used only for the purposes specified in [section 42(c)(3)(A) of title 35][/us/usc/t35/s42/c/3/A], United States Code.
 
 >     “(4) __Effective date and termination.—__ 
 
->         “(A) __Effective date.—__ 
+>         “(A)  __Effective date__  __.—__ 
 
 >         This subsection shall take effect on the date that is 10 days after the date of the enactment of this Act \[Sept. 16, 2011\].
 
->         “(B) __Termination.—__ 
+>         “(B)  __Termination__  __.—__ 
 
 >         The fee imposed under paragraph (1)(A)(i), and the reduced fee under paragraph (2), shall terminate on the effective date of the setting or adjustment of the fee under paragraph (1)(A)(i) pursuant to the exercise of the authority under section 10 \[enacting [section 123 of this title][/us/usc/t35/s123] and provisions set out as a note under this section\] for the first time with respect to that fee.”
 
@@ -733,15 +719,15 @@
 
 >     “(1) __Surcharge.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         There shall be a surcharge of 15 percent, rounded by standard arithmetic rules, on all fees charged or authorized by subsections (a), (b), and (d)(1) of section 41, and section 132(b), of title 35, United States Code. Any surcharge imposed under this subsection is, and shall be construed to be, separate from and in addition to any other surcharge imposed under this Act \[see Short Title of 2011 Amendment note set out under [section 1 of this title][/us/usc/t35/s1]\] or any other provision of law.
 
->         “(B) __Deposit of amounts.—__ 
+>         “(B)  __Deposit of amounts__  __.—__ 
 
 >         Amounts collected pursuant to the surcharge imposed under subparagraph (A) shall be credited to the United States Patent and Trademark Appropriation Account, shall remain available until expended, and may be used only for the purposes specified in [section 42(c)(3)(A) of title 35][/us/usc/t35/s42/c/3/A], United States Code.
 
->     “(2) __Effective date and termination of surcharge.—__ 
+>     “(2)  __Effective date and termination of surcharge__  __.—__ 
 
 >     The surcharge provided for in paragraph (1)—
 
@@ -755,7 +741,7 @@
 
 >     “(a) __Authority.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Director of the United States Patent and Trademark Office—
 
@@ -765,23 +751,23 @@
 
 >             if the Director certifies in writing to the Congress that the use of the funds described in subparagraph (A) is reasonably necessary to avoid furloughs or a reduction-in-force, or both, in the United States Patent and Trademark Office, and does not create a substantial risk of a furlough or reduction-in-force of personnel working in the Trademark Operation of the United States Patent and Trademark Office.
 
->         “(2) __Surcharges deposited in treasury.—__ 
+>         “(2)  __Surcharges deposited in treasury__  __.—__ 
 
 >         All surcharges paid under paragraph (1)(B) shall be deposited in the Treasury as an offsetting receipt that shall not be available for obligation or expenditure.
 
->     “(b) __Limitations on Authority.—__ 
+>     “(b)  __Limitations on Authority__  __.—__ 
 
 >     The authority under subsection (a)(1)(A) shall terminate on June 30, 2010. The surcharge established under subsection (a)(1)(B) shall take effect no later than September 30, 2011, and all funds drawn down pursuant to subsection (a)(1)(A) shall be repaid pursuant to subsection (a)(1)(B) no later than September 30, 2014.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Director.—__ 
+>         “(1)  __Director__  __.—__ 
 
 >         The terms ‘Director of the United States Patent and Trademark Office’ and ‘Director’ mean the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office.
 
->         “(2) __Trademark act of 1946.—__ 
+>         “(2)  __Trademark act of 1946__  __.—__ 
 
 >         The term ‘Trademark Act of 1946’ means the Act entitled ‘An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes’, approved July 5, 1946 ([15 U.S.C. 1051][/us/usc/t15/s1051] et seq.).”
 
@@ -791,7 +777,7 @@
 
 > “SEC. 801. __FEES FOR PATENT SERVICES.__ 
 
->     “(a) __General Patent Fees.—__ 
+>     “(a)  __General Patent Fees__  __.—__ 
 
 >     During fiscal years 2005, 2006, and 2007, subsection (a) of [section 41 of title 35][/us/usc/t35/s41], United States Code, shall be administered as though that subsection reads as follows:    “ ‘(a) General Fees.—The Director shall charge the following fees:
 
@@ -863,7 +849,7 @@
 
 >         “ ‘(C) on filing a third or subsequent petition, $570.’
 
->     “(b) __Patent Maintenance Fees.—__ 
+>     “(b)  __Patent Maintenance Fees__  __.—__ 
 
 >     During fiscal years 2005, 2006, and 2007, subsection (b) of [section 41 of title 35][/us/usc/t35/s41], United States Code, shall be administered as though that subsection reads as follows:    “ ‘(b) Maintenance Fees.—The Director shall charge the following fees for maintaining in force all patents based on applications filed on or after December 12, 1980:
 
@@ -875,7 +861,7 @@
 
 >         Unless payment of the applicable maintenance fee is received in the United States Patent and Trademark Office on or before the date the fee is due or within a grace period of 6 months thereafter, the patent will expire as of the end of such grace period. The Director may require the payment of a surcharge as a condition of accepting within such 6-month grace period the payment of an applicable maintenance fee. No fee may be established for maintaining a design or plant patent in force.’
 
->     “(c) __Patent Search Fees.—__ 
+>     “(c)  __Patent Search Fees__  __.—__ 
 
 >     During fiscal years 2005, 2006, and 2007, subsection (d) of [section 41 of title 35][/us/usc/t35/s41], United States Code, shall be administered as though that subsection reads as follows:    “ ‘(d) Patent Search and Other Fees.—
 
@@ -955,11 +941,11 @@
 
 >         The yearly fee for providing a library specified in [section 12 of this title][/us/usc/t35/s12] with uncertified printed copies of the specifications and drawings for all patents in that year shall be $50.’
 
->     “(d) __Adjustments.—__ 
+>     “(d)  __Adjustments__  __.—__ 
 
 >     During fiscal years 2005, 2006, and 2007, subsection (f) of [section 41 of title 35][/us/usc/t35/s41], United States Code, shall apply to the fees established under this section.
 
->     “(e) __Fees For Small Entities.—__ 
+>     “(e)  __Fees For Small Entities__  __.—__ 
 
 >     During fiscal years 2005, 2006, and 2007, subsection (h) of [section 41 of title 35][/us/usc/t35/s41], United States Code, shall be administered as though that subsection is amended—
 
@@ -969,17 +955,17 @@
 
 > “SEC. 802. __ADJUSTMENT OF TRADEMARK FEES.__ 
 
->     “(a) __Fee For Filing Application.—__ 
+>     “(a)  __Fee For Filing Application__  __.—__ 
 
 >     Until such time as the Director sets or adjusts the fees otherwise, under such conditions as may be prescribed by the Director, the fee under section 31(a) of the Trademark Act of 1946 ([15 U.S.C. 1113(a)][/us/usc/t15/s1113/a]) for: (1) the filing of a paper application for the registration of a trademark shall be $375; (2) the filing of an electronic application shall be $325; and (3) the filing of an electronic application meeting certain additional requirements prescribed by the Director shall be $275. The provisions of the second and third sentences of section 31(a) of the Trademark Act of 1946 shall apply to the fees established under this section.
 
->     “(b) __Reference to Trademark Act of 1946.—__ 
+>     “(b)  __Reference to Trademark Act of__  __1946.—__ 
 
 >     For purposes of this section, the ‘Trademark Act of 1946’ refers to the Act entitled ‘An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes.’, approved July 5, 1946 ([15 U.S.C. 1051][/us/usc/t15/s1051] et seq.).
 
 > “SEC. 803. __EFFECTIVE DATE, APPLICABILITY, AND TRANSITIONAL PROVISION.__ 
 
->     “(a) __Effective Date.—__ 
+>     “(a)  __Effective Date__  __.—__ 
 
 >     Except as otherwise provided in this title (including this section), the provisions of this title shall take effect on the date of the enactment of this Act \[Dec. 8, 2004\].
 
@@ -1007,7 +993,7 @@
 
 >     “(c) __Transitional Provisions.—__ 
 
->         “(1) __Search fees.—__ 
+>         “(1)  __Search fees__  __.—__ 
 
 >         During fiscal years 2005, 2006, and 2007, the Director shall charge—
 
@@ -1021,7 +1007,7 @@
 
 >             “(E) for the search of each application for the reissue of a patent, $500.
 
->         “(2) __Timing of fees.—__ 
+>         “(2)  __Timing of fees__  __.—__ 
 
 >         The provisions of [section 111(a)(3) of title 35][/us/usc/t35/s111/a/3], United States Code, relating to the payment of the fee for filing the application shall apply to the payment of the fee specified in paragraph (1) with respect to an application filed under [section 111(a) of title 35][/us/usc/t35/s111/a], United States Code. The provisions of [section 371(d) of title 35][/us/usc/t35/s371/d], United States Code, relating to the payment of the national fee shall apply to the payment of the fee specified in paragraph (1) with respect to an international application.
 
@@ -1069,11 +1055,11 @@
 
 [Pub. L. 105–289, § 4][/us/pl/105/289/s4], Oct. 27, 1998, [112 Stat. 2781][/us/stat/112/2781], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The United States Patent and Trademark Office shall develop and implement statewide computer networks with remote library sites in requesting rural States such that citizens in those States will have enhanced access to information in their State’s patent and trademark depository library.
 
->     “(b) __Definition.—__ 
+>     “(b)  __Definition__  __.—__ 
 
 >     In this section, the term ‘rural States’ means the States that qualified on January 1, 1997, as rural States under section 1501(b) of the Omnibus Crime Control and Safe Streets Act of 1968 ([42 U.S.C. 379bb(b)][/us/usc/t42/s379bb/b] \[3796bb(b)\]).”
 
@@ -1159,8 +1145,6 @@
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/320-323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F320-323
 [/us/pl/112/211/s202/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs202%2Fb%2F1
-[/us/stat/126/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1535
-[/us/pl/112/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211
 [/us/stat/126/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1535
 [/us/act/1908-05-27/ch200/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1908-05-27%2Fch200%2Fs1
 [/us/stat/35/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F317

@@ -15,7 +15,7 @@
 
 ## § 301. Citation of prior art and written statements
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Any person at any time may cite to the Office in writing—
 
@@ -23,19 +23,19 @@
 
         (2) statements of the patent owner filed in a proceeding before a Federal court or the Office in which the patent owner took a position on the scope of any claim of a particular patent.
 
-    (b) __Official File.—__ 
+    (b)  __Official File__  __.—__ 
 
     If the person citing prior art or written statements pursuant to subsection (a) explains in writing the pertinence and manner of applying the prior art or written statements to at least 1 claim of the patent, the citation of the prior art or written statements and the explanation thereof shall become a part of the official file of the patent.
 
-    (c) __Additional Information.—__ 
+    (c)  __Additional Information__  __.—__ 
 
     A party that submits a written statement pursuant to subsection (a)(2) shall include any other documents, pleadings, or evidence from the proceeding in which the statement was filed that addresses the written statement.
 
-    (d) __Limitations.—__ 
+    (d)  __Limitations__  __.—__ 
 
     A written statement submitted pursuant to subsection (a)(2), and additional information submitted pursuant to subsection (c), shall not be considered by the Office for any purpose other than to determine the proper meaning of a patent claim in a proceeding that is ordered or instituted pursuant to section 304, 314, or 324. If any such written statement or additional information is subject to an applicable protective order, such statement or information shall be redacted to exclude information that is subject to that order.
 
-    (e) __Confidentiality.—__ 
+    (e)  __Confidentiality__  __.—__ 
 
     Upon the written request of the person citing prior art or written statements pursuant to subsection (a), that person’s identity shall be excluded from the patent file and kept confidential.
 

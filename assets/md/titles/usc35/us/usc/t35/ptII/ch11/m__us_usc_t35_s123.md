@@ -15,7 +15,7 @@
 
 ## § 123. Micro entity defined
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     For purposes of this title, the term “micro entity” means an applicant who makes a certification that the applicant—
 
@@ -27,15 +27,15 @@
 
         (4) has not assigned, granted, or conveyed, and is not under an obligation by contract or law to assign, grant, or convey, a license or other ownership interest in the application concerned to an entity that, in the calendar year preceding the calendar year in which the applicable fee is being paid, had a gross income, as defined in section 61(a) of the Internal Revenue Code of 1986, exceeding 3 times the median household income for that preceding calendar year, as most recently reported by the Bureau of the Census.
 
-    (b) __Applications Resulting From Prior Employment.—__ 
+    (b)  __Applications Resulting From Prior Employment__  __.—__ 
 
     An applicant is not considered to be named on a previously filed application for purposes of subsection (a)(2) if the applicant has assigned, or is under an obligation by contract or law to assign, all ownership rights in the application as the result of the applicant’s previous employment.
 
-    (c) __Foreign Currency Exchange Rate.—__ 
+    (c)  __Foreign Currency Exchange Rate__  __.—__ 
 
     If an applicant’s or entity’s gross income in the preceding calendar year is not in United States dollars, the average currency exchange rate, as reported by the Internal Revenue Service, during that calendar year shall be used to determine whether the applicant’s or entity’s gross income exceeds the threshold specified in paragraphs  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “paragraph”. </sup></sup>  (3) or (4) of subsection (a).
 
-    (d) __Institutions of Higher Education.—__ 
+    (d)  __Institutions of Higher Education__  __.—__ 
 
     For purposes of this section, a micro entity shall include an applicant who certifies that—
 
@@ -43,7 +43,7 @@
 
         (2) the applicant has assigned, granted, conveyed, or is under an obligation by contract or law, to assign, grant, or convey, a license or other ownership interest in the particular applications to such an institution of higher education.
 
-    (e) __Director’s Authority.—__ 
+    (e)  __Director’s Authority__  __.—__ 
 
     In addition to the limits imposed by this section, the Director may, in the Director’s discretion, impose income limits, annual filing limits, or other limits on who may qualify as a micro entity pursuant to this section if the Director determines that such additional limits are reasonably necessary to avoid an undue impact on other patent applicants or owners or are otherwise reasonably necessary and appropriate. At least 3 months before any limits proposed to be imposed pursuant to this subsection take effect, the Director shall inform the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate of any such proposed limits.
 

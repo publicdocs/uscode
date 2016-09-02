@@ -59,7 +59,7 @@
 
 [Pub. L. 107–273, div. C, title III, § 13105(b)][/us/pl/107/273/s13105/b], Nov. 2, 2002, [116 Stat. 1900][/us/stat/116/1900], provided that: 
 
-> “The amendments made by this section \[amending this section and [section 312 of this title][/us/usc/t35/s312]\] shall apply with respect to any determination of the Director of the United States Patent and Trademark Office that is made under section 303(a) or \[former section\] 312(a) \[see 314(a)\] of title 35, United States Code, on or after the date of enactment of this Act \[Nov. 2, 2002\].”
+> “The amendments made by this section \[amending this section and [section 312 of this title][/us/usc/t35/s312]\] shall apply with respect to any determination of the Director of the United States Patent and Trademark Office that is made under section 303(a) or \[former section\] 312(a) \[see section 314(a)\] of title 35, United States Code, on or after the date of enactment of this Act \[Nov. 2, 2002\].”
 
  __Effective Date of 1999 Amendment__ 
 

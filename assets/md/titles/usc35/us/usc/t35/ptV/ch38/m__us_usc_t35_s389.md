@@ -15,19 +15,19 @@
 
 ## § 389. Examination of international design application
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Director shall cause an examination to be made pursuant to this title of an international design application designating the United States.
 
-    (b) __Applicability of Chapter 16.—__ 
+    (b)  __Applicability of Chapter__  __16.—__ 
 
     All questions of substance and, unless otherwise required by the treaty and Regulations, procedures regarding an international design application designating the United States shall be determined as in the case of applications filed under chapter 16.
 
-    (c) __Fees.—__ 
+    (c)  __Fees__  __.—__ 
 
     The Director may prescribe fees for filing international design applications, for designating the United States, and for any other processing, services, or materials relating to international design applications, and may provide for later payment of such fees, including surcharges for later submission of fees.
 
-    (d) __Issuance of Patent.—__ 
+    (d)  __Issuance of Patent__  __.—__ 
 
     The Director may issue a patent based on an international design application designating the United States, in accordance with the provisions of this title. Such patent shall have the force and effect of a patent issued on an application filed under chapter 16.
 

@@ -15,7 +15,7 @@
 
 ## § 316. Conduct of inter partes review
 
-    (a) __Regulations.—__ 
+    (a)  __Regulations__  __.—__ 
 
     The Director shall prescribe regulations—
 
@@ -51,17 +51,17 @@
 
         (13) providing the petitioner with at least 1 opportunity to file written comments within a time period established by the Director.
 
-    (b) __Considerations.—__ 
+    (b)  __Considerations__  __.—__ 
 
     In prescribing regulations under this section, the Director shall consider the effect of any such regulation on the economy, the integrity of the patent system, the efficient administration of the Office, and the ability of the Office to timely complete proceedings instituted under this chapter.
 
-    (c) __Patent Trial and Appeal Board.—__ 
+    (c)  __Patent Trial and Appeal Board__  __.—__ 
 
     The Patent Trial and Appeal Board shall, in accordance with section 6, conduct each inter partes review instituted under this chapter.
 
     (d) __Amendment of the Patent.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         During an inter partes review instituted under this chapter, the patent owner may file 1 motion to amend the patent in 1 or more of the following ways:
 
@@ -69,15 +69,15 @@
 
             (B) For each challenged claim, propose a reasonable number of substitute claims.
 
-        (2) __Additional motions.—__ 
+        (2)  __Additional motions__  __.—__ 
 
         Additional motions to amend may be permitted upon the joint request of the petitioner and the patent owner to materially advance the settlement of a proceeding under section 317, or as permitted by regulations prescribed by the Director.
 
-        (3) __Scope of claims.—__ 
+        (3)  __Scope of claims__  __.—__ 
 
         An amendment under this subsection may not enlarge the scope of the claims of the patent or introduce new matter.
 
-    (e) __Evidentiary Standards.—__ 
+    (e)  __Evidentiary Standards__  __.—__ 
 
     In an inter partes review instituted under this chapter, the petitioner shall have the burden of proving a proposition of unpatentability by a preponderance of the evidence.
 

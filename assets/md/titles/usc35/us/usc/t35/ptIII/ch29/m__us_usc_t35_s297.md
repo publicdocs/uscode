@@ -15,7 +15,7 @@
 
 ## § 297. Improper and deceptive invention promotion
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     An invention promoter shall have a duty to disclose the following information to a customer in writing, prior to entering into a contract for invention promotion services:
 
@@ -29,7 +29,7 @@
 
         (5) the names and addresses of all previous invention promotion companies with which the invention promoter or its officers have collectively or individually been affiliated in the previous 10 years.
 
-    (b) __Civil Action.—__ 
+    (b)  __Civil Action__  __.—__ 
 
         (1)
 
@@ -41,7 +41,7 @@
 
         (2) Notwithstanding paragraph (1), in a case where the customer sustains the burden of proof, and the court finds, that the invention promoter intentionally misrepresented or omitted a material fact to such customer, or willfully failed to disclose such information as required under subsection (a), with the purpose of deceiving that customer, the court may increase damages to not more than three times the amount awarded, taking into account past complaints made against the invention promoter that resulted in regulatory sanctions or other corrective actions based on those records compiled by the Commissioner of Patents under subsection (d).
 
-    (c) __Definitions.—__ 
+    (c)  __Definitions__  __.—__ 
 
     For purposes of this section—
 
@@ -67,11 +67,11 @@
 
     (d) __Records of Complaints.—__ 
 
-        (1) __Release of complaints.—__ 
+        (1)  __Release of complaints__  __.—__ 
 
         The Commissioner of Patents shall make all complaints received by the Patent and Trademark Office involving invention promoters publicly available, together with any response of the invention promoters. The Commissioner of Patents shall notify the invention promoter of a complaint and provide a reasonable opportunity to reply prior to making such complaint publicly available.
 
-        (2) __Request for complaints.—__ 
+        (2)  __Request for complaints__  __.—__ 
 
         The Commissioner of Patents may request complaints relating to invention promotion services from any Federal or State agency and include such complaints in the records maintained under paragraph (1), together with any response of the invention promoters.
 

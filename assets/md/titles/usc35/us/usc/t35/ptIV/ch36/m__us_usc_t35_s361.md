@@ -19,19 +19,11 @@
 
     (b) The Patent and Trademark Office shall perform all acts connected with the discharge of duties required of a Receiving Office, including the collection of international fees and their transmittal to the International Bureau.
 
-    (c) International applications filed in the Patent and Trademark Office shall be in the English language.
+    (c) International applications filed in the Patent and Trademark Office shall be filed in the English language, or an English translation shall be filed within such later time as may be fixed by the Director.
 
     (d) The international fee, and the transmittal and search fees prescribed under section 376(a) of this part, shall either be paid on filing of an international application or within such later time as may be fixed by the Director.
 
 (Added [Pub. L. 94–131, § 1][/us/pl/94/131/s1], Nov. 14, 1975, [89 Stat. 686][/us/stat/89/686]; amended [Pub. L. 98–622, title IV][/us/pl/98/622], §§ 401(a), 403(a), Nov. 8, 1984, [98 Stat. 3391][/us/stat/98/3391], 3392; [Pub. L. 99–616, § 2(d)][/us/pl/99/616/s2/d], Nov. 6, 1986, [100 Stat. 3485][/us/stat/100/3485]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(a)(10)(A)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–582; [Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B)][/us/pl/107/273/s13206/b/1/B], Nov. 2, 2002, [116 Stat. 1906][/us/stat/116/1906]; [Pub. L. 112–211, title II, § 202(b)(7)][/us/pl/112/211/s202/b/7], Dec. 18, 2012, [126 Stat. 1536][/us/stat/126/1536].)
-
- __Amendment of Section__ 
-
-    [Pub. L. 112–211, title II][/us/pl/112/211], §§ 202(b)(7), 203, Dec. 18, 2012, [126 Stat. 1536][/us/stat/126/1536], provided that, effective on the date that is 1 year after Dec. 18, 2012, applicable to patents issued before, on, or after that effective date and patent applications pending on or filed after that effective date, and not effective with respect to patents in litigation commenced before that effective date, this section is amended by striking subsection (c) and inserting the following:
-
-    (c) International applications filed in the Patent and Trademark Office shall be filed in the English language, or an English translation shall be filed within such later time as may be fixed by the Director.
-
-    See 2012 Amendment note below.
 
  __Amendments__ 
 
@@ -87,8 +79,6 @@
 [/us/pl/107/273/s13206/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fb%2F1%2FB
 [/us/stat/116/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1906
 [/us/pl/112/211/s202/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211%2Fs202%2Fb%2F7
-[/us/stat/126/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1536
-[/us/pl/112/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211
 [/us/stat/126/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1536
 [/us/pl/112/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F211
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273

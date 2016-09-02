@@ -15,15 +15,15 @@
 
 ## § 311. Inter partes review
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Subject to the provisions of this chapter, a person who is not the owner of a patent may file with the Office a petition to institute an inter partes review of the patent. The Director shall establish, by regulation, fees to be paid by the person requesting the review, in such amounts as the Director determines to be reasonable, considering the aggregate costs of the review.
 
-    (b) __Scope.—__ 
+    (b)  __Scope__  __.—__ 
 
     A petitioner in an inter partes review may request to cancel as unpatentable 1 or more claims of a patent only on a ground that could be raised under section 102 or 103 and only on the basis of prior art consisting of patents or printed publications.
 
-    (c) __Filing Deadline.—__ 
+    (c)  __Filing Deadline__  __.—__ 
 
     A petition for inter partes review shall be filed after the later of either—
 
@@ -53,11 +53,11 @@
 
 [Pub. L. 112–29, § 6(c)(2)][/us/pl/112/29/s6/c/2], Sept. 16, 2011, [125 Stat. 304][/us/stat/125/304], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     The amendments made by subsection (a) \[enacting [section 319 of this title][/us/usc/t35/s319] and amending this section and sections 312 to 318 of this title\] shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act \[Sept. 16, 2011\] and shall apply to any patent issued before, on, or after that effective date.
 
->     “(B) __Graduated implementation.—__ 
+>     “(B)  __Graduated implementation__  __.—__ 
 
 >     The Director \[Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office\] may impose a limit on the number of inter partes reviews that may be instituted under chapter 31 of title 35, United States Code, during each of the first 4 1-year periods in which the amendments made by subsection (a) are in effect, if such number in each year equals or exceeds the number of inter partes reexaminations that are ordered under chapter 31 of title 35, United States Code, in the last fiscal year ending before the effective date of the amendments made by subsection (a).”
 

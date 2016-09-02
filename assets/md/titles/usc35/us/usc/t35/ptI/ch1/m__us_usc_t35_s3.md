@@ -17,49 +17,49 @@
 
     (a) __Under Secretary and Director.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The powers and duties of the United States Patent and Trademark Office shall be vested in an Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office (in this title referred to as the “Director”), who shall be a citizen of the United States and who shall be appointed by the President, by and with the advice and consent of the Senate. The Director shall be a person who has a professional background and experience in patent or trademark law.
 
         (2) __Duties.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Director shall be responsible for providing policy direction and management supervision for the Office and for the issuance of patents and the registration of trademarks. The Director shall perform these duties in a fair, impartial, and equitable manner.
 
-            (B) __Consulting with the public advisory committees.—__ 
+            (B)  __Consulting with the public advisory committees__  __.—__ 
 
             The Director shall consult with the Patent Public Advisory Committee established in section 5 on a regular basis on matters relating to the patent operations of the Office, shall consult with the Trademark Public Advisory Committee established in section 5 on a regular basis on matters relating to the trademark operations of the Office, and shall consult with the respective Public Advisory Committee before submitting budgetary proposals to the Office of Management and Budget or changing or proposing to change patent or trademark user fees or patent or trademark regulations which are subject to the requirement to provide notice and opportunity for public comment under [section 553 of title 5][/us/usc/t5/s553], as the case may be.
 
-        (3) __Oath.—__ 
+        (3)  __Oath__  __.—__ 
 
         The Director shall, before taking office, take an oath to discharge faithfully the duties of the Office.
 
-        (4) __Removal.—__ 
+        (4)  __Removal__  __.—__ 
 
         The Director may be removed from office by the President. The President shall provide notification of any such removal to both Houses of Congress.
 
     (b) __Officers and Employees of the Office.—__ 
 
-        (1) __Deputy under secretary and deputy director.—__ 
+        (1)  __Deputy under secretary and deputy director__  __.—__ 
 
         The Secretary of Commerce, upon nomination by the Director, shall appoint a Deputy Under Secretary of Commerce for Intellectual Property and Deputy Director of the United States Patent and Trademark Office who shall be vested with the authority to act in the capacity of the Director in the event of the absence or incapacity of the Director. The Deputy Director shall be a citizen of the United States who has a professional background and experience in patent or trademark law.
 
         (2) __Commissioners.—__ 
 
-            (A) __Appointment and duties.—__ 
+            (A)  __Appointment and duties__  __.—__ 
 
             The Secretary of Commerce shall appoint a Commissioner for Patents and a Commissioner for Trademarks, without regard to chapter 33, 51, or 53 of title 5. The Commissioner for Patents shall be a citizen of the United States with demonstrated management ability and professional background and experience in patent law and serve for a term of 5 years. The Commissioner for Trademarks shall be a citizen of the United States with demonstrated management ability and professional background and experience in trademark law and serve for a term of 5 years. The Commissioner for Patents and the Commissioner for Trademarks shall serve as the chief operating officers for the operations of the Office relating to patents and trademarks, respectively, and shall be responsible for the management and direction of all aspects of the activities of the Office that affect the administration of patent and trademark operations, respectively. The Secretary may reappoint a Commissioner to subsequent terms of 5 years as long as the performance of the Commissioner as set forth in the performance agreement in subparagraph (B) is satisfactory.
 
-            (B) __Salary and performance agreement.—__ 
+            (B)  __Salary and performance agreement__  __.—__ 
 
             The Commissioners shall be paid an annual rate of basic pay not to exceed the maximum rate of basic pay for the Senior Executive Service established under [section 5382 of title 5][/us/usc/t5/s5382], including any applicable locality-based comparability payment that may be authorized under [section 5304(h)(2)(C) of title 5][/us/usc/t5/s5304/h/2/C]. The compensation of the Commissioners shall be considered, for purposes of [section 207(c)(2)(A) of title 18][/us/usc/t18/s207/c/2/A], to be the equivalent of that described under clause (ii) of [section 207(c)(2)(A) of title 18][/us/usc/t18/s207/c/2/A]. In addition, the Commissioners may receive a bonus in an amount of up to, but not in excess of, 50 percent of the Commissioners’ annual rate of basic pay, based upon an evaluation by the Secretary of Commerce, acting through the Director, of the Commissioners’ performance as defined in an annual performance agreement between the Commissioners and the Secretary. The annual performance agreements shall incorporate measurable organization and individual goals in key operational areas as delineated in an annual performance plan agreed to by the Commissioners and the Secretary. Payment of a bonus under this subparagraph may be made to the Commissioners only to the extent that such payment does not cause the Commissioners’ total aggregate compensation in a calendar year to equal or exceed the amount of the salary of the Vice President under [section 104 of title 3][/us/usc/t3/s104].
 
-            (C) __Removal.—__ 
+            (C)  __Removal__  __.—__ 
 
             The Commissioners may be removed from office by the Secretary for misconduct or nonsatisfactory performance under the performance agreement described in subparagraph (B), without regard to the provisions of title 5. The Secretary shall provide notification of any such removal to both Houses of Congress.
 
-        (3) __Other officers and employees.—__ 
+        (3)  __Other officers and employees__  __.—__ 
 
         The Director shall—
 
@@ -69,33 +69,33 @@
 
             The Office shall not be subject to any administratively or statutorily imposed limitation on positions or personnel, and no positions or personnel of the Office shall be taken into account for purposes of applying any such limitation.
 
-        (4) __Training of examiners.—__ 
+        (4)  __Training of examiners__  __.—__ 
 
         The Office shall submit to the Congress a proposal to provide an incentive program to retain as employees patent and trademark examiners of the primary examiner grade or higher who are eligible for retirement, for the sole purpose of training patent and trademark examiners.
 
-        (5) __National security positions.—__ 
+        (5)  __National security positions__  __.—__ 
 
         The Director, in consultation with the Director of the Office of Personnel Management, shall maintain a program for identifying national security positions and providing for appropriate security clearances, in order to maintain the secrecy of certain inventions, as described in section 181, and to prevent disclosure of sensitive and strategic information in the interest of national security.
 
-        (6) __Administrative patent judges and administrative trademark judges.—__ 
+        (6)  __Administrative patent judges and administrative trademark judges__  __.—__ 
 
         The Director may fix the rate of basic pay for the administrative patent judges appointed pursuant to section 6 and the administrative trademark judges appointed pursuant to section 17 of the Trademark Act of 1946 ([15 U.S.C. 1067][/us/usc/t15/s1067]) at not greater than the rate of basic pay payable for level III of the Executive Schedule under [section 5314 of title 5][/us/usc/t5/s5314]. The payment of a rate of basic pay under this paragraph shall not be subject to the pay limitation under section 5306(e) or 5373 of title 5.
 
-    (c) __Continued Applicability of Title 5.—__ 
+    (c)  __Continued Applicability of Title__  __5.—__ 
 
     Officers and employees of the Office shall be subject to the provisions of title 5, relating to Federal employees.
 
-    (d) __Adoption of Existing Labor Agreements.—__ 
+    (d)  __Adoption of Existing Labor Agreements__  __.—__ 
 
     The Office shall adopt all labor agreements which are in effect, as of the day before the effective date of the Patent and Trademark Office Efficiency Act, with respect to such Office (as then in effect).
 
     (e) __Carryover of Personnel.—__ 
 
-        (1) __From pto.—__ 
+        (1)  __From pto__  __.—__ 
 
         Effective as of the effective date of the Patent and Trademark Office Efficiency Act, all officers and employees of the Patent and Trademark Office on the day before such effective date shall become officers and employees of the Office, without a break in service.
 
-        (2) __Other personnel.—__ 
+        (2)  __Other personnel__  __.—__ 
 
         Any individual who, on the day before the effective date of the Patent and Trademark Office Efficiency Act, is an officer or employee of the Department of Commerce (other than an officer or employee under paragraph (1)) shall be transferred to the Office, as necessary to carry out the purposes of that Act, if—
 
@@ -109,11 +109,11 @@
 
     (f) __Transition Provisions.—__ 
 
-        (1) __Interim appointment of director.—__ 
+        (1)  __Interim appointment of director__  __.—__ 
 
         On or after the effective date of the Patent and Trademark Office Efficiency Act, the President shall appoint an individual to serve as the Director until the date on which a Director qualifies under subsection (a). The President shall not make more than one such appointment under this subsection.
 
-        (2) __Continuation in office of certain officers.—__ 
+        (2)  __Continuation in office of certain officers__  __.—__ 
 
             (A) The individual serving as the Assistant Commissioner for Patents on the day before the effective date of the Patent and Trademark Office Efficiency Act may serve as the Commissioner for Patents until the date on which a Commissioner for Patents is appointed under subsection (b).
 

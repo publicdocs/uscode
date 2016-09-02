@@ -15,45 +15,45 @@
 
 ## § 257. Supplemental examinations to consider, reconsider, or correct information
 
-    (a) __Request for Supplemental Examination.—__ 
+    (a)  __Request for Supplemental Examination__  __.—__ 
 
     A patent owner may request supplemental examination of a patent in the Office to consider, reconsider, or correct information believed to be relevant to the patent, in accordance with such requirements as the Director may establish. Within 3 months after the date a request for supplemental examination meeting the requirements of this section is received, the Director shall conduct the supplemental examination and shall conclude such examination by issuing a certificate indicating whether the information presented in the request raises a substantial new question of patentability.
 
-    (b) __Reexamination Ordered.—__ 
+    (b)  __Reexamination Ordered__  __.—__ 
 
     If the certificate issued under subsection (a) indicates that a substantial new question of patentability is raised by 1 or more items of information in the request, the Director shall order reexamination of the patent. The reexamination shall be conducted according to procedures established by chapter 30, except that the patent owner shall not have the right to file a statement pursuant to section 304. During the reexamination, the Director shall address each substantial new question of patentability identified during the supplemental examination, notwithstanding the limitations in chapter 30 relating to patents and printed publication or any other provision of such chapter.
 
     (c) __Effect.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A patent shall not be held unenforceable on the basis of conduct relating to information that had not been considered, was inadequately considered, or was incorrect in a prior examination of the patent if the information was considered, reconsidered, or corrected during a supplemental examination of the patent. The making of a request under subsection (a), or the absence thereof, shall not be relevant to enforceability of the patent under section 282.
 
         (2) __Exceptions.—__ 
 
-            (A) __Prior allegations.—__ 
+            (A)  __Prior allegations__  __.—__ 
 
             Paragraph (1) shall not apply to an allegation pled with particularity in a civil action, or set forth with particularity in a notice received by the patent owner under section 505(j)(2)(B)(iv)(II) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355(j)(2)(B)(iv)(II)][/us/usc/t21/s355/j/2/B/iv/II]), before the date of a supplemental examination request under subsection (a) to consider, reconsider, or correct information forming the basis for the allegation.
 
-            (B) __Patent enforcement actions.—__ 
+            (B)  __Patent enforcement actions__  __.—__ 
 
             In an action brought under section 337(a) of the Tariff Act of 1930 ([19 U.S.C. 1337(a)][/us/usc/t19/s1337/a]), or section 281, paragraph (1) shall not apply to any defense raised in the action that is based upon information that was considered, reconsidered, or corrected pursuant to a supplemental examination request under subsection (a), unless the supplemental examination, and any reexamination ordered pursuant to the request, are concluded before the date on which the action is brought.
 
     (d) __Fees and Regulations.—__ 
 
-        (1) __Fees.—__ 
+        (1)  __Fees__  __.—__ 
 
         The Director shall, by regulation, establish fees for the submission of a request for supplemental examination of a patent, and to consider each item of information submitted in the request. If reexamination is ordered under subsection (b), fees established and applicable to ex parte reexamination proceedings under chapter 30 shall be paid, in addition to fees applicable to supplemental examination.
 
-        (2) __Regulations.—__ 
+        (2)  __Regulations__  __.—__ 
 
         The Director shall issue regulations governing the form, content, and other requirements of requests for supplemental examination, and establishing procedures for reviewing information submitted in such requests.
 
-    (e) __Fraud.—__ 
+    (e)  __Fraud__  __.—__ 
 
     If the Director becomes aware, during the course of a supplemental examination or reexamination proceeding ordered under this section, that a material fraud on the Office may have been committed in connection with the patent that is the subject of the supplemental examination, then in addition to any other actions the Director is authorized to take, including the cancellation of any claims found to be invalid under section 307 as a result of a reexamination ordered under this section, the Director shall also refer the matter to the Attorney General for such further action as the Attorney General may deem appropriate. Any such referral shall be treated as confidential, shall not be included in the file of the patent, and shall not be disclosed to the public unless the United States charges a person with a criminal offense in connection with such referral.
 
-    (f) __Rule of Construction.—__ 
+    (f)  __Rule of Construction__  __.—__ 
 
     Nothing in this section shall be construed—
 

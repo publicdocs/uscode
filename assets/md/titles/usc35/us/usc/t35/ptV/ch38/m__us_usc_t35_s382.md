@@ -15,19 +15,19 @@
 
 ## § 382. Filing international design applications
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Any person who is a national of the United States, or has a domicile, a habitual residence, or a real and effective industrial or commercial establishment in the United States, may file an international design application by submitting to the Patent and Trademark Office an application in such form, together with such fees, as may be prescribed by the Director.
 
-    (b) __Required Action.—__ 
+    (b)  __Required Action__  __.—__ 
 
     The Patent and Trademark Office shall perform all acts connected with the discharge of its duties under the treaty, including the collection of international fees and transmittal thereof to the International Bureau. Subject to chapter 17, international design applications shall be forwarded by the Patent and Trademark Office to the International Bureau, upon payment of a transmittal fee.
 
-    (c) __Applicability of Chapter 16.—__ 
+    (c)  __Applicability of Chapter__  __16.—__ 
 
     Except as otherwise provided in this chapter, the provisions of chapter 16 shall apply.
 
-    (d) __Application Filed in Another Country.—__ 
+    (d)  __Application Filed in Another Country__  __.—__ 
 
     An international design application on an industrial design made in this country shall be considered to constitute the filing of an application in a foreign country within the meaning of chapter 17 if the international design application is filed—
 

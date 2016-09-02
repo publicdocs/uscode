@@ -15,11 +15,11 @@
 
 ## § 115. Inventor’s oath or declaration
 
-    (a) __Naming the Inventor; Inventor’s Oath or Declaration.—__ 
+    (a)  __Naming the Inventor; Inventor’s Oath or Declaration__  __.—__ 
 
     An application for patent that is filed under section 111(a) or commences the national stage under section 371 shall include, or be amended to include, the name of the inventor for any invention claimed in the application. Except as otherwise provided in this section, each individual who is the inventor or a joint inventor of a claimed invention in an application for patent shall execute an oath or declaration in connection with the application.
 
-    (b) __Required Statements.—__ 
+    (b)  __Required Statements__  __.—__ 
 
     An oath or declaration under subsection (a) shall contain statements that—
 
@@ -27,17 +27,17 @@
 
         (2) such individual believes himself or herself to be the original inventor or an original joint inventor of a claimed invention in the application.
 
-    (c) __Additional Requirements.—__ 
+    (c)  __Additional Requirements__  __.—__ 
 
     The Director may specify additional information relating to the inventor and the invention that is required to be included in an oath or declaration under subsection (a).
 
     (d) __Substitute Statement.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         In lieu of executing an oath or declaration under subsection (a), the applicant for patent may provide a substitute statement under the circumstances described in paragraph (2) and such additional circumstances that the Director may specify by regulation.
 
-        (2) __Permitted circumstances.—__ 
+        (2)  __Permitted circumstances__  __.—__ 
 
         A substitute statement under paragraph (1) is permitted with respect to any individual who—
 
@@ -53,7 +53,7 @@
 
             (B) is under an obligation to assign the invention but has refused to make the oath or declaration required under subsection (a).
 
-        (3) __Contents.—__ 
+        (3)  __Contents__  __.—__ 
 
         A substitute statement under this subsection shall—
 
@@ -63,17 +63,17 @@
 
             (C) contain any additional information, including any showing, required by the Director.
 
-    (e) __Making Required Statements in Assignment of Record.—__ 
+    (e)  __Making Required Statements in Assignment of Record__  __.—__ 
 
     An individual who is under an obligation of assignment of an application for patent may include the required statements under subsections (b) and (c) in the assignment executed by the individual, in lieu of filing such statements separately.
 
-    (f) __Time for Filing.—__ 
+    (f)  __Time for Filing__  __.—__ 
 
     The applicant for patent shall provide each required oath or declaration under subsection (a), substitute statement under subsection (d), or recorded assignment meeting the requirements of subsection (e) no later than the date on which the issue fee for the patent is paid.
 
     (g) __Earlier-Filed Application Containing Required Statements or Substitute Statement.—__ 
 
-        (1) __Exception.—__ 
+        (1)  __Exception__  __.—__ 
 
         The requirements under this section shall not apply to an individual with respect to an application for patent in which the individual is named as the inventor or a joint inventor and that claims the benefit under section 120, 121, or 365(c) of the filing of an earlier-filed application, if—
 
@@ -83,25 +83,25 @@
 
             (C) an assignment meeting the requirements of subsection (e) was executed with respect to the earlier-filed application by the individual and was recorded in connection with the earlier-filed application.
 
-        (2) __Copies of oaths, declarations, statements, or assignments.—__ 
+        (2)  __Copies of oaths, declarations, statements, or assignments__  __.—__ 
 
         Notwithstanding paragraph (1), the Director may require that a copy of the executed oath or declaration, the substitute statement, or the assignment filed in connection with the earlier-filed application be included in the later-filed application.
 
     (h) __Supplemental and Corrected Statements; Filing Additional Statements.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Any person making a statement required under this section may withdraw, replace, or otherwise correct the statement at any time. If a change is made in the naming of the inventor requiring the filing of 1 or more additional statements under this section, the Director shall establish regulations under which such additional statements may be filed.
 
-        (2) __Supplemental statements not required.—__ 
+        (2)  __Supplemental statements not required__  __.—__ 
 
         If an individual has executed an oath or declaration meeting the requirements of subsection (a) or an assignment meeting the requirements of subsection (e) with respect to an application for patent, the Director may not thereafter require that individual to make any additional oath, declaration, or other statement equivalent to those required by this section in connection with the application for patent or any patent issuing thereon.
 
-        (3) __Savings clause.—__ 
+        (3)  __Savings clause__  __.—__ 
 
         A patent shall not be invalid or unenforceable based upon the failure to comply with a requirement under this section if the failure is remedied as provided under paragraph (1).
 
-    (i) __Acknowledgment of Penalties.—__ 
+    (i)  __Acknowledgment of Penalties__  __.—__ 
 
     Any declaration or statement filed pursuant to this section shall contain an acknowledgment that any willful false statement made in such declaration or statement is punishable under [section 1001 of title 18][/us/usc/t18/s1001] by fine or imprisonment of not more than 5 years, or both.
 

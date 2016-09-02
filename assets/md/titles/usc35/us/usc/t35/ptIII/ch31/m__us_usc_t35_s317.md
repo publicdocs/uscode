@@ -15,11 +15,11 @@
 
 ## § 317. Settlement
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     An inter partes review instituted under this chapter shall be terminated with respect to any petitioner upon the joint request of the petitioner and the patent owner, unless the Office has decided the merits of the proceeding before the request for termination is filed. If the inter partes review is terminated with respect to a petitioner under this section, no estoppel under section 315(e) shall attach to the petitioner, or to the real party in interest or privy of the petitioner, on the basis of that petitioner’s institution of that inter partes review. If no petitioner remains in the inter partes review, the Office may terminate the review or proceed to a final written decision under section 318(a).
 
-    (b) __Agreements in Writing.—__ 
+    (b)  __Agreements in Writing__  __.—__ 
 
     Any agreement or understanding between the patent owner and a petitioner, including any collateral agreements referred to in such agreement or understanding, made in connection with, or in contemplation of, the termination of an inter partes review under this section shall be in writing and a true copy of such agreement or understanding shall be filed in the Office before the termination of the inter partes review as between the parties. At the request of a party to the proceeding, the agreement or understanding shall be treated as business confidential information, shall be kept separate from the file of the involved patents, and shall be made available only to Federal Government agencies on written request, or to any person on a showing of good cause.
 

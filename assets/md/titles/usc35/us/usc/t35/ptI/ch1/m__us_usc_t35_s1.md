@@ -15,15 +15,15 @@
 
 ## § 1. Establishment
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     The United States Patent and Trademark Office is established as an agency of the United States, within the Department of Commerce. In carrying out its functions, the United States Patent and Trademark Office shall be subject to the policy direction of the Secretary of Commerce, but otherwise shall retain responsibility for decisions regarding the management and administration of its operations and shall exercise independent control of its budget allocations and expenditures, personnel decisions and processes, procurements, and other administrative and management functions in accordance with this title and applicable provisions of law. Those operations designed to grant and issue patents and those operations which are designed to facilitate the registration of trademarks shall be treated as separate operating units within the Office.
 
-    (b) __Offices.—__ 
+    (b)  __Offices__  __.—__ 
 
     The United States Patent and Trademark Office shall maintain its principal office in the metropolitan Washington, D.C., area, for the service of process and papers and for the purpose of carrying out its functions. The United States Patent and Trademark Office shall be deemed, for purposes of venue in civil actions, to be a resident of the district in which its principal office is located, except where jurisdiction is otherwise provided by law. The United States Patent and Trademark Office may establish satellite offices in such other places in the United States as it considers necessary and appropriate in the conduct of its business.
 
-    (c) __Reference.—__ 
+    (c)  __Reference__  __.—__ 
 
     For purposes of this title, the United States Patent and Trademark Office shall also be referred to as the “Office” and the “Patent and Trademark Office”.
 
@@ -161,7 +161,7 @@
 
 > “SEC. 4741. __REFERENCES.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Any reference in any other Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or pertaining to a department or office from which a function is transferred by this subtitle \[see Tables for classification\]—
 
@@ -169,7 +169,7 @@
 
 >         “(2) to such department or office is deemed to refer to the department or office to which such function is transferred.
 
->     “(b) __Specific References.—__ 
+>     “(b)  __Specific References__  __.—__ 
 
 >     Any reference in any other Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or pertaining to the Patent and Trademark Office—
 
@@ -185,7 +185,7 @@
 
 > “SEC. 4743. __SAVINGS PROVISIONS.__ 
 
->     “(a) __Legal Documents.—__ 
+>     “(a)  __Legal Documents__  __.—__ 
 
 >     All orders, determinations, rules, regulations, permits, grants, loans, contracts, agreements, certificates, licenses, and privileges—
 
@@ -193,23 +193,23 @@
 
 >         “(2) that are in effect on the effective date of such transfer (or become effective after such date pursuant to their terms as in effect on such effective date), shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the President, any other authorized official, a court of competent jurisdiction, or operation of law.
 
->     “(b) __Proceedings.—__ 
+>     “(b)  __Proceedings__  __.—__ 
 
 >     This subtitle shall not affect any proceedings or any application for any benefits, service, license, permit, certificate, or financial assistance pending on the effective date of this subtitle \[see Effective Date of 1999 Amendment note above\] before an office transferred by this subtitle, but such proceedings and applications shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this subtitle had not been enacted, and orders issued in any such proceeding shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law. Nothing in this subsection shall be considered to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this subtitle had not been enacted.
 
->     “(c) __Suits.—__ 
+>     “(c)  __Suits__  __.—__ 
 
 >     This subtitle shall not affect suits commenced before the effective date of this subtitle, and in all such suits, proceedings shall be had, appeals taken, and judgments rendered in the same manner and with the same effect as if this subtitle had not been enacted.
 
->     “(d) __Nonabatement of Actions.—__ 
+>     “(d)  __Nonabatement of Actions__  __.—__ 
 
 >     No suit, action, or other proceeding commenced by or against the Department of Commerce or the Secretary of Commerce, or by or against any individual in the official capacity of such individual as an officer or employee of an office transferred by this subtitle, shall abate by reason of the enactment of this subtitle.
 
->     “(e) __Continuance of Suits.—__ 
+>     “(e)  __Continuance of Suits__  __.—__ 
 
 >     If any Government officer in the official capacity of such officer is party to a suit with respect to a function of the officer, and under this subtitle such function is transferred to any other officer or office, then such suit shall be continued with the other officer or the head of such other office, as applicable, substituted or added as a party.
 
->     “(f) __Administrative Procedure and Judicial Review.—__ 
+>     “(f)  __Administrative Procedure and Judicial Review__  __.—__ 
 
 >     Except as otherwise provided by this subtitle, any statutory requirements relating to notice, hearings, action upon the record, or administrative or judicial review that apply to any function transferred by this subtitle shall apply to the exercise of such function by the head of the Federal agency, and other officers of the agency, to which such function is transferred by this subtitle.
 
@@ -223,11 +223,11 @@
 
 > “SEC. 4746. __AUTHORITY OF DIRECTOR OF THE OFFICE OF MANAGEMENT AND BUDGET WITH RESPECT TO FUNCTIONS TRANSFERRED.__ 
 
->     “(a) __Determinations.—__ 
+>     “(a)  __Determinations__  __.—__ 
 
 >     If necessary, the Director of the Office of Management and Budget shall make any determination of the functions that are transferred under this subtitle.
 
->     “(b) __Incidental Transfers.—__ 
+>     “(b)  __Incidental Transfers__  __.—__ 
 
 >     The Director of the Office of Management and Budget, at such time or times as the Director shall provide, may make such determinations as may be necessary with regard to the functions transferred by this subtitle, and to make such additional incidental dispositions of personnel, assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds held, used, arising from, available to, or to be made available in connection with such functions, as may be necessary to carry out the provisions of this subtitle. The Director shall provide for the termination of the affairs of all entities terminated by this subtitle and for such further measures and dispositions as may be necessary to effectuate the purposes of this subtitle.
 
@@ -251,11 +251,11 @@
 
 [Pub. L. 112–29, § 23][/us/pl/112/29/s23], Sept. 16, 2011, [125 Stat. 336][/us/stat/125/336], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     Subject to available resources, the Director \[Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office\] shall, by not later than the date that is 3 years after the date of the enactment of this Act \[Sept. 16, 2011\], establish 3 or more satellite offices in the United States to carry out the responsibilities of the \[United States Patent and Trademark\] Office.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of the satellite offices established under subsection (a) are to—
 
@@ -271,7 +271,7 @@
 
 >     “(c) __Required Considerations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In selecting the location of each satellite office to be established under subsection (a), the Director—
 
@@ -285,11 +285,11 @@
 
 >             “(E) shall consider the economic impact to the region.
 
->         “(2) __Open selection process.—__ 
+>         “(2)  __Open selection process__  __.—__ 
 
 >         Nothing in paragraph (1) shall constrain the Office to only consider its evaluations in selecting the Detroit, Michigan, satellite office.
 
->     “(d) __Report to Congress.—__ 
+>     “(d)  __Report to Congress__  __.—__ 
 
 >     Not later than the end of the third fiscal year that begins after the date of the enactment of this Act \[Sept. 16, 2011\], the Director shall submit a report to Congress on—
 
@@ -303,11 +303,11 @@
 
 [Pub. L. 112–29, § 24][/us/pl/112/29/s24], Sept. 16, 2011, [125 Stat. 337][/us/stat/125/337], provided that:
 
->     “(a) __Designation.—__ 
+>     “(a)  __Designation__  __.—__ 
 
 >     The satellite office of the United States Patent and Trademark Office to be located in Detroit, Michigan, shall be known and designated as the ‘Elijah J. McCoy United States Patent and Trademark Office’.
 
->     “(b) __References.—__ 
+>     “(b)  __References__  __.—__ 
 
 >     Any reference in a law, map, regulation, document, paper, or other record of the United States to the satellite office of the United States Patent and Trademark Office to be located in Detroit, Michigan, referred to in subsection (a) shall be deemed to be a reference to the ‘Elijah J. McCoy United States Patent and Trademark Office’.”
 
@@ -323,23 +323,23 @@
 
 > “In this Act \[see Short Title of 2011 Amendment note above\]:
 
->     “(1) __Director.—__ 
+>     “(1)  __Director__  __.—__ 
 
 >     The term ‘Director’ means the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office.
 
->     “(2) __Office.—__ 
+>     “(2)  __Office__  __.—__ 
 
 >     The term ‘Office’ means the United States Patent and Trademark Office.
 
->     “(3) __Patent public advisory committee.—__ 
+>     “(3)  __Patent public advisory committee__  __.—__ 
 
 >     The term ‘Patent Public Advisory Committee’ means the Patent Public Advisory Committee established under [section 5(a) of title 35][/us/usc/t35/s5/a], United States Code.
 
->     “(4) __Trademark act of 1946.—__ 
+>     “(4)  __Trademark act of 1946__  __.—__ 
 
 >     The term ‘Trademark Act of 1946’ means the Act entitled ‘An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes’, approved July 5, 1946 ([15 U.S.C. 1051][/us/usc/t15/s1051] et seq.) (commonly referred to as the ‘Trademark Act of 1946’ or the ‘Lanham Act’).
 
->     “(5) __Trademark public advisory committee.—__ 
+>     “(5)  __Trademark public advisory committee__  __.—__ 
 
 >     The term ‘Trademark Public Advisory Committee’ means the Trademark Public Advisory Committee established under [section 5(a) of title 35][/us/usc/t35/s5/a], United States Code.”
 

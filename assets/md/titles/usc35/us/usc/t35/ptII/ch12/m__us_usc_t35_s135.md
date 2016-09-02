@@ -17,39 +17,39 @@
 
     (a) __Institution of Proceeding.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         An applicant for patent may file a petition with respect to an invention to institute a derivation proceeding in the Office. The petition shall set forth with particularity the basis for finding that an individual named in an earlier application as the inventor or a joint inventor derived such invention from an individual named in the petitioner’s application as the inventor or a joint inventor and, without authorization, the earlier application claiming such invention was filed. Whenever the Director determines that a petition filed under this subsection demonstrates that the standards for instituting a derivation proceeding are met, the Director may institute a derivation proceeding.
 
-        (2) __Time for filing.—__ 
+        (2)  __Time for filing__  __.—__ 
 
         A petition under this section with respect to an invention that is the same or substantially the same invention as a claim contained in a patent issued on an earlier application, or contained in an earlier application when published or deemed published under section 122(b), may not be filed unless such petition is filed during the 1-year period following the date on which the patent containing such claim was granted or the earlier application containing such claim was published, whichever is earlier.
 
-        (3) __Earlier application.—__ 
+        (3)  __Earlier application__  __.—__ 
 
         For purposes of this section, an application shall not be deemed to be an earlier application with respect to an invention, relative to another application, unless a claim to the invention was or could have been made in such application having an effective filing date that is earlier than the effective filing date of any claim to the invention that was or could have been made in such other application.
 
-        (4) __No appeal.—__ 
+        (4)  __No appeal__  __.—__ 
 
         A determination by the Director whether to institute a derivation proceeding under paragraph (1) shall be final and not appealable.
 
-    (b) __Determination by Patent Trial and Appeal Board.—__ 
+    (b)  __Determination by Patent Trial and Appeal Board__  __.—__ 
 
     In a derivation proceeding instituted under subsection (a), the Patent Trial and Appeal Board shall determine whether an inventor named in the earlier application derived the claimed invention from an inventor named in the petitioner’s application and, without authorization, the earlier application claiming such invention was filed. In appropriate circumstances, the Patent Trial and Appeal Board may correct the naming of the inventor in any application or patent at issue. The Director shall prescribe regulations setting forth standards for the conduct of derivation proceedings, including requiring parties to provide sufficient evidence to prove and rebut a claim of derivation.
 
-    (c) __Deferral of Decision.—__ 
+    (c)  __Deferral of Decision__  __.—__ 
 
     The Patent Trial and Appeal Board may defer action on a petition for a derivation proceeding until the expiration of the 3-month period beginning on the date on which the Director issues a patent that includes the claimed invention that is the subject of the petition. The Patent Trial and Appeal Board also may defer action on a petition for a derivation proceeding, or stay the proceeding after it has been instituted, until the termination of a proceeding under chapter 30, 31, or 32 involving the patent of the earlier applicant.
 
-    (d) __Effect of Final Decision.—__ 
+    (d)  __Effect of Final Decision__  __.—__ 
 
     The final decision of the Patent Trial and Appeal Board, if adverse to claims in an application for patent, shall constitute the final refusal by the Office on those claims. The final decision of the Patent Trial and Appeal Board, if adverse to claims in a patent, shall, if no appeal or other review of the decision has been or can be taken or had, constitute cancellation of those claims, and notice of such cancellation shall be endorsed on copies of the patent distributed after such cancellation.
 
-    (e) __Settlement.—__ 
+    (e)  __Settlement__  __.—__ 
 
     Parties to a proceeding instituted under subsection (a) may terminate the proceeding by filing a written statement reflecting the agreement of the parties as to the correct inventor of the claimed invention in dispute. Unless the Patent Trial and Appeal Board finds the agreement to be inconsistent with the evidence of record, if any, it shall take action consistent with the agreement. Any written settlement or understanding of the parties shall be filed with the Director. At the request of a party to the proceeding, the agreement or understanding shall be treated as business confidential information, shall be kept separate from the file of the involved patents or applications, and shall be made available only to Government agencies on written request, or to any person on a showing of good cause.
 
-    (f) __Arbitration.—__ 
+    (f)  __Arbitration__  __.—__ 
 
     Parties to a proceeding instituted under subsection (a) may, within such time as may be specified by the Director by regulation, determine such contest or any aspect thereof by arbitration. Such arbitration shall be governed by the provisions of title 9, to the extent such title is not inconsistent with this section. The parties shall give notice of any arbitration award to the Director, and such award shall, as between the parties to the arbitration, be dispositive of the issues to which it relates. The arbitration award shall be unenforceable until such notice is given. Nothing in this subsection shall preclude the Director from determining the patentability of the claimed inventions involved in the proceeding.
 

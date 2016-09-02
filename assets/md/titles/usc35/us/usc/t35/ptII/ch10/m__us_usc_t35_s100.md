@@ -75,7 +75,7 @@
 
 [Pub. L. 112–211, title I, § 103][/us/pl/112/211/s103], Dec. 18, 2012, [126 Stat. 1532][/us/stat/126/1532], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The amendments made by this title \[enacting part V of this title and amending this section and sections 102, 111, 115, 120, 154, 173, 365, and 366 of this title\] shall take effect on the later of—
 
@@ -85,15 +85,15 @@
 
 >     “(b) __Applicability of Amendments.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to paragraph (2), the amendments made by this title shall apply only to international design applications, international applications, and national applications filed on and after the effective date set forth in subsection (a), and patents issuing thereon.
 
->         “(2) __Exception.—__ 
+>         “(2)  __Exception__  __.—__ 
 
 >         Sections 100(i) and 102(d) of title 35, United States Code, as amended by this title, shall not apply to an application, or any patent issuing thereon, unless it is described in section 3(n)(1) of the Leahy-Smith America Invents Act \[[Pub. L. 112–29][/us/pl/112/29]\] ([35 U.S.C. 100][/us/usc/t35/s100] note).
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     For purposes of this section—
 
@@ -107,7 +107,7 @@
 
 [Pub. L. 112–29, § 3(n)][/us/pl/112/29/s3/n], Sept. 16, 2011, [125 Stat. 293][/us/stat/125/293], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this section \[amending this section and sections 32, 102, 103, 111, 119, 120, 134, 135, 145, 146, 154, 172, 202, 287, 291, 305, 363, 374, and 375 of this title, repealing sections 104 and 157 of this title, and enacting provisions set out as notes under sections 32, 102, and 111 of this title\], the amendments made by this section shall take effect upon the expiration of the 18-month period beginning on the date of the enactment of this Act \[Sept. 16, 2011\], and shall apply to any application for patent, and to any patent issuing thereon, that contains or contained at any time—
 
@@ -115,7 +115,7 @@
 
 >         “(B) a specific reference under section 120, 121, or 365(c) of title 35, United States Code, to any patent or application that contains or contained at any time such a claim.
 
->     “(2) __Interfering patents.—__ 
+>     “(2)  __Interfering patents__  __.—__ 
 
 >     The provisions of sections 102(g), 135, and 291 of title 35, United States Code, as in effect on the day before the effective date set forth in paragraph (1) of this subsection, shall apply to each claim of an application for patent, and any patent issued thereon, for which the amendments made by this section also apply, if such application or patent contains or contained at any time—
 

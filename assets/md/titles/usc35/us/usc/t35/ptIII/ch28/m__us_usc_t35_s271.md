@@ -179,15 +179,15 @@
 
 [Pub. L. 100–418, title IX, § 9006][/us/pl/100/418/s9006], Aug. 23, 1988, [102 Stat. 1566][/us/stat/102/1566], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The amendments made by this subtitle \[subtitle A (§§ 9001–9007) of title IX of [Pub. L. 100–418][/us/pl/100/418], enacting [section 295 of this title][/us/usc/t35/s295] and amending this section and sections 154 and 287 of this title\] take effect 6 months after the date of enactment of this Act \[Aug. 23, 1988\] and, subject to subsections (b) and (c), shall apply only with respect to products made or imported after the effective date of the amendments made by this subtitle.
 
->     “(b) __Exceptions.—__ 
+>     “(b)  __Exceptions__  __.—__ 
 
 >     The amendments made by this subtitle shall not abridge or affect the right of any person or any successor in business of such person to continue to use, sell, or import any specific product already in substantial and continuous sale or use by such person in the United States on January 1, 1988, or for which substantial preparation by such person for such sale or use was made before such date, to the extent equitable for the protection of commercial investments made or business commenced in the United States before such date. This subsection shall not apply to any person or any successor in business of such person using, selling, or importing a product produced by a patented process that is the subject of a process patent enforcement action commenced before January 1, 1987, before the International Trade Commission, that is pending or in which an order has been entered.
 
->     “(c) __Retention of Other Remedies.—__ 
+>     “(c)  __Retention of Other Remedies__  __.—__ 
 
 >     The amendments made by this subtitle shall not deprive a patent owner of any remedies available under subsections (a) through (f) of [section 271 of title 35][/us/usc/t35/s271], United States Code, under section 337 of the Tariff Act of 1930 \[[19 U.S.C. 1337][/us/usc/t19/s1337]\], or under any other provision of law.”
 

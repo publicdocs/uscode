@@ -123,7 +123,7 @@
 
 [Pub. L. 107–273, div. C, title III, § 13102][/us/pl/107/273/s13102], Nov. 2, 2002, [116 Stat. 1899][/us/stat/116/1899], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     There are authorized to be appropriated to the United States Patent and Trademark Office for salaries and necessary expenses for each of the fiscal years 2003 through 2008 an amount equal to the fees estimated by the Secretary of Commerce to be collected in each such fiscal year, respectively, under—
 
@@ -131,7 +131,7 @@
 
 >         “(2) the Act entitled ‘An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes’, approved July 5, 1946 ([15 U.S.C. 1051][/us/usc/t15/s1051] et seq.) (commonly referred to as the Trademark Act of 1946).
 
->     “(b) __Estimates.—__ 
+>     “(b)  __Estimates__  __.—__ 
 
 >     Not later than February 15, of each fiscal year, the Undersecretary of Commerce for Intellectual Property and the Director of the Patent and Trademark Office (in this subtitle \[subtitle A (§§ 13101–13106) of title III of div. C of [Pub. L. 107–273][/us/pl/107/273], amending sections 134, 141, 303, 312, and 315 of this title and enacting provisions set out as notes under sections 2, 134, and 303 of this title\] referred to as the Director) shall submit an estimate of all fees referred to under subsection (a) to be collected in the next fiscal year to the chairman and ranking member of—
 

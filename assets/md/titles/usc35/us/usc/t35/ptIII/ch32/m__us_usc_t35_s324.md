@@ -15,15 +15,15 @@
 
 ## § 324. Institution of post-grant review
 
-    (a) __Threshold.—__ 
+    (a)  __Threshold__  __.—__ 
 
     The Director may not authorize a post-grant review to be instituted unless the Director determines that the information presented in the petition filed under section 321, if such information is not rebutted, would demonstrate that it is more likely than not that at least 1 of the claims challenged in the petition is unpatentable.
 
-    (b) __Additional Grounds.—__ 
+    (b)  __Additional Grounds__  __.—__ 
 
     The determination required under subsection (a) may also be satisfied by a showing that the petition raises a novel or unsettled legal question that is important to other patents or patent applications.
 
-    (c) __Timing.—__ 
+    (c)  __Timing__  __.—__ 
 
     The Director shall determine whether to institute a post-grant review under this chapter pursuant to a petition filed under section 321 within 3 months after—
 
@@ -31,11 +31,11 @@
 
         (2) if no such preliminary response is filed, the last date on which such response may be filed.
 
-    (d) __Notice.—__ 
+    (d)  __Notice__  __.—__ 
 
     The Director shall notify the petitioner and patent owner, in writing, of the Director’s determination under subsection (a) or (b), and shall make such notice available to the public as soon as is practicable. Such notice shall include the date on which the review shall commence.
 
-    (e) __No Appeal.—__ 
+    (e)  __No Appeal__  __.—__ 
 
     The determination by the Director whether to institute a post-grant review under this section shall be final and nonappealable.
 

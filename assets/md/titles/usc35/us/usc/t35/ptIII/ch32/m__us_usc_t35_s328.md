@@ -15,19 +15,19 @@
 
 ## § 328. Decision of the Board
 
-    (a) __Final Written Decision.—__ 
+    (a)  __Final Written Decision__  __.—__ 
 
     If a post-grant review is instituted and not dismissed under this chapter, the Patent Trial and Appeal Board shall issue a final written decision with respect to the patentability of any patent claim challenged by the petitioner and any new claim added under section 326(d).
 
-    (b) __Certificate.—__ 
+    (b)  __Certificate__  __.—__ 
 
     If the Patent Trial and Appeal Board issues a final written decision under subsection (a) and the time for appeal has expired or any appeal has terminated, the Director shall issue and publish a certificate canceling any claim of the patent finally determined to be unpatentable, confirming any claim of the patent determined to be patentable, and incorporating in the patent by operation of the certificate any new or amended claim determined to be patentable.
 
-    (c) __Intervening Rights.—__ 
+    (c)  __Intervening Rights__  __.—__ 
 
     Any proposed amended or new claim determined to be patentable and incorporated into a patent following a post-grant review under this chapter shall have the same effect as that specified in section 252 for reissued patents on the right of any person who made, purchased, or used within the United States, or imported into the United States, anything patented by such proposed amended or new claim, or who made substantial preparation therefor, before the issuance of a certificate under subsection (b).
 
-    (d) __Data on Length of Review.—__ 
+    (d)  __Data on Length of Review__  __.—__ 
 
     The Office shall make available to the public data describing the length of time between the institution of, and the issuance of a final written decision under subsection (a) for, each post-grant review.
 
