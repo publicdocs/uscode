@@ -13,35 +13,53 @@
 
 [Previous](./../../../../..//us/usc/t15/ch93/schIII/m__us_usc_t15_s6755.md) | [Next](./../../../../..//us/usc/t15/ch93/schIII/m__us_usc_t15_s6757.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6756)
 
-## § 6756. Powers
+## § 6756. Board of directors
 
-    In addition to all the powers conferred upon a nonprofit corporation by the District of Columbia Nonprofit Corporation Act, the Association shall have the power to—
+    (a) __Establishment__ 
 
-    (1) establish and collect such membership fees as the Association finds necessary to impose to cover the costs of its operations;
+        There is established the board of directors of the Association (hereafter in this subchapter referred to as the “Board”) for the purpose of governing and supervising the activities of the Association and the members of the Association.
 
-    (2) adopt, amend, and repeal bylaws, procedures, or standards governing the conduct of Association business and performance of its duties;
+    (b) __Powers__ 
 
-    (3) establish procedures for providing notice and opportunity for comment pursuant to [section 6755(a) of this title][/us/usc/t15/s6755/a];
+        The Board shall have such powers and authority as may be specified in the bylaws of the Association.
 
-    (4) enter into and perform such agreements as necessary to carry out the duties of the Association;
+    (c) __Composition__ 
 
-    (5) hire employees, professionals, or specialists, and elect or appoint officers, and to fix their compensation, define their duties and give them appropriate authority to carry out the purposes of this subchapter, and determine their qualification;
+        (1) __Members__ 
 
-    (6) establish personnel policies of the Association and programs relating to, among other things, conflicts of interest, rates of compensation, where applicable, and qualifications of personnel;
+            The Board shall be composed of 7 members appointed by the NAIC.
 
-    (7) borrow money; and
+        (2) __Requirement__ 
 
-    (8) secure funding for such amounts as the Association determines to be necessary and appropriate to organize and begin operations of the Association, which shall be treated as loans to be repaid by the Association with interest at market rate.
+            At least 4 of the members of the Board shall each have significant experience with the regulation of commercial lines of insurance in at least 1 of the 20 States in which the greatest total dollar amount of commercial-lines insurance is placed in the United States.
 
-([Pub. L. 106–102, title III, § 326][/us/pl/106/102/s326], as added [Pub. L. 114–1, title II, § 202(a)][/us/pl/114/1/s202/a], Jan. 12, 2015, [129 Stat. 24][/us/stat/129/24].)
+        (3) __Initial Board membership__ 
 
- __References in Text__ 
+            (A) __In general__ 
 
-    The District of Columbia Nonprofit Corporation Act, referred to in text, is [Pub. L. 87–569][/us/pl/87/569], Aug. 6, 1962, [76 Stat. 265][/us/stat/76/265], which is not classified to the Code.
+                If, by the end of the 2-year period beginning on November 12, 1999, the NAIC has not appointed the initial 7 members of the Board of the Association, the initial Board shall consist of the 7 State insurance regulators of the 7 States with the greatest total dollar amount of commercial-lines insurance in place as of the end of such period.
 
- __Prior Provisions__ 
+            (B) __Alternate composition__ 
 
-    A prior section 6756, [Pub. L. 106–102, title III, § 326][/us/pl/106/102/s326], Nov. 12, 1999, [113 Stat. 1426][/us/stat/113/1426], related to board of directors, prior to the general amendment of this subchapter by [Pub. L. 114–1][/us/pl/114/1]. See [section 6754 of this title][/us/usc/t15/s6754].
+                If any of the State insurance regulators described in subparagraph (A) declines to serve on the Board, the State insurance regulator with the next greatest total dollar amount of commercial-lines insurance in place, as determined by the NAIC as of the end of such period, shall serve as a member of the Board.
+
+            (C) __Inoperability__ 
+
+                If fewer than 7 State insurance regulators accept appointment to the Board, the Association shall be established without NAIC oversight pursuant to [section 6762 of this title][/us/usc/t15/s6762].
+
+    (d) __Terms__ 
+
+        The term of each director shall, after the initial appointment of the members of the Board, be for 3 years, with one-third of the directors to be appointed each year.
+
+    (e) __Board vacancies__ 
+
+        A vacancy on the Board shall be filled in the same manner as the original appointment of the initial Board for the remainder of the term of the vacating member.
+
+    (f) __Meetings__ 
+
+        The Board shall meet at the call of the chairperson, or as otherwise provided by the bylaws of the Association.
+
+([Pub. L. 106–102, title III, § 326][/us/pl/106/102/s326], Nov. 12, 1999, [113 Stat. 1426][/us/stat/113/1426].)
 
 ----------
 
@@ -50,15 +68,8 @@
 ----------
 ----------
 
-[/us/usc/t15/s6755/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6755%2Fa
-[/us/pl/106/102/s326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs326
-[/us/pl/114/1/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1%2Fs202%2Fa
-[/us/stat/129/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F24
-[/us/pl/87/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F569
-[/us/stat/76/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F265
+[/us/usc/t15/s6762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6762
 [/us/pl/106/102/s326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs326
 [/us/stat/113/1426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1426
-[/us/pl/114/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1
-[/us/usc/t15/s6754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6754
 
 

@@ -233,16 +233,6 @@
 
     Section 106 of the Bank Holding Company Act Amendments of 1970, referred to in subsec. (d)(2)(B)(viii)(I), is [Pub. L. 91–607, title I, § 106][/us/pl/91/607/s106], Dec. 31, 1970, [84 Stat. 1766][/us/stat/84/1766], as amended, which is classified generally to chapter 22 (§ 1971 et seq.) of Title 12, Banks and Banking.
 
- __Short Title of 2015 Amendment__ 
-
-[Pub. L. 114–1, § 1(a)][/us/pl/114/1/s1/a], Jan. 12, 2015, [129 Stat. 3][/us/stat/129/3], provided that: 
-
-> “This Act \[enacting subchapter III of this chapter, amending section 78o–10 of this title, [section 6s of Title 7][/us/usc/t7/s6s], Agriculture, and [section 241 of Title 12][/us/usc/t12/s241], Banks and Banking, enacting provisions set out as notes under this section, sections 1 and 6s of Title 7, and [section 241 of Title 12][/us/usc/t12/s241], and amending provisions set out as a note under this section\] may be cited as the ‘Terrorism Risk Insurance Program Reauthorization Act of 2015’.”
-
-[Pub. L. 114–1, title II, § 201][/us/pl/114/1/s201], Jan. 12, 2015, [129 Stat. 12][/us/stat/129/12], provided that: 
-
-> “This title \[enacting subchapter III of this chapter\] may be cited as the ‘National Association of Registered Agents and Brokers Reform Act of 2015’.”
-
  __Short Title of 2007 Amendment__ 
 
 [Pub. L. 110–160, § 1(a)][/us/pl/110/160/s1/a], Dec. 26, 2007, [121 Stat. 1839][/us/stat/121/1839], provided that: 
@@ -261,37 +251,9 @@
 
 > “This Act \[amending [section 248 of Title 12][/us/usc/t12/s248], Banks and Banking, and sections 1606 and 1610 of Title 28, Judiciary and Judicial Procedure, enacting provisions set out as notes under this section and [section 1610 of Title 28][/us/usc/t28/s1610], and amending provisions set out as a note under [section 1610 of Title 28][/us/usc/t28/s1610]\] may be cited as the ‘Terrorism Risk Insurance Act of 2002’.”
 
- __Advisory Committee on Risk-Sharing Mechanisms__ 
-
-[Pub. L. 114–1, title I, § 110][/us/pl/114/1/s110], Jan. 12, 2015, [129 Stat. 9][/us/stat/129/9], provided that:
-
->     “(a) __Finding; Rule of Construction.—__ 
-
->         “(1)  __Finding__  __.—__ 
-
->         Congress finds that it is desirable to encourage the growth of nongovernmental, private market reinsurance capacity for protection against losses arising from acts of terrorism.
-
->         “(2)  __Rule of construction__  __.—__ 
-
->         Nothing in this Act \[see [section 1(a) of Pub. L. 114–1][/us/pl/114/1/s1/a], set out as a Short Title of 2015 Amendment note above\], any amendment made by this Act, or the Terrorism Risk Insurance Act of 2002 ([15 U.S.C. 6701][/us/usc/t15/s6701] note) \[see Short Title of 2002 Amendment note above\] shall prohibit insurers from developing risk-sharing mechanisms to voluntarily reinsure terrorism losses between and among themselves.
-
->     “(b) __Advisory Committee on Risk-Sharing Mechanisms.—__ 
-
->         “(1)  __Establishment__  __.—__ 
-
->         The Secretary of the Treasury shall establish and appoint an advisory committee to be known as the ‘Advisory Committee on Risk-Sharing Mechanisms’ (referred to in this subsection as the ‘Advisory Committee’).
-
->         “(2)  __Duties__  __.—__ 
-
->         The Advisory Committee shall provide advice, recommendations, and encouragement with respect to the creation and development of the nongovernmental risk-sharing mechanisms described under subsection (a).
-
->         “(3)  __Membership__  __.—__ 
-
->         The Advisory Committee shall be composed of 9 members who are directors, officers, or other employees of insurers, reinsurers, or capital market participants that are participating or that desire to participate in the nongovernmental risk-sharing mechanisms described under subsection (a), and who are representative of the affected sectors of the insurance industry, including commercial property insurance, commercial casualty insurance, reinsurance, and alternative risk transfer industries.”
-
  __Terrorism Insurance Program__ 
 
-[Pub. L. 107–297, title I][/us/pl/107/297], Nov. 26, 2002, [116 Stat. 2322][/us/stat/116/2322], as amended by [Pub. L. 109–144][/us/pl/109/144], §§ 2–8, Dec. 22, 2005, [119 Stat. 2660–2662][/us/stat/119/2660-2662]; [Pub. L. 110–160][/us/pl/110/160], §§ 2–5, Dec. 26, 2007, [121 Stat. 1839–1841][/us/stat/121/1839-1841], [Pub. L. 114–1, title I][/us/pl/114/1], §§ 101–106, 107(e), 111, 112, Jan. 12, 2015, [129 Stat. 3–5][/us/stat/129/3-5], 8, 10–12, provided that:
+[Pub. L. 107–297, title I][/us/pl/107/297], Nov. 26, 2002, [116 Stat. 2322][/us/stat/116/2322], as amended by [Pub. L. 109–144][/us/pl/109/144], §§ 2–8, Dec. 22, 2005, [119 Stat. 2660–2662][/us/stat/119/2660-2662]; [Pub. L. 110–160][/us/pl/110/160], §§ 2–5, Dec. 26, 2007, [121 Stat. 1839–1841][/us/stat/121/1839-1841], provided that:
 
 > “SEC. 101. __CONGRESSIONAL FINDINGS AND PURPOSE.__ 
 
@@ -327,7 +289,7 @@
 
 >         “(A)  __Certification__  __.—__ 
 
->         The term ‘act of terrorism’ means any act that is certified by the Secretary, in consultation with the Secretary of Homeland Security, and the Attorney General of the United States—
+>         The term ‘act of terrorism’ means any act that is certified by the Secretary, in concurrence with the Secretary of State, and the Attorney General of the United States—
 
 >             “(i) to be an act of terrorism;
 
@@ -363,11 +325,7 @@
 
 >         Any certification of, or determination not to certify, an act as an act of terrorism under this paragraph shall be final, and shall not be subject to judicial review.
 
->         “(D)  __Timing of certification__  __.—__ 
-
->         Not later than 9 months after the report required under section 107 of the Terrorism Risk Insurance Program Reauthorization Act of 2015 \[see [section 107 of Pub. L. 114–1][/us/pl/114/1/s107]; [129 Stat. 7][/us/stat/129/7]\] is submitted to the appropriate committees of Congress, the Secretary shall issue final rules governing the certification process, including establishing a timeline for which an act is eligible for certification by the Secretary on whether an act is an act of terrorism under this paragraph.
-
->         “(E)  __Nondelegation__  __.—__ 
+>         “(D)  __Nondelegation__  __.—__ 
 
 >         The Secretary may not delegate or designate to any other officer, employee, or person, any determination under this paragraph of whether, during the effective period of the Program, an act of terrorism has occurred.
 
@@ -375,21 +333,15 @@
 
 >     The term ‘affiliate’ means, with respect to an insurer, any entity that controls, is controlled by, or is under common control with the insurer.
 
->     “(3) __Control.—__ 
+>     “(3)  __Control__  __.—__ 
 
->         “(A)  __In general__  __.—__ 
+>     An entity has ‘control’ over another entity, if—
 
->         An entity has ‘control’ over another entity, if—
+>         “(A) the entity directly or indirectly or acting through 1 or more other persons owns, controls, or has power to vote 25 percent or more of any class of voting securities of the other entity;
 
->             “(i) the entity directly or indirectly or acting through 1 or more other persons owns, controls, or has power to vote 25 percent or more of any class of voting securities of the other entity;
+>         “(B) the entity controls in any manner the election of a majority of the directors or trustees of the other entity; or
 
->             “(ii) the entity controls in any manner the election of a majority of the directors or trustees of the other entity; or
-
->             “(iii) the Secretary determines, after notice and opportunity for hearing, that the entity directly or indirectly exercises a controlling influence over the management or policies of the other entity.
-
->         “(B)  __Rule of construction__  __.—__ 
-
->         An entity, including any affiliate thereof, does not have ‘control’ over another entity, if, as of the date of enactment of the Terrorism Risk Insurance Program Reauthorization Act of 2015 \[Jan. 12, 2015\], the entity is acting as an attorney-in-fact, as defined by the Secretary, for the other entity and such other entity is a reciprocal insurer, provided that the entity is not, for reasons other than the attorney-in-fact relationship, defined as having ‘control’ under subparagraph (A).
+>         “(C) the Secretary determines, after notice and opportunity for hearing, that the entity directly or indirectly exercises a controlling influence over the management or policies of the other entity.
 
 >     “(4)  __Direct earned premium__  __.—__ 
 
@@ -429,9 +381,19 @@
 
 >     The term ‘insurer deductible’ means—
 
->         “(A) the value of an insurer’s direct earned premiums during the immediately preceding calendar year, multiplied by 20 percent; and
+>         “(A) for the Transition Period, the value of an insurer’s direct earned premiums over the calendar year immediately preceding the date of enactment of this Act \[Nov. 26, 2002\], multiplied by 1 percent;
 
->         “(B) notwithstanding subparagraph (A), for any calendar year, if an insurer has not had a full year of operations during the calendar year immediately preceding such calendar year, such portion of the direct earned premiums of the insurer as the Secretary determines appropriate, subject to appropriate methodologies established by the Secretary for measuring such direct earned premiums.
+>         “(B) for Program Year 1, the value of an insurer’s direct earned premiums over the calendar year immediately preceding Program Year 1, multiplied by 7 percent;
+
+>         “(C) for Program Year 2, the value of an insurer’s direct earned premiums over the calendar year immediately preceding Program Year 2, multiplied by 10 percent;
+
+>         “(D) for Program Year 3, the value of an insurer’s direct earned premiums over the calendar year immediately preceding Program Year 3, multiplied by 15 percent;
+
+>         “(E) for Program Year 4, the value of an insurer’s direct earned premiums over the calendar year immediately preceding Program Year 4, multiplied by 17.5 percent;
+
+>         “(F) for Program Year 5 and each Program Year thereafter, the value of an insurer’s direct earned premiums over the calendar year immediately preceding that Program Year, multiplied by 20 percent; and
+
+>         “(G) notwithstanding subparagraphs (A) through (F), for the Transition Period or any Program Year, if an insurer has not had a full year of operations during the calendar year immediately preceding such Period or Program Year, such portion of the direct earned premiums of the insurer as the Secretary determines appropriate, subject to appropriate methodologies established by the Secretary for measuring such direct earned premiums.
 
 >     “(8) __NAIC.—__ 
 
@@ -445,7 +407,37 @@
 
 >     The term ‘Program’ means the Terrorism Insurance Program established by this title.
 
->     “(11)  __Property and casualty insurance__  __.—__ 
+>     “(11) __Program years.—__ 
+
+>         “(A)  __Transition period__  __.—__ 
+
+>         The term ‘Transition Period’ means the period beginning on the date of enactment of this Act \[Nov. 26, 2002\] and ending on December 31, 2002.
+
+>         “(B)  __Program year 1__  __.—__ 
+
+>         The term ‘Program Year 1’ means the period beginning on January 1, 2003 and ending on December 31, 2003.
+
+>         “(C)  __Program year 2__  __.—__ 
+
+>         The term ‘Program Year 2’ means the period beginning on January 1, 2004 and ending on December 31, 2004.
+
+>         “(D)  __Program year 3__  __.—__ 
+
+>         The term ‘Program Year 3’ means the period beginning on January 1, 2005 and ending on December 31, 2005.
+
+>         “(E)  __Program year 4__  __.—__ 
+
+>         The term ‘Program Year 4’ means the period beginning on January 1, 2006 and ending on December 31, 2006.
+
+>         “(F)  __Program year 5__  __.—__ 
+
+>         The term ‘Program Year 5’ means the period beginning on January 1, 2007 and ending on December 31, 2007.
+
+>         “(G)  __Additional program years__  __.—__ 
+
+>         Except when used as provided in subparagraphs (B) through (F), the term ‘Program Year’ means, as the context requires, any of Program Year 1, Program Year 2, Program Year 3, Program Year 4, Program Year 5, or any of calendar years 2008 through 2014.
+
+>     “(12)  __Property and casualty insurance__  __.—__ 
 
 >     The term ‘property and casualty insurance’—
 
@@ -479,19 +471,19 @@
 
 >             “(xii) farm owners multiple peril insurance.
 
->     “(12)  __Secretary__  __.—__ 
+>     “(13)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of the Treasury.
 
->     “(13)  __State__  __.—__ 
+>     “(14)  __State__  __.—__ 
 
 >     The term ‘State’ means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, each of the United States Virgin Islands, and any territory or possession of the United States.
 
->     “(14)  __United states__  __.—__ 
+>     “(15)  __United states__  __.—__ 
 
 >     The term ‘United States’ means the several States, and includes the territorial sea and the continental shelf of the United States, as those terms are defined in the Violent Crime Control and Law Enforcement Act of 1994 ([18 U.S.C. 2280][/us/usc/t18/s2280], 2281).
 
->     “(15)  __Rule of construction for dates__  __.—__ 
+>     “(16)  __Rule of construction for dates__  __.—__ 
 
 >     With respect to any reference to a date in this title, such day shall be construed—
 
@@ -527,9 +519,9 @@
 
 >             “(A) in the case of any policy that is issued before the date of enactment of this Act \[Nov. 26, 2002\], not later than 90 days after that date of enactment;
 
->             “(B) in the case of any policy that is issued within 90 days of the date of enactment of this Act, at the time of offer and renewal of the policy; and
+>             “(B) in the case of any policy that is issued within 90 days of the date of enactment of this Act, at the time of offer, purchase, and renewal of the policy; and
 
->             “(C) in the case of any policy that is issued more than 90 days after the date of enactment of this Act, on a separate line item in the policy, at the time of offer and renewal of the policy;
+>             “(C) in the case of any policy that is issued more than 90 days after the date of enactment of this Act, on a separate line item in the policy, at the time of offer, purchase, and renewal of the policy;
 
 >         “(3) in the case of any policy that is issued after the date of enactment of the Terrorism Risk Insurance Program Reauthorization Act of 2007 \[Dec. 26, 2007\], the insurer provides clear and conspicuous disclosure to the policyholder of the existence of the $100,000,000,000 cap under subsection (e)(2), at the time of offer, purchase, and renewal of the policy;
 
@@ -553,7 +545,7 @@
 
 >     “(c)  __Mandatory Availability__  __.—__ 
 
->     During each calendar year, each entity that meets the definition of an insurer under section 102—
+>     During each Program Year, each entity that meets the definition of an insurer under section 102—
 
 >         “(1) shall make available, in all of its property and casualty insurance policies, coverage for insured losses; and
 
@@ -583,23 +575,15 @@
 
 >             “(A)  __In general__  __.—__ 
 
->             The Federal share of compensation under the Program to be paid by the Secretary for insured losses of an insurer during each calendar year shall be equal to 85 percent and beginning on January 1, 2016, shall decrease by 1 percentage point per calendar year until equal to 80 percent of that portion of the amount of such insured losses that exceeds the applicable insurer deductible required to be paid during such calendar year.
+>             The Federal share of compensation under the Program to be paid by the Secretary for insured losses of an insurer during the Transition Period and each Program Year through Program Year 4 shall be equal to 90 percent, and during Program Year 5 and each Program Year thereafter shall be equal to 85 percent, of that portion of the amount of such insured losses that exceeds the applicable insurer deductible required to be paid during such Transition Period or such Program Year.
 
 >             “(B)  __Program trigger__  __.—__ 
 
->             In the case of certified acts of terrorism occurring after March 31, 2006, no compensation shall be paid by the Secretary under subsection (a), unless the aggregate industry insured losses resulting from such certified acts of terrorism exceed—
+>             In the case of a certified act of terrorism occurring after March 31, 2006, no compensation shall be paid by the Secretary under subsection (a), unless the aggregate industry insured losses resulting from such certified act of terrorism exceed—
 
->                 “(i) $100,000,000, with respect to such insured losses occurring in calendar year 2015;
+>                 “(i) $50,000,000, with respect to such insured losses occurring in Program Year 4; or
 
->                 “(ii) $120,000,000, with respect to such insured losses occurring in calendar year 2016;
-
->                 “(iii) $140,000,000, with respect to such insured losses occurring in calendar year 2017;
-
->                 “(iv) $160,000,000, with respect to such insured losses occurring in calendar year 2018;
-
->                 “(v) $180,000,000, with respect to such insured losses occurring in calendar year 2019; and
-
->                 “(vi) $200,000,000, with respect to such insured losses occurring in calendar year 2020 and any calendar year thereafter.
+>                 “(ii) $100,000,000, with respect to such insured losses occurring in Program Year 5 and any Program Year thereafter.
 
 >             “(C)  __Prohibition on duplicative compensation__  __.—__ 
 
@@ -609,7 +593,7 @@
 
 >             “(A)  __In general__  __.—__ 
 
->             Notwithstanding paragraph (1) or any other provision of Federal or State law, if the aggregate insured losses exceed $100,000,000,000, during a calendar year—
+>             Notwithstanding paragraph (1) or any other provision of Federal or State law, if the aggregate insured losses exceed $100,000,000,000, during the period beginning on the first day of the Transition Period and ending on the last day of Program Year 1, or during any Program Year thereafter—
 
 >                 “(i) the Secretary shall not make any payment under this title for any portion of the amount of such losses that exceeds $100,000,000,000; and
 
@@ -631,7 +615,7 @@
 
 >         “(3)  __Notice to congress__  __.—__ 
 
->         The Secretary shall notify the Congress if estimated or actual aggregate insured losses exceed $100,000,000,000 during any calendar year. The Secretary shall provide an initial notice to Congress not later than 15 days after the date of an act of terrorism, stating whether the Secretary estimates that aggregate insured losses will exceed $100,000,000,000.
+>         The Secretary shall notify the Congress if estimated or actual aggregate insured losses exceed $100,000,000,000 during the period beginning on the first day of the Transition Period and ending on the last day of Program Year 1, or during any other Program Year. The Secretary shall provide an initial notice to Congress not later than 15 days after the date of an act of terrorism, stating whether the Secretary estimates that aggregate insured losses will exceed $100,000,000,000.
 
 >         “(4)  __Final netting__  __.—__ 
 
@@ -641,41 +625,57 @@
 
 >         Any determination of the Secretary under this subsection shall be final, unless expressly provided, and shall not be subject to judicial review.
 
->         “(6) __Insurance marketplace aggregate retention amount.—__ 
+>         “(6)  __Insurance marketplace aggregate retention amount__  __.—__ 
 
->             “(A)  __In general__  __.—__ 
+>         For purposes of paragraph (7), the insurance marketplace aggregate retention amount shall be—
 
->             For purposes of paragraph (7), the insurance marketplace aggregate retention amount shall be the lesser of—
+>             “(A)
 
->                 “(i) $27,500,000,000, as such amount is revised pursuant to this paragraph; and
+>              for the period beginning on the first day of the Transition Period and ending on the last day of Program Year 1, the lesser of—
 
->                 “(ii) the aggregate amount, for all insurers, of insured losses during such calendar year.
+>                 “(i) $10,000,000,000; and
 
->             “(B) __Revision of insurance marketplace aggregate retention amount.—__ 
+>                 “(ii) the aggregate amount, for all insurers, of insured losses during such period;
 
->                 “(i)  __Phase-in__  __.—__ 
+>             “(B)
 
->                 Beginning in the calendar year of enactment of the Terrorism Risk Insurance Program Reauthorization Act of 2015 \[2015\], the amount set forth under subparagraph (A)(i) shall increase by $2,000,000,000 per calendar year until equal to $37,500,000,000.
+>              for Program Year 2, the lesser of—
 
->                 “(ii)  __Further revision__  __.—__ 
+>                 “(i) $12,500,000,000; and
 
->                 Beginning in the calendar year that follows the calendar year in which the amount set forth under subparagraph (A)(i) is equal to $37,500,000,000, the amount under subparagraph (A)(i) shall be revised to be the amount equal to the annual average of the sum of insurer deductibles for all insurers participating in the Program for the prior 3 calendar years, as such sum is determined by the Secretary under subparagraph (C).
+>                 “(ii) the aggregate amount, for all insurers, of insured losses during such Program Year;
 
->             “(C)  __Rulemaking__  __.—__ 
+>             “(C)
 
->             Not later than 3 years after the date of enactment of the Terrorism Risk Insurance Program Reauthorization Act of 2015 \[Jan. 12, 2015\], the Secretary shall—
+>              for Program Year 3, the lesser of—
 
->                 “(i) issue final rules for determining the amount of the sum described under subparagraph (B)(ii); and
+>                 “(i) $15,000,000,000; and
 
->                 “(ii) provide a timeline for public notification of such determination.
+>                 “(ii) the aggregate amount, for all insurers, of insured losses during such Program Year;
+
+>             “(D)
+
+>              for Program Year 4, the lesser of—
+
+>                 “(i) $25,000,000,000; and
+
+>                 “(ii) the aggregate amount, for all insurers, of insured losses during such Program Year; and
+
+>             “(E)
+
+>              for Program Year 5 and any Program Year thereafter, the lesser of—
+
+>                 “(i) $27,500,000,000; and
+
+>                 “(ii) the aggregate amount, for all insurers, of insured losses during such Program Year.
 
 >         “(7) __Recoupment of federal share.—__ 
 
 >             “(A)  __Mandatory recoupment amount__  __.—__ 
 
->             For purposes of this paragraph, the mandatory recoupment amount shall be the difference between—
+>             For purposes of this paragraph, the mandatory recoupment amount for each of the periods referred to in subparagraphs (A) through (E) of paragraph (6) shall be the difference between—
 
->                 “(i) the insurance marketplace aggregate retention amount under paragraph (6); and
+>                 “(i) the insurance marketplace aggregate retention amount under paragraph (6) for such period; and
 
 >                 “(ii)
 
@@ -685,11 +685,13 @@
 
 >                          “(II) are within the portion of losses of the insurer that exceed the insurer deductible, but are not compensated pursuant to paragraph (1).
 
->             “(B) __\[Reserved.\]__ 
+>             “(B)  __No mandatory recoupment if uncompensated losses exceed insurance marketplace retention__  __.—__ 
+
+>             Notwithstanding subparagraph (A), if the aggregate amount of uncompensated insured losses referred to in clause (ii) of such subparagraph for any period referred to in any of subparagraphs (A) through (E) of paragraph (6) is greater than the insurance marketplace aggregate retention amount under paragraph (6) for such period, the mandatory recoupment amount shall be $0.
 
 >             “(C)  __Mandatory establishment of surcharges to recoup mandatory recoupment amount__  __.—__ 
 
->             The Secretary shall collect, for repayment of the Federal financial assistance provided in connection with all acts of terrorism (or acts of war, in the case of workers compensation), terrorism loss risk-spreading premiums in an amount equal to 140 percent of any mandatory recoupment amount as calculated under subparagraph (A) for such period.
+>             The Secretary shall collect, for repayment of the Federal financial assistance provided in connection with all acts of terrorism (or acts of war, in the case of workers compensation) occurring during any of the periods referred to in any of subparagraphs (A) through (E) of paragraph (6), terrorism loss risk-spreading premiums in an amount equal to 133 percent of any mandatory recoupment amount for such period.
 
 >             “(D)  __Discretionary recoupment of remainder of financial assistance__  __.—__ 
 
@@ -709,11 +711,11 @@
 
 >                 If the Secretary is required to collect terrorism loss risk-spreading premiums under subparagraph (C)—
 
->                          “(I) for any act of terrorism that occurs on or before December 31, 2017, the Secretary shall collect all required premiums by September 30, 2019;
+>                          “(I) for any act of terrorism that occurs on or before December 31, 2010, the Secretary shall collect all required premiums by September 30, 2012;
 
->                          “(II) for any act of terrorism that occurs between January 1 and December 31, 2018, the Secretary shall collect 35 percent of any required premiums by September 30, 2019, and the remainder by September 30, 2024; and
+>                          “(II) for any act of terrorism that occurs between January 1 and December 31, 2011, the Secretary shall collect 35 percent of any required premiums by September 30, 2012, and the remainder by September 30, 2017; and
 
->                          “(III) for any act of terrorism that occurs on or after January 1, 2019, the Secretary shall collect all required premiums by September 30, 2024.
+>                          “(III) for any act of terrorism that occurs on or after January 1, 2012, the Secretary shall collect all required premiums by September 30, 2017.
 
 >                 “(ii)  __Regulations required__  __.—__ 
 
@@ -775,7 +777,7 @@
 
 >         “(2)  __Limitation on financial assistance__  __.—__ 
 
->         The amount of financial assistance provided pursuant to this section shall not be reduced by reinsurance paid or payable to an insurer from other sources, except that recoveries from such other sources, taken together with financial assistance for the calendar year provided pursuant to this section, may not exceed the aggregate amount of the insurer’s insured losses for the calendar year. If such recoveries and financial assistance for the calendar year exceed such aggregate amount of insured losses for the calendar year and there is no agreement between the insurer and any reinsurer to the contrary, an amount in excess of such aggregate insured losses shall be returned to the Secretary.
+>         The amount of financial assistance provided pursuant to this section shall not be reduced by reinsurance paid or payable to an insurer from other sources, except that recoveries from such other sources, taken together with financial assistance for the Transition Period or a Program Year provided pursuant to this section, may not exceed the aggregate amount of the insurer’s insured losses for such period. If such recoveries and financial assistance for the Transition Period or a Program Year exceed such aggregate amount of insured losses for that period and there is no agreement between the insurer and any reinsurer to the contrary, an amount in excess of such aggregate insured losses shall be returned to the Secretary.
 
 >     “(h) __Group Life Insurance Study.—__ 
 
@@ -878,70 +880,6 @@
 >         “(2)  __Administrative expenses__  __.—__ 
 
 >         There are hereby appropriated, out of funds in the Treasury not otherwise appropriated, such sums as may be necessary to pay reasonable costs of administering the Program.
-
->     “(h) __Reporting of Terrorism Insurance Data.—__ 
-
->         “(1)  __Authority__  __.—__ 
-
->         During the calendar year beginning on January 1, 2016, and in each calendar year thereafter, the Secretary shall require insurers participating in the Program to submit to the Secretary such information regarding insurance coverage for terrorism losses of such insurers as the Secretary considers appropriate to analyze the effectiveness of the Program, which shall include information regarding—
-
->             “(A) lines of insurance with exposure to such losses;
-
->             “(B) premiums earned on such coverage;
-
->             “(C) geographical location of exposures;
-
->             “(D) pricing of such coverage;
-
->             “(E) the take-up rate for such coverage;
-
->             “(F) the amount of private reinsurance for acts of terrorism purchased; and
-
->             “(G) such other matters as the Secretary considers appropriate.
-
->         “(2)  __Reports__  __.—__ 
-
->         Not later than June 30, 2016, and every other June 30 thereafter, the Secretary shall submit a report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate that includes—
-
->             “(A) an analysis of the overall effectiveness of the Program;
-
->             “(B) an evaluation of any changes or trends in the data collected under paragraph (1);
-
->             “(C) an evaluation of whether any aspects of the Program have the effect of discouraging or impeding insurers from providing commercial property casualty insurance coverage or coverage for acts of terrorism;
-
->             “(D) an evaluation of the impact of the Program on workers’ compensation insurers; and
-
->             “(E) in the case of the data reported in paragraph (1)(B), an updated estimate of the total amount earned since January 1, 2003.
-
->         “(3)  __Protection of data__  __.—__ 
-
->         To the extent possible, the Secretary shall contract with an insurance statistical aggregator to collect the information described in paragraph (1), which shall keep any nonpublic information confidential and provide it to the Secretary in an aggregate form or in such other form or manner that does not permit identification of the insurer submitting such information.
-
->         “(4)  __Advance coordination__  __.—__ 
-
->         Before collecting any data or information under paragraph (1) from an insurer, or affiliate of an insurer, the Secretary shall coordinate with the appropriate State insurance regulatory authorities and any relevant government agency or publicly available sources to determine if the information to be collected is available from, and may be obtained in a timely manner by, individually or collectively, such entities. If the Secretary determines that such data or information is available, and may be obtained in a timely matter, from such entities, the Secretary shall obtain the data or information from such entities. If the Secretary determines that such data or information is not so available, the Secretary may collect such data or information from an insurer and affiliates.
-
->         “(5) __Confidentiality.—__ 
-
->             “(A)  __Retention of privilege__  __.—__ 
-
->             The submission of any non-publicly available data and information to the Secretary and the sharing of any non-publicly available data with or by the Secretary among other Federal agencies, the State insurance regulatory authorities, or any other entities under this subsection shall not constitute a waiver of, or otherwise affect, any privilege arising under Federal or State law (including the rules of any Federal or State court) to which the data or information is otherwise subject.
-
->             “(B)  __Continued application of prior confidentiality agreements__  __.—__ 
-
->             Any requirement under Federal or State law to the extent otherwise applicable, or any requirement pursuant to a written agreement in effect between the original source of any non-publicly available data or information and the source of such data or information to the Secretary, regarding the privacy or confidentiality of any data or information in the possession of the source to the Secretary, shall continue to apply to such data or information after the data or information has been provided pursuant to this subsection.
-
->             “(C)  __Information-sharing agreement__  __.—__ 
-
->             Any data or information obtained by the Secretary under this subsection may be made available to State insurance regulatory authorities, individually or collectively through an information-sharing agreement that—
-
->                 “(i) shall comply with applicable Federal law; and
-
->                 “(ii) shall not constitute a waiver of, or otherwise affect, any privilege under Federal or State law (including any privilege referred to in subparagraph (A) and the rules of any Federal or State court) to which the data or information is otherwise subject.
-
->             “(D)  __Agency disclosure requirements__  __.—__ 
-
->             [Section 552 of title 5][/us/usc/t5/s552], United States Code, including any exceptions thereunder, shall apply to any data or information submitted under this subsection to the Secretary by an insurer or affiliate of an insurer.
 
 > “SEC. 105. __PREEMPTION AND NULLIFICATION OF PRE-EXISTING TERRORISM EXCLUSIONS.__ 
 
@@ -1047,7 +985,7 @@
 
 >     “(a)  __Termination of Program__  __.—__ 
 
->     The Program shall terminate on December 31, 2020.
+>     The Program shall terminate on December 31, 2014.
 
 >     “(b)  __Continuing Authority to Pay or Adjust Compensation__  __.—__ 
 
@@ -1115,31 +1053,7 @@
 
 >         “(3)  __Report__  __.—__ 
 
->         Not later than 180 days after the date of enactment of the Terrorism Risk Insurance Program Reauthorization Act of 2007 \[Dec. 26, 2007\], the Comptroller General shall submit a report on the study required by paragraph (1) to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives.
-
->     “(h) __Study of Small Insurer Market Competitiveness.—__ 
-
->         “(1)  __In general__  __.—__ 
-
->         Not later than June 30, 2017, and every other June 30 thereafter, the Secretary shall conduct a study of small insurers (as such term is defined by regulation by the Secretary) participating in the Program, and identify any competitive challenges small insurers face in the terrorism risk insurance marketplace, including—
-
->             “(A) changes to the market share, premium volume, and policyholder surplus of small insurers relative to large insurers;
-
->             “(B) how the property and casualty insurance market for terrorism risk differs between small and large insurers, and whether such a difference exists within other perils;
-
->             “(C) the impact of the Program’s mandatory availability requirement under section 103(c) on small insurers;
-
->             “(D) the effect of increasing the trigger amount for the Program under section 103(e)(1)(B) on small insurers;
-
->             “(E) the availability and cost of private reinsurance for small insurers; and
-
->             “(F) the impact that State workers compensation laws have on small insurers and workers compensation carriers in the terrorism risk insurance marketplace.
-
->         “(2)  __Report__  __.—__ 
-
->         The Secretary shall submit a report to the Congress setting forth the findings and conclusions of each study required under paragraph (1).”
-
-    \[[Pub. L. 114–1, title I][/us/pl/114/1], §§ 103, 105, 111, 112, Jan. 12, 2015, [129 Stat. 4][/us/stat/129/4], 5, 10, 12, which directed amendment of “subparagraph (B) of section 103(e)(1)”, “paragraph (1)(A) of section 102”, “section 104”, and “section 108”, respectively, without specifying the name of the Act being amended, were executed to those sections of the Terrorism Risk Insurance Act of 2002 (title I of [Pub. L. 107–297][/us/pl/107/297], set out above), to reflect the probable intent of Congress.\]
+>         Not later than 180 days after the date of enactment of the Terrorism Risk Insurance Program Reauthorization Act of 2007 \[Dec. 26, 2007\], the Comptroller General shall submit a report on the study required by paragraph (1) to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives.”
 
     \[[Pub. L. 110–160, § 4(b)(2)][/us/pl/110/160/s4/b/2], Dec. 26, 2007, [121 Stat. 1840][/us/stat/121/1840], which directed amendment of [section 103(e)(3) of Pub. L. 107–297][/us/pl/107/297/s103/e/3], set out above, by substituting period for “ ‘and the Congress shall’ and all that follows through the end of the paragraph”, was executed by substituting period for “and the Congress shall” and all that followed through end of first sentence, to reflect the probable intent of Congress, in light of insertion of last sentence of par. (3) by [Pub. L. 110–160, § 4(b)(1)][/us/pl/110/160/s4/b/1].\]
 
@@ -1174,13 +1088,6 @@
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
 [/us/pl/91/607/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F607%2Fs106
 [/us/stat/84/1766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1766
-[/us/pl/114/1/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1%2Fs1%2Fa
-[/us/stat/129/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3
-[/us/usc/t7/s6s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6s
-[/us/usc/t12/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs241
-[/us/usc/t12/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs241
-[/us/pl/114/1/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1%2Fs201
-[/us/stat/129/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F12
 [/us/pl/110/160/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F160%2Fs1%2Fa
 [/us/stat/121/1839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1839
 [/us/pl/109/144/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F144%2Fs1
@@ -1190,31 +1097,19 @@
 [/us/usc/t12/s248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs248
 [/us/usc/t28/s1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1610
 [/us/usc/t28/s1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1610
-[/us/pl/114/1/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1%2Fs110
-[/us/stat/129/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F9
-[/us/pl/114/1/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1%2Fs1%2Fa
-[/us/usc/t15/s6701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6701
 [/us/pl/107/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F297
 [/us/stat/116/2322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2322
 [/us/pl/109/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F144
 [/us/stat/119/2660-2662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2660-2662
 [/us/pl/110/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F160
 [/us/stat/121/1839-1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1839-1841
-[/us/pl/114/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1
-[/us/stat/129/3-5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3-5
-[/us/pl/114/1/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1%2Fs107
-[/us/stat/129/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F7
 [/us/usc/t49/s40102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102
 [/us/usc/t7/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1501
 [/us/usc/t12/s4901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4901
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
 [/us/usc/t18/s2280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2280
-[/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/pl/107/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F42
 [/us/usc/t49/s40101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40101
-[/us/pl/114/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1
-[/us/stat/129/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F4
-[/us/pl/107/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F297
 [/us/pl/110/160/s4/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F160%2Fs4%2Fb%2F2
 [/us/stat/121/1840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1840
 [/us/pl/107/297/s103/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F297%2Fs103%2Fe%2F3

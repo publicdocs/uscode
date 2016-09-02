@@ -155,7 +155,7 @@ SUBCHAPTER III—NATIONAL ASSOCIATION OF REGISTERED AGENTS AND BROKERS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6751" data-uslm-ref="/us/usc/t15/s6751">6751.</a>  </td>
 
-    <td> National Association of Registered Agents and Brokers.  </td>
+    <td> State flexibility in multistate licensing reforms.  </td>
 
   </tr>
 
@@ -163,7 +163,7 @@ SUBCHAPTER III—NATIONAL ASSOCIATION OF REGISTERED AGENTS AND BROKERS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6752" data-uslm-ref="/us/usc/t15/s6752">6752.</a>  </td>
 
-    <td> Purpose.  </td>
+    <td> National Association of Registered Agents and Brokers.  </td>
 
   </tr>
 
@@ -171,7 +171,7 @@ SUBCHAPTER III—NATIONAL ASSOCIATION OF REGISTERED AGENTS AND BROKERS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6753" data-uslm-ref="/us/usc/t15/s6753">6753.</a>  </td>
 
-    <td> Membership.  </td>
+    <td> Purpose.  </td>
 
   </tr>
 
@@ -179,7 +179,7 @@ SUBCHAPTER III—NATIONAL ASSOCIATION OF REGISTERED AGENTS AND BROKERS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6754" data-uslm-ref="/us/usc/t15/s6754">6754.</a>  </td>
 
-    <td> Board of directors.  </td>
+    <td> Relationship to the Federal Government.  </td>
 
   </tr>
 
@@ -187,7 +187,7 @@ SUBCHAPTER III—NATIONAL ASSOCIATION OF REGISTERED AGENTS AND BROKERS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6755" data-uslm-ref="/us/usc/t15/s6755">6755.</a>  </td>
 
-    <td> Bylaws, standards, and disciplinary actions.  </td>
+    <td> Membership.  </td>
 
   </tr>
 
@@ -195,7 +195,7 @@ SUBCHAPTER III—NATIONAL ASSOCIATION OF REGISTERED AGENTS AND BROKERS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6756" data-uslm-ref="/us/usc/t15/s6756">6756.</a>  </td>
 
-    <td> Powers.  </td>
+    <td> Board of directors.  </td>
 
   </tr>
 
@@ -203,7 +203,7 @@ SUBCHAPTER III—NATIONAL ASSOCIATION OF REGISTERED AGENTS AND BROKERS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6757" data-uslm-ref="/us/usc/t15/s6757">6757.</a>  </td>
 
-    <td> Report by the Association.  </td>
+    <td> Officers.  </td>
 
   </tr>
 
@@ -211,7 +211,7 @@ SUBCHAPTER III—NATIONAL ASSOCIATION OF REGISTERED AGENTS AND BROKERS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6758" data-uslm-ref="/us/usc/t15/s6758">6758.</a>  </td>
 
-    <td> Liability of the Association and the Board members, officers, and employees of the Association.  </td>
+    <td> Bylaws, rules, and disciplinary action.  </td>
 
   </tr>
 
@@ -219,7 +219,7 @@ SUBCHAPTER III—NATIONAL ASSOCIATION OF REGISTERED AGENTS AND BROKERS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6759" data-uslm-ref="/us/usc/t15/s6759">6759.</a>  </td>
 
-    <td> Presidential oversight.  </td>
+    <td> Assessments.  </td>
 
   </tr>
 
@@ -227,7 +227,7 @@ SUBCHAPTER III—NATIONAL ASSOCIATION OF REGISTERED AGENTS AND BROKERS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6760" data-uslm-ref="/us/usc/t15/s6760">6760.</a>  </td>
 
-    <td> Relationship to State law.  </td>
+    <td> Functions of the NAIC.  </td>
 
   </tr>
 
@@ -235,7 +235,7 @@ SUBCHAPTER III—NATIONAL ASSOCIATION OF REGISTERED AGENTS AND BROKERS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6761" data-uslm-ref="/us/usc/t15/s6761">6761.</a>  </td>
 
-    <td> Coordination with Financial Industry Regulatory Authority.  </td>
+    <td> Liability of the Association and the directors, officers, and employees of the Association.  </td>
 
   </tr>
 
@@ -243,7 +243,7 @@ SUBCHAPTER III—NATIONAL ASSOCIATION OF REGISTERED AGENTS AND BROKERS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6762" data-uslm-ref="/us/usc/t15/s6762">6762.</a>  </td>
 
-    <td> Right of action.  </td>
+    <td> Elimination of NAIC oversight.  </td>
 
   </tr>
 
@@ -251,13 +251,29 @@ SUBCHAPTER III—NATIONAL ASSOCIATION OF REGISTERED AGENTS AND BROKERS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6763" data-uslm-ref="/us/usc/t15/s6763">6763.</a>  </td>
 
-    <td> Federal funding prohibited.  </td>
+    <td> Relationship to State law.  </td>
 
   </tr>
 
   <tr>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6764" data-uslm-ref="/us/usc/t15/s6764">6764.</a>  </td>
+
+    <td> Coordination with other regulators.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6765" data-uslm-ref="/us/usc/t15/s6765">6765.</a>  </td>
+
+    <td> Judicial review.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs6766" data-uslm-ref="/us/usc/t15/s6766">6766.</a>  </td>
 
     <td> Definitions.  </td>
 

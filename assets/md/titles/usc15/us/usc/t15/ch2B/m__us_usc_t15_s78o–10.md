@@ -163,10 +163,6 @@
 
                     (II) major security-based swap participants.
 
-        (4) __Applicability with respect to counterparties__ 
-
-            The requirements of paragraphs (2)(A)(ii) and (2)(B)(ii) shall not apply to a security-based swap in which a counterparty qualifies for an exception under [section 78c–3(g)(1) of this title][/us/usc/t15/s78c–3/g/1] or satisfies the criteria in [section 78c–3(g)(4) of this title][/us/usc/t15/s78c–3/g/4].
-
     (f) __Reporting and recordkeeping__ 
 
         (1) __In general__ 
@@ -525,7 +521,7 @@
 
             (B) for any security-based swap dealer or major security-based swap participant to permit such a person, without the consent of the Commission, to become or remain a person associated with the security-based swap dealer or major security-based swap participant in contravention of such order, if such security-based swap dealer or major security-based swap participant knew, or in the exercise of reasonable care should have known, of such order.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 15F, as added [Pub. L. 111–203, title VII, § 764(a)][/us/pl/111/203/s764/a], July 21, 2010, [124 Stat. 1784][/us/stat/124/1784]; amended [Pub. L. 114–1, title III, § 302(b)][/us/pl/114/1/s302/b], Jan. 12, 2015, [129 Stat. 28][/us/stat/129/28].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 15F, as added [Pub. L. 111–203, title VII, § 764(a)][/us/pl/111/203/s764/a], July 21, 2010, [124 Stat. 1784][/us/stat/124/1784].)
 
  __References in Text__ 
 
@@ -536,10 +532,6 @@
     The Employee Retirement Income Security Act of 1974, referred to in subsec. (h)(5)(A)(i)(VII), is [Pub. L. 93–406][/us/pl/93/406], Sept. 2, 1974, [88 Stat. 829][/us/stat/88/829], which is classified principally to chapter 18 (§ 1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29][/us/usc/t29/s1001] and Tables.
 
     Subtitle B of the Wall Street Transparency and Accountability Act of 2010, referred to in subsec. (l)(1)(A), is subtitle B (§§ 761–774) of title VII of [Pub. L. 111–203][/us/pl/111/203], July 21, 2010, [124 Stat. 1754][/us/stat/124/1754], which enacted this section and subchapter II (§ 8341 et seq.) of chapter 109 and sections 78c–3 to 78c–5, 78j–2, and 78m–1 of this title, amended sections 77b, 77b–1, 77e, 77q, 78c, 78c–1, 78f, 78i, 78j, 78m, 78o, 78p, 78q–1, 78t, 78u–1, 78u–2, 78bb, 78dd, 78mm, 80a–2, and 80b–2 of this title, enacted provisions set out as a note under [section 77b of this title][/us/usc/t15/s77b], and amended provisions set out as a note under [section 78c of this title][/us/usc/t15/s78c]. For complete classification of subtitle B to the Code, see Tables.
-
- __Amendments__ 
-
-    2015—Subsec. (e)(4). [Pub. L. 114–1][/us/pl/114/1] added par. (4).
 
  __Effective Date__ 
 
@@ -556,8 +548,6 @@
 [/us/usc/t7/s6f/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6f%2Fa%2F3
 [/us/usc/t7/s6f/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6f%2Fb
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
-[/us/usc/t15/s78c–3/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%E2%80%933%2Fg%2F1
-[/us/usc/t15/s78c–3/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%E2%80%933%2Fg%2F4
 [/us/usc/t29/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002
 [/us/usc/t29/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
@@ -567,8 +557,6 @@
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/pl/111/203/s764/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs764%2Fa
 [/us/stat/124/1784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1784
-[/us/pl/114/1/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1%2Fs302%2Fb
-[/us/stat/129/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F28
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
 [/us/stat/42/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F998
@@ -580,7 +568,6 @@
 [/us/stat/124/1754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1754
 [/us/usc/t15/s77b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77b
 [/us/usc/t15/s78c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c
-[/us/pl/114/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs774
 [/us/usc/t15/s77b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77b

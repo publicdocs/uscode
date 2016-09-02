@@ -13,15 +13,29 @@
 
 [Previous](./../../../../..//us/usc/t15/ch93/schIII/m__us_usc_t15_s6762.md) | [Next](./../../../../..//us/usc/t15/ch93/schIII/m__us_usc_t15_s6764.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6763)
 
-## § 6763. Federal funding prohibited
+## § 6763. Relationship to State law
 
-    The Association may not receive, accept, or borrow any amounts from the Federal Government to pay for, or reimburse, <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should not appear. </sup></sup>  the Association for, the costs of establishing or operating the Association.
+    (a) __Preemption of State laws__ 
 
-([Pub. L. 106–102, title III, § 333][/us/pl/106/102/s333], as added [Pub. L. 114–1, title II, § 202(a)][/us/pl/114/1/s202/a], Jan. 12, 2015, [129 Stat. 27][/us/stat/129/27].)
+        State laws, regulations, provisions, or other actions purporting to regulate insurance producers shall be preempted as provided in subsection (b) of this section.
 
- __Prior Provisions__ 
+    (b) __Prohibited actions__ 
 
-    A prior section 6763, [Pub. L. 106–102, title III, § 333][/us/pl/106/102/s333], Nov. 12, 1999, [113 Stat. 1432][/us/stat/113/1432], related to relationship to State law, prior to the general amendment of this subchapter by [Pub. L. 114–1][/us/pl/114/1]. See [section 6760 of this title][/us/usc/t15/s6760].
+    No State shall—
+
+        (1) impede the activities of, take any action against, or apply any provision of law or regulation to, any insurance producer because that insurance producer or any affiliate plans to become, has applied to become, or is a member of the Association;
+
+        (2) impose any requirement upon a member of the Association that it pay different fees to be licensed or otherwise qualified to do business in that State, including bonding requirements, based on its residency;
+
+        (3) impose any licensing, appointment, integrity, personal or corporate qualifications, education, training, experience, residency, or continuing education requirement upon a member of the Association that is different from the criteria for membership in the Association or renewal of such membership, except that countersignature requirements imposed on nonresident producers shall not be deemed to have the effect of limiting or conditioning a producer’s activities because of its residence or place of operations under this section; or
+
+        (4) implement the procedures of such State’s system of licensing or renewing the licenses of insurance producers in a manner different from the authority of the Association under [section 6755 of this title][/us/usc/t15/s6755].
+
+    (c) __Savings provision__ 
+
+        Except as provided in subsections (a) and (b) of this section, no provision of this section shall be construed as altering or affecting the continuing effectiveness of any law, regulation, provision, or other action of any State which purports to regulate insurance producers, including any such law, regulation, provision, or action which purports to regulate unfair trade practices or establish consumer protections, including countersignature laws.
+
+([Pub. L. 106–102, title III, § 333][/us/pl/106/102/s333], Nov. 12, 1999, [113 Stat. 1432][/us/stat/113/1432].)
 
 ----------
 
@@ -30,12 +44,8 @@
 ----------
 ----------
 
-[/us/pl/106/102/s333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs333
-[/us/pl/114/1/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1%2Fs202%2Fa
-[/us/stat/129/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F27
+[/us/usc/t15/s6755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6755
 [/us/pl/106/102/s333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs333
 [/us/stat/113/1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1432
-[/us/pl/114/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1
-[/us/usc/t15/s6760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6760
 
 
