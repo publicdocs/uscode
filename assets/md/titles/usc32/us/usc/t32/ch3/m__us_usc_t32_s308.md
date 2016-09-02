@@ -19,7 +19,7 @@
 
     (b) To be eligible for temporary Federal recognition under subsection (a), a person must take an oath that during the period of temporary recognition he will perform his Federal duties as if he had been appointed as a reserve officer of the Army or the Air Force, as the case may be.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 603][/us/stat/70A/603]; [Pub. L. 110–181, div. A, title V, § 514][/us/pl/110/181/s514], Jan. 28, 2008, [122 Stat. 99][/us/stat/122/99].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 603][/us/stat/70A/603]; [Pub. L. 110–181, div. A, title V][/us/pl/110/181/dA/tV], § 514, Jan. 28, 2008, [122 Stat. 99][/us/stat/122/99].)
 
 <table>
 
@@ -87,7 +87,7 @@ July 9, 1952, ch. 608, § 704 (less 2d sentence), 66 Stat. 502.  </td>
 [/us/usc/t32/s307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs307%2Fb
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F603
-[/us/pl/110/181/s514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs514
+[/us/pl/110/181/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtV
 [/us/stat/122/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F99
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 

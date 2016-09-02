@@ -17,7 +17,7 @@
 
     In time of war, or of emergency declared by Congress, the President may suspend the operation of any provision of sections 307(e), 309, 310, and 323(d) and (e)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title with respect to the Army National Guard or the Air National Guard.
 
-(Added [Pub. L. 85–861, § 2(3)][/us/pl/85/861/s2/3], Sept. 2, 1958, [72 Stat. 1543][/us/stat/72/1543].)
+(Added [Pub. L. 85–861][/us/pl/85/861], § 2(3), Sept. 2, 1958, [72 Stat. 1543][/us/stat/72/1543].)
 
 <table>
 
@@ -67,7 +67,7 @@ Sept. 3, 1954, ch. 1257, § 209 (as applicable to National Guard), 68 Stat. 11
 
  __References in Text__ 
 
-    [Section 323(e) of this title][/us/usc/t32/s323/e], referred to in text, was repealed by [Pub. L. 103–337, div. A, title XVI, § 1630(2)][/us/pl/103/337/s1630/2], Oct. 5, 1994, [108 Stat. 2964][/us/stat/108/2964].
+    [Section 323(e) of this title][/us/usc/t32/s323/e], referred to in text, was repealed by [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1630(2), Oct. 5, 1994, [108 Stat. 2964][/us/stat/108/2964].
 
  __Delegation of Functions__ 
 
@@ -80,11 +80,11 @@ Sept. 3, 1954, ch. 1257, § 209 (as applicable to National Guard), 68 Stat. 11
 ----------
 ----------
 
-[/us/pl/85/861/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs2%2F3
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1543
 [/us/usc/t32/s307/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs307%2Fe
 [/us/usc/t32/s323/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs323%2Fe
-[/us/pl/103/337/s1630/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1630%2F2
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2964
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 

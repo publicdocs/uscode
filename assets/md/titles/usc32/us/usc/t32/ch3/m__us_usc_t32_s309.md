@@ -17,7 +17,7 @@
 
     Each officer of the National Guard who is promoted to fill a vacancy in a federally recognized unit of the National Guard, and who has been on the reserve active-status list or the active-duty list of the Army or the Air Force for at least one year and has completed the minimum years of service in grade specified in [section 14303 of title 10][/us/usc/t10/s14303], shall be examined for Federal recognition in the grade to which the officer is promoted.
 
-(Added [Pub. L. 85–861, § 2(7)][/us/pl/85/861/s2/7], Sept. 2, 1958, [72 Stat. 1543][/us/stat/72/1543]; amended [Pub. L. 103–337, div. A, title XVI, § 1630(1)][/us/pl/103/337/s1630/1], Oct. 5, 1994, [108 Stat. 2963][/us/stat/108/2963].)
+(Added [Pub. L. 85–861][/us/pl/85/861], § 2(7), Sept. 2, 1958, [72 Stat. 1543][/us/stat/72/1543]; amended [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1630(1), Oct. 5, 1994, [108 Stat. 2963][/us/stat/108/2963].)
 
 <table>
 
@@ -85,9 +85,9 @@ Sept. 3, 1954, ch. 1257, § 319, 68 Stat. 1160.  </td>
 ----------
 
 [/us/usc/t10/s14303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14303
-[/us/pl/85/861/s2/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs2%2F7
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1543
-[/us/pl/103/337/s1630/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1630%2F1
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2963
 [/us/usc/t32/s1227/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs1227%2Fa
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337

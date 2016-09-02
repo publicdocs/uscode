@@ -163,21 +163,21 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–163, div. A, title V, § 589(b)(2)][/us/pl/109/163/s589/b/2], Jan. 6, 2006, [119 Stat. 3279][/us/stat/119/3279], struck out item 717 “Presentation of recognition items for retention purposes”.
+    2006—[Pub. L. 109–163, div. A, title V][/us/pl/109/163/dA/tV], § 589(b)(2), Jan. 6, 2006, [119 Stat. 3279][/us/stat/119/3279], struck out item 717 “Presentation of recognition items for retention purposes”.
 
-    2004—[Pub. L. 108–375, div. A, title V, § 520(b)(2)][/us/pl/108/375/s520/b/2], Oct. 28, 2004, [118 Stat. 1887][/us/stat/118/1887], added item 717.
+    2004—[Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 520(b)(2), Oct. 28, 2004, [118 Stat. 1887][/us/stat/118/1887], added item 717.
 
-    1985—[Pub. L. 99–224, § 3(b)][/us/pl/99/224/s3/b], Dec. 28, 1985, [99 Stat. 1742][/us/stat/99/1742], substituted “and travel” for “other than travel” in item 716.
+    1985—[Pub. L. 99–224][/us/pl/99/224], § 3(b), Dec. 28, 1985, [99 Stat. 1742][/us/stat/99/1742], substituted “and travel” for “other than travel” in item 716.
 
-    1980—[Pub. L. 96–328, § 1(b)(2)][/us/pl/96/328/s1/b/2], Aug. 8, 1980, [94 Stat. 1027][/us/stat/94/1027], substituted “Accountability for property issued to the National Guard” for “Reports of survey” in item 710.
+    1980—[Pub. L. 96–328][/us/pl/96/328], § 1(b)(2), Aug. 8, 1980, [94 Stat. 1027][/us/stat/94/1027], substituted “Accountability for property issued to the National Guard” for “Reports of survey” in item 710.
 
-    1972—[Pub. L. 92–453, § 2(2)][/us/pl/92/453/s2/2], Oct. 2, 1972, [86 Stat. 759][/us/stat/86/759], added item 716.
+    1972—[Pub. L. 92–453][/us/pl/92/453], § 2(2), Oct. 2, 1972, [86 Stat. 759][/us/stat/86/759], added item 716.
 
-    1968—[Pub. L. 90–486, § 2(2)][/us/pl/90/486/s2/2], Aug. 13, 1968, [82 Stat. 756][/us/stat/82/756], substituted “Technicians: employment, use status” for “Caretakers and clerks” in item 709.
+    1968—[Pub. L. 90–486][/us/pl/90/486], § 2(2), Aug. 13, 1968, [82 Stat. 756][/us/stat/82/756], substituted “Technicians: employment, use status” for “Caretakers and clerks” in item 709.
 
-    1960—[Pub. L. 86–740, § 1(2)][/us/pl/86/740/s1/2], Sept. 13, 1960, [74 Stat. 879][/us/stat/74/879], added item 715.
+    1960—[Pub. L. 86–740][/us/pl/86/740], § 1(2), Sept. 13, 1960, [74 Stat. 879][/us/stat/74/879], added item 715.
 
-    1958—[Pub. L. 85–861, § 2(13)][/us/pl/85/861/s2/13], Sept. 2, 1958, [72 Stat. 1546][/us/stat/72/1546], added item 714.
+    1958—[Pub. L. 85–861][/us/pl/85/861], § 2(13), Sept. 2, 1958, [72 Stat. 1546][/us/stat/72/1546], added item 714.
 
 ----------
 
@@ -186,21 +186,21 @@
 ----------
 ----------
 
-[/us/pl/109/163/s589/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs589%2Fb%2F2
+[/us/pl/109/163/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtV
 [/us/stat/119/3279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3279
-[/us/pl/108/375/s520/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs520%2Fb%2F2
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1887
-[/us/pl/99/224/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F224%2Fs3%2Fb
+[/us/pl/99/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F224
 [/us/stat/99/1742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1742
-[/us/pl/96/328/s1/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F328%2Fs1%2Fb%2F2
+[/us/pl/96/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F328
 [/us/stat/94/1027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1027
-[/us/pl/92/453/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F453%2Fs2%2F2
+[/us/pl/92/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F453
 [/us/stat/86/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F759
-[/us/pl/90/486/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F486%2Fs2%2F2
+[/us/pl/90/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F486
 [/us/stat/82/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F756
-[/us/pl/86/740/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F740%2Fs1%2F2
+[/us/pl/86/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F740
 [/us/stat/74/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F879
-[/us/pl/85/861/s2/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs2%2F13
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1546
 
 

@@ -17,7 +17,7 @@
 
     The Secretary of Defense may provide funds to a Governor to employ National Guard units or members to conduct homeland defense activities that the Secretary, <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should not appear. </sup></sup>  determines to be necessary and appropriate for participation by the National Guard units or members, as the case may be.
 
-(Added [Pub. L. 108–375, div. A, title V, § 512(a)(1)][/us/pl/108/375/s512/a/1], Oct. 28, 2004, [118 Stat. 1878][/us/stat/118/1878]; amended [Pub. L. 109–364, div. A, title X, § 1071(b)(1)][/us/pl/109/364/s1071/b/1], Oct. 17, 2006, [120 Stat. 2400][/us/stat/120/2400].)
+(Added [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 512(a)(1), Oct. 28, 2004, [118 Stat. 1878][/us/stat/118/1878]; amended [Pub. L. 109–364, div. A, title X][/us/pl/109/364/dA/tX], § 1071(b)(1), Oct. 17, 2006, [120 Stat. 2400][/us/stat/120/2400].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/108/375/s512/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs512%2Fa%2F1
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1878
-[/us/pl/109/364/s1071/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fb%2F1
+[/us/pl/109/364/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtX
 [/us/stat/120/2400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2400
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 

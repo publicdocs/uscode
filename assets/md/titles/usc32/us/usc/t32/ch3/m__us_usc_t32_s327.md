@@ -41,7 +41,7 @@
 
     (c) The convening authorities provided under subsection (b) are in addition to the convening authorities provided under subsection (a).
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 608][/us/stat/70A/608]; [Pub. L. 100–456, div. A, title XII, § 1234(b)(4)][/us/pl/100/456/s1234/b/4], Sept. 29, 1988, [102 Stat. 2059][/us/stat/102/2059]; [Pub. L. 107–314, div. A, title V, § 512(b)][/us/pl/107/314/s512/b], Dec. 2, 2002, [116 Stat. 2537][/us/stat/116/2537]; [Pub. L. 109–163, div. A, title X, § 1057(b)(7)][/us/pl/109/163/s1057/b/7], Jan. 6, 2006, [119 Stat. 3442][/us/stat/119/3442].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 608][/us/stat/70A/608]; [Pub. L. 100–456, div. A, title XII][/us/pl/100/456/dA/tXII], § 1234(b)(4), Sept. 29, 1988, [102 Stat. 2059][/us/stat/102/2059]; [Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 512(b), Dec. 2, 2002, [116 Stat. 2537][/us/stat/116/2537]; [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1057(b)(7), Jan. 6, 2006, [119 Stat. 3442][/us/stat/119/3442].)
 
 <table>
 
@@ -121,7 +121,7 @@ June 3, 1916, ch. 134, § 103, 39 Stat. 208.  </td>
 
  __Models for State Code of Military Justice and State Manual for Courts-Martial__ 
 
-[Pub. L. 107–314, div. A, title V, § 512(e)][/us/pl/107/314/s512/e], Dec. 2, 2002, [116 Stat. 2537][/us/stat/116/2537], provided that:
+[Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 512(e), Dec. 2, 2002, [116 Stat. 2537][/us/stat/116/2537], provided that:
 
 >     “(1) The Secretary of Defense shall prepare a model State code of military justice and a model State manual for courts-martial to recommend to the States for use with respect to the National Guard not in Federal service. Both such models shall be consistent with the recommendations contained in the report that was issued in 1998 by the Department of Defense Panel to Study Military Justice in the National Guard not in Federal Service.
 
@@ -142,16 +142,16 @@ June 3, 1916, ch. 134, § 103, 39 Stat. 208.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F608
-[/us/pl/100/456/s1234/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1234%2Fb%2F4
+[/us/pl/100/456/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtXII
 [/us/stat/102/2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2059
-[/us/pl/107/314/s512/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs512%2Fb
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2537
-[/us/pl/109/163/s1057/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1057%2Fb%2F7
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3442
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
-[/us/pl/107/314/s512/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs512%2Fe
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2537
 
 

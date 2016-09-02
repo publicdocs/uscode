@@ -23,7 +23,7 @@
 
     (d) No property may be issued to the National Guard of a State or Territory, Puerto Rico, or the District of Columbia, unless that jurisdiction makes provision, satisfactory to the Secretary concerned, for its protection and care.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 612][/us/stat/70A/612]; [Pub. L. 100–456, div. A, title XII, § 1234(b)(1)][/us/pl/100/456/s1234/b/1], (4), Sept. 29, 1988, [102 Stat. 2059][/us/stat/102/2059]; [Pub. L. 109–163, div. A, title X, § 1057(b)(4)][/us/pl/109/163/s1057/b/4], Jan. 6, 2006, [119 Stat. 3441][/us/stat/119/3441].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 612][/us/stat/70A/612]; [Pub. L. 100–456, div. A, title XII][/us/pl/100/456/dA/tXII], § 1234(b)(1), (4), Sept. 29, 1988, [102 Stat. 2059][/us/stat/102/2059]; [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1057(b)(4), Jan. 6, 2006, [119 Stat. 3441][/us/stat/119/3441].)
 
 <table>
 
@@ -93,9 +93,9 @@ June 3, 1916, ch. 134, §§ 83, 84, 39 Stat. 203, 204.  </td>
 
     2006—Subsec. (a). [Pub. L. 109–163][/us/pl/109/163] substituted “State, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands” for “State or Territory or Puerto Rico”.
 
-    1988—Subsec. (a). [Pub. L. 100–456, § 1234(b)(4)][/us/pl/100/456/s1234/b/4], substituted “Territory or Puerto Rico” for “Territory, Puerto Rico, or the Canal Zone,”.
+    1988—Subsec. (a). [Pub. L. 100–456][/us/pl/100/456], § 1234(b)(4), substituted “Territory or Puerto Rico” for “Territory, Puerto Rico, or the Canal Zone,”.
 
-    Subsecs. (b) to (d). [Pub. L. 100–456, § 1234(b)(1)][/us/pl/100/456/s1234/b/1], struck out “the Canal Zone,” after “Puerto Rico,”.
+    Subsecs. (b) to (d). [Pub. L. 100–456][/us/pl/100/456], § 1234(b)(1), struck out “the Canal Zone,” after “Puerto Rico,”.
 
 ----------
 
@@ -106,13 +106,13 @@ June 3, 1916, ch. 134, §§ 83, 84, 39 Stat. 203, 204.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F612
-[/us/pl/100/456/s1234/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1234%2Fb%2F1
+[/us/pl/100/456/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtXII
 [/us/stat/102/2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2059
-[/us/pl/109/163/s1057/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1057%2Fb%2F4
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3441
 [/us/usc/t32/s101/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs101%2F12
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/pl/100/456/s1234/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1234%2Fb%2F4
-[/us/pl/100/456/s1234/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1234%2Fb%2F1
+[/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
+[/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
 
 

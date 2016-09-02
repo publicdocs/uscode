@@ -75,7 +75,7 @@
 
     (19) “Full-time National Guard duty” means training or other duty, other than inactive duty, performed by a member of the Army National Guard of the United States or the Air National Guard of the United States in the member’s status as a member of the National Guard of a State or territory, the Commonwealth of Puerto Rico, or the District of Columbia under section 316, 502, 503, 504, or 505 of this title for which the member is entitled to pay from the United States or for which the member has waived pay from the United States.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 596][/us/stat/70A/596]; [Pub. L. 85–861, § 2(1)][/us/pl/85/861/s2/1], Sept. 2, 1958, [72 Stat. 1542][/us/stat/72/1542]; [Pub. L. 86–70, § 27][/us/pl/86/70/s27], June 25, 1959, [73 Stat. 148][/us/stat/73/148]; [Pub. L. 86–624, § 22][/us/pl/86/624/s22], July 12, 1960, [74 Stat. 417][/us/stat/74/417]; [Pub. L. 92–492, § 2(a)][/us/pl/92/492/s2/a], Oct. 13, 1972, [86 Stat. 810][/us/stat/86/810]; [Pub. L. 96–513, title V, § 507(a)][/us/pl/96/513/s507/a], Dec. 12, 1980, [94 Stat. 2919][/us/stat/94/2919]; [Pub. L. 96–600, § 3(a)][/us/pl/96/600/s3/a], Dec. 24, 1980, [94 Stat. 3493][/us/stat/94/3493]; [Pub. L. 98–525, title IV, § 414(b)(1)][/us/pl/98/525/s414/b/1], Oct. 19, 1984, [98 Stat. 2519][/us/stat/98/2519]; [Pub. L. 100–456, div. A, title XII, § 1234(b)(1)][/us/pl/100/456/s1234/b/1], Sept. 29, 1988, [102 Stat. 2059][/us/stat/102/2059]; [Pub. L. 109–163, div. A, title X, § 1057(b)(1)][/us/pl/109/163/s1057/b/1], Jan. 6, 2006, [119 Stat. 3441][/us/stat/119/3441].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 596][/us/stat/70A/596]; [Pub. L. 85–861][/us/pl/85/861], § 2(1), Sept. 2, 1958, [72 Stat. 1542][/us/stat/72/1542]; [Pub. L. 86–70][/us/pl/86/70], § 27, June 25, 1959, [73 Stat. 148][/us/stat/73/148]; [Pub. L. 86–624][/us/pl/86/624], § 22, July 12, 1960, [74 Stat. 417][/us/stat/74/417]; [Pub. L. 92–492][/us/pl/92/492], § 2(a), Oct. 13, 1972, [86 Stat. 810][/us/stat/86/810]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 507(a), Dec. 12, 1980, [94 Stat. 2919][/us/stat/94/2919]; [Pub. L. 96–600][/us/pl/96/600], § 3(a), Dec. 24, 1980, [94 Stat. 3493][/us/stat/94/3493]; [Pub. L. 98–525, title IV][/us/pl/98/525/tIV], § 414(b)(1), Oct. 19, 1984, [98 Stat. 2519][/us/stat/98/2519]; [Pub. L. 100–456, div. A, title XII][/us/pl/100/456/dA/tXII], § 1234(b)(1), Sept. 29, 1988, [102 Stat. 2059][/us/stat/102/2059]; [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1057(b)(1), Jan. 6, 2006, [119 Stat. 3441][/us/stat/119/3441].)
 
 <table>
 
@@ -229,7 +229,7 @@ Sept. 19, 1951, ch. 407, § 305 (less last 16 words), 65 Stat. 330.  </td>
 
     In clause (2), a definition of “National Guard” is inserted for clarity.
 
-In clause (3)(A), the words “a land force” are substituted for 32:2. The National Defense Act of 1916, § 117 (last 66 words), [39 Stat. 212][/us/stat/39/212], is not contained in 32:2. It is also omitted from the revised section as repealed by the [act of February 28, 1925, ch. 374, § 3][/us/act/1925-02-28/ch374/s3], [43 Stat. 1081][/us/stat/43/1081].
+In clause (3)(A), the words “a land force” are substituted for 32:2. The National Defense Act of 1916, § 117 (last 66 words), [39 Stat. 212][/us/stat/39/212], is not contained in 32:2. It is also omitted from the revised section as repealed by the [act of February 28, 1925, ch. 374][/us/act/1925-02-28/ch374], § 3, [43 Stat. 1081][/us/stat/43/1081].
 
     In clauses (3) and (4), the word “Army” is inserted to distinguish the organizations defined from their Air Force counterparts.
 
@@ -313,9 +313,9 @@ Source (Statutes at Large)  </td>
 
     1988—Cls. (4), (6). [Pub. L. 100–456][/us/pl/100/456] struck out “the Canal Zone,” after “Puerto Rico,”.
 
-    1984—Cl. (12). [Pub. L. 98–525, § 414(b)(1)(A)][/us/pl/98/525/s414/b/1/A], inserted at end “It does not include full-time National Guard duty.”
+    1984—Cl. (12). [Pub. L. 98–525][/us/pl/98/525], § 414(b)(1)(A), inserted at end “It does not include full-time National Guard duty.”
 
-    Cl. (19). [Pub. L. 98–525, § 414(b)(1)(B)][/us/pl/98/525/s414/b/1/B], added cl. (19).
+    Cl. (19). [Pub. L. 98–525][/us/pl/98/525], § 414(b)(1)(B), added cl. (19).
 
     1980—Cl. (1). [Pub. L. 96–600][/us/pl/96/600] inserted reference to Guam.
 
@@ -339,7 +339,7 @@ Source (Statutes at Large)  </td>
 
  __Official Designation of Salem, Massachusetts, as Birthplace of the National Guard of the United States__ 
 
-[Pub. L. 112–241, § 1][/us/pl/112/241/s1], Jan. 10, 2013, [126 Stat. 2372][/us/stat/126/2372], provided that:
+[Pub. L. 112–241][/us/pl/112/241], § 1, Jan. 10, 2013, [126 Stat. 2372][/us/stat/126/2372], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -384,32 +384,32 @@ Source (Statutes at Large)  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F596
-[/us/pl/85/861/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs2%2F1
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1542
-[/us/pl/86/70/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs27
+[/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/stat/73/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F148
-[/us/pl/86/624/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624%2Fs22
+[/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
 [/us/stat/74/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F417
-[/us/pl/92/492/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F492%2Fs2%2Fa
+[/us/pl/92/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F492
 [/us/stat/86/810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F810
-[/us/pl/96/513/s507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs507%2Fa
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2919
-[/us/pl/96/600/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F600%2Fs3%2Fa
+[/us/pl/96/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F600
 [/us/stat/94/3493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3493
-[/us/pl/98/525/s414/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs414%2Fb%2F1
+[/us/pl/98/525/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2FtIV
 [/us/stat/98/2519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2519
-[/us/pl/100/456/s1234/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1234%2Fb%2F1
+[/us/pl/100/456/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtXII
 [/us/stat/102/2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2059
-[/us/pl/109/163/s1057/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1057%2Fb%2F1
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3441
 [/us/stat/39/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F212
-[/us/act/1925-02-28/ch374/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-28%2Fch374%2Fs3
+[/us/act/1925-02-28/ch374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-28%2Fch374
 [/us/stat/43/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F1081
 [/us/usc/t10/s101/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2F4
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
-[/us/pl/98/525/s414/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs414%2Fb%2F1%2FA
-[/us/pl/98/525/s414/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs414%2Fb%2F1%2FB
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
+[/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
 [/us/pl/96/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F600
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/92/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F492
@@ -420,7 +420,7 @@ Source (Statutes at Large)  </td>
 [/us/pl/96/513/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701%2Fa
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/112/241/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F241%2Fs1
+[/us/pl/112/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F241
 [/us/stat/126/2372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2372
 [/us/usc/t32/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs102
 

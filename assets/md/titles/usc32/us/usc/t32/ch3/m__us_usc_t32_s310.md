@@ -23,7 +23,7 @@
 
     (b) Notwithstanding sections 307 and 309 of this title, if an officer of the Army Reserve or the Air Force Reserve in a reserve grade above second lieutenant is appointed in the next higher grade in the National Guard to fill a vacancy in a federally recognized unit in the National Guard, Federal recognition is automatically extended to that officer in the grade in which the officer is so appointed in the National Guard if the officer has been recommended for promotion under chapter 1405 of title 10 and has remained in an active status since the officer was so recommended. The extension of Federal recognition under this subsection is effective as of the date when the officer is appointed in the National Guard.
 
-(Added [Pub. L. 85–861, § 2(7)][/us/pl/85/861/s2/7], Sept. 2, 1958, [72 Stat. 1544][/us/stat/72/1544]; amended [Pub. L. 103–337, div. A, title XVI, § 1630(1)][/us/pl/103/337/s1630/1], Oct. 5, 1994, [108 Stat. 2964][/us/stat/108/2964]; [Pub. L. 112–239, div. A, title V, § 512][/us/pl/112/239/s512], Jan. 2, 2013, [126 Stat. 1718][/us/stat/126/1718].)
+(Added [Pub. L. 85–861][/us/pl/85/861], § 2(7), Sept. 2, 1958, [72 Stat. 1544][/us/stat/72/1544]; amended [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1630(1), Oct. 5, 1994, [108 Stat. 2964][/us/stat/108/2964]; [Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 512, Jan. 2, 2013, [126 Stat. 1718][/us/stat/126/1718].)
 
 <table>
 
@@ -104,11 +104,11 @@ Sept. 3, 1954, ch. 1257, § 320, 68 Stat. 1160.  </td>
 
 [/us/usc/t10/s14303/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14303%2Fa%2F1
 [/us/usc/t10/s12242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12242
-[/us/pl/85/861/s2/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs2%2F7
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1544
-[/us/pl/103/337/s1630/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1630%2F1
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2964
-[/us/pl/112/239/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs512
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1718
 [/us/usc/t10/s3820/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3820%2Fc
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239

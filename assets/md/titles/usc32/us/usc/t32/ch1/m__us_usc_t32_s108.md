@@ -17,7 +17,7 @@
 
     If, within a time fixed by the President, a State fails to comply with a requirement of this title, or a regulation prescribed under this title, the National Guard of that State is barred, in whole or in part, as the President may prescribe, from receiving money or any other aid, benefit, or privilege authorized by law.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 600][/us/stat/70A/600]; [Pub. L. 103–337, div. A, title IX, § 904(c)][/us/pl/103/337/s904/c], Oct. 5, 1994, [108 Stat. 2827][/us/stat/108/2827].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 600][/us/stat/70A/600]; [Pub. L. 103–337, div. A, title IX][/us/pl/103/337/dA/tIX], § 904(c), Oct. 5, 1994, [108 Stat. 2827][/us/stat/108/2827].)
 
 <table>
 
@@ -82,7 +82,7 @@ June 3, 1916, ch. 134, § 116, 39 Stat. 212.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F600
-[/us/pl/103/337/s904/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs904%2Fc
+[/us/pl/103/337/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIX
 [/us/stat/108/2827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2827
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337

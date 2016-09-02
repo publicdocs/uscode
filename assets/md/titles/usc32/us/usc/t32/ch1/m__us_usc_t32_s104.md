@@ -33,7 +33,7 @@
 
         (2) the actual strength of such an organization in commissioned officers or enlisted members may not be reduced below the minimum strength prescribed by the President.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 598][/us/stat/70A/598]; [Pub. L. 100–456, div. A, title XII, § 1234(b)(1)][/us/pl/100/456/s1234/b/1], (2), Sept. 29, 1988, [102 Stat. 2059][/us/stat/102/2059]; [Pub. L. 109–163, div. A, title X, § 1057(b)(2)][/us/pl/109/163/s1057/b/2]–(4), Jan. 6, 2006, [119 Stat. 3441][/us/stat/119/3441].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 598][/us/stat/70A/598]; [Pub. L. 100–456, div. A, title XII][/us/pl/100/456/dA/tXII], § 1234(b)(1), (2), Sept. 29, 1988, [102 Stat. 2059][/us/stat/102/2059]; [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1057(b)(2)–(4), Jan. 6, 2006, [119 Stat. 3441][/us/stat/119/3441].)
 
 <table>
 
@@ -127,25 +127,25 @@ June 3, 1916, ch. 134, § 60; June 4, 1920, ch. 227 subch. I, § 36; restate
 
  __Amendments__ 
 
-    2006—Subsec. (a). [Pub. L. 109–163, § 1057(b)(4)][/us/pl/109/163/s1057/b/4], substituted “State, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands” for “State or Territory and Puerto Rico”.
+    2006—Subsec. (a). [Pub. L. 109–163][/us/pl/109/163], § 1057(b)(4), substituted “State, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands” for “State or Territory and Puerto Rico”.
 
-    Subsec. (c). [Pub. L. 109–163, § 1057(b)(2)][/us/pl/109/163/s1057/b/2], substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands” for “State and Territory, Puerto Rico, and the District of Columbia”.
+    Subsec. (c). [Pub. L. 109–163][/us/pl/109/163], § 1057(b)(2), substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands” for “State and Territory, Puerto Rico, and the District of Columbia”.
 
-    Subsec. (d). [Pub. L. 109–163, § 1057(b)(3)][/us/pl/109/163/s1057/b/3], substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands” for “State or Territory, Puerto Rico, or the District of Columbia”.
+    Subsec. (d). [Pub. L. 109–163][/us/pl/109/163], § 1057(b)(3), substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands” for “State or Territory, Puerto Rico, or the District of Columbia”.
 
-    1988—Subsec. (a). [Pub. L. 100–456, § 1234(b)(2)][/us/pl/100/456/s1234/b/2], substituted “Each State or Territory and Puerto Rico” for “Each State and Territory, Puerto Rico, and the Canal Zone”.
+    1988—Subsec. (a). [Pub. L. 100–456][/us/pl/100/456], § 1234(b)(2), substituted “Each State or Territory and Puerto Rico” for “Each State and Territory, Puerto Rico, and the Canal Zone”.
 
-    Subsecs. (c), (d). [Pub. L. 100–456, § 1234(b)(1)][/us/pl/100/456/s1234/b/1], struck out “the Canal Zone,” after “Puerto Rico,”.
+    Subsecs. (c), (d). [Pub. L. 100–456][/us/pl/100/456], § 1234(b)(1), struck out “the Canal Zone,” after “Puerto Rico,”.
 
  __Council of Governors__ 
 
-[Pub. L. 110–181, div. A, title XVIII, § 1822][/us/pl/110/181/s1822], Jan. 28, 2008, [122 Stat. 500][/us/stat/122/500], provided that: 
+[Pub. L. 110–181, div. A, title XVIII][/us/pl/110/181/dA/tXVIII], § 1822, Jan. 28, 2008, [122 Stat. 500][/us/stat/122/500], provided that: 
 
 > “The President shall establish a bipartisan Council of Governors to advise the Secretary of Defense, the Secretary of Homeland Security, and the White House Homeland Security Council on matters related to the National Guard and civil support missions.”
 
  __Comptroller General Assessments of National Guard Management__ 
 
-[Pub. L. 107–314, div. A, title V, § 511(a)][/us/pl/107/314/s511/a], Dec. 2, 2002, [116 Stat. 2536][/us/stat/116/2536], provided that: 
+[Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 511(a), Dec. 2, 2002, [116 Stat. 2536][/us/stat/116/2536], provided that: 
 
 > “Not later than one year after the date of the enactment of this Act \[Dec. 2, 2002\], the Comptroller General shall submit to Congress a report on management of the National Guard. The report shall include the following:
 
@@ -159,11 +159,11 @@ June 3, 1916, ch. 134, § 60; June 4, 1920, ch. 227 subch. I, § 36; restate
 
  __Study of State and Federal Missions of National Guard__ 
 
-    [Pub. L. 103–160, div. A, title V, § 522][/us/pl/103/160/s522], Nov. 30, 1993, [107 Stat. 1655][/us/stat/107/1655], directed Secretary of Defense to provide for a study of State and Federal missions of National Guard to be carried out by a federally funded research and development center, including consideration of both separate and integrated requirements (including requirements pertaining to personnel, weapons, equipment, and facilities) that derive from those missions, required an interim report not later than May 1, 1994, and a final report not later than Nov. 15, 1994, directed Secretary to submit each report to Congress, not later than 15 days after the date on which it is received by the Secretary, and directed Secretary, together with Secretary of the Army and Secretary of the Air Force, to conduct evaluation of assumptions, analysis, findings, and recommendations of the study and, not later than Feb. 1, 1995, to submit to Congress a report on the evaluation.
+    [Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], § 522, Nov. 30, 1993, [107 Stat. 1655][/us/stat/107/1655], directed Secretary of Defense to provide for a study of State and Federal missions of National Guard to be carried out by a federally funded research and development center, including consideration of both separate and integrated requirements (including requirements pertaining to personnel, weapons, equipment, and facilities) that derive from those missions, required an interim report not later than May 1, 1994, and a final report not later than Nov. 15, 1994, directed Secretary to submit each report to Congress, not later than 15 days after the date on which it is received by the Secretary, and directed Secretary, together with Secretary of the Army and Secretary of the Air Force, to conduct evaluation of assumptions, analysis, findings, and recommendations of the study and, not later than Feb. 1, 1995, to submit to Congress a report on the evaluation.
 
  __Retention of Ancient Privileges and Organization__ 
 
-[Act Aug. 10, 1956, ch. 1041, § 32][/us/act/1956-08-10/ch1041/s32], [70A Stat. 633][/us/stat/70A/633], provided that:
+[Act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], § 32, [70A Stat. 633][/us/stat/70A/633], provided that:
 
 >     “(a) Any corps of artillery, cavalry, or infantry existing in any of the States on the passage of the Act of May 8, 1792, which by the laws, customs, or usages of those States has been in continuous existence since the passage of that Act, shall be allowed to retain its ancient privileges, subject, nevertheless to all duties required by law of militia: Provided, That those organizations may be a part of the National Guard and entitled to all the privileges thereof, and shall conform in all respects to the organization, discipline, and training to the National Guard in time of war: Provided further, That for purposes of training and when on active duty in the service of the United States they may be assigned to higher units, as the President may direct, and shall be subject to the orders of officers under whom they shall be serving.
 
@@ -234,22 +234,22 @@ June 3, 1916, ch. 134, § 60; June 4, 1920, ch. 227 subch. I, § 36; restate
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F598
-[/us/pl/100/456/s1234/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1234%2Fb%2F1
+[/us/pl/100/456/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtXII
 [/us/stat/102/2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2059
-[/us/pl/109/163/s1057/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1057%2Fb%2F2
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3441
-[/us/pl/109/163/s1057/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1057%2Fb%2F4
-[/us/pl/109/163/s1057/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1057%2Fb%2F2
-[/us/pl/109/163/s1057/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1057%2Fb%2F3
-[/us/pl/100/456/s1234/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1234%2Fb%2F2
-[/us/pl/100/456/s1234/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1234%2Fb%2F1
-[/us/pl/110/181/s1822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1822
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
+[/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
+[/us/pl/110/181/dA/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXVIII
 [/us/stat/122/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F500
-[/us/pl/107/314/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs511%2Fa
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2536
-[/us/pl/103/160/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs522
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1655
-[/us/act/1956-08-10/ch1041/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs32
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F633
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/usc/t6/s101/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101%2F15

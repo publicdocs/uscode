@@ -35,7 +35,7 @@
 
     (b) To be eligible for Federal recognition under this section with a view to serving as a nurse, a person must be a graduate of a hospital or university training school and a registered nurse.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 602][/us/stat/70A/602]; [Pub. L. 85–861, § 2(5)][/us/pl/85/861/s2/5], Sept. 2, 1958, [72 Stat. 1543][/us/stat/72/1543]; [Pub. L. 90–130, § 2(1)][/us/pl/90/130/s2/1], Nov. 8, 1967, [81 Stat. 383][/us/stat/81/383]; [Pub. L. 108–375, div. A, title V, § 505][/us/pl/108/375/s505], Oct. 28, 2004, [118 Stat. 1875][/us/stat/118/1875]; [Pub. L. 111–383, div. A, title V, § 517][/us/pl/111/383/s517], Jan. 7, 2011, [124 Stat. 4214][/us/stat/124/4214].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 602][/us/stat/70A/602]; [Pub. L. 85–861][/us/pl/85/861], § 2(5), Sept. 2, 1958, [72 Stat. 1543][/us/stat/72/1543]; [Pub. L. 90–130][/us/pl/90/130], § 2(1), Nov. 8, 1967, [81 Stat. 383][/us/stat/81/383]; [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 505, Oct. 28, 2004, [118 Stat. 1875][/us/stat/118/1875]; [Pub. L. 111–383, div. A, title V][/us/pl/111/383/dA/tV], § 517, Jan. 7, 2011, [124 Stat. 4214][/us/stat/124/4214].)
 
 <table>
 
@@ -151,17 +151,17 @@ July 30, 1956, ch. 789, §§ 2 (less applicability to age), 3, 70 Stat. 729.  
 
     2011—Subsec. (a)(5). [Pub. L. 111–383][/us/pl/111/383] substituted “the United States Coast Guard Academy, or the United States Merchant Marine Academy” for “or the United States Coast Guard Academy”.
 
-    2004—Subsec. (a)(2) to (4). [Pub. L. 108–375, § 505(1)][/us/pl/108/375/s505/1], substituted “armed forces” for “Army, Navy, Air Force, or Marine Corps”.
+    2004—Subsec. (a)(2) to (4). [Pub. L. 108–375][/us/pl/108/375], § 505(1), substituted “armed forces” for “Army, Navy, Air Force, or Marine Corps”.
 
-    Subsec. (a)(5). [Pub. L. 108–375, § 505(2)][/us/pl/108/375/s505/2], substituted “the United States Air Force Academy, or the United States Coast Guard Academy” for “or the United States Air Force Academy”.
+    Subsec. (a)(5). [Pub. L. 108–375][/us/pl/108/375], § 505(2), substituted “the United States Air Force Academy, or the United States Coast Guard Academy” for “or the United States Air Force Academy”.
 
-    1967—Subsec. (a). [Pub. L. 90–130, § 2(1)(A)][/us/pl/90/130/s2/1/A], struck out provision that, except as provided in subsec. (b), only male persons from the enumerated categories were eligible for Federal recognition as commissioned officers of the National Guard.
+    1967—Subsec. (a). [Pub. L. 90–130][/us/pl/90/130], § 2(1)(A), struck out provision that, except as provided in subsec. (b), only male persons from the enumerated categories were eligible for Federal recognition as commissioned officers of the National Guard.
 
-    Subsec. (b). [Pub. L. 90–130, § 2(1)(B)][/us/pl/90/130/s2/1/B], (C), struck out provision that women are eligible for Federal recognition as commissioned officers of the National Guard, with a view to serving as nurses or medical specialist, and substituted “person” for “woman” in description of the individual who must be a graduate of a hospital or university training school and a registered nurse in order to be eligible for Federal recognition under this section with a view to serving as a nurse.
+    Subsec. (b). [Pub. L. 90–130][/us/pl/90/130], § 2(1)(B), (C), struck out provision that women are eligible for Federal recognition as commissioned officers of the National Guard, with a view to serving as nurses or medical specialist, and substituted “person” for “woman” in description of the individual who must be a graduate of a hospital or university training school and a registered nurse in order to be eligible for Federal recognition under this section with a view to serving as a nurse.
 
-    1958—Subsec. (a). [Pub. L. 85–861, § 2(5)(A)][/us/pl/85/861/s2/5/A], designated existing provisions as subsec. (a) and substituted “Except as provided in subsection (b), only male persons” for “Only persons”.
+    1958—Subsec. (a). [Pub. L. 85–861][/us/pl/85/861], § 2(5)(A), designated existing provisions as subsec. (a) and substituted “Except as provided in subsection (b), only male persons” for “Only persons”.
 
-    Subsec. (b). [Pub. L. 85–861, § 2(5)(B)][/us/pl/85/861/s2/5/B], added subsec. (b).
+    Subsec. (b). [Pub. L. 85–861][/us/pl/85/861], § 2(5)(B), added subsec. (b).
 
 ----------
 
@@ -172,24 +172,24 @@ July 30, 1956, ch. 789, §§ 2 (less applicability to age), 3, 70 Stat. 729.  
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F602
-[/us/pl/85/861/s2/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs2%2F5
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1543
-[/us/pl/90/130/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130%2Fs2%2F1
+[/us/pl/90/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130
 [/us/stat/81/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F383
-[/us/pl/108/375/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs505
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1875
-[/us/pl/111/383/s517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs517
+[/us/pl/111/383/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtV
 [/us/stat/124/4214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4214
 [/us/usc/t32/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs301
 [/us/stat/68/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F47
 [/us/usc/t32/s313/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs313%2Fb
 [/us/usc/t32/s307/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs307%2Fa%2F2
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
-[/us/pl/108/375/s505/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs505%2F1
-[/us/pl/108/375/s505/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs505%2F2
-[/us/pl/90/130/s2/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130%2Fs2%2F1%2FA
-[/us/pl/90/130/s2/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130%2Fs2%2F1%2FB
-[/us/pl/85/861/s2/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs2%2F5%2FA
-[/us/pl/85/861/s2/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs2%2F5%2FB
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/90/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130
+[/us/pl/90/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 
 

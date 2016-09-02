@@ -33,7 +33,7 @@
 
     (f) A property and fiscal officer may intrust money to an officer of the National Guard to make disbursements as his agent. Both the officer to whom money is intrusted, and the property and disbursing officer intrusting the money to him, are pecuniarily responsible for that money to the United States. The agent officer is subject, for misconduct as an agent, to the liabilities and penalties prescribed by law in like cases for the property and fiscal officer for whom he is acting.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 614][/us/stat/70A/614]; [Pub. L. 92–310, title II, § 207][/us/pl/92/310/s207], June 6, 1972, [86 Stat. 203][/us/stat/86/203]; [Pub. L. 95–79, title VIII, § 804(b)][/us/pl/95/79/s804/b], July 30, 1977, [91 Stat. 333][/us/stat/91/333]; [Pub. L. 96–513, title V, § 515(4)][/us/pl/96/513/s515/4], Dec. 12, 1980, [94 Stat. 2937][/us/stat/94/2937]; [Pub. L. 100–456, div. A, title XII, § 1234(b)(1)][/us/pl/100/456/s1234/b/1], Sept. 29, 1988, [102 Stat. 2059][/us/stat/102/2059]; [Pub. L. 101–189, div. A, title VI, § 653(g)][/us/pl/101/189/s653/g], Nov. 29, 1989, [103 Stat. 1463][/us/stat/103/1463]; [Pub. L. 109–163, div. A, title X, § 1057(b)(2)][/us/pl/109/163/s1057/b/2], (4), Jan. 6, 2006, [119 Stat. 3441][/us/stat/119/3441].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 614][/us/stat/70A/614]; [Pub. L. 92–310, title II][/us/pl/92/310/tII], § 207, June 6, 1972, [86 Stat. 203][/us/stat/86/203]; [Pub. L. 95–79, title VIII][/us/pl/95/79/tVIII], § 804(b), July 30, 1977, [91 Stat. 333][/us/stat/91/333]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 515(4), Dec. 12, 1980, [94 Stat. 2937][/us/stat/94/2937]; [Pub. L. 100–456, div. A, title XII][/us/pl/100/456/dA/tXII], § 1234(b)(1), Sept. 29, 1988, [102 Stat. 2059][/us/stat/102/2059]; [Pub. L. 101–189, div. A, title VI][/us/pl/101/189/dA/tVI], § 653(g), Nov. 29, 1989, [103 Stat. 1463][/us/stat/103/1463]; [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1057(b)(2), (4), Jan. 6, 2006, [119 Stat. 3441][/us/stat/119/3441].)
 
 <table>
 
@@ -139,9 +139,9 @@ June 3, 1924, ch. 244, § 5, 43 Stat. 365; July 6, 1954, ch. 462, 68 Stat. 451
 
  __Amendments__ 
 
-    2006—Subsec. (a). [Pub. L. 109–163, § 1057(b)(4)][/us/pl/109/163/s1057/b/4], substituted “State, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands” for “State or Territory and Puerto Rico”.
+    2006—Subsec. (a). [Pub. L. 109–163][/us/pl/109/163], § 1057(b)(4), substituted “State, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands” for “State or Territory and Puerto Rico”.
 
-    Subsec. (d). [Pub. L. 109–163, § 1057(b)(2)][/us/pl/109/163/s1057/b/2], substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands” for “State or Territory, Puerto Rico, and the District of Columbia”.
+    Subsec. (d). [Pub. L. 109–163][/us/pl/109/163], § 1057(b)(2), substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands” for “State or Territory, Puerto Rico, and the District of Columbia”.
 
     1989—Subsec. (a). [Pub. L. 101–189][/us/pl/101/189] substituted “The Governor of each State or Territory and Puerto Rico” for “The governor of each State and Territory, Puerto Rico, and the Canal Zone”.
 
@@ -149,11 +149,11 @@ June 3, 1924, ch. 244, § 5, 43 Stat. 365; July 6, 1954, ch. 462, 68 Stat. 451
 
     1980—Subsec. (b). [Pub. L. 96–513][/us/pl/96/513] redesignated pars. (2) and (3) as (1) and (2), respectively.
 
-    1977—Subsec. (d). [Pub. L. 95–79, § 804(b)(1)][/us/pl/95/79/s804/b/1], (2), redesignated subsec. (e) as (d). Former subsec. (d), which authorized inspections at least once a year by Inspectors General of the departments concerned, was struck out.
+    1977—Subsec. (d). [Pub. L. 95–79][/us/pl/95/79], § 804(b)(1), (2), redesignated subsec. (e) as (d). Former subsec. (d), which authorized inspections at least once a year by Inspectors General of the departments concerned, was struck out.
 
-    Subsec. (e). [Pub. L. 95–79, § 804(b)(2)][/us/pl/95/79/s804/b/2], (3), redesignated subsec. (f) as (e) and substituted “(d)” for “(e)”. Former subsec. (e) redesignated (d).
+    Subsec. (e). [Pub. L. 95–79][/us/pl/95/79], § 804(b)(2), (3), redesignated subsec. (f) as (e) and substituted “(d)” for “(e)”. Former subsec. (e) redesignated (d).
 
-    Subsecs. (f), (g). [Pub. L. 95–79, § 804(b)(2)][/us/pl/95/79/s804/b/2], redesignated subsecs. (f) and (g) as (e) and (f), respectively.
+    Subsecs. (f), (g). [Pub. L. 95–79][/us/pl/95/79], § 804(b)(2), redesignated subsecs. (f) and (g) as (e) and (f), respectively.
 
     1972—Subsec. (b)(1). [Pub. L. 92–310][/us/pl/92/310] repealed provisions which related to the bond required of property and fiscal officers.
 
@@ -170,27 +170,27 @@ June 3, 1924, ch. 244, § 5, 43 Stat. 365; July 6, 1954, ch. 462, 68 Stat. 451
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F614
-[/us/pl/92/310/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2Fs207
+[/us/pl/92/310/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2FtII
 [/us/stat/86/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F203
-[/us/pl/95/79/s804/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F79%2Fs804%2Fb
+[/us/pl/95/79/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F79%2FtVIII
 [/us/stat/91/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F333
-[/us/pl/96/513/s515/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs515%2F4
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2937
-[/us/pl/100/456/s1234/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1234%2Fb%2F1
+[/us/pl/100/456/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtXII
 [/us/stat/102/2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2059
-[/us/pl/101/189/s653/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs653%2Fg
+[/us/pl/101/189/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtVI
 [/us/stat/103/1463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1463
-[/us/pl/109/163/s1057/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1057%2Fb%2F2
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3441
 [/us/usc/t37/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs232
-[/us/pl/109/163/s1057/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1057%2Fb%2F4
-[/us/pl/109/163/s1057/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1057%2Fb%2F2
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
-[/us/pl/95/79/s804/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F79%2Fs804%2Fb%2F1
-[/us/pl/95/79/s804/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F79%2Fs804%2Fb%2F2
-[/us/pl/95/79/s804/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F79%2Fs804%2Fb%2F2
+[/us/pl/95/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F79
+[/us/pl/95/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F79
+[/us/pl/95/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F79
 [/us/pl/92/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701%2Fb%2F3

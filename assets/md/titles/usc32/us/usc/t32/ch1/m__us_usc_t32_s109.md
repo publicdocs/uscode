@@ -25,7 +25,7 @@
 
     (e) A person may not become a member of a defense force established under subsection (c) if he is a member of a reserve component of the armed forces.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 600][/us/stat/70A/600]; [Pub. L. 85–861, § 2(2)][/us/pl/85/861/s2/2], Sept. 2, 1958, [72 Stat. 1542][/us/stat/72/1542]; [Pub. L. 100–456, div. A, title XII, § 1234(b)(1)][/us/pl/100/456/s1234/b/1], Sept. 29, 1988, [102 Stat. 2059][/us/stat/102/2059]; [Pub. L. 109–163, div. A, title X, § 1057(b)(3)][/us/pl/109/163/s1057/b/3], Jan. 6, 2006, [119 Stat. 3441][/us/stat/119/3441]; [Pub. L. 111–383, div. A, title X, § 1075(h)(4)(B)][/us/pl/111/383/s1075/h/4/B], Jan. 7, 2011, [124 Stat. 4377][/us/stat/124/4377].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 600][/us/stat/70A/600]; [Pub. L. 85–861][/us/pl/85/861], § 2(2), Sept. 2, 1958, [72 Stat. 1542][/us/stat/72/1542]; [Pub. L. 100–456, div. A, title XII][/us/pl/100/456/dA/tXII], § 1234(b)(1), Sept. 29, 1988, [102 Stat. 2059][/us/stat/102/2059]; [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1057(b)(3), Jan. 6, 2006, [119 Stat. 3441][/us/stat/119/3441]; [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(h)(4)(B), Jan. 7, 2011, [124 Stat. 4377][/us/stat/124/4377].)
 
 <table>
 
@@ -173,19 +173,19 @@ Aug. 11, 1955, ch. 802, 69 Stat. 686.  </td>
 
  __Amendments__ 
 
-    2011—Subsecs. (a) to (c). [Pub. L. 111–383][/us/pl/111/383] amended directory language of [Pub. L. 109–163, § 1057(b)(3)][/us/pl/109/163/s1057/b/3]. See 2006 Amendment note below.
+    2011—Subsecs. (a) to (c). [Pub. L. 111–383][/us/pl/111/383] amended directory language of [Pub. L. 109–163][/us/pl/109/163], § 1057(b)(3). See 2006 Amendment note below.
 
-    2006—Subsecs. (a) to (c). [Pub. L. 109–163, § 1057(b)(3)][/us/pl/109/163/s1057/b/3], as amended by [Pub. L. 111–383][/us/pl/111/383], substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands” for “State or Territory, Puerto Rico, the Virgin Islands, or the District of Columbia”.
+    2006—Subsecs. (a) to (c). [Pub. L. 109–163][/us/pl/109/163], § 1057(b)(3), as amended by [Pub. L. 111–383][/us/pl/111/383], substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands” for “State or Territory, Puerto Rico, the Virgin Islands, or the District of Columbia”.
 
     1988—Subsecs. (a) to (c). [Pub. L. 100–456][/us/pl/100/456] struck out “the Canal Zone,” after “Virgin Islands,”.
 
-    1958—Subsecs. (a), (b). [Pub. L. 85–861, § 2(2)(A)][/us/pl/85/861/s2/2/A], substituted “defense forces authorized by subsection (c)” for “State defense forces”.
+    1958—Subsecs. (a), (b). [Pub. L. 85–861][/us/pl/85/861], § 2(2)(A), substituted “defense forces authorized by subsection (c)” for “State defense forces”.
 
-    Subsecs. (c) to (e). [Pub. L. 85–861, § 2(2)(B)][/us/pl/85/861/s2/2/B], added subsecs. (c) to (e).
+    Subsecs. (c) to (e). [Pub. L. 85–861][/us/pl/85/861], § 2(2)(B), added subsecs. (c) to (e).
 
  __Effective Date of 2011 Amendment__ 
 
-    [Pub. L. 111–383, div. A, title X, § 1075(h)][/us/pl/111/383/s1075/h], Jan. 7, 2011, [124 Stat. 4377][/us/stat/124/4377], provided that the amendment made by section 1075(h)(4)(B) is effective as of Jan. 6, 2006, and as if included in [Pub. L. 109–163][/us/pl/109/163] as enacted.
+    [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(h), Jan. 7, 2011, [124 Stat. 4377][/us/stat/124/4377], provided that the amendment made by section 1075(h)(4)(B) is effective as of Jan. 6, 2006, and as if included in [Pub. L. 109–163][/us/pl/109/163] as enacted.
 
 ----------
 
@@ -196,23 +196,23 @@ Aug. 11, 1955, ch. 802, 69 Stat. 686.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F600
-[/us/pl/85/861/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs2%2F2
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1542
-[/us/pl/100/456/s1234/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1234%2Fb%2F1
+[/us/pl/100/456/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtXII
 [/us/stat/102/2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2059
-[/us/pl/109/163/s1057/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1057%2Fb%2F3
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3441
-[/us/pl/111/383/s1075/h/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fh%2F4%2FB
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4377
 [/us/usc/t50/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs901
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
-[/us/pl/109/163/s1057/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1057%2Fb%2F3
-[/us/pl/109/163/s1057/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1057%2Fb%2F3
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
-[/us/pl/85/861/s2/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs2%2F2%2FA
-[/us/pl/85/861/s2/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs2%2F2%2FB
-[/us/pl/111/383/s1075/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fh
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4377
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 

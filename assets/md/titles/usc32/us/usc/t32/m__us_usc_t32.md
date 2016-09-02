@@ -15,9 +15,9 @@
 
 # Title 32—NATIONAL GUARD
 
-This title was enacted by [act Aug. 10, 1956, ch. 1041, § 2][/us/act/1956-08-10/ch1041/s2], [70A Stat. 596][/us/stat/70A/596]
+This title was enacted by [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], § 2, [70A Stat. 596][/us/stat/70A/596]
 
-Current through 114-195
+Current through 114-219
 
 <table>
 
@@ -85,7 +85,7 @@ Current through 114-195
 
  __Amendments__ 
 
-    2004—[Pub. L. 108–375, div. A, title V, § 512(a)(2)][/us/pl/108/375/s512/a/2], Oct. 28, 2004, [118 Stat. 1880][/us/stat/118/1880], added item for chapter 9.
+    2004—[Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 512(a)(2), Oct. 28, 2004, [118 Stat. 1880][/us/stat/118/1880], added item for chapter 9.
 
 <table>
 
@@ -1671,11 +1671,11 @@ This title has been made positive law by section 2 of [act Aug. 10, 1956, ch. 10
 
  __Repeals__ 
 
-    [Act Aug. 10, 1956, ch. 1041, § 53][/us/act/1956-08-10/ch1041/s53], [70A Stat. 641][/us/stat/70A/641], repealed the sections or parts of sections of the Revised Statutes or Statutes at Large covering provisions codified in this act, “except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun, before the effective date of this act \[Aug. 10, 1956\] and except as provided in section 49”.
+    [Act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], § 53, [70A Stat. 641][/us/stat/70A/641], repealed the sections or parts of sections of the Revised Statutes or Statutes at Large covering provisions codified in this act, “except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun, before the effective date of this act \[Aug. 10, 1956\] and except as provided in section 49”.
 
  __Savings and Severability Provisions__ 
 
-[Act Aug. 10, 1956, ch. 1041, § 49][/us/act/1956-08-10/ch1041/s49], [70A Stat. 640][/us/stat/70A/640], provided that:
+[Act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], § 49, [70A Stat. 640][/us/stat/70A/640], provided that:
 
 >     “(a) In sections 1–48 of this Act, it is the legislative purpose to restate, without substantive change, the law replaced by those sections on the effective date of this Act. However, laws effective after March 31, 1955, that are inconsistent with this Act shall be considered as superseding it to the extent of the inconsistency.
 
@@ -1693,13 +1693,13 @@ This title has been made positive law by section 2 of [act Aug. 10, 1956, ch. 10
 
  __Restatement of Suspended or Temporarily Superseded Provisions__ 
 
-[Act Aug. 10, 1956, ch. 1041, § 50][/us/act/1956-08-10/ch1041/s50], [70A Stat. 640][/us/stat/70A/640], provided that: 
+[Act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], § 50, [70A Stat. 640][/us/stat/70A/640], provided that: 
 
 > “If on the effective date of this Act a provision of law that is restated in this Act and repealed by section 53 would have been in a suspended or temporarily superseded status but for its repeal, the provisions of this Act that restate that provision have the same suspended or temporarily superseded status.”
 
  __Improvement of United States Code by__  __[__  __Pub. L. 85–861__  __][/us/pl/85/861]__  __; Legislative Purpose; Repeal of Inconsistent Provisions; Corresponding Provisions; Savings and Severability Provisions; Status; Repeals__ 
 
-[Pub. L. 85–861, § 34][/us/pl/85/861/s34], Sept. 2, 1958, [72 Stat. 1568][/us/stat/72/1568], provided that:
+[Pub. L. 85–861][/us/pl/85/861], § 34, Sept. 2, 1958, [72 Stat. 1568][/us/stat/72/1568], provided that:
 
 >     “(a) In sections 1–32 of this Act, it is the legislative purpose to restate, without substantive change, the law replaced by those sections on the effective date of this Act. However, laws effective after December 31, 1957, that are inconsistent with this Act shall be considered as superseding it to the extent of the inconsistency.
 
@@ -1711,11 +1711,11 @@ This title has been made positive law by section 2 of [act Aug. 10, 1956, ch. 10
 
 >     “(e) The enactment of this Act does not increase or decrease the pay or allowances, including retired and retainer pay, of any person.”
 
-[Pub. L. 85–861, § 35][/us/pl/85/861/s35], Sept. 2, 1958, [72 Stat. 1568][/us/stat/72/1568], provided that: 
+[Pub. L. 85–861][/us/pl/85/861], § 35, Sept. 2, 1958, [72 Stat. 1568][/us/stat/72/1568], provided that: 
 
 > “If on the effective date of this Act \[Sept. 2, 1958\] a provision of law that is restated in this Act and repealed by section 36 would have been in a suspended or temporarily superseded status but for its repeal, the provisions of this Act that restate that provision have the same suspended or temporarily superseded status.”
 
-    [Pub. L. 85–861, § 36][/us/pl/85/861/s36], Sept. 2, 1958, [72 Stat. 1568][/us/stat/72/1568], repealed certain laws except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun, before Sept. 2, 1958.
+    [Pub. L. 85–861][/us/pl/85/861], § 36, Sept. 2, 1958, [72 Stat. 1568][/us/stat/72/1568], repealed certain laws except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun, before Sept. 2, 1958.
 
 ----------
 
@@ -1724,24 +1724,24 @@ This title has been made positive law by section 2 of [act Aug. 10, 1956, ch. 10
 ----------
 ----------
 
-[/us/act/1956-08-10/ch1041/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs2
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F596
-[/us/pl/108/375/s512/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs512%2Fa%2F2
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1880
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F596
-[/us/act/1956-08-10/ch1041/s53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs53
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641
-[/us/act/1956-08-10/ch1041/s49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs49
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F640
-[/us/act/1956-08-10/ch1041/s50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs50
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F640
 [/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
-[/us/pl/85/861/s34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs34
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1568
-[/us/pl/85/861/s35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs35
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1568
-[/us/pl/85/861/s36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs36
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1568
 
 

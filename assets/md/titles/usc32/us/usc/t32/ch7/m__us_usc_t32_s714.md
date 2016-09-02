@@ -37,7 +37,7 @@
 
     (d) A payment under this section bars recovery by any other person of the amount paid.
 
-(Added [Pub. L. 85–861, § 2(12)][/us/pl/85/861/s2/12], Sept. 2, 1958, [72 Stat. 1546][/us/stat/72/1546]; amended [Pub. L. 87–46][/us/pl/87/46], June 16, 1961, [75 Stat. 92][/us/stat/75/92]; [Pub. L. 104–316, title II, § 202(q)][/us/pl/104/316/s202/q], Oct. 19, 1996, [110 Stat. 3844][/us/stat/110/3844].)
+(Added [Pub. L. 85–861][/us/pl/85/861], § 2(12), Sept. 2, 1958, [72 Stat. 1546][/us/stat/72/1546]; amended [Pub. L. 87–46][/us/pl/87/46], June 16, 1961, [75 Stat. 92][/us/stat/75/92]; [Pub. L. 104–316, title II][/us/pl/104/316/tII], § 202(q), Oct. 19, 1996, [110 Stat. 3844][/us/stat/110/3844].)
 
 <table>
 
@@ -145,11 +145,11 @@ July 12, 1955, ch. 328, §§ 1–3, 4 (less proviso), 5 (1st sentence), 69 Sta
 ----------
 
 [/us/usc/t10/s2771/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2771%2Fb
-[/us/pl/85/861/s2/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs2%2F12
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1546
 [/us/pl/87/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F46
 [/us/stat/75/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F92
-[/us/pl/104/316/s202/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs202%2Fq
+[/us/pl/104/316/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtII
 [/us/stat/110/3844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3844
 [/us/usc/t32/s101/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs101%2F18
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316

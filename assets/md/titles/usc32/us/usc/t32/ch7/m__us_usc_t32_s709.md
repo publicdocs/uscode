@@ -91,7 +91,7 @@
 
     (i) The Secretary concerned may not prescribe for purposes of eligibility for Federal recognition under [section 301 of this title][/us/usc/t32/s301] a qualification applicable to technicians employed under subsection (a) that is not applicable pursuant to that section to the other members of the National Guard in the same grade, branch, position, and type of unit or organization involved.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 614][/us/stat/70A/614]; [Pub. L. 87–224, § 2][/us/pl/87/224/s2], Sept. 13, 1961, [75 Stat. 496][/us/stat/75/496]; [Pub. L. 90–486, § 2(1)][/us/pl/90/486/s2/1], Aug. 13, 1968, [82 Stat. 755][/us/stat/82/755]; [Pub. L. 92–119, § 2][/us/pl/92/119/s2], Aug. 13, 1971, [85 Stat. 340][/us/stat/85/340]; [Pub. L. 96–513, title V, § 515(5)][/us/pl/96/513/s515/5]–(7), Dec. 12, 1980, [94 Stat. 2937][/us/stat/94/2937]; [Pub. L. 103–160, div. A, title V][/us/pl/103/160], §§ 523(a), 524(c), (d), Nov. 30, 1993, [107 Stat. 1656][/us/stat/107/1656], 1657; [Pub. L. 103–337, div. A, title X, § 1070(b)(2)][/us/pl/103/337/s1070/b/2], (d)(5), Oct. 5, 1994, [108 Stat. 2856][/us/stat/108/2856], 2858; [Pub. L. 104–106, div. A, title X, § 1038(a)][/us/pl/104/106/s1038/a], Feb. 10, 1996, [110 Stat. 432][/us/stat/110/432]; [Pub. L. 105–85, div. A, title V, § 522(c)][/us/pl/105/85/s522/c], Nov. 18, 1997, [111 Stat. 1735][/us/stat/111/1735]; [Pub. L. 106–65, div. A, title V, § 524][/us/pl/106/65/s524], Oct. 5, 1999, [113 Stat. 599][/us/stat/113/599]; [Pub. L. 109–364, div. A, title V, § 525(d)][/us/pl/109/364/s525/d], Oct. 17, 2006, [120 Stat. 2195][/us/stat/120/2195].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 614][/us/stat/70A/614]; [Pub. L. 87–224][/us/pl/87/224], § 2, Sept. 13, 1961, [75 Stat. 496][/us/stat/75/496]; [Pub. L. 90–486][/us/pl/90/486], § 2(1), Aug. 13, 1968, [82 Stat. 755][/us/stat/82/755]; [Pub. L. 92–119][/us/pl/92/119], § 2, Aug. 13, 1971, [85 Stat. 340][/us/stat/85/340]; [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 515(5)–(7), Dec. 12, 1980, [94 Stat. 2937][/us/stat/94/2937]; [Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], §§ 523(a), 524(c), (d), Nov. 30, 1993, [107 Stat. 1656][/us/stat/107/1656], 1657; [Pub. L. 103–337, div. A, title X][/us/pl/103/337/dA/tX], § 1070(b)(2), (d)(5), Oct. 5, 1994, [108 Stat. 2856][/us/stat/108/2856], 2858; [Pub. L. 104–106, div. A, title X][/us/pl/104/106/dA/tX], § 1038(a), Feb. 10, 1996, [110 Stat. 432][/us/stat/110/432]; [Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 522(c), Nov. 18, 1997, [111 Stat. 1735][/us/stat/111/1735]; [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 524, Oct. 5, 1999, [113 Stat. 599][/us/stat/113/599]; [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 525(d), Oct. 17, 2006, [120 Stat. 2195][/us/stat/120/2195].)
 
 <table>
 
@@ -177,9 +177,9 @@ June 25, 1938, ch. 688, 52 Stat. 1173.  </td>
 
  __Amendments__ 
 
-    2006—Subsec. (a)(1). [Pub. L. 109–364, § 525(d)(1)(A)][/us/pl/109/364/s525/d/1/A], substituted “organizing, administering, instructing, or” for “administration and”.
+    2006—Subsec. (a)(1). [Pub. L. 109–364][/us/pl/109/364], § 525(d)(1)(A), substituted “organizing, administering, instructing, or” for “administration and”.
 
-    Subsec. (a)(3). [Pub. L. 109–364, § 525(d)(1)(B)][/us/pl/109/364/s525/d/1/B]–(3), added par. (3).
+    Subsec. (a)(3). [Pub. L. 109–364][/us/pl/109/364], § 525(d)(1)(B)–(3), added par. (3).
 
     1999—[Pub. L. 106–65][/us/pl/106/65] amended section catchline and text generally, revising and restating provisions relating to employment, use, and status of technicians.
 
@@ -187,23 +187,23 @@ June 25, 1938, ch. 688, 52 Stat. 1173.  </td>
 
     1996—Subsec. (b). [Pub. L. 104–106][/us/pl/104/106] amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Except as prescribed by the Secretary concerned, a technician employed under subsection (a) shall, while so employed, be a member of the National Guard and hold the military grade specified by the Secretary concerned for that position.”
 
-    1994—Subsec. (e)(6). [Pub. L. 103–337, § 1070(d)(5)(A)][/us/pl/103/337/s1070/d/5/A], substituted “30 days before” for “thirty days prior to”.
+    1994—Subsec. (e)(6). [Pub. L. 103–337][/us/pl/103/337], § 1070(d)(5)(A), substituted “30 days before” for “thirty days prior to”.
 
-    [Pub. L. 103–337, § 1070(b)(2)][/us/pl/103/337/s1070/b/2], made technical correction to directory language of [Pub. L. 103–160, § 524(c)][/us/pl/103/160/s524/c]. See 1993 Amendment note below.
+    [Pub. L. 103–337][/us/pl/103/337], § 1070(b)(2), made technical correction to directory language of [Pub. L. 103–160][/us/pl/103/160], § 524(c). See 1993 Amendment note below.
 
-    Subsec. (g)(2). [Pub. L. 103–337, § 1070(d)(5)(B)][/us/pl/103/337/s1070/d/5/B], substituted “paragraph (1)” for “clause (1) of this subsection”.
+    Subsec. (g)(2). [Pub. L. 103–337][/us/pl/103/337], § 1070(d)(5)(B), substituted “paragraph (1)” for “clause (1) of this subsection”.
 
-    1993—Subsec. (e)(6). [Pub. L. 103–160, § 524(c)][/us/pl/103/160/s524/c], as amended by [Pub. L. 103–337, § 1070(b)(2)][/us/pl/103/337/s1070/b/2], inserted “, unless the technician is serving under a temporary appointment, is serving in a trial or probationary period, or has voluntarily ceased to be a member of the National Guard when such membership is a condition of employment,” after “termination of his employment as a technician and”.
+    1993—Subsec. (e)(6). [Pub. L. 103–160][/us/pl/103/160], § 524(c), as amended by [Pub. L. 103–337][/us/pl/103/337], § 1070(b)(2), inserted “, unless the technician is serving under a temporary appointment, is serving in a trial or probationary period, or has voluntarily ceased to be a member of the National Guard when such membership is a condition of employment,” after “termination of his employment as a technician and”.
 
-    Subsec. (h). [Pub. L. 103–160, § 524(d)][/us/pl/103/160/s524/d], struck out subsec. (h) which read as follows: “In no event shall the number of technicians employed under this section at any one time exceed 53,100.”
+    Subsec. (h). [Pub. L. 103–160][/us/pl/103/160], § 524(d), struck out subsec. (h) which read as follows: “In no event shall the number of technicians employed under this section at any one time exceed 53,100.”
 
-    Subsec. (i). [Pub. L. 103–160, § 523(a)][/us/pl/103/160/s523/a], added subsec. (i).
+    Subsec. (i). [Pub. L. 103–160][/us/pl/103/160], § 523(a), added subsec. (i).
 
-    1980—Subsec. (f). [Pub. L. 96–513, § 515(5)][/us/pl/96/513/s515/5], struck out “, United States Code,” after “title 5”.
+    1980—Subsec. (f). [Pub. L. 96–513][/us/pl/96/513], § 515(5), struck out “, United States Code,” after “title 5”.
 
-    Subsec. (g). [Pub. L. 96–513, § 515(6)][/us/pl/96/513/s515/6], substituted “6101(a) of title 5” for “6102 of title 5, United States Code,” in two places, “5332 of title 5” for “5332 of title 5, United States Code” and “5543 of title 5” for “5543 of title 5, United States Code,”.
+    Subsec. (g). [Pub. L. 96–513][/us/pl/96/513], § 515(6), substituted “6101(a) of title 5” for “6102 of title 5, United States Code,” in two places, “5332 of title 5” for “5332 of title 5, United States Code” and “5543 of title 5” for “5543 of title 5, United States Code,”.
 
-    Subsec. (h). [Pub. L. 96–513, § 515(7)][/us/pl/96/513/s515/7], struck out limitation of 49,200 technicians employed during the fiscal year beginning July 1, 1971.
+    Subsec. (h). [Pub. L. 96–513][/us/pl/96/513], § 515(7), struck out limitation of 49,200 technicians employed during the fiscal year beginning July 1, 1971.
 
     1971—Subsec. (h). [Pub. L. 92–119][/us/pl/92/119] increased number of technicians employable under section from 42,500 to 53,100 with exception that such number is fixed at 49,200 for fiscal year beginning July 1, 1971.
 
@@ -231,7 +231,7 @@ June 25, 1938, ch. 688, 52 Stat. 1173.  </td>
 
  __Effective Date of 1994 Amendment__ 
 
-    [Pub. L. 103–337, div. A, title X, § 1070(b)][/us/pl/103/337/s1070/b], Oct. 5, 1994, [108 Stat. 2856][/us/stat/108/2856], provided that the amendment made by that section is effective as of Nov. 30, 1993, and as if included in the National Defense Authorization Act for Fiscal Year 1994, [Pub. L. 103–160][/us/pl/103/160], as enacted.
+    [Pub. L. 103–337, div. A, title X][/us/pl/103/337/dA/tX], § 1070(b), Oct. 5, 1994, [108 Stat. 2856][/us/stat/108/2856], provided that the amendment made by that section is effective as of Nov. 30, 1993, and as if included in the National Defense Authorization Act for Fiscal Year 1994, [Pub. L. 103–160][/us/pl/103/160], as enacted.
 
  __Effective Date of 1980 Amendment__ 
 
@@ -239,23 +239,23 @@ June 25, 1938, ch. 688, 52 Stat. 1173.  </td>
 
  __Effective Date of 1968 Amendment__ 
 
-[Pub. L. 90–486, § 11][/us/pl/90/486/s11], Aug. 13, 1968, [82 Stat. 760][/us/stat/82/760], provided that: 
+[Pub. L. 90–486][/us/pl/90/486], § 11, Aug. 13, 1968, [82 Stat. 760][/us/stat/82/760], provided that: 
 
 > “This Act \[see Short Title note below\] becomes effective January 1, 1969, except that no deductions or withholding from salary which result therefrom shall commence before the first day of the first pay period that begins on or after January 1, 1969.”
 
  __Short Title__ 
 
-[Pub. L. 90–486, § 1][/us/pl/90/486/s1], Aug. 13, 1968, [82 Stat. 755][/us/stat/82/755], provided: 
+[Pub. L. 90–486][/us/pl/90/486], § 1, Aug. 13, 1968, [82 Stat. 755][/us/stat/82/755], provided: 
 
 > “That this Act \[amending this section and [section 715 of this title][/us/usc/t32/s715], sections 2105, 8332, 8334, and 8339 of Title 5, Government Organization and Employees, sections 3848, 3851, 8848, and 8851 of Title 10, Armed Forces, and [section 418 of Title 42][/us/usc/t42/s418], The Public Health and Welfare, and enacting provisions set out as notes under this section\] may be cited as the ‘National Guard Technicians Act of 1968’.”
 
  __Military Education for Army National Guard Civilian Technicians__ 
 
-    [Pub. L. 101–189, div. A, title V, § 506(a)][/us/pl/101/189/s506/a]–(c), Nov. 29, 1989, [103 Stat. 1438][/us/stat/103/1438], 1439, which related to attendance by civilian technicians of Army National Guard in Battle Skills Course and military promotions, courses and training meeting requirements of reserve component noncommissioned officers education program, and submission by Secretary of the Army to committees of Congress of a plan to use State and National Guard Bureau regional academies to provide portion of Reserve Component Noncommissioned Officers Education System specifically related to military occupational specialties, was repealed by [Pub. L. 103–160, div. A, title V, § 523(b)(2)][/us/pl/103/160/s523/b/2], Nov. 30, 1993, [107 Stat. 1656][/us/stat/107/1656].
+    [Pub. L. 101–189, div. A, title V][/us/pl/101/189/dA/tV], § 506(a)–(c), Nov. 29, 1989, [103 Stat. 1438][/us/stat/103/1438], 1439, which related to attendance by civilian technicians of Army National Guard in Battle Skills Course and military promotions, courses and training meeting requirements of reserve component noncommissioned officers education program, and submission by Secretary of the Army to committees of Congress of a plan to use State and National Guard Bureau regional academies to provide portion of Reserve Component Noncommissioned Officers Education System specifically related to military occupational specialties, was repealed by [Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], § 523(b)(2), Nov. 30, 1993, [107 Stat. 1656][/us/stat/107/1656].
 
-    [Pub. L. 100–456, div. A, title V, § 523][/us/pl/100/456/s523], Sept. 29, 1988, [102 Stat. 1974][/us/stat/102/1974], as amended by [Pub. L. 101–189, div. A, title V, § 506(d)][/us/pl/101/189/s506/d], Nov. 29, 1989, [103 Stat. 1439][/us/stat/103/1439]; [Pub. L. 101–510, div. A, title XIV, § 1484][/us/pl/101/510/s1484](l)(2), Nov. 5, 1990, [104 Stat. 1719][/us/stat/104/1719], which related to training of civilian technicians of Army National Guard at National Guard schools, was repealed by [Pub. L. 103–160, div. A, title V, § 523(b)(1)][/us/pl/103/160/s523/b/1], Nov. 30, 1993, [107 Stat. 1656][/us/stat/107/1656].
+    [Pub. L. 100–456, div. A, title V][/us/pl/100/456/dA/tV], § 523, Sept. 29, 1988, [102 Stat. 1974][/us/stat/102/1974], as amended by [Pub. L. 101–189, div. A, title V][/us/pl/101/189/dA/tV], § 506(d), Nov. 29, 1989, [103 Stat. 1439][/us/stat/103/1439]; [Pub. L. 101–510, div. A, title XIV][/us/pl/101/510/dA/tXIV], § 1484(l)(2), Nov. 5, 1990, [104 Stat. 1719][/us/stat/104/1719], which related to training of civilian technicians of Army National Guard at National Guard schools, was repealed by [Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], § 523(b)(1), Nov. 30, 1993, [107 Stat. 1656][/us/stat/107/1656].
 
-\[[Pub. L. 103–160, div. A, title V, § 523(c)][/us/pl/103/160/s523/c], Nov. 30, 1993, [107 Stat. 1656][/us/stat/107/1656], provided that: 
+\[[Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], § 523(c), Nov. 30, 1993, [107 Stat. 1656][/us/stat/107/1656], provided that: 
 
 > “A civilian technician of the Army National Guard serving in an active status on the date of the enactment of this Act \[Nov. 30, 1993\] who under the provisions of law repealed by subsection (b) \[repealing [section 523 of Pub. L. 100–456][/us/pl/100/456/s523] and section 506(a)–(c) of [Pub. L. 101–189][/us/pl/101/189], formerly set out as notes above\] (or under other Department of the Army policy in effect on the day before such date of enactment) was granted credit on the technician’s military record for the completion of certain education and training courses shall retain such credit, notwithstanding the provisions of subsections (a) \[amending this section\] and (b), for a period determined by the Secretary of the Army. Such a period may not terminate, in the case of any such civilian technician, before the effective date of such civilian technician’s next mililitary \[sic\] promotion.”
 
@@ -263,7 +263,7 @@ June 25, 1938, ch. 688, 52 Stat. 1173.  </td>
 
  __Retirement Credit for Certain Former National Guard Technicians__ 
 
-[Pub. L. 99–661, div. A, title VI, § 654][/us/pl/99/661/s654], Nov. 14, 1986, [100 Stat. 3890][/us/stat/100/3890], provided that:
+[Pub. L. 99–661, div. A, title VI][/us/pl/99/661/dA/tVI], § 654, Nov. 14, 1986, [100 Stat. 3890][/us/stat/100/3890], provided that:
 
 >     “(a)  __Civil Service Retirement Credit__  __.—__ 
 
@@ -285,7 +285,7 @@ June 25, 1938, ch. 688, 52 Stat. 1173.  </td>
 
  __Savings Provision for Accrued Claims; Conversion to Federal Employee Status; Credit for Past Service; Leave Credit__ 
 
-[Pub. L. 90–486, § 3][/us/pl/90/486/s3], Aug. 13, 1968, [82 Stat. 756][/us/stat/82/756], as amended by [Pub. L. 101–530, § 2][/us/pl/101/530/s2], Nov. 6, 1990, [104 Stat. 2338][/us/stat/104/2338], provided that:
+[Pub. L. 90–486][/us/pl/90/486], § 3, Aug. 13, 1968, [82 Stat. 756][/us/stat/82/756], as amended by [Pub. L. 101–530][/us/pl/101/530], § 2, Nov. 6, 1990, [104 Stat. 2338][/us/stat/104/2338], provided that:
 
 >     “(a) A claim accrued under [section 715 of title 32][/us/usc/t32/s715], United States Code, before the effective date of this Act \[see effective date note above\] by reason of the act or omission of a person employed under [section 709 of title 32][/us/usc/t32/s709], United States Code, may, if otherwise allowable, be settled and paid under [section 715 of title 32][/us/usc/t32/s715], United States Code.
 
@@ -295,7 +295,7 @@ June 25, 1938, ch. 688, 52 Stat. 1173.  </td>
 
 >     “(d) Annual leave and sick leave to which a technician was entitled on the day before the conversion of his position, as provided in subsection (b) of this section, shall be credited to him in his new position.”
 
-\[[Pub. L. 101–530, § 3(b)][/us/pl/101/530/s3/b], Nov. 6, 1990, [104 Stat. 2339][/us/stat/104/2339], provided that:
+\[[Pub. L. 101–530][/us/pl/101/530], § 3(b), Nov. 6, 1990, [104 Stat. 2339][/us/stat/104/2339], provided that:
 
     \[“(1) General rule.—Except as provided in paragraph (2), the amendment made by section 2 \[amending [section 3 of Pub. L. 90–486][/us/pl/90/486/s3], set out above\] applies only with respect to an individual performing service as an officer or employee of the Government on or after the date of enactment of this Act \[Nov. 6, 1990\] and only to determine—
 
@@ -315,13 +315,13 @@ June 25, 1938, ch. 688, 52 Stat. 1173.  </td>
 
  __Persons Employed Prior to__  __January 1, 1969__  __, Whose Employment Was Covered by Civil Service Retirement Provisions__ 
 
-[Pub. L. 90–486, § 5(d)][/us/pl/90/486/s5/d], Aug. 13, 1968, [82 Stat. 758][/us/stat/82/758], provided that: 
+[Pub. L. 90–486][/us/pl/90/486], § 5(d), Aug. 13, 1968, [82 Stat. 758][/us/stat/82/758], provided that: 
 
 > “Clause (4) of subsection (a) of this section \[amending [section 8332(b) of Title 5][/us/usc/t5/s8332/b], Government Organization and Employees\] and subsections (b) and (c) of this section \[amending section 8334(c) and adding section 8339(l) of title 5\] do not apply to any person employed prior to the effective date of this Act \[see Effective Date note above\] under [section 709 of title 32][/us/usc/t32/s709], United States Code, whose employment under that section was covered by subchapter III of chapter 83 of title 5, United States Code.”
 
  __Election To Remain Under State Retirement System; Reemployed Technicians; Continuation of Federal Contributions__ 
 
-[Pub. L. 90–486, § 6][/us/pl/90/486/s6], Aug. 13, 1968, [82 Stat. 758][/us/stat/82/758], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 90–486][/us/pl/90/486], § 6, Aug. 13, 1968, [82 Stat. 758][/us/stat/82/758], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(a) Notwithstanding [section 709(d) of title 32][/us/usc/t32/s709/d], United States Code, a person who, on the date of enactment of this Act \[Aug. 13, 1968\], is employed under [section 709 of title 32][/us/usc/t32/s709], United States Code, and is covered by an employee retirement system of, or plan sponsored by, a State or the Commonwealth of Puerto Rico, may elect, not later than the effective date of this Act \[see Effective Date note above\], not to be covered by subchapter III of chapter 83 of title 5, United States Code, and with the consent of the State concerned or Commonwealth of Puerto Rico, to remain covered by the employee retirement system of, or plan sponsored by, that State or the Commonwealth of Puerto Rico. Unless such an election, together with a statement of approval by the State concerned or the Commonwealth of Puerto Rico, is filed with the Secretary of the Army or the Secretary of the Air Force, as appropriate, on or before the effective date of this Act, the person concerned is covered by subchapter III of chapter 83 of title 5, United States Code, as of that date.
 
@@ -339,7 +339,7 @@ June 25, 1938, ch. 688, 52 Stat. 1173.  </td>
 
  __Compensation Rates; Conversion and Adjustment of Compensation to the General Schedule__ 
 
-[Pub. L. 90–486, § 8][/us/pl/90/486/s8], Aug. 13, 1968, [82 Stat. 759][/us/stat/82/759], provided that:
+[Pub. L. 90–486][/us/pl/90/486], § 8, Aug. 13, 1968, [82 Stat. 759][/us/stat/82/759], provided that:
 
 >     “(a)
 
@@ -371,37 +371,37 @@ June 25, 1938, ch. 688, 52 Stat. 1173.  </td>
 
  __Regulations: Approval by Secretary of Defense; Uniformity__ 
 
-[Pub. L. 90–486, § 10][/us/pl/90/486/s10], Aug. 13, 1968, [82 Stat. 760][/us/stat/82/760], provided that: 
+[Pub. L. 90–486][/us/pl/90/486], § 10, Aug. 13, 1968, [82 Stat. 760][/us/stat/82/760], provided that: 
 
 > “Regulations prescribed by the Secretary of the Army and Secretary of the Air Force under this Act \[see Short Title note above\] shall be approved by the Secretary of Defense and shall, so far as practicable, be uniform.”
 
  __Number of Caretakers for Air National Guard__ 
 
-    [Pub. L. 90–580, title II][/us/pl/90/580], Oct. 17, 1968, [82 Stat. 1124][/us/stat/82/1124], provided that the number of caretakers authorized to be employed under this section may be such as is deemed necessary by the Secretary of the Air Force and that they may be employed without regard to their military rank as members of the Air National Guard.
+    [Pub. L. 90–580, title II][/us/pl/90/580/tII], Oct. 17, 1968, [82 Stat. 1124][/us/stat/82/1124], provided that the number of caretakers authorized to be employed under this section may be such as is deemed necessary by the Secretary of the Air Force and that they may be employed without regard to their military rank as members of the Air National Guard.
 
 Similar provisions were contained in the following prior acts:
 
-    Sept. 29, 1967, [Pub. L. 90–96, title II][/us/pl/90/96], [81 Stat. 236][/us/stat/81/236].
+    Sept. 29, 1967, [Pub. L. 90–96, title II][/us/pl/90/96/tII], [81 Stat. 236][/us/stat/81/236].
 
-    Oct. 15, 1966, [Pub. L. 89–687, title II][/us/pl/89/687], [80 Stat. 985][/us/stat/80/985].
+    Oct. 15, 1966, [Pub. L. 89–687, title II][/us/pl/89/687/tII], [80 Stat. 985][/us/stat/80/985].
 
-    Sept. 29, 1965, [Pub. L. 89–213, title II][/us/pl/89/213], [79 Stat. 868][/us/stat/79/868].
+    Sept. 29, 1965, [Pub. L. 89–213, title II][/us/pl/89/213/tII], [79 Stat. 868][/us/stat/79/868].
 
-    Aug. 19, 1964, [Pub. L. 88–466, title II][/us/pl/88/466], [78 Stat. 469][/us/stat/78/469].
+    Aug. 19, 1964, [Pub. L. 88–466, title II][/us/pl/88/466/tII], [78 Stat. 469][/us/stat/78/469].
 
-    Oct. 17, 1963, [Pub. L. 88–149, title II][/us/pl/88/149], [77 Stat. 259][/us/stat/77/259].
+    Oct. 17, 1963, [Pub. L. 88–149, title II][/us/pl/88/149/tII], [77 Stat. 259][/us/stat/77/259].
 
-    Aug. 9, 1962, [Pub. L. 87–577, title II][/us/pl/87/577], [76 Stat. 323][/us/stat/76/323].
+    Aug. 9, 1962, [Pub. L. 87–577, title II][/us/pl/87/577/tII], [76 Stat. 323][/us/stat/76/323].
 
-    Aug. 17, 1961, [Pub. L. 87–144, title II][/us/pl/87/144], [75 Stat. 370][/us/stat/75/370].
+    Aug. 17, 1961, [Pub. L. 87–144, title II][/us/pl/87/144/tII], [75 Stat. 370][/us/stat/75/370].
 
-    July 7, 1960, [Pub. L. 86–601, title II][/us/pl/86/601], [74 Stat. 344][/us/stat/74/344].
+    July 7, 1960, [Pub. L. 86–601, title II][/us/pl/86/601/tII], [74 Stat. 344][/us/stat/74/344].
 
-    Aug. 18, 1959, [Pub. L. 86–166, title II][/us/pl/86/166], [73 Stat. 372][/us/stat/73/372].
+    Aug. 18, 1959, [Pub. L. 86–166, title II][/us/pl/86/166/tII], [73 Stat. 372][/us/stat/73/372].
 
-    Aug. 22, 1958, [Pub. L. 85–724, title V][/us/pl/85/724], [72 Stat. 723][/us/stat/72/723].
+    Aug. 22, 1958, [Pub. L. 85–724, title V][/us/pl/85/724/tV], [72 Stat. 723][/us/stat/72/723].
 
-    Aug. 2, 1957, [Pub. L. 85–117, title V][/us/pl/85/117], [71 Stat. 322][/us/stat/71/322].
+    Aug. 2, 1957, [Pub. L. 85–117, title V][/us/pl/85/117/tV], [71 Stat. 322][/us/stat/71/322].
 
     [July 2, 1956, ch. 488][/us/act/1956-07-02/ch488], title V, [70 Stat. 466][/us/stat/70/466].
 
@@ -421,31 +421,31 @@ Similar provisions were contained in the following prior acts:
 
  __Number of Caretakers for Army National Guard__ 
 
-    [Pub. L. 90–580, title II][/us/pl/90/580], Oct. 17, 1968, [82 Stat. 1124][/us/stat/82/1124], provided that the number of caretakers authorized to be employed under this section and those necessary to provide reimbursable services for the military departments, may be such as is deemed necessary by the Secretary of the Army.
+    [Pub. L. 90–580, title II][/us/pl/90/580/tII], Oct. 17, 1968, [82 Stat. 1124][/us/stat/82/1124], provided that the number of caretakers authorized to be employed under this section and those necessary to provide reimbursable services for the military departments, may be such as is deemed necessary by the Secretary of the Army.
 
 Similar provisions were contained in the following prior acts:
 
-    Sept. 29, 1967, [Pub. L. 90–96, title II][/us/pl/90/96], [81 Stat. 236][/us/stat/81/236].
+    Sept. 29, 1967, [Pub. L. 90–96, title II][/us/pl/90/96/tII], [81 Stat. 236][/us/stat/81/236].
 
-    Oct. 15, 1966, [Pub. L. 89–687, title II][/us/pl/89/687], [80 Stat. 984][/us/stat/80/984].
+    Oct. 15, 1966, [Pub. L. 89–687, title II][/us/pl/89/687/tII], [80 Stat. 984][/us/stat/80/984].
 
-    Sept. 29, 1965, [Pub. L. 89–213, title II][/us/pl/89/213], [79 Stat. 867][/us/stat/79/867].
+    Sept. 29, 1965, [Pub. L. 89–213, title II][/us/pl/89/213/tII], [79 Stat. 867][/us/stat/79/867].
 
-    Aug. 19, 1964, [Pub. L. 88–446, title II][/us/pl/88/446], [78 Stat. 469][/us/stat/78/469].
+    Aug. 19, 1964, [Pub. L. 88–446, title II][/us/pl/88/446/tII], [78 Stat. 469][/us/stat/78/469].
 
-    Oct. 17, 1963, [Pub. L. 88–149, title II][/us/pl/88/149], [77 Stat. 258][/us/stat/77/258].
+    Oct. 17, 1963, [Pub. L. 88–149, title II][/us/pl/88/149/tII], [77 Stat. 258][/us/stat/77/258].
 
-    Aug. 9, 1962, [Pub. L. 87–577, title II][/us/pl/87/577], [76 Stat. 322][/us/stat/76/322].
+    Aug. 9, 1962, [Pub. L. 87–577, title II][/us/pl/87/577/tII], [76 Stat. 322][/us/stat/76/322].
 
-    Aug. 17, 1961, [Pub. L. 87–144, title II][/us/pl/87/144], [75 Stat. 369][/us/stat/75/369].
+    Aug. 17, 1961, [Pub. L. 87–144, title II][/us/pl/87/144/tII], [75 Stat. 369][/us/stat/75/369].
 
-    July 7, 1960, [Pub. L. 86–601, title II][/us/pl/86/601], [74 Stat. 343][/us/stat/74/343].
+    July 7, 1960, [Pub. L. 86–601, title II][/us/pl/86/601/tII], [74 Stat. 343][/us/stat/74/343].
 
-    Aug. 18, 1959, [Pub. L. 86–166, title II][/us/pl/86/166], [73 Stat. 371][/us/stat/73/371].
+    Aug. 18, 1959, [Pub. L. 86–166, title II][/us/pl/86/166/tII], [73 Stat. 371][/us/stat/73/371].
 
-    Aug. 22, 1958, [Pub. L. 85–724, title III][/us/pl/85/724], [72 Stat. 715][/us/stat/72/715].
+    Aug. 22, 1958, [Pub. L. 85–724, title III][/us/pl/85/724/tIII], [72 Stat. 715][/us/stat/72/715].
 
-    Aug. 2, 1957, [Pub. L. 85–117, title III][/us/pl/85/117], [71 Stat. 315][/us/stat/71/315].
+    Aug. 2, 1957, [Pub. L. 85–117, title III][/us/pl/85/117/tIII], [71 Stat. 315][/us/stat/71/315].
 
     [July 2, 1956, ch. 488][/us/act/1956-07-02/ch488], title III, [70 Stat. 458][/us/stat/70/458].
 
@@ -483,42 +483,42 @@ Similar provisions were contained in the following prior acts:
 [/us/usc/t32/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs301
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F614
-[/us/pl/87/224/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F224%2Fs2
+[/us/pl/87/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F224
 [/us/stat/75/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F496
-[/us/pl/90/486/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F486%2Fs2%2F1
+[/us/pl/90/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F486
 [/us/stat/82/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F755
-[/us/pl/92/119/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F119%2Fs2
+[/us/pl/92/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F119
 [/us/stat/85/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F340
-[/us/pl/96/513/s515/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs515%2F5
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2937
-[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1656
-[/us/pl/103/337/s1070/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1070%2Fb%2F2
+[/us/pl/103/337/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtX
 [/us/stat/108/2856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2856
-[/us/pl/104/106/s1038/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1038%2Fa
+[/us/pl/104/106/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtX
 [/us/stat/110/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F432
-[/us/pl/105/85/s522/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs522%2Fc
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1735
-[/us/pl/106/65/s524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs524
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F599
-[/us/pl/109/364/s525/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs525%2Fd
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2195
-[/us/pl/109/364/s525/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs525%2Fd%2F1%2FA
-[/us/pl/109/364/s525/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs525%2Fd%2F1%2FB
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
-[/us/pl/103/337/s1070/d/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1070%2Fd%2F5%2FA
-[/us/pl/103/337/s1070/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1070%2Fb%2F2
-[/us/pl/103/160/s524/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs524%2Fc
-[/us/pl/103/337/s1070/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1070%2Fd%2F5%2FB
-[/us/pl/103/160/s524/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs524%2Fc
-[/us/pl/103/337/s1070/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1070%2Fb%2F2
-[/us/pl/103/160/s524/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs524%2Fd
-[/us/pl/103/160/s523/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs523%2Fa
-[/us/pl/96/513/s515/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs515%2F5
-[/us/pl/96/513/s515/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs515%2F6
-[/us/pl/96/513/s515/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs515%2F7
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
+[/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/92/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F119
 [/us/pl/90/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F486
 [/us/pl/90/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F486
@@ -534,58 +534,58 @@ Similar provisions were contained in the following prior acts:
 [/us/usc/t10/s10217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10217
 [/us/pl/106/65/s525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs525
 [/us/usc/t10/s10217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10217
-[/us/pl/103/337/s1070/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1070%2Fb
+[/us/pl/103/337/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtX
 [/us/stat/108/2856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2856
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701%2Fb%2F3
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/90/486/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F486%2Fs11
+[/us/pl/90/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F486
 [/us/stat/82/760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F760
-[/us/pl/90/486/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F486%2Fs1
+[/us/pl/90/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F486
 [/us/stat/82/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F755
 [/us/usc/t32/s715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs715
 [/us/usc/t42/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs418
-[/us/pl/101/189/s506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs506%2Fa
+[/us/pl/101/189/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtV
 [/us/stat/103/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1438
-[/us/pl/103/160/s523/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs523%2Fb%2F2
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1656
-[/us/pl/100/456/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs523
+[/us/pl/100/456/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtV
 [/us/stat/102/1974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1974
-[/us/pl/101/189/s506/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs506%2Fd
+[/us/pl/101/189/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtV
 [/us/stat/103/1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1439
-[/us/pl/101/510/s1484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1484
+[/us/pl/101/510/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXIV
 [/us/stat/104/1719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1719
-[/us/pl/103/160/s523/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs523%2Fb%2F1
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1656
-[/us/pl/103/160/s523/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs523%2Fc
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1656
 [/us/pl/100/456/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs523
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
-[/us/pl/99/661/s654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs654
+[/us/pl/99/661/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtVI
 [/us/stat/100/3890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3890
 [/us/usc/t32/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs709
-[/us/pl/90/486/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F486%2Fs3
+[/us/pl/90/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F486
 [/us/stat/82/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F756
-[/us/pl/101/530/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F530%2Fs2
+[/us/pl/101/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F530
 [/us/stat/104/2338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2338
 [/us/usc/t32/s715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs715
 [/us/usc/t32/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs709
 [/us/usc/t32/s715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs715
 [/us/usc/t32/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs709
 [/us/usc/t32/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs709
-[/us/pl/101/530/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F530%2Fs3%2Fb
+[/us/pl/101/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F530
 [/us/stat/104/2339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2339
 [/us/pl/90/486/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F486%2Fs3
 [/us/usc/t5/s6303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6303
 [/us/usc/t5/s8901/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8901%2F3%2FA
-[/us/pl/90/486/s5/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F486%2Fs5%2Fd
+[/us/pl/90/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F486
 [/us/stat/82/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F758
 [/us/usc/t5/s8332/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8332%2Fb
 [/us/usc/t32/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs709
-[/us/pl/90/486/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F486%2Fs6
+[/us/pl/90/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F486
 [/us/stat/82/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F758
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t32/s709/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs709%2Fd
 [/us/usc/t32/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs709
@@ -595,7 +595,7 @@ Similar provisions were contained in the following prior acts:
 [/us/usc/t5/s8334/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8334%2Fa
 [/us/usc/t5/s8332/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8332%2Fb
 [/us/usc/t32/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs709
-[/us/pl/90/486/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F486%2Fs8
+[/us/pl/90/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F486
 [/us/stat/82/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F759
 [/us/usc/t32/s709/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs709%2Fg
 [/us/usc/t5/s5341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5341
@@ -604,31 +604,31 @@ Similar provisions were contained in the following prior acts:
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/90/486/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F486%2Fs10
+[/us/pl/90/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F486
 [/us/stat/82/760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F760
-[/us/pl/90/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F580
+[/us/pl/90/580/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F580%2FtII
 [/us/stat/82/1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1124
-[/us/pl/90/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F96
+[/us/pl/90/96/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F96%2FtII
 [/us/stat/81/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F236
-[/us/pl/89/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F687
+[/us/pl/89/687/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F687%2FtII
 [/us/stat/80/985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F985
-[/us/pl/89/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F213
+[/us/pl/89/213/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F213%2FtII
 [/us/stat/79/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F868
-[/us/pl/88/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F466
+[/us/pl/88/466/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F466%2FtII
 [/us/stat/78/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F469
-[/us/pl/88/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F149
+[/us/pl/88/149/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F149%2FtII
 [/us/stat/77/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F259
-[/us/pl/87/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F577
+[/us/pl/87/577/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F577%2FtII
 [/us/stat/76/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F323
-[/us/pl/87/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F144
+[/us/pl/87/144/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F144%2FtII
 [/us/stat/75/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F370
-[/us/pl/86/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F601
+[/us/pl/86/601/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F601%2FtII
 [/us/stat/74/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F344
-[/us/pl/86/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F166
+[/us/pl/86/166/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F166%2FtII
 [/us/stat/73/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F372
-[/us/pl/85/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F724
+[/us/pl/85/724/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F724%2FtV
 [/us/stat/72/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F723
-[/us/pl/85/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F117
+[/us/pl/85/117/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F117%2FtV
 [/us/stat/71/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F322
 [/us/act/1956-07-02/ch488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-02%2Fch488
 [/us/stat/70/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F466
@@ -646,29 +646,29 @@ Similar provisions were contained in the following prior acts:
 [/us/stat/64/751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F751
 [/us/act/1949-10-29/ch787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-29%2Fch787
 [/us/stat/63/1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F1017
-[/us/pl/90/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F580
+[/us/pl/90/580/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F580%2FtII
 [/us/stat/82/1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1124
-[/us/pl/90/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F96
+[/us/pl/90/96/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F96%2FtII
 [/us/stat/81/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F236
-[/us/pl/89/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F687
+[/us/pl/89/687/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F687%2FtII
 [/us/stat/80/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F984
-[/us/pl/89/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F213
+[/us/pl/89/213/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F213%2FtII
 [/us/stat/79/867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F867
-[/us/pl/88/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F446
+[/us/pl/88/446/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F446%2FtII
 [/us/stat/78/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F469
-[/us/pl/88/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F149
+[/us/pl/88/149/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F149%2FtII
 [/us/stat/77/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F258
-[/us/pl/87/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F577
+[/us/pl/87/577/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F577%2FtII
 [/us/stat/76/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F322
-[/us/pl/87/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F144
+[/us/pl/87/144/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F144%2FtII
 [/us/stat/75/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F369
-[/us/pl/86/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F601
+[/us/pl/86/601/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F601%2FtII
 [/us/stat/74/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F343
-[/us/pl/86/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F166
+[/us/pl/86/166/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F166%2FtII
 [/us/stat/73/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F371
-[/us/pl/85/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F724
+[/us/pl/85/724/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F724%2FtIII
 [/us/stat/72/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F715
-[/us/pl/85/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F117
+[/us/pl/85/117/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F117%2FtIII
 [/us/stat/71/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F315
 [/us/act/1956-07-02/ch488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-02%2Fch488
 [/us/stat/70/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F458

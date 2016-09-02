@@ -27,7 +27,7 @@
 
     (b) Activities authorized under subsection (a) for members of the National Guard of a State or territory, Puerto Rico, or the District of Columbia may be held inside or outside its boundaries.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 611][/us/stat/70A/611]; [Pub. L. 88–621, § 1(2)][/us/pl/88/621/s1/2], Oct. 3, 1964, [78 Stat. 999][/us/stat/78/999]; [Pub. L. 100–456, div. A, title XII, § 1234(b)(1)][/us/pl/100/456/s1234/b/1], Sept. 29, 1988, [102 Stat. 2059][/us/stat/102/2059].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 611][/us/stat/70A/611]; [Pub. L. 88–621][/us/pl/88/621], § 1(2), Oct. 3, 1964, [78 Stat. 999][/us/stat/78/999]; [Pub. L. 100–456, div. A, title XII][/us/pl/100/456/dA/tXII], § 1234(b)(1), Sept. 29, 1988, [102 Stat. 2059][/us/stat/102/2059].)
 
 <table>
 
@@ -96,9 +96,9 @@ June 3, 1916, ch. 134, § 97 (less last sentence); restated May 28, 1926, ch. 
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F611
-[/us/pl/88/621/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F621%2Fs1%2F2
+[/us/pl/88/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F621
 [/us/stat/78/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F999
-[/us/pl/100/456/s1234/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1234%2Fb%2F1
+[/us/pl/100/456/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtXII
 [/us/stat/102/2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2059
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
 [/us/pl/88/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F621

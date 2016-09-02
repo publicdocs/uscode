@@ -17,7 +17,7 @@
 
     In the National Guard not in Federal service, there are general, special, and summary courts-martial constituted like similar courts of the Army and the Air Force. They have the jurisdiction and powers, except as to punishments, and shall follow the forms and procedures, provided for those courts. Punishments shall be as provided by the laws of the respective States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 608][/us/stat/70A/608]; [Pub. L. 107–314, div. A, title V, § 512(a)][/us/pl/107/314/s512/a], Dec. 2, 2002, [116 Stat. 2537][/us/stat/116/2537]; [Pub. L. 109–163, div. A, title X, § 1057(b)(7)][/us/pl/109/163/s1057/b/7], Jan. 6, 2006, [119 Stat. 3442][/us/stat/119/3442].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 608][/us/stat/70A/608]; [Pub. L. 107–314, div. A, title V][/us/pl/107/314/dA/tV], § 512(a), Dec. 2, 2002, [116 Stat. 2537][/us/stat/116/2537]; [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1057(b)(7), Jan. 6, 2006, [119 Stat. 3442][/us/stat/119/3442].)
 
 <table>
 
@@ -80,9 +80,9 @@ June 3, 1916, ch. 134, § 102, 39 Stat. 208.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F608
-[/us/pl/107/314/s512/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs512%2Fa
+[/us/pl/107/314/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtV
 [/us/stat/116/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2537
-[/us/pl/109/163/s1057/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1057%2Fb%2F7
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3442
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314

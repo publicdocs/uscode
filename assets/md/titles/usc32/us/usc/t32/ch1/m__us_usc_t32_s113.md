@@ -39,7 +39,7 @@
 
     Funds appropriated for the Army for a fiscal year are available for providing financial assistance under this section in support of activities carried out by the Army National Guard during that fiscal year.
 
-(Added [Pub. L. 105–85, div. A, title III, § 386(a)][/us/pl/105/85/s386/a], Nov. 18, 1997, [111 Stat. 1712][/us/stat/111/1712]; amended [Pub. L. 105–261, div. A, title III, § 375(a)][/us/pl/105/261/s375/a], Oct. 17, 1998, [112 Stat. 1992][/us/stat/112/1992]; [Pub. L. 106–65, div. A, title X, § 1066(d)(4)][/us/pl/106/65/s1066/d/4], Oct. 5, 1999, [113 Stat. 773][/us/stat/113/773]; [Pub. L. 108–375, div. A, title VIII, § 806][/us/pl/108/375/s806], Oct. 28, 2004, [118 Stat. 2010][/us/stat/118/2010].)
+(Added [Pub. L. 105–85, div. A, title III][/us/pl/105/85/dA/tIII], § 386(a), Nov. 18, 1997, [111 Stat. 1712][/us/stat/111/1712]; amended [Pub. L. 105–261, div. A, title III][/us/pl/105/261/dA/tIII], § 375(a), Oct. 17, 1998, [112 Stat. 1992][/us/stat/112/1992]; [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1066(d)(4), Oct. 5, 1999, [113 Stat. 773][/us/stat/113/773]; [Pub. L. 108–375, div. A, title VIII][/us/pl/108/375/dA/tVIII], § 806, Oct. 28, 2004, [118 Stat. 2010][/us/stat/118/2010].)
 
  __Amendments__ 
 
@@ -51,7 +51,7 @@
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–261, div. A, title III, § 375(b)][/us/pl/105/261/s375/b], Oct. 17, 1998, [112 Stat. 1993][/us/stat/112/1993], provided that: 
+[Pub. L. 105–261, div. A, title III][/us/pl/105/261/dA/tIII], § 375(b), Oct. 17, 1998, [112 Stat. 1993][/us/stat/112/1993], provided that: 
 
 > “Subsection (b)(1)(B) of [section 113 of title 32][/us/usc/t32/s113], United States Code (as added by subsection (a) of this section), does not apply to—
 
@@ -68,20 +68,20 @@
 
 [/us/usc/t10/s3013/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3013%2Fb
 [/us/usc/t10/s2304/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304%2Fc
-[/us/pl/105/85/s386/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs386%2Fa
+[/us/pl/105/85/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtIII
 [/us/stat/111/1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1712
-[/us/pl/105/261/s375/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs375%2Fa
+[/us/pl/105/261/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtIII
 [/us/stat/112/1992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1992
-[/us/pl/106/65/s1066/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1066%2Fd%2F4
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F773
-[/us/pl/108/375/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs806
+[/us/pl/108/375/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtVIII
 [/us/stat/118/2010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2010
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/usc/t10/s2304/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304%2Fc
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/usc/t10/s3013/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3013%2Fb
-[/us/pl/105/261/s375/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs375%2Fb
+[/us/pl/105/261/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtIII
 [/us/stat/112/1993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1993
 [/us/usc/t32/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs113
 

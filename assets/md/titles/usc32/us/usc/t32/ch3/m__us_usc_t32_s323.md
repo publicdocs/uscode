@@ -39,7 +39,7 @@
 
         shall, if not sooner withdrawn, be withdrawn on the date of such involuntary transfer or discharge.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 607][/us/stat/70A/607]; [Pub. L. 85–861][/us/pl/85/861], §§ 2(11), 33(c)(2), Sept. 2, 1958, [72 Stat. 1546][/us/stat/72/1546], 1567; [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337], §§ 1630(2), 1676(a)(3), Oct. 5, 1994, [108 Stat. 2964][/us/stat/108/2964], 3019.)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 607][/us/stat/70A/607]; [Pub. L. 85–861][/us/pl/85/861], §§ 2(11), 33(c)(2), Sept. 2, 1958, [72 Stat. 1546][/us/stat/72/1546], 1567; [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], §§ 1630(2), 1676(a)(3), Oct. 5, 1994, [108 Stat. 2964][/us/stat/108/2964], 3019.)
 
 <table>
 
@@ -197,19 +197,19 @@ Sept. 3, 1954, ch. 1257, §§ 324 (as applicable to Federal recognition), 522(
 
  __Amendments__ 
 
-    1994—Subsec. (c). [Pub. L. 103–337, § 1676(a)(3)][/us/pl/103/337/s1676/a/3], substituted “12105, 12213(a), or 12214(a)” for “3259, 3352(a), 8259, or 8352(a)”.
+    1994—Subsec. (c). [Pub. L. 103–337][/us/pl/103/337], § 1676(a)(3), substituted “12105, 12213(a), or 12214(a)” for “3259, 3352(a), 8259, or 8352(a)”.
 
-    Subsecs. (d), (e). [Pub. L. 103–337, § 1630(2)][/us/pl/103/337/s1630/2], added subsec. (d) and struck out former subsecs. (d) and (e) which read as follows:
+    Subsecs. (d), (e). [Pub. L. 103–337][/us/pl/103/337], § 1630(2), added subsec. (d) and struck out former subsecs. (d) and (e) which read as follows:
 
     “(d) Except as provided in sections 1005 and 1006 of title 10, the Federal recognition of a second lieutenant of the Army National Guard who is discharged under [section 3820(c) of title 10][/us/usc/t10/s3820/c] for failure of promotion shall be withdrawn on the date of that discharge.
 
     “(e) Except as provided in sections 1005 and 1006 of title 10, the Federal recognition of a reserve officer of the Air Force who is not recommended for promotion under section 8368(c)(1) or (2) of title 10, or who is found to be not qualified for Federal recognition under section 8368(d) or (e) of title 10, shall be withdrawn.”
 
-    1958—Subsec. (b)(1). [Pub. L. 85–861, § 33(c)(2)][/us/pl/85/861/s33/c/2], substituted “the Regular Army or the Army National Guard of the United States, or both” for “a regular or reserve component of the Army”.
+    1958—Subsec. (b)(1). [Pub. L. 85–861][/us/pl/85/861], § 33(c)(2), substituted “the Regular Army or the Army National Guard of the United States, or both” for “a regular or reserve component of the Army”.
 
-    Subsec. (b)(2). [Pub. L. 85–861, § 33(c)(2)][/us/pl/85/861/s33/c/2], substituted “the Regular Air Force or the Air National Guard of the United States, or both” for “a regular or reserve component of the Air Force”.
+    Subsec. (b)(2). [Pub. L. 85–861][/us/pl/85/861], § 33(c)(2), substituted “the Regular Air Force or the Air National Guard of the United States, or both” for “a regular or reserve component of the Air Force”.
 
-    Subsecs. (d), (e). [Pub. L. 85–861, § 2(11)][/us/pl/85/861/s2/11], added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 85–861][/us/pl/85/861], § 2(11), added subsecs. (d) and (e).
 
  __Effective Date of 1994 Amendment__ 
 
@@ -235,7 +235,7 @@ Sept. 3, 1954, ch. 1257, §§ 324 (as applicable to Federal recognition), 522(
 [/us/stat/70A/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F607
 [/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1546
-[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/2964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2964
 [/us/usc/t32/s300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs300
 [/us/usc/t32/s309/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs309%2Fc
@@ -243,12 +243,12 @@ Sept. 3, 1954, ch. 1257, §§ 324 (as applicable to Federal recognition), 522(
 [/us/act/1916-06-03/s76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-06-03%2Fs76
 [/us/usc/t32/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs115
 [/us/usc/t32/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs115
-[/us/pl/103/337/s1676/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1676%2Fa%2F3
-[/us/pl/103/337/s1630/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1630%2F2
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s3820/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3820%2Fc
-[/us/pl/85/861/s33/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs33%2Fc%2F2
-[/us/pl/85/861/s33/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs33%2Fc%2F2
-[/us/pl/85/861/s2/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs2%2F11
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/pl/103/337/s1676/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1676%2Fa%2F3
 [/us/pl/103/337/s1630/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1630%2F2
 [/us/pl/103/337/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691

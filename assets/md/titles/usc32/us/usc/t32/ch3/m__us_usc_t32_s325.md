@@ -35,7 +35,7 @@
 
     So far as practicable, members, organizations, and units of the Army National Guard of the United States or the Air National Guard of the United States ordered to active duty shall be returned to their National Guard status upon relief from that duty.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 607][/us/stat/70A/607]; [Pub. L. 100–456, div. A, title XII, § 1234(b)(6)][/us/pl/100/456/s1234/b/6], Sept. 29, 1988, [102 Stat. 2059][/us/stat/102/2059]; [Pub. L. 108–136, div. A, title V, § 516][/us/pl/108/136/s516], Nov. 24, 2003, [117 Stat. 1461][/us/stat/117/1461]; [Pub. L. 109–163, div. A, title X, § 1057(b)(6)][/us/pl/109/163/s1057/b/6], Jan. 6, 2006, [119 Stat. 3442][/us/stat/119/3442]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 517, Oct. 14, 2008, [122 Stat. 4442][/us/stat/122/4442].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 607][/us/stat/70A/607]; [Pub. L. 100–456, div. A, title XII][/us/pl/100/456/dA/tXII], § 1234(b)(6), Sept. 29, 1988, [102 Stat. 2059][/us/stat/102/2059]; [Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 516, Nov. 24, 2003, [117 Stat. 1461][/us/stat/117/1461]; [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1057(b)(6), Jan. 6, 2006, [119 Stat. 3442][/us/stat/119/3442]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 517, Oct. 14, 2008, [122 Stat. 4442][/us/stat/122/4442].)
 
 <table>
 
@@ -91,15 +91,15 @@ In subsection (a), the words “in the service of the United States” are omitt
 
  __Amendments__ 
 
-    2008—Subsec. (a)(2). [Pub. L. 110–417, § 517(a)][/us/pl/110/417/s517/a], struck out “in command of a National Guard unit” after “active duty” in introductory provisions.
+    2008—Subsec. (a)(2). [Pub. L. 110–417][/us/pl/110/417], § 517(a), struck out “in command of a National Guard unit” after “active duty” in introductory provisions.
 
-    Subsecs. (b), (c). [Pub. L. 110–417, § 517(b)][/us/pl/110/417/s517/b], added subsec. (b) and redesignated former subsec. (b) as (c).
+    Subsecs. (b), (c). [Pub. L. 110–417][/us/pl/110/417], § 517(b), added subsec. (b) and redesignated former subsec. (b) as (c).
 
     2006—Subsec. (a). [Pub. L. 109–163][/us/pl/109/163] substituted “State, or of the Commonwealth of Puerto Rico, Guam, or the Virgin Islands” for “State or Territory, or of Puerto Rico” in par. (1) and introductory provisions of par. (2) and “State or Territory or Puerto Rico” in par. (2)(B).
 
-    2003—Subsec. (a). [Pub. L. 108–136, § 516(a)][/us/pl/108/136/s516/a], substituted “(a) Relief Required.—(1) Except as provided in paragraph (2), each” for “(a) Each” and added par. (2).
+    2003—Subsec. (a). [Pub. L. 108–136][/us/pl/108/136], § 516(a), substituted “(a) Relief Required.—(1) Except as provided in paragraph (2), each” for “(a) Each” and added par. (2).
 
-    Subsec. (b). [Pub. L. 108–136, § 516(b)][/us/pl/108/136/s516/b], inserted heading.
+    Subsec. (b). [Pub. L. 108–136][/us/pl/108/136], § 516(b), inserted heading.
 
     1988—Subsec. (a). [Pub. L. 100–456][/us/pl/100/456] struck out “, the Canal Zone,” after “Puerto Rico”.
 
@@ -120,19 +120,19 @@ In subsection (a), the words “in the service of the United States” are omitt
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F607
-[/us/pl/100/456/s1234/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1234%2Fb%2F6
+[/us/pl/100/456/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtXII
 [/us/stat/102/2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2059
-[/us/pl/108/136/s516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs516
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1461
-[/us/pl/109/163/s1057/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1057%2Fb%2F6
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3442
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4442
-[/us/pl/110/417/s517/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs517%2Fa
-[/us/pl/110/417/s517/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs517%2Fb
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/pl/108/136/s516/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs516%2Fa
-[/us/pl/108/136/s516/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs516%2Fb
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
 [/us/usc/t32/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs315
 [/us/usc/t32/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs315

@@ -17,7 +17,7 @@
 
     Subject to such regulations and restrictions as may be prescribed by the Secretary concerned, the performance of funeral honors functions by members of the National Guard at funerals for veterans of the armed forces may be treated by the Secretary concerned as a Federal function for which appropriated funds may be used. Any such performance of funeral honors functions at such a funeral may not be considered to be a period of drill or training, but may be performed as funeral honors duty under [section 115 of this title][/us/usc/t32/s115].
 
-(Added [Pub. L. 105–85, div. A, title V, § 517(a)(1)][/us/pl/105/85/s517/a/1], Nov. 18, 1997, [111 Stat. 1733][/us/stat/111/1733]; amended [Pub. L. 105–261, div. A, title V, § 567(d)][/us/pl/105/261/s567/d], Oct. 17, 1998, [112 Stat. 2031][/us/stat/112/2031]; [Pub. L. 106–65, div. A, title V, § 578(g)(1)][/us/pl/106/65/s578/g/1], (k)(3)(A), Oct. 5, 1999, [113 Stat. 627][/us/stat/113/627], 631.)
+(Added [Pub. L. 105–85, div. A, title V][/us/pl/105/85/dA/tV], § 517(a)(1), Nov. 18, 1997, [111 Stat. 1733][/us/stat/111/1733]; amended [Pub. L. 105–261, div. A, title V][/us/pl/105/261/dA/tV], § 567(d), Oct. 17, 1998, [112 Stat. 2031][/us/stat/112/2031]; [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 578(g)(1), (k)(3)(A), Oct. 5, 1999, [113 Stat. 627][/us/stat/113/627], 631.)
 
  __Amendments__ 
 
@@ -33,11 +33,11 @@
 ----------
 
 [/us/usc/t32/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs115
-[/us/pl/105/85/s517/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs517%2Fa%2F1
+[/us/pl/105/85/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtV
 [/us/stat/111/1733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1733
-[/us/pl/105/261/s567/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs567%2Fd
+[/us/pl/105/261/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtV
 [/us/stat/112/2031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2031
-[/us/pl/106/65/s578/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs578%2Fg%2F1
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F627
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/usc/t32/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs115

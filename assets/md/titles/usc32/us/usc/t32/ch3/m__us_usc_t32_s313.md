@@ -25,7 +25,7 @@
 
         (2) be at least 18 years of age and under 64.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 604][/us/stat/70A/604]; [Pub. L. 85–861, § 2(9)][/us/pl/85/861/s2/9], Sept. 2, 1958, [72 Stat. 1544][/us/stat/72/1544]; [Pub. L. 90–130, § 2(2)][/us/pl/90/130/s2/2], Nov. 8, 1967, [81 Stat. 383][/us/stat/81/383].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 604][/us/stat/70A/604]; [Pub. L. 85–861][/us/pl/85/861], § 2(9), Sept. 2, 1958, [72 Stat. 1544][/us/stat/72/1544]; [Pub. L. 90–130][/us/pl/90/130], § 2(2), Nov. 8, 1967, [81 Stat. 383][/us/stat/81/383].)
 
 <table>
 
@@ -144,9 +144,9 @@ July 30, 1956, ch. 789, § 2 (as applicable to age), 70 Stat. 729.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F604
-[/us/pl/85/861/s2/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs2%2F9
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1544
-[/us/pl/90/130/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130%2Fs2%2F2
+[/us/pl/90/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130
 [/us/stat/81/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F383
 [/us/pl/90/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130
 [/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861

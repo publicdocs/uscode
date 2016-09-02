@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t32/ch3/m__us_usc_t32_s316.md) | [Next](./../../../..//us/usc/t32/ch3/m__us_usc_t32_s322.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs317)
+[Previous](./../../../..//us/usc/t32/ch3/m__us_usc_t32_s316.md) | [Next](./../../../..//us/usc/t32/ch3/m__us_usc_t32_s318...321.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs317)
 
 ## § 317. Command during joint exercises with Federal troops
 
@@ -67,7 +67,7 @@ June 3, 1916, ch. 134, § 95, 39 Stat. 207.  </td>
 
  __Usual and Customary Arrangement__ 
 
-[Pub. L. 112–81, div. A, title V, § 515(c)][/us/pl/112/81/s515/c], Dec. 31, 2011, [125 Stat. 1395][/us/stat/125/1395], provided that:
+[Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 515(c), Dec. 31, 2011, [125 Stat. 1395][/us/stat/125/1395], provided that:
 
 >     “(1)  __Dual-status commander__  __.—__ 
 
@@ -81,52 +81,17 @@ June 3, 1916, ch. 134, § 95, 39 Stat. 207.  </td>
 
 >     Nothing in paragraphs (1) or (2) shall be construed to preclude or limit, in any way, the authorities of the President, the Secretary of Defense, or the Governor of any State to direct, control, and prescribe command and control arrangements for forces under their command.”
 
-\[§§ 318 to 321. __Repealed.__  __[__  __Pub. L. 99–661, div. A, title VI, § 604(f)(2)(A)__  __][/us/pl/99/661/s604/f/2/A]__  __,__  __Nov. 14, 1986__  __,__  __[__  __100 Stat. 3878__  __][/us/stat/100/3878]__  __\]__ 
-
-    Section 318, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 605][/us/stat/70A/605]; Sept. 2, 1958, [Pub. L. 85–861, § 33(c)(1)][/us/pl/85/861/s33/c/1], [72 Stat. 1567][/us/stat/72/1567]; Sept. 7, 1962, [Pub. L. 87–649, § 8(a)][/us/pl/87/649/s8/a], [76 Stat. 495][/us/stat/76/495], related to compensation for members of National Guard for disablement during training.
-
-    Section 319, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 605][/us/stat/70A/605], related to compensation for members of National Guard for disablement during training when not covered by [section 318 of this title][/us/usc/t32/s318].
-
-    Section 320, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 606][/us/stat/70A/606], related to hospitalization ordered by Secretary of Army or Air Force for members of National Guard.
-
-    Section 321, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 606][/us/stat/70A/606]; Sept. 2, 1958, [Pub. L. 85–861, § 2(10)][/us/pl/85/861/s2/10], [72 Stat. 1544][/us/stat/72/1544]; Sept. 7, 1962, [Pub. L. 87–649, § 8(b)][/us/pl/87/649/s8/b], [76 Stat. 495][/us/stat/76/495], related to death gratuities for members of National Guard.
-
- __Effective Date of Repeal__ 
-
-    Repeal applicable with respect to persons who, after Nov. 14, 1986, incur or aggravate an injury, illness, or disease or die, see [section 604(g) of Pub. L. 99–661][/us/pl/99/661/s604/g], set out as an Effective Date of 1986 Amendment note under [section 1074a of Title 10][/us/usc/t10/s1074a], Armed Forces.
-
 ----------
 
-[Previous](./../../../..//us/usc/t32/ch3/m__us_usc_t32_s316.md) | [Next](./../../../..//us/usc/t32/ch3/m__us_usc_t32_s322.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs317)
+[Previous](./../../../..//us/usc/t32/ch3/m__us_usc_t32_s316.md) | [Next](./../../../..//us/usc/t32/ch3/m__us_usc_t32_s318...321.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs317)
 
 ----------
 ----------
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F605
-[/us/pl/112/81/s515/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs515%2Fc
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1395
 [/us/usc/t42/s5122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5122
-[/us/pl/99/661/s604/f/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs604%2Ff%2F2%2FA
-[/us/stat/100/3878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3878
-[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
-[/us/stat/70A/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F605
-[/us/pl/85/861/s33/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs33%2Fc%2F1
-[/us/stat/72/1567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1567
-[/us/pl/87/649/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs8%2Fa
-[/us/stat/76/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F495
-[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
-[/us/stat/70A/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F605
-[/us/usc/t32/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs318
-[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
-[/us/stat/70A/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F606
-[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
-[/us/stat/70A/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F606
-[/us/pl/85/861/s2/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs2%2F10
-[/us/stat/72/1544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1544
-[/us/pl/87/649/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs8%2Fb
-[/us/stat/76/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F495
-[/us/pl/99/661/s604/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs604%2Fg
-[/us/usc/t10/s1074a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1074a
 
 

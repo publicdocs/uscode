@@ -33,7 +33,7 @@
 
         (2) by proclamation of the President, if Congress declares an emergency, until six months after termination of that emergency.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 601][/us/stat/70A/601]; [Pub. L. 87–378, § 5(1)][/us/pl/87/378/s5/1], Oct. 4, 1961, [75 Stat. 808][/us/stat/75/808].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 601][/us/stat/70A/601]; [Pub. L. 87–378][/us/pl/87/378], § 5(1), Oct. 4, 1961, [75 Stat. 808][/us/stat/75/808].)
 
 <table>
 
@@ -87,7 +87,7 @@ June 3, 1916, ch. 134, § 69; restated July 11, 1919, ch. 8 (20th par. under �
 
  __Effective Date of 1961 Amendment__ 
 
-[Pub. L. 87–378, § 6][/us/pl/87/378/s6], Oct. 4, 1961, [75 Stat. 808][/us/stat/75/808], provided that: 
+[Pub. L. 87–378][/us/pl/87/378], § 6, Oct. 4, 1961, [75 Stat. 808][/us/stat/75/808], provided that: 
 
 > “The amendments made by sections 3, 4, and 5 of this Act \[amending this section and sections 3261 and 8261 of Title 10, Armed Forces\] shall not affect any enlistment, reenlistment, or appointment entered into or made before the effective date of this Act \[Oct. 4, 1961\].”
 
@@ -100,10 +100,10 @@ June 3, 1916, ch. 134, § 69; restated July 11, 1919, ch. 8 (20th par. under �
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F601
-[/us/pl/87/378/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F378%2Fs5%2F1
+[/us/pl/87/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F378
 [/us/stat/75/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F808
 [/us/pl/87/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F378
-[/us/pl/87/378/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F378%2Fs6
+[/us/pl/87/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F378
 [/us/stat/75/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F808
 
 

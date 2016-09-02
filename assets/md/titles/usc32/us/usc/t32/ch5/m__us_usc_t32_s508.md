@@ -79,7 +79,7 @@
 
         (14) Any other youth or charitable organization designated by the Secretary of Defense.
 
-(Added [Pub. L. 103–337, div. A, title III, § 385(a)][/us/pl/103/337/s385/a], Oct. 5, 1994, [108 Stat. 2741][/us/stat/108/2741].)
+(Added [Pub. L. 103–337, div. A, title III][/us/pl/103/337/dA/tIII], § 385(a), Oct. 5, 1994, [108 Stat. 2741][/us/stat/108/2741].)
 
 ----------
 
@@ -88,7 +88,7 @@
 ----------
 ----------
 
-[/us/pl/103/337/s385/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs385%2Fa
+[/us/pl/103/337/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIII
 [/us/stat/108/2741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2741
 
 

@@ -99,11 +99,11 @@
 
  __Amendments__ 
 
-    2004—[Pub. L. 108–375, div. A, title V, § 594(b)(2)][/us/pl/108/375/s594/b/2], Oct. 28, 2004, [118 Stat. 1936][/us/stat/118/1936], substituted “National Guard Youth Challenge” for “National Guard Challenge” in item 509.
+    2004—[Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 594(b)(2), Oct. 28, 2004, [118 Stat. 1936][/us/stat/118/1936], substituted “National Guard Youth Challenge” for “National Guard Challenge” in item 509.
 
-    1997—[Pub. L. 105–85, div. A, title X, § 1076(b)][/us/pl/105/85/s1076/b], Nov. 18, 1997, [111 Stat. 1914][/us/stat/111/1914], added item 509.
+    1997—[Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1076(b), Nov. 18, 1997, [111 Stat. 1914][/us/stat/111/1914], added item 509.
 
-    1994—[Pub. L. 103–337, div. A, title III, § 385(b)][/us/pl/103/337/s385/b], Oct. 5, 1994, [108 Stat. 2742][/us/stat/108/2742], added item 508.
+    1994—[Pub. L. 103–337, div. A, title III][/us/pl/103/337/dA/tIII], § 385(b), Oct. 5, 1994, [108 Stat. 2742][/us/stat/108/2742], added item 508.
 
 ----------
 
@@ -112,11 +112,11 @@
 ----------
 ----------
 
-[/us/pl/108/375/s594/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs594%2Fb%2F2
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1936
-[/us/pl/105/85/s1076/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1076%2Fb
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1914
-[/us/pl/103/337/s385/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs385%2Fb
+[/us/pl/103/337/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIII
 [/us/stat/108/2742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2742
 
 

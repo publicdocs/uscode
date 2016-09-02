@@ -69,7 +69,7 @@
 
         (3) Duty without pay shall be considered for all purposes as if it were duty with pay.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 610][/us/stat/70A/610]; [Pub. L. 88–621, § 1(1)][/us/pl/88/621/s1/1], Oct. 3, 1964, [78 Stat. 999][/us/stat/78/999]; [Pub. L. 90–168, § 4][/us/pl/90/168/s4], Dec. 1, 1967, [81 Stat. 526][/us/stat/81/526]; [Pub. L. 92–156, title III, § 303(b)][/us/pl/92/156/s303/b], Nov. 17, 1971, [85 Stat. 425][/us/stat/85/425]; [Pub. L. 103–160, div. A, title V, § 524(b)][/us/pl/103/160/s524/b], Nov. 30, 1993, [107 Stat. 1657][/us/stat/107/1657]; [Pub. L. 109–364, div. A, title V, § 525(c)][/us/pl/109/364/s525/c], Oct. 17, 2006, [120 Stat. 2195][/us/stat/120/2195].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 610][/us/stat/70A/610]; [Pub. L. 88–621][/us/pl/88/621], § 1(1), Oct. 3, 1964, [78 Stat. 999][/us/stat/78/999]; [Pub. L. 90–168][/us/pl/90/168], § 4, Dec. 1, 1967, [81 Stat. 526][/us/stat/81/526]; [Pub. L. 92–156, title III][/us/pl/92/156/tIII], § 303(b), Nov. 17, 1971, [85 Stat. 425][/us/stat/85/425]; [Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], § 524(b), Nov. 30, 1993, [107 Stat. 1657][/us/stat/107/1657]; [Pub. L. 109–364, div. A, title V][/us/pl/109/364/dA/tV], § 525(c), Oct. 17, 2006, [120 Stat. 2195][/us/stat/120/2195].)
 
 <table>
 
@@ -178,15 +178,15 @@ In subsection (c), the word “member” is substituted for the words “officer
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F610
-[/us/pl/88/621/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F621%2Fs1%2F1
+[/us/pl/88/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F621
 [/us/stat/78/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F999
-[/us/pl/90/168/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F168%2Fs4
+[/us/pl/90/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F168
 [/us/stat/81/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F526
-[/us/pl/92/156/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F156%2Fs303%2Fb
+[/us/pl/92/156/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F156%2FtIII
 [/us/stat/85/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F425
-[/us/pl/103/160/s524/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs524%2Fb
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1657
-[/us/pl/109/364/s525/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs525%2Fc
+[/us/pl/109/364/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtV
 [/us/stat/120/2195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2195
 [/us/usc/t10/s683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs683
 [/us/stat/63/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F826

@@ -41,7 +41,7 @@
 
     (f) Federal recognition extended under subsection (d) or (e) is effective from the date of appointment in the Army National Guard or the Air National Guard, as the case may be.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 602][/us/stat/70A/602]; [Pub. L. 85–861, § 2(6)][/us/pl/85/861/s2/6], Sept. 2, 1958, [72 Stat. 1543][/us/stat/72/1543]; [Pub. L. 92–492, § 2(b)][/us/pl/92/492/s2/b], Oct. 13, 1972, [86 Stat. 810][/us/stat/86/810]; [Pub. L. 96–535][/us/pl/96/535], Dec. 16, 1980, [94 Stat. 3165][/us/stat/94/3165]; [Pub. L. 103–337, div. A, title XVI, § 1676(a)(2)][/us/pl/103/337/s1676/a/2], Oct. 5, 1994, [108 Stat. 3019][/us/stat/108/3019].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 602][/us/stat/70A/602]; [Pub. L. 85–861][/us/pl/85/861], § 2(6), Sept. 2, 1958, [72 Stat. 1543][/us/stat/72/1543]; [Pub. L. 92–492][/us/pl/92/492], § 2(b), Oct. 13, 1972, [86 Stat. 810][/us/stat/86/810]; [Pub. L. 96–535][/us/pl/96/535], Dec. 16, 1980, [94 Stat. 3165][/us/stat/94/3165]; [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1676(a)(2), Oct. 5, 1994, [108 Stat. 3019][/us/stat/108/3019].)
 
 <table>
 
@@ -207,9 +207,9 @@ Sept. 3, 1954, ch. 1257, § 519(b), 68 Stat. 1179.  </td>
 
     1972—Subsec. (g). [Pub. L. 92–492][/us/pl/92/492] added subsec. (g).
 
-    1958—Subsec. (a)(3). [Pub. L. 85–861, § 2(6)(A)][/us/pl/85/861/s2/6/A], substituted “subsections (d) and (e) of this section and sections 8365 and 8366 of title 10” for “subsection (d)”.
+    1958—Subsec. (a)(3). [Pub. L. 85–861][/us/pl/85/861], § 2(6)(A), substituted “subsections (d) and (e) of this section and sections 8365 and 8366 of title 10” for “subsection (d)”.
 
-    Subsecs. (e), (f). [Pub. L. 85–861, § 2(6)(B)][/us/pl/85/861/s2/6/B], added subsecs. (e) and (f).
+    Subsecs. (e), (f). [Pub. L. 85–861][/us/pl/85/861], § 2(6)(B), added subsecs. (e) and (f).
 
  __Effective Date of 1994 Amendment__ 
 
@@ -229,21 +229,21 @@ Sept. 3, 1954, ch. 1257, § 519(b), 68 Stat. 1179.  </td>
 [/us/usc/t32/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs312
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F602
-[/us/pl/85/861/s2/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs2%2F6
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1543
-[/us/pl/92/492/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F492%2Fs2%2Fb
+[/us/pl/92/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F492
 [/us/stat/86/810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F810
 [/us/pl/96/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F535
 [/us/stat/94/3165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3165
-[/us/pl/103/337/s1676/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1676%2Fa%2F2
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3019
 [/us/usc/t32/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs113
 [/us/usc/t32/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs113
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/96/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F535
 [/us/pl/92/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F492
-[/us/pl/85/861/s2/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs2%2F6%2FA
-[/us/pl/85/861/s2/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs2%2F6%2FB
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/337/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691
 [/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001

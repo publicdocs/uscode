@@ -19,7 +19,7 @@
 
     (b) The training of the National Guard shall be conducted by the several States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands in conformity with this title.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 609][/us/stat/70A/609]; [Pub. L. 100–456, div. A, title XII, § 1234(b)(1)][/us/pl/100/456/s1234/b/1], Sept. 29, 1988, [102 Stat. 2059][/us/stat/102/2059]; [Pub. L. 109–163, div. A, title X, § 1057(b)(7)][/us/pl/109/163/s1057/b/7], Jan. 6, 2006, [119 Stat. 3442][/us/stat/119/3442].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 609][/us/stat/70A/609]; [Pub. L. 100–456, div. A, title XII][/us/pl/100/456/dA/tXII], § 1234(b)(1), Sept. 29, 1988, [102 Stat. 2059][/us/stat/102/2059]; [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1057(b)(7), Jan. 6, 2006, [119 Stat. 3442][/us/stat/119/3442].)
 
 <table>
 
@@ -79,7 +79,7 @@ June 3, 1916, ch. 134, § 91, 39 Stat. 206.  </td>
 
  __Demonstration Project To Increase Reserve Component Internet Access and Services in Rural Communities__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 390\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–90, provided that:
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title III, § 390\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–90, provided that:
 
 >     “(a)  __Authorization and Purpose of Project__  __.—__ 
 
@@ -99,7 +99,7 @@ June 3, 1916, ch. 134, § 91, 39 Stat. 206.  </td>
 
  __Pilot Program To Use National Guard Personnel in Medically Underserved Communities__ 
 
-[Pub. L. 102–484, div. A, title III, § 376][/us/pl/102/484/s376], Oct. 23, 1992, [106 Stat. 2385][/us/stat/106/2385], as amended by [Pub. L. 103–160, div. A, title III, § 365][/us/pl/103/160/s365], Nov. 30, 1993, [107 Stat. 1629][/us/stat/107/1629]; [Pub. L. 103–337, div. A, title III, § 384][/us/pl/103/337/s384], Oct. 5, 1994, [108 Stat. 2741][/us/stat/108/2741], provided that:
+[Pub. L. 102–484, div. A, title III][/us/pl/102/484/dA/tIII], § 376, Oct. 23, 1992, [106 Stat. 2385][/us/stat/106/2385], as amended by [Pub. L. 103–160, div. A, title III][/us/pl/103/160/dA/tIII], § 365, Nov. 30, 1993, [107 Stat. 1629][/us/stat/107/1629]; [Pub. L. 103–337, div. A, title III][/us/pl/103/337/dA/tIII], § 384, Oct. 5, 1994, [108 Stat. 2741][/us/stat/108/2741], provided that:
 
 >     “(a)  __Pilot Program__  __.—__ 
 
@@ -151,7 +151,7 @@ June 3, 1916, ch. 134, § 91, 39 Stat. 206.  </td>
 
  __National Guard Civilian Youth Opportunities Pilot Program__ 
 
-[Pub. L. 104–106, div. A, title V, § 573][/us/pl/104/106/s573], Feb. 10, 1996, [110 Stat. 355][/us/stat/110/355], provided that:
+[Pub. L. 104–106, div. A, title V][/us/pl/104/106/dA/tV], § 573, Feb. 10, 1996, [110 Stat. 355][/us/stat/110/355], provided that:
 
 >     “(a)  __Termination__  __.—__ 
 
@@ -161,7 +161,7 @@ June 3, 1916, ch. 134, § 91, 39 Stat. 206.  </td>
 
 >     During the period beginning on the date of the enactment of this Act and ending on the termination of the pilot program under subsection (a), the number of programs carried out under subsection (d) of that section as part of the pilot program may not exceed the number of such programs as of September 30, 1995.”
 
-[Pub. L. 102–484, div. A, title X, § 1091][/us/pl/102/484/s1091], Oct. 23, 1992, [106 Stat. 2519][/us/stat/106/2519], as amended by [Pub. L. 103–82, title I, § 104(e)(1)(A)][/us/pl/103/82/s104/e/1/A], (C), Sept. 21, 1993, [107 Stat. 846][/us/stat/107/846]; [Pub. L. 103–160, div. A, title XI, § 1174][/us/pl/103/160/s1174], Nov. 30, 1993, [107 Stat. 1767][/us/stat/107/1767]; [Pub. L. 103–382, title III, § 391][/us/pl/103/382/s391](o), Oct. 20, 1994, [108 Stat. 4024][/us/stat/108/4024]; [Pub. L. 105–85, div. A, title X, § 1073(d)(2)(B)][/us/pl/105/85/s1073/d/2/B], Nov. 18, 1997, [111 Stat. 1905][/us/stat/111/1905], provided that:
+[Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1091, Oct. 23, 1992, [106 Stat. 2519][/us/stat/106/2519], as amended by [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 104(e)(1)(A), (C), Sept. 21, 1993, [107 Stat. 846][/us/stat/107/846]; [Pub. L. 103–160, div. A, title XI][/us/pl/103/160/dA/tXI], § 1174, Nov. 30, 1993, [107 Stat. 1767][/us/stat/107/1767]; [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 391(o), Oct. 20, 1994, [108 Stat. 4024][/us/stat/108/4024]; [Pub. L. 105–85, div. A, title X][/us/pl/105/85/dA/tX], § 1073(d)(2)(B), Nov. 18, 1997, [111 Stat. 1905][/us/stat/111/1905], provided that:
 
 >     “(a)  __Program Authority__  __.—__ 
 
@@ -300,34 +300,34 @@ June 3, 1916, ch. 134, § 91, 39 Stat. 206.  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F609
-[/us/pl/100/456/s1234/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1234%2Fb%2F1
+[/us/pl/100/456/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtXII
 [/us/stat/102/2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2059
-[/us/pl/109/163/s1057/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1057%2Fb%2F7
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3442
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/102/484/s376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs376
+[/us/pl/102/484/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtIII
 [/us/stat/106/2385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2385
-[/us/pl/103/160/s365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs365
+[/us/pl/103/160/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtIII
 [/us/stat/107/1629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1629
-[/us/pl/103/337/s384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs384
+[/us/pl/103/337/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIII
 [/us/stat/108/2741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2741
 [/us/usc/t32/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs502
-[/us/pl/104/106/s573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs573
+[/us/pl/104/106/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtV
 [/us/stat/110/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F355
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/usc/t32/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs501
-[/us/pl/102/484/s1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1091
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2519
-[/us/pl/103/82/s104/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs104%2Fe%2F1%2FA
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F846
-[/us/pl/103/160/s1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1174
+[/us/pl/103/160/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXI
 [/us/stat/107/1767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1767
-[/us/pl/103/382/s391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs391
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/4024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4024
-[/us/pl/105/85/s1073/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fd%2F2%2FB
+[/us/pl/105/85/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtX
 [/us/stat/111/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1905
 [/us/usc/t42/s12611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12611
 [/us/usc/t42/s12618/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12618%2Ff

@@ -39,7 +39,7 @@
 
     (c) The pay and allowances for the Chief of the National Guard Bureau and officers of the Army National Guard of the United States or the Air National Guard of the United States called to active duty under [section 12402 of title 10][/us/usc/t10/s12402] shall be paid from appropriations for the pay of the Army National Guard or Air National Guard.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 599][/us/stat/70A/599]; [Pub. L. 90–83, § 4][/us/pl/90/83/s4], Sept. 11, 1967, [81 Stat. 220][/us/stat/81/220]; [Pub. L. 92–119, § 1(a)][/us/pl/92/119/s1/a], Aug. 13, 1971, [85 Stat. 340][/us/stat/85/340]; [Pub. L. 97–258, § 2(h)][/us/pl/97/258/s2/h], Sept. 13, 1982, [96 Stat. 1061][/us/stat/96/1061]; [Pub. L. 100–456, div. A, title XII, § 1234(b)(1)][/us/pl/100/456/s1234/b/1], Sept. 29, 1988, [102 Stat. 2059][/us/stat/102/2059]; [Pub. L. 103–337, div. A, title XVI, § 1676(a)(1)][/us/pl/103/337/s1676/a/1], Oct. 5, 1994, [108 Stat. 3019][/us/stat/108/3019]; [Pub. L. 105–85, div. A, title VI, § 603(d)(4)][/us/pl/105/85/s603/d/4], Nov. 18, 1997, [111 Stat. 1783][/us/stat/111/1783]; [Pub. L. 108–136, div. A, title V, § 514(a)][/us/pl/108/136/s514/a], Nov. 24, 2003, [117 Stat. 1460][/us/stat/117/1460]; [Pub. L. 109–163, div. A, title X, § 1057(b)(3)][/us/pl/109/163/s1057/b/3], Jan. 6, 2006, [119 Stat. 3441][/us/stat/119/3441].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 599][/us/stat/70A/599]; [Pub. L. 90–83][/us/pl/90/83], § 4, Sept. 11, 1967, [81 Stat. 220][/us/stat/81/220]; [Pub. L. 92–119][/us/pl/92/119], § 1(a), Aug. 13, 1971, [85 Stat. 340][/us/stat/85/340]; [Pub. L. 97–258][/us/pl/97/258], § 2(h), Sept. 13, 1982, [96 Stat. 1061][/us/stat/96/1061]; [Pub. L. 100–456, div. A, title XII][/us/pl/100/456/dA/tXII], § 1234(b)(1), Sept. 29, 1988, [102 Stat. 2059][/us/stat/102/2059]; [Pub. L. 103–337, div. A, title XVI][/us/pl/103/337/dA/tXVI], § 1676(a)(1), Oct. 5, 1994, [108 Stat. 3019][/us/stat/108/3019]; [Pub. L. 105–85, div. A, title VI][/us/pl/105/85/dA/tVI], § 603(d)(4), Nov. 18, 1997, [111 Stat. 1783][/us/stat/111/1783]; [Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 514(a), Nov. 24, 2003, [117 Stat. 1460][/us/stat/117/1460]; [Pub. L. 109–163, div. A, title X][/us/pl/109/163/dA/tX], § 1057(b)(3), Jan. 6, 2006, [119 Stat. 3441][/us/stat/119/3441].)
 
 <table>
 
@@ -169,17 +169,17 @@ Aug. 10, 1956, ch. 1041, § 30, 70A Stat. 632.  </td>
 
     1982—Subsec. (c). [Pub. L. 97–258][/us/pl/97/258] added subsec. (c).
 
-    1971—[Pub. L. 92–119, § 1(a)(1)][/us/pl/92/119/s1/a/1], substituted “Availability” for “Apportionment” in section catchline.
+    1971—[Pub. L. 92–119][/us/pl/92/119], § 1(a)(1), substituted “Availability” for “Apportionment” in section catchline.
 
-    Subsec. (a). [Pub. L. 92–119, § 1(a)(2)][/us/pl/92/119/s1/a/2], (3), (4), redesignated subsec. (b) as (a) and substituted “appropriation for the National Guard” for “apportioned appropriation”. Former subsec. (a), which provided for apportionment of appropriations for Army National Guard and Air National Guard under prescribed formulas among States, territories, Puerto Rico, Canal Zone, District of Columbia, was struck out.
+    Subsec. (a). [Pub. L. 92–119][/us/pl/92/119], § 1(a)(2), (3), (4), redesignated subsec. (b) as (a) and substituted “appropriation for the National Guard” for “apportioned appropriation”. Former subsec. (a), which provided for apportionment of appropriations for Army National Guard and Air National Guard under prescribed formulas among States, territories, Puerto Rico, Canal Zone, District of Columbia, was struck out.
 
-    Subsecs. (b), (c). [Pub. L. 92–119, § 1(a)(4)][/us/pl/92/119/s1/a/4], redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a) and amended.
+    Subsecs. (b), (c). [Pub. L. 92–119][/us/pl/92/119], § 1(a)(4), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a) and amended.
 
     1967—Subsec. (c). [Pub. L. 90–83][/us/pl/90/83] substituted “402 and 403” for “251 and 252”.
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–136, div. A, title V, § 514(b)][/us/pl/108/136/s514/b], Nov. 24, 2003, [117 Stat. 1460][/us/stat/117/1460], provided that: 
+[Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 514(b), Nov. 24, 2003, [117 Stat. 1460][/us/stat/117/1460], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall not apply with respect to funds appropriated for a fiscal year before fiscal year 2004.”
 
@@ -193,7 +193,7 @@ Aug. 10, 1956, ch. 1041, § 30, 70A Stat. 632.  </td>
 
  __Department of Defense State Partnership Program__ 
 
-[Pub. L. 113–66, div. A, title XII, § 1205][/us/pl/113/66/s1205], Dec. 26, 2013, [127 Stat. 897][/us/stat/127/897], as amended by [Pub. L. 114–92, div. A, title XII, § 1203(a)][/us/pl/114/92/s1203/a]–(e), (g)–(i), Nov. 25, 2015, [129 Stat. 1037–1039][/us/stat/129/1037-1039], provided that:
+[Pub. L. 113–66, div. A, title XII][/us/pl/113/66/dA/tXII], § 1205, Dec. 26, 2013, [127 Stat. 897][/us/stat/127/897], as amended by [Pub. L. 114–92, div. A, title XII][/us/pl/114/92/dA/tXII], § 1203(a)–(e), (g)–(i), Nov. 25, 2015, [129 Stat. 1037–1039][/us/stat/129/1037-1039], provided that:
 
 >     “(a) __Authority.—__ 
 
@@ -295,7 +295,7 @@ Aug. 10, 1956, ch. 1041, § 30, 70A Stat. 632.  </td>
 
 >     Nothing in this section shall be construed to supersede any authority under title 10, United States Code, as in effect on the date of the enactment of this Act \[Dec. 26, 2013\].
 
->     “(h)  __Definitions__  __.—__ 
+>     “(h) __\[there are two subsecs. (h)\]__  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -321,7 +321,7 @@ Aug. 10, 1956, ch. 1041, § 30, 70A Stat. 632.  </td>
 
 >                 “(ii) pay, allowances, and other normal costs of the personnel of the country.
 
->     “(h)  __Repeal of Superseded Authority__  __.—__ 
+>     “(h) __\[there are two subsecs. (h)\]__  __Repeal of Superseded Authority__  __.—__ 
 
 >     \[Repealed [section 1210 of Pub. L. 111–84][/us/pl/111/84/s1210], formerly set out as a note below.\]
 
@@ -331,7 +331,7 @@ Aug. 10, 1956, ch. 1041, § 30, 70A Stat. 632.  </td>
 
  __Limitation on Activities Under State Partnership Program Pending Compliance With Certain Program-Related Requirements__ 
 
-[Pub. L. 112–239, div. A, title XII, § 1204][/us/pl/112/239/s1204], Jan. 2, 2013, [126 Stat. 1982][/us/stat/126/1982], provided that:
+[Pub. L. 112–239, div. A, title XII][/us/pl/112/239/dA/tXII], § 1204, Jan. 2, 2013, [126 Stat. 1982][/us/stat/126/1982], provided that:
 
 >     “(a)  __Limitation__  __.—__ 
 
@@ -351,7 +351,7 @@ Aug. 10, 1956, ch. 1041, § 30, 70A Stat. 632.  </td>
 
  __Availability of Appropriated Funds for the State Partnership Program__ 
 
-    [Pub. L. 111–84, div. A, title XII, § 1210][/us/pl/111/84/s1210], Oct. 28, 2009, [123 Stat. 2517][/us/stat/123/2517], which required the Secretary of Defense to prescribe regulations regarding appropriated funds for the State Partnership Program, submit the regulations to defense and foreign relations committees, and report to the committees, was repealed by [Pub. L. 113–66, div. A, title XII, § 1205(h)][/us/pl/113/66/s1205/h], Dec. 26, 2013, [127 Stat. 899][/us/stat/127/899].
+    [Pub. L. 111–84, div. A, title XII][/us/pl/111/84/dA/tXII], § 1210, Oct. 28, 2009, [123 Stat. 2517][/us/stat/123/2517], which required the Secretary of Defense to prescribe regulations regarding appropriated funds for the State Partnership Program, submit the regulations to defense and foreign relations committees, and report to the committees, was repealed by [Pub. L. 113–66, div. A, title XII][/us/pl/113/66/dA/tXII], § 1205(h), Dec. 26, 2013, [127 Stat. 899][/us/stat/127/899].
 
 ----------
 
@@ -363,21 +363,21 @@ Aug. 10, 1956, ch. 1041, § 30, 70A Stat. 632.  </td>
 [/us/usc/t10/s12402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12402
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F599
-[/us/pl/90/83/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs4
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F220
-[/us/pl/92/119/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F119%2Fs1%2Fa
+[/us/pl/92/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F119
 [/us/stat/85/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F340
-[/us/pl/97/258/s2/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs2%2Fh
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1061
-[/us/pl/100/456/s1234/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1234%2Fb%2F1
+[/us/pl/100/456/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2FdA%2FtXII
 [/us/stat/102/2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2059
-[/us/pl/103/337/s1676/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1676%2Fa%2F1
+[/us/pl/103/337/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtXVI
 [/us/stat/108/3019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3019
-[/us/pl/105/85/s603/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs603%2Fd%2F4
+[/us/pl/105/85/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtVI
 [/us/stat/111/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1783
-[/us/pl/108/136/s514/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs514%2Fa
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1460
-[/us/pl/109/163/s1057/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1057%2Fb%2F3
+[/us/pl/109/163/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtX
 [/us/stat/119/3441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3441
 [/us/usc/t32/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs106
 [/us/usc/t10/s3031/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3031%2Fb
@@ -388,11 +388,11 @@ Aug. 10, 1956, ch. 1041, § 30, 70A Stat. 632.  </td>
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
-[/us/pl/92/119/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F119%2Fs1%2Fa%2F1
-[/us/pl/92/119/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F119%2Fs1%2Fa%2F2
-[/us/pl/92/119/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F119%2Fs1%2Fa%2F4
+[/us/pl/92/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F119
+[/us/pl/92/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F119
+[/us/pl/92/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F119
 [/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
-[/us/pl/108/136/s514/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs514%2Fb
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1460
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/105/85/s603/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs603%2Fe
@@ -400,20 +400,20 @@ Aug. 10, 1956, ch. 1041, § 30, 70A Stat. 632.  </td>
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/103/337/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691
 [/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001
-[/us/pl/113/66/s1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1205
+[/us/pl/113/66/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXII
 [/us/stat/127/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F897
-[/us/pl/114/92/s1203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1203%2Fa
+[/us/pl/114/92/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtXII
 [/us/stat/129/1037-1039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1037-1039
 [/us/pl/111/84/s1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1210
-[/us/pl/112/239/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1204
+[/us/pl/112/239/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXII
 [/us/stat/126/1982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1982
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/stat/123/2517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2517
 [/us/usc/t32/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs107
 [/us/usc/t31/s1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1341
-[/us/pl/111/84/s1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1210
+[/us/pl/111/84/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtXII
 [/us/stat/123/2517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2517
-[/us/pl/113/66/s1205/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1205%2Fh
+[/us/pl/113/66/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXII
 [/us/stat/127/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F899
 
 

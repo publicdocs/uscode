@@ -53,21 +53,21 @@
 
     (h) In this section, “settle” means consider, ascertain, adjust, determine, and dispose of a claim, whether by full or partial allowance or disallowance.
 
-(Added [Pub. L. 86–740, § 1(1)][/us/pl/86/740/s1/1], Sept. 13, 1960, [74 Stat. 878][/us/stat/74/878]; amended [Pub. L. 87–649, § 8(b)][/us/pl/87/649/s8/b], Sept. 7, 1962, [76 Stat. 495][/us/stat/76/495]; [Pub. L. 90–486, § 2(3)][/us/pl/90/486/s2/3], Aug. 13, 1968, [82 Stat. 756][/us/stat/82/756]; [Pub. L. 90–525, § 6][/us/pl/90/525/s6], Sept. 26, 1968, [82 Stat. 878][/us/stat/82/878]; [Pub. L. 91–312, § 3][/us/pl/91/312/s3], July 8, 1970, [84 Stat. 412][/us/stat/84/412]; [Pub. L. 92–445][/us/pl/92/445], Sept. 29, 1972, [86 Stat. 745][/us/stat/86/745]; [Pub. L. 93–336, § 3][/us/pl/93/336/s3], July 8, 1974, [88 Stat. 292][/us/stat/88/292]; [Pub. L. 98–564, § 4][/us/pl/98/564/s4], Oct. 30, 1984, [98 Stat. 2919][/us/stat/98/2919]; [Pub. L. 104–316, title II, § 202(r)][/us/pl/104/316/s202/r], Oct. 19, 1996, [110 Stat. 3844][/us/stat/110/3844].)
+(Added [Pub. L. 86–740][/us/pl/86/740], § 1(1), Sept. 13, 1960, [74 Stat. 878][/us/stat/74/878]; amended [Pub. L. 87–649][/us/pl/87/649], § 8(b), Sept. 7, 1962, [76 Stat. 495][/us/stat/76/495]; [Pub. L. 90–486][/us/pl/90/486], § 2(3), Aug. 13, 1968, [82 Stat. 756][/us/stat/82/756]; [Pub. L. 90–525][/us/pl/90/525], § 6, Sept. 26, 1968, [82 Stat. 878][/us/stat/82/878]; [Pub. L. 91–312][/us/pl/91/312], § 3, July 8, 1970, [84 Stat. 412][/us/stat/84/412]; [Pub. L. 92–445][/us/pl/92/445], Sept. 29, 1972, [86 Stat. 745][/us/stat/86/745]; [Pub. L. 93–336][/us/pl/93/336], § 3, July 8, 1974, [88 Stat. 292][/us/stat/88/292]; [Pub. L. 98–564][/us/pl/98/564], § 4, Oct. 30, 1984, [98 Stat. 2919][/us/stat/98/2919]; [Pub. L. 104–316, title II][/us/pl/104/316/tII], § 202(r), Oct. 19, 1996, [110 Stat. 3844][/us/stat/110/3844].)
 
  __Amendments__ 
 
     1996—Subsec. (d). [Pub. L. 104–316][/us/pl/104/316] substituted “Secretary of the Treasury” for “Comptroller General”.
 
-    1984—Subsec. (a). [Pub. L. 98–564, § 4(1)][/us/pl/98/564/s4/1], substituted “$100,000” for “$25,000”.
+    1984—Subsec. (a). [Pub. L. 98–564][/us/pl/98/564], § 4(1), substituted “$100,000” for “$25,000”.
 
-    Subsec. (d). [Pub. L. 98–564, § 4(2)][/us/pl/98/564/s4/2], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “If the Secretary of the military department concerned considers that a claim in excess of $25,000 is meritorious and would otherwise be covered by this section, he may pay the claimant $25,000 and report the excess to Congress for its consideration”.
+    Subsec. (d). [Pub. L. 98–564][/us/pl/98/564], § 4(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “If the Secretary of the military department concerned considers that a claim in excess of $25,000 is meritorious and would otherwise be covered by this section, he may pay the claimant $25,000 and report the excess to Congress for its consideration”.
 
-    Subsec. (f). [Pub. L. 98–564, § 4(3)][/us/pl/98/564/s4/3], amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “In any case where the amount to be paid is not more than $5,000, the authority contained in subsection (a) may be delegated to any officer of the Army or the Air Force, as the case may be, who has been delegated authority under [section 2733(g) of title 10][/us/usc/t10/s2733/g], to settle similar claims, subject to appeal to the Secretary concerned, or his designee for that purpose”.
+    Subsec. (f). [Pub. L. 98–564][/us/pl/98/564], § 4(3), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “In any case where the amount to be paid is not more than $5,000, the authority contained in subsection (a) may be delegated to any officer of the Army or the Air Force, as the case may be, who has been delegated authority under [section 2733(g) of title 10][/us/usc/t10/s2733/g], to settle similar claims, subject to appeal to the Secretary concerned, or his designee for that purpose”.
 
-    1974—Subsecs. (a), (d). [Pub. L. 93–336, § 3(1)][/us/pl/93/336/s3/1], (2), substituted “$25,000” for “$15,000”.
+    1974—Subsecs. (a), (d). [Pub. L. 93–336][/us/pl/93/336], § 3(1), (2), substituted “$25,000” for “$15,000”.
 
-    Subsec. (f). [Pub. L. 93–336, § 3(3)][/us/pl/93/336/s3/3], substituted “$5,000” for “$2,500”.
+    Subsec. (f). [Pub. L. 93–336][/us/pl/93/336], § 3(3), substituted “$5,000” for “$2,500”.
 
     1972—Subsec. (b)(4). [Pub. L. 92–445][/us/pl/92/445] inserted provision that claim may be allowed to extent that law of place where act or omission complained of occurred would permit recovery from a private individual under similar circumstances, when damage to or loss of property, or personal injury or death was caused wholly or partly by a negligent or wrongful act of claimant, his agent, or his employee.
 
@@ -103,31 +103,31 @@
 [/us/usc/t28/s2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2672
 [/us/usc/t32/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs709
 [/us/usc/t31/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1304
-[/us/pl/86/740/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F740%2Fs1%2F1
+[/us/pl/86/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F740
 [/us/stat/74/878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F878
-[/us/pl/87/649/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs8%2Fb
+[/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F495
-[/us/pl/90/486/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F486%2Fs2%2F3
+[/us/pl/90/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F486
 [/us/stat/82/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F756
-[/us/pl/90/525/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F525%2Fs6
+[/us/pl/90/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F525
 [/us/stat/82/878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F878
-[/us/pl/91/312/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F312%2Fs3
+[/us/pl/91/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F312
 [/us/stat/84/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F412
 [/us/pl/92/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F445
 [/us/stat/86/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F745
-[/us/pl/93/336/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F336%2Fs3
+[/us/pl/93/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F336
 [/us/stat/88/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F292
-[/us/pl/98/564/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F564%2Fs4
+[/us/pl/98/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F564
 [/us/stat/98/2919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2919
-[/us/pl/104/316/s202/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs202%2Fr
+[/us/pl/104/316/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtII
 [/us/stat/110/3844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3844
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
-[/us/pl/98/564/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F564%2Fs4%2F1
-[/us/pl/98/564/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F564%2Fs4%2F2
-[/us/pl/98/564/s4/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F564%2Fs4%2F3
+[/us/pl/98/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F564
+[/us/pl/98/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F564
+[/us/pl/98/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F564
 [/us/usc/t10/s2733/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2733%2Fg
-[/us/pl/93/336/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F336%2Fs3%2F1
-[/us/pl/93/336/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F336%2Fs3%2F3
+[/us/pl/93/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F336
+[/us/pl/93/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F336
 [/us/pl/92/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F445
 [/us/pl/91/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F312
 [/us/pl/90/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F486

@@ -45,27 +45,27 @@
 
     (f) This section does not affect any authority under any other law to litigate, settle, compromise, or waive any claim of the United States.
 
-(Added [Pub. L. 92–453, § 2(1)][/us/pl/92/453/s2/1], Oct. 2, 1972, [86 Stat. 759][/us/stat/86/759]; amended [Pub. L. 96–513, title V, § 515(9)][/us/pl/96/513/s515/9], Dec. 12, 1980, [94 Stat. 2937][/us/stat/94/2937]; [Pub. L. 99–224, § 3(a)][/us/pl/99/224/s3/a], Dec. 28, 1985, [99 Stat. 1742][/us/stat/99/1742]; [Pub. L. 102–190, div. A, title VI, § 657(c)][/us/pl/102/190/s657/c], Dec. 5, 1991, [105 Stat. 1393][/us/stat/105/1393]; [Pub. L. 104–316, title I, § 116][/us/pl/104/316/s116], Oct. 19, 1996, [110 Stat. 3835][/us/stat/110/3835]; [Pub. L. 109–364, div. A, title VI, § 671(b)][/us/pl/109/364/s671/b], Oct. 17, 2006, [120 Stat. 2270][/us/stat/120/2270].)
+(Added [Pub. L. 92–453][/us/pl/92/453], § 2(1), Oct. 2, 1972, [86 Stat. 759][/us/stat/86/759]; amended [Pub. L. 96–513, title V][/us/pl/96/513/tV], § 515(9), Dec. 12, 1980, [94 Stat. 2937][/us/stat/94/2937]; [Pub. L. 99–224][/us/pl/99/224], § 3(a), Dec. 28, 1985, [99 Stat. 1742][/us/stat/99/1742]; [Pub. L. 102–190, div. A, title VI][/us/pl/102/190/dA/tVI], § 657(c), Dec. 5, 1991, [105 Stat. 1393][/us/stat/105/1393]; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 116, Oct. 19, 1996, [110 Stat. 3835][/us/stat/110/3835]; [Pub. L. 109–364, div. A, title VI][/us/pl/109/364/dA/tVI], § 671(b), Oct. 17, 2006, [120 Stat. 2270][/us/stat/120/2270].)
 
  __Amendments__ 
 
-    2006—Subsec. (a)(2)(A). [Pub. L. 109–364, § 671(b)(1)][/us/pl/109/364/s671/b/1], substituted “$10,000” for “$1,500”.
+    2006—Subsec. (a)(2)(A). [Pub. L. 109–364][/us/pl/109/364], § 671(b)(1), substituted “$10,000” for “$1,500”.
 
-    Subsec. (b)(2). [Pub. L. 109–364, § 671(b)(2)][/us/pl/109/364/s671/b/2], substituted “five” for “three”.
+    Subsec. (b)(2). [Pub. L. 109–364][/us/pl/109/364], § 671(b)(2), substituted “five” for “three”.
 
-    1996—Subsec. (a)(1). [Pub. L. 104–316, § 116(1)(A)][/us/pl/104/316/s116/1/A], substituted “Director of the Office of Management and Budget” for “Comptroller General”.
+    1996—Subsec. (a)(1). [Pub. L. 104–316][/us/pl/104/316], § 116(1)(A), substituted “Director of the Office of Management and Budget” for “Comptroller General”.
 
-    Subsec. (a)(2). [Pub. L. 104–316, § 116(1)(B)][/us/pl/104/316/s116/1/B], inserted “and” at end of subpar. (A), redesignated subpar. (C) as (B) and substituted “Director of the Office of Management and Budget” for “Comptroller General”, and struck out former subpar. (B) which read as follows: “the claim is not the subject of an exception made by the Comptroller General in the account of any accountable officer or official; and”.
+    Subsec. (a)(2). [Pub. L. 104–316][/us/pl/104/316], § 116(1)(B), inserted “and” at end of subpar. (A), redesignated subpar. (C) as (B) and substituted “Director of the Office of Management and Budget” for “Comptroller General”, and struck out former subpar. (B) which read as follows: “the claim is not the subject of an exception made by the Comptroller General in the account of any accountable officer or official; and”.
 
-    Subsec. (b). [Pub. L. 104–316, § 116(2)][/us/pl/104/316/s116/2], substituted “The Director of the Office of Management and Budget” for “Comptroller General” in introductory provisions.
+    Subsec. (b). [Pub. L. 104–316][/us/pl/104/316], § 116(2), substituted “The Director of the Office of Management and Budget” for “Comptroller General” in introductory provisions.
 
     1991—Subsec. (a)(2)(A). [Pub. L. 102–190][/us/pl/102/190] substituted “$1,500” for “$500”.
 
-    1985—[Pub. L. 99–224, § 3(a)(1)][/us/pl/99/224/s3/a/1], substituted “and travel” for “other than travel” in section catchline.
+    1985—[Pub. L. 99–224][/us/pl/99/224], § 3(a)(1), substituted “and travel” for “other than travel” in section catchline.
 
-    Subsec. (a). [Pub. L. 99–224, § 3(a)(2)][/us/pl/99/224/s3/a/2], substituted “made before, on, or after October 2, 1972, or arising out of an erroneous payment of travel and transportation allowances” for “, other than travel and transportation allowances, made before or after October 2, 1972”.
+    Subsec. (a). [Pub. L. 99–224][/us/pl/99/224], § 3(a)(2), substituted “made before, on, or after October 2, 1972, or arising out of an erroneous payment of travel and transportation allowances” for “, other than travel and transportation allowances, made before or after October 2, 1972”.
 
-    Subsec. (b)(2). [Pub. L. 99–224, § 3(a)(3)][/us/pl/99/224/s3/a/3], struck out “of pay or allowances, other than travel and transportation allowances,” before “was discovered”.
+    Subsec. (b)(2). [Pub. L. 99–224][/us/pl/99/224], § 3(a)(3), struck out “of pay or allowances, other than travel and transportation allowances,” before “was discovered”.
 
     1980—Subsec. (a). [Pub. L. 96–513][/us/pl/96/513] substituted “October 2, 1972” for “the effective date of this section”.
 
@@ -93,27 +93,27 @@
 ----------
 
 [/us/usc/t37/s101/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs101%2F5
-[/us/pl/92/453/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F453%2Fs2%2F1
+[/us/pl/92/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F453
 [/us/stat/86/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F759
-[/us/pl/96/513/s515/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs515%2F9
+[/us/pl/96/513/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2FtV
 [/us/stat/94/2937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2937
-[/us/pl/99/224/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F224%2Fs3%2Fa
+[/us/pl/99/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F224
 [/us/stat/99/1742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1742
-[/us/pl/102/190/s657/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs657%2Fc
+[/us/pl/102/190/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtVI
 [/us/stat/105/1393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1393
-[/us/pl/104/316/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs116
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3835
-[/us/pl/109/364/s671/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs671%2Fb
+[/us/pl/109/364/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVI
 [/us/stat/120/2270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2270
-[/us/pl/109/364/s671/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs671%2Fb%2F1
-[/us/pl/109/364/s671/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs671%2Fb%2F2
-[/us/pl/104/316/s116/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs116%2F1%2FA
-[/us/pl/104/316/s116/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs116%2F1%2FB
-[/us/pl/104/316/s116/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs116%2F2
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
+[/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
+[/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
+[/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
-[/us/pl/99/224/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F224%2Fs3%2Fa%2F1
-[/us/pl/99/224/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F224%2Fs3%2Fa%2F2
-[/us/pl/99/224/s3/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F224%2Fs3%2Fa%2F3
+[/us/pl/99/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F224
+[/us/pl/99/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F224
+[/us/pl/99/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F224
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/109/364/s671/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs671%2Fc

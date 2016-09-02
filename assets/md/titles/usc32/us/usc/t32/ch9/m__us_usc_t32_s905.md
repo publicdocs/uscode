@@ -23,7 +23,7 @@
 
     (3) The procurement of services and equipment, and the leasing of equipment, for the National Guard of that State.
 
-(Added [Pub. L. 108–375, div. A, title V, § 512(a)(1)][/us/pl/108/375/s512/a/1], Oct. 28, 2004, [118 Stat. 1879][/us/stat/118/1879].)
+(Added [Pub. L. 108–375, div. A, title V][/us/pl/108/375/dA/tV], § 512(a)(1), Oct. 28, 2004, [118 Stat. 1879][/us/stat/118/1879].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t32/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs902
-[/us/pl/108/375/s512/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs512%2Fa%2F1
+[/us/pl/108/375/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtV
 [/us/stat/118/1879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1879
 
 

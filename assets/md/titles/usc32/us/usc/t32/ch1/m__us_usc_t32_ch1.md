@@ -147,15 +147,15 @@
 
  __Amendments__ 
 
-    1999—[Pub. L. 106–65, div. A, title V, § 578(k)(3)(B)][/us/pl/106/65/s578/k/3/B], Oct. 5, 1999, [113 Stat. 631][/us/stat/113/631], added items 114 and 115 and struck out former item 114 “Honor guard functions at funerals for veterans”.
+    1999—[Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 578(k)(3)(B), Oct. 5, 1999, [113 Stat. 631][/us/stat/113/631], added items 114 and 115 and struck out former item 114 “Honor guard functions at funerals for veterans”.
 
-    1997—[Pub. L. 105–85, div. A, title III, § 386(b)][/us/pl/105/85/s386/b], title V, § 517(b), Nov. 18, 1997, [111 Stat. 1713][/us/stat/111/1713], 1734, added items 113 and 114.
+    1997—[Pub. L. 105–85, div. A, title III][/us/pl/105/85/dA/tIII], § 386(b), title V, § 517(b), Nov. 18, 1997, [111 Stat. 1713][/us/stat/111/1713], 1734, added items 113 and 114.
 
-    1989—[Pub. L. 101–189, div. A, title XII, § 1207(a)(2)][/us/pl/101/189/s1207/a/2], Nov. 29, 1989, [103 Stat. 1566][/us/stat/103/1566], added item 112.
+    1989—[Pub. L. 101–189, div. A, title XII][/us/pl/101/189/dA/tXII], § 1207(a)(2), Nov. 29, 1989, [103 Stat. 1566][/us/stat/103/1566], added item 112.
 
-    1971—[Pub. L. 92–119, § 1(b)][/us/pl/92/119/s1/b], Aug. 13, 1971, [85 Stat. 340][/us/stat/85/340], substituted “Availability” for “Apportionment” in item 107.
+    1971—[Pub. L. 92–119][/us/pl/92/119], § 1(b), Aug. 13, 1971, [85 Stat. 340][/us/stat/85/340], substituted “Availability” for “Apportionment” in item 107.
 
-    1958—[Pub. L. 85–861, § 2(4)][/us/pl/85/861/s2/4], Sept. 2, 1958, [72 Stat. 1543][/us/stat/72/1543], added item 111.
+    1958—[Pub. L. 85–861][/us/pl/85/861], § 2(4), Sept. 2, 1958, [72 Stat. 1543][/us/stat/72/1543], added item 111.
 
 ----------
 
@@ -164,15 +164,15 @@
 ----------
 ----------
 
-[/us/pl/106/65/s578/k/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs578%2Fk%2F3%2FB
+[/us/pl/106/65/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtV
 [/us/stat/113/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F631
-[/us/pl/105/85/s386/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs386%2Fb
+[/us/pl/105/85/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2FdA%2FtIII
 [/us/stat/111/1713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1713
-[/us/pl/101/189/s1207/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs1207%2Fa%2F2
+[/us/pl/101/189/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtXII
 [/us/stat/103/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1566
-[/us/pl/92/119/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F119%2Fs1%2Fb
+[/us/pl/92/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F119
 [/us/stat/85/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F340
-[/us/pl/85/861/s2/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs2%2F4
+[/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
 [/us/stat/72/1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1543
 
 
