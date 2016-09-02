@@ -173,7 +173,7 @@
 
     Subsec. (c)(2). [Pub. L. 113–4, § 1206(3)(B)][/us/pl/113/4/s1206/3/B], inserted “and the video produced or dubbed” after “translated”.
 
-    Subsec. (d)(1). [Pub. L. 113–4, § 1206(4)(A)][/us/pl/113/4/s1206/4/A], inserted “and video’ after “information pamphlet”.
+    Subsec. (d)(1). [Pub. L. 113–4, § 1206(4)(A)][/us/pl/113/4/s1206/4/A], inserted “and video” after “information pamphlet”.
 
     Subsec. (d)(2). [Pub. L. 113–4, § 1206(4)(B)][/us/pl/113/4/s1206/4/B], inserted “and video” after “information pamphlet” in introductory provisions.
 

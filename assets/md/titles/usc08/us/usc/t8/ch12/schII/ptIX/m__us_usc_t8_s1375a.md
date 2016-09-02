@@ -229,7 +229,7 @@
 
                     (I) except as provided in subclause (II), violates (or attempts to violate) paragraph (1), (2), (3), or (4) shall be fined in accordance with title 18 or imprisoned for not more than 1 year, or both; or
 
-                    (II) knowingly violates or attempts to violate paragraphs (1), (2), (3), or (4) shall be fined in accordance with title 18 or imprisoned for not more than 5 years, or both.
+                    (II) knowingly violates or attempts to violate paragraphs  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “paragraph”. </sup></sup>  (1), (2), (3), or (4) shall be fined in accordance with title 18 or imprisoned for not more than 5 years, or both.
 
                 (ii) __Misuse of information__ 
 
@@ -289,7 +289,7 @@
 
         (2) __Domestic violence__ 
 
-            The term “domestic violence” has the meaning given such term in section 3 of this Act. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
+            The term “domestic violence” has the meaning given such term in section 3 of this Act. <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup> 
 
         (3) __Foreign national client__ 
 
@@ -353,7 +353,7 @@
 
             (A)
 
-             on the impact of this section and section 832 1 on the K nonimmigrant visa process, including specifically—
+             on the impact of this section and section 832 2 on the K nonimmigrant visa process, including specifically—
 
                 (i) annual numerical changes in petitions for K nonimmigrant visas;
 
@@ -373,7 +373,7 @@
 
             (B) regarding the number of international marriage brokers doing business in the United States, the number of marriages resulting from the services provided, and the extent of compliance with the applicable requirements of this section;
 
-            (C) that assesses the accuracy and completeness of information gathered under section 832 1 and this section from clients and petitioners by international marriage brokers, the Department of State, or the Department of Homeland Security;
+            (C) that assesses the accuracy and completeness of information gathered under section 832 2 and this section from clients and petitioners by international marriage brokers, the Department of State, or the Department of Homeland Security;
 
             (D) that examines, based on the information gathered, the extent to which persons with a history of violence are using either the K nonimmigrant visa process or the services of international marriage brokers, or both, and the extent to which such persons are providing accurate and complete information to the Department of State or the Department of Homeland Security and to international marriage brokers in accordance with subsections (a) and (d)(2)(B) of this section; and
 
@@ -391,7 +391,7 @@
 
             (A) __Study__ 
 
-                The Comptroller General shall conduct a study on the continuing impact of the implementation of this section and of section of  <sup>\[2\]</sup>  <sup><sup> 2 So in original. </sup></sup>  1184 of this title on the process for granting K nonimmigrant visas, including specifically a study of the items described in subparagraphs (A) through (E) of paragraph (1).
+                The Comptroller General shall conduct a study on the continuing impact of the implementation of this section and of section of  <sup>\[3\]</sup>  <sup><sup> 3 So in original. </sup></sup>  1184 of this title on the process for granting K nonimmigrant visas, including specifically a study of the items described in subparagraphs (A) through (E) of paragraph (1).
 
             (B) __Report__ 
 

@@ -447,7 +447,11 @@
 
         Beginning not later than the date designated by the Attorney General under subsection (a)(1)(A) of this section, the Attorney General, in cooperation with qualified designated entities, shall broadly disseminate information respecting the benefits which aliens may receive under this section and the requirements to obtain such benefits.
 
-([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 5, § 245A, as added [Pub. L. 99–603, title II, § 201(a)(1)][/us/pl/99/603/s201/a/1], Nov. 6, 1986, [100 Stat. 3394][/us/stat/100/3394]; amended [Pub. L. 100–525, § 2(h)(1)][/us/pl/100/525/s2/h/1], Oct. 24, 1988, [102 Stat. 2611][/us/stat/102/2611]; [Pub. L. 101–649, title VI, § 603(a)(13)][/us/pl/101/649/s603/a/13], title VII, § 703, Nov. 29, 1990, [104 Stat. 5083][/us/stat/104/5083], 5086; [Pub. L. 102–140, title I][/us/pl/102/140], Oct. 28, 1991, [105 Stat. 785][/us/stat/105/785]; [Pub. L. 102–232, title III, § 307][/us/pl/102/232/s307](l)(6), Dec. 12, 1991, [105 Stat. 1756][/us/stat/105/1756]; [Pub. L. 103–382, title III, § 394(g)][/us/pl/103/382/s394/g], Oct. 20, 1994, [108 Stat. 4028][/us/stat/108/4028]; [Pub. L. 103–416, title I, § 108(b)][/us/pl/103/416/s108/b], title II, § 219(l)(1), Oct. 25, 1994, [108 Stat. 4310][/us/stat/108/4310], 4317; [Pub. L. 104–132, title IV, § 431(a)][/us/pl/104/132/s431/a], Apr. 24, 1996, [110 Stat. 1273][/us/stat/110/1273]; [Pub. L. 104–193, title I, § 110(s)(2)][/us/pl/104/193/s110/s/2], Aug. 22, 1996, [110 Stat. 2175][/us/stat/110/2175]; [Pub. L. 104–208, div. C, title III][/us/pl/104/208], §§ 308(g)(2)(B), (5)(A)(iii), 377(a), 384(d)(1), title VI, § 623(a), Sept. 30, 1996, [110 Stat. 3009–622][/us/stat/110/3009-622], 3009–623, 3009–649, 3009–653, 3009–696; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(4), (f)(4)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–419, 2681–430; [Pub. L. 105–332, § 3(a)][/us/pl/105/332/s3/a], Oct. 31, 1998, [112 Stat. 3125][/us/stat/112/3125]; [Pub. L. 106–78, title VII, § 752(b)(5)][/us/pl/106/78/s752/b/5], Oct. 22, 1999, [113 Stat. 1169][/us/stat/113/1169]; [Pub. L. 109–270, § 2(a)][/us/pl/109/270/s2/a], Aug. 12, 2006, [120 Stat. 746][/us/stat/120/746]; [Pub. L. 110–234, title IV, § 4002(b)(1)(B)][/us/pl/110/234/s4002/b/1/B], (2)(J), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(B), (2)(J), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858.)
+([June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], title II, ch. 5, § 245A, as added [Pub. L. 99–603, title II, § 201(a)(1)][/us/pl/99/603/s201/a/1], Nov. 6, 1986, [100 Stat. 3394][/us/stat/100/3394]; amended [Pub. L. 100–525, § 2(h)(1)][/us/pl/100/525/s2/h/1], Oct. 24, 1988, [102 Stat. 2611][/us/stat/102/2611]; [Pub. L. 101–649, title VI, § 603(a)(13)][/us/pl/101/649/s603/a/13], title VII, § 703, Nov. 29, 1990, [104 Stat. 5083][/us/stat/104/5083], 5086; [Pub. L. 102–140, title I][/us/pl/102/140], Oct. 28, 1991, [105 Stat. 785][/us/stat/105/785]; [Pub. L. 102–232, title III, § 307][/us/pl/102/232/s307](l)(6), Dec. 12, 1991, [105 Stat. 1756][/us/stat/105/1756]; [Pub. L. 103–382, title III, § 394(g)][/us/pl/103/382/s394/g], Oct. 20, 1994, [108 Stat. 4028][/us/stat/108/4028]; [Pub. L. 103–416, title I, § 108(b)][/us/pl/103/416/s108/b], title II, § 219(l)(1), Oct. 25, 1994, [108 Stat. 4310][/us/stat/108/4310], 4317; [Pub. L. 104–132, title IV, § 431(a)][/us/pl/104/132/s431/a], Apr. 24, 1996, [110 Stat. 1273][/us/stat/110/1273]; [Pub. L. 104–193, title I, § 110(s)(2)][/us/pl/104/193/s110/s/2], Aug. 22, 1996, [110 Stat. 2175][/us/stat/110/2175]; [Pub. L. 104–208, div. C, title III][/us/pl/104/208], §§ 308(g)(2)(B), (5)(A)(iii), 377(a), 384(d)(1), title VI, § 623(a), Sept. 30, 1996, [110 Stat. 3009–622][/us/stat/110/3009-622], 3009–623, 3009–649, 3009–653, 3009–696; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(4), (f)(4)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–419, 2681–430; [Pub. L. 105–332, § 3(a)][/us/pl/105/332/s3/a], Oct. 31, 1998, [112 Stat. 3125][/us/stat/112/3125]; [Pub. L. 106–78, title VII, § 752(b)(5)][/us/pl/106/78/s752/b/5], Oct. 22, 1999, [113 Stat. 1169][/us/stat/113/1169]; [Pub. L. 109–270, § 2(a)][/us/pl/109/270/s2/a], Aug. 12, 2006, [120 Stat. 746][/us/stat/120/746]; [Pub. L. 110–234, title IV, § 4002(b)(1)(B)][/us/pl/110/234/s4002/b/1/B], (2)(J), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(B), (2)(J), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858; [Pub. L. 113–128, title V, § 512(q)][/us/pl/113/128/s512/q], July 22, 2014, [128 Stat. 1712][/us/stat/128/1712].)
+
+ __Amendment of Subsection (h)(4)(F)__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(q), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1712, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (h)(4)(F) of this section is amended by striking “Title I of the Workforce Investment Act of 1998” and inserting “Title I of the Workforce Innovation and Opportunity Act”. See 2014 Amendment note below.
 
  __References in Text__ 
 
@@ -494,6 +498,8 @@
     A prior section 1255a, [Pub. L. 85–316, § 9][/us/pl/85/316/s9], Sept. 11, 1957, [71 Stat. 641][/us/stat/71/641], provided for adjustment of status of certain resident aliens to that of a person admitted for permanent residence, the recording by Attorney General of alien’s lawful admission for permanent residence, and for granting of nonquota status to spouse and children, prior to repeal, eff. 180 days after Sept. 26, 1961, by [Pub. L. 87–301, § 24(a)(5)][/us/pl/87/301/s24/a/5], (b), Sept. 26, 1961, [75 Stat. 657][/us/stat/75/657].
 
  __Amendments__ 
+
+    2014—Subsec. (h)(4)(F). [Pub. L. 113–128][/us/pl/113/128] substituted “Title I of the Workforce Innovation and Opportunity Act” for “Title I of the Workforce Investment Act of 1998”.
 
     2008—Subsec. (h)(1)(A)(iii). [Pub. L. 110–246, § 4002(b)(1)(B)][/us/pl/110/246/s4002/b/1/B], (2)(J), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
@@ -574,6 +580,10 @@
     Subsec. (d)(2)(B)(ii). [Pub. L. 100–525, § 2(h)(1)(E)(ii)][/us/pl/100/525/s2/h/1/E/ii], inserted at end “Subclause (II) (prohibiting the waiver of [section 1182(a)(15) of this title][/us/usc/t8/s1182/a/15]) shall not apply to an alien who is or was an aged, blind, or disabled individual (as defined in section 1614(a)(1) of the Social Security Act).”
 
     Subsec. (d)(2)(B)(ii)(II). [Pub. L. 100–525, § 2(h)(1)(E)(i)][/us/pl/100/525/s2/h/1/E/i], struck out “by an alien other than an alien who is eligible for benefits under title XVI of the Social Security Act or [section 212 of Public Law 93–66][/us/pl/93/66/s212] for the month in which such alien is granted lawful temporary residence status under subsection (a) of this section” after “permanent residence”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -874,6 +884,10 @@
 [/us/stat/122/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1096
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/128/s512/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fq
+[/us/stat/128/1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1712
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/act/1948-06-24/ch625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch625
 [/us/stat/62/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F604
 [/us/usc/t50/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs451
@@ -942,6 +956,7 @@
 [/us/stat/71/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F641
 [/us/pl/87/301/s24/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F301%2Fs24%2Fa%2F5
 [/us/stat/75/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F657
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/110/246/s4002/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FB
 [/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
 [/us/pl/106/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78
@@ -985,6 +1000,9 @@
 [/us/usc/t8/s1182/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fa%2F15
 [/us/pl/100/525/s2/h/1/E/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525%2Fs2%2Fh%2F1%2FE%2Fi
 [/us/pl/93/66/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F66%2Fs212
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

@@ -2295,7 +2295,7 @@
 
  __Afghan Allies Protection__ 
 
-[Pub. L. 111–8, div. F, title VI][/us/pl/111/8], Mar. 11, 2009, [123 Stat. 807][/us/stat/123/807], as amended by [Pub. L. 111–118, div. A, title VIII, § 8120(b)][/us/pl/111/118/s8120/b], Dec. 19, 2009, [123 Stat. 3457][/us/stat/123/3457]; [Pub. L. 113–66, div. A, title XII, § 1219][/us/pl/113/66/s1219], Dec. 26, 2013, [127 Stat. 913][/us/stat/127/913]; [Pub. L. 113–76, div. K, title VII, § 7034][/us/pl/113/76/s7034](o), Jan. 17, 2014, [128 Stat. 516][/us/stat/128/516], provided that:
+[Pub. L. 111–8, div. F, title VI][/us/pl/111/8], Mar. 11, 2009, [123 Stat. 807][/us/stat/123/807], as amended by [Pub. L. 111–118, div. A, title VIII, § 8120(b)][/us/pl/111/118/s8120/b], Dec. 19, 2009, [123 Stat. 3457][/us/stat/123/3457]; [Pub. L. 113–66, div. A, title XII, § 1219][/us/pl/113/66/s1219], Dec. 26, 2013, [127 Stat. 913][/us/stat/127/913]; [Pub. L. 113–76, div. K, title VII, § 7034][/us/pl/113/76/s7034](o), Jan. 17, 2014, [128 Stat. 516][/us/stat/128/516]; [Pub. L. 113–160, § 1][/us/pl/113/160/s1], Aug. 8, 2014, [128 Stat. 1853][/us/stat/128/1853], provided that:
 
 > “SEC. 601. __SHORT TITLE.__ 
 
@@ -2361,7 +2361,7 @@
 
 >                          “(II) such petition would have been approved if the principal alien had survived.
 
->             “(D)  __Approval by chief of mission required__  __.—__ 
+>             “(D) __Approval by chief of mission required.—__ 
 
 >                 “(i)  __In general__  __.—__ 
 
@@ -2379,9 +2379,9 @@
 
 >                          be provided not more than one written appeal—
 
->                             “(AA) that shall be submitted not more than 120 days after the date that the applicant receives such decision in writing; and
+>                              “(AA) that shall be submitted not more than 120 days after the date that the applicant receives such decision in writing; and
 
->                             “(BB) that may request reopening of such decision and provide additional information, clarify existing information, or explain any unfavorable information.
+>                              “(BB) that may request reopening of such decision and provide additional information, clarify existing information, or explain any unfavorable information.
 
 >                          “(II)  __Afghan special immigrant visa coordinator__  __.—__ 
 
@@ -2433,7 +2433,23 @@
 
 >             For fiscal year 2014, the total number of principal aliens who may be provided special immigrant status under this section may not exceed 3,000, except that any unused balance of the total number of principal aliens who may be provided special immigrant status in fiscal year 2014 may be carried forward and provided through the end of fiscal year 2015, notwithstanding the provisions of paragraph (C), except that the one year period during which an alien must have been employed in accordance with subsection (b)(2)(A)(ii) shall be the period from October 7, 2001 through December 31, 2014, and except that the principal alien seeking special immigrant status under this subparagraph shall apply to the Chief of Mission in accordance with subsection (b)(2)(D) no later than September 30, 2014.
 
->         “(4)  __Application process__  __.—__ 
+>             “(E) __Special rule for end of calendar year 2014.—__ 
+
+>                 “(i)  __In general__  __.—__ 
+
+>                 During the period beginning on the date of the enactment of this subparagraph \[Aug. 8, 2014\] and ending on December 31, 2014, an additional 1,000 principal aliens may be provided special immigrant status under this section. For purposes of status provided under this subparagraph—
+
+>                          “(I) the period during which an alien must have been employed in accordance with paragraph (2)(A)(ii) must terminate on or before December 31, 2014;
+
+>                          “(II) the principal alien seeking special immigrant status under this subparagraph shall apply to the Chief of Mission in accordance with paragraph (2)(D) not later than December 31, 2014; and
+
+>                          “(III) the authority to provide such status shall terminate on December 31, 2014.
+
+>                 “(ii)  __Construction__  __.—__ 
+
+>                 Clause (i) shall not be construed to affect the authority, numerical limitations, or terms for provision of status, under subparagraph (D).
+
+>         “(4) __Application process.—__ 
 
 >             “(A)  __In general__  __.—__ 
 
@@ -4551,6 +4567,8 @@ This Administration has had success deterring large ship-based smuggling directl
 [/us/stat/127/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F913
 [/us/pl/113/76/s7034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs7034
 [/us/stat/128/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F516
+[/us/pl/113/160/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F160%2Fs1
+[/us/stat/128/1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1853
 [/us/usc/t8/s1101/a/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F27
 [/us/usc/t8/s1153/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1153%2Fb%2F4
 [/us/usc/t8/s1182/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fa%2F4

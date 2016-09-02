@@ -85,7 +85,11 @@
 
         (2) an individual, spouse, or dependent described in [section 1612(a)(2)(K) of this title][/us/usc/t8/s1612/a/2/K], but only with respect to the specified Federal program described in [section 1612(a)(3)(B) of this title][/us/usc/t8/s1612/a/3/B].
 
-([Pub. L. 104–193, title IV, § 403][/us/pl/104/193/s403], Aug. 22, 1996, [110 Stat. 2265][/us/stat/110/2265]; [Pub. L. 105–33, title V][/us/pl/105/33], §§ 5302(c)(1), 5303(c), 5306(c), 5562, 5563, Aug. 5, 1997, [111 Stat. 599][/us/stat/111/599], 600, 602, 638; [Pub. L. 105–185, title V, § 509][/us/pl/105/185/s509], June 23, 1998, [112 Stat. 580][/us/stat/112/580]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(3)(A), (f)(3)(A)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–419, 2681–429; [Pub. L. 106–78, title VII, § 752(b)(6)][/us/pl/106/78/s752/b/6], Oct. 22, 1999, [113 Stat. 1169][/us/stat/113/1169]; [Pub. L. 107–171, title IV, § 4401(b)(2)(A)][/us/pl/107/171/s4401/b/2/A], May 13, 2002, [116 Stat. 333][/us/stat/116/333].)
+([Pub. L. 104–193, title IV, § 403][/us/pl/104/193/s403], Aug. 22, 1996, [110 Stat. 2265][/us/stat/110/2265]; [Pub. L. 105–33, title V][/us/pl/105/33], §§ 5302(c)(1), 5303(c), 5306(c), 5562, 5563, Aug. 5, 1997, [111 Stat. 599][/us/stat/111/599], 600, 602, 638; [Pub. L. 105–185, title V, § 509][/us/pl/105/185/s509], June 23, 1998, [112 Stat. 580][/us/stat/112/580]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(3)(A), (f)(3)(A)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–419, 2681–429; [Pub. L. 106–78, title VII, § 752(b)(6)][/us/pl/106/78/s752/b/6], Oct. 22, 1999, [113 Stat. 1169][/us/stat/113/1169]; [Pub. L. 107–171, title IV, § 4401(b)(2)(A)][/us/pl/107/171/s4401/b/2/A], May 13, 2002, [116 Stat. 333][/us/stat/116/333]; [Pub. L. 113–128, title V, § 512(x)][/us/pl/113/128/s512/x], July 22, 2014, [128 Stat. 1716][/us/stat/128/1716].)
+
+ __Amendment of Subsection (c)(2)(K)__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(x), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1716, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (c)(2)(K) of this section is amended by striking “Benefits under the title I of the Workforce Investment Act of 1998” and inserting “Benefits under title I of the Workforce Innovation and Opportunity Act”. See 2014 Amendment note below.
 
  __References in Text__ 
 
@@ -115,6 +119,8 @@
 
  __Amendments__ 
 
+    2014—Subsec. (c)(2)(K). [Pub. L. 113–128][/us/pl/113/128] substituted “Benefits under title I of the Workforce Innovation and Opportunity Act” for “Benefits under the title I of the Workforce Investment Act of 1998”.
+
     2002—Subsec. (c)(2)(L). [Pub. L. 107–171][/us/pl/107/171] added subpar. (L).
 
     1999—Subsec. (c)(2)(C). [Pub. L. 106–78][/us/pl/106/78] substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
@@ -140,6 +146,10 @@
     Subsec. (d). [Pub. L. 105–33, § 5303(c)][/us/pl/105/33/s5303/c], added subsec. (d).
 
     [Pub. L. 105–33, § 5302(c)(1)(B)][/us/pl/105/33/s5302/c/1/B], struck out heading and text of subsec. (d). Text read as follows: “The limitation under subsection (a) of this section shall not apply to refugee and entrant assistance activities, authorized by title IV of the Immigration and Nationality Act \[[8 U.S.C. 1521][/us/usc/t8/s1521] et seq.\] and section 501 of the Refugee Education Assistance Act of 1980, for Cuban and Haitian entrants as defined in section 501(e)(2) of the Refugee Education Assistance Act of 1980.”
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date of 2002 Amendment__ 
 
@@ -204,6 +214,10 @@
 [/us/stat/113/1169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1169
 [/us/pl/107/171/s4401/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs4401%2Fb%2F2%2FA
 [/us/stat/116/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F333
+[/us/pl/113/128/s512/x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fx
+[/us/stat/128/1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1716
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/usc/t8/s1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1253
 [/us/usc/t8/s1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1253
 [/us/pl/104/208/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs307%2Fa
@@ -244,6 +258,7 @@
 [/us/pl/88/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525
 [/us/stat/78/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F703
 [/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/pl/106/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
@@ -262,6 +277,7 @@
 [/us/pl/105/33/s5303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5303%2Fc
 [/us/pl/105/33/s5302/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5302%2Fc%2F1%2FB
 [/us/usc/t8/s1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1521
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/107/171/s4401/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs4401%2Fb%2F2%2FA
 [/us/pl/107/171/s4401/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs4401%2Fb%2F3
 [/us/usc/t7/s2014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2014

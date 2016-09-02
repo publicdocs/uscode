@@ -141,7 +141,7 @@
 
                     (III) was not entered into for the purpose of procuring an alien’s admission as an immigrant; and
 
-                (ii) no fee or other consideration was given (other than a fee or other consideration to an attorney for assistance in preparation of a lawful petition) for the filing of a petition under [section 1154(a) of this title][/us/usc/t8/s1154/a] or subsection (d) or (p)  <sup>\[3\]</sup>  <sup><sup> 3 See References in Text note below. </sup></sup>  of [section 1184 of this title][/us/usc/t8/s1184] with respect to the alien spouse or alien son or daughter.
+                (ii) no fee or other consideration was given (other than a fee or other consideration to an attorney for assistance in preparation of a lawful petition) for the filing of a petition under [section 1154(a) of this title][/us/usc/t8/s1154/a] or subsection (d) or (p)  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  of [section 1184 of this title][/us/usc/t8/s1184] with respect to the alien spouse or alien son or daughter.
 
             (B) __Statement of additional information__ 
 

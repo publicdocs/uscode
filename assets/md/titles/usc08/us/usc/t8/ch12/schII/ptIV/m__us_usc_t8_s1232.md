@@ -231,7 +231,7 @@
 
             (F) __Authorization of appropriations__ 
 
-            There are authorized to be appropriated to the Secretary and Human Services to carry out this subsection—
+            There are authorized to be appropriated to the Secretary and Human Services  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “Secretary of Health and Human Services”. </sup></sup>  to carry out this subsection—
 
                 (i) $1,000,000 for each of the fiscal years 2014 and 2015; and
 
@@ -303,6 +303,8 @@
 
     The Immigration and Nationality Act, referred to in subsec. (a)(2)(B), is [act June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], [66 Stat. 163][/us/stat/66/163], which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of this title][/us/usc/t8/s1101] and Tables.
 
+    March 7, 2013, referred to in subsec. (c)(6)(E)(iii), was in the original “the date of the enactment of this Act”, which was translated as meaning the date of enactment of [Pub. L. 113–4][/us/pl/113/4], known as the Violence Against Women Reauthorization Act of 2013, which enacted subsec. (c)(6)(B) to (F), to reflect the probable intent of Congress. Other references to March 7, 2013, in subpars. (B) to (F) of subsec. (c)(6) were in the original “the date of the enactment of the Violence Against Women Reauthorization Act of 2013”.
+
  __Codification__ 
 
     Section is comprised of [section 235 of Pub. L. 110–457][/us/pl/110/457/s235]. Pars. (1), (3), and (7) of [section 235(d) of Pub. L. 110–457][/us/pl/110/457/s235/d] amended sections 1101, 1255, and 1158 of this title, respectively. [Section 235(f) of Pub. L. 110–457][/us/pl/110/457/s235/f] amended [section 279 of Title 6][/us/usc/t6/s279], Domestic Security.
@@ -315,9 +317,9 @@
 
     Subsec. (c)(6). [Pub. L. 113–4, § 1262][/us/pl/113/4/s1262], designated existing provisions as subpar. (A), inserted heading, struck out “and criminal” after “immune from civil”, and added subpars. (B) to (F).
 
-    Subsec. (d)(4)(A). [Pub. L. 113–4, § 1263(1)][/us/pl/113/4/s1263/1], in introductory provisions, struck out “either” before “in the custody”, substituted a comma for “or who”, and inserted “, or has been granted status under section 101(a)(15)(U) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(15)(U)][/us/usc/t8/s1101/a/15/U]),” before “, shall be eligible for placement”.
+    Subsec. (d)(4)(A). [Pub. L. 113–4, § 1263(1)][/us/pl/113/4/s1263/1], in introductory provisions, struck out “either” before “in the custody”, substituted “such child,” for “such child or who”, and inserted “, or has been granted status under section 101(a)(15)(U) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(15)(U)][/us/usc/t8/s1101/a/15/U]),” before “, shall be eligible for placement”.
 
-    Subsec. (d)(4)(B). [Pub. L. 113–4, § 1263(2)][/us/pl/113/4/s1263/2], inserted “, or status under section 101(a)(15)(U) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(15)(U)][/us/usc/t8/s1101/a/15/U]),” after “([8 U.S.C. 1101(a)(27)(J)][/us/usc/t8/s1101/a/27/J])”.
+    Subsec. (d)(4)(B). [Pub. L. 113–4, § 1263(2)][/us/pl/113/4/s1263/2], inserted “, or status under section 101(a)(15)(U) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(15)(U)][/us/usc/t8/s1101/a/15/U]),” before “, the Federal Government”.
 
 ----------
 
@@ -355,6 +357,7 @@
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/110/457/s235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs235
 [/us/pl/110/457/s235/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs235%2Fd
 [/us/pl/110/457/s235/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F457%2Fs235%2Ff
@@ -365,6 +368,5 @@
 [/us/usc/t8/s1101/a/15/U]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15%2FU
 [/us/pl/113/4/s1263/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1263%2F2
 [/us/usc/t8/s1101/a/15/U]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15%2FU
-[/us/usc/t8/s1101/a/27/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F27%2FJ
 
 

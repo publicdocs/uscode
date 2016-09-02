@@ -219,7 +219,7 @@
 
                 (iii) A petition under this subparagraph shall be in such form as the Secretary of State may by regulation prescribe and shall contain such information and be supported by such documentary evidence as the Secretary of State may require.
 
-                (iv) Each petition to compete for consideration for a visa under [section 1153(c) of this title][/us/usc/t8/s1153/c] shall be accompanied by a fee equal to $30. All amounts collected under this clause shall be deposited into the Treasury as miscellaneous receipts.
+                (iv) Each petition to compete for consideration for a visa under [section 1153(c) of this title][/us/usc/t8/s1153/c]  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  shall be accompanied by a fee equal to $30. All amounts collected under this clause shall be deposited into the Treasury as miscellaneous receipts.
 
             (J) In acting on petitions filed under clause (iii) or (iv) of subparagraph (A) or clause (ii) or (iii) of subparagraph (B), or in making determinations under subparagraphs (C) and (D), the Attorney General shall consider any credible evidence relevant to the petition. The determination of what evidence is credible and the weight to be given that evidence shall be within the sole discretion of the Attorney General.
 
@@ -231,7 +231,7 @@
 
                 (ii) may be provided an “employment authorized” endorsement or appropriate work permit incidental to such approval.
 
-            (L) Notwithstanding the previous provisions of this paragraph, an individual who was a VAWA petitioner or who had the status of a nonimmigrant under subparagraph (T) or (U) of [section 1101(a)(15) of this title][/us/usc/t8/s1101/a/15] may not file a petition for classification under this section or [section 1184 of this title][/us/usc/t8/s1184] to classify any person who committed the battery or extreme cruelty or trafficking against the individual (or the individual’s child) which established the individual’s (or individual’s child  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “child’s”. </sup></sup> ) eligibility as a VAWA petitioner or for such nonimmigrant status.
+            (L) Notwithstanding the previous provisions of this paragraph, an individual who was a VAWA petitioner or who had the status of a nonimmigrant under subparagraph (T) or (U) of [section 1101(a)(15) of this title][/us/usc/t8/s1101/a/15] may not file a petition for classification under this section or [section 1184 of this title][/us/usc/t8/s1184] to classify any person who committed the battery or extreme cruelty or trafficking against the individual (or the individual’s child) which established the individual’s (or individual’s child  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “child’s”. </sup></sup> ) eligibility as a VAWA petitioner or for such nonimmigrant status.
 
         (2)
 
@@ -263,7 +263,7 @@
 
     (e) __Subsequent finding of non-entitlement to preference classification__ 
 
-        Nothing in this section shall be construed to entitle an immigrant, in behalf of whom a petition under this section is approved, to be admitted  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be followed by “to”. </sup></sup>  the United States as an immigrant under subsection (a), (b), or (c) of [section 1153 of this title][/us/usc/t8/s1153] or as an immediate relative under [section 1151(b) of this title][/us/usc/t8/s1151/b] if upon his arrival at a port of entry in the United States he is found not to be entitled to such classification.
+        Nothing in this section shall be construed to entitle an immigrant, in behalf of whom a petition under this section is approved, to be admitted  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be followed by “to”. </sup></sup>  the United States as an immigrant under subsection (a), (b), or (c) of [section 1153 of this title][/us/usc/t8/s1153] or as an immediate relative under [section 1151(b) of this title][/us/usc/t8/s1151/b] if upon his arrival at a port of entry in the United States he is found not to be entitled to such classification.
 
     (f) __Preferential treatment for children fathered by United States citizens and born in Korea, Vietnam, Laos, Kampuchea, or Thailand after 1950 and before__  __October 22, 1982__ 
 
@@ -311,7 +311,7 @@
 
         (1) __In general__ 
 
-            A petition under subsection (a)(4)(D)  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be subsection “(a)(1)(D)”. </sup></sup>  of this section for classification of a professional athlete shall remain valid for the athlete after the athlete changes employers, if the new employer is a team in the same sport as the team which was the employer who filed the petition.
+            A petition under subsection (a)(4)(D)  <sup>\[5\]</sup>  <sup><sup> 5 So in original. Probably should be subsection “(a)(1)(D)”. </sup></sup>  of this section for classification of a professional athlete shall remain valid for the athlete after the athlete changes employers, if the new employer is a team in the same sport as the team which was the employer who filed the petition.
 
         (2) __“Professional athlete” defined__ 
 
@@ -378,6 +378,8 @@
     This chapter, referred to in subsec. (a)(1)(A)(iii)(II)(aa)(BB), (B)(ii)(II)(aa)(BB), was in the original, “this Act”, meaning [act June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], [66 Stat. 163][/us/stat/66/163], known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of this title][/us/usc/t8/s1101] and Tables.
 
     The Child Status Protection Act, referred to in subsec. (a)(1)(D)(iii), is [Pub. L. 107–208][/us/pl/107/208], Aug. 6, 2002, [116 Stat. 927][/us/stat/116/927], which amended this section and sections 1151, 1153, 1157, and 1158 of this title and enacted provisions set out as notes under sections 1101 and 1151 of this title. For complete classification of this Act to the Code, see Short Title of 2002 Amendments note set out under [section 1101 of this title][/us/usc/t8/s1101] and Tables.
+
+    [Section 1153(c) of this title][/us/usc/t8/s1153/c], referred to in subsec. (a)(1)(I)(iv), was so in the original, but probably should have been a reference to section 203(c) of [act June 27, 1952, ch. 477][/us/act/1952-06-27/ch477], which is classified to [section 1153(c) of this title][/us/usc/t8/s1153/c].
 
     The Intercountry Adoption Act of 2000, referred to in subsec. (d)(2), is [Pub. L. 106–279][/us/pl/106/279], Oct. 6, 2000, [114 Stat. 825][/us/stat/114/825], which is classified principally to chapter 143 (§ 14901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 14901 of Title 42][/us/usc/t42/s14901] and Tables.
 
@@ -722,6 +724,9 @@
 [/us/pl/107/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F208
 [/us/stat/116/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F927
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
+[/us/usc/t8/s1153/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1153%2Fc
+[/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
+[/us/usc/t8/s1153/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1153%2Fc
 [/us/pl/106/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F279
 [/us/stat/114/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F825
 [/us/usc/t42/s14901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14901

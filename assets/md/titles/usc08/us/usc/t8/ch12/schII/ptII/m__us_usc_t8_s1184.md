@@ -729,7 +729,7 @@
 
     (r) __Visas of nonimmigrants described in section 1101(a)(15)(K)(ii)__ 
 
-        (1) A visa shall not be issued under the provisions of [section 1101(a)(15)(K)(ii) of this title][/us/usc/t8/s1101/a/15/K/ii] until the consular officer has received a petition filed in the United States by the spouse of the applying alien and approved by the Attorney General. The petition shall be in such form and contain such information as the Attorney General shall, by regulation, prescribe. Such information shall include information on any criminal convictions of the petitioner for any specified crime described in paragraph (5)(B) and information on any permanent protection or restraining order issued against the petitioner related to any specified crime described in subsection (5)(B)(i).
+        (1) A visa shall not be issued under the provisions of [section 1101(a)(15)(K)(ii) of this title][/us/usc/t8/s1101/a/15/K/ii] until the consular officer has received a petition filed in the United States by the spouse of the applying alien and approved by the Attorney General. The petition shall be in such form and contain such information as the Attorney General shall, by regulation, prescribe. Such information shall include information on any criminal convictions of the petitioner for any specified crime described in paragraph (5)(B) and information on any permanent protection or restraining order issued against the petitioner related to any specified crime described in subsection  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “paragraph”. </sup></sup>  (5)(B)(i).
 
         (2) In the case of an alien seeking admission under [section 1101(a)(15)(K)(ii) of this title][/us/usc/t8/s1101/a/15/K/ii] who concluded a marriage with a citizen of the United States outside the United States, the alien shall be considered inadmissible under [section 1182(a)(7)(B) of this title][/us/usc/t8/s1182/a/7/B] if the alien is not at the time of application for admission in possession of a valid nonimmigrant visa issued by a consular officer in the foreign state in which the marriage was concluded.
 
@@ -757,7 +757,7 @@
 
          In this subsection:
 
-            (A) The terms “domestic violence”, “sexual assault”, “child abuse and neglect”, “dating violence”, “elder abuse”, and “stalking” have the meaning given such terms in section 3 of the Violence Against Women and Department of Justice Reauthorization Act of 2005. <sup>\[3\]</sup>  <sup><sup> 3 See References in Text note below. </sup></sup> 
+            (A) The terms “domestic violence”, “sexual assault”, “child abuse and neglect”, “dating violence”, “elder abuse”, and “stalking” have the meaning given such terms in section 3 of the Violence Against Women and Department of Justice Reauthorization Act of 2005.2
 
             (B)
 
@@ -801,7 +801,7 @@
 
     Subsec. (p)(7). [Pub. L. 113–4, § 805(a)][/us/pl/113/4/s805/a], added par. (7).
 
-    Subsec. (r)(1). [Pub. L. 113–4, § 807(a)(2)(A)][/us/pl/113/4/s807/a/2/A], substituted “crime described in paragraph (5)(B) and information on any permanent protection or restraining order issued against the petitioner related to any specified crime described in subsection (5)(B)(i).” for “crime.”.
+    Subsec. (r)(1). [Pub. L. 113–4, § 807(a)(2)(A)][/us/pl/113/4/s807/a/2/A], substituted “crime described in paragraph (5)(B) and information on any permanent protection or restraining order issued against the petitioner related to any specified crime described in subsection (5)(B)(i).” for “crime.”
 
     Subsec. (r)(4)(B)(ii). [Pub. L. 113–4, § 807(a)(2)(B)][/us/pl/113/4/s807/a/2/B], amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “A copy of the information and resources pamphlet on domestic violence developed under [section 1375a(a) of this title][/us/usc/t8/s1375a/a] shall be mailed to the beneficiary along with the notification required in clause (i).”
 
