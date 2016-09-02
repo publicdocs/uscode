@@ -109,7 +109,7 @@
 
 [Pub. L. 100–409, § 2][/us/pl/100/409/s2], Aug. 20, 1988, [102 Stat. 1086][/us/stat/102/1086], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds and declares that—
 
@@ -121,7 +121,7 @@
 
 >         “(4) such existing laws are in need of certain revisions to streamline and facilitate land exchange procedures and expedite exchanges.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of this Act \[see Short Title of 1988 Amendment note set out under [section 1701 of this title][/us/usc/t43/s1701]\] are:
 

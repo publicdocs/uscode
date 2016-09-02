@@ -89,11 +89,11 @@
 
                 (iii) __Conditions on certain stock.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     An amendment under clause (i) may provide that Settlement Common Stock issued to a Native pursuant to the amendment (or stock issued in exchange for that Settlement Common Stock pursuant to subsection (h)(3) or [section 1626(c)(3)(D) of this title][/us/usc/t43/s1626/c/3/D]) shall be subject to 1 or more of the conditions described in subclause (II).
 
-                    (II) __Conditions.—__ 
+                    (II)  __Conditions__  __.—__ 
 
                     A condition referred to in subclause (I) is a condition that—
 

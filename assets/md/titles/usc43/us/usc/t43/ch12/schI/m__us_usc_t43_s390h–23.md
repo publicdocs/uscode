@@ -37,11 +37,11 @@
 
 [Pub. L. 110–161, div. C, title II, § 214(c)][/us/pl/110/161/s214/c], (d), Dec. 26, 2007, [121 Stat. 1956][/us/stat/121/1956], provided that:
 
->     “(c) __Limitation.—__ 
+>     “(c)  __Limitation__  __.—__ 
 
 >     The Secretary \[of the Interior\] shall not provide funds for the operation or maintenance of a project authorized by this section \[enacting this section\].
 
->     “(d) __Credits Toward Non-Federal Share.—__ 
+>     “(d)  __Credits Toward Non-Federal Share__  __.—__ 
 
 >     For purposes of subsection (b) \[probably means subsec. (b) of this section\] the Secretary shall credit the Mojave Water Agency with the value of all expenditures made prior to the date of the enactment of this Act \[Dec. 26, 2007\] that are used toward completion of projects that are compatible with this section.”
 

@@ -37,7 +37,7 @@
 
 [Pub. L. 102–580, title II, § 217][/us/pl/102/580/s217], Oct. 31, 1992, [106 Stat. 4833][/us/stat/106/4833], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary is authorized to provide assistance to non-Federal interests for carrying out projects described in subsection (c) for the beneficial reuse of waste water. Such assistance may be in the form of technical and planning and design assistance. If the Secretary is to provide any design or engineering assistance to carry out a project under this section, the Secretary shall obtain by procurement from private sources all services necessary for the Secretary to provide such assistance, unless the Secretary finds that—
 
@@ -45,53 +45,53 @@
 
 >         “(2) a solicitation or request for proposal has failed to attract 2 or more bids or proposals.
 
->     “(b) __Non-Federal Share.—__ 
+>     “(b)  __Non-Federal Share__  __.—__ 
 
 >     The non-Federal share of the cost of assistance provided under this section shall not be less than 25 percent, except that such share shall be subject to the ability of the non-Federal interest to pay, including the procedures and regulations relating to ability to pay established under section 103(m) of the Water Resources Development Act of 1986 \[[33 U.S.C. 2213(m)][/us/usc/t33/s2213/m]\].
 
->     “(c) __Project Descriptions.—__ 
+>     “(c)  __Project Descriptions__  __.—__ 
 
 >     The projects for which the Secretary is authorized to provide assistance under subsection (a) are as follows:
 
 >         “(1) __Southern california comprehensive water reuse system.—__ 
 
->             “(A) __Description.—__ 
+>             “(A)  __Description__  __.—__ 
 
 >             A regional water reuse system for Southern California to treat, store, and transfer water in order to provide a new increment of water supply for agricultural, municipal, industrial, and environmental needs of Southern California.
 
->             “(B) __Cooperation.—__ 
+>             “(B)  __Cooperation__  __.—__ 
 
 >             The Secretary shall carry out this paragraph in cooperation with the State of California and appropriate local and regional entities.
 
->             “(C) __Southern california defined.—__ 
+>             “(C)  __Southern california defined__  __.—__ 
 
 >             For purposes of this paragraph, the term ‘Southern California’ means those portions of the counties of Imperial, Los Angeles, Orange, San Bernardino, Riverside, San Diego, Ventura, Santa Barbara, and San Luis Obispo, California, within the south coast, central coast, and Colorado River hydrologic regions as defined by the California Department of Water Resources.
 
->         “(2) __San diego area water reuse demonstration facilities.—__ 
+>         “(2)  __San diego area water reuse demonstration facilities__  __.—__ 
 
 >         Water reuse facilities (which are not inconsistent with facilities mandated by the United States District Court in San Diego, California) to develop advance technology for economically and environmentally sound alternative water supplies for the San Diego metropolitan area.
 
->         “(3) __Santa rosa water reuse projects.—__ 
+>         “(3)  __Santa rosa water reuse projects__  __.—__ 
 
->             “(A) __Description.—__ 
+>             “(A)  __Description__  __.—__ 
 
 >             Water reuse projects for the city of Santa Rosa, California, to treat waste water and store such treated water for the purposes of providing new water supplies for agriculture, municipal, environmental, and other purposes and reducing the use of potable water supplies for purposes where treated waste water is a viable substitute.
 
->             “(B) __Cooperation.—__ 
+>             “(B)  __Cooperation__  __.—__ 
 
 >             The Secretary shall carry out this paragraph in cooperation with the city of Santa Rosa, California, and other appropriate authorities.
 
 >         “(4) __Monterey county, california.—__ 
 
->             “(A) __Description.—__ 
+>             “(A)  __Description__  __.—__ 
 
 >             Reduction of salt water intrusion into aquifers in the vicinity of Castroville, California, for the purposes of improving the water quality of Monterey Bay and enhancing long-term water supply in the area.
 
->             “(B) __Cooperation.—__ 
+>             “(B)  __Cooperation__  __.—__ 
 
 >             The Secretary shall carry out this paragraph in cooperation with the Monterey Regional Water Pollution Control Agency and the Monterey County Water Resources Agency.
 
->     “(d) __Authorization of Appropriations.—__ 
+>     “(d)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to carry out this section $5,000,000. Such sums shall remain available until expended.”
 

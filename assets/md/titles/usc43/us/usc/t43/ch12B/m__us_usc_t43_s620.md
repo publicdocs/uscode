@@ -91,11 +91,11 @@
 
 >     “(a) __Agreement Approval.—__ 
 
->         “(1) __Approval by congress.—__ 
+>         “(1)  __Approval by congress__  __.—__ 
 
 >         Except to the extent that any provision of the Agreement conflicts with this subtitle \[subtitle B (§§ 10301–10704) of title X of [Pub. L. 111–11][/us/pl/111/11], see Effect on Federal Water Law note above\], Congress approves, ratifies, and confirms the Agreement (including any amendments to the Agreement that are executed to make the Agreement consistent with this subtitle).
 
->         “(2) __Execution by secretary.—__ 
+>         “(2)  __Execution by secretary__  __.—__ 
 
 >         The Secretary shall enter into the Agreement to the extent that the Agreement does not conflict with this subtitle, including—
 
@@ -103,11 +103,11 @@
 
 >             “(B) any amendments to the Agreement necessary to make the Agreement consistent with this subtitle.
 
->         “(3) __Authority of secretary.—__ 
+>         “(3)  __Authority of secretary__  __.—__ 
 
 >         The Secretary may carry out any action that the Secretary determines is necessary or appropriate to implement the Agreement, the Contract, and this section.
 
->         “(4) __Administration of navajo reservoir releases.—__ 
+>         “(4)  __Administration of navajo reservoir releases__  __.—__ 
 
 >         The State of New Mexico may administer water that has been released from storage in Navajo Reservoir in accordance with subparagraph 9.1 of the Agreement.
 
@@ -115,11 +115,11 @@
 
 >         “(1) __Quantities of water available.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Water shall be made available annually under the Contract for projects in the State of New Mexico supplied from the Navajo Reservoir and the San Juan River (including tributaries of the River) under New Mexico State Engineer File Numbers 2849, 2883, and 3215 in the quantities described in subparagraph (B).
 
->             “(B) __Water quantities.—__ 
+>             “(B)  __Water quantities__  __.—__ 
 
 >             The quantities of water referred to in subparagraph (A) are as follows:
 
@@ -217,15 +217,15 @@
 
 >             </table>
 
->             “(C) __Maximum quantity.—__ 
+>             “(C)  __Maximum quantity__  __.—__ 
 
 >             A diversion of water to the Nation under the Contract for a project described in subparagraph (B) shall not exceed the quantity of water necessary to supply the amount of depletion for the project.
 
->             “(D) __Terms, conditions, and limitations.—__ 
+>             “(D)  __Terms, conditions, and limitations__  __.—__ 
 
 >             The diversion and use of water under the Contract shall be subject to and consistent with the terms, conditions, and limitations of the Agreement, this subtitle, and any other applicable law.
 
->         “(2) __Amendments to contract.—__ 
+>         “(2)  __Amendments to contract__  __.—__ 
 
 >         The Secretary, with the consent of the Nation, may amend the Contract if the Secretary determines that the amendment is—
 
@@ -233,7 +233,7 @@
 
 >             “(B) in the interest of conserving water or facilitating beneficial use by the Nation or a subcontractor of the Nation.
 
->         “(3) __Rights of the nation.—__ 
+>         “(3)  __Rights of the nation__  __.—__ 
 
 >         The Nation may, under the Contract—
 
@@ -257,19 +257,19 @@
 
 >         “(1) __In general.—__ 
 
->             “(A) __Subcontracts between nation and third parties.—__ 
+>             “(A)  __Subcontracts between nation and third parties__  __.—__ 
 
 >             The Nation may enter into subcontracts for the delivery of Project water under the Contract to third parties for any beneficial use in the State of New Mexico (on or off land held by the United States in trust for the Nation or a member of the Nation or land held in fee by the Nation).
 
->             “(B) __Approval required.—__ 
+>             “(B)  __Approval required__  __.—__ 
 
 >             A subcontract entered into under subparagraph (A) shall not be effective until approved by the Secretary in accordance with this subsection and the Contract.
 
->             “(C) __Submittal.—__ 
+>             “(C)  __Submittal__  __.—__ 
 
 >             The Nation shall submit to the Secretary for approval or disapproval any subcontract entered into under this subsection.
 
->             “(D) __Deadline.—__ 
+>             “(D)  __Deadline__  __.—__ 
 
 >             The Secretary shall approve or disapprove a subcontract submitted to the Secretary under subparagraph (C) not later than the later of—
 
@@ -283,29 +283,29 @@
 
 >                          “(II) any other requirement of Federal law.
 
->             “(E) __Enforcement.—__ 
+>             “(E)  __Enforcement__  __.—__ 
 
 >             A party to a subcontract may enforce the deadline described in subparagraph (D) under [section 1361 of title 28][/us/usc/t28/s1361], United States Code.
 
->             “(F) __Compliance with other law.—__ 
+>             “(F)  __Compliance with other law__  __.—__ 
 
 >             A subcontract described in subparagraph (A) shall comply with the Agreement, the Partial Final Decree described in paragraph 3.0 of the Agreement, and any other applicable law.
 
->             “(G) __No liability.—__ 
+>             “(G)  __No liability__  __.—__ 
 
 >             The Secretary shall not be liable to any party, including the Nation, for any term of, or any loss or other detriment resulting from, a lease, contract, or other agreement entered into pursuant to this subsection.
 
 >         “(2) __Alienation.—__ 
 
->             “(A) __Permanent alienation.—__ 
+>             “(A)  __Permanent alienation__  __.—__ 
 
 >             The Nation shall not permanently alienate any right granted to the Nation under the Contract.
 
->             “(B) __Maximum term.—__ 
+>             “(B)  __Maximum term__  __.—__ 
 
 >             The term of any water use subcontract (including a renewal) under this subsection shall be not more than 99 years.
 
->         “(3) __Nonintercourse act compliance.—__ 
+>         “(3)  __Nonintercourse act compliance__  __.—__ 
 
 >         This subsection—
 
@@ -313,11 +313,11 @@
 
 >             “(B) is deemed to fulfill any requirement that may be imposed by section 2116 of the Revised Statutes ([25 U.S.C. 177][/us/usc/t25/s177]).
 
->         “(4) __Forfeiture.—__ 
+>         “(4)  __Forfeiture__  __.—__ 
 
 >         The nonuse of the water supply secured by a subcontractor of the Nation under this subsection shall not result in forfeiture, abandonment, relinquishment, or other loss of any part of a right decreed to the Nation under the Contract or this section.
 
->         “(5) __No per capita payments.—__ 
+>         “(5)  __No per capita payments__  __.—__ 
 
 >         No part of the revenue from a water use subcontract under this subsection shall be distributed to any member of the Nation on a per capita basis.
 
@@ -325,7 +325,7 @@
 
 >         “(1) __Authority of nation.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Nation may lease, contract, or otherwise transfer to another party or to another purpose or place of use in the State of New Mexico (on or off land that is held by the United States in trust for the Nation or a member of the Nation or held in fee by the Nation) a water right that—
 
@@ -333,25 +333,25 @@
 
 >                 “(ii) is not subject to the Contract.
 
->             “(B) __Compliance with other law.—__ 
+>             “(B)  __Compliance with other law__  __.—__ 
 
 >             In carrying out an action under this subsection, the Nation shall comply with the Agreement, the Partial Final Decree described in paragraph 3.0 of the Agreement, the Supplemental Partial Final Decree described in paragraph 4.0 of the Agreement, and any other applicable law.
 
 >         “(2) __Alienation; maximum term.—__ 
 
->             “(A) __Alienation.—__ 
+>             “(A)  __Alienation__  __.—__ 
 
 >             The Nation shall not permanently alienate any right granted to the Nation under the Agreement.
 
->             “(B) __Maximum term.—__ 
+>             “(B)  __Maximum term__  __.—__ 
 
 >             The term of any water use lease, contract, or other arrangement (including a renewal) under this subsection shall be not more than 99 years.
 
->         “(3) __No liability.—__ 
+>         “(3)  __No liability__  __.—__ 
 
 >         The Secretary shall not be liable to any party, including the Nation, for any term of, or any loss or other detriment resulting from, a lease, contract, or other agreement entered into pursuant to this subsection.
 
->         “(4) __Nonintercourse act compliance.—__ 
+>         “(4)  __Nonintercourse act compliance__  __.—__ 
 
 >         This subsection—
 
@@ -359,7 +359,7 @@
 
 >             “(B) is deemed to fulfill any requirement that may be imposed by the provisions of section 2116 of the Revised Statutes ([25 U.S.C. 177][/us/usc/t25/s177]).
 
->         “(5) __Forfeiture.—__ 
+>         “(5)  __Forfeiture__  __.—__ 
 
 >         The nonuse of a water right of the Nation by a lessee or contractor to the Nation under this subsection shall not result in forfeiture, abandonment, relinquishment, or other loss of any part of a right decreed to the Nation under the Contract or this section.
 
@@ -367,57 +367,57 @@
 
 >         “(1) __Deadlines.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             In carrying out this section, the following deadlines apply with respect to implementation of the Agreement:
 
->                 “(i) __Agreement.—__ 
+>                 “(i)  __Agreement__  __.—__ 
 
 >                 Not later than December 31, 2010, the Secretary shall execute the Agreement.
 
->                 “(ii) __Contract.—__ 
+>                 “(ii)  __Contract__  __.—__ 
 
 >                 Not later than December 31, 2010, the Secretary and the Nation shall execute the Contract.
 
->                 “(iii) __Partial final decree.—__ 
+>                 “(iii)  __Partial final decree__  __.—__ 
 
 >                 Not later than December 31, 2013, the court in the stream adjudication shall have entered the Partial Final Decree described in paragraph 3.0 of the Agreement.
 
->                 “(iv) __Fruitland-cambridge irrigation project.—__ 
+>                 “(iv)  __Fruitland-cambridge irrigation project__  __.—__ 
 
 >                 Not later than December 31, 2016, the rehabilitation construction of the Fruitland-Cambridge Irrigation Project authorized under section 10607(a)(1) \[[123 Stat. 1394][/us/stat/123/1394]\] shall be completed.
 
->                 “(v) __Supplemental partial final decree.—__ 
+>                 “(v)  __Supplemental partial final decree__  __.—__ 
 
 >                 Not later than December 31, 2016, the court in the stream adjudication shall enter the Supplemental Partial Final Decree described in subparagraph 4.0 of the Agreement.
 
->                 “(vi) __Hogback-cudei irrigation project.—__ 
+>                 “(vi)  __Hogback-cudei irrigation project__  __.—__ 
 
 >                 Not later than December 31, 2019, the rehabilitation construction of the Hogback-Cudei Irrigation Project authorized under section 10607(a)(2) \[[123 Stat. 1394][/us/stat/123/1394]\] shall be completed.
 
->                 “(vii) __Trust fund.—__ 
+>                 “(vii)  __Trust fund__  __.—__ 
 
 >                 Not later than December 31, 2019, the United States shall make all deposits into the Trust Fund under section 10702 \[[123 Stat. 1402][/us/stat/123/1402]\].
 
->                 “(viii) __Conjunctive wells.—__ 
+>                 “(viii)  __Conjunctive wells__  __.—__ 
 
 >                 Not later than December 31, 2019, the funds authorized to be appropriated under section 10609(b)(1) \[[123 Stat. 1395][/us/stat/123/1395]\] for the conjunctive use wells authorized under section 10606(b) \[[123 Stat. 1393][/us/stat/123/1393]\] should be appropriated.
 
->                 “(ix) __Navajo-gallup water supply project.—__ 
+>                 “(ix)  __Navajo-gallup water supply project__  __.—__ 
 
 >                 Not later than December 31, 2024, the construction of all Project facilities shall be completed.
 
->             “(B) __Extension.—__ 
+>             “(B)  __Extension__  __.—__ 
 
 >             A deadline described in subparagraph (A) may be extended if the Nation, the United States (acting through the Secretary), and the State of New Mexico (acting through the New Mexico Interstate Stream Commission) agree that an extension is reasonably necessary.
 
 >         “(2) __Revocability of agreement, contract and authorizations.—__ 
 
->             “(A) __Petition.—__ 
+>             “(A)  __Petition__  __.—__ 
 
 >             If the Nation determines that a deadline described in paragraph (1)(A) is not substantially met, the Nation may submit to the court in the stream adjudication a petition to enter an order terminating the Agreement and Contract.
 
->             “(B) __Termination.—__ 
+>             “(B)  __Termination__  __.—__ 
 
 >             On issuance of an order to terminate the Agreement and Contract under subparagraph (A)—
 
@@ -431,11 +431,11 @@
 
 >         “(3) __Conditions not causing nullification of settlement.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             If a condition described in subparagraph (B) occurs, the Agreement and Contract shall not be nullified or terminated.
 
->             “(B) __Conditions.—__ 
+>             “(B)  __Conditions__  __.—__ 
 
 >             The conditions referred to in subparagraph (A) are as follows:
 
@@ -455,11 +455,11 @@
 
 >     “(f) __Effect on Rights of Indian Tribes.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in paragraph (2), nothing in the Agreement, the Contract, or this section quantifies or adversely affects the land and water rights, or claims or entitlements to water, of any Indian tribe or community other than the rights, claims, or entitlements of the Nation in, to, and from the San Juan River Basin in the State of New Mexico.
 
->         “(2) __Exception.—__ 
+>         “(2)  __Exception__  __.—__ 
 
 >         The right of the Nation to use water under water rights the Nation has in other river basins in the State of New Mexico shall be forborne to the extent that the Nation supplies the uses for which the water rights exist by diversions of water from the San Juan River Basin under the Project consistent with subparagraph 9.13 of the Agreement.”
 

@@ -101,17 +101,17 @@
 
 > “SEC. 5. __COSTS AND REVENUES.__ 
 
->     “(a) __Costs.—__ 
+>     “(a)  __Costs__  __.—__ 
 
 >     All costs incurred by the Bureau of Reclamation under this Act shall be paid from the Colorado River Dam fund established by [section 2 of the Act of December 21, 1928][/us/act/1928-12-21/s2] ([43 U.S.C. 617a][/us/usc/t43/s617a]).
 
 >     “(b) __Revenues.—__ 
 
->         “(1) __Use for repayment of sales costs.—__ 
+>         “(1)  __Use for repayment of sales costs__  __.—__ 
 
 >         All revenues collected by the Bureau of Reclamation under this Act shall be credited to the Colorado River Dam fund to remain available, without further Act of appropriation, to pay costs associated with the production and sale of items in accordance with section 4.
 
->         “(2) __Use for repayment of construction costs.—__ 
+>         “(2)  __Use for repayment of construction costs__  __.—__ 
 
 >         All revenues collected by the Bureau of Reclamation under this Act that are not needed to pay costs described in paragraph (1) shall be transferred annually to the general fund of the Treasury in repayment of costs relating to construction of the Hoover Dam Visitor Center.”
 

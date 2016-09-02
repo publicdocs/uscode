@@ -25,11 +25,11 @@
 
 [Pub. L. 102–580, title II, § 218][/us/pl/102/580/s218], Oct. 31, 1992, [106 Stat. 4834][/us/stat/106/4834], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary, in cooperation with the Administrator of the Environmental Protection Agency, is authorized to provide design and construction assistance to the Santa Clara Valley Water District in San Jose, California, and to the city of San Jose, California, for demonstrating and field testing public use innovative processes which advance the technology of waste water reuse and treatment and which promote the use of treated waste water for critical water supply purposes and for the protection of fish and wildlife in the San Francisco Bay. All design, construction, and comprehensive health effects studies shall be carried out by non-Federal interests.
 
->     “(b) __Purposes of Assistance.—__ 
+>     “(b)  __Purposes of Assistance__  __.—__ 
 
 >     Assistance may be provided under this section—
 
@@ -41,11 +41,11 @@
 
 >         “(4) after the pilot plant is constructed and is operational, for the design and construction of a potable waste water reuse project, along with integration of the additional potable processes into the existing nonpotable facilities, and the extension of the distribution systems to groundwater recharge areas, if the Secretary, in cooperation with the Administrator of the Environmental Protection Agency, determines that the established public health requirements and water quality goals and objectives are being met by the pilot plant, the public health and safety is not at risk as a result of the operation of the pilot plant, and the pilot plant is operating reliably.
 
->     “(c) __Cost Sharing.—__ 
+>     “(c)  __Cost Sharing__  __.—__ 
 
 >     Total project costs under this section shall be shared at 75 percent Federal and 25 percent non-Federal. The non-Federal sponsor shall receive credit for lands, easements, rights-of-way, and relocations toward its share of project costs, but not to exceed 25 percent of total project costs. Operation and maintenance cost shall be 100 percent non-Federal.
 
->     “(d) __Authorization of Appropriations.—__ 
+>     “(d)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to carry out this section $10,000,000. Such sums shall remain available until expended.”
 

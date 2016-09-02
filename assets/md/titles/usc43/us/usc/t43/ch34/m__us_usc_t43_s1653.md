@@ -77,11 +77,11 @@
 
 [Pub. L. 105–277, div. A, § 101(g)][/us/pl/105/277/s101/g] \[title III, § 329(a), (b)\], Oct. 21, 1998, [112 Stat. 2681–439][/us/stat/112/2681-439], 2681–470, provided that:
 
->     “(a) __Transfer of Funds.—__ 
+>     “(a)  __Transfer of Funds__  __.—__ 
 
 >     Notwithstanding any other provision of law, the remainder of the balance in the Trans-Alaska Pipeline Liability Fund that is transferred and deposited into the Oil Spill Liability Trust Fund under section 8102(a)(2)(B)(ii) of the Oil Pollution Act of 1990 ([43 U.S.C. 1653][/us/usc/t43/s1653] note) after June 16, 1998 shall be used in accordance with this section.
 
->     “(b) __Use of Interest Only.—__ 
+>     “(b)  __Use of Interest Only__  __.—__ 
 
 >     The interest produced from the investment of the Trans-Alaska Pipeline Liability Fund balance that is transferred and deposited into the Oil Spill Liability Trust Fund under section 8102(a)(2)(B)(ii) of the Oil Pollution Act of 1990 \[[Pub. L. 101–380][/us/pl/101/380]\] ([43 U.S.C. 1653][/us/usc/t43/s1653] note) after June 16, 1998 shall be transferred annually by the National Pollution Funds Center to the Denali Commission for a program, to be developed in consultation with the Coast Guard, to repair or replace bulk fuel storage tanks in Alaska which are not in compliance with federal law, including the Oil Pollution Act of 1990 \[[33 U.S.C. 2701][/us/usc/t33/s2701] et seq.\], or State law.”
 
@@ -91,7 +91,7 @@
 
 [Pub. L. 101–380, title VIII, § 8102(a)(2)][/us/pl/101/380/s8102/a/2], Aug. 18, 1990, [104 Stat. 565][/us/stat/104/565], as amended by [Pub. L. 105–277, div. A, § 101(g)][/us/pl/105/277/s101/g] \[title III, § 329(c)\], Oct. 21, 1998, [112 Stat. 2681–439][/us/stat/112/2681-439], 2681–471, provided that:
 
->     “(A) __Reservation of amounts.—__ 
+>     “(A)  __Reservation of amounts__  __.—__ 
 
 >     The trustees of the Trans-Alaska Pipeline Liability Fund (hereafter in this subsection referred to as the ‘TAPS Fund’) shall reserve the following amounts in the TAPS Fund—
 
@@ -99,7 +99,7 @@
 
 >         “(ii) administrative expenses reasonably necessary for and incidental to the implementation of section 204(c) of that Act.
 
->     “(B) __Disposition of the balance.—__ 
+>     “(B)  __Disposition of the balance__  __.—__ 
 
 >     After the Comptroller General of the United States certifies that the requirements of subparagraph (A) have been met, the trustees of the TAPS Fund shall dispose of the balance in the TAPS Fund after the reservation of amounts are made under subparagraph (A) by—
 
@@ -107,11 +107,11 @@
 
 >         “(ii) transferring and depositing the remainder of the balance into the Oil Spill Liability Trust Fund established under section 9509 of the Internal Revenue Code of 1986 ([26 U.S.C. 9509][/us/usc/t26/s9509]).
 
->     “(C) __Disposition of the reserved amounts.—__ 
+>     “(C)  __Disposition of the reserved amounts__  __.—__ 
 
 >     After payment of all claims arising from an incident for which funds are reserved under subparagraph (A) and certification by the Comptroller General of the United States that the claims arising from that incident have been paid, the excess amounts, if any, for that incident shall be disposed of as set forth under subparagraphs (A) and (B).
 
->     “(D) __Authorization.—__ 
+>     “(D)  __Authorization__  __.—__ 
 
 >     The amounts transferred and deposited in the Fund shall be available for the purposes of section 1012 of the Oil Pollution Act of 1990 \[[33 U.S.C. 2712][/us/usc/t33/s2712]\] after funding sections 5001 \[[33 U.S.C. 2731][/us/usc/t33/s2731]\] and 8103 \[[43 U.S.C. 1651][/us/usc/t43/s1651] note\] to the extent that funds have not otherwise been provided for the purposes of such sections.”
 

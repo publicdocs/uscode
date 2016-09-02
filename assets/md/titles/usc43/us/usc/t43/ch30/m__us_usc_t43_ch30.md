@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch29/schIII/m__us_usc_t43_s1356a.md) | [Next](./../../../..//us/usc/t43/ch30/schI/m__us_usc_t43_ch30_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch30)
+[Previous](./../../../..//us/usc/t43/ch29/schIII/m__us_usc_t43_s1356b.md) | [Next](./../../../..//us/usc/t43/ch30/schI/m__us_usc_t43_ch30_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch30)
 
 ## CHAPTER 30—ADMINISTRATION OF PUBLIC LANDS
 
@@ -171,7 +171,7 @@ SUBCHAPTER VIII—PUBLIC AIRPORTS  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t43/ch29/schIII/m__us_usc_t43_s1356a.md) | [Next](./../../../..//us/usc/t43/ch30/schI/m__us_usc_t43_ch30_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch30)
+[Previous](./../../../..//us/usc/t43/ch29/schIII/m__us_usc_t43_s1356b.md) | [Next](./../../../..//us/usc/t43/ch30/schI/m__us_usc_t43_ch30_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fch30)
 
 ----------
 ----------

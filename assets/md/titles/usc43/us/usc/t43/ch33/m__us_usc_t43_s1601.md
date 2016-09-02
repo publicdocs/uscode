@@ -129,7 +129,7 @@
 
 [Pub. L. 100–241, § 16][/us/pl/100/241/s16], Feb. 3, 1988, [101 Stat. 1813][/us/stat/101/1813], provided that:
 
->     “(a) __Statute of Limitations.—__ 
+>     “(a)  __Statute of Limitations__  __.—__ 
 
 >         (1) Notwithstanding any other provision of law, a civil action that challenges the constitutionality of an amendment made by, or other provision of this Act (the Alaska Native Claims Settlement Act Amendments of 1987) \[see Short Title of 1988 Amendment note above\] shall be barred unless filed within the periods specified in this subsection.
 
@@ -149,13 +149,13 @@
 
 >         “(4) No Native Corporation taking an action described in paragraph (2)(A), (2)(B), or (2)(C) shall issue or distribute stock sooner than fourteen days after the date of the shareholder vote authorizing such action.
 
->     “(b) __Jurisdiction and Procedure.—__ 
+>     “(b)  __Jurisdiction and Procedure__  __.—__ 
 
 >         (1) The United States District Court for the District of Alaska shall have exclusive original jurisdiction over a civil action described in subsection (a)(1). The action shall be heard and determined by a court of three judges as provided in [section 2284 of title 28][/us/usc/t28/s2284] of the United States Code. An appeal of the final judgment of such court shall be made directly to the United States Supreme Court.
 
 >         “(2) No money judgment shall be entered against the United States in a civil action subject to this section.
 
->     “(c) __Statement of Purpose.—__ 
+>     “(c)  __Statement of Purpose__  __.—__ 
 
 >     The purpose of the limitation on civil actions established by this section is—
 

@@ -149,19 +149,19 @@
 
 [Pub. L. 108–452, title III, § 302][/us/pl/108/452/s302], Dec. 10, 2004, [118 Stat. 3588][/us/stat/118/3588], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     In lieu of the process for the correction of conveyance documents available under subsection (d) of section 18 of the Alaska Native Claims Settlement Act (as added by section 301) \[[43 U.S.C. 1617(d)][/us/usc/t43/s1617/d]\], any Native Corporation may elect to reconvey all of the land encompassed by an allotment claim or a portion of the allotment claim agreeable to the applicant in satisfaction of the entire claim by tendering a valid and appropriate deed to the United States.
 
->     “(b) __Certificate of Allotment.—__ 
+>     “(b)  __Certificate of Allotment__  __.—__ 
 
 >     If the United States determines that the allotment application is valid or would have been approved under section 905 of the Alaska National Interests Lands Conservation Act ([42 U.S.C. 1634][/us/usc/t42/s1634]) had the land described in the allotment application been in Federal ownership on December 2, 1980, and obtains title evidence acceptable under the Department of Justice title standards, the United States shall accept the deed from the Native Corporation and issue a certificate of allotment to the allotment applicant.
 
->     “(c) __Probate Not Required.—__ 
+>     “(c)  __Probate Not Required__  __.—__ 
 
 >     If the Native Corporation reconveys the entire interest of the Native Corporation in the allotment claim of a deceased applicant, the United States may accept the deed and issue the certificate of allotment without waiting for a determination of heirs or the approval of a will.
 
->     “(d) __No Liability.—__ 
+>     “(d)  __No Liability__  __.—__ 
 
 >     The United States shall not be subject to liability under Federal or State \[of Alaska\] law for the presence of any hazardous substance in land or an interest in land solely as a result of any reconveyance to, and transfer by, the United States of land or interests in land under this section.”
 
@@ -169,15 +169,15 @@
 
 [Pub. L. 108–452, title III, § 304][/us/pl/108/452/s304], Dec. 10, 2004, [118 Stat. 3589][/us/stat/118/3589], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary \[of the Interior\] shall adjust the acreage entitlement computation records for the State \[of Alaska\] or an affected Native Corporation to account for any difference in the amount of acreage between the corrected description and the previous description in any conveyance document as a result of actions taken under section 18(d) of the Alaska Native Claims Settlement Act (as added by section 301) \[[43 U.S.C. 1617(d)][/us/usc/t43/s1617/d]\] or section 18(e) of the Alaska Native Claims Settlement Act (as added by section 303), or for other voluntary reconveyances to the United States for the purpose of facilitating land transfers in the State.
 
->     “(b) __Limitation.—__ 
+>     “(b)  __Limitation__  __.—__ 
 
 >     No adjustment to the acreage conveyance computations shall be made where the State or an affected Native Corporation retains a partial estate in the described allotment land.
 
->     “(c) __Availability of Additional Land.—__ 
+>     “(c)  __Availability of Additional Land__  __.—__ 
 
 >     If, as a result of implementation under section 18(d) of the Alaska Native Claims Settlement Act (as added by section 301) \[[43 U.S.C. 1617(d)][/us/usc/t43/s1617/d]\] or any voluntary reconveyance to facilitate a land transfer, a Village Corporation has insufficient remaining selections from which to receive its full entitlement under the Alaska Native Claims Settlement Act, the Secretary may use the authority and procedures available under paragraph (3) of section 22(j) of the Alaska Native Claims Settlement Act ([43 U.S.C. 1621(j)][/us/usc/t43/s1621/j]) (as added by section 208) to make additional land available for selection by the Village Corporation.”
 
@@ -193,21 +193,21 @@
 
 > “In this Act:
 
->     “(1) __Restricted land.—__ 
+>     “(1)  __Restricted land__  __.—__ 
 
 >     The term ‘restricted land’ means land in the State that is subject to Federal restrictions against alienation and taxation.
 
->     “(2) __Secretary.—__ 
+>     “(2)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of the Interior.
 
->     “(3) __State.—__ 
+>     “(3)  __State__  __.—__ 
 
 >     The term ‘State’ means the State of Alaska.
 
 > “SEC. 3. __SUBDIVISION AND DEDICATION OF ALASKA NATIVE RESTRICTED LAND.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     An Alaska Native owner of restricted land may, subject to the approval of the Secretary—
 
@@ -221,7 +221,7 @@
 
 >         “(2) execute a certificate of ownership and dedication with respect to the restricted land subdivided under paragraph (1) with the same effect under State law as if the restricted land subdivided and dedicated were held by unrestricted fee simple title.
 
->     “(b) __Ratification of Prior Subdivisions and Dedications.—__ 
+>     “(b)  __Ratification of Prior Subdivisions and Dedications__  __.—__ 
 
 >     Any subdivision or dedication of restricted land executed before the date of enactment of this Act \[Oct. 18, 2004\] that has been approved by the Secretary and by the relevant State or local platting authority, as appropriate, shall be considered to be ratified and confirmed by Congress as of the date on which the Secretary approved the subdivision or dedication.
 

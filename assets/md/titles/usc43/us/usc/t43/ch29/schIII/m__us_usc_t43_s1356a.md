@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t43/ch29/schIII/m__us_usc_t43_s1356.md) | [Next](./../../../../..//us/usc/t43/ch30/m__us_usc_t43_ch30.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1356a)
+[Previous](./../../../../..//us/usc/t43/ch29/schIII/m__us_usc_t43_s1356.md) | [Next](./../../../../..//us/usc/t43/ch29/schIII/m__us_usc_t43_s1356b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1356a)
 
 ## § 1356a. Coastal impact assistance program
 
@@ -309,7 +309,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t43/ch29/schIII/m__us_usc_t43_s1356.md) | [Next](./../../../../..//us/usc/t43/ch30/m__us_usc_t43_ch30.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1356a)
+[Previous](./../../../../..//us/usc/t43/ch29/schIII/m__us_usc_t43_s1356.md) | [Next](./../../../../..//us/usc/t43/ch29/schIII/m__us_usc_t43_s1356b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1356a)
 
 ----------
 ----------

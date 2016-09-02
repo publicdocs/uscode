@@ -61,23 +61,23 @@
 
          In this subsection:
 
-            (A) __Conduit.—__ 
+            (A)  __Conduit__  __.—__ 
 
             The term “conduit” means any Bureau of Reclamation tunnel, canal, pipeline, aqueduct, flume, ditch, or similar manmade water conveyance that is operated for the distribution of water for agricultural, municipal, or industrial consumption and not primarily for the generation of electricity.
 
-            (B) __Irrigation district.—__ 
+            (B)  __Irrigation district__  __.—__ 
 
             The term “irrigation district” means any irrigation, water conservation or conservancy, multicounty water conservation or conservancy district, or any separate public entity composed of two or more such districts and jointly exercising powers of its member districts.
 
-            (C) __Reserved conduit.—__ 
+            (C)  __Reserved conduit__  __.—__ 
 
             The term “reserved conduit” means any conduit that is included in project works the care, operation, and maintenance of which has been reserved by the Secretary, through the Commissioner of the Bureau of Reclamation.
 
-            (D) __Transferred conduit.—__ 
+            (D)  __Transferred conduit__  __.—__ 
 
             The term “transferred conduit” means any conduit that is included in project works the care, operation, and maintenance of which has been transferred to a legally organized water users association or irrigation district.
 
-            (E) __Small conduit hydropower.—__ 
+            (E)  __Small conduit hydropower__  __.—__ 
 
             The term “small conduit hydropower” means a facility capable of producing 5 megawatts or less of electric capacity.
 

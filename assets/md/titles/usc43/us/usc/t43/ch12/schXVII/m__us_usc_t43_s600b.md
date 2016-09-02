@@ -51,7 +51,7 @@
 
 > “SEC. 3. __PREPAYMENT AND CONVEYANCE OF PROJECT.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >         (1) In consideration of the Authority accepting the obligation of the Federal Government for the Project and subject to the payment by the Authority of the applicable amount under paragraph (2) within the 360-day period beginning on the date of the enactment of this Act \[Oct. 30, 1998\], the Secretary shall convey the Project to the Authority, as provided in section 2(c)(3) of the Canadian River Project Authorization Act ([64 Stat. 1124][/us/stat/64/1124]) \[[section 600c(c)(3) of this title][/us/usc/t43/s600c/c/3]\].
 
@@ -65,43 +65,43 @@
 
 >         “(3) If payment under paragraph (1) is not made by the Authority within the period specified in paragraph (1), this Act shall have no force or effect.
 
->     “(b) __Financing.—__ 
+>     “(b)  __Financing__  __.—__ 
 
 >     Nothing in this Act shall be construed to affect the right of the Authority to use a particular type of financing.
 
 > “SEC. 4. __RELATIONSHIP TO EXISTING OPERATIONS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Nothing in this Act shall be construed as significantly expanding or otherwise changing the use or operation of the Project from its current use and operation.
 
->     “(b) __Future Alterations.—__ 
+>     “(b)  __Future Alterations__  __.—__ 
 
 >     If the Authority alters the operations or uses of the Project it shall comply with all applicable laws or regulations governing such alteration at that time.
 
->     “(c) __Recreation.—__ 
+>     “(c)  __Recreation__  __.—__ 
 
 >     The Secretary of the Interior, acting through the National Park Service, shall continue to operate the Lake Meredith National Recreation Area at Lake Meredith.
 
->     “(d) __Flood Control.—__ 
+>     “(d)  __Flood Control__  __.—__ 
 
 >     The Secretary of the Army, acting through the Corps of Engineers, shall continue to prescribe regulations for the use of storage allocated to flood control at Lake Meredith as prescribed in the Letter of Understanding entered into between the Corps, the Bureau of Reclamation, and the Authority in March and May 1980.
 
->     “(e) __Sanford Dam Property.—__ 
+>     “(e)  __Sanford Dam Property__  __.—__ 
 
 >     The Authority shall have the right to occupy and use without payment of lease or rental charges or license or use fees the property retained by the Bureau of Reclamation at Sanford Dam and all buildings constructed by the United States thereon for use as the Authority’s headquarters and maintenance facility. Buildings constructed by the Authority on such property, or past and future additions to Government constructed buildings, shall be allowed to remain on the property. The Authority shall operate and maintain such property and facilities without cost to the United States.
 
 > “SEC. 5. __RELATIONSHIP TO CERTAIN CONTRACT OBLIGATIONS.__ 
 
->     “(a) __Payment Obligations Extinguished.—__ 
+>     “(a)  __Payment Obligations Extinguished__  __.—__ 
 
 >     Provision of consideration by the Authority in accordance with section 3(b) shall extinguish all payment obligations under contract numbered 14–06–500–485 between the Authority and the Secretary.
 
->     “(b) __Operation and Maintenance Costs.—__ 
+>     “(b)  __Operation and Maintenance Costs__  __.—__ 
 
 >     After completion of the conveyance provided for in section 3, the Authority shall have full responsibility for the cost of operation and maintenance of Sanford Dam, and shall continue to have full responsibility for operation and maintenance of the Project pipeline and related facilities.
 
->     “(c) __In General.—__ 
+>     “(c)  __In General__  __.—__ 
 
 >     Rights and obligations under the existing contract No. 14–06–500–485 between the Authority and the United States, other than provisions regarding repayment of construction charge obligation by the Authority and provisions relating to the Project aqueduct, shall remain in full force and effect for the remaining term of the contract.
 

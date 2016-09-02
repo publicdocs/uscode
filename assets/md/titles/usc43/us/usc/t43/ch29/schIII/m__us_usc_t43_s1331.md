@@ -133,11 +133,11 @@
 
 > “In this title:
 
->     “(1) __181 area.—__ 
+>     “(1) __181__  __area__  __.—__ 
 
 >     The term ‘181 Area’ means the area identified in map 15, page 58, of the Proposed Final Outer Continental Shelf Oil and Gas Leasing Program for 1997–2002, dated August 1996, of the Minerals Management Service, available in the Office of the Director of the Minerals Management Service, excluding the area offered in OCS Lease Sale 181, held on December 5, 2001.
 
->     “(2) __181 south area.—__ 
+>     “(2) __181__  __south area__  __.—__ 
 
 >     The term ‘181 South Area’ means any area—
 
@@ -155,7 +155,7 @@
 
 >         “(C) included in the areas considered for oil and gas leasing, as identified in map 8, page 37 of the document entitled ‘Draft Proposed Program Outer Continental Shelf Oil and Gas Leasing Program 2007–2012’, dated February 2006.
 
->     “(3) __Bonus or royalty credit.—__ 
+>     “(3)  __Bonus or royalty credit__  __.—__ 
 
 >     The term ‘bonus or royalty credit’ means a legal instrument or other written documentation, or an entry in an account managed by the Secretary, that may be used in lieu of any other monetary payment for—
 
@@ -163,15 +163,15 @@
 
 >         “(B) a royalty due on oil or gas production from any lease located on the outer Continental Shelf.
 
->     “(4) __Central planning area.—__ 
+>     “(4)  __Central planning area__  __.—__ 
 
 >     The term ‘Central Planning Area’ means the Central Gulf of Mexico Planning Area of the outer Continental Shelf, as designated in the document entitled ‘Draft Proposed Program Outer Continental Shelf Oil and Gas Leasing Program 2007–2012’, dated February 2006.
 
->     “(5) __Eastern planning area.—__ 
+>     “(5)  __Eastern planning area__  __.—__ 
 
 >     The term ‘Eastern Planning Area’ means the Eastern Gulf of Mexico Planning Area of the outer Continental Shelf, as designated in the document entitled ‘Draft Proposed Program Outer Continental Shelf Oil and Gas Leasing Program 2007–2012’, dated February 2006.
 
->     “(6) __2002–2007 planning area.—__ 
+>     “(6) __2002–2007__  __planning area__  __.—__ 
 
 >     The term ‘2002–2007 planning area’ means any area—
 
@@ -195,17 +195,17 @@
 
 >             “(iii) the 181 Area or 181 South Area.
 
->     “(7) __Gulf producing state.—__ 
+>     “(7)  __Gulf producing state__  __.—__ 
 
 >     The term ‘Gulf producing State’ means each of the States of Alabama, Louisiana, Mississippi, and Texas.
 
->     “(8) __Military mission line.—__ 
+>     “(8)  __Military mission line__  __.—__ 
 
 >     The term ‘Military Mission Line’ means the north-south line at 86°41′ W. longitude.
 
 >     “(9) __Qualified outer continental shelf revenues.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The term ‘qualified outer Continental Shelf revenues’ means—
 
@@ -227,7 +227,7 @@
 
 >                      “(III) the 2002–2007 planning area.
 
->         “(B) __Exclusions.—__ 
+>         “(B)  __Exclusions__  __.—__ 
 
 >         The term ‘qualified outer Continental Shelf revenues’ does not include—
 
@@ -235,7 +235,7 @@
 
 >             “(ii) revenues generated from leases subject to section 8(g) of the Outer Continental Shelf Lands Act ([43 U.S.C. 1337(g)][/us/usc/t43/s1337/g]).
 
->     “(10) __Coastal political subdivision.—__ 
+>     “(10)  __Coastal political subdivision__  __.—__ 
 
 >     The term ‘coastal political subdivision’ means a political subdivision of a Gulf producing State any part of which political subdivision is—
 
@@ -243,31 +243,31 @@
 
 >         “(B) not more than 200 nautical miles from the geographic center of any leased tract.
 
->     “(11) __Secretary.—__ 
+>     “(11)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of the Interior.
 
 > “SEC. 103. __OFFSHORE OIL AND GAS LEASING IN 181 AREA AND 181 SOUTH AREA OF GULF OF MEXICO.__ 
 
->     “(a) __181 Area Lease Sale.—__ 
+>     “(a) __181__  __Area Lease Sale__  __.—__ 
 
 >     Except as provided in section 104, the Secretary shall offer the 181 Area for oil and gas leasing pursuant to the Outer Continental Shelf Lands Act ([43 U.S.C. 1331][/us/usc/t43/s1331] et seq.) as soon as practicable, but not later than 1 year, after the date of enactment of this Act \[Dec. 20, 2006\].
 
->     “(b) __181 South Area Lease Sale.—__ 
+>     “(b) __181__  __South Area Lease Sale__  __.—__ 
 
 >     The Secretary shall offer the 181 South Area for oil and gas leasing pursuant to the Outer Continental Shelf Lands Act ([43 U.S.C. 1331][/us/usc/t43/s1331] et seq.) as soon as practicable after the date of enactment of this Act \[Dec. 20, 2006\].
 
->     “(c) __Leasing Program.—__ 
+>     “(c)  __Leasing Program__  __.—__ 
 
 >     The 181 Area and 181 South Area shall be offered for lease under this section notwithstanding the omission of the 181 Area or the 181 South Area from any outer Continental Shelf leasing program under section 18 of the Outer Continental Shelf Lands Act ([43 U.S.C. 1344][/us/usc/t43/s1344]).
 
->     “(d) __Conforming Amendment.—__ 
+>     “(d)  __Conforming Amendment__  __.—__ 
 
 >     \[Amended [section 105 of Pub. L. 109–54][/us/pl/109/54/s105], [119 Stat. 522][/us/stat/119/522].\]
 
 > “SEC. 104. __MORATORIUM ON OIL AND GAS LEASING IN CERTAIN AREAS OF GULF OF MEXICO.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Effective during the period beginning on the date of enactment of this Act \[Dec. 20, 2006\] and ending on June 30, 2022, the Secretary shall not offer for leasing, preleasing, or any related activity—
 
@@ -295,17 +295,17 @@
 
 >                 “(iii) within 100 miles of the coastline of the State of Florida.
 
->     “(b) __Military Mission Line.—__ 
+>     “(b)  __Military Mission Line__  __.—__ 
 
 >     Notwithstanding subsection (a), the United States reserves the right to designate by and through the Secretary of Defense, with the approval of the President, national defense areas on the outer Continental Shelf pursuant to section 12(d) of the Outer Continental Shelf Lands Act ([43 U.S.C. 1341(d)][/us/usc/t43/s1341/d]).
 
 >     “(c) __Exchange of Certain Leases.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary shall permit any person that, as of the date of enactment of this Act \[Dec. 20, 2006\], has entered into an oil or gas lease with the Secretary in any area described in paragraph (2) or (3) of subsection (a) to exchange the lease for a bonus or royalty credit that may only be used in the Gulf of Mexico.
 
->         “(2) __Valuation of existing lease.—__ 
+>         “(2)  __Valuation of existing lease__  __.—__ 
 
 >         The amount of the bonus or royalty credit for a lease to be exchanged shall be equal to—
 
@@ -313,11 +313,11 @@
 
 >             “(B) any rental paid for the lease as of the date the lessee notifies the Secretary of the decision to exchange the lease.
 
->         “(3) __Revenue distribution.—__ 
+>         “(3)  __Revenue distribution__  __.—__ 
 
 >         No bonus or royalty credit may be used under this subsection in lieu of any payment due under, or to acquire any interest in, a lease subject to the revenue distribution provisions of section 8(g) of the Outer Continental Shelf Lands Act ([43 U.S.C. 1337(g)][/us/usc/t43/s1337/g]).
 
->         “(4) __Regulations.—__ 
+>         “(4)  __Regulations__  __.—__ 
 
 >         Not later than 1 year after the date of enactment of this Act, the Secretary shall promulgate regulations that shall provide a process for—
 
@@ -331,7 +331,7 @@
 
 > “SEC. 105. __DISPOSITION OF QUALIFIED OUTER CONTINENTAL SHELF REVENUES FROM 181 AREA, 181 SOUTH AREA, AND 2002–2007 PLANNING AREAS OF GULF OF MEXICO.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding section 9 of the Outer Continental Shelf Lands Act ([43 U.S.C. 1338][/us/usc/t43/s1338]) and subject to the other provisions of this section, for each applicable fiscal year, the Secretary of the Treasury shall deposit—
 
@@ -349,17 +349,17 @@
 
 >         “(1) __Allocation among gulf producing states for fiscal years 2007 through 2016.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Subject to subparagraph (B), effective for each of fiscal years 2007 through 2016, the amount made available under subsection (a)(2)(A) shall be allocated to each Gulf producing State in amounts (based on a formula established by the Secretary by regulation) that are inversely proportional to the respective distances between the point on the coastline of each Gulf producing State that is closest to the geographic center of the applicable leased tract and the geographic center of the leased tract.
 
->             “(B) __Minimum allocation.—__ 
+>             “(B)  __Minimum allocation__  __.—__ 
 
 >             The amount allocated to a Gulf producing State each fiscal year under subparagraph (A) shall be at least 10 percent of the amounts available under subsection (a)(2)(A).
 
 >         “(2) __Allocation among gulf producing states for fiscal year 2017 and thereafter.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Subject to subparagraphs (B) and (C), effective for fiscal year 2017 and each fiscal year thereafter—
 
@@ -367,37 +367,37 @@
 
 >                 “(ii) the amount made available under subsection (a)(2)(A) from any lease entered into within the 2002–2007 planning area shall be allocated to each Gulf producing State in amounts that are inversely proportional to the respective distances between the point on the coastline of each Gulf producing State that is closest to the geographic center of each historical lease site and the geographic center of the historical lease site, as determined by the Secretary.
 
->             “(B) __Minimum allocation.—__ 
+>             “(B)  __Minimum allocation__  __.—__ 
 
 >             The amount allocated to a Gulf producing State each fiscal year under subparagraph (A) shall be at least 10 percent of the amounts available under subsection (a)(2)(A).
 
 >             “(C) __Historical lease sites.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 Subject to clause (ii), for purposes of subparagraph (A)(ii), the historical lease sites in the 2002–2007 planning area shall include all leases entered into by the Secretary for an area in the Gulf of Mexico during the period beginning on October 1, 1982 (or an earlier date if practicable, as determined by the Secretary), and ending on December 31, 2015.
 
->                 “(ii) __Adjustment.—__ 
+>                 “(ii)  __Adjustment__  __.—__ 
 
 >                 Effective January 1, 2022, and every 5 years thereafter, the ending date described in clause (i) shall be extended for an additional 5 calendar years.
 
 >         “(3) __Payments to coastal political subdivisions.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Secretary shall pay 20 percent of the allocable share of each Gulf producing State, as determined under paragraphs (1) and (2), to the coastal political subdivisions of the Gulf producing State.
 
->             “(B) __Allocation.—__ 
+>             “(B)  __Allocation__  __.—__ 
 
 >             The amount paid by the Secretary to coastal political subdivisions shall be allocated to each coastal political subdivision in accordance with subparagraphs (B), (C), and (E) of section 31(b)(4) of the Outer Continental Shelf Lands Act ([43 U.S.C. 1356a(b)(4)][/us/usc/t43/s1356a/b/4]).
 
->     “(c) __Timing.—__ 
+>     “(c)  __Timing__  __.—__ 
 
 >     The amounts required to be deposited under paragraph (2) of subsection (a) for the applicable fiscal year shall be made available in accordance with that paragraph during the fiscal year immediately following the applicable fiscal year.
 
 >     “(d) __Authorized Uses.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to paragraph (2), each Gulf producing State and coastal political subdivision shall use all amounts received under subsection (b) in accordance with all applicable Federal and State laws, only for 1 or more of the following purposes:
 
@@ -411,11 +411,11 @@
 
 >             “(E) Planning assistance and the administrative costs of complying with this section.
 
->         “(2) __Limitation.—__ 
+>         “(2)  __Limitation__  __.—__ 
 
 >         Not more than 3 percent of amounts received by a Gulf producing State or coastal political subdivision under subsection (b) may be used for the purposes described in paragraph (1)(E).
 
->     “(e) __Administration.—__ 
+>     “(e)  __Administration__  __.—__ 
 
 >     Amounts made available under subsection (a)(2) shall—
 
@@ -435,15 +435,15 @@
 
 >     “(f) __Limitations on Amount of Distributed Qualified Outer Continental Shelf Revenues.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to paragraph (2), the total amount of qualified outer Continental Shelf revenues made available under subsection (a)(2) shall not exceed $500,000,000 for each of fiscal years 2016 through 2055.
 
->         “(2) __Expenditures.—__ 
+>         “(2)  __Expenditures__  __.—__ 
 
 >         For the purpose of paragraph (1), for each of fiscal years 2016 through 2055, expenditures under subsection (a)(2) shall be net of receipts from that fiscal year from any area in the 181 Area in the Eastern Planning Area and the 181 South Area.
 
->         “(3) __Pro rata reductions.—__ 
+>         “(3)  __Pro rata reductions__  __.—__ 
 
 >         If paragraph (1) limits the amount of qualified outer Continental Shelf revenue that would be paid under subparagraphs (A) and (B) of subsection (a)(2)—
 

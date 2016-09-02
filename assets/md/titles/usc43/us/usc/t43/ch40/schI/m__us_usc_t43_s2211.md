@@ -49,7 +49,7 @@
 
 [Pub. L. 107–171, title II, § 2507][/us/pl/107/171/s2507], May 13, 2002, [116 Stat. 275][/us/stat/116/275], as amended by [Pub. L. 110–234, title II, § 2807][/us/pl/110/234/s2807], May 22, 2008, [122 Stat. 1090][/us/stat/122/1090]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2807, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1818; [Pub. L. 111–85, title II, § 207][/us/pl/111/85/s207], Oct. 28, 2009, [123 Stat. 2858][/us/stat/123/2858]; [Pub. L. 112–74, div. B, title II, § 208(a)][/us/pl/112/74/s208/a], Dec. 23, 2011, [125 Stat. 866][/us/stat/125/866], provided that:
 
->     “(a) __Transfer.—__ 
+>     “(a)  __Transfer__  __.—__ 
 
 >     Subject to subsection (b) and paragraph (1) of [section 207(a) of Public Law 108–7][/us/pl/108/7/s207/a] ([117 Stat. 146][/us/stat/117/146]), notwithstanding paragraph (3) of that section, on the date of enactment of the Food, Conservation, and Energy Act of 2008 \[June 18, 2008\], the Secretary of Agriculture shall transfer $175,000,000 of the funds of the Commodity Credit Corporation to the Bureau of Reclamation Water and Related Resources Account, which funds shall—
 
@@ -57,7 +57,7 @@
 
 >         “(2) remain available until expended.
 
->     “(b) __Permitted Uses.—__ 
+>     “(b)  __Permitted Uses__  __.—__ 
 
 >     For the benefit of at-risk natural desert terminal lakes and associated riparian and watershed resources, in any case in which there are willing sellers or willing participants, the funds described in subsection (a) may be used—
 

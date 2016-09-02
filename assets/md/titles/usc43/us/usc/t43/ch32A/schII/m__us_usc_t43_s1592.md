@@ -33,15 +33,15 @@
 
         (7) __Basin states program.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             A Basin States Program that the Secretary, acting through the Bureau of Reclamation, shall implement to carry out salinity control activities in the Colorado River Basin using funds made available under [section 1595(f) of this title][/us/usc/t43/s1595/f].
 
-            (B) __Assistance.—__ 
+            (B)  __Assistance__  __.—__ 
 
             The Secretary, in consultation with the Colorado River Basin Salinity Control Advisory Council, shall carry out this paragraph using funds described in subparagraph (A) directly or by providing grants, grant commitments, or advance funds to Federal or non-Federal entities under such terms and conditions as the Secretary may require.
 
-            (C) __Activities.—__ 
+            (C)  __Activities__  __.—__ 
 
             Funds described in subparagraph (A) shall be used to carry out, as determined by the Secretary—
 
@@ -53,11 +53,11 @@
 
             (D) __Report.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Not later than 30 days before implementing the program established under this paragraph, the Secretary shall submit to the appropriate committees of Congress a planning report that describes the proposed implementation of the program.
 
-                (ii) __Implementation.—__ 
+                (ii)  __Implementation__  __.—__ 
 
                 The Secretary may not expend funds to implement the program established under this paragraph before the expiration of the 30-day period beginning on the date on which the Secretary submits the report, or any revision to the report, under clause (i).
 

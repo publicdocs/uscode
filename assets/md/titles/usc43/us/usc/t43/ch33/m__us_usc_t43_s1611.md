@@ -129,7 +129,7 @@
 
 [Pub. L. 108–452, title II, § 201][/us/pl/108/452/s201], Dec. 10, 2004, [118 Stat. 3582][/us/stat/118/3582], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     To make certain Federal land available for conveyance to a Native Corporation that has sufficient remaining entitlement, the Secretary \[of the Interior\] may waive the filing deadlines under sections 12 and 16 of the Alaska Native Claims Settlement Act ([43 U.S.C. 1611][/us/usc/t43/s1611], 1615) if—
 
@@ -169,7 +169,7 @@
 
 >         “(4) the State \[of Alaska\] has voluntarily relinquished any valid State selection or top-filing for the Federal land.
 
->     “(b) __Congressional Action.—__ 
+>     “(b)  __Congressional Action__  __.—__ 
 
 >     Subsection (a) shall not apply to a parcel of Federal land if Congress has specifically made other provisions for disposition of the parcel of Federal land.”
 
@@ -177,7 +177,7 @@
 
 [Pub. L. 108–452, title II, § 209][/us/pl/108/452/s209], Dec. 10, 2004, [118 Stat. 3586][/us/stat/118/3586], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary \[of the Interior\] may enter into a binding written agreement with a Native Corporation relating to—
 
@@ -195,7 +195,7 @@
 
 >         “(7) the resolution of conflicts with Native allotment \[an allotment claimed under the Act of May 17, 1906 ([34 Stat. 197][/us/stat/34/197], chapter 2469)\] applications.
 
->     “(b) __Requirements.—__ 
+>     “(b)  __Requirements__  __.—__ 
 
 >     An agreement under subsection (a)—
 
@@ -203,21 +203,21 @@
 
 >         “(2) shall include a statement that the entitlement of the Native Corporation shall be considered complete on execution of the agreement.
 
->     “(c) __Correction of Conveyance Documents.—__ 
+>     “(c)  __Correction of Conveyance Documents__  __.—__ 
 
 >     In an agreement under subsection (a), the Secretary and the Native Corporation may agree to make technical corrections to the legal description in the conveyance documents for easements previously reserved so that the easements provide the access intended by the original reservation.
 
->     “(d) __Consultation.—__ 
+>     “(d)  __Consultation__  __.—__ 
 
 >     Before entering into an agreement under subsection (a), the Secretary shall ensure that the concerns or issues identified by the State \[of Alaska\] and all Federal agencies potentially affected by the agreement are given consideration.
 
->     “(e) __Errors.—__ 
+>     “(e)  __Errors__  __.—__ 
 
 >     Any Native Corporation entering into an agreement under subsection (a) shall receive any gain or bear any loss resulting from errors in prior surveys, protraction diagrams, or computation of the ownership of third parties on any land conveyed.
 
 >     “(f) __Effect.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         An agreement under subsection (a) shall not—
 
@@ -225,11 +225,11 @@
 
 >             “(B) result in a Native Corporation relinquishing valid selections of land in order to qualify for the withdrawal of other tracts of land.
 
->         “(2) __Effect on subsurface rights.—__ 
+>         “(2)  __Effect on subsurface rights__  __.—__ 
 
 >         The terms of an agreement entered into under subsection (a) shall be binding on a Regional Corporation with respect to the location and quantity of subsurface rights of the Regional Corporation under section 14(f) of the Alaska Native Claims Settlement Act ([43 U.S.C. 1613(f)][/us/usc/t43/s1613/f]).
 
->         “(3) __Effect on entitlement.—__ 
+>         “(3)  __Effect on entitlement__  __.—__ 
 
 >         Nothing in this section increases the entitlement provided to any Native Corporation under—
 
@@ -237,11 +237,11 @@
 
 >             “(B) the Alaska National Interest Lands Conservation Act ([16 U.S.C. 3101][/us/usc/t16/s3101] et seq.).
 
->     “(g) __Boundaries of a Native Village.—__ 
+>     “(g)  __Boundaries of a Native Village__  __.—__ 
 
 >     An agreement entered into under subsection (a) may not define the boundaries of a Native Village.
 
->     “(h) __Availability of Agreements.—__ 
+>     “(h)  __Availability of Agreements__  __.—__ 
 
 >     An agreement entered into under subsection (a) shall be available for public inspection in the appropriate offices of the Department of the Interior.”
 
@@ -251,11 +251,11 @@
 
 > “SEC. 401. __DEADLINE FOR ESTABLISHMENT OF REGIONAL PLANS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 18 months after the date of enactment of this Act \[Dec. 10, 2004\], the Secretary \[of the Interior\], in coordination and consultation with Native Corporations, other Federal land management agencies, and the State \[of Alaska\], shall update and revise the 12 preliminary Regional Conveyance and Survey Plans.
 
->     “(b) __Inclusions.—__ 
+>     “(b)  __Inclusions__  __.—__ 
 
 >     The updated and revised plans under subsection (a) shall identify any conflicts to be resolved and recommend any actions that should be taken to facilitate the finalization of land conveyances in a region by 2009.
 
@@ -265,7 +265,7 @@
 
 > “SEC. 403. __FINAL PRIORITIZATION OF ANCSA SELECTIONS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Any Native Corporation that has not received its full entitlement or entered into a voluntary, negotiated settlement of final entitlement shall submit the final, irrevocable priorities of the Native Corporation—
 
@@ -273,7 +273,7 @@
 
 >         “(2) in the case of a Regional Corporation entitlement, not later than 42 months after the date of enactment of this Act.
 
->     “(b) __Acreage Limitations.—__ 
+>     “(b)  __Acreage Limitations__  __.—__ 
 
 >     The priorities submitted under subsection (a) shall not exceed land that is the greater of—
 
@@ -283,17 +283,17 @@
 
 >     “(c) __Corrections.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in paragraph (2), the priorities submitted under subsection (a) may not be revoked, rescinded, or modified by the Native Corporation.
 
->         “(2) __Technical corrections.—__ 
+>         “(2)  __Technical corrections__  __.—__ 
 
 >         Not later than 90 days after the date of receipt of a notification by the Secretary that there appears to be a technical error in the priorities, the Native Corporation may correct the technical error in accordance with any recommendations of, and in a manner prescribed by or acceptable to, the Secretary.
 
 >     “(d) __Relinquishment.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         As of the date on which the Native Corporation submits its final priorities under subsection (a)—
 
@@ -307,11 +307,11 @@
 
 >             “(B) all withdrawals under sections 11 and 16 of the Alaska Native Claims Settlement Act ([43 U.S.C. 1610][/us/usc/t43/s1610], 1615) under the relinquished selections are terminated.
 
->         “(2) __Records.—__ 
+>         “(2)  __Records__  __.—__ 
 
 >         All relinquishments under paragraph (1) shall be included in Bureau of Land Management land records.
 
->     “(e) __Failure To Submit Priorities.—__ 
+>     “(e)  __Failure To Submit Priorities__  __.—__ 
 
 >     If a Native Corporation fails to submit priorities by the deadline specified in subsection (a)—
 
@@ -335,7 +335,7 @@
 
 >     “(f) __Plan of Conveyance.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary shall—
 
@@ -345,7 +345,7 @@
 
 >             “(C) provide to the Native Corporation a plan of conveyance based on the priorities developed under subparagraph (B).
 
->         “(2) __Finalized selections.—__ 
+>         “(2)  __Finalized selections__  __.—__ 
 
 >         Not later than 180 days after the date on which the Secretary provides a plan of conveyance to the affected Village, Group, or Urban Corporation and the Regional Corporation, the Regional Corporation shall finalize any Regional selections that are in conflict with land selected by the Village, Group, or Urban Corporation that has not been prioritized by the deadline under subsection (a)(1).
 

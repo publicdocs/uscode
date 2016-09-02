@@ -31,11 +31,11 @@
 
 [Pub. L. 100–203, title V, § 5301][/us/pl/100/203/s5301], Dec. 22, 1987, [101 Stat. 1330–268][/us/stat/101/1330-268], provided that:
 
->     “(a) __Sale.—__ 
+>     “(a)  __Sale__  __.—__ 
 
 >     The Secretary of the Interior (hereinafter in this section referred to as the ‘Secretary’), under such terms as the Secretary shall prescribe, shall sell or otherwise dispose of loans made pursuant to the Distribution System Loans Act ([43 U.S.C. 421a–421d][/us/usc/t43/s421a–421d]) \[[43 U.S.C. 421a][/us/usc/t43/s421a] to 421h\], the Small Reclamation Projects Act \[of 1956\] ([43 U.S.C. 422a–422][/us/usc/t43/s422a–422]l) \[[43 U.S.C. 422a][/us/usc/t43/s422a] et seq.\], and the Rehabilitation and Betterment Act ([43 U.S.C. 504–505][/us/usc/t43/s504–505]) \[[43 U.S.C. 504][/us/usc/t43/s504] and note\] in such amounts as to realize net proceeds to the Federal Government of not less than $130,000,000 in the fiscal year ending September 30, 1988. In the conduct of such sales, the Secretary shall take such actions as he deems appropriate to accommodate, effectuate, and otherwise protect the rights and obligations of the United States and the borrowers under the contracts executed to provide for repayment of such loans.
 
->     “(b) __Savings Provisions.—__ 
+>     “(b)  __Savings Provisions__  __.—__ 
 
 >     Nothing in this section, including the prepayment or other disposition of any loan or loans, shall—
 
@@ -43,11 +43,11 @@
 
 >         “(2) authorize the transfer of title to any federally owned facilities funded by the loans specified in subsection (a) of this section without a specific Act of Congress.
 
->     “(c) __Fees and Expenses of Program.—__ 
+>     “(c)  __Fees and Expenses of Program__  __.—__ 
 
 >     Proceeds from the conduct of the program authorized by this section shall be first used to pay the fees and expenses of such program and the net proceeds shall be deposited in the Treasury of the United States as miscellaneous receipts.
 
->     “(d) __Termination.—__ 
+>     “(d)  __Termination__  __.—__ 
 
 >     The authority granted by this section to sell or otherwise dispose of loans shall terminate on December 31, 1988.”
 

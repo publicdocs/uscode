@@ -263,15 +263,15 @@
 
 [Pub. L. 108–447, div. C, title II, § 203][/us/pl/108/447/s203], Dec. 8, 2004, [118 Stat. 2948][/us/stat/118/2948], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding section 403(f) of the Colorado River Basin Project Act ([43 U.S.C. 1543(f)][/us/usc/t43/s1543/f]), no amount from the Lower Colorado River Basin Development Fund shall be paid to the general fund of the Treasury until each provision of the revised Stipulation Regarding a Stay and for Ultimate Judgment Upon the Satisfaction of Conditions, filed in United States District Court on April 24, 2003, in Central Arizona Water Conservation District v. United States (No. CIV 95–625–TUC–WDB (EHC), No. CIV 95–1720–OHX–EHC (Consolidated Action)), and any amendment or revision thereof, is met.
 
->     “(b) __Payment to General Fund.—__ 
+>     “(b)  __Payment to General Fund__  __.—__ 
 
 >     If any of the provisions of the stipulation referred to in subsection (a) are not met by the date that is 10 years after the date of enactment of this Act \[Dec. 8, 2004\], payments to the general fund of the Treasury shall resume in accordance with section 403(f) of the Colorado River Basin Project Act ([43 U.S.C. 1543(f)][/us/usc/t43/s1543/f]).
 
->     “(c) __Authorization.—__ 
+>     “(c)  __Authorization__  __.—__ 
 
 >     Amounts in the Lower Colorado River Basin Development Fund that but for this section would be returned to the general fund of the Treasury shall not be expended until further Act of Congress.”
 

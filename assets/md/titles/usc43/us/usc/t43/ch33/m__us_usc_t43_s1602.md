@@ -103,15 +103,15 @@
 
 > “In this Act \[see Short Title of 2004 Amendment note set out under [section 1601 of this title][/us/usc/t43/s1601]\]:
 
->     “(1) __Native allotment.—__ 
+>     “(1)  __Native allotment__  __.—__ 
 
 >     The term ‘Native allotment’ means an allotment claimed under the Act of May 17, 1906 ([34 Stat. 197][/us/stat/34/197], chapter 2469) \[former [43 U.S.C. 270–1][/us/usc/t43/s270–1] to 270–3\].
 
->     “(2) __Secretary.—__ 
+>     “(2)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of the Interior.
 
->     “(3) __State.—__ 
+>     “(3)  __State__  __.—__ 
 
 >     The term ‘State’ means the State of Alaska.”
 

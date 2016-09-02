@@ -53,11 +53,11 @@
 
 [Pub. L. 100–409, § 8][/us/pl/100/409/s8], Aug. 20, 1988, [102 Stat. 1091][/us/stat/102/1091], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Secretary of the Interior shall conduct an assessment of the need for and cost and benefits associated with improvements in the existing methods of land surveying and mapping and of collecting, storing, retrieving, disseminating, and using information about Federal and other lands.
 
->     “(b) __Consultation.—__ 
+>     “(b)  __Consultation__  __.—__ 
 
 >     In conducting the assessment required by this section, the Secretary of the Interior shall consult with the following—
 
@@ -71,11 +71,11 @@
 
 >         “(5) representatives of private sector surveying and mapping science.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     No later than one year after the day of enactment of this Act \[Aug. 20, 1988\], the Secretary of the Interior shall report to the Congress concerning the results of the assessment required by this section.
 
->     “(d) __Topics.—__ 
+>     “(d)  __Topics__  __.—__ 
 
 >     In the report required by subsection (c), the Secretary of the Interior shall include a discussion and evaluation of the following:
 
@@ -89,7 +89,7 @@
 
 >         “(5) model standards developed by the Secretary for compatible multipurpose land information systems for use by Federal, State and local governmental agencies, the public, and the private sector.
 
->     “(e) __Recommendations.—__ 
+>     “(e)  __Recommendations__  __.—__ 
 
 >     The report required by subsection (c) may also include such recommendations for legislation as the Secretary of the Interior considers necessary or desirable.”
 

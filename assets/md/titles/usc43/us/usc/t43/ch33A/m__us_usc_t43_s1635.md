@@ -201,7 +201,7 @@
 
 [Pub. L. 108–452, title I, § 103][/us/pl/108/452/s103], Dec. 10, 2004, [118 Stat. 3577][/us/stat/118/3577], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     All reversionary interests held by the United States in land owned by the State \[of Alaska\] or any political subdivision of the State and any Federal land leased by the State under the Act of August 23, 1950 ([25 U.S.C. 293b][/us/usc/t25/s293b]), or the Act of June 4, 1953 ([25 U.S.C. 293a][/us/usc/t25/s293a]), that is prioritized for conveyance by the State under section 906(h)(2) of the Alaska National Interest Lands Conservation Act ([43 U.S.C. 1635(h)(2)][/us/usc/t43/s1635/h/2])—
 
@@ -209,19 +209,19 @@
 
 >         “(2) may, with the concurrence of the Secretary \[of the Interior\] or the head of the Federal agency with administrative jurisdiction over the land, be conveyed under [section 6 of Public Law 85–508][/us/pl/85/508/s6] (commonly known as the ‘Alaska Statehood Act’) ([72 Stat. 340][/us/stat/72/340]) \[set out as a note preceding [section 21 of Title 48][/us/usc/t48/s21], Territories and Insular Possessions\].
 
->     “(b) __Effect on Entitlement.—__ 
+>     “(b)  __Effect on Entitlement__  __.—__ 
 
 >     If, before the date of enactment of this Act \[Dec. 10, 2004\], the entitlement of the State has not been charged with respect to a parcel for which a reversionary interest is conveyed under subsection (a), the total acreage of the parcel shall be charged against the remaining entitlement of the State.
 
->     “(c) __Minimum Acreage Requirement Not Applicable.—__ 
+>     “(c)  __Minimum Acreage Requirement Not Applicable__  __.—__ 
 
 >     The minimum acreage requirement under subsections (a) and (b) of [section 6 of Public Law 85–508][/us/pl/85/508/s6] (commonly known as the ‘Alaska Statehood Act’) ([72 Stat. 340][/us/stat/72/340]) shall not apply to the selection of reversionary interests under subsection (a).
 
->     “(d) __State Waiver.—__ 
+>     “(d)  __State Waiver__  __.—__ 
 
 >     On conveyance to the State of any reversionary interest selected under subsection (a), the State shall be deemed to have waived all right to any future credit should the reversion not occur.
 
->     “(e) __Limitation.—__ 
+>     “(e)  __Limitation__  __.—__ 
 
 >     This section shall not apply to—
 
@@ -233,7 +233,7 @@
 
 [Pub. L. 108–452, title I, § 106][/us/pl/108/452/s106], Dec. 10, 2004, [118 Stat. 3579][/us/stat/118/3579], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary \[of the Interior\] may enter into a binding written agreement with the State \[of Alaska\] with respect to—
 
@@ -251,19 +251,19 @@
 
 >         “(4) the survey of the exterior boundaries of the land to be conveyed.
 
->     “(b) __Consultation.—__ 
+>     “(b)  __Consultation__  __.—__ 
 
 >     Before entering into an agreement under subsection (a), the Secretary shall ensure that any concerns or issues identified by any Federal agency potentially affected are given consideration.
 
->     “(c) __Errors.—__ 
+>     “(c)  __Errors__  __.—__ 
 
 >     The State, by entering into an agreement under subsection (a), shall receive any gain or bear any loss that results from errors in prior surveys, protraction diagrams, or the computation of the ownership of third parties on any land conveyed under an agreement entered into under subsection (a).
 
->     “(d) __Availability of Agreements.—__ 
+>     “(d)  __Availability of Agreements__  __.—__ 
 
 >     Agreements entered into under subsection (a) shall be available for public inspection in the appropriate offices of the Department of the Interior.
 
->     “(e) __Effect.—__ 
+>     “(e)  __Effect__  __.—__ 
 
 >     Nothing in this section increases the entitlement provided to the State under [Public Law 85–508][/us/pl/85/508] (commonly known as the ‘Alaska Statehood Act’) ([72 Stat. 340][/us/stat/72/340]), or the Act of January 21, 1929 ([45 Stat. 1091][/us/stat/45/1091], chapter 92).”
 
@@ -273,11 +273,11 @@
 
 >     “(a) __Conditional Relinquishments.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         To facilitate the conversion of Federal mining claims to State \[of Alaska\] mining claims on land selected or topfiled by the State, a Federal mining claimant may file with the Secretary \[of the Interior\] a voluntary relinquishment of the Federal mining claim conditioned on conveyance of the land to the State.
 
->         “(2) __Conveyance of relinquished claim.—__ 
+>         “(2)  __Conveyance of relinquished claim__  __.—__ 
 
 >         The Secretary may convey the land described in the relinquished Federal mining claim to the State if, with respect to the land—
 
@@ -291,15 +291,15 @@
 
 >             “(B) the land addressed by the selection application or future selection application is conveyed to the State.
 
->         “(3) __Obligations under federal law.—__ 
+>         “(3)  __Obligations under federal law__  __.—__ 
 
 >         Until the date on which the land is conveyed under paragraph (2), a Federal mining claimant shall be subject to any obligations relating to the land under Federal law.
 
->         “(4) __No relinquishment.—__ 
+>         “(4)  __No relinquishment__  __.—__ 
 
 >         If the land previously encumbered by the relinquished Federal mining claim is not conveyed to the State under paragraph (2), the relinquishment of land under paragraph (1) shall be of no effect.
 
->     “(b) __Rights-of-Way; Other Interest.—__ 
+>     “(b)  __Rights-of-Way; Other Interest__  __.—__ 
 
 >     On conveyance to the State of a relinquished Federal mining claim under this section, the State shall assume authority over any leases, licenses, permits, rights-of-way, operating plans, other land use authorizations, or reclamation obligations applicable to the relinquished Federal mining claim on the date of conveyance.”
 
@@ -309,11 +309,11 @@
 
 >     “(a) __Filing of Final Priorities.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The State \[of Alaska\] shall, not later than the date that is 4 years after the date of enactment of this Act \[Dec. 10, 2004\], in accordance with section 906(f)(1) of the Alaska National Interest Lands Conservation Act ([43 U.S.C. 1635(f)(1)][/us/usc/t43/s1635/f/1]), file final priorities with the Secretary \[of the Interior\] for all land grant entitlements to the State which remain unsatisfied on the date of the filing.
 
->         “(2) __Ranking.—__ 
+>         “(2)  __Ranking__  __.—__ 
 
 >         All selection applications on file with the Secretary on the date specified in paragraph (1) shall—
 
@@ -321,41 +321,41 @@
 
 >             “(B) include an estimate of the acreage included in each selection.
 
->         “(3) __Inclusions.—__ 
+>         “(3)  __Inclusions__  __.—__ 
 
 >         The State shall include in the prioritized list land which has been top-filed under section 906(e) of the Alaska National Interest Lands Conservation Act ([43 U.S.C. 1635(e)][/us/usc/t43/s1635/e]).
 
 >         “(4) __Acreage limitation.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Acreage for top-filings shall not be counted against the 125 percent limitation established under section 906(f)(1) of the Alaska National Interest Lands Conservation Act ([43 U.S.C. 1635(f)(1)][/us/usc/t43/s1635/f/1]).
 
 >             “(B) __Relinquishment.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 The State shall relinquish any selections that exceed the 125 percent limitation.
 
->                 “(ii) __Failure to relinquish.—__ 
+>                 “(ii)  __Failure to relinquish__  __.—__ 
 
 >                 If the State fails to relinquish a selection under clause (i), the Secretary shall reject the selection.
 
->         “(5) __Lower-priority selections.—__ 
+>         “(5)  __Lower-priority selections__  __.—__ 
 
 >         Notwithstanding the prioritization of selection applications under paragraph (1), if the Secretary reserves sufficient entitlements for the top-filed selections, the Secretary may continue to convey lower-priority selections.
 
 >     “(b) __Deadline for Prioritization.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The State shall irrevocably prioritize sufficient selections to allow the Secretary to complete transfer of 101,000,000 acres by September 30, 2009.
 
->         “(2) __Reprioritization.—__ 
+>         “(2)  __Reprioritization__  __.—__ 
 
 >         Any selections remaining after September 30, 2009, may be reprioritized.
 
->     “(c) __Financial Assistance.—__ 
+>     “(c)  __Financial Assistance__  __.—__ 
 
 >     The Secretary may, using amounts made available to carry out this Act \[see Short Title of 2004 Amendment note set out under [section 1601 of this title][/us/usc/t43/s1601]\], provide financial assistance to other Federal agencies, the State, and Native Corporations and entities to assist in completing the transfer of land by September 30, 2009.”
 

@@ -89,11 +89,11 @@
 
 [Pub. L. 103–433, title I, § 107][/us/pl/103/433/s107], Oct. 31, 1994, [108 Stat. 4483][/us/stat/108/4483], provided that:
 
->     “(a) __Designation.—__ 
+>     “(a)  __Designation__  __.—__ 
 
 >     There is hereby established the Desert Lily Sanctuary within the California Desert Conservation Area, California, of the Bureau of Land Management, comprising approximately two thousand forty acres, as generally depicted on a map entitled ‘Desert Lily Sanctuary’, dated February 1986. The Secretary \[of the Interior\] shall administer the area to provide maximum protection to the desert lily.
 
->     “(b) __Withdrawal.—__ 
+>     “(b)  __Withdrawal__  __.—__ 
 
 >     Subject to valid existing rights, all Federal lands within the Desert Lily Sanctuary are hereby withdrawn from all forms of entry, appropriation, or disposal under the public land laws; from location, entry, and patent under the United States mining laws; and from disposition under all laws pertaining to mineral and geothermal leasing, and mineral materials, and all amendments thereto.”
 
@@ -101,11 +101,11 @@
 
 [Pub. L. 103–433, title I, § 108][/us/pl/103/433/s108], Oct. 31, 1994, [108 Stat. 4483][/us/stat/108/4483], provided that:
 
->     “(a) __Designation.—__ 
+>     “(a)  __Designation__  __.—__ 
 
 >     There is hereby established the Dinosaur Trackway Area of Critical Environmental Concern within the California Desert Conservation Area, of the Bureau of Land Management, comprising approximately five hundred and ninety acres as generally depicted on a map entitled ‘Dinosaur Trackway Area of Critical Environmental Concern’, dated July 1993. The Secretary \[of the Interior\] shall administer the area to preserve the paleontological resources within the area.
 
->     “(b) __Withdrawal.—__ 
+>     “(b)  __Withdrawal__  __.—__ 
 
 >     Subject to valid existing rights, the Federal lands within and adjacent to the Dinosaur Trackway Area of Critical Environmental Concern, as generally depicted on a map entitled ‘Dinosaur Trackway Mineral Withdrawal Area’, dated July 1993, are hereby withdrawn from all forms of entry, appropriation, or disposal under the public land laws; from location, entry, and patent under the United States mining laws; and from disposition under all laws pertaining to mineral and geothermal leasing, and mineral materials, and all amendments thereto.”
 

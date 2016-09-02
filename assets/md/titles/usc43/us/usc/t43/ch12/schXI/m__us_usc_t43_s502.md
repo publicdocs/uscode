@@ -59,11 +59,11 @@
 
 > “SEC. 413. __AVAILABILITY OF WATER ON A TEMPORARY BASIS.__ 
 
->     “(a) __General Authority.—__ 
+>     “(a)  __General Authority__  __.—__ 
 
 >     The Secretary of the Interior may make available, by contract, consistent with existing contracts or agreements and State law, water or canal capacity at existing Federal reclamation projects to water users and others, on a temporary basis to mitigate losses and damages resulting from drought conditions in 1987, 1988, and 1989.
 
->     “(b) __Contracts.—__ 
+>     “(b)  __Contracts__  __.—__ 
 
 >     Any contract signed under this section shall provide that—
 
@@ -75,7 +75,7 @@
 
 >         “(4) the contract shall terminate no later than December 31, 1989.
 
->     “(c) __Fish and Wildlife.—__ 
+>     “(c)  __Fish and Wildlife__  __.—__ 
 
 >     The Secretary may make available water for the purposes of protecting fish and wildlife resources, including mitigating losses that occur as a result of drought conditions.
 
@@ -103,7 +103,7 @@
 
 > “SEC. 418. __INITIATION AND DEADLINE OF EMERGENCY DROUGHT PROGRAM.__ 
 
->     “(a) __Limitation.—__ 
+>     “(a)  __Limitation__  __.—__ 
 
 >     The programs and authorities established under this part shall become operative in any Reclamation State only after—
 
@@ -111,7 +111,7 @@
 
 >         “(2) the affected area is declared eligible for Federal disaster relief under applicable rules and regulations.
 
->     “(b) __Termination.—__ 
+>     “(b)  __Termination__  __.—__ 
 
 >     The programs and authorities established under this part shall terminate on December 31, 1989, unless otherwise specifically stated.
 

@@ -31,13 +31,13 @@
 
 [Pub. L. 104–333, div. I, title III, § 311][/us/pl/104/333/s311], Nov. 12, 1996, [110 Stat. 4139][/us/stat/110/4139], as amended by [Pub. L. 106–176, title I, § 105][/us/pl/106/176/s105], Mar. 10, 2000, [114 Stat. 25][/us/stat/114/25], provided that:
 
->     “(a) __Short Title.—__ 
+>     “(a)  __Short Title__  __.—__ 
 
 >     This section may be cited as the ‘Kenai Natives Association Equity Act Amendments of 1996’.
 
 >     “(b) __Findings and Purpose.—__ 
 
->         “(1) __Findings.—__ 
+>         “(1)  __Findings__  __.—__ 
 
 >         The Congress finds the following:
 
@@ -49,11 +49,11 @@
 
 >             “(D) It is in the public interest to complete the conveyances provided for in this section.
 
->         “(2) __Purpose.—__ 
+>         “(2)  __Purpose__  __.—__ 
 
 >         The purpose of this section is to authorize and direct the Secretary, at the election of KNA, to complete the conveyances provided for in this section.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     For purposes of this section, the term—
 
@@ -83,17 +83,17 @@
 
 >         “(1) __Offer to kna.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Subject to the availability of the funds identified in paragraph (2)(C), no later than 90 days after the date of enactment of this section \[Nov. 12, 1996\], the Secretary shall offer to convey to KNA the interests in land and rights set forth in paragraph (2)(B), subject to valid existing rights, in return for the conveyance by KNA to the United States of the interests in land or relinquishment of ANCSA selections set forth in paragraph (2)(A). Payment for the lands conveyed to the United States by KNA is contingent upon KNA’s acceptance of the entire conveyance outlined herein.
 
->             “(B) __Limitation.—__ 
+>             “(B)  __Limitation__  __.—__ 
 
 >             The Secretary may not convey any lands or make payment to KNA under this section unless title to the lands to be conveyed by KNA under this section has been found by the United States to be sufficient in accordance with the provisions of section 355 of the Revised Statutes ([40 U.S.C. 255][/us/usc/t40/s255]) \[now [40 U.S.C. 3111][/us/usc/t40/s3111], 3112\].
 
 >         “(2) __Acquisition lands.—__ 
 
->             “(A) __Lands to be conveyed to the united states.—__ 
+>             “(A)  __Lands to be conveyed to the united states__  __.—__ 
 
 >             The lands to be conveyed by KNA to the United States, or the valid selection rights under ANCSA to be relinquished, all situated within the boundary of the Refuge, are the following:
 
@@ -111,7 +111,7 @@
 
 >                 “(vii) The conveyance of approximately 100 acres within the Beaver Creek Patented Tract, which is contiguous to lands being retained by the United States contiguous to the Beaver Creek Patented Tract, in exchange for 280 acres of Service lands currently situated within the Beaver Creek Selected Tract.
 
->             “(B) __Lands to be conveyed to kna.—__ 
+>             “(B)  __Lands to be conveyed to kna__  __.—__ 
 
 >             The rights provided or lands to be conveyed by the United States to KNA, are the following:
 
@@ -129,11 +129,11 @@
 
 >                 “(v) The surface estate of approximately 280 acres known as the Beaver Creek Selected Tract. This tract shall be conveyed to KNA in exchange for lands conveyed to the United States as described in paragraph (2)(A)(ii).
 
->             “(C) __Payment.—__ 
+>             “(C)  __Payment__  __.—__ 
 
 >             The United States shall make a total cash payment to KNA for the above-described lands of $4,443,000, contingent upon the appropriate approvals of the Federal or State of Alaska EVOS Trustees (or both) necessary for any expenditure of the EVOS settlement funds.
 
->             “(D) __National register of historic places.—__ 
+>             “(D)  __National register of historic places__  __.—__ 
 
 >             Upon completion of the acquisition authorized in paragraph (1), the Secretary shall, at no cost to KNA, in coordination with KNA, promptly undertake to nominate the Stephanka Tract to the National Register of Historic Places, in recognition of the archaeological artifacts from the original Dena’ina Settlement. If the Department of the Interior establishes a historical, cultural, or archaeological interpretive site, KNA shall have the exclusive right to operate a Dena’ina interpretive site on the Stephanka Tract under the regulations and policies of the department. If KNA declines to operate such a site, the department may do so under its existing authorities. Prior to the department undertaking any archaeological activities whatsoever on the Stephanka Tract, KNA shall be consulted.
 
@@ -155,25 +155,25 @@
 
 >                 “(v) By virtue of implementation of this section, CIRI is deemed entitled to 1,207 acres of in-lieu subsurface entitlement under section 12(a)(1) of ANCSA \[[43 U.S.C. 1611(a)(1)][/us/usc/t43/s1611/a/1]\]. Such entitlement shall be fulfilled in accordance with paragraph 1(B)(2)(A) of the Terms and Conditions.
 
->             “(B) __Maps and legal descriptions.—__ 
+>             “(B)  __Maps and legal descriptions__  __.—__ 
 
 >             Maps and a legal description of the lands described above shall be on file and available for public inspection in the appropriate offices of the United States Department of the Interior, and the Secretary shall, no later than 90 days after enactment of this section, prepare a legal description of the lands described in paragraph (2)(A)(vii). Such maps and legal description shall have the same force and effect as if included in the section, except that the Secretary may correct clerical and typographical errors.
 
->             “(C) __Acceptance.—__ 
+>             “(C)  __Acceptance__  __.—__ 
 
 >             KNA may accept the offer made in this section by notifying the Secretary in writing of its decision within 180 days of receipt of the offer. In the event the offer is rejected, the Secretary shall notify the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives and the Committee on Energy and Natural Resources and the Committee on Environment and Public Works of the Senate.
 
->             “(D) __Final maps.—__ 
+>             “(D)  __Final maps__  __.—__ 
 
 >             Not later than 120 days after the conclusion of the acquisition authorized by paragraph (1), the Secretary shall transmit a final report and maps accurately depicting the lands transferred and conveyed pursuant to this section and the acreage and legal descriptions of such lands to the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives and the Committee on Energy and Natural Resources and the Committee on Environment and Public Works of the Senate.
 
->     “(e) __Adjustments to National Wilderness System.—__ 
+>     “(e)  __Adjustments to National Wilderness System__  __.—__ 
 
 >     Upon acquisition of lands by the United States pursuant to subsection (d)(2)(A), that portion of the Stephanka Tract lying south and west of the Kenai River, consisting of approximately 592 acres, shall be included in and managed as part of the Kenai Wilderness and such lands shall be managed in accordance with the applicable provisions of the Wilderness Act and ANILCA.
 
 >     “(f) __Designation of Lake Todatonten Special Management Area.—__ 
 
->         “(1) __Purpose.—__ 
+>         “(1)  __Purpose__  __.—__ 
 
 >         To balance the potential effects on fish, wildlife, and habitat of the removal of KNA lands from the Refuge System, the Secretary is hereby directed to withdraw, subject to valid existing rights, from location, entry, and patent under the mining laws and to create as a special management unit for the protection of fish, wildlife, and habitat, certain unappropriated and unreserved public lands, totaling approximately 37,000 acres adjacent to the west boundary of the Kanuti National Wildlife Refuge to be known as the ‘Lake Todatonten Special Management Area’, as depicted on the map entitled ‘Proposed: Lake Todatonten Special Management Area’, dated June 13, 1996, and to be managed by the Bureau of Land Management.
 
@@ -197,7 +197,7 @@
 
 >                 “(iii) The BLM shall hold meetings of the Lake Todatonten Special Management Area Committee at least once per year to discuss management issues within the Special Management Area. The BLM shall not allow any new type of activity in the Special Management Area without first conferring with the Committee in a timely manner.
 
->         “(3) __Access.—__ 
+>         “(3)  __Access__  __.—__ 
 
 >         The Secretary shall allow the following:
 
@@ -205,11 +205,11 @@
 
 >             “(B) Existing public access across the Special Management Area. Section 1110(a) of ANILCA \[[16 U.S.C. 3170(a)][/us/usc/t16/s3170/a]\] shall apply to the Special Management Area.
 
->         “(4) __Secretarial order and maps.—__ 
+>         “(4)  __Secretarial order and maps__  __.—__ 
 
 >         The Secretary shall file with the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives and the Committee on Energy and Natural Resources and the Committee on Environment and Public Works of the Senate, the Secretarial Order and maps setting forth the boundaries of the Area within 90 days of the completion of the acquisition authorized by this section. Once established, this Order may only be amended or revoked by Act of Congress.
 
->         “(5) __Authorization of appropriations.—__ 
+>         “(5)  __Authorization of appropriations__  __.—__ 
 
 >         There are authorized to be appropriated such sums as may be necessary to carry out the purposes of this section.”
 

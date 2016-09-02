@@ -83,7 +83,7 @@
 
             (B) Except as otherwise provided  <sup>\[2\]</sup>  <sup><sup> 2 So in original. The word “provided” probably should not appear. </sup></sup>  specifically provided, the exemptions described in subparagraph (A) shall apply to any claim or judgment existing on or arising after February 3, 1988.
 
-        (2) __Definitions.—__ 
+        (2)  __Definitions__  __.—__ 
 
             (A)
 
@@ -113,7 +113,7 @@
 
                 (iv) lands or interest in lands shall not be considered developed or leased or sold to a third party as a result of an exchange or conveyance of such land or interest in land between or among Native Corporations and trusts, partnerships, corporations, or joint ventures, whose beneficiaries, partners, shareholders, or joint venturers are Native Corporations.
 
-        (3) __Action by a Trustee.—__ 
+        (3)  __Action by a Trustee__  __.—__ 
 
             (A)
 
@@ -143,7 +143,7 @@
 
                 (iii) to actions by any trustee whose right, title, or interest in land or interests in land arises pursuant to an agreement between or among Native Corporations and trusts, partnerships, or joint ventures whose beneficiaries, partners, shareholders, or joint venturers are Native Corporations.
 
-        (4) __Exclusions, Reattachment of Exemptions.—__ 
+        (4)  __Exclusions, Reattachment of Exemptions__  __.—__ 
 
             (A)
 
@@ -175,7 +175,7 @@
 
             (C) If the exemptions listed in paragraph (1) are terminated with respect to land, or an interest in land, as a result of development (or a lease to a third party), and such land, or interest in land, subsequently reverts to an undeveloped state (or the third-party lease is terminated), then the exemptions shall again apply to such land, or interest in land, in accordance with the provisions of this subsection.
 
-        (5) __Tax Recapture Upon Subdivision Plat Recordation.—__ 
+        (5)  __Tax Recapture Upon Subdivision Plat Recordation__  __.—__ 
 
             (A) Upon the recordation with an appropriate government authority of an approved subdivision plat submitted by, or on behalf of, a Native individual, Native Corporation, or Settlement Trust with respect to land described in paragraph (1), such individual, corporation, or trust shall pay in accordance with this paragraph all State and local property taxes on the smallest practicable tract integrally related to the subdivision project that would have been incurred by the individual, corporation, or trust on such land (excluding the value of subsurface resources and timber) in the absence of the exemption described in paragraph (1)(A)(ii) during the thirty months prior to the date of the recordation of the plat.
 
@@ -183,7 +183,7 @@
 
             (C) At least thirty days prior to final approval of a plat of the type described in subparagraph (A), the government entity with jurisdiction over the plat shall notify the submitting individual, corporation, or trust of the estimated tax liability that would be incurred as a result of the recordation of the plat at the time of final approval.
 
-        (6) __Savings.—__ 
+        (6)  __Savings__  __.—__ 
 
             (A) No provision of this subsection shall be construed to impair, or otherwise affect, any valid contract or other obligation that was entered into prior to February 3, 1988.
 

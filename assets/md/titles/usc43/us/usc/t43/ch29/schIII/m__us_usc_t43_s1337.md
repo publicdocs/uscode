@@ -479,15 +479,15 @@
 
 [Pub. L. 109–58, title III, § 388(b)][/us/pl/109/58/s388/b], Aug. 8, 2005, [119 Stat. 746][/us/stat/119/746], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary of the Interior, in cooperation with the Secretary of Commerce, the Commandant of the Coast Guard, and the Secretary of Defense, shall establish an interagency comprehensive digital mapping initiative for the outer Continental Shelf to assist in decisionmaking relating to the siting of activities under subsection (p) of section 8 of the Outer Continental Shelf Lands Act ([43 U.S.C. 1337][/us/usc/t43/s1337]) (as added by subsection (a)).
 
->     “(2) __Use of data.—__ 
+>     “(2)  __Use of data__  __.—__ 
 
 >     The mapping initiative shall use, and develop procedures for accessing, data collected before the date on which the mapping initiative is established, to the maximum extent practicable.
 
->     “(3) __Inclusions.—__ 
+>     “(3)  __Inclusions__  __.—__ 
 
 >     Mapping carried out under the mapping initiative shall include an indication of the locations on the outer Continental Shelf of—
 
