@@ -491,6 +491,16 @@ Subpart I—Miscellaneous  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptI%2Fch96" data-uslm-ref="/us/usc/t5/ptIII/sptI/ch96">96.</a>  </td>
+
+    <td> Personnel flexibilities  <sup>[2]</sup>  relating  <sup>[2]</sup>  to land  <sup>[2]</sup>  management  <sup>[2]</sup>  agencies  <sup>[2]</sup>   </td>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs9601" data-uslm-ref="/us/usc/t5/s9601">9601</a>  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2FptIII%2FsptI%2Fch97" data-uslm-ref="/us/usc/t5/ptIII/sptI/ch97">97.</a>  </td>
 
     <td> Department of Homeland Security  </td>
@@ -543,6 +553,8 @@ Subpart I—Miscellaneous  </td>
 
  __Amendments__ 
 
+    2015—[Pub. L. 114–47, § 2(b)][/us/pl/114/47/s2/b], Aug. 7, 2015, [129 Stat. 487][/us/stat/129/487], added item for chapter 96.
+
     2011—[Pub. L. 112–81, div. A, title XI, § 1101(d)(2)][/us/pl/112/81/s1101/d/2], Dec. 31, 2011, [125 Stat. 1610][/us/stat/125/1610], added item for chapter 99 and struck out former item for chapter 99 “Department of Defense National Security Personnel System”.
 
     2010—[Pub. L. 111–292, § 2(b)(1)][/us/pl/111/292/s2/b/1], Dec. 9, 2010, [124 Stat. 3170][/us/stat/124/3170], added item for chapter 65.
@@ -586,6 +598,8 @@ Subpart I—Miscellaneous  </td>
 ----------
 ----------
 
+[/us/pl/114/47/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F47%2Fs2%2Fb
+[/us/stat/129/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F487
 [/us/pl/112/81/s1101/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1101%2Fd%2F2
 [/us/stat/125/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1610
 [/us/pl/111/292/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F292%2Fs2%2Fb%2F1

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t5/ptIII/sptI/ch95/m__us_usc_t5_s9509.md) | [Next](./../../../../../..//us/usc/t5/ptIII/sptI/ch97/m__us_usc_t5_ptIII_sptI_ch97.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs9510)
+[Previous](./../../../../../..//us/usc/t5/ptIII/sptI/ch95/m__us_usc_t5_s9509.md) | [Next](./../../../../../..//us/usc/t5/ptIII/sptI/ch96/m__us_usc_t5_ptIII_sptI_ch96.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs9510)
 
 ## § 9510. General workforce staffing
 
@@ -63,7 +63,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t5/ptIII/sptI/ch95/m__us_usc_t5_s9509.md) | [Next](./../../../../../..//us/usc/t5/ptIII/sptI/ch97/m__us_usc_t5_ptIII_sptI_ch97.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs9510)
+[Previous](./../../../../../..//us/usc/t5/ptIII/sptI/ch95/m__us_usc_t5_s9509.md) | [Next](./../../../../../..//us/usc/t5/ptIII/sptI/ch96/m__us_usc_t5_ptIII_sptI_ch96.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs9510)
 
 ----------
 ----------
