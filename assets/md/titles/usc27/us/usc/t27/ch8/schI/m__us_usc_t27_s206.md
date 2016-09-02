@@ -1,0 +1,56 @@
+---
+---
+
+# 27 U.S.C., USLM ref /us/usc/t27/s206
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../..//us/usc/t27/ch8/schI/m__us_usc_t27_s205.md) | [Next](./../../../../..//us/usc/t27/ch8/schI/m__us_usc_t27_s207.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs206)
+
+## § 206. Bulk sales and bottling
+
+    (a) __Offenses__ 
+
+    It shall be unlawful for any person—
+
+        (1) To sell or offer to sell, contract to sell, or otherwise dispose of distilled spirits in bulk except, under regulations of the Secretary of the Treasury, for export or to the following, or to import distilled spirits in bulk except, under such regulations, for sale to or for use by the following: A distiller, rectifier of distilled spirits, person operating a bonded warehouse qualified under the internal-revenue laws or a class 8 bonded warehouse qualified under the customs laws, a winemaker for the fortification of wines, a proprietor of an industrial alcohol plant, or an agency of the United States or any State or political subdivision thereof.
+
+        (2) To sell or offer to sell, contract to sell, or otherwise dispose of warehouse receipts for distilled spirits in bulk unless such warehouse receipts require that the warehouseman shall package such distilled spirits, before delivery, in bottles labeled and marked in accordance with law, or deliver such distilled spirits in bulk only to persons to whom it is lawful to sell or otherwise dispose of distilled spirits in bulk.
+
+        (3) To bottle distilled spirits unless the bottler is a person to whom it is lawful to sell or otherwise dispose of distilled spirits in bulk.
+
+    (b) __Penalty__ 
+
+        Any person who violates the requirements of this section shall, upon conviction thereof, be fined not more than $5,000 or imprisoned for not more than one year or both, and shall forfeit to the United States all distilled spirits with respect to which the violation occurs and the containers thereof.
+
+    (c) __“In bulk” defined__ 
+
+        The term “in bulk” mean in containers having a capacity in excess of one wine gallon.
+
+([Aug. 29, 1935, ch. 814][/us/act/1935-08-29/ch814], title I, § 106, formerly § 6, [49 Stat. 985][/us/stat/49/985]; 1940 Reorg. Plan No. III, § 2, eff. June 30, 1940, 5 F.R. 2108, [54 Stat. 1232][/us/stat/54/1232]; renumbered title I, § 106, [Pub. L. 100–690, title VIII, § 8001(a)(1)][/us/pl/100/690/s8001/a/1], (2), Nov. 18, 1988, [102 Stat. 4517][/us/stat/102/4517].)
+
+ __Transfer of Functions__ 
+
+    “Secretary of the Treasury” was substituted in subsec. (a)(1) for “Administrator”, meaning the Administrator of the Federal Alcohol Administration, pursuant to Reorg. Plan No. III of 1940, see note set out under [section 201 of this title][/us/usc/t27/s201].
+
+----------
+
+[Previous](./../../../../..//us/usc/t27/ch8/schI/m__us_usc_t27_s205.md) | [Next](./../../../../..//us/usc/t27/ch8/schI/m__us_usc_t27_s207.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs206)
+
+----------
+----------
+
+[/us/act/1935-08-29/ch814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-29%2Fch814
+[/us/stat/49/985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F985
+[/us/stat/54/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1232
+[/us/pl/100/690/s8001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs8001%2Fa%2F1
+[/us/stat/102/4517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4517
+[/us/usc/t27/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs201
+
+
