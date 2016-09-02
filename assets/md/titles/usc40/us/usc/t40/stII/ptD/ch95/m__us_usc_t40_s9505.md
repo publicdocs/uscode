@@ -15,11 +15,11 @@
 
 ## § 9505. Paying for main pipes
 
-    (a) __Federal Government.—__ 
+    (a)  __Federal Government__  __.—__ 
 
     The Federal Government shall only pay for the number of main pipes of the Washington Aqueduct needed to furnish public buildings, offices, and grounds with the necessary supply of water.
 
-    (b) __District of Columbia.—__ 
+    (b)  __District of Columbia__  __.—__ 
 
     The District of Columbia shall pay the cost of any main pipe of the Washington Aqueduct which supplies water to the inhabitants of the District of Columbia, in the manner provided by law.
 

@@ -15,7 +15,7 @@
 
 ## § 529. Annual executive agency reports on excess personal property
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     During the calendar quarter following the close of each fiscal year, each executive agency shall submit to the Administrator of General Services a report on personal property—
 
@@ -29,7 +29,7 @@
 
         (2) furnished within the United States to a recipient other than a federal agency.
 
-    (b) __Required Information.—__ 
+    (b)  __Required Information__  __.—__ 
 
     The report must set out the categories of equipment and show—
 

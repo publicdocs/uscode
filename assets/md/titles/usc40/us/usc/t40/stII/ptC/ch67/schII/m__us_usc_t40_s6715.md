@@ -15,7 +15,7 @@
 
 ## § 6715. Coordination with District of Columbia
 
-    (a) __Local Needs, Initiative, and Participation.—__ 
+    (a)  __Local Needs, Initiative, and Participation__  __.—__ 
 
     In carrying out the purposes of this subchapter and the Pennsylvania Avenue Development Corporation Act of 1972 ([Public Law 92–578][/us/pl/92/578], [86 Stat. 1266][/us/stat/86/1266]), the Administrator of General Services shall—
 
@@ -25,7 +25,7 @@
 
         (3) foster local initiative and participation in connection with the planning and development of projects.
 
-    (b) __Compliance With Local Requirements.—__ 
+    (b)  __Compliance With Local Requirements__  __.—__ 
 
     To the extent the Administrator constructs, rehabilitates, alters, or improves any project under this subchapter, the Administrator shall comply with all District of Columbia laws, ordinances, codes, and regulations. [Section 8722(d) of this title][/us/usc/t40/s8722/d] applies to all construction, rehabilitation, alteration, and improvement of all buildings by the Administrator under this subchapter. Construction, rehabilitation, alteration, and improvement of any project by non-Federal Government sources is subject to the District of Columbia Official Code and zoning regulations.
 

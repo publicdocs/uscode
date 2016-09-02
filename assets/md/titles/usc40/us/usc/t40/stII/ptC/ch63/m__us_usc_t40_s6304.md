@@ -15,7 +15,7 @@
 
 ## § 6304. Additional regulations
 
-    (a) __Authority To Prescribe Additional Regulations.—__ 
+    (a)  __Authority To Prescribe Additional Regulations__  __.—__ 
 
     In addition to the restrictions and requirements specified in sections 6302 and 6303 of this title, the Secretary of the Smithsonian Institution, the Trustees of the National Gallery of Art, and the Trustees of the John F. Kennedy Center for the Performing Arts may prescribe for their respective agencies regulations necessary for—
 
@@ -23,7 +23,7 @@
 
         (2) the maintenance of suitable order and decorum within the specified buildings and grounds, including the control of traffic and parking of vehicles in the National Zoological Park and all other areas in the District of Columbia under their control.
 
-    (b) __Publication in Federal Register.—__ 
+    (b)  __Publication in Federal Register__  __.—__ 
 
     A regulation prescribed under this section shall be published in the Federal Register and is not effective until the expiration of 10 days after the date of publication.
 

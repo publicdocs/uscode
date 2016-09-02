@@ -15,21 +15,21 @@
 
 ## § 8908. Areas I and II
 
-    (a) __Availability of Map.—__ 
+    (a)  __Availability of Map__  __.—__ 
 
     The Secretary of the Interior or the Administrator of General Services (as appropriate) shall make available, for public inspection at appropriate offices of the National Park Service and the General Services Administration, the map entitled “Commemorative Areas Washington, DC and Environs”, numbered 869/86501 B, and dated June 24, 2003.
 
     (b) __Specific Conditions Applicable to Area I and Area II.—__ 
 
-        (1) __Area i.—__ 
+        (1)  __Area i__  __.—__ 
 
         After seeking the advice of the National Capital Memorial Advisory Commission, the Secretary or Administrator, as appropriate, may recommend the location of a commemorative work in Area I only if the Secretary or Administrator decides that the subject of the commemorative work is of preeminent historical and lasting significance to the United States. The Secretary or Administrator shall notify the Commission, the Committee on Natural Resources of the House of Representatives, and the Committee on Energy and Natural Resources of the Senate of the recommendation that a commemorative work should be located in Area I. The location of a commemorative work in Area I is deemed to be authorized only if the recommendation is approved by law not later than 150 calendar days after the notification.
 
-        (2) __Area ii.—__ 
+        (2)  __Area ii__  __.—__ 
 
         Commemorative works of subjects of lasting historical significance to the American people may be located in Area II.
 
-    (c) __Reserve.—__ 
+    (c)  __Reserve__  __.—__ 
 
     After the date of enactment of the Commemorative Works Clarification and Revision Act of 2003, no commemorative work or visitor center shall be located within the Reserve.
 

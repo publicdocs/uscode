@@ -15,11 +15,11 @@
 
 ## § 8734. Sale of land by Mayor
 
-    (a) __Authority To Sell.—__ 
+    (a)  __Authority To Sell__  __.—__ 
 
     With the approval of the National Capital Planning Commission, the Mayor of the District of Columbia, for the best interests of the District of Columbia, may sell to the highest bidder at public or private sale real estate in the District of Columbia owned in fee simple by the District of Columbia for municipal use that the Council of the District of Columbia and the Commission find to be no longer required for public purposes.
 
-    (b) __Paying Expenses and Depositing Proceeds.—__ 
+    (b)  __Paying Expenses and Depositing Proceeds__  __.—__ 
 
     The Mayor—
 

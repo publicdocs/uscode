@@ -15,15 +15,15 @@
 
 ## § 606. Regulations related to operation
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Director of the Office of Personnel Management shall prescribe regulations to govern executive agencies in authorizing civilian personnel to operate Federal Government-owned motor vehicles for official purposes within the States of the United States, the District of Columbia, Puerto Rico, and the territories and possessions of the United States.
 
-    (b) __Elements of the Regulations.—__ 
+    (b)  __Elements of the Regulations__  __.—__ 
 
     The regulations shall prescribe standards of physical fitness for authorized operators. The regulations may require operators and prospective operators to obtain state and local licenses or permits that are required to operate similar vehicles for other than official purposes.
 
-    (c) __Agency Orders.—__ 
+    (c)  __Agency Orders__  __.—__ 
 
     The head of each executive agency shall issue orders and directives necessary for compliance with the regulations. The orders and directives shall provide for—
 

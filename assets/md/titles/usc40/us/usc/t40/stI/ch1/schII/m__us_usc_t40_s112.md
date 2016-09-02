@@ -15,11 +15,11 @@
 
 ## § 112. Applicability of certain policies, procedures, and directives in effect on July 1, 1949
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     A policy, procedure, or directive described in subsection (b) remains in effect until superseded or amended under this subtitle or other appropriate authority.
 
-    (b) __Description.—__ 
+    (b)  __Description__  __.—__ 
 
     A policy, procedure, or directive referred to in subsection (a) is one that was in effect on July 1, 1949, and that was prescribed by—
 

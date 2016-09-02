@@ -17,11 +17,11 @@
 
     (a) __Stipulation of Discharge.—__ 
 
-        (1) __Person asserting claim entitled to benefits.—__ 
+        (1)  __Person asserting claim entitled to benefits__  __.—__ 
 
         In a judicial proceeding under the laws of a State, district, territory, or possession of the United States, when property owned or held by the Federal Government, or in which the Government has or claims an interest, is seized, arrested, attached, or held for the security or satisfaction of a claim made against the property, the Attorney General may direct the United States Attorney for the district in which the property is located to enter a stipulation that on discharge of the property from the seizure, arrest, attachment, or proceeding, the person asserting the claim against the property becomes entitled to all the benefits of this section.
 
-        (2) __Nonapplication.—__ 
+        (2)  __Nonapplication__  __.—__ 
 
         This subsection does not—
 
@@ -35,7 +35,7 @@
 
             (B) waive an objection to a proceeding brought to enforce the claim.
 
-    (b) __Payment.—__ 
+    (b)  __Payment__  __.—__ 
 
     After a discharge, a final judgment which affirms the claim for the security or satisfaction and the right of the person asserting the claim to enforce it against the property, notwithstanding the claims of the Government, is deemed to be a full and final determination of the rights of the person and entitles the person, as against the Government, to the rights the person would have had if possession of the property had not been changed. When the claim is for the payment of money found to be due, presentation of an authenticated copy of the record of the judgment and proceedings is sufficient evidence to the proper accounting officers for the allowance of the claim, which shall be allowed and paid out of amounts in the Treasury not otherwise appropriated. The amount allowed and paid shall not exceed the value of the interest of the Government in the property.
 

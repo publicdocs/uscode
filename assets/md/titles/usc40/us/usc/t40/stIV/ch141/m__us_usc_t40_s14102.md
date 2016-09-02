@@ -15,11 +15,11 @@
 
 ## § 14102. Definitions
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this subtitle—
 
-        (1) __Appalachian region.—__ 
+        (1)  __Appalachian region__  __.—__ 
 
         The term “Appalachian region” means that area of the eastern United States consisting of the following counties (including any political subdivision located within the area):
 
@@ -49,7 +49,7 @@
 
             (M) All the counties of West Virginia.
 
-        (2) __Local development district.—__ 
+        (2)  __Local development district__  __.—__ 
 
         The term “local development district” means any of the following entities for which the Governor of the State in which the entity is located, or the appropriate state officer, certifies to the Appalachian Regional Commission that the entity has a charter or authority that includes the economic development of counties or parts of counties or other political subdivisions within the region:
 
@@ -61,7 +61,7 @@
 
             (D) a nonprofit association or combination of bodies, agencies, and instrumentalities described in this paragraph.
 
-    (b) __Change in Definition.—__ 
+    (b)  __Change in Definition__  __.—__ 
 
     The Commission may not propose or consider a recommendation for any change in the definition of the Appalachian region as set forth in this section without a prior resolution by the Committee on Environment and Public Works of the Senate or the Committee on Transportation and Infrastructure of the House of Representatives that directs a study of the change.
 

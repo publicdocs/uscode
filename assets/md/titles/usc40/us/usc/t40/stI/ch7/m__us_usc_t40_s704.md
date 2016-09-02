@@ -15,17 +15,17 @@
 
 ## § 704. Other methods of disposal
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Foreign excess property not disposed of under section 702 or 703 of this title may be disposed of as provided in this section.
 
     (b) __Methods of Disposal.—__ 
 
-        (1) __Sale, exchange, lease, or transfer.—__ 
+        (1)  __Sale, exchange, lease, or transfer__  __.—__ 
 
         The head of an executive agency may dispose of foreign excess property by sale, exchange, lease, or transfer, for cash, credit or other property, with or without warranty, under terms and conditions the head of the executive agency considers proper.
 
-        (2) __Exchange for foreign currency or credit.—__ 
+        (2)  __Exchange for foreign currency or credit__  __.—__ 
 
         If the head of an executive agency determines that it is in the interest of the United States, foreign excess property may be exchanged for—
 
@@ -33,15 +33,15 @@
 
             (B) substantial benefits or the discharge of claims resulting from the compromise or settlement of claims in accordance with law.
 
-        (3) __Abandonment, destruction, or donation.—__ 
+        (3)  __Abandonment, destruction, or donation__  __.—__ 
 
         The head of an executive agency may authorize the abandonment, destruction, or donation of foreign excess property if the property has no commercial value or if estimated costs of care and handling exceed the estimated proceeds from sale.
 
-    (c) __Advertising.—__ 
+    (c)  __Advertising__  __.—__ 
 
     The head of an executive agency may dispose of foreign excess property without advertising if the head of the executive agency finds that disposal without advertising is the most practicable and advantageous means for the Federal Government to dispose of the property.
 
-    (d) __Transfer of Title.—__ 
+    (d)  __Transfer of Title__  __.—__ 
 
     The head of an executive agency may execute documents to transfer title or other interests in, and take other action necessary or proper to dispose of, foreign excess property.
 

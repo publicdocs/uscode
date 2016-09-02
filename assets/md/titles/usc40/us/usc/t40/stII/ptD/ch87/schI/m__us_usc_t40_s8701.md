@@ -15,7 +15,7 @@
 
 ## § 8701. Findings and purposes
 
-    (a) __Findings.—__ 
+    (a)  __Findings__  __.—__ 
 
     Congress finds that—
 
@@ -35,7 +35,7 @@
 
     (b) __Purposes.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The purposes of this chapter (except sections 8733–8736) are—
 
@@ -45,7 +45,7 @@
 
             (C) to establish the agency and procedures requisite to the administration of the functions of the Federal and District Governments related to the planning.
 
-        (2) __Objective.—__ 
+        (2)  __Objective__  __.—__ 
 
         The general objective of this chapter (except sections 8733–8736) is to enable appropriate agencies to plan for the development of the federal establishment at the seat of government in a manner—
 

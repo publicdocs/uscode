@@ -17,11 +17,11 @@
 
     In this subchapter, the following definitions apply:
 
-    (1) __Federal government.—__ 
+    (1)  __Federal government__  __.—__ 
 
     The term “Federal Government” has the same meaning that the term “United States” had in the Act of March 3, 1931 (ch. 411, [46 Stat. 1494][/us/stat/46/1494]) (known as the Davis-Bacon Act).
 
-    (2) __Wages, scale of wages, wage rates, minimum wages, and prevailing wages.—__ 
+    (2)  __Wages, scale of wages, wage rates, minimum wages, and prevailing wages__  __.—__ 
 
     The terms “wages”, “scale of wages”, “wage rates”, “minimum wages”, and “prevailing wages” include—
 

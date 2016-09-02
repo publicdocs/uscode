@@ -17,15 +17,15 @@
 
     (a) __Appalachian Housing Fund.—__ 
 
-        (1) __Establishment.—__ 
+        (1)  __Establishment__  __.—__ 
 
         There is an Appalachian Housing Fund.
 
-        (2) __Source and use of amounts in fund.—__ 
+        (2)  __Source and use of amounts in fund__  __.—__ 
 
         Amounts allocated to the Secretary of Housing and Urban Development for the purposes of this section shall be deposited in the Fund. The Secretary shall use the Fund as a revolving fund to carry out those purposes. Amounts in the Fund not needed for current operation may be invested in bonds or other obligations the Federal Government guarantees as to principal and interest. General expenses of administration of this section may be charged to the Fund.
 
-    (b) __Purpose.—__ 
+    (b)  __Purpose__  __.—__ 
 
     To encourage and facilitate the construction or rehabilitation of housing to meet the needs of low- and moderate-income families and individuals, the Secretary may make grants and loans from the Fund, under terms and conditions the Secretary may prescribe. The grants and loans may be made to nonprofit, limited dividend, or cooperative organizations and public bodies and are for planning and obtaining federally insured mortgage financing or other financial assistance for housing construction or rehabilitation projects for low- and moderate-income families and individuals, in any area of the Appalachian region the Appalachian Regional Commission establishes, under—
 
@@ -37,13 +37,13 @@
 
         (4) any other law of similar purpose administered by the Secretary or any other department, agency, or instrumentality of the Federal Government or a state government.
 
-    (c) __Providing Amounts to States for Grants and Loans.—__ 
+    (c)  __Providing Amounts to States for Grants and Loans__  __.—__ 
 
     The Secretary or the Commission may provide amounts to the States for making grants and loans to nonprofit, limited dividend, or cooperative organizations and public bodies for the purposes for which the Secretary may provide amounts under this section.
 
     (d) __Loans.—__ 
 
-        (1) __Limitation on available amounts.—__ 
+        (1)  __Limitation on available amounts__  __.—__ 
 
         A loan under subsection (b) for the cost of planning and obtaining financing (including the cost of preliminary surveys and analyses of market needs, preliminary site engineering and architectural fees, site options, application and mortgage commitment fees, legal fees, and construction loan fees and discounts) of a project described in that subsection may be made for up to—
 
@@ -53,17 +53,17 @@
 
             (C) in the case of a project to be carried out for a county for which an at-risk county designation is in effect under section 14526, 70 percent of that cost.
 
-        (2) __Interest.—__ 
+        (2)  __Interest__  __.—__ 
 
         A loan shall be made without interest, except that a loan made to an organization established for profit shall bear interest at the prevailing market rate authorized for an insured or guaranteed loan for that type of project.
 
-        (3) __Payment.—__ 
+        (3)  __Payment__  __.—__ 
 
         The Secretary shall require payment of a loan made under this section, under terms and conditions the Secretary may require, no later than on completion of the project. Except for a loan to an organization established for profit, the Secretary may cancel any part of a loan made under this section on determining that a permanent loan to finance the project cannot be obtained in an amount adequate for repayment of a loan made under this section.
 
     (e) __Grants.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A grant under this section for expenses incidental to planning and obtaining financing for a project under this section that the Secretary considers to be unrecoverable from the proceeds of a permanent loan made to finance the project shall—
 
@@ -79,7 +79,7 @@
 
                 (iii) in the case of a project to be carried out in a county for which an at-risk county designation is in effect under section 14526, 70 percent of those expenses.
 
-        (2) __Site development costs and offsite improvements.—__ 
+        (2)  __Site development costs and offsite improvements__  __.—__ 
 
         The Secretary may make grants and commitments for grants, and may advance amounts under terms and conditions the Secretary may require, to nonprofit, limited dividend, or cooperative organizations and public bodies for reasonable site development costs and necessary offsite improvements, such as sewer and water line extensions, when the grant, commitment, or advance is essential to the economic feasibility of a housing construction or rehabilitation project for low- and moderate-income families and individuals which otherwise meets the requirements for assistance under this section. A grant under this paragraph for—
 
@@ -87,11 +87,11 @@
 
             (B) the rehabilitation of housing shall not be more than 10 percent of the reasonable value of the rehabilitation housing, as determined by the Secretary.
 
-    (f) __Information, Advice, and Technical Assistance.—__ 
+    (f)  __Information, Advice, and Technical Assistance__  __.—__ 
 
     The Secretary or the Commission may provide, or contract with public or private organizations to provide, information, advice, and technical assistance with respect to the construction, rehabilitation, and operation by nonprofit organizations of housing for low- or moderate- income families in areas of the region the Commission establishes.
 
-    (g) __Application of Certain Provisions.—__ 
+    (g)  __Application of Certain Provisions__  __.—__ 
 
     Programs and projects assisted under this section are subject to the provisions cited in [section 14701 of this title][/us/usc/t40/s14701] to the extent provided in the laws authorizing assistance for low- and moderate-income housing.
 

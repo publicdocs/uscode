@@ -15,11 +15,11 @@
 
 ## § 3503. Revolving fund
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     There is a revolving fund established by the Secretary of Housing and Urban Development to provide amounts for advances under this chapter. The fund comprises amounts appropriated under this chapter and all repayments and other receipts received in connection with advances made under this chapter.
 
-    (b) __Authorizations.—__ 
+    (b)  __Authorizations__  __.—__ 
 
     Not more than $70,000,000 may be appropriated to the revolving fund as necessary to carry out the purposes of this chapter.
 

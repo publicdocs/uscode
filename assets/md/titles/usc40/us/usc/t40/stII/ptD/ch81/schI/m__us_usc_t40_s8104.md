@@ -15,19 +15,19 @@
 
 ## § 8104. Regulation of private and semipublic buildings adjacent to public buildings and grounds
 
-    (a) __Factors for Development.—__ 
+    (a)  __Factors for Development__  __.—__ 
 
     In view of the provisions of the Constitution respecting the establishment of the seat of the National Government, the duties it imposed on Congress in connection with establishing the seat of the National Government, and the solicitude shown and the efforts exerted by President Washington in the planning and development of the Capital City, the development should proceed along the lines of good order, good taste, and with due regard to the public interests involved, and a reasonable degree of control should be exercised over the architecture of private or semipublic buildings adjacent to public buildings and grounds of major importance.
 
-    (b) __Submission of Application to Commission of Fine Arts.—__ 
+    (b)  __Submission of Application to Commission of Fine Arts__  __.—__ 
 
     The Mayor of the District of Columbia shall submit to the Commission of Fine Arts an application for a permit to erect or alter any building, a part of which fronts or abuts on the grounds of the Capitol, the grounds of the White House, the part of Pennsylvania Avenue extending from the Capitol to the White House, Lafayette Park, Rock Creek Park, the Zoological Park, the Rock Creek and Potomac Parkway, Potomac Park, or The Mall Park System and public buildings adjacent to the System, or abuts on any street bordering any of those grounds or parks, so far as the plans relate to height and appearance, color, and texture of the materials of exterior construction.
 
-    (c) __Report to Mayor.—__ 
+    (c)  __Report to Mayor__  __.—__ 
 
     The Commission shall report promptly its recommendations to the Mayor, including any changes the Commission decides are necessary to prevent reasonably avoidable impairment of the public values belonging to the public building or park. If the Commission fails to report its approval or disapproval of a plan within 30 days, the report is deemed approved and a permit may be issued.
 
-    (d) __Action by the Mayor.—__ 
+    (d)  __Action by the Mayor__  __.—__ 
 
     The Mayor shall take action the Mayor decides is necessary to effect reasonable compliance with the recommendation under subsection (c).
 

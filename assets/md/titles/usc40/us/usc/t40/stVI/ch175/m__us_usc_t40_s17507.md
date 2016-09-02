@@ -15,11 +15,11 @@
 
 ## § 17507. Savings
 
-    (a) __Actions by President Required.—__ 
+    (a)  __Actions by President Required__  __.—__ 
 
     The President shall establish, for each executive agency, goals to reduce outlays for the operation, maintenance, leasing, acquisition, and disposal of motor vehicles in order to reduce, by fiscal year 1988, the total amount of outlays by all executive agencies for the operation, maintenance, leasing, acquisition, and disposal of motor vehicles to an amount which is $150,000,000 less than the amount for the operation, maintenance, leasing, acquisition, and disposal of motor vehicles requested by the President in the budget submitted under [section 1105 of title 31][/us/usc/t31/s1105] for fiscal year 1986.
 
-    (b) __Monitoring of Compliance.—__ 
+    (b)  __Monitoring of Compliance__  __.—__ 
 
     The Director of the Office of Management and Budget shall monitor compliance by executive agencies with the goals established by the President under subsection (a) and shall include, in each summary and analysis required under [section 17505 of this title][/us/usc/t40/s17505], a statement specifying the reductions in expenditures by executive agencies, including the Department of Defense, achieved under those goals.
 

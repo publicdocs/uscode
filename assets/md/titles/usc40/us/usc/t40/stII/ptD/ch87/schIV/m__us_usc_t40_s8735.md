@@ -15,15 +15,15 @@
 
 ## § 8735. Sale of land by Secretary of the Interior
 
-    (a) __Authority To Sell.—__ 
+    (a)  __Authority To Sell__  __.—__ 
 
     With the approval of the National Capital Planning Commission, the Secretary of the Interior, for the best interests of the Federal Government, may sell, by deed or instrument, real estate held by the Government in the District of Columbia and under the jurisdiction of the National Park Service which may be no longer needed for public purposes. The land may be sold for cash or on a deferred-payment plan the Secretary approves, at a price not less than the Government paid for it and not less than its present appraised value as determined by the Secretary.
 
-    (b) __Sale to Highest Bidder.—__ 
+    (b)  __Sale to Highest Bidder__  __.—__ 
 
     In selling any parcel of land under this section, the Secretary shall have public or private solicitation for bids or offers be made as the Secretary considers appropriate. The Secretary shall sell the parcel to the party agreeing to pay the highest price if the price is otherwise satisfactory. If the price offered or bid by the owner of land abutting the land to be sold equals the highest price offered or bid by any other party, the parcel may be sold to the owner of the abutting land.
 
-    (c) __Paying Expenses and Depositing Proceeds.—__ 
+    (c)  __Paying Expenses and Depositing Proceeds__  __.—__ 
 
     The Secretary—
 

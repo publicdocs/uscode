@@ -17,11 +17,11 @@
 
     In this subtitle, the following definitions apply:
 
-    (1) __Commission.—__ 
+    (1)  __Commission__  __.—__ 
 
     The term “Commission” means a Commission established under section 15301.
 
-    (2) __Local development district.—__ 
+    (2)  __Local development district__  __.—__ 
 
     The term “local development district” means an entity that—
 
@@ -59,19 +59,19 @@
 
             (ii) appointed an officer who, during the period in which another entity inappropriately used Federal grant funds from any Federal source, was an officer of the other entity.
 
-    (3) __Federal grant program.—__ 
+    (3)  __Federal grant program__  __.—__ 
 
     The term “Federal grant program” means a Federal grant program to provide assistance in carrying out economic and community development activities.
 
-    (4) __Indian tribe.—__ 
+    (4)  __Indian tribe__  __.—__ 
 
     The term “Indian tribe” has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b][/us/usc/t25/s450b]).
 
-    (5) __Nonprofit entity.—__ 
+    (5)  __Nonprofit entity__  __.—__ 
 
     The term “nonprofit entity” means any organization described in section 501(c) of the Internal Revenue Code of 1986 and exempt from taxation under 501(a) of that Code that has been formed for the purpose of economic development.
 
-    (6) __Region.—__ 
+    (6)  __Region__  __.—__ 
 
     The term “region” means the area covered by a Commission as described in subchapter II of chapter 157. <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably means chapter 4 of this subtitle. </sup></sup> 
 

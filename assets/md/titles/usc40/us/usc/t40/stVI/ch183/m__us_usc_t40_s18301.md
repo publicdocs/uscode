@@ -15,7 +15,7 @@
 
 ## § 18301. Findings and purposes
 
-    (a) __Findings.—__ 
+    (a)  __Findings__  __.—__ 
 
     Congress finds that—
 
@@ -33,7 +33,7 @@
 
         (7) federal legislation is necessary under section 8 of Article I of the United States Constitution to balance the need to moderate and lower labor costs while maintaining industrial peace.
 
-    (b) __Purpose.—__ 
+    (b)  __Purpose__  __.—__ 
 
     The purpose of this chapter is to adopt standards governing arbitration that must be applied by arbitrators resolving disputes involving interstate compact agencies operating in the national capital area in order to lower operating costs for public transportation in the Washington metropolitan area.
 

@@ -15,11 +15,11 @@
 
 ## § 15751. Authorization of appropriations
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     There is authorized to be appropriated to each Commission to carry out this subtitle $30,000,000 for each of fiscal years 2008 through 2012.
 
-    (b) __Administrative Expenses.—__ 
+    (b)  __Administrative Expenses__  __.—__ 
 
     Not more than 10 percent of the funds made available to a Commission in a fiscal year under this section may be used for administrative expenses.
 

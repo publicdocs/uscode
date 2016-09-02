@@ -15,11 +15,11 @@
 
 ## § 6908. Parking facility
 
-    (a) __Title.—__ 
+    (a)  __Title__  __.—__ 
 
     The Federal Government has the right, title, and interest in and to the parking facility at Union Station.
 
-    (b) __Fees.—__ 
+    (b)  __Fees__  __.—__ 
 
     The rate of fees charged for use of the facility may exceed the rate required for maintenance and operation of the facility. The rate shall be established in a manner that encourages use of the facility by rail passengers and participants in activities in the Union Station complex and area.
 

@@ -15,15 +15,15 @@
 
 ## § 15502. Comprehensive economic and infrastructure development plans
 
-    (a) __State Plans.—__ 
+    (a)  __State Plans__  __.—__ 
 
     In accordance with policies established by a Commission, each State member of the Commission shall submit a comprehensive economic and infrastructure development plan for the area of the region represented by the State member.
 
-    (b) __Content of Plan.—__ 
+    (b)  __Content of Plan__  __.—__ 
 
     A State economic and infrastructure development plan shall reflect the goals, objectives, and priorities identified in any applicable economic and infrastructure development plan developed by a Commission under section 15303.
 
-    (c) __Consultation With Interested Local Parties.—__ 
+    (c)  __Consultation With Interested Local Parties__  __.—__ 
 
     In carrying out the development planning process (including the selection of programs and projects for assistance), a State shall—
 
@@ -33,11 +33,11 @@
 
     (d) __Public Participation.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A Commission and applicable State and local development districts shall encourage and assist, to the maximum extent practicable, public participation in the development, revision, and implementation of all plans and programs under this subtitle.
 
-        (2) __Guidelines.—__ 
+        (2)  __Guidelines__  __.—__ 
 
         A Commission shall develop guidelines for providing public participation, including public hearings.
 

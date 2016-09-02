@@ -15,35 +15,35 @@
 
 ## § 3306. Accommodating federal agencies
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section—
 
-        (1) __Commercial activities.—__ 
+        (1)  __Commercial activities__  __.—__ 
 
         The term “commercial activities” includes the operations of restaurants, food stores, craft stores, dry goods stores, financial institutions, and display facilities.
 
-        (2) __Cultural activities.—__ 
+        (2)  __Cultural activities__  __.—__ 
 
         The term “cultural activities” includes film, dramatic, dance, and musical presentations, and fine art exhibits, whether or not those activities are intended to make a profit.
 
-        (3) __Educational activities.—__ 
+        (3)  __Educational activities__  __.—__ 
 
         The terms “educational activities” includes the operations of libraries, schools, day care centers, laboratories, and lecture and demonstration facilities.
 
-        (4) __Historical, architectural, or cultural significance.—__ 
+        (4)  __Historical, architectural, or cultural significance__  __.—__ 
 
         The term “historical, architectural, or cultural significance” includes buildings listed or eligible to be listed on the National Register established under section 101 of the National Historic Preservation Act ([16 U.S.C. 470a][/us/usc/t16/s470a]).
 
-        (5) __Recreational activities.—__ 
+        (5)  __Recreational activities__  __.—__ 
 
         The term “recreational activities” includes the operations of gymnasiums and related facilities.
 
-        (6) __Unit of general local government.—__ 
+        (6)  __Unit of general local government__  __.—__ 
 
         The term “unit of general local government” means a city, county, town, parish, village, or other general-purpose political subdivision of a State.
 
-    (b) __Duties of Administrator.—__ 
+    (b)  __Duties of Administrator__  __.—__ 
 
     To carry out the duties of the Administrator of General Services under sections 581(h), 584(b), 3303(c), and 3307(b)(3) and (5) of this title and under any other authority with respect to constructing, operating, maintaining, altering, and otherwise managing or acquiring space necessary to accommodate federal agencies and to accomplish the purposes of sections 581(h), 584(b), 3303(c), and 3307(b)(3) and (5), the Administrator shall—
 
@@ -55,7 +55,7 @@
 
         (4) encourage the public use of public buildings for cultural, educational, and recreational activities.
 
-    (c) __Consultation and Solicitation of Comments.—__ 
+    (c)  __Consultation and Solicitation of Comments__  __.—__ 
 
     In carrying out the duties under subsection (b), the Administrator shall—
 

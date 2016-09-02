@@ -15,7 +15,7 @@
 
 ## § 11331. Responsibilities for Federal information systems standards
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, the term “information security” has the meaning given that term in [section 3532(b)(1) of title 44][/us/usc/t44/s3532/b/1].
 
@@ -23,11 +23,11 @@
 
         (1) __In general.—__ 
 
-            (A) __Requirement.—__ 
+            (A)  __Requirement__  __.—__ 
 
             Except as provided under paragraph (2), the Director of the Office of Management and Budget shall, on the basis of proposed standards developed by the National Institute of Standards and Technology pursuant to paragraphs (2) and (3) of section 20(a) of the National Institute of Standards and Technology Act ([15 U.S.C. 278g–3(a)][/us/usc/t15/s278g–3/a]) and in consultation with the Secretary of Homeland Security, promulgate information security standards pertaining to Federal information systems.
 
-            (B) __Required standards.—__ 
+            (B)  __Required standards__  __.—__ 
 
             Standards promulgated under subparagraph (A) shall include—
 
@@ -35,15 +35,15 @@
 
                 (ii) such standards that are otherwise necessary to improve the efficiency of operation or security of Federal information systems.
 
-            (C) __Required standards binding.—__ 
+            (C)  __Required standards binding__  __.—__ 
 
             Information security standards described under subparagraph (B) shall be compulsory and binding.
 
-        (2) __Standards and guidelines for national security systems.—__ 
+        (2)  __Standards and guidelines for national security systems__  __.—__ 
 
         Standards and guidelines for national security systems, as defined under [section 3532(3) of title 44][/us/usc/t44/s3532/3], shall be developed, promulgated, enforced, and overseen as otherwise authorized by law and as directed by the President.
 
-    (c) __Application of More Stringent Standards.—__ 
+    (c)  __Application of More Stringent Standards__  __.—__ 
 
     The head of an agency may employ standards for the cost-effective information security for all operations and assets within or under the supervision of that agency that are more stringent than the standards promulgated by the Director under this section, if such standards—
 
@@ -53,11 +53,11 @@
 
     (d) __Requirements Regarding Decisions by Director.—__ 
 
-        (1) __Deadline.—__ 
+        (1)  __Deadline__  __.—__ 
 
         The decision regarding the promulgation of any standard by the Director under subsection (b) shall occur not later than 6 months after the submission of the proposed standard to the Director by the National Institute of Standards and Technology, as provided under section 20 of the National Institute of Standards and Technology Act ([15 U.S.C. 278g–3][/us/usc/t15/s278g–3]).
 
-        (2) __Notice and comment.—__ 
+        (2)  __Notice and comment__  __.—__ 
 
         A decision by the Director to significantly modify, or not promulgate, a proposed standard submitted to the Director by the National Institute of Standards and Technology, as provided under section 20 of the National Institute of Standards and Technology Act ([15 U.S.C. 278g–3][/us/usc/t15/s278g–3]), shall be made after the public is given an opportunity to comment on the Director’s proposed decision.
 

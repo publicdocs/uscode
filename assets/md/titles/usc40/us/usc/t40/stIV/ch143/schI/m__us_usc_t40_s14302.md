@@ -15,19 +15,19 @@
 
 ## § 14302. Decisions
 
-    (a) __Requirements for Approval.—__ 
+    (a)  __Requirements for Approval__  __.—__ 
 
     Except as provided in [section 14306(d) of this title][/us/usc/t40/s14306/d], decisions by the Appalachian Regional Commission require the affirmative vote of the Federal Cochairman and of a majority of the state members, exclusive of members representing States delinquent under section 14306(d).
 
-    (b) __Consultation.—__ 
+    (b)  __Consultation__  __.—__ 
 
     In matters coming before the Commission, the Federal Cochairman, to the extent practicable, shall consult with the federal departments and agencies having an interest in the subject matter.
 
-    (c) __Decisions Requiring Quorum of State Members.—__ 
+    (c)  __Decisions Requiring Quorum of State Members__  __.—__ 
 
     A decision involving Commission policy, approval of state, regional or subregional development plans or strategy statements, modification or revision of the Appalachian Regional Commission Code, allocation of amounts among the States, or designation of a distressed county or an economically strong county shall not be made without a quorum of state members.
 
-    (d) __Project and Grant Proposals.—__ 
+    (d)  __Project and Grant Proposals__  __.—__ 
 
     The approval of project and grant proposals is a responsibility of the Commission and shall be carried out in accordance with [section 14322 of this title][/us/usc/t40/s14322].
 

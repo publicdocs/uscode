@@ -81,13 +81,13 @@ June 30, 1949, ch. 288, title II, § 202(a)(1) (1st sentence), 63 Stat. 384; J
 
 [Pub. L. 106–504, § 1][/us/pl/106/504/s1], Nov. 13, 2000, [114 Stat. 2309][/us/stat/114/2309], as amended by [Pub. L. 109–163, div. A, title X, § 1056(a)(6)][/us/pl/109/163/s1056/a/6], Jan. 6, 2006, [119 Stat. 3439][/us/stat/119/3439], provided that:
 
->     “(a) __Transfer of Excess Real Property.—__ 
+>     “(a)  __Transfer of Excess Real Property__  __.—__ 
 
 >         (1) Except as provided in subsection (d), before screening excess real property located on Guam for further Federal utilization under section 202 \[now [40 U.S.C. 521][/us/usc/t40/s521] et seq.\] of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 471][/us/usc/t40/s471] et seq.) \[now [40 U.S.C. 101][/us/usc/t40/s101] et seq.\] (hereinafter the ‘Property Act’), the Administrator shall notify the Government of Guam that the property is available for transfer pursuant to this section.
 
 >         “(2) If the Government of Guam, within 180 days after receiving notification under paragraph (1), notifies the Administrator that the Government of Guam intends to acquire the property under this section, the Administrator shall transfer such property in accordance with subsection (b). Otherwise, the property shall be screened for further Federal use and then, if there is no other Federal use, shall be disposed of in accordance with the Property Act.
 
->     “(b) __Conditions of Transfer.—__ 
+>     “(b)  __Conditions of Transfer__  __.—__ 
 
 >         (1) Any transfer of excess real property to the Government of Guam may be only for a public purpose and shall be without further consideration.
 
@@ -95,7 +95,7 @@ June 30, 1949, ch. 288, title II, § 202(a)(1) (1st sentence), 63 Stat. 384; J
 
 >         “(3) All transfers of excess real property to the Government of Guam are subject to all otherwise applicable Federal laws, except [section 2696 of title 10][/us/usc/t10/s2696], United States Code, or [section 501 of Public Law 100–77][/us/pl/100/77/s501] ([42 U.S.C. 11411][/us/usc/t42/s11411]).
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     For the purposes of this section:
 
@@ -115,7 +115,7 @@ June 30, 1949, ch. 288, title II, § 202(a)(1) (1st sentence), 63 Stat. 384; J
 
 >         “(5) The term ‘public purpose’ means those public benefit purposes for which the United States may dispose of property pursuant to section 203 of the Property Act \[now [40 U.S.C. 541][/us/usc/t40/s541] et seq.\], as implemented by the Federal Property Management Regulations (41 CFR 101–47) or the specific public benefit uses set forth in section 3(c) of the Guam Excess Lands Act ([Public Law 103–339][/us/pl/103/339]; [108 Stat. 3116][/us/stat/108/3116]), except that such definition shall not include the transfer of land to an individual or entity for private use other than on a nondiscriminatory basis.
 
->     “(d) __Exemptions.—__ 
+>     “(d)  __Exemptions__  __.—__ 
 
 >     Notwithstanding that such property may be excess real property, the provisions of this section shall not apply—
 
@@ -141,11 +141,11 @@ June 30, 1949, ch. 288, title II, § 202(a)(1) (1st sentence), 63 Stat. 384; J
 
 >         “(5) to facilities on Guam declared excess by the managing Federal agency for the purpose of transferring the facility to a Federal agency that has occupied the facility for a minimum of 2 years when the facility is declared excess together with the minimum land or interest therein necessary to support the facility.
 
->     “(e) __Dual Classification Property.—__ 
+>     “(e)  __Dual Classification Property__  __.—__ 
 
 >     If a parcel of real property on Guam that is declared excess as a result of a base closure law also falls within the boundary of the Guam National Wildlife Refuge, such parcel of property shall be disposed of in accordance with the base closure law.
 
->     “(f) __Authority To Issue Regulations.—__ 
+>     “(f)  __Authority To Issue Regulations__  __.—__ 
 
 >     The Administrator of General Services, after consultation with the Secretary of Defense and the Secretary of the Interior, may issue such regulations as he deems necessary to carry out this section.”
 

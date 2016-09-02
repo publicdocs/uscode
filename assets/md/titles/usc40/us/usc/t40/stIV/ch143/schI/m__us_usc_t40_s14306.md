@@ -15,7 +15,7 @@
 
 ## § 14306. Administrative powers and expenses
 
-    (a) __Powers.—__ 
+    (a)  __Powers__  __.—__ 
 
     To carry out its duties under this subtitle, the Appalachian Regional Commission may—
 
@@ -51,19 +51,19 @@
 
     (b) __Authorizations.—__ 
 
-        (1) __Detail employees.—__ 
+        (1)  __Detail employees__  __.—__ 
 
         The head of a federal department or agency may detail personnel under subsection (a)(3).
 
-        (2) __Enter into and perform transactions.—__ 
+        (2)  __Enter into and perform transactions__  __.—__ 
 
         A department, agency, or instrumentality of the Government, to the extent not otherwise prohibited by law, may enter into and perform a contract, lease, cooperative agreement, or other transaction under subsection (a)(7).
 
-    (c) __Retirement and Other Employee Benefit Programs.—__ 
+    (c)  __Retirement and Other Employee Benefit Programs__  __.—__ 
 
     The Director of the Office of Personnel Management may contract with the Commission for continued coverage of Commission employees, if the employees are federal employees when they begin Commission employment, in the retirement program and other employee benefit programs of the Government.
 
-    (d) __Expenses.—__ 
+    (d)  __Expenses__  __.—__ 
 
     Administrative expenses of the Commission shall be paid equally by the Government and the States in the Appalachian region, except that the expenses of the Federal Cochairman, the alternate to the Federal Cochairman, and the staff of the Federal Cochairman shall be paid only by the Government. The Commission shall determine the amount to be paid by each State. The Federal Cochairman shall not participate or vote in that determination. Assistance authorized by this subtitle shall not be furnished to any State or to any political subdivision or any resident of any State, and a state member of the Commission shall not participate or vote in any decision by the Commission, while the State is delinquent in payment of its share of administrative expenses.
 

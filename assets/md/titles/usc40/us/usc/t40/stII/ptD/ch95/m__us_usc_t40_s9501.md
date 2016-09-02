@@ -17,7 +17,7 @@
 
     (a) __Superintendence Duties.—__ 
 
-        (1) __Washington aqueduct and other public works and improvements in the district of columbia.—__ 
+        (1)  __Washington aqueduct and other public works and improvements in the district of columbia__  __.—__ 
 
         The Chief of Engineers has the immediate superintendence of—
 
@@ -25,15 +25,15 @@
 
             (B) all other public works and improvements in the District of Columbia in which the Government has an interest and which are not otherwise specially provided for by law.
 
-        (2) __Obeying regulations.—__ 
+        (2)  __Obeying regulations__  __.—__ 
 
         In carrying out paragraph (1), the Chief of Engineers shall obey regulations the President prescribes, through the Secretary of the Army.
 
-    (b) __No Increase in Compensation.—__ 
+    (b)  __No Increase in Compensation__  __.—__ 
 
     The Chief of Engineers shall not receive additional compensation for the services required under this chapter.
 
-    (c) __Office.—__ 
+    (c)  __Office__  __.—__ 
 
     The Chief of Engineers shall be furnished an office in one of the public buildings in the District of Columbia, as the Administrator of General Services directs, and shall be supplied by the Federal Government with stationery, instruments, books, and furniture which may be required for the performance of the duties of the Chief of Engineers.
 

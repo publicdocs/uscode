@@ -15,19 +15,19 @@
 
 ## § 1103. Selection procedure
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     These procedures apply to the procurement of architectural and engineering services by an agency head.
 
-    (b) __Annual Statements.—__ 
+    (b)  __Annual Statements__  __.—__ 
 
     The agency head shall encourage firms to submit annually a statement of qualifications and performance data.
 
-    (c) __Evaluation.—__ 
+    (c)  __Evaluation__  __.—__ 
 
     For each proposed project, the agency head shall evaluate current statements of qualifications and performance data on file with the agency, together with statements submitted by other firms regarding the proposed project. The agency head shall conduct discussions with at least 3 firms to consider anticipated concepts and compare alternative methods for furnishing services.
 
-    (d) __Selection.—__ 
+    (d)  __Selection__  __.—__ 
 
     From the firms with which discussions have been conducted, the agency head shall select, in order of preference, at least 3 firms that the agency head considers most highly qualified to provide the services required. Selection shall be based on criteria established and published by the agency head.
 

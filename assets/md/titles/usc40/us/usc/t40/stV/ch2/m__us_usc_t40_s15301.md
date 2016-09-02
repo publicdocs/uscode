@@ -15,7 +15,7 @@
 
 ## § 15301. Establishment, membership, and employees
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     There are established the following regional Commissions:
 
@@ -27,7 +27,7 @@
 
     (b) __Membership.—__ 
 
-        (1) __Federal and state members.—__ 
+        (1)  __Federal and state members__  __.—__ 
 
         Each Commission shall be composed of the following members:
 
@@ -37,19 +37,19 @@
 
         (2) __Alternate members.—__ 
 
-            (A) __Alternate federal cochairperson.—__ 
+            (A)  __Alternate federal cochairperson__  __.—__ 
 
             The President shall appoint an alternate Federal Cochairperson for each Commission. The alternate Federal Cochairperson, when not actively serving as an alternate for the Federal Cochairperson, shall perform such functions and duties as are delegated by the Federal Cochairperson.
 
-            (B) __State alternates.—__ 
+            (B)  __State alternates__  __.—__ 
 
             The State member of a participating State may have a single alternate, who shall be appointed by the Governor of the State from among the members of the Governor’s cabinet or personal staff.
 
-            (C) __Voting.—__ 
+            (C)  __Voting__  __.—__ 
 
             An alternate member shall vote in the case of the absence, death, disability, removal, or resignation of the Federal or State member for which the alternate member is an alternate.
 
-        (3) __Cochairpersons.—__ 
+        (3)  __Cochairpersons__  __.—__ 
 
         A Commission shall be headed by—
 
@@ -57,35 +57,35 @@
 
             (B) a State Cochairperson, who shall be a Governor of a participating State in the region and shall be elected by the State members for a term of not less than 1 year.
 
-        (4) __Consecutive terms.—__ 
+        (4)  __Consecutive terms__  __.—__ 
 
         A State member may not be elected to serve as State Cochairperson for more than 2 consecutive terms.
 
     (c) __Compensation.—__ 
 
-        (1) __Federal cochairpersons.—__ 
+        (1)  __Federal cochairpersons__  __.—__ 
 
         Each Federal Cochairperson shall be compensated by the Federal Government at level III of the Executive Schedule as set out in [section 5314 of title 5][/us/usc/t5/s5314].
 
-        (2) __Alternate federal cochairpersons.—__ 
+        (2)  __Alternate federal cochairpersons__  __.—__ 
 
         Each Federal Cochairperson’s alternate shall be compensated by the Federal Government at level V of the Executive Schedule as set out in [section 5316 of title 5][/us/usc/t5/s5316].
 
-        (3) __State members and alternates.—__ 
+        (3)  __State members and alternates__  __.—__ 
 
         Each State member and alternate shall be compensated by the State that they represent at the rate established by the laws of that State.
 
     (d) __Executive Director and Staff.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A Commission shall appoint and fix the compensation of an executive director and such other personnel as are necessary to enable the Commission to carry out its duties. Compensation under this paragraph may not exceed the maximum rate of basic pay established for the Senior Executive Service under [section 5382 of title 5][/us/usc/t5/s5382], including any applicable locality-based comparability payment that may be authorized under section 5304(h)(2)(C) of that title.
 
-        (2) __Executive director.—__ 
+        (2)  __Executive director__  __.—__ 
 
         The executive director shall be responsible for carrying out the administrative duties of the Commission, directing the Commission staff, and such other duties as the Commission may assign.
 
-    (e) __No Federal Employee Status.—__ 
+    (e)  __No Federal Employee Status__  __.—__ 
 
     No member, alternate, officer, or employee of a Commission (other than the Federal Cochairperson, the alternate Federal Cochairperson, staff of the Federal Cochairperson, and any Federal employee detailed to the Commission) shall be considered to be a Federal employee for any purpose.
 

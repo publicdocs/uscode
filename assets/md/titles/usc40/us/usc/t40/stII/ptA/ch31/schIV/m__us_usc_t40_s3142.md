@@ -15,15 +15,15 @@
 
 ## § 3142. Rate of wages for laborers and mechanics
 
-    (a) __Application.—__ 
+    (a)  __Application__  __.—__ 
 
     The advertised specifications for every contract in excess of $2,000, to which the Federal Government or the District of Columbia is a party, for construction, alteration, or repair, including painting and decorating, of public buildings and public works of the Government or the District of Columbia that are located in a State or the District of Columbia and which requires or involves the employment of mechanics or laborers shall contain a provision stating the minimum wages to be paid various classes of laborers and mechanics.
 
-    (b) __Based on Prevailing Wage.—__ 
+    (b)  __Based on Prevailing Wage__  __.—__ 
 
     The minimum wages shall be based on the wages the Secretary of Labor determines to be prevailing for the corresponding classes of laborers and mechanics employed on projects of a character similar to the contract work in the civil subdivision of the State in which the work is to be performed, or in the District of Columbia if the work is to be performed there.
 
-    (c) __Stipulations Required in Contract.—__ 
+    (c)  __Stipulations Required in Contract__  __.—__ 
 
     Every contract based upon the specifications referred to in subsection (a) must contain stipulations that—
 
@@ -33,11 +33,11 @@
 
         (3) there may be withheld from the contractor so much of accrued payments as the contracting officer considers necessary to pay to laborers and mechanics employed by the contractor or any subcontractor on the work the difference between the rates of wages required by the contract to be paid laborers and mechanics on the work and the rates of wages received by the laborers and mechanics and not refunded to the contractor or subcontractors or their agents.
 
-    (d) __Discharge of Obligation.—__ 
+    (d)  __Discharge of Obligation__  __.—__ 
 
     The obligation of a contractor or subcontractor to make payment in accordance with the prevailing wage determinations of the Secretary of Labor, under this subchapter and other laws incorporating this subchapter by reference, may be discharged by making payments in cash, by making contributions described in [section 3141(2)(B)(i) of this title][/us/usc/t40/s3141/2/B/i], by assuming an enforceable commitment to bear the costs of a plan or program referred to in [section 3141(2)(B)(ii) of this title][/us/usc/t40/s3141/2/B/ii], or by any combination of payment, contribution, and assumption, where the aggregate of the payments, contributions, and costs is not less than the basic hourly rate of pay plus the amount referred to in [section 3141(2)(B) of this title][/us/usc/t40/s3141/2/B].
 
-    (e) __Overtime Pay.—__ 
+    (e)  __Overtime Pay__  __.—__ 
 
     In determining the overtime pay to which a laborer or mechanic is entitled under any federal law, the regular or basic hourly rate of pay (or other alternative rate on which premium rate of overtime compensation is computed) of the laborer or mechanic is deemed to be the rate computed under [section 3141(2)(A) of this title][/us/usc/t40/s3141/2/A], except that where the amount of payments, contributions, or costs incurred with respect to the laborer or mechanic exceeds the applicable prevailing wage, the regular or basic hourly rate of pay (or other alternative rate) is the amount of payments, contributions, or costs actually incurred with respect to the laborer or mechanic minus the greater of the amount of contributions or costs of the types described in [section 3141(2)(B) of this title][/us/usc/t40/s3141/2/B] actually incurred with respect to the laborer or mechanic or the amount determined under [section 3141(2)(B) of this title][/us/usc/t40/s3141/2/B] but not actually paid.
 

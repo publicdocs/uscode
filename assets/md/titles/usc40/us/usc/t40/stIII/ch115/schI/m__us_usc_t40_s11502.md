@@ -15,11 +15,11 @@
 
 ## § 11502. Evaluation criteria and plans
 
-    (a) __Measurable Test Criteria.—__ 
+    (a)  __Measurable Test Criteria__  __.—__ 
 
     To the maximum extent practicable, the head of each executive agency conducting the pilot program under [section 11501 of this title][/us/usc/t40/s11501] shall establish measurable criteria for evaluating the effects of the procedures or techniques to be tested under the program.
 
-    (b) __Test Plan.—__ 
+    (b)  __Test Plan__  __.—__ 
 
     Before the pilot program may be conducted under [section 11501 of this title][/us/usc/t40/s11501], the Administrator for Federal Procurement Policy shall submit to Congress a detailed test plan for the program, including a detailed description of the procedures to be used and a list of regulations that are to be waived.
 

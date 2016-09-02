@@ -15,11 +15,11 @@
 
 ## § 6904. Acquisition, maintenance, and use of property
 
-    (a) __Acquisition.—__ 
+    (a)  __Acquisition__  __.—__ 
 
     The Secretary of Transportation may acquire for the Federal Government an interest in real property (including easements or reservations) and any other property interest (including contract rights) in or relating or adjacent to the Union Station complex that the Secretary considers necessary to carry out the purposes of this subchapter.
 
-    (b) __Maintenance and Use.—__ 
+    (b)  __Maintenance and Use__  __.—__ 
 
     The Secretary may maintain, use, operate, manage, and lease, either directly, by contract, or through development agreements, any property interest the Secretary holds or acquires for the Government under this subchapter in the manner and subject to the terms, conditions, covenants, and easements that the Secretary considers necessary or desirable to carry out the purposes of this subchapter.
 

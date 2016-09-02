@@ -15,31 +15,31 @@
 
 ## § 6504. Lease of building
 
-    (a) __Lease Agreement.—__ 
+    (a)  __Lease Agreement__  __.—__ 
 
     Under an agreement with the person selected to construct the Thurgood Marshall Federal Judiciary Building, the Architect of the Capitol shall lease the Building to carry out the objectives of this chapter.
 
-    (b) __Minimum Requirements of Lease Agreement.—__ 
+    (b)  __Minimum Requirements of Lease Agreement__  __.—__ 
 
     The agreement includes at a minimum the following:
 
-        (1) __Limit on length of lease.—__ 
+        (1)  __Limit on length of lease__  __.—__ 
 
         The Architect will lease the Building and other improvements for not more than 30 years from the effective date of the agreement.
 
-        (2) __Rental rate.—__ 
+        (2)  __Rental rate__  __.—__ 
 
         The rental rate per square foot of occupiable space for all space in the Building and other improvements will be in the best interest of the Federal Government and will carry out the objectives of this chapter. The aggregate rental rate for all space in the Building and other improvements shall produce an amount at least equal to the amount necessary to amortize the cost of development of squares 721 and 722 in the District of Columbia over the life of the lease.
 
-        (3) __Authority to make space available and sublease space.—__ 
+        (3)  __Authority to make space available and sublease space__  __.—__ 
 
         The Architect may make space available and sublease space in the Building and other improvements in accordance with [section 6506 of this title][/us/usc/t40/s6506].
 
-        (4) __Other terms and conditions.—__ 
+        (4)  __Other terms and conditions__  __.—__ 
 
         The agreement contains terms and conditions the Architect prescribes to carry out the objectives of this chapter.
 
-    (c) __Obligation of Amounts.—__ 
+    (c)  __Obligation of Amounts__  __.—__ 
 
     Obligation of amounts for lease payments under this section may only be made—
 

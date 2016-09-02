@@ -17,11 +17,11 @@
 
     (a) __Determination Requirement.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Administrator of General Services may carry out section 602 only if the Administrator determines, after consultation with the agencies concerned and with due regard to their program activities, that doing so is advantageous to the Federal Government in terms of economy, efficiency, or service.
 
-        (2) __Elements of the determination.—__ 
+        (2)  __Elements of the determination__  __.—__ 
 
         A determination under this section must be in writing. For each motor vehicle pool or system, the determination must set forth an analytical justification that includes—
 
@@ -31,11 +31,11 @@
 
     (b) __Regulations Related to Establishment.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The President shall prescribe regulations establishing procedures to carry out [section 602 of this title][/us/usc/t40/s602].
 
-        (2) __Elements of the regulations.—__ 
+        (2)  __Elements of the regulations__  __.—__ 
 
         The regulations shall provide for—
 
@@ -45,7 +45,7 @@
 
             (C) enforcement of determinations that become effective under the regulations.
 
-        (3) __Effect of the regulations.—__ 
+        (3)  __Effect of the regulations__  __.—__ 
 
         A determination under subsection (a) is binding on an agency only as provided in regulations issued under this subsection.
 

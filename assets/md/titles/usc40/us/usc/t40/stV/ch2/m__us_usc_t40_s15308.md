@@ -15,11 +15,11 @@
 
 ## § 15308. Annual report
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Not later than 90 days after the last day of each fiscal year, each Commission shall submit to the President and Congress a report on the activities carried out by the Commission under this subtitle in the fiscal year.
 
-    (b) __Contents.—__ 
+    (b)  __Contents__  __.—__ 
 
     The report shall include—
 

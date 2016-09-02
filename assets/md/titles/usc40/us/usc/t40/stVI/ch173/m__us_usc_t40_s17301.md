@@ -17,11 +17,11 @@
 
     In this chapter, the following definitions apply:
 
-    (1) __Replacement.—__ 
+    (1)  __Replacement__  __.—__ 
 
     The term “replacement” means payment, reimbursement, replacement, or duplication or the expenses incident to payment, reimbursement, replacement, or duplication.
 
-    (2) __Shipment.—__ 
+    (2)  __Shipment__  __.—__ 
 
     The term “shipment”—
 
@@ -31,7 +31,7 @@
 
     (3) __Valuables.—__ 
 
-        (A) __Definition.—__ 
+        (A)  __Definition__  __.—__ 
 
         The term “valuables” means any articles or things or representatives of value—
 
@@ -39,11 +39,11 @@
 
             (ii) which the Secretary of the Treasury declares to be valuables within the meaning of this chapter.
 
-        (B) __Requirement for declaring articles or things valuable.—__ 
+        (B)  __Requirement for declaring articles or things valuable__  __.—__ 
 
         The Secretary shall not declare articles or things that are lost, destroyed, or damaged in the course of shipment to be valuables unless the Secretary determines that replacement of the articles or things in accordance with the procedure established in this chapter would be in the public interest.
 
-    (4) __Wholly owned government corporation.—__ 
+    (4)  __Wholly owned government corporation__  __.—__ 
 
     The term “wholly owned Government corporation”—
 

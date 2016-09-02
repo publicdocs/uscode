@@ -15,13 +15,13 @@
 
 ## § 14501. Appalachian development highway system
 
-    (a) __Purpose.—__ 
+    (a)  __Purpose__  __.—__ 
 
     To provide a highway system which, in conjunction with the Interstate System and other Federal-aid highways in the Appalachian region, will open up an area with a developmental potential where commerce and communication have been inhibited by lack of adequate access, the Secretary of Transportation may assist in the construction of an Appalachian development highway system and local access roads serving the Appalachian region. Construction on the development highway system shall not be more than three thousand and ninety miles. There shall not be more than 1,400 miles of local access roads that serve specific recreational, residential, educational, commercial, industrial, or similar facilities or facilitate a school consolidation program.
 
     (b) __Commission Designations.—__ 
 
-        (1) __What is to be designated.—__ 
+        (1)  __What is to be designated__  __.—__ 
 
         The Appalachian Regional Commission shall transmit to the Secretary its designations of—
 
@@ -33,45 +33,45 @@
 
             (D) other criteria for the program authorized by this section.
 
-        (2) __State transportation department recommendation required.—__ 
+        (2)  __State transportation department recommendation required__  __.—__ 
 
         Before a state member participates in or votes on designations, the member must obtain the recommendations of the state transportation department of the State which the member represents.
 
-    (c) __Addition to Federal-aid Primary System.—__ 
+    (c)  __Addition to Federal-aid Primary System__  __.—__ 
 
     When completed, each development highway not already on the Federal-aid primary system shall be added to the system.
 
     (d) __Use of Specific Materials and Products.—__ 
 
-        (1) __Indigenous materials and products.—__ 
+        (1)  __Indigenous materials and products__  __.—__ 
 
         In the construction of highways and roads authorized under this section, a State may give special preference to the use of materials and products indigenous to the Appalachian region.
 
-        (2) __Coal derivatives.—__ 
+        (2)  __Coal derivatives__  __.—__ 
 
         For research and development in the use of coal and coal products in highway construction and maintenance, the Secretary may require each participating State, to the maximum extent possible, to use coal derivatives in the construction of not more than 10 percent of the roads authorized under this subtitle.
 
-    (e) __Federal Share.—__ 
+    (e)  __Federal Share__  __.—__ 
 
     Federal assistance to any construction project under this section shall not be more than 80 percent of the cost of the project.
 
     (f) __Construction Without Federal Amounts.—__ 
 
-        (1) __Payment of federal share.—__ 
+        (1)  __Payment of federal share__  __.—__ 
 
         When a participating State constructs a segment of a development highway without the aid of federal amounts and the construction is in accordance with all procedures and requirements applicable to the construction of segments of Appalachian development highways with those amounts, except for procedures and requirements that limit a State to the construction of projects for which federal amounts have previously been appropriated, the Secretary, on application by the State and with the approval of the Commission, may pay to the State the federal share, which shall not be more than 80 percent of the cost of the construction of the segment, from any amounts appropriated and allocated to the State to carry out this section.
 
-        (2) __No commitment or obligation.—__ 
+        (2)  __No commitment or obligation__  __.—__ 
 
         This subsection does not commit or obligate the Federal Government to provide amounts for segments of development highways constructed under this subsection.
 
-    (g) __Application of Title 23.—__ 
+    (g)  __Application of Title__  __23.—__ 
 
-        (1) __Sections 106(a) and 118.—__ 
+        (1)  __Sections 106__  __(a)__  __and 118__  __.—__ 
 
         Sections 106(a) and 118 of title 23 apply to the development highway system and the local access roads.
 
-        (2) __Construction and maintenance.—__ 
+        (2)  __Construction and maintenance__  __.—__ 
 
         States are required to maintain each development highway and local access road as provided for Federal-aid highways in title 23. All other provisions of title 23 that are applicable to the construction and maintenance of Federal-aid primary and secondary highways and which the Secretary decides are not inconsistent with this subtitle shall apply to the system and roads, respectively.
 
@@ -247,25 +247,25 @@ Pub. L. 89–4, title II, § 201, Mar. 9, 1965, 79 Stat. 10; Pub. L. 89–670,
 
 [Pub. L. 112–141, div. A, title I, § 1528][/us/pl/112/141/s1528], July 6, 2012, [126 Stat. 582][/us/stat/126/582], provided that:
 
->     “(a) __Sense of the Senate.—__ 
+>     “(a)  __Sense of the Senate__  __.—__ 
 
 >     It is the Sense of the Senate that the timely completion of the Appalachian development highway system is a transportation priority in the national interest.
 
->     “(b) __Modified Federal Share for Projects on ADHS.—__ 
+>     “(b)  __Modified Federal Share for Projects on ADHS__  __.—__ 
 
 >     For fiscal years 2012 through 2021, the Federal share payable for the cost of constructing highways and access roads on the Appalachian development highway system under [section 14501 of title 40][/us/usc/t40/s14501], United States Code, with funds made available to a State for fiscal year 2012 or a previous fiscal year for the Appalachian development highway system program, or with funds made available for fiscal year 2012 or a previous fiscal year for a specific project, route, or corridor on that system, shall be 100 percent.
 
->     “(c) __Federal Share for Other Funds Used on ADHS.—__ 
+>     “(c)  __Federal Share for Other Funds Used on ADHS__  __.—__ 
 
 >     For fiscal years 2012 through 2021, the Federal share payable for the cost of constructing highways and access roads on the Appalachian development highway system under [section 14501 of title 40][/us/usc/t40/s14501], United States Code, with Federal funds apportioned to a State for a program other than the Appalachian development highway system program shall be 100 percent.
 
->     “(d) __Completion Plan.—__ 
+>     “(d)  __Completion Plan__  __.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to paragraph (2), not later than 1 year after the date of enactment of the MAP–21 \[deemed to be Oct. 1, 2012\], each State represented on the Appalachian Regional Commission shall establish a plan for the completion of the designated corridors of the Appalachian development highway system within the State, including annual performance targets, with a target completion date.
 
->         “(2) __Significant uncompleted miles.—__ 
+>         “(2)  __Significant uncompleted miles__  __.—__ 
 
 >         If the percentage of remaining Appalachian development highway system needs for a State, according to the latest cost to complete estimate for the Appalachian development highway system, is greater than 15 percent of the total cost to complete estimate for the entire Appalachian development highway system, the State shall not establish a plan under paragraph (1) that would result in a reduction of obligated funds for the Appalachian development highway system within the State for any subsequent fiscal year.”
 

@@ -15,11 +15,11 @@
 
 ## § 6907. Use of other appropriated amounts
 
-    (a) __Waiver of Cost Sharing Requirement.—__ 
+    (a)  __Waiver of Cost Sharing Requirement__  __.—__ 
 
     The Secretary of Transportation may use amounts appropriated under [section 24909(a)(2)(A) of title 49][/us/usc/t49/s24909/a/2/A] to carry out the purposes of this subchapter.
 
-    (b) __Ban on Using Amounts for Heliport.—__ 
+    (b)  __Ban on Using Amounts for Heliport__  __.—__ 
 
     Amounts appropriated under [section 24909 of title 49][/us/usc/t49/s24909] may not be used for design, construction, or operation of a heliport at or near Union Station.
 

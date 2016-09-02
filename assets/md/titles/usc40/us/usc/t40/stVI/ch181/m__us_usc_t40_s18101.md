@@ -17,7 +17,7 @@
 
     In this chapter—
 
-    (1) __Federal agency.—__ 
+    (1)  __Federal agency__  __.—__ 
 
     The term “federal agency” has the same meaning given that term in [section 102 of this title][/us/usc/t40/s102].
 

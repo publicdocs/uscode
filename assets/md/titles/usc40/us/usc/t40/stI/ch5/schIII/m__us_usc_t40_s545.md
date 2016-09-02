@@ -19,11 +19,11 @@
 
         (1) __Requirement.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Except as provided in subparagraph (B), the Administrator of General Services may make or authorize a disposal or a contract for disposal of surplus property only after public advertising for bids, under regulations the Administrator prescribes.
 
-            (B) __Exceptions.—__ 
+            (B)  __Exceptions__  __.—__ 
 
             This subsection does not apply to disposal or a contract for disposal of surplus property—
 
@@ -31,19 +31,19 @@
 
                 (ii) by abandonment, destruction, or donation or through a contract broker.
 
-        (2) __Time, method, and terms.—__ 
+        (2)  __Time, method, and terms__  __.—__ 
 
         The time, method, and terms and conditions of advertisement must permit full and free competition consistent with the value and nature of the property involved.
 
-        (3) __Public disclosure.—__ 
+        (3)  __Public disclosure__  __.—__ 
 
         Bids must be publicly disclosed at the time and place stated in the advertisement.
 
-        (4) __Awards.—__ 
+        (4)  __Awards__  __.—__ 
 
         An award shall be made with reasonable promptness by notice to the responsible bidder whose bid, conforming to the invitation for bids, is most advantageous to the Federal Government, price and other factors considered. However, all bids may be rejected if it is in the public interest to do so.
 
-    (b) __Negotiated Disposal.—__ 
+    (b)  __Negotiated Disposal__  __.—__ 
 
     Under regulations the Administrator prescribes, disposals and contracts for disposal may be negotiated without regard to subsection (a), but subject to obtaining competition that is feasible under the circumstances, if—
 
@@ -71,17 +71,17 @@
 
         (9) otherwise authorized by law.
 
-    (c) __Disposal Through Contract Brokers.—__ 
+    (c)  __Disposal Through Contract Brokers__  __.—__ 
 
     Disposals and contracts for disposal of surplus real and related personal property through contract realty brokers employed by the Administrator shall be made in the manner followed in similar commercial transactions under regulations the Administrator prescribes. The regulations must require that brokers give wide public notice of the availability of the property for disposal.
 
     (d) __Negotiated Sale at Fixed Price.—__ 
 
-        (1) __Authorization.—__ 
+        (1)  __Authorization__  __.—__ 
 
         The Administrator may make a negotiated sale of personal property at a fixed price, either directly or through the use of a disposal contractor, without regard to subsection (a). However, the sale must be publicized to an extent consistent with the value and nature of the property involved and the price established must reflect the estimated fair market value of the property. Sales under this subsection are limited to categories of personal property for which the Administrator determines that disposal under this subsection best serves the interests of the Government.
 
-        (2) __First offer.—__ 
+        (2)  __First offer__  __.—__ 
 
         Under regulations and restrictions the Administrator prescribes, an opportunity to purchase property at a fixed price under this subsection may be offered first to an entity specified in subsection (b)(8) that has expressed an interest in the property.
 
@@ -89,7 +89,7 @@
 
         (1) __Requirement.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Except as provided in subparagraph (B), an explanatory statement of the circumstances shall be prepared for each disposal by negotiation of—
 
@@ -103,19 +103,19 @@
 
                 (v) real property or real and related personal property disposed of by exchange, regardless of value, or any property for which any part of the consideration is real property.
 
-            (B) __Exception.—__ 
+            (B)  __Exception__  __.—__ 
 
             An explanatory statement is not required for a disposal of personal property under subsection (d), or for a disposal of real or personal property authorized by any other law to be made without advertising.
 
-        (2) __Transmittal to congress.—__ 
+        (2)  __Transmittal to congress__  __.—__ 
 
         The explanatory statement shall be transmitted to the appropriate committees of Congress in advance of the disposal, and a copy of the statement shall be preserved in the files of the executive agency making the disposal.
 
-        (3) __Listing in report.—__ 
+        (3)  __Listing in report__  __.—__ 
 
         A report of the Administrator under [section 126 of this title][/us/usc/t40/s126] must include a listing and description of any negotiated disposals of surplus property having an estimated fair market value of more than $15,000, in the case of real property, or $5,000, in the case of any other property, other than disposals for which an explanatory statement has been transmitted under this subsection.
 
-    (f) __Applicability of Other Law.—__ 
+    (f)  __Applicability of Other Law__  __.—__ 
 
     Section 6101(b)–(d) of title 41 does not apply to a disposal or contract for disposal made under this section.
 

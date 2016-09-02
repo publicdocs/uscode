@@ -15,11 +15,11 @@
 
 ## § 6507. Account in Treasury
 
-    (a) __Establishment and Contents of Separate Account.—__ 
+    (a)  __Establishment and Contents of Separate Account__  __.—__ 
 
     There is a separate account in the Treasury. The account includes all amounts deposited in the account under [section 6506(f) of this title][/us/usc/t40/s6506/f] and amounts appropriated to the account. However, the appropriated amounts may not be more than $2,000,000.
 
-    (b) __Use of Amounts.—__ 
+    (b)  __Use of Amounts__  __.—__ 
 
     Amounts in the account are available to the Architect of the Capitol—
 

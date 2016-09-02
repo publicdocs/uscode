@@ -15,7 +15,7 @@
 
 ## § 602. Authority to establish motor vehicle pools and transportation systems
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Subject to [section 603 of this title][/us/usc/t40/s603], and regulations issued under section 603, the Administrator of General Services shall—
 
@@ -25,7 +25,7 @@
 
         (3) furnish motor vehicles and related services to executive agencies for the transportation of property and passengers.
 
-    (b) __Methods of Providing Vehicles and Services.—__ 
+    (b)  __Methods of Providing Vehicles and Services__  __.—__ 
 
     As determined by the Administrator, motor vehicles and related services may be furnished by providing an agency with—
 
@@ -35,7 +35,7 @@
 
         (3) both.
 
-    (c) __Recipients of Vehicles and Services.—__ 
+    (c)  __Recipients of Vehicles and Services__  __.—__ 
 
     The Administrator shall, so far as practicable, furnish motor vehicles and related services under this section to any federal agency, mixed-ownership Government corporation (as defined in chapter 91 of title 31), or the District of Columbia, on its request.
 

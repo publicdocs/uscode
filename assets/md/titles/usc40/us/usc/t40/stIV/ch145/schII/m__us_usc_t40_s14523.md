@@ -15,7 +15,7 @@
 
 ## § 14523. Program implementation
 
-    (a) __Requirements.—__ 
+    (a)  __Requirements__  __.—__ 
 
     A program or project authorized under this chapter shall not be implemented until—
 
@@ -29,7 +29,7 @@
 
             (B) will contribute to the development of the Appalachian region.
 
-    (b) __Decision Is Controlling.—__ 
+    (b)  __Decision Is Controlling__  __.—__ 
 
     A decision under subsection (a)(2) is controlling and shall be accepted by the federal agencies.
 

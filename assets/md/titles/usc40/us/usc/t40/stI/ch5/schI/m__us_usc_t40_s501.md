@@ -17,7 +17,7 @@
 
     (a) __Authority of Administrator of General Services.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Administrator of General Services shall take action under this subchapter for an executive agency—
 
@@ -25,7 +25,7 @@
 
             (B) with due regard to the program activities of the agency.
 
-        (2) __Exemption for defense.—__ 
+        (2)  __Exemption for defense__  __.—__ 
 
         The Secretary of Defense may exempt the Department of Defense from an action taken by the Administrator of General Services under this subchapter, unless the President directs otherwise, whenever the Secretary determines that an exemption is in the best interests of national security.
 
@@ -33,25 +33,25 @@
 
         (1) __Functions.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Administrator of General Services shall procure and supply personal property and nonpersonal services for executive agencies to use in the proper discharge of their responsibilities, and perform functions related to procurement and supply including contracting, inspection, storage, issue, property identification and classification, transportation and traffic management, management of public utility services, and repairing and converting.
 
-            (B) __Public utility contracts.—__ 
+            (B)  __Public utility contracts__  __.—__ 
 
             A contract for public utility services may be made for a period of not more than 10 years.
 
         (2) __Policies and methods.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Administrator of General Services shall prescribe policies and methods for executive agencies regarding the procurement and supply of personal property and nonpersonal services and related functions.
 
-            (B) __Controlling regulation.—__ 
+            (B)  __Controlling regulation__  __.—__ 
 
             Policies and methods prescribed by the Administrator of General Services under this paragraph are subject to regulations prescribed by the Administrator for Federal Procurement Policy under division B (except sections 1704 and 2303) of subtitle I of title 41.
 
-    (c) __Representation.—__ 
+    (c)  __Representation__  __.—__ 
 
     For transportation and other public utility services used by executive agencies, the Administrator of General Services shall represent the agencies—
 
@@ -59,7 +59,7 @@
 
         (2) in proceedings involving carriers or other public utilities before federal and state regulatory bodies.
 
-    (d) __Facilities.—__ 
+    (d)  __Facilities__  __.—__ 
 
     The Administrator of General Services shall operate, for executive agencies, warehouses, supply centers, repair shops, fuel yards, and other similar facilities. After consultation with the executive agencies affected, the Administrator of General Services shall consolidate, take over, or arrange for executive agencies to operate the facilities.
 

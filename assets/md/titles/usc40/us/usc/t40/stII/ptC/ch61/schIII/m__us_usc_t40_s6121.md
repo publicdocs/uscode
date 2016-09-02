@@ -15,7 +15,7 @@
 
 ## § 6121. General
 
-    (a) __Authority of Marshal of the Supreme Court and Supreme Court Police.—__ 
+    (a)  __Authority of Marshal of the Supreme Court and Supreme Court Police__  __.—__ 
 
     In accordance with regulations prescribed by the Marshal of the Supreme Court and approved by the Chief Justice of the United States, the Marshal and the Supreme Court Police shall have authority—
 
@@ -33,13 +33,13 @@
 
         (4) to carry firearms as may be required while performing duties under [section 6102 of this title][/us/usc/t40/s6102], this subchapter, and subchapter IV.
 
-    (b) __Additional Requirements Related to Subsection (a)(2).—__ 
+    (b)  __Additional Requirements Related to Subsection__  __(a)(2).—__ 
 
-        (1) __Authorization to carry firearms.—__ 
+        (1)  __Authorization to carry firearms__  __.—__ 
 
         Duties under subsection (a)(2)(A) with respect to an official guest of the Supreme Court in any State (other than the District of Columbia, Maryland, and Virginia) shall be authorized in writing by the Chief Justice or an Associate Justice, if those duties require the carrying of firearms under subsection (a)(4).
 
-        (2) __Termination of authority.—__ 
+        (2)  __Termination of authority__  __.—__ 
 
         The authority provided under subsection (a)(2) expires on December 29, 2013.
 

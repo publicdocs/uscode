@@ -15,35 +15,35 @@
 
 ## § 586. Charges for space and services
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, “space and services” means space, services, quarters, maintenance, repair, and other facilities.
 
     (b) __Charges by Administrator of General Services.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Administrator of General Services shall impose a charge for furnishing space and services.
 
-        (2) __Rates.—__ 
+        (2)  __Rates__  __.—__ 
 
         The Administrator shall, from time to time, determine the rates to be charged for furnishing space and services and shall prescribe regulations providing for the rates. The rates shall approximate commercial charges for comparable space and services. However, for a building for which the Administrator is responsible for alterations only (as the term “alter” is defined in [section 3301(a) of this title][/us/usc/t40/s3301/a]), the rates shall be fixed to recover only the approximate cost incurred in providing alterations.
 
-        (3) __Exemptions.—__ 
+        (3)  __Exemptions__  __.—__ 
 
         The Administrator may exempt anyone from the charges required by this subsection when the Administrator determines that charges would be infeasible or impractical. To the extent an exemption is granted, appropriations to the General Services Administration are authorized to reimburse the Federal Buildings Fund for any loss of revenue.
 
     (c) __Charges by Executive Agencies.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         An executive agency, other than the Administration, may impose a charge for furnishing space and services at rates approved by the Administrator.
 
-        (2) __Crediting amounts received.—__ 
+        (2)  __Crediting amounts received__  __.—__ 
 
         An amount an executive agency receives under this subsection shall be credited to the appropriation or fund initially charged for providing the space or service. However, amounts in excess of actual operating and maintenance costs shall be credited to miscellaneous receipts unless otherwise provided by law.
 
-    (d) __Rent Payments for Lease Space.—__ 
+    (d)  __Rent Payments for Lease Space__  __.—__ 
 
     An agency may make rent payments to the Administration for lease space relating to expansion needs of the agency. Payment rates shall approximate commercial charges for comparable space as provided in subsection (b). Payments shall be deposited into the Federal Buildings Fund. The Administration may use amounts received under this subsection, in addition to amounts received as New Obligational Authority, in the Rental of Space activity of the Fund.
 

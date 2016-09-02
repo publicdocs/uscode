@@ -17,7 +17,7 @@
 
     In this chapter, the following definitions apply:
 
-    (1) __Executive agency.—__ 
+    (1)  __Executive agency__  __.—__ 
 
     The term “executive agency”—
 
@@ -25,7 +25,7 @@
 
         (B) does not include the Tennessee Valley Authority.
 
-    (2) __Motor vehicle.—__ 
+    (2)  __Motor vehicle__  __.—__ 
 
     The term “motor vehicle” means—
 

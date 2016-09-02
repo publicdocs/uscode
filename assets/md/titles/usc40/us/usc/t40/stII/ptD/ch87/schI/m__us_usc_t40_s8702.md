@@ -17,15 +17,15 @@
 
     In this chapter—
 
-    (1) __Environs.—__ 
+    (1)  __Environs__  __.—__ 
 
     The term “environs” means the territory surrounding the District of Columbia included in the National Capital region.
 
-    (2) __National capital.—__ 
+    (2)  __National capital__  __.—__ 
 
     The term “National Capital” means the District of Columbia and territory the Federal Government owns in the environs.
 
-    (3) __National capital region.—__ 
+    (3)  __National capital region__  __.—__ 
 
     The term “National Capital region” means—
 
@@ -37,7 +37,7 @@
 
         (D) all cities in Maryland or Virginia in the geographic area bounded by the outer boundaries of the combined area of the counties listed in subparagraphs (B) and (C).
 
-    (4) __Planning agency.—__ 
+    (4)  __Planning agency__  __.—__ 
 
     The term “planning agency” means any city, county, bi-county, part-county, or regional planning agency authorized under state and local laws to make and adopt comprehensive plans.
 

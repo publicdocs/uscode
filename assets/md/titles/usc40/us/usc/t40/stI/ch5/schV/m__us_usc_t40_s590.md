@@ -15,25 +15,25 @@
 
 ## § 590. Child care
 
-    (a) __Guidance, Assistance, and Oversight.—__ 
+    (a)  __Guidance, Assistance, and Oversight__  __.—__ 
 
     Through the General Services Administration’s licensing agreements, the Administrator of General Services shall provide guidance, assistance, and oversight to federal agencies for the development of child care centers to provide economical and effective child care for federal workers.
 
     (b) __Allotment of Space in Federal Buildings.—__ 
 
-        (1) __Definitions.—__ 
+        (1)  __Definitions__  __.—__ 
 
         In this subsection, the following definitions apply:
 
-            (A) __Child care provider.—__ 
+            (A)  __Child care provider__  __.—__ 
 
             The term “child care provider” means an individual or entity that provides or proposes to provide child care services for federal employees.
 
-            (B) __Allotment officer.—__ 
+            (B)  __Allotment officer__  __.—__ 
 
             The term “allotment officer” means an officer or agency of the Federal Government charged with the allotment of space in federal buildings.
 
-        (2) __Allotment.—__ 
+        (2)  __Allotment__  __.—__ 
 
         A child care provider may be allotted space in a federal building by an allotment officer if—
 
@@ -51,19 +51,19 @@
 
     (c) __Payment for Space and Services.—__ 
 
-        (1) __Definition.—__ 
+        (1)  __Definition__  __.—__ 
 
         For purposes of this subsection, the term “services” includes the providing of lighting, heating, cooling, electricity, office furniture, office machines and equipment, classroom furnishings and equipment, kitchen appliances, playground equipment, telephone service (including installation of lines and equipment and other expenses associated with telephone services), and security systems (including installation and other expenses associated with security systems), including replacement equipment, as needed.
 
-        (2) __No charge.—__ 
+        (2)  __No charge__  __.—__ 
 
         Space allotted under subsection (b) may be provided without charge for rent or services.
 
-        (3) __Reimbursement for costs.—__ 
+        (3)  __Reimbursement for costs__  __.—__ 
 
         For space allotted under subsection (b), if there is an agreement for the payment of costs associated with providing space or services, neither title 31, nor any other law, prohibits or restricts payment by reimbursement to the miscellaneous receipts or other appropriate account of the Treasury.
 
-    (d) __Payment of Other Costs.—__ 
+    (d)  __Payment of Other Costs__  __.—__ 
 
     If an agency has a child care facility in its space, or is a sponsoring agency for a child care facility in other federal or leased space, the agency or the Administration may—
 
@@ -73,43 +73,43 @@
 
         (3) enter into a consortium with one or more private entities under which the private entities assist in defraying costs associated with the salaries and benefits for personnel providing services at the facility.
 
-    (e) __Reimbursement for Employee Training.—__ 
+    (e)  __Reimbursement for Employee Training__  __.—__ 
 
     Notwithstanding [section 1345 of title 31][/us/usc/t31/s1345], an agency, department, or instrumentality of the Government that provides or proposes to provide child care services for federal employees may reimburse a federal employee or any individual employed to provide child care services for travel, transportation, and subsistence expenses incurred for training classes, conferences, or other meetings in connection with providing the services. A per diem allowance made under this subsection may not exceed the rate specified in regulations prescribed under [section 5707 of title 5][/us/usc/t5/s5707].
 
     (f) __Criminal History Background Checks.—__ 
 
-        (1) __Definition.—__ 
+        (1)  __Definition__  __.—__ 
 
         In this subsection, the term “executive facility” means a facility owned or leased by an office or entity within the executive branch of the Government. The term includes a facility owned or leased by the General Services Administration on behalf of an office or entity within the judicial branch of the Government.
 
-        (2) __In general.—__ 
+        (2)  __In general__  __.—__ 
 
         All workers in a child care center located in an executive facility shall undergo a criminal history background check as defined in section 231 of the Crime Control Act of 1990 ([42 U.S.C. 13041][/us/usc/t42/s13041]).
 
-        (3) __Nonapplication to legislative branch facilities.—__ 
+        (3)  __Nonapplication to legislative branch facilities__  __.—__ 
 
         This subsection does not apply to a facility owned by or leased on behalf of an office or entity within the legislative branch of the Government.
 
     (g) __Appropriated Amounts for Affordable Child Care.—__ 
 
-        (1) __Definition.—__ 
+        (1)  __Definition__  __.—__ 
 
         For purposes of this subsection, the term “Executive agency” has the meaning given that term in [section 105 of title 5][/us/usc/t5/s105], but does not include the Government Accountability Office.
 
-        (2) __In general.—__ 
+        (2)  __In general__  __.—__ 
 
         In accordance with regulations the Office of Personnel Management prescribes, an Executive agency that provides or proposes to provide child care services for federal employees may use appropriated amounts that are otherwise available for salaries and expenses to provide child care in a federal or leased facility, or through contract, for civilian employees of the agency.
 
-        (3) __Affordability.—__ 
+        (3)  __Affordability__  __.—__ 
 
         Amounts used pursuant to paragraph (2) shall be applied to improve the affordability of child care for lower income federal employees using or seeking to use the child care services.
 
-        (4) __Advances.—__ 
+        (4)  __Advances__  __.—__ 
 
         Notwithstanding [section 3324 of title 31][/us/usc/t31/s3324], amounts may be paid in advance to licensed or regulated child care providers for services to be rendered during an agreed period.
 
-        (5) __Notification.—__ 
+        (5)  __Notification__  __.—__ 
 
         No amounts made available by law may be used to implement this subsection without advance notice to the Committees on Appropriations of the House of Representatives and the Senate.
 

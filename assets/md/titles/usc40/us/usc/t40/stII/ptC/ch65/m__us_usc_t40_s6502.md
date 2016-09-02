@@ -15,31 +15,31 @@
 
 ## § 6502. Thurgood Marshall Federal Judiciary Building
 
-    (a) __Establishment and Designation.—__ 
+    (a)  __Establishment and Designation__  __.—__ 
 
     There is a Federal Judiciary Building in Washington, D.C., known and designated as the “Thurgood Marshall Federal Judiciary Building”.
 
     (b) __Title.—__ 
 
-        (1) __Squares 721 and 722.—__ 
+        (1)  __Squares 721 and 722__  __.—__ 
 
         Title to squares 721 and 722 remains in the Federal Government.
 
-        (2) __Building.—__ 
+        (2)  __Building__  __.—__ 
 
         Title to the Building and other improvements constructed or otherwise made immediately reverts to the Government at the expiration of not more than 30 years from the effective date of the lease agreement referred to in [section 6504 of this title][/us/usc/t40/s6504] without payment of any compensation by the Government.
 
     (c) __Limitations.—__ 
 
-        (1) __Size of building.—__ 
+        (1)  __Size of building__  __.—__ 
 
         The Building (excluding parking facilities) may not exceed 520,000 gross square feet in size above the level of Columbia Plaza in the District of Columbia.
 
-        (2) __Height of building.—__ 
+        (2)  __Height of building__  __.—__ 
 
         The height of the Building and other improvements shall be compatible with the height of surrounding Government and historic buildings and conform to the provisions of the Act of June 1, 1910 (ch. 263, [36 Stat. 452][/us/stat/36/452]) (known as the Building Height Act of 1910).
 
-        (3) __Design.—__ 
+        (3)  __Design__  __.—__ 
 
         The Building and other improvements shall—
 
@@ -49,29 +49,29 @@
 
             (C) represent the dignity and stability of the Government.
 
-    (d) __Approval of Chief Justice.—__ 
+    (d)  __Approval of Chief Justice__  __.—__ 
 
     All final decisions regarding architectural design of the Building are subject to the approval of the Chief Justice.
 
-    (e) __Chilled Water and Steam From Capitol Power Plant.—__ 
+    (e)  __Chilled Water and Steam From Capitol Power Plant__  __.—__ 
 
     If the Building is connected with the Capitol Power Plant, the Architect of the Capitol shall furnish chilled water and steam from the Plant to the Building on a reimbursable basis.
 
-    (f) __Construction Standards.—__ 
+    (f)  __Construction Standards__  __.—__ 
 
     The Building and other improvements constructed under this chapter shall meet all standards applicable to construction of a federal building.
 
-    (g) __Accounting System.—__ 
+    (g)  __Accounting System__  __.—__ 
 
     The Architect shall maintain an accounting system for operation and maintenance of the Building and other improvements which will allow accurate projections of the dates and cost of major repairs, improvements, reconstructions, and replacements of the Building and improvements and other capital expenditures on the Building and improvements.
 
     (h) __Nonapplicability of Certain Laws.—__ 
 
-        (1) __Building codes, permits, or inspection.—__ 
+        (1)  __Building codes, permits, or inspection__  __.—__ 
 
         The Building is not subject to any law of the District of Columbia relating to building codes, permits, or inspection, including any such law enacted by Congress.
 
-        (2) __Taxes.—__ 
+        (2)  __Taxes__  __.—__ 
 
         The Building and other improvements constructed under this chapter are not subject to any law of the District of Columbia relating to real estate and personal property taxes, special assessments, or other taxes, including any such law enacted by Congress.
 

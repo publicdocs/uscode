@@ -15,31 +15,31 @@
 
 ## § 15704. Inspector General; records
 
-    (a) __Appointment of Inspector General.—__ 
+    (a)  __Appointment of Inspector General__  __.—__ 
 
     There shall be an Inspector General for the Commissions appointed in accordance with section 3(a) of the Inspector General Act of 1978 (5 U.S.C. App.). All of the Commissions shall be subject to a single Inspector General.
 
     (b) __Records of a Commission.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A Commission shall maintain accurate and complete records of all its transactions and activities.
 
-        (2) __Availability.—__ 
+        (2)  __Availability__  __.—__ 
 
         All records of a Commission shall be available for audit and examination by the Inspector General (including authorized representatives of the Inspector General).
 
     (c) __Records of Recipients of Commission Assistance.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A recipient of funds from a Commission under this subtitle shall maintain accurate and complete records of transactions and activities financed with the funds and report to the Commission on the transactions and activities.
 
-        (2) __Availability.—__ 
+        (2)  __Availability__  __.—__ 
 
         All records required under paragraph (1) shall be available for audit by the Commission and the Inspector General (including authorized representatives of the Commission and the Inspector General).
 
-    (d) __Annual Audit.—__ 
+    (d)  __Annual Audit__  __.—__ 
 
     The Inspector General shall audit the activities, transactions, and records of each Commission on an annual basis.
 

@@ -15,7 +15,7 @@
 
 ## § 591. Purchase of electricity
 
-    (a) __General Limitation on Use of Amounts.—__ 
+    (a)  __General Limitation on Use of Amounts__  __.—__ 
 
     A department, agency, or instrumentality of the Federal Government may not use amounts appropriated or made available by any law to purchase electricity in a manner inconsistent with state law governing the provision of electric utility service, including—
 
@@ -25,11 +25,11 @@
 
     (b) __Exceptions.—__ 
 
-        (1) __Energy savings.—__ 
+        (1)  __Energy savings__  __.—__ 
 
         This section does not preclude the head of a federal agency from entering into a contract under section 801 of the National Energy Conservation Policy Act ([42 U.S.C. 8287][/us/usc/t42/s8287]).
 
-        (2) __Energy savings for military installations.—__ 
+        (2)  __Energy savings for military installations__  __.—__ 
 
         This section does not preclude the Secretary of a military department from—
 

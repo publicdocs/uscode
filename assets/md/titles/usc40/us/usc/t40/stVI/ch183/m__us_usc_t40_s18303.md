@@ -15,7 +15,7 @@
 
 ## § 18303. Standards for arbitrators
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, the term “public welfare” includes, with respect to arbitration under an interstate compact—
 
@@ -23,7 +23,7 @@
 
         (2) the average per capita tax burden, during the term of the collective bargaining agreement to which the arbitration relates, of the residents of the Washington metropolitan area, and the effect of an arbitration award rendered under that arbitration on the respective income or property tax rates of the jurisdictions that provide subsidy payments to the interstate compact agency established under the compact.
 
-    (b) __Factors in Making Arbitration Award.—__ 
+    (b)  __Factors in Making Arbitration Award__  __.—__ 
 
     An arbitrator rendering an arbitration award involving the employees of an interstate compact agency operating in the national capital area may not make a finding or a decision for inclusion in a collective bargaining agreement governing conditions of employment without considering the following factors:
 
@@ -49,21 +49,21 @@
 
         (7) The public welfare.
 
-    (c) __Ability To Finance Salaries and Benefits Provided in Award.—__ 
+    (c)  __Ability To Finance Salaries and Benefits Provided in Award__  __.—__ 
 
     An arbitrator rendering an arbitration award involving the employees of an interstate compact agency operating in the national capital area may not, with respect to a collective bargaining agreement governing conditions of employment, provide for salaries and other benefits that exceed the ability of the interstate compact agency, or of any governmental jurisdiction that provides subsidy payments or budgetary assistance to the interstate compact agency, to obtain the necessary financial resources to pay for wage and benefit increases for employees of the interstate compact agency.
 
     (d) __Requirements for Final Award.—__ 
 
-        (1) __Written award.—__ 
+        (1)  __Written award__  __.—__ 
 
         In resolving a dispute submitted to arbitration involving the employees of an interstate compact agency operating in the national capital area, the arbitrator shall issue a written award that demonstrates that all the factors set forth in subsections (b) and (c) have been considered and applied.
 
-        (2) __Prerequisites.—__ 
+        (2)  __Prerequisites__  __.—__ 
 
         An award may grant an increase in pay rates or benefits (including insurance and pension benefits), or reduce hours of work, only if the arbitrator concludes that any costs to the agency do not adversely affect the public welfare.
 
-        (3) __Substantial evidence.—__ 
+        (3)  __Substantial evidence__  __.—__ 
 
         The arbitrator’s conclusion regarding the public welfare must be supported by substantial evidence.
 

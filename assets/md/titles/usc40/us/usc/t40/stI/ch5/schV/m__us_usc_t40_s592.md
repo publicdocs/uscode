@@ -15,13 +15,13 @@
 
 ## § 592. Federal Buildings Fund
 
-    (a) __Existence.—__ 
+    (a)  __Existence__  __.—__ 
 
     There is in the Treasury a fund known as the Federal Buildings Fund.
 
     (b) __Deposits.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The following revenues and collections shall be deposited into the Fund:
 
@@ -31,29 +31,29 @@
 
             (C) Receipts from carriers and others for loss of, or damage to, property belonging to the Fund.
 
-        (2) __Reimbursements for special services.—__ 
+        (2)  __Reimbursements for special services__  __.—__ 
 
         This subchapter does not preclude the Administrator of General Services from providing special services, not included in the standard level user charge, on a reimbursable basis. The reimbursements may be credited to the Fund.
 
-        (3) __Transfer of surplus amounts.—__ 
+        (3)  __Transfer of surplus amounts__  __.—__ 
 
         To prevent the accumulation of excessive surpluses in the Fund, in any fiscal year an amount specified in an appropriation law may be transferred out of the Fund and deposited as miscellaneous receipts in the Treasury.
 
     (c) __Uses.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Deposits in the Fund are available for real property management and related activities in the amounts specified in annual appropriation laws without regard to fiscal year limitations.
 
-        (2) __Salaries and expenses related to construction projects or planning programs.—__ 
+        (2)  __Salaries and expenses related to construction projects or planning programs__  __.—__ 
 
         Deposits in the Fund that are available pursuant to annual appropriation laws may be transferred and consolidated on the books of the Treasury into a special account in accordance with, and for the purposes specified in, [section 3176 of this title][/us/usc/t40/s3176].
 
-        (3) __Repayment of general services administration borrowing from federal financing bank.—__ 
+        (3)  __Repayment of general services administration borrowing from federal financing bank__  __.—__ 
 
         The Administrator, in accordance with rules and procedures that the Office of Management and Budget and the Secretary of the Treasury establish, may transfer from the Fund an amount necessary to repay the principal amount of a General Services Administration borrowing from the Federal Financing Bank, if the borrowing is a legal obligation of the Fund.
 
-        (4) __Buildings deemed federally owned.—__ 
+        (4)  __Buildings deemed federally owned__  __.—__ 
 
         For purposes of amounts authorized to be expended from the Fund, the following are deemed to be federally owned buildings:
 
@@ -65,19 +65,19 @@
 
     (d) __Energy Management Programs.—__ 
 
-        (1) __Receiving cash incentives.—__ 
+        (1)  __Receiving cash incentives__  __.—__ 
 
         The Administrator may receive amounts from rebates or other cash incentives related to energy savings and shall deposit the amounts in the Fund for use as provided in paragraph (4).
 
-        (2) __Receiving goods or services.—__ 
+        (2)  __Receiving goods or services__  __.—__ 
 
         The Administrator may accept, from a utility, goods or services that enhance the energy efficiency of federal facilities.
 
-        (3) __Assignment of energy rebates.—__ 
+        (3)  __Assignment of energy rebates__  __.—__ 
 
         In the administration of real property that the Administrator leases and for which the Administrator pays utility costs, the Administrator may assign all or a portion of energy rebates to the lessor to underwrite the costs incurred in undertaking energy efficiency improvements in the real property if the payback period for the improvement is at least 2 years less than the remainder of the term of the lease.
 
-        (4) __Obligating amounts for energy management improvement programs.—__ 
+        (4)  __Obligating amounts for energy management improvement programs__  __.—__ 
 
         In addition to amounts appropriated for energy management improvement programs and without regard to subsection (c)(1), the Administrator may obligate for those programs—
 
@@ -89,11 +89,11 @@
 
     (e) __Recycling Programs.—__ 
 
-        (1) __Receiving amounts.—__ 
+        (1)  __Receiving amounts__  __.—__ 
 
         The Administrator may receive amounts from the sale of recycled materials and shall deposit the amounts in the Fund for use as provided in paragraph (2).
 
-        (2) __Obligating amounts for recycling programs.—__ 
+        (2)  __Obligating amounts for recycling programs__  __.—__ 
 
         In addition to amounts appropriated for such purposes and without regard to subsection (c)(1), the Administrator may obligate amounts received and deposited in the Fund under paragraph (1) for programs which—
 
@@ -101,7 +101,7 @@
 
             (B) encourage employees to participate in recycling programs by providing financing for child care.
 
-    (f) __Additional Authority Related to Energy Management and Recycling Programs.—__ 
+    (f)  __Additional Authority Related to Energy Management and Recycling Programs__  __.—__ 
 
     The Fund may receive, in the form of rebates, cash incentives or otherwise, any revenues, collections, or other income related to energy savings or recycling efforts. Amounts received under this subsection remain in the Fund until expended and remain available for federal energy management improvement programs, recycling programs, or employee programs that are authorized by law or that the Administrator considers appropriate. The Administration may use amounts received under this subsection, in addition to amounts received as New Obligational Authority, in activities of the Fund as necessary.
 

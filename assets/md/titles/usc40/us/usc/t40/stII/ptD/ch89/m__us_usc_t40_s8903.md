@@ -15,7 +15,7 @@
 
 ## § 8903. Congressional authorization of commemorative works
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Commemorative works—
 
@@ -23,19 +23,19 @@
 
         (2) are subject to applicable provisions of this chapter.
 
-    (b) __Military Commemorative Works.—__ 
+    (b)  __Military Commemorative Works__  __.—__ 
 
     A military commemorative work may be authorized only to commemorate a war or similar major military conflict or a branch of the armed forces. A commemorative work solely commemorating a limited military engagement or a unit of an armed force may not be authorized. Commemorative works to a war or similar major military conflict may not be authorized until at least 10 years after the officially designated end of such war or conflict.
 
-    (c) __Works Commemorating Events, Individuals, or Groups.—__ 
+    (c)  __Works Commemorating Events, Individuals, or Groups__  __.—__ 
 
     A commemorative work commemorating an event, individual, or group of individuals, except a military commemorative work as described in subsection (b), may not be authorized until after the 25th anniversary of the event, death of the individual, or death of the last surviving member of the group.
 
-    (d) __Consultation with National Capital Memorial Advisory Commission.—__ 
+    (d)  __Consultation with National Capital Memorial Advisory Commission__  __.—__ 
 
     In considering legislation authorizing commemorative works in the District of Columbia and its environs, the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate shall solicit the views of the National Capital Memorial Advisory Commission.
 
-    (e) __Expiration of Legislative Authority.—__ 
+    (e)  __Expiration of Legislative Authority__  __.—__ 
 
     Any legislative authority for a commemorative work shall expire at the end of the seven-year period beginning on the date of the enactment of such authority, or at the end of the seven-year period beginning on the date of the enactment of legislative authority to locate the commemorative work within Area I, if such additional authority has been granted, unless—
 

@@ -15,7 +15,7 @@
 
 ## § 8143. Heat
 
-    (a) __Corcoran Gallery of Art.—__ 
+    (a)  __Corcoran Gallery of Art__  __.—__ 
 
     The Administrator of General Services may furnish heat from the central heating plant to the Corcoran Gallery of Art, if the Corcoran Gallery of Art agrees to—
 
@@ -23,7 +23,7 @@
 
         (2) connect the building with the Federal Government mains in a manner satisfactory to the Administrator.
 
-    (b) __Board of Governors of the Federal Reserve System.—__ 
+    (b)  __Board of Governors of the Federal Reserve System__  __.—__ 
 
     The Administrator may furnish steam from the central heating plant for the use of the Board of Governors of the Federal Reserve System on the property which the Board acquired in squares east of 87 and east of 88 in the District of Columbia if the Board agrees to—
 
@@ -31,7 +31,7 @@
 
         (2) provide the necessary connections with the Government mains at its own expense and in a manner satisfactory to the Administrator.
 
-    (c) __Non-Federal Public Buildings.—__ 
+    (c)  __Non-Federal Public Buildings__  __.—__ 
 
     The Administrator shall determine the rates to be paid for steam furnished to the Corcoran Gallery of Art, the Pan American Union Buildings, the American Red Cross Buildings, and other non-federal public buildings authorized to receive steam from the central heating plant.
 

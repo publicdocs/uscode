@@ -15,45 +15,45 @@
 
 ## § 8722. Proposed federal and district developments and projects
 
-    (a) __Agencies To Use Commission as Central Planning Agency.—__ 
+    (a)  __Agencies To Use Commission as Central Planning Agency__  __.—__ 
 
     Agencies of the Federal Government responsible for public developments and projects shall cooperate and correlate their efforts by using the National Capital Planning Commission as the central planning agency for federal activities in the National Capital region. To aid the Commission in carrying out this function, federal and District of Columbia governmental agencies on request of the Commission shall furnish plans, data, and records the Commission requires. The Commission on request shall furnish related plans, data, and records to federal and District of Columbia governmental agencies.
 
     (b) __Consultation Between Agencies and Commission.—__ 
 
-        (1) __Before construction plans prepared.—__ 
+        (1)  __Before construction plans prepared__  __.—__ 
 
         To ensure the comprehensive planning and orderly development of the National Capital, a federal or District of Columbia agency, before preparing construction plans the agency originates for proposed developments and projects or before making a commitment to acquire land, to be paid for at least in part from federal or District amounts, shall advise and consult with the Commission as the agency prepares plans and programs in preliminary and successive stages that affect the plan and development of the National Capital. After receiving the plans, maps, and data, the Commission promptly shall make a preliminary report and recommendations to the agency. If the agency, after considering the report and recommendations of the Commission, does not agree, it shall advise the Commission and provide the reasons why it does not agree. The Commission then shall submit a final report. After consultation and suitable consideration of the views of the Commission, the agency may proceed to take action in accordance with its legal responsibilities and authority.
 
         (2) __Exceptions.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Paragraph (1) does not apply to projects within the Capitol grounds or to structures erected by the Department of Defense during wartime or national emergency within existing military, naval, or Air Force reservations, except that the appropriate defense agency shall consult with the Commission as to any developments which materially affect traffic or require coordinated planning of the surrounding area.
 
-            (B) __Advance decisions of commission.—__ 
+            (B)  __Advance decisions of commission__  __.—__ 
 
             The Commission shall determine in advance the type or kinds of plans, developments, projects, improvements, or acquisitions which do not need to be submitted for review by the Commission as to conformity with its plans.
 
     (c) __Additional Procedure for Developments and Projects Within Environs.—__ 
 
-        (1) __Submission to commission.—__ 
+        (1)  __Submission to commission__  __.—__ 
 
         Within the environs, general plans showing the location, character, and extent of, and intensity of use for, proposed federal and District developments and projects involving the acquisition of land shall be submitted to the Commission for report and recommendations before a final commitment to the acquisition is made, unless the matter specifically has been approved by law.
 
-        (2) __Commission action.—__ 
+        (2)  __Commission action__  __.—__ 
 
         Before acting on any general plan, the Commission shall advise and consult with the appropriate planning agency having jurisdiction over the affected part of the environs. When the Commission decides that proposed developments or projects submitted to the Commission under subsection (b) involve a major change in the character or intensity of an existing use in the environs, the Commission shall advise and consult with the planning agency. The report and recommendations shall be submitted within 60 days and shall be accompanied by any reports or recommendations of the planning agency.
 
-        (3) __Working with state or local authority or agency.—__ 
+        (3)  __Working with state or local authority or agency__  __.—__ 
 
         In carrying out its planning functions with respect to federal developments or projects in the environs, the Commission may work with, and make agreements with, any state or local authority or planning agency as the Commission considers necessary to have a plan or proposal adopted and carried out.
 
-    (d) __Approval of Federal Public Buildings.—__ 
+    (d)  __Approval of Federal Public Buildings__  __.—__ 
 
     The provisions of the Act of June 20, 1938 (ch. 534, [52 Stat. 797][/us/stat/52/797]) shall not apply to federal public buildings. In order to ensure the orderly development of the National Capital, the location, height, bulk, number of stories, and size of federal public buildings in the District of Columbia and the provision for open space in and around federal public buildings in the District of Columbia are subject to the approval of the Commission.
 
-    (e) __Approval of District Government Buildings in Central Area.—__ 
+    (e)  __Approval of District Government Buildings in Central Area__  __.—__ 
 
     Subsection (d) is extended to include public buildings erected by any agency of the Government of the District of Columbia in the central area of the District (as defined by concurrent action of the Commission and the Council of the District of Columbia), except that the Commission shall transmit its approval or disapproval within 30 days after the day the proposal was submitted to the Commission.
 

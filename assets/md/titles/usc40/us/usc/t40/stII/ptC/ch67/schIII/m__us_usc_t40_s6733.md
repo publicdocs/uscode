@@ -15,17 +15,17 @@
 
 ## § 6733. Federal Triangle property
 
-    (a) __Title.—__ 
+    (a)  __Title__  __.—__ 
 
     Title to the Federal Triangle property reverts to the Administrator of General Services not later than the date on which ownership of the Ronald Reagan Building and International Trade Center vests in the Federal Government.
 
     (b) __Nonapplicability of Certain Laws.—__ 
 
-        (1) __Building permits and inspection.—__ 
+        (1)  __Building permits and inspection__  __.—__ 
 
         For purposes of development of the Federal Triangle property, the person selected to develop the property is not subject to any state or local law relating to building permits and inspection.
 
-        (2) __Taxes and assessments.—__ 
+        (2)  __Taxes and assessments__  __.—__ 
 
         The property and improvements to the property are not subject to real and personal property taxation or to special assessments.
 

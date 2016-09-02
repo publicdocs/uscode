@@ -15,11 +15,11 @@
 
 ## § 8164. E. Barrett Prettyman United States Courthouse
 
-    (a) __Operation, Maintenance, and Repair.—__ 
+    (a)  __Operation, Maintenance, and Repair__  __.—__ 
 
     The operation, maintenance, and repair of the E. Barrett Prettyman United States Courthouse, used by the United States Court of Appeals for the District of Columbia and the United States District Court for the District of Columbia, is under the control of the Administrator of General Services.
 
-    (b) __Allocation of Space.—__ 
+    (b)  __Allocation of Space__  __.—__ 
 
     The allocation of space in the Courthouse is vested in the chief judge of the United States Court of Appeals for the District of Columbia and the chief judge of the United States District Court for the District of Columbia.
 

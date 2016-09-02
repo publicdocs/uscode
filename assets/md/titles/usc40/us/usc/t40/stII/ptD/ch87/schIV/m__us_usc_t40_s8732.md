@@ -15,7 +15,7 @@
 
 ## § 8732. Acquiring land subject to limited rights reserved to grantor and limited permanent rights in land adjoining park property
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The National Capital Planning Commission in accordance with this chapter may acquire, for and on behalf of the Federal Government, by gift, devise, purchase, or condemnation—
 
@@ -25,15 +25,15 @@
 
     (b) __Prerequisites to Acquisition.—__ 
 
-        (1) __Fee title to land subject to limited rights.—__ 
+        (1)  __Fee title to land subject to limited rights__  __.—__ 
 
         The reservation of rights to the grantor shall not continue beyond the life of the grantor of the fee. The Commission must decide that the permanent public park purposes for which control over the land is needed are not essentially impaired by the reserved rights and that there is a substantial saving in cost by acquiring the land subject to the limited rights as compared with the cost of acquiring unencumbered title to the land.
 
-        (2) __Permanent rights in land adjoining park property.—__ 
+        (2)  __Permanent rights in land adjoining park property__  __.—__ 
 
         The Commission must decide that the protection and maintenance of the essential public values of the park can be secured more economically by acquiring the permanent rights than by acquiring the land.
 
-    (c) __Presidential Approval Required.—__ 
+    (c)  __Presidential Approval Required__  __.—__ 
 
     All contracts to acquire land or rights under this section are subject to the approval of the President.
 

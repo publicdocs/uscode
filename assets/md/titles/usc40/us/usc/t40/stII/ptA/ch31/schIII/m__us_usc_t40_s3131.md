@@ -15,33 +15,33 @@
 
 ## § 3131. Bonds of contractors of public buildings or works
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this subchapter, the term “contractor” means a person awarded a contract described in subsection (b).
 
-    (b) __Type of Bonds Required.—__ 
+    (b)  __Type of Bonds Required__  __.—__ 
 
     Before any contract of more than $100,000 is awarded for the construction, alteration, or repair of any public building or public work of the Federal Government, a person must furnish to the Government the following bonds, which become binding when the contract is awarded:
 
-        (1) __Performance bond.—__ 
+        (1)  __Performance bond__  __.—__ 
 
         A performance bond with a surety satisfactory to the officer awarding the contract, and in an amount the officer considers adequate, for the protection of the Government.
 
-        (2) __Payment bond.—__ 
+        (2)  __Payment bond__  __.—__ 
 
         A payment bond with a surety satisfactory to the officer for the protection of all persons supplying labor and material in carrying out the work provided for in the contract for the use of each person. The amount of the payment bond shall equal the total amount payable by the terms of the contract unless the officer awarding the contract determines, in a writing supported by specific findings, that a payment bond in that amount is impractical, in which case the contracting officer shall set the amount of the payment bond. The amount of the payment bond shall not be less than the amount of the performance bond.
 
     (c) __Coverage for Taxes in Performance Bond.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Every performance bond required under this section specifically shall provide coverage for taxes the Government imposes which are collected, deducted, or withheld from wages the contractor pays in carrying out the contract with respect to which the bond is furnished.
 
-        (2) __Notice.—__ 
+        (2)  __Notice__  __.—__ 
 
         The Government shall give the surety on the bond written notice, with respect to any unpaid taxes attributable to any period, within 90 days after the date when the contractor files a return for the period, except that notice must be given no later than 180 days from the date when a return for the period was required to be filed under the Internal Revenue Code of 1986 ([26 U.S.C. 1][/us/usc/t26/s1] et seq.).
 
-        (3) __Civil action.—__ 
+        (3)  __Civil action__  __.—__ 
 
         The Government may not bring a civil action on the bond for the taxes—
 
@@ -49,11 +49,11 @@
 
             (B) more than one year after the day on which notice is given.
 
-    (d) __Waiver of Bonds for Contracts Performed in Foreign Countries.—__ 
+    (d)  __Waiver of Bonds for Contracts Performed in Foreign Countries__  __.—__ 
 
     A contracting officer may waive the requirement of a performance bond and payment bond for work under a contract that is to be performed in a foreign country if the officer finds that it is impracticable for the contractor to furnish the bonds.
 
-    (e) __Authority To Require Additional Bonds.—__ 
+    (e)  __Authority To Require Additional Bonds__  __.—__ 
 
     This section does not limit the authority of a contracting officer to require a performance bond or other security in addition to those, or in cases other than the cases, specified in subsection (b).
 

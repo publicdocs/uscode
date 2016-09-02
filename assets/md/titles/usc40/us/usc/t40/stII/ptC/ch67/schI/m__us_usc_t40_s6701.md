@@ -15,7 +15,7 @@
 
 ## § 6701. Transfer of rights and authorities of Pennsylvania Avenue Development Corporation
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Administrator of General Services—
 
@@ -25,15 +25,15 @@
 
     (b) __Use of Amounts and Income.—__ 
 
-        (1) __Activities associated with transferred responsibilities.—__ 
+        (1)  __Activities associated with transferred responsibilities__  __.—__ 
 
         The Administrator may use amounts transferred from the Corporation or income earned on Corporation property for activities associated with carrying out the responsibilities of the Corporation transferred to the Administrator. Any income earned after October 1, 1998, shall be deposited to the Federal Buildings Fund to be available for the purposes authorized under this subchapter, notwithstanding [section 592(c)(1) of this title][/us/usc/t40/s592/c/1].
 
-        (2) __Excess amounts or income.—__ 
+        (2)  __Excess amounts or income__  __.—__ 
 
         Any amounts or income the Administrator considers excess to the amount needed to fulfill the responsibilities of the Corporation transferred to the Administrator shall be applied to any outstanding debt the Corporation incurred when acquiring real estate, except debt associated with the Ronald Reagan Building and International Trade Center.
 
-    (c) __Payment to District of Columbia.—__ 
+    (c)  __Payment to District of Columbia__  __.—__ 
 
     With respect to real property transferred from the Corporation to the Administrator under [section 6702 of this title][/us/usc/t40/s6702], the Administrator shall pay to the District of Columbia government, in the same way as previously paid by the Corporation, an amount equal to the amount of real property tax which would have been payable to the government beginning on the date the Corporation acquired the real property if legal title to the property had been held by a private citizen on that date and during all periods to which that date relates.
 

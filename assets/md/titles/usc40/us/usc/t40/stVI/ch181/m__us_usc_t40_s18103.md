@@ -15,11 +15,11 @@
 
 ## § 18103. Research and development
 
-    (a) __Support for Research.—__ 
+    (a)  __Support for Research__  __.—__ 
 
     The Administrator of General Services, in consultation with the Federal Communications Commission, shall seek to promote research by federal agencies, state agencies, and private entities to reduce the cost and improve the capabilities of telecommunications devices and systems that provide accessibility to hearing-impaired and speech-impaired individuals.
 
-    (b) __Planning To Assimilate Technological Developments.—__ 
+    (b)  __Planning To Assimilate Technological Developments__  __.—__ 
 
     In planning future alterations to and modifications of the federal telecommunications system, the Administrator shall take into account—
 

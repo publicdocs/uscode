@@ -73,11 +73,11 @@ Pub. L. 90–264, title I, § 111(a) (last sentence), as added Pub. L. 97–12
 
 [Pub. L. 105–33, title IX, § 9102][/us/pl/105/33/s9102], Aug. 5, 1997, [111 Stat. 670][/us/stat/111/670], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding any other provision of law, the Administrator of General Services shall sell, at fair market value and in a manner to be determined by the Administrator, the air rights adjacent to Washington Union Station described in subsection (b), including air rights conveyed to the Administrator under subsection (d). The Administrator shall complete the sale by such date as is necessary to ensure that the proceeds from the sale will be deposited in accordance with subsection (c).
 
->     “(b) __Description.—__ 
+>     “(b)  __Description__  __.—__ 
 
 >     The air rights referred to in subsection (a) total approximately 16.5 acres and are depicted on the plat map of the District of Columbia as follows:
 
@@ -87,17 +87,17 @@ Pub. L. 90–264, title I, § 111(a) (last sentence), as added Pub. L. 97–12
 
 >         “(3) Part of lot 811, square 717.
 
->     “(c) __Proceeds.—__ 
+>     “(c)  __Proceeds__  __.—__ 
 
 >     Before September 30, 2002, proceeds from the sale of air rights under subsection (a) shall be deposited in the general fund of the Treasury and credited as miscellaneous receipts.
 
 >     “(d) __Conveyance of Amtrak Air Rights.—__ 
 
->         “(1) __General rule.—__ 
+>         “(1)  __General rule__  __.—__ 
 
 >         As a condition of future Federal financial assistance, Amtrak shall convey to the Administrator of General Services on or before December 31, 1997, at no charge, all of the air rights of Amtrak described in subsection (b).
 
->         “(2) __Failure to comply.—__ 
+>         “(2)  __Failure to comply__  __.—__ 
 
 >         If Amtrak does not meet the condition established by paragraph (1), Amtrak shall be prohibited from obligating Federal funds after March 1, 1998.”
 

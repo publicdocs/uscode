@@ -15,11 +15,11 @@
 
 ## § 11312. Capital planning and investment control
 
-    (a) __Design of Process.—__ 
+    (a)  __Design of Process__  __.—__ 
 
     In fulfilling the responsibilities assigned under [section 3506(h) of title 44][/us/usc/t44/s3506/h], the head of each executive agency shall design and implement in the executive agency a process for maximizing the value, and assessing and managing the risks, of the information technology acquisitions of the executive agency.
 
-    (b) __Content of Process.—__ 
+    (b)  __Content of Process__  __.—__ 
 
     The process of an executive agency shall—
 

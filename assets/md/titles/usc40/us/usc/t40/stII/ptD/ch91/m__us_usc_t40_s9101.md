@@ -15,19 +15,19 @@
 
 ## § 9101. Establishment, composition, and vacancies
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     There is a Commission of Fine Arts.
 
-    (b) __Composition.—__ 
+    (b)  __Composition__  __.—__ 
 
     The Commission is composed of seven well-qualified judges of the fine arts, appointed by the President, who serve for four years each or until their successors are appointed and qualified.
 
-    (c) __Vacancies.—__ 
+    (c)  __Vacancies__  __.—__ 
 
     The President shall fill vacancies on the Commission.
 
-    (d) __Expenses.—__ 
+    (d)  __Expenses__  __.—__ 
 
     Members of the Commission shall be paid actual expenses in traveling to and from the District of Columbia to attend Commission meetings and while attending those meetings.
 

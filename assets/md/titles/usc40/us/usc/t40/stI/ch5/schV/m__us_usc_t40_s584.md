@@ -17,11 +17,11 @@
 
     (a) __Authority.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Subject to paragraph (2), the Administrator of General Services may assign or reassign space for an executive agency in any Federal Government-owned or leased building.
 
-        (2) __Requirements.—__ 
+        (2)  __Requirements__  __.—__ 
 
         The Administrator’s authority under paragraph (1) may be exercised only—
 
@@ -31,7 +31,7 @@
 
             (C) on a determination by the Administrator that the assignment or reassignment is advantageous to the Government in terms of economy, efficiency, or national security.
 
-    (b) __Priority for Public Access.—__ 
+    (b)  __Priority for Public Access__  __.—__ 
 
     In assigning space on a major pedestrian access level (other than space leased under section 581(h)(1) or (2) of this title), the Administrator shall, where practicable, give priority to federal activities requiring regular contact with the public. If the space is not available, the Administrator shall provide space with maximum ease of access to building entrances.
 

@@ -15,43 +15,43 @@
 
 ## § 14301. Establishment, membership, and employees
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     There is an Appalachian Regional Commission.
 
     (b) __Membership.—__ 
 
-        (1) __Federal and state members.—__ 
+        (1)  __Federal and state members__  __.—__ 
 
         The Commission is composed of the Federal Cochairman, appointed by the President by and with the advice and consent of the Senate, and the Governor of each participating State in the Appalachian region.
 
-        (2) __Alternate members.—__ 
+        (2)  __Alternate members__  __.—__ 
 
         Each state member may have a single alternate, appointed by the Governor from among the members of the Governor’s cabinet or the Governor’s personal staff. The President,, <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  shall appoint an alternate for the Federal Cochairman. An alternate shall vote in the event of the absence, death, disability, removal, or resignation of the member for whom the individual is an alternate. A state alternate shall not be counted toward the establishment of a quorum of the Commission when a quorum of the state members is required.
 
-        (3) __Cochairmen.—__ 
+        (3)  __Cochairmen__  __.—__ 
 
         The Federal Cochairman is one of the two Cochairmen of the Commission. The state members shall elect a Cochairman of the Commission from among themselves for a term of not less than one year.
 
-    (c) __Compensation.—__ 
+    (c)  __Compensation__  __.—__ 
 
     The Federal Cochairman shall be compensated by the Federal Government at level III of the Executive Schedule as set out in [section 5314 of title 5][/us/usc/t5/s5314]. The Federal Cochairman’s alternate shall be compensated by the Government at level V of the Executive Schedule as set out in [section 5316 of title 5][/us/usc/t5/s5316]. Each state member and alternate shall be compensated by the State which they represent at the rate established by law of that State.
 
     (d) __Delegation.—__ 
 
-        (1) __Powers and responsibilities.—__ 
+        (1)  __Powers and responsibilities__  __.—__ 
 
         Commission powers and responsibilities specified in section 14302(c) and (d) of this title, and the vote of any Commission member, may not be delegated to an individual who is not a Commission member or who is not entitled to vote in Commission meetings.
 
-        (2) __Alternate federal cochairman.—__ 
+        (2)  __Alternate federal cochairman__  __.—__ 
 
         The alternate to the Federal Cochairman shall perform the functions and duties the Federal Cochairman delegates when not actively serving as the alternate.
 
-    (e) __Executive Director.—__ 
+    (e)  __Executive Director__  __.—__ 
 
     The Commission has an executive director. The executive director is responsible for carrying out the administrative functions of the Commission, for directing the Commission staff, and for other duties the Commission may assign.
 
-    (f) __Status of Personnel.—__ 
+    (f)  __Status of Personnel__  __.—__ 
 
     Members, alternates, officers, and employees of the Commission are not federal employees for any purpose, except the Federal Cochairman, the alternate to the Federal Cochairman, the staff of the Federal Cochairman, and federal employees detailed to the Commission under [section 14306(a)(3) of this title][/us/usc/t40/s14306/a/3].
 

@@ -17,11 +17,11 @@
 
     In this chapter, the following definitions apply:
 
-    (1) __Agency head.—__ 
+    (1)  __Agency head__  __.—__ 
 
     The term “agency head” means the head of a department, agency, or bureau of the Federal Government.
 
-    (2) __Architectural and engineering services.—__ 
+    (2)  __Architectural and engineering services__  __.—__ 
 
     The term “architectural and engineering services” means—
 
@@ -31,7 +31,7 @@
 
         (C) other professional services of an architectural or engineering nature, or incidental services, which members of the architectural and engineering professions (and individuals in their employ) may logically or justifiably perform, including studies, investigations, surveying and mapping, tests, evaluations, consultations, comprehensive planning, program management, conceptual designs, plans and specifications, value engineering, construction phase services, soils engineering, drawing reviews, preparation of operating and maintenance manuals, and other related services.
 
-    (3) __Firm.—__ 
+    (3)  __Firm__  __.—__ 
 
     The term “firm” means an individual, firm, partnership, corporation, association, or other legal entity permitted by law to practice the profession of architecture or engineering.
 

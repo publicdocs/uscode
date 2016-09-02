@@ -15,15 +15,15 @@
 
 ## § 303. Federal Acquisition Service
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     There is established in the General Services Administration a Federal Acquisition Service. The Administrator of General Services shall appoint a Commissioner of the Federal Acquisition Service, who shall be the head of the Federal Acquisition Service.
 
-    (b) __Functions.—__ 
+    (b)  __Functions__  __.—__ 
 
     Subject to the direction and control of the Administrator of General Services, the Commissioner of the Federal Acquisition Service shall be responsible for carrying out functions related to the uses for which the Acquisition Services Fund is authorized under [section 321 of this title][/us/usc/t40/s321], including any functions that were carried out by the entities known as the Federal Supply Service and the Federal Technology Service and such other related functions as the Administrator considers appropriate.
 
-    (c) __Regional Executives.—__ 
+    (c)  __Regional Executives__  __.—__ 
 
     The Administrator may appoint Regional Executives in the Federal Acquisition Service, to carry out such functions within the Federal Acquisition Service as the Administrator considers appropriate.
 

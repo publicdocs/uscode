@@ -15,7 +15,7 @@
 
 ## § 14508. Economic and energy development initiative
 
-    (a) __Projects To Be Assisted.—__ 
+    (a)  __Projects To Be Assisted__  __.—__ 
 
     The Appalachian Regional Commission may provide technical assistance, make grants, enter into contracts, or otherwise provide amounts to persons or entities in the Appalachian region for projects and activities—
 
@@ -25,7 +25,7 @@
 
         (3) to support the development of regional, conventional energy resources to produce electricity and heat through advanced technologies that achieve a substantial reduction in emissions, including greenhouse gases, over the current baseline.
 
-    (b) __Limitation on Available Amounts.—__ 
+    (b)  __Limitation on Available Amounts__  __.—__ 
 
     Of the cost of any activity eligible for a grant under this section, not more than—
 
@@ -35,11 +35,11 @@
 
         (3) in the case of a project to be carried out in a county for which an at-risk county designation is in effect under section 14526, 70 percent may be provided from amounts appropriated to carry out this section.
 
-    (c) __Sources of Assistance.—__ 
+    (c)  __Sources of Assistance__  __.—__ 
 
     Subject to subsection (b), grants provided under this section may be provided from amounts made available to carry out this section in combination with amounts made available under other Federal programs or from any other source.
 
-    (d) __Federal Share.—__ 
+    (d)  __Federal Share__  __.—__ 
 
     Notwithstanding any provision of law limiting the Federal share under any other Federal program, amounts made available to carry out this section may be used to increase that Federal share, as the Commission decides is appropriate.
 

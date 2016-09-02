@@ -19,27 +19,27 @@
 
         (1) __Authority of the secretary of defense.—__ 
 
-            (A) __Requirements prior to transfer.—__ 
+            (A)  __Requirements prior to transfer__  __.—__ 
 
             Subject to [section 17703 of this title][/us/usc/t40/s17703] and with the advice, assistance, and, in the case of an agency not under the jurisdiction of the Secretary of Defense, the consent of the agency concerned, and after approval of the President, the Secretary of Defense shall transfer for adequate consideration any or all long-lines communication facilities in or to Alaska under the jurisdiction of the Federal Government to any person qualifying under section 17703.
 
-            (B) __Authority to carry out chapter.—__ 
+            (B)  __Authority to carry out chapter__  __.—__ 
 
             The Secretary of Defense may take action and exercise powers as may be necessary or appropriate to carry out the purposes of this chapter.
 
-        (2) __Consent of secretary concerned.—__ 
+        (2)  __Consent of secretary concerned__  __.—__ 
 
         An interest in public lands, withdrawn or otherwise appropriated, shall not be transferred under this chapter without the prior consent of the Secretary of the Interior, or, with respect to lands in a national forest, of the Secretary of Agriculture.
 
-        (3) __Procedures and methods.—__ 
+        (3)  __Procedures and methods__  __.—__ 
 
         The Secretary of Defense shall carry out a transfer under this chapter in accordance with the procedures and methods required of the Administrator of General Services by section 545(a) and (b) of this title.
 
-    (b) __Documents of Title or Other Property Interests.—__ 
+    (b)  __Documents of Title or Other Property Interests__  __.—__ 
 
     The head of the agency concerned (or a designee of the head) shall execute documents for the transfer of title or other interest in property, except any mineral rights in the property, and take other action that the Secretary of Defense decides is necessary or proper to transfer the property under this chapter. A copy of a deed, lease, or other instrument executed by or on behalf of the head of the agency concerned purporting to transfer title or another interest in public land shall be provided to the Secretary of the Interior.
 
-    (c) __Solicitation of Offers To Purchase Certain Facilities.—__ 
+    (c)  __Solicitation of Offers To Purchase Certain Facilities__  __.—__ 
 
     In connection with soliciting offers to purchase long-lines facilities of the Alaska Communication System, the Secretary of Defense shall—
 
@@ -59,7 +59,7 @@
 
         (4) seek the advice and assistance of the Federal Communications Commission and the Governor of Alaska (or a designee of the Governor) to ensure consideration of all public interest factors associated with the transfer.
 
-    (d) __Applicability of Antitrust Provisions.—__ 
+    (d)  __Applicability of Antitrust Provisions__  __.—__ 
 
     The requirements of [section 559 of this title][/us/usc/t40/s559] apply to transfers under this chapter.
 

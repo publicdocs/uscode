@@ -15,7 +15,7 @@
 
 ## § 8904. National Capital Memorial Advisory Commission
 
-    (a) __Establishment and Composition.—__ 
+    (a)  __Establishment and Composition__  __.—__ 
 
     There is established the National Capital Memorial Advisory Commission, which shall be composed of—
 
@@ -35,15 +35,15 @@
 
         (8) the Secretary of Defense.
 
-    (b) __Chairman.—__ 
+    (b)  __Chairman__  __.—__ 
 
     The Director is the Chairman of the National Capital Memorial Advisory Commission.
 
-    (c) __Advisory Role.—__ 
+    (c)  __Advisory Role__  __.—__ 
 
     The National Capital Memorial Advisory Commission shall advise the Secretary of the Interior and the Administrator of General Services (as appropriate) on policy and procedures for establishment of, and proposals to establish, commemorative works in the District of Columbia and its environs and on other matters concerning commemorative works in the Nation’s Capital as the Commission considers appropriate.
 
-    (d) __Meetings.—__ 
+    (d)  __Meetings__  __.—__ 
 
     The National Capital Memorial Advisory Commission shall meet at least twice annually.
 

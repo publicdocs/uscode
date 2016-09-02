@@ -15,7 +15,7 @@
 
 ## § 14308. Information
 
-    (a) __Actions of Commission.—__ 
+    (a)  __Actions of Commission__  __.—__ 
 
     To obtain information needed to carry out its duties, the Appalachian Regional Commission shall—
 
@@ -33,15 +33,15 @@
 
     (b) __Authorizations.—__ 
 
-        (1) __Administer oaths.—__ 
+        (1)  __Administer oaths__  __.—__ 
 
         A Cochairman of the Commission, or any member of the Commission designated by the Commission, may administer oaths when the Commission decides that testimony shall be taken or evidence received under oath.
 
-        (2) __Furnish information.—__ 
+        (2)  __Furnish information__  __.—__ 
 
         The head of any federal, state, or local department or agency, to the extent not otherwise prohibited by law, may carry out subsection (a)(2).
 
-    (c) __Public Participation.—__ 
+    (c)  __Public Participation__  __.—__ 
 
     Public participation in the development, revision, and implementation of all plans and programs under this subtitle by the Commission, any State, or any local development district shall be provided for, encouraged, and assisted. The Commission shall develop and publish regulations specifying minimum guidelines for public participation, including public hearings.
 

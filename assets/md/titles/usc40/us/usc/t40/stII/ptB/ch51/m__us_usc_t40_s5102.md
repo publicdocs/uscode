@@ -15,29 +15,29 @@
 
 ## § 5102. Legal description and jurisdiction of United States Capitol Grounds
 
-    (a) __Legal Description.—__ 
+    (a)  __Legal Description__  __.—__ 
 
     The United States Capitol Grounds comprises all squares, reservations, streets, roadways, walks, and other areas as defined on a map entitled “Map showing areas comprising United States Capitol Grounds”, dated June 25, 1946, approved by the Architect of the Capitol, and recorded in the Office of the Surveyor of the District of Columbia in book 127, page 8, including all additions added by law after June 25, 1946.
 
     (b) __Jurisdiction.—__ 
 
-        (1) __Architect of the capitol.—__ 
+        (1)  __Architect of the capitol__  __.—__ 
 
         The jurisdiction and control over the Grounds, vested prior to July 31, 1946, by law in the Architect, is extended to the entire area of the Grounds. Except as provided in paragraph (2), the Architect is responsible for the maintenance and improvement of the Grounds, including those streets and roadways in the Grounds as shown on the map referred to in subsection (a) as being under the jurisdiction and control of the Commissioners of the District of Columbia.
 
         (2) __Mayor of the district of columbia.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Mayor of the District of Columbia is responsible for the maintenance and improvement of those portions of the following streets which are situated between the curblines of those streets: Constitution Avenue from Second Street Northeast to Third Street Northwest, First Street from D Street Northeast to D Street Southeast, D Street from First Street Southeast to Washington Avenue Southwest, and First Street from the north side of Louisiana Avenue to the intersection of C Street and Washington Avenue Southwest, Pennsylvania Avenue Northwest from First Street Northwest to Third Street Northwest, Maryland Avenue Southwest from First Street Southwest to Third Street Southwest, Second Street Northeast from F Street Northeast to C Street Southeast; C Street Southeast from Second Street Southeast to First Street Southeast; that portion of Maryland Avenue Northeast from Second Street Northeast to First Street Northeast; that portion of New Jersey Avenue Northwest from D Street Northwest to Louisiana Avenue; that portion of Second Street Southwest from the north curb of D Street to the south curb of Virginia Avenue Southwest; that portion of Virginia Avenue Southwest from the east curb of Second Street Southwest to the west curb of Third Street Southwest; that portion of Third Street Southwest from the south curb of Virginia Avenue Southwest to the north curb of D Street Southwest; that portion of D Street Southwest from the west curb of Third Street Southwest to the east curb of Second Street Southwest; that portion of Washington Avenue Southwest, including sidewalks and traffic islands, from the south curb of Independence Avenue Southwest to the west curb of South Capitol Street.
 
-            (B) __Repair and maintenance of utility services.—__ 
+            (B)  __Repair and maintenance of utility services__  __.—__ 
 
             The Mayor may enter any part of the Grounds to repair or maintain or, subject to the approval of the Architect, construct or alter, any utility service of the District of Columbia Government.
 
     (c) __National Garden of the United States Botanic Garden.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Except as provided under paragraph (2), the United States Capitol Grounds shall include—
 
@@ -47,21 +47,21 @@
 
             (C) all grounds bounded by the curblines of First Street, Southwest on the east; Washington Avenue, Southwest to its intersection with Independence Avenue, and Independence Avenue from such intersection to its intersection with Third Street, Southwest on the south; Third Street, Southwest on the west; and Maryland Avenue, Southwest on the north.
 
-        (2) __Maintenance and improvements.—__ 
+        (2)  __Maintenance and improvements__  __.—__ 
 
         Notwithstanding subsections (a) and (b), jurisdiction and control over the buildings on the grounds described in paragraph (1) shall be retained by the Joint Committee on the Library, and the Joint Committee on the Library shall continue to be solely responsible for the maintenance and improvement of the grounds described in such paragraph.
 
-        (3) __Authority not limited.—__ 
+        (3)  __Authority not limited__  __.—__ 
 
         Nothing in this subsection shall limit the authority of the Architect of the Capitol under section 307E of the Legislative Branch Appropriations Act, 1989 ([40 U.S.C. 216c][/us/usc/t40/s216c]). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
     (d) __Library of Congress Buildings and Grounds.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Except as provided under paragraph (2), the United States Capitol Grounds shall include the Library of Congress grounds described under section 11 of the Act entitled “An Act relating to the policing of the buildings  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be followed by “and grounds”. </sup></sup>  of the Library of Congress”, approved August 4, 1950 ([2 U.S.C. 167j][/us/usc/t2/s167j]).
 
-        (2) __Authority of librarian of congress.—__ 
+        (2)  __Authority of librarian of congress__  __.—__ 
 
         Notwithstanding subsections (a) and (b), the Librarian of Congress shall retain authority over the Library of Congress buildings and grounds in accordance with [section 1 of the Act of June 29, 1922][/us/act/1922-06-29/s1] ([2 U.S.C. 141][/us/usc/t2/s141]; [42 Stat. 715][/us/stat/42/715]).
 
@@ -157,7 +157,7 @@ July 31, 1946, ch. 707, § 1, 60 Stat. 718; Pub. L. 90–108, § 1(a), Oct. 
 
 >     “(a) __Transfer of Administrative Jurisdiction From District of Columbia to United States.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Administrative jurisdiction over each of the following properties (owned by the United States and as depicted on the Map) is hereby transferred, subject to the terms in this subsection, from the District of Columbia to the Secretary of the Interior for administration by the Director:
 
@@ -179,7 +179,7 @@ July 31, 1946, ch. 707, § 1, 60 Stat. 718; Pub. L. 90–108, § 1(a), Oct. 
 
 >             “(I) A portion of U.S. Reservation 357 at Whitehaven Parkway Northwest, previously transferred to the District of Columbia in conjunction with the former proposal for a residence for the Mayor of the District of Columbia.
 
->         “(2) __Use of certain property for memorial.—__ 
+>         “(2)  __Use of certain property for memorial__  __.—__ 
 
 >         In the case of the property for which administrative jurisdiction is transferred under paragraph (1)(H), the property shall be used as the site for the establishment of a memorial to honor disabled veterans of the United States Armed Forces authorized to be established by the Disabled Veterans’ LIFE Memorial Foundation by [Public Law 106–348][/us/pl/106/348] ([114 Stat. 1358][/us/stat/114/1358]; [40 U.S.C. 8903][/us/usc/t40/s8903] note), except that—
 
@@ -191,7 +191,7 @@ July 31, 1946, ch. 707, § 1, 60 Stat. 718; Pub. L. 90–108, § 1(a), Oct. 
 
 >         “(3) __Additional transfer.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Administrative jurisdiction over the parcel bounded by 2nd Street Southwest, the C Street Southwest ramp to I–295, the D Street Southwest ramp to I–395, and I–295 is hereby transferred, subject to the terms in this paragraph, from the District of Columbia as follows:
 
@@ -199,11 +199,11 @@ July 31, 1946, ch. 707, § 1, 60 Stat. 718; Pub. L. 90–108, § 1(a), Oct. 
 
 >                 “(ii) The remaining portion is transferred to the Architect of the Capitol.
 
->             “(B) __Retention of jurisdiction over subsurface area.—__ 
+>             “(B)  __Retention of jurisdiction over subsurface area__  __.—__ 
 
 >             The District of Columbia shall retain administrative jurisdiction over the subsurface area beneath the parcel referred to in subparagraph (A) for the tunnel, walls, footings, and related facilities.
 
->     “(b) __Transfer of Administrative Jurisdiction From United States to District of Columbia.—__ 
+>     “(b)  __Transfer of Administrative Jurisdiction From United States to District of Columbia__  __.—__ 
 
 >     Administrative jurisdiction over the following property owned by the United States and depicted on the Map is hereby transferred from the Secretary to the District of Columbia for administration by the District of Columbia:
 
@@ -221,25 +221,25 @@ July 31, 1946, ch. 707, § 1, 60 Stat. 718; Pub. L. 90–108, § 1(a), Oct. 
 
 >         “(7) Portions of U.S. Reservation 470.
 
->     “(c) __Effective Date.—__ 
+>     “(c)  __Effective Date__  __.—__ 
 
 >     The transfers of administrative jurisdiction under this section shall take effect on the date of the enactment of this Act \[Dec. 15, 2006\].
 
 > “SEC. 204. __CONVEYANCE TO ARCHITECT OF THE CAPITOL.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Prior to conveyance of title to U.S. Reservation 13 to the District of Columbia under this Act \[see [Pub. L. 109–396, title I, § 101][/us/pl/109/396/s101], Dec. 15, 2006, [120 Stat. 2711][/us/stat/120/2711]\], the District of Columbia shall convey, with the approval of the Architect of the Capitol and subject to subsections (b) and (c), not more than 12 acres of real property to the Architect of the Capitol.
 
->     “(b) __Title Held by Secretary.—__ 
+>     “(b)  __Title Held by Secretary__  __.—__ 
 
 >     If title to the real property identified for conveyance under subsection (a) is held by the Secretary, not later than 30 days after being notified by the Architect of the Capitol that property has been so identified, the Secretary shall agree or disagree to conveying the interest in such property to the Architect of the Capitol.
 
->     “(c) __Review.—__ 
+>     “(c)  __Review__  __.—__ 
 
 >     If the Secretary agrees to the conveyance under subsection (b), or if title to the property is held by the District of Columbia, the real property shall be conveyed after a 30-day review period beginning on the date on which notice of the conveyance is received by the Committee on Homeland Security and Governmental Affairs and the Committee on Rules of the Senate and the Committee on Government Reform and the Committee on Transportation and Infrastructure of the House of Representatives.
 
->     “(d) __Study.—__ 
+>     “(d)  __Study__  __.—__ 
 
 >     The Architect of the Capitol shall not construct a mail screening facility on any real property conveyed under this section unless each of the following conditions is satisfied:
 
@@ -283,11 +283,11 @@ July 31, 1946, ch. 707, § 1, 60 Stat. 718; Pub. L. 90–108, § 1(a), Oct. 
 
 > “SEC. 405. __CONGRESSIONAL REPORTS.__ 
 
->     “(a) __District of Columbia.—__ 
+>     “(a)  __District of Columbia__  __.—__ 
 
 >     Not later than January 31 of each year, the Mayor of the District of Columbia shall report to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Government Reform, the Committee on Energy and Commerce, the Committee on Resources, and the Committee on Transportation and Infrastructure of the House of Representatives on the use and development during the previous year of land for which title is conveyed to the District of Columbia and land for which administrative jurisdiction is transferred to the District of Columbia pursuant to this Act.
 
->     “(b) __Comptroller General.—__ 
+>     “(b)  __Comptroller General__  __.—__ 
 
 >     The Comptroller General shall report periodically to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Government Reform, the Committee on Energy and Commerce, the Committee on Resources, and the Committee on Transportation and Infrastructure of the House of Representatives on—
 
@@ -295,7 +295,7 @@ July 31, 1946, ch. 707, § 1, 60 Stat. 718; Pub. L. 90–108, § 1(a), Oct. 
 
 >         “(2) if applicable, how such use and development complies with the Anacostia Waterfront Framework Plan referred to in section 103 of the Anacostia Waterfront Corporation Act of 2004 (sec. 2–1223.03, D.C. Official Code).
 
->     “(c) __Sunset.—__ 
+>     “(c)  __Sunset__  __.—__ 
 
 >     This section shall expire 10 years after the date of enactment of this Act \[Dec. 15, 2006\].
 
@@ -313,11 +313,11 @@ July 31, 1946, ch. 707, § 1, 60 Stat. 718; Pub. L. 90–108, § 1(a), Oct. 
 
 >     “(a) __Transfer of Jurisdiction.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Jurisdiction over the parcels of Federal real property described under paragraph (2) (over which jurisdiction was transferred under section 514(b)(2)(C) of the Omnibus Parks and Public Lands Management Act of 1996 ([40 U.S.C. 5102][/us/usc/t40/s5102] note; [Public Law 104–333][/us/pl/104/333])) is transferred to the Architect of the Capitol, without consideration.
 
->         “(2) __Parcels.—__ 
+>         “(2)  __Parcels__  __.—__ 
 
 >         The parcels of Federal real property referred to under paragraph (1) are the following:
 
@@ -327,31 +327,31 @@ July 31, 1946, ch. 707, § 1, 60 Stat. 718; Pub. L. 90–108, § 1(a), Oct. 
 
 >     “(b) __Miscellaneous.—__ 
 
->         “(1) __Compliance with other laws.—__ 
+>         “(1)  __Compliance with other laws__  __.—__ 
 
 >         Compliance with this section shall be deemed to satisfy the requirements of all laws otherwise applicable to transfers of jurisdiction over parcels of Federal real property.
 
 >         “(2) __United states capitol grounds.—__ 
 
->             “(A) __Definition.—__ 
+>             “(A)  __Definition__  __.—__ 
 
 >             [Section 5102 of title 40][/us/usc/t40/s5102], United States Code, is amended to include within the definition of the United States Capitol Grounds the parcels of Federal real property described in subsection (a)(2).
 
->             “(B) __Jurisdiction of capitol police.—__ 
+>             “(B)  __Jurisdiction of capitol police__  __.—__ 
 
 >             The United States Capitol Police shall have jurisdiction over the parcels of Federal real property described in subsection (a)(2) in accordance with section 9 of the Act entitled ‘An Act to define the United States Capitol Grounds, to regulate the use thereof, and for other purposes’, approved July 31, 1946 ([2 U.S.C. 1961][/us/usc/t2/s1961]).
 
->         “(3) __Effect of transfer.—__ 
+>         “(3)  __Effect of transfer__  __.—__ 
 
 >         A person relinquishing jurisdiction over any parcel of Federal real property transferred by subsection (a) shall not retain any interest in the parcel except as specifically provided in this section.
 
->     “(c) __Effective Date.—__ 
+>     “(c)  __Effective Date__  __.—__ 
 
 >     This Act \[probably means this section\] shall apply to fiscal year 2005 and each fiscal year thereafter.”
 
 [Pub. L. 104–333, div. I, title V, § 514][/us/pl/104/333/s514], Nov. 12, 1996, [110 Stat. 4165][/us/stat/110/4165], provided that:
 
->     “(a) __Purpose.—__ 
+>     “(a)  __Purpose__  __.—__ 
 
 >     It is the purpose of this section—
 
@@ -363,7 +363,7 @@ July 31, 1946, ch. 707, § 1, 60 Stat. 718; Pub. L. 90–108, § 1(a), Oct. 
 
 >     “(b) __Transfers of Jurisdiction.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Effective on the date of the enactment of this Act \[Nov. 12, 1996\] and notwithstanding any other provision of law, jurisdiction over the parcels of Federal real property described in paragraph (2) is transferred without additional consideration as provided by paragraph (2).
 
@@ -371,7 +371,7 @@ July 31, 1946, ch. 707, § 1, 60 Stat. 718; Pub. L. 90–108, § 1(a), Oct. 
 
 >             “(A) __Transfers to secretary of the interior.—__ 
 
->                 “(i) __In general.—__ 
+>                 “(i)  __In general__  __.—__ 
 
 >                 Jurisdiction over the following parcels is transferred to the Secretary of the Interior:
 
@@ -379,15 +379,15 @@ July 31, 1946, ch. 707, § 1, 60 Stat. 718; Pub. L. 90–108, § 1(a), Oct. 
 
 >                          “(II) That triangle of Federal land, including any contiguous sidewalks and tree space, that is part of the United States Capitol Grounds under the jurisdiction of the Architect of the Capitol bound by C Street, N.W., First Street, N.W., and Louisiana Avenue, N.W., in the District of Columbia, as shown on the Map Showing Properties Under Jurisdiction of the Architect of the Capitol, dated November 8, 1994.
 
->                 “(ii) __Limitation.—__ 
+>                 “(ii)  __Limitation__  __.—__ 
 
 >                 The parcels transferred by clause (i) shall not include those contiguous sidewalks abutting Louisiana Avenue, N.W., which shall remain part of the United States Capitol Grounds under the jurisdiction of the Architect of the Capitol.
 
->                 “(iii) __Consideration as memorial site.—__ 
+>                 “(iii)  __Consideration as memorial site__  __.—__ 
 
 >                 The parcels transferred by subclause (I) of clause (i) may be considered as a site for a national memorial to Japanese American patriotism in World War II.
 
->             “(B) __Transfers to architect of the capitol.—__ 
+>             “(B)  __Transfers to architect of the capitol__  __.—__ 
 
 >             Jurisdiction over the following parcels is transferred to the Architect of the Capitol:
 
@@ -399,7 +399,7 @@ July 31, 1946, ch. 707, § 1, 60 Stat. 718; Pub. L. 90–108, § 1(a), Oct. 
 
 >                 “(iv) All sidewalks under the jurisdiction of the District of Columbia abutting on and contiguous to the land described in clauses (i), (ii), and (iii).
 
->             “(C) __Transfers to district of columbia.—__ 
+>             “(C)  __Transfers to district of columbia__  __.—__ 
 
 >             Jurisdiction over the following parcels is transferred to the Government of the District of Columbia:
 
@@ -409,25 +409,25 @@ July 31, 1946, ch. 707, § 1, 60 Stat. 718; Pub. L. 90–108, § 1(a), Oct. 
 
 >     “(c) __Miscellaneous.—__ 
 
->         “(1) __Compliance with other laws.—__ 
+>         “(1)  __Compliance with other laws__  __.—__ 
 
 >         Compliance with this section shall be deemed to satisfy the requirements of all laws otherwise applicable to transfers of jurisdiction over parcels of Federal real property.
 
->         “(2) __Law enforcement responsibility.—__ 
+>         “(2)  __Law enforcement responsibility__  __.—__ 
 
 >         Law enforcement responsibility for the parcels of Federal real property for which jurisdiction is transferred by subsection (b) shall be assumed by the person acquiring such jurisdiction.
 
 >         “(3) __United states capitol grounds.—__ 
 
->             “(A) __Definition.—__ 
+>             “(A)  __Definition__  __.—__ 
 
 >             The first section of the Act entitled ‘An Act to define the United States Capitol Grounds, to regulate the use thereof, and for other purposes’, approved July 31, 1946 ([40 U.S.C. 193a][/us/usc/t40/s193a]) \[now [40 U.S.C. 5102][/us/usc/t40/s5102]\], is amended to include within the definition of the United States Capitol Grounds the parcels of Federal real property described in subsection (b)(2)(B).
 
->             “(B) __Jurisdiction of capitol police.—__ 
+>             “(B)  __Jurisdiction of capitol police__  __.—__ 
 
 >             The United States Capitol Police shall have jurisdiction over the parcels of Federal real property described in subsection (b)(2)(B) in accordance with section 9 of such Act of July 31, 1946 ([40 U.S.C. 212a][/us/usc/t40/s212a]) \[now [2 U.S.C. 1961][/us/usc/t2/s1961]\].
 
->         “(4) __Effect of transfers.—__ 
+>         “(4)  __Effect of transfers__  __.—__ 
 
 >         A person relinquishing jurisdiction over a parcel of Federal real property transferred by subsection (b) shall not retain any interest in the parcel except as specifically provided by this section.”
 

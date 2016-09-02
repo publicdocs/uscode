@@ -15,7 +15,7 @@
 
 ## § 3315. Report to Congress
 
-    (a) __Request by Either House of Congress or Any Committee.—__ 
+    (a)  __Request by Either House of Congress or Any Committee__  __.—__ 
 
     Within a reasonable time after a request of either House of Congress or any committee of Congress, the Administrator of General Services shall submit a report showing the location, space, cost, and status of each public building the construction, alteration, or acquisition of which—
 
@@ -23,7 +23,7 @@
 
         (2) was uncompleted as of the date of the request, or as of another date the request may designate.
 
-    (b) __Request of Committee on Public Works and Environment or Committee on Transportation and Infrastructure.—__ 
+    (b)  __Request of Committee on Public Works and Environment or Committee on Transportation and Infrastructure__  __.—__ 
 
     The Administrator and the United States Postal Service shall make building project surveys requested by resolution by the Committee on Environment and Public Works of the Senate or the Committee on Transportation and Infrastructure of the House of Representatives, and within a reasonable time shall make a report on the survey to Congress. The report shall contain all other information required to be included in a prospectus of the proposed public building project under [section 3307(b) of this title][/us/usc/t40/s3307/b].
 

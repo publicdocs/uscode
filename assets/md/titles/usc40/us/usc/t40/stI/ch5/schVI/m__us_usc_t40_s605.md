@@ -15,21 +15,21 @@
 
 ## § 605. Payment of costs
 
-    (a) __Use of Acquisition Services Fund To Cover Costs.—__ 
+    (a)  __Use of Acquisition Services Fund To Cover Costs__  __.—__ 
 
     The Acquisition Services Fund provided for in [section 321 of this title][/us/usc/t40/s321] is available for use by or under the direction and control of the Administrator of General Services to pay the costs of carrying out [section 602 of this title][/us/usc/t40/s602], including the cost of purchasing or renting motor vehicles and related equipment and supplies.
 
     (b) __Setting Prices To Recover Costs.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Administrator shall set prices for furnishing motor vehicles and related services under [section 602 of this title][/us/usc/t40/s602]. Prices shall be set to recover, so far as practicable, all costs of carrying out [section 602 of this title][/us/usc/t40/s602].
 
-        (2) __Increment for replacement cost.—__ 
+        (2)  __Increment for replacement cost__  __.—__ 
 
         In the Administrator’s discretion, prices may include an increment for the estimated replacement cost of motor vehicles and related equipment and supplies. Notwithstanding [section 321(f) of this title][/us/usc/t40/s321/f], the increment may be retained as a part of the capital of the Acquisition Services Fund but is available only to replace motor vehicles and related equipment and supplies.
 
-    (c) __Accounting Method.—__ 
+    (c)  __Accounting Method__  __.—__ 
 
     The purchase price of motor vehicles and related equipment, and any increment for estimated replacement cost, shall be recovered only through charges for the cost of amortization. Costs shall be determined, and financial reports prepared, in accordance with the accrual accounting method.
 

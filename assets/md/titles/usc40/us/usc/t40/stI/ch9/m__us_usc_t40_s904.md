@@ -15,11 +15,11 @@
 
 ## § 904. Disposal
 
-    (a) __Notice to Local Government.—__ 
+    (a)  __Notice to Local Government__  __.—__ 
 
     Before offering real property situated in an urban area for sale, the Administrator of General Services shall give reasonable notice to the unit of general local government exercising zoning and land use jurisdiction in order to provide an opportunity for zoning so that the property is used in accordance with local comprehensive planning described in subsection (c).
 
-    (b) __Notice to Prospective Purchasers.—__ 
+    (b)  __Notice to Prospective Purchasers__  __.—__ 
 
     To the greatest extent practicable, the Administrator shall furnish to all prospective purchasers of real property situated in an urban area complete information concerning—
 
@@ -31,7 +31,7 @@
 
             (B) the prospective availability of those service facilities if the property is included in local comprehensive planning described in subsection (c).
 
-    (c) __Local Comprehensive Planning.—__ 
+    (c)  __Local Comprehensive Planning__  __.—__ 
 
     Local comprehensive planning referred to in subsections (a) and (b) includes any of the following activities, to the extent the activity is directly related to the needs of a unit of general local government:
 

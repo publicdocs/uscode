@@ -15,15 +15,15 @@
 
 ## § 17904. Implementation powers and limitations
 
-    (a) __Accommodation of Needs for Electric Energy.—__ 
+    (a)  __Accommodation of Needs for Electric Energy__  __.—__ 
 
     This chapter does not require or authorize a federal agency to construct a new electric generating facility or related facility, to modify an existing facility, or to employ reserve or standby equipment to accommodate the needs of a non-federal person for electric energy.
 
-    (b) __Availability of Revenue From Sales.—__ 
+    (b)  __Availability of Revenue From Sales__  __.—__ 
 
     Revenue received by a federal agency pursuant to [section 17902 of this title][/us/usc/t40/s17902] from the sale of electric energy generated from a facility of that agency is available to the agency without fiscal year limitation to purchase fuel and for operation, maintenance, and other costs associated with that facility.
 
-    (c) __Exercise of Authorities.—__ 
+    (c)  __Exercise of Authorities__  __.—__ 
 
     The authority under this chapter shall be exercised for those periods and pursuant to terms and conditions that the head of the federal agency concerned decides are necessary consistent with—
 
@@ -31,7 +31,7 @@
 
         (2) responsibilities of the head of the federal agency under other law.
 
-    (d) __Negotiation and Execution of Contracts and Other Agreements.—__ 
+    (d)  __Negotiation and Execution of Contracts and Other Agreements__  __.—__ 
 
     A contract or other agreement executed under this chapter shall be negotiated and executed by the head of the federal agency selling or purchasing electric energy under this chapter.
 

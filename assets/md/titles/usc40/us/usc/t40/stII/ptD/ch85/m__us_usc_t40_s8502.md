@@ -15,21 +15,21 @@
 
 ## § 8502. National Capital Service Director
 
-    (a) __Establishment and Compensation.—__ 
+    (a)  __Establishment and Compensation__  __.—__ 
 
     There is in the Executive Office of the President the National Capital Service Director who shall be appointed by the President. The Director shall receive compensation at the maximum rate established for level IV of the Executive Schedule under [section 5315 of title 5][/us/usc/t5/s5315].
 
-    (b) __Personnel.—__ 
+    (b)  __Personnel__  __.—__ 
 
     The Director may appoint and fix the rate of compensation of necessary personnel, subject to chapters 33 and 51 and subchapter III of chapter 53 of title 5.
 
     (c) __Duties.—__ 
 
-        (1) __President.—__ 
+        (1)  __President__  __.—__ 
 
         The President, through the Director and using District of Columbia governmental services to the extent practicable, shall ensure that there is provided in the area described in [section 8501(a) of this title][/us/usc/t40/s8501/a] adequate fire protection and sanitation services.
 
-        (2) __Director.—__ 
+        (2)  __Director__  __.—__ 
 
         Except with respect to that part of the National Capital Service Area comprising the United States Capitol Buildings and Grounds as defined and described in sections 5101 and 5102 of this title, the Supreme Court Building and grounds as described in [section 6101 of this title][/us/usc/t40/s6101], and the Library of Congress buildings and grounds as defined in [section 11 of the Act of August 4, 1950][/us/act/1950-08-04/s11] ([2 U.S.C. 167j][/us/usc/t2/s167j]), the Director shall ensure that there is provided in the remainder of the area described in [section 8501(a) of this title][/us/usc/t40/s8501/a] adequate police protection and maintenance of streets and highways.
 

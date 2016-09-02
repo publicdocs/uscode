@@ -15,53 +15,53 @@
 
 ## § 11302. Capital planning and investment control
 
-    (a) __Federal Information Technology.—__ 
+    (a)  __Federal Information Technology__  __.—__ 
 
     The Director of the Office of Management and Budget shall perform the responsibilities set forth in this section in fulfilling the responsibilities under [section 3504(h) of title 44][/us/usc/t44/s3504/h].
 
-    (b) __Use of Information Technology in Federal Programs.—__ 
+    (b)  __Use of Information Technology in Federal Programs__  __.—__ 
 
     The Director shall promote and improve the acquisition, use, security, and disposal of information technology by the Federal Government to improve the productivity, efficiency, and effectiveness of federal programs, including through dissemination of public information and the reduction of information collection burdens on the public.
 
     (c) __Use of Budget Process.—__ 
 
-        (1) __Analyzing, tracking, and evaluating capital investments.—__ 
+        (1)  __Analyzing, tracking, and evaluating capital investments__  __.—__ 
 
         As part of the budget process, the Director shall develop a process for analyzing, tracking, and evaluating the risks, including information security risks, and results of all major capital investments made by an executive agency for information systems. The process shall cover the life of each system and shall include explicit criteria for analyzing the projected and actual costs, benefits, and risks, including information security risks, associated with the investments.
 
-        (2) __Report to congress.—__ 
+        (2)  __Report to congress__  __.—__ 
 
         At the same time that the President submits the budget for a fiscal year to Congress under [section 1105(a) of title 31][/us/usc/t31/s1105/a], the Director shall submit to Congress a report on the net program performance benefits achieved as a result of major capital investments made by executive agencies for information systems and how the benefits relate to the accomplishment of the goals of the executive agencies.
 
-    (d) __Information Technology Standards.—__ 
+    (d)  __Information Technology Standards__  __.—__ 
 
     The Director shall oversee the development and implementation of standards and guidelines pertaining to federal computer systems by the Secretary of Commerce through the National Institute of Standards and Technology under [section 11331 of this title][/us/usc/t40/s11331] and section 20 of the National Institute of Standards and Technology Act ([15 U.S.C. 278g–3][/us/usc/t15/s278g–3]).
 
-    (e) __Designation of Executive Agents for Acquisitions.—__ 
+    (e)  __Designation of Executive Agents for Acquisitions__  __.—__ 
 
     The Director shall designate the head of one or more executive agencies, as the Director considers appropriate, as executive agent for Government-wide acquisitions of information technology.
 
-    (f) __Use of Best Practices in Acquisitions.—__ 
+    (f)  __Use of Best Practices in Acquisitions__  __.—__ 
 
     The Director shall encourage the heads of the executive agencies to develop and use the best practices in the acquisition of information technology.
 
-    (g) __Assessment of Other Models for Managing Information Technology.—__ 
+    (g)  __Assessment of Other Models for Managing Information Technology__  __.—__ 
 
     On a continuing basis, the Director shall assess the experiences of executive agencies, state and local governments, international organizations, and the private sector in managing information technology.
 
-    (h) __Comparison of Agency Uses of Information Technology.—__ 
+    (h)  __Comparison of Agency Uses of Information Technology__  __.—__ 
 
     The Director shall compare the performances of the executive agencies in using information technology and shall disseminate the comparisons to the heads of the executive agencies.
 
-    (i) __Monitoring Training.—__ 
+    (i)  __Monitoring Training__  __.—__ 
 
     The Director shall monitor the development and implementation of training in information resources management for executive agency personnel.
 
-    (j) __Informing Congress.—__ 
+    (j)  __Informing Congress__  __.—__ 
 
     The Director shall keep Congress fully informed on the extent to which the executive agencies are improving the performance of agency programs and the accomplishment of the agency missions through the use of the best practices in information resources management.
 
-    (k) __Coordination of Policy Development and Review.—__ 
+    (k)  __Coordination of Policy Development and Review__  __.—__ 
 
     The Director shall coordinate with the Office of Federal Procurement Policy the development and review by the Administrator of the Office of Information and Regulatory Affairs of policy associated with federal acquisition of information technology.
 
@@ -123,11 +123,11 @@ Pub. L. 104–106, div. E, title LI, § 5112, Feb. 10, 1996, 110 Stat. 680.  <
 
 [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VIII, § 813\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–214, provided that:
 
->     “(a) __Amendment of the Federal Acquisition Regulation.—__ 
+>     “(a)  __Amendment of the Federal Acquisition Regulation__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Oct. 30, 2000\], the Federal Acquisition Regulation issued in accordance with sections 6 and 25 of the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 405][/us/usc/t41/s405] and 421) \[see [41 U.S.C. 1121][/us/usc/t41/s1121], 1303\] shall be amended to address the use, in the procurement of information technology services, of requirements regarding the experience and education of contractor personnel.
 
->     “(b) __Content of Amendment.—__ 
+>     “(b)  __Content of Amendment__  __.—__ 
 
 >     The amendment issued pursuant to subsection (a) shall, at a minimum, provide that solicitations for the procurement of information technology services shall not set forth any minimum experience or educational requirement for proposed contractor personnel in order for a bidder to be eligible for award of a contract unless—
 
@@ -135,7 +135,7 @@ Pub. L. 104–106, div. E, title LI, § 5112, Feb. 10, 1996, 110 Stat. 680.  <
 
 >         “(2) the needs of the executive agency require the use of a type of contract other than a performance-based contract.
 
->     “(c) __GAO Report.—__ 
+>     “(c)  __GAO Report__  __.—__ 
 
 >     Not later than one year after the date on which the regulations required by subsection (a) are published in the Federal Register, the Comptroller General shall submit to Congress an evaluation of—
 
@@ -143,7 +143,7 @@ Pub. L. 104–106, div. E, title LI, § 5112, Feb. 10, 1996, 110 Stat. 680.  <
 
 >         “(2) conformance of the regulations with existing law, together with any recommendations that the Comptroller General considers appropriate.
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     In this section:
 

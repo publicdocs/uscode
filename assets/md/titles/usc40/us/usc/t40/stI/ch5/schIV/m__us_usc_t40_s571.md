@@ -17,11 +17,11 @@
 
     (a) __Deposit in Treasury as Miscellaneous Receipts.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Except as otherwise provided in this subchapter, proceeds described in paragraph (2) shall be deposited in the Treasury as miscellaneous receipts.
 
-        (2) __Proceeds.—__ 
+        (2)  __Proceeds__  __.—__ 
 
         The proceeds referred to in paragraph (1) are proceeds under this chapter from a—
 
@@ -29,7 +29,7 @@
 
             (B) sale, lease, or other disposition of surplus property.
 
-    (b) __Payment of Expenses of Sale Before Deposit.—__ 
+    (b)  __Payment of Expenses of Sale Before Deposit__  __.—__ 
 
     Subject to regulations under this subtitle, the expenses of the sale of old material, condemned stores, supplies, or other public property may be paid from the proceeds of sale so that only the net proceeds are deposited in the Treasury. This subsection applies whether proceeds are deposited as miscellaneous receipts or to the credit of an appropriation as authorized by law.
 

@@ -15,7 +15,7 @@
 
 ## § 6102. Regulations
 
-    (a) __Authority of the Marshal.—__ 
+    (a)  __Authority of the Marshal__  __.—__ 
 
     In addition to the restrictions and requirements specified in subchapter IV, the Marshal of the Supreme Court may prescribe regulations, approved by the Chief Justice of the United States, that are necessary for—
 
@@ -23,7 +23,7 @@
 
         (2) the maintenance of suitable order and decorum within the Building and grounds.
 
-    (b) __Posting Requirement.—__ 
+    (b)  __Posting Requirement__  __.—__ 
 
     All regulations prescribed under this section shall be posted in a public place at the Building and shall be made reasonably available to the public in writing.
 

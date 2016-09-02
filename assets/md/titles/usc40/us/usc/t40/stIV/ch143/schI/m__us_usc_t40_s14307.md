@@ -15,11 +15,11 @@
 
 ## § 14307. Meetings
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Appalachian Regional Commission shall conduct at least one meeting each year with the Federal Cochairman and at least a majority of the state members present.
 
-    (b) __Additional Meetings by Electronic Means.—__ 
+    (b)  __Additional Meetings by Electronic Means__  __.—__ 
 
     The Commission may conduct additional meetings by electronic means as the Commission considers advisable, including meetings to decide matters requiring an affirmative vote.
 

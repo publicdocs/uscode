@@ -15,11 +15,11 @@
 
 ## § 903. Acquisition and use
 
-    (a) __Notice to Local Government.—__ 
+    (a)  __Notice to Local Government__  __.—__ 
 
     To the extent practicable, before making a commitment to acquire real property situated in an urban area, the Administrator of General Services shall give notice of the intended acquisition and the proposed use of the property to the unit of general local government exercising zoning and land use jurisdiction. If the Administrator determines that providing advance notice would adversely impact the acquisition, the Administrator shall give notice of the acquisition and the proposed use of the property immediately after the property is acquired.
 
-    (b) __Objections to Acquisition or Change of Use.—__ 
+    (b)  __Objections to Acquisition or Change of Use__  __.—__ 
 
     In the acquisition or change of use of real property situated in an urban area as a site for public building, if the unit of general local government exercising zoning and land use jurisdiction objects on grounds that the proposed acquisition or change of use conflicts with zoning regulations or planning objectives, the Administrator shall, to the extent the Administrator determines is practicable, consider all the objections and comply with the zoning regulations and planning objectives.
 

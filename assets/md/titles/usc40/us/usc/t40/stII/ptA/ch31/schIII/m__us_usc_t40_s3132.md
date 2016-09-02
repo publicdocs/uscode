@@ -15,11 +15,11 @@
 
 ## § 3132. Alternatives to payment bonds provided by Federal Acquisition Regulation
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Federal Acquisition Regulation shall provide alternatives to payment bonds as payment protections for suppliers of labor and materials under contracts referred to in [section 3131(a) of this title][/us/usc/t40/s3131/a] that are more than $25,000 and not more than $100,000.
 
-    (b) __Responsibilities of Contracting Officer.—__ 
+    (b)  __Responsibilities of Contracting Officer__  __.—__ 
 
     The contracting officer for a contract shall—
 

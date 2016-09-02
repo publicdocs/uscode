@@ -15,11 +15,11 @@
 
 ## § 549. Donation of personal property through state agencies
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section, the following definitions apply:
 
-        (1) __Public agency.—__ 
+        (1)  __Public agency__  __.—__ 
 
         The term “public agency” means—
 
@@ -31,23 +31,23 @@
 
             (D) an Indian tribe, band, group, pueblo, or community located on a state reservation.
 
-        (2) __State.—__ 
+        (2)  __State__  __.—__ 
 
         The term “State” means a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa.
 
-        (3) __State agency.—__ 
+        (3)  __State agency__  __.—__ 
 
         The term “state agency” means an agency designated under state law as the agency responsible for fair and equitable distribution, through donation, of property transferred under this section.
 
     (b) __Authorization.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Administrator of General Services, in the Administrator’s discretion and under regulations the Administrator may prescribe, may transfer property described in paragraph (2) to a state agency.
 
         (2) __Property.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Property referred to in paragraph (1) is any personal property that—
 
@@ -55,25 +55,25 @@
 
                 (ii) has been determined to be surplus property.
 
-            (B) __Special rule.—__ 
+            (B)  __Special rule__  __.—__ 
 
             In determining whether the property is to be transferred for donation under this section, no distinction may be made between property capitalized in a working-capital fund established under [section 2208 of title 10][/us/usc/t10/s2208] (or similar fund) and any other property.
 
-        (3) __No cost.—__ 
+        (3)  __No cost__  __.—__ 
 
         Transfer of property under this section is without cost, except for any costs of care and handling.
 
     (c) __Allocation and Transfer of Property.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Administrator shall allocate and transfer property under this section in accordance with criteria that are based on need and use and that are established after consultation with state agencies to the extent feasible. The Administrator shall give fair consideration, consistent with the established criteria, to an expression of need and interest from a public agency or other eligible institution within a State. The Administrator shall give special consideration to an eligible recipient’s request, transmitted through the state agency, for a specific item of property.
 
-        (2) __Allocation among states.—__ 
+        (2)  __Allocation among states__  __.—__ 
 
         The Administrator shall allocate property among the States on a fair and equitable basis, taking into account the condition of the property as well as the original acquisition cost of the property.
 
-        (3) __Recipients and purposes.—__ 
+        (3)  __Recipients and purposes__  __.—__ 
 
         The Administrator shall transfer to a state agency property the state agency selects for distribution through donation within the State—
 
@@ -109,47 +109,47 @@
 
                 (ii) representatives are recognized by the Secretary of Veterans Affairs under [section 5902 of title 38][/us/usc/t38/s5902].
 
-        (4) __Exception.—__ 
+        (4)  __Exception__  __.—__ 
 
         This subsection does not apply to property transferred under subsection (d).
 
     (d) __Department of Defense Property.—__ 
 
-        (1) __Determination.—__ 
+        (1)  __Determination__  __.—__ 
 
         The Secretary of Defense shall determine whether surplus personal property under the control of the Department of Defense is usable and necessary for educational activities which are of special interest to the armed services, including maritime academies, or military, naval, Air Force, or Coast Guard preparatory schools.
 
-        (2) __Property usable for special interest activities.—__ 
+        (2)  __Property usable for special interest activities__  __.—__ 
 
         If the Secretary of Defense determines that the property is usable and necessary for educational activities which are of special interest to the armed services, the Secretary shall allocate the property for transfer by the Administrator to the appropriate state agency for distribution through donation to the educational activities.
 
-        (3) __Property not usable for special interest activities.—__ 
+        (3)  __Property not usable for special interest activities__  __.—__ 
 
         If the Secretary of Defense determines that the property is not usable and necessary for educational activities which are of special interest to the armed services, the property may be disposed of in accordance with subsection (c).
 
     (e) __State Plan of Operation.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Before property may be transferred to a state agency, the State shall develop a detailed state plan of operation, in accordance with this subsection and with state law.
 
         (2) __Procedure.—__ 
 
-            (A) __Consideration of needs and resources.—__ 
+            (A)  __Consideration of needs and resources__  __.—__ 
 
             In developing and implementing the state plan of operation, the relative needs and resources of all public agencies and other eligible institutions in the State shall be taken into consideration. The Administrator may consult with interested federal agencies to obtain their views concerning the administration and operation of this section.
 
-            (B) __Publication and period for comment.—__ 
+            (B)  __Publication and period for comment__  __.—__ 
 
             The state plan of operation, and any major amendment to the plan, may not be filed with the Administrator until 60 days after general notice of the proposed plan or amendment has been published and interested persons have been given at least 30 days to submit comments.
 
-            (C) __Certification.—__ 
+            (C)  __Certification__  __.—__ 
 
             The chief executive officer of the State shall certify and submit the state plan of operation to the Administrator.
 
         (3) __Requirements.—__ 
 
-            (A) __State agency.—__ 
+            (A)  __State agency__  __.—__ 
 
             The state plan of operation shall include adequate assurance that the state agency has—
 
@@ -157,29 +157,29 @@
 
                 (ii) established procedures for accountability, internal and external audits, cooperative agreements, compliance and use reviews, equitable distribution and property disposal, determination of eligibility, and assistance through consultation with advisory bodies and public and private groups.
 
-            (B) __Equitable distribution.—__ 
+            (B)  __Equitable distribution__  __.—__ 
 
             The state plan of operation shall provide for fair and equitable distribution of property in the State based on the relative needs and resources of interested public agencies and other eligible institutions in the State and their abilities to use the property.
 
-            (C) __Management control and accounting systems.—__ 
+            (C)  __Management control and accounting systems__  __.—__ 
 
             The state plan of operation shall require, for donable property transferred under this section, that the state agency use management control and accounting systems of the same type as systems required by state law for state-owned property. However, with approval from the chief executive officer of the State, the state agency may elect to use other management control and accounting systems that are effective to govern the use, inventory control, accountability, and disposal of property under this section.
 
-            (D) __Return and redistribution for non-use.—__ 
+            (D)  __Return and redistribution for non-use__  __.—__ 
 
             The state plan of operation shall require the state agency to provide for the return and redistribution of donable property if the property, while still usable, has not been placed in use for the purpose for which it was donated within one year of donation or ceases to be used by the donee for that purpose within one year of being placed in use.
 
-            (E) __Request by recipient.—__ 
+            (E)  __Request by recipient__  __.—__ 
 
             The state plan of operation shall require the state agency, to the extent practicable, to select property requested by a public agency or other eligible institution in the State and, if requested by the recipient, to arrange shipment of the property directly to the recipient.
 
-            (F) __Service charges.—__ 
+            (F)  __Service charges__  __.—__ 
 
             If the state agency is authorized to assess and collect service charges from participating recipients to cover direct and reasonable indirect costs of its activities, the method of establishing the charges shall be set out in the state plan of operation. The charges shall be fair and equitable and shall be based on services the state agency performs, including screening, packing, crating, removal, and transportation.
 
             (G) __Terms, conditions, reservations, and restrictions.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 The state plan of operation shall provide that the state agency—
 
@@ -187,13 +187,13 @@
 
                     (II) shall impose reasonable terms, conditions, reservations, and restrictions on the use of a passenger motor vehicle and any item of property having a unit acquisition cost of $5,000 or more.
 
-                (ii) __Special limitations.—__ 
+                (ii)  __Special limitations__  __.—__ 
 
                 If the Administrator finds that an item has characteristics that require special handling or use limitations, the Administrator may impose appropriate conditions on the donation of the property.
 
             (H) __Unusable property.—__ 
 
-                (i) __Disposal.—__ 
+                (i)  __Disposal__  __.—__ 
 
                 The state plan of operation shall provide that surplus personal property which the state agency determines cannot be used by eligible recipients shall be disposed of—
 
@@ -201,13 +201,13 @@
 
                     (II) under this subtitle, on terms and conditions and in a manner the Administrator prescribes.
 
-                (ii) __Proceeds from sale.—__ 
+                (ii)  __Proceeds from sale__  __.—__ 
 
                 Notwithstanding subchapter IV of this chapter and [section 702 of this title][/us/usc/t40/s702], the Administrator, from the proceeds of sale of property described in subsection (b), may reimburse the state agency for expenses that the Administrator considers appropriate for care and handling of the property.
 
     (f) __Cooperative Agreements With State Agencies.—__ 
 
-        (1) __Parties to the agreement.—__ 
+        (1)  __Parties to the agreement__  __.—__ 
 
         For purposes of carrying out this section, a cooperative agreement may be made between a state surplus property distribution agency designated under this section and—
 
@@ -219,7 +219,7 @@
 
             (D) the head of a federal agency designated by the Administrator, the Secretary of Education, or the Secretary of Health and Human Services.
 
-        (2) __Shared resources.—__ 
+        (2)  __Shared resources__  __.—__ 
 
         The cooperative agreement may provide that the property, facilities, personnel, or services of—
 
@@ -227,17 +227,17 @@
 
             (B) a federal agency may be made available to a state agency.
 
-        (3) __Reimbursement.—__ 
+        (3)  __Reimbursement__  __.—__ 
 
         The cooperative agreement may require payment or reimbursement for the use or provision of property, facilities, personnel, or services. Payment or reimbursement received from a state agency shall be credited to the fund or appropriation against which charges would otherwise be made.
 
         (4) __Surplus property transferred to state agency.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Under the cooperative agreement, surplus property transferred to a state agency for distribution pursuant to subsection (c) may be retained by the state agency for use in performing its functions. Unless otherwise directed by the Administrator, title to the retained property vests in the state agency.
 
-            (B) __Conditions.—__ 
+            (B)  __Conditions__  __.—__ 
 
             Retention of surplus property under this paragraph is subject to conditions that may be imposed by—
 

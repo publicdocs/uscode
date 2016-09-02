@@ -15,11 +15,11 @@
 
 ## § 9302. Consent of Theodore Roosevelt Association required for development
 
-    (a) __General Plan for Development.—__ 
+    (a)  __General Plan for Development__  __.—__ 
 
     The Theodore Roosevelt Association must approve every general plan for the development of Theodore Roosevelt Island.
 
-    (b) __Development Inconsistent With Plan.—__ 
+    (b)  __Development Inconsistent With Plan__  __.—__ 
 
     As long as the Association remains in existence, development inconsistent with the general plan may not be carried out without the Association’s consent.
 

@@ -15,11 +15,11 @@
 
 ## § 1312. Release of real estate in certain cases
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Real estate that has become the property of the Federal Government in payment of a debt which afterward is fully paid in money and received by the Government may be conveyed by the Administrator of General Services to the debtor from whom it was taken or to the heirs or devisees of the debtor or the person that they may appoint.
 
-    (b) __Nonapplication.—__ 
+    (b)  __Nonapplication__  __.—__ 
 
     This section does not apply to real estate the Government acquires in payment of any debt arising under the Internal Revenue Code of 1986 ([26 U.S.C. 1][/us/usc/t26/s1] et seq.).
 

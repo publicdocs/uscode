@@ -15,7 +15,7 @@
 
 ## § 3314. Delegation
 
-    (a) __When Allowed.—__ 
+    (a)  __When Allowed__  __.—__ 
 
     The carrying out of the duties and powers of the Administrator of General Services under this chapter, in accordance with standards the Administrator prescribes—
 
@@ -23,7 +23,7 @@
 
         (2) may be delegated to the appropriate executive agency when the Administrator determines that delegation will promote efficiency and economy.
 
-    (b) __No Exemption From Other Provisions of Chapter.—__ 
+    (b)  __No Exemption From Other Provisions of Chapter__  __.—__ 
 
     Delegation under subsection (a) does not exempt the person to whom the delegation is made, or the carrying out of the delegated duty or power, from any other provision of this chapter.
 

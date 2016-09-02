@@ -15,41 +15,41 @@
 
 ## § 121. Administrative
 
-    (a) __Policies Prescribed by the President.—__ 
+    (a)  __Policies Prescribed by the President__  __.—__ 
 
     The President may prescribe policies and directives that the President considers necessary to carry out this subtitle. The policies must be consistent with this subtitle.
 
     (b) __Accounting Principles and Standards.—__ 
 
-        (1) __Prescription.—__ 
+        (1)  __Prescription__  __.—__ 
 
         The Comptroller General, after considering the needs and requirements of executive agencies, shall prescribe principles and standards of accounting for property.
 
-        (2) __Property accounting systems.—__ 
+        (2)  __Property accounting systems__  __.—__ 
 
         The Comptroller General shall cooperate with the Administrator of General Services and with executive agencies in the development of property accounting systems and approve the systems when they are adequate and in conformity with prescribed principles and standards.
 
-        (3) __Compliance review.—__ 
+        (3)  __Compliance review__  __.—__ 
 
         From time to time the Comptroller General shall examine the property accounting systems established by executive agencies to determine the extent of compliance with prescribed principles and standards and approved systems. The Comptroller General shall report to Congress any failure to comply with the principles and standards or to adequately account for property.
 
     (c) __Regulations by Administrator.—__ 
 
-        (1) __General authority.—__ 
+        (1)  __General authority__  __.—__ 
 
         The Administrator may prescribe regulations to carry out this subtitle.
 
-        (2) __Required regulations and orders.—__ 
+        (2)  __Required regulations and orders__  __.—__ 
 
         The Administrator shall prescribe regulations that the Administrator considers necessary to carry out the Administrator’s functions under this subtitle and the head of each executive agency shall issue orders and directives that the agency head considers necessary to carry out the regulations.
 
     (d) __Delegation of Authority by Administrator.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Except as provided in paragraph (2), the Administrator may delegate authority conferred on the Administrator by this subtitle to an official in the General Services Administration or to the head of another federal agency. The Administrator may authorize successive redelegation of authority conferred by this subtitle.
 
-        (2) __Exceptions.—__ 
+        (2)  __Exceptions__  __.—__ 
 
         The Administrator may not delegate—
 
@@ -59,13 +59,13 @@
 
             (C) other authority for which delegation is prohibited by this subtitle.
 
-        (3) __Retention and use of rental payments.—__ 
+        (3)  __Retention and use of rental payments__  __.—__ 
 
         A department or agency to which the Administrator has delegated authority to operate, maintain or repair a building or facility under this subsection shall retain the portion of the rental payment that the Administrator determines is available to operate, maintain or repair the building or facility. The department or agency shall directly expend the retained amounts to operate, maintain, or repair the building or facility. Any amounts retained under this paragraph shall remain available until expended for these purposes.
 
     (e) __Assignment of Functions by Administrator.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Administrator may provide for the performance of a function assigned under this subtitle by any of the following methods:
 
@@ -83,23 +83,23 @@
 
         (2) __Transfer of resources.—__ 
 
-            (A) __Within administration.—__ 
+            (A)  __Within administration__  __.—__ 
 
             If the Administrator transfers a function from one component of the Administration to another, the Administrator may also provide for the transfer of appropriate allocated amounts from the component that previously carried out the function to the component being directed to carry out the function. A transfer under this subparagraph must be reported to the Director of the Office of Management and Budget.
 
-            (B) __Between agencies.—__ 
+            (B)  __Between agencies__  __.—__ 
 
             If the Administrator transfers a function from one executive agency to another (including a transfer to or from the Administration), the Administrator may also provide for the transfer of appropriate personnel, records, property, and allocated amounts from the executive agency that previously carried out the function to the executive agency being directed to carry out the function. A transfer under this subparagraph is subject to approval by the Director.
 
-    (f) __Advisory Committees.—__ 
+    (f)  __Advisory Committees__  __.—__ 
 
     The Administrator may establish advisory committees to provide advice on any function of the Administrator under this subtitle. Members of the advisory committees shall serve without compensation but are entitled to transportation and not more than $25 a day instead of expenses under [section 5703 of title 5][/us/usc/t5/s5703].
 
-    (g) __Consultation With Federal Agencies.—__ 
+    (g)  __Consultation With Federal Agencies__  __.—__ 
 
     The Administrator shall advise and consult with interested federal agencies and seek their advice and assistance to accomplish the purposes of this subtitle.
 
-    (h) __Administering Oaths.—__ 
+    (h)  __Administering Oaths__  __.—__ 
 
     In carrying out investigative duties, an officer or employee of the Administration, if authorized by the Administrator, may administer an oath to an individual.
 

@@ -15,27 +15,27 @@
 
 ## § 8902. Definitions and nonapplication
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this chapter:
 
-        (1) __Commemorative work.—__ 
+        (1)  __Commemorative work__  __.—__ 
 
         The term “commemorative work” means any statue, monument, sculpture, memorial, plaque, inscription, or other structure or landscape feature, including a garden or memorial grove, designed to perpetuate in a permanent manner the memory of an individual, group, event or other significant element of American history, except that the term does not include any such item which is located within the interior of a structure or a structure which is primarily used for other purposes.
 
-        (2) __The district of columbia and its environs.—__ 
+        (2)  __The district of columbia and its environs__  __.—__ 
 
         The term “the District of Columbia and its environs” means those lands and properties administered by the National Park Service and the General Services Administration located in the Reserve, Area I, and Area II as depicted on the map entitled “Commemorative Areas Washington, DC and Environs”, numbered 869/86501 B, and dated June 24, 2003.
 
-        (3) __Reserve.—__ 
+        (3)  __Reserve__  __.—__ 
 
         The term “Reserve” means the great cross-axis of the Mall, which generally extends from the United States Capitol to the Lincoln Memorial, and from the White House to the Jefferson Memorial, as depicted on the map referenced in paragraph (2).
 
-        (4) __Sponsor.—__ 
+        (4)  __Sponsor__  __.—__ 
 
         The term “sponsor” means a public agency, or an individual, group or organization that is described in section 501(c)(3) of the Internal Revenue Code of 1986 and exempt from tax under section 501(a) of such Code, and which is authorized by Congress to establish a commemorative work in the District of Columbia and its environs.
 
-    (b) __Nonapplication.—__ 
+    (b)  __Nonapplication__  __.—__ 
 
     This chapter does not apply to commemorative works authorized by a law enacted before January 3, 1985.
 

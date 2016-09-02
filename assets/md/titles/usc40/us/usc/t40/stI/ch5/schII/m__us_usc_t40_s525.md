@@ -15,13 +15,13 @@
 
 ## § 525. Excess personal property for federal agency grantees
 
-    (a) __General Prohibition.—__ 
+    (a)  __General Prohibition__  __.—__ 
 
     A federal agency is prohibited from obtaining excess personal property for the purpose of furnishing the property to a grantee of the agency, except as provided in this section.
 
     (b) __Exception for Public Agencies and Tax-exempt Nonprofit Organizations.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Under regulations the Administrator of General Services may prescribe, a federal agency may obtain excess personal property for the purpose of furnishing it to a public agency or an organization that is nonprofit and exempt from taxation under section 501 of the Internal Revenue Code of 1986 ([26 U.S.C. 501][/us/usc/t26/s501]), if—
 
@@ -35,17 +35,17 @@
 
                 (ii) the amount is deposited in the Treasury as miscellaneous receipts.
 
-        (2) __Title.—__ 
+        (2)  __Title__  __.—__ 
 
         Title to excess property obtained under this subsection vests in the grantee. The grantee shall account for and dispose of the property in accordance with procedures governing accountability for personal property acquired under grant agreements.
 
     (c) __Exception for Certain Property Furnished by Secretary of Agriculture.—__ 
 
-        (1) __Definition.—__ 
+        (1)  __Definition__  __.—__ 
 
         In this subsection, the term “State” means a State of the United States, Puerto Rico, Guam, American Samoa, the Northern Mariana Islands, the Federated States of Micronesia, the Marshall Islands, Palau, the Virgin Islands, and the District of Columbia.
 
-        (2) __In general.—__ 
+        (2)  __In general__  __.—__ 
 
         Under regulations and restrictions the Administrator may prescribe, subsection (a) does not apply to property furnished by the Secretary of Agriculture to—
 
@@ -55,7 +55,7 @@
 
             (C) an institution engaged in cooperative agricultural research or extension work under section 1433, 1434, 1444, or 1445 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 ([7 U.S.C. 3195][/us/usc/t7/s3195], 3196, 3221, or 3222), or the Act of October 10, 1962 ([16 U.S.C. 582a][/us/usc/t16/s582a] et seq.), if the Federal Government retains title.
 
-    (d) __Other Exceptions.—__ 
+    (d)  __Other Exceptions__  __.—__ 
 
     Under regulations and restrictions the Administrator may prescribe, subsection (a) does not apply to—
 

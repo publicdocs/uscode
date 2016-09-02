@@ -17,7 +17,7 @@
 
     (a) __Conflict of Interest.—__ 
 
-        (1) __No role allowed.—__ 
+        (1)  __No role allowed__  __.—__ 
 
         Except as permitted by paragraph (2), an individual who is a state member or alternate, or an officer or employee of the Appalachian Regional Commission, shall not participate personally and substantially as a member, alternate, officer, or employee in any way in any particular matter in which, to the individual’s knowledge, any of the following has a financial interest:
 
@@ -35,33 +35,33 @@
 
                 (ii) is negotiating or has any arrangement concerning prospective employment.
 
-        (2) __Exception.—__ 
+        (2)  __Exception__  __.—__ 
 
         Paragraph (1) does not apply if the individual first advises the Commission of the nature and circumstances of the particular matter and makes full disclosure of the financial interest and receives in advance a written decision of the Commission that the interest is not so substantial as to be considered likely to affect the integrity of the services which the Commission may expect from the individual.
 
-        (3) __Criminal penalty.—__ 
+        (3)  __Criminal penalty__  __.—__ 
 
         An individual violating this subsection shall be fined under title 18, imprisoned for not more than two years, or both.
 
     (b) __Additional Sources of Salary Disallowed.—__ 
 
-        (1) __State member or alternate.—__ 
+        (1)  __State member or alternate__  __.—__ 
 
         A state member or alternate may not receive any salary, or any contribution to, or supplementation of, salary, for services on the Commission from a source other than the State of the member or alternate.
 
-        (2) __Individuals detailed to commission.—__ 
+        (2)  __Individuals detailed to commission__  __.—__ 
 
         An individual detailed to serve the Commission under [section 14306(a)(4) of this title][/us/usc/t40/s14306/a/4] may not receive any salary, or any contribution to, or supplementation of, salary, for services on the Commission from a source other than the state, local, or intergovernmental department or agency from which the individual was detailed or from the Commission.
 
-        (3) __Criminal penalty.—__ 
+        (3)  __Criminal penalty__  __.—__ 
 
         An individual violating this subsection shall be fined under title 18, imprisoned for not more than one year, or both.
 
-    (c) __Federal Cochairman, Alternate to Federal Cochairman, and Federal Officers and Employees.—__ 
+    (c)  __Federal Cochairman, Alternate to Federal Cochairman, and Federal Officers and Employees__  __.—__ 
 
     The Federal Cochairman, the alternate to the Federal Cochairman, and any federal officer or employee detailed to duty with the Commission under [section 14306(a)(3) of this title][/us/usc/t40/s14306/a/3] are not subject to this section but remain subject to sections 202–209 of title 18.
 
-    (d) __Rescission.—__ 
+    (d)  __Rescission__  __.—__ 
 
     The Commission may declare void and rescind any contract, loan, or grant of or by the Commission in relation to which it finds that there has been a violation of subsection (a)(1) or (b) of this section or any of the provisions of sections 202–209 of title 18.
 

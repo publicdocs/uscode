@@ -17,19 +17,19 @@
 
     The region of the Southwest Border Regional Commission shall consist of the following political subdivisions:
 
-    (1) __Arizona.—__ 
+    (1)  __Arizona__  __.—__ 
 
     The counties of Cochise, Gila, Graham, Greenlee, La Paz, Maricopa, Pima, Pinal, Santa Cruz, and Yuma in the State of Arizona.
 
-    (2) __California.—__ 
+    (2)  __California__  __.—__ 
 
     The counties of Imperial, Los Angeles, Orange, Riverside, San Bernardino, San Diego, and Ventura in the State of California.
 
-    (3) __New mexico.—__ 
+    (3)  __New mexico__  __.—__ 
 
     The counties of Catron, Chaves, Dona Ana, Eddy, Grant, Hidalgo, Lincoln, Luna, Otero, Sierra, and Socorro in the State of New Mexico.
 
-    (4) __Texas.—__ 
+    (4)  __Texas__  __.—__ 
 
     The counties of Atascosa, Bandera, Bee, Bexar, Brewster, Brooks, Cameron, Coke, Concho, Crane, Crockett, Culberson, Dimmit, Duval, Ector, Edwards, El Paso, Frio, Gillespie, Glasscock, Hidalgo, Hudspeth, Irion, Jeff Davis, Jim Hogg, Jim Wells, Karnes, Kendall, Kenedy, Kerr, Kimble, Kinney, Kleberg, La Salle, Live Oak, Loving, Mason, Maverick, McMullen, Medina, Menard, Midland, Nueces, Pecos, Presidio, Reagan, Real, Reeves, San Patricio, Shleicher, Sutton, Starr, Sterling, Terrell, Tom Green  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  Upton, Uvalde, Val Verde, Ward, Webb, Willacy, Wilson, Winkler, Zapata, and Zavala in the State of Texas.
 

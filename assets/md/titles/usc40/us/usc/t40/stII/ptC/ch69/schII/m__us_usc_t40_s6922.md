@@ -15,7 +15,7 @@
 
 ## § 6922. Duties
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The National Visitor Facilities Advisory Commission shall—
 
@@ -23,7 +23,7 @@
 
         (2) advise the Secretary of the Interior and the Administrator of General Services on the planning, construction, acquisition, and operation of those visitor facilities.
 
-    (b) __Staff and Facilities.—__ 
+    (b)  __Staff and Facilities__  __.—__ 
 
     The Director of the National Park Service, in consultation with the Administrator, shall provide the necessary staff and facilities to assist the Commission in carrying out its duties under this subchapter.
 

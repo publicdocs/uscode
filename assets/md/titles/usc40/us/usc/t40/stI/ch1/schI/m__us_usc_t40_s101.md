@@ -75,6 +75,10 @@ June 30, 1949, ch. 288, § 2, 63 Stat. 378; Sept. 1, 1954, ch. 1211, § 1, 6
 
  __Short Title of 2013 Amendment__ 
 
+[Pub. L. 113–50, § 1][/us/pl/113/50/s1], Nov. 21, 2013, [127 Stat. 578][/us/stat/127/578], provided that: 
+
+> “This Act \[amending sections 3144 and 3703 of this title\] may be cited as the ‘Streamlining Claims Processing for Federal Contractor Employees Act’.”
+
 [Pub. L. 113–26, § 1][/us/pl/113/26/s1], Aug. 9, 2013, [127 Stat. 502][/us/stat/127/502], provided that: 
 
 > “This Act \[amending [section 549 of this title][/us/usc/t40/s549]\] may be cited as the ‘Formerly Owned Resources for Veterans to Express Thanks for Service Act of 2013’ or the ‘FOR VETS Act of 2013’.”
@@ -124,6 +128,8 @@ June 30, 1949, ch. 288, § 2, 63 Stat. 378; Sept. 1, 1954, ch. 1211, § 1, 6
 
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1063
+[/us/pl/113/50/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F50%2Fs1
+[/us/stat/127/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F578
 [/us/pl/113/26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F26%2Fs1
 [/us/stat/127/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F502
 [/us/usc/t40/s549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs549

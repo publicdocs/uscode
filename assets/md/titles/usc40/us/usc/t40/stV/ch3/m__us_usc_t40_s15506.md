@@ -15,7 +15,7 @@
 
 ## § 15506. Supplements to Federal grant programs
 
-    (a) __Finding.—__ 
+    (a)  __Finding__  __.—__ 
 
     Congress finds that certain States and local communities of the region, including local development districts, may be unable to take maximum advantage of Federal grant programs for which the States and communities are eligible because—
 
@@ -23,7 +23,7 @@
 
         (2) there are insufficient funds available under the applicable Federal law with respect to a project to be carried out in the region.
 
-    (b) __Federal Grant Program Funding.—__ 
+    (b)  __Federal Grant Program Funding__  __.—__ 
 
     A Commission, with the approval of the Federal Cochairperson, may use amounts made available to carry out this subtitle—
 
@@ -31,19 +31,19 @@
 
         (2) to increase the Federal contribution to projects and activities under the programs above the fixed maximum part of the cost of the projects or activities otherwise authorized by the applicable law.
 
-    (c) __Certification Required.—__ 
+    (c)  __Certification Required__  __.—__ 
 
     For a program, project, or activity for which any part of the basic Federal contribution to the project or activity under a Federal grant program is proposed to be made under subsection (b), the Federal contribution shall not be made until the responsible Federal official administering the Federal law authorizing the Federal contribution certifies that the program, project, or activity meets the applicable requirements of the Federal law and could be approved for Federal contribution under that law if amounts were available under the law for the program, project, or activity.
 
-    (d) __Limitations in Other Laws Inapplicable.—__ 
+    (d)  __Limitations in Other Laws Inapplicable__  __.—__ 
 
     Amounts provided pursuant to this subtitle are available without regard to any limitations on areas eligible for assistance or authorizations for appropriation in any other law.
 
-    (e) __Federal Share.—__ 
+    (e)  __Federal Share__  __.—__ 
 
     The Federal share of the cost of a project or activity receiving assistance under this section shall not exceed 80 percent.
 
-    (f) __Maximum Commission Contribution.—__ 
+    (f)  __Maximum Commission Contribution__  __.—__ 
 
     Section 15501(d), relating to limitations on Commission contributions, shall apply to a program, project, or activity receiving assistance under this section.
 

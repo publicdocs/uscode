@@ -15,31 +15,31 @@
 
 ## § 8721. Comprehensive plan for the National Capital
 
-    (a) __Preparation and Adoption by Commission.—__ 
+    (a)  __Preparation and Adoption by Commission__  __.—__ 
 
     The National Capital Planning Commission shall prepare and adopt a comprehensive, consistent, and coordinated plan for the National Capital. The plan shall include the Commission’s recommendations or proposals for federal developments or projects in the environs and District elements of the comprehensive plan, or amendments to the elements, adopted by the Council of the District of Columbia and with respect to which the Commission has not determined a negative impact exists. Those elements or amendments shall be incorporated into the comprehensive plan without change. The Commission may include in its plan any part of a plan adopted by any planning agency in the environs and may make recommendations of collateral interest to the agencies. The Commission may adopt any part of an element. The Commission shall review and may amend or extend the plan so that its recommendations may be kept up to date.
 
-    (b) __Review by District of Columbia.—__ 
+    (b)  __Review by District of Columbia__  __.—__ 
 
     The Mayor of the District of Columbia shall submit each District element of the comprehensive plan, and any amendment, to the Council for revision or modification, and adoption, by act, following public hearings. Following adoption and prior to implementation, the Council shall submit each element or amendment to the Commission for review and comment with regard to the impact of the element or amendment on the interests or functions of the federal establishment in the National Capital.
 
     (c) __Commission Response to Council Action.—__ 
 
-        (1) __Period of review.—__ 
+        (1)  __Period of review__  __.—__ 
 
         Within 60 days after receiving an element or amendment from the Council, the Commission shall certify to the Council whether the element or amendment has a negative impact on the interests or functions of the federal establishment in the National Capital.
 
-        (2) __No negative impact.—__ 
+        (2)  __No negative impact__  __.—__ 
 
         If the Commission takes no action in the 60-day period, the element or amendment is deemed to have no negative impact and shall be incorporated into the comprehensive plan for the National Capital and implemented.
 
         (3) __Negative impact.—__ 
 
-            (A) __Certification to council.—__ 
+            (A)  __Certification to council__  __.—__ 
 
             If the Commission finds a negative impact, it shall certify its findings and recommendations to the Council.
 
-            (B) __Response of council.—__ 
+            (B)  __Response of council__  __.—__ 
 
             On receipt of the Commission’s findings and recommendations, the Council may—
 
@@ -47,25 +47,25 @@
 
                 (ii) reject the findings and recommendations and resubmit a modified form of the element or amendment to the Commission for reconsideration.
 
-            (C) __Findings and recommendations accepted.—__ 
+            (C)  __Findings and recommendations accepted__  __.—__ 
 
             If the Council accepts the findings and recommendations and modifies the element or amendment, the Council shall submit the element or amendment to the Commission for the Commission to determine whether the modification has been made in accordance with the Commission’s findings and recommendations. If the Commission does not act on the modified element or amendment within 30 days after receiving it, the element or amendment is deemed to have been modified in accordance with the findings and recommendations and shall be incorporated into the comprehensive plan for the National Capital and implemented. If within the 30-day period the Commission again determines the element or amendment has a negative impact on the functions or interests of the federal establishment in the National Capital, the element or amendment shall not be implemented.
 
-            (D) __Findings and recommendations rejected.—__ 
+            (D)  __Findings and recommendations rejected__  __.—__ 
 
             If the Council rejects the findings and recommendations and resubmits a modified element or amendment, the Commission, within 60 days after receiving it, shall decide whether the modified element or amendment has a negative impact on the interests or functions of the federal establishment within the National Capital. If the Commission does not act within the 60-day period, the modified element or amendment is deemed to have no negative impact and shall be incorporated into the comprehensive plan and implemented. If the Commission finds a negative impact, it shall certify its findings (in sufficient detail that the Council can understand the basis of the objection of the Commission) and recommendations to the Council and the element or amendment shall not be implemented.
 
-    (d) __Resubmission Deemed New Element or Amendment.—__ 
+    (d)  __Resubmission Deemed New Element or Amendment__  __.—__ 
 
     Any element or amendment which the Commission has determined has a negative impact on the federal establishment in the National Capital which is submitted again in a modified form not less than one year from the day it was last rejected by the Commission is deemed to be a new element or amendment for purposes of the review procedure specified in this section.
 
     (e) __Review, Hearings, and Citizen Advisory Councils.—__ 
 
-        (1) __Review.—__ 
+        (1)  __Review__  __.—__ 
 
         Before the comprehensive plan, any element of the plan, or any revision is adopted, the Commission shall present the plan, element, or revision to the appropriate federal or District of Columbia authorities for comment and recommendations. The Commission may present the proposed revisions annually in a consolidated form. Recommendations by federal and District of Columbia authorities are not binding on the Commission, but the Commission shall give careful consideration to any views and recommendations submitted prior to final adoption.
 
-        (2) __Hearings and citizen advisory councils.—__ 
+        (2)  __Hearings and citizen advisory councils__  __.—__ 
 
         The Commission—
 
@@ -73,21 +73,21 @@
 
             (B) in consultation with the Council, may encourage the formation of citizen advisory councils.
 
-    (f) __Extension of Time Limitations.—__ 
+    (f)  __Extension of Time Limitations__  __.—__ 
 
     On request of the Commission, the Council may grant an extension of any time limitation contained in this section.
 
-    (g) __Publishing Comprehensive Plan.—__ 
+    (g)  __Publishing Comprehensive Plan__  __.—__ 
 
     As appropriate, the Commission and the Mayor jointly shall publish a comprehensive plan for the National Capital, consisting of the elements of the comprehensive plan for the federal activities in the National Capital developed by the Commission and the District elements developed by the Mayor and the Council in accordance with this section.
 
     (h) __Procedures for Consultation.—__ 
 
-        (1) __Commission and mayor.—__ 
+        (1)  __Commission and mayor__  __.—__ 
 
         The Commission and the Mayor jointly shall establish procedures for appropriate meaningful continuing consultation throughout the planning process for the National Capital.
 
-        (2) __Government agencies.—__ 
+        (2)  __Government agencies__  __.—__ 
 
         In order that the National Capital may be developed in accordance with the comprehensive plan, the Commission, with the consent of each agency concerned as to its representation, may establish advisory and coordinating committees composed of representatives of agencies of the Federal and District of Columbia Governments as may be necessary or helpful to obtain the maximum amount of cooperation and correlation of effort among the various agencies. As it considers appropriate, the Commission may invite representatives of the planning and developmental agencies of the environs to participate in the work of the committees.
 

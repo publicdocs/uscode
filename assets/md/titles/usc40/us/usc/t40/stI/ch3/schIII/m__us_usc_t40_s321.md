@@ -15,17 +15,17 @@
 
 ## § 321. Acquisition Services Fund
 
-    (a) __Existence.—__ 
+    (a)  __Existence__  __.—__ 
 
     The Acquisition Services Fund is a special fund in the Treasury.
 
     (b) __Composition.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Fund is composed of amounts authorized to be transferred to the Fund or otherwise made available to the Fund.
 
-        (2) __Other credits.—__ 
+        (2)  __Other credits__  __.—__ 
 
         The Fund shall be credited with all reimbursements, advances, and refunds or recoveries relating to personal property or services procured through the Fund, including—
 
@@ -35,17 +35,17 @@
 
             (C) receipts from agencies charged fees pursuant to rates established by the Administrator.
 
-        (3) __Cost and capital requirements.—__ 
+        (3)  __Cost and capital requirements__  __.—__ 
 
         The Administrator shall determine the cost and capital requirements of the Fund for each fiscal year and shall develop a plan concerning such requirements in consultation with the Chief Financial Officer of the General Services Administration. Any change to the cost and capital requirements of the Fund for a fiscal year shall be approved by the Administrator. The Administrator shall establish rates to be charged agencies provided, or to be provided, supply of personal property and non-personal services through the Fund, in accordance with the plan.
 
-        (4) __Deposit of fees.—__ 
+        (4)  __Deposit of fees__  __.—__ 
 
         Fees collected by the Administrator under [section 313 of this title][/us/usc/t40/s313] may be deposited in the Fund to be used for the purposes of the Fund.
 
     (c) __Uses.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Fund is available for use by or under the direction and control of the Administrator for—
 
@@ -63,7 +63,7 @@
 
             (C) paying other direct costs of, and indirect costs that are reasonably related to, contracting, procurement, inspection, storage, management, distribution, and accountability of property and nonpersonal services provided by the General Services Administration or by special order through the Administration.
 
-        (2) __Other uses.—__ 
+        (2)  __Other uses__  __.—__ 
 
         The Fund may be used for the procurement of personal property and nonpersonal services authorized to be acquired by—
 
@@ -75,11 +75,11 @@
 
     (d) __Payment for Property and Services.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         For property or services procured through the Fund for requisitioning agencies, the agencies shall pay prices the Administrator fixes under this subsection.
 
-        (2) __Prices fixed by administrator.—__ 
+        (2)  __Prices fixed by administrator__  __.—__ 
 
         The Administrator shall fix prices at levels sufficient to recover—
 
@@ -103,15 +103,15 @@
 
         (3) __Timing of payments.—__ 
 
-            (A) __Payment in advance.—__ 
+            (A)  __Payment in advance__  __.—__ 
 
             A requisitioning agency shall pay in advance when the Administrator determines that there is insufficient capital otherwise available in the Fund. Payment in advance may also be made under an agreement between a requisitioning agency and the Administrator.
 
-            (B) __Prompt reimbursement.—__ 
+            (B)  __Prompt reimbursement__  __.—__ 
 
             If payment is not made in advance, the Administration shall be reimbursed promptly out of amounts of the requisitioning agency in accordance with accounting procedures approved by the Comptroller General.
 
-            (C) __Failure to make prompt reimbursement.—__ 
+            (C)  __Failure to make prompt reimbursement__  __.—__ 
 
             The Administrator may obtain reimbursement by the issuance of transfer and counterwarrants, or other lawful transfer documents, supported by itemized invoices, if payment is not made by a requisitioning agency within 45 days after the later of—
 
@@ -119,15 +119,15 @@
 
                 (ii) the date on which actual liability for personal property or services is incurred by the Administrator.
 
-    (e) __Reimbursement for Equipment Purchased for Congress.—__ 
+    (e)  __Reimbursement for Equipment Purchased for Congress__  __.—__ 
 
     The Administrator may accept periodic reimbursement from the Senate and from the House of Representatives for the cost of any equipment purchased for the Senate or the House of Representatives with money from the Fund. The amount of each periodic reimbursement shall be computed by amortizing the total cost of each item of equipment over the useful life of the equipment, as determined by the Administrator, in consultation with the Sergeant at Arms and Doorkeeper of the Senate or the Chief Administrative Officer of the House of Representatives, as appropriate.
 
-    (f) __Transfer of Uncommitted Balances.—__ 
+    (f)  __Transfer of Uncommitted Balances__  __.—__ 
 
     Following the close of each fiscal year, after making provision for a sufficient level of inventory of personal property to meet the needs of Federal agencies, the replacement cost of motor vehicles, and other anticipated operating needs reflected in the cost and capital plan developed under subsection (b), the uncommitted balance of any funds remaining in the Fund shall be transferred to the general fund of the Treasury as miscellaneous receipts.
 
-    (g) __Audits.—__ 
+    (g)  __Audits__  __.—__ 
 
     The Comptroller General shall audit the Fund in accordance with the provisions of chapter 35 of title 31 and report the results of the audits.
 
@@ -363,15 +363,15 @@ Pub. L. 97–12, title I, (proviso in par. under heading “General Supply Fund�
 
 [Pub. L. 109–313, § 3(a)][/us/pl/109/313/s3/a]–(c), Oct. 6, 2006, [120 Stat. 1735][/us/stat/120/1735], provided that:
 
->     “(a) __Abolishment of General Supply Fund and Information Technology Fund.—__ 
+>     “(a)  __Abolishment of General Supply Fund and Information Technology Fund__  __.—__ 
 
 >     The General Supply Fund and the Information Technology Fund in the Treasury are hereby abolished.
 
->     “(b) __Transfers.—__ 
+>     “(b)  __Transfers__  __.—__ 
 
 >     Capital assets and balances remaining in the General Supply Fund and the Information Technology Fund as in existence immediately before this section takes effect \[see Effective Date of 2006 Amendment note above\] shall be transferred to the Acquisition Services Fund and shall be merged with and be available for the purposes of the Acquisition Services Fund under [section 321 of title 40][/us/usc/t40/s321], United States Code (as amended by this Act).
 
->     “(c) __Assumption of Obligations.—__ 
+>     “(c)  __Assumption of Obligations__  __.—__ 
 
 >     Any liabilities, commitments, and obligations of the General Supply Fund and the Information Technology Fund as in existence immediately before this section takes effect shall be assumed by the Acquisition Services Fund.”
 

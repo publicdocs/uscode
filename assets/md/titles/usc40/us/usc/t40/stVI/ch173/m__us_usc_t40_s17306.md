@@ -15,11 +15,11 @@
 
 ## § 17306. Agreements of indemnity
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, the term “Federal Government” includes wholly owned Government corporations, and officers and employees of the Government or its executive departments, independent establishments, and agencies while acting in their official capacity.
 
-    (b) __Authority To Make Agreement.—__ 
+    (b)  __Authority To Make Agreement__  __.—__ 
 
     The Secretary of the Treasury may make and deliver, on behalf of the Federal Government, a binding agreement of indemnity the Secretary considers necessary and proper to enable the Government to obtain the replacement of any instrument or document—
 
@@ -27,11 +27,11 @@
 
         (2) which, after having been received, is lost, destroyed, or so mutilated as to impair its value.
 
-    (c) __When Federal Government Not Obligated.—__ 
+    (c)  __When Federal Government Not Obligated__  __.—__ 
 
     The Government is not obligated under an agreement of indemnity if the obligee named in the agreement makes a payment or delivery not required by law on the original of the instrument or document covered by the agreement.
 
-    (d) __Use of Fund for the Payment of Government Losses in Shipment.—__ 
+    (d)  __Use of Fund for the Payment of Government Losses in Shipment__  __.—__ 
 
     The fund described in [section 17303 of this title][/us/usc/t40/s17303] is available to pay any obligation arising out of an agreement the Secretary makes under this section.
 

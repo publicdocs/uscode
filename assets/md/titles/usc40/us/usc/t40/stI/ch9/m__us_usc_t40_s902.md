@@ -17,11 +17,11 @@
 
     In this chapter, the following definitions apply:
 
-    (1) __Unit of general local government.—__ 
+    (1)  __Unit of general local government__  __.—__ 
 
     The term “unit of general local government” means a city, county, town, parish, village, or other general-purpose political subdivision of a State.
 
-    (2) __Urban area.—__ 
+    (2)  __Urban area__  __.—__ 
 
     The term “urban area” means—
 

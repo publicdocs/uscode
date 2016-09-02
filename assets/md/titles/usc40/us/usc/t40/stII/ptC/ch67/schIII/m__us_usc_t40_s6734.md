@@ -15,25 +15,25 @@
 
 ## § 6734. Ronald Reagan Building and International Trade Center
 
-    (a) __Establishment and Designation.—__ 
+    (a)  __Establishment and Designation__  __.—__ 
 
     The building constructed on the Federal Triangle property shall be known and designated as the Ronald Reagan Building and International Trade Center.
 
-    (b) __Title.—__ 
+    (b)  __Title__  __.—__ 
 
     The person selected to develop the Federal Triangle property may own the Building for not more than 35 years from the date construction of the Building began. The title to the Building shall be in the Administrator of General Services from the date title to the Federal Triangle property reverts to the Administrator.
 
     (c) __Limitations.—__ 
 
-        (1) __Size of building.—__ 
+        (1)  __Size of building__  __.—__ 
 
         The Building (including parking facilities) may not exceed 3,100,000 gross square feet in size.
 
-        (2) __Height of building.—__ 
+        (2)  __Height of building__  __.—__ 
 
         The height of the Building shall be compatible with the height of surrounding Federal Government buildings.
 
-        (3) __Design.—__ 
+        (3)  __Design__  __.—__ 
 
         The Building shall—
 
@@ -43,37 +43,37 @@
 
             (C) represent the dignity and stability of the Government.
 
-    (d) __Construction Standards.—__ 
+    (d)  __Construction Standards__  __.—__ 
 
     The Building shall meet all standards applicable to construction of a federal building.
 
-    (e) __Accounting System.—__ 
+    (e)  __Accounting System__  __.—__ 
 
     The Administrator shall maintain an accounting system for operation and maintenance of the Building which will allow accurate projections of the dates and cost of major repairs, improvements, reconstructions, and replacements of the Building and other capital expenditures on the Building. The Administrator shall act as necessary to ensure that amounts are available to cover the projected cost and expenditures.
 
     (f) __Lease of Building.—__ 
 
-        (1) __Lease agreement.—__ 
+        (1)  __Lease agreement__  __.—__ 
 
         Under an agreement with the person selected to construct the Ronald Reagan Building and International Trade Center, the Administrator shall lease the Building for federal office space and the international cultural and trade center space.
 
-        (2) __Minimum requirements of lease agreement.—__ 
+        (2)  __Minimum requirements of lease agreement__  __.—__ 
 
         The agreement includes at a minimum the following:
 
-            (A) __Limit on length of lease.—__ 
+            (A)  __Limit on length of lease__  __.—__ 
 
             The Administrator will lease the Building for the period of time that the person selected to construct the Building owns the Building.
 
-            (B) __Rental rate.—__ 
+            (B)  __Rental rate__  __.—__ 
 
             The rental rate per square foot of occupiable space for all space in the Building will be in the best interest of the Government and will carry out the objectives of this subchapter and the Federal Triangle Development Act ([Public Law 100–113][/us/pl/100/113], [101 Stat. 735][/us/stat/101/735]). The aggregate rental rate for all space in the Building shall produce an amount at least equal to the amount necessary to amortize the cost of development of the Federal Triangle property over the life of the lease.
 
-            (C) __Obligation of amounts.—__ 
+            (C)  __Obligation of amounts__  __.—__ 
 
             Obligation of amounts from the Federal Building Fund shall only be made on an annual basis to meet lease payments.
 
-        (3) __Authorization to obligate amounts.—__ 
+        (3)  __Authorization to obligate amounts__  __.—__ 
 
         Amounts may be obligated as described in paragraph (2)(C).
 

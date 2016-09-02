@@ -15,15 +15,15 @@
 
 ## § 17303. Fund for the payment of Government losses in shipment
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     There is a revolving fund in the Treasury known as “the fund for the payment of Government losses in shipment”.
 
-    (b) __Use.—__ 
+    (b)  __Use__  __.—__ 
 
     The fund shall be used for the replacement of valuables, or the value of valuables, lost, destroyed, or damaged while being shipped in accordance with regulations prescribed under [section 17302 of this title][/us/usc/t40/s17302].
 
-    (c) __Unavailability.—__ 
+    (c)  __Unavailability__  __.—__ 
 
     The fund is not available with respect to any loss, destruction, or damage affecting valuables—
 
@@ -31,11 +31,11 @@
 
         (2) of which shipment shall have been made at the risk of persons other than the Federal Government and the executive departments, independent establishments, agencies, wholly owned Government corporations, officers and employees of the Government.
 
-    (d) __Crediting of Recoveries and Repayments.—__ 
+    (d)  __Crediting of Recoveries and Repayments__  __.—__ 
 
     All recoveries and repayments on account of loss, destruction, or damage to valuables for which replacement is made out of the fund shall be credited to it and are available for the purposes of the fund.
 
-    (e) __Appropriations.—__ 
+    (e)  __Appropriations__  __.—__ 
 
     Necessary amounts are appropriated for the fund.
 

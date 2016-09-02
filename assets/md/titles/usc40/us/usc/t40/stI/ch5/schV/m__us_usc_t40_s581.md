@@ -17,7 +17,7 @@
 
     \[(a) Repealed. [Pub. L. 107–296, title XVII, § 1706(a)(1)][/us/pl/107/296/s1706/a/1], Nov. 25, 2002, [116 Stat. 2316][/us/stat/116/2316].\]
 
-    (b) __Personnel and Equipment.—__ 
+    (b)  __Personnel and Equipment__  __.—__ 
 
     The Administrator of General Services may—
 
@@ -27,19 +27,19 @@
 
     (c) __Acquisition and Management of Property.—__ 
 
-        (1) __Real estate.—__ 
+        (1)  __Real estate__  __.—__ 
 
         The Administrator may acquire, by purchase, condemnation, or otherwise, real estate and interests in real estate.
 
-        (2) __Ground rent.—__ 
+        (2)  __Ground rent__  __.—__ 
 
         The Administrator may pay ground rent for buildings owned by the Federal Government or occupied by federal agencies, and pay the rent in advance if required by law or if the Administrator determines that advance payment is in the public interest.
 
-        (3) __Rent and repairs under a lease.—__ 
+        (3)  __Rent and repairs under a lease__  __.—__ 
 
         The Administrator may pay rent and make repairs, alterations, and improvements under the terms of a lease entered into by, or transferred to, the Administration for the housing of a federal agency.
 
-        (4) __Repairs that are economically advantageous.—__ 
+        (4)  __Repairs that are economically advantageous__  __.—__ 
 
         The Administrator may repair, alter, or improve rented premises if the Administrator determines that doing so is advantageous to the Government in terms of economy, efficiency, or national security. The Administrator’s determination must—
 
@@ -47,21 +47,21 @@
 
             (B) show that the total cost (rental, repair, alteration, and improvement) for the expected life of the lease is less than the cost of alternative space not needing repair, alteration, or improvement.
 
-        (5) __Insurance proceeds for defense industrial reserve.—__ 
+        (5)  __Insurance proceeds for defense industrial reserve__  __.—__ 
 
         At the direction of the Secretary of Defense, the Administrator may use insurance proceeds received for damage to property that is part of the Defense Industrial Reserve to repair or restore the property.
 
-        (6) __Maintenance contracts.—__ 
+        (6)  __Maintenance contracts__  __.—__ 
 
         The Administrator may enter into a contract, for a period not exceeding five years, for the inspection, maintenance, and repair of fixed equipment in a federally owned building.
 
     (d) __Lease of Federal Building Sites.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Administrator may lease a federal building site or addition, including any improvements, until the site is needed for construction purposes. The lease must be for fair rental value and on other terms and conditions the Administrator considers to be in the public interest pursuant to [section 545 of this title][/us/usc/t40/s545].
 
-        (2) __Negotiation without advertising.—__ 
+        (2)  __Negotiation without advertising__  __.—__ 
 
         A lease under this subsection may be negotiated without public advertising for bids if—
 
@@ -75,11 +75,11 @@
 
             (B) the lease is negotiated incident to or in connection with the acquisition of the property.
 
-        (3) __Deposit of rent.—__ 
+        (3)  __Deposit of rent__  __.—__ 
 
         Rent received under this subsection may be deposited into the Federal Buildings Fund.
 
-    (e) __Assistance to the Inaugural Committee.—__ 
+    (e)  __Assistance to the Inaugural Committee__  __.—__ 
 
     The Administrator may provide direct assistance and special services for the Inaugural Committee (as defined in [section 501 of title 36][/us/usc/t36/s501]) during an inaugural period in connection with Presidential inaugural operations and functions. Assistance and services under this subsection may include—
 
@@ -97,7 +97,7 @@
 
         (7) providing other incidental services in the discretion of the Administrator.
 
-    (f) __Utilities for Defense Industrial Reserve and Surplus Property.—__ 
+    (f)  __Utilities for Defense Industrial Reserve and Surplus Property__  __.—__ 
 
     The Administrator may—
 
@@ -111,7 +111,7 @@
 
         (2) credit an amount received for providing utilities and services under this subsection to an applicable appropriation of the Administration.
 
-    (g) __Obtaining Payments.—__ 
+    (g)  __Obtaining Payments__  __.—__ 
 
     The Administrator may—
 
@@ -121,19 +121,19 @@
 
     (h) __Cooperative Use of Public Buildings.—__ 
 
-        (1) __Leasing space for commercial and other purposes.—__ 
+        (1)  __Leasing space for commercial and other purposes__  __.—__ 
 
         The Administrator may lease space on a major pedestrian access level, courtyard, or rooftop of a public building to a person, firm, or organization engaged in commercial, cultural, educational, or recreational activity (as defined in [section 3306(a) of this title][/us/usc/t40/s3306/a]). The Administrator shall establish a rental rate for leased space equivalent to the prevailing commercial rate for comparable space devoted to a similar purpose in the vicinity of the public building. The lease may be negotiated without competitive bids, but shall contain terms and conditions and be negotiated pursuant to procedures that the Administrator considers necessary to promote competition and to protect the public interest.
 
-        (2) __Occasional use of space for non-commercial purposes.—__ 
+        (2)  __Occasional use of space for non-commercial purposes__  __.—__ 
 
         The Administrator may make available, on occasion, or lease at a rate and on terms and conditions that the Administrator considers to be in the public interest, an auditorium, meeting room, courtyard, rooftop, or lobby of a public building to a person, firm, or organization engaged in cultural, educational, or recreational activity (as defined in [section 3306(a) of this title][/us/usc/t40/s3306/a]) that will not disrupt the operation of the building.
 
-        (3) __Deposit and credit of amounts received.—__ 
+        (3)  __Deposit and credit of amounts received__  __.—__ 
 
         The Administrator may deposit into the Federal Buildings Fund an amount received under a lease or rental executed pursuant to paragraph (1) or (2). The amount shall be credited to the appropriation from the Fund applicable to the operation of the building.
 
-        (4) __Furnishing utilities and maintenance.—__ 
+        (4)  __Furnishing utilities and maintenance__  __.—__ 
 
         The Administrator may furnish utilities, maintenance, repair, and other services to a person, firm, or organization leasing space pursuant to paragraph (1) or (2). The services may be provided during and outside of regular working hours of federal agencies.
 
@@ -221,27 +221,27 @@ In subsection (f)(1)(A), the words “Defense Industrial Reserve pursuant to [se
 
 > “SEC. 2. __TRAINING OF FEDERAL BUILDING PERSONNEL.__ 
 
->     “(a) __Identification of Core Competencies.—__ 
+>     “(a)  __Identification of Core Competencies__  __.—__ 
 
 >     Not later than 18 months after the date of enactment of this Act \[Dec. 14, 2010\], and annually thereafter, the Administrator of General Services, in consultation with representatives of relevant professional societies, industry associations, and apprenticeship training providers, and after providing notice and an opportunity for comment, shall identify the core competencies necessary for Federal personnel performing building operations and maintenance, energy management, safety, and design functions to comply with requirements under Federal law. The core competencies identified shall include competencies relating to building operations and maintenance, energy management, sustainability, water efficiency, safety (including electrical safety), and building performance measures.
 
->     “(b) __Designation of Relevant Courses, Certifications, Degrees, Licenses, and Registrations.—__ 
+>     “(b)  __Designation of Relevant Courses, Certifications, Degrees, Licenses, and Registrations__  __.—__ 
 
 >     The Administrator, in consultation with representatives of relevant professional societies, industry associations, and apprenticeship training providers, shall identify a course, certification, degree, license, or registration to demonstrate each core competency, and for ongoing training with respect to each core competency, identified for a category of personnel specified in subsection (a).
 
->     “(c) __Identified Competencies.—__ 
+>     “(c)  __Identified Competencies__  __.—__ 
 
 >     An individual shall demonstrate each core competency identified by the Administrator under subsection (a) for the category of personnel that includes such individual. An individual shall demonstrate each core competency through the means identified under subsection (b) not later than one year after the date on which such core competency is identified under subsection (a) or, if the date of hire of such individual occurs after the date of such identification, not later than one year after such date of hire. In the case of an individual hired for an employment period not to exceed one year, such individual shall demonstrate each core competency at the start of the employment period.
 
->     “(d) __Continuing Education.—__ 
+>     “(d)  __Continuing Education__  __.—__ 
 
 >     The Administrator, in consultation with representatives of relevant professional societies, industry associations, and apprenticeship training providers, shall develop or identify comprehensive continuing education courses to ensure the operation of Federal buildings in accordance with industry best practices and standards.
 
->     “(e) __Curriculum With Respect to Facility Management and Operation of High-Performance Buildings.—__ 
+>     “(e)  __Curriculum With Respect to Facility Management and Operation of High-Performance Buildings__  __.—__ 
 
 >     Not later than 18 months after the date of enactment of this Act, and annually thereafter, the Administrator, acting through the head of the Office of Federal High-Performance Green Buildings, and the Secretary of Energy, acting through the head of the Office of Commercial High-Performance Green Buildings, in consultation with the heads of other appropriate Federal departments and agencies and representatives of relevant professional societies, industry associations, and apprenticeship training providers, shall develop a recommended curriculum relating to facility management and the operation of high-performance buildings.
 
->     “(f) __Applicability of This Section to Functions Performed Under Contract.—__ 
+>     “(f)  __Applicability of This Section to Functions Performed Under Contract__  __.—__ 
 
 >     Training requirements under this section shall apply to non-Federal personnel performing building operations and maintenance, energy management, safety, and design functions under a contract with a Federal department or agency. A contractor shall provide training to, and certify the demonstration of core competencies for, non-Federal personnel in a manner that is approved by the Administrator.”
 

@@ -15,15 +15,15 @@
 
 ## § 3112. Federal jurisdiction
 
-    (a) __Exclusive Jurisdiction Not Required.—__ 
+    (a)  __Exclusive Jurisdiction Not Required__  __.—__ 
 
     It is not required that the Federal Government obtain exclusive jurisdiction in the United States over land or an interest in land it acquires.
 
-    (b) __Acquisition and Acceptance of Jurisdiction.—__ 
+    (b)  __Acquisition and Acceptance of Jurisdiction__  __.—__ 
 
     When the head of a department, agency, or independent establishment of the Government, or other authorized officer of the department, agency, or independent establishment, considers it desirable, that individual may accept or secure, from the State in which land or an interest in land that is under the immediate jurisdiction, custody, or control of the individual is situated, consent to, or cession of, any jurisdiction over the land or interest not previously obtained. The individual shall indicate acceptance of jurisdiction on behalf of the Government by filing a notice of acceptance with the Governor of the State or in another manner prescribed by the laws of the State where the land is situated.
 
-    (c) __Presumption.—__ 
+    (c)  __Presumption__  __.—__ 
 
     It is conclusively presumed that jurisdiction has not been accepted until the Government accepts jurisdiction over land as provided in this section.
 

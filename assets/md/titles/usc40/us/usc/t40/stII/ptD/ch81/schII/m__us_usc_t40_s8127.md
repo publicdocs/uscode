@@ -15,7 +15,7 @@
 
 ## § 8127. Part of Washington Aqueduct for playground purposes
 
-    (a) __Jurisdiction of Mayor.—__ 
+    (a)  __Jurisdiction of Mayor__  __.—__ 
 
     The Mayor of the District of Columbia has possession, control, and jurisdiction of the land of the Washington Aqueduct adjacent to the Champlain Avenue pumping station and lying outside of the fence around the pumping station as it—
 
@@ -23,7 +23,7 @@
 
         (2) was transferred by the Chief of Engineers for playground purposes.
 
-    (b) __Jurisdiction of Secretary of the Army Not Affected.—__ 
+    (b)  __Jurisdiction of Secretary of the Army Not Affected__  __.—__ 
 
     This section does not affect the superintendence and control of the Secretary of the Army over the Washington Aqueduct and the rights, appurtenances, and fixtures connected with the Aqueduct.
 

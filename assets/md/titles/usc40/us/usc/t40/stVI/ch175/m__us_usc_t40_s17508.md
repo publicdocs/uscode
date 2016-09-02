@@ -15,11 +15,11 @@
 
 ## § 17508. Compliance
 
-    (a) __Administrator of General Services.—__ 
+    (a)  __Administrator of General Services__  __.—__ 
 
     The Administrator of General Services shall comply with and be subject to this chapter with regard to all motor vehicles that are used within the General Services Administration for official purposes.
 
-    (b) __Managers of Other Motor Pools.—__ 
+    (b)  __Managers of Other Motor Pools__  __.—__ 
 
     This chapter with respect to motor vehicles from the Interagency Fleet Management System shall be complied with by the executive agencies to which such motor vehicles are assigned.
 

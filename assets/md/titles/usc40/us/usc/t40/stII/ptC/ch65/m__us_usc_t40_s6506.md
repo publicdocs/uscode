@@ -17,19 +17,19 @@
 
     (a) __Priority.—__ 
 
-        (1) __Judicial branch.—__ 
+        (1)  __Judicial branch__  __.—__ 
 
         Subject to this section, the Architect of the Capitol shall make available to the judicial branch of the Federal Government all space in the Thurgood Marshall Federal Judiciary Building and other improvements constructed under this chapter. The space shall be made available on a reimbursable basis and substantially in accordance with the report referred to in section 3(b)(1) of the Judiciary Office Building Development Act ([Public Law 100–480][/us/pl/100/480], [102 Stat. 2330][/us/stat/102/2330]).
 
-        (2) __Other federal governmental entities.—__ 
+        (2)  __Other federal governmental entities__  __.—__ 
 
         The Architect may make available to federal governmental entities which are not part of the judicial branch and which are not staff of Members of Congress or congressional committees any space in the Building and other improvements that the Chief Justice decides is not needed by the judicial branch. The space shall be made available on a reimbursable basis.
 
-        (3) __Other persons.—__ 
+        (3)  __Other persons__  __.—__ 
 
         If any space remains, the Architect may sublease it pursuant to subsection (e), under the direction of the Commission for the Judiciary Office Building, to any person.
 
-    (b) __Space for Judicial Branch and Other Federal Governmental Entities.—__ 
+    (b)  __Space for Judicial Branch and Other Federal Governmental Entities__  __.—__ 
 
     Space made available under subsection (a)(1) or (2) is subject to—
 
@@ -45,25 +45,25 @@
 
     (c) __Space for Judicial Branch.—__ 
 
-        (1) __Assignment of space within judicial branch.—__ 
+        (1)  __Assignment of space within judicial branch__  __.—__ 
 
         The Director may assign space made available to the judicial branch under subsection (a)(1) among offices of the judicial branch as the Director considers appropriate.
 
-        (2) __Vacating occupied space.—__ 
+        (2)  __Vacating occupied space__  __.—__ 
 
         When the Chief Justice notifies the Architect that the judicial branch requires additional space in the Building and other improvements, the Architect shall accommodate those requirements within 90 days after the date of the notification, except that if the space was made available to the Administrator of General Services, it shall be vacated expeditiously by not later than a date the Chief Justice and the Administrator agree on.
 
-        (3) __Unoccupied space.—__ 
+        (3)  __Unoccupied space__  __.—__ 
 
         The Chief Justice has the right of first refusal to use unoccupied space in the Building to meet the needs of the judicial branch.
 
     (d) __Lease by Architect.—__ 
 
-        (1) __Authority to lease.—__ 
+        (1)  __Authority to lease__  __.—__ 
 
         Subject to approval by the Committees on Appropriations of the House of Representatives and the Senate, the House Office Building Commission, and the Committee on Rules and Administration of the Senate, the Architect may lease and occupy not more than 75,000 square feet of space in the Building.
 
-        (2) __Payments.—__ 
+        (2)  __Payments__  __.—__ 
 
         Payments under the lease shall be made on vouchers the Architect approves. Necessary amounts may be appropriated—
 
@@ -73,19 +73,19 @@
 
     (e) __Subleased Space.—__ 
 
-        (1) __Rental rate.—__ 
+        (1)  __Rental rate__  __.—__ 
 
         Space subleased by the Architect under subsection (a)(3) is subject to reimbursement at a rate which is comparable to prevailing rental rates for similar facilities in the area but not less than the rate established under [section 6504(b)(2) of this title][/us/usc/t40/s6504/b/2] plus an amount the Architect and the person subleasing the space agree is necessary to pay each year for the cost of administering the Building (including the cost of operation, maintenance, rehabilitation, security, and structural, mechanical, and domestic care) that is attributable to the space.
 
-        (2) __Limitation.—__ 
+        (2)  __Limitation__  __.—__ 
 
         A sublease under subsection (a)(3) must be compatible with the dignity and functions of the judicial branch offices housed in the Building and must not unduly interfere with the activities and operations of the judicial branch agencies housed in the Building. Sections 5104(c) and 5108 of this title do not apply to any space in the Building and other improvements subleased to a non-Government tenant under subsection (a)(3).
 
-        (3) __Collection of rent.—__ 
+        (3)  __Collection of rent__  __.—__ 
 
         The Architect shall collect rent for space subleased under subsection (a)(3).
 
-    (f) __Deposit of Rent and Reimbursements.—__ 
+    (f)  __Deposit of Rent and Reimbursements__  __.—__ 
 
     Amounts received under subsection (a)(3) (including lease payments and reimbursements) shall be deposited in the account described in [section 6507 of this title][/us/usc/t40/s6507].
 

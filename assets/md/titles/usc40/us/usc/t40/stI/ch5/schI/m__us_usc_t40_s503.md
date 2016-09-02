@@ -15,21 +15,21 @@
 
 ## § 503. Exchange or sale of similar items
 
-    (a) __Authority of Executive Agencies.—__ 
+    (a)  __Authority of Executive Agencies__  __.—__ 
 
     In acquiring personal property, an executive agency may exchange or sell similar items and may apply the exchange allowance or proceeds of sale in whole or in part payment for the property acquired.
 
     (b) __Applicable Regulation and Law.—__ 
 
-        (1) __Regulations prescribed by administrator of general services.—__ 
+        (1)  __Regulations prescribed by administrator of general services__  __.—__ 
 
         A transaction under subsection (a) must be carried out in accordance with regulations the Administrator of General Services prescribes, subject to regulations prescribed by the Administrator for Federal Procurement Policy under division B (except sections 1704 and 2303) of subtitle I of title 41.
 
-        (2) __In writing.—__ 
+        (2)  __In writing__  __.—__ 
 
         A transaction under subsection (a) must be evidenced in writing.
 
-        (3) __Section 6101(b) to (d) of title 41.—__ 
+        (3)  __Section 6101(__  __b__  __) to (__  __d__  __) of title 41__  __.—__ 
 
         Section 6101(b) to (d) of title 41 applies to a sale of property under subsection (a), except that fixed price sales may be conducted in the same manner and subject to the same conditions as are applicable to the sale of property under [section 545(d) of this title][/us/usc/t40/s545/d].
 

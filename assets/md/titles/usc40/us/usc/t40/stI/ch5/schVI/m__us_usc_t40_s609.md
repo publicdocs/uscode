@@ -15,7 +15,7 @@
 
 ## § 609. Identification of vehicles
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Under regulations prescribed by the Administrator of General Services, every motor vehicle acquired and used for official purposes within the United States, or the territories or possessions of the United States, by any federal agency or by the District of Columbia shall be conspicuously identified by showing, on the vehicle—
 
@@ -27,7 +27,7 @@
 
         (2) the legend “For official use only”.
 
-    (b) __Exceptions.—__ 
+    (b)  __Exceptions__  __.—__ 
 
     The regulations prescribed pursuant to this section may provide for exemptions when conspicuous identification would interfere with the purpose for which a vehicle is acquired and used.
 

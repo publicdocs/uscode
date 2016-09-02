@@ -17,7 +17,7 @@
 
     (a) __Definition.—__ 
 
-        (1) __National security system.—__ 
+        (1)  __National security system__  __.—__ 
 
         In this section, the term “national security system” means a telecommunications or information system operated by the Federal Government, the function, operation, or use of which—
 
@@ -31,31 +31,31 @@
 
             (E) subject to paragraph (2), is critical to the direct fulfillment of military or intelligence missions.
 
-        (2) __Limitation.—__ 
+        (2)  __Limitation__  __.—__ 
 
         Paragraph (1)(E) does not include a system to be used for routine administrative and business applications (including payroll, finance, logistics, and personnel management applications).
 
-    (b) __In General.—__ 
+    (b)  __In General__  __.—__ 
 
     Except as provided in subsection (c), chapter 113 of this title does not apply to national security systems.
 
     (c) __Exceptions.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Sections 11313, 11315, and 11316 of this title apply to national security systems.
 
-        (2) __Capital planning and investment control.—__ 
+        (2)  __Capital planning and investment control__  __.—__ 
 
         The heads of executive agencies shall apply sections 11302 and 11312 of this title to national security systems to the extent practicable.
 
         (3) __Applicability of performance-based and results-based management to national security systems.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Subject to subparagraph (B), the heads of executive agencies shall apply [section 11303 of this title][/us/usc/t40/s11303] to national security systems to the extent practicable.
 
-            (B) __Exception.—__ 
+            (B)  __Exception__  __.—__ 
 
             National security systems are subject to [section 11303(b)(5) of this title][/us/usc/t40/s11303/b/5], except for subparagraph (B)(iv).
 

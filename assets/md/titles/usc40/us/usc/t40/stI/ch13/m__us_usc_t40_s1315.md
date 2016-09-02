@@ -15,17 +15,17 @@
 
 ## § 1315. Law enforcement authority of Secretary of Homeland Security for protection of public property
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     To the extent provided for by transfers made pursuant to the Homeland Security Act of 2002, the Secretary of Homeland Security (in this section referred to as the “Secretary”) shall protect the buildings, grounds, and property that are owned, occupied, or secured by the Federal Government (including any agency, instrumentality, or wholly owned or mixed-ownership corporation thereof) and the persons on the property.
 
     (b) __Officers and Agents.—__ 
 
-        (1) __Designation.—__ 
+        (1)  __Designation__  __.—__ 
 
         The Secretary may designate employees of the Department of Homeland Security, including employees transferred to the Department from the Office of the Federal Protective Service of the General Services Administration pursuant to the Homeland Security Act of 2002, as officers and agents for duty in connection with the protection of property owned or occupied by the Federal Government and persons on the property, including duty in areas outside the property to the extent necessary to protect the property and persons on the property.
 
-        (2) __Powers.—__ 
+        (2)  __Powers__  __.—__ 
 
         While engaged in the performance of official duties, an officer or agent designated under this subsection may—
 
@@ -43,21 +43,21 @@
 
     (c) __Regulations.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary, in consultation with the Administrator of General Services, may prescribe regulations necessary for the protection and administration of property owned or occupied by the Federal Government and persons on the property. The regulations may include reasonable penalties, within the limits prescribed in paragraph (2), for violations of the regulations. The regulations shall be posted and remain posted in a conspicuous place on the property.
 
-        (2) __Penalties.—__ 
+        (2)  __Penalties__  __.—__ 
 
         A person violating a regulation prescribed under this subsection shall be fined under title 18, United States Code, imprisoned for not more than 30 days, or both.
 
     (d) __Details.—__ 
 
-        (1) __Requests of agencies.—__ 
+        (1)  __Requests of agencies__  __.—__ 
 
         On the request of the head of a Federal agency having charge or control of property owned or occupied by the Federal Government, the Secretary may detail officers and agents designated under this section for the protection of the property and persons on the property.
 
-        (2) __Applicability of regulations.—__ 
+        (2)  __Applicability of regulations__  __.—__ 
 
         The Secretary may—
 
@@ -65,19 +65,19 @@
 
             (B) utilize the authority and regulations of the requesting agency if agreed to in writing by the agencies.
 
-        (3) __Facilities and services of other agencies.—__ 
+        (3)  __Facilities and services of other agencies__  __.—__ 
 
         When the Secretary determines it to be economical and in the public interest, the Secretary may utilize the facilities and services of Federal, State, and local law enforcement agencies, with the consent of the agencies.
 
-    (e) __Authority Outside Federal Property.—__ 
+    (e)  __Authority Outside Federal Property__  __.—__ 
 
     For the protection of property owned or occupied by the Federal Government and persons on the property, the Secretary may enter into agreements with Federal agencies and with State and local governments to obtain authority for officers and agents designated under this section to enforce Federal laws and State and local laws concurrently with other Federal law enforcement officers and with State and local law enforcement officers.
 
-    (f) __Secretary and Attorney General Approval.—__ 
+    (f)  __Secretary and Attorney General Approval__  __.—__ 
 
     The powers granted to officers and agents designated under this section shall be exercised in accordance with guidelines approved by the Secretary and the Attorney General.
 
-    (g) __Limitation on Statutory Construction.—__ 
+    (g)  __Limitation on Statutory Construction__  __.—__ 
 
     Nothing in this section shall be construed to—
 
@@ -291,7 +291,7 @@ June 1, 1948, ch. 359, § 4, 62 Stat. 281; Pub. L. 104–201, div. A, title X,
 
 >     “(a) __Prohibition on Award of Contracts to Any Business Concern Owned, Controlled, or Operated by an Individual Convicted of a Felony.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Homeland Security, acting through the Assistant Secretary of U.S. Immigration and Customs Enforcement—
 
@@ -299,7 +299,7 @@ June 1, 1948, ch. 359, § 4, 62 Stat. 281; Pub. L. 104–201, div. A, title X,
 
 >             “(B) may consider permanent or interim prohibitions when promulgating the regulations.
 
->         “(2) __Contents.—__ 
+>         “(2)  __Contents__  __.—__ 
 
 >         The regulations under this subsection shall—
 
@@ -309,7 +309,7 @@ June 1, 1948, ch. 359, § 4, 62 Stat. 281; Pub. L. 104–201, div. A, title X,
 
 >             “(C) provide guidelines for the contracting officer to assess present responsibility, mitigating factors, and the risk associated with the previous conviction, and allow the contracting officer to award a contract under certain circumstances.
 
->     “(b) __Regulations.—__ 
+>     “(b)  __Regulations__  __.—__ 
 
 >     Not later than 6 months after the date of the enactment of this Act \[Oct. 8, 2008\], the Secretary shall issue regulations to carry out this section.
 

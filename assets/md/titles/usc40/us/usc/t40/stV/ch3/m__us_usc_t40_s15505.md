@@ -15,25 +15,25 @@
 
 ## § 15505. Local development districts and organizations
 
-    (a) __Grants to Local Development Districts.—__ 
+    (a)  __Grants to Local Development Districts__  __.—__ 
 
     Subject to the requirements of this section, a Commission may make grants to a local development district to assist in the payment of development planning and administrative expenses.
 
     (b) __Conditions for Grants.—__ 
 
-        (1) __Maximum amount.—__ 
+        (1)  __Maximum amount__  __.—__ 
 
         The amount of a grant awarded under this section may not exceed 80 percent of the administrative and planning expenses of the local development district receiving the grant.
 
-        (2) __Maximum period for state agencies.—__ 
+        (2)  __Maximum period for state agencies__  __.—__ 
 
         In the case of a State agency certified as a local development district, a grant may not be awarded to the agency under this section for more than 3 fiscal years.
 
-        (3) __Local share.—__ 
+        (3)  __Local share__  __.—__ 
 
         The contributions of a local development district for administrative expenses may be in cash or in kind, fairly evaluated, including space, equipment, and services.
 
-    (c) __Duties of Local Development Districts.—__ 
+    (c)  __Duties of Local Development Districts__  __.—__ 
 
     A local development district shall—
 

@@ -15,15 +15,15 @@
 
 ## § 8907. Temporary site designation
 
-    (a) __Criterion for Designation.—__ 
+    (a)  __Criterion for Designation__  __.—__ 
 
     If the Secretary of the Interior, in consultation with the National Capital Memorial Commission, determines that a site where commemorative works may be displayed on a temporary basis is necessary to aid in the preservation of the limited amount of open space available to residents of, and visitors to, the Nation’s Capital, a site may be designated on land the Secretary administers in the District of Columbia.
 
-    (b) __Plan.—__ 
+    (b)  __Plan__  __.—__ 
 
     A designation may be made under subsection (a) only if, at least 120 days before the designation, the Secretary, in consultation with the Commission, prepares and submits to Congress a plan for the site. The plan shall include specifications for the location, construction, and administration of the site and criteria for displaying commemorative works at the site.
 
-    (c) __Risk and Agreement To Indemnify.—__ 
+    (c)  __Risk and Agreement To Indemnify__  __.—__ 
 
     A commemorative work displayed at the site shall be installed, maintained, and removed at the sole expense and risk of the person authorized to display the work. The person shall agree to indemnify the United States for any liability arising from the display of the commemorative work under this section.
 

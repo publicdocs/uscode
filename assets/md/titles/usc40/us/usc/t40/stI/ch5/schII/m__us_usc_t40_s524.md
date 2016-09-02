@@ -15,7 +15,7 @@
 
 ## § 524. Duties of executive agencies
 
-    (a) __Required.—__ 
+    (a)  __Required__  __.—__ 
 
     Each executive agency shall—
 
@@ -29,7 +29,7 @@
 
         (5) transfer or dispose of excess property as promptly as possible in accordance with authority delegated and regulations prescribed by the Administrator.
 
-    (b) __Required as Far as Practicable.—__ 
+    (b)  __Required as Far as Practicable__  __.—__ 
 
     Each executive agency, as far as practicable, shall—
 
@@ -111,7 +111,7 @@ June 30, 1949, ch. 288, title II, § 202(c), 63 Stat. 384; July 12, 1952, ch. 
 
 [Pub. L. 109–396, title IV, § 408][/us/pl/109/396/s408], Dec. 15, 2006, [120 Stat. 2720][/us/stat/120/2720], provided that:
 
->     “(a) __OMB Report on Surplus and Excess Property.—__ 
+>     “(a) __OMB__  __Report on Surplus and Excess Property__  __.—__ 
 
 >     Not later than 6 months after the date of enactment of this Act \[Dec. 15, 2006\], the Director of the Office of Management and Budget shall submit a report on surplus and excess government property to Congress including—
 
@@ -119,7 +119,7 @@ June 30, 1949, ch. 288, title II, § 202(c), 63 Stat. 384; July 12, 1952, ch. 
 
 >         “(2) a list of the 100 most eligible surplus government properties for sale and how much they are worth.
 
->     “(b) __Data Sharing Among Federal Agencies.—__ 
+>     “(b)  __Data Sharing Among Federal Agencies__  __.—__ 
 
 >     Not later than 6 months after the date of enactment of this Act \[Dec. 15, 2006\], the Director of the Office of Management and Budget shall—
 

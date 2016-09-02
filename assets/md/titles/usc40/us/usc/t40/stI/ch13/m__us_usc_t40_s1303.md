@@ -15,13 +15,13 @@
 
 ## § 1303. Disposition of surplus real property
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, the term “federal agency” means an executive department, independent establishment, commission, board, bureau, division, or office in the executive branch, or other agency of the Federal Government, including wholly owned Government corporations.
 
     (b) __Assignment of Space or Lease or Sale of Property.—__ 
 
-        (1) __Actions of administrator.—__ 
+        (1)  __Actions of administrator__  __.—__ 
 
         When the President, on the recommendation of the Administrator of General Services, or the federal agency having control of any real property the agency acquires that is located outside of the District of Columbia, other than military or naval reservations, declares the property to be surplus to the needs of the agency, the Administrator—
 
@@ -31,37 +31,37 @@
 
             (C) may sell the property at public sale to the highest responsible bidder on terms and after public advertisement that the Administrator considers to be in the public interest.
 
-        (2) __Review of decision to assign space.—__ 
+        (2)  __Review of decision to assign space__  __.—__ 
 
         If the federal agency to which space is assigned does not desire to occupy the space, the decision of the Administrator under paragraph (1)(A) is subject to review by the President.
 
-        (3) __Negotiated sale.—__ 
+        (3)  __Negotiated sale__  __.—__ 
 
         If no bids which are satisfactory as to price and responsibility of the bidder are received as a result of public advertisement, the Administrator may sell the property by negotiation, on terms as may be considered to be to the best interest of the Government, but at a price not less than that bid by the highest responsible bidder.
 
-    (c) __Demolition.—__ 
+    (c)  __Demolition__  __.—__ 
 
     The Administrator may demolish any building declared to be surplus to the needs of the Government under this section on deciding that demolition will be in the best interest of the Government. Before proceeding with the demolition, the Administrator shall inform the Secretary of the Interior in writing of the Administrator’s intention to demolish the building, and shall not proceed with the demolition until receiving written notice from the Secretary that the building is not an historic building of national significance within the meaning of the Act of August 21, 1935 ([16 U.S.C. 461][/us/usc/t16/s461] et seq.) (known as the Historic Sites, Buildings, and Antiquities Act). If the Secretary does not notify the Administrator of the Secretary’s decision as to whether the building is an historic building of national significance within 90 days of the receipt of the notice of intention to demolish the building, the Administrator may proceed to demolish the building.
 
-    (d) __Repairs and Alterations to Assigned Real Property.—__ 
+    (d)  __Repairs and Alterations to Assigned Real Property__  __.—__ 
 
     When the Administrator, after investigation, decides that real property referred to in subsection (b) should be used for the accommodation of a federal agency, the Administrator may make any repairs or alterations that the Administrator considers necessary or advisable and may maintain and operate the property.
 
     (e) __Payment by Federal Agencies.—__ 
 
-        (1) __Assigned real property.—__ 
+        (1)  __Assigned real property__  __.—__ 
 
         To the extent that the appropriations of the General Services Administration not otherwise allocated are inadequate for repairs, alterations, maintenance, or operation, the Administrator may require each federal agency to which space has been assigned to pay promptly by check to the Administrator out of its appropriation for rent any part of the estimated or actual cost of the repairs, alterations, maintenance, and operation. Payment may be either in advance of, or on or during, occupancy of the space. The Administrator shall determine and equitably apportion the total amount to be paid among the agencies to whom space has been assigned.
 
-        (2) __Leased spaces.—__ 
+        (2)  __Leased spaces__  __.—__ 
 
         To the extent that the appropriations of the Administration not otherwise required are inadequate, the Administrator may require each federal agency to which leased space has been assigned to pay promptly by check to the Administrator out of its available appropriations any part of the estimated cost of rent, repairs, alterations, maintenance, operation, and moving. Payment may be either in advance or during occupancy of the space. When space in a building is occupied by two or more agencies, the Administrator shall determine and equitably apportion rental, operation, and other charges on the basis of the total amount of space leased.
 
-    (f) __Authorization of Appropriations.—__ 
+    (f)  __Authorization of Appropriations__  __.—__ 
 
     Necessary amounts may be appropriated to cover the costs incident to the sale or lease of real property, or authorized demolition of buildings on the property, declared to be surplus to the needs of any federal agency under this section, and the care, maintenance, and protection of the property, including pay of employees, travel of Government employees, brokers’ fees not in excess of rates paid for similar services in the community where the property is situated, appraisals, photographs, surveys, evidence of title and perfecting of defective titles, advertising, and telephone and telegraph charges. However, the agency remains responsible for the proper care, maintenance, and protection of the property until the Administrator assumes custody or other disposition of the property is made.
 
-    (g) __Regulations.—__ 
+    (g)  __Regulations__  __.—__ 
 
     The Administrator may prescribe regulations as necessary to carry out this section.
 

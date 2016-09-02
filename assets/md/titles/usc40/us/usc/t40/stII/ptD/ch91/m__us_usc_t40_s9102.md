@@ -15,7 +15,7 @@
 
 ## § 9102. Duties
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Commission of Fine Arts shall advise on—
 
@@ -27,11 +27,11 @@
 
         (4) questions of art generally when required to do so by the President or a committee of Congress.
 
-    (b) __Duty To Request Advice.—__ 
+    (b)  __Duty To Request Advice__  __.—__ 
 
     The officers required to decide the questions described in subsection (a)(1)–(3) shall request the Commission to provide the advice.
 
-    (c) __Nonapplication.—__ 
+    (c)  __Nonapplication__  __.—__ 
 
     This section does not apply to the Capitol Building and the Library of Congress buildings.
 

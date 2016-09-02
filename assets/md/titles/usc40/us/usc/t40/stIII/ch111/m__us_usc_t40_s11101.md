@@ -17,27 +17,27 @@
 
     In this subtitle, the following definitions apply:
 
-    (1) __Commercial item.—__ 
+    (1)  __Commercial item__  __.—__ 
 
     The term “commercial item” has the meaning given that term in [section 103 of title 41][/us/usc/t41/s103].
 
-    (2) __Executive agency.—__ 
+    (2)  __Executive agency__  __.—__ 
 
     The term “executive agency” has the meaning given that term in [section 133 of title 41][/us/usc/t41/s133].
 
-    (3) __Information resources.—__ 
+    (3)  __Information resources__  __.—__ 
 
     The term “information resources” has the meaning given that term in [section 3502 of title 44][/us/usc/t44/s3502].
 
-    (4) __Information resources management.—__ 
+    (4)  __Information resources management__  __.—__ 
 
     The term “information resources management” has the meaning given that term in [section 3502 of title 44][/us/usc/t44/s3502].
 
-    (5) __Information system.—__ 
+    (5)  __Information system__  __.—__ 
 
     The term “information system” has the meaning given that term in [section 3502 of title 44][/us/usc/t44/s3502].
 
-    (6) __Information technology.—__ 
+    (6)  __Information technology__  __.—__ 
 
     The term “information technology”—
 

@@ -15,11 +15,11 @@
 
 ## § 17302. Compliance
 
-    (a) __Prescribing Regulations.—__ 
+    (a)  __Prescribing Regulations__  __.—__ 
 
     With the approval of the President, the Secretary of the Treasury and the United States Postal Service jointly shall prescribe regulations governing the shipment of valuables by an executive department, independent establishment, agency, wholly owned Government corporation, officer, or employee of the Federal Government, with a view to minimizing the risk of loss and destruction of, and damage to, valuables in shipment.
 
-    (b) __Compliance.—__ 
+    (b)  __Compliance__  __.—__ 
 
     Each executive department, independent establishment, agency, wholly owned Government corporation, officer, and employee of the Government, and each person acting for, or at the direction of, the executive department, independent establishment, agency, wholly owned Government corporation, officer, or employee, must comply with the regulations when making any shipment of valuables.
 

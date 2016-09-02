@@ -15,19 +15,19 @@
 
 ## § 1306. Disposition of abandoned or forfeited personal property
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section—
 
-        (1) __Agency.—__ 
+        (1)  __Agency__  __.—__ 
 
         The term “agency” includes any executive department, independent establishment, board, commission, bureau, service, or division of the Federal Government, and any corporation in which the Government owns at least a majority of the stock.
 
-        (2) __Property.—__ 
+        (2)  __Property__  __.—__ 
 
         The term “property” means all personal property, including vessels, vehicles, and aircraft.
 
-    (b) __Voluntarily Abandoned Property.—__ 
+    (b)  __Voluntarily Abandoned Property__  __.—__ 
 
     Property voluntarily abandoned to any agency in a way that vests title to the property in the Government may be retained by the agency and devoted to official use only. If the agency does not desire to retain the property, the head of the agency immediately shall notify the Administrator of General Services to that effect, and the Administrator, within a reasonable time, shall—
 
@@ -37,11 +37,11 @@
 
     (c) __Forfeited Property.—__ 
 
-        (1) __Agency retains property.—__ 
+        (1)  __Agency retains property__  __.—__ 
 
         An agency that seizes property that has been forfeited to the Government other than by court decree may retain the property and devote it only to official use instead of disposing of the property as otherwise provided by law if competent authority does not order the property returned to any claimant.
 
-        (2) __Agency does not desire to retain property.—__ 
+        (2)  __Agency does not desire to retain property__  __.—__ 
 
         If the agency does not desire to retain the property, the head of the agency immediately shall notify the Administrator to that effect, and the property—
 
@@ -51,25 +51,25 @@
 
     (d) __Property Subject to Court Proceeding for Forfeiture.—__ 
 
-        (1) __Notification of administrator.—__ 
+        (1)  __Notification of administrator__  __.—__ 
 
         If a proceeding has begun for the forfeiture of any property by court decree, the agency that seized the property immediately shall notify the Administrator and at the same time may file with the Administrator a request for the property for its official use.
 
         (2) __Application for court order to deliver property.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Before entry of a decree, the Administrator shall apply to the court to order delivery of the property in accordance with this paragraph.
 
-            (B) __Delivery to seizing agency.—__ 
+            (B)  __Delivery to seizing agency__  __.—__ 
 
             If the agency that seized the property files a request for the property under paragraph (1), the Administrator shall apply to the court to order delivery of the property to the agency that seized the property.
 
-            (C) __Delivery to other requesting agency.—__ 
+            (C)  __Delivery to other requesting agency__  __.—__ 
 
             If the agency that seized the property does not file a request for the property under paragraph (1) but another agency requests the property, the Administrator shall apply to the court to order delivery of the property to the requesting agency if the Administrator believes that the requesting agency should be given the property.
 
-            (D) __Delivery to seizing agency for temporary holding.—__ 
+            (D)  __Delivery to seizing agency for temporary holding__  __.—__ 
 
             If application to the court cannot be made under subparagraph (B) or (C) and the Administrator believes the property may later become necessary to any agency for official use, the Administrator shall apply to the court to order delivery of the property to the agency that seized the property, to be retained in its custody. Within a reasonable time, the Administrator shall order the agency to—
 
@@ -77,21 +77,21 @@
 
                 (ii) dispose of the property as otherwise provided by law.
 
-        (3) __Forfeiture decreed.—__ 
+        (3)  __Forfeiture decreed__  __.—__ 
 
         If forfeiture is decreed and the property is not ordered by competent authority to be returned to any claimant, the court shall order delivery as provided in paragraph (2).
 
-        (4) __When no application made.—__ 
+        (4)  __When no application made__  __.—__ 
 
         The court shall dispose of property for which no application is made in accordance with law.
 
-    (e) __Retention or Delivery of Property Deemed Sale.—__ 
+    (e)  __Retention or Delivery of Property Deemed Sale__  __.—__ 
 
     Retention or delivery of forfeited or abandoned property under this section is deemed to be a sale of the property for the purpose of laws providing for informer’s fees or remission or mitigation of a forfeiture. Property acquired under this section when no longer needed for official use shall be disposed of in the same manner as other surplus property.
 
     (f) __Payment of Costs Related to Property.—__ 
 
-        (1) __Availability of appropriations.—__ 
+        (1)  __Availability of appropriations__  __.—__ 
 
         The appropriation available to an agency for the purchase, hire, operation, maintenance, and repair of any property is available for—
 
@@ -103,25 +103,25 @@
 
             (D) reimbursement of other agencies as provided in paragraph (2).
 
-        (2) __Payment and reimbursement of certain costs.—__ 
+        (2)  __Payment and reimbursement of certain costs__  __.—__ 
 
         The agency that receives property under this section shall pay the cost of hauling, transporting, towing, and storing the property. If the property is later delivered to another agency for official use under this section, the agency to which the property is delivered shall make reimbursement for all of those costs incurred prior to the date the property is delivered.
 
-    (g) __Report.—__ 
+    (g)  __Report__  __.—__ 
 
     With the approval of the Secretary of the Treasury, the Administrator may require an agency to make a report of all property abandoned to it or seized and the disposal of the property.
 
     (h) __Administrative.—__ 
 
-        (1) __Regulations.—__ 
+        (1)  __Regulations__  __.—__ 
 
         With the approval of the Secretary, the Administrator may prescribe regulations necessary to carry out this section.
 
-        (2) __Other laws not repealed.—__ 
+        (2)  __Other laws not repealed__  __.—__ 
 
         This section does not repeal any other laws relating to the disposition of forfeited or abandoned property, except provisions of those laws directly in conflict with this section which were enacted prior to August 27, 1935.
 
-        (3) __Property not subject to allocation under this section.—__ 
+        (3)  __Property not subject to allocation under this section__  __.—__ 
 
         The following classes of property are not subject to allocation under this section, but shall be disposed of in the manner otherwise provided by law:
 

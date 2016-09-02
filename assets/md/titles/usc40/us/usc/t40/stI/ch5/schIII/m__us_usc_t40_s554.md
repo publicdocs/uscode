@@ -15,29 +15,29 @@
 
 ## § 554. Property for development or operation of a port facility
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section, the following definitions apply:
 
-        (1) __Base closure law.—__ 
+        (1)  __Base closure law__  __.—__ 
 
         The term “base closure law” has the meaning given that term in [section 101(a)(17) of title 10][/us/usc/t10/s101/a/17].
 
-        (2) __State.—__ 
+        (2)  __State__  __.—__ 
 
         The term “State” includes the District of Columbia, Puerto Rico, Guam, American Samoa, the Virgin Islands, the Federated States of Micronesia, the Marshall Islands, Palau, and the Northern Mariana Islands.
 
-    (b) __Authority for Assignment to the Secretary of Transportation.—__ 
+    (b)  __Authority for Assignment to the Secretary of Transportation__  __.—__ 
 
     Under regulations that the Administrator of General Services, after consultation with the Secretary of Defense, may prescribe, the Administrator, or the Secretary of Defense in the case of property located at a military installation closed or realigned pursuant to a base closure law, may assign to the Secretary of Transportation for disposal surplus real property, including buildings, fixtures, and equipment situated on the property, that the Secretary of Transportation recommends as needed for the development or operation of a port facility.
 
-    (c) __Authority for Conveyance by the Secretary of Transportation.—__ 
+    (c)  __Authority for Conveyance by the Secretary of Transportation__  __.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Subject to disapproval by the Administrator or the Secretary of Defense within 30 days after notice of a proposed conveyance by the Secretary of Transportation, the Secretary of Transportation, for the development or operation of a port facility, may convey property assigned to the Secretary of Transportation under subsection (b) to a State or political subdivision, municipality, or instrumentality of a State.
 
-        (2) __Conveyance requirements.—__ 
+        (2)  __Conveyance requirements__  __.—__ 
 
         A transfer of property may be made under this section only after the Secretary of Transportation has—
 
@@ -47,11 +47,11 @@
 
             (C) transmitted to Congress an explanatory statement that contains information substantially similar to the information contained in statements prepared under [section 545(e) of this title][/us/usc/t40/s545/e].
 
-    (d) __No Monetary Consideration.—__ 
+    (d)  __No Monetary Consideration__  __.—__ 
 
     A conveyance under this section shall be made without monetary consideration to the Federal Government.
 
-    (e) __Deed of Conveyance.—__ 
+    (e)  __Deed of Conveyance__  __.—__ 
 
     The deed of conveyance of any surplus real and related personal property disposed of under this section shall—
 
@@ -59,7 +59,7 @@
 
         (2) contain additional terms, reservations, restrictions, and conditions that the Secretary of Transportation shall by regulation require to ensure use of the property for the purposes for which it was conveyed and to safeguard the interests of the Government.
 
-    (f) __Enforcement and Revision of Instruments Transferring Property Under This Section.—__ 
+    (f)  __Enforcement and Revision of Instruments Transferring Property Under This Section__  __.—__ 
 
     The Secretary of Transportation shall determine and enforce compliance with the terms, conditions, reservations, and restrictions contained in an instrument by which a transfer or conveyance under this section is made. The Secretary shall reform, correct, or amend the instrument if necessary to correct the instrument or to conform the transfer to the requirements of law. The Secretary shall grant a release from any term, condition, reservation or restriction contained in the instrument, and shall convey, quitclaim, or release to the grantee any right or interest reserved to the Government by the instrument, if the Secretary determines that the property no longer serves the purpose for which it was transferred or that a release, conveyance, or quitclaim deed will not prevent accomplishment of that purpose. The release, conveyance, or quitclaim deed may be made subject to terms and conditions that the Secretary considers necessary to protect or advance the interests of the Government.
 

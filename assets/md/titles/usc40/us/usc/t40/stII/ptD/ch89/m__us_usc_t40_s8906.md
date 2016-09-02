@@ -15,7 +15,7 @@
 
 ## § 8906. Criteria for issuance of construction permit
 
-    (a) __Criteria for Issuing Permit.—__ 
+    (a)  __Criteria for Issuing Permit__  __.—__ 
 
     Before issuing a permit for the construction of a commemorative work in the District of Columbia and its environs, the Secretary of the Interior or Administrator of General Services, as appropriate, shall determine that—
 
@@ -37,11 +37,11 @@
 
         (4) Upon request of the Secretary or Administrator (as appropriate), the Secretary of the Treasury or the National Park Foundation shall make all or a portion of such moneys available to the Secretary or the Administrator (as appropriate) for the maintenance of a commemorative work. Under no circumstances may the Secretary or Administrator request funds from a separate account exceeding the total money in the account established under paragraph (2) or (3). The Secretary and the Administrator shall maintain an inventory of funds available for such purposes. Funds provided under this paragraph shall be available without further appropriation and shall remain available until expended.
 
-    (c) __Suspension for Misrepresentation in Fundraising.—__ 
+    (c)  __Suspension for Misrepresentation in Fundraising__  __.—__ 
 
     The Secretary of the Interior or Administrator may suspend any activity under this chapter that relates to the establishment of a commemorative work if the Secretary or Administrator determines that fundraising efforts relating to the work have misrepresented an affiliation with the work or the Federal Government.
 
-    (d) __Annual Report.—__ 
+    (d)  __Annual Report__  __.—__ 
 
     The person authorized to construct a commemorative work under this chapter must submit to the Secretary of the Interior or Administrator an annual report of operations, including financial statements audited by an independent certified public accountant. The person shall pay for the report.
 

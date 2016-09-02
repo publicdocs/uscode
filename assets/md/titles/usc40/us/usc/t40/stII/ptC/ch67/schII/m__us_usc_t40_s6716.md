@@ -15,11 +15,11 @@
 
 ## § 6716. Reports
 
-    (a) __Reports to President and Congress.—__ 
+    (a)  __Reports to President and Congress__  __.—__ 
 
     The Administrator of General Services shall transmit comprehensive and detailed reports of the Administrator’s operations, activities, and accomplishments under this subchapter to the President and Congress. The Administrator shall transmit a report to the President each January and to the President and Congress at other times that the Administrator considers desirable.
 
-    (b) __Protection and Enhancement of Significant Historic and Architectural Values.—__ 
+    (b)  __Protection and Enhancement of Significant Historic and Architectural Values__  __.—__ 
 
     A report under subsection (a) shall include a detailed discussion of the actions the Administrator has taken in the reporting period to protect and enhance the significant historic and architectural values of structures within the boundaries of the Administrator’s jurisdiction under this subchapter and shall indicate similar actions the Administrator plans to take and issues the Administrator anticipates dealing with during the upcoming fiscal year related to historic and architectural preservation. The report shall indicate the degree to which public concern has been considered and incorporated into decisions the Administrator made relative to historic and architectural preservation.
 

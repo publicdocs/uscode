@@ -15,7 +15,7 @@
 
 ## § 15501. Economic and infrastructure development grants
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     A Commission may make grants to States and local governments, Indian tribes, and public and nonprofit organizations for projects, approved in accordance with section 15503—
 
@@ -35,25 +35,25 @@
 
         (8) to otherwise achieve the purposes of this subtitle.
 
-    (b) __Allocation of Funds.—__ 
+    (b)  __Allocation of Funds__  __.—__ 
 
     A Commission shall allocate at least 40 percent of any grant amounts provided by the Commission in a fiscal year for projects described in paragraphs (1) through (3) of subsection (a).
 
-    (c) __Sources of Grants.—__ 
+    (c)  __Sources of Grants__  __.—__ 
 
     Grant amounts may be provided entirely from appropriations to carry out this subtitle, in combination with amounts available under other Federal grant programs, or from any other source.
 
     (d) __Maximum Commission Contributions.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Subject to paragraphs (2) and (3), the Commission may contribute not more than 50 percent of a project or activity cost eligible for financial assistance under this section from amounts appropriated to carry out this subtitle.
 
-        (2) __Distressed counties.—__ 
+        (2)  __Distressed counties__  __.—__ 
 
         The maximum Commission contribution for a project or activity to be carried out in a county for which a distressed county designation is in effect under section 15702 may be increased to 80 percent.
 
-        (3) __Special rule for regional projects.—__ 
+        (3)  __Special rule for regional projects__  __.—__ 
 
         A Commission may increase to 60 percent under paragraph (1) and 90 percent under paragraph (2) the maximum Commission contribution for a project or activity if—
 
@@ -61,11 +61,11 @@
 
             (B) the Commission determines in accordance with section 15302(a) that the project or activity will bring significant interstate or multicounty benefits to a region.
 
-    (e) __Maintenance of Effort.—__ 
+    (e)  __Maintenance of Effort__  __.—__ 
 
     Funds may be provided by a Commission for a program or project in a State under this section only if the Commission determines that the level of Federal or State financial assistance provided under a law other than this subtitle, for the same type of program or project in the same area of the State within region, will not be reduced as a result of funds made available by this subtitle.
 
-    (f) __No Relocation Assistance.—__ 
+    (f)  __No Relocation Assistance__  __.—__ 
 
     Financial assistance authorized by this section may not be used to assist a person or entity in relocating from one area to another.
 

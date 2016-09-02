@@ -15,11 +15,11 @@
 
 ## § 313. Tests of materials
 
-    (a) __Scope.—__ 
+    (a)  __Scope__  __.—__ 
 
     This section applies to any article or commodity tendered by a producer or vendor for sale or lease to the General Services Administration or to any procurement authority acting under the direction and control of the Administrator of General Services pursuant to this subtitle.
 
-    (b) __Authority To Conduct Tests.—__ 
+    (b)  __Authority To Conduct Tests__  __.—__ 
 
     The Administrator, in the Administrator’s discretion and with the consent of the producer or vendor, may have tests conducted, in a manner the Administrator specifies, to—
 
@@ -29,15 +29,15 @@
 
     (c) __Fees.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Administrator shall charge the producer or vendor a fee for the tests.
 
-        (2) __Amount of fee if tests predominantly serve interest of producer or vendor.—__ 
+        (2)  __Amount of fee if tests predominantly serve interest of producer or vendor__  __.—__ 
 
         If the Administrator determines that conducting the tests predominantly serves the interest of the producer or vendor, the Administrator shall fix the fee in an amount that will recover the costs of conducting the tests, including all components of the costs, determined in accordance with accepted accounting principles.
 
-        (3) __Amount of fee if tests do not predominantly serve interest of producer or vendor.—__ 
+        (3)  __Amount of fee if tests do not predominantly serve interest of producer or vendor__  __.—__ 
 
         If the Administrator determines that conducting the tests does not predominantly serve the interest of the producer or vendor, the Administrator shall fix the fee in an amount the Administrator determines is reasonable for furnishing the testing service.
 

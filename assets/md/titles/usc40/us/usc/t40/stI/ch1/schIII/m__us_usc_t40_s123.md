@@ -15,7 +15,7 @@
 
 ## § 123. Civil remedies for fraud
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     In connection with the procurement, transfer or disposition of property under this subtitle, a person that uses or causes to be used, or enters into an agreement, combination, or conspiracy to use or cause to be used, a fraudulent trick, scheme, or device for the purpose of obtaining or aiding to obtain, for any person, money, property, or other benefit from the Federal Government—
 
@@ -33,25 +33,25 @@
 
         (3) if the Government elects, shall restore to the Government the money or property fraudulently obtained, with the Government retaining as liquidated damages, the money, property, or other consideration given to the Government.
 
-    (b) __Additional Remedies and Criminal Penalties.—__ 
+    (b)  __Additional Remedies and Criminal Penalties__  __.—__ 
 
     The civil remedies provided in this section are in addition to all other civil remedies and criminal penalties provided by law.
 
-    (c) __Immunity of Government Officials.—__ 
+    (c)  __Immunity of Government Officials__  __.—__ 
 
     An officer or employee of the Government is not liable (except for an individual’s own fraud) or accountable for collection of a purchase price that is determined to be uncollectible by the federal agency responsible for property if the property is transferred or disposed of in accordance with this subtitle and with regulations prescribed under this subtitle.
 
     (d) __Jurisdiction and Venue.—__ 
 
-        (1) __Definition.—__ 
+        (1)  __Definition__  __.—__ 
 
         In this subsection, the term “district court” means a district court of the United States or a district court of a territory or possession of the United States.
 
-        (2) __In general.—__ 
+        (2)  __In general__  __.—__ 
 
         A district court has original jurisdiction of an action arising under this section, and venue is proper, if at least one defendant resides or may be found in the court’s judicial district. Jurisdiction and venue are determined without regard to the place where acts were committed.
 
-        (3) __Additional defendant outside judicial district.—__ 
+        (3)  __Additional defendant outside judicial district__  __.—__ 
 
         A defendant that does not reside and may not be found in the court’s judicial district may be brought in by order of the court, to be served personally, by publication, or in another reasonable manner directed by the court.
 

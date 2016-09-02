@@ -17,7 +17,7 @@
 
     The following definitions apply in chapters 1 through 7 of this title and in division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41:
 
-    (1) __Care and handling.—__ 
+    (1)  __Care and handling__  __.—__ 
 
     The term “care and handling” includes—
 
@@ -25,7 +25,7 @@
 
         (B) rendering innocuous, or destroying, property that is dangerous to public health or safety.
 
-    (2) __Contractor inventory.—__ 
+    (2)  __Contractor inventory__  __.—__ 
 
     The term “contractor inventory” means—
 
@@ -33,11 +33,11 @@
 
         (B) property that the Government is obligated or has the option to take over, under any type of contract, as a result of changes in specifications or plans under the contract, or as a result of termination of the contract (or a subcontract), prior to completion of the work, for the convenience or at the option of the Government.
 
-    (3) __Excess property.—__ 
+    (3)  __Excess property__  __.—__ 
 
     The term “excess property” means property under the control of a federal agency that the head of the agency determines is not required to meet the agency’s needs or responsibilities.
 
-    (4) __Executive agency.—__ 
+    (4)  __Executive agency__  __.—__ 
 
     The term “executive agency” means—
 
@@ -45,15 +45,15 @@
 
         (B) a wholly owned Government corporation.
 
-    (5) __Federal agency.—__ 
+    (5)  __Federal agency__  __.—__ 
 
     The term “federal agency” means an executive agency or an establishment in the legislative or judicial branch of the Government (except the Senate, the House of Representatives, and the Architect of the Capitol, and any activities under the direction of the Architect of the Capitol).
 
-    (6) __Foreign excess property.—__ 
+    (6)  __Foreign excess property__  __.—__ 
 
     The term “foreign excess property” means excess property that is not located in the States of the United States, the District of Columbia, Puerto Rico, American Samoa, Guam, the Northern Mariana Islands, the Federated States of Micronesia, the Marshall Islands, Palau, and the Virgin Islands.
 
-    (7) __Motor vehicle.—__ 
+    (7)  __Motor vehicle__  __.—__ 
 
     The term “motor vehicle” means any vehicle, self-propelled or drawn by mechanical power, designed and operated principally for highway transportation of property or passengers, excluding—
 
@@ -61,11 +61,11 @@
 
         (B) a vehicle regularly used by an agency to perform investigative, law enforcement, or intelligence duties, if the head of the agency determines that exclusive control of the vehicle is essential for effective performance of duties.
 
-    (8) __Nonpersonal services.—__ 
+    (8)  __Nonpersonal services__  __.—__ 
 
     The term “nonpersonal services” means contractual services designated by the Administrator of General Services, other than personal and professional services.
 
-    (9) __Property.—__ 
+    (9)  __Property__  __.—__ 
 
     The term “property” means any interest in property except—
 
@@ -83,7 +83,7 @@
 
         (C) records of the Government.
 
-    (10) __Surplus property.—__ 
+    (10)  __Surplus property__  __.—__ 
 
     The term “surplus property” means excess property that the Administrator determines is not required to meet the needs or responsibilities of all federal agencies.
 

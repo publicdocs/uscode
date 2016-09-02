@@ -15,17 +15,17 @@
 
 ## § 17304. Claim for replacement
 
-    (a) __Presentation of Claim.—__ 
+    (a)  __Presentation of Claim__  __.—__ 
 
     When valuables that have been shipped in accordance with regulations prescribed under [section 17302 of this title][/us/usc/t40/s17302] are lost, destroyed, or damaged, a claim in writing for replacement shall be made on the Secretary of the Treasury.
 
     (b) __Decision of the Secretary of the Treasury.—__ 
 
-        (1) __Replacement made from fund.—__ 
+        (1)  __Replacement made from fund__  __.—__ 
 
         If the Secretary is satisfied that the loss, destruction, or damage has occurred and that shipment was made substantially in accordance with the regulations, the Secretary shall have replacement be made out of the fund described in [section 17303 of this title][/us/usc/t40/s17303] through an officer the Secretary designates.
 
-        (2) __Replacement made by credit.—__ 
+        (2)  __Replacement made by credit__  __.—__ 
 
         When the Secretary decides that any part of the replacement can be made, without actual or ultimate injury to the Federal Government, by a credit in the accounts of the executive department, independent establishment, agency, officer, employee, or other accountable person making the claim, the Secretary shall—
 
@@ -33,7 +33,7 @@
 
             (B) use the fund only to the extent that the replacement cannot be made by the credit.
 
-    (c) __Decision of Secretary Not Reviewable.—__ 
+    (c)  __Decision of Secretary Not Reviewable__  __.—__ 
 
     The decision of the Secretary that a loss, destruction, or damage has occurred or that a shipment was made substantially in accordance with regulations is final and conclusive and is not subject to review by any other officer of the Government.
 

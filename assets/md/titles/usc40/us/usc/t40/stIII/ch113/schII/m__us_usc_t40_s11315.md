@@ -15,11 +15,11 @@
 
 ## § 11315. Agency Chief Information Officer
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, the term “information technology architecture”, with respect to an executive agency, means an integrated framework for evolving or maintaining existing information technology and acquiring new information technology to achieve the agency’s strategic goals and information resources management goals.
 
-    (b) __General Responsibilities.—__ 
+    (b)  __General Responsibilities__  __.—__ 
 
     The Chief Information Officer of an executive agency is responsible for—
 
@@ -29,7 +29,7 @@
 
         (3) promoting the effective and efficient design and operation of all major information resources management processes for the executive agency, including improvements to work processes of the executive agency.
 
-    (c) __Duties and Qualifications.—__ 
+    (c)  __Duties and Qualifications__  __.—__ 
 
     The Chief Information Officer of an agency listed in [section 901(b) of title 31][/us/usc/t31/s901/b]—
 

@@ -15,11 +15,11 @@
 
 ## § 553. Property for correctional facility, law enforcement, and emergency management response purposes
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, the term “State” includes the District of Columbia, Puerto Rico, Guam, American Samoa, the Virgin Islands, the Federated States of Micronesia, the Marshall Islands, Palau, and, the Northern Mariana Islands.
 
-    (b) __Authority To Transfer Property.—__ 
+    (b)  __Authority To Transfer Property__  __.—__ 
 
     The Administrator of General Services, in the Administrator’s discretion and under regulations that the Administrator may prescribe, may transfer or convey to a State, or political subdivision or instrumentality of a State, surplus real and related personal property that—
 
@@ -29,11 +29,11 @@
 
         (3) the Administrator of the Federal Emergency Management Agency determines is required by the transferee or grantee for emergency management response purposes including fire and rescue services.
 
-    (c) __No Monetary Consideration.—__ 
+    (c)  __No Monetary Consideration__  __.—__ 
 
     A transfer or conveyance under this section shall be made without monetary consideration to the Federal Government.
 
-    (d) __Deed of Conveyance.—__ 
+    (d)  __Deed of Conveyance__  __.—__ 
 
     The deed of conveyance of any surplus real and related personal property disposed of under this section—
 
@@ -41,7 +41,7 @@
 
         (2) may contain additional terms, reservations, restrictions, and conditions that the Administrator determines are necessary to safeguard the interests of the Government.
 
-    (e) __Enforcement and Revision of Instruments Transferring Property Under This Section.—__ 
+    (e)  __Enforcement and Revision of Instruments Transferring Property Under This Section__  __.—__ 
 
     The Administrator shall determine and enforce compliance with the terms, conditions, reservations, and restrictions contained in an instrument by which a transfer or conveyance under this section is made. The Administrator shall reform, correct, or amend the instrument if necessary to correct the instrument or to conform the transfer to the requirements of law. The Administrator shall grant a release from any term, condition, reservation or restriction contained in the instrument, and shall convey, quitclaim, or release to the transferee (or other eligible user) any right or interest reserved to the Government by the instrument, if the Administrator determines that the property no longer serves the purpose for which it was transferred or that a release, conveyance, or quitclaim deed will not prevent accomplishment of that purpose. The release, conveyance, or quitclaim deed may be made subject to terms and conditions that the Administrator considers necessary to protect or advance the interests of the Government.
 

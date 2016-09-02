@@ -15,15 +15,15 @@
 
 ## § 5106. Suspension of prohibitions
 
-    (a) __Authority To Suspend.—__ 
+    (a)  __Authority To Suspend__  __.—__ 
 
     To allow the observance in the United States Capitol Grounds of occasions of national interest becoming the cognizance and entertainment of Congress, the President of the Senate and the Speaker of the House of Representatives concurrently may suspend any of the prohibitions contained in sections 5103 and 5104 of this title that would prevent the use of the roads and walks within the Grounds by processions or assemblages, and the use in the Grounds of suitable decorations, music, addresses, and ceremonies, if responsible officers have been appointed and the President and the Speaker determine that adequate arrangements have been made to maintain suitable order and decorum in the proceedings and to guard the United States Capitol and its grounds from injury.
 
-    (b) __Power To Suspend Prohibitions in Absence of President or Speaker.—__ 
+    (b)  __Power To Suspend Prohibitions in Absence of President or Speaker__  __.—__ 
 
     If either the President or Speaker is absent from the District of Columbia, the authority to suspend devolves on the other officer. If both officers are absent, the authority devolves on the Capitol Police Board.
 
-    (c) __Authority of Mayor To Permit Use of Louisiana Avenue.—__ 
+    (c)  __Authority of Mayor To Permit Use of Louisiana Avenue__  __.—__ 
 
     Notwithstanding subsection (a) and [section 5104(f) of this title][/us/usc/t40/s5104/f], the Capitol Police Board may grant the Mayor of the District of Columbia authority to permit the use of Louisiana Avenue for any of the purposes prohibited by section 5104(f).
 

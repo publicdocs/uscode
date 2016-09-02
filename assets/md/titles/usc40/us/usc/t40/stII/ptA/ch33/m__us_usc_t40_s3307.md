@@ -15,7 +15,7 @@
 
 ## § 3307. Congressional approval of proposed projects
 
-    (a) __Resolutions Required Before Appropriations May Be Made.—__ 
+    (a)  __Resolutions Required Before Appropriations May Be Made__  __.—__ 
 
     The following appropriations may be made only if the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives adopt resolutions approving the purpose for which the appropriation is made:
 
@@ -25,7 +25,7 @@
 
         (3) An appropriation to alter any building, or part of the building, which is under lease by the Federal Government for use for a public purpose if the cost of the alteration will exceed $750,000.
 
-    (b) __Transmission to Congress of Prospectus of Proposed Project.—__ 
+    (b)  __Transmission to Congress of Prospectus of Proposed Project__  __.—__ 
 
     To secure consideration for the approval referred to in subsection (a), the Administrator of General Services shall transmit to Congress a prospectus of the proposed facility, including—
 
@@ -43,25 +43,25 @@
 
         (7) with respect to any prospectus for the construction, alteration, or acquisition of any building or space to be leased, an estimate of the future energy performance of the building or space and a specific description of the use of energy efficient and renewable energy systems, including photovoltaic systems, in carrying out the project.
 
-    (c) __Increase of Estimated Maximum Cost.—__ 
+    (c)  __Increase of Estimated Maximum Cost__  __.—__ 
 
     The estimated maximum cost of any project approved under this section as set forth in any prospectus may be increased by an amount equal to any percentage increase, as determined by the Administrator, in construction or alteration costs from the date the prospectus is transmitted to Congress. The increase authorized by this subsection may not exceed 10 percent of the estimated maximum cost.
 
-    (d) __Rescission of Approval.—__ 
+    (d)  __Rescission of Approval__  __.—__ 
 
     If an appropriation is not made within one year after the date a project for construction, alteration, or acquisition is approved under subsection (a), the Committee on Environment and Public Works of the Senate or the Committee on Transportation and Infrastructure of the House of Representatives by resolution may rescind its approval before an appropriation is made.
 
-    (e) __Emergency Leases by the Administrator.—__ 
+    (e)  __Emergency Leases by the Administrator__  __.—__ 
 
     This section does not prevent the Administrator from entering into emergency leases during any period declared by the President to require emergency leasing authority. An emergency lease may not be for more than 180 days without approval of a prospectus for the lease in accordance with subsection (a).
 
-    (f) __Minimum Performance Requirements for Leased Space.—__ 
+    (f)  __Minimum Performance Requirements for Leased Space__  __.—__ 
 
     With respect to space to be leased, the Administrator shall include, to the maximum extent practicable, minimum performance requirements requiring energy efficiency and the use of renewable energy.
 
     (g) __Limitation on Leasing Certain Space.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Administrator may not lease space to accommodate any of the following if the average rental cost of leasing the space will exceed $1,500,000:
 
@@ -71,7 +71,7 @@
 
             (C) A permanent courtroom, judicial chamber, or administrative office for any United States court.
 
-        (2) __Exception.—__ 
+        (2)  __Exception__  __.—__ 
 
         The Administrator may lease space with respect to which paragraph (1) applies if the Administrator—
 
@@ -79,7 +79,7 @@
 
             (B) submits the reasons to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
-    (h) __Dollar Amount Adjustment.—__ 
+    (h)  __Dollar Amount Adjustment__  __.—__ 
 
     The Administrator annually may adjust any dollar amount referred to in this section to reflect a percentage increase or decrease in construction costs during the prior calendar year, as determined by the composite index of construction costs of the Department of Commerce. Any adjustment shall be expeditiously reported to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 

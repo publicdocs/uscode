@@ -15,11 +15,11 @@
 
 ## § 552. Abandoned or unclaimed property on Government premises
 
-    (a) __Authority To Take Property.—__ 
+    (a)  __Authority To Take Property__  __.—__ 
 
     The Administrator of General Services may take possession of abandoned or unclaimed property on premises owned or leased by the Federal Government and determine when title to the property vests in the Government. The Administrator may use, transfer, or otherwise dispose of the property.
 
-    (b) __Claim Filed by Former Owner.—__ 
+    (b)  __Claim Filed by Former Owner__  __.—__ 
 
     If a former owner files a proper claim within three years from the date that title to the property vests in the Government, the former owner shall be paid an amount—
 

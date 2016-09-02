@@ -17,21 +17,21 @@
 
     (a) __1965 Findings and Purpose.—__ 
 
-        (1) __Findings.—__ 
+        (1)  __Findings__  __.—__ 
 
         Congress finds and declares that the Appalachian region of the United States, while abundant in natural resources and rich in potential, lags behind the rest of the Nation in its economic growth and that its people have not shared properly in the Nation’s prosperity. The region’s uneven past development, with its historical reliance on a few basic industries and a marginal agriculture, has failed to provide the economic base that is a vital prerequisite for vigorous, self-sustaining growth. State and local governments and the people of the region understand their problems and have been working, and will continue to work, purposefully toward their solution. Congress recognizes the comprehensive report of the President’s Appalachian Regional Commission documenting these findings and concludes that regionwide development is feasible, desirable, and urgently needed.
 
-        (2) __Purpose.—__ 
+        (2)  __Purpose__  __.—__ 
 
         It is the purpose of this subtitle to assist the region in meeting its special problems, to promote its economic development, and to establish a framework for joint federal and state efforts toward providing the basic facilities essential to its growth and attacking its common problems and meeting its common needs on a coordinated and concerted regional basis. The public investments made in the region under this subtitle shall be concentrated in areas where there is a significant potential for future growth and where the expected return on public dollars invested will be the greatest. States will be responsible for recommending local and state projects within their borders that will receive assistance under this subtitle. As the region obtains the needed physical and transportation facilities and develops its human resources, Congress expects that the region will generate a diversified industry and that the region will then be able to support itself through the workings of a strengthened free enterprise economy.
 
     (b) __1975 Findings and Purpose.—__ 
 
-        (1) __Findings.—__ 
+        (1)  __Findings__  __.—__ 
 
         Congress further finds and declares that while substantial progress has been made toward achieving the purposes set out in subsection (a), especially with respect to the provision of essential public facilities, much remains to be accomplished, especially with respect to the provision of essential health, education, and other public services. Congress recognizes that changes and evolving national purposes in the decade since 1965 affect not only the Appalachian region but also its relationship to a nation that on December 31, 1975, is assigning higher priority to conservation and the quality of life, values long cherished within the region. Appalachia as of December 31, 1975, has the opportunity, in accommodating future growth and development, to demonstrate local leadership and coordinated planning so that housing, public services, transportation and other community facilities will be provided in a way congenial to the traditions and beauty of the region and compatible with conservation values and an enhanced quality of life for the people of the region, and consistent with that goal, the Appalachian region should be able to take advantage of eco-industrial development, which promotes both employment and economic growth and the preservation of natural resources. Congress recognizes also that fundamental changes are occurring in national energy requirements and production, which not only risk short-term dislocations but will undoubtedly result in major long-term effects in the region. It is essential that the opportunities for expanded energy production be used so as to maximize the social and economic benefits and minimize the social and environmental costs to the region and its people.
 
-        (2) __Purpose.—__ 
+        (2)  __Purpose__  __.—__ 
 
         It is also the purpose of this subtitle to provide a framework for coordinating federal, state and local efforts toward—
 
@@ -41,13 +41,13 @@
 
             (C) implementing programs and projects carried out in the region by federal, state, and local governmental agencies so as to better meet the special problems generated in the region by the Nation’s energy needs and policies, including problems of transportation, housing, community facilities, and human services.
 
-    (c) __1998 Findings and Purpose.—__ 
+    (c) __1998__  __Findings and Purpose__  __.—__ 
 
-        (1) __Findings.—__ 
+        (1)  __Findings__  __.—__ 
 
         Congress further finds and declares that while substantial progress has been made in fulfilling many of the objectives of this subtitle, rapidly changing national and global economies over the decade ending November 13, 1998, have created new problems and challenges for rural areas throughout the United States and especially for the Appalachian region.
 
-        (2) __Purpose.—__ 
+        (2)  __Purpose__  __.—__ 
 
         In addition to the purposes stated in subsections (a) and (b), it is the purpose of this subtitle—
 

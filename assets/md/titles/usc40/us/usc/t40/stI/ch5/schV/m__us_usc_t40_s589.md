@@ -15,7 +15,7 @@
 
 ## § 589. Installation, repair, and replacement of sidewalks
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     An executive agency may install, repair, and replace sidewalks around buildings, installations, property, or grounds that are—
 
@@ -25,7 +25,7 @@
 
         (3) located in a State, the District of Columbia, Puerto Rico, or a territory or possession of the United States.
 
-    (b) __Reimbursement.—__ 
+    (b)  __Reimbursement__  __.—__ 
 
     Subsection (a) may be carried out by—
 
@@ -33,15 +33,15 @@
 
         (2) a means other than reimbursement.
 
-    (c) __Regulations.—__ 
+    (c)  __Regulations__  __.—__ 
 
     Subsection (a) shall be carried out in accordance with regulations the Administrator of General Services prescribes with the approval of the Director of the Office of Management and Budget.
 
-    (d) __Use of Amounts.—__ 
+    (d)  __Use of Amounts__  __.—__ 
 
     Amounts appropriated to an executive agency for installation, repair, and maintenance, generally, are available to carry out this section.
 
-    (e) __Liability.—__ 
+    (e)  __Liability__  __.—__ 
 
     This section does not increase or enlarge the tort liability of the Government for injuries to individuals or damages to property.
 

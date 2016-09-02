@@ -15,27 +15,27 @@
 
 ## § 705. Handling of proceeds from disposal
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     This section applies to proceeds from the sale, lease, or other disposition of foreign excess property under this chapter.
 
-    (b) __Foreign Currencies or Credits.—__ 
+    (b)  __Foreign Currencies or Credits__  __.—__ 
 
     Proceeds in the form of foreign currencies or credits, must be administered in accordance with procedures that the Secretary of the Treasury may establish.
 
     (c) __United States Currency.—__ 
 
-        (1) __Separate fund in treasury.—__ 
+        (1)  __Separate fund in treasury__  __.—__ 
 
         [Section 572(a) of this title][/us/usc/t40/s572/a] applies to proceeds of foreign excess property disposed of for United States currency under this chapter.
 
-        (2) __Deposited in treasury as miscellaneous receipts.—__ 
+        (2)  __Deposited in treasury as miscellaneous receipts__  __.—__ 
 
         Except as provided in paragraph (1), proceeds in the form of United States currency, including foreign currencies or credits that are reduced to United States currency, must be deposited in the Treasury as miscellaneous receipts.
 
     (d) __Special Account for Refunds or Payments for Breach.—__ 
 
-        (1) __Deposits.—__ 
+        (1)  __Deposits__  __.—__ 
 
         A federal agency that disposes of foreign excess property under this chapter may deposit, in a special account in the Treasury, amounts of the proceeds of the dispositions that the agency decides are necessary to permit—
 
@@ -43,7 +43,7 @@
 
             (B) payments for breach of warranty.
 
-        (2) __Withdrawals.—__ 
+        (2)  __Withdrawals__  __.—__ 
 
         A federal agency that deposits proceeds in a special account under paragraph (1) may withdraw amounts to be refunded or paid from the account without regard to the origin of the amounts withdrawn.
 

@@ -15,7 +15,7 @@
 
 ## § 502. Services for other entities
 
-    (a) __Federal Agencies, Mixed-Ownership Government Corporations, and the District of Columbia.—__ 
+    (a)  __Federal Agencies, Mixed-Ownership Government Corporations, and the District of Columbia__  __.—__ 
 
     On request, the Administrator of General Services shall provide, to the extent practicable, any of the services specified in [section 501 of this title][/us/usc/t40/s501] to—
 
@@ -27,7 +27,7 @@
 
     (b) __Qualified Nonprofit Agencies.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         On request, the Administrator may provide, to the extent practicable, any of the services specified in [section 501 of this title][/us/usc/t40/s501] to an agency that is—
 
@@ -39,13 +39,13 @@
 
             (B) providing a commodity or service to the Federal Government under chapter 85 of title 41.
 
-        (2) __Use of services.—__ 
+        (2)  __Use of services__  __.—__ 
 
         A nonprofit agency receiving services under this subsection shall use the services directly in making or providing to the Government a commodity or service that has been determined by the Committee for Purchase From People Who Are Blind or Severely Disabled under [section 8503 of title 41][/us/usc/t41/s8503] to be suitable for procurement by the Government.
 
     (c) __Use of Certain Supply Schedules.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Administrator may provide for the use by State or local governments of Federal supply schedules of the General Services Administration for the following:
 
@@ -53,11 +53,11 @@
 
             (B) Alarm and signal systems, facility management systems, firefighting and rescue equipment, law enforcement and security equipment, marine craft and related equipment, special purpose clothing, and related services (as contained in Federal supply classification code group 84 or any amended or subsequent version of that Federal supply classification group).
 
-        (2) __Voluntary use.—__ 
+        (2)  __Voluntary use__  __.—__ 
 
         In any case of the use by a State or local government of a Federal supply schedule pursuant to paragraph (1), participation by a firm that sells to the Federal Government through the supply schedule shall be voluntary with respect to a sale to the State or local government through such supply schedule.
 
-        (3) __Definitions.—__ 
+        (3)  __Definitions__  __.—__ 
 
         In this subsection:
 
@@ -77,37 +77,37 @@
 
     (d) __Use of Supply Schedules for Certain Goods and Services.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Administrator may provide for the use by State or local governments of Federal supply schedules of the General Services Administration for goods or services that are to be used to facilitate recovery from a major disaster declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121][/us/usc/t42/s5121] et seq.), to facilitate disaster preparedness or response, or to facilitate recovery from terrorism or nuclear, biological, chemical, or radiological attack.
 
-        (2) __Determination by secretary of homeland security.—__ 
+        (2)  __Determination by secretary of homeland security__  __.—__ 
 
         The Secretary of Homeland Security shall determine which goods and services qualify as goods and services described in paragraph (1) before the Administrator provides for the use of the Federal supply schedule relating to such goods and services.
 
-        (3) __Voluntary use.—__ 
+        (3)  __Voluntary use__  __.—__ 
 
         In the case of the use by a State or local government of a Federal supply schedule pursuant to paragraph (1), participation by a firm that sells to the Federal Government through the supply schedule shall be voluntary with respect to a sale to the State or local government through such supply schedule.
 
-        (4) __Definitions.—__ 
+        (4)  __Definitions__  __.—__ 
 
         The definitions in subsection (c)(3) shall apply for purposes of this subsection.
 
     (e) __Use of Supply Schedules by the Red Cross and Other Qualified Organizations.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Administrator may provide for the use by the American National Red Cross and other qualified organizations of Federal supply schedules. Purchases under this authority by the American National Red Cross shall be used in furtherance of the purposes of the American National Red Cross set forth in [section 300102 of title 36][/us/usc/t36/s300102], United States Code. Purchases under this authority by other qualified organizations shall be used in furtherance of purposes determined to be appropriate to facilitate emergency preparedness and disaster relief and set forth in guidance by the Administrator of General Services, in consultation with the Administrator of the Federal Emergency Management Agency.
 
-        (2) __Limitation.—__ 
+        (2)  __Limitation__  __.—__ 
 
         The authority under this subsection may not be used to purchase supplies for resale.
 
-        (3) __Qualified organization.—__ 
+        (3)  __Qualified organization__  __.—__ 
 
         In this subsection, the term “qualified organization” means a relief or disaster assistance organization as described in section 309 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5152][/us/usc/t42/s5152]).
 
-    (f) __Duty of Users Regarding Use of Supply Schedules.—__ 
+    (f)  __Duty of Users Regarding Use of Supply Schedules__  __.—__ 
 
     All users of Federal supply schedules, including non-Federal users, shall use the schedules in accordance with the ordering guidance provided by the Administrator of General Services.
 

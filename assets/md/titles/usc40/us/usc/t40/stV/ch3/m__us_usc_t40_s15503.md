@@ -15,11 +15,11 @@
 
 ## § 15503. Approval of applications for assistance
 
-    (a) __Evaluation by State Member.—__ 
+    (a)  __Evaluation by State Member__  __.—__ 
 
     An application to a Commission for a grant or any other assistance for a project under this subtitle shall be made through, and evaluated for approval by, the State member of the Commission representing the applicant.
 
-    (b) __Certification.—__ 
+    (b)  __Certification__  __.—__ 
 
     An application to a Commission for a grant or other assistance for a project under this subtitle shall be eligible for assistance only on certification by the State member of the Commission representing the applicant that the application for the project—
 
@@ -31,7 +31,7 @@
 
         (4) otherwise meets the requirements for assistance under this subtitle.
 
-    (c) __Votes for Decisions.—__ 
+    (c)  __Votes for Decisions__  __.—__ 
 
     On certification by a State member of a Commission of an application for a grant or other assistance for a specific project under this section, an affirmative vote of the Commission under section 15302 shall be required for approval of the application.
 

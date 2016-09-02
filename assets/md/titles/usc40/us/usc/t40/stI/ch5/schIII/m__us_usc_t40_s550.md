@@ -15,17 +15,17 @@
 
 ## § 550. Disposal of real property for certain purposes
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, the term “State” includes the District of Columbia, Puerto Rico, and the territories and possessions of the United States.
 
     (b) __Enforcement and Revision of Instruments Transferring Property Under This Section.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Subject to disapproval by the Administrator of General Services within 30 days after notice of a proposed action to be taken under this section, except for personal property transferred pursuant to [section 549 of this title][/us/usc/t40/s549], the official specified in paragraph (2) shall determine and enforce compliance with the terms, conditions, reservations, and restrictions contained in an instrument by which a transfer under this section is made. The official shall reform, correct, or amend the instrument if necessary to correct the instrument or to conform the transfer to the requirements of law. The official shall grant a release from any term, condition, reservation or restriction contained in the instrument, and shall convey, quitclaim, or release to the transferee (or other eligible user) any right or interest reserved to the Federal Government by the instrument, if the official determines that the property no longer serves the purpose for which it was transferred or that a release, conveyance, or quitclaim deed will not prevent accomplishment of that purpose. The release, conveyance, or quitclaim deed may be made subject to terms and conditions that the official considers necessary to protect or advance the interests of the Government.
 
-        (2) __Specified official.—__ 
+        (2)  __Specified official__  __.—__ 
 
         The official referred to in paragraph (1) is—
 
@@ -41,47 +41,47 @@
 
     (c) __Property for School, Classroom, or Other Educational Use.—__ 
 
-        (1) __Assignment.—__ 
+        (1)  __Assignment__  __.—__ 
 
         The Administrator, in the Administrator’s discretion and under regulations that the Administrator may prescribe, may assign to the Secretary of Education for disposal surplus real property, including buildings, fixtures, and equipment situated on the property, that the Secretary recommends as needed for school, classroom, or other educational use.
 
-        (2) __Sale or lease.—__ 
+        (2)  __Sale or lease__  __.—__ 
 
         Subject to disapproval by the Administrator within 30 days after notice to the Administrator by the Secretary of Education of a proposed transfer, the Secretary, for school, classroom, or other educational use, may sell or lease property assigned to the Secretary under paragraph (1) to a State, a political subdivision or instrumentality of a State, a tax-supported educational institution, or a nonprofit educational institution that has been held exempt from taxation under section 501(c)(3) of the Internal Revenue Code of 1986 ([26 U.S.C. 501(c)(3)][/us/usc/t26/s501/c/3]).
 
-        (3) __Fixing value.—__ 
+        (3)  __Fixing value__  __.—__ 
 
         In fixing the sale or lease value of property disposed of under paragraph (2), the Secretary of Education shall take into consideration any benefit which has accrued or may accrue to the Government from the use of the property by the State, political subdivision or instrumentality, or institution.
 
     (d) __Property for Use in the Protection of Public Health, Including Research.—__ 
 
-        (1) __Assignment.—__ 
+        (1)  __Assignment__  __.—__ 
 
         The Administrator, in the Administrator’s discretion and under regulations that the Administrator may prescribe, may assign to the Secretary of Health and Human Services for disposal surplus real property, including buildings, fixtures, and equipment situated on the property, that the Secretary recommends as needed for use in the protection of public health, including research.
 
-        (2) __Sale or lease.—__ 
+        (2)  __Sale or lease__  __.—__ 
 
         Subject to disapproval by the Administrator within 30 days after notice to the Administrator by the Secretary of Health and Human Services of a proposed transfer, the Secretary, for use in the protection of public health, including research, may sell or lease property assigned to the Secretary under paragraph (1) to a State, a political subdivision or instrumentality of a State, a tax-supported medical institution, or a hospital or similar institution not operated for profit that has been held exempt from taxation under section 501(c)(3) of the Internal Revenue Code of 1986 ([26 U.S.C. 501(c)(3)][/us/usc/t26/s501/c/3]).
 
-        (3) __Fixing value.—__ 
+        (3)  __Fixing value__  __.—__ 
 
         In fixing the sale or lease value of property disposed of under paragraph (2), the Secretary of Health and Human Services shall take into consideration any benefit which has accrued or may accrue to the Government from the use of the property by the State, political subdivision or instrumentality, or institution.
 
     (e) __Property for Use as a Public Park or Recreation Area.—__ 
 
-        (1) __Assignment.—__ 
+        (1)  __Assignment__  __.—__ 
 
         The Administrator, in the Administrator’s discretion and under regulations that the Administrator may prescribe, may assign to the Secretary of the Interior for disposal surplus real property, including buildings, fixtures, and equipment situated on the property, that the Secretary recommends as needed for use as a public park or recreation area.
 
-        (2) __Sale or lease.—__ 
+        (2)  __Sale or lease__  __.—__ 
 
         Subject to disapproval by the Administrator within 30 days after notice to the Administrator by the Secretary of the Interior of a proposed transfer, the Secretary, for public park or recreation area use, may sell or lease property assigned to the Secretary under paragraph (1) to a State, a political subdivision or instrumentality of a State, or a municipality.
 
-        (3) __Fixing value.—__ 
+        (3)  __Fixing value__  __.—__ 
 
         In fixing the sale or lease value of property disposed of under paragraph (2), the Secretary of the Interior shall take into consideration any benefit which has accrued or may accrue to the Government from the use of the property by the State, political subdivision or instrumentality, or municipality.
 
-        (4) __Deed of conveyance.—__ 
+        (4)  __Deed of conveyance__  __.—__ 
 
         The deed of conveyance of any surplus real property disposed of under this subsection—
 
@@ -91,17 +91,17 @@
 
     (f) __Property for Low Income Housing Assistance.—__ 
 
-        (1) __Assignment.—__ 
+        (1)  __Assignment__  __.—__ 
 
         The Administrator, in the Administrator’s discretion and under regulations that the Administrator may prescribe, may assign to the Secretary of Housing and Urban Development for disposal surplus real property, including buildings, fixtures, and equipment situated on the property, that the Secretary recommends as needed to provide housing or housing assistance for low-income individuals or families.
 
-        (2) __Sale or lease.—__ 
+        (2)  __Sale or lease__  __.—__ 
 
         Subject to disapproval by the Administrator within 30 days after notice to the Administrator by the Secretary of Housing and Urban Development of a proposed transfer, the Secretary, to provide housing or housing assistance for low-income individuals or families, may sell or lease property assigned to the Secretary under paragraph (1) to a State, a political subdivision or instrumentality of a State, or a nonprofit organization that exists for the primary purpose of providing housing or housing assistance for low-income individuals or families.
 
         (3) __Self-help housing.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Administrator shall disapprove a proposed transfer of property under this subsection unless the Administrator determines that the property will be used for low-income housing opportunities through the construction, rehabilitation, or refurbishment of self-help housing, under terms requiring that—
 
@@ -109,31 +109,31 @@
 
                 (ii) dwellings constructed, rehabilitated, or refurbished through use of the property shall be quality dwellings that comply with local building and safety codes and standards and shall be available at prices below prevailing market prices.
 
-            (B) __Guidelines for considering disabilities.—__ 
+            (B)  __Guidelines for considering disabilities__  __.—__ 
 
             For purposes of fulfilling self-help requirements under paragraph (3)(A)(i), the Administrator shall ensure that nonprofit organizations receiving property under paragraph (2) develop and use guidelines to consider any disability (as defined in section 3(2) of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12102(2)][/us/usc/t42/s12102/2]).
 
         (4) __Fixing value.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             In fixing the sale or lease value of property disposed of under paragraph (2), the Secretary of Housing and Urban Development shall take into consideration and discount the value for any benefit which has accrued or may accrue to the Government from the use of the property by the State, political subdivision or instrumentality, or nonprofit organization.
 
-            (B) __Amount of discount.—__ 
+            (B)  __Amount of discount__  __.—__ 
 
             The amount of the discount under subparagraph (A) is 75 percent of the market value of the property, except that the Secretary of Housing and Urban Development may discount by a greater percentage if the Secretary, in consultation with the Administrator, determines that a higher percentage is justified.
 
     (g) __Property for National Service Activities.—__ 
 
-        (1) __Assignment.—__ 
+        (1)  __Assignment__  __.—__ 
 
         The Administrator, in the Administrator’s discretion and under regulations that the Administrator may prescribe, may assign to the Chief Executive Officer of the Corporation for National and Community Service for disposal surplus property that the Chief Executive Officer recommends as needed for national service activities.
 
-        (2) __Sale, lease, or donation.—__ 
+        (2)  __Sale, lease, or donation__  __.—__ 
 
         Subject to disapproval by the Administrator within 30 days after notice to the Administrator by the Chief Executive Officer of a proposed transfer, the Chief Executive Officer, for national service activities, may sell, lease, or donate property assigned to the Chief Executive Officer under paragraph (1) to an entity that receives financial assistance under the National and Community Service Act of 1990 ([42 U.S.C. 12501][/us/usc/t42/s12501] et seq.).
 
-        (3) __Fixing value.—__ 
+        (3)  __Fixing value__  __.—__ 
 
         In fixing the sale or lease value of property disposed of under paragraph (2), the Chief Executive Officer shall take into consideration any benefit which has accrued or may accrue to the Government from the use of the property by the entity receiving the property.
 
@@ -141,17 +141,17 @@
 
         (1) __Conveyance.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Without monetary consideration to the Government, the Administrator may convey to a State, a political subdivision or instrumentality of a State, or a municipality, the right, title, and interest of the Government in and to any surplus real and related personal property that the Secretary of the Interior determines is suitable and desirable for use as a historic monument for the benefit of the public.
 
-            (B) __Recommendation by national park system advisory board.—__ 
+            (B)  __Recommendation by national park system advisory board__  __.—__ 
 
             Property may be determined to be suitable and desirable for use as a historic monument only in conformity with a recommendation by the National Park System Advisory Board established under [section 3 of the Act of August 21, 1935][/us/act/1935-08-21/s3] ([16 U.S.C. 463][/us/usc/t16/s463]) (known as the Historic Sites, Buildings, and Antiquities Act). Only the portion of the property that is necessary for the preservation and proper observation of the property’s historic features may be determined to be suitable and desirable for use as a historic monument.
 
         (2) __Revenue-producing activity.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Administrator may authorize use of any property conveyed under this subsection for revenue-producing activities if the Secretary of the Interior—
 
@@ -163,15 +163,15 @@
 
                 (iv) examines and approves the accounting and financial procedures used by the grantee.
 
-            (B) __Use of excess income.—__ 
+            (B)  __Use of excess income__  __.—__ 
 
             The Secretary of the Interior may approve a grantee’s financial plan only if the plan provides that the grantee shall use income exceeding the cost of repair, rehabilitation, restoration, and maintenance only for public historic preservation, park, or recreational purposes.
 
-            (C) __Audits.—__ 
+            (C)  __Audits__  __.—__ 
 
             The Secretary of the Interior may periodically audit the records of the grantee that are directly related to the property conveyed.
 
-        (3) __Deed of conveyance.—__ 
+        (3)  __Deed of conveyance__  __.—__ 
 
         The deed of conveyance of any surplus real property disposed of under this subsection—
 

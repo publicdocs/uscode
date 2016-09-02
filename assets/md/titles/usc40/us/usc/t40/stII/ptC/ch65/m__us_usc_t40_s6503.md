@@ -15,7 +15,7 @@
 
 ## § 6503. Commission for the Judiciary Office Building
 
-    (a) __Establishment and Membership.—__ 
+    (a)  __Establishment and Membership__  __.—__ 
 
     There is a Commission for the Judiciary Office Building, composed of the following 13 members or their designees:
 
@@ -31,11 +31,11 @@
 
         (6) The Chairman and ranking minority member of the Committee on Transportation and Infrastructure of the House of Representatives.
 
-    (b) __Quorum.—__ 
+    (b)  __Quorum__  __.—__ 
 
     Seven members of the Commission is a quorum.
 
-    (c) __Duties.—__ 
+    (c)  __Duties__  __.—__ 
 
     The Commission is responsible for the supervision of the design, construction, operation, maintenance, structural, mechanical, and domestic care, and security of the Thurgood Marshall Federal Judiciary Building. The Commission shall prescribe regulations to govern the actions of the Architect of the Capitol under this chapter and to govern the use and occupancy of all space in the Building.
 

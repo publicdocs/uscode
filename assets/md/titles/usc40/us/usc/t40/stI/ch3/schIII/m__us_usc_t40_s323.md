@@ -15,11 +15,11 @@
 
 ## § 323. Consumer Information Center Fund  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Federal Citizen Services Fund”. </sup></sup> 
 
-    (a) __Existence.—__ 
+    (a)  __Existence__  __.—__ 
 
     There is in the Treasury a Federal Citizen Services Fund, General Services Administration, for the purpose of disseminating Federal Government information to the public and for other related purposes.
 
-    (b) __Deposits.—__ 
+    (b)  __Deposits__  __.—__ 
 
     Money shall be deposited into the Fund from—
 
@@ -31,15 +31,15 @@
 
         (4) any other income incident to Center  <sup>\[2\]</sup>  <sup><sup> 2 So in original. See 2009 Amendment notes below. </sup></sup>  activities.
 
-    (c) __Expenditures.—__ 
+    (c)  __Expenditures__  __.—__ 
 
     Money deposited into the Fund is available for expenditure for Center 2 activities in amounts specified in appropriation laws. The Fund shall assume all liabilities, obligations, and commitments of the Center 2 account.
 
-    (d) __Unobligated Balances.—__ 
+    (d)  __Unobligated Balances__  __.—__ 
 
     Any unobligated balances at the end of a fiscal year remain in the Fund and are available for authorization in appropriation laws for subsequent fiscal years.
 
-    (e) __Gift Account.—__ 
+    (e)  __Gift Account__  __.—__ 
 
     The Center 2 may accept and deposit to this account gifts for purposes of defraying the costs of printing, publishing, and distributing consumer information and educational materials and undertaking other consumer information activities. In addition to amounts appropriated or otherwise made available, the Center 2 may expend the gifts for these purposes and any balance remains available for expenditure.
 

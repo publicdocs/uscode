@@ -15,11 +15,11 @@
 
 ## § 17505. Presidential report
 
-    (a) __Summary and Analysis of Agency Statements.—__ 
+    (a)  __Summary and Analysis of Agency Statements__  __.—__ 
 
     The President shall include with the budget transmitted under [section 1105 of title 31][/us/usc/t31/s1105] for each fiscal year, or in a separate written report to Congress for that fiscal year, a summary and analysis of the statements most recently submitted by the heads of executive agencies pursuant to [section 17504(a) of this title][/us/usc/t40/s17504/a].
 
-    (b) __Contents of Summary and Analysis.—__ 
+    (b)  __Contents of Summary and Analysis__  __.—__ 
 
     Each summary and analysis shall include a review, for the fiscal year preceding the fiscal year in which the budget is submitted, the current fiscal year, and the fiscal year for which the budget is submitted, of the cost savings that have been achieved, that are estimated will be achieved, and that could be achieved, in the acquisition, maintenance, leasing, operation, and disposal of motor vehicles by executive agencies through—
 

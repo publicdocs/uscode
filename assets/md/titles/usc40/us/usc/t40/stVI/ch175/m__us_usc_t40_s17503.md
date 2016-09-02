@@ -15,17 +15,17 @@
 
 ## § 17503. Data collection
 
-    (a) __Cost Identification and Analysis.—__ 
+    (a)  __Cost Identification and Analysis__  __.—__ 
 
     The head of each executive agency shall develop a system to identify, collect, and analyze data with respect to all costs (including obligations and outlays) the agency incurs in the operation, maintenance, acquisition, and disposition of motor vehicles, including vehicles owned or leased by the Federal Government and privately owned vehicles used for official purposes.
 
     (b) __Requirements for Data Systems.—__ 
 
-        (1) __Scope of requirements.—__ 
+        (1)  __Scope of requirements__  __.—__ 
 
         In cooperation with the Comptroller General of the United States and the Director of the Office of Management and Budget, the Administrator of General Services shall prescribe requirements governing the establishment and operation by executive agencies of the systems required by subsection (a), including requirements with respect to data on the costs and uses of motor vehicles and with respect to the uniform collection and submission of the data.
 
-        (2) __Conformity with principles and standards.—__ 
+        (2)  __Conformity with principles and standards__  __.—__ 
 
         Requirements prescribed under this section shall conform to accounting principles and standards issued by the Comptroller General. Each executive agency shall comply with those requirements.
 

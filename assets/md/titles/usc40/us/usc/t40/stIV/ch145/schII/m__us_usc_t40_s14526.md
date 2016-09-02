@@ -17,7 +17,7 @@
 
     (a) __Designations.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Appalachian Regional Commission, in accordance with criteria the Commission may establish, each year shall—
 
@@ -33,7 +33,7 @@
 
                 (ii) “attainment counties”, which shall be those counties in the region that have attained or exceeded economic parity with the rest of the United States.
 
-        (2) __Annual review of designations.—__ 
+        (2)  __Annual review of designations__  __.—__ 
 
         The Commission shall—
 
@@ -41,21 +41,21 @@
 
             (B) renew the designation for another one-year period only if the county still meets the criteria.
 
-    (b) __Distressed Counties.—__ 
+    (b)  __Distressed Counties__  __.—__ 
 
     In program and project development and implementation and in the allocation of appropriations made available to carry out this subtitle, the Commission shall give special consideration to the needs of counties for which a distressed county designation is in effect under this section.
 
     (c) __Economically Strong Counties.—__ 
 
-        (1) __Competitive counties.—__ 
+        (1)  __Competitive counties__  __.—__ 
 
         Except as provided in paragraphs (3) and (4), assistance under this subtitle for a project that is carried out in a county for which a competitive county designation is in effect under this section shall not be more than 30 percent of the project cost.
 
-        (2) __Attainment counties.—__ 
+        (2)  __Attainment counties__  __.—__ 
 
         Except as provided in paragraphs (3) and (4), amounts may not be provided under this subtitle for a project that is carried out in a county for which an attainment county designation is in effect under this section.
 
-        (3) __Exceptions.—__ 
+        (3)  __Exceptions__  __.—__ 
 
         Paragraphs (1) and (2) do not apply to—
 
@@ -73,7 +73,7 @@
 
         (4) __Waiver.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Commission may waive the requirements of paragraphs (1) and (2) for a project when the recipient of assistance for the project shows the existence of any of the following:
 
@@ -81,7 +81,7 @@
 
                 (ii) a significant potential benefit from the project in at least one area of the region outside the designated county.
 
-            (B) __Reports to congress.—__ 
+            (B)  __Reports to congress__  __.—__ 
 
             The Commission shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives an annual report describing each waiver granted under subparagraph (A) during the period covered by the report.
 

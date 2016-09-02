@@ -15,11 +15,11 @@
 
 ## § 3134. Waivers for certain contracts
 
-    (a) __Military.—__ 
+    (a)  __Military__  __.—__ 
 
     The Secretary of the Army, the Secretary of the Navy, the Secretary of the Air Force, or the Secretary of Transportation may waive this subchapter with respect to cost-plus-a-fixed fee and other cost-type contracts for the construction, alteration, or repair of any public building or public work of the Federal Government and with respect to contracts for manufacturing, producing, furnishing, constructing, altering, repairing, processing, or assembling vessels, aircraft, munitions, materiel, or supplies for the Army, Navy, Air Force, or Coast Guard, respectively, regardless of the terms of the contracts as to payment or title.
 
-    (b) __Transportation.—__ 
+    (b)  __Transportation__  __.—__ 
 
     The Secretary of Transportation may waive this subchapter with respect to contracts for the construction, alteration, or repair of vessels when the contract is made under sections 1535 and 1536 of title 31, subtitle V of title 46, or the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1735 et seq.), regardless of the terms of the contracts as to payment or title.
 

@@ -17,7 +17,7 @@
 
     (a) __Definition.—__ 
 
-        (1) __Federal grant programs.—__ 
+        (1)  __Federal grant programs__  __.—__ 
 
         In this section, the term “federal grant programs”—
 
@@ -51,11 +51,11 @@
 
                 (ii) any other program to the extent that financial assistance other than a grant is authorized.
 
-        (2) __Certain sewage treatment works deemed constructed with federal grant assistance.—__ 
+        (2)  __Certain sewage treatment works deemed constructed with federal grant assistance__  __.—__ 
 
         For the purpose of this section, any sewage treatment works constructed pursuant to title II of the Federal Water Pollution Control Act ([33 U.S.C. 1281][/us/usc/t33/s1281] et seq.) (known as the Clean Water Act) without federal grant assistance under that title is deemed to be constructed with that assistance.
 
-    (b) __Purpose.—__ 
+    (b)  __Purpose__  __.—__ 
 
     To enable the people, States, and local communities of the Appalachian region, including local development districts, to take maximum advantage of federal grant programs for which they are eligible but for which, because of their economic situation, they cannot supply the required matching share, or for which there are insufficient amounts available under the federal law authorizing the programs to meet pressing needs of the region, the Federal Cochairman may use amounts made available to carry out this section—
 
@@ -63,19 +63,19 @@
 
         (2) to increase the federal contribution to projects and activities under the programs above the fixed maximum part of the cost of the projects or activities otherwise authorized by the applicable law.
 
-    (c) __Certification Required.—__ 
+    (c)  __Certification Required__  __.—__ 
 
     For a program, project, or activity for which any part of the basic federal contribution to the project or activity under a federal grant program is proposed to be made under subsection (b), the contribution shall not be made until the responsible federal official administering the federal law authorizing the contribution certifies that the program, project, or activity meets the applicable requirements of the federal law and could be approved for federal contribution under that law if amounts were available under the law for the program, project, or activity.
 
-    (d) __Limitations in Other Laws Inapplicable.—__ 
+    (d)  __Limitations in Other Laws Inapplicable__  __.—__ 
 
     Amounts provided pursuant to this subtitle are available without regard to any limitations on areas eligible for assistance or authorizations for appropriation in any other law.
 
-    (e) __Acceptance of Certain Material.—__ 
+    (e)  __Acceptance of Certain Material__  __.—__ 
 
     For a supplemental grant for a project or activity under a federal grant program, the Federal Cochairman shall accept any finding, report, certification, or documentation required to be submitted to the head of the department, agency, or instrumentality of the Federal Government responsible for the administration of the program.
 
-    (f) __Federal Share.—__ 
+    (f)  __Federal Share__  __.—__ 
 
     The federal portion of the cost of a project or activity shall not—
 
@@ -85,15 +85,15 @@
 
     (g) __Maximum Commission Contribution.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Subject to paragraphs (2) and (3), the Commission may contribute not more than 50 percent of a project or activity cost eligible for financial assistance under this section from amounts appropriated to carry out this subtitle.
 
-        (2) __Distressed counties.—__ 
+        (2)  __Distressed counties__  __.—__ 
 
         The maximum Commission contribution for a project or activity to be carried out in a county for which a distressed county designation is in effect under [section 14526 of this title][/us/usc/t40/s14526] may be increased to 80 percent.
 
-        (3) __At-risk counties.—__ 
+        (3)  __At-risk counties__  __.—__ 
 
         The maximum Commission contribution for a project to be carried out in a county for which an at-risk county designation is in effect under section 14526 may be increased to 70 percent.
 

@@ -15,11 +15,11 @@
 
 ## § 556. Disposal of dredge vessels
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Administrator of General Services, pursuant to sections 521 through 527, 529, and 549 of this title, may dispose of a United States Army Corps of Engineers vessel used for dredging, together with related equipment owned by the Federal Government and under the control of the Chief of Engineers, if the Secretary of the Army declares the vessel to be in excess of federal needs.
 
-    (b) __Recipients and Purposes.—__ 
+    (b)  __Recipients and Purposes__  __.—__ 
 
     Disposal under this section is accomplished—
 
@@ -35,11 +35,11 @@
 
         (2) through sale solely for scrap to foreign or domestic interests.
 
-    (c) __No Dredging Activities.—__ 
+    (c)  __No Dredging Activities__  __.—__ 
 
     A vessel described in subsection (a) shall not be disposed of under any law for the purpose of engaging in dredging activities within the United States.
 
-    (d) __Deposit of Amounts Collected.—__ 
+    (d)  __Deposit of Amounts Collected__  __.—__ 
 
     Amounts collected from the sale or lease of a vessel or equipment under this section shall be deposited into the revolving fund authorized by section 101 (9th par.) of the Civil Functions Appropriation  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Appropriations”. </sup></sup>  Act, 1954 ([33 U.S.C. 576][/us/usc/t33/s576]), to be available, as provided in appropriation laws, for the operation and maintenance of vessels under the control of the Corps of Engineers.
 

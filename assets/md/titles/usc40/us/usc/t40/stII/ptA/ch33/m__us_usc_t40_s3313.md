@@ -15,15 +15,15 @@
 
 ## § 3313. Use of energy efficient lighting fixtures and bulbs
 
-    (a) __Construction, Alteration, and Acquisition of Public Buildings.—__ 
+    (a)  __Construction, Alteration, and Acquisition of Public Buildings__  __.—__ 
 
     Each public building constructed, altered, or acquired by the Administrator of General Services shall be equipped, to the maximum extent feasible as determined by the Administrator, with lighting fixtures and bulbs that are energy efficient.
 
-    (b) __Maintenance of Public Buildings.—__ 
+    (b)  __Maintenance of Public Buildings__  __.—__ 
 
     Each lighting fixture or bulb that is replaced by the Administrator in the normal course of maintenance of public buildings shall be replaced, to the maximum extent feasible, with a lighting fixture or bulb that is energy efficient.
 
-    (c) __Considerations.—__ 
+    (c)  __Considerations__  __.—__ 
 
     In making a determination under this section concerning the feasibility of installing a lighting fixture or bulb that is energy efficient, the Administrator shall consider—
 
@@ -37,7 +37,7 @@
 
         (5) such other factors as the Administrator determines appropriate.
 
-    (d) __Energy Star.—__ 
+    (d)  __Energy Star__  __.—__ 
 
     A lighting fixture or bulb shall be treated as being energy efficient for purposes of this section if—
 
@@ -47,19 +47,19 @@
 
         (3) the Administrator and the Secretary of Energy have otherwise determined that the fixture or bulb is energy efficient.
 
-    (e) __Additional Energy Efficient Lighting Designations.—__ 
+    (e)  __Additional Energy Efficient Lighting Designations__  __.—__ 
 
     The Administrator of the Environmental Protection Agency and the Secretary of Energy shall give priority to establishing Energy Star performance criteria or Federal Energy Management Program designations for additional lighting product categories that are appropriate for use in public buildings.
 
-    (f) __Guidelines.—__ 
+    (f)  __Guidelines__  __.—__ 
 
     The Administrator shall develop guidelines for the use of energy efficient lighting technologies that contain mercury in child care centers in public buildings.
 
-    (g) __Applicability of Buy American Act.—__ 
+    (g)  __Applicability of Buy American Act__  __.—__ 
 
     Acquisitions carried out pursuant to this section shall be subject to the requirements of the Buy American Act  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  ([41 U.S.C. 10c][/us/usc/t41/s10c] et seq.).
 
-    (h) __Effective Date.—__ 
+    (h)  __Effective Date__  __.—__ 
 
     The requirements of subsections (a) and (b) shall take effect 1 year after the date of enactment of this subsection.
 

@@ -219,7 +219,7 @@ SUBCHAPTER IV—WAGE RATE REQUIREMENTS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3144" data-uslm-ref="/us/usc/t40/s3144">3144.</a>  </td>
 
-    <td> Authority of Comptroller General to pay wages and list contractors violating contracts.  </td>
+    <td> Authority of Comptroller General to pay wages and list contractors violating contracts. <sup>[1]</sup>  <sup><sup> 1 Section catchline amended by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F113%2F50" data-uslm-ref="/us/pl/113/50">Pub. L. 113–50</a> without corresponding amendment of chapter analysis. </sup></sup>   </td>
 
   </tr>
 
@@ -307,7 +307,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3173" data-uslm-ref="/us/usc/t40/s3173">3173.</a>  </td>
 
-    <td> Working capital fund for blueprinting, photostating, and duplicating services in General Services Administration. <sup>[1]</sup>  <sup><sup> 1 Section catchline amended by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F111%2F8" data-uslm-ref="/us/pl/111/8">Pub. L. 111–8</a> without corresponding amendment of chapter analysis. </sup></sup>   </td>
+    <td> Working capital fund for blueprinting, photostating, and duplicating services in General Services Administration. <sup>[2]</sup>  <sup><sup> 2 Section catchline amended by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F111%2F8" data-uslm-ref="/us/pl/111/8">Pub. L. 111–8</a> without corresponding amendment of chapter analysis. </sup></sup>   </td>
 
   </tr>
 
@@ -339,7 +339,7 @@ SUBCHAPTER VI—MISCELLANEOUS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft40%2Fs3177" data-uslm-ref="/us/usc/t40/s3177">3177.</a>  </td>
 
-    <td> Use of photovoltaic energy in public buildings. <sup>[2]</sup>  <sup><sup> 2 Editorially supplied. Section 3177 added by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F109%2F58" data-uslm-ref="/us/pl/109/58">Pub. L. 109–58</a> without corresponding amendment of chapter analysis. </sup></sup>   </td>
+    <td> Use of photovoltaic energy in public buildings. <sup>[3]</sup>  <sup><sup> 3 Editorially supplied. Section 3177 added by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F109%2F58" data-uslm-ref="/us/pl/109/58">Pub. L. 109–58</a> without corresponding amendment of chapter analysis. </sup></sup>   </td>
 
   </tr>
 

@@ -17,7 +17,7 @@
 
     (a) __Reimbursement.—__ 
 
-        (1) __Requirement.—__ 
+        (1)  __Requirement__  __.—__ 
 
         When the Administrator of General Services takes over motor vehicles or related equipment or supplies under [section 602 of this title][/us/usc/t40/s602], reimbursement is required if the property is taken over from—
 
@@ -25,11 +25,11 @@
 
             (B) an agency, if the agency acquired the property through unreimbursed expenditures made from a revolving or trust fund authorized by law.
 
-        (2) __Amount.—__ 
+        (2)  __Amount__  __.—__ 
 
         The Administrator shall reimburse a Government corporation, or a fund through which an agency acquired property, by an amount equal to the fair market value of the property. If the Administrator subsequently returns property of a similar kind under [section 610 of this title][/us/usc/t40/s610], the Government corporation or the fund shall reimburse the Administrator by an amount equal to the fair market value of the property returned.
 
-    (b) __Addition to Acquisition Services Fund.—__ 
+    (b)  __Addition to Acquisition Services Fund__  __.—__ 
 
     If the Administrator takes over motor vehicles or related equipment or supplies under [section 602 of this title][/us/usc/t40/s602] but reimbursement is not required under subsection (a), the value of the property taken over, as determined by the Administrator, may be added to the capital of the Acquisition Services Fund. If the Administrator subsequently returns property of a similar kind under [section 610 of this title][/us/usc/t40/s610], the value of the property may be deducted from the Fund.
 

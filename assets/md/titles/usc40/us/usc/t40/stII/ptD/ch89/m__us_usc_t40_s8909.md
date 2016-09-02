@@ -15,15 +15,15 @@
 
 ## § 8909. Administrative
 
-    (a) __Maintenance of Documentation of Design and Construction.—__ 
+    (a)  __Maintenance of Documentation of Design and Construction__  __.—__ 
 
     Complete documentation of design and construction of each commemorative work located in the District of Columbia and its environs shall be provided to the Secretary of the Interior or Administrator of General Services, as appropriate, and shall be permanently maintained in the manner provided by law.
 
-    (b) __Responsibility for Maintenance of Completed Work.—__ 
+    (b)  __Responsibility for Maintenance of Completed Work__  __.—__ 
 
     On completion of any commemorative work in the District of Columbia and its environs, the Secretary or Administrator, as appropriate, shall assume responsibility for maintaining the work.
 
-    (c) __Regulations or Standards.—__ 
+    (c)  __Regulations or Standards__  __.—__ 
 
     The Secretary and Administrator shall prescribe appropriate regulations or standards to carry out this chapter.
 

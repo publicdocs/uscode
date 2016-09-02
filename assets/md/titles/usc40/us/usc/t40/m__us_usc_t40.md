@@ -17,7 +17,7 @@
 
 This title was enacted by [Pub. L. 107–217, § 1][/us/pl/107/217/s1], Aug. 21, 2002, [116 Stat. 1062][/us/stat/116/1062]
 
-Current through 113-49
+Current through 113-52
 
 <table>
 
@@ -11311,55 +11311,55 @@ T. 40 App. § 405  </td>
 
 [Pub. L. 108–178, § 1][/us/pl/108/178/s1], Dec. 15, 2003, [117 Stat. 2637][/us/stat/117/2637], provided that:
 
->     “(a) __Purpose.—__ 
+>     “(a)  __Purpose__  __.—__ 
 
 >     The purpose of this Act \[see Tables for classification\] is to improve the United States Code by making necessary technical changes.
 
->     “(b) __No Substantive Change.—__ 
+>     “(b)  __No Substantive Change__  __.—__ 
 
 >     This Act makes no substantive change in existing law and may not be construed as making a substantive change in existing law.
 
->     “(c) __Severability.—__ 
+>     “(c)  __Severability__  __.—__ 
 
 >     If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision enacted by this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
 
 [Pub. L. 107–217, § 5][/us/pl/107/217/s5], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], provided that:
 
->     “(a) __Purpose.—__ 
+>     “(a)  __Purpose__  __.—__ 
 
 >     The purpose of this Act is to revise, codify, and enact without substantive change the general and permanent laws of the United States related to public buildings, property, and works, in order to remove ambiguities, contradictions, and other imperfections and to repeal obsolete, superfluous, and superseded provisions.
 
 >     “(b) __No Substantive Change.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         This Act makes no substantive change in existing law and may not be construed as making a substantive change in existing law.
 
->         “(2) __Deemed date of enactment for certain purposes.—__ 
+>         “(2)  __Deemed date of enactment for certain purposes__  __.—__ 
 
 >         For purposes of determining whether one provision of law supersedes another based on enactment later in time, and otherwise to ensure that this Act makes no substantive change in existing law, the date of enactment of a provision restated in section 1 or 2 of this Act is deemed to remain unchanged, continuing to be the date of enactment of the underlying provision of public law that is being restated.
 
->         “(3) __Inconsistent laws enacted after__  __March 31, 2002__  __.—__ 
+>         “(3)  __Inconsistent laws enacted after March__  __31, 2002.—__ 
 
 >         This Act restates certain laws enacted before April 1, 2002. Any law enacted after March 31, 2002, that is inconsistent with this Act, including any law purporting to amend or repeal a provision that is repealed by this Act, supersedes this Act to the extent of the inconsistency.
 
->     “(c) __References.—__ 
+>     “(c)  __References__  __.—__ 
 
 >     A reference to a law replaced by section 1 or 2 of this Act, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding provision enacted by this Act.
 
->     “(d) __Continuing Effect.—__ 
+>     “(d)  __Continuing Effect__  __.—__ 
 
 >     An order, rule, or regulation in effect under a law replaced by section 1 or 2 of this Act continues in effect under the corresponding provision enacted by this Act until repealed, amended, or superseded.
 
->     “(e) __Actions and Offenses Under Prior Law.—__ 
+>     “(e)  __Actions and Offenses Under Prior Law__  __.—__ 
 
 >     An action taken or an offense committed under a law replaced by section 1 or 2 of this Act is deemed to have been taken or committed under the corresponding provision enacted by this Act.
 
->     “(f) __Inferences.—__ 
+>     “(f)  __Inferences__  __.—__ 
 
 >     An inference of a legislative construction is not to be drawn by reason of the location in the United States Code of a provision enacted by this Act or by reason of a caption or catch line of the provision.
 
->     “(g) __Severability.—__ 
+>     “(g)  __Severability__  __.—__ 
 
 >     If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision enacted by this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
 

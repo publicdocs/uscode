@@ -15,13 +15,13 @@
 
 ## § 8711. National Capital Planning Commission
 
-    (a) __Establishment and Purpose.—__ 
+    (a)  __Establishment and Purpose__  __.—__ 
 
     The National Capital Planning Commission is the central federal planning agency for the Federal Government in the National Capital, created to preserve the important historical and natural features of the National Capital, except for the United States Capitol Buildings and Grounds (as defined and described in sections 5101 and 5102 of this title), any extension of, or additions to, those Buildings and Grounds, and buildings and grounds under the care of the Architect of the Capitol.
 
     (b) __Composition.—__ 
 
-        (1) __Membership.—__ 
+        (1)  __Membership__  __.—__ 
 
         The National Capital Planning Commission is composed of—
 
@@ -29,27 +29,27 @@
 
             (B) five citizens with experience in city or regional planning, three of whom shall be appointed by the President and two of whom shall be appointed by the Mayor.
 
-        (2) __Residency requirement.—__ 
+        (2)  __Residency requirement__  __.—__ 
 
         The citizen members appointed by the Mayor shall be residents of the District of Columbia. Of the three appointed by the President, at least one shall be a resident of Virginia and at least one shall be a resident of Maryland.
 
-        (3) __Terms.—__ 
+        (3)  __Terms__  __.—__ 
 
         An individual appointed by the President serves for six years. An individual appointed by the Mayor serves for four years. An individual appointed to fill a vacancy shall be appointed only for the unexpired term of the individual being replaced.
 
-        (4) __Pay and expenses.—__ 
+        (4)  __Pay and expenses__  __.—__ 
 
         Citizen members are entitled to $100 a day when performing duties vested in the Commission and to reimbursement for necessary expenses incurred in performing those duties.
 
-    (c) __Chairman and Officers.—__ 
+    (c)  __Chairman and Officers__  __.—__ 
 
     The President shall designate the Chairman of the National Capital Planning Commission. The Commission may elect from among its members other officers as it considers desirable.
 
-    (d) __Personnel.—__ 
+    (d)  __Personnel__  __.—__ 
 
     The National Capital Planning Commission may employ a Director, an executive officer, and other technical and administrative personnel as it considers necessary. Without regard to section 6101(b) to (d) of title 41 and section 3109, chapters 33 and 51, and subchapter III of chapter 53, of title 5, the Commission may employ, by contract or otherwise, the temporary or intermittent (not more than one year) services of city planners, architects, engineers, appraisers, and other experts or organizations of experts, as may be necessary to carry out its functions. The Commission shall fix the rate of compensation so as not to exceed the rate usual for similar services.
 
-    (e) __Principal Duties.—__ 
+    (e)  __Principal Duties__  __.—__ 
 
     The principal duties of the National Capital Planning Commission include—
 
@@ -57,15 +57,15 @@
 
         (2) serving as the central planning agency for the Government within the National Capital region and reviewing the development programs of the developmental agencies to advise as to consistency with the comprehensive plan.
 
-    (f) __Transfer of Other Functions, Powers, and Duties.—__ 
+    (f)  __Transfer of Other Functions, Powers, and Duties__  __.—__ 
 
     The National Capital Planning Commission shall carry out all other functions, powers, and duties of the National Capital Park and Planning Commission, including those formerly vested in the Highway Commission established by the Act of March 2, 1893 (ch. 197, [27 Stat. 532][/us/stat/27/532]), and those formerly vested in the National Capital Park Commission by the Act of June 6, 1924 (ch. 270, [43 Stat. 463][/us/stat/43/463]).
 
-    (g) __Estimate.—__ 
+    (g)  __Estimate__  __.—__ 
 
     The National Capital Planning Commission shall submit to the Office of Management and Budget before December 16 of each year its estimate of the total amount to be appropriated for expenditure under this chapter (except sections 8732–8736) during the next fiscal year.
 
-    (h) __Fees.—__ 
+    (h)  __Fees__  __.—__ 
 
     The National Capital Planning Commission may charge fees to cover the full cost of Geographic Information System products and services the Commission supplies. The fees shall be credited to the applicable appropriation account as an offsetting collection and remain available until expended.
 

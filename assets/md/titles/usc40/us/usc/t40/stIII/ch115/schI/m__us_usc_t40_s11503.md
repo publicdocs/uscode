@@ -15,7 +15,7 @@
 
 ## § 11503. Report
 
-    (a) __Requirement.—__ 
+    (a)  __Requirement__  __.—__ 
 
     Not later than 180 days after the completion of the pilot program under this chapter, the Administrator for Federal Procurement Policy shall—
 
@@ -23,7 +23,7 @@
 
         (2) provide a copy of the report to Congress.
 
-    (b) __Content.—__ 
+    (b)  __Content__  __.—__ 
 
     The report shall include—
 

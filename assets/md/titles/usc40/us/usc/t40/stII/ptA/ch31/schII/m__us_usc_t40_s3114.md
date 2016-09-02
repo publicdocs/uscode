@@ -15,7 +15,7 @@
 
 ## § 3114. Declaration of taking
 
-    (a) __Filing and Content.—__ 
+    (a)  __Filing and Content__  __.—__ 
 
     In any proceeding in any court of the United States outside of the District of Columbia brought by and in the name of the United States and under the authority of the Federal Government to acquire land, or an easement or right of way in land, for the public use, the petitioner may file, with the petition or at any time before judgment, a declaration of taking signed by the authority empowered by law to acquire the land described in the petition, declaring that the land is taken for the use of the Government. The declaration of taking shall contain or have annexed to it—
 
@@ -29,7 +29,7 @@
 
         (5) a statement of the amount of money estimated by the acquiring authority to be just compensation for the land taken.
 
-    (b) __Vesting of Title.—__ 
+    (b)  __Vesting of Title__  __.—__ 
 
     On filing the declaration of taking and depositing in the court, to the use of the persons entitled to the compensation, the amount of the estimated compensation stated in the declaration—
 
@@ -41,19 +41,19 @@
 
     (c) __Compensation.—__ 
 
-        (1) __Determination and award.—__ 
+        (1)  __Determination and award__  __.—__ 
 
         Compensation shall be determined and awarded in the proceeding and established by judgment. The judgment shall include interest, in accordance with [section 3116 of this title][/us/usc/t40/s3116], on the amount finally awarded as the value of the property as of the date of taking and shall be awarded from that date to the date of payment. Interest shall not be allowed on as much of the compensation as has been paid into the court. Amounts paid into the court shall not be charged with commissions or poundage.
 
-        (2) __Order to pay.—__ 
+        (2)  __Order to pay__  __.—__ 
 
         On application of the parties in interest, the court may order that any part of the money deposited in the court be paid immediately for or on account of the compensation to be awarded in the proceeding.
 
-        (3) __Deficiency judgment.—__ 
+        (3)  __Deficiency judgment__  __.—__ 
 
         If the compensation finally awarded is more than the amount of money received by any person entitled to compensation, the court shall enter judgment against the Government for the amount of the deficiency.
 
-    (d) __Authority of Court.—__ 
+    (d)  __Authority of Court__  __.—__ 
 
     On the filing of a declaration of taking, the court—
 
@@ -61,7 +61,7 @@
 
         (2) may make just and equitable orders in respect of encumbrances, liens, rents, taxes, assessments, insurance, and other charges.
 
-    (e) __Vesting Not Prevented or Delayed.—__ 
+    (e)  __Vesting Not Prevented or Delayed__  __.—__ 
 
     An appeal or a bond or undertaking given in a proceeding does not prevent or delay the vesting of title to land in the Government.
 

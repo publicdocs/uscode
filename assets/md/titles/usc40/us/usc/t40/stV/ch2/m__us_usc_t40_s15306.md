@@ -17,7 +17,7 @@
 
     (a) __Conflicts of Interest.—__ 
 
-        (1) __No role allowed.—__ 
+        (1)  __No role allowed__  __.—__ 
 
         Except as permitted by paragraph (2), an individual who is a State member or alternate, or an officer or employee of a Commission, shall not participate personally and substantially as a member, alternate, officer, or employee of the Commission, through decision, approval, disapproval, recommendation, request for a ruling, or other determination, contract, claim, controversy, or other matter in which, to the individual’s knowledge, any of the following has a financial interest:
 
@@ -29,7 +29,7 @@
 
             (D) Any person or organization with whom the individual is negotiating or has any arrangement concerning prospective employment.
 
-        (2) __Exception.—__ 
+        (2)  __Exception__  __.—__ 
 
         Paragraph (1) shall not apply if the individual, in advance of the proceeding, application, request for a ruling or other determination, contract, claim controversy, or other particular matter presenting a potential conflict of interest—
 
@@ -39,29 +39,29 @@
 
             (C) receives a written decision of the Commission that the interest is not so substantial as to be considered likely to affect the integrity of the services that the Commission may expect from the individual.
 
-        (3) __Violation.—__ 
+        (3)  __Violation__  __.—__ 
 
         An individual violating this subsection shall be fined under title 18, imprisoned for not more than 1 year, or both.
 
-    (b) __State Member or Alternate.—__ 
+    (b)  __State Member or Alternate__  __.—__ 
 
     A State member or alternate member may not receive any salary, or any contribution to, or supplementation of, salary, for services on a Commission from a source other than the State of the member or alternate.
 
     (c) __Detailed Employees.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         No person detailed to serve a Commission shall receive any salary, or any contribution to, or supplementation of, salary, for services provided to the Commission from any source other than the State, local, or intergovernmental department or agency from which the person was detailed to the Commission.
 
-        (2) __Violation.—__ 
+        (2)  __Violation__  __.—__ 
 
         Any person that violates this subsection shall be fined under title 18, imprisoned not more than 1 year, or both.
 
-    (d) __Federal Cochairman, Alternate to Federal Cochairman, and Federal Officers and Employees.—__ 
+    (d)  __Federal Cochairman, Alternate to Federal Cochairman, and Federal Officers and Employees__  __.—__ 
 
     The Federal Cochairman, the alternate to the Federal Cochairman, and any Federal officer or employee detailed to duty with the Commission are not subject to this section but remain subject to sections 202 through 209 of title 18.
 
-    (e) __Rescission.—__ 
+    (e)  __Rescission__  __.—__ 
 
     A Commission may declare void any contract, loan, or grant of or by the Commission in relation to which the Commission determines that there has been a violation of any provision under subsection (a)(1), (b), or (c), or any of the provisions of sections 202 through 209 of title 18.
 

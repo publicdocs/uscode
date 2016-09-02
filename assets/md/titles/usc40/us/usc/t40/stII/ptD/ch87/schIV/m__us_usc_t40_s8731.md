@@ -15,35 +15,35 @@
 
 ## § 8731. Acquiring land for park, parkway, or playground purposes
 
-    (a) __Authority To Acquire Land.—__ 
+    (a)  __Authority To Acquire Land__  __.—__ 
 
     The National Capitol Planning Commission shall acquire land the Planning Commission believes is necessary and desirable in the District of Columbia and adjacent areas in Maryland and Virginia for suitable development of the National Capital park, parkway, and playground system. The acquisition must be within the limits of the appropriations made for those purposes. The Planning Commission shall request the advice of the Commission of Fine Arts in selecting land to be acquired.
 
     (b) __How Land May Be Acquired.—__ 
 
-        (1) __Purchase or condemnation proceeding.—__ 
+        (1)  __Purchase or condemnation proceeding__  __.—__ 
 
         The National Capital Planning Commission may buy land when the land can be acquired at a price the Planning Commission considers reasonable or by a condemnation proceeding when the land cannot be bought at a reasonable price.
 
-        (2) __Land in the district of columbia.—__ 
+        (2)  __Land in the district of columbia__  __.—__ 
 
         A condemnation proceeding to acquire land in the District of Columbia shall be conducted in accordance with [section 1 of the Act of December 23, 1963][/us/act/1963-12-23/s1] ([Public Law 88–241][/us/pl/88/241], [77 Stat. 571][/us/stat/77/571]).
 
-        (3) __Land in maryland or virginia.—__ 
+        (3)  __Land in maryland or virginia__  __.—__ 
 
         The Planning Commission may acquire land in Maryland or Virginia under arrangements agreed to by the Commission and the proper officials of Maryland or Virginia.
 
     (c) __Control of Land.—__ 
 
-        (1) __Land in the district of columbia.—__ 
+        (1)  __Land in the district of columbia__  __.—__ 
 
         Land acquired in the District of Columbia shall be a part of the park system of the District of Columbia and be under the control of the Director of the National Park Service. The National Capital Planning Commission may assign areas suitable for playground purposes to the control of the Mayor of the District of Columbia for playground purposes.
 
-        (2) __Land in maryland or virginia.—__ 
+        (2)  __Land in maryland or virginia__  __.—__ 
 
         Land acquired in Maryland or Virginia shall be controlled as determined by agreement between the Planning Commission and the proper officials of Maryland or Virginia.
 
-    (d) __Presidential Approval Required.—__ 
+    (d)  __Presidential Approval Required__  __.—__ 
 
     The designation of all land to be acquired by condemnation, all contracts to purchase land, and all agreements between the National Capital Planning Commission and the officials of Maryland and Virginia are subject to the approval of the President.
 

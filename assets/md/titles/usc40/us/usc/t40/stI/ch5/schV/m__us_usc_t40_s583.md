@@ -15,7 +15,7 @@
 
 ## § 583. Construction of buildings
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     At the request of a federal agency, a mixed-ownership Government corporation (as defined in chapter 91 of title 31), or the District of Columbia, the Administrator of General Services may—
 
@@ -25,7 +25,7 @@
 
         (3) contract for, and supervise, the construction, development, and equipping of a building or project.
 
-    (b) __Transfer of Amounts.—__ 
+    (b)  __Transfer of Amounts__  __.—__ 
 
     An amount available to a federal agency or instrumentality for a building or project may be transferred, in advance, to the General Services Administration for purposes the Administrator determines are necessary, including payment of salaries and expenses for preparing plans and specifications and for field supervision.
 

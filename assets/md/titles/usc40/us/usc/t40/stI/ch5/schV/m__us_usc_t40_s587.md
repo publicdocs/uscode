@@ -15,25 +15,25 @@
 
 ## § 587. Telecommuting and other alternative workplace arrangements
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, the term “telecommuting centers” means flexiplace work telecommuting centers.
 
     (b) __Telecommuting Centers Established by Administrator of General Services.—__ 
 
-        (1) __Establishment.—__ 
+        (1)  __Establishment__  __.—__ 
 
         The Administrator of General Services may acquire space for, establish, and equip telecommuting centers for use in accordance with this subsection.
 
-        (2) __Use.—__ 
+        (2)  __Use__  __.—__ 
 
         A telecommuting center may be used by employees of federal agencies, state and local governments, and the private sector. The Administrator shall give federal employees priority in using a telecommuting center. The Administrator may make a telecommuting center available for use by others to the extent it is not fully utilized by federal employees.
 
-        (3) __User fees.—__ 
+        (3)  __User fees__  __.—__ 
 
         The Administrator shall charge a user fee for the use of a telecommuting center. The amount of the user fee shall approximate commercial charges for comparable space and services. However, the user fee may not be less than necessary to pay the cost of establishing and operating the telecommuting center, including the reasonable cost of renovation and replacement of furniture, fixtures, and equipment.
 
-        (4) __Deposit and use of fees.—__ 
+        (4)  __Deposit and use of fees__  __.—__ 
 
         The Administrator may—
 
@@ -43,25 +43,25 @@
 
     (c) __Development of Alternative Workplace Arrangements by Executive Agencies and Others.—__ 
 
-        (1) __Definition.—__ 
+        (1)  __Definition__  __.—__ 
 
         In this subsection, the term “alternative workplace arrangements” includes telecommuting, hoteling, virtual offices, and other distributive work arrangements.
 
-        (2) __Consideration by executive agencies.—__ 
+        (2)  __Consideration by executive agencies__  __.—__ 
 
         In considering whether to acquire space, quarters, buildings, or other facilities for use by employees, the head of an executive agency shall consider whether needs can be met using alternative workplace arrangements.
 
-        (3) __Guidance from administrator.—__ 
+        (3)  __Guidance from administrator__  __.—__ 
 
         The Administrator may provide guidance, assistance, and oversight to any person regarding the establishment and operation of alternative workplace arrangements.
 
     (d) __Amounts Available for Flexiplace Work Telecommuting Programs.—__ 
 
-        (1) __Definition.—__ 
+        (1)  __Definition__  __.—__ 
 
         In this subsection, the term “flexiplace work telecommuting program” means a program under which employees of a department or agency set out in paragraph (2) are permitted to perform all or a portion of their duties at a telecommuting center established under this section or other federal law.
 
-        (2) __Minimum funding.—__ 
+        (2)  __Minimum funding__  __.—__ 
 
         For each of the following departments and agencies, in each fiscal year at least $50,000 of amounts made available for salaries and expenses is available only for carrying out a flexiplace work telecommuting program:
 

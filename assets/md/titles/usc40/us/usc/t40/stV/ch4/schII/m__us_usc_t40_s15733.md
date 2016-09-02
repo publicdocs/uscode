@@ -17,19 +17,19 @@
 
     The region of the Northern Border Regional Commission shall include the following counties:
 
-    (1) __Maine.—__ 
+    (1)  __Maine__  __.—__ 
 
     The counties of Androscoggin, Aroostook, Franklin, Hancock, Kennebec, Knox, Oxford, Penobscot, Piscataquis, Somerset, Waldo, and Washington in the State of Maine.
 
-    (2) __New hampshire.—__ 
+    (2)  __New hampshire__  __.—__ 
 
     The counties of Carroll, Coos, Grafton, and Sullivan in the State of New Hampshire.
 
-    (3) __New york.—__ 
+    (3)  __New york__  __.—__ 
 
     The counties of Cayuga, Clinton, Essex, Franklin, Fulton, Hamilton, Herkimer, Jefferson, Lewis, Madison, Oneida, Oswego, Seneca, and St. Lawrence in the State of New York.
 
-    (4) __Vermont.—__ 
+    (4)  __Vermont__  __.—__ 
 
     The counties of Caledonia, Essex, Franklin, Grand Isle, Lamoille, and Orleans in the State of Vermont.
 

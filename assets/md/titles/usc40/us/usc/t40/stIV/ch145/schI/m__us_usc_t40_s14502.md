@@ -15,31 +15,31 @@
 
 ## § 14502. Demonstration health projects
 
-    (a) __Purpose.—__ 
+    (a)  __Purpose__  __.—__ 
 
     To demonstrate the value of adequate health facilities and services to the economic development of the Appalachian region, the Secretary of Health and Human Services may make grants for the planning, construction, equipment, and operation of multi-county demonstration health, nutrition, and child care projects, including hospitals, regional health diagnostic and treatment centers, and other facilities and services necessary for the purposes of this section.
 
     (b) __Planning Grants.—__ 
 
-        (1) __Authority to provide amounts and make grants.—__ 
+        (1)  __Authority to provide amounts and make grants__  __.—__ 
 
         The Secretary may provide amounts to the Appalachian Regional Commission for the support of its Health Advisory Committee and may make grants for expenses of planning necessary for the development and operation of demonstration health projects for the region.
 
-        (2) __Limitation on available amounts.—__ 
+        (2)  __Limitation on available amounts__  __.—__ 
 
         The amount of a grant under this section for planning shall not be more than 75 percent of expenses.
 
-        (3) __Sources of assistance.—__ 
+        (3)  __Sources of assistance__  __.—__ 
 
         The federal contribution may be provided entirely from amounts authorized under this section or in combination with amounts provided under other federal or federal grant programs.
 
-        (4) __Federal share.—__ 
+        (4)  __Federal share__  __.—__ 
 
         Notwithstanding any provision of law limiting the federal share in those other programs, amounts appropriated to carry out this section may be used to increase the federal share to the maximum percentage cost of a grant authorized by this subsection.
 
     (c) __Construction and Equipment Grants.—__ 
 
-        (1) __Additional uses for construction grants.—__ 
+        (1)  __Additional uses for construction grants__  __.—__ 
 
         Grants under this section for construction may also be used for—
 
@@ -53,25 +53,25 @@
 
             (B) initial equipment.
 
-        (2) __Standards for making grants.—__ 
+        (2)  __Standards for making grants__  __.—__ 
 
         Grants under this section for construction shall be made in accordance with [section 14523 of this title][/us/usc/t40/s14523] and shall not be incompatible with the applicable provisions of title VI of the Public Health Service Act ([42 U.S.C. 291][/us/usc/t42/s291] et seq.), the Developmental Disabilities Assistance and Bill of Rights Act of 2000 ([42 U.S.C. 15001][/us/usc/t42/s15001] et seq.), and other laws authorizing grants for the construction of health-related facilities, without regard to any provisions in those laws relating to appropriation authorization ceilings or to allotments among the States.
 
-        (3) __Limitation on available amounts.—__ 
+        (3)  __Limitation on available amounts__  __.—__ 
 
         A grant for the construction or equipment of any component of a demonstration health project shall not be more than 80 percent of the cost.
 
-        (4) __Sources of assistance.—__ 
+        (4)  __Sources of assistance__  __.—__ 
 
         The federal contribution may be provided entirely from amounts authorized under this section or in combination with amounts provided under other federal grant programs for the construction or equipment of health-related facilities.
 
-        (5) __Federal share.—__ 
+        (5)  __Federal share__  __.—__ 
 
         Notwithstanding any provision of law limiting the federal share in those other programs, amounts authorized under this section may be used to increase federal grants for component facilities of a demonstration health project to a maximum of 80 percent of the cost of the facilities.
 
     (d) __Operation Grants.—__ 
 
-        (1) __Standards for making grants.—__ 
+        (1)  __Standards for making grants__  __.—__ 
 
         A grant for the operation of a demonstration health project shall not be made—
 
@@ -81,7 +81,7 @@
 
             (C) unless the Secretary of Health and Human Services is satisfied that the operation of the project will be conducted under efficient management practices designed to obviate operating deficits.
 
-        (2) __Limitation on available amounts.—__ 
+        (2)  __Limitation on available amounts__  __.—__ 
 
         Grants under this section for the operation (including initial operating amounts and operating deficits, which include the cost of attracting, training, and retaining qualified personnel) of a demonstration health project, whether or not constructed with amounts authorized to be appropriated by this section, may be made for up to—
 
@@ -91,19 +91,19 @@
 
             (C) in the case of a project to be carried out for a county for which an at-risk county designation is in effect under section 14526, 70 percent of the cost of that operation.
 
-        (3) __Sources of assistance.—__ 
+        (3)  __Sources of assistance__  __.—__ 
 
         The federal contribution may be provided entirely from amounts appropriated to carry out this section or in combination with amounts provided under other federal grant programs for the operation of health related facilities and the provision of health and child development services, including parts A and B of title IV and title XX of the Social Security Act ([42 U.S.C. 601][/us/usc/t42/s601] et seq., 620 et seq., 1397 et seq.).
 
-        (4) __Federal share.—__ 
+        (4)  __Federal share__  __.—__ 
 
         Notwithstanding any provision of law limiting the federal share in those other programs, amounts appropriated to carry out this section may be used to increase federal grants for operating components of a demonstration health project to the maximum percentage cost of a grant authorized by this subsection.
 
-        (5) __State deemed to meet requirement of providing assistance or services on statewide basis.—__ 
+        (5)  __State deemed to meet requirement of providing assistance or services on statewide basis__  __.—__ 
 
         Notwithstanding any provision of the Social Security Act ([42 U.S.C. 301][/us/usc/t42/s301] et seq.) requiring assistance or services on a statewide basis, a State providing assistance or services under a federal grant program described in paragraph (2) in any area of the region approved by the Commission is deemed to be meeting that requirement.
 
-    (e) __Grant Sources and Use of Grants in Computing Allotments.—__ 
+    (e)  __Grant Sources and Use of Grants in Computing Allotments__  __.—__ 
 
     Grants under this section—
 
@@ -113,11 +113,11 @@
 
     (f) __Maximum Commission Contribution.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Subject to paragraphs (2) and (3), the Commission may contribute not more than 50 percent of any project cost eligible for financial assistance under this section from amounts appropriated to carry out this subtitle.
 
-        (2) __Distressed counties.—__ 
+        (2)  __Distressed counties__  __.—__ 
 
         The maximum Commission contribution for a project to be carried out in a county for which a distressed county designation is in effect under [section 14526 of this title][/us/usc/t40/s14526] may be increased to the lesser of—
 
@@ -125,7 +125,7 @@
 
             (B) the maximum federal contribution percentage authorized by this section.
 
-        (3) __At-risk counties.—__ 
+        (3)  __At-risk counties__  __.—__ 
 
         The maximum Commission contribution for a project to be carried out in a county for which an at-risk county designation is in effect under section 14526 may be increased to the lesser of—
 
@@ -133,7 +133,7 @@
 
             (B) the maximum Federal contribution percentage authorized by this section.
 
-    (g) __Emphasis on Occupational Diseases From Coal Mining.—__ 
+    (g)  __Emphasis on Occupational Diseases From Coal Mining__  __.—__ 
 
     To provide for the further development of the Appalachian region’s human resources, grants under this section shall give special emphasis to programs and research for the early detection, diagnosis, and treatment of occupational diseases arising from coal mining, such as black lung.
 

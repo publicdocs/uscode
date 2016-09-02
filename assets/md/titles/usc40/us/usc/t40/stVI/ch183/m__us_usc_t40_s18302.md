@@ -17,7 +17,7 @@
 
     In this chapter, the following definitions apply:
 
-    (1) __Arbitration.—__ 
+    (1)  __Arbitration__  __.—__ 
 
     The term “arbitration”—
 
@@ -25,11 +25,11 @@
 
         (B) does not include the interpretation and application of rights arising from an existing collective bargaining agreement.
 
-    (2) __Arbitrator.—__ 
+    (2)  __Arbitrator__  __.—__ 
 
     The term “arbitrator” refers to either a single arbitrator, or a board of arbitrators, chosen under applicable procedures.
 
-    (3) __Interstate compact agency operating in the national capital area.—__ 
+    (3)  __Interstate compact agency operating in the national capital area__  __.—__ 
 
     The term “interstate compact agency operating in the national capital area” means any interstate compact agency that provides public transit services and that was established by an interstate compact to which the District of Columbia is a signatory.
 

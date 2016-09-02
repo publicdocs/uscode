@@ -17,13 +17,13 @@
 
     (a) __In General.—__ 
 
-        (1) __Separate fund.—__ 
+        (1)  __Separate fund__  __.—__ 
 
         Except as provided in subsection (b), proceeds of the disposition of surplus real and related personal property by the Administrator of General Services shall be set aside in a separate fund in the Treasury.
 
         (2) __Payment of expenses from the fund.—__ 
 
-            (A) __Authority.—__ 
+            (A)  __Authority__  __.—__ 
 
             From the fund described in paragraph (1), the Administrator may obligate an amount to pay the following direct expenses incurred for the use of excess property and the disposal of surplus property under this subtitle:
 
@@ -35,47 +35,47 @@
 
             (B) __Limitations.—__ 
 
-                (i) __Percentage limitation.—__ 
+                (i)  __Percentage limitation__  __.—__ 
 
                 In each fiscal year, no more than 12 percent of the proceeds of all dispositions of surplus real and related personal property may be paid to meet direct expenses incurred in connection with the dispositions.
 
-                (ii) __Determination of maximum amount.—__ 
+                (ii)  __Determination of maximum amount__  __.—__ 
 
                 The Director of the Office of Management and Budget each quarter shall determine the maximum amount that may be obligated under this paragraph.
 
-            (C) __Direct payment or reimbursement.—__ 
+            (C)  __Direct payment or reimbursement__  __.—__ 
 
             An amount obligated under this paragraph may be used to pay an expense directly or to reimburse a fund or appropriation that initially paid the expense.
 
-        (3) __Transfer to miscellaneous receipts.—__ 
+        (3)  __Transfer to miscellaneous receipts__  __.—__ 
 
         At least once each year, excess amounts beyond current operating needs shall be transferred from the fund described in paragraph (1) to miscellaneous receipts.
 
-        (4) __Report.—__ 
+        (4)  __Report__  __.—__ 
 
         A report of receipts, disbursements, and transfers to miscellaneous receipts under this subsection shall be made annually, in connection with the budget estimate, to the Director and to Congress.
 
     (b) __Real Property Under Control of a Military Department.—__ 
 
-        (1) __Definitions.—__ 
+        (1)  __Definitions__  __.—__ 
 
         In this subsection, the following definitions apply:
 
-            (A) __Military installation.—__ 
+            (A)  __Military installation__  __.—__ 
 
             The term “military installation” has the meaning given that term in section 2687(e)(1)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 10.
 
-            (B) __Base closure law.—__ 
+            (B)  __Base closure law__  __.—__ 
 
             The term “base closure law” has the meaning given that term in [section 101(a)(17) of title 10][/us/usc/t10/s101/a/17].
 
         (2) __Application.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             This subsection applies to real property, including any improvement on the property, that is under the control of a military department and that the Secretary of the department determines is excess to the department’s needs.
 
-            (B) __Exceptions.—__ 
+            (B)  __Exceptions__  __.—__ 
 
             This subsection does not apply to—
 
@@ -83,21 +83,21 @@
 
                 (ii) property at a military installation designated for closure or realignment pursuant to a base closure law.
 
-        (3) __Transfer between military departments.—__ 
+        (3)  __Transfer between military departments__  __.—__ 
 
         The Secretary of Defense shall provide that property described in paragraph (2) is available for transfer, without reimbursement, to other military departments within the Department of Defense.
 
-        (4) __Alternative disposition by administrator of general services.—__ 
+        (4)  __Alternative disposition by administrator of general services__  __.—__ 
 
         If property is not transferred pursuant to paragraph (3), the Secretary of the military department with the property under its control shall request the Administrator to transfer or dispose of the property in accordance with this subtitle or other applicable law.
 
         (5) __Proceeds.—__ 
 
-            (A) __Deposit in special account.—__ 
+            (A)  __Deposit in special account__  __.—__ 
 
             For a transfer or disposition of property pursuant to paragraph (4), the Administrator shall deposit any proceeds (less expenses of the transfer or disposition as provided in subsection (a)) in a special account in the Treasury.
 
-            (B) __Availability of amount deposited.—__ 
+            (B)  __Availability of amount deposited__  __.—__ 
 
             To the extent provided in an appropriation law, an amount deposited in a special account under subparagraph (A) is available for facility maintenance and repair or environmental restoration as follows:
 
@@ -111,7 +111,7 @@
 
                     (II) 50 percent of the amount is available for facility maintenance and repair and for environmental restoration by the military department that had jurisdiction over the property before it was disposed of or transferred.
 
-        (6) __Report.—__ 
+        (6)  __Report__  __.—__ 
 
         As part of the annual request for authorizations of appropriations to the Committees on Armed Services of the Senate and the House of Representatives, the Secretary of Defense shall include an accounting of each transfer and disposal made in accordance with this subsection during the fiscal year preceding the fiscal year in which the request is made. The accounting shall include a detailed explanation of each transfer and disposal and of the use of the proceeds received from it by the Department of Defense.
 

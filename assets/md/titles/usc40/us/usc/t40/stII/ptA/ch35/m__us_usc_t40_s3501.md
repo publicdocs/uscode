@@ -17,15 +17,15 @@
 
     In this chapter, the following definitions apply:
 
-    (1) __Public agency.—__ 
+    (1)  __Public agency__  __.—__ 
 
     The term “public agency” means a State or a public agency or political subdivision of a State.
 
-    (2) __Public works.—__ 
+    (2)  __Public works__  __.—__ 
 
     The term “public works” includes any public works other than housing.
 
-    (3) __State.—__ 
+    (3)  __State__  __.—__ 
 
     The term “State” means a State of the United States, the District of Columbia, Puerto Rico, Guam, the Virgin Islands, the Northern Mariana Islands, the Federated States of Micronesia, the Marshall Islands, Palau, and any territory or possession of the United States.
 

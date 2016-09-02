@@ -15,43 +15,43 @@
 
 ## § 15702. Distressed counties and areas
 
-    (a) __Designations.—__ 
+    (a)  __Designations__  __.—__ 
 
     Not later than 90 days after the date of the enactment of this section, and annually thereafter, each Commission shall make the following designations:
 
-        (1) __Distressed counties.—__ 
+        (1)  __Distressed counties__  __.—__ 
 
         The Commission shall designate as distressed counties those counties in its region that are the most severely and persistently economically distressed and underdeveloped and have high rates of poverty, unemployment, or outmigration.
 
-        (2) __Transitional counties.—__ 
+        (2)  __Transitional counties__  __.—__ 
 
         The Commission shall designate as transitional counties those counties in its region that are economically distressed and underdeveloped or have recently suffered high rates of poverty, unemployment, or outmigration.
 
-        (3) __Attainment counties.—__ 
+        (3)  __Attainment counties__  __.—__ 
 
         The Commission shall designate as attainment counties, those counties in its region that are not designated as distressed or transitional counties under this subsection.
 
-        (4) __Isolated areas of distress.—__ 
+        (4)  __Isolated areas of distress__  __.—__ 
 
         The Commission shall designate as isolated areas of distress, areas located in counties designated as attainment counties under paragraph (3) that have high rates of poverty, unemployment, or outmigration.
 
-    (b) __Allocation.—__ 
+    (b)  __Allocation__  __.—__ 
 
     A Commission shall allocate at least 50 percent of the appropriations made available to the Commission to carry out this subtitle for programs and projects designed to serve the needs of distressed counties and isolated areas of distress in the region.
 
     (c) __Attainment Counties.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Except as provided in paragraph (2), funds may not be provided under this subtitle for a project located in a county designated as an attainment county under subsection (a).
 
         (2) __Exceptions.—__ 
 
-            (A) __Administrative expenses of local development districts.—__ 
+            (A)  __Administrative expenses of local development districts__  __.—__ 
 
             The funding prohibition under paragraph (1) shall not apply to grants to fund the administrative expenses of local development districts under section 15505.
 
-            (B) __Multicounty and other projects.—__ 
+            (B)  __Multicounty and other projects__  __.—__ 
 
             A Commission may waive the application of the funding prohibition under paragraph (1) with respect to—
 
@@ -59,7 +59,7 @@
 
                 (ii) any other type of project, if a Commission determines that the project could bring significant benefits to areas of the region outside an attainment county.
 
-        (3) __Isolated areas of distress.—__ 
+        (3)  __Isolated areas of distress__  __.—__ 
 
         For a designation of an isolated area of distress to be effective, the designation shall be supported—
 

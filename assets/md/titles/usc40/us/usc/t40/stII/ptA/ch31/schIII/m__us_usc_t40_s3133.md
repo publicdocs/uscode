@@ -15,17 +15,17 @@
 
 ## § 3133. Rights of persons furnishing labor or material
 
-    (a) __Right of Person Furnishing Labor or Material to Copy of Bond.—__ 
+    (a)  __Right of Person Furnishing Labor or Material to Copy of Bond__  __.—__ 
 
     The department secretary or agency head of the contracting agency shall furnish a certified copy of a payment bond and the contract for which it was given to any person applying for a copy who submits an affidavit that the person has supplied labor or material for work described in the contract and payment for the work has not been made or that the person is being sued on the bond. The copy is prima facie evidence of the contents, execution, and delivery of the original. Applicants shall pay any fees the department secretary or agency head of the contracting agency fixes to cover the cost of preparing the certified copy.
 
     (b) __Right To Bring a Civil Action.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Every person that has furnished labor or material in carrying out work provided for in a contract for which a payment bond is furnished under [section 3131 of this title][/us/usc/t40/s3131] and that has not been paid in full within 90 days after the day on which the person did or performed the last of the labor or furnished or supplied the material for which the claim is made may bring a civil action on the payment bond for the amount unpaid at the time the civil action is brought and may prosecute the action to final execution and judgment for the amount due.
 
-        (2) __Person having direct contractual relationship with a subcontractor.—__ 
+        (2)  __Person having direct contractual relationship with a subcontractor__  __.—__ 
 
         A person having a direct contractual relationship with a subcontractor but no contractual relationship, express or implied, with the contractor furnishing the payment bond may bring a civil action on the payment bond on giving written notice to the contractor within 90 days from the date on which the person did or performed the last of the labor or furnished or supplied the last of the material for which the claim is made. The action must state with substantial accuracy the amount claimed and the name of the party to whom the material was furnished or supplied or for whom the labor was done or performed. The notice shall be served—
 
@@ -33,7 +33,7 @@
 
             (B) in any manner in which the United States marshal of the district in which the public improvement is situated by law may serve summons.
 
-        (3) __Venue.—__ 
+        (3)  __Venue__  __.—__ 
 
         A civil action brought under this subsection must be brought—
 
@@ -41,15 +41,15 @@
 
             (B) in the United States District Court for any district in which the contract was to be performed and executed, regardless of the amount in controversy.
 
-        (4) __Period in which action must be brought.—__ 
+        (4)  __Period in which action must be brought__  __.—__ 
 
         An action brought under this subsection must be brought no later than one year after the day on which the last of the labor was performed or material was supplied by the person bringing the action.
 
-        (5) __Liability of federal government.—__ 
+        (5)  __Liability of federal government__  __.—__ 
 
         The Government is not liable for the payment of any costs or expenses of any civil action brought under this subsection.
 
-    (c) __Waiver of Right to Civil Action.—__ 
+    (c)  __Waiver of Right to Civil Action__  __.—__ 
 
     A waiver of the right to bring a civil action on a payment bond required under this subchapter is void unless the waiver is—
 

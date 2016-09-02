@@ -15,11 +15,11 @@
 
 ## § 702. Return of foreign excess property to United States
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Under regulations prescribed pursuant to subsection (b), foreign excess property may be returned to the United States for handling as excess or surplus property under subchapter II of chapter 5 of this title or section 549 or 551 of this title when the head of the executive agency concerned, or the Administrator of General Services after consultation with the agency head, determines that return of the property to the United States for such handling is in the interest of the United States.
 
-    (b) __Regulations.—__ 
+    (b)  __Regulations__  __.—__ 
 
     The Administrator shall prescribe regulations to carry out this section. The regulations must require that transportation costs for returning foreign excess property to the United States are paid by the federal agency, state agency, or donee receiving the property.
 

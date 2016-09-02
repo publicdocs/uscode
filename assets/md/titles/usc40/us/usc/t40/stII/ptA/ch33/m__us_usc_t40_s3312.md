@@ -17,19 +17,19 @@
 
     (a) __Application.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         This section applies to any project for construction or alteration of a building for which amounts are first appropriated for a fiscal year beginning after September 30, 1989.
 
-        (2) __National security waiver.—__ 
+        (2)  __National security waiver__  __.—__ 
 
         This section does not apply to a building for which the Administrator of General Services or the head of the federal agency authorized to construct or alter the building decides that the application of this section to the building would adversely affect national security. A decision under this subsection is not subject to administrative or judicial review.
 
-    (b) __Building Codes.—__ 
+    (b)  __Building Codes__  __.—__ 
 
     Each building constructed or altered by the General Services Administration or any other federal agency shall be constructed or altered, to the maximum extent feasible as determined by the Administrator or the head of the federal agency, in compliance with one of the nationally recognized model building codes and with other applicable nationally recognized codes, including electrical codes, fire and life safety codes, and plumbing codes, as the Administrator decides is appropriate. In carrying out this subsection, the Administrator or the head of the federal agency shall use the latest edition of the nationally recognized codes.
 
-    (c) __Zoning Laws.—__ 
+    (c)  __Zoning Laws__  __.—__ 
 
     Each building constructed or altered by the Administration or any other federal agency shall be constructed or altered only after consideration of all requirements (except procedural requirements) of the following laws of a State or a political subdivision of a State, which would apply to the building if it were not a building constructed or altered by a federal agency:
 
@@ -39,7 +39,7 @@
 
     (d) __Cooperation With State and Local Officials.—__ 
 
-        (1) __State and local government consultation, review, and inspections.—__ 
+        (1)  __State and local government consultation, review, and inspections__  __.—__ 
 
         To meet the requirements of subsections (b) and (c), the Administrator or the head of the federal agency authorized to construct or alter the building—
 
@@ -55,19 +55,19 @@
 
                 (ii) reasonable notice of their intention to conduct any inspection before conducting the inspection.
 
-        (2) __Limitation on responsibilities.—__ 
+        (2)  __Limitation on responsibilities__  __.—__ 
 
         This section does not impose an obligation on any State or political subdivision to take any action under paragraph (1).
 
-    (e) __State and Local Government Recommendations.—__ 
+    (e)  __State and Local Government Recommendations__  __.—__ 
 
     Appropriate officials of a State or political subdivision of a State may make recommendations to the Administrator or the head of the federal agency authorized to construct or alter a building concerning measures necessary to meet the requirements of subsections (b) and (c). The officials also may make recommendations to the Administrator or the head of the federal agency concerning measures which should be taken in the construction or alteration of the building to take into account local conditions. The Administrator or the head of the agency shall give due consideration to the recommendations.
 
-    (f) __Effect of Noncompliance.—__ 
+    (f)  __Effect of Noncompliance__  __.—__ 
 
     An action may not be brought against the Federal Government and a fine or penalty may not be imposed against the Government for failure to meet the requirements of subsection (b), (c), or (d) or for failure to carry out any recommendation under subsection (e).
 
-    (g) __Limitation on Liability.—__ 
+    (g)  __Limitation on Liability__  __.—__ 
 
     The Government and its contractors shall not be required to pay any amount for any action a State or a political subdivision of a State takes to carry out this section, including reviewing plans, carrying out on-site inspections, issuing building permits, and making recommendations.
 

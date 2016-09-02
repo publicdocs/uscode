@@ -15,15 +15,15 @@
 
 ## § 1314. Easements
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section—
 
-        (1) __Executive agency.—__ 
+        (1)  __Executive agency__  __.—__ 
 
         The term “executive agency” means an executive department or independent establishment in the executive branch of the Federal Government, including a wholly owned Government corporation.
 
-        (2) __Real property of the government.—__ 
+        (2)  __Real property of the government__  __.—__ 
 
         The term “real property of the Government” excludes—
 
@@ -43,21 +43,21 @@
 
             (C) land acquired for national forest purposes.
 
-        (3) __State.—__ 
+        (3)  __State__  __.—__ 
 
         The term “State” means a State of the United States, the District of Columbia, Puerto Rico, and the territories and possessions of the United States.
 
-    (b) __Grant of Easement.—__ 
+    (b)  __Grant of Easement__  __.—__ 
 
     When a State, a political subdivision or agency of a State, or a person applies for the grant of an easement in, over, or on real property of the Government, the executive agency having control of the real property may grant to the applicant, on behalf of the Government, an easement that the head of the agency decides will not be adverse to the interests of the Government, subject to reservations, exceptions, limitations, benefits, burdens, terms, or conditions that the head of the agency considers necessary to protect the interests of the Government. The grant may be made without consideration, or with monetary or other consideration, including an interest in real property.
 
-    (c) __Relinquishment of Legislative Jurisdiction.—__ 
+    (c)  __Relinquishment of Legislative Jurisdiction__  __.—__ 
 
     In connection with the grant of an easement, the executive agency concerned may relinquish to the State in which the real property is located legislative jurisdiction that the executive agency considers necessary or desirable. Relinquishment of legislative jurisdiction may be accomplished by filing with the chief executive officer of the State a notice of relinquishment to take effect upon acceptance or by proceeding in the manner that the laws applicable to the State may provide.
 
     (d) __Termination of Easement.—__ 
 
-        (1) __When termination occurs.—__ 
+        (1)  __When termination occurs__  __.—__ 
 
         The instrument granting the easement may provide for termination of any part of the easement if there has been—
 
@@ -67,19 +67,19 @@
 
             (C) an abandonment of the easement.
 
-        (2) __Notice required.—__ 
+        (2)  __Notice required__  __.—__ 
 
         If a termination provision is included, it shall require that written notice of the termination be given to the grantee, or its successors or assigns.
 
-        (3) __Effective date.—__ 
+        (3)  __Effective date__  __.—__ 
 
         The termination is effective as of the date of the notice.
 
-    (e) __Additional Easement Authority.—__ 
+    (e)  __Additional Easement Authority__  __.—__ 
 
     The authority conferred by this section is in addition to, and shall not affect or be subject to, any other law under which an executive agency may grant easements.
 
-    (f) __Limitation on Issuance of Rights of Way.—__ 
+    (f)  __Limitation on Issuance of Rights of Way__  __.—__ 
 
     Rights of way over, under, and through public lands and lands in the National Forest System may not be granted under this section.
 

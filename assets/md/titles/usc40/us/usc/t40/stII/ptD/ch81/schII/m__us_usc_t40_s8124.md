@@ -15,15 +15,15 @@
 
 ## § 8124. Transfer of jurisdiction between Federal and District of Columbia authorities
 
-    (a) __Transfer of Jurisdiction.—__ 
+    (a)  __Transfer of Jurisdiction__  __.—__ 
 
     Federal and District of Columbia authorities administering properties in the District that are owned by the Federal Government or by the District may transfer jurisdiction over any part of the property among or between themselves for purposes of administration and maintenance under conditions the parties agree on. The National Capital Planning Commission shall recommend the transfer before it is completed.
 
-    (b) __Report to Congress.—__ 
+    (b)  __Report to Congress__  __.—__ 
 
     The District authorities shall report all transfers and agreements to Congress.
 
-    (c) __Certain Laws Not Repealed.—__ 
+    (c)  __Certain Laws Not Repealed__  __.—__ 
 
     Subsection (a) does not repeal any law in effect on May 20, 1932, which authorized the transfer of jurisdiction of certain land among and between federal and District authorities.
 

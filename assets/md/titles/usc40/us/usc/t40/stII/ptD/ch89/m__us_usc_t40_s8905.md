@@ -15,27 +15,27 @@
 
 ## § 8905. Site and design approval
 
-    (a) __Consultation on, and Submission of, Proposals.—__ 
+    (a)  __Consultation on, and Submission of, Proposals__  __.—__ 
 
     A sponsor authorized by law to establish a commemorative work in the District of Columbia and its environs may request a permit for construction of the commemorative work only after the following requirements are met:
 
-        (1) __Consultation.—__ 
+        (1)  __Consultation__  __.—__ 
 
         The sponsor must consult with the National Capital Memorial Advisory Commission regarding the selection of alternative sites and design concepts for the commemorative work.
 
-        (2) __Submittal.—__ 
+        (2)  __Submittal__  __.—__ 
 
         Following consultation in accordance with clause (1), the Secretary of the Interior or the Administrator of General Services, as appropriate, must submit, on behalf of the sponsor, site and design proposals to the Commission of Fine Arts and the National Capital Planning Commission for their approval.
 
-    (b) __Decision Criteria.—__ 
+    (b)  __Decision Criteria__  __.—__ 
 
     In considering site and design proposals, the Commission of Fine Arts, National Capital Planning Commission, and the Secretary or Administrator (as appropriate) shall be guided by, but not limited by, the following criteria:
 
-        (1) __Surroundings.—__ 
+        (1)  __Surroundings__  __.—__ 
 
         To the maximum extent possible, a commemorative work shall be located in surroundings that are relevant to the subject of the work.
 
-        (2) __Location.—__ 
+        (2)  __Location__  __.—__ 
 
         A commemorative work shall be located so that—
 
@@ -43,23 +43,23 @@
 
             (B) to the maximum extent practicable, it protects open space, existing public use, and cultural and natural resources.
 
-        (3) __Material.—__ 
+        (3)  __Material__  __.—__ 
 
         A commemorative work shall be constructed of durable material suitable to the outdoor environment.
 
-        (4) __Landscape features.—__ 
+        (4)  __Landscape features__  __.—__ 
 
         Landscape features of commemorative works shall be compatible with the climate.
 
-        (5) __Museums.—__ 
+        (5)  __Museums__  __.—__ 
 
         No commemorative work primarily designed as a museum may be located on lands under the jurisdiction of the Secretary in Area I or in East Potomac Park as depicted on the map referenced in section 8902(2). <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be section “8902(a)(2).” </sup></sup> 
 
-        (6) __Site-specific guidelines.—__ 
+        (6)  __Site-specific guidelines__  __.—__ 
 
         The National Capital Planning Commission and the Commission of Fine Arts may develop such criteria or guidelines specific to each site that are mutually agreed upon to ensure that the design of the commemorative work carries out the purposes of this chapter.
 
-        (7) __Donor contributions.—__ 
+        (7)  __Donor contributions__  __.—__ 
 
         Donor contributions to commemorative works shall not be acknowledged in any manner as part of the commemorative work or its site.
 

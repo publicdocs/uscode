@@ -17,7 +17,7 @@
 
     In this subchapter—
 
-    (1) __Federal triangle development area.—__ 
+    (1)  __Federal triangle development area__  __.—__ 
 
     The term “Federal Triangle development area” means the area bounded as follows:    Beginning at a point on the southwest corner of the intersection of Fourteenth Street and Pennsylvania Avenue (formerly E Street), Northwest;
 
@@ -31,7 +31,7 @@
 
         thence west along the southern side of Pennsylvania Avenue to the point of beginning.
 
-    (2) __Federal triangle property.—__ 
+    (2)  __Federal triangle property__  __.—__ 
 
     The term “Federal Triangle property” means—
 

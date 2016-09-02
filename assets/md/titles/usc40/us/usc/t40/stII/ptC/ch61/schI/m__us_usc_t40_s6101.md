@@ -15,19 +15,19 @@
 
 ## § 6101. Definitions and application
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this chapter, the following definitions apply:
 
-        (1) __Official guest of the supreme court.—__ 
+        (1)  __Official guest of the supreme court__  __.—__ 
 
         The term “official guest of the Supreme Court” means an individual who is a guest of the Supreme Court, as determined by the Chief Justice of the United States or any Associate Justice of the Supreme Court;
 
-        (2) __State.—__ 
+        (2)  __State__  __.—__ 
 
         The term “State” means a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, the Federated States of Micronesia, the Marshall Islands, Palau, and any territory or possession of the United States; and
 
-    (b) __Application.—__ 
+    (b)  __Application__  __.—__ 
 
     For purposes of [section 6102 of this title][/us/usc/t40/s6102] and subchapters III and IV, the Supreme Court grounds—
 
@@ -133,41 +133,41 @@ Aug. 18, 1949, ch. 479, § 11, 63 Stat. 617; Pub. L. 97–390, § 1(d), Dec.
 
 [Pub. L. 109–214, § 1][/us/pl/109/214/s1], Apr. 11, 2006, [120 Stat. 326][/us/stat/120/326], provided that:
 
->     “(a) __Short Title.—__ 
+>     “(a)  __Short Title__  __.—__ 
 
 >     This section may be cited as the ‘Supreme Court Grounds Transfer Act of 2005’.
 
 >     “(b) __Transfer of Jurisdiction.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Jurisdiction over the parcel of Federal real property described under paragraph (2) (over which jurisdiction was transferred to the Architect of the Capitol under section 514(b)(2)(B)(i) of the Omnibus Parks and Public Lands Management Act of 1996 ([40 U.S.C. 5102][/us/usc/t40/s5102] note; [Public Law 104–333][/us/pl/104/333]; [110 Stat. 4165][/us/stat/110/4165])) is transferred to the Supreme Court of the United States, without consideration.
 
->         “(2) __Parcel.—__ 
+>         “(2)  __Parcel__  __.—__ 
 
 >         The parcel of Federal real property referred to under paragraph (1) is that portion of the triangle of Federal land in Reservation No. 204 in the District of Columbia under the jurisdiction of the Architect of the Capitol, including any contiguous sidewalks, bound by Constitution Avenue, N.E., on the north, the branch of Maryland Avenue, N.E., running in a northeast direction on the west, the major portion of Maryland Avenue, N.E., on the south, and 2nd Street, N.E., on the east, including the contiguous sidewalks.
 
 >     “(c) __Miscellaneous.—__ 
 
->         “(1) __Compliance with other laws.—__ 
+>         “(1)  __Compliance with other laws__  __.—__ 
 
 >         Compliance with this section shall be deemed to satisfy the requirements of all laws otherwise applicable to transfers of jurisdiction over parcels of Federal real property.
 
->         “(2) __Inclusion in supreme court grounds.—__ 
+>         “(2)  __Inclusion in supreme court grounds__  __.—__ 
 
 >         \[Amended [section 6101(b)(2) of this title][/us/usc/t40/s6101/b/2].\]
 
 >         “(3) __United states capitol grounds.—__ 
 
->             “(A) __Definition.—__ 
+>             “(A)  __Definition__  __.—__ 
 
 >             [Section 5102 of title 40][/us/usc/t40/s5102], United States Code, is amended to exclude within the definition of the United States Capitol Grounds the parcel of Federal real property described in subsection (b)(2).
 
->             “(B) __Jurisdiction of capitol police.—__ 
+>             “(B)  __Jurisdiction of capitol police__  __.—__ 
 
 >             The United States Capitol Police shall not have jurisdiction over the parcel of Federal real property described in subsection (b)(2) by reason of such parcel formerly being part of the United States Capitol Grounds.
 
->         “(4) __Recording of map of supreme court grounds.—__ 
+>         “(4)  __Recording of map of supreme court grounds__  __.—__ 
 
 >         The Architect of the Capitol shall record with the Office of the Surveyor of the District of Columbia a map showing areas comprising the grounds of the Supreme Court of the United States that reflects—
 
@@ -175,7 +175,7 @@ Aug. 18, 1949, ch. 479, § 11, 63 Stat. 617; Pub. L. 97–390, § 1(d), Dec.
 
 >             “(B) any portion of the United States Capitol Grounds as described under [section 5102 of title 40][/us/usc/t40/s5102], United States Code, which is contiguous to the boundaries or property described under subparagraph (A) of this paragraph.
 
->     “(d) __Effective Date.—__ 
+>     “(d)  __Effective Date__  __.—__ 
 
 >     This Act shall apply to fiscal year 2006 and each fiscal year thereafter.”
 

@@ -15,15 +15,15 @@
 
 ## § 703. Donation of medical supplies for use in foreign country
 
-    (a) __Application.—__ 
+    (a)  __Application__  __.—__ 
 
     This section applies to medical materials or supplies that are in a foreign country but that would, if situated within the United States, be available for donation under subchapter III of chapter 5 of this title.
 
-    (b) __In General.—__ 
+    (b)  __In General__  __.—__ 
 
     An executive agency may donate medical materials or supplies that are not disposed of under [section 702 of this title][/us/usc/t40/s702].
 
-    (c) __Conditions.—__ 
+    (c)  __Conditions__  __.—__ 
 
     A donation under this section is subject to the following conditions:
 

@@ -15,11 +15,11 @@
 
 ## § 3702. Work hours
 
-    (a) __Standard Workweek.—__ 
+    (a)  __Standard Workweek__  __.—__ 
 
     The wages of every laborer and mechanic employed by any contractor or subcontractor in the performance of work on a contract described in [section 3701 of this title][/us/usc/t40/s3701] shall be computed on the basis of a standard workweek of 40 hours. Work in excess of the standard workweek is permitted subject to this section. For each workweek in which the laborer or mechanic is so employed, wages include compensation, at a rate not less than one and one-half times the basic rate of pay, for all hours worked in excess of 40 hours in the workweek.
 
-    (b) __Contract Requirements.—__ 
+    (b)  __Contract Requirements__  __.—__ 
 
     A contract described in [section 3701 of this title][/us/usc/t40/s3701], and any obligation of the Federal Government, a territory of the United States, or the District of Columbia in connection with that contract, must provide that—
 
@@ -33,11 +33,11 @@
 
             (B) to the Government, the District of Columbia, or a territory for liquidated damages as provided in the contract.
 
-    (c) __Liquidated Damages.—__ 
+    (c)  __Liquidated Damages__  __.—__ 
 
     Liquidated damages under subsection (b)(2)(B) shall be computed for each individual employed as a laborer or mechanic in violation of this chapter and shall be equal to $10 for each calendar day on which the individual was required or permitted to work in excess of the standard workweek without payment of the overtime wages required by this chapter.
 
-    (d) __Amounts Withheld To Satisfy Liabilities.—__ 
+    (d)  __Amounts Withheld To Satisfy Liabilities__  __.—__ 
 
     Subject to [section 3703 of this title][/us/usc/t40/s3703], the governmental agency for which the contract work is done or which is providing financial assistance for the work may withhold, or have withheld, from money payable because of work performed by a contractor or subcontractor, amounts administratively determined to be necessary to satisfy the liabilities of the contractor or subcontractor for unpaid wages and liquidated damages as provided in this section.
 

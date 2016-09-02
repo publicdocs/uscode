@@ -95,11 +95,11 @@ July 31, 1946, ch. 707, § 16(a)(1), 60 Stat. 721; Pub. L. 90–108, § 1(d)
 
 [Pub. L. 110–139, § 1][/us/pl/110/139/s1], Dec. 18, 2007, [121 Stat. 1491][/us/stat/121/1491], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The great hall of the Capitol Visitor Center shall be known and designated as ‘Emancipation Hall’, and any reference to the great hall in any law, rule, or regulation shall be deemed to be a reference to Emancipation Hall.
 
->     “(b) __Effective Date.—__ 
+>     “(b)  __Effective Date__  __.—__ 
 
 >     This section shall apply on and after the date of the enactment of this Act \[Dec. 18, 2007\].”
 

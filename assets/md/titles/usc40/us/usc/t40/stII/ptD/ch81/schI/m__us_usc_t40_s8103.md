@@ -15,11 +15,11 @@
 
 ## § 8103. Application of District of Columbia laws to public buildings and grounds
 
-    (a) __Application of Laws.—__ 
+    (a)  __Application of Laws__  __.—__ 
 
     Laws and regulations of the District of Columbia for the protection of public or private property and the preservation of peace and order are extended to all public buildings and public grounds belonging to the Federal Government in the District of Columbia.
 
-    (b) __Penalties.—__ 
+    (b)  __Penalties__  __.—__ 
 
     A person shall be fined under title 18, imprisoned for not more than six months, or both if the person—
 

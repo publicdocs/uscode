@@ -15,7 +15,7 @@
 
 ## § 14506. Regional skills partnerships
 
-    (a) __Eligible Entity.—__ 
+    (a)  __Eligible Entity__  __.—__ 
 
     In this section, the term “eligible entity” means a consortium that—
 
@@ -33,7 +33,7 @@
 
             (D) educational institutions.
 
-    (b) __Projects To Be Assisted.—__ 
+    (b)  __Projects To Be Assisted__  __.—__ 
 
     The Appalachian Regional Commission may provide technical assistance, make grants, enter into contracts, or otherwise provide amounts to eligible entities in the region for projects to improve the job skills of workers for a specified industry, including projects for—
 
@@ -51,11 +51,11 @@
 
         (7) the development of training plans for businesses.
 
-    (c) __Administrative Costs.—__ 
+    (c)  __Administrative Costs__  __.—__ 
 
     An eligible entity may use not more than 10 percent of amounts made available to the eligible entity under subsection (b) to pay administrative costs associated with the projects described in subsection (b).
 
-    (d) __Limitation on Available Amounts.—__ 
+    (d)  __Limitation on Available Amounts__  __.—__ 
 
     Of the cost of any activity eligible for a grant under this section, not more than—
 
@@ -65,11 +65,11 @@
 
         (3) in the case of a project to be carried out in a county for which an at-risk county designation is in effect under section 14526, 70 percent may be provided from amounts appropriated to carry out this section.
 
-    (e) __Sources of Assistance.—__ 
+    (e)  __Sources of Assistance__  __.—__ 
 
     Assistance under this section may be provided entirely from amounts made available to carry out this section, in combination with amounts made available under other federal programs, or from any other source.
 
-    (f) __Federal Share.—__ 
+    (f)  __Federal Share__  __.—__ 
 
     Notwithstanding any provision of law limiting the federal share under any other federal program, amounts made available to carry out this section may be used to increase that Federal share, as the Commission decides is appropriate.
 

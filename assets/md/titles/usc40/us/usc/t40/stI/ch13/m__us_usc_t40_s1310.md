@@ -15,7 +15,7 @@
 
 ## § 1310. Sale of war supplies, land, and buildings
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The President, through the head of any executive department and on terms the head of the department considers expedient, may sell to a person, another department of the Federal Government, or the government of a foreign country engaged in war against a country with which the United States is at war—
 
@@ -25,7 +25,7 @@
 
         (3) any building, plant, or factory, including the land on which the plant or factory may be situated, acquired since April 6, 1917, for the production of war supplies, materials, and equipment that, during the emergency existing on July 9, 1918, may have been purchased, acquired, or manufactured by the Government.
 
-    (b) __Limitation on Sale of Guns and Ammunition.—__ 
+    (b)  __Limitation on Sale of Guns and Ammunition__  __.—__ 
 
     Sales of guns and ammunition authorized under any law shall be limited to—
 

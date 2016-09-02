@@ -15,11 +15,11 @@
 
 ## § 6306. Policing of buildings and grounds
 
-    (a) __Designation of Employees as Special Police.—__ 
+    (a)  __Designation of Employees as Special Police__  __.—__ 
 
     Subject to [section 5375 of title 5][/us/usc/t5/s5375], the Secretary of the Smithsonian Institution, the Trustees of the National Gallery of Art, and the Trustees of the John F. Kennedy Center for the Performing Arts (or their designees) may designate employees of their respective agencies as special police, without additional compensation, for duty in connection with the policing of their respective specified buildings and grounds.
 
-    (b) __Powers.—__ 
+    (b)  __Powers__  __.—__ 
 
     The employees designated as special police under subsection (a)—
 
@@ -27,7 +27,7 @@
 
         (2) may enforce concurrently with the United States Park Police the laws and regulations applicable to the National Capital Parks, and may make arrests for violations of sections 6302 and 6303 of this title, within the several areas located within the exterior boundaries of the face of the curb lines of the squares within which the specified buildings and grounds are located.
 
-    (c) __Uniforms and Other Equipment.—__ 
+    (c)  __Uniforms and Other Equipment__  __.—__ 
 
     The employees designated as special police under subsection (a) may be provided, without charge, with uniforms and other equipment as may be necessary for the proper performance of their duties, including badges, revolvers, and ammunition.
 

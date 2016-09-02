@@ -15,11 +15,11 @@
 
 ## § 122. Prohibition on sex discrimination
 
-    (a) __Prohibition.—__ 
+    (a)  __Prohibition__  __.—__ 
 
     With respect to a program or activity carried on or receiving federal assistance under this subtitle, an individual may not be excluded from participation, denied benefits, or otherwise discriminated against based on sex.
 
-    (b) __Enforcement.—__ 
+    (b)  __Enforcement__  __.—__ 
 
     Subsection (a) shall be enforced through agency provisions and rules similar to those already established with respect to racial and other discrimination under title VI of the Civil Rights Act of 1964 ([42 U.S.C. 2000d][/us/usc/t42/s2000d] et seq.). However, this remedy is not exclusive and does not prejudice or remove any other legal remedies available to an individual alleging discrimination.
 

@@ -15,17 +15,17 @@
 
 ## § 11303. Performance-based and results-based management
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Director of the Office of Management and Budget shall encourage the use of performance-based and results-based management in fulfilling the responsibilities assigned under [section 3504(h) of title 44][/us/usc/t44/s3504/h].
 
     (b) __Evaluation of Agency Programs and Investments.—__ 
 
-        (1) __Requirement.—__ 
+        (1)  __Requirement__  __.—__ 
 
         The Director shall evaluate the information resources management practices of the executive agencies with respect to the performance and results of the investments made by the executive agencies in information technology.
 
-        (2) __Direction for executive agency action.—__ 
+        (2)  __Direction for executive agency action__  __.—__ 
 
         The Director shall issue to the head of each executive agency clear and concise direction that the head of each agency shall—
 
@@ -43,21 +43,21 @@
 
             (D) ensure that the information security policies, procedures, and practices are adequate.
 
-        (3) __Guidance for multiagency investments.—__ 
+        (3)  __Guidance for multiagency investments__  __.—__ 
 
         The direction issued under paragraph (2) shall include guidance for undertaking efficiently and effectively interagency and Federal Government-wide investments in information technology to improve the accomplishment of missions that are common to the executive agencies.
 
-        (4) __Periodic reviews.—__ 
+        (4)  __Periodic reviews__  __.—__ 
 
         The Director shall implement through the budget process periodic reviews of selected information resources management activities of the executive agencies to ascertain the efficiency and effectiveness of information technology in improving the performance of the executive agency and the accomplishment of the missions of the executive agency.
 
         (5) __Enforcement of accountability.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Director may take any action that the Director considers appropriate, including an action involving the budgetary process or appropriations management process, to enforce accountability of the head of an executive agency for information resources management and for the investments made by the executive agency in information technology.
 
-            (B) __Specific actions.—__ 
+            (B)  __Specific actions__  __.—__ 
 
             Actions taken by the Director may include—
 

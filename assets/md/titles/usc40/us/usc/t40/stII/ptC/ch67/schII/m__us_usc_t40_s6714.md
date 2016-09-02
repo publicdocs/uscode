@@ -15,15 +15,15 @@
 
 ## § 6714. Relocation services
 
-    (a) __Use of District of Columbia Government.—__ 
+    (a)  __Use of District of Columbia Government__  __.—__ 
 
     The Administrator of General Services may use the services of the District of Columbia government in the administration of a relocation program pursuant to the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 ([42 U.S.C. 4601][/us/usc/t42/s4601] et seq.). The Administrator shall reimburse the government for the cost of the services.
 
-    (b) __Coordination of Relocation Programs.—__ 
+    (b)  __Coordination of Relocation Programs__  __.—__ 
 
     All relocation services performed by or on behalf of the Administrator shall be coordinated with the District of Columbia’s central relocation programs.
 
-    (c) __Preferential Rights of Displaced Owners and Tenants.—__ 
+    (c)  __Preferential Rights of Displaced Owners and Tenants__  __.—__ 
 
     An owner or tenant of real property whose residence or business is terminated as a result of acquisitions made pursuant to this subchapter or the Pennsylvania Avenue Development Corporation Act of 1972 ([Public Law 92–578][/us/pl/92/578], [86 Stat. 1266][/us/stat/86/1266]) shall be granted a preferential right to lease or purchase from the Administrator similar real property as may become available for a similar use. The preferential right is limited to the parties in interest and is not transferable or assignable.
 

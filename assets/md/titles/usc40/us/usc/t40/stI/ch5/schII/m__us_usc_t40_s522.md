@@ -15,11 +15,11 @@
 
 ## § 522. Reimbursement for transfer of excess property
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Subject to subsections (b) and (c), the Administrator of General Services, with the approval of the Director of the Office of Management and Budget, shall prescribe the amount of reimbursement required for a transfer of excess property.
 
-    (b) __Reimbursement at Fair Value.—__ 
+    (b)  __Reimbursement at Fair Value__  __.—__ 
 
     The amount of reimbursement required for a transfer of excess property is the fair value of the property, as determined by the Administrator, if—
 
@@ -33,7 +33,7 @@
 
             (B) an organization specified in [section 321(c)(2) of this title][/us/usc/t40/s321/c/2].
 
-    (c) __Distribution Through General Services Administration Supply Centers.—__ 
+    (c)  __Distribution Through General Services Administration Supply Centers__  __.—__ 
 
     Excess property determined by the Administrator to be suitable for distribution through the supply centers of the General Services Administration shall be retransferred at prices set by the Administrator with due regard to prices established under [section 321(d) of this title][/us/usc/t40/s321/d].
 

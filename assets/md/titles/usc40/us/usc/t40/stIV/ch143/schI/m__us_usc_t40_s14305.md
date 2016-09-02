@@ -15,11 +15,11 @@
 
 ## § 14305. Liaison between Federal Government and Commission
 
-    (a) __President.—__ 
+    (a)  __President__  __.—__ 
 
     The President shall provide effective and continuing liaison between the Federal Government and the Appalachian Regional Commission and a coordinated review within the Government of the plans and recommendations submitted by the Commission pursuant to sections 14303 and 14304 of this title.
 
-    (b) __Interagency Coordinating Council on Appalachia.—__ 
+    (b)  __Interagency Coordinating Council on Appalachia__  __.—__ 
 
     In carrying out subsection (a), the President shall establish the Interagency Coordinating Council on Appalachia, to be composed of the Federal Cochairman and representatives of federal agencies that carry out economic development programs in the Appalachian region. The Federal Cochairman is the Chairperson of the Council.
 

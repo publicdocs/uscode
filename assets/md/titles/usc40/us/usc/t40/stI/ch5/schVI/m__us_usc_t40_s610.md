@@ -15,11 +15,11 @@
 
 ## § 610. Discontinuance of motor vehicle pool or system
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Administrator of General Services shall discontinue a motor vehicle pool or system if there are no actual savings realized (based on accounting as provided in [section 605 of this title][/us/usc/t40/s605]) during a reasonable period of not longer than two successive fiscal years.
 
-    (b) __Return of Comparable Property.—__ 
+    (b)  __Return of Comparable Property__  __.—__ 
 
     If a motor vehicle pool or system is discontinued, the Administrator shall return to each agency involved motor vehicles and related equipment and supplies similar in kind and reasonably comparable in value to any motor vehicles and related equipment and supplies which were previously taken over by the Administrator.
 

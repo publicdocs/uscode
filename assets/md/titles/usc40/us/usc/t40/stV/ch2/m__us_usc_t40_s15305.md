@@ -15,15 +15,15 @@
 
 ## § 15305. Meetings
 
-    (a) __Initial Meeting.—__ 
+    (a)  __Initial Meeting__  __.—__ 
 
     Each Commission shall hold an initial meeting not later than 180 days after the date of the enactment of this section.
 
-    (b) __Annual Meeting.—__ 
+    (b)  __Annual Meeting__  __.—__ 
 
     Each Commission shall conduct at least 1 meeting each year with the Federal Cochairperson and at least a majority of the State members present.
 
-    (c) __Additional Meetings.—__ 
+    (c)  __Additional Meetings__  __.—__ 
 
     Each Commission shall conduct additional meetings at such times as it determines and may conduct such meetings by electronic means.
 

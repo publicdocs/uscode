@@ -15,7 +15,7 @@
 
 ## § 14703. Authorization of appropriations
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     In addition to amounts made available under section 14501, there is authorized to be appropriated to the Appalachian Regional Commission to carry out this subtitle—
 
@@ -29,7 +29,7 @@
 
         (5) $110,000,000 for fiscal year 2012.
 
-    (b) __Economic and Energy Development Initiative.—__ 
+    (b)  __Economic and Energy Development Initiative__  __.—__ 
 
     Of the amounts made available under subsection (a), the following amounts may be used to carry out section 14508—
 
@@ -43,11 +43,11 @@
 
         (5) $14,000,000 for fiscal year 2012.
 
-    (c) __Availability.—__ 
+    (c)  __Availability__  __.—__ 
 
     Amounts made available under subsection (a) remain available until expended.
 
-    (d) __Allocation of Funds.—__ 
+    (d)  __Allocation of Funds__  __.—__ 
 
     Funds approved by the Appalachian Regional Commission for a project in a State in the Appalachian region pursuant to a congressional directive shall be derived from the total amount allocated to the State by the Appalachian Regional Commission from amounts appropriated to carry out this subtitle.
 

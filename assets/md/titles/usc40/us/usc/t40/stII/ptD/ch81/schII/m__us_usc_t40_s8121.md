@@ -15,7 +15,7 @@
 
 ## § 8121. Improper appropriation of streets
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     The Secretary of the Interior shall—
 
@@ -27,7 +27,7 @@
 
         (4) report to Congress at the beginning of each session on the Secretary’s proceedings in the premises, together with a full statement of all property described in this subsection, and how, and by what authority, the property is occupied or claimed.
 
-    (b) __Application.—__ 
+    (b)  __Application__  __.—__ 
 
     This section does not interfere with the temporary and proper occupation of any part of the property described in subsection (a), by lawful authority, for the legitimate purposes of the Government.
 

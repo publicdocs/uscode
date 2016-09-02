@@ -15,7 +15,7 @@
 
 ## § 3162. Waiver for individuals who perform volunteer services
 
-    (a) __Criteria for Receiving Waiver.—__ 
+    (a)  __Criteria for Receiving Waiver__  __.—__ 
 
     The requirement that certain laborers and mechanics be paid in accordance with the wage-setting provisions of subchapter IV of this chapter as set forth in the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450][/us/usc/t25/s450] et seq.), the Indian Health Care Improvement Act ([25 U.S.C. 1601][/us/usc/t25/s1601] et seq.), and the Housing and Community Development Act of 1974 ([42 U.S.C. 5301][/us/usc/t42/s5301] et seq.) does not apply to an individual—
 
@@ -39,11 +39,11 @@
 
     (b) __Payments.—__ 
 
-        (1) __In accordance with regulations.—__ 
+        (1)  __In accordance with regulations__  __.—__ 
 
         Volunteers described in subsection (a) who are performing services directly to a state or local government or public agency may receive payments of expenses, reasonable benefits, or a nominal fee only in accordance with regulations the Secretary of Labor prescribes. Volunteers who are performing services directly to a public or private nonprofit entity may not receive those payments.
 
-        (2) __Criteria and content of regulations.—__ 
+        (2)  __Criteria and content of regulations__  __.—__ 
 
         In prescribing the regulations, the Secretary shall consider criteria such as the total amount of payments made (relating to expenses, benefits, or fees) in the context of the economic realities. The regulations shall include provisions that provide that—
 
@@ -53,11 +53,11 @@
 
             (C) a nominal fee may not be used as a substitute for compensation and may not be connected to productivity.
 
-        (3) __Nominal fee.—__ 
+        (3)  __Nominal fee__  __.—__ 
 
         The Secretary shall decide what constitutes a nominal fee for purposes of paragraph (2)(C). The decision shall be based on the context of the economic realities of the situation involved.
 
-    (c) __Economic Reality.—__ 
+    (c)  __Economic Reality__  __.—__ 
 
     In determining whether an expense, benefit, or fee described in subsection (b) may be paid to volunteers in the context of the economic realities of the particular situation, the Secretary may not permit any expense, benefit, or fee that has the effect of undermining labor standards by creating downward pressure on prevailing wages in the local construction industry.
 

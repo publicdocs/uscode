@@ -15,11 +15,11 @@
 
 ## § 526. Temporary assignment of excess real property
 
-    (a) __Assignment of Space.—__ 
+    (a)  __Assignment of Space__  __.—__ 
 
     The Administrator of General Services may temporarily assign or reassign space in excess real property to a federal agency, for use as office or storage space or for a related purpose, if the Administrator determines that assignment or reassignment is more advantageous than permanent transfer. The Administrator shall determine the duration of the assignment or reassignment.
 
-    (b) __Reimbursement for Maintenance.—__ 
+    (b)  __Reimbursement for Maintenance__  __.—__ 
 
     If there is no appropriation available to the Administrator for the expense of maintaining the space, the Administrator may obtain appropriate reimbursement from the federal agency.
 

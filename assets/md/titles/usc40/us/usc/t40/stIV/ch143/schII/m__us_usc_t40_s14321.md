@@ -17,7 +17,7 @@
 
     (a) __Authorization To Make Grants.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Appalachian Regional Commission may make grants—
 
@@ -45,7 +45,7 @@
 
         (2) __Limitation on available amounts.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Except as provided in subparagraph (B), of the cost of any activity eligible for financial assistance under this section, not more than—
 
@@ -57,33 +57,33 @@
 
             (B) __Discretionary grants.—__ 
 
-                (i) __Grants to which percentage limitation doesn’t apply.—__ 
+                (i)  __Grants to which percentage limitation doesn’t apply__  __.—__ 
 
                 Discretionary grants made by the Commission to implement significant regional initiatives, to take advantage of special development opportunities, or to respond to emergency economic distress in the region may be made without regard to the percentage limitations specified in subparagraph (A).
 
-                (ii) __Limitation on aggregate amount.—__ 
+                (ii)  __Limitation on aggregate amount__  __.—__ 
 
                 For each fiscal year, the aggregate amount of discretionary grants referred to in clause (i) shall not be more than 10 percent of the amount appropriated under [section 14703 of this title][/us/usc/t40/s14703] for the fiscal year.
 
-        (3) __Sources of grants.—__ 
+        (3)  __Sources of grants__  __.—__ 
 
         Grant amounts may be provided entirely from appropriations to carry out this section, in combination with amounts available under other federal or federal grant programs, or from any other source.
 
-        (4) __Federal share.—__ 
+        (4)  __Federal share__  __.—__ 
 
         Notwithstanding any law limiting the federal share in any other federal or federal grant program, amounts appropriated to carry out this section may be used to increase that federal share, as the Commission decides is appropriate.
 
     (b) __Assistance for Demonstrations of Enterprise Development.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Commission may provide assistance under this section for demonstrations of enterprise development, including site acquisition or development where necessary for the feasibility of the project, in connection with the development of the region’s energy resources and the development and stimulation of indigenous arts and crafts of the region.
 
-        (2) __Cooperation by federal agencies.—__ 
+        (2)  __Cooperation by federal agencies__  __.—__ 
 
         In carrying out the purposes of this subtitle and in implementing this section, the Secretary of Energy, the Environmental Protection Agency, and other federal agencies shall cooperate with the Commission and shall provide assistance that the Federal Cochairman may request.
 
-        (3) __Available amounts.—__ 
+        (3)  __Available amounts__  __.—__ 
 
         In any fiscal year, not more than—
 
@@ -93,11 +93,11 @@
 
     (c) __Records.—__ 
 
-        (1) __Commission.—__ 
+        (1)  __Commission__  __.—__ 
 
         The Commission, as required by the President, shall maintain accurate and complete records of transactions and activities financed with federal amounts and report to the President on the transactions and activities. The records of the Commission with respect to grants are available for audit by the President and the Comptroller General.
 
-        (2) __Recipients of federal assistance.—__ 
+        (2)  __Recipients of federal assistance__  __.—__ 
 
         Recipients of federal assistance under this section, as required by the Commission, shall maintain accurate and complete records of transactions and activities financed with federal amounts and report to the Commission on the transactions and activities. The records are be available for audit by the President, the Comptroller General, and the Commission.
 

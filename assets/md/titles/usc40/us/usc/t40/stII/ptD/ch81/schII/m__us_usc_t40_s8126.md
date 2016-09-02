@@ -15,11 +15,11 @@
 
 ## § 8126. Temporary occupancy of Potomac Park by Secretary of Agriculture
 
-    (a) __Not More Than 75 Acres.—__ 
+    (a)  __Not More Than__  __75__  __Acres__  __.—__ 
 
     The Director of the National Park Service may allow the Secretary of Agriculture to temporarily occupy as a testing ground not more than 75 acres of Potomac Park not needed in any one season for reclamation or park improvement. The Secretary shall vacate the area at the close of any season on the request of the Director.
 
-    (b) __Continue as Public Park Under Director.—__ 
+    (b)  __Continue as Public Park Under Director__  __.—__ 
 
     This section does not change the essential character of the land used, which shall continue to be a public park under the charge of the Director.
 

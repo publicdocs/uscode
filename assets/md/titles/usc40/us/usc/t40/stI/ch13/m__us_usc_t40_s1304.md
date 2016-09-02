@@ -17,45 +17,45 @@
 
     (a) __Obsolete Buildings and Sites.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Administrator of General Services, in the Administrator’s discretion, on terms the Administrator considers proper, and under regulations the Administrator may prescribe, may sell property described in paragraph (2) to a State or a political subdivision of a State for public use if the Administrator considers the sale to be in the best interest of the Federal Government.
 
-        (2) __Applicable property.—__ 
+        (2)  __Applicable property__  __.—__ 
 
         The property referred to in paragraph (1) is any federal building, building site, or part of a building site under the Administrator’s control that has been replaced by a new structure and that the Administrator determines is no longer needed by the Government.
 
-        (3) __Price.—__ 
+        (3)  __Price__  __.—__ 
 
         The purchase price for a sale under this section must be at least 50 percent of the value of the land as appraised by the Administrator.
 
-        (4) __Proceeds of sale.—__ 
+        (4)  __Proceeds of sale__  __.—__ 
 
         The proceeds of a sale under this section shall be deposited in the Treasury as miscellaneous receipts.
 
-        (5) __Payment terms.—__ 
+        (5)  __Payment terms__  __.—__ 
 
         The Administrator may enter into a long term contract for the payment of the purchase price in installments that the Administrator considers fair and reasonable. The Administrator may waive any requirement for interest charges on deferred payment.
 
-        (6) __Conveyance.—__ 
+        (6)  __Conveyance__  __.—__ 
 
         The Administrator may convey property sold under this section by the usual quitclaim deed.
 
     (b) __Widening of Public Roads.—__ 
 
-        (1) __Definition.—__ 
+        (1)  __Definition__  __.—__ 
 
         In this subsection, the term “executive agency” means an executive department or independent establishment in the executive branch of the Government, including any wholly owned Government corporation.
 
-        (2) __In general.—__ 
+        (2)  __In general__  __.—__ 
 
         When a State or a political subdivision of a State applies for a conveyance or transfer of real property of the Government in connection with an authorized widening of a public highway, street, or alley, the head of the executive agency that controls the affected real property may convey or transfer to the State or political subdivision, with or without consideration, an interest in the real property that the agency head determines is not adverse to the interests of the Government. A conveyance or transfer under this subsection is subject to terms and conditions the agency head considers necessary to protect the interests of the Government.
 
-        (3) __Limitation on transfers for highway purposes.—__ 
+        (3)  __Limitation on transfers for highway purposes__  __.—__ 
 
         An interest in real property which can be transferred to a State or a political subdivision of a State for highway purposes under title 23 may not be conveyed or transferred under this subsection.
 
-        (4) __Limitation on issuance of rights of way.—__ 
+        (4)  __Limitation on issuance of rights of way__  __.—__ 
 
         Rights of way over, under, and through public lands and lands in the National Forest System may not be granted under this subsection.
 

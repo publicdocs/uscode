@@ -15,7 +15,7 @@
 
 ## § 14303. Functions
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     In carrying out the purposes of this subtitle, the Appalachian Regional Commission shall—
 
@@ -39,7 +39,7 @@
 
         (10) seek to coordinate the economic development activities of, and the use of economic development resources by, federal agencies in the region.
 
-    (b) __Identify Needs and Goals of Subregional Areas.—__ 
+    (b)  __Identify Needs and Goals of Subregional Areas__  __.—__ 
 
     In carrying out its functions under this section, the Commission shall identify the characteristics of, and may distinguish between the needs and goals of, appropriate subregional areas, including central, northern, and southern Appalachia.
 

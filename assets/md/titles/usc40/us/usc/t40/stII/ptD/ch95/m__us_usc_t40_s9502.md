@@ -15,21 +15,21 @@
 
 ## § 9502. Authority of Chief of Engineers
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Chief of Engineers and necessary assistants may use all lawful means to carry out their duties.
 
     (b) __Supply of Water in District of Columbia.—__ 
 
-        (1) __Providing water.—__ 
+        (1)  __Providing water__  __.—__ 
 
         The Chief of Engineers has complete control over the Washington Aqueduct to regulate the manner in which the authorities of the District of Columbia may tap the supply of water to the inhabitants of the District of Columbia.
 
-        (2) __Stoppage of water flow.—__ 
+        (2)  __Stoppage of water flow__  __.—__ 
 
         The Chief of Engineers shall stop the authorities of the District of Columbia from tapping the supply of water when the supply is no more than adequate to the wants of the public buildings and grounds.
 
-        (3) __Appeal of decision.—__ 
+        (3)  __Appeal of decision__  __.—__ 
 
         The decision of the Chief of Engineers on all questions concerning the supply of water under this subsection may be appealed only to the Secretary of the Army.
 

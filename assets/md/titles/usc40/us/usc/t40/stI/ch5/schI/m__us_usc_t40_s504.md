@@ -15,15 +15,15 @@
 
 ## § 504. Agency cooperation for inspection
 
-    (a) __Receiving Assistance.—__ 
+    (a)  __Receiving Assistance__  __.—__ 
 
     An executive agency may use the services, work, materials, and equipment of another executive agency, with the consent of the other executive agency, to inspect personal property incident to procuring the property.
 
-    (b) __Providing Assistance.—__ 
+    (b)  __Providing Assistance__  __.—__ 
 
     Notwithstanding [section 1301(a) of title 31][/us/usc/t31/s1301/a] or any other law, an executive agency may provide services, work, materials, and equipment for purposes of this section without reimbursement or transfer of amounts.
 
-    (c) __Policies and Methods.—__ 
+    (c)  __Policies and Methods__  __.—__ 
 
     The use or provision of services, work, materials, and equipment under this section must be in conformity with policies and methods the Administrator of General Services prescribes under [section 501 of this title][/us/usc/t40/s501].
 

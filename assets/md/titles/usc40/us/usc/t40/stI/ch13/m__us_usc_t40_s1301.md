@@ -15,7 +15,7 @@
 
 ## § 1301. Charge of property transferred to the Federal Government
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Except as provided in subsection (b), the Administrator of General Services shall have charge of—
 
@@ -31,7 +31,7 @@
 
             (B) vested in the Government by mortgage or other security for the payment of debts.
 
-    (b) __Nonapplication.—__ 
+    (b)  __Nonapplication__  __.—__ 
 
     This section does not apply to—
 

@@ -15,25 +15,25 @@
 
 ## § 3309. Buildings and sites in the District of Columbia
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The purposes of this chapter shall be carried out in the District of Columbia as nearly as may be practicable in harmony with the plan of Peter Charles L’Enfant. Public buildings shall be constructed or altered to combine architectural beauty with practical utility.
 
-    (b) __Closing of Streets and Alleys.—__ 
+    (b)  __Closing of Streets and Alleys__  __.—__ 
 
     When the Administrator of General Services decides that constructing or altering a public building under this chapter in the District of Columbia requires using contiguous squares as a site for the building, parts of streets that lie between the squares, and alleys that intersect the squares, may be closed and vacated if agreed to by the Administrator, the Council of the District of Columbia, and the National Capital Planning Commission. Those streets and alleys become part of the site.
 
     (c) __Consultations Prior to Acquisitions.—__ 
 
-        (1) __With house office building commission.—__ 
+        (1)  __With house office building commission__  __.—__ 
 
         The Administrator must consult with the House Office Building Commission created by the Act of March 4, 1907 (ch. 2918, [34 Stat. 1365][/us/stat/34/1365]), before the Administrator may acquire land located south of Independence Avenue, between Third Street SW and Eleventh Street SE, in the District of Columbia, for use as a site or an addition to a site.
 
-        (2) __With architect of capitol.—__ 
+        (2)  __With architect of capitol__  __.—__ 
 
         The Administrator must consult with the Architect of the Capitol before the Administrator may acquire land located in the area extending from the United States Capitol Grounds to Eleventh Street NE and SE and bounded by Independence Avenue on the south and G Street NE on the north, in the District of Columbia, for use as a site or an addition to a site.
 
-    (d) __Contracts for Events in Stadium.—__ 
+    (d)  __Contracts for Events in Stadium__  __.—__ 
 
     Notwithstanding the District of Columbia Stadium Act of 1957 ([Public Law 85–300][/us/pl/85/300], [71 Stat. 619][/us/stat/71/619]) or any other provision of law, the Armory Board may make contracts to conduct events in Robert F. Kennedy Stadium.
 

@@ -15,11 +15,11 @@
 
 ## § 5104. Unlawful activities
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section—
 
-        (1) __Act of physical violence.—__ 
+        (1)  __Act of physical violence__  __.—__ 
 
         The term “act of physical violence” means any act involving—
 
@@ -27,7 +27,7 @@
 
             (B) damage to, or destruction of, real or personal property.
 
-        (2) __Dangerous weapon.—__ 
+        (2)  __Dangerous weapon__  __.—__ 
 
         The term “dangerous weapon” includes—
 
@@ -35,19 +35,19 @@
 
             (B) a device designed to expel or hurl a projectile capable of causing injury to individuals or property, a dagger, a dirk, a stiletto, and a knife having a blade over three inches in length.
 
-        (3) __Explosives.—__ 
+        (3)  __Explosives__  __.—__ 
 
         The term “explosives” has the meaning given that term in [section 841(d) of title 18][/us/usc/t18/s841/d].
 
-        (4) __Firearm.—__ 
+        (4)  __Firearm__  __.—__ 
 
         The term “firearm” has the meaning given that term in section 921(3)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “921(a)(3)”. </sup></sup>  of title 18.
 
-    (b) __Obstruction of Roads.—__ 
+    (b)  __Obstruction of Roads__  __.—__ 
 
     A person may not occupy the roads in the United States Capitol Grounds in a manner that obstructs or hinders their proper use, or use the roads in the area of the Grounds, south of Constitution Avenue and B Street and north of Independence Avenue and B Street, to convey goods or merchandise, except to or from the United States Capitol on Federal Government service.
 
-    (c) __Sale of Articles, Display of Signs, and Solicitations.—__ 
+    (c)  __Sale of Articles, Display of Signs, and Solicitations__  __.—__ 
 
     A person may not carry out any of the following activities in the Grounds:
 
@@ -57,13 +57,13 @@
 
         (3) solicit fares, alms, subscriptions, or contributions.
 
-    (d) __Injuries to Property.—__ 
+    (d)  __Injuries to Property__  __.—__ 
 
     A person may not step or climb on, remove, or in any way injure any statue, seat, wall, fountain, or other erection or architectural feature, or any tree, shrub, plant, or turf, in the Grounds.
 
     (e) __Capitol Grounds and Buildings Security.—__ 
 
-        (1) __Firearms, dangerous weapons, explosives, or incendiary devices.—__ 
+        (1)  __Firearms, dangerous weapons, explosives, or incendiary devices__  __.—__ 
 
         An individual or group of individuals—
 
@@ -79,7 +79,7 @@
 
             (B) may not knowingly, with force and violence, enter or remain on the floor of either House of Congress.
 
-        (2) __Violent entry and disorderly conduct.—__ 
+        (2)  __Violent entry and disorderly conduct__  __.—__ 
 
         An individual or group of individuals may not willfully and knowingly—
 
@@ -103,7 +103,7 @@
 
             (G) parade, demonstrate, or picket in any of the Capitol Buildings.
 
-        (3) __Exemption of government officials.—__ 
+        (3)  __Exemption of government officials__  __.—__ 
 
         This subsection does not prohibit any act performed in the lawful discharge of official duties by—
 
@@ -115,7 +115,7 @@
 
             (D) an officer or employee of either House of Congress or a committee of that House.
 
-    (f) __Parades, Assemblages, and Display of Flags.—__ 
+    (f)  __Parades, Assemblages, and Display of Flags__  __.—__ 
 
     Except as provided in [section 5106 of this title][/us/usc/t40/s5106], a person may not—
 

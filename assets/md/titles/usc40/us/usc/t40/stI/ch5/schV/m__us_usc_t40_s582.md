@@ -15,29 +15,29 @@
 
 ## § 582. Management of buildings by Administrator of General Services
 
-    (a) __Request by Federal Agency or Instrumentality.—__ 
+    (a)  __Request by Federal Agency or Instrumentality__  __.—__ 
 
     At the request of a federal agency, a mixed-ownership Government corporation (as defined in chapter 91 of title 31), or the District of Columbia, the Administrator of General Services may operate, maintain, and protect a building that is owned by the Federal Government (or, in the case of a wholly owned or mixed-ownership Government corporation, by the corporation) and occupied by the agency or instrumentality making the request.
 
     (b) __Transfer of Functions by Director of the Office of Management and Budget.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         When the Director of the Office of Management and Budget determines that it is in the interest of economy or efficiency, the Director shall transfer to the Administrator all functions vested in a federal agency with respect to the operation, maintenance, and custody of an office building owned by the Government or a wholly owned Government corporation, or an office building, or part of an office building, that is occupied by a federal agency under a lease.
 
-        (2) __Exception for post-office buildings.—__ 
+        (2)  __Exception for post-office buildings__  __.—__ 
 
         A transfer of functions shall not be made under this subsection for a post-office building, unless the Director determines that the building is not used predominantly for post-office purposes. The Administrator may delegate functions with respect to a post-office building that are transferred to the Administrator under this subsection only to another officer or employee of the General Services Administration or to the Postmaster General.
 
-        (3) __Exception for buildings in a foreign country.—__ 
+        (3)  __Exception for buildings in a foreign country__  __.—__ 
 
         A transfer of functions shall not be made under this subsection for a building located in a foreign country.
 
-        (4) __Exception for department of defense buildings.—__ 
+        (4)  __Exception for department of defense buildings__  __.—__ 
 
         A transfer of functions shall not be made under this subsection for a building located on the grounds of a facility of the Department of Defense (including a fort, camp, post, arsenal, navy yard, naval training station, airfield, proving ground, military supply depot, or school) unless and only to the extent that the Secretary of Defense has issued a permit for use by another agency.
 
-        (5) __Exception for groups of special purpose buildings.—__ 
+        (5)  __Exception for groups of special purpose buildings__  __.—__ 
 
         A transfer of functions shall not be made under this subsection for a building that the Director finds to be a part of a group of buildings that are—
 
@@ -47,7 +47,7 @@
 
             (C) not generally suitable for use by another agency.
 
-        (6) __Exception for certain government buildings.—__ 
+        (6)  __Exception for certain government buildings__  __.—__ 
 
         A transfer of functions shall not be made under this subsection for the Treasury Building, the Bureau of Engraving and Printing Building, the buildings occupied by the National Institute of Standards and Technology, and the buildings under the jurisdiction of the regents of the Smithsonian Institution.
 

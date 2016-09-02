@@ -17,7 +17,7 @@
 
     (a) __Establishment.—__ 
 
-        (1) __Boundaries.—__ 
+        (1)  __Boundaries__  __.—__ 
 
         The National Capital Service Area is in the District of Columbia and includes the principal federal monuments, the White House, the Capitol Building, the United States Supreme Court Building, and the federal executive, legislative, and judicial office buildings located adjacent to the Mall and the Capitol Building, and is more particularly described as the area bounded as follows:    Beginning at that point on the present Virginia-District of Columbia boundary due west of the northernmost point of Theodore Roosevelt Island and running due east to the eastern shore of the Potomac River;
 
@@ -123,11 +123,11 @@
 
             thence generally north and west up the Potomac River along the Virginia-District of Columbia boundary to the point of beginning.
 
-        (2) __Streets and sidewalks included.—__ 
+        (2)  __Streets and sidewalks included__  __.—__ 
 
         Where the area in paragraph (1) is bounded by a street, the street, and any sidewalk of the street, are included in the area.
 
-        (3) __Federal property that affronted or abutted the area deemed to be in the area.—__ 
+        (3)  __Federal property that affronted or abutted the area deemed to be in the area__  __.—__ 
 
         Federal real property that on December 24, 1973, affronted or abutted the area described in paragraph (1) is deemed to be in the area. For the purposes of this paragraph, federal real property affronting or abutting the area described in paragraph (1)—
 
@@ -137,7 +137,7 @@
 
     (b) __Applicability of Other Provisions.—__ 
 
-        (1) __Provisions covering buildings and grounds in area not affected.—__ 
+        (1)  __Provisions covering buildings and grounds in area not affected__  __.—__ 
 
         Except to the extent specifically provided by this section, this section does not—
 
@@ -151,15 +151,15 @@
 
                 (ii) any authority which existed on December 24, 1973, with respect to those buildings and grounds and was vested on January 1, 1975, in the Senate, the House of Representatives, Congress, any committee, commission, or board of the Senate, the House of Representatives, or Congress, the Architect of the Capitol or any other officer of the legislative branch, the Chief Justice of the United States, the Marshal of the Supreme Court, or the Librarian of Congress.
 
-        (2) __Continued application of laws, regulations, and rules.—__ 
+        (2)  __Continued application of laws, regulations, and rules__  __.—__ 
 
         Except to the extent otherwise specifically provided in this section, all general laws of the United States and all laws enacted by the Congress and applicable exclusively to the District of Columbia, including regulations and rules prescribed pursuant to any of those laws, that were in effect on January 1, 1975, and which applied to and in the areas included in the National Capital Service Area pursuant to this section continue to be applicable to and in the National Capital Service Area in the same manner and to the same extent as if this section had not been enacted and remain applicable until repealed, amended, altered, modified, or superseded.
 
-    (c) __Availability of Services and Facilities.—__ 
+    (c)  __Availability of Services and Facilities__  __.—__ 
 
     As far as practicable, any service or facility authorized by the District of Columbia Home Rule Act ([Public Law 93–198][/us/pl/93/198], [87 Stat. 774][/us/stat/87/774]) to be rendered or furnished (including maintenance of streets and highways, and services under [section 1537 of title 31][/us/usc/t31/s1537]) shall be made available to the Senate, the House of Representatives, Congress, any committee, commission, or board of the Senate, the House of Representatives, or Congress, the Architect of the Capitol, any other officer of the legislative branch who on January 1, 1975, was vested with authority over those buildings and grounds, the Chief Justice of the United States, the Marshal of the Supreme Court, and the Librarian of Congress on their request. If payment would be required for the rendition or furnishing of a similar service or facility to any other federal agency, the recipient, on presentation of proper vouchers and as agreed on by the parties, shall pay for the service or facility in advance or by reimbursement.
 
-    (d) __Right To Participate in Election Not Affected by Residency.—__ 
+    (d)  __Right To Participate in Election Not Affected by Residency__  __.—__ 
 
     An individual may not be denied the right to vote or otherwise participate in any manner in any election in the District of Columbia solely because the individual resides in the National Capital Service Area.
 

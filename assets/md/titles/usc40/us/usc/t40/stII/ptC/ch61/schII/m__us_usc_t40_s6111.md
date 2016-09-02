@@ -17,7 +17,7 @@
 
     (a) __In General.—__ 
 
-        (1) __Structural and mechanical care.—__ 
+        (1)  __Structural and mechanical care__  __.—__ 
 
         The Architect of the Capitol shall have charge of the structural and mechanical care of the Supreme Court Building, including—
 
@@ -25,15 +25,15 @@
 
             (B) the supplying of all mechanical furnishings and mechanical equipment for the Building.
 
-        (2) __Operation and maintenance.—__ 
+        (2)  __Operation and maintenance__  __.—__ 
 
         The Architect shall direct the operation and maintenance of the mechanical equipment and repair of the building.
 
-        (3) __Contract authority.—__ 
+        (3)  __Contract authority__  __.—__ 
 
         The Architect may enter into all necessary contracts to carry out this subsection.
 
-    (b) __Availability of Appropriations.—__ 
+    (b)  __Availability of Appropriations__  __.—__ 
 
     Amounts appropriated under—
 

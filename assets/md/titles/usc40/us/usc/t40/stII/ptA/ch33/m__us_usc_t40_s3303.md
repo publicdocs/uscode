@@ -15,7 +15,7 @@
 
 ## § 3303. Continuing investigation and survey of public buildings
 
-    (a) __Conducted by Administrator.—__ 
+    (a)  __Conducted by Administrator__  __.—__ 
 
     The Administrator of General Services shall—
 
@@ -25,7 +25,7 @@
 
     (b) __Cooperation with Federal Agencies.—__ 
 
-        (1) __Duties of administrator.—__ 
+        (1)  __Duties of administrator__  __.—__ 
 
         In carrying out the duties of the Administrator under this chapter, the Administrator—
 
@@ -35,11 +35,11 @@
 
             (C) may request the cooperation and assistance of each federal agency in carrying out duties under this chapter.
 
-        (2) __Duty of federal agencies.—__ 
+        (2)  __Duty of federal agencies__  __.—__ 
 
         Each federal agency shall cooperate with, advise, and assist the Administrator in carrying out the duties of the Administrator under this chapter as determined necessary by the Administrator to carry out the purposes of this chapter.
 
-    (c) __Request for Identification of Existing Buildings of Historical, Architectural, or Cultural Significance.—__ 
+    (c)  __Request for Identification of Existing Buildings of Historical, Architectural, or Cultural Significance__  __.—__ 
 
     When the Administrator undertakes a survey of the public buildings needs of the Government within a geographical area, the Administrator shall request that, within 60 days, the Advisory Council on Historic Preservation established by title II of the National Historic Preservation Act ([16 U.S.C. 470i][/us/usc/t16/s470i] et seq.) identify any existing buildings in the geographical area that—
 
@@ -47,7 +47,7 @@
 
         (2) whether or not in need of repair, alteration, or addition, would be suitable for acquisition to meet the public buildings needs of the Government.
 
-    (d) __Standard for Construction and Acquisition of Public Buildings.—__ 
+    (d)  __Standard for Construction and Acquisition of Public Buildings__  __.—__ 
 
     In carrying out the duties of the Administrator under this chapter, the Administrator shall provide for the construction and acquisition of public buildings equitably throughout the United States with due regard to the comparative urgency of the need for each particular building. In developing plans for new buildings, the Administrator shall give due consideration to excellence of architecture and design.
 

@@ -15,7 +15,7 @@
 
 ## § 17504. Agency statements with respect to motor vehicle use
 
-    (a) __Contents of Statement.—__ 
+    (a)  __Contents of Statement__  __.—__ 
 
     The head of each executive agency shall include with the appropriation request the agency submits under [section 1108 of title 31][/us/usc/t31/s1108] for each fiscal year, a statement—
 
@@ -29,7 +29,7 @@
 
         (2) justifying why the existing and any new motor vehicle acquisition, maintenance, leasing, operation, and disposal requirements of the agency cannot be met through the Interagency Fleet Management System the Administrator of General Services operates, a qualified private fleet management firm, or any other method which is less costly to the Federal Government.
 
-    (b) __Compliance With Requirements.—__ 
+    (b)  __Compliance With Requirements__  __.—__ 
 
     The head of each executive agency shall comply with the requirements prescribed under [section 17503(b) of this title][/us/usc/t40/s17503/b] in preparing each statement required under subsection (a).
 

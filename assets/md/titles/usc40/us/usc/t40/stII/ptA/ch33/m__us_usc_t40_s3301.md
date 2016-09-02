@@ -15,11 +15,11 @@
 
 ## § 3301. Definitions and nonapplication
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this chapter—
 
-        (1) __Alter.—__ 
+        (1)  __Alter__  __.—__ 
 
         The term “alter” includes—
 
@@ -27,11 +27,11 @@
 
             (B) repairing, remodeling, improving, or extending, or other changes in, a public building.
 
-        (2) __Construct.—__ 
+        (2)  __Construct__  __.—__ 
 
         The term “construct” includes preliminary planning, engineering, architectural, legal, fiscal, and economic investigations and studies, surveys, designs, plans, working drawings, specifications, procedures, and other similar actions necessary for the construction of a public building.
 
-        (3) __Executive agency.—__ 
+        (3)  __Executive agency__  __.—__ 
 
         The term “executive agency” means an executive department or independent establishment in the executive branch of the Federal Government, including—
 
@@ -47,11 +47,11 @@
 
             (F) the Government National Mortgage Association.
 
-        (4) __Federal agency.—__ 
+        (4)  __Federal agency__  __.—__ 
 
         The term “federal agency” means an executive agency or an establishment in the legislative or judicial branch of the Government (except the Senate, the House of Representatives, and the Architect of the Capitol and any activities under the direction of the Architect).
 
-        (5) __Public building.—__ 
+        (5)  __Public building__  __.—__ 
 
         The term “public building”—
 
@@ -107,11 +107,11 @@
 
                 (ix) the exclusion of which the President considers to be justified in the public interest.
 
-        (6) __United states.—__ 
+        (6)  __United states__  __.—__ 
 
         The term “United States” includes the States of the United States, the District of Columbia, Puerto Rico, and the territories and possessions of the United States.
 
-    (b) __Nonapplication.—__ 
+    (b)  __Nonapplication__  __.—__ 
 
     This chapter does not apply to the construction of any public building to which section 241(g) of the Immigration and Nationality Act ([8 U.S.C. 1231(g)][/us/usc/t8/s1231/g]) or [section 1 of the Act of June 26, 1930][/us/act/1930-06-26/s1] ([19 U.S.C. 68][/us/usc/t19/s68]) applies.
 

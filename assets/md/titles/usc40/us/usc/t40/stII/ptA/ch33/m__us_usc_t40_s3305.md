@@ -17,21 +17,21 @@
 
     (a) __Construction.—__ 
 
-        (1) __Replacement of existing buildings.—__ 
+        (1)  __Replacement of existing buildings__  __.—__ 
 
         When the Administrator of General Services considers it to be in the best interest of the Federal Government to construct a new public building to take the place of an existing public building, the Administrator may demolish the existing building and use the site on which it is located for the site of the proposed public building. If the Administrator believes that it is more advantageous to construct the public building on a different site in the same city, the Administrator may exchange the building and site, or the site, for another site, or may sell the building and site in accordance with subtitle I of this title and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
-        (2) __Sale or exchange of sites.—__ 
+        (2)  __Sale or exchange of sites__  __.—__ 
 
         When the Administrator decides that a site acquired for the construction of a public building is not suitable for that purpose, the Administrator may exchange the site for another site, or may sell it in accordance with subtitle I of this title and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
-        (3) __Committee approval required.—__ 
+        (3)  __Committee approval required__  __.—__ 
 
         This subsection does not permit the Administrator to use any land as a site for a public building if the project has not been approved in accordance with [section 3307 of this title][/us/usc/t40/s3307].
 
     (b) __Alteration of Buildings.—__ 
 
-        (1) __Authority to alter buildings and acquire land.—__ 
+        (1)  __Authority to alter buildings and acquire land__  __.—__ 
 
         The Administrator may—
 
@@ -41,15 +41,15 @@
 
         (2) __Committee approval not required.—__ 
 
-            (A) __Threshold amount.—__ 
+            (A)  __Threshold amount__  __.—__ 
 
             Approval under [section 3307 of this title][/us/usc/t40/s3307] is not required for any alteration and acquisition authorized by this subsection for which the estimated maximum cost does not exceed $1,500,000.
 
-            (B) __Dollar amount adjustment.—__ 
+            (B)  __Dollar amount adjustment__  __.—__ 
 
             The Administrator annually may adjust the dollar amount referred to in subparagraph (A) to reflect a percentage increase or decrease in construction costs during the prior calendar year, as determined by the composite index of construction costs of the Department of Commerce. Any adjustment shall be expeditiously reported to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
-    (c) __Construction or Alteration by Contract.—__ 
+    (c)  __Construction or Alteration by Contract__  __.—__ 
 
     The Administrator may carry out any construction or alteration authorized by this chapter by contract if the Administrator considers it to be most advantageous to the Government.
 

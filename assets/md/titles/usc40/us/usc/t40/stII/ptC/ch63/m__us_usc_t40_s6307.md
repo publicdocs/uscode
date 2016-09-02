@@ -17,21 +17,21 @@
 
     (a) __In General.—__ 
 
-        (1) __Penalty.—__ 
+        (1)  __Penalty__  __.—__ 
 
         A person violating section 6302 or 6303 of this title, or a regulation prescribed under [section 6304 of this title][/us/usc/t40/s6304], shall be fined under title 18, imprisoned for not more than 60 days, or both.
 
-        (2) __Procedure.—__ 
+        (2)  __Procedure__  __.—__ 
 
         Prosecution for an offense under this subsection shall be in the Superior Court of the District of Columbia, by information by the United States Attorney or an Assistant United States Attorney.
 
-    (b) __Offenses Involving Property Damage Over $100.—__ 
+    (b)  __Offenses Involving Property Damage Over__  __$100.—__ 
 
-        (1) __Penalty.—__ 
+        (1)  __Penalty__  __.—__ 
 
         If in the commission of a violation described in subsection (a), property is damaged in an amount exceeding $100, the period of imprisonment for the offense may be not more than five years.
 
-        (2) __Venue and procedure.—__ 
+        (2)  __Venue and procedure__  __.—__ 
 
         Prosecution of an offense under this subsection shall be in the United States District Court for the District of Columbia by indictment. Prosecution may be on information by the United States Attorney or an Assistant United States Attorney if the defendant, after being advised of the nature of the charge and of rights of the defendant, waives in open court prosecution by indictment.
 

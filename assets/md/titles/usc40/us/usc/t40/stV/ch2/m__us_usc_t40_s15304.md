@@ -15,7 +15,7 @@
 
 ## § 15304. Administrative powers and expenses
 
-    (a) __Powers.—__ 
+    (a)  __Powers__  __.—__ 
 
     In carrying out its duties under this subtitle, a Commission may—
 
@@ -37,7 +37,7 @@
 
         (9) maintain a government relations office in the District of Columbia and establish and maintain a central office at such location in its region as the Commission may select.
 
-    (b) __Federal Agency Cooperation.—__ 
+    (b)  __Federal Agency Cooperation__  __.—__ 
 
     A Federal agency shall—
 
@@ -47,7 +47,7 @@
 
     (c) __Administrative Expenses.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Subject to paragraph (2), the administrative expenses of a Commission shall be paid—
 
@@ -55,21 +55,21 @@
 
             (B) by the States participating in the Commission, in an amount equal to 50 percent of the administrative expenses.
 
-        (2) __Expenses of the federal cochairperson.—__ 
+        (2)  __Expenses of the federal cochairperson__  __.—__ 
 
         All expenses of the Federal Cochairperson, including expenses of the alternate and staff of the Federal Cochairperson, shall be paid by the Federal Government.
 
         (3) __State share.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Subject to subparagraph (B), the share of administrative expenses of a Commission to be paid by each State of the Commission shall be determined by a unanimous vote of the State members of the Commission.
 
-            (B) __No federal participation.—__ 
+            (B)  __No federal participation__  __.—__ 
 
             The Federal Cochairperson shall not participate or vote in any decision under subparagraph (A).
 
-            (C) __Delinquent states.—__ 
+            (C)  __Delinquent states__  __.—__ 
 
             During any period in which a State is more than 1 year delinquent in payment of the State’s share of administrative expenses of the Commission under this subsection—
 
@@ -77,7 +77,7 @@
 
                 (ii) no member of the Commission from the State shall participate or vote in any action by the Commission.
 
-        (4) __Effect on assistance.—__ 
+        (4)  __Effect on assistance__  __.—__ 
 
         A State’s share of administrative expenses of a Commission under this subsection shall not be taken into consideration when determining the amount of assistance provided to the State under this subtitle.
 

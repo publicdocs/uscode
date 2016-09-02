@@ -17,21 +17,21 @@
 
     (a) __Condition of Contracts.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Each contract in an amount greater than $100,000 that is entered into under legislation subject to Reorganization Plan Numbered 14 of 1950 (eff. May 24, 1950, [64 Stat. 1267][/us/stat/64/1267]) and is for construction, alteration, and repair, including painting and decorating, must provide that no contractor or subcontractor contracting for any part of the contract work shall require any laborer or mechanic employed in the performance of the contract to work in surroundings or under working conditions that are unsanitary, hazardous, or dangerous to health or safety, as established under construction safety and health standards the Secretary of Labor prescribes by regulation based on proceedings pursuant to [section 553 of title 5][/us/usc/t5/s553], provided that the proceedings include a hearing similar in nature to that authorized by [section 553 of title 5][/us/usc/t5/s553].
 
-        (2) __Consultation.—__ 
+        (2)  __Consultation__  __.—__ 
 
         In formulating standards under this section, the Secretary shall consult with the Advisory Committee created by subsection (d).
 
     (b) __Compliance.—__ 
 
-        (1) __Actions to gain compliance.—__ 
+        (1)  __Actions to gain compliance__  __.—__ 
 
         The Secretary may make inspections, hold hearings, issue orders, and make decisions based on findings of fact as the Secretary considers necessary to gain compliance with this section and any health and safety standard the Secretary prescribes under subsection (a). For those purposes the Secretary and the United States district courts have the authority and jurisdiction provided by sections 6506 and 6507 of title 41.
 
-        (2) __Remedy when noncompliance found.—__ 
+        (2)  __Remedy when noncompliance found__  __.—__ 
 
         When the Secretary, after an opportunity for an adjudicatory hearing by the Secretary, establishes noncompliance under this section of any condition of a contract described in—
 
@@ -39,31 +39,31 @@
 
             (B) [section 3701(b)(1)(B)(iii) of this title][/us/usc/t40/s3701/b/1/B/iii], the governmental agency which is providing the financial guarantee, assistance, or insurance for the contract work may withhold the guarantee, assistance, or insurance attributable to the performance of the contract.
 
-        (3) __Nonapplicability.—__ 
+        (3)  __Nonapplicability__  __.—__ 
 
         [Section 3703 of this title][/us/usc/t40/s3703] does not apply to the enforcement of this section.
 
     (c) __Repeated Violations.—__ 
 
-        (1) __Transmittal of names of repeat violators to comptroller general.—__ 
+        (1)  __Transmittal of names of repeat violators to comptroller general__  __.—__ 
 
         When the Secretary, after an opportunity for an agency hearing, decides on the record that, by repeated willful or grossly negligent violations of this chapter, a contractor or subcontractor has demonstrated that subsection (b) is not effective to protect the safety and health of the employees of the contractor or subcontractor, the Secretary shall make a finding to that effect and, not sooner than 30 days after giving notice of the finding to all interested persons, shall transmit the name of the contractor or subcontractor to the Comptroller General.
 
-        (2) __Ban on awarding contracts.—__ 
+        (2)  __Ban on awarding contracts__  __.—__ 
 
         The Comptroller General shall distribute each name transmitted under paragraph (1) to all agencies of the Federal Government. Unless the Secretary otherwise recommends, the contractor, subcontractor, or any person in which the contractor or subcontractor has a substantial interest may not be awarded a contract subject to this section until three years have elapsed from the date the name is transmitted to the Comptroller General. The Secretary shall terminate the ban if, before the end of the three-year period, the Secretary, after affording interested persons due notice and an opportunity for a hearing, is satisfied that a contractor or subcontractor whose name was transmitted to the Comptroller General will comply responsibly with the requirements of this section. The Comptroller General shall inform all Government agencies after being informed of the Secretary’s action.
 
-        (3) __Judicial review.—__ 
+        (3)  __Judicial review__  __.—__ 
 
         A person aggrieved by the Secretary’s action under this subsection or subsection (b) may file with the appropriate United States court of appeals a petition for review of the Secretary’s action within 60 days after receiving notice of the Secretary’s action. The clerk of the court immediately shall send a copy of the petition to the Secretary. The Secretary then shall file with the court the record on which the action is based. The findings of fact by the Secretary, if supported by substantial evidence, are final. The court may enter a decree enforcing, modifying, modifying and enforcing, or setting aside any part of, the order of the Secretary or the appropriate Government agency. The judgment of the court may be reviewed by the Supreme Court as provided in [section 1254 of title 28][/us/usc/t28/s1254].
 
     (d) __Advisory Committee on Construction Safety and Health.—__ 
 
-        (1) __Establishment.—__ 
+        (1)  __Establishment__  __.—__ 
 
         There is an Advisory Committee on Construction Safety and Health in the Department of Labor.
 
-        (2) __Composition.—__ 
+        (2)  __Composition__  __.—__ 
 
         The Committee is composed of nine members appointed by the Secretary, without regard to chapter 33 of title 5, as follows:
 
@@ -73,11 +73,11 @@
 
             (C) Three members shall be public representatives who shall be selected on the basis of their professional and technical competence and experience in the construction health and safety field.
 
-        (3) __Chairman.—__ 
+        (3)  __Chairman__  __.—__ 
 
         The Secretary shall appoint one member as Chairman.
 
-        (4) __Duties.—__ 
+        (4)  __Duties__  __.—__ 
 
         The Committee shall advise the Secretary—
 
@@ -85,11 +85,11 @@
 
             (B) on policy matters arising in carrying out this section.
 
-        (5) __Experts and consultants.—__ 
+        (5)  __Experts and consultants__  __.—__ 
 
         The Secretary may appoint special advisory and technical experts or consultants as may be necessary to carry out the functions of the Committee.
 
-        (6) __Compensation and expenses.—__ 
+        (6)  __Compensation and expenses__  __.—__ 
 
         Committee members are entitled to receive compensation at rates the Secretary fixes, but not more than $100 a day, including traveltime, when performing Committee business, and expenses under [section 5703 of title 5][/us/usc/t5/s5703].
 

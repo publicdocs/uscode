@@ -17,7 +17,7 @@
 
     (a) __Credit to Reimbursable Fund or Appropriation.—__ 
 
-        (1) __Application.—__ 
+        (1)  __Application__  __.—__ 
 
         This subsection applies to property acquired with amounts—
 
@@ -25,7 +25,7 @@
 
             (B) appropriated from the general fund of the Treasury but by law reimbursable from assessment, tax, or other revenue or receipts.
 
-        (2) __In general.—__ 
+        (2)  __In general__  __.—__ 
 
         The net proceeds of a disposition or transfer of property described in paragraph (1) shall be—
 
@@ -33,17 +33,17 @@
 
             (B) paid to the federal agency that determined the property to be excess.
 
-        (3) __Calculation of net proceeds.—__ 
+        (3)  __Calculation of net proceeds__  __.—__ 
 
         For purposes of this subsection, the net proceeds of a disposition or transfer of property are the proceeds less all expenses incurred for the disposition or transfer, including care and handling.
 
-        (4) __Alternative credit to miscellaneous receipts.—__ 
+        (4)  __Alternative credit to miscellaneous receipts__  __.—__ 
 
         If the agency that determined the property to be excess decides that it is uneconomical or impractical to ascertain the amount of net proceeds, the proceeds shall be credited to miscellaneous receipts.
 
     (b) __Special Account for Refunds or Payments for Breach.—__ 
 
-        (1) __Deposits.—__ 
+        (1)  __Deposits__  __.—__ 
 
         A federal agency that disposes of surplus property under this chapter may deposit, in a special account in the Treasury, amounts of the proceeds of the dispositions that the agency decides are necessary to permit—
 
@@ -51,19 +51,19 @@
 
             (B) payments for breach of warranty.
 
-        (2) __Withdrawals.—__ 
+        (2)  __Withdrawals__  __.—__ 
 
         A federal agency that deposits proceeds in a special account under paragraph (1) may withdraw amounts to be refunded or paid from the account without regard to the origin of the amounts withdrawn.
 
-    (c) __Credit to Cost of Contractor’s Work.—__ 
+    (c)  __Credit to Cost of Contractor’s Work__  __.—__ 
 
     If a contract made by an executive agency, or a subcontract under that contract, authorizes the proceeds of a sale of property in the custody of a contractor or subcontractor to be credited to the price or cost of work covered by the contract or subcontract, then the proceeds of the sale shall be credited in accordance with the contract or subcontract.
 
-    (d) __Acceptance of Property Instead of Cash.—__ 
+    (d)  __Acceptance of Property Instead of Cash__  __.—__ 
 
     An executive agency entitled to receive cash under a contract for the lease, sale, or other disposition of surplus property may accept property instead of cash if the President determines that the property is strategic or critical material. The property is valued at the prevailing market price when the cash payment becomes due.
 
-    (e) __Management of Credit, Leases, and Permits.—__ 
+    (e)  __Management of Credit, Leases, and Permits__  __.—__ 
 
     For a disposition of surplus property under this chapter, if credit has been extended, or if the disposition has been by lease or permit, the Administrator of General Services, in a manner and on terms the Administrator determines are in the best interest of the Federal Government—
 

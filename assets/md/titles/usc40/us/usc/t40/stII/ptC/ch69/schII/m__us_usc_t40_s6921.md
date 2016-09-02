@@ -15,13 +15,13 @@
 
 ## § 6921. Establishment, composition, and meetings
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     There is a National Visitor Facilities Advisory Commission.
 
     (b) __Composition.—__ 
 
-        (1) __Membership.—__ 
+        (1)  __Membership__  __.—__ 
 
         The Commission is composed of—
 
@@ -41,15 +41,15 @@
 
             (H) three individuals appointed by the President, at least two of whom shall not be officers of the Federal Government, and one member of whom shall be a representative of the District of Columbia government.
 
-        (2) __Chairman.—__ 
+        (2)  __Chairman__  __.—__ 
 
         The Secretary of the Interior serves as the Chairman of the Commission.
 
-        (3) __Service of non-federal members.—__ 
+        (3)  __Service of non-federal members__  __.—__ 
 
         Non-federal members serve at the pleasure of the President.
 
-    (c) __Meetings.—__ 
+    (c)  __Meetings__  __.—__ 
 
     The Commission shall meet at the call of the Chairman.
 

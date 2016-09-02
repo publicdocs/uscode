@@ -15,7 +15,7 @@
 
 ## § 559. Advice of Attorney General with respect to antitrust law
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, the term “antitrust law” includes—
 
@@ -29,11 +29,11 @@
 
     (b) __Advice Required.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         An executive agency shall not dispose of property to a private interest until the agency has received the advice of the Attorney General on whether the disposal to a private interest would tend to create or maintain a situation inconsistent with antitrust law.
 
-        (2) __Exception.—__ 
+        (2)  __Exception__  __.—__ 
 
         This section does not apply to disposal of—
 
@@ -43,19 +43,19 @@
 
     (c) __Notice to Attorney General.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         An executive agency that contemplates disposing of property to a private interest shall promptly transmit notice of the proposed disposal, including probable terms and conditions, to the Attorney General.
 
-        (2) __Copy.—__ 
+        (2)  __Copy__  __.—__ 
 
         Except for the General Services Administration, an executive agency that transmits notice under paragraph (1) shall simultaneously transmit a copy of the notice to the Administrator of General Services.
 
-    (d) __Advice From Attorney General.—__ 
+    (d)  __Advice From Attorney General__  __.—__ 
 
     Within a reasonable time, not later than 60 days, after receipt of notice under subsection (c), the Attorney General shall advise the Administrator and any interested executive agency whether, so far as the Attorney General can determine, the proposed disposition would tend to create or maintain a situation inconsistent with antitrust law.
 
-    (e) __Request for Information.—__ 
+    (e)  __Request for Information__  __.—__ 
 
     On request from the Attorney General, the head of an executive agency shall furnish information the agency possesses that the Attorney General determines is appropriate or necessary to—
 
@@ -63,7 +63,7 @@
 
         (2) determine whether any other disposition or proposed disposition of surplus property violates antitrust law.
 
-    (f) __No Effect on Antitrust Law.—__ 
+    (f)  __No Effect on Antitrust Law__  __.—__ 
 
     This subtitle does not impair, amend, or modify antitrust law or limit or prevent application of antitrust law to a person acquiring property under this subtitle.
 

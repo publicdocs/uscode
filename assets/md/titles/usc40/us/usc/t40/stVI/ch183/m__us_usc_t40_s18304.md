@@ -15,15 +15,15 @@
 
 ## § 18304. Procedures for enforcement of awards
 
-    (a) __Modifications and Finality of Award.—__ 
+    (a)  __Modifications and Finality of Award__  __.—__ 
 
     Within 10 days after the parties receive an arbitration award to which [section 18303 of this title][/us/usc/t40/s18303] applies, the interstate compact agency and the employees, through their representative, may agree in writing on any modifications to the award. After the end of that 10-day period, the award, and any modifications, become binding on the interstate compact agency, the employees in the bargaining unit, and the employees’ representative.
 
-    (b) __Implementation.—__ 
+    (b)  __Implementation__  __.—__ 
 
     Each party to an award that becomes binding under subsection (a) shall take all actions necessary to implement the award.
 
-    (c) __Judicial Review.—__ 
+    (c)  __Judicial Review__  __.—__ 
 
     Within 60 days after an award becomes binding under subsection (a), the interstate compact agency or the exclusive representative of the employees concerned may bring a civil action in a court that has jurisdiction over the interstate compact agency for review of the award. The court shall review the award on the record, and shall vacate the award or any part of the award, after notice and a hearing, if—
 

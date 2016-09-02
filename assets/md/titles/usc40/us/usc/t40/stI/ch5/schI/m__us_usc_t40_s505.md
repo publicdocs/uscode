@@ -17,7 +17,7 @@
 
     (a) __Excess Property Determination.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Medical materials or supplies an executive agency holds for national emergency purposes are considered excess property for purposes of subchapter II when the head of the agency determines that—
 
@@ -25,21 +25,21 @@
 
             (B) transfer or other disposal is in the national interest.
 
-        (2) __Timing.—__ 
+        (2)  __Timing__  __.—__ 
 
         To the greatest extent practicable, the head of the agency shall make the determination in sufficient time to allow for the transfer or other disposal and use of medical materials or supplies before their shelf life expires and they are rendered unfit for human use.
 
     (b) __Transfer or Exchange.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         In accordance with regulations the Administrator of General Services prescribes, medical materials or supplies considered excess property may be transferred to another federal agency or exchanged with another federal agency for other medical materials or supplies.
 
-        (2) __Use of proceeds.—__ 
+        (2)  __Use of proceeds__  __.—__ 
 
         Any proceeds derived from a transfer under this section may be credited to the current applicable appropriation or fund of the transferor agency and shall be available only to purchase medical materials or supplies to be held for national emergency purposes.
 
-        (3) __Disposal as surplus property.—__ 
+        (3)  __Disposal as surplus property__  __.—__ 
 
         If the materials or supplies are not transferred to or exchanged with another federal agency, they shall be disposed of as surplus property.
 

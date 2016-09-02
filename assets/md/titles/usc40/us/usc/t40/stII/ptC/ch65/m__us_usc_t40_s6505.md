@@ -15,7 +15,7 @@
 
 ## § 6505. Structural and mechanical care and security
 
-    (a) __Structural and Mechanical Care.—__ 
+    (a)  __Structural and Mechanical Care__  __.—__ 
 
     The Architect of the Capitol, under the direction of the Commission for the Judiciary Office Building—
 
@@ -25,7 +25,7 @@
 
     (b) __Security.—__ 
 
-        (1) __Capitol police.—__ 
+        (1)  __Capitol police__  __.—__ 
 
         The United States Capitol Police—
 
@@ -33,11 +33,11 @@
 
             (B) may police the Building and other improvements, including the interior and exterior, and may make arrests within the interior and exterior of the Building and other improvements for any violation of federal or state law or the laws of the District of Columbia, or any regulation prescribed under any of those laws.
 
-        (2) __Marshal of the supreme court.—__ 
+        (2)  __Marshal of the supreme court__  __.—__ 
 
         This chapter does not interfere with the obligation of the Marshal of the Supreme Court to protect justices, officers, employees, or other personnel of the Supreme Court who may occupy the Building and other improvements.
 
-        (3) __Reimbursement.—__ 
+        (3)  __Reimbursement__  __.—__ 
 
         The Architect shall transfer from the account described in [section 6507 of this title][/us/usc/t40/s6507] amounts necessary to reimburse the United States Capitol Police for expenses incurred in providing exterior security under this subsection. The Capitol Police may accept amounts the Architect transfers under this paragraph. Those amounts shall be credited to the appropriation account charged by the Capitol Police in carrying out security duties.
 

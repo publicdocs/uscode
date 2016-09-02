@@ -15,7 +15,7 @@
 
 ## § 14524. Program development criteria
 
-    (a) __Factors To Be Considered.—__ 
+    (a)  __Factors To Be Considered__  __.—__ 
 
     In considering programs and projects to be given assistance under this subtitle, and in establishing a priority ranking of the requests for assistance presented to the Appalachian Regional Commission, the Commission shall follow procedures that will ensure consideration of—
 
@@ -31,15 +31,15 @@
 
         (6) the extent to which the project design provides for detailed outcome measurements by which grant expenditures may be evaluated.
 
-    (b) __Limitation on Use.—__ 
+    (b)  __Limitation on Use__  __.—__ 
 
     Financial assistance made available under this subtitle shall not be used to assist establishments relocating from one area to another.
 
-    (c) __Determination Required Before Amounts May Be Provided.—__ 
+    (c)  __Determination Required Before Amounts May Be Provided__  __.—__ 
 
     Amounts may be provided for programs and projects in a State under this subtitle only if the Commission determines that the level of federal and state financial assistance under other laws for the same type of programs or projects in that part of the State within the Appalachian region will not be diminished in order to substitute amounts authorized by this subtitle.
 
-    (d) __Minimum Amount of Assistance to Distressed Counties and Areas.—__ 
+    (d)  __Minimum Amount of Assistance to Distressed Counties and Areas__  __.—__ 
 
     For each fiscal year, not less than 50 percent of the amount of grant expenditures the Commission approves shall support activities or projects that benefit severely and persistently distressed counties and areas.
 

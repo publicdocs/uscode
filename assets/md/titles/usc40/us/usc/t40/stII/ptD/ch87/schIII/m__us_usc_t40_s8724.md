@@ -15,21 +15,21 @@
 
 ## § 8724. Zoning regulations and maps
 
-    (a) __Amendments of Zoning Regulations and Maps.—__ 
+    (a)  __Amendments of Zoning Regulations and Maps__  __.—__ 
 
     The National Capital Planning Commission may make a report and recommendation to the Zoning Commission of the District of Columbia, as provided in [section 5 of the Act of June 20, 1938][/us/act/1938-06-20/s5] (ch. 534, [52 Stat. 798][/us/stat/52/798]), on the relation, conformity, or consistency of proposed amendments of the zoning regulations and maps with the comprehensive plan for the National Capital. The Planning Commission may also submit to the Zoning Commission proposed amendments or general revisions to the zoning regulations or the zoning map for the District of Columbia.
 
-    (b) __Additional Report by Planning Commission.—__ 
+    (b)  __Additional Report by Planning Commission__  __.—__ 
 
     When requested by an authorized representative of the Planning Commission, the Zoning Commission may recess for a reasonable period of time any public hearing it is holding to consider a proposed amendment to the zoning regulations or map so that the Planning Commission may have an opportunity to present to the Zoning Commission an additional report on the proposed amendment.
 
     (c) __Zoning Committee of National Capital Planning Commission.—__ 
 
-        (1) __Establishment and composition.—__ 
+        (1)  __Establishment and composition__  __.—__ 
 
         There is a Zoning Committee of the National Capital Planning Commission. The Committee consists of at least three members of the Planning Commission the Planning Commission designates for that purpose. The number of members serving on the Committee may vary.
 
-        (2) __Duties.—__ 
+        (2)  __Duties__  __.—__ 
 
         The Committee shall carry out the functions vested in the Planning Commission under this section and [section 8725 of this title][/us/usc/t40/s8725]—
 

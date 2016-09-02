@@ -17,17 +17,17 @@
 
     (a) __In General.—__ 
 
-        (1) __Leases, covenants, agreements, and easements.—__ 
+        (1)  __Leases, covenants, agreements, and easements__  __.—__ 
 
         As provided in this section, the General Services Administration, the National Capital Planning Commission, and the National Park Service have the rights, title, and interest of the Pennsylvania Avenue Development Corporation in and to all leases, covenants, agreements, and easements the Corporation executed before April 1, 1996, in carrying out its powers and duties under the Pennsylvania Avenue Development Corporation Act of 1972 ([Public Law 92–578][/us/pl/92/578], [86 Stat. 1266][/us/stat/86/1266]) and the Federal Triangle Development Act ([Public Law 100–113][/us/pl/100/113], [101 Stat. 735][/us/stat/101/735]).
 
-        (2) __Property.—__ 
+        (2)  __Property__  __.—__ 
 
         The Administration has the rights, title, and interest of the Corporation in and to all property held in the name of the Corporation, except as provided in subsection (c).
 
     (b) __General Services Administration.—__ 
 
-        (1) __Responsibilities.—__ 
+        (1)  __Responsibilities__  __.—__ 
 
         The responsibilities of the Corporation transferred to the Administration under subsection (a) include—
 
@@ -55,7 +55,7 @@
 
             (G) carrying out the responsibilities of the Corporation under subchapter III and the Federal Triangle Development Act ([Public Law 100–113][/us/pl/100/113], [101 Stat. 735][/us/stat/101/735]), including responsibilities for managing assets and liabilities of the Corporation under subchapter III and the Act.
 
-        (2) __Powers.—__ 
+        (2)  __Powers__  __.—__ 
 
         In carrying out the responsibilities of the Corporation transferred under this section, the Administrator of General Services may—
 
@@ -73,15 +73,15 @@
 
     (c) __National Park Service.—__ 
 
-        (1) __Property.—__ 
+        (1)  __Property__  __.—__ 
 
         The National Park Service has the right, title, and interest in and to the property located in the Pennsylvania Avenue National Historic Site, including the parks, plazas, sidewalks, special lighting, trees, sculpture, and memorials, depicted on a map entitled “Pennsylvania Avenue National Historic Park”, dated June 1, 1995, and numbered 840–82441. The map shall be on file and available for public inspection in the offices of the Service.
 
-        (2) __Responsibilities.—__ 
+        (2)  __Responsibilities__  __.—__ 
 
         The Service is responsible for management, administration, maintenance, law enforcement, visitor services, resource protection, interpretation, and historic preservation at the Site.
 
-        (3) __Special events, festivals, concerts, or programs.—__ 
+        (3)  __Special events, festivals, concerts, or programs__  __.—__ 
 
         The Service may—
 
@@ -89,11 +89,11 @@
 
             (B) establish a nonprofit foundation to solicit amounts for those activities.
 
-        (4) __Jurisdiction of district of columbia.—__ 
+        (4)  __Jurisdiction of district of columbia__  __.—__ 
 
         Jurisdiction of Pennsylvania Avenue and all other roadways from curb to curb remains with the District of Columbia but vendors are not permitted to occupy street space except during temporary special events.
 
-    (d) __National Capital Planning Commission.—__ 
+    (d)  __National Capital Planning Commission__  __.—__ 
 
     The National Capital Planning Commission is responsible for ensuring that development in the Pennsylvania Avenue area is carried out in accordance with the Pennsylvania Avenue Development Corporation Plan—1974.
 

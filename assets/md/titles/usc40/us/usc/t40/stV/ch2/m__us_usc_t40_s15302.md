@@ -15,15 +15,15 @@
 
 ## § 15302. Decisions
 
-    (a) __Requirements for Approval.—__ 
+    (a)  __Requirements for Approval__  __.—__ 
 
     Except as provided in section 15304(c)(3), decisions by the Commission shall require the affirmative vote of the Federal Cochairperson and a majority of the State members (exclusive of members representing States delinquent under section 15304(c)(3)(C)).
 
-    (b) __Consultation.—__ 
+    (b)  __Consultation__  __.—__ 
 
     In matters coming before the Commission, the Federal Cochairperson shall, to the extent practicable, consult with the Federal departments and agencies having an interest in the subject matter.
 
-    (c) __Quorums.—__ 
+    (c)  __Quorums__  __.—__ 
 
     A Commission shall determine what constitutes a quorum for Commission meetings; except that—
 
@@ -31,7 +31,7 @@
 
         (2) a State alternate member shall not be counted toward the establishment of a quorum.
 
-    (d) __Projects and Grant Proposals.—__ 
+    (d)  __Projects and Grant Proposals__  __.—__ 
 
     The approval of project and grant proposals shall be a responsibility of each Commission and shall be carried out in accordance with section 15503.
 

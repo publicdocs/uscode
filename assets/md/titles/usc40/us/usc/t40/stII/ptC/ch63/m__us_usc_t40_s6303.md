@@ -15,7 +15,7 @@
 
 ## § 6303. Unlawful activities
 
-    (a) __Displays and Solicitations.—__ 
+    (a)  __Displays and Solicitations__  __.—__ 
 
     It is unlawful for anyone other than an authorized employee or concessionaire to carry out any of the following activities within the specified buildings and grounds:
 
@@ -25,7 +25,7 @@
 
         (3) Solicit alms, subscriptions, or contributions.
 
-    (b) __Touching of, or Injuries to, Property.—__ 
+    (b)  __Touching of, or Injuries to, Property__  __.—__ 
 
     It is unlawful for anyone—
 

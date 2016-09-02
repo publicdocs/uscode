@@ -15,13 +15,13 @@
 
 ## § 3701. Definition and application
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this chapter, the term “Federal Government” has the same meaning that the term “United States” had in the Contract Work Hours and Safety Standards Act ([Public Law 87–581][/us/pl/87/581], [76 Stat. 357][/us/stat/76/357]).
 
     (b) __Application.—__ 
 
-        (1) __Contracts.—__ 
+        (1)  __Contracts__  __.—__ 
 
         This chapter applies to—
 
@@ -37,7 +37,7 @@
 
                 (iii) which is a contract for work financed at least in part by loans or grants from, or loans insured or guaranteed by, the Government or an agency or instrumentality under any federal law providing wage standards for the work.
 
-        (2) __Laborers and mechanics.—__ 
+        (2)  __Laborers and mechanics__  __.—__ 
 
         This chapter applies to all laborers and mechanics employed by a contractor or subcontractor in the performance of any part of the work under the contract—
 
@@ -47,7 +47,7 @@
 
         (3) __Exceptions.—__ 
 
-            (A) __This chapter.—__ 
+            (A)  __This chapter__  __.—__ 
 
             This chapter does not apply to—
 
@@ -65,7 +65,7 @@
 
                 (iii) a contract in an amount that is not greater than $100,000.
 
-            (B) __Section 3702.—__ 
+            (B)  __Section 3702__  __.—__ 
 
             [Section 3702 of this title][/us/usc/t40/s3702] does not apply to work where the assistance described in paragraph (1)(B)(iii) from the Government or an agency or instrumentality is only a loan guarantee or insurance.
 

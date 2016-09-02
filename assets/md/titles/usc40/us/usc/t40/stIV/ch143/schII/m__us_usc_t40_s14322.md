@@ -15,11 +15,11 @@
 
 ## § 14322. Approval of development plans, strategy statements, and projects
 
-    (a) __Annual Review and Approval Required.—__ 
+    (a)  __Annual Review and Approval Required__  __.—__ 
 
     The Appalachian Regional Commission annually shall review and approve, in accordance with [section 14302 of this title][/us/usc/t40/s14302], state and regional development plans and strategy statements, and any multistate subregional plans which may be developed.
 
-    (b) __Application Process.—__ 
+    (b)  __Application Process__  __.—__ 
 
     An application for a grant or for other assistance for a specific project under this subtitle shall be made through the state member of the Commission representing the applicant. The state member shall evaluate the application for approval. To be approved, the state member must certify, and the Federal Cochairman must determine, that the application—
 
@@ -31,7 +31,7 @@
 
         (4) otherwise meets the requirements for assistance under this subtitle.
 
-    (c) __Affirmative Vote Requirement Deemed Met.—__ 
+    (c)  __Affirmative Vote Requirement Deemed Met__  __.—__ 
 
     After the appropriate state development plan and strategy statement are approved, certification by a state member, when joined by an affirmative vote of the Federal Cochairman, is deemed to satisfy the requirements for affirmative votes for decisions under [section 14302(a) of this title][/us/usc/t40/s14302/a].
 

@@ -15,17 +15,17 @@
 
 ## § 701. Administrative
 
-    (a) __Policies Prescribed by the President.—__ 
+    (a)  __Policies Prescribed by the President__  __.—__ 
 
     The President may prescribe policies that the President considers necessary to carry out this chapter. The policies must be consistent with this chapter.
 
     (b) __Executive Agency Responsibility.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The head of an executive agency that has foreign excess property is responsible for the disposal of the property.
 
-        (2) __Conformance to policies.—__ 
+        (2)  __Conformance to policies__  __.—__ 
 
         In carrying out functions under this chapter, the head of an executive agency shall—
 
@@ -33,7 +33,7 @@
 
             (B) dispose of foreign excess property in a manner that conforms to the foreign policy of the United States.
 
-        (3) __Delegation of authority.—__ 
+        (3)  __Delegation of authority__  __.—__ 
 
         The head of an executive agency may—
 
@@ -41,7 +41,7 @@
 
             (B) authorize successive redelegation of authority conferred by this chapter.
 
-        (4) __Employment of personnel.—__ 
+        (4)  __Employment of personnel__  __.—__ 
 
         As necessary to carry out this chapter, the head of an executive agency may—
 
@@ -51,7 +51,7 @@
 
     (c) __Special Responsibilities of Secretary of State.—__ 
 
-        (1) __Use of foreign currencies and credits.—__ 
+        (1)  __Use of foreign currencies and credits__  __.—__ 
 
         The Secretary of State may use foreign currencies and credits acquired by the United States under [section 704(b)(2) of this title][/us/usc/t40/s704/b/2]—
 
@@ -61,7 +61,7 @@
 
             (C) to pay other governmental expenses payable in local currencies.
 
-        (2) __Renewal of certain agreements.—__ 
+        (2)  __Renewal of certain agreements__  __.—__ 
 
         Except as otherwise directed by the President, the Secretary of State shall continue to perform functions under agreements in effect on July 1, 1949, related to the disposal of foreign excess property. The Secretary of State may amend, modify, and renew the agreements. Foreign currencies or credits the Secretary of State acquires under the agreements shall be administered in accordance with procedures that the Secretary of the Treasury may establish. Foreign currencies or credits reduced to United States currency must be deposited in the Treasury as miscellaneous receipts.
 

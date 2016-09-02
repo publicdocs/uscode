@@ -17,11 +17,11 @@
 
     In this chapter, the following definitions apply:
 
-    (1) __Federal government.—__ 
+    (1)  __Federal government__  __.—__ 
 
     The term “Federal Government” includes the government of the District of Columbia.
 
-    (2) __Motor vehicle.—__ 
+    (2)  __Motor vehicle__  __.—__ 
 
     The term “motor vehicle” means a vehicle, self-propelled or drawn by mechanical power, designed for use on the highways principally for the transportation of passengers, except a vehicle designed or used for military field training, combat, or tactical purposes.
 

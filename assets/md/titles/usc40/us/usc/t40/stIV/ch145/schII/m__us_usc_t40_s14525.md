@@ -15,7 +15,7 @@
 
 ## § 14525. State development planning process
 
-    (a) __State Development Plan.—__ 
+    (a)  __State Development Plan__  __.—__ 
 
     Pursuant to policies the Appalachian Regional Commission establishes, each state member shall submit a development plan for the area of the State within the Appalachian region. The plan shall—
 
@@ -37,15 +37,15 @@
 
         (5) describe the development strategies for achieving the goals, objectives, and priorities, including funding sources, and recommendations for specific projects to receive assistance under this subtitle.
 
-    (b) __Areawide Action Programs.—__ 
+    (b)  __Areawide Action Programs__  __.—__ 
 
     The Commission shall encourage the preparation and execution of areawide action programs that specify interrelated projects and schedules of actions, the necessary agency funding, and other commitments to implement the programs. The programs shall make appropriate use of existing plans affecting the area.
 
-    (c) __Local Development Districts.—__ 
+    (c)  __Local Development Districts__  __.—__ 
 
     Local development districts certified by the State as described in [section 14102(a)(2) of this title][/us/usc/t40/s14102/a/2] provide the linkage between state and substate planning and development. The districts shall assist the States in the coordination of areawide programs and projects and may prepare and adopt areawide plans or action programs. In carrying out the development planning process, including the selection of programs and projects for assistance, States shall consult with local development districts, local units of government, and citizen groups and shall consider the goals, objectives, priorities, and recommendations of those bodies.
 
-    (d) __Federal Responsibilities.—__ 
+    (d)  __Federal Responsibilities__  __.—__ 
 
     To the maximum extent practicable, federal departments, agencies, and instrumentalities undertaking or providing financial assistance for programs or projects in the region shall—
 
