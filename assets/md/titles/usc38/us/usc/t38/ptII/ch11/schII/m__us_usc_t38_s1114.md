@@ -1273,7 +1273,7 @@ For the purposes of [section 1110 of this title][/us/usc/t38/s1110]—
 
     Amendment by [Pub. L. 90–77][/us/pl/90/77] effective first day of first calendar month which begins more than ten days after Aug. 31, 1967, see [section 405 of Pub. L. 90–77][/us/pl/90/77/s405], set out as a note under [section 101 of this title][/us/usc/t38/s101].
 
- __Effective Date of 1965__  __Amendment__ 
+ __Effective Date of 1965 Amendment__ 
 
 [Pub. L. 89–311, § 9][/us/pl/89/311/s9], Oct. 31, 1965, [79 Stat. 1157][/us/stat/79/1157], provided that: 
 

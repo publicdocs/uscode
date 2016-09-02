@@ -33,7 +33,7 @@ SUBCHAPTER I—ORGANIZATION AND JURISDICTION  </td>
 
   <tr>
 
-    <td> 7251.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7251" data-uslm-ref="/us/usc/t38/s7251">7251.</a>  </td>
 
     <td> Status.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—ORGANIZATION AND JURISDICTION  </td>
 
   <tr>
 
-    <td> 7252.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7252" data-uslm-ref="/us/usc/t38/s7252">7252.</a>  </td>
 
     <td> Jurisdiction; finality of decisions.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—ORGANIZATION AND JURISDICTION  </td>
 
   <tr>
 
-    <td> 7253.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7253" data-uslm-ref="/us/usc/t38/s7253">7253.</a>  </td>
 
     <td> Composition.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—ORGANIZATION AND JURISDICTION  </td>
 
   <tr>
 
-    <td> 7254.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7254" data-uslm-ref="/us/usc/t38/s7254">7254.</a>  </td>
 
     <td> Organization.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—ORGANIZATION AND JURISDICTION  </td>
 
   <tr>
 
-    <td> 7255.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7255" data-uslm-ref="/us/usc/t38/s7255">7255.</a>  </td>
 
     <td> Offices, duty stations, and residences.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—ORGANIZATION AND JURISDICTION  </td>
 
   <tr>
 
-    <td> 7256.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7256" data-uslm-ref="/us/usc/t38/s7256">7256.</a>  </td>
 
     <td> Times and places of sessions.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—ORGANIZATION AND JURISDICTION  </td>
 
   <tr>
 
-    <td> 7257.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7257" data-uslm-ref="/us/usc/t38/s7257">7257.</a>  </td>
 
     <td> Recall of retired judges.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—PROCEDURE  </td>
 
   <tr>
 
-    <td> 7261.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7261" data-uslm-ref="/us/usc/t38/s7261">7261.</a>  </td>
 
     <td> Scope of review.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—PROCEDURE  </td>
 
   <tr>
 
-    <td> 7262.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7262" data-uslm-ref="/us/usc/t38/s7262">7262.</a>  </td>
 
     <td> Fee for filing appeals.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—PROCEDURE  </td>
 
   <tr>
 
-    <td> 7263.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7263" data-uslm-ref="/us/usc/t38/s7263">7263.</a>  </td>
 
     <td> Representation of parties; fee agreements.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—PROCEDURE  </td>
 
   <tr>
 
-    <td> 7264.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7264" data-uslm-ref="/us/usc/t38/s7264">7264.</a>  </td>
 
     <td> Rules of practice and procedure.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—PROCEDURE  </td>
 
   <tr>
 
-    <td> 7265.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7265" data-uslm-ref="/us/usc/t38/s7265">7265.</a>  </td>
 
     <td> Contempt authority; assistance to the Court.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—PROCEDURE  </td>
 
   <tr>
 
-    <td> 7266.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7266" data-uslm-ref="/us/usc/t38/s7266">7266.</a>  </td>
 
     <td> Notice of appeal.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—PROCEDURE  </td>
 
   <tr>
 
-    <td> 7267.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7267" data-uslm-ref="/us/usc/t38/s7267">7267.</a>  </td>
 
     <td> Decisions.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—PROCEDURE  </td>
 
   <tr>
 
-    <td> 7268.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7268" data-uslm-ref="/us/usc/t38/s7268">7268.</a>  </td>
 
     <td> Availability of proceedings.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—PROCEDURE  </td>
 
   <tr>
 
-    <td> 7269.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7269" data-uslm-ref="/us/usc/t38/s7269">7269.</a>  </td>
 
     <td> Publication of decisions.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 7281.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7281" data-uslm-ref="/us/usc/t38/s7281">7281.</a>  </td>
 
     <td> Employees.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 7282.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7282" data-uslm-ref="/us/usc/t38/s7282">7282.</a>  </td>
 
     <td> Budget and expenditures.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 7283.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7283" data-uslm-ref="/us/usc/t38/s7283">7283.</a>  </td>
 
     <td> Disposition of fees.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 7284.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7284" data-uslm-ref="/us/usc/t38/s7284">7284.</a>  </td>
 
     <td> Fee for transcript of record.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 7285.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7285" data-uslm-ref="/us/usc/t38/s7285">7285.</a>  </td>
 
     <td> Practice and registration fees.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 7286.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7286" data-uslm-ref="/us/usc/t38/s7286">7286.</a>  </td>
 
     <td> Judicial Conference of the Court.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 7287.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7287" data-uslm-ref="/us/usc/t38/s7287">7287.</a>  </td>
 
     <td> Administration.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 7288.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7288" data-uslm-ref="/us/usc/t38/s7288">7288.</a>  </td>
 
     <td> Annual report.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER IV—DECISIONS AND REVIEW  </td>
 
   <tr>
 
-    <td> 7291.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7291" data-uslm-ref="/us/usc/t38/s7291">7291.</a>  </td>
 
     <td> Date when Court decision becomes final.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER IV—DECISIONS AND REVIEW  </td>
 
   <tr>
 
-    <td> 7292.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7292" data-uslm-ref="/us/usc/t38/s7292">7292.</a>  </td>
 
     <td> Review by United States Court of Appeals for the Federal Circuit.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER V—RETIREMENT AND SURVIVORS ANNUITIES  </td>
 
   <tr>
 
-    <td> 7296.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7296" data-uslm-ref="/us/usc/t38/s7296">7296.</a>  </td>
 
     <td> Retirement of judges.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER V—RETIREMENT AND SURVIVORS ANNUITIES  </td>
 
   <tr>
 
-    <td> 7297.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7297" data-uslm-ref="/us/usc/t38/s7297">7297.</a>  </td>
 
     <td> Survivor annuities.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER V—RETIREMENT AND SURVIVORS ANNUITIES  </td>
 
   <tr>
 
-    <td> 7298.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7298" data-uslm-ref="/us/usc/t38/s7298">7298.</a>  </td>
 
     <td> Retirement Fund.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER V—RETIREMENT AND SURVIVORS ANNUITIES  </td>
 
   <tr>
 
-    <td> 7299.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7299" data-uslm-ref="/us/usc/t38/s7299">7299.</a>  </td>
 
     <td> Limitation on activities of retired judges.  </td>
 

@@ -33,7 +33,7 @@ SUBCHAPTER I—NATIONAL SERVICE LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1901" data-uslm-ref="/us/usc/t38/s1901">1901.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—NATIONAL SERVICE LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1902" data-uslm-ref="/us/usc/t38/s1902">1902.</a>  </td>
 
     <td> Premium rates and policy values.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—NATIONAL SERVICE LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1903" data-uslm-ref="/us/usc/t38/s1903">1903.</a>  </td>
 
     <td> Amount of insurance.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—NATIONAL SERVICE LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1904.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1904" data-uslm-ref="/us/usc/t38/s1904">1904.</a>  </td>
 
     <td> Plans of insurance.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—NATIONAL SERVICE LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1905.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1905" data-uslm-ref="/us/usc/t38/s1905">1905.</a>  </td>
 
     <td> Renewal.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—NATIONAL SERVICE LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1906.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1906" data-uslm-ref="/us/usc/t38/s1906">1906.</a>  </td>
 
     <td> Policy provisions.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—NATIONAL SERVICE LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1907.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1907" data-uslm-ref="/us/usc/t38/s1907">1907.</a>  </td>
 
     <td> Payment or use of dividends.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—NATIONAL SERVICE LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1908.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1908" data-uslm-ref="/us/usc/t38/s1908">1908.</a>  </td>
 
     <td> Premium payments.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—NATIONAL SERVICE LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1909.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1909" data-uslm-ref="/us/usc/t38/s1909">1909.</a>  </td>
 
     <td> Effective date of insurance.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—NATIONAL SERVICE LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1910.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1910" data-uslm-ref="/us/usc/t38/s1910">1910.</a>  </td>
 
     <td> Incontestability.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—NATIONAL SERVICE LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1911.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1911" data-uslm-ref="/us/usc/t38/s1911">1911.</a>  </td>
 
     <td> Forfeiture.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER I—NATIONAL SERVICE LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1912.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1912" data-uslm-ref="/us/usc/t38/s1912">1912.</a>  </td>
 
     <td> Total disability waiver.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER I—NATIONAL SERVICE LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1913.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1913" data-uslm-ref="/us/usc/t38/s1913">1913.</a>  </td>
 
     <td> Death before six months’ total disability.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER I—NATIONAL SERVICE LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1914.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1914" data-uslm-ref="/us/usc/t38/s1914">1914.</a>  </td>
 
     <td> Statutory total disabilities.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER I—NATIONAL SERVICE LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1915.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1915" data-uslm-ref="/us/usc/t38/s1915">1915.</a>  </td>
 
     <td> Total disability income provision.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER I—NATIONAL SERVICE LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1916.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1916" data-uslm-ref="/us/usc/t38/s1916">1916.</a>  </td>
 
     <td> Insurance which matured before August 1, 1946.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER I—NATIONAL SERVICE LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1917.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1917" data-uslm-ref="/us/usc/t38/s1917">1917.</a>  </td>
 
     <td> Insurance maturing on or after August 1, 1946.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER I—NATIONAL SERVICE LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1918.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1918" data-uslm-ref="/us/usc/t38/s1918">1918.</a>  </td>
 
     <td> Assignments.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER I—NATIONAL SERVICE LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1919.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1919" data-uslm-ref="/us/usc/t38/s1919">1919.</a>  </td>
 
     <td> National Service Life Insurance appropriation.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER I—NATIONAL SERVICE LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1920.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1920" data-uslm-ref="/us/usc/t38/s1920">1920.</a>  </td>
 
     <td> National Service Life Insurance Fund.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER I—NATIONAL SERVICE LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1921.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1921" data-uslm-ref="/us/usc/t38/s1921">1921.</a>  </td>
 
     <td> Extra hazard costs.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER I—NATIONAL SERVICE LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1922.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1922" data-uslm-ref="/us/usc/t38/s1922">1922.</a>  </td>
 
     <td> Service disabled veterans’ insurance.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER I—NATIONAL SERVICE LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1922A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1922A" data-uslm-ref="/us/usc/t38/s1922A">1922A.</a>  </td>
 
     <td> Supplemental service disabled veterans’ insurance for totally disabled veterans.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER I—NATIONAL SERVICE LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1923.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1923" data-uslm-ref="/us/usc/t38/s1923">1923.</a>  </td>
 
     <td> Veterans’ Special Life Insurance.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER I—NATIONAL SERVICE LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1924.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1924" data-uslm-ref="/us/usc/t38/s1924">1924.</a>  </td>
 
     <td> In-service waiver of premiums.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER I—NATIONAL SERVICE LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1925.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1925" data-uslm-ref="/us/usc/t38/s1925">1925.</a>  </td>
 
     <td> Limited period for acquiring insurance.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER I—NATIONAL SERVICE LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1926.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1926" data-uslm-ref="/us/usc/t38/s1926">1926.</a>  </td>
 
     <td> Authority for higher interest rates for amounts payable to beneficiaries.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER I—NATIONAL SERVICE LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1927.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1927" data-uslm-ref="/us/usc/t38/s1927">1927.</a>  </td>
 
     <td> Authority for higher monthly installments payable to certain annuitants.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER I—NATIONAL SERVICE LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1928.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1928" data-uslm-ref="/us/usc/t38/s1928">1928.</a>  </td>
 
     <td> Authority for payment of interest on settlements.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER I—NATIONAL SERVICE LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1929.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1929" data-uslm-ref="/us/usc/t38/s1929">1929.</a>  </td>
 
     <td> Authority to adjust premium discount rates.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER II—UNITED STATES GOVERNMENT LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1940.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1940" data-uslm-ref="/us/usc/t38/s1940">1940.</a>  </td>
 
     <td> Definition.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER II—UNITED STATES GOVERNMENT LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1941.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1941" data-uslm-ref="/us/usc/t38/s1941">1941.</a>  </td>
 
     <td> Amount of insurance.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER II—UNITED STATES GOVERNMENT LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1942.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1942" data-uslm-ref="/us/usc/t38/s1942">1942.</a>  </td>
 
     <td> Plans of insurance.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER II—UNITED STATES GOVERNMENT LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1943.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1943" data-uslm-ref="/us/usc/t38/s1943">1943.</a>  </td>
 
     <td> Premiums.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER II—UNITED STATES GOVERNMENT LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1944.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1944" data-uslm-ref="/us/usc/t38/s1944">1944.</a>  </td>
 
     <td> Policy provisions.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER II—UNITED STATES GOVERNMENT LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1945.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1945" data-uslm-ref="/us/usc/t38/s1945">1945.</a>  </td>
 
     <td> Renewal.  </td>
 
@@ -329,7 +329,7 @@ SUBCHAPTER II—UNITED STATES GOVERNMENT LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1946.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1946" data-uslm-ref="/us/usc/t38/s1946">1946.</a>  </td>
 
     <td> Dividends to pay premiums.  </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER II—UNITED STATES GOVERNMENT LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1947.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1947" data-uslm-ref="/us/usc/t38/s1947">1947.</a>  </td>
 
     <td> Incontestability.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER II—UNITED STATES GOVERNMENT LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1948.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1948" data-uslm-ref="/us/usc/t38/s1948">1948.</a>  </td>
 
     <td> Total disability provision.  </td>
 
@@ -353,7 +353,7 @@ SUBCHAPTER II—UNITED STATES GOVERNMENT LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1949.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1949" data-uslm-ref="/us/usc/t38/s1949">1949.</a>  </td>
 
     <td> Change of beneficiary.  </td>
 
@@ -361,7 +361,7 @@ SUBCHAPTER II—UNITED STATES GOVERNMENT LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1950.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1950" data-uslm-ref="/us/usc/t38/s1950">1950.</a>  </td>
 
     <td> Payment to estates.  </td>
 
@@ -369,7 +369,7 @@ SUBCHAPTER II—UNITED STATES GOVERNMENT LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1951.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1951" data-uslm-ref="/us/usc/t38/s1951">1951.</a>  </td>
 
     <td> Payment of insurance.  </td>
 
@@ -377,7 +377,7 @@ SUBCHAPTER II—UNITED STATES GOVERNMENT LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1952.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1952" data-uslm-ref="/us/usc/t38/s1952">1952.</a>  </td>
 
     <td> Optional settlement.  </td>
 
@@ -385,7 +385,7 @@ SUBCHAPTER II—UNITED STATES GOVERNMENT LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1953.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1953" data-uslm-ref="/us/usc/t38/s1953">1953.</a>  </td>
 
     <td> Assignments.  </td>
 
@@ -393,7 +393,7 @@ SUBCHAPTER II—UNITED STATES GOVERNMENT LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1954.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1954" data-uslm-ref="/us/usc/t38/s1954">1954.</a>  </td>
 
     <td> Forfeiture.  </td>
 
@@ -401,7 +401,7 @@ SUBCHAPTER II—UNITED STATES GOVERNMENT LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1955.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1955" data-uslm-ref="/us/usc/t38/s1955">1955.</a>  </td>
 
     <td> United States Government Life Insurance Fund.  </td>
 
@@ -409,7 +409,7 @@ SUBCHAPTER II—UNITED STATES GOVERNMENT LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1956.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1956" data-uslm-ref="/us/usc/t38/s1956">1956.</a>  </td>
 
     <td> Military and naval insurance appropriation.  </td>
 
@@ -417,7 +417,7 @@ SUBCHAPTER II—UNITED STATES GOVERNMENT LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1957.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1957" data-uslm-ref="/us/usc/t38/s1957">1957.</a>  </td>
 
     <td> Extra hazard costs.  </td>
 
@@ -425,7 +425,7 @@ SUBCHAPTER II—UNITED STATES GOVERNMENT LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1958.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1958" data-uslm-ref="/us/usc/t38/s1958">1958.</a>  </td>
 
     <td> Statutory total permanent disability.  </td>
 
@@ -433,7 +433,7 @@ SUBCHAPTER II—UNITED STATES GOVERNMENT LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1959.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1959" data-uslm-ref="/us/usc/t38/s1959">1959.</a>  </td>
 
     <td> Waiver of disability for reinstatement.  </td>
 
@@ -441,7 +441,7 @@ SUBCHAPTER II—UNITED STATES GOVERNMENT LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1960.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1960" data-uslm-ref="/us/usc/t38/s1960">1960.</a>  </td>
 
     <td> Waiver of premium payments on due date.  </td>
 
@@ -449,7 +449,7 @@ SUBCHAPTER II—UNITED STATES GOVERNMENT LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1961.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1961" data-uslm-ref="/us/usc/t38/s1961">1961.</a>  </td>
 
     <td> Authority for higher interest rates for amounts payable to beneficiaries.  </td>
 
@@ -457,7 +457,7 @@ SUBCHAPTER II—UNITED STATES GOVERNMENT LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1962.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1962" data-uslm-ref="/us/usc/t38/s1962">1962.</a>  </td>
 
     <td> Authority for higher monthly installments payable to certain annuitants.  </td>
 
@@ -465,7 +465,7 @@ SUBCHAPTER II—UNITED STATES GOVERNMENT LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1963.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1963" data-uslm-ref="/us/usc/t38/s1963">1963.</a>  </td>
 
     <td> Authority for payment of interest on settlements.  </td>
 
@@ -481,7 +481,7 @@ SUBCHAPTER III—SERVICEMEMBERS’ GROUP LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1965.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1965" data-uslm-ref="/us/usc/t38/s1965">1965.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -489,7 +489,7 @@ SUBCHAPTER III—SERVICEMEMBERS’ GROUP LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1966.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1966" data-uslm-ref="/us/usc/t38/s1966">1966.</a>  </td>
 
     <td> Eligible insurance companies.  </td>
 
@@ -497,7 +497,7 @@ SUBCHAPTER III—SERVICEMEMBERS’ GROUP LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1967.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1967" data-uslm-ref="/us/usc/t38/s1967">1967.</a>  </td>
 
     <td> Persons insured; amount.  </td>
 
@@ -505,7 +505,7 @@ SUBCHAPTER III—SERVICEMEMBERS’ GROUP LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1968.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1968" data-uslm-ref="/us/usc/t38/s1968">1968.</a>  </td>
 
     <td> Duration and termination of coverage; conversion.  </td>
 
@@ -513,7 +513,7 @@ SUBCHAPTER III—SERVICEMEMBERS’ GROUP LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1969.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1969" data-uslm-ref="/us/usc/t38/s1969">1969.</a>  </td>
 
     <td> Deductions; payment; investment; expenses.  </td>
 
@@ -521,7 +521,7 @@ SUBCHAPTER III—SERVICEMEMBERS’ GROUP LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1970.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1970" data-uslm-ref="/us/usc/t38/s1970">1970.</a>  </td>
 
     <td> Beneficiaries; payment of insurance.  </td>
 
@@ -529,7 +529,7 @@ SUBCHAPTER III—SERVICEMEMBERS’ GROUP LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1971.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1971" data-uslm-ref="/us/usc/t38/s1971">1971.</a>  </td>
 
     <td> Basic tables of premiums; readjustment of rates.  </td>
 
@@ -537,7 +537,7 @@ SUBCHAPTER III—SERVICEMEMBERS’ GROUP LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1972.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1972" data-uslm-ref="/us/usc/t38/s1972">1972.</a>  </td>
 
     <td> Benefit certificates.  </td>
 
@@ -545,7 +545,7 @@ SUBCHAPTER III—SERVICEMEMBERS’ GROUP LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1973.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1973" data-uslm-ref="/us/usc/t38/s1973">1973.</a>  </td>
 
     <td> Forfeiture.  </td>
 
@@ -553,7 +553,7 @@ SUBCHAPTER III—SERVICEMEMBERS’ GROUP LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1974.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1974" data-uslm-ref="/us/usc/t38/s1974">1974.</a>  </td>
 
     <td> Advisory Council on Servicemembers’ Group Life Insurance.  </td>
 
@@ -561,7 +561,7 @@ SUBCHAPTER III—SERVICEMEMBERS’ GROUP LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1975.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1975" data-uslm-ref="/us/usc/t38/s1975">1975.</a>  </td>
 
     <td> Jurisdiction of District Courts.  </td>
 
@@ -569,7 +569,7 @@ SUBCHAPTER III—SERVICEMEMBERS’ GROUP LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1976.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1976" data-uslm-ref="/us/usc/t38/s1976">1976.</a>  </td>
 
     <td> Effective date.  </td>
 
@@ -577,7 +577,7 @@ SUBCHAPTER III—SERVICEMEMBERS’ GROUP LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1977.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1977" data-uslm-ref="/us/usc/t38/s1977">1977.</a>  </td>
 
     <td> Veterans’ Group Life Insurance.  </td>
 
@@ -585,7 +585,7 @@ SUBCHAPTER III—SERVICEMEMBERS’ GROUP LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1978.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1978" data-uslm-ref="/us/usc/t38/s1978">1978.</a>  </td>
 
     <td> Reinstatement.  </td>
 
@@ -593,7 +593,7 @@ SUBCHAPTER III—SERVICEMEMBERS’ GROUP LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1979.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1979" data-uslm-ref="/us/usc/t38/s1979">1979.</a>  </td>
 
     <td> Incontestability.  </td>
 
@@ -601,7 +601,7 @@ SUBCHAPTER III—SERVICEMEMBERS’ GROUP LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1980.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1980" data-uslm-ref="/us/usc/t38/s1980">1980.</a>  </td>
 
     <td> Option to receive accelerated death benefit.  </td>
 
@@ -609,7 +609,7 @@ SUBCHAPTER III—SERVICEMEMBERS’ GROUP LIFE INSURANCE  </td>
 
   <tr>
 
-    <td> 1980A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1980A" data-uslm-ref="/us/usc/t38/s1980A">1980A.</a>  </td>
 
     <td> Traumatic injury protection.  </td>
 
@@ -625,7 +625,7 @@ SUBCHAPTER IV—GENERAL  </td>
 
   <tr>
 
-    <td> 1981.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1981" data-uslm-ref="/us/usc/t38/s1981">1981.</a>  </td>
 
     <td> Replacement of surrendered and expired insurance.  </td>
 
@@ -633,7 +633,7 @@ SUBCHAPTER IV—GENERAL  </td>
 
   <tr>
 
-    <td> 1982.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1982" data-uslm-ref="/us/usc/t38/s1982">1982.</a>  </td>
 
     <td> Administrative cost.  </td>
 
@@ -641,7 +641,7 @@ SUBCHAPTER IV—GENERAL  </td>
 
   <tr>
 
-    <td> 1983.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1983" data-uslm-ref="/us/usc/t38/s1983">1983.</a>  </td>
 
     <td> Settlements for minors or incompetents.  </td>
 
@@ -649,7 +649,7 @@ SUBCHAPTER IV—GENERAL  </td>
 
   <tr>
 
-    <td> 1984.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1984" data-uslm-ref="/us/usc/t38/s1984">1984.</a>  </td>
 
     <td> Suits on insurance.  </td>
 
@@ -657,7 +657,7 @@ SUBCHAPTER IV—GENERAL  </td>
 
   <tr>
 
-    <td> 1985.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1985" data-uslm-ref="/us/usc/t38/s1985">1985.</a>  </td>
 
     <td> Decisions by the Secretary.  </td>
 
@@ -665,7 +665,7 @@ SUBCHAPTER IV—GENERAL  </td>
 
   <tr>
 
-    <td> 1986.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1986" data-uslm-ref="/us/usc/t38/s1986">1986.</a>  </td>
 
     <td> Deposits in and disbursements from trust funds.  </td>
 
@@ -673,7 +673,7 @@ SUBCHAPTER IV—GENERAL  </td>
 
   <tr>
 
-    <td> 1987.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1987" data-uslm-ref="/us/usc/t38/s1987">1987.</a>  </td>
 
     <td> Penalties.  </td>
 
@@ -681,7 +681,7 @@ SUBCHAPTER IV—GENERAL  </td>
 
   <tr>
 
-    <td> 1988.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1988" data-uslm-ref="/us/usc/t38/s1988">1988.</a>  </td>
 
     <td> Savings provision.  </td>
 

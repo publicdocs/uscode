@@ -33,7 +33,7 @@ SUBCHAPTER I—DEFINITIONS  </td>
 
   <tr>
 
-    <td> 3500.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3500" data-uslm-ref="/us/usc/t38/s3500">3500.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—DEFINITIONS  </td>
 
   <tr>
 
-    <td> 3501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3501" data-uslm-ref="/us/usc/t38/s3501">3501.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER II—ELIGIBILITY AND ENTITLEMENT  </td>
 
   <tr>
 
-    <td> 3510.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3510" data-uslm-ref="/us/usc/t38/s3510">3510.</a>  </td>
 
     <td> Eligibility and entitlement generally.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER II—ELIGIBILITY AND ENTITLEMENT  </td>
 
   <tr>
 
-    <td> 3511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3511" data-uslm-ref="/us/usc/t38/s3511">3511.</a>  </td>
 
     <td> Duration of educational assistance.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—ELIGIBILITY AND ENTITLEMENT  </td>
 
   <tr>
 
-    <td> 3512.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3512" data-uslm-ref="/us/usc/t38/s3512">3512.</a>  </td>
 
     <td> Periods of eligibility.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—ELIGIBILITY AND ENTITLEMENT  </td>
 
   <tr>
 
-    <td> 3513.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3513" data-uslm-ref="/us/usc/t38/s3513">3513.</a>  </td>
 
     <td> Application.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—ELIGIBILITY AND ENTITLEMENT  </td>
 
   <tr>
 
-    <td> 3514.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3514" data-uslm-ref="/us/usc/t38/s3514">3514.</a>  </td>
 
     <td> Processing of applications.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER III—PROGRAM OF EDUCATION  </td>
 
   <tr>
 
-    <td> 3520.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3520" data-uslm-ref="/us/usc/t38/s3520">3520.</a>  </td>
 
     <td> Educational and vocational counseling.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER III—PROGRAM OF EDUCATION  </td>
 
   <tr>
 
-    <td> 3521.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3521" data-uslm-ref="/us/usc/t38/s3521">3521.</a>  </td>
 
     <td> Approval of application.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER III—PROGRAM OF EDUCATION  </td>
 
   <tr>
 
-    <td> 3523.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3523" data-uslm-ref="/us/usc/t38/s3523">3523.</a>  </td>
 
     <td> Disapproval of enrollment in certain courses.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER III—PROGRAM OF EDUCATION  </td>
 
   <tr>
 
-    <td> 3524.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3524" data-uslm-ref="/us/usc/t38/s3524">3524.</a>  </td>
 
     <td> Discontinuance for unsatisfactory progress.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER IV—PAYMENTS TO ELIGIBLE PERSONS  </td>
 
   <tr>
 
-    <td> 3531.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3531" data-uslm-ref="/us/usc/t38/s3531">3531.</a>  </td>
 
     <td> Educational assistance allowance.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER IV—PAYMENTS TO ELIGIBLE PERSONS  </td>
 
   <tr>
 
-    <td> 3532.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3532" data-uslm-ref="/us/usc/t38/s3532">3532.</a>  </td>
 
     <td> Computation of educational assistance allowance.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER IV—PAYMENTS TO ELIGIBLE PERSONS  </td>
 
   <tr>
 
-    <td> 3533.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3533" data-uslm-ref="/us/usc/t38/s3533">3533.</a>  </td>
 
     <td> Special assistance for the educationally disadvantaged.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER IV—PAYMENTS TO ELIGIBLE PERSONS  </td>
 
   <tr>
 
-    <td> 3534.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3534" data-uslm-ref="/us/usc/t38/s3534">3534.</a>  </td>
 
     <td> Apprenticeship or other on-job training; correspondence courses.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER IV—PAYMENTS TO ELIGIBLE PERSONS  </td>
 
   <tr>
 
-    <td> 3535.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3535" data-uslm-ref="/us/usc/t38/s3535">3535.</a>  </td>
 
     <td> Approval of courses.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER IV—PAYMENTS TO ELIGIBLE PERSONS  </td>
 
   <tr>
 
-    <td> 3536.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3536" data-uslm-ref="/us/usc/t38/s3536">3536.</a>  </td>
 
     <td> Specialized vocational training courses.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER IV—PAYMENTS TO ELIGIBLE PERSONS  </td>
 
   <tr>
 
-    <td> 3537.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3537" data-uslm-ref="/us/usc/t38/s3537">3537.</a>  </td>
 
     <td> Work-study allowance.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER V—SPECIAL RESTORATIVE TRAINING  </td>
 
   <tr>
 
-    <td> 3540.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3540" data-uslm-ref="/us/usc/t38/s3540">3540.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER V—SPECIAL RESTORATIVE TRAINING  </td>
 
   <tr>
 
-    <td> 3541.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3541" data-uslm-ref="/us/usc/t38/s3541">3541.</a>  </td>
 
     <td> Entitlement to special restorative training.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER V—SPECIAL RESTORATIVE TRAINING  </td>
 
   <tr>
 
-    <td> 3542.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3542" data-uslm-ref="/us/usc/t38/s3542">3542.</a>  </td>
 
     <td> Special training allowance.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER V—SPECIAL RESTORATIVE TRAINING  </td>
 
   <tr>
 
-    <td> 3543.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3543" data-uslm-ref="/us/usc/t38/s3543">3543.</a>  </td>
 
     <td> Special administrative provisions.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER VI—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 3561.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3561" data-uslm-ref="/us/usc/t38/s3561">3561.</a>  </td>
 
     <td> Authority and duties of Secretary.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER VI—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 3562.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3562" data-uslm-ref="/us/usc/t38/s3562">3562.</a>  </td>
 
     <td> Nonduplication of benefits.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER VI—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 3563.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3563" data-uslm-ref="/us/usc/t38/s3563">3563.</a>  </td>
 
     <td> Notification of eligibility.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER VI—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 3564.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3564" data-uslm-ref="/us/usc/t38/s3564">3564.</a>  </td>
 
     <td> Annual adjustment of amounts of educational assistance.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER VII—PHILIPPINE COMMONWEALTH ARMY AND PHILIPPINE SCOUTS  </td>
 
   <tr>
 
-    <td> 3565.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3565" data-uslm-ref="/us/usc/t38/s3565">3565.</a>  </td>
 
     <td> Children of certain Philippine veterans.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER VII—PHILIPPINE COMMONWEALTH ARMY AND PHILIPPINE SCOUTS  </td>
 
   <tr>
 
-    <td> 3566.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3566" data-uslm-ref="/us/usc/t38/s3566">3566.</a>  </td>
 
     <td> Definitions.  </td>
 

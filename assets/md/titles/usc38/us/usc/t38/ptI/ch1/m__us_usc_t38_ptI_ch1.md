@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs101" data-uslm-ref="/us/usc/t38/s101">101.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs102" data-uslm-ref="/us/usc/t38/s102">102.</a>  </td>
 
     <td> Dependent parents.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs103" data-uslm-ref="/us/usc/t38/s103">103.</a>  </td>
 
     <td> Special provisions relating to marriages.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs104" data-uslm-ref="/us/usc/t38/s104">104.</a>  </td>
 
     <td> Approval of educational institutions.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs105" data-uslm-ref="/us/usc/t38/s105">105.</a>  </td>
 
     <td> Line of duty and misconduct.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs106" data-uslm-ref="/us/usc/t38/s106">106.</a>  </td>
 
     <td> Certain service deemed to be active service.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs107" data-uslm-ref="/us/usc/t38/s107">107.</a>  </td>
 
     <td> Certain service deemed not to be active service.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs108" data-uslm-ref="/us/usc/t38/s108">108.</a>  </td>
 
     <td> Seven-year absence presumption of death.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 109.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs109" data-uslm-ref="/us/usc/t38/s109">109.</a>  </td>
 
     <td> Benefits for discharged members of allied forces.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 110.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs110" data-uslm-ref="/us/usc/t38/s110">110.</a>  </td>
 
     <td> Preservation of disability ratings.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs111" data-uslm-ref="/us/usc/t38/s111">111.</a>  </td>
 
     <td> Payments or allowances for beneficiary travel.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 111A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs111A" data-uslm-ref="/us/usc/t38/s111A">111A.</a>  </td>
 
     <td> Transportation of individuals to and from Department facilities.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs112" data-uslm-ref="/us/usc/t38/s112">112.</a>  </td>
 
     <td> Presidential memorial certificate program.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs113" data-uslm-ref="/us/usc/t38/s113">113.</a>  </td>
 
     <td> Treatment of certain programs under sequestration procedures.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 114.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs114" data-uslm-ref="/us/usc/t38/s114">114.</a>  </td>
 
     <td> Multiyear procurement.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 115.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs115" data-uslm-ref="/us/usc/t38/s115">115.</a>  </td>
 
     <td> Acquisition of real property.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 116.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs116" data-uslm-ref="/us/usc/t38/s116">116.</a>  </td>
 
     <td> Reports to Congress: cost information.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 117.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs117" data-uslm-ref="/us/usc/t38/s117">117.</a>  </td>
 
     <td> Advance appropriations for certain medical care accounts.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 118.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs118" data-uslm-ref="/us/usc/t38/s118">118.</a>  </td>
 
     <td> Submission of reports to Congress in electronic form.  </td>
 

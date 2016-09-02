@@ -15,7 +15,23 @@
 
 ## § 3903. Limitations on assistance; special training courses
 
-    (a) No eligible person shall be entitled to receive more than one automobile or other conveyance under the provisions of this chapter, and no payment shall be made under this chapter for the repair, maintenance, or replacement of an automobile or other conveyance.
+    (a)
+
+        (1) Except as provided in paragraph (2), no eligible person shall be entitled to receive more than one automobile or other conveyance under the provisions of this chapter, and no payment shall be made under this chapter for the repair, maintenance, or replacement of an automobile or other conveyance.
+
+        (2)
+
+         The Secretary may provide or assist in providing an eligible person with a second automobile or other conveyance under this chapter if—
+
+            (A)
+
+             the Secretary receives satisfactory evidence that the automobile or other conveyance previously purchased with assistance under this chapter was destroyed—
+
+                (i) as a result of a natural or other disaster, as determined by the Secretary; and
+
+                (ii) through no fault of the eligible person; and
+
+            (B) the eligible person does not otherwise receive from a property insurer compensation for the loss.
 
     (b) Except as provided in subsection (d) of [section 3902 of this title][/us/usc/t38/s3902], no eligible person shall be provided an automobile or other conveyance under this chapter until it is established to the satisfaction of the Secretary, in accordance with regulations the Secretary shall prescribe, that the eligible person will be able to operate the automobile or other conveyance in a manner consistent with such person’s own safety and the safety of others and will satisfy the applicable standards of licensure to operate the automobile or other conveyance established by the State of such person’s residency or other proper licensing authority.
 
@@ -36,26 +52,6 @@
         (3) Notwithstanding any other provision of law, the Secretary may obtain, by purchase, lease, gift, or otherwise, any automobile, motor vehicle, or other conveyance deemed necessary to carry out the purposes of this subsection, and may sell, assign, transfer, or convey any such automobile, vehicle, or conveyance to which the Department obtains title for such price and upon such terms as the Secretary deems appropriate; and any proceeds received from any such disposition shall be credited to the applicable Department appropriation.
 
 (Added [Pub. L. 91–666, § 2(a)][/us/pl/91/666/s2/a], Jan. 11, 1971, [84 Stat. 2000][/us/stat/84/2000], § 1903; amended [Pub. L. 93–538, § 4(a)][/us/pl/93/538/s4/a], (b), Dec. 22, 1974, [88 Stat. 1736][/us/stat/88/1736], 1737; [Pub. L. 94–581, title I, § 108][/us/pl/94/581/s108], Oct. 21, 1976, [90 Stat. 2847][/us/stat/90/2847]; [Pub. L. 97–66, title III, § 303][/us/pl/97/66/s303], Oct. 17, 1981, [95 Stat. 1030][/us/stat/95/1030]; [Pub. L. 98–543, title III, § 305(b)][/us/pl/98/543/s305/b], Oct. 24, 1984, [98 Stat. 2748][/us/stat/98/2748]; renumbered § 3903 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 106–117, title VIII, § 804][/us/pl/106/117/s804], Nov. 30, 1999, [113 Stat. 1586][/us/stat/113/1586]; [Pub. L. 112–154, title VII, § 701(e)][/us/pl/112/154/s701/e], Aug. 6, 2012, [126 Stat. 1204][/us/stat/126/1204].)
-
- __Amendment of Subsection (a)__ 
-
-[Pub. L. 112–154, title VII, § 701(e)][/us/pl/112/154/s701/e], (g), Aug. 6, 2012, [126 Stat. 1204][/us/stat/126/1204], 1205, provided that, effective on the date that is one year after Aug. 6, 2012, subsection (a) of this section is amended as follows:
-
-(1) by striking “No” and inserting “(1) Except as provided in paragraph (2), no”; and
-
-(2) by adding at the end the following new paragraph:
-
-    (2) The Secretary may provide or assist in providing an eligible person with a second automobile or other conveyance under this chapter if—
-
-    (A) the Secretary receives satisfactory evidence that the automobile or other conveyance previously purchased with assistance under this chapter was destroyed—
-
-    (i) as a result of a natural or other disaster, as determined by the Secretary; and
-
-    (ii) through no fault of the eligible person; and
-
-    (B) the eligible person does not otherwise receive from a property insurer compensation for the loss.
-
-See 2012 Amendment note below.
 
  __Prior Provisions__ 
 
@@ -143,8 +139,6 @@ See 2012 Amendment note below.
 [/us/stat/105/404-406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F404-406
 [/us/pl/106/117/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117%2Fs804
 [/us/stat/113/1586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1586
-[/us/pl/112/154/s701/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs701%2Fe
-[/us/stat/126/1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1204
 [/us/pl/112/154/s701/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs701%2Fe
 [/us/stat/126/1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1204
 [/us/pl/91/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F666

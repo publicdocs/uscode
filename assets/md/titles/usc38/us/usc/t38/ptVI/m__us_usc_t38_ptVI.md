@@ -29,41 +29,41 @@
 
   <tr>
 
-    <td> 81.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2FptVI%2Fch81" data-uslm-ref="/us/usc/t38/ptVI/ch81">81.</a>  </td>
 
     <td> Acquisition and Operation of Hospital and Domiciliary Facilities; Procurement and Supply; Enhanced-Use Leases of Real Property  </td>
 
-    <td> 8101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8101" data-uslm-ref="/us/usc/t38/s8101">8101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 82.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2FptVI%2Fch82" data-uslm-ref="/us/usc/t38/ptVI/ch82">82.</a>  </td>
 
     <td> Assistance in Establishing New State Medical Schools; Grants to Affiliated Medical Schools; Assistance to Health Manpower Training Institutions  </td>
 
-    <td> 8201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8201" data-uslm-ref="/us/usc/t38/s8201">8201</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 83.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2FptVI%2Fch83" data-uslm-ref="/us/usc/t38/ptVI/ch83">83.</a>  </td>
 
     <td> Acceptance of Gifts and Bequests  </td>
 
-    <td> 8301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8301" data-uslm-ref="/us/usc/t38/s8301">8301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 85.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2FptVI%2Fch85" data-uslm-ref="/us/usc/t38/ptVI/ch85">85.</a>  </td>
 
     <td> Disposition of Deceased Veterans’ Personal Property  </td>
 
-    <td> 8501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8501" data-uslm-ref="/us/usc/t38/s8501">8501</a>  </td>
 
   </tr>
 

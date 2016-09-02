@@ -33,7 +33,7 @@ SUBCHAPTER I—ORGANIZATION  </td>
 
   <tr>
 
-    <td> 7301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7301" data-uslm-ref="/us/usc/t38/s7301">7301.</a>  </td>
 
     <td> Functions of Veterans Health Administration: in general.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—ORGANIZATION  </td>
 
   <tr>
 
-    <td> 7302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7302" data-uslm-ref="/us/usc/t38/s7302">7302.</a>  </td>
 
     <td> Functions of Veterans Health Administration: health-care personnel education and training programs.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—ORGANIZATION  </td>
 
   <tr>
 
-    <td> 7303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7303" data-uslm-ref="/us/usc/t38/s7303">7303.</a>  </td>
 
     <td> Functions of Veterans Health Administration: research programs.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—ORGANIZATION  </td>
 
   <tr>
 
-    <td> 7304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7304" data-uslm-ref="/us/usc/t38/s7304">7304.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—ORGANIZATION  </td>
 
   <tr>
 
-    <td> 7305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7305" data-uslm-ref="/us/usc/t38/s7305">7305.</a>  </td>
 
     <td> Divisions of Veterans Health Administration.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—ORGANIZATION  </td>
 
   <tr>
 
-    <td> 7306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7306" data-uslm-ref="/us/usc/t38/s7306">7306.</a>  </td>
 
     <td> Office of the Under Secretary for Health.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—ORGANIZATION  </td>
 
   <tr>
 
-    <td> 7307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7307" data-uslm-ref="/us/usc/t38/s7307">7307.</a>  </td>
 
     <td> Office of Research Oversight.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—ORGANIZATION  </td>
 
   <tr>
 
-    <td> 7308.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7308" data-uslm-ref="/us/usc/t38/s7308">7308.</a>  </td>
 
     <td> Office of Rural Health.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—ORGANIZATION  </td>
 
   <tr>
 
-    <td> 7309.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7309" data-uslm-ref="/us/usc/t38/s7309">7309.</a>  </td>
 
     <td> Readjustment Counseling Service.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—GENERAL AUTHORITY AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 7311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7311" data-uslm-ref="/us/usc/t38/s7311">7311.</a>  </td>
 
     <td> Quality assurance.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—GENERAL AUTHORITY AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 7311A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7311A" data-uslm-ref="/us/usc/t38/s7311A">7311A.</a>  </td>
 
     <td> Quality management officers.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—GENERAL AUTHORITY AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 7312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7312" data-uslm-ref="/us/usc/t38/s7312">7312.</a>  </td>
 
     <td> Special medical advisory group.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—GENERAL AUTHORITY AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 7313.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7313" data-uslm-ref="/us/usc/t38/s7313">7313.</a>  </td>
 
     <td> Advisory committees: affiliated institutions.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—GENERAL AUTHORITY AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 7314.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7314" data-uslm-ref="/us/usc/t38/s7314">7314.</a>  </td>
 
     <td> Geriatric research, education, and clinical centers.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—GENERAL AUTHORITY AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 7315.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7315" data-uslm-ref="/us/usc/t38/s7315">7315.</a>  </td>
 
     <td> Geriatrics and Gerontology Advisory Committee.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—GENERAL AUTHORITY AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 7316.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7316" data-uslm-ref="/us/usc/t38/s7316">7316.</a>  </td>
 
     <td> Malpractice and negligence suits: defense by United States.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—GENERAL AUTHORITY AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 7317.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7317" data-uslm-ref="/us/usc/t38/s7317">7317.</a>  </td>
 
     <td> Hazardous research projects: indemnification of contractors.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER II—GENERAL AUTHORITY AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 7318.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7318" data-uslm-ref="/us/usc/t38/s7318">7318.</a>  </td>
 
     <td> National Center for Preventive Health.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER II—GENERAL AUTHORITY AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 7319.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7319" data-uslm-ref="/us/usc/t38/s7319">7319.</a>  </td>
 
     <td> Mammography quality standards.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER II—GENERAL AUTHORITY AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 7320.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7320" data-uslm-ref="/us/usc/t38/s7320">7320.</a>  </td>
 
     <td> Centers for mental illness research, education, and clinical activities.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER II—GENERAL AUTHORITY AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 7321.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7321" data-uslm-ref="/us/usc/t38/s7321">7321.</a>  </td>
 
     <td> Committee on Care of Severely Chronically Mentally Ill Veterans.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER II—GENERAL AUTHORITY AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 7321A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7321A" data-uslm-ref="/us/usc/t38/s7321A">7321A.</a>  </td>
 
     <td> Committee on Care of Veterans with Traumatic Brain Injury.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER II—GENERAL AUTHORITY AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 7322.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7322" data-uslm-ref="/us/usc/t38/s7322">7322.</a>  </td>
 
     <td> Breast cancer mammography policy.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER II—GENERAL AUTHORITY AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 7323.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7323" data-uslm-ref="/us/usc/t38/s7323">7323.</a>  </td>
 
     <td> Required consultations with nurses.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER II—GENERAL AUTHORITY AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 7324.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7324" data-uslm-ref="/us/usc/t38/s7324">7324.</a>  </td>
 
     <td> Annual report on use of authorities to enhance retention of experienced nurses.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER II—GENERAL AUTHORITY AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 7325.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7325" data-uslm-ref="/us/usc/t38/s7325">7325.</a>  </td>
 
     <td> Medical emergency preparedness centers.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER II—GENERAL AUTHORITY AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 7326.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7326" data-uslm-ref="/us/usc/t38/s7326">7326.</a>  </td>
 
     <td> Education and training programs on medical response to consequences of terrorist activities.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER II—GENERAL AUTHORITY AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 7327.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7327" data-uslm-ref="/us/usc/t38/s7327">7327.</a>  </td>
 
     <td> Centers for research, education, and clinical activities on complex multi-trauma associated with combat injuries.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER II—GENERAL AUTHORITY AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 7328.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7328" data-uslm-ref="/us/usc/t38/s7328">7328.</a>  </td>
 
     <td> Medical preparedness centers.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER II—GENERAL AUTHORITY AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 7329.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7329" data-uslm-ref="/us/usc/t38/s7329">7329.</a>  </td>
 
     <td> Parkinson’s Disease research, education, and clinical centers.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER II—GENERAL AUTHORITY AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 7330.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7330" data-uslm-ref="/us/usc/t38/s7330">7330.</a>  </td>
 
     <td> Multiple sclerosis centers of excellence.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER II—GENERAL AUTHORITY AND ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 7330A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7330A" data-uslm-ref="/us/usc/t38/s7330A">7330A.</a>  </td>
 
     <td> Epilepsy centers of excellence.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER III—PROTECTION OF PATIENT RIGHTS  </td>
 
   <tr>
 
-    <td> 7331.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7331" data-uslm-ref="/us/usc/t38/s7331">7331.</a>  </td>
 
     <td> Informed consent.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER III—PROTECTION OF PATIENT RIGHTS  </td>
 
   <tr>
 
-    <td> 7332.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7332" data-uslm-ref="/us/usc/t38/s7332">7332.</a>  </td>
 
     <td> Confidentiality of certain medical records.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER III—PROTECTION OF PATIENT RIGHTS  </td>
 
   <tr>
 
-    <td> 7333.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7333" data-uslm-ref="/us/usc/t38/s7333">7333.</a>  </td>
 
     <td> Nondiscrimination against alcohol and drug abusers and persons infected with the human immunodeficiency virus.  </td>
 
@@ -329,7 +329,7 @@ SUBCHAPTER III—PROTECTION OF PATIENT RIGHTS  </td>
 
   <tr>
 
-    <td> 7334.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7334" data-uslm-ref="/us/usc/t38/s7334">7334.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER IV—RESEARCH CORPORATIONS  </td>
 
   <tr>
 
-    <td> 7361.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7361" data-uslm-ref="/us/usc/t38/s7361">7361.</a>  </td>
 
     <td> Authority to establish; status.  </td>
 
@@ -353,7 +353,7 @@ SUBCHAPTER IV—RESEARCH CORPORATIONS  </td>
 
   <tr>
 
-    <td> 7362.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7362" data-uslm-ref="/us/usc/t38/s7362">7362.</a>  </td>
 
     <td> Purpose of corporations.  </td>
 
@@ -361,7 +361,7 @@ SUBCHAPTER IV—RESEARCH CORPORATIONS  </td>
 
   <tr>
 
-    <td> 7363.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7363" data-uslm-ref="/us/usc/t38/s7363">7363.</a>  </td>
 
     <td> Board of directors; executive director.  </td>
 
@@ -369,7 +369,7 @@ SUBCHAPTER IV—RESEARCH CORPORATIONS  </td>
 
   <tr>
 
-    <td> 7364.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7364" data-uslm-ref="/us/usc/t38/s7364">7364.</a>  </td>
 
     <td> General powers.  </td>
 
@@ -377,7 +377,7 @@ SUBCHAPTER IV—RESEARCH CORPORATIONS  </td>
 
   <tr>
 
-    <td> [7364A.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7364A" data-uslm-ref="/us/usc/t38/s7364A">7364A.</a>  </td>
 
     <td> Renumbered.]  </td>
 
@@ -385,7 +385,7 @@ SUBCHAPTER IV—RESEARCH CORPORATIONS  </td>
 
   <tr>
 
-    <td> 7365.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7365" data-uslm-ref="/us/usc/t38/s7365">7365.</a>  </td>
 
     <td> Coverage of employees under certain Federal tort claims laws.  </td>
 
@@ -393,7 +393,7 @@ SUBCHAPTER IV—RESEARCH CORPORATIONS  </td>
 
   <tr>
 
-    <td> 7366.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7366" data-uslm-ref="/us/usc/t38/s7366">7366.</a>  </td>
 
     <td> Accountability and oversight.  </td>
 
@@ -401,7 +401,7 @@ SUBCHAPTER IV—RESEARCH CORPORATIONS  </td>
 
   <tr>
 
-    <td> [7367, 7368.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7367" data-uslm-ref="/us/usc/t38/s7367">7367</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7368" data-uslm-ref="/us/usc/t38/s7368">7368.</a>  </td>
 
     <td> Repealed.]  </td>
 

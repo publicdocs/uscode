@@ -107,7 +107,17 @@
 
             (C) For the purposes of subparagraph (B) of this paragraph, the projected value of the property shall be calculated by the Secretary by increasing the reasonable value of the property as of the time the loan is made at a rate not in excess of 2.5 percent per year, but in no event may the projected value of the property for the purposes of such subparagraph exceed 115 percent of such reasonable value. A loan made for a purpose other than the acquisition of a single-family dwelling unit may not be guaranteed under such subparagraph.
 
-        (3) Any real estate housing loan (other than for repairs, alterations, or improvements) shall be secured by a first lien on the realty. In determining whether a loan for the purchase or construction of a home is so secured, the Secretary may disregard a superior lien created by a duly recorded covenant running with the realty in favor of a private entity to secure an obligation to such entity for the homeowner’s share of the costs of the management, operation, or maintenance of property, services or programs within and for the benefit of the development or community in which the veteran’s realty is located, if the Secretary determines that the interests of the veteran borrower and of the Government will not be prejudiced by the operation of such covenant. In respect to any such superior lien to be created after June 6, 1969, the Secretary’s determination must have been made prior to the recordation of the covenant.
+        (3)
+
+            (A)
+
+             Any real estate housing loan (other than for repairs, alterations, or improvements) shall be secured by a first lien on the realty. In determining whether a loan is so secured, the Secretary may either disregard or allow for subordination to a superior lien created by a duly recorded covenant running with the realty in favor of either of the following:
+
+                (i) A public entity that has provided or will provide assistance in response to a major disaster as determined by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121][/us/usc/t42/s5121] et seq.).
+
+                (ii) A private entity to secure an obligation to such entity for the homeowner’s share of the costs of the management, operation, or maintenance of property, services, or programs within and for the benefit of the development or community in which the veteran’s realty is located, if the Secretary determines that the interests of the veteran borrower and of the Government will not be prejudiced by the operation of such covenant.
+
+            (B) With respect to any superior lien described in subparagraph (A) created after June 6, 1969, the Secretary’s determination under clause (ii) of such subparagraph shall have been made prior to the recordation of the covenant.
 
     (e)
 
@@ -125,23 +135,11 @@
 
 ([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1205][/us/stat/72/1205], 1212, § 1803; [Pub. L. 86–73, § 2][/us/pl/86/73/s2], June 30, 1959, [73 Stat. 156][/us/stat/73/156]; [Pub. L. 86–665, § 1][/us/pl/86/665/s1], July 14, 1960, [74 Stat. 531][/us/stat/74/531]; [Pub. L. 87–84, § 1(a)][/us/pl/87/84/s1/a], July 6, 1961, [75 Stat. 201][/us/stat/75/201]; [Pub. L. 89–358, § 5(d)][/us/pl/89/358/s5/d], Mar. 3, 1966, [80 Stat. 26][/us/stat/80/26]; [Pub. L. 90–77, title IV, § 403(b)][/us/pl/90/77/s403/b], Aug. 31, 1967, [81 Stat. 190][/us/stat/81/190]; [Pub. L. 91–22, § 4][/us/pl/91/22/s4], June 6, 1969, [83 Stat. 32][/us/stat/83/32]; [Pub. L. 91–506, § 2(b)][/us/pl/91/506/s2/b], (c), Oct. 23, 1970, [84 Stat. 1108][/us/stat/84/1108]; [Pub. L. 93–75][/us/pl/93/75], July 26, 1973, [87 Stat. 176][/us/stat/87/176]; [Pub. L. 93–569][/us/pl/93/569], §§ 2(c), 8(1)–(5), Dec. 31, 1974, [88 Stat. 1863][/us/stat/88/1863], 1866; [Pub. L. 94–324, § 7(6)][/us/pl/94/324/s7/6], (16), June 30, 1976, [90 Stat. 721][/us/stat/90/721]; [Pub. L. 95–476, title I, § 103][/us/pl/95/476/s103], Oct. 18, 1978, [92 Stat. 1498][/us/stat/92/1498]; [Pub. L. 96–385, title IV, § 401(c)(1)][/us/pl/96/385/s401/c/1], Oct. 7, 1980, [94 Stat. 1533][/us/stat/94/1533]; [Pub. L. 97–66, title V, § 501(a)][/us/pl/97/66/s501/a], Oct. 17, 1981, [95 Stat. 1031][/us/stat/95/1031]; [Pub. L. 97–72, title III, § 303(c)][/us/pl/97/72/s303/c], (e), Nov. 3, 1981, [95 Stat. 1060][/us/stat/95/1060]; [Pub. L. 97–295, § 4(61)][/us/pl/97/295/s4/61], (63), Oct. 12, 1982, [96 Stat. 1309][/us/stat/96/1309]; [Pub. L. 97–306, title IV, § 406(b)][/us/pl/97/306/s406/b], Oct. 14, 1982, [96 Stat. 1444][/us/stat/96/1444]; [Pub. L. 98–223, title II, § 205(c)][/us/pl/98/223/s205/c], Mar. 2, 1984, [98 Stat. 43][/us/stat/98/43]; [Pub. L. 100–198, § 3(a)(1)][/us/pl/100/198/s3/a/1], Dec. 21, 1987, [101 Stat. 1315][/us/stat/101/1315]; [Pub. L. 100–253, § 3(a)][/us/pl/100/253/s3/a], Feb. 29, 1988, [102 Stat. 20][/us/stat/102/20]; [Pub. L. 100–322, title IV, § 415(a)(3)][/us/pl/100/322/s415/a/3], (c)(2), (d)(1), May 20, 1988, [102 Stat. 550–552][/us/stat/102/550-552]; [Pub. L. 101–237, title III][/us/pl/101/237], §§ 304(a), 306(a), 313(b)(1), (6), Dec. 18, 1989, [103 Stat. 2073][/us/stat/103/2073], 2074, 2077; [Pub. L. 102–54][/us/pl/102/54], §§ 4(b), 6, June 13, 1991, [105 Stat. 268][/us/stat/105/268]; renumbered § 3703 and amended [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 102–547, § 10(a)][/us/pl/102/547/s10/a], Oct. 28, 1992, [106 Stat. 3643][/us/stat/106/3643]; [Pub. L. 103–78, § 6][/us/pl/103/78/s6], Aug. 13, 1993, [107 Stat. 769][/us/stat/107/769]; [Pub. L. 103–353, § 7][/us/pl/103/353/s7], Oct. 13, 1994, [108 Stat. 3175][/us/stat/108/3175]; [Pub. L. 104–110, title I, § 101(d)][/us/pl/104/110/s101/d], Feb. 13, 1996, [110 Stat. 768][/us/stat/110/768]; [Pub. L. 105–368, title VI, § 602(e)(1)(A)][/us/pl/105/368/s602/e/1/A], Nov. 11, 1998, [112 Stat. 3346][/us/stat/112/3346]; [Pub. L. 107–103, title IV, § 401][/us/pl/107/103/s401], Dec. 27, 2001, [115 Stat. 993][/us/stat/115/993]; [Pub. L. 107–330, title III, § 308(f)(1)][/us/pl/107/330/s308/f/1], Dec. 6, 2002, [116 Stat. 2828][/us/stat/116/2828]; [Pub. L. 108–454, title IV, § 403][/us/pl/108/454/s403], Dec. 10, 2004, [118 Stat. 3616][/us/stat/118/3616]; [Pub. L. 110–389, title V, § 504(a)][/us/pl/110/389/s504/a], Oct. 10, 2008, [122 Stat. 4176][/us/stat/122/4176]; [Pub. L. 111–22, div. A, title I, § 102(a)][/us/pl/111/22/s102/a], May 20, 2009, [123 Stat. 1636][/us/stat/123/1636]; [Pub. L. 112–154, title VII, § 701(d)][/us/pl/112/154/s701/d], Aug. 6, 2012, [126 Stat. 1204][/us/stat/126/1204].)
 
- __Amendment of Subsection (d)(3)__ 
-
-[Pub. L. 112–154, title VII, § 701(d)][/us/pl/112/154/s701/d], (g), Aug. 6, 2012, [126 Stat. 1204][/us/stat/126/1204], 1205, provided that, effective on the date that is one year after Aug. 6, 2012, subsection (d)(3) of this section is amended to read as follows:
-
-    (3)(A) Any real estate housing loan (other than for repairs, alterations, or improvements) shall be secured by a first lien on the realty. In determining whether a loan is so secured, the Secretary may either disregard or allow for subordination to a superior lien created by a duly recorded covenant running with the realty in favor of either of the following:
-
-    (i) A public entity that has provided or will provide assistance in response to a major disaster as determined by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121][/us/usc/t42/s5121] et seq.).
-
-    (ii) A private entity to secure an obligation to such entity for the homeowner’s share of the costs of the management, operation, or maintenance of property, services, or programs within and for the benefit of the development or community in which the veteran’s realty is located, if the Secretary determines that the interests of the veteran borrower and of the Government will not be prejudiced by the operation of such covenant.
-
-    (B) With respect to any superior lien described in subparagraph (A) created after June 6, 1969, the Secretary’s determination under clause (ii) of such subparagraph shall have been made prior to the recordation of the covenant.
-
-See 2012 Amendment note below.
-
  __References in Text__ 
 
     The Servicemen’s Readjustment Act of 1944, referred to in subsec. (c)(2), is [act June 22, 1944, ch. 268][/us/act/1944-06-22/ch268], [58 Stat. 284][/us/stat/58/284], as amended, which was classified generally to chapter 11C (§§ 693 to 697g) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, which was repealed upon the enactment of Title 38, Veterans’ Benefits, by [Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1105][/us/stat/72/1105]. For distribution of sections 693 to 697g of former Title 38 in this title, see Table preceding [section 101 of this title][/us/usc/t38/s101].
+
+    The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (d)(3)(A)(i), is [Pub. L. 93–288][/us/pl/93/288], May 22, 1974, [88 Stat. 143][/us/stat/88/143], which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42][/us/usc/t42/s5121] and Tables.
 
  __Amendments__ 
 
@@ -404,6 +402,7 @@ See 2012 Amendment note below.
 [/us/usc/t38/s3710/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3710%2Fa
 [/us/usc/t38/s3712/a/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3712%2Fa%2F1%2FF
 [/us/usc/t38/s3710/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3710%2Fa
+[/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
 [/us/usc/t38/s3729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3729
 [/us/usc/t38/s3729/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3729%2Fc
 [/us/usc/t38/s3729/b/2/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3729%2Fb%2F2%2FI
@@ -478,14 +477,14 @@ See 2012 Amendment note below.
 [/us/stat/123/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1636
 [/us/pl/112/154/s701/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs701%2Fd
 [/us/stat/126/1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1204
-[/us/pl/112/154/s701/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs701%2Fd
-[/us/stat/126/1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1204
-[/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
 [/us/act/1944-06-22/ch268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-06-22%2Fch268
 [/us/stat/58/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F284
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1105
 [/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
+[/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
+[/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143
+[/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
 [/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
 [/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
 [/us/pl/110/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F389

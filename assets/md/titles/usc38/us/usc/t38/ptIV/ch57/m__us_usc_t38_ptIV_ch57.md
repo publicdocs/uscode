@@ -33,7 +33,7 @@ SUBCHAPTER I—RECORDS  </td>
 
   <tr>
 
-    <td> 5701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5701" data-uslm-ref="/us/usc/t38/s5701">5701.</a>  </td>
 
     <td> Confidential nature of claims.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—RECORDS  </td>
 
   <tr>
 
-    <td> 5702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5702" data-uslm-ref="/us/usc/t38/s5702">5702.</a>  </td>
 
     <td> Furnishing of records.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—RECORDS  </td>
 
   <tr>
 
-    <td> 5703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5703" data-uslm-ref="/us/usc/t38/s5703">5703.</a>  </td>
 
     <td> Certification of records of District of Columbia.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—RECORDS  </td>
 
   <tr>
 
-    <td> 5704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5704" data-uslm-ref="/us/usc/t38/s5704">5704.</a>  </td>
 
     <td> Transcript of trial records.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—RECORDS  </td>
 
   <tr>
 
-    <td> 5705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5705" data-uslm-ref="/us/usc/t38/s5705">5705.</a>  </td>
 
     <td> Confidentiality of medical quality-assurance records.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—INVESTIGATIONS  </td>
 
   <tr>
 
-    <td> 5711.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5711" data-uslm-ref="/us/usc/t38/s5711">5711.</a>  </td>
 
     <td> Authority to issue subpoenas.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—INVESTIGATIONS  </td>
 
   <tr>
 
-    <td> 5712.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5712" data-uslm-ref="/us/usc/t38/s5712">5712.</a>  </td>
 
     <td> Validity of affidavits.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—INVESTIGATIONS  </td>
 
   <tr>
 
-    <td> 5713.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5713" data-uslm-ref="/us/usc/t38/s5713">5713.</a>  </td>
 
     <td> Disobedience to subpoena.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER III—INFORMATION SECURITY  </td>
 
   <tr>
 
-    <td> 5721.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5721" data-uslm-ref="/us/usc/t38/s5721">5721.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER III—INFORMATION SECURITY  </td>
 
   <tr>
 
-    <td> 5722.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5722" data-uslm-ref="/us/usc/t38/s5722">5722.</a>  </td>
 
     <td> Policy.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER III—INFORMATION SECURITY  </td>
 
   <tr>
 
-    <td> 5723.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5723" data-uslm-ref="/us/usc/t38/s5723">5723.</a>  </td>
 
     <td> Responsibilities.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER III—INFORMATION SECURITY  </td>
 
   <tr>
 
-    <td> 5724.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5724" data-uslm-ref="/us/usc/t38/s5724">5724.</a>  </td>
 
     <td> Provision of credit protection and other services.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER III—INFORMATION SECURITY  </td>
 
   <tr>
 
-    <td> 5725.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5725" data-uslm-ref="/us/usc/t38/s5725">5725.</a>  </td>
 
     <td> Contracts for data processing or maintenance.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER III—INFORMATION SECURITY  </td>
 
   <tr>
 
-    <td> 5726.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5726" data-uslm-ref="/us/usc/t38/s5726">5726.</a>  </td>
 
     <td> Reports and notice to Congress on data breaches.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER III—INFORMATION SECURITY  </td>
 
   <tr>
 
-    <td> 5727.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5727" data-uslm-ref="/us/usc/t38/s5727">5727.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER III—INFORMATION SECURITY  </td>
 
   <tr>
 
-    <td> 5728.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5728" data-uslm-ref="/us/usc/t38/s5728">5728.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

@@ -33,7 +33,7 @@ SUBCHAPTER I—PURPOSE; DEFINITIONS  </td>
 
   <tr>
 
-    <td> 3201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3201" data-uslm-ref="/us/usc/t38/s3201">3201.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—PURPOSE; DEFINITIONS  </td>
 
   <tr>
 
-    <td> 3202.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3202" data-uslm-ref="/us/usc/t38/s3202">3202.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER II—ELIGIBILITY; CONTRIBUTIONS; AND MATCHING FUND  </td>
 
   <tr>
 
-    <td> 3221.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3221" data-uslm-ref="/us/usc/t38/s3221">3221.</a>  </td>
 
     <td> Eligibility.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER II—ELIGIBILITY; CONTRIBUTIONS; AND MATCHING FUND  </td>
 
   <tr>
 
-    <td> 3222.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3222" data-uslm-ref="/us/usc/t38/s3222">3222.</a>  </td>
 
     <td> Contributions; matching fund.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—ELIGIBILITY; CONTRIBUTIONS; AND MATCHING FUND  </td>
 
   <tr>
 
-    <td> 3223.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3223" data-uslm-ref="/us/usc/t38/s3223">3223.</a>  </td>
 
     <td> Refunds of contributions upon disenrollment.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—ELIGIBILITY; CONTRIBUTIONS; AND MATCHING FUND  </td>
 
   <tr>
 
-    <td> 3224.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3224" data-uslm-ref="/us/usc/t38/s3224">3224.</a>  </td>
 
     <td> Death of participant.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—ELIGIBILITY; CONTRIBUTIONS; AND MATCHING FUND  </td>
 
   <tr>
 
-    <td> 3225.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3225" data-uslm-ref="/us/usc/t38/s3225">3225.</a>  </td>
 
     <td> Discharge or release under conditions which would bar the use of benefits.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER III—ENTITLEMENT; DURATION  </td>
 
   <tr>
 
-    <td> 3231.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3231" data-uslm-ref="/us/usc/t38/s3231">3231.</a>  </td>
 
     <td> Entitlement; loan eligibility.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER III—ENTITLEMENT; DURATION  </td>
 
   <tr>
 
-    <td> 3232.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3232" data-uslm-ref="/us/usc/t38/s3232">3232.</a>  </td>
 
     <td> Duration; limitations.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER III—ENTITLEMENT; DURATION  </td>
 
   <tr>
 
-    <td> 3233.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3233" data-uslm-ref="/us/usc/t38/s3233">3233.</a>  </td>
 
     <td> Apprenticeship or other on-job training.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER III—ENTITLEMENT; DURATION  </td>
 
   <tr>
 
-    <td> 3234.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3234" data-uslm-ref="/us/usc/t38/s3234">3234.</a>  </td>
 
     <td> Tutorial assistance.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER IV—ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 3241.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3241" data-uslm-ref="/us/usc/t38/s3241">3241.</a>  </td>
 
     <td> Requirements.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER IV—ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 3243.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3243" data-uslm-ref="/us/usc/t38/s3243">3243.</a>  </td>
 
     <td> Deposits; reports.  </td>
 

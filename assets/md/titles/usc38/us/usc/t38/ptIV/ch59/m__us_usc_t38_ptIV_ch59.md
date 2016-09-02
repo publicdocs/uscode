@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5901" data-uslm-ref="/us/usc/t38/s5901">5901.</a>  </td>
 
     <td> Prohibition against acting as claims agent or attorney.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5902" data-uslm-ref="/us/usc/t38/s5902">5902.</a>  </td>
 
     <td> Recognition of representatives of organizations.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5903" data-uslm-ref="/us/usc/t38/s5903">5903.</a>  </td>
 
     <td> Recognition with respect to particular claims.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5904.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5904" data-uslm-ref="/us/usc/t38/s5904">5904.</a>  </td>
 
     <td> Recognition of agents and attorneys generally.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5905.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5905" data-uslm-ref="/us/usc/t38/s5905">5905.</a>  </td>
 
     <td> Penalty for certain acts.  </td>
 

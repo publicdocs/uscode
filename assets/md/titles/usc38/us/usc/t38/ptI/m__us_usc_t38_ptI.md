@@ -29,51 +29,51 @@
 
   <tr>
 
-    <td> 1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2FptI%2Fch1" data-uslm-ref="/us/usc/t38/ptI/ch1">1.</a>  </td>
 
     <td> General  </td>
 
-    <td> 101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs101" data-uslm-ref="/us/usc/t38/s101">101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2FptI%2Fch3" data-uslm-ref="/us/usc/t38/ptI/ch3">3.</a>  </td>
 
     <td> Department of Veterans Affairs  </td>
 
-    <td> 301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs301" data-uslm-ref="/us/usc/t38/s301">301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2FptI%2Fch5" data-uslm-ref="/us/usc/t38/ptI/ch5">5.</a>  </td>
 
     <td> Authority and Duties of the Secretary  </td>
 
-    <td> 501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs501" data-uslm-ref="/us/usc/t38/s501">501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 7.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2FptI%2Fch7" data-uslm-ref="/us/usc/t38/ptI/ch7">7.</a>  </td>
 
     <td> Employees  </td>
 
-    <td> 701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs701" data-uslm-ref="/us/usc/t38/s701">701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 9.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2FptI%2Fch9" data-uslm-ref="/us/usc/t38/ptI/ch9">9.</a>  </td>
 
     <td> Security and Law Enforcement on Property Under the Jurisdiction of the Department  </td>
 
-    <td> 901  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs901" data-uslm-ref="/us/usc/t38/s901">901</a>  </td>
 
   </tr>
 

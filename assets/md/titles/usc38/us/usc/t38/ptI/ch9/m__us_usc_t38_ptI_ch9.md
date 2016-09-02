@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs901" data-uslm-ref="/us/usc/t38/s901">901.</a>  </td>
 
     <td> Authority to prescribe rules for conduct and penalties for violations.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs902" data-uslm-ref="/us/usc/t38/s902">902.</a>  </td>
 
     <td> Enforcement and arrest authority of Department police officers.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs903" data-uslm-ref="/us/usc/t38/s903">903.</a>  </td>
 
     <td> Uniform allowance.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 904.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs904" data-uslm-ref="/us/usc/t38/s904">904.</a>  </td>
 
     <td> Equipment and weapons.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 905.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs905" data-uslm-ref="/us/usc/t38/s905">905.</a>  </td>
 
     <td> Use of facilities and services of other law enforcement agencies.  </td>
 

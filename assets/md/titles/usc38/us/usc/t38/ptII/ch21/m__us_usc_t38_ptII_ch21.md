@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2101" data-uslm-ref="/us/usc/t38/s2101">2101.</a>  </td>
 
     <td> Acquisition and adaptation of housing: eligible veterans.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2101A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2101A" data-uslm-ref="/us/usc/t38/s2101A">2101A.</a>  </td>
 
     <td> Eligibility for benefits and assistance: members of the Armed Forces with service-connected disabilities; individuals residing outside the United States.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2102" data-uslm-ref="/us/usc/t38/s2102">2102.</a>  </td>
 
     <td> Limitations on assistance furnished.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2102A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2102A" data-uslm-ref="/us/usc/t38/s2102A">2102A.</a>  </td>
 
     <td> Assistance for individuals residing temporarily in housing owned by a family member.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2103" data-uslm-ref="/us/usc/t38/s2103">2103.</a>  </td>
 
     <td> Furnishing of plans and specifications.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2104" data-uslm-ref="/us/usc/t38/s2104">2104.</a>  </td>
 
     <td> Benefits additional to benefits under other laws.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2105" data-uslm-ref="/us/usc/t38/s2105">2105.</a>  </td>
 
     <td> Nonliability of United States.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2106" data-uslm-ref="/us/usc/t38/s2106">2106.</a>  </td>
 
     <td> Veterans’ mortgage life insurance.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2107" data-uslm-ref="/us/usc/t38/s2107">2107.</a>  </td>
 
     <td> Coordination of administration of benefits.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2108" data-uslm-ref="/us/usc/t38/s2108">2108.</a>  </td>
 
     <td> Specially adapted housing assistive technology grant program.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2109.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2109" data-uslm-ref="/us/usc/t38/s2109">2109.</a>  </td>
 
     <td> Specially adapted housing destroyed or damaged by natural disasters.  </td>
 

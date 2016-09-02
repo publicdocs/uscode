@@ -33,7 +33,7 @@ SUBCHAPTER I—PURPOSES; DEFINITIONS  </td>
 
   <tr>
 
-    <td> 3001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3001" data-uslm-ref="/us/usc/t38/s3001">3001.</a>  </td>
 
     <td> Purposes.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—PURPOSES; DEFINITIONS  </td>
 
   <tr>
 
-    <td> 3002.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3002" data-uslm-ref="/us/usc/t38/s3002">3002.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER II—BASIC EDUCATIONAL ASSISTANCE  </td>
 
   <tr>
 
-    <td> 3011.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3011" data-uslm-ref="/us/usc/t38/s3011">3011.</a>  </td>
 
     <td> Basic educational assistance entitlement for service on active duty.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER II—BASIC EDUCATIONAL ASSISTANCE  </td>
 
   <tr>
 
-    <td> 3012.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3012" data-uslm-ref="/us/usc/t38/s3012">3012.</a>  </td>
 
     <td> Basic educational assistance entitlement for service in the Selected Reserve.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—BASIC EDUCATIONAL ASSISTANCE  </td>
 
   <tr>
 
-    <td> 3013.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3013" data-uslm-ref="/us/usc/t38/s3013">3013.</a>  </td>
 
     <td> Duration of basic educational assistance.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—BASIC EDUCATIONAL ASSISTANCE  </td>
 
   <tr>
 
-    <td> 3014.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3014" data-uslm-ref="/us/usc/t38/s3014">3014.</a>  </td>
 
     <td> Payment of basic educational assistance.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—BASIC EDUCATIONAL ASSISTANCE  </td>
 
   <tr>
 
-    <td> 3014A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3014A" data-uslm-ref="/us/usc/t38/s3014A">3014A.</a>  </td>
 
     <td> Accelerated payment of basic educational assistance for education leading to employment in high technology occupation in high technology industry.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—BASIC EDUCATIONAL ASSISTANCE  </td>
 
   <tr>
 
-    <td> 3015.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3015" data-uslm-ref="/us/usc/t38/s3015">3015.</a>  </td>
 
     <td> Amount of basic educational assistance.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—BASIC EDUCATIONAL ASSISTANCE  </td>
 
   <tr>
 
-    <td> 3016.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3016" data-uslm-ref="/us/usc/t38/s3016">3016.</a>  </td>
 
     <td> Inservice enrollment in a program of education.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—BASIC EDUCATIONAL ASSISTANCE  </td>
 
   <tr>
 
-    <td> 3017.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3017" data-uslm-ref="/us/usc/t38/s3017">3017.</a>  </td>
 
     <td> Death benefit.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—BASIC EDUCATIONAL ASSISTANCE  </td>
 
   <tr>
 
-    <td> 3018.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3018" data-uslm-ref="/us/usc/t38/s3018">3018.</a>  </td>
 
     <td> Opportunity for certain active-duty personnel to withdraw election not to enroll.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—BASIC EDUCATIONAL ASSISTANCE  </td>
 
   <tr>
 
-    <td> 3018A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3018A" data-uslm-ref="/us/usc/t38/s3018A">3018A.</a>  </td>
 
     <td> Opportunity for certain active-duty personnel to enroll before being involuntarily separated from service.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—BASIC EDUCATIONAL ASSISTANCE  </td>
 
   <tr>
 
-    <td> 3018B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3018B" data-uslm-ref="/us/usc/t38/s3018B">3018B.</a>  </td>
 
     <td> Opportunity for certain persons to enroll.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—BASIC EDUCATIONAL ASSISTANCE  </td>
 
   <tr>
 
-    <td> 3018C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3018C" data-uslm-ref="/us/usc/t38/s3018C">3018C.</a>  </td>
 
     <td> Opportunity for certain VEAP participants to enroll.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—BASIC EDUCATIONAL ASSISTANCE  </td>
 
   <tr>
 
-    <td> 3019.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3019" data-uslm-ref="/us/usc/t38/s3019">3019.</a>  </td>
 
     <td> Tutorial assistance.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—BASIC EDUCATIONAL ASSISTANCE  </td>
 
   <tr>
 
-    <td> 3020.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3020" data-uslm-ref="/us/usc/t38/s3020">3020.</a>  </td>
 
     <td> Authority to transfer unused education benefits to family members for career service members.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER III—SUPPLEMENTAL EDUCATIONAL ASSISTANCE  </td>
 
   <tr>
 
-    <td> 3021.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3021" data-uslm-ref="/us/usc/t38/s3021">3021.</a>  </td>
 
     <td> Supplemental educational assistance for additional service.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER III—SUPPLEMENTAL EDUCATIONAL ASSISTANCE  </td>
 
   <tr>
 
-    <td> 3022.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3022" data-uslm-ref="/us/usc/t38/s3022">3022.</a>  </td>
 
     <td> Amount of supplemental educational assistance.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER III—SUPPLEMENTAL EDUCATIONAL ASSISTANCE  </td>
 
   <tr>
 
-    <td> 3023.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3023" data-uslm-ref="/us/usc/t38/s3023">3023.</a>  </td>
 
     <td> Payment of supplemental educational assistance under this subchapter.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER IV—TIME LIMITATION FOR USE OF ELIGIBILITY AND ENTITLEMENT; GENERAL 
 
   <tr>
 
-    <td> 3031.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3031" data-uslm-ref="/us/usc/t38/s3031">3031.</a>  </td>
 
     <td> Time limitation for use of eligibility and entitlement.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER IV—TIME LIMITATION FOR USE OF ELIGIBILITY AND ENTITLEMENT; GENERAL 
 
   <tr>
 
-    <td> 3032.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3032" data-uslm-ref="/us/usc/t38/s3032">3032.</a>  </td>
 
     <td> Limitations on educational assistance for certain individuals.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER IV—TIME LIMITATION FOR USE OF ELIGIBILITY AND ENTITLEMENT; GENERAL 
 
   <tr>
 
-    <td> 3033.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3033" data-uslm-ref="/us/usc/t38/s3033">3033.</a>  </td>
 
     <td> Bar to duplication of educational assistance benefits.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER IV—TIME LIMITATION FOR USE OF ELIGIBILITY AND ENTITLEMENT; GENERAL 
 
   <tr>
 
-    <td> 3034.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3034" data-uslm-ref="/us/usc/t38/s3034">3034.</a>  </td>
 
     <td> Program administration.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER IV—TIME LIMITATION FOR USE OF ELIGIBILITY AND ENTITLEMENT; GENERAL 
 
   <tr>
 
-    <td> 3035.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3035" data-uslm-ref="/us/usc/t38/s3035">3035.</a>  </td>
 
     <td> Allocation of administration and of program costs.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER IV—TIME LIMITATION FOR USE OF ELIGIBILITY AND ENTITLEMENT; GENERAL 
 
   <tr>
 
-    <td> [3036.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3036" data-uslm-ref="/us/usc/t38/s3036">3036.</a>  </td>
 
     <td> Repealed.]  </td>
 

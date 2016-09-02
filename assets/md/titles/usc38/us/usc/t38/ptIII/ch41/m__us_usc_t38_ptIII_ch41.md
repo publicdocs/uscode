@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4100.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4100" data-uslm-ref="/us/usc/t38/s4100">4100.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4101" data-uslm-ref="/us/usc/t38/s4101">4101.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4102" data-uslm-ref="/us/usc/t38/s4102">4102.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4102A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4102A" data-uslm-ref="/us/usc/t38/s4102A">4102A.</a>  </td>
 
     <td> Assistant Secretary of Labor for Veterans’ Employment and Training; program functions; Regional Administrators.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 4103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4103" data-uslm-ref="/us/usc/t38/s4103">4103.</a>  </td>
 
     <td> Directors and Assistant Directors for Veterans’ Employment and Training; additional Federal personnel.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 4103A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4103A" data-uslm-ref="/us/usc/t38/s4103A">4103A.</a>  </td>
 
     <td> Disabled veterans’ outreach program.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 4104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4104" data-uslm-ref="/us/usc/t38/s4104">4104.</a>  </td>
 
     <td> Local veterans’ employment representatives.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 4104A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4104A" data-uslm-ref="/us/usc/t38/s4104A">4104A.</a>  </td>
 
     <td> Collaborative veterans’ training, mentoring, and placement program.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 4105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4105" data-uslm-ref="/us/usc/t38/s4105">4105.</a>  </td>
 
     <td> Cooperation of Federal agencies.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 4106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4106" data-uslm-ref="/us/usc/t38/s4106">4106.</a>  </td>
 
     <td> Estimate of funds for administration; authorization of appropriations.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 4107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4107" data-uslm-ref="/us/usc/t38/s4107">4107.</a>  </td>
 
     <td> Administrative controls; annual report.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 4108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4108" data-uslm-ref="/us/usc/t38/s4108">4108.</a>  </td>
 
     <td> Cooperation and coordination.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 4109.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4109" data-uslm-ref="/us/usc/t38/s4109">4109.</a>  </td>
 
     <td> National Veterans’ Employment and Training Services Institute.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 4110.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4110" data-uslm-ref="/us/usc/t38/s4110">4110.</a>  </td>
 
     <td> Advisory Committee on Veterans Employment, Training, and Employer Outreach.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 4110A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4110A" data-uslm-ref="/us/usc/t38/s4110A">4110A.</a>  </td>
 
     <td> Special unemployment study.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 4110B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4110B" data-uslm-ref="/us/usc/t38/s4110B">4110B.</a>  </td>
 
     <td> Coordination and nonduplication.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> [4111.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4111" data-uslm-ref="/us/usc/t38/s4111">4111.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 4112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4112" data-uslm-ref="/us/usc/t38/s4112">4112.</a>  </td>
 
     <td> Performance incentive awards for quality employment, training, and placement services.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 4113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4113" data-uslm-ref="/us/usc/t38/s4113">4113.</a>  </td>
 
     <td> Transition Assistance Program personnel.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 4114.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4114" data-uslm-ref="/us/usc/t38/s4114">4114.</a>  </td>
 
     <td> Credentialing and licensure of veterans: demonstration project.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs6101" data-uslm-ref="/us/usc/t38/s6101">6101.</a>  </td>
 
     <td> Misappropriation by fiduciaries.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs6102" data-uslm-ref="/us/usc/t38/s6102">6102.</a>  </td>
 
     <td> Fraudulent acceptance of payments.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs6103" data-uslm-ref="/us/usc/t38/s6103">6103.</a>  </td>
 
     <td> Forfeiture for fraud.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs6104" data-uslm-ref="/us/usc/t38/s6104">6104.</a>  </td>
 
     <td> Forfeiture for treason.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 6105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs6105" data-uslm-ref="/us/usc/t38/s6105">6105.</a>  </td>
 
     <td> Forfeiture for subversive activities.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 6106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs6106" data-uslm-ref="/us/usc/t38/s6106">6106.</a>  </td>
 
     <td> Misuse of benefits by fiduciaries.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 6107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs6107" data-uslm-ref="/us/usc/t38/s6107">6107.</a>  </td>
 
     <td> Reissuance of benefits.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 6108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs6108" data-uslm-ref="/us/usc/t38/s6108">6108.</a>  </td>
 
     <td> Authority for judicial orders of restitution.  </td>
 

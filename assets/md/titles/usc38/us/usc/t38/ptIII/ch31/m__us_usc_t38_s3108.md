@@ -19,7 +19,11 @@
 
         (1) Except in the case of a veteran who makes an election under subsection (f) of this section and subject to the provisions of paragraph (3) of this subsection, each veteran shall be paid a subsistence allowance in accordance with this section during a period determined by the Secretary to be a period of such veteran’s participation under this chapter in a rehabilitation program.
 
-        (2) In any case in which the Secretary determines, at the conclusion of such veteran’s pursuit of a vocational rehabilitation program under this chapter, that such veteran has been rehabilitated to the point of employability, such veteran shall be paid a subsistence allowance, as prescribed in this section for full-time training for the type of program that the veteran was pursuing, for two months while satisfactorily following a program of employment services provided under [section 3104(a)(5) of this title][/us/usc/t38/s3104/a/5].
+        (2)
+
+            (A) In any case in which the Secretary determines, at the conclusion of such veteran’s pursuit of a vocational rehabilitation program under this chapter, that such veteran has been rehabilitated to the point of employability, such veteran shall be paid a subsistence allowance, as prescribed in this section for full-time training for the type of program that the veteran was pursuing, for two months while satisfactorily following a program of employment services provided under [section 3104(a)(5) of this title][/us/usc/t38/s3104/a/5].
+
+            (B) In any case in which the Secretary determines that a veteran described in subparagraph (A) has been displaced as the result of a natural or other disaster while being paid a subsistence allowance under that subparagraph, as determined by the Secretary, the Secretary may extend the payment of a subsistence allowance under such subparagraph for up to an additional two months while the veteran is satisfactorily following a program of employment services described in such subparagraph.
 
         (3) A subsistence allowance may not be paid under this chapter to a veteran for any period during which such veteran is being provided with an initial evaluation under [section 3106(a) of this title][/us/usc/t38/s3106/a] or during which such veteran is being provided only with counseling or with placement or postplacement services under [section 3105(b) of this title][/us/usc/t38/s3105/b].
 
@@ -437,18 +441,6 @@
 
 (Added [Pub. L. 96–466, title I, § 101(a)][/us/pl/96/466/s101/a], Oct. 17, 1980, [94 Stat. 2178][/us/stat/94/2178], § 1508; amended [Pub. L. 97–306, title II, § 205(a)][/us/pl/97/306/s205/a], Oct. 14, 1982, [96 Stat. 1434][/us/stat/96/1434]; [Pub. L. 98–525, title VII, § 703(a)][/us/pl/98/525/s703/a], Oct. 19, 1984, [98 Stat. 2564][/us/stat/98/2564]; [Pub. L. 98–543, title II, § 201][/us/pl/98/543/s201], Oct. 24, 1984, [98 Stat. 2740][/us/stat/98/2740]; [Pub. L. 101–237, title IV][/us/pl/101/237], §§ 402(a), 423(b)(1), Dec. 18, 1989, [103 Stat. 2078][/us/stat/103/2078], 2092; [Pub. L. 102–16, § 3(c)][/us/pl/102/16/s3/c], Mar. 22, 1991, [105 Stat. 49][/us/stat/105/49]; renumbered § 3108 and amended [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 102–568, title IV, § 405(a)][/us/pl/102/568/s405/a], (b), Oct. 29, 1992, [106 Stat. 4338][/us/stat/106/4338], 4339; [Pub. L. 103–446, title VI, § 602(b)][/us/pl/103/446/s602/b], Nov. 2, 1994, [108 Stat. 4671][/us/stat/108/4671]; [Pub. L. 104–275, title I, § 101(g)][/us/pl/104/275/s101/g], Oct. 9, 1996, [110 Stat. 3325][/us/stat/110/3325]; [Pub. L. 109–461, title X, § 1002(b)][/us/pl/109/461/s1002/b], Dec. 22, 2006, [120 Stat. 3465][/us/stat/120/3465]; [Pub. L. 111–377, title II, § 205(a)][/us/pl/111/377/s205/a], Jan. 4, 2011, [124 Stat. 4126][/us/stat/124/4126]; [Pub. L. 112–154, title VII, § 701(b)][/us/pl/112/154/s701/b], Aug. 6, 2012, [126 Stat. 1203][/us/stat/126/1203].)
 
- __Amendment of Subsection (a)(2)__ 
-
-[Pub. L. 112–154, title VII, § 701(b)][/us/pl/112/154/s701/b], (g), Aug. 6, 2012, [126 Stat. 1203][/us/stat/126/1203], 1205, provided that, effective on the date that is one year after Aug. 6, 2012, subsection (a)(2) of this section is amended as follows:
-
-(1) by inserting “(A)” before “In”; and
-
-(2) by adding at the end the following new subparagraph:
-
-    (B) In any case in which the Secretary determines that a veteran described in subparagraph (A) has been displaced as the result of a natural or other disaster while being paid a subsistence allowance under that subparagraph, as determined by the Secretary, the Secretary may extend the payment of a subsistence allowance under such subparagraph for up to an additional two months while the veteran is satisfactorily following a program of employment services described in such subparagraph.
-
-See 2012 Amendment note below.
-
  __Prior Provisions__ 
 
     Prior section 3108 was renumbered [section 5308 of this title][/us/usc/t38/s5308].
@@ -582,8 +574,6 @@ See 2012 Amendment note below.
 [/us/stat/120/3465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3465
 [/us/pl/111/377/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F377%2Fs205%2Fa
 [/us/stat/124/4126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4126
-[/us/pl/112/154/s701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs701%2Fb
-[/us/stat/126/1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1203
 [/us/pl/112/154/s701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs701%2Fb
 [/us/stat/126/1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1203
 [/us/usc/t38/s5308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5308

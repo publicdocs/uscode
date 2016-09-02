@@ -33,7 +33,7 @@ SUBCHAPTER I—ORGANIZATION; GENERAL  </td>
 
   <tr>
 
-    <td> 7701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7701" data-uslm-ref="/us/usc/t38/s7701">7701.</a>  </td>
 
     <td> Organization of the Administration.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—ORGANIZATION; GENERAL  </td>
 
   <tr>
 
-    <td> 7703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7703" data-uslm-ref="/us/usc/t38/s7703">7703.</a>  </td>
 
     <td> Functions of the Administration.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER II—QUALITY ASSURANCE  </td>
 
   <tr>
 
-    <td> 7731.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7731" data-uslm-ref="/us/usc/t38/s7731">7731.</a>  </td>
 
     <td> Establishment.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER II—QUALITY ASSURANCE  </td>
 
   <tr>
 
-    <td> 7732.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7732" data-uslm-ref="/us/usc/t38/s7732">7732.</a>  </td>
 
     <td> Functions.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—QUALITY ASSURANCE  </td>
 
   <tr>
 
-    <td> 7732A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7732A" data-uslm-ref="/us/usc/t38/s7732A">7732A.</a>  </td>
 
     <td> Employee certification.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—QUALITY ASSURANCE  </td>
 
   <tr>
 
-    <td> 7733.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7733" data-uslm-ref="/us/usc/t38/s7733">7733.</a>  </td>
 
     <td> Personnel.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—QUALITY ASSURANCE  </td>
 
   <tr>
 
-    <td> 7734.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7734" data-uslm-ref="/us/usc/t38/s7734">7734.</a>  </td>
 
     <td> Annual report to Congress.  </td>
 

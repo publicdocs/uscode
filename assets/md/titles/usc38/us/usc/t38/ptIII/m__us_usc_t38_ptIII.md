@@ -29,121 +29,121 @@
 
   <tr>
 
-    <td> 30.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2FptIII%2Fch30" data-uslm-ref="/us/usc/t38/ptIII/ch30">30.</a>  </td>
 
     <td> All-Volunteer Force Educational Assistance Program  </td>
 
-    <td> 3001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3001" data-uslm-ref="/us/usc/t38/s3001">3001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 31.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2FptIII%2Fch31" data-uslm-ref="/us/usc/t38/ptIII/ch31">31.</a>  </td>
 
     <td> Training and Rehabilitation for Veterans with Service-Connected Disabilities  </td>
 
-    <td> 3100  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3100" data-uslm-ref="/us/usc/t38/s3100">3100</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 32.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2FptIII%2Fch32" data-uslm-ref="/us/usc/t38/ptIII/ch32">32.</a>  </td>
 
     <td> Post-Vietnam Era Veterans’ Educational Assistance  </td>
 
-    <td> 3201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3201" data-uslm-ref="/us/usc/t38/s3201">3201</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 33.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2FptIII%2Fch33" data-uslm-ref="/us/usc/t38/ptIII/ch33">33.</a>  </td>
 
     <td> Post-9/11 Educational Assistance  </td>
 
-    <td> 3301. <sup>[1]</sup>  <sup><sup> 1 So in original. The period probably should not appear. </sup></sup>   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3301" data-uslm-ref="/us/usc/t38/s3301">3301.</a> <sup>[1]</sup>  <sup><sup> 1 So in original. The period probably should not appear. </sup></sup>   </td>
 
   </tr>
 
   <tr>
 
-    <td> 34.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2FptIII%2Fch34" data-uslm-ref="/us/usc/t38/ptIII/ch34">34.</a>  </td>
 
     <td> Veterans’ Educational Assistance  </td>
 
-    <td> 3451  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3451" data-uslm-ref="/us/usc/t38/s3451">3451</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 35.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2FptIII%2Fch35" data-uslm-ref="/us/usc/t38/ptIII/ch35">35.</a>  </td>
 
     <td> Survivors’ and Dependents’ Educational Assistance  </td>
 
-    <td> 3500  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3500" data-uslm-ref="/us/usc/t38/s3500">3500</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 36.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2FptIII%2Fch36" data-uslm-ref="/us/usc/t38/ptIII/ch36">36.</a>  </td>
 
     <td> Administration of Educational Benefits  </td>
 
-    <td> 3670  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3670" data-uslm-ref="/us/usc/t38/s3670">3670</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 37.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2FptIII%2Fch37" data-uslm-ref="/us/usc/t38/ptIII/ch37">37.</a>  </td>
 
     <td> Housing and Small Business Loans  </td>
 
-    <td> 3701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3701" data-uslm-ref="/us/usc/t38/s3701">3701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 39.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2FptIII%2Fch39" data-uslm-ref="/us/usc/t38/ptIII/ch39">39.</a>  </td>
 
     <td> Automobiles and Adaptive Equipment for Certain Disabled Veterans and Members of the Armed Forces  </td>
 
-    <td> 3901  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3901" data-uslm-ref="/us/usc/t38/s3901">3901</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 41.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2FptIII%2Fch41" data-uslm-ref="/us/usc/t38/ptIII/ch41">41.</a>  </td>
 
     <td> Job Counseling, Training, and Placement Service for Veterans  </td>
 
-    <td> 4100  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4100" data-uslm-ref="/us/usc/t38/s4100">4100</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 42.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2FptIII%2Fch42" data-uslm-ref="/us/usc/t38/ptIII/ch42">42.</a>  </td>
 
     <td> Employment and Training of Veterans  </td>
 
-    <td> 4211  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4211" data-uslm-ref="/us/usc/t38/s4211">4211</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 43.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2FptIII%2Fch43" data-uslm-ref="/us/usc/t38/ptIII/ch43">43.</a>  </td>
 
     <td> Employment and Reemployment Rights of Members of the Uniformed Services  </td>
 
-    <td> 4301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4301" data-uslm-ref="/us/usc/t38/s4301">4301</a>  </td>
 
   </tr>
 

@@ -33,7 +33,7 @@ SUBCHAPTER I—PURPOSE—DEFINITIONS  </td>
 
   <tr>
 
-    <td> 3451.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3451" data-uslm-ref="/us/usc/t38/s3451">3451.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—PURPOSE—DEFINITIONS  </td>
 
   <tr>
 
-    <td> 3452.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3452" data-uslm-ref="/us/usc/t38/s3452">3452.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER II—ELIGIBILITY AND ENTITLEMENT  </td>
 
   <tr>
 
-    <td> 3461.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3461" data-uslm-ref="/us/usc/t38/s3461">3461.</a>  </td>
 
     <td> Eligibility; entitlement; duration.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER II—ELIGIBILITY AND ENTITLEMENT  </td>
 
   <tr>
 
-    <td> 3462.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3462" data-uslm-ref="/us/usc/t38/s3462">3462.</a>  </td>
 
     <td> Time limitations for completing a program of education.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER III—ENROLLMENT  </td>
 
   <tr>
 
-    <td> 3470.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3470" data-uslm-ref="/us/usc/t38/s3470">3470.</a>  </td>
 
     <td> Selection of program.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER III—ENROLLMENT  </td>
 
   <tr>
 
-    <td> 3471.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3471" data-uslm-ref="/us/usc/t38/s3471">3471.</a>  </td>
 
     <td> Applications; approval.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER III—ENROLLMENT  </td>
 
   <tr>
 
-    <td> [3473.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3473" data-uslm-ref="/us/usc/t38/s3473">3473.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER III—ENROLLMENT  </td>
 
   <tr>
 
-    <td> 3474.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3474" data-uslm-ref="/us/usc/t38/s3474">3474.</a>  </td>
 
     <td> Discontinuance for unsatisfactory conduct or progress.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER III—ENROLLMENT  </td>
 
   <tr>
 
-    <td> 3476.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3476" data-uslm-ref="/us/usc/t38/s3476">3476.</a>  </td>
 
     <td> Education outside the United States.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER IV—PAYMENTS TO ELIGIBLE VETERANS; VETERAN-STUDENT SERVICES  </td>
 
   <tr>
 
-    <td> 3481.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3481" data-uslm-ref="/us/usc/t38/s3481">3481.</a>  </td>
 
     <td> Educational assistance allowance.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER IV—PAYMENTS TO ELIGIBLE VETERANS; VETERAN-STUDENT SERVICES  </td>
 
   <tr>
 
-    <td> 3482.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3482" data-uslm-ref="/us/usc/t38/s3482">3482.</a>  </td>
 
     <td> Computation of educational assistance allowances.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER IV—PAYMENTS TO ELIGIBLE VETERANS; VETERAN-STUDENT SERVICES  </td>
 
   <tr>
 
-    <td> 3483.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3483" data-uslm-ref="/us/usc/t38/s3483">3483.</a>  </td>
 
     <td> Approval of courses.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER IV—PAYMENTS TO ELIGIBLE VETERANS; VETERAN-STUDENT SERVICES  </td>
 
   <tr>
 
-    <td> 3484.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3484" data-uslm-ref="/us/usc/t38/s3484">3484.</a>  </td>
 
     <td> Apprenticeship or other on-job training; correspondence courses.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER IV—PAYMENTS TO ELIGIBLE VETERANS; VETERAN-STUDENT SERVICES  </td>
 
   <tr>
 
-    <td> 3485.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3485" data-uslm-ref="/us/usc/t38/s3485">3485.</a>  </td>
 
     <td> Work-study allowance.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER V—SPECIAL ASSISTANCE FOR THE EDUCATIONALLY DISADVANTAGED  </td>
 
   <tr>
 
-    <td> 3490.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3490" data-uslm-ref="/us/usc/t38/s3490">3490.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER V—SPECIAL ASSISTANCE FOR THE EDUCATIONALLY DISADVANTAGED  </td>
 
   <tr>
 
-    <td> 3491.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3491" data-uslm-ref="/us/usc/t38/s3491">3491.</a>  </td>
 
     <td> Elementary and secondary education and preparatory educational assistance.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER V—SPECIAL ASSISTANCE FOR THE EDUCATIONALLY DISADVANTAGED  </td>
 
   <tr>
 
-    <td> 3492.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3492" data-uslm-ref="/us/usc/t38/s3492">3492.</a>  </td>
 
     <td> Tutorial assistance.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER V—SPECIAL ASSISTANCE FOR THE EDUCATIONALLY DISADVANTAGED  </td>
 
   <tr>
 
-    <td> 3493.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3493" data-uslm-ref="/us/usc/t38/s3493">3493.</a>  </td>
 
     <td> Effect on educational entitlement.  </td>
 

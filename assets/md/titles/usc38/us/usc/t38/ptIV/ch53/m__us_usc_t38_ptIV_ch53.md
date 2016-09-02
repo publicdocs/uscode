@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5301" data-uslm-ref="/us/usc/t38/s5301">5301.</a>  </td>
 
     <td> Nonassignability and exempt status of benefits.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5302" data-uslm-ref="/us/usc/t38/s5302">5302.</a>  </td>
 
     <td> Waiver of recovery of claims by the United States.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5302A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5302A" data-uslm-ref="/us/usc/t38/s5302A">5302A.</a>  </td>
 
     <td> Collection of indebtedness: certain debts of members of the Armed Forces and veterans who die of injury incurred or aggravated in the line of duty in a combat zone.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5303" data-uslm-ref="/us/usc/t38/s5303">5303.</a>  </td>
 
     <td> Certain bars to benefits.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5303A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5303A" data-uslm-ref="/us/usc/t38/s5303A">5303A.</a>  </td>
 
     <td> Minimum active-duty service requirement.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 5304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5304" data-uslm-ref="/us/usc/t38/s5304">5304.</a>  </td>
 
     <td> Prohibition against duplication of benefits.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 5305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5305" data-uslm-ref="/us/usc/t38/s5305">5305.</a>  </td>
 
     <td> Waiver of retired pay.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 5306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5306" data-uslm-ref="/us/usc/t38/s5306">5306.</a>  </td>
 
     <td> Renouncement of right to benefits.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 5307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5307" data-uslm-ref="/us/usc/t38/s5307">5307.</a>  </td>
 
     <td> Apportionment of benefits.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 5308.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5308" data-uslm-ref="/us/usc/t38/s5308">5308.</a>  </td>
 
     <td> Withholding benefits of persons in territory of the enemy.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 5309.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5309" data-uslm-ref="/us/usc/t38/s5309">5309.</a>  </td>
 
     <td> Payment of certain withheld benefits.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 5310.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5310" data-uslm-ref="/us/usc/t38/s5310">5310.</a>  </td>
 
     <td> Payment of benefits for month of death.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 5311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5311" data-uslm-ref="/us/usc/t38/s5311">5311.</a>  </td>
 
     <td> Prohibition of certain benefit payments.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 5312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5312" data-uslm-ref="/us/usc/t38/s5312">5312.</a>  </td>
 
     <td> Annual adjustment of certain benefit rates.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 5313.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5313" data-uslm-ref="/us/usc/t38/s5313">5313.</a>  </td>
 
     <td> Limitation on payment of compensation and dependency and indemnity compensation to persons incarcerated for conviction of a felony.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 5313A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5313A" data-uslm-ref="/us/usc/t38/s5313A">5313A.</a>  </td>
 
     <td> Limitation on payment of clothing allowance to incarcerated veterans.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 5313B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5313B" data-uslm-ref="/us/usc/t38/s5313B">5313B.</a>  </td>
 
     <td> Prohibition on providing certain benefits with respect to persons who are fugitive felons.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 5314.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5314" data-uslm-ref="/us/usc/t38/s5314">5314.</a>  </td>
 
     <td> Indebtedness offsets.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 5315.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5315" data-uslm-ref="/us/usc/t38/s5315">5315.</a>  </td>
 
     <td> Interest and administrative cost charges on delinquent payments of certain amounts due the United States.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 5316.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5316" data-uslm-ref="/us/usc/t38/s5316">5316.</a>  </td>
 
     <td> Authority to sue to collect certain debts.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 5317.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5317" data-uslm-ref="/us/usc/t38/s5317">5317.</a>  </td>
 
     <td> Use of income information from other agencies: notice and verification.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 5317A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5317A" data-uslm-ref="/us/usc/t38/s5317A">5317A.</a>  </td>
 
     <td> Use of income information from other agencies: independent verification required before termination or reduction of certain benefits and services.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 5318.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5318" data-uslm-ref="/us/usc/t38/s5318">5318.</a>  </td>
 
     <td> Review of Social Security Administration death information.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 5319.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5319" data-uslm-ref="/us/usc/t38/s5319">5319.</a>  </td>
 
     <td> Limitations on access to financial records.  </td>
 

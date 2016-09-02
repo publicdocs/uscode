@@ -33,7 +33,7 @@ SUBCHAPTER I—CLAIMS  </td>
 
   <tr>
 
-    <td> 5100.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5100" data-uslm-ref="/us/usc/t38/s5100">5100.</a>  </td>
 
     <td> Definition of “claimant”.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—CLAIMS  </td>
 
   <tr>
 
-    <td> 5101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5101" data-uslm-ref="/us/usc/t38/s5101">5101.</a>  </td>
 
     <td> Claims and forms.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—CLAIMS  </td>
 
   <tr>
 
-    <td> 5102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5102" data-uslm-ref="/us/usc/t38/s5102">5102.</a>  </td>
 
     <td> Application forms furnished upon request; notice to claimants of incomplete applications.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—CLAIMS  </td>
 
   <tr>
 
-    <td> 5103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5103" data-uslm-ref="/us/usc/t38/s5103">5103.</a>  </td>
 
     <td> Notice to claimants of required information and evidence.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—CLAIMS  </td>
 
   <tr>
 
-    <td> 5103A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5103A" data-uslm-ref="/us/usc/t38/s5103A">5103A.</a>  </td>
 
     <td> Duty to assist claimants.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—CLAIMS  </td>
 
   <tr>
 
-    <td> 5104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5104" data-uslm-ref="/us/usc/t38/s5104">5104.</a>  </td>
 
     <td> Decisions and notices of decisions.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—CLAIMS  </td>
 
   <tr>
 
-    <td> 5105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5105" data-uslm-ref="/us/usc/t38/s5105">5105.</a>  </td>
 
     <td> Joint applications for social security and dependency and indemnity compensation.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—CLAIMS  </td>
 
   <tr>
 
-    <td> 5106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5106" data-uslm-ref="/us/usc/t38/s5106">5106.</a>  </td>
 
     <td> Furnishing of information by other agencies.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—CLAIMS  </td>
 
   <tr>
 
-    <td> 5107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5107" data-uslm-ref="/us/usc/t38/s5107">5107.</a>  </td>
 
     <td> Claimant responsibility; benefit of the doubt.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—CLAIMS  </td>
 
   <tr>
 
-    <td> 5108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5108" data-uslm-ref="/us/usc/t38/s5108">5108.</a>  </td>
 
     <td> Reopening disallowed claims.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—CLAIMS  </td>
 
   <tr>
 
-    <td> 5109.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5109" data-uslm-ref="/us/usc/t38/s5109">5109.</a>  </td>
 
     <td> Independent medical opinions.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER I—CLAIMS  </td>
 
   <tr>
 
-    <td> 5109A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5109A" data-uslm-ref="/us/usc/t38/s5109A">5109A.</a>  </td>
 
     <td> Revision of decisions on grounds of clear and unmistakable error.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER I—CLAIMS  </td>
 
   <tr>
 
-    <td> 5109B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5109B" data-uslm-ref="/us/usc/t38/s5109B">5109B.</a>  </td>
 
     <td> Expedited treatment of remanded claims.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—EFFECTIVE DATES  </td>
 
   <tr>
 
-    <td> 5110.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5110" data-uslm-ref="/us/usc/t38/s5110">5110.</a>  </td>
 
     <td> Effective dates of awards.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—EFFECTIVE DATES  </td>
 
   <tr>
 
-    <td> 5111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5111" data-uslm-ref="/us/usc/t38/s5111">5111.</a>  </td>
 
     <td> Commencement of period of payment.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—EFFECTIVE DATES  </td>
 
   <tr>
 
-    <td> 5112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5112" data-uslm-ref="/us/usc/t38/s5112">5112.</a>  </td>
 
     <td> Effective dates of reductions and discontinuances.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—EFFECTIVE DATES  </td>
 
   <tr>
 
-    <td> 5113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5113" data-uslm-ref="/us/usc/t38/s5113">5113.</a>  </td>
 
     <td> Effective dates of educational benefits.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER III—PAYMENT OF BENEFITS  </td>
 
   <tr>
 
-    <td> 5120.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5120" data-uslm-ref="/us/usc/t38/s5120">5120.</a>  </td>
 
     <td> Payment of benefits; delivery.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER III—PAYMENT OF BENEFITS  </td>
 
   <tr>
 
-    <td> 5121.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5121" data-uslm-ref="/us/usc/t38/s5121">5121.</a>  </td>
 
     <td> Payment of certain accrued benefits upon death of a beneficiary.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER III—PAYMENT OF BENEFITS  </td>
 
   <tr>
 
-    <td> 5121A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5121A" data-uslm-ref="/us/usc/t38/s5121A">5121A.</a>  </td>
 
     <td> Substitution in case of death of claimant.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER III—PAYMENT OF BENEFITS  </td>
 
   <tr>
 
-    <td> 5122.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5122" data-uslm-ref="/us/usc/t38/s5122">5122.</a>  </td>
 
     <td> Cancellation of checks mailed to deceased payees.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER III—PAYMENT OF BENEFITS  </td>
 
   <tr>
 
-    <td> 5123.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5123" data-uslm-ref="/us/usc/t38/s5123">5123.</a>  </td>
 
     <td> Rounding down of pension rates.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER III—PAYMENT OF BENEFITS  </td>
 
   <tr>
 
-    <td> 5124.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5124" data-uslm-ref="/us/usc/t38/s5124">5124.</a>  </td>
 
     <td> Acceptance of claimant’s statement as proof of relationship.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER III—PAYMENT OF BENEFITS  </td>
 
   <tr>
 
-    <td> 5125.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5125" data-uslm-ref="/us/usc/t38/s5125">5125.</a>  </td>
 
     <td> Acceptance of reports of private physician examinations.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER III—PAYMENT OF BENEFITS  </td>
 
   <tr>
 
-    <td> 5126.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5126" data-uslm-ref="/us/usc/t38/s5126">5126.</a>  </td>
 
     <td> Benefits not to be denied based on lack of mailing address.  </td>
 

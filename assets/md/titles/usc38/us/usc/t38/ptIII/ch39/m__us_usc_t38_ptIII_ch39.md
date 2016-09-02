@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3901" data-uslm-ref="/us/usc/t38/s3901">3901.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3902" data-uslm-ref="/us/usc/t38/s3902">3902.</a>  </td>
 
     <td> Assistance for providing automobile and adaptive equipment.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3903" data-uslm-ref="/us/usc/t38/s3903">3903.</a>  </td>
 
     <td> Limitations on assistance; special training courses.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3904.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3904" data-uslm-ref="/us/usc/t38/s3904">3904.</a>  </td>
 
     <td> Research and development.  </td>
 

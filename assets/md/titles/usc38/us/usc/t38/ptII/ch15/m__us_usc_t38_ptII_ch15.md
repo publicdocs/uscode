@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1501" data-uslm-ref="/us/usc/t38/s1501">1501.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1502" data-uslm-ref="/us/usc/t38/s1502">1502.</a>  </td>
 
     <td> Determinations with respect to disability.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1503" data-uslm-ref="/us/usc/t38/s1503">1503.</a>  </td>
 
     <td> Determinations with respect to annual income.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1504" data-uslm-ref="/us/usc/t38/s1504">1504.</a>  </td>
 
     <td> Persons heretofore having a pensionable status.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1505" data-uslm-ref="/us/usc/t38/s1505">1505.</a>  </td>
 
     <td> Payment of pension during confinement in penal institutions.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1506" data-uslm-ref="/us/usc/t38/s1506">1506.</a>  </td>
 
     <td> Resource reports and overpayment adjustments.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1507" data-uslm-ref="/us/usc/t38/s1507">1507.</a>  </td>
 
     <td> Disappearance.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1508" data-uslm-ref="/us/usc/t38/s1508">1508.</a>  </td>
 
     <td> Frequency of payment of pension benefits.  </td>
 
@@ -113,7 +113,7 @@ Service Pension  </td>
 
   <tr>
 
-    <td> 1511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1511" data-uslm-ref="/us/usc/t38/s1511">1511.</a>  </td>
 
     <td> Indian War veterans.  </td>
 
@@ -121,7 +121,7 @@ Service Pension  </td>
 
   <tr>
 
-    <td> 1512.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1512" data-uslm-ref="/us/usc/t38/s1512">1512.</a>  </td>
 
     <td> Spanish-American War veterans.  </td>
 
@@ -129,7 +129,7 @@ Service Pension  </td>
 
   <tr>
 
-    <td> 1513.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1513" data-uslm-ref="/us/usc/t38/s1513">1513.</a>  </td>
 
     <td> Veterans 65 years of age and older.  </td>
 
@@ -145,7 +145,7 @@ Non-Service-Connected Disability Pension  </td>
 
   <tr>
 
-    <td> 1521.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1521" data-uslm-ref="/us/usc/t38/s1521">1521.</a>  </td>
 
     <td> Veterans of a period of war.  </td>
 
@@ -153,7 +153,7 @@ Non-Service-Connected Disability Pension  </td>
 
   <tr>
 
-    <td> 1522.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1522" data-uslm-ref="/us/usc/t38/s1522">1522.</a>  </td>
 
     <td> Net worth limitation.  </td>
 
@@ -161,7 +161,7 @@ Non-Service-Connected Disability Pension  </td>
 
   <tr>
 
-    <td> 1523.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1523" data-uslm-ref="/us/usc/t38/s1523">1523.</a>  </td>
 
     <td> Combination of ratings.  </td>
 
@@ -169,7 +169,7 @@ Non-Service-Connected Disability Pension  </td>
 
   <tr>
 
-    <td> 1524.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1524" data-uslm-ref="/us/usc/t38/s1524">1524.</a>  </td>
 
     <td> Vocational training for certain pension recipients.  </td>
 
@@ -177,7 +177,7 @@ Non-Service-Connected Disability Pension  </td>
 
   <tr>
 
-    <td> 1525.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1525" data-uslm-ref="/us/usc/t38/s1525">1525.</a>  </td>
 
     <td> Protection of health-care eligibility.  </td>
 
@@ -201,7 +201,7 @@ Wars Before World War I  </td>
 
   <tr>
 
-    <td> 1532.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1532" data-uslm-ref="/us/usc/t38/s1532">1532.</a>  </td>
 
     <td> Surviving spouses of Civil War veterans.  </td>
 
@@ -209,7 +209,7 @@ Wars Before World War I  </td>
 
   <tr>
 
-    <td> 1533.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1533" data-uslm-ref="/us/usc/t38/s1533">1533.</a>  </td>
 
     <td> Children of Civil War veterans.  </td>
 
@@ -217,7 +217,7 @@ Wars Before World War I  </td>
 
   <tr>
 
-    <td> 1534.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1534" data-uslm-ref="/us/usc/t38/s1534">1534.</a>  </td>
 
     <td> Surviving spouses of Indian War veterans.  </td>
 
@@ -225,7 +225,7 @@ Wars Before World War I  </td>
 
   <tr>
 
-    <td> 1535.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1535" data-uslm-ref="/us/usc/t38/s1535">1535.</a>  </td>
 
     <td> Children of Indian War veterans.  </td>
 
@@ -233,7 +233,7 @@ Wars Before World War I  </td>
 
   <tr>
 
-    <td> 1536.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1536" data-uslm-ref="/us/usc/t38/s1536">1536.</a>  </td>
 
     <td> Surviving spouses of Spanish-American War veterans.  </td>
 
@@ -241,7 +241,7 @@ Wars Before World War I  </td>
 
   <tr>
 
-    <td> 1537.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1537" data-uslm-ref="/us/usc/t38/s1537">1537.</a>  </td>
 
     <td> Children of Spanish-American War veterans.  </td>
 
@@ -257,7 +257,7 @@ Other Periods of War  </td>
 
   <tr>
 
-    <td> 1541.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1541" data-uslm-ref="/us/usc/t38/s1541">1541.</a>  </td>
 
     <td> Surviving spouses of veterans of a period of war.  </td>
 
@@ -265,7 +265,7 @@ Other Periods of War  </td>
 
   <tr>
 
-    <td> 1542.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1542" data-uslm-ref="/us/usc/t38/s1542">1542.</a>  </td>
 
     <td> Children of veterans of a period of war.  </td>
 
@@ -273,7 +273,7 @@ Other Periods of War  </td>
 
   <tr>
 
-    <td> 1543.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1543" data-uslm-ref="/us/usc/t38/s1543">1543.</a>  </td>
 
     <td> Net worth limitation.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER IV—ARMY, NAVY, AIR FORCE, AND COAST GUARD MEDAL OF HONOR ROLL  </td
 
   <tr>
 
-    <td> 1560.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1560" data-uslm-ref="/us/usc/t38/s1560">1560.</a>  </td>
 
     <td> Medal of Honor Roll; persons eligible.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER IV—ARMY, NAVY, AIR FORCE, AND COAST GUARD MEDAL OF HONOR ROLL  </td
 
   <tr>
 
-    <td> 1561.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1561" data-uslm-ref="/us/usc/t38/s1561">1561.</a>  </td>
 
     <td> Certificate.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER IV—ARMY, NAVY, AIR FORCE, AND COAST GUARD MEDAL OF HONOR ROLL  </td
 
   <tr>
 
-    <td> 1562.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1562" data-uslm-ref="/us/usc/t38/s1562">1562.</a>  </td>
 
     <td> Special provisions relating to pension.  </td>
 

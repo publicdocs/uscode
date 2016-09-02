@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1301" data-uslm-ref="/us/usc/t38/s1301">1301.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1302" data-uslm-ref="/us/usc/t38/s1302">1302.</a>  </td>
 
     <td> Determination of pay grade.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1303" data-uslm-ref="/us/usc/t38/s1303">1303.</a>  </td>
 
     <td> Cost-of-living adjustments.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1304" data-uslm-ref="/us/usc/t38/s1304">1304.</a>  </td>
 
     <td> Special provisions relating to surviving spouses.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—DEPENDENCY AND INDEMNITY COMPENSATION  </td>
 
   <tr>
 
-    <td> 1310.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1310" data-uslm-ref="/us/usc/t38/s1310">1310.</a>  </td>
 
     <td> Deaths entitling survivors to dependency and indemnity compensation.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—DEPENDENCY AND INDEMNITY COMPENSATION  </td>
 
   <tr>
 
-    <td> 1311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1311" data-uslm-ref="/us/usc/t38/s1311">1311.</a>  </td>
 
     <td> Dependency and indemnity compensation to a surviving spouse.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—DEPENDENCY AND INDEMNITY COMPENSATION  </td>
 
   <tr>
 
-    <td> 1312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1312" data-uslm-ref="/us/usc/t38/s1312">1312.</a>  </td>
 
     <td> Benefits in certain cases of in-service or service-connected deaths.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—DEPENDENCY AND INDEMNITY COMPENSATION  </td>
 
   <tr>
 
-    <td> 1313.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1313" data-uslm-ref="/us/usc/t38/s1313">1313.</a>  </td>
 
     <td> Dependency and indemnity compensation to children.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—DEPENDENCY AND INDEMNITY COMPENSATION  </td>
 
   <tr>
 
-    <td> 1314.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1314" data-uslm-ref="/us/usc/t38/s1314">1314.</a>  </td>
 
     <td> Supplemental dependency and indemnity compensation to children.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—DEPENDENCY AND INDEMNITY COMPENSATION  </td>
 
   <tr>
 
-    <td> 1315.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1315" data-uslm-ref="/us/usc/t38/s1315">1315.</a>  </td>
 
     <td> Dependency and indemnity compensation to parents.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—DEPENDENCY AND INDEMNITY COMPENSATION  </td>
 
   <tr>
 
-    <td> 1316.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1316" data-uslm-ref="/us/usc/t38/s1316">1316.</a>  </td>
 
     <td> Dependency and indemnity compensation in cases of prior deaths.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—DEPENDENCY AND INDEMNITY COMPENSATION  </td>
 
   <tr>
 
-    <td> 1317.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1317" data-uslm-ref="/us/usc/t38/s1317">1317.</a>  </td>
 
     <td> Restriction on payments under this chapter.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—DEPENDENCY AND INDEMNITY COMPENSATION  </td>
 
   <tr>
 
-    <td> 1318.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1318" data-uslm-ref="/us/usc/t38/s1318">1318.</a>  </td>
 
     <td> Benefits for survivors of certain veterans rated totally disabled at time of death.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER III—CERTIFICATIONS  </td>
 
   <tr>
 
-    <td> 1321.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1321" data-uslm-ref="/us/usc/t38/s1321">1321.</a>  </td>
 
     <td> Certifications with respect to pay grade.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER III—CERTIFICATIONS  </td>
 
   <tr>
 
-    <td> 1322.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1322" data-uslm-ref="/us/usc/t38/s1322">1322.</a>  </td>
 
     <td> Certifications with respect to social security entitlement.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER III—CERTIFICATIONS  </td>
 
   <tr>
 
-    <td> 1323.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1323" data-uslm-ref="/us/usc/t38/s1323">1323.</a>  </td>
 
     <td> Certifications with respect to circumstances of death.  </td>
 

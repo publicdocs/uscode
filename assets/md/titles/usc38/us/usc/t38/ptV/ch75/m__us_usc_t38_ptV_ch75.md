@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7501" data-uslm-ref="/us/usc/t38/s7501">7501.</a>  </td>
 
     <td> Establishment of scholarship program; purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7502" data-uslm-ref="/us/usc/t38/s7502">7502.</a>  </td>
 
     <td> Application and acceptance.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7503" data-uslm-ref="/us/usc/t38/s7503">7503.</a>  </td>
 
     <td> Amount of assistance; duration.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 7504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7504" data-uslm-ref="/us/usc/t38/s7504">7504.</a>  </td>
 
     <td> Agreement.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 7505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7505" data-uslm-ref="/us/usc/t38/s7505">7505.</a>  </td>
 
     <td> Repayment for failure to satisfy requirements of agreement.  </td>
 

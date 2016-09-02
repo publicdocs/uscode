@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4211.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4211" data-uslm-ref="/us/usc/t38/s4211">4211.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4212.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4212" data-uslm-ref="/us/usc/t38/s4212">4212.</a>  </td>
 
     <td> Veterans’ employment emphasis under Federal contracts.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4213.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4213" data-uslm-ref="/us/usc/t38/s4213">4213.</a>  </td>
 
     <td> Eligibility requirements for veterans under Federal employment and training programs.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4214.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4214" data-uslm-ref="/us/usc/t38/s4214">4214.</a>  </td>
 
     <td> Employment within the Federal Government.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 4215.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4215" data-uslm-ref="/us/usc/t38/s4215">4215.</a>  </td>
 
     <td> Priority of service for veterans in Department of Labor job training programs.  </td>
 

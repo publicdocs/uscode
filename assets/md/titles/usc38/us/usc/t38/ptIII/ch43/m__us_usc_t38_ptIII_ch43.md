@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 4301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4301" data-uslm-ref="/us/usc/t38/s4301">4301.</a>  </td>
 
     <td> Purposes; sense of Congress.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 4302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4302" data-uslm-ref="/us/usc/t38/s4302">4302.</a>  </td>
 
     <td> Relation to other law and plans or agreements.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 4303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4303" data-uslm-ref="/us/usc/t38/s4303">4303.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 4304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4304" data-uslm-ref="/us/usc/t38/s4304">4304.</a>  </td>
 
     <td> Character of service.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—EMPLOYMENT AND REEMPLOYMENT RIGHTS AND LIMITATIONS; PROHIBITIONS
 
   <tr>
 
-    <td> 4311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4311" data-uslm-ref="/us/usc/t38/s4311">4311.</a>  </td>
 
     <td> Discrimination against persons who serve in the uniformed services and acts of reprisal prohibited.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—EMPLOYMENT AND REEMPLOYMENT RIGHTS AND LIMITATIONS; PROHIBITIONS
 
   <tr>
 
-    <td> 4312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4312" data-uslm-ref="/us/usc/t38/s4312">4312.</a>  </td>
 
     <td> Reemployment rights of persons who serve in the uniformed services.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—EMPLOYMENT AND REEMPLOYMENT RIGHTS AND LIMITATIONS; PROHIBITIONS
 
   <tr>
 
-    <td> 4313.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4313" data-uslm-ref="/us/usc/t38/s4313">4313.</a>  </td>
 
     <td> Reemployment positions.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—EMPLOYMENT AND REEMPLOYMENT RIGHTS AND LIMITATIONS; PROHIBITIONS
 
   <tr>
 
-    <td> 4314.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4314" data-uslm-ref="/us/usc/t38/s4314">4314.</a>  </td>
 
     <td> Reemployment by the Federal Government.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—EMPLOYMENT AND REEMPLOYMENT RIGHTS AND LIMITATIONS; PROHIBITIONS
 
   <tr>
 
-    <td> 4315.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4315" data-uslm-ref="/us/usc/t38/s4315">4315.</a>  </td>
 
     <td> Reemployment by certain Federal agencies.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—EMPLOYMENT AND REEMPLOYMENT RIGHTS AND LIMITATIONS; PROHIBITIONS
 
   <tr>
 
-    <td> 4316.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4316" data-uslm-ref="/us/usc/t38/s4316">4316.</a>  </td>
 
     <td> Rights, benefits, and obligations of persons absent from employment for service in a uniformed service.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—EMPLOYMENT AND REEMPLOYMENT RIGHTS AND LIMITATIONS; PROHIBITIONS
 
   <tr>
 
-    <td> 4317.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4317" data-uslm-ref="/us/usc/t38/s4317">4317.</a>  </td>
 
     <td> Health plans.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—EMPLOYMENT AND REEMPLOYMENT RIGHTS AND LIMITATIONS; PROHIBITIONS
 
   <tr>
 
-    <td> 4318.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4318" data-uslm-ref="/us/usc/t38/s4318">4318.</a>  </td>
 
     <td> Employee pension benefit plans.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—EMPLOYMENT AND REEMPLOYMENT RIGHTS AND LIMITATIONS; PROHIBITIONS
 
   <tr>
 
-    <td> 4319.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4319" data-uslm-ref="/us/usc/t38/s4319">4319.</a>  </td>
 
     <td> Employment and reemployment rights in foreign countries.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER III—PROCEDURES FOR ASSISTANCE, ENFORCEMENT, AND INVESTIGATION  </td
 
   <tr>
 
-    <td> 4321.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4321" data-uslm-ref="/us/usc/t38/s4321">4321.</a>  </td>
 
     <td> Assistance in obtaining reemployment or other employment rights or benefits.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER III—PROCEDURES FOR ASSISTANCE, ENFORCEMENT, AND INVESTIGATION  </td
 
   <tr>
 
-    <td> 4322.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4322" data-uslm-ref="/us/usc/t38/s4322">4322.</a>  </td>
 
     <td> Enforcement of employment or reemployment rights.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER III—PROCEDURES FOR ASSISTANCE, ENFORCEMENT, AND INVESTIGATION  </td
 
   <tr>
 
-    <td> 4323.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4323" data-uslm-ref="/us/usc/t38/s4323">4323.</a>  </td>
 
     <td> Enforcement of rights with respect to a State or private employer.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER III—PROCEDURES FOR ASSISTANCE, ENFORCEMENT, AND INVESTIGATION  </td
 
   <tr>
 
-    <td> 4324.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4324" data-uslm-ref="/us/usc/t38/s4324">4324.</a>  </td>
 
     <td> Enforcement of rights with respect to Federal executive agencies.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER III—PROCEDURES FOR ASSISTANCE, ENFORCEMENT, AND INVESTIGATION  </td
 
   <tr>
 
-    <td> 4325.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4325" data-uslm-ref="/us/usc/t38/s4325">4325.</a>  </td>
 
     <td> Enforcement of rights with respect to certain Federal agencies.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER III—PROCEDURES FOR ASSISTANCE, ENFORCEMENT, AND INVESTIGATION  </td
 
   <tr>
 
-    <td> 4326.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4326" data-uslm-ref="/us/usc/t38/s4326">4326.</a>  </td>
 
     <td> Conduct of investigation; subpoenas.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER III—PROCEDURES FOR ASSISTANCE, ENFORCEMENT, AND INVESTIGATION  </td
 
   <tr>
 
-    <td> 4327.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4327" data-uslm-ref="/us/usc/t38/s4327">4327.</a>  </td>
 
     <td> Noncompliance of Federal officials with deadlines; inapplicability of statutes of limitations.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER IV—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 4331.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4331" data-uslm-ref="/us/usc/t38/s4331">4331.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER IV—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 4332.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4332" data-uslm-ref="/us/usc/t38/s4332">4332.</a>  </td>
 
     <td> Reports.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER IV—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 4333.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4333" data-uslm-ref="/us/usc/t38/s4333">4333.</a>  </td>
 
     <td> Outreach.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER IV—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 4334.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4334" data-uslm-ref="/us/usc/t38/s4334">4334.</a>  </td>
 
     <td> Notice of rights and duties.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER IV—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 4335.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs4335" data-uslm-ref="/us/usc/t38/s4335">4335.</a>  </td>
 
     <td> Training for Federal executive agency human resources personnel on employment and reemployment rights and limitations.  </td>
 

@@ -29,101 +29,101 @@
 
   <tr>
 
-    <td> 11.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2FptII%2Fch11" data-uslm-ref="/us/usc/t38/ptII/ch11">11.</a>  </td>
 
     <td> Compensation for Service-Connected Disability or Death  </td>
 
-    <td> 1101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1101" data-uslm-ref="/us/usc/t38/s1101">1101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 13.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2FptII%2Fch13" data-uslm-ref="/us/usc/t38/ptII/ch13">13.</a>  </td>
 
     <td> Dependency and Indemnity Compensation for Service-Connected Deaths  </td>
 
-    <td> 1301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1301" data-uslm-ref="/us/usc/t38/s1301">1301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 15.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2FptII%2Fch15" data-uslm-ref="/us/usc/t38/ptII/ch15">15.</a>  </td>
 
     <td> Pension for Non-Service-Connected Disability or Death or for Service  </td>
 
-    <td> 1501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1501" data-uslm-ref="/us/usc/t38/s1501">1501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 17.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2FptII%2Fch17" data-uslm-ref="/us/usc/t38/ptII/ch17">17.</a>  </td>
 
     <td> Hospital, Nursing Home, Domiciliary, and Medical Care  </td>
 
-    <td> 1701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1701" data-uslm-ref="/us/usc/t38/s1701">1701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 18.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2FptII%2Fch18" data-uslm-ref="/us/usc/t38/ptII/ch18">18.</a>  </td>
 
     <td> Benefits for Children of Vietnam Veterans and Certain Other Veterans  </td>
 
-    <td> 1802  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1802" data-uslm-ref="/us/usc/t38/s1802">1802</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 19.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2FptII%2Fch19" data-uslm-ref="/us/usc/t38/ptII/ch19">19.</a>  </td>
 
     <td> Insurance  </td>
 
-    <td> 1901  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1901" data-uslm-ref="/us/usc/t38/s1901">1901</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 20.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2FptII%2Fch20" data-uslm-ref="/us/usc/t38/ptII/ch20">20.</a>  </td>
 
     <td> Benefits for Homeless Veterans  </td>
 
-    <td> 2001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2001" data-uslm-ref="/us/usc/t38/s2001">2001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 21.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2FptII%2Fch21" data-uslm-ref="/us/usc/t38/ptII/ch21">21.</a>  </td>
 
     <td> Specially Adapted Housing for Disabled Veterans  </td>
 
-    <td> 2101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2101" data-uslm-ref="/us/usc/t38/s2101">2101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 23.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2FptII%2Fch23" data-uslm-ref="/us/usc/t38/ptII/ch23">23.</a>  </td>
 
     <td> Burial Benefits  </td>
 
-    <td> 2301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2301" data-uslm-ref="/us/usc/t38/s2301">2301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 24.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2FptII%2Fch24" data-uslm-ref="/us/usc/t38/ptII/ch24">24.</a>  </td>
 
     <td> National Cemeteries and Memorials  </td>
 
-    <td> 2400  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2400" data-uslm-ref="/us/usc/t38/s2400">2400</a>  </td>
 
   </tr>
 

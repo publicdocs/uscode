@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 8201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8201" data-uslm-ref="/us/usc/t38/s8201">8201.</a>  </td>
 
     <td> Coordination with public health programs; administration.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—PILOT PROGRAM FOR ASSISTANCE IN THE ESTABLISHMENT OF NEW STATE ME
 
   <tr>
 
-    <td> 8211.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8211" data-uslm-ref="/us/usc/t38/s8211">8211.</a>  </td>
 
     <td> Declaration of purpose.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—PILOT PROGRAM FOR ASSISTANCE IN THE ESTABLISHMENT OF NEW STATE ME
 
   <tr>
 
-    <td> 8212.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8212" data-uslm-ref="/us/usc/t38/s8212">8212.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—PILOT PROGRAM FOR ASSISTANCE IN THE ESTABLISHMENT OF NEW STATE ME
 
   <tr>
 
-    <td> 8213.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8213" data-uslm-ref="/us/usc/t38/s8213">8213.</a>  </td>
 
     <td> Pilot program assistance.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—PILOT PROGRAM FOR ASSISTANCE IN THE ESTABLISHMENT OF NEW STATE ME
 
   <tr>
 
-    <td> 8214.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8214" data-uslm-ref="/us/usc/t38/s8214">8214.</a>  </td>
 
     <td> Limitations.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—GRANTS TO AFFILIATED MEDICAL SCHOOLS  </td>
 
   <tr>
 
-    <td> 8221.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8221" data-uslm-ref="/us/usc/t38/s8221">8221.</a>  </td>
 
     <td> Declaration of purpose.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—GRANTS TO AFFILIATED MEDICAL SCHOOLS  </td>
 
   <tr>
 
-    <td> 8222.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8222" data-uslm-ref="/us/usc/t38/s8222">8222.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—GRANTS TO AFFILIATED MEDICAL SCHOOLS  </td>
 
   <tr>
 
-    <td> 8223.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8223" data-uslm-ref="/us/usc/t38/s8223">8223.</a>  </td>
 
     <td> Grants.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER III—ASSISTANCE TO PUBLIC AND NONPROFIT INSTITUTIONS OF HIGHER LEARN
 
   <tr>
 
-    <td> 8231.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8231" data-uslm-ref="/us/usc/t38/s8231">8231.</a>  </td>
 
     <td> Declaration of purpose.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER III—ASSISTANCE TO PUBLIC AND NONPROFIT INSTITUTIONS OF HIGHER LEARN
 
   <tr>
 
-    <td> 8232.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8232" data-uslm-ref="/us/usc/t38/s8232">8232.</a>  </td>
 
     <td> Definition.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER III—ASSISTANCE TO PUBLIC AND NONPROFIT INSTITUTIONS OF HIGHER LEARN
 
   <tr>
 
-    <td> 8233.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8233" data-uslm-ref="/us/usc/t38/s8233">8233.</a>  </td>
 
     <td> Grants.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER IV—EXPANSION OF DEPARTMENT HOSPITAL EDUCATION AND TRAINING CAPACITY
 
   <tr>
 
-    <td> 8241.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8241" data-uslm-ref="/us/usc/t38/s8241">8241.</a>  </td>
 
     <td> Expenditures to remodel and make special allocations to Department hospitals for health manpower education and training.  </td>
 

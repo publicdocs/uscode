@@ -23,23 +23,15 @@
 
     (d) A program of independent living services and assistance for a veteran shall consist of such services described in [section 3104(a) of this title][/us/usc/t38/s3104/a] as the Secretary determines necessary to enable such veteran to achieve maximum independence in daily living. Such veteran shall have the same rights with respect to an individualized written plan of services and assistance as are afforded veterans under [section 3107 of this title][/us/usc/t38/s3107].
 
-    (e) Programs of independent living services and assistance shall be initiated for no more than 2,700 veterans in each fiscal year, and the first priority in the provision of such programs shall be afforded to veterans for whom the reasonable feasibility of achieving a vocational goal is precluded solely as a result of a service-connected disability.
+    (e)
+
+        (1) Programs of independent living services and assistance shall be initiated for no more than 2,700 veterans in each fiscal year, and the first priority in the provision of such programs shall be afforded to veterans for whom the reasonable feasibility of achieving a vocational goal is precluded solely as a result of a service-connected disability.
+
+        (2) The limitation in paragraph (1) shall not apply in any case in which the Secretary determines that a veteran described in subsection (b) has been displaced as the result of, or has otherwise been adversely affected in the areas covered by, a natural or other disaster, as determined by the Secretary.
 
     (f) Entities described in this subsection are (1) public or nonprofit agencies or organizations, and (2) for-profit entities in cases in which the Secretary determines that services comparable in effectiveness to services available from such an entity are not available, or cannot be obtained cost-effectively from, public or nonprofit agencies or through facilities of the Veterans Health Administration.
 
 (Added [Pub. L. 96–466, title I, § 101(a)][/us/pl/96/466/s101/a], Oct. 17, 1980, [94 Stat. 2185][/us/stat/94/2185], § 1520; amended [Pub. L. 99–576, title III, § 333(a)][/us/pl/99/576/s333/a], (b)(6), (c), Oct. 28, 1986, [100 Stat. 3279][/us/stat/100/3279]; [Pub. L. 100–689, title II, § 202(b)][/us/pl/100/689/s202/b], Nov. 18, 1988, [102 Stat. 4176][/us/stat/102/4176]; [Pub. L. 101–237, title IV][/us/pl/101/237], §§ 404, 423(b)(1), Dec. 18, 1989, [103 Stat. 2080][/us/stat/103/2080], 2092; renumbered § 3120 and amended [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 103–446, title XII, § 1201(b)(1)][/us/pl/103/446/s1201/b/1], (d)(11), Nov. 2, 1994, [108 Stat. 4682][/us/stat/108/4682], 4684; [Pub. L. 104–275, title I, § 101(f)(2)(D)][/us/pl/104/275/s101/f/2/D], (i), Oct. 9, 1996, [110 Stat. 3325][/us/stat/110/3325]; [Pub. L. 107–103, title V, § 508(a)][/us/pl/107/103/s508/a], Dec. 27, 2001, [115 Stat. 997][/us/stat/115/997]; [Pub. L. 110–389, title III, § 332][/us/pl/110/389/s332], Oct. 10, 2008, [122 Stat. 4170][/us/stat/122/4170]; [Pub. L. 111–275, title VIII, § 801(a)][/us/pl/111/275/s801/a], Oct. 13, 2010, [124 Stat. 2888][/us/stat/124/2888]; [Pub. L. 112–154, title VII, § 701(c)][/us/pl/112/154/s701/c], Aug. 6, 2012, [126 Stat. 1203][/us/stat/126/1203].)
-
- __Amendment of Subsection (e)__ 
-
-[Pub. L. 112–154, title VII, § 701(c)][/us/pl/112/154/s701/c], (g), Aug. 6, 2012, [126 Stat. 1203][/us/stat/126/1203], 1205, provided that, effective on the date that is one year after Aug. 6, 2012, subsection (e) of this section is amended as follows:
-
-(1) by inserting “(1)” before “Programs”; and
-
-(2) by adding at the end the following new paragraph:
-
-    (2) The limitation in paragraph (1) shall not apply in any case in which the Secretary determines that a veteran described in subsection (b) has been displaced as the result of, or has otherwise been adversely affected in the areas covered by, a natural or other disaster, as determined by the Secretary.
-
-See 2012 Amendment note below.
 
  __Amendments__ 
 
@@ -161,8 +153,6 @@ See 2012 Amendment note below.
 [/us/stat/122/4170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4170
 [/us/pl/111/275/s801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs801%2Fa
 [/us/stat/124/2888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2888
-[/us/pl/112/154/s701/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs701%2Fc
-[/us/stat/126/1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1203
 [/us/pl/112/154/s701/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs701%2Fc
 [/us/stat/126/1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1203
 [/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154

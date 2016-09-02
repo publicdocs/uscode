@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs701" data-uslm-ref="/us/usc/t38/s701">701.</a>  </td>
 
     <td> Placement of employees in military installations.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs703" data-uslm-ref="/us/usc/t38/s703">703.</a>  </td>
 
     <td> Miscellaneous authorities respecting employees.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs705" data-uslm-ref="/us/usc/t38/s705">705.</a>  </td>
 
     <td> Telephone service for medical officers and facility directors.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs707" data-uslm-ref="/us/usc/t38/s707">707.</a>  </td>
 
     <td> Benefits for employees at overseas offices who are United States citizens.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 709.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs709" data-uslm-ref="/us/usc/t38/s709">709.</a>  </td>
 
     <td> Employment restrictions.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 711.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs711" data-uslm-ref="/us/usc/t38/s711">711.</a>  </td>
 
     <td> Grade reductions.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> [712.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs712" data-uslm-ref="/us/usc/t38/s712">712.</a>  </td>
 
     <td> Repealed.]  </td>
 

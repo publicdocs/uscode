@@ -33,7 +33,7 @@ SUBCHAPTER I—STATE APPROVING AGENCIES  </td>
 
   <tr>
 
-    <td> 3670.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3670" data-uslm-ref="/us/usc/t38/s3670">3670.</a>  </td>
 
     <td> Scope of approval.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—STATE APPROVING AGENCIES  </td>
 
   <tr>
 
-    <td> 3671.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3671" data-uslm-ref="/us/usc/t38/s3671">3671.</a>  </td>
 
     <td> Designation.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—STATE APPROVING AGENCIES  </td>
 
   <tr>
 
-    <td> 3672.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3672" data-uslm-ref="/us/usc/t38/s3672">3672.</a>  </td>
 
     <td> Approval of courses.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—STATE APPROVING AGENCIES  </td>
 
   <tr>
 
-    <td> 3673.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3673" data-uslm-ref="/us/usc/t38/s3673">3673.</a>  </td>
 
     <td> Approval activities: cooperation and coordination of activities.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—STATE APPROVING AGENCIES  </td>
 
   <tr>
 
-    <td> 3674.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3674" data-uslm-ref="/us/usc/t38/s3674">3674.</a>  </td>
 
     <td> Reimbursement of expenses.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—STATE APPROVING AGENCIES  </td>
 
   <tr>
 
-    <td> 3674A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3674A" data-uslm-ref="/us/usc/t38/s3674A">3674A.</a>  </td>
 
     <td> Evaluations of agency performance; qualifications and performance of agency personnel.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—STATE APPROVING AGENCIES  </td>
 
   <tr>
 
-    <td> 3675.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3675" data-uslm-ref="/us/usc/t38/s3675">3675.</a>  </td>
 
     <td> Approval of accredited courses.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—STATE APPROVING AGENCIES  </td>
 
   <tr>
 
-    <td> 3676.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3676" data-uslm-ref="/us/usc/t38/s3676">3676.</a>  </td>
 
     <td> Approval of nonaccredited courses.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—STATE APPROVING AGENCIES  </td>
 
   <tr>
 
-    <td> 3677.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3677" data-uslm-ref="/us/usc/t38/s3677">3677.</a>  </td>
 
     <td> Approval of training on the job.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—STATE APPROVING AGENCIES  </td>
 
   <tr>
 
-    <td> 3678.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3678" data-uslm-ref="/us/usc/t38/s3678">3678.</a>  </td>
 
     <td> Notice of approval of courses.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—STATE APPROVING AGENCIES  </td>
 
   <tr>
 
-    <td> 3679.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3679" data-uslm-ref="/us/usc/t38/s3679">3679.</a>  </td>
 
     <td> Disapproval of courses.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 3680.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3680" data-uslm-ref="/us/usc/t38/s3680">3680.</a>  </td>
 
     <td> Payment of educational assistance or subsistence allowances.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 3680A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3680A" data-uslm-ref="/us/usc/t38/s3680A">3680A.</a>  </td>
 
     <td> Disapproval of enrollment in certain courses.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 3681.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3681" data-uslm-ref="/us/usc/t38/s3681">3681.</a>  </td>
 
     <td> Limitations on educational assistance.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 3682.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3682" data-uslm-ref="/us/usc/t38/s3682">3682.</a>  </td>
 
     <td> Control by agencies of the United States.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 3683.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3683" data-uslm-ref="/us/usc/t38/s3683">3683.</a>  </td>
 
     <td> Conflicting interests.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 3684.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3684" data-uslm-ref="/us/usc/t38/s3684">3684.</a>  </td>
 
     <td> Reports by veterans, eligible persons, and institutions; reporting fee.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER II—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 3684A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3684A" data-uslm-ref="/us/usc/t38/s3684A">3684A.</a>  </td>
 
     <td> Procedures relating to computer matching program.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER II—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 3685.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3685" data-uslm-ref="/us/usc/t38/s3685">3685.</a>  </td>
 
     <td> Overpayments to eligible persons or veterans.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER II—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 3686.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3686" data-uslm-ref="/us/usc/t38/s3686">3686.</a>  </td>
 
     <td> Correspondence courses.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER II—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 3687.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3687" data-uslm-ref="/us/usc/t38/s3687">3687.</a>  </td>
 
     <td> Apprenticeship or other on-job training.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER II—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 3688.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3688" data-uslm-ref="/us/usc/t38/s3688">3688.</a>  </td>
 
     <td> Measurement of courses.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER II—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 3689.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3689" data-uslm-ref="/us/usc/t38/s3689">3689.</a>  </td>
 
     <td> Approval requirements for licensing and certification testing.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER II—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 3690.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3690" data-uslm-ref="/us/usc/t38/s3690">3690.</a>  </td>
 
     <td> Overcharges by educational institutions; discontinuance of allowances; examination of records; false or misleading statements.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER II—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 3691.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3691" data-uslm-ref="/us/usc/t38/s3691">3691.</a>  </td>
 
     <td> Change of program.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER II—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 3692.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3692" data-uslm-ref="/us/usc/t38/s3692">3692.</a>  </td>
 
     <td> Advisory committee.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER II—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 3693.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3693" data-uslm-ref="/us/usc/t38/s3693">3693.</a>  </td>
 
     <td> Compliance surveys.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER II—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 3694.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3694" data-uslm-ref="/us/usc/t38/s3694">3694.</a>  </td>
 
     <td> Use of other Federal agencies.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER II—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 3695.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3695" data-uslm-ref="/us/usc/t38/s3695">3695.</a>  </td>
 
     <td> Limitation on period of assistance under two or more programs.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER II—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 3696.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3696" data-uslm-ref="/us/usc/t38/s3696">3696.</a>  </td>
 
     <td> Limitation on certain advertising, sales, and enrollment practices.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER II—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 3697.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3697" data-uslm-ref="/us/usc/t38/s3697">3697.</a>  </td>
 
     <td> Funding of contract educational and vocational counseling.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER II—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 3697A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3697A" data-uslm-ref="/us/usc/t38/s3697A">3697A.</a>  </td>
 
     <td> Educational and vocational counseling.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER II—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 3698.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3698" data-uslm-ref="/us/usc/t38/s3698">3698.</a>  </td>
 
     <td> Comprehensive policy on providing education information to veterans.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER II—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> [3699.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3699" data-uslm-ref="/us/usc/t38/s3699">3699.</a>  </td>
 
     <td> Repealed.]  </td>
 

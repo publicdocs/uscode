@@ -33,7 +33,7 @@ SUBCHAPTER I—APPOINTMENTS  </td>
 
   <tr>
 
-    <td> 7401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7401" data-uslm-ref="/us/usc/t38/s7401">7401.</a>  </td>
 
     <td> Appointments in Veterans Health Administration.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—APPOINTMENTS  </td>
 
   <tr>
 
-    <td> 7402.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7402" data-uslm-ref="/us/usc/t38/s7402">7402.</a>  </td>
 
     <td> Qualifications of appointees.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—APPOINTMENTS  </td>
 
   <tr>
 
-    <td> 7403.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7403" data-uslm-ref="/us/usc/t38/s7403">7403.</a>  </td>
 
     <td> Period of appointments; promotions.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—APPOINTMENTS  </td>
 
   <tr>
 
-    <td> 7404.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7404" data-uslm-ref="/us/usc/t38/s7404">7404.</a>  </td>
 
     <td> Grades and pay scales.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—APPOINTMENTS  </td>
 
   <tr>
 
-    <td> 7405.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7405" data-uslm-ref="/us/usc/t38/s7405">7405.</a>  </td>
 
     <td> Temporary full-time appointments, part-time appointments, and without-compensation appointments.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—APPOINTMENTS  </td>
 
   <tr>
 
-    <td> 7406.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7406" data-uslm-ref="/us/usc/t38/s7406">7406.</a>  </td>
 
     <td> Residencies and internships.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—APPOINTMENTS  </td>
 
   <tr>
 
-    <td> 7407.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7407" data-uslm-ref="/us/usc/t38/s7407">7407.</a>  </td>
 
     <td> Administrative provisions for section 7405 and 7406 appointments.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—APPOINTMENTS  </td>
 
   <tr>
 
-    <td> 7408.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7408" data-uslm-ref="/us/usc/t38/s7408">7408.</a>  </td>
 
     <td> Appointment of additional employees.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—APPOINTMENTS  </td>
 
   <tr>
 
-    <td> 7409.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7409" data-uslm-ref="/us/usc/t38/s7409">7409.</a>  </td>
 
     <td> Contracts for scarce medical specialist services.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—APPOINTMENTS  </td>
 
   <tr>
 
-    <td> 7410.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7410" data-uslm-ref="/us/usc/t38/s7410">7410.</a>  </td>
 
     <td> Additional pay authorities.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—APPOINTMENTS  </td>
 
   <tr>
 
-    <td> 7411.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7411" data-uslm-ref="/us/usc/t38/s7411">7411.</a>  </td>
 
     <td> Full-time board-certified physicians and dentists: reimbursement of continuing professional education expenses.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—COLLECTIVE BARGAINING AND PERSONNEL ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 7421.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7421" data-uslm-ref="/us/usc/t38/s7421">7421.</a>  </td>
 
     <td> Personnel administration: in general.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—COLLECTIVE BARGAINING AND PERSONNEL ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 7422.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7422" data-uslm-ref="/us/usc/t38/s7422">7422.</a>  </td>
 
     <td> Collective bargaining.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—COLLECTIVE BARGAINING AND PERSONNEL ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 7423.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7423" data-uslm-ref="/us/usc/t38/s7423">7423.</a>  </td>
 
     <td> Personnel administration: full-time employees.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—COLLECTIVE BARGAINING AND PERSONNEL ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 7424.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7424" data-uslm-ref="/us/usc/t38/s7424">7424.</a>  </td>
 
     <td> Travel expenses of certain employees.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—COLLECTIVE BARGAINING AND PERSONNEL ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 7425.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7425" data-uslm-ref="/us/usc/t38/s7425">7425.</a>  </td>
 
     <td> Employees: laws not applicable.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—COLLECTIVE BARGAINING AND PERSONNEL ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 7426.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7426" data-uslm-ref="/us/usc/t38/s7426">7426.</a>  </td>
 
     <td> Retirement rights.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER III—PAY FOR PHYSICIANS AND DENTISTS  </td>
 
   <tr>
 
-    <td> 7431.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7431" data-uslm-ref="/us/usc/t38/s7431">7431.</a>  </td>
 
     <td> Pay.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER III—PAY FOR PHYSICIANS AND DENTISTS  </td>
 
   <tr>
 
-    <td> 7432.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7432" data-uslm-ref="/us/usc/t38/s7432">7432.</a>  </td>
 
     <td> Pay of Under Secretary for Health.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER III—PAY FOR PHYSICIANS AND DENTISTS  </td>
 
   <tr>
 
-    <td> 7433.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7433" data-uslm-ref="/us/usc/t38/s7433">7433.</a>  </td>
 
     <td> Administrative matters.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER IV—PAY FOR NURSES AND OTHER HEALTH-CARE PERSONNEL  </td>
 
   <tr>
 
-    <td> 7451.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7451" data-uslm-ref="/us/usc/t38/s7451">7451.</a>  </td>
 
     <td> Nurses and other health-care personnel: competitive pay.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER IV—PAY FOR NURSES AND OTHER HEALTH-CARE PERSONNEL  </td>
 
   <tr>
 
-    <td> 7452.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7452" data-uslm-ref="/us/usc/t38/s7452">7452.</a>  </td>
 
     <td> Nurses and other health-care personnel: administration of pay.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER IV—PAY FOR NURSES AND OTHER HEALTH-CARE PERSONNEL  </td>
 
   <tr>
 
-    <td> 7453.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7453" data-uslm-ref="/us/usc/t38/s7453">7453.</a>  </td>
 
     <td> Nurses: additional pay.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER IV—PAY FOR NURSES AND OTHER HEALTH-CARE PERSONNEL  </td>
 
   <tr>
 
-    <td> 7454.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7454" data-uslm-ref="/us/usc/t38/s7454">7454.</a>  </td>
 
     <td> Physician assistants and other health care professionals: additional pay.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER IV—PAY FOR NURSES AND OTHER HEALTH-CARE PERSONNEL  </td>
 
   <tr>
 
-    <td> 7455.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7455" data-uslm-ref="/us/usc/t38/s7455">7455.</a>  </td>
 
     <td> Increases in rates of basic pay.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER IV—PAY FOR NURSES AND OTHER HEALTH-CARE PERSONNEL  </td>
 
   <tr>
 
-    <td> 7456.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7456" data-uslm-ref="/us/usc/t38/s7456">7456.</a>  </td>
 
     <td> Nurses: special rules for weekend duty.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER IV—PAY FOR NURSES AND OTHER HEALTH-CARE PERSONNEL  </td>
 
   <tr>
 
-    <td> 7456A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7456A" data-uslm-ref="/us/usc/t38/s7456A">7456A.</a>  </td>
 
     <td> Nurses: alternate work schedules.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER IV—PAY FOR NURSES AND OTHER HEALTH-CARE PERSONNEL  </td>
 
   <tr>
 
-    <td> 7457.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7457" data-uslm-ref="/us/usc/t38/s7457">7457.</a>  </td>
 
     <td> On-call pay.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER IV—PAY FOR NURSES AND OTHER HEALTH-CARE PERSONNEL  </td>
 
   <tr>
 
-    <td> 7458.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7458" data-uslm-ref="/us/usc/t38/s7458">7458.</a>  </td>
 
     <td> Recruitment and retention bonus pay.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER IV—PAY FOR NURSES AND OTHER HEALTH-CARE PERSONNEL  </td>
 
   <tr>
 
-    <td> 7459.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7459" data-uslm-ref="/us/usc/t38/s7459">7459.</a>  </td>
 
     <td> Nursing staff: special rules for overtime duty.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER V—DISCIPLINARY AND GRIEVANCE PROCEDURES  </td>
 
   <tr>
 
-    <td> 7461.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7461" data-uslm-ref="/us/usc/t38/s7461">7461.</a>  </td>
 
     <td> Adverse actions: section 7401(1) employees.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER V—DISCIPLINARY AND GRIEVANCE PROCEDURES  </td>
 
   <tr>
 
-    <td> 7462.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7462" data-uslm-ref="/us/usc/t38/s7462">7462.</a>  </td>
 
     <td> Major adverse actions involving professional conduct or competence.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER V—DISCIPLINARY AND GRIEVANCE PROCEDURES  </td>
 
   <tr>
 
-    <td> 7463.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7463" data-uslm-ref="/us/usc/t38/s7463">7463.</a>  </td>
 
     <td> Other adverse actions.  </td>
 
@@ -329,7 +329,7 @@ SUBCHAPTER V—DISCIPLINARY AND GRIEVANCE PROCEDURES  </td>
 
   <tr>
 
-    <td> 7464.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7464" data-uslm-ref="/us/usc/t38/s7464">7464.</a>  </td>
 
     <td> Disciplinary Appeals Boards.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER VI—REGIONAL MEDICAL EDUCATION CENTERS  </td>
 
   <tr>
 
-    <td> 7471.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7471" data-uslm-ref="/us/usc/t38/s7471">7471.</a>  </td>
 
     <td> Designation of Regional Medical Education Centers.  </td>
 
@@ -353,7 +353,7 @@ SUBCHAPTER VI—REGIONAL MEDICAL EDUCATION CENTERS  </td>
 
   <tr>
 
-    <td> 7472.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7472" data-uslm-ref="/us/usc/t38/s7472">7472.</a>  </td>
 
     <td> Supervision and staffing of Centers.  </td>
 
@@ -361,7 +361,7 @@ SUBCHAPTER VI—REGIONAL MEDICAL EDUCATION CENTERS  </td>
 
   <tr>
 
-    <td> 7473.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7473" data-uslm-ref="/us/usc/t38/s7473">7473.</a>  </td>
 
     <td> Personnel eligible for training.  </td>
 
@@ -369,7 +369,7 @@ SUBCHAPTER VI—REGIONAL MEDICAL EDUCATION CENTERS  </td>
 
   <tr>
 
-    <td> 7474.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7474" data-uslm-ref="/us/usc/t38/s7474">7474.</a>  </td>
 
     <td> Consultation.  </td>
 

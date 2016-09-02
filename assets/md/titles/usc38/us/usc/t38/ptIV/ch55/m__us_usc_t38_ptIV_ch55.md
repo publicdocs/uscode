@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5501" data-uslm-ref="/us/usc/t38/s5501">5501.</a>  </td>
 
     <td> Commitment actions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5502" data-uslm-ref="/us/usc/t38/s5502">5502.</a>  </td>
 
     <td> Payments to and supervision of fiduciaries.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5503" data-uslm-ref="/us/usc/t38/s5503">5503.</a>  </td>
 
     <td> Hospitalized veterans and estates of incompetent institutionalized veterans.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5504" data-uslm-ref="/us/usc/t38/s5504">5504.</a>  </td>
 
     <td> Administration of trust funds.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [5505.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5505" data-uslm-ref="/us/usc/t38/s5505">5505.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 5506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5506" data-uslm-ref="/us/usc/t38/s5506">5506.</a>  </td>
 
     <td> Definition of “fiduciary”.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 5507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5507" data-uslm-ref="/us/usc/t38/s5507">5507.</a>  </td>
 
     <td> Inquiry, investigations, and qualification of fiduciaries.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 5508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5508" data-uslm-ref="/us/usc/t38/s5508">5508.</a>  </td>
 
     <td> Periodic onsite reviews of institutional fiduciaries.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 5509.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5509" data-uslm-ref="/us/usc/t38/s5509">5509.</a>  </td>
 
     <td> Authority to require fiduciary to receive payments at regional offices of the Department when failing to provide required accounting.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 5510.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5510" data-uslm-ref="/us/usc/t38/s5510">5510.</a>  </td>
 
     <td> Annual report.  </td>
 

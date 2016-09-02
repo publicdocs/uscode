@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs301" data-uslm-ref="/us/usc/t38/s301">301.</a>  </td>
 
     <td> Department.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs302" data-uslm-ref="/us/usc/t38/s302">302.</a>  </td>
 
     <td> Seal.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs303" data-uslm-ref="/us/usc/t38/s303">303.</a>  </td>
 
     <td> Secretary of Veterans Affairs.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs304" data-uslm-ref="/us/usc/t38/s304">304.</a>  </td>
 
     <td> Deputy Secretary of Veterans Affairs.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs305" data-uslm-ref="/us/usc/t38/s305">305.</a>  </td>
 
     <td> Under Secretary for Health.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs306" data-uslm-ref="/us/usc/t38/s306">306.</a>  </td>
 
     <td> Under Secretary for Benefits.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs307" data-uslm-ref="/us/usc/t38/s307">307.</a>  </td>
 
     <td> Under Secretary for Memorial Affairs.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 308.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs308" data-uslm-ref="/us/usc/t38/s308">308.</a>  </td>
 
     <td> Assistant Secretaries; Deputy Assistant Secretaries.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 309.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs309" data-uslm-ref="/us/usc/t38/s309">309.</a>  </td>
 
     <td> Chief Financial Officer.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 310.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs310" data-uslm-ref="/us/usc/t38/s310">310.</a>  </td>
 
     <td> Chief Information Officer.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs311" data-uslm-ref="/us/usc/t38/s311">311.</a>  </td>
 
     <td> General Counsel.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs312" data-uslm-ref="/us/usc/t38/s312">312.</a>  </td>
 
     <td> Inspector General.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 312A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs312A" data-uslm-ref="/us/usc/t38/s312A">312A.</a>  </td>
 
     <td> Director of Construction and Facilities Management.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 313.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs313" data-uslm-ref="/us/usc/t38/s313">313.</a>  </td>
 
     <td> Availability of appropriations.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 314.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs314" data-uslm-ref="/us/usc/t38/s314">314.</a>  </td>
 
     <td> Central Office.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 315.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs315" data-uslm-ref="/us/usc/t38/s315">315.</a>  </td>
 
     <td> Regional offices.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 316.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs316" data-uslm-ref="/us/usc/t38/s316">316.</a>  </td>
 
     <td> Colocation of regional offices and medical centers.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 317.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs317" data-uslm-ref="/us/usc/t38/s317">317.</a>  </td>
 
     <td> Center for Minority Veterans.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 318.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs318" data-uslm-ref="/us/usc/t38/s318">318.</a>  </td>
 
     <td> Center for Women Veterans.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 319.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs319" data-uslm-ref="/us/usc/t38/s319">319.</a>  </td>
 
     <td> Office of Employment Discrimination Complaint Adjudication.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 320.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs320" data-uslm-ref="/us/usc/t38/s320">320.</a>  </td>
 
     <td> Department of Veterans Affairs-Department of Defense Joint Executive Committee.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 321.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs321" data-uslm-ref="/us/usc/t38/s321">321.</a>  </td>
 
     <td> Office of Survivors Assistance.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 322.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs322" data-uslm-ref="/us/usc/t38/s322">322.</a>  </td>
 
     <td> Office of National Veterans Sports Programs and Special Events.  </td>
 

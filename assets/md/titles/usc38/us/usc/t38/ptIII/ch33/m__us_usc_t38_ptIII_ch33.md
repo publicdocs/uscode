@@ -33,7 +33,7 @@ SUBCHAPTER I—DEFINITIONS  </td>
 
   <tr>
 
-    <td> 3301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3301" data-uslm-ref="/us/usc/t38/s3301">3301.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER II—EDUCATIONAL ASSISTANCE  </td>
 
   <tr>
 
-    <td> 3311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3311" data-uslm-ref="/us/usc/t38/s3311">3311.</a>  </td>
 
     <td> Educational assistance for service in the Armed Forces commencing on or after September 11, 2001: entitlement.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER II—EDUCATIONAL ASSISTANCE  </td>
 
   <tr>
 
-    <td> 3312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3312" data-uslm-ref="/us/usc/t38/s3312">3312.</a>  </td>
 
     <td> Educational assistance: duration.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER II—EDUCATIONAL ASSISTANCE  </td>
 
   <tr>
 
-    <td> 3313.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3313" data-uslm-ref="/us/usc/t38/s3313">3313.</a>  </td>
 
     <td> Educational assistance: amount; payment.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—EDUCATIONAL ASSISTANCE  </td>
 
   <tr>
 
-    <td> 3314.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3314" data-uslm-ref="/us/usc/t38/s3314">3314.</a>  </td>
 
     <td> Tutorial assistance.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—EDUCATIONAL ASSISTANCE  </td>
 
   <tr>
 
-    <td> 3315.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3315" data-uslm-ref="/us/usc/t38/s3315">3315.</a>  </td>
 
     <td> Licensure and certification tests.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—EDUCATIONAL ASSISTANCE  </td>
 
   <tr>
 
-    <td> 3315A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3315A" data-uslm-ref="/us/usc/t38/s3315A">3315A.</a>  </td>
 
     <td> National tests.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—EDUCATIONAL ASSISTANCE  </td>
 
   <tr>
 
-    <td> 3316.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3316" data-uslm-ref="/us/usc/t38/s3316">3316.</a>  </td>
 
     <td> Supplemental educational assistance: members with critical skills or specialty; members serving additional service.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—EDUCATIONAL ASSISTANCE  </td>
 
   <tr>
 
-    <td> 3317.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3317" data-uslm-ref="/us/usc/t38/s3317">3317.</a>  </td>
 
     <td> Public-private contributions for additional educational assistance.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—EDUCATIONAL ASSISTANCE  </td>
 
   <tr>
 
-    <td> 3318.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3318" data-uslm-ref="/us/usc/t38/s3318">3318.</a>  </td>
 
     <td> Additional assistance: relocation or travel assistance for individual relocating or traveling significant distance for pursuit of a program of education.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—EDUCATIONAL ASSISTANCE  </td>
 
   <tr>
 
-    <td> 3319.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3319" data-uslm-ref="/us/usc/t38/s3319">3319.</a>  </td>
 
     <td> Authority to transfer unused education benefits to family members.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER III—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 3321.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3321" data-uslm-ref="/us/usc/t38/s3321">3321.</a>  </td>
 
     <td> Time limitation for use of and eligibility for entitlement.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER III—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 3322.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3322" data-uslm-ref="/us/usc/t38/s3322">3322.</a>  </td>
 
     <td> Bar to duplication of educational assistance benefits.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER III—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 3323.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3323" data-uslm-ref="/us/usc/t38/s3323">3323.</a>  </td>
 
     <td> Administration.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER III—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 3324.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3324" data-uslm-ref="/us/usc/t38/s3324">3324.</a>  </td>
 
     <td> Allocation of administration and costs.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER III—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 3325.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3325" data-uslm-ref="/us/usc/t38/s3325">3325.</a>  </td>
 
     <td> Reporting requirement.  </td>
 

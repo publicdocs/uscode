@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 3701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3701" data-uslm-ref="/us/usc/t38/s3701">3701.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 3702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3702" data-uslm-ref="/us/usc/t38/s3702">3702.</a>  </td>
 
     <td> Basic entitlement.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 3703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3703" data-uslm-ref="/us/usc/t38/s3703">3703.</a>  </td>
 
     <td> Basic provisions relating to loan guaranty and insurance.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 3704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3704" data-uslm-ref="/us/usc/t38/s3704">3704.</a>  </td>
 
     <td> Restrictions on loans.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 3705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3705" data-uslm-ref="/us/usc/t38/s3705">3705.</a>  </td>
 
     <td> Warranties.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 3706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3706" data-uslm-ref="/us/usc/t38/s3706">3706.</a>  </td>
 
     <td> Escrow of deposits and downpayments.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 3707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3707" data-uslm-ref="/us/usc/t38/s3707">3707.</a>  </td>
 
     <td> Adjustable rate mortgages.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 3707A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3707A" data-uslm-ref="/us/usc/t38/s3707A">3707A.</a>  </td>
 
     <td> Hybrid adjustable rate mortgages.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 3708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3708" data-uslm-ref="/us/usc/t38/s3708">3708.</a>  </td>
 
     <td> Authority to buy down interest rates: pilot program.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—LOANS  </td>
 
   <tr>
 
-    <td> 3710.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3710" data-uslm-ref="/us/usc/t38/s3710">3710.</a>  </td>
 
     <td> Purchase or construction of homes.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—LOANS  </td>
 
   <tr>
 
-    <td> 3711.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3711" data-uslm-ref="/us/usc/t38/s3711">3711.</a>  </td>
 
     <td> Direct loans to veterans.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—LOANS  </td>
 
   <tr>
 
-    <td> 3712.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3712" data-uslm-ref="/us/usc/t38/s3712">3712.</a>  </td>
 
     <td> Loans to purchase manufactured homes and lots.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—LOANS  </td>
 
   <tr>
 
-    <td> 3713.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3713" data-uslm-ref="/us/usc/t38/s3713">3713.</a>  </td>
 
     <td> Release from liability under guaranty.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—LOANS  </td>
 
   <tr>
 
-    <td> 3714.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3714" data-uslm-ref="/us/usc/t38/s3714">3714.</a>  </td>
 
     <td> Assumptions; release from liability.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER III—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 3720.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3720" data-uslm-ref="/us/usc/t38/s3720">3720.</a>  </td>
 
     <td> Powers of Secretary.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER III—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 3721.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3721" data-uslm-ref="/us/usc/t38/s3721">3721.</a>  </td>
 
     <td> Incontestability.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER III—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 3722.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3722" data-uslm-ref="/us/usc/t38/s3722">3722.</a>  </td>
 
     <td> Veterans Housing Benefit Program Fund.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER III—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> [3723 to 3725.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3723" data-uslm-ref="/us/usc/t38/s3723">3723</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3725" data-uslm-ref="/us/usc/t38/s3725">3725.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER III—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 3726.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3726" data-uslm-ref="/us/usc/t38/s3726">3726.</a>  </td>
 
     <td> Withholding of payments, benefits, etc.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER III—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 3727.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3727" data-uslm-ref="/us/usc/t38/s3727">3727.</a>  </td>
 
     <td> Expenditures to correct or compensate for structural defects in mortgaged homes.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER III—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 3728.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3728" data-uslm-ref="/us/usc/t38/s3728">3728.</a>  </td>
 
     <td> Exemption from State anti-usury provisions.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER III—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 3729.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3729" data-uslm-ref="/us/usc/t38/s3729">3729.</a>  </td>
 
     <td> Loan fee.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER III—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 3730.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3730" data-uslm-ref="/us/usc/t38/s3730">3730.</a>  </td>
 
     <td> Use of attorneys in court.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER III—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 3731.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3731" data-uslm-ref="/us/usc/t38/s3731">3731.</a>  </td>
 
     <td> Appraisals.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER III—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 3732.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3732" data-uslm-ref="/us/usc/t38/s3732">3732.</a>  </td>
 
     <td> Procedure on default.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER III—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 3733.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3733" data-uslm-ref="/us/usc/t38/s3733">3733.</a>  </td>
 
     <td> Property management.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER III—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 3734.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3734" data-uslm-ref="/us/usc/t38/s3734">3734.</a>  </td>
 
     <td> Annual submission of information on the Veterans Housing Benefit Program Fund and housing programs.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER III—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> [3735.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3735" data-uslm-ref="/us/usc/t38/s3735">3735.</a>  </td>
 
     <td> Renumbered.]  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER III—ADMINISTRATIVE PROVISIONS  </td>
 
   <tr>
 
-    <td> 3736.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3736" data-uslm-ref="/us/usc/t38/s3736">3736.</a>  </td>
 
     <td> Reporting requirements.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER IV—SMALL BUSINESS LOANS  </td>
 
   <tr>
 
-    <td> 3741.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3741" data-uslm-ref="/us/usc/t38/s3741">3741.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER IV—SMALL BUSINESS LOANS  </td>
 
   <tr>
 
-    <td> 3742.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3742" data-uslm-ref="/us/usc/t38/s3742">3742.</a>  </td>
 
     <td> Small business loan program.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER IV—SMALL BUSINESS LOANS  </td>
 
   <tr>
 
-    <td> 3743.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3743" data-uslm-ref="/us/usc/t38/s3743">3743.</a>  </td>
 
     <td> Liability on loans.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER IV—SMALL BUSINESS LOANS  </td>
 
   <tr>
 
-    <td> 3744.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3744" data-uslm-ref="/us/usc/t38/s3744">3744.</a>  </td>
 
     <td> Approval of loans by the Secretary.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER IV—SMALL BUSINESS LOANS  </td>
 
   <tr>
 
-    <td> 3745.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3745" data-uslm-ref="/us/usc/t38/s3745">3745.</a>  </td>
 
     <td> Interest on loans.  </td>
 
@@ -329,7 +329,7 @@ SUBCHAPTER IV—SMALL BUSINESS LOANS  </td>
 
   <tr>
 
-    <td> 3746.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3746" data-uslm-ref="/us/usc/t38/s3746">3746.</a>  </td>
 
     <td> Maturity of loans.  </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER IV—SMALL BUSINESS LOANS  </td>
 
   <tr>
 
-    <td> 3747.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3747" data-uslm-ref="/us/usc/t38/s3747">3747.</a>  </td>
 
     <td> Eligible financial institutions.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER IV—SMALL BUSINESS LOANS  </td>
 
   <tr>
 
-    <td> 3748.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3748" data-uslm-ref="/us/usc/t38/s3748">3748.</a>  </td>
 
     <td> Preference for disabled veterans.  </td>
 
@@ -353,7 +353,7 @@ SUBCHAPTER IV—SMALL BUSINESS LOANS  </td>
 
   <tr>
 
-    <td> 3749.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3749" data-uslm-ref="/us/usc/t38/s3749">3749.</a>  </td>
 
     <td> Revolving fund.  </td>
 
@@ -361,7 +361,7 @@ SUBCHAPTER IV—SMALL BUSINESS LOANS  </td>
 
   <tr>
 
-    <td> 3750.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3750" data-uslm-ref="/us/usc/t38/s3750">3750.</a>  </td>
 
     <td> Incorporation of other provisions by the Secretary.  </td>
 
@@ -369,7 +369,7 @@ SUBCHAPTER IV—SMALL BUSINESS LOANS  </td>
 
   <tr>
 
-    <td> 3751.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3751" data-uslm-ref="/us/usc/t38/s3751">3751.</a>  </td>
 
     <td> Termination of program.  </td>
 
@@ -385,7 +385,7 @@ SUBCHAPTER V—DIRECT HOUSING LOANS FOR NATIVE AMERICAN VETERANS  </td>
 
   <tr>
 
-    <td> 3761.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3761" data-uslm-ref="/us/usc/t38/s3761">3761.</a>  </td>
 
     <td> Direct housing loans to Native American veterans; program authority.  </td>
 
@@ -393,7 +393,7 @@ SUBCHAPTER V—DIRECT HOUSING LOANS FOR NATIVE AMERICAN VETERANS  </td>
 
   <tr>
 
-    <td> 3762.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3762" data-uslm-ref="/us/usc/t38/s3762">3762.</a>  </td>
 
     <td> Direct housing loans to Native American veterans; program administration.  </td>
 
@@ -401,7 +401,7 @@ SUBCHAPTER V—DIRECT HOUSING LOANS FOR NATIVE AMERICAN VETERANS  </td>
 
   <tr>
 
-    <td> 3763.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3763" data-uslm-ref="/us/usc/t38/s3763">3763.</a>  </td>
 
     <td> Native American Veteran Housing Loan Program Account.  </td>
 
@@ -409,7 +409,7 @@ SUBCHAPTER V—DIRECT HOUSING LOANS FOR NATIVE AMERICAN VETERANS  </td>
 
   <tr>
 
-    <td> 3764.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3764" data-uslm-ref="/us/usc/t38/s3764">3764.</a>  </td>
 
     <td> Qualified non-Native American veterans.  </td>
 
@@ -417,7 +417,7 @@ SUBCHAPTER V—DIRECT HOUSING LOANS FOR NATIVE AMERICAN VETERANS  </td>
 
   <tr>
 
-    <td> 3765.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3765" data-uslm-ref="/us/usc/t38/s3765">3765.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -433,7 +433,9 @@ SUBCHAPTER V—DIRECT HOUSING LOANS FOR NATIVE AMERICAN VETERANS  </td>
 
   <tr>
 
-    <td> [3771 to 3775. Repealed or renumbered.]  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3771" data-uslm-ref="/us/usc/t38/s3771">3771</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3775" data-uslm-ref="/us/usc/t38/s3775">3775.</a>  </td>
+
+    <td> Repealed or renumbered.]  </td>
 
   </tr>
 

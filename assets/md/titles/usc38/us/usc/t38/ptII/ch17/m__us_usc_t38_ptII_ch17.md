@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1701" data-uslm-ref="/us/usc/t38/s1701">1701.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1702" data-uslm-ref="/us/usc/t38/s1702">1702.</a>  </td>
 
     <td> Presumptions: psychosis after service in World War II and following periods of war; mental illness following service in the Persian Gulf War.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1703" data-uslm-ref="/us/usc/t38/s1703">1703.</a>  </td>
 
     <td> Contracts for hospital care and medical services in non-Department facilities.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1704" data-uslm-ref="/us/usc/t38/s1704">1704.</a>  </td>
 
     <td> Preventive health services: annual report.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1705" data-uslm-ref="/us/usc/t38/s1705">1705.</a>  </td>
 
     <td> Management of health care: patient enrollment system.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1706" data-uslm-ref="/us/usc/t38/s1706">1706.</a>  </td>
 
     <td> Management of health care: other requirements.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1707" data-uslm-ref="/us/usc/t38/s1707">1707.</a>  </td>
 
     <td> Limitations.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1708" data-uslm-ref="/us/usc/t38/s1708">1708.</a>  </td>
 
     <td> Temporary lodging.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1709.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1709" data-uslm-ref="/us/usc/t38/s1709">1709.</a>  </td>
 
     <td> Comprehensive policy on reporting and tracking sexual assault incidents and other safety incidents.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1709A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1709A" data-uslm-ref="/us/usc/t38/s1709A">1709A.</a>  </td>
 
     <td> Teleconsultation.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—HOSPITAL, NURSING HOME, OR DOMICILIARY CARE AND MEDICAL TREATMEN
 
   <tr>
 
-    <td> 1710.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1710" data-uslm-ref="/us/usc/t38/s1710">1710.</a>  </td>
 
     <td> Eligibility for hospital, nursing home, and domiciliary care.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—HOSPITAL, NURSING HOME, OR DOMICILIARY CARE AND MEDICAL TREATMEN
 
   <tr>
 
-    <td> 1710A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1710A" data-uslm-ref="/us/usc/t38/s1710A">1710A.</a>  </td>
 
     <td> Required nursing home care.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—HOSPITAL, NURSING HOME, OR DOMICILIARY CARE AND MEDICAL TREATMEN
 
   <tr>
 
-    <td> 1710B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1710B" data-uslm-ref="/us/usc/t38/s1710B">1710B.</a>  </td>
 
     <td> Extended care services.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—HOSPITAL, NURSING HOME, OR DOMICILIARY CARE AND MEDICAL TREATMEN
 
   <tr>
 
-    <td> 1710C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1710C" data-uslm-ref="/us/usc/t38/s1710C">1710C.</a>  </td>
 
     <td> Traumatic brain injury: plans for rehabilitation and reintegration into the community.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—HOSPITAL, NURSING HOME, OR DOMICILIARY CARE AND MEDICAL TREATMEN
 
   <tr>
 
-    <td> 1710D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1710D" data-uslm-ref="/us/usc/t38/s1710D">1710D.</a>  </td>
 
     <td> Traumatic brain injury: comprehensive plan for long-term rehabilitation. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—HOSPITAL, NURSING HOME, OR DOMICILIARY CARE AND MEDICAL TREATMEN
 
   <tr>
 
-    <td> 1710E.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1710E" data-uslm-ref="/us/usc/t38/s1710E">1710E.</a>  </td>
 
     <td> Traumatic brain injury: use of non-Departmental facilities for rehabilitation. <sup>[1]</sup>   </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—HOSPITAL, NURSING HOME, OR DOMICILIARY CARE AND MEDICAL TREATMEN
 
   <tr>
 
-    <td> 1711.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1711" data-uslm-ref="/us/usc/t38/s1711">1711.</a>  </td>
 
     <td> Care during examinations and in emergencies.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER II—HOSPITAL, NURSING HOME, OR DOMICILIARY CARE AND MEDICAL TREATMEN
 
   <tr>
 
-    <td> 1712.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1712" data-uslm-ref="/us/usc/t38/s1712">1712.</a>  </td>
 
     <td> Dental care; drugs and medicines for certain disabled veterans; vaccines.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER II—HOSPITAL, NURSING HOME, OR DOMICILIARY CARE AND MEDICAL TREATMEN
 
   <tr>
 
-    <td> 1712A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1712A" data-uslm-ref="/us/usc/t38/s1712A">1712A.</a>  </td>
 
     <td> Eligibility for readjustment counseling and related mental health services.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER II—HOSPITAL, NURSING HOME, OR DOMICILIARY CARE AND MEDICAL TREATMEN
 
   <tr>
 
-    <td> 1712B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1712B" data-uslm-ref="/us/usc/t38/s1712B">1712B.</a>  </td>
 
     <td> Counseling for former prisoners of war.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER II—HOSPITAL, NURSING HOME, OR DOMICILIARY CARE AND MEDICAL TREATMEN
 
   <tr>
 
-    <td> [1713.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1713" data-uslm-ref="/us/usc/t38/s1713">1713.</a>  </td>
 
     <td> Renumbered.]  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER II—HOSPITAL, NURSING HOME, OR DOMICILIARY CARE AND MEDICAL TREATMEN
 
   <tr>
 
-    <td> 1714.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1714" data-uslm-ref="/us/usc/t38/s1714">1714.</a>  </td>
 
     <td> Fitting and training in use of prosthetic appliances; guide dogs; service dogs.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER II—HOSPITAL, NURSING HOME, OR DOMICILIARY CARE AND MEDICAL TREATMEN
 
   <tr>
 
-    <td> 1715.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1715" data-uslm-ref="/us/usc/t38/s1715">1715.</a>  </td>
 
     <td> Tobacco for hospitalized veterans.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER II—HOSPITAL, NURSING HOME, OR DOMICILIARY CARE AND MEDICAL TREATMEN
 
   <tr>
 
-    <td> 1716.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1716" data-uslm-ref="/us/usc/t38/s1716">1716.</a>  </td>
 
     <td> Hospital care by other agencies of the United States.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER II—HOSPITAL, NURSING HOME, OR DOMICILIARY CARE AND MEDICAL TREATMEN
 
   <tr>
 
-    <td> 1717.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1717" data-uslm-ref="/us/usc/t38/s1717">1717.</a>  </td>
 
     <td> Home health services; invalid lifts and other devices.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER II—HOSPITAL, NURSING HOME, OR DOMICILIARY CARE AND MEDICAL TREATMEN
 
   <tr>
 
-    <td> 1718.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1718" data-uslm-ref="/us/usc/t38/s1718">1718.</a>  </td>
 
     <td> Therapeutic and rehabilitative activities.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER II—HOSPITAL, NURSING HOME, OR DOMICILIARY CARE AND MEDICAL TREATMEN
 
   <tr>
 
-    <td> 1719.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1719" data-uslm-ref="/us/usc/t38/s1719">1719.</a>  </td>
 
     <td> Repair or replacement of certain prosthetic and other appliances.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER II—HOSPITAL, NURSING HOME, OR DOMICILIARY CARE AND MEDICAL TREATMEN
 
   <tr>
 
-    <td> 1720.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1720" data-uslm-ref="/us/usc/t38/s1720">1720.</a>  </td>
 
     <td> Transfers for nursing home care; adult day health care.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER II—HOSPITAL, NURSING HOME, OR DOMICILIARY CARE AND MEDICAL TREATMEN
 
   <tr>
 
-    <td> 1720A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1720A" data-uslm-ref="/us/usc/t38/s1720A">1720A.</a>  </td>
 
     <td> Treatment and rehabilitative services for persons with drug or alcohol dependency.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER II—HOSPITAL, NURSING HOME, OR DOMICILIARY CARE AND MEDICAL TREATMEN
 
   <tr>
 
-    <td> 1720B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1720B" data-uslm-ref="/us/usc/t38/s1720B">1720B.</a>  </td>
 
     <td> Respite care.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER II—HOSPITAL, NURSING HOME, OR DOMICILIARY CARE AND MEDICAL TREATMEN
 
   <tr>
 
-    <td> 1720C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1720C" data-uslm-ref="/us/usc/t38/s1720C">1720C.</a>  </td>
 
     <td> Noninstitutional alternatives to nursing home care.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER II—HOSPITAL, NURSING HOME, OR DOMICILIARY CARE AND MEDICAL TREATMEN
 
   <tr>
 
-    <td> 1720D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1720D" data-uslm-ref="/us/usc/t38/s1720D">1720D.</a>  </td>
 
     <td> Counseling and treatment for sexual trauma.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER II—HOSPITAL, NURSING HOME, OR DOMICILIARY CARE AND MEDICAL TREATMEN
 
   <tr>
 
-    <td> 1720E.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1720E" data-uslm-ref="/us/usc/t38/s1720E">1720E.</a>  </td>
 
     <td> Nasopharyngeal radium irradiation.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER II—HOSPITAL, NURSING HOME, OR DOMICILIARY CARE AND MEDICAL TREATMEN
 
   <tr>
 
-    <td> 1720F.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1720F" data-uslm-ref="/us/usc/t38/s1720F">1720F.</a>  </td>
 
     <td> Comprehensive program for suicide prevention among veterans.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER II—HOSPITAL, NURSING HOME, OR DOMICILIARY CARE AND MEDICAL TREATMEN
 
   <tr>
 
-    <td> 1720G.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1720G" data-uslm-ref="/us/usc/t38/s1720G">1720G.</a>  </td>
 
     <td> Assistance and support services for caregivers.  </td>
 
@@ -329,7 +329,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS RELATING TO HOSPITAL AND NURSING HOME 
 
   <tr>
 
-    <td> 1721.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1721" data-uslm-ref="/us/usc/t38/s1721">1721.</a>  </td>
 
     <td> Power to make rules and regulations.  </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS RELATING TO HOSPITAL AND NURSING HOME 
 
   <tr>
 
-    <td> 1722.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1722" data-uslm-ref="/us/usc/t38/s1722">1722.</a>  </td>
 
     <td> Determination of inability to defray necessary expenses; income thresholds.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS RELATING TO HOSPITAL AND NURSING HOME 
 
   <tr>
 
-    <td> 1722A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1722A" data-uslm-ref="/us/usc/t38/s1722A">1722A.</a>  </td>
 
     <td> Copayment for medications.  </td>
 
@@ -353,7 +353,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS RELATING TO HOSPITAL AND NURSING HOME 
 
   <tr>
 
-    <td> 1722B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1722B" data-uslm-ref="/us/usc/t38/s1722B">1722B.</a>  </td>
 
     <td> Copayments: waiver of collection of copayments for telehealth and telemedicine visits of veterans.  </td>
 
@@ -361,7 +361,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS RELATING TO HOSPITAL AND NURSING HOME 
 
   <tr>
 
-    <td> 1723.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1723" data-uslm-ref="/us/usc/t38/s1723">1723.</a>  </td>
 
     <td> Furnishing of clothing.  </td>
 
@@ -369,7 +369,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS RELATING TO HOSPITAL AND NURSING HOME 
 
   <tr>
 
-    <td> 1724.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1724" data-uslm-ref="/us/usc/t38/s1724">1724.</a>  </td>
 
     <td> Hospital care, medical services, and nursing home care abroad.  </td>
 
@@ -377,7 +377,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS RELATING TO HOSPITAL AND NURSING HOME 
 
   <tr>
 
-    <td> 1725.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1725" data-uslm-ref="/us/usc/t38/s1725">1725.</a>  </td>
 
     <td> Reimbursement for emergency treatment.  </td>
 
@@ -385,7 +385,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS RELATING TO HOSPITAL AND NURSING HOME 
 
   <tr>
 
-    <td> 1726.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1726" data-uslm-ref="/us/usc/t38/s1726">1726.</a>  </td>
 
     <td> Reimbursement for loss of personal effects by natural disaster.  </td>
 
@@ -393,7 +393,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS RELATING TO HOSPITAL AND NURSING HOME 
 
   <tr>
 
-    <td> 1727.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1727" data-uslm-ref="/us/usc/t38/s1727">1727.</a>  </td>
 
     <td> Persons eligible under prior law.  </td>
 
@@ -401,7 +401,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS RELATING TO HOSPITAL AND NURSING HOME 
 
   <tr>
 
-    <td> 1728.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1728" data-uslm-ref="/us/usc/t38/s1728">1728.</a>  </td>
 
     <td> Reimbursement of certain medical expenses.  </td>
 
@@ -409,7 +409,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS RELATING TO HOSPITAL AND NURSING HOME 
 
   <tr>
 
-    <td> 1729.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1729" data-uslm-ref="/us/usc/t38/s1729">1729.</a>  </td>
 
     <td> Recovery by the United States of the cost of certain care and services.  </td>
 
@@ -417,7 +417,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS RELATING TO HOSPITAL AND NURSING HOME 
 
   <tr>
 
-    <td> 1729A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1729A" data-uslm-ref="/us/usc/t38/s1729A">1729A.</a>  </td>
 
     <td> Department of Veterans Affairs Medical Care Collections Fund.  </td>
 
@@ -425,7 +425,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS RELATING TO HOSPITAL AND NURSING HOME 
 
   <tr>
 
-    <td> 1729B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1729B" data-uslm-ref="/us/usc/t38/s1729B">1729B.</a>  </td>
 
     <td> Consolidated patient accounting centers.  </td>
 
@@ -433,7 +433,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS RELATING TO HOSPITAL AND NURSING HOME 
 
   <tr>
 
-    <td> 1730.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1730" data-uslm-ref="/us/usc/t38/s1730">1730.</a>  </td>
 
     <td> Community residential care.  </td>
 
@@ -441,7 +441,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS RELATING TO HOSPITAL AND NURSING HOME 
 
   <tr>
 
-    <td> 1730A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1730A" data-uslm-ref="/us/usc/t38/s1730A">1730A.</a>  </td>
 
     <td> Prohibition on collection of copayments from catastrophically disabled veterans.  </td>
 
@@ -457,7 +457,7 @@ SUBCHAPTER IV—HOSPITAL CARE AND MEDICAL TREATMENT FOR VETERANS IN THE REPUBLIC
 
   <tr>
 
-    <td> 1731.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1731" data-uslm-ref="/us/usc/t38/s1731">1731.</a>  </td>
 
     <td> Assistance to the Republic of the Philippines.  </td>
 
@@ -465,7 +465,7 @@ SUBCHAPTER IV—HOSPITAL CARE AND MEDICAL TREATMENT FOR VETERANS IN THE REPUBLIC
 
   <tr>
 
-    <td> 1732.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1732" data-uslm-ref="/us/usc/t38/s1732">1732.</a>  </td>
 
     <td> Contracts and grants to provide for the care and treatment of United States veterans by the Veterans Memorial Medical Center.  </td>
 
@@ -473,7 +473,7 @@ SUBCHAPTER IV—HOSPITAL CARE AND MEDICAL TREATMENT FOR VETERANS IN THE REPUBLIC
 
   <tr>
 
-    <td> 1733.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1733" data-uslm-ref="/us/usc/t38/s1733">1733.</a>  </td>
 
     <td> Supervision of program by the President.  </td>
 
@@ -481,7 +481,7 @@ SUBCHAPTER IV—HOSPITAL CARE AND MEDICAL TREATMENT FOR VETERANS IN THE REPUBLIC
 
   <tr>
 
-    <td> 1734.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1734" data-uslm-ref="/us/usc/t38/s1734">1734.</a>  </td>
 
     <td> Hospital and nursing home care and medical services in the United States.  </td>
 
@@ -489,7 +489,7 @@ SUBCHAPTER IV—HOSPITAL CARE AND MEDICAL TREATMENT FOR VETERANS IN THE REPUBLIC
 
   <tr>
 
-    <td> 1735.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1735" data-uslm-ref="/us/usc/t38/s1735">1735.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -505,7 +505,7 @@ SUBCHAPTER V—PAYMENTS TO STATE HOMES  </td>
 
   <tr>
 
-    <td> 1741.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1741" data-uslm-ref="/us/usc/t38/s1741">1741.</a>  </td>
 
     <td> Criteria for payment.  </td>
 
@@ -513,7 +513,7 @@ SUBCHAPTER V—PAYMENTS TO STATE HOMES  </td>
 
   <tr>
 
-    <td> 1742.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1742" data-uslm-ref="/us/usc/t38/s1742">1742.</a>  </td>
 
     <td> Inspections of such homes; restrictions on beneficiaries.  </td>
 
@@ -521,7 +521,7 @@ SUBCHAPTER V—PAYMENTS TO STATE HOMES  </td>
 
   <tr>
 
-    <td> 1743.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1743" data-uslm-ref="/us/usc/t38/s1743">1743.</a>  </td>
 
     <td> Applications.  </td>
 
@@ -529,7 +529,7 @@ SUBCHAPTER V—PAYMENTS TO STATE HOMES  </td>
 
   <tr>
 
-    <td> 1744.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1744" data-uslm-ref="/us/usc/t38/s1744">1744.</a>  </td>
 
     <td> Hiring and retention of nurses: payments to assist States.  </td>
 
@@ -537,7 +537,7 @@ SUBCHAPTER V—PAYMENTS TO STATE HOMES  </td>
 
   <tr>
 
-    <td> 1745.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1745" data-uslm-ref="/us/usc/t38/s1745">1745.</a>  </td>
 
     <td> Nursing home care and medications for veterans with service-connected disabilities.  </td>
 
@@ -553,7 +553,7 @@ SUBCHAPTER VI—SICKLE CELL ANEMIA  </td>
 
   <tr>
 
-    <td> 1751.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1751" data-uslm-ref="/us/usc/t38/s1751">1751.</a>  </td>
 
     <td> Screening, counseling, and medical treatment.  </td>
 
@@ -561,7 +561,7 @@ SUBCHAPTER VI—SICKLE CELL ANEMIA  </td>
 
   <tr>
 
-    <td> 1752.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1752" data-uslm-ref="/us/usc/t38/s1752">1752.</a>  </td>
 
     <td> Research.  </td>
 
@@ -569,7 +569,7 @@ SUBCHAPTER VI—SICKLE CELL ANEMIA  </td>
 
   <tr>
 
-    <td> 1753.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1753" data-uslm-ref="/us/usc/t38/s1753">1753.</a>  </td>
 
     <td> Voluntary participation; confidentiality.  </td>
 
@@ -577,7 +577,7 @@ SUBCHAPTER VI—SICKLE CELL ANEMIA  </td>
 
   <tr>
 
-    <td> 1754.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1754" data-uslm-ref="/us/usc/t38/s1754">1754.</a>  </td>
 
     <td> Reports.  </td>
 
@@ -585,7 +585,9 @@ SUBCHAPTER VI—SICKLE CELL ANEMIA  </td>
 
   <tr>
 
-    <td> [1761 to 1764. Repealed.]  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1761" data-uslm-ref="/us/usc/t38/s1761">1761</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1764" data-uslm-ref="/us/usc/t38/s1764">1764.</a>  </td>
+
+    <td> Repealed.]  </td>
 
   </tr>
 
@@ -599,7 +601,9 @@ SUBCHAPTER VI—SICKLE CELL ANEMIA  </td>
 
   <tr>
 
-    <td> [1771 to 1774. Renumbered.]  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1771" data-uslm-ref="/us/usc/t38/s1771">1771</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1774" data-uslm-ref="/us/usc/t38/s1774">1774.</a>  </td>
+
+    <td> Renumbered.]  </td>
 
   </tr>
 
@@ -613,7 +617,7 @@ SUBCHAPTER VIII—HEALTH CARE OF PERSONS OTHER THAN VETERANS  </td>
 
   <tr>
 
-    <td> 1781.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1781" data-uslm-ref="/us/usc/t38/s1781">1781.</a>  </td>
 
     <td> Medical care for survivors and dependents of certain veterans.  </td>
 
@@ -621,7 +625,7 @@ SUBCHAPTER VIII—HEALTH CARE OF PERSONS OTHER THAN VETERANS  </td>
 
   <tr>
 
-    <td> 1782.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1782" data-uslm-ref="/us/usc/t38/s1782">1782.</a>  </td>
 
     <td> Counseling, training, and mental health services for immediate family members and caregivers.  </td>
 
@@ -629,7 +633,7 @@ SUBCHAPTER VIII—HEALTH CARE OF PERSONS OTHER THAN VETERANS  </td>
 
   <tr>
 
-    <td> 1783.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1783" data-uslm-ref="/us/usc/t38/s1783">1783.</a>  </td>
 
     <td> Bereavement counseling.  </td>
 
@@ -637,7 +641,7 @@ SUBCHAPTER VIII—HEALTH CARE OF PERSONS OTHER THAN VETERANS  </td>
 
   <tr>
 
-    <td> 1784.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1784" data-uslm-ref="/us/usc/t38/s1784">1784.</a>  </td>
 
     <td> Humanitarian care.  </td>
 
@@ -645,7 +649,7 @@ SUBCHAPTER VIII—HEALTH CARE OF PERSONS OTHER THAN VETERANS  </td>
 
   <tr>
 
-    <td> 1785.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1785" data-uslm-ref="/us/usc/t38/s1785">1785.</a>  </td>
 
     <td> Care and services during certain disasters and emergencies.  </td>
 
@@ -653,7 +657,7 @@ SUBCHAPTER VIII—HEALTH CARE OF PERSONS OTHER THAN VETERANS  </td>
 
   <tr>
 
-    <td> 1786.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1786" data-uslm-ref="/us/usc/t38/s1786">1786.</a>  </td>
 
     <td> Care for newborn children of women veterans receiving maternity care.  </td>
 
@@ -661,7 +665,7 @@ SUBCHAPTER VIII—HEALTH CARE OF PERSONS OTHER THAN VETERANS  </td>
 
   <tr>
 
-    <td> 1787.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1787" data-uslm-ref="/us/usc/t38/s1787">1787.</a>  </td>
 
     <td> Health care of family members of veterans stationed at Camp Lejeune, North Carolina.  </td>
 

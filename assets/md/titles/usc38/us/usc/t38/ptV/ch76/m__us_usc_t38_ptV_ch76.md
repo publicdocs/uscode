@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 7601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7601" data-uslm-ref="/us/usc/t38/s7601">7601.</a>  </td>
 
     <td> Establishment of program; purpose.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 7602.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7602" data-uslm-ref="/us/usc/t38/s7602">7602.</a>  </td>
 
     <td> Eligibility.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 7603.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7603" data-uslm-ref="/us/usc/t38/s7603">7603.</a>  </td>
 
     <td> Application and acceptance.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 7604.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7604" data-uslm-ref="/us/usc/t38/s7604">7604.</a>  </td>
 
     <td> Terms of agreement.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—SCHOLARSHIP PROGRAM  </td>
 
   <tr>
 
-    <td> 7611.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7611" data-uslm-ref="/us/usc/t38/s7611">7611.</a>  </td>
 
     <td> Authority for program.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—SCHOLARSHIP PROGRAM  </td>
 
   <tr>
 
-    <td> 7612.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7612" data-uslm-ref="/us/usc/t38/s7612">7612.</a>  </td>
 
     <td> Eligibility; application; agreement.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—SCHOLARSHIP PROGRAM  </td>
 
   <tr>
 
-    <td> 7613.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7613" data-uslm-ref="/us/usc/t38/s7613">7613.</a>  </td>
 
     <td> Scholarship.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—SCHOLARSHIP PROGRAM  </td>
 
   <tr>
 
-    <td> 7614.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7614" data-uslm-ref="/us/usc/t38/s7614">7614.</a>  </td>
 
     <td> Part-time students.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—SCHOLARSHIP PROGRAM  </td>
 
   <tr>
 
-    <td> 7615.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7615" data-uslm-ref="/us/usc/t38/s7615">7615.</a>  </td>
 
     <td> Status of participants.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—SCHOLARSHIP PROGRAM  </td>
 
   <tr>
 
-    <td> 7616.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7616" data-uslm-ref="/us/usc/t38/s7616">7616.</a>  </td>
 
     <td> Obligated service.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—SCHOLARSHIP PROGRAM  </td>
 
   <tr>
 
-    <td> 7617.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7617" data-uslm-ref="/us/usc/t38/s7617">7617.</a>  </td>
 
     <td> Breach of agreement: liability.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—SCHOLARSHIP PROGRAM  </td>
 
   <tr>
 
-    <td> 7618.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7618" data-uslm-ref="/us/usc/t38/s7618">7618.</a>  </td>
 
     <td> Additional program requirements.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—SCHOLARSHIP PROGRAM  </td>
 
   <tr>
 
-    <td> 7619.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7619" data-uslm-ref="/us/usc/t38/s7619">7619.</a>  </td>
 
     <td> Expiration of program.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER III—TUITION REIMBURSEMENT PROGRAM  </td>
 
   <tr>
 
-    <td> 7621.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7621" data-uslm-ref="/us/usc/t38/s7621">7621.</a>  </td>
 
     <td> Authority for program.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER III—TUITION REIMBURSEMENT PROGRAM  </td>
 
   <tr>
 
-    <td> 7622.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7622" data-uslm-ref="/us/usc/t38/s7622">7622.</a>  </td>
 
     <td> Eligibility; application; agreement.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER III—TUITION REIMBURSEMENT PROGRAM  </td>
 
   <tr>
 
-    <td> 7623.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7623" data-uslm-ref="/us/usc/t38/s7623">7623.</a>  </td>
 
     <td> Obligated service.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER III—TUITION REIMBURSEMENT PROGRAM  </td>
 
   <tr>
 
-    <td> 7624.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7624" data-uslm-ref="/us/usc/t38/s7624">7624.</a>  </td>
 
     <td> Breach of agreement: liability.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER III—TUITION REIMBURSEMENT PROGRAM  </td>
 
   <tr>
 
-    <td> 7625.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7625" data-uslm-ref="/us/usc/t38/s7625">7625.</a>  </td>
 
     <td> Allocation and distribution of funding.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER IV—ADMINISTRATIVE MATTERS  </td>
 
   <tr>
 
-    <td> 7631.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7631" data-uslm-ref="/us/usc/t38/s7631">7631.</a>  </td>
 
     <td> Periodic adjustments in amount of assistance.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER IV—ADMINISTRATIVE MATTERS  </td>
 
   <tr>
 
-    <td> 7632.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7632" data-uslm-ref="/us/usc/t38/s7632">7632.</a>  </td>
 
     <td> Annual report.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER IV—ADMINISTRATIVE MATTERS  </td>
 
   <tr>
 
-    <td> 7633.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7633" data-uslm-ref="/us/usc/t38/s7633">7633.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER IV—ADMINISTRATIVE MATTERS  </td>
 
   <tr>
 
-    <td> 7634.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7634" data-uslm-ref="/us/usc/t38/s7634">7634.</a>  </td>
 
     <td> Breach of agreement; waiver of liability.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER IV—ADMINISTRATIVE MATTERS  </td>
 
   <tr>
 
-    <td> 7635.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7635" data-uslm-ref="/us/usc/t38/s7635">7635.</a>  </td>
 
     <td> Service in other agencies.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER IV—ADMINISTRATIVE MATTERS  </td>
 
   <tr>
 
-    <td> 7636.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7636" data-uslm-ref="/us/usc/t38/s7636">7636.</a>  </td>
 
     <td> Exemption of educational assistance payments from taxation.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER V—STIPEND PROGRAM FOR MEMBERS OF THE SELECTED RESERVE  </td>
 
   <tr>
 
-    <td> 7651.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7651" data-uslm-ref="/us/usc/t38/s7651">7651.</a>  </td>
 
     <td> Authority for program.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER V—STIPEND PROGRAM FOR MEMBERS OF THE SELECTED RESERVE  </td>
 
   <tr>
 
-    <td> 7652.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7652" data-uslm-ref="/us/usc/t38/s7652">7652.</a>  </td>
 
     <td> Eligibility: individuals entitled to benefits under the GI Bill program for members of the Selected Reserve.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER V—STIPEND PROGRAM FOR MEMBERS OF THE SELECTED RESERVE  </td>
 
   <tr>
 
-    <td> 7653.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7653" data-uslm-ref="/us/usc/t38/s7653">7653.</a>  </td>
 
     <td> Amount of assistance.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER V—STIPEND PROGRAM FOR MEMBERS OF THE SELECTED RESERVE  </td>
 
   <tr>
 
-    <td> 7654.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7654" data-uslm-ref="/us/usc/t38/s7654">7654.</a>  </td>
 
     <td> Obligated service.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER V—STIPEND PROGRAM FOR MEMBERS OF THE SELECTED RESERVE  </td>
 
   <tr>
 
-    <td> 7655.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7655" data-uslm-ref="/us/usc/t38/s7655">7655.</a>  </td>
 
     <td> Breach of agreement; liability.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER VI—EMPLOYEE INCENTIVE SCHOLARSHIP PROGRAM  </td>
 
   <tr>
 
-    <td> 7671.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7671" data-uslm-ref="/us/usc/t38/s7671">7671.</a>  </td>
 
     <td> Authority for program.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER VI—EMPLOYEE INCENTIVE SCHOLARSHIP PROGRAM  </td>
 
   <tr>
 
-    <td> 7672.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7672" data-uslm-ref="/us/usc/t38/s7672">7672.</a>  </td>
 
     <td> Eligibility; agreement.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER VI—EMPLOYEE INCENTIVE SCHOLARSHIP PROGRAM  </td>
 
   <tr>
 
-    <td> 7673.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7673" data-uslm-ref="/us/usc/t38/s7673">7673.</a>  </td>
 
     <td> Scholarship.  </td>
 
@@ -329,7 +329,7 @@ SUBCHAPTER VI—EMPLOYEE INCENTIVE SCHOLARSHIP PROGRAM  </td>
 
   <tr>
 
-    <td> 7674.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7674" data-uslm-ref="/us/usc/t38/s7674">7674.</a>  </td>
 
     <td> Obligated service.  </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER VI—EMPLOYEE INCENTIVE SCHOLARSHIP PROGRAM  </td>
 
   <tr>
 
-    <td> 7675.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7675" data-uslm-ref="/us/usc/t38/s7675">7675.</a>  </td>
 
     <td> Breach of agreement: liability.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER VI—EMPLOYEE INCENTIVE SCHOLARSHIP PROGRAM  </td>
 
   <tr>
 
-    <td> [7676.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7676" data-uslm-ref="/us/usc/t38/s7676">7676.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -361,7 +361,7 @@ SUBCHAPTER VII—EDUCATION DEBT REDUCTION PROGRAM  </td>
 
   <tr>
 
-    <td> 7681.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7681" data-uslm-ref="/us/usc/t38/s7681">7681.</a>  </td>
 
     <td> Authority for program.  </td>
 
@@ -369,7 +369,7 @@ SUBCHAPTER VII—EDUCATION DEBT REDUCTION PROGRAM  </td>
 
   <tr>
 
-    <td> 7682.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7682" data-uslm-ref="/us/usc/t38/s7682">7682.</a>  </td>
 
     <td> Eligibility.  </td>
 
@@ -377,7 +377,7 @@ SUBCHAPTER VII—EDUCATION DEBT REDUCTION PROGRAM  </td>
 
   <tr>
 
-    <td> 7683.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7683" data-uslm-ref="/us/usc/t38/s7683">7683.</a>  </td>
 
     <td> Education debt reduction.  </td>
 
@@ -385,7 +385,7 @@ SUBCHAPTER VII—EDUCATION DEBT REDUCTION PROGRAM  </td>
 
   <tr>
 
-    <td> [7684.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7684" data-uslm-ref="/us/usc/t38/s7684">7684.</a>  </td>
 
     <td> Repealed.]  </td>
 

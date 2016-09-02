@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2400.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2400" data-uslm-ref="/us/usc/t38/s2400">2400.</a>  </td>
 
     <td> Establishment of National Cemetery Administration; composition of Administration.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2401" data-uslm-ref="/us/usc/t38/s2401">2401.</a>  </td>
 
     <td> Advisory Committee on Cemeteries and Memorials.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2402.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2402" data-uslm-ref="/us/usc/t38/s2402">2402.</a>  </td>
 
     <td> Persons eligible for interment in national cemeteries.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2403.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2403" data-uslm-ref="/us/usc/t38/s2403">2403.</a>  </td>
 
     <td> Memorial areas.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2404.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2404" data-uslm-ref="/us/usc/t38/s2404">2404.</a>  </td>
 
     <td> Administration.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2405.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2405" data-uslm-ref="/us/usc/t38/s2405">2405.</a>  </td>
 
     <td> Disposition of inactive cemeteries.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2406.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2406" data-uslm-ref="/us/usc/t38/s2406">2406.</a>  </td>
 
     <td> Acquisition of lands.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2407.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2407" data-uslm-ref="/us/usc/t38/s2407">2407.</a>  </td>
 
     <td> Authority to accept and maintain suitable memorials.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2408.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2408" data-uslm-ref="/us/usc/t38/s2408">2408.</a>  </td>
 
     <td> Aid to States for establishment, expansion, and improvement of veterans’ cemeteries.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2409.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2409" data-uslm-ref="/us/usc/t38/s2409">2409.</a>  </td>
 
     <td> Memorial areas in Arlington National Cemetery.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2410.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2410" data-uslm-ref="/us/usc/t38/s2410">2410.</a>  </td>
 
     <td> Burial of cremated remains in Arlington National Cemetery.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 2410A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2410A" data-uslm-ref="/us/usc/t38/s2410A">2410A.</a>  </td>
 
     <td> Arlington National Cemetery: other administrative matters.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 2411.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2411" data-uslm-ref="/us/usc/t38/s2411">2411.</a>  </td>
 
     <td> Prohibition against interment or memorialization in the National Cemetery Administration or Arlington National Cemetery of persons committing Federal or State capital crimes.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 2412.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2412" data-uslm-ref="/us/usc/t38/s2412">2412.</a>  </td>
 
     <td> Lease of land and buildings.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 2413.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2413" data-uslm-ref="/us/usc/t38/s2413">2413.</a>  </td>
 
     <td> Prohibition on certain demonstrations and disruptions at cemeteries under control of the National Cemetery Administration and at Arlington National Cemetery.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 2414.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2414" data-uslm-ref="/us/usc/t38/s2414">2414.</a>  </td>
 
     <td> Communication between Department of Veterans Affairs and medical examiners and funeral directors.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 7801.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7801" data-uslm-ref="/us/usc/t38/s7801">7801.</a>  </td>
 
     <td> Purpose of Veterans’ Canteen Service.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 7802.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7802" data-uslm-ref="/us/usc/t38/s7802">7802.</a>  </td>
 
     <td> Duties of Secretary with respect to Service.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 7803.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7803" data-uslm-ref="/us/usc/t38/s7803">7803.</a>  </td>
 
     <td> Operation of Service.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 7804.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7804" data-uslm-ref="/us/usc/t38/s7804">7804.</a>  </td>
 
     <td> Financing of Service.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 7805.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7805" data-uslm-ref="/us/usc/t38/s7805">7805.</a>  </td>
 
     <td> Revolving fund.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 7806.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7806" data-uslm-ref="/us/usc/t38/s7806">7806.</a>  </td>
 
     <td> Budget of Service.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 7807.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7807" data-uslm-ref="/us/usc/t38/s7807">7807.</a>  </td>
 
     <td> Audit of accounts.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 7808.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7808" data-uslm-ref="/us/usc/t38/s7808">7808.</a>  </td>
 
     <td> Service to be independent unit.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 7809.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7809" data-uslm-ref="/us/usc/t38/s7809">7809.</a>  </td>
 
     <td> Child-care centers.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 7810.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs7810" data-uslm-ref="/us/usc/t38/s7810">7810.</a>  </td>
 
     <td> Exemption from personnel ceilings.  </td>
 

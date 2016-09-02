@@ -33,7 +33,7 @@ SUBCHAPTER I—ACQUISITION AND OPERATION OF MEDICAL FACILITIES  </td>
 
   <tr>
 
-    <td> 8101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8101" data-uslm-ref="/us/usc/t38/s8101">8101.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—ACQUISITION AND OPERATION OF MEDICAL FACILITIES  </td>
 
   <tr>
 
-    <td> 8102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8102" data-uslm-ref="/us/usc/t38/s8102">8102.</a>  </td>
 
     <td> Acquisition of medical facilities.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—ACQUISITION AND OPERATION OF MEDICAL FACILITIES  </td>
 
   <tr>
 
-    <td> 8103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8103" data-uslm-ref="/us/usc/t38/s8103">8103.</a>  </td>
 
     <td> Authority to construct and alter, and to acquire sites for, medical facilities.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—ACQUISITION AND OPERATION OF MEDICAL FACILITIES  </td>
 
   <tr>
 
-    <td> 8104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8104" data-uslm-ref="/us/usc/t38/s8104">8104.</a>  </td>
 
     <td> Congressional approval of certain medical facility acquisitions.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—ACQUISITION AND OPERATION OF MEDICAL FACILITIES  </td>
 
   <tr>
 
-    <td> 8105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8105" data-uslm-ref="/us/usc/t38/s8105">8105.</a>  </td>
 
     <td> Structural requirements.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—ACQUISITION AND OPERATION OF MEDICAL FACILITIES  </td>
 
   <tr>
 
-    <td> 8106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8106" data-uslm-ref="/us/usc/t38/s8106">8106.</a>  </td>
 
     <td> Construction contracts.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—ACQUISITION AND OPERATION OF MEDICAL FACILITIES  </td>
 
   <tr>
 
-    <td> [8107.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8107" data-uslm-ref="/us/usc/t38/s8107">8107.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—ACQUISITION AND OPERATION OF MEDICAL FACILITIES  </td>
 
   <tr>
 
-    <td> 8108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8108" data-uslm-ref="/us/usc/t38/s8108">8108.</a>  </td>
 
     <td> Contributions to local authorities.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—ACQUISITION AND OPERATION OF MEDICAL FACILITIES  </td>
 
   <tr>
 
-    <td> 8109.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8109" data-uslm-ref="/us/usc/t38/s8109">8109.</a>  </td>
 
     <td> Parking facilities.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—ACQUISITION AND OPERATION OF MEDICAL FACILITIES  </td>
 
   <tr>
 
-    <td> 8110.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8110" data-uslm-ref="/us/usc/t38/s8110">8110.</a>  </td>
 
     <td> Operation of medical facilities.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—ACQUISITION AND OPERATION OF MEDICAL FACILITIES  </td>
 
   <tr>
 
-    <td> 8111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8111" data-uslm-ref="/us/usc/t38/s8111">8111.</a>  </td>
 
     <td> Sharing of Department of Veterans Affairs and Department of Defense health care resources.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER I—ACQUISITION AND OPERATION OF MEDICAL FACILITIES  </td>
 
   <tr>
 
-    <td> 8111A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8111A" data-uslm-ref="/us/usc/t38/s8111A">8111A.</a>  </td>
 
     <td> Furnishing of health-care services to members of the Armed Forces during a war or national emergency.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER I—ACQUISITION AND OPERATION OF MEDICAL FACILITIES  </td>
 
   <tr>
 
-    <td> 8112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8112" data-uslm-ref="/us/usc/t38/s8112">8112.</a>  </td>
 
     <td> Partial relinquishment of legislative jurisdiction.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER I—ACQUISITION AND OPERATION OF MEDICAL FACILITIES  </td>
 
   <tr>
 
-    <td> 8113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8113" data-uslm-ref="/us/usc/t38/s8113">8113.</a>  </td>
 
     <td> Property formerly owned by National Home for Disabled Volunteer Soldiers.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER I—ACQUISITION AND OPERATION OF MEDICAL FACILITIES  </td>
 
   <tr>
 
-    <td> 8114.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8114" data-uslm-ref="/us/usc/t38/s8114">8114.</a>  </td>
 
     <td> Use of federally owned facilities; use of personnel.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER I—ACQUISITION AND OPERATION OF MEDICAL FACILITIES  </td>
 
   <tr>
 
-    <td> 8115.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8115" data-uslm-ref="/us/usc/t38/s8115">8115.</a>  </td>
 
     <td> Acceptance of certain property.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER I—ACQUISITION AND OPERATION OF MEDICAL FACILITIES  </td>
 
   <tr>
 
-    <td> 8116.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8116" data-uslm-ref="/us/usc/t38/s8116">8116.</a>  </td>
 
     <td> Nursing home revolving fund.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER I—ACQUISITION AND OPERATION OF MEDICAL FACILITIES  </td>
 
   <tr>
 
-    <td> 8117.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8117" data-uslm-ref="/us/usc/t38/s8117">8117.</a>  </td>
 
     <td> Emergency preparedness.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER I—ACQUISITION AND OPERATION OF MEDICAL FACILITIES  </td>
 
   <tr>
 
-    <td> 8118.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8118" data-uslm-ref="/us/usc/t38/s8118">8118.</a>  </td>
 
     <td> Authority for transfer of real property; Department of Veterans Affairs Capital Asset Fund.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER I—ACQUISITION AND OPERATION OF MEDICAL FACILITIES  </td>
 
   <tr>
 
-    <td> 8119.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8119" data-uslm-ref="/us/usc/t38/s8119">8119.</a>  </td>
 
     <td> Annual report on outpatient clinics.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER II—PROCUREMENT AND SUPPLY  </td>
 
   <tr>
 
-    <td> 8121.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8121" data-uslm-ref="/us/usc/t38/s8121">8121.</a>  </td>
 
     <td> Revolving supply fund.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER II—PROCUREMENT AND SUPPLY  </td>
 
   <tr>
 
-    <td> 8122.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8122" data-uslm-ref="/us/usc/t38/s8122">8122.</a>  </td>
 
     <td> Authority to procure and dispose of property and to negotiate for common services.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER II—PROCUREMENT AND SUPPLY  </td>
 
   <tr>
 
-    <td> 8123.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8123" data-uslm-ref="/us/usc/t38/s8123">8123.</a>  </td>
 
     <td> Procurement of prosthetic appliances.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER II—PROCUREMENT AND SUPPLY  </td>
 
   <tr>
 
-    <td> 8124.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8124" data-uslm-ref="/us/usc/t38/s8124">8124.</a>  </td>
 
     <td> Grant of easements in Government-owned lands.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER II—PROCUREMENT AND SUPPLY  </td>
 
   <tr>
 
-    <td> 8125.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8125" data-uslm-ref="/us/usc/t38/s8125">8125.</a>  </td>
 
     <td> Procurement of health-care items.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER II—PROCUREMENT AND SUPPLY  </td>
 
   <tr>
 
-    <td> 8126.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8126" data-uslm-ref="/us/usc/t38/s8126">8126.</a>  </td>
 
     <td> Limitation on prices of drugs procured by Department and certain other Federal agencies.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER II—PROCUREMENT AND SUPPLY  </td>
 
   <tr>
 
-    <td> 8127.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8127" data-uslm-ref="/us/usc/t38/s8127">8127.</a>  </td>
 
     <td> Small business concerns owned and controlled by veterans: contracting goals and preferences.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER II—PROCUREMENT AND SUPPLY  </td>
 
   <tr>
 
-    <td> 8128.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8128" data-uslm-ref="/us/usc/t38/s8128">8128.</a>  </td>
 
     <td> Small business concerns owned and controlled by veterans: contracting priority.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER III—STATE HOME FACILITIES FOR FURNISHING DOMICILIARY, NURSING HOME,
 
   <tr>
 
-    <td> 8131.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8131" data-uslm-ref="/us/usc/t38/s8131">8131.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER III—STATE HOME FACILITIES FOR FURNISHING DOMICILIARY, NURSING HOME,
 
   <tr>
 
-    <td> 8132.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8132" data-uslm-ref="/us/usc/t38/s8132">8132.</a>  </td>
 
     <td> Declaration of purpose.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER III—STATE HOME FACILITIES FOR FURNISHING DOMICILIARY, NURSING HOME,
 
   <tr>
 
-    <td> 8133.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8133" data-uslm-ref="/us/usc/t38/s8133">8133.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER III—STATE HOME FACILITIES FOR FURNISHING DOMICILIARY, NURSING HOME,
 
   <tr>
 
-    <td> 8134.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8134" data-uslm-ref="/us/usc/t38/s8134">8134.</a>  </td>
 
     <td> General regulations.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER III—STATE HOME FACILITIES FOR FURNISHING DOMICILIARY, NURSING HOME,
 
   <tr>
 
-    <td> 8135.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8135" data-uslm-ref="/us/usc/t38/s8135">8135.</a>  </td>
 
     <td> Applications with respect to projects; payments.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER III—STATE HOME FACILITIES FOR FURNISHING DOMICILIARY, NURSING HOME,
 
   <tr>
 
-    <td> 8136.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8136" data-uslm-ref="/us/usc/t38/s8136">8136.</a>  </td>
 
     <td> Recapture provisions.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER III—STATE HOME FACILITIES FOR FURNISHING DOMICILIARY, NURSING HOME,
 
   <tr>
 
-    <td> 8137.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8137" data-uslm-ref="/us/usc/t38/s8137">8137.</a>  </td>
 
     <td> State control of operations.  </td>
 
@@ -329,7 +329,7 @@ SUBCHAPTER III—STATE HOME FACILITIES FOR FURNISHING DOMICILIARY, NURSING HOME,
 
   <tr>
 
-    <td> 8138.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8138" data-uslm-ref="/us/usc/t38/s8138">8138.</a>  </td>
 
     <td> Treatment of certain health facilities as State homes.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER IV—SHARING OF MEDICAL FACILITIES, EQUIPMENT, AND INFORMATION  </td>
 
   <tr>
 
-    <td> 8151.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8151" data-uslm-ref="/us/usc/t38/s8151">8151.</a>  </td>
 
     <td> Statement of congressional purpose.  </td>
 
@@ -353,7 +353,7 @@ SUBCHAPTER IV—SHARING OF MEDICAL FACILITIES, EQUIPMENT, AND INFORMATION  </td>
 
   <tr>
 
-    <td> 8152.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8152" data-uslm-ref="/us/usc/t38/s8152">8152.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -361,7 +361,7 @@ SUBCHAPTER IV—SHARING OF MEDICAL FACILITIES, EQUIPMENT, AND INFORMATION  </td>
 
   <tr>
 
-    <td> 8153.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8153" data-uslm-ref="/us/usc/t38/s8153">8153.</a>  </td>
 
     <td> Sharing of health-care resources.  </td>
 
@@ -369,7 +369,7 @@ SUBCHAPTER IV—SHARING OF MEDICAL FACILITIES, EQUIPMENT, AND INFORMATION  </td>
 
   <tr>
 
-    <td> 8154.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8154" data-uslm-ref="/us/usc/t38/s8154">8154.</a>  </td>
 
     <td> Exchange of medical information.  </td>
 
@@ -377,7 +377,7 @@ SUBCHAPTER IV—SHARING OF MEDICAL FACILITIES, EQUIPMENT, AND INFORMATION  </td>
 
   <tr>
 
-    <td> 8155.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8155" data-uslm-ref="/us/usc/t38/s8155">8155.</a>  </td>
 
     <td> Pilot programs; grants to medical schools.  </td>
 
@@ -385,7 +385,7 @@ SUBCHAPTER IV—SHARING OF MEDICAL FACILITIES, EQUIPMENT, AND INFORMATION  </td>
 
   <tr>
 
-    <td> 8156.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8156" data-uslm-ref="/us/usc/t38/s8156">8156.</a>  </td>
 
     <td> Coordination with health services development activities carried out under the National Health Planning and Resources Development Act of 1974.  </td>
 
@@ -393,7 +393,7 @@ SUBCHAPTER IV—SHARING OF MEDICAL FACILITIES, EQUIPMENT, AND INFORMATION  </td>
 
   <tr>
 
-    <td> 8157.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8157" data-uslm-ref="/us/usc/t38/s8157">8157.</a>  </td>
 
     <td> Joint title to medical equipment.  </td>
 
@@ -401,7 +401,7 @@ SUBCHAPTER IV—SHARING OF MEDICAL FACILITIES, EQUIPMENT, AND INFORMATION  </td>
 
   <tr>
 
-    <td> 8158.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8158" data-uslm-ref="/us/usc/t38/s8158">8158.</a>  </td>
 
     <td> Deposit in escrow.  </td>
 
@@ -417,7 +417,7 @@ SUBCHAPTER V—ENHANCED-USE LEASES OF REAL PROPERTY  </td>
 
   <tr>
 
-    <td> 8161.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8161" data-uslm-ref="/us/usc/t38/s8161">8161.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -425,7 +425,7 @@ SUBCHAPTER V—ENHANCED-USE LEASES OF REAL PROPERTY  </td>
 
   <tr>
 
-    <td> 8162.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8162" data-uslm-ref="/us/usc/t38/s8162">8162.</a>  </td>
 
     <td> Enhanced-use leases.  </td>
 
@@ -433,7 +433,7 @@ SUBCHAPTER V—ENHANCED-USE LEASES OF REAL PROPERTY  </td>
 
   <tr>
 
-    <td> 8163.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8163" data-uslm-ref="/us/usc/t38/s8163">8163.</a>  </td>
 
     <td> Hearing and notice requirements regarding proposed leases.  </td>
 
@@ -441,7 +441,7 @@ SUBCHAPTER V—ENHANCED-USE LEASES OF REAL PROPERTY  </td>
 
   <tr>
 
-    <td> 8164.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8164" data-uslm-ref="/us/usc/t38/s8164">8164.</a>  </td>
 
     <td> Authority for disposition of leased property.  </td>
 
@@ -449,7 +449,7 @@ SUBCHAPTER V—ENHANCED-USE LEASES OF REAL PROPERTY  </td>
 
   <tr>
 
-    <td> 8165.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8165" data-uslm-ref="/us/usc/t38/s8165">8165.</a>  </td>
 
     <td> Use of proceeds.  </td>
 
@@ -457,7 +457,7 @@ SUBCHAPTER V—ENHANCED-USE LEASES OF REAL PROPERTY  </td>
 
   <tr>
 
-    <td> 8166.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8166" data-uslm-ref="/us/usc/t38/s8166">8166.</a>  </td>
 
     <td> Construction standards.  </td>
 
@@ -465,7 +465,7 @@ SUBCHAPTER V—ENHANCED-USE LEASES OF REAL PROPERTY  </td>
 
   <tr>
 
-    <td> 8167.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8167" data-uslm-ref="/us/usc/t38/s8167">8167.</a>  </td>
 
     <td> Exemption from State and local taxes.  </td>
 
@@ -473,7 +473,7 @@ SUBCHAPTER V—ENHANCED-USE LEASES OF REAL PROPERTY  </td>
 
   <tr>
 
-    <td> 8168.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8168" data-uslm-ref="/us/usc/t38/s8168">8168.</a>  </td>
 
     <td> Annual reports.  </td>
 
@@ -481,7 +481,7 @@ SUBCHAPTER V—ENHANCED-USE LEASES OF REAL PROPERTY  </td>
 
   <tr>
 
-    <td> 8169.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8169" data-uslm-ref="/us/usc/t38/s8169">8169.</a>  </td>
 
     <td> Expiration.  </td>
 

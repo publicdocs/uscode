@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3100.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3100" data-uslm-ref="/us/usc/t38/s3100">3100.</a>  </td>
 
     <td> Purposes.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3101" data-uslm-ref="/us/usc/t38/s3101">3101.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3102" data-uslm-ref="/us/usc/t38/s3102">3102.</a>  </td>
 
     <td> Basic entitlement.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3103" data-uslm-ref="/us/usc/t38/s3103">3103.</a>  </td>
 
     <td> Periods of eligibility.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3104" data-uslm-ref="/us/usc/t38/s3104">3104.</a>  </td>
 
     <td> Scope of services and assistance.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3105" data-uslm-ref="/us/usc/t38/s3105">3105.</a>  </td>
 
     <td> Duration of rehabilitation programs.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3106" data-uslm-ref="/us/usc/t38/s3106">3106.</a>  </td>
 
     <td> Initial and extended evaluations; determinations regarding serious employment handicap.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 3107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3107" data-uslm-ref="/us/usc/t38/s3107">3107.</a>  </td>
 
     <td> Individualized vocational rehabilitation plan.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 3108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3108" data-uslm-ref="/us/usc/t38/s3108">3108.</a>  </td>
 
     <td> Allowances.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 3109.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3109" data-uslm-ref="/us/usc/t38/s3109">3109.</a>  </td>
 
     <td> Entitlement to independent living services and assistance.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 3110.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3110" data-uslm-ref="/us/usc/t38/s3110">3110.</a>  </td>
 
     <td> Leaves of absence.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 3111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3111" data-uslm-ref="/us/usc/t38/s3111">3111.</a>  </td>
 
     <td> Regulations to promote satisfactory conduct and cooperation.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 3112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3112" data-uslm-ref="/us/usc/t38/s3112">3112.</a>  </td>
 
     <td> Revolving fund loans.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 3113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3113" data-uslm-ref="/us/usc/t38/s3113">3113.</a>  </td>
 
     <td> Vocational rehabilitation for hospitalized members of the Armed Forces and veterans.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 3114.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3114" data-uslm-ref="/us/usc/t38/s3114">3114.</a>  </td>
 
     <td> Vocational rehabilitation outside the United States.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 3115.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3115" data-uslm-ref="/us/usc/t38/s3115">3115.</a>  </td>
 
     <td> Rehabilitation resources.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 3116.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3116" data-uslm-ref="/us/usc/t38/s3116">3116.</a>  </td>
 
     <td> Promotion of employment and training opportunities.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 3117.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3117" data-uslm-ref="/us/usc/t38/s3117">3117.</a>  </td>
 
     <td> Employment assistance.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 3118.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3118" data-uslm-ref="/us/usc/t38/s3118">3118.</a>  </td>
 
     <td> Personnel training, development, and qualifications.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 3119.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3119" data-uslm-ref="/us/usc/t38/s3119">3119.</a>  </td>
 
     <td> Rehabilitation research and special projects.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 3120.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3120" data-uslm-ref="/us/usc/t38/s3120">3120.</a>  </td>
 
     <td> Program of independent living services and assistance.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 3121.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3121" data-uslm-ref="/us/usc/t38/s3121">3121.</a>  </td>
 
     <td> Veterans’ Advisory Committee on Rehabilitation.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 3122.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs3122" data-uslm-ref="/us/usc/t38/s3122">3122.</a>  </td>
 
     <td> Longitudinal study of vocational rehabilitation programs.  </td>
 

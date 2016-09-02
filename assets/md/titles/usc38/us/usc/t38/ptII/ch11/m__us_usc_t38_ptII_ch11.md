@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1101" data-uslm-ref="/us/usc/t38/s1101">1101.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1102" data-uslm-ref="/us/usc/t38/s1102">1102.</a>  </td>
 
     <td> Special provisions relating to surviving spouses.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1103" data-uslm-ref="/us/usc/t38/s1103">1103.</a>  </td>
 
     <td> Special provisions relating to claims based upon effects of tobacco products.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
-    <td> 1104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1104" data-uslm-ref="/us/usc/t38/s1104">1104.</a>  </td>
 
     <td> Cost-of-living adjustments.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—WARTIME DISABILITY COMPENSATION  </td>
 
   <tr>
 
-    <td> 1110.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1110" data-uslm-ref="/us/usc/t38/s1110">1110.</a>  </td>
 
     <td> Basic entitlement.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—WARTIME DISABILITY COMPENSATION  </td>
 
   <tr>
 
-    <td> 1111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1111" data-uslm-ref="/us/usc/t38/s1111">1111.</a>  </td>
 
     <td> Presumption of sound condition.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—WARTIME DISABILITY COMPENSATION  </td>
 
   <tr>
 
-    <td> 1112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1112" data-uslm-ref="/us/usc/t38/s1112">1112.</a>  </td>
 
     <td> Presumptions relating to certain diseases and disabilities.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—WARTIME DISABILITY COMPENSATION  </td>
 
   <tr>
 
-    <td> 1113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1113" data-uslm-ref="/us/usc/t38/s1113">1113.</a>  </td>
 
     <td> Presumptions rebuttable.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—WARTIME DISABILITY COMPENSATION  </td>
 
   <tr>
 
-    <td> 1114.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1114" data-uslm-ref="/us/usc/t38/s1114">1114.</a>  </td>
 
     <td> Rates of wartime disability compensation.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—WARTIME DISABILITY COMPENSATION  </td>
 
   <tr>
 
-    <td> 1115.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1115" data-uslm-ref="/us/usc/t38/s1115">1115.</a>  </td>
 
     <td> Additional compensation for dependents.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—WARTIME DISABILITY COMPENSATION  </td>
 
   <tr>
 
-    <td> 1116.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1116" data-uslm-ref="/us/usc/t38/s1116">1116.</a>  </td>
 
     <td> Presumptions of service connection for diseases associated with exposure to certain herbicide agents; presumption of exposure for veterans who served in the Republic of Vietnam.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—WARTIME DISABILITY COMPENSATION  </td>
 
   <tr>
 
-    <td> 1117.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1117" data-uslm-ref="/us/usc/t38/s1117">1117.</a>  </td>
 
     <td> Compensation for disabilities occurring in Persian Gulf War veterans.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—WARTIME DISABILITY COMPENSATION  </td>
 
   <tr>
 
-    <td> 1118.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1118" data-uslm-ref="/us/usc/t38/s1118">1118.</a>  </td>
 
     <td> Presumptions of service connection for illnesses associated with service in the Persian Gulf during the Persian Gulf War.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER III—WARTIME DEATH COMPENSATION  </td>
 
   <tr>
 
-    <td> 1121.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1121" data-uslm-ref="/us/usc/t38/s1121">1121.</a>  </td>
 
     <td> Basic entitlement.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER III—WARTIME DEATH COMPENSATION  </td>
 
   <tr>
 
-    <td> 1122.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1122" data-uslm-ref="/us/usc/t38/s1122">1122.</a>  </td>
 
     <td> Rates of wartime death compensation.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER IV—PEACETIME DISABILITY COMPENSATION  </td>
 
   <tr>
 
-    <td> 1131.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1131" data-uslm-ref="/us/usc/t38/s1131">1131.</a>  </td>
 
     <td> Basic entitlement.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER IV—PEACETIME DISABILITY COMPENSATION  </td>
 
   <tr>
 
-    <td> 1132.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1132" data-uslm-ref="/us/usc/t38/s1132">1132.</a>  </td>
 
     <td> Presumption of sound condition.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER IV—PEACETIME DISABILITY COMPENSATION  </td>
 
   <tr>
 
-    <td> 1133.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1133" data-uslm-ref="/us/usc/t38/s1133">1133.</a>  </td>
 
     <td> Presumptions relating to certain diseases.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER IV—PEACETIME DISABILITY COMPENSATION  </td>
 
   <tr>
 
-    <td> 1134.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1134" data-uslm-ref="/us/usc/t38/s1134">1134.</a>  </td>
 
     <td> Rates of peacetime disability compensation.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER IV—PEACETIME DISABILITY COMPENSATION  </td>
 
   <tr>
 
-    <td> 1135.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1135" data-uslm-ref="/us/usc/t38/s1135">1135.</a>  </td>
 
     <td> Additional compensation for dependents.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER IV—PEACETIME DISABILITY COMPENSATION  </td>
 
   <tr>
 
-    <td> 1137.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1137" data-uslm-ref="/us/usc/t38/s1137">1137.</a>  </td>
 
     <td> Wartime presumptions for certain veterans.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER V—PEACETIME DEATH COMPENSATION  </td>
 
   <tr>
 
-    <td> 1141.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1141" data-uslm-ref="/us/usc/t38/s1141">1141.</a>  </td>
 
     <td> Basic entitlement.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER V—PEACETIME DEATH COMPENSATION  </td>
 
   <tr>
 
-    <td> 1142.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1142" data-uslm-ref="/us/usc/t38/s1142">1142.</a>  </td>
 
     <td> Rates of peacetime death compensation.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER VI—GENERAL COMPENSATION PROVISIONS  </td>
 
   <tr>
 
-    <td> 1151.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1151" data-uslm-ref="/us/usc/t38/s1151">1151.</a>  </td>
 
     <td> Benefits for persons disabled by treatment or vocational rehabilitation.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER VI—GENERAL COMPENSATION PROVISIONS  </td>
 
   <tr>
 
-    <td> 1152.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1152" data-uslm-ref="/us/usc/t38/s1152">1152.</a>  </td>
 
     <td> Persons heretofore having a compensable status.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER VI—GENERAL COMPENSATION PROVISIONS  </td>
 
   <tr>
 
-    <td> 1153.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1153" data-uslm-ref="/us/usc/t38/s1153">1153.</a>  </td>
 
     <td> Aggravation.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER VI—GENERAL COMPENSATION PROVISIONS  </td>
 
   <tr>
 
-    <td> 1154.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1154" data-uslm-ref="/us/usc/t38/s1154">1154.</a>  </td>
 
     <td> Consideration to be accorded time, place, and circumstances of service.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER VI—GENERAL COMPENSATION PROVISIONS  </td>
 
   <tr>
 
-    <td> 1155.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1155" data-uslm-ref="/us/usc/t38/s1155">1155.</a>  </td>
 
     <td> Authority for schedule for rating disabilities.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER VI—GENERAL COMPENSATION PROVISIONS  </td>
 
   <tr>
 
-    <td> 1156.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1156" data-uslm-ref="/us/usc/t38/s1156">1156.</a>  </td>
 
     <td> Temporary disability ratings.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER VI—GENERAL COMPENSATION PROVISIONS  </td>
 
   <tr>
 
-    <td> 1157.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1157" data-uslm-ref="/us/usc/t38/s1157">1157.</a>  </td>
 
     <td> Combination of certain ratings.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER VI—GENERAL COMPENSATION PROVISIONS  </td>
 
   <tr>
 
-    <td> 1158.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1158" data-uslm-ref="/us/usc/t38/s1158">1158.</a>  </td>
 
     <td> Disappearance.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER VI—GENERAL COMPENSATION PROVISIONS  </td>
 
   <tr>
 
-    <td> 1159.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1159" data-uslm-ref="/us/usc/t38/s1159">1159.</a>  </td>
 
     <td> Protection of service connection.  </td>
 
@@ -329,7 +329,7 @@ SUBCHAPTER VI—GENERAL COMPENSATION PROVISIONS  </td>
 
   <tr>
 
-    <td> 1160.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1160" data-uslm-ref="/us/usc/t38/s1160">1160.</a>  </td>
 
     <td> Special consideration for certain cases of loss of paired organs or extremities.  </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER VI—GENERAL COMPENSATION PROVISIONS  </td>
 
   <tr>
 
-    <td> 1161.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1161" data-uslm-ref="/us/usc/t38/s1161">1161.</a>  </td>
 
     <td> Payment of disability compensation in disability severance cases.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER VI—GENERAL COMPENSATION PROVISIONS  </td>
 
   <tr>
 
-    <td> 1162.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1162" data-uslm-ref="/us/usc/t38/s1162">1162.</a>  </td>
 
     <td> Clothing allowance.  </td>
 
@@ -353,7 +353,7 @@ SUBCHAPTER VI—GENERAL COMPENSATION PROVISIONS  </td>
 
   <tr>
 
-    <td> 1163.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1163" data-uslm-ref="/us/usc/t38/s1163">1163.</a>  </td>
 
     <td> Trial work periods and vocational rehabilitation for certain veterans with total disability ratings.  </td>
 

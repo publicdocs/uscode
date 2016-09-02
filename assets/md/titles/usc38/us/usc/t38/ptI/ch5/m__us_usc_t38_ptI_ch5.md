@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL AUTHORITIES  </td>
 
   <tr>
 
-    <td> 501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs501" data-uslm-ref="/us/usc/t38/s501">501.</a>  </td>
 
     <td> Rules and regulations.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL AUTHORITIES  </td>
 
   <tr>
 
-    <td> 502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs502" data-uslm-ref="/us/usc/t38/s502">502.</a>  </td>
 
     <td> Judicial review of rules and regulations.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL AUTHORITIES  </td>
 
   <tr>
 
-    <td> 503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs503" data-uslm-ref="/us/usc/t38/s503">503.</a>  </td>
 
     <td> Administrative error; equitable relief.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERAL AUTHORITIES  </td>
 
   <tr>
 
-    <td> 505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs505" data-uslm-ref="/us/usc/t38/s505">505.</a>  </td>
 
     <td> Opinions of Attorney General.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—GENERAL AUTHORITIES  </td>
 
   <tr>
 
-    <td> 510.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs510" data-uslm-ref="/us/usc/t38/s510">510.</a>  </td>
 
     <td> Authority to reorganize offices.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—GENERAL AUTHORITIES  </td>
 
   <tr>
 
-    <td> 511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs511" data-uslm-ref="/us/usc/t38/s511">511.</a>  </td>
 
     <td> Decisions of the Secretary; finality.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—GENERAL AUTHORITIES  </td>
 
   <tr>
 
-    <td> 512.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs512" data-uslm-ref="/us/usc/t38/s512">512.</a>  </td>
 
     <td> Delegation of authority; assignment of functions and duties.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—GENERAL AUTHORITIES  </td>
 
   <tr>
 
-    <td> 513.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs513" data-uslm-ref="/us/usc/t38/s513">513.</a>  </td>
 
     <td> Contracts and personal services.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—GENERAL AUTHORITIES  </td>
 
   <tr>
 
-    <td> 515.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs515" data-uslm-ref="/us/usc/t38/s515">515.</a>  </td>
 
     <td> Administrative settlement of tort claims.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—GENERAL AUTHORITIES  </td>
 
   <tr>
 
-    <td> 516.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs516" data-uslm-ref="/us/usc/t38/s516">516.</a>  </td>
 
     <td> Equal employment responsibilities.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—GENERAL AUTHORITIES  </td>
 
   <tr>
 
-    <td> 517.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs517" data-uslm-ref="/us/usc/t38/s517">517.</a>  </td>
 
     <td> Quarterly reports to Congress on conferences sponsored by the Department.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—SPECIFIED FUNCTIONS  </td>
 
   <tr>
 
-    <td> 521.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs521" data-uslm-ref="/us/usc/t38/s521">521.</a>  </td>
 
     <td> Assistance to certain rehabilitation activities.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—SPECIFIED FUNCTIONS  </td>
 
   <tr>
 
-    <td> 521A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs521A" data-uslm-ref="/us/usc/t38/s521A">521A.</a>  </td>
 
     <td> Assistance for United States Paralympics, Inc.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—SPECIFIED FUNCTIONS  </td>
 
   <tr>
 
-    <td> 522.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs522" data-uslm-ref="/us/usc/t38/s522">522.</a>  </td>
 
     <td> Studies of rehabilitation of disabled persons.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—SPECIFIED FUNCTIONS  </td>
 
   <tr>
 
-    <td> 523.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs523" data-uslm-ref="/us/usc/t38/s523">523.</a>  </td>
 
     <td> Coordination and promotion of other programs affecting veterans and their dependents.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—SPECIFIED FUNCTIONS  </td>
 
   <tr>
 
-    <td> 525.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs525" data-uslm-ref="/us/usc/t38/s525">525.</a>  </td>
 
     <td> Publication of laws relating to veterans.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—SPECIFIED FUNCTIONS  </td>
 
   <tr>
 
-    <td> 527.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs527" data-uslm-ref="/us/usc/t38/s527">527.</a>  </td>
 
     <td> Evaluation and data collection.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER II—SPECIFIED FUNCTIONS  </td>
 
   <tr>
 
-    <td> 529.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs529" data-uslm-ref="/us/usc/t38/s529">529.</a>  </td>
 
     <td> Annual report to Congress.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER II—SPECIFIED FUNCTIONS  </td>
 
   <tr>
 
-    <td> 530.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs530" data-uslm-ref="/us/usc/t38/s530">530.</a>  </td>
 
     <td> Annual report on program and expenditures for domestic response to weapons of mass destruction.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER II—SPECIFIED FUNCTIONS  </td>
 
   <tr>
 
-    <td> 531.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs531" data-uslm-ref="/us/usc/t38/s531">531.</a>  </td>
 
     <td> Requirement relating to naming of Department property.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER II—SPECIFIED FUNCTIONS  </td>
 
   <tr>
 
-    <td> 532.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs532" data-uslm-ref="/us/usc/t38/s532">532.</a>  </td>
 
     <td> Authority to advertise in national media; VetStar Award Program.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER III—ADVISORY COMMITTEES  </td>
 
   <tr>
 
-    <td> 541.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs541" data-uslm-ref="/us/usc/t38/s541">541.</a>  </td>
 
     <td> Advisory Committee on Former Prisoners of War.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER III—ADVISORY COMMITTEES  </td>
 
   <tr>
 
-    <td> 542.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs542" data-uslm-ref="/us/usc/t38/s542">542.</a>  </td>
 
     <td> Advisory Committee on Women Veterans.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER III—ADVISORY COMMITTEES  </td>
 
   <tr>
 
-    <td> 543.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs543" data-uslm-ref="/us/usc/t38/s543">543.</a>  </td>
 
     <td> Advisory Committee on Prosthetics and Special-Disabilities Programs.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER III—ADVISORY COMMITTEES  </td>
 
   <tr>
 
-    <td> 544.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs544" data-uslm-ref="/us/usc/t38/s544">544.</a>  </td>
 
     <td> Advisory Committee on Minority Veterans.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER III—ADVISORY COMMITTEES  </td>
 
   <tr>
 
-    <td> 545.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs545" data-uslm-ref="/us/usc/t38/s545">545.</a>  </td>
 
     <td> Advisory Committee on the Readjustment of Veterans.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER III—ADVISORY COMMITTEES  </td>
 
   <tr>
 
-    <td> 546.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs546" data-uslm-ref="/us/usc/t38/s546">546.</a>  </td>
 
     <td> Advisory Committee on Disability Compensation.  </td>
 

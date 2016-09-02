@@ -29,71 +29,71 @@
 
   <tr>
 
-    <td> 51.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2FptIV%2Fch51" data-uslm-ref="/us/usc/t38/ptIV/ch51">51.</a>  </td>
 
     <td> Claims, Effective Dates, and Payments  </td>
 
-    <td> 5100  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5100" data-uslm-ref="/us/usc/t38/s5100">5100</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 53.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2FptIV%2Fch53" data-uslm-ref="/us/usc/t38/ptIV/ch53">53.</a>  </td>
 
     <td> Special Provisions Relating to Benefits  </td>
 
-    <td> 5301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5301" data-uslm-ref="/us/usc/t38/s5301">5301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 55.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2FptIV%2Fch55" data-uslm-ref="/us/usc/t38/ptIV/ch55">55.</a>  </td>
 
     <td> Minors, Incompetents, and Other Wards  </td>
 
-    <td> 5501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5501" data-uslm-ref="/us/usc/t38/s5501">5501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 57.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2FptIV%2Fch57" data-uslm-ref="/us/usc/t38/ptIV/ch57">57.</a>  </td>
 
     <td> Records and Investigations  </td>
 
-    <td> 5701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5701" data-uslm-ref="/us/usc/t38/s5701">5701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 59.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2FptIV%2Fch59" data-uslm-ref="/us/usc/t38/ptIV/ch59">59.</a>  </td>
 
     <td> Agents and Attorneys  </td>
 
-    <td> 5901  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5901" data-uslm-ref="/us/usc/t38/s5901">5901</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 61.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2FptIV%2Fch61" data-uslm-ref="/us/usc/t38/ptIV/ch61">61.</a>  </td>
 
     <td> Penal and Forfeiture Provisions  </td>
 
-    <td> 6101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs6101" data-uslm-ref="/us/usc/t38/s6101">6101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 63.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2FptIV%2Fch63" data-uslm-ref="/us/usc/t38/ptIV/ch63">63.</a>  </td>
 
     <td> Outreach Activities  </td>
 
-    <td> 6301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs6301" data-uslm-ref="/us/usc/t38/s6301">6301</a>  </td>
 
   </tr>
 

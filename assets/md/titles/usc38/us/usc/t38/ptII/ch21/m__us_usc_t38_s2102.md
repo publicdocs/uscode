@@ -39,9 +39,9 @@
 
     (d)
 
-        (1) The aggregate amount of assistance available to an individual under sections 2101(a) and 2102A of this title shall be limited to $60,000.
+        (1) The aggregate amount of assistance available to an individual under [section 2101(a) of this title][/us/usc/t38/s2101/a] shall be limited to $63,780.
 
-        (2) The aggregate amount of assistance available to an individual under sections 2101(b) and 2102A of this title shall be limited to $12,000.
+        (2) The aggregate amount of assistance available to an individual under [section 2101(b) of this title][/us/usc/t38/s2101/b] shall be limited to $12,756.
 
         (3) No veteran may receive more than three grants of assistance under this chapter.
 
@@ -60,18 +60,6 @@
         (3) The Secretary shall establish a residential home cost-of-construction index for the purposes of this subsection. The index shall reflect a uniform, national average change in the cost of residential home construction, determined on a calendar year basis. The Secretary may use an index developed in the private sector that the Secretary determines is appropriate for purposes of this subsection.
 
 ([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1168][/us/stat/72/1168], § 802; [Pub. L. 91–22, § 2][/us/pl/91/22/s2], June 6, 1969, [83 Stat. 32][/us/stat/83/32]; [Pub. L. 91–506, § 6][/us/pl/91/506/s6], Oct. 23, 1970, [84 Stat. 1113][/us/stat/84/1113]; [Pub. L. 92–341][/us/pl/92/341], July 10, 1972, [86 Stat. 432][/us/stat/86/432]; [Pub. L. 93–569, § 9][/us/pl/93/569/s9], Dec. 31, 1974, [88 Stat. 1867][/us/stat/88/1867]; [Pub. L. 95–476, title I, § 101][/us/pl/95/476/s101], Oct. 18, 1978, [92 Stat. 1497][/us/stat/92/1497]; [Pub. L. 96–385, title III, § 301(b)][/us/pl/96/385/s301/b], Oct. 7, 1980, [94 Stat. 1531][/us/stat/94/1531]; [Pub. L. 97–66, title V, § 502][/us/pl/97/66/s502], Oct. 17, 1981, [95 Stat. 1032][/us/stat/95/1032]; [Pub. L. 97–295, § 4(33)][/us/pl/97/295/s4/33], Oct. 12, 1982, [96 Stat. 1307][/us/stat/96/1307]; [Pub. L. 98–543, title III, § 304(a)][/us/pl/98/543/s304/a], Oct. 24, 1984, [98 Stat. 2748][/us/stat/98/2748]; [Pub. L. 99–576, title IV, § 401(b)][/us/pl/99/576/s401/b], Oct. 28, 1986, [100 Stat. 3280][/us/stat/100/3280]; [Pub. L. 100–322, title III, § 301][/us/pl/100/322/s301], May 20, 1988, [102 Stat. 534][/us/stat/102/534]; renumbered § 2102 and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 105–178, title VIII, § 8204(a)][/us/pl/105/178/s8204/a], June 9, 1998, [112 Stat. 494][/us/stat/112/494]; [Pub. L. 106–419, title III, § 321][/us/pl/106/419/s321], Nov. 1, 2000, [114 Stat. 1855][/us/stat/114/1855]; [Pub. L. 107–103, title IV, § 404][/us/pl/107/103/s404], Dec. 27, 2001, [115 Stat. 993][/us/stat/115/993]; [Pub. L. 108–183, title IV, § 402(a)][/us/pl/108/183/s402/a], Dec. 16, 2003, [117 Stat. 2664][/us/stat/117/2664]; [Pub. L. 109–233, title I, § 101(b)][/us/pl/109/233/s101/b], June 15, 2006, [120 Stat. 398][/us/stat/120/398]; [Pub. L. 110–289, div. B, title VI][/us/pl/110/289], §§ 2602(b)(2), 2605(a), July 30, 2008, [122 Stat. 2859][/us/stat/122/2859], 2861; [Pub. L. 112–154, title II, § 204(a)][/us/pl/112/154/s204/a], Aug. 6, 2012, [126 Stat. 1177][/us/stat/126/1177].)
-
- __Amendment of Subsection (d)__ 
-
-[Pub. L. 112–154, title II, § 204(a)][/us/pl/112/154/s204/a], (b), Aug. 6, 2012, [126 Stat. 1177][/us/stat/126/1177], provided that, effective one year after Aug. 6, 2012, and applicable to assistance provided under sections 2101(a), 2101(b), and 2102A of this title after that date, subsection (d) of this section is amended to read as follows:
-
-    (d)(1) The aggregate amount of assistance available to an individual under [section 2101(a) of this title][/us/usc/t38/s2101/a] shall be limited to $63,780.
-
-    (2) The aggregate amount of assistance available to an individual under [section 2101(b) of this title][/us/usc/t38/s2101/b] shall be limited to $12,756.
-
-    (3) No veteran may receive more than three grants of assistance under this chapter.
-
-See 2012 Amendment note below.
 
  __Prior Provisions__ 
 
@@ -232,6 +220,8 @@ See 2012 Amendment note below.
 [/us/usc/t38/s2104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2104%2Fb
 [/us/usc/t38/s2101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2101%2Fb
 [/us/usc/t38/s2101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2101%2Fa
+[/us/usc/t38/s2101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2101%2Fa
+[/us/usc/t38/s2101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2101%2Fb
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1168
 [/us/pl/91/22/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F22%2Fs2
@@ -272,10 +262,6 @@ See 2012 Amendment note below.
 [/us/stat/122/2859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2859
 [/us/pl/112/154/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs204%2Fa
 [/us/stat/126/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1177
-[/us/pl/112/154/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154%2Fs204%2Fa
-[/us/stat/126/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1177
-[/us/usc/t38/s2101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2101%2Fa
-[/us/usc/t38/s2101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2101%2Fb
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1223
 [/us/pl/89/50/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F50%2Fs1%2Fa

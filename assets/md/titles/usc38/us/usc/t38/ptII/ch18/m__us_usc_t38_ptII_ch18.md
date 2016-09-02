@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> [1801.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1801" data-uslm-ref="/us/usc/t38/s1801">1801.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—CHILDREN OF VIETNAM VETERANS BORN WITH SPINA BIFIDA  </td>
 
   <tr>
 
-    <td> 1802.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1802" data-uslm-ref="/us/usc/t38/s1802">1802.</a>  </td>
 
     <td> Spina bifida conditions covered.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—CHILDREN OF VIETNAM VETERANS BORN WITH SPINA BIFIDA  </td>
 
   <tr>
 
-    <td> 1803.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1803" data-uslm-ref="/us/usc/t38/s1803">1803.</a>  </td>
 
     <td> Health care.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—CHILDREN OF VIETNAM VETERANS BORN WITH SPINA BIFIDA  </td>
 
   <tr>
 
-    <td> 1804.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1804" data-uslm-ref="/us/usc/t38/s1804">1804.</a>  </td>
 
     <td> Vocational training and rehabilitation.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—CHILDREN OF VIETNAM VETERANS BORN WITH SPINA BIFIDA  </td>
 
   <tr>
 
-    <td> 1805.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1805" data-uslm-ref="/us/usc/t38/s1805">1805.</a>  </td>
 
     <td> Monetary allowance.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—CHILDREN OF VIETNAM VETERANS BORN WITH SPINA BIFIDA  </td>
 
   <tr>
 
-    <td> [1806.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1806" data-uslm-ref="/us/usc/t38/s1806">1806.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—CHILDREN OF WOMEN VIETNAM VETERANS BORN WITH CERTAIN BIRTH DEFEC
 
   <tr>
 
-    <td> 1811.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1811" data-uslm-ref="/us/usc/t38/s1811">1811.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—CHILDREN OF WOMEN VIETNAM VETERANS BORN WITH CERTAIN BIRTH DEFEC
 
   <tr>
 
-    <td> 1812.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1812" data-uslm-ref="/us/usc/t38/s1812">1812.</a>  </td>
 
     <td> Covered birth defects.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—CHILDREN OF WOMEN VIETNAM VETERANS BORN WITH CERTAIN BIRTH DEFEC
 
   <tr>
 
-    <td> 1813.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1813" data-uslm-ref="/us/usc/t38/s1813">1813.</a>  </td>
 
     <td> Health care.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—CHILDREN OF WOMEN VIETNAM VETERANS BORN WITH CERTAIN BIRTH DEFEC
 
   <tr>
 
-    <td> 1814.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1814" data-uslm-ref="/us/usc/t38/s1814">1814.</a>  </td>
 
     <td> Vocational training.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—CHILDREN OF WOMEN VIETNAM VETERANS BORN WITH CERTAIN BIRTH DEFEC
 
   <tr>
 
-    <td> 1815.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1815" data-uslm-ref="/us/usc/t38/s1815">1815.</a>  </td>
 
     <td> Monetary allowance.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—CHILDREN OF WOMEN VIETNAM VETERANS BORN WITH CERTAIN BIRTH DEFEC
 
   <tr>
 
-    <td> 1816.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1816" data-uslm-ref="/us/usc/t38/s1816">1816.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER III—CHILDREN OF CERTAIN KOREA SERVICE VETERANS BORN WITH SPINA BIFI
 
   <tr>
 
-    <td> 1821.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1821" data-uslm-ref="/us/usc/t38/s1821">1821.</a>  </td>
 
     <td> Benefits for children of certain Korea service veterans born with spina bifida.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER IV—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1831.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1831" data-uslm-ref="/us/usc/t38/s1831">1831.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER IV—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1832.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1832" data-uslm-ref="/us/usc/t38/s1832">1832.</a>  </td>
 
     <td> Applicability of certain administrative provisions.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER IV—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1833.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1833" data-uslm-ref="/us/usc/t38/s1833">1833.</a>  </td>
 
     <td> Treatment of receipt of monetary allowance and other benefits.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER IV—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1834.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs1834" data-uslm-ref="/us/usc/t38/s1834">1834.</a>  </td>
 
     <td> Nonduplication of benefits.  </td>
 

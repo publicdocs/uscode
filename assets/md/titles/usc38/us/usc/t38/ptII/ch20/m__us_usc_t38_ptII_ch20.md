@@ -33,7 +33,7 @@ SUBCHAPTER I—PURPOSE; DEFINITIONS; ADMINISTRATIVE MATTERS  </td>
 
   <tr>
 
-    <td> 2001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2001" data-uslm-ref="/us/usc/t38/s2001">2001.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—PURPOSE; DEFINITIONS; ADMINISTRATIVE MATTERS  </td>
 
   <tr>
 
-    <td> 2002.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2002" data-uslm-ref="/us/usc/t38/s2002">2002.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—PURPOSE; DEFINITIONS; ADMINISTRATIVE MATTERS  </td>
 
   <tr>
 
-    <td> 2003.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2003" data-uslm-ref="/us/usc/t38/s2003">2003.</a>  </td>
 
     <td> Staffing requirements.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER II—COMPREHENSIVE SERVICE PROGRAMS  </td>
 
   <tr>
 
-    <td> 2011.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2011" data-uslm-ref="/us/usc/t38/s2011">2011.</a>  </td>
 
     <td> Grants.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—COMPREHENSIVE SERVICE PROGRAMS  </td>
 
   <tr>
 
-    <td> 2012.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2012" data-uslm-ref="/us/usc/t38/s2012">2012.</a>  </td>
 
     <td> Per diem payments.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—COMPREHENSIVE SERVICE PROGRAMS  </td>
 
   <tr>
 
-    <td> 2013.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2013" data-uslm-ref="/us/usc/t38/s2013">2013.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER III—TRAINING AND OUTREACH  </td>
 
   <tr>
 
-    <td> 2021.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2021" data-uslm-ref="/us/usc/t38/s2021">2021.</a>  </td>
 
     <td> Homeless veterans reintegration programs.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER III—TRAINING AND OUTREACH  </td>
 
   <tr>
 
-    <td> 2021A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2021A" data-uslm-ref="/us/usc/t38/s2021A">2021A.</a>  </td>
 
     <td> Homeless women veterans and homeless veterans with children reintegration grant program.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER III—TRAINING AND OUTREACH  </td>
 
   <tr>
 
-    <td> 2022.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2022" data-uslm-ref="/us/usc/t38/s2022">2022.</a>  </td>
 
     <td> Coordination of outreach services for veterans at risk of homelessness.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER III—TRAINING AND OUTREACH  </td>
 
   <tr>
 
-    <td> 2023.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2023" data-uslm-ref="/us/usc/t38/s2023">2023.</a>  </td>
 
     <td> Referral and counseling services: veterans at risk of homelessness who are transitioning from certain institutions.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER IV—TREATMENT AND REHABILITATION FOR SERIOUSLY MENTALLY ILL AND HOME
 
   <tr>
 
-    <td> 2031.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2031" data-uslm-ref="/us/usc/t38/s2031">2031.</a>  </td>
 
     <td> General treatment.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER IV—TREATMENT AND REHABILITATION FOR SERIOUSLY MENTALLY ILL AND HOME
 
   <tr>
 
-    <td> 2032.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2032" data-uslm-ref="/us/usc/t38/s2032">2032.</a>  </td>
 
     <td> Therapeutic housing.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER IV—TREATMENT AND REHABILITATION FOR SERIOUSLY MENTALLY ILL AND HOME
 
   <tr>
 
-    <td> 2033.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2033" data-uslm-ref="/us/usc/t38/s2033">2033.</a>  </td>
 
     <td> Additional services at certain locations.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER IV—TREATMENT AND REHABILITATION FOR SERIOUSLY MENTALLY ILL AND HOME
 
   <tr>
 
-    <td> 2034.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2034" data-uslm-ref="/us/usc/t38/s2034">2034.</a>  </td>
 
     <td> Coordination with other agencies and organizations.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER V—HOUSING ASSISTANCE  </td>
 
   <tr>
 
-    <td> 2041.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2041" data-uslm-ref="/us/usc/t38/s2041">2041.</a>  </td>
 
     <td> Housing assistance for homeless veterans.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER V—HOUSING ASSISTANCE  </td>
 
   <tr>
 
-    <td> 2042.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2042" data-uslm-ref="/us/usc/t38/s2042">2042.</a>  </td>
 
     <td> Supported housing for veterans participating in compensated work therapies.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER V—HOUSING ASSISTANCE  </td>
 
   <tr>
 
-    <td> 2043.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2043" data-uslm-ref="/us/usc/t38/s2043">2043.</a>  </td>
 
     <td> Domiciliary care programs.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER V—HOUSING ASSISTANCE  </td>
 
   <tr>
 
-    <td> 2044.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2044" data-uslm-ref="/us/usc/t38/s2044">2044.</a>  </td>
 
     <td> Financial assistance for supportive services for very low-income veteran families in permanent housing.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER VI—LOAN GUARANTEE FOR MULTIFAMILY TRANSITIONAL HOUSING  </td>
 
   <tr>
 
-    <td> 2051.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2051" data-uslm-ref="/us/usc/t38/s2051">2051.</a>  </td>
 
     <td> General authority.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER VI—LOAN GUARANTEE FOR MULTIFAMILY TRANSITIONAL HOUSING  </td>
 
   <tr>
 
-    <td> 2052.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2052" data-uslm-ref="/us/usc/t38/s2052">2052.</a>  </td>
 
     <td> Requirements.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER VI—LOAN GUARANTEE FOR MULTIFAMILY TRANSITIONAL HOUSING  </td>
 
   <tr>
 
-    <td> 2053.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2053" data-uslm-ref="/us/usc/t38/s2053">2053.</a>  </td>
 
     <td> Default.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER VI—LOAN GUARANTEE FOR MULTIFAMILY TRANSITIONAL HOUSING  </td>
 
   <tr>
 
-    <td> 2054.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2054" data-uslm-ref="/us/usc/t38/s2054">2054.</a>  </td>
 
     <td> Audit.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER VII—OTHER PROVISIONS  </td>
 
   <tr>
 
-    <td> 2061.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2061" data-uslm-ref="/us/usc/t38/s2061">2061.</a>  </td>
 
     <td> Grant program for homeless veterans with special needs.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER VII—OTHER PROVISIONS  </td>
 
   <tr>
 
-    <td> 2062.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2062" data-uslm-ref="/us/usc/t38/s2062">2062.</a>  </td>
 
     <td> Dental care.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER VII—OTHER PROVISIONS  </td>
 
   <tr>
 
-    <td> 2063.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2063" data-uslm-ref="/us/usc/t38/s2063">2063.</a>  </td>
 
     <td> Employment assistance.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER VII—OTHER PROVISIONS  </td>
 
   <tr>
 
-    <td> 2064.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2064" data-uslm-ref="/us/usc/t38/s2064">2064.</a>  </td>
 
     <td> Technical assistance grants for nonprofit community-based groups.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER VII—OTHER PROVISIONS  </td>
 
   <tr>
 
-    <td> 2065.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2065" data-uslm-ref="/us/usc/t38/s2065">2065.</a>  </td>
 
     <td> Annual report on assistance to homeless veterans.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER VII—OTHER PROVISIONS  </td>
 
   <tr>
 
-    <td> 2066.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs2066" data-uslm-ref="/us/usc/t38/s2066">2066.</a>  </td>
 
     <td> Advisory Committee on Homeless Veterans.  </td>
 

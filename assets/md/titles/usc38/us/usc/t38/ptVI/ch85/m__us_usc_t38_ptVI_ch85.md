@@ -33,7 +33,7 @@ SUBCHAPTER I—PROPERTY LEFT ON DEPARTMENT FACILITY  </td>
 
   <tr>
 
-    <td> 8501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8501" data-uslm-ref="/us/usc/t38/s8501">8501.</a>  </td>
 
     <td> Vesting of property left by decedents.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—PROPERTY LEFT ON DEPARTMENT FACILITY  </td>
 
   <tr>
 
-    <td> 8502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8502" data-uslm-ref="/us/usc/t38/s8502">8502.</a>  </td>
 
     <td> Disposition of unclaimed personal property.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—PROPERTY LEFT ON DEPARTMENT FACILITY  </td>
 
   <tr>
 
-    <td> 8503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8503" data-uslm-ref="/us/usc/t38/s8503">8503.</a>  </td>
 
     <td> Notice of provisions of this subchapter.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—PROPERTY LEFT ON DEPARTMENT FACILITY  </td>
 
   <tr>
 
-    <td> 8504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8504" data-uslm-ref="/us/usc/t38/s8504">8504.</a>  </td>
 
     <td> Disposition of other unclaimed property.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—PROPERTY LEFT ON DEPARTMENT FACILITY  </td>
 
   <tr>
 
-    <td> 8505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8505" data-uslm-ref="/us/usc/t38/s8505">8505.</a>  </td>
 
     <td> Sale or other disposition of property.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—PROPERTY LEFT ON DEPARTMENT FACILITY  </td>
 
   <tr>
 
-    <td> 8506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8506" data-uslm-ref="/us/usc/t38/s8506">8506.</a>  </td>
 
     <td> Notice of sale.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—PROPERTY LEFT ON DEPARTMENT FACILITY  </td>
 
   <tr>
 
-    <td> 8507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8507" data-uslm-ref="/us/usc/t38/s8507">8507.</a>  </td>
 
     <td> Payment of small shipping charges.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—PROPERTY LEFT ON DEPARTMENT FACILITY  </td>
 
   <tr>
 
-    <td> 8508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8508" data-uslm-ref="/us/usc/t38/s8508">8508.</a>  </td>
 
     <td> Relinquishment of Federal jurisdiction.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—PROPERTY LEFT ON DEPARTMENT FACILITY  </td>
 
   <tr>
 
-    <td> 8509.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8509" data-uslm-ref="/us/usc/t38/s8509">8509.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—PROPERTY LEFT ON DEPARTMENT FACILITY  </td>
 
   <tr>
 
-    <td> 8510.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8510" data-uslm-ref="/us/usc/t38/s8510">8510.</a>  </td>
 
     <td> Finality of decisions.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—DEATH WHILE PATIENT OF DEPARTMENT FACILITY  </td>
 
   <tr>
 
-    <td> 8520.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8520" data-uslm-ref="/us/usc/t38/s8520">8520.</a>  </td>
 
     <td> Vesting of property left by decedents.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—DEATH WHILE PATIENT OF DEPARTMENT FACILITY  </td>
 
   <tr>
 
-    <td> 8521.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8521" data-uslm-ref="/us/usc/t38/s8521">8521.</a>  </td>
 
     <td> Presumption of contract for disposition of personalty.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—DEATH WHILE PATIENT OF DEPARTMENT FACILITY  </td>
 
   <tr>
 
-    <td> 8522.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8522" data-uslm-ref="/us/usc/t38/s8522">8522.</a>  </td>
 
     <td> Sale of assets accruing to the Fund.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—DEATH WHILE PATIENT OF DEPARTMENT FACILITY  </td>
 
   <tr>
 
-    <td> 8523.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8523" data-uslm-ref="/us/usc/t38/s8523">8523.</a>  </td>
 
     <td> Disbursements from the Fund.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—DEATH WHILE PATIENT OF DEPARTMENT FACILITY  </td>
 
   <tr>
 
-    <td> 8524.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8524" data-uslm-ref="/us/usc/t38/s8524">8524.</a>  </td>
 
     <td> Disposal of remaining assets.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—DEATH WHILE PATIENT OF DEPARTMENT FACILITY  </td>
 
   <tr>
 
-    <td> 8525.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8525" data-uslm-ref="/us/usc/t38/s8525">8525.</a>  </td>
 
     <td> Court actions.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—DEATH WHILE PATIENT OF DEPARTMENT FACILITY  </td>
 
   <tr>
 
-    <td> 8526.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8526" data-uslm-ref="/us/usc/t38/s8526">8526.</a>  </td>
 
     <td> Filing of claims for assets.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER II—DEATH WHILE PATIENT OF DEPARTMENT FACILITY  </td>
 
   <tr>
 
-    <td> 8527.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8527" data-uslm-ref="/us/usc/t38/s8527">8527.</a>  </td>
 
     <td> Notice of provisions of subchapter.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER II—DEATH WHILE PATIENT OF DEPARTMENT FACILITY  </td>
 
   <tr>
 
-    <td> 8528.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs8528" data-uslm-ref="/us/usc/t38/s8528">8528.</a>  </td>
 
     <td> Investment of the Fund.  </td>
 
