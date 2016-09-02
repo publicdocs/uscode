@@ -2585,6 +2585,14 @@ SUBCHAPTER XI–A—RECLAMATION SAFETY OF DAMS  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs509b" data-uslm-ref="/us/usc/t43/s509b">509b.</a>  </td>
+
+    <td> Additional Project Benefits Through the Construction of New or Supplementary Works.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 SUBCHAPTER XI–B—AGING INFRASTRUCTURE  </td>

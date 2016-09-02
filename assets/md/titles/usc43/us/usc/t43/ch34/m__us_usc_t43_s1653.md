@@ -75,7 +75,7 @@
 
  __Bulk Fuel Storage Tanks__ 
 
-[Pub. L. 105–277, div. A, § 101(g)][/us/pl/105/277/s101/g] \[title III, § 329(a), (b)\], Oct. 21, 1998, [112 Stat. 2681–439][/us/stat/112/2681-439], 2681–470, provided that:
+[Pub. L. 105–277, div. A, § 101(g)][/us/pl/105/277/s101/g] \[title III, § 329(a), (b)\], Oct. 21, 1998, [112 Stat. 2681–439][/us/stat/112/2681-439], 2681–470, as amended by [Pub. L. 114–113, div. D, title IV, § 403][/us/pl/114/113/s403], Dec. 18, 2015, [129 Stat. 2422][/us/stat/129/2422], provided that:
 
 >     “(a)  __Transfer of Funds__  __.—__ 
 
@@ -83,7 +83,7 @@
 
 >     “(b)  __Use of Interest Only__  __.—__ 
 
->     The interest produced from the investment of the Trans-Alaska Pipeline Liability Fund balance that is transferred and deposited into the Oil Spill Liability Trust Fund under section 8102(a)(2)(B)(ii) of the Oil Pollution Act of 1990 \[[Pub. L. 101–380][/us/pl/101/380]\] ([43 U.S.C. 1653][/us/usc/t43/s1653] note) after June 16, 1998 shall be transferred annually by the National Pollution Funds Center to the Denali Commission for a program, to be developed in consultation with the Coast Guard, to repair or replace bulk fuel storage tanks in Alaska which are not in compliance with federal law, including the Oil Pollution Act of 1990 \[[33 U.S.C. 2701][/us/usc/t33/s2701] et seq.\], or State law.”
+>     The interest produced from the investment of the Trans-Alaska Pipeline Liability Fund balance that is transferred and deposited into the Oil Spill Liability Trust Fund under section 8102(a)(2)(B)(ii) of the Oil Pollution Act of 1990 \[[Pub. L. 101–380][/us/pl/101/380]\] ([43 U.S.C. 1653][/us/usc/t43/s1653] note) after June 16, 1998 shall be transferred annually by the National Pollution Funds Center to the Denali Commission for a program, to be developed in consultation with the Coast Guard, to repair or replace bulk fuel storage tanks in Alaska which are not in compliance with federal law, including the Oil Pollution Act of 1990 \[[33 U.S.C. 2701][/us/usc/t33/s2701] et seq.\], or State law or for the construction and repair of barge mooring points and barge landing sites to facilitate pumping fuel from fuel transport barges into bulk fuel storage tanks.. \[sic\]”
 
     \[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].\]
 
@@ -158,6 +158,8 @@
 [/us/usc/t43/s1653/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1653%2Fc
 [/us/pl/105/277/s101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fg
 [/us/stat/112/2681-439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-439
+[/us/pl/114/113/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs403
+[/us/stat/129/2422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2422
 [/us/usc/t43/s1653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1653
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/usc/t43/s1653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1653

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t43/ch12/schXI–A/m__us_usc_t43_s509.md) | [Next](./../../../../..//us/usc/t43/ch12/schXI–B/m__us_usc_t43_ch12_schXI–B.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs509a)
+[Previous](./../../../../..//us/usc/t43/ch12/schXI–A/m__us_usc_t43_s509.md) | [Next](./../../../../..//us/usc/t43/ch12/schXI–A/m__us_usc_t43_s509b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs509a)
 
 ## § 509a. Project beneficiaries
 
@@ -47,7 +47,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t43/ch12/schXI–A/m__us_usc_t43_s509.md) | [Next](./../../../../..//us/usc/t43/ch12/schXI–B/m__us_usc_t43_ch12_schXI–B.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs509a)
+[Previous](./../../../../..//us/usc/t43/ch12/schXI–A/m__us_usc_t43_s509.md) | [Next](./../../../../..//us/usc/t43/ch12/schXI–A/m__us_usc_t43_s509b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs509a)
 
 ----------
 ----------
