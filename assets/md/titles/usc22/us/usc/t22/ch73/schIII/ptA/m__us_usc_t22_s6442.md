@@ -121,7 +121,7 @@
 
     This subchapter, referred to in subsec. (c)(2)(A), was in the original “this title”, meaning title IV of [Pub. L. 105–292][/us/pl/105/292], Oct. 27, 1998, [112 Stat. 2800][/us/stat/112/2800], which is classified principally to this subchapter. For complete classification of title IV to the Code, see Tables.
 
-    This chapter, referred to in subsecs. (c)(4) and (d), was in the original “this Act”, meaning [Pub. L. 105–292][/us/pl/105/292], Oct. 27, 1998, [112 Stat. 2787][/us/stat/112/2787], which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6401 of this title][/us/usc/t22/s6401] and Tables.
+    This chapter, referred to in subsecs. (c)(4) and (d), was in the original “this Act”, meaning [Pub. L. 105–292][/us/pl/105/292], Oct. 27, 1998, [112 Stat. 2787][/us/stat/112/2787], known as the International Religious Freedom Act of 1998, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6401 of this title][/us/usc/t22/s6401] and Tables.
 
  __Amendments__ 
 

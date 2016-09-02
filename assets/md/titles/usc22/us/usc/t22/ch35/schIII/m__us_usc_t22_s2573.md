@@ -29,6 +29,10 @@
 
 ([Pub. L. 87–297, title III, § 303][/us/pl/87/297/s303], formerly § 33, Sept. 26, 1961, [75 Stat. 634][/us/stat/75/634]; [Pub. L. 88–186, § 3][/us/pl/88/186/s3], Nov. 26, 1963, [77 Stat. 342][/us/stat/77/342]; [Pub. L. 103–236, title VII, § 709][/us/pl/103/236/s709], Apr. 30, 1994, [108 Stat. 494][/us/stat/108/494]; renumbered § 303 and amended [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XII, § 1223(8), (21), subdiv. B, title XXVI, § 2602, Oct. 21, 1998, [112 Stat. 2681–769][/us/stat/112/2681-769], 2681–772, 2681–839.)
 
+ __References in Text__ 
+
+    This chapter, referred to in subsec. (c), was in the original “this chapter” and was translated as reading “this Act”, meaning [Pub. L. 87–297][/us/pl/87/297], Sept. 26, 1961, [75 Stat. 631][/us/stat/75/631], known as the Arms Control and Disarmament Act, which is classified generally to this chapter, to reflect the probable intent of Congress.
+
  __Amendments__ 
 
     1998—Subsec. (a). [Pub. L. 105–277, § 1223(8)][/us/pl/105/277/s1223/8], substituted “Secretary of State” for “Director” and struck out “the Secretary of State,” after “the President,”.
@@ -58,6 +62,8 @@
 [/us/stat/108/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F494
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/stat/112/2681-769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-769
+[/us/pl/87/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F297
+[/us/stat/75/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F631
 [/us/pl/105/277/s1223/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1223%2F8
 [/us/pl/105/277/s2602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs2602
 [/us/pl/103/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236

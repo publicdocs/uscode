@@ -607,6 +607,8 @@
 
 >     The term ‘United States Munitions List’ means the list referred to in section 38(a)(1) of the Arms Export Control Act ([22 U.S.C. 2778(a)(1)][/us/usc/t22/s2778/a/1]).”
 
+    \[Memorandum of President of the United States, Oct. 28, 2013, 78 F.R. 71985, delegated to the Secretary of State, in consultation with the heads of other executive departments and agencies, the functions of the President under [section 1261(b) of Pub. L. 112–239][/us/pl/112/239/s1261/b], set out above, and to the Secretary of Commerce the functions of the President under [section 1262(a) of Pub. L. 112–239][/us/pl/112/239/s1262/a], set out above.\]
+
  __Limitation on Implementing Arrangements__ 
 
 [Pub. L. 111–266, title I, § 105][/us/pl/111/266/s105], Oct. 8, 2010, [124 Stat. 2800][/us/stat/124/2800], provided that:
@@ -1654,6 +1656,8 @@ Prior provisions relating to issuance and continued effect of rules, regulations
 [/us/usc/t22/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2371
 [/us/usc/t22/s2780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2780
 [/us/usc/t22/s2778/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778%2Fa%2F1
+[/us/pl/112/239/s1261/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1261%2Fb
+[/us/pl/112/239/s1262/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1262%2Fa
 [/us/pl/111/266/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F266%2Fs105
 [/us/stat/124/2800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2800
 [/us/usc/t22/s2778/j/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778%2Fj%2F1%2FC%2Fi

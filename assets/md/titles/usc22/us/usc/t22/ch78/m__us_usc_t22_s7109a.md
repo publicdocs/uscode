@@ -79,7 +79,7 @@
 
  __References in Text__ 
 
-    This chapter, referred to in subsec. (a), was in the original “this division” meaning division A of [Pub. L. 106–386][/us/pl/106/386], Oct. 28, 2000, [114 Stat. 1466][/us/stat/114/1466], which is classified principally to this chapter. For complete classification of division A to the Code, see Short Title note set out under [section 7101 of this title][/us/usc/t22/s7101] and Tables.
+    This chapter, referred to in subsec. (a), was in the original “this division” meaning division A of [Pub. L. 106–386][/us/pl/106/386], Oct. 28, 2000, [114 Stat. 1466][/us/stat/114/1466], known as the Trafficking Victims Protection Act of 2000, which is classified principally to this chapter. For complete classification of division A to the Code, see Short Title note set out under [section 7101 of this title][/us/usc/t22/s7101] and Tables.
 
  __Amendments__ 
 

@@ -169,7 +169,7 @@
 
  __References in Text__ 
 
-    This chapter, referred to in subsecs. (d)(1), (6), (7), (e)(1), and (g)(3), (4), was in the original “this division” meaning division A of [Pub. L. 106–386][/us/pl/106/386], Oct. 28, 2000, [114 Stat. 1466][/us/stat/114/1466], which is classified principally to this chapter. For complete classification of division A to the Code, see Short Title note set out under [section 7101 of this title][/us/usc/t22/s7101] and Tables.
+    This chapter, referred to in subsecs. (d)(1), (6), (7), (e)(1), and (g)(3), (4), was in the original “this division” meaning division A of [Pub. L. 106–386][/us/pl/106/386], Oct. 28, 2000, [114 Stat. 1466][/us/stat/114/1466], known as the Trafficking Victims Protection Act of 2000, which is classified principally to this chapter. For complete classification of division A to the Code, see Short Title note set out under [section 7101 of this title][/us/usc/t22/s7101] and Tables.
 
     Subsection (f) of [section 7105 of this title][/us/usc/t22/s7105], referred to in subsec. (d)(7)(A), probably means the first subsec. (f) of [section 7105 of this title][/us/usc/t22/s7105], relating to assistance for United States citizens and lawful permanent residents, as added by [Pub. L. 110–457, title II, § 213(a)(1)][/us/pl/110/457/s213/a/1], Dec. 23, 2008, [122 Stat. 5064][/us/stat/122/5064].
 

@@ -29,7 +29,7 @@
 
         (3)
 
-         All costs incurred by the United States Government (including both normal and incremental costs), set forth by category, which are associated with the United States relationship with the Multinational Force and Observers and which were incurred during the preceding fiscal year (whether or not the United States was reimbursed for those costs), specifically including but not limited to—
+         All  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should not be capitalized. </sup></sup>  costs incurred by the United States Government (including both normal and incremental costs), set forth by category, which are associated with the United States relationship with the Multinational Force and Observers and which were incurred during the preceding fiscal year (whether or not the United States was reimbursed for those costs), specifically including but not limited to—
 
             (A) the costs associated with the United States units and personnel participating in the Multinational Force and Observers (including salaries, allowances, retirement and other benefits, transportation, housing, and operating and maintenance costs), and
 

@@ -99,7 +99,7 @@
 
     Titles I, IV, and V of this Act, referred to in subsec. (b)(1)(C), (F)(i), are titles I, IV, and V of [Pub. L. 105–292][/us/pl/105/292], Oct. 27, 1998, [112 Stat. 2791][/us/stat/112/2791], 2800, 2811. Titles I and IV are classified principally to this subchapter (§ 6411 et seq.) and subchapter III (§ 6441 et seq.) of this chapter, respectively. Title V amended sections 2151n, 2452, 3965, 4013, and 6202 of this title and enacted provisions set out as a note under [section 2151n of this title][/us/usc/t22/s2151n]. For complete classification of titles I, IV, and V to the Code, see Tables.
 
-    This chapter, referred to in subsec. (b)(1)(F)(ii), (2), was in the original “this Act”, meaning [Pub. L. 105–292][/us/pl/105/292], Oct. 27, 1998, [112 Stat. 2787][/us/stat/112/2787], which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6401 of this title][/us/usc/t22/s6401] and Tables.
+    This chapter, referred to in subsec. (b)(1)(F)(ii), (2), was in the original “this Act”, meaning [Pub. L. 105–292][/us/pl/105/292], Oct. 27, 1998, [112 Stat. 2787][/us/stat/112/2787], known as the International Religious Freedom Act of 1998, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6401 of this title][/us/usc/t22/s6401] and Tables.
 
  __Codification__ 
 

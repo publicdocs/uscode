@@ -23,6 +23,8 @@
 
     Section originally contained a provision instructing the Department of State to submit to the Congress, not later than Jan. 31, 1963, a report on steps taken in the 17th Session of the General Assembly of the United Nations on long term financing of the United Nations which was omitted.
 
+    Section was not enacted as part of [act Dec. 20, 1945, ch. 583][/us/act/1945-12-20/ch583], [59 Stat. 619][/us/stat/59/619], known as the United Nations Participation Act of 1945, which comprises this subchapter.
+
 ----------
 
 [Previous](./../../../../..//us/usc/t22/ch7/schXVI/m__us_usc_t22_s287i.md) | [Next](./../../../../..//us/usc/t22/ch7/schXVI/m__us_usc_t22_s287k.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs287j)
@@ -32,5 +34,7 @@
 
 [/us/pl/87/731/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F731%2Fs4
 [/us/stat/76/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F696
+[/us/act/1945-12-20/ch583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-20%2Fch583
+[/us/stat/59/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F619
 
 

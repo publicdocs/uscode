@@ -69,6 +69,10 @@
 
 ([Pub. L. 106–386, div. A, § 108][/us/pl/106/386/s108], Oct. 28, 2000, [114 Stat. 1480][/us/stat/114/1480]; [Pub. L. 108–193, § 6(d)][/us/pl/108/193/s6/d], Dec. 19, 2003, [117 Stat. 2881][/us/stat/117/2881]; [Pub. L. 109–164, title I, § 104(b)(1)][/us/pl/109/164/s104/b/1], Jan. 10, 2006, [119 Stat. 3564][/us/stat/119/3564]; [Pub. L. 110–457, title I, § 106][/us/pl/110/457/s106], Dec. 23, 2008, [122 Stat. 5048][/us/stat/122/5048]; [Pub. L. 113–4, title XII, § 1204][/us/pl/113/4/s1204], Mar. 7, 2013, [127 Stat. 139][/us/stat/127/139].)
 
+ __References in Text__ 
+
+    This chapter, referred to in subsec. (a), was in the original “this division”, meaning division A of [Pub. L. 106–386][/us/pl/106/386], Oct. 28, 2000, [114 Stat. 1466][/us/stat/114/1466], known as the Trafficking Victims Protection Act of 2000, which is classified principally to this chapter. For complete classification of division A to the Code, see Short Title note set out under [section 7101 of this title][/us/usc/t22/s7101] and Tables.
+
  __Amendments__ 
 
     2013—Subsec. (b)(3). [Pub. L. 113–4, § 1204(1)][/us/pl/113/4/s1204/1], substituted “diplomatic, peacekeeping,” for “peacekeeping” and “, a transparent system for remediating or punishing such public officials as a deterrent, measures” for “, and measures”, and inserted before period at end “, effective bilateral, multilateral, or regional information sharing and cooperation arrangements with other countries, and effective policies or laws regulating foreign labor recruiters and holding them civilly and criminally liable for fraudulent recruiting”.
@@ -122,6 +126,9 @@
 [/us/stat/122/5048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5048
 [/us/pl/113/4/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1204
 [/us/stat/127/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F139
+[/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
+[/us/stat/114/1466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1466
+[/us/usc/t22/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7101
 [/us/pl/113/4/s1204/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1204%2F1
 [/us/pl/113/4/s1204/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1204%2F2
 [/us/pl/113/4/s1204/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1204%2F3

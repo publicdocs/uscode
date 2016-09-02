@@ -167,6 +167,10 @@
 
 ([Pub. L. 106–386, div. A, § 110][/us/pl/106/386/s110], Oct. 28, 2000, [114 Stat. 1482][/us/stat/114/1482]; [Pub. L. 108–193, § 6(e)][/us/pl/108/193/s6/e], (h), (i), Dec. 19, 2003, [117 Stat. 2882][/us/stat/117/2882], 2884; [Pub. L. 109–164, title I, § 104(e)(1)][/us/pl/109/164/s104/e/1], Jan. 10, 2006, [119 Stat. 3565][/us/stat/119/3565]; [Pub. L. 110–457, title I][/us/pl/110/457], §§ 107(a), (b), 108(b), Dec. 23, 2008, [122 Stat. 5049][/us/stat/122/5049], 5051; [Pub. L. 113–4, title XII][/us/pl/113/4], §§ 1205, 1212(b)(2)(A)(i), Mar. 7, 2013, [127 Stat. 139][/us/stat/127/139], 143.)
 
+ __References in Text__ 
+
+    This chapter, referred to in subsec. (d)(4), was in the original “this division”, meaning division A of [Pub. L. 106–386][/us/pl/106/386], Oct. 28, 2000, [114 Stat. 1466][/us/stat/114/1466], known as the Trafficking Victims Protection Act of 2000, which is classified principally to this chapter. For complete classification of division A to the Code, see Short Title note set out under [section 7101 of this title][/us/usc/t22/s7101] and Tables.
+
  __Amendments__ 
 
     2013—Subsec. (b)(1). [Pub. L. 113–4, § 1205(1)(A)][/us/pl/113/4/s1205/1/A], in introductory provisions, substituted “describing the anti-trafficking efforts of the United States and foreign governments according to the minimum standards and criteria enumerated in [section 7106 of this title][/us/usc/t22/s7106], and the nature and scope of trafficking in persons in each country and analysis of the trend lines for individual governmental efforts. The report should include—” for “with respect to the status of severe forms of trafficking in persons that shall include—”.
@@ -319,6 +323,9 @@ Similar provisions delegating authority under section 110(d)(4) and (f) of the T
 [/us/stat/122/5049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5049
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/stat/127/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F139
+[/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
+[/us/stat/114/1466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1466
+[/us/usc/t22/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7101
 [/us/pl/113/4/s1205/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1205%2F1%2FA
 [/us/usc/t22/s7106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7106
 [/us/pl/113/4/s1205/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1205%2F1%2FB

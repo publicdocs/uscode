@@ -101,7 +101,7 @@
 
  __References in Text__ 
 
-    This chapter, referred to in text, was in the original “this Act”, meaning [Pub. L. 105–292][/us/pl/105/292], Oct. 27, 1998, [112 Stat. 2787][/us/stat/112/2787], which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6401 of this title][/us/usc/t22/s6401] and Tables.
+    This chapter, referred to in text, was in the original “this Act”, meaning [Pub. L. 105–292][/us/pl/105/292], Oct. 27, 1998, [112 Stat. 2787][/us/stat/112/2787], known as the International Religious Freedom Act of 1998, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6401 of this title][/us/usc/t22/s6401] and Tables.
 
     [Section 3021(i) of title 50][/us/usc/t50/s3021/i], referred to in par. (12), was redesignated section 3021(k) by [Pub. L. 110–53, title XVIII, § 1841(g)(1)][/us/pl/110/53/s1841/g/1], Aug. 3, 2007, [121 Stat. 500][/us/stat/121/500].
 

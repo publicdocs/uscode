@@ -31,7 +31,7 @@
 
     (b) __Status as Government employee__ 
 
-        A fellow detailed under subsection (a) of this section is deemed, for the purpose of preserving allowances, privileges, rights, seniority, and other benefits, an employee of the agency from which detailed, and is entitled to pay, allowances, and benefits from funds available to that agency. The authorization and payment of such allowances and other benefits from appropriations available therefore is deemed to comply with [section 5536 of title 5][/us/usc/t5/s5536].
+        A fellow detailed under subsection (a) of this section is deemed, for the purpose of preserving allowances, privileges, rights, seniority, and other benefits, an employee of the agency from which detailed, and is entitled to pay, allowances, and benefits from funds available to that agency. The authorization and payment of such allowances and other benefits from appropriations available therefore  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “therefor”. </sup></sup>  is deemed to comply with [section 5536 of title 5][/us/usc/t5/s5536].
 
     (c) __Reimbursement__ 
 

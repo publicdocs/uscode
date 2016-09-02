@@ -31,6 +31,10 @@
 
 ([Pub. L. 105–292, title IV, § 407][/us/pl/105/292/s407], Oct. 27, 1998, [112 Stat. 2808][/us/stat/112/2808].)
 
+ __References in Text__ 
+
+    This chapter, referred to in subsec. (a)(2), was in the original “this Act”, meaning [Pub. L. 105–292][/us/pl/105/292], Oct. 27, 1998, [112 Stat. 2787][/us/stat/112/2787], known as the International Religious Freedom Act of 1998, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6401 of this title][/us/usc/t22/s6401] and Tables.
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t22/ch73/schIII/ptA/m__us_usc_t22_s6446.md) | [Next](./../../../../../..//us/usc/t22/ch73/schIII/ptA/m__us_usc_t22_s6448.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6447)
@@ -41,5 +45,8 @@
 [/us/usc/t22/s6445/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6445%2Fa
 [/us/pl/105/292/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292%2Fs407
 [/us/stat/112/2808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2808
+[/us/pl/105/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F292
+[/us/stat/112/2787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2787
+[/us/usc/t22/s6401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6401
 
 

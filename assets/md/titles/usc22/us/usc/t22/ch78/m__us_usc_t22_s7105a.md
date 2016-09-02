@@ -75,7 +75,7 @@
 
     This Act, referred to in text, is the Victims of Trafficking and Violence Protection Act of 2000, [Pub. L. 106–386][/us/pl/106/386], Oct. 28, 2000, [114 Stat. 1464][/us/stat/114/1464]. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of this title][/us/usc/t22/s7101] and Tables.
 
-    This chapter, referred to in subsecs. (d) and (f), was in the original “this division” meaning division A of [Pub. L. 106–386][/us/pl/106/386], Oct. 28, 2000, [114 Stat. 1466][/us/stat/114/1466], which is classified principally to this chapter. For complete classification of division A to the Code, see Short Title note set out under [section 7101 of this title][/us/usc/t22/s7101] and Tables.
+    This chapter, referred to in subsecs. (d) and (f), was in the original “this division”, meaning division A of [Pub. L. 106–386][/us/pl/106/386], Oct. 28, 2000, [114 Stat. 1466][/us/stat/114/1466], known as the Trafficking Victims Protection Act of 2000, which is classified principally to this chapter. For complete classification of division A to the Code, see Short Title note set out under [section 7101 of this title][/us/usc/t22/s7101] and Tables.
 
     The Foreign Assistance Act of 1961, referred to in subsec. (e), is [Pub. L. 87–195][/us/pl/87/195], Sept. 4, 1961, [75 Stat. 424][/us/stat/75/424]. Part I of the Act is classified generally to subchapter I (§ 2151 et seq.) of chapter 32 of this title. Chapter 4 of part II of the Act is classified generally to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title][/us/usc/t22/s2151] and Tables.
 

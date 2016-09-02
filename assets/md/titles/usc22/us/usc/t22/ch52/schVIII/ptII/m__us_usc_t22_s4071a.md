@@ -57,9 +57,25 @@
 
             (iii) has less than 5 years creditable service under [section 4071c of this title][/us/usc/t22/s4071c]; and
 
-        (B) after December 31, 2012, becomes a participant performing service which is creditable service under [section 4071c of this title][/us/usc/t22/s4071c];
+        (B) after December 31, 2012, and before January 1, 2014, becomes a participant performing service which is creditable service under [section 4071c of this title][/us/usc/t22/s4071c];
 
     (8)
+
+     the term “further revised annuity participant” means any individual who—
+
+        (A)
+
+         on December 31, 2013—
+
+            (i) is not a participant;
+
+            (ii) is not performing service which is creditable service under [section 4071c of this title][/us/usc/t22/s4071c]; and
+
+            (iii) has less than 5 years creditable service under [section 4071c of this title][/us/usc/t22/s4071c]; and
+
+        (B) after December 31, 2013, becomes a participant performing service which is creditable service under [section 4071c of this title][/us/usc/t22/s4071c];
+
+    (9)
 
      the term “supplemental liability” means the estimated excess of—
 
@@ -83,17 +99,21 @@
 
             (iv) any other appropriate amount, as determined by the Secretary of State in accordance with generally accepted actuarial practices and principles;
 
-    (9) the term “System” means the Foreign Service Pension System; and
+    (10) the term “System” means the Foreign Service Pension System; and
 
-    (10) the term “special agent” has the same meaning given in [section 4044(15) of this title][/us/usc/t22/s4044/15].
+    (11) the term “special agent” has the same meaning given in [section 4044(15) of this title][/us/usc/t22/s4044/15].
 
-([Pub. L. 96–465, title I, § 852][/us/pl/96/465/s852], as added [Pub. L. 99–335, title IV, § 415][/us/pl/99/335/s415], June 6, 1986, [100 Stat. 615][/us/stat/100/615]; amended [Pub. L. 100–238, title II, § 241][/us/pl/100/238/s241], Jan. 8, 1988, [101 Stat. 1776][/us/stat/101/1776]; [Pub. L. 105–382, § 2(a)(2)][/us/pl/105/382/s2/a/2], Nov. 13, 1998, [112 Stat. 3406][/us/stat/112/3406]; [Pub. L. 112–96, title V, § 5002(a)][/us/pl/112/96/s5002/a], Feb. 22, 2012, [126 Stat. 200][/us/stat/126/200].)
+([Pub. L. 96–465, title I, § 852][/us/pl/96/465/s852], as added [Pub. L. 99–335, title IV, § 415][/us/pl/99/335/s415], June 6, 1986, [100 Stat. 615][/us/stat/100/615]; amended [Pub. L. 100–238, title II, § 241][/us/pl/100/238/s241], Jan. 8, 1988, [101 Stat. 1776][/us/stat/101/1776]; [Pub. L. 105–382, § 2(a)(2)][/us/pl/105/382/s2/a/2], Nov. 13, 1998, [112 Stat. 3406][/us/stat/112/3406]; [Pub. L. 112–96, title V, § 5002(a)][/us/pl/112/96/s5002/a], Feb. 22, 2012, [126 Stat. 200][/us/stat/126/200]; [Pub. L. 113–67, div. A, title IV, § 402(a)][/us/pl/113/67/s402/a], Dec. 26, 2013, [127 Stat. 1185][/us/stat/127/1185].)
 
  __References in Text__ 
 
     The Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983, referred to in pars. (3)(A) and (7)(B)(iii)(II), is title II of [Pub. L. 98–168][/us/pl/98/168], Nov. 29, 1983, [97 Stat. 1106][/us/stat/97/1106], as amended, which is set out as a note under [section 8331 of Title 5][/us/usc/t5/s8331], Government Organization and Employees.
 
  __Amendments__ 
+
+    2013—Par. (7)(B). [Pub. L. 113–67, § 402(a)(2)][/us/pl/113/67/s402/a/2], inserted “and before January 1, 2014,” after “after December 31, 2012,”.
+
+    Pars. (8) to (11). [Pub. L. 113–67, § 402(a)(1)][/us/pl/113/67/s402/a/1], added par. (8) and redesignated former pars. (8) to (10) as (9) to (11), respectively.
 
     2012—Pars. (7) to (10). [Pub. L. 112–96][/us/pl/112/96] added par. (7) and redesignated former pars. (7) to (9) as (8) to (10), respectively.
 
@@ -125,6 +145,9 @@
 [/us/usc/t22/s4071c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4071c
 [/us/usc/t22/s4071c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4071c
 [/us/usc/t22/s4071c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4071c
+[/us/usc/t22/s4071c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4071c
+[/us/usc/t22/s4071c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4071c
+[/us/usc/t22/s4071c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4071c
 [/us/usc/t22/s4071e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4071e
 [/us/usc/t22/s4071f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4071f
 [/us/usc/t5/s8331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8331
@@ -138,9 +161,13 @@
 [/us/stat/112/3406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3406
 [/us/pl/112/96/s5002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs5002%2Fa
 [/us/stat/126/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F200
+[/us/pl/113/67/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs402%2Fa
+[/us/stat/127/1185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1185
 [/us/pl/98/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F168
 [/us/stat/97/1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1106
 [/us/usc/t5/s8331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8331
+[/us/pl/113/67/s402/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs402%2Fa%2F2
+[/us/pl/113/67/s402/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs402%2Fa%2F1
 [/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
 [/us/pl/105/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F382
 [/us/pl/100/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238

@@ -107,7 +107,7 @@
 
     [Section 7105(f) of this title][/us/usc/t22/s7105/f], referred to in subsecs. (b)(2) and (d)(3), probably means the subsec. (f) of [section 7105 of this title][/us/usc/t22/s7105] which relates to assistance for United States citizens and lawful permanent residents and was added by [Pub. L. 110–457, title II, § 213(a)(1)][/us/pl/110/457/s213/a/1], Dec. 23, 2008, [122 Stat. 5064][/us/stat/122/5064].
 
-    This chapter, referred to in subsec. (g), was in the original “this division” meaning division A of [Pub. L. 106–386][/us/pl/106/386], Oct. 28, 2000, [114 Stat. 1466][/us/stat/114/1466], which is classified principally to this chapter. For complete classification of division A to the Code, see Short Title note set out under [section 7101 of this title][/us/usc/t22/s7101] and Tables.
+    This chapter, referred to in subsec. (g), was in the original “this division”, meaning division A of [Pub. L. 106–386][/us/pl/106/386], Oct. 28, 2000, [114 Stat. 1466][/us/stat/114/1466], known as the Trafficking Victims Protection Act of 2000, which is classified principally to this chapter. For complete classification of division A to the Code, see Short Title note set out under [section 7101 of this title][/us/usc/t22/s7101] and Tables.
 
     This Act, referred to in subsec. (g)(1), is the Victims of Trafficking and Violence Protection Act of 2000, [Pub. L. 106–386][/us/pl/106/386], Oct. 28, 2000, [114 Stat. 1464][/us/stat/114/1464], as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of this title][/us/usc/t22/s7101] and Tables.
 
