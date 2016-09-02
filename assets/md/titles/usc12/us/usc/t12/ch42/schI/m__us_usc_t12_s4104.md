@@ -27,7 +27,7 @@
 
         The aggregate preservation rent for purposes of receiving incentives pursuant to extension of the low-income affordability restrictions under [section 4109 of this title][/us/usc/t12/s4109] shall be the gross potential income for the project, determined by the Secretary, that would be required to support the following costs:
 
-            (A) The annual authorized return determined under subsection (a) of this section.
+            (A) The annual authorized return determined under subsection (a).
 
             (B) Debt service on any rehabilitation loan for the housing.
 

@@ -21,7 +21,7 @@
 
     (b) __Comparability of compensation with Federal banking agencies__ 
 
-        In fixing and directing compensation under subsection (a) of this section, the Director shall consult with, and maintain comparability with compensation of officers and employees of the Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, and the Federal Deposit Insurance Corporation.
+        In fixing and directing compensation under subsection (a), the Director shall consult with, and maintain comparability with compensation of officers and employees of the Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, and the Federal Deposit Insurance Corporation.
 
     (c) __Personnel of other Federal agencies__ 
 

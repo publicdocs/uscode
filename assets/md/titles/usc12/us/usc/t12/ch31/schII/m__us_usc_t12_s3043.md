@@ -33,7 +33,7 @@
 
     (c) __Interest rate applicable to advances__ 
 
-        Capital investment advances made by the Office pursuant to subsection (a) of this section and interest supplement advances made by the Office pursuant to subsection (b) of this section shall bear interest at a rate determined by the Board of Directors of the Bank, and the Board of Directors may authorize an interest rate applicable to such advances lower than the rate applicable to loans by the Bank pursuant to [section 3018 of this title][/us/usc/t12/s3018].
+        Capital investment advances made by the Office pursuant to subsection (a) and interest supplement advances made by the Office pursuant to subsection (b) shall bear interest at a rate determined by the Board of Directors of the Bank, and the Board of Directors may authorize an interest rate applicable to such advances lower than the rate applicable to loans by the Bank pursuant to [section 3018 of this title][/us/usc/t12/s3018].
 
 ([Pub. L. 95–351, title II, § 203][/us/pl/95/351/s203], Aug. 20, 1978, [92 Stat. 512][/us/stat/92/512]; [Pub. L. 97–35, title III, § 396(g)][/us/pl/97/35/s396/g], Aug. 13, 1981, [95 Stat. 440][/us/stat/95/440].)
 

@@ -31,7 +31,7 @@
 
     (b) __Effective date__ 
 
-        An order issued pursuant to subsection (a) of this section shall become effective upon service upon the regulated entity, executive officer, director, or entity-affiliated party and, unless set aside, limited, or suspended by a court in proceedings pursuant to subsection (d) of this section, shall remain in effect and enforceable pending the completion of the proceedings pursuant to such notice and shall remain effective until the Director dismisses the charges specified in the notice or until superseded by a cease-and-desist order issued pursuant to [section 4631 of this title][/us/usc/t12/s4631].
+        An order issued pursuant to subsection (a) shall become effective upon service upon the regulated entity, executive officer, director, or entity-affiliated party and, unless set aside, limited, or suspended by a court in proceedings pursuant to subsection (d), shall remain in effect and enforceable pending the completion of the proceedings pursuant to such notice and shall remain effective until the Director dismisses the charges specified in the notice or until superseded by a cease-and-desist order issued pursuant to [section 4631 of this title][/us/usc/t12/s4631].
 
     (c) __Incomplete or inaccurate records__ 
 
@@ -51,7 +51,7 @@
 
             (B)
 
-             unless set aside, limited, or suspended by a court in proceedings pursuant to subsection (d) of this section, shall remain in effect and enforceable until the earlier of—
+             unless set aside, limited, or suspended by a court in proceedings pursuant to subsection (d), shall remain in effect and enforceable until the earlier of—
 
                 (i) the completion of the proceeding initiated under [section 4631 of this title][/us/usc/t12/s4631] in connection with the notice of charges; or
 

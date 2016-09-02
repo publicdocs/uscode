@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-    Except as provided in subsections (b) and (c) of this section, any regulated financial institution with aggregate assets of not more than $250,000,000 shall be subject to routine examination under this chapter—
+    Except as provided in subsections (b) and (c), any regulated financial institution with aggregate assets of not more than $250,000,000 shall be subject to routine examination under this chapter—
 
         (1) not more than once every 60 months for an institution that has achieved a rating of “outstanding record of meeting community credit needs” at its most recent examination under [section 2903 of this title][/us/usc/t12/s2903];
 
@@ -27,11 +27,11 @@
 
     (b) __No exception from CRA examinations in connection with applications for deposit facilities__ 
 
-        A regulated financial institution described in subsection (a) of this section shall remain subject to examination under this chapter in connection with an application for a deposit facility.
+        A regulated financial institution described in subsection (a) shall remain subject to examination under this chapter in connection with an application for a deposit facility.
 
     (c) __Discretion__ 
 
-        A regulated financial institution described in subsection (a) of this section may be subject to more frequent or less frequent examinations for reasonable cause under such circumstances as may be determined by the appropriate Federal financial supervisory agency.
+        A regulated financial institution described in subsection (a) may be subject to more frequent or less frequent examinations for reasonable cause under such circumstances as may be determined by the appropriate Federal financial supervisory agency.
 
 ([Pub. L. 95–128, title VIII, § 809][/us/pl/95/128/s809], as added [Pub. L. 106–102, title VII, § 712][/us/pl/106/102/s712], Nov. 12, 1999, [113 Stat. 1469][/us/stat/113/1469].)
 

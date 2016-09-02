@@ -29,7 +29,7 @@
 
     (b) __Views of Secretary__ 
 
-        Prior to withdrawing the security property from foreclosure in the circumstances described in subsection (a)(2) or (a)(3) of this section, the foreclosure commissioner shall afford the Secretary a reasonable opportunity to demonstrate why the security property should not be so withdrawn.
+        Prior to withdrawing the security property from foreclosure in the circumstances described in subsection (a)(2) or (a)(3), the foreclosure commissioner shall afford the Secretary a reasonable opportunity to demonstrate why the security property should not be so withdrawn.
 
     (c) __Mortgage subsequent to reinstatement__ 
 

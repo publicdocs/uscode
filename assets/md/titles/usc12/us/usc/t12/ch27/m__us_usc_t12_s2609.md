@@ -57,7 +57,7 @@
 
         (1) __In general__ 
 
-            In the case of each failure to submit a statement to a borrower as required under subsection (c) of this section, the Secretary shall assess to the lender or escrow servicer failing to submit the statement a civil penalty of $50 for each such failure, but the total amount imposed on such lender or escrow servicer for all such failures during any 12-month period referred to in subsection (b)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be subsection “(c)”. </sup></sup>  of this section may not exceed $100,000.
+            In the case of each failure to submit a statement to a borrower as required under subsection (c), the Secretary shall assess to the lender or escrow servicer failing to submit the statement a civil penalty of $50 for each such failure, but the total amount imposed on such lender or escrow servicer for all such failures during any 12-month period referred to in subsection (b)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be subsection “(c)”. </sup></sup>  may not exceed $100,000.
 
         (2) __Intentional violations__ 
 

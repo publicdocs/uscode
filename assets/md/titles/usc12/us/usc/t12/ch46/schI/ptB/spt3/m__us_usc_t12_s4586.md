@@ -19,7 +19,7 @@
 
     The Director shall make available to the public—
 
-        (1) any written agreement or other written statement for which a violation may be redressed by the Director or any modification to or termination thereof, unless the Director, in the Secretary’s  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Director’s”. </sup></sup>  discretion, determines that public disclosure would be contrary to the public interest or determines under subsection (c) of this section that public disclosure would seriously threaten the financial health or security of the enterprise;
+        (1) any written agreement or other written statement for which a violation may be redressed by the Director or any modification to or termination thereof, unless the Director, in the Secretary’s  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Director’s”. </sup></sup>  discretion, determines that public disclosure would be contrary to the public interest or determines under subsection (c) that public disclosure would seriously threaten the financial health or security of the enterprise;
 
         (2) any order that is issued with respect to any administrative enforcement proceeding initiated by the Director under this subpart and that has become final in accordance with sections 4582 and 4583 of this title; and
 
@@ -31,7 +31,7 @@
 
     (c) __Delay of public disclosure under exceptional circumstances__ 
 
-        If the Director makes a determination in writing that the public disclosure of any final order pursuant to subsection (a) of this section would seriously threaten the financial soundness of the enterprise, the Director may delay the public disclosure of such order for a reasonable time.
+        If the Director makes a determination in writing that the public disclosure of any final order pursuant to subsection (a) would seriously threaten the financial soundness of the enterprise, the Director may delay the public disclosure of such order for a reasonable time.
 
     (d) __Documents filed under seal in public enforcement hearings__ 
 
@@ -39,7 +39,7 @@
 
     (e) __Retention of documents__ 
 
-        The Director shall keep and maintain a record, for not less than 6 years, of all documents described in subsection (a) of this section and all enforcement agreements and other supervisory actions and supporting documents issued with respect to or in connection with any enforcement proceeding initiated by the Director under this subpart.
+        The Director shall keep and maintain a record, for not less than 6 years, of all documents described in subsection (a) and all enforcement agreements and other supervisory actions and supporting documents issued with respect to or in connection with any enforcement proceeding initiated by the Director under this subpart.
 
     (f) __Disclosures to Congress__ 
 

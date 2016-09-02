@@ -21,13 +21,13 @@
 
     (b) __Determination of institutional exposure to risk__ 
 
-    In determining the exposure of an institution to risk for purposes of subsection (a) of this section, the appropriate Federal banking agency—
+    In determining the exposure of an institution to risk for purposes of subsection (a), the appropriate Federal banking agency—
 
         (1) shall determine whether any country exposure that is, and has been for at least 2 years, rated in the category “Other Transfer Risk Problems” or the category “Substandard” by the Interagency Country Exposure Review Committee should be reevaluated;
 
         (2)
 
-         may exempt, in full or in part, from reserve requirements established pursuant to subsection (a) of this section, any loan—
+         may exempt, in full or in part, from reserve requirements established pursuant to subsection (a), any loan—
 
             (A) to a country that enters into a debt reduction, debt service reduction, or financing program with its bank creditors that is supported by the International Bank for Reconstruction and Development or the International Monetary Fund; or
 
@@ -41,7 +41,7 @@
 
         (1) __Determined by agency__ 
 
-            Except as provided in paragraph (3), each appropriate Federal banking agency shall determine the timing of any addition to reserves required by subsection (a) of this section.
+            Except as provided in paragraph (3), each appropriate Federal banking agency shall determine the timing of any addition to reserves required by subsection (a).
 
         (2) __Report__ 
 
@@ -49,7 +49,7 @@
 
         (3) __Deadline__ 
 
-            Each Federal agency required to undertake a review described in subsection (a) of this section shall complete the review not later than December 31, 1990.
+            Each Federal agency required to undertake a review described in subsection (a) shall complete the review not later than December 31, 1990.
 
     (d) __“Highly indebted country” defined__ 
 

@@ -53,7 +53,7 @@
 
     (b) __Report on enforcement actions__ 
 
-    Not later than March 15 of each year, the Director shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a written report describing, for the preceding calendar year, the requests by the Director to the Attorney General for enforcement actions under subchapter III of this chapter and describing the disposition of each request, which shall include statements of—
+    Not later than March 15 of each year, the Director shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a written report describing, for the preceding calendar year, the requests by the Director to the Attorney General for enforcement actions under subchapter III and describing the disposition of each request, which shall include statements of—
 
         (1) the total number of requests made by the Director;
 

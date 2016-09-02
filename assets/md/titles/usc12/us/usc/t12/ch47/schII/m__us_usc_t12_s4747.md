@@ -47,9 +47,9 @@
 
     In connection with the enrollment of a loan that will cause the aggregate covered amount of all enrolled loans to exceed $2,000,000, the amount of reimbursement by the Fund to the participating State shall be determined—
 
-        (1) by applying subsection (d) of this section to the portion of the loan, which when added to the aggregate covered amount of all previously enrolled loans equals $2,000,000; and
+        (1) by applying subsection (d) to the portion of the loan, which when added to the aggregate covered amount of all previously enrolled loans equals $2,000,000; and
 
-        (2) by applying subsection (e) of this section to the balance of the loan.
+        (2) by applying subsection (e) to the balance of the loan.
 
 ([Pub. L. 103–325, title II, § 257][/us/pl/103/325/s257], Sept. 23, 1994, [108 Stat. 2212][/us/stat/108/2212].)
 

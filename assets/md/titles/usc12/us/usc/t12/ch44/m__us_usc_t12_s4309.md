@@ -37,15 +37,15 @@
 
         (1) __Violation of this chapter treated as violation of other Acts__ 
 
-            For purposes of the exercise by any agency referred to in subsection (a) of this section of such agency’s powers under any Act referred to in such subsection, a violation of a requirement imposed under this chapter shall be deemed to be a violation of a requirement imposed under that Act.
+            For purposes of the exercise by any agency referred to in subsection (a) of such agency’s powers under any Act referred to in such subsection, a violation of a requirement imposed under this chapter shall be deemed to be a violation of a requirement imposed under that Act.
 
         (2) __Enforcement authority under other Acts__ 
 
-            In addition to the powers of any agency referred to in subsection (a) of this section under any provision of law specifically referred to in such subsection, each such agency may exercise, for purposes of enforcing compliance with any requirement imposed under this chapter, any other authority conferred on such agency by law.
+            In addition to the powers of any agency referred to in subsection (a) under any provision of law specifically referred to in such subsection, each such agency may exercise, for purposes of enforcing compliance with any requirement imposed under this chapter, any other authority conferred on such agency by law.
 
     (c) __Regulations by agencies other than the Bureau__ 
 
-        The authority of the Bureau to issue regulations under this chapter does not impair the authority of any other agency referred to in subsection (a) of this section to make rules regarding its own procedures in enforcing compliance with the requirements imposed under this chapter.
+        The authority of the Bureau to issue regulations under this chapter does not impair the authority of any other agency referred to in subsection (a) to make rules regarding its own procedures in enforcing compliance with the requirements imposed under this chapter.
 
 ([Pub. L. 102–242, title II, § 270][/us/pl/102/242/s270], Dec. 19, 1991, [105 Stat. 2339][/us/stat/105/2339]; [Pub. L. 102–550, title XVI, § 1604(e)(2)(I)][/us/pl/102/550/s1604/e/2/I]–(K), (3), (4), Oct. 28, 1992, [106 Stat. 4084][/us/stat/106/4084]; [Pub. L. 111–203, title X, § 1100B(1)][/us/pl/111/203/s1100B/1], (2), July 21, 2010, [124 Stat. 2109][/us/stat/124/2109], 2110.)
 

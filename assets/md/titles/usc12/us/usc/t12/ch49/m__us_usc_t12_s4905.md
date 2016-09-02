@@ -55,7 +55,7 @@
 
     (d) __Standard forms__ 
 
-        The servicer of a residential mortgage transaction may develop and use a standardized form or forms for the provision of notices to the mortgagor, as required under subsection (c) of this section.
+        The servicer of a residential mortgage transaction may develop and use a standardized form or forms for the provision of notices to the mortgagor, as required under subsection (c).
 
 ([Pub. L. 105–216, § 6][/us/pl/105/216/s6], July 29, 1998, [112 Stat. 904][/us/stat/112/904]; [Pub. L. 106–569, title IV][/us/pl/106/569], §§ 403(c), 406(a), Dec. 27, 2000, [114 Stat. 2957][/us/stat/114/2957], 2959.)
 

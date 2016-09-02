@@ -17,11 +17,11 @@
 
     (a) __Notice__ 
 
-        Before taking any action referred to in subsection (b) of this section, the Director shall provide to the regulated entity written notice of the proposed action, which states the reasons for the proposed action and the information on which the proposed action is based.
+        Before taking any action referred to in subsection (b), the Director shall provide to the regulated entity written notice of the proposed action, which states the reasons for the proposed action and the information on which the proposed action is based.
 
     (b) __Applicability__ 
 
-    The requirements of subsection (a) of this section shall apply to the following actions:
+    The requirements of subsection (a) shall apply to the following actions:
 
         (1) Classification or reclassification of a regulated entity within a particular capital classification under [section 4614 of this title][/us/usc/t12/s4614].
 
@@ -29,13 +29,13 @@
 
         (3) Any discretionary supervisory action pursuant to [section 4616 of this title][/us/usc/t12/s4616] except a decision to appoint a conservator under section 4616(b)(6)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title.
 
-        Notice of classification under paragraph (1) and notice of supervisory actions under paragraph (2) or (3) may be provided together in a single notice under subsection (a) of this section.
+        Notice of classification under paragraph (1) and notice of supervisory actions under paragraph (2) or (3) may be provided together in a single notice under subsection (a).
 
     (c) __Response period__ 
 
         (1) __In general__ 
 
-            During the 30-day period beginning on the date that a regulated entity is provided notice under subsection (a) of this section of a proposed action, the regulated entity may submit to the Director any information relevant to the action that the regulated entity considers appropriate for consideration by the Director in determining whether to take such action. The Director may, at the discretion of the Director, hold an informal administrative hearing to receive and discuss such information and the proposed determination.
+            During the 30-day period beginning on the date that a regulated entity is provided notice under subsection (a) of a proposed action, the regulated entity may submit to the Director any information relevant to the action that the regulated entity considers appropriate for consideration by the Director in determining whether to take such action. The Director may, at the discretion of the Director, hold an informal administrative hearing to receive and discuss such information and the proposed determination.
 
         (2) __Extended period__ 
 
@@ -51,11 +51,11 @@
 
     (d) __Consideration of information and determination__ 
 
-        After the expiration of the response period under subsection (c) of this section or upon receipt of information provided during such period by the regulated entity, whichever occurs earlier, the Director shall determine whether to take the action proposed, taking into consideration any relevant information submitted by the regulated entity during the response period. The Director shall provide written notice of a determination to take action and the reasons for such determination to the regulated entity, the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and the Committee on Banking, Housing, and Urban Affairs of the Senate. Such notice shall respond to any information submitted during the response period.
+        After the expiration of the response period under subsection (c) or upon receipt of information provided during such period by the regulated entity, whichever occurs earlier, the Director shall determine whether to take the action proposed, taking into consideration any relevant information submitted by the regulated entity during the response period. The Director shall provide written notice of a determination to take action and the reasons for such determination to the regulated entity, the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and the Committee on Banking, Housing, and Urban Affairs of the Senate. Such notice shall respond to any information submitted during the response period.
 
     (e) __Effective date of actions__ 
 
-        An action referred to in subsection (b) of this section shall take effect upon receipt by the regulated entity of notice of the determination of the Director under subsection (d) of this section, unless otherwise provided in such notice.
+        An action referred to in subsection (b) shall take effect upon receipt by the regulated entity of notice of the determination of the Director under subsection (d), unless otherwise provided in such notice.
 
 ([Pub. L. 102–550, title XIII, § 1368][/us/pl/102/550/s1368], Oct. 28, 1992, [106 Stat. 3980][/us/stat/106/3980]; [Pub. L. 110–289, div. A, title I, § 1145(b)(1)][/us/pl/110/289/s1145/b/1], July 30, 2008, [122 Stat. 2767][/us/stat/122/2767].)
 

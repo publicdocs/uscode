@@ -35,7 +35,7 @@
 
     (b) __Report__ 
 
-        Not later than the expiration of the 1-year period beginning on October 28, 1992, each enterprise shall submit to the Secretary, the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and the Committee on Banking, Housing, and Urban Affairs of the Senate a report regarding the study conducted by the enterprise under subsection (a) of this section. Each report shall include any recommendations of the enterprise for better meeting the housing needs of low- and moderate-income families.
+        Not later than the expiration of the 1-year period beginning on October 28, 1992, each enterprise shall submit to the Secretary, the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and the Committee on Banking, Housing, and Urban Affairs of the Senate a report regarding the study conducted by the enterprise under subsection (a). Each report shall include any recommendations of the enterprise for better meeting the housing needs of low- and moderate-income families.
 
 ([Pub. L. 102–550, title XIII, § 1354][/us/pl/102/550/s1354], Oct. 28, 1992, [106 Stat. 3970][/us/stat/106/3970].)
 

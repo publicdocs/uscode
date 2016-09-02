@@ -21,7 +21,7 @@
 
     (b) __Additional funds__ 
 
-        Except as provided in section 3351(b) 1 of this title, funds in addition to the funds provided under subsection (a) of this section may be made available to the Appraisal Subcommittee only if authorized and appropriated by law.
+        Except as provided in section 3351(b) 1 of this title, funds in addition to the funds provided under subsection (a) may be made available to the Appraisal Subcommittee only if authorized and appropriated by law.
 
     (c) __Repayment of Treasury loan__ 
 

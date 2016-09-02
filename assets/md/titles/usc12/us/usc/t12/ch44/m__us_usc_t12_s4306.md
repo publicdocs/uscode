@@ -21,7 +21,7 @@
 
     (b) __No particular method of compounding interest required__ 
 
-        Subsection (a) of this section shall not be construed as prohibiting or requiring the use of any particular method of compounding or crediting of interest.
+        Subsection (a) shall not be construed as prohibiting or requiring the use of any particular method of compounding or crediting of interest.
 
     (c) __Date by which interest must accrue__ 
 

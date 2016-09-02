@@ -47,7 +47,7 @@
 
                 (ii) To residents of other developments managed by the public or Indian housing agency that is expending the assistance.
 
-                (iii) To participants in YouthBuild programs receiving assistance under [section 2918a of title 29][/us/usc/t29/s2918a].
+                (iii) To participants in YouthBuild programs receiving assistance under [section 3226 of title 29][/us/usc/t29/s3226].
 
                 (iv) To other low- and very low-income persons residing within the metropolitan area (or nonmetropolitan county) in which the assistance is expended.
 
@@ -59,7 +59,7 @@
 
             (B) __Priority__ 
 
-                Where feasible, priority should be given to low- and very low-income persons residing within the service area of the project or the neighborhood in which the project is located and to participants in YouthBuild programs receiving assistance under [section 2918a of title 29][/us/usc/t29/s2918a].
+                Where feasible, priority should be given to low- and very low-income persons residing within the service area of the project or the neighborhood in which the project is located and to participants in YouthBuild programs receiving assistance under [section 3226 of title 29][/us/usc/t29/s3226].
 
     (d) __Contracting__ 
 
@@ -77,7 +77,7 @@
 
                 (ii) To business concerns that provide economic opportunities for residents of other housing developments operated by the public and Indian housing agency that is providing the assistance.
 
-                (iii) To YouthBuild programs receiving assistance under [section 2918a of title 29][/us/usc/t29/s2918a].
+                (iii) To YouthBuild programs receiving assistance under [section 3226 of title 29][/us/usc/t29/s3226].
 
                 (iv) To business concerns that provide economic opportunities for low- and very low-income persons residing within the metropolitan area (or nonmetropolitan county) in which the assistance is provided.
 
@@ -89,7 +89,7 @@
 
             (B) __Priority__ 
 
-                Where feasible, priority should be given to business concerns which provide economic opportunities for low- and very low-income persons residing within the service area of the project or the neighborhood in which the project is located and to YouthBuild programs receiving assistance under [section 2918a of title 29][/us/usc/t29/s2918a].
+                Where feasible, priority should be given to business concerns which provide economic opportunities for low- and very low-income persons residing within the service area of the project or the neighborhood in which the project is located and to YouthBuild programs receiving assistance under [section 3226 of title 29][/us/usc/t29/s3226].
 
     (e) __Definitions__ 
 
@@ -118,24 +118,6 @@
         Not later than 180 days after October 28, 1992, the Secretary shall promulgate regulations to implement this section.
 
 ([Pub. L. 90–448, § 3][/us/pl/90/448/s3], Aug. 1, 1968, [82 Stat. 476][/us/stat/82/476]; [Pub. L. 91–152, title IV, § 404][/us/pl/91/152/s404], Dec. 24, 1969, [83 Stat. 395][/us/stat/83/395]; [Pub. L. 93–383, title I, § 118][/us/pl/93/383/s118], Aug. 22, 1974, [88 Stat. 653][/us/stat/88/653]; [Pub. L. 96–399, title III, § 329][/us/pl/96/399/s329], Oct. 8, 1980, [94 Stat. 1651][/us/stat/94/1651]; [Pub. L. 102–550, title IX, § 915][/us/pl/102/550/s915], Oct. 28, 1992, [106 Stat. 3878][/us/stat/106/3878]; [Pub. L. 109–281, § 2(d)(1)][/us/pl/109/281/s2/d/1], Sept. 22, 2006, [120 Stat. 1181][/us/stat/120/1181]; [Pub. L. 113–128, title V, § 512(p)][/us/pl/113/128/s512/p], July 22, 2014, [128 Stat. 1711][/us/stat/128/1711].)
-
- __Amendment of Section__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(p), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1711, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is amended as follows:
-
-    (1) in subsection (c):
-
-    (A) in paragraph (1)(B)(iii), by striking “participants in YouthBuild programs receiving assistance under [section 2918a of title 29][/us/usc/t29/s2918a]” and inserting “participants in YouthBuild programs receiving assistance under [section 3226 of title 29][/us/usc/t29/s3226]”; and
-
-    (B) in paragraph (2)(B), by striking “participants in YouthBuild programs receiving assistance under [section 2918a of title 29][/us/usc/t29/s2918a]” and inserting “participants in YouthBuild programs receiving assistance under [section 3226 of title 29][/us/usc/t29/s3226]”; and
-
-    (2) in subsection (d):
-
-    (A) in paragraph (1)(B)(iii), by striking “To YouthBuild programs receiving assistance under [section 2918a of title 29][/us/usc/t29/s2918a]” and inserting “To YouthBuild programs receiving assistance under [section 3226 of title 29][/us/usc/t29/s3226]”; and
-
-    (B) in paragraph (2)(B), by striking “to YouthBuild programs receiving assistance under [section 2918a of title 29][/us/usc/t29/s2918a]” and inserting “to YouthBuild programs receiving assistance under [section 3226 of title 29][/us/usc/t29/s3226]”.
-
-    See 2014 Amendment notes below.
 
  __References in Text__ 
 
@@ -175,13 +157,13 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by [Pub. L. 113–128][/us/pl/113/128] effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see [section 506 of Pub. L. 113–128][/us/pl/113/128/s506], set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date of 2006 Amendment__ 
 
 [Pub. L. 109–281, § 2(f)][/us/pl/109/281/s2/f], Sept. 22, 2006, [120 Stat. 1182][/us/stat/120/1182], provided that: 
 
-> “This section \[enacting [section 2918a of Title 29][/us/usc/t29/s2918a], Labor, amending this section, [section 4183 of Title 25][/us/usc/t25/s4183], Indians, [section 2939 of Title 29][/us/usc/t29/s2939], and [section 12870 of Title 42][/us/usc/t42/s12870], The Public Health and Welfare, and repealing sections 12899 to 12899i of Title 42\] and the amendments made by this section take effect on the earlier of—
+> “This section \[enacting former [section 2918a of Title 29][/us/usc/t29/s2918a], Labor, amending this section, [section 4183 of Title 25][/us/usc/t25/s4183], Indians, former [section 2939 of Title 29][/us/usc/t29/s2939], and [section 12870 of Title 42][/us/usc/t42/s12870], The Public Health and Welfare, and repealing sections 12899 to 12899i of Title 42\] and the amendments made by this section take effect on the earlier of—
 
 >     “(1) the date of enactment of this Act \[Sept. 22, 2006\]; and
 
@@ -246,12 +228,12 @@
 
 [/us/usc/t42/s1437c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c
 [/us/usc/t42/s1437g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437g
-[/us/usc/t29/s2918a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918a
-[/us/usc/t29/s2918a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918a
+[/us/usc/t29/s3226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3226
+[/us/usc/t29/s3226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3226
 [/us/usc/t42/s1437c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c
 [/us/usc/t42/s1437g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437g
-[/us/usc/t29/s2918a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918a
-[/us/usc/t29/s2918a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918a
+[/us/usc/t29/s3226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3226
+[/us/usc/t29/s3226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3226
 [/us/usc/t42/s1437a/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fb%2F2
 [/us/pl/90/448/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs3
 [/us/stat/82/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F476
@@ -267,16 +249,6 @@
 [/us/stat/120/1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1181
 [/us/pl/113/128/s512/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fp
 [/us/stat/128/1711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1711
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
-[/us/usc/t29/s2918a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918a
-[/us/usc/t29/s3226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3226
-[/us/usc/t29/s2918a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918a
-[/us/usc/t29/s3226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3226
-[/us/usc/t29/s2918a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918a
-[/us/usc/t29/s3226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3226
-[/us/usc/t29/s2918a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918a
-[/us/usc/t29/s3226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3226
 [/us/pl/105/276/s522/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs522%2Fa
 [/us/stat/112/2564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2564
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550

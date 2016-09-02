@@ -21,7 +21,7 @@
 
     (b) __Information on fees and charges__ 
 
-    The schedule required under subsection (a) of this section with respect to any account shall contain the following information:
+    The schedule required under subsection (a) with respect to any account shall contain the following information:
 
         (1) A description of all fees, periodic service charges, and penalties which may be charged or assessed against the account (or against the account holder in connection with such account), the amount of any such fees, charge, or penalty (or the method by which such amount will be calculated), and the conditions under which any such amount will be assessed.
 
@@ -31,7 +31,7 @@
 
     (c) __Information on interest rates__ 
 
-    The schedule required under subsection (a) of this section with respect to any account shall include the following information:
+    The schedule required under subsection (a) with respect to any account shall include the following information:
 
         (1) Any annual percentage yield.
 
@@ -55,11 +55,11 @@
 
     (d) __Other information__ 
 
-        The schedule required under subsection (a) of this section shall include such other disclosures as the Bureau may determine to be necessary to allow consumers to understand and compare accounts, including frequency of interest rate adjustments, account restrictions, and renewal policies for time accounts.
+        The schedule required under subsection (a) shall include such other disclosures as the Bureau may determine to be necessary to allow consumers to understand and compare accounts, including frequency of interest rate adjustments, account restrictions, and renewal policies for time accounts.
 
     (e) __Style and format__ 
 
-        Schedules required under subsection (a) of this section shall be written in clear and plain language and be presented in a format designed to allow consumers to readily understand the terms of the accounts offered.
+        Schedules required under subsection (a) shall be written in clear and plain language and be presented in a format designed to allow consumers to readily understand the terms of the accounts offered.
 
 ([Pub. L. 102–242, title II, § 264][/us/pl/102/242/s264], Dec. 19, 1991, [105 Stat. 2335][/us/stat/105/2335]; [Pub. L. 111–203, title X, § 1100B(1)][/us/pl/111/203/s1100B/1], July 21, 2010, [124 Stat. 2109][/us/stat/124/2109].)
 

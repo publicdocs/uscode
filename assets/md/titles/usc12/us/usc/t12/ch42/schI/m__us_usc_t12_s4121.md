@@ -25,7 +25,7 @@
 
     (c) __Related parties__ 
 
-        Except as provided in subsection (d) of this section, the terms “qualified purchaser” and “priority purchaser” do not include any entity that, either directly or indirectly, is wholly or partially owned or controlled by the owner of the housing being transferred under this subchapter, is under whole or partial common control with such owner, or has any financial interest in such owner or in which such owner has any financial interest. The Secretary shall issue any regulations appropriate to implement the preceding sentence.
+        Except as provided in subsection (d), the terms “qualified purchaser” and “priority purchaser” do not include any entity that, either directly or indirectly, is wholly or partially owned or controlled by the owner of the housing being transferred under this subchapter, is under whole or partial common control with such owner, or has any financial interest in such owner or in which such owner has any financial interest. The Secretary shall issue any regulations appropriate to implement the preceding sentence.
 
     (d) __Management exception__ 
 

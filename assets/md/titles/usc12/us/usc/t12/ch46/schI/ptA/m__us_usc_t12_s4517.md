@@ -21,7 +21,7 @@
 
     (b) __Other examinations__ 
 
-        In addition to annual examinations under subsection (a) of this section, the Director may conduct an examination under this section of a regulated entity whenever the Director determines that an examination is necessary or appropriate.
+        In addition to annual examinations under subsection (a), the Director may conduct an examination under this section of a regulated entity whenever the Director determines that an examination is necessary or appropriate.
 
     (c) __Examiners__ 
 

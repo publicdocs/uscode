@@ -197,9 +197,9 @@
 
         Any foreign bank—
 
-            (A) whose application under subsection (d) of this section or [section 3107(a) of this title][/us/usc/t12/s3107/a] has been disapproved by the Board;
+            (A) whose application under subsection (d) or [section 3107(a) of this title][/us/usc/t12/s3107/a] has been disapproved by the Board;
 
-            (B) against which the Board has issued an order under subsection (e) of this section or [section 3107(b) of this title][/us/usc/t12/s3107/b]; or
+            (B) against which the Board has issued an order under subsection (e) or [section 3107(b) of this title][/us/usc/t12/s3107/b]; or
 
             (C) against which the Comptroller of the Currency has issued an order under [section 3102(i) of this title][/us/usc/t12/s3102/i],
 
@@ -211,7 +211,7 @@
 
     (g) __Consultation with State bank supervisor__ 
 
-        The Board shall request and consider any views of the appropriate State bank supervisor with respect to any application or action under subsection (d) or (e) of this section.
+        The Board shall request and consider any views of the appropriate State bank supervisor with respect to any application or action under subsection (d) or (e).
 
     (h) __Limitations on powers of State branches and agencies__ 
 
@@ -245,7 +245,7 @@
 
             (D) any State commercial lending subsidiary,
 
-            has been found guilty of any money laundering offense, the Board shall issue a notice to the agency, branch, or subsidiary of the Board’s intention to commence a termination proceeding under subsection (e) of this section.
+            has been found guilty of any money laundering offense, the Board shall issue a notice to the agency, branch, or subsidiary of the Board’s intention to commence a termination proceeding under subsection (e).
 
         (2) __Definitions__ 
 

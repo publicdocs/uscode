@@ -55,11 +55,11 @@
 
         (1) __Residential rental value__ 
 
-            In the case of preservation value determined under subsection (b)(1) of this section, the guidelines shall assume conversion of the housing to market-rate rental housing and shall establish methods for (A) determining rehabilitation expenditures that would be necessary to bring the housing up to quality standards required to attract and sustain a market rate tenancy upon conversion, and (B) assessing other costs that the owner could reasonably be expected to incur if the owner converted the property to market-rate multifamily rental housing.
+            In the case of preservation value determined under subsection (b)(1), the guidelines shall assume conversion of the housing to market-rate rental housing and shall establish methods for (A) determining rehabilitation expenditures that would be necessary to bring the housing up to quality standards required to attract and sustain a market rate tenancy upon conversion, and (B) assessing other costs that the owner could reasonably be expected to incur if the owner converted the property to market-rate multifamily rental housing.
 
         (2) __Highest and best use value__ 
 
-            In the case of preservation value determined under subsection (b)(2) of this section, the guidelines shall assume conversion of the housing to highest and best use for the property and shall establish methods for (A) determining any rehabilitation expenditures that would be necessary to convert the housing to such use, and (B) assessing other costs that the owner could reasonably be expected to incur if the owner converted the property to its highest and best use.
+            In the case of preservation value determined under subsection (b)(2), the guidelines shall assume conversion of the housing to highest and best use for the property and shall establish methods for (A) determining any rehabilitation expenditures that would be necessary to convert the housing to such use, and (B) assessing other costs that the owner could reasonably be expected to incur if the owner converted the property to its highest and best use.
 
 ([Pub. L. 100–242, title II, § 213][/us/pl/100/242/s213], as added [Pub. L. 101–625, title VI, § 601(a)][/us/pl/101/625/s601/a], Nov. 28, 1990, [104 Stat. 4250][/us/stat/104/4250]; amended [Pub. L. 102–550, title III, § 302][/us/pl/102/550/s302], Oct. 28, 1992, [106 Stat. 3763][/us/stat/106/3763].)
 

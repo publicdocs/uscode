@@ -91,7 +91,7 @@
 
         (3) __Contents of notice__ 
 
-            Any notice required under paragraph (1) shall include the information described in subsection (b)(3) of this section.
+            Any notice required under paragraph (1) shall include the information described in subsection (b)(3).
 
     (d) __Treatment of loan payments during transfer period__ 
 
@@ -217,15 +217,15 @@
 
         (1) __Originator liability__ 
 
-            A person who makes a federally related mortgage loan shall not be liable to a borrower because of a failure of such person to comply with subsection (a) of this section with respect to an application for a loan made by the borrower before the regulations referred to in paragraph (3) take effect.
+            A person who makes a federally related mortgage loan shall not be liable to a borrower because of a failure of such person to comply with subsection (a) with respect to an application for a loan made by the borrower before the regulations referred to in paragraph (3) take effect.
 
         (2) __Servicer liability__ 
 
-            A servicer of a federally related mortgage loan shall not be liable to a borrower because of a failure of the servicer to perform any duty under subsection (b), (c), (d), or (e) of this section that arises before the regulations referred to in paragraph (3) take effect.
+            A servicer of a federally related mortgage loan shall not be liable to a borrower because of a failure of the servicer to perform any duty under subsection (b), (c), (d), or (e) that arises before the regulations referred to in paragraph (3) take effect.
 
         (3) __Regulations and effective date__ 
 
-            The Bureau shall establish any requirements necessary to carry out this section. Such regulations shall include the model disclosure statement required under subsection (a)(2) of this section.
+            The Bureau shall establish any requirements necessary to carry out this section. Such regulations shall include the model disclosure statement required under subsection (a)(2).
 
     (k) __Servicer prohibitions__ 
 

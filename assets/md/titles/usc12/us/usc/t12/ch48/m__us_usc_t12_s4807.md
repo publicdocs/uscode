@@ -21,7 +21,7 @@
 
     (b) __Waiver by applicant authorized__ 
 
-        Any person submitting an application to a Federal banking agency may waive the applicability of subsection (a) of this section with respect to such application at any time.
+        Any person submitting an application to a Federal banking agency may waive the applicability of subsection (a) with respect to such application at any time.
 
 ([Pub. L. 103–325, title III, § 343][/us/pl/103/325/s343], Sept. 23, 1994, [108 Stat. 2238][/us/stat/108/2238].)
 

@@ -43,7 +43,7 @@
 
     (c) __Final termination__ 
 
-        If a requirement for private mortgage insurance is not otherwise canceled or terminated in accordance with subsection (a) or (b) of this section, in no case may such a requirement be imposed on residential mortgage transactions beyond the first day of the month immediately following the date that is the midpoint of the amortization period of the loan if the mortgagor is current on the payments required by the terms of the mortgage.
+        If a requirement for private mortgage insurance is not otherwise canceled or terminated in accordance with subsection (a) or (b), in no case may such a requirement be imposed on residential mortgage transactions beyond the first day of the month immediately following the date that is the midpoint of the amortization period of the loan if the mortgagor is current on the payments required by the terms of the mortgage.
 
     (d) __Treatment of loan modifications__ 
 
@@ -55,15 +55,15 @@
 
         (1)
 
-         in the case of cancellation under subsection (a) of this section, more than 30 days after the later of—
+         in the case of cancellation under subsection (a), more than 30 days after the later of—
 
-            (A) the date on which a request under subsection (a)(1) of this section is received; or
+            (A) the date on which a request under subsection (a)(1) is received; or
 
-            (B) the date on which the mortgagor satisfies any evidence and certification requirements under subsection (a)(4) of this section;
+            (B) the date on which the mortgagor satisfies any evidence and certification requirements under subsection (a)(4);
 
-        (2) in the case of termination under subsection (b) of this section, more than 30 days after the termination date or the date referred to in subsection (b)(2) of this section, as applicable; and
+        (2) in the case of termination under subsection (b), more than 30 days after the termination date or the date referred to in subsection (b)(2), as applicable; and
 
-        (3) in the case of termination under subsection (c) of this section, more than 30 days after the final termination date established under that subsection.
+        (3) in the case of termination under subsection (c), more than 30 days after the final termination date established under that subsection.
 
     (f) __Return of unearned premiums__ 
 
@@ -79,7 +79,7 @@
 
         (1) __In general__ 
 
-        The termination and cancellation provisions in subsections (a) and (b) of this section do not apply to any residential mortgage transaction that, at the time at which the residential mortgage transaction is consummated, has high risks associated with the extension of the loan—
+        The termination and cancellation provisions in subsections (a) and (b) do not apply to any residential mortgage transaction that, at the time at which the residential mortgage transaction is consummated, has high risks associated with the extension of the loan—
 
             (A) as determined in accordance with guidelines published by the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation, in the case of a mortgage loan with an original principal balance that does not exceed the applicable annual conforming loan limit for the secondary market established pursuant to [section 1454(a)(2) of this title][/us/usc/t12/s1454/a/2], so as to require the imposition or continuation of a private mortgage insurance requirement beyond the terms specified in subsection (a) or (b) of this section; or
 
@@ -93,7 +93,7 @@
 
         (2) __Termination at midpoint__ 
 
-            A private mortgage insurance requirement in connection with a residential mortgage transaction described in paragraph (1) shall terminate in accordance with subsection (c) of this section.
+            A private mortgage insurance requirement in connection with a residential mortgage transaction described in paragraph (1) shall terminate in accordance with subsection (c).
 
         (3) __Rule of construction__ 
 
@@ -101,7 +101,7 @@
 
         (4) __GAO report__ 
 
-        Not later than 2 years after July 29, 1998, the Comptroller General of the United States shall submit to the Congress a report describing the volume and characteristics of residential mortgages and residential mortgage transactions that, pursuant to paragraph (1) of this subsection, are exempt from the application of subsections (a) and (b) of this section. The report shall—
+        Not later than 2 years after July 29, 1998, the Comptroller General of the United States shall submit to the Congress a report describing the volume and characteristics of residential mortgages and residential mortgage transactions that, pursuant to paragraph (1) of this subsection, are exempt from the application of subsections (a) and (b). The report shall—
 
             (A) determine the number or volume of such mortgages and transactions compared to residential mortgages and residential mortgage transactions that are not classified as high-risk for purposes of paragraph (1); and
 
@@ -139,7 +139,7 @@
 
     Subsec. (e). [Pub. L. 106–569, § 402(c)(1)(A)][/us/pl/106/569/s402/c/1/A], redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-    Subsec. (e)(1)(B). [Pub. L. 106–569, § 404(2)][/us/pl/106/569/s404/2], substituted “subsection (a)(4) of this section” for “subsection (a)(3) of this section”.
+    Subsec. (e)(1)(B). [Pub. L. 106–569, § 404(2)][/us/pl/106/569/s404/2], substituted “subsection (a)(4)” for “subsection (a)(3)”.
 
     Subsec. (f). [Pub. L. 106–569, § 402(c)(1)(A)][/us/pl/106/569/s402/c/1/A], redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
 

@@ -21,7 +21,7 @@
 
     (b) __Budgetary treatment__ 
 
-        The amount authorized to be appropriated under subsection (a) of this section shall be subject to discretionary spending caps, as provided in section 665  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 2, and therefore shall reduce by an equal amount funds made available for other discretionary spending programs.
+        The amount authorized to be appropriated under subsection (a) shall be subject to discretionary spending caps, as provided in section 665  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 2, and therefore shall reduce by an equal amount funds made available for other discretionary spending programs.
 
 ([Pub. L. 103–325, title II, § 260][/us/pl/103/325/s260], Sept. 23, 1994, [108 Stat. 2214][/us/stat/108/2214].)
 

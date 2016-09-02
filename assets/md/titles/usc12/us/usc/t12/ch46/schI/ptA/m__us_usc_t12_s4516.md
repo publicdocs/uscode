@@ -31,7 +31,7 @@
 
         (1) __Amount of payment__ 
 
-            Each enterprise shall pay to the Director a proportion of the annual assessment made pursuant to subsection (a) of this section that bears the same ratio to the total annual assessment that the total assets of each enterprise bears  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “bear”. </sup></sup>  to the total assets of both enterprises.
+            Each enterprise shall pay to the Director a proportion of the annual assessment made pursuant to subsection (a) that bears the same ratio to the total annual assessment that the total assets of each enterprise bears  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “bear”. </sup></sup>  to the total assets of both enterprises.
 
         (2) __Separate treatment of Federal home loan bank and enterprise assessments__ 
 

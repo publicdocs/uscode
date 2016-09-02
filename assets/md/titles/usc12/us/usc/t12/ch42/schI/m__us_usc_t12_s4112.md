@@ -25,9 +25,9 @@
 
          binding commitments have been made to ensure that—
 
-            (A) the housing will be retained as housing affordable for very low-income families or persons, low-income families or persons, and moderate-income families or persons for the remaining useful life of such housing (as determined under subsection (c) of this section);
+            (A) the housing will be retained as housing affordable for very low-income families or persons, low-income families or persons, and moderate-income families or persons for the remaining useful life of such housing (as determined under subsection (c));
 
-            (B) throughout such period, adequate expenditures will be made for maintenance and operation of the housing and that the project meets housing standards established by the Secretary under subsection (d) of this section, as determined by inspections conducted under such subsection by the Secretary;
+            (B) throughout such period, adequate expenditures will be made for maintenance and operation of the housing and that the project meets housing standards established by the Secretary under subsection (d), as determined by inspections conducted under such subsection by the Secretary;
 
             (C) current tenants will not be involuntarily displaced (except for good cause);
 
@@ -59,9 +59,9 @@
 
                 (ii) subject to a procedure, established by the Secretary, for owners to apply for rent increases not adequately compensated by annual adjustment under clause (i), under which the Secretary may increase rents in excess of the amount determined under clause (i) only if the Secretary determines such increases are necessary to reflect extraordinary necessary expenses of owning and maintaining the housing; and
 
-            (H) any savings from reductions in operating expenses due to management efficiencies shall be deposited in project reserves for replacement and the owner shall have periodic access to such reserves, to the extent the Secretary determines that the level of reserves is adequate and that the housing is maintained in accordance with the standards established under subsection (d) of this section; and
+            (H) any savings from reductions in operating expenses due to management efficiencies shall be deposited in project reserves for replacement and the owner shall have periodic access to such reserves, to the extent the Secretary determines that the level of reserves is adequate and that the housing is maintained in accordance with the standards established under subsection (d); and
 
-        (3) no incentives under [section 4109 of this title][/us/usc/t12/s4109] (other than to purchasers under [section 4110 of this title][/us/usc/t12/s4110]) may be provided until the Secretary determines the project meets housing standards under subsection (d) of this section, except that incentives under such section and other incentives designed to correct deficiencies in the project may be provided.
+        (3) no incentives under [section 4109 of this title][/us/usc/t12/s4109] (other than to purchasers under [section 4110 of this title][/us/usc/t12/s4110]) may be provided until the Secretary determines the project meets housing standards under subsection (d), except that incentives under such section and other incentives designed to correct deficiencies in the project may be provided.
 
     (b) __Implementation__ 
 

@@ -41,7 +41,7 @@
 
     (b) __Timing of actions__ 
 
-        No action may be brought by a mortgagor under subsection (a) of this section later than 2 years after the date of the discovery of the violation that is the subject of the action.
+        No action may be brought by a mortgagor under subsection (a) later than 2 years after the date of the discovery of the violation that is the subject of the action.
 
     (c) __Limitations on liability__ 
 

@@ -21,7 +21,7 @@
 
     (b) __Place of filing__ 
 
-        A declaration under subsection (a) of this section shall be filed with the Attorney General of the United States or with an agent designated by him for receiving declarations under this section.
+        A declaration under subsection (a) shall be filed with the Attorney General of the United States or with an agent designated by him for receiving declarations under this section.
 
 ([Pub. L. 101–647, title XXV, § 2576][/us/pl/101/647/s2576], Nov. 29, 1990, [104 Stat. 4899][/us/stat/104/4899].)
 

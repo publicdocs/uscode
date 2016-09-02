@@ -79,7 +79,7 @@
 
         (4) __Assessment of penalties__ 
 
-            Any penalty imposed under paragraph (1), (2), or (3) shall be assessed and collected by the Board or the Comptroller of the Currency in the manner provided in subsection (a)(2) of this section (for penalties imposed under such subsection) and any such assessment (including the determination of the amount of the penalty) shall be subject to the provisions of such subsection.
+            Any penalty imposed under paragraph (1), (2), or (3) shall be assessed and collected by the Board or the Comptroller of the Currency in the manner provided in subsection (a)(2) (for penalties imposed under such subsection) and any such assessment (including the determination of the amount of the penalty) shall be subject to the provisions of such subsection.
 
         (5) __Hearing procedure__ 
 

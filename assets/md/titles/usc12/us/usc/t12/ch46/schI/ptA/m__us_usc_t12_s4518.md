@@ -29,7 +29,7 @@
 
     (d) __Prohibition of setting compensation__ 
 
-        In carrying out subsection (a) of this section, the Director may not prescribe or set a specific level or range of compensation.
+        In carrying out subsection (a), the Director may not prescribe or set a specific level or range of compensation.
 
     (e) __Authority to regulate or prohibit certain forms of benefits to affiliated parties__ 
 

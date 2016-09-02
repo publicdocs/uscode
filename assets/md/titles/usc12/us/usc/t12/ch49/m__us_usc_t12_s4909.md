@@ -39,15 +39,15 @@
 
         (1) __Violation of this chapter treated as violation of other Acts__ 
 
-            For purposes of the exercise by any agency referred to in subsection (a) of this section of such agency’s powers under any Act referred to in such subsection, a violation of a requirement imposed under this chapter shall be deemed to be a violation of a requirement imposed under that Act.
+            For purposes of the exercise by any agency referred to in subsection (a) of such agency’s powers under any Act referred to in such subsection, a violation of a requirement imposed under this chapter shall be deemed to be a violation of a requirement imposed under that Act.
 
         (2) __Enforcement authority under other Acts__ 
 
-            In addition to the powers of any agency referred to in subsection (a) of this section under any provision of law specifically referred to in such subsection, each such agency may exercise, for purposes of enforcing compliance with any requirement imposed under this chapter, any other authority conferred on such agency by law, subject to subtitle B of the Consumer Financial Protection Act of 2010 \[[12 U.S.C. 5511][/us/usc/t12/s5511] et seq.\].
+            In addition to the powers of any agency referred to in subsection (a) under any provision of law specifically referred to in such subsection, each such agency may exercise, for purposes of enforcing compliance with any requirement imposed under this chapter, any other authority conferred on such agency by law, subject to subtitle B of the Consumer Financial Protection Act of 2010 \[[12 U.S.C. 5511][/us/usc/t12/s5511] et seq.\].
 
     (c) __Enforcement and reimbursement__ 
 
-    In carrying out its enforcement activities under this section, each agency referred to in subsection (a) of this section shall—
+    In carrying out its enforcement activities under this section, each agency referred to in subsection (a) shall—
 
         (1) notify the mortgagee or servicer of any failure of the mortgagee or servicer to comply with 1 or more provisions of this chapter;
 

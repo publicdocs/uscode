@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-    Except as provided in subsections (b) and (c) of this section, each advertisement, announcement, or solicitation initiated by any depository institution or deposit broker relating to any demand or interest-bearing account offered by an insured depository institution which includes any reference to a specific rate of interest payable on amounts deposited in such account, or to a specific yield or rate of earnings on amounts so deposited, shall state the following information, to the extent applicable, in a clear and conspicuous manner:
+    Except as provided in subsections (b) and (c), each advertisement, announcement, or solicitation initiated by any depository institution or deposit broker relating to any demand or interest-bearing account offered by an insured depository institution which includes any reference to a specific rate of interest payable on amounts deposited in such account, or to a specific yield or rate of earnings on amounts so deposited, shall state the following information, to the extent applicable, in a clear and conspicuous manner:
 
         (1) The annual percentage yield.
 
@@ -33,7 +33,7 @@
 
     (b) __Broadcast and electronic media and outdoor advertising exception__ 
 
-        The Bureau may, by regulation, exempt advertisements, announcements, or solicitations made by any broadcast or electronic medium or outdoor advertising display not on the premises of the depository institution from any disclosure requirements described in paragraph (4) or (5) of subsection (a) of this section if the Bureau finds that any such disclosure would be unnecessarily burdensome.
+        The Bureau may, by regulation, exempt advertisements, announcements, or solicitations made by any broadcast or electronic medium or outdoor advertising display not on the premises of the depository institution from any disclosure requirements described in paragraph (4) or (5) of subsection (a) if the Bureau finds that any such disclosure would be unnecessarily burdensome.
 
     (c) __Disclosure required for on-premises displays__ 
 

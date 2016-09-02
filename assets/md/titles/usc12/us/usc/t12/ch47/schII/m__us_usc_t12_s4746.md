@@ -43,7 +43,7 @@
 
     (c) __Form__ 
 
-        The reports and data filed pursuant to subsections (a) and (b) of this section shall be in such form as the Fund may require.
+        The reports and data filed pursuant to subsections (a) and (b) shall be in such form as the Fund may require.
 
 ([Pub. L. 103–325, title II, § 256][/us/pl/103/325/s256], Sept. 23, 1994, [108 Stat. 2212][/us/stat/108/2212].)
 

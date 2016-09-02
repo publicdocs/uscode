@@ -39,7 +39,7 @@
 
         (1)
 
-         Subject to paragraph (2), if the Attorney General has not provided the declarant with notice under subsection (b) of this section or a notice of invalidity pursuant to [section 4224 of this title][/us/usc/t12/s4224] within 1 year after the date of filing of the declaration, the Attorney General shall notify the declarant in writing that—
+         Subject to paragraph (2), if the Attorney General has not provided the declarant with notice under subsection (b) or a notice of invalidity pursuant to [section 4224 of this title][/us/usc/t12/s4224] within 1 year after the date of filing of the declaration, the Attorney General shall notify the declarant in writing that—
 
             (A) there is a pending investigation or proceeding in the course of which the declarant’s allegations are being addressed; or
 

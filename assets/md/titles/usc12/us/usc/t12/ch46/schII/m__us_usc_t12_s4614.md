@@ -119,7 +119,7 @@
 
     (d) __Quarterly determination__ 
 
-        The Director shall determine the capital classification of the regulated entities for purposes of this subchapter on not less than a quarterly basis (and as appropriate under subsection (c) of this section).
+        The Director shall determine the capital classification of the regulated entities for purposes of this subchapter on not less than a quarterly basis (and as appropriate under subsection (c)).
 
     (e) __Restriction on capital distributions__ 
 

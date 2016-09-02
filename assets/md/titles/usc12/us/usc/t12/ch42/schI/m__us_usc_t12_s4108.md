@@ -41,15 +41,15 @@
 
         (1) __Standards__ 
 
-            A written finding under subsection (a) of this section shall be based on an analysis of the evidence considered by the Secretary in reaching such finding and shall contain documentation of such evidence.
+            A written finding under subsection (a) shall be based on an analysis of the evidence considered by the Secretary in reaching such finding and shall contain documentation of such evidence.
 
         (2) __Procedure and criteria__ 
 
-            The Secretary shall, by regulation, develop (A) a procedure for determining whether the conditions under paragraphs (1) and (2) of subsection (a) of this section exist, (B) requirements for evidence on which such determinations are based, and (C) criteria on which such determinations are based.
+            The Secretary shall, by regulation, develop (A) a procedure for determining whether the conditions under paragraphs (1) and (2) of subsection (a) exist, (B) requirements for evidence on which such determinations are based, and (C) criteria on which such determinations are based.
 
     (c) __Disapproval__ 
 
-        If the Secretary determines a plan of action to prepay a mortgage or terminate an insurance contract fails to meet the requirements of subsection (a) of this section, the Secretary shall disapprove the plan, the notice of intent filed under [section 4102 of this title][/us/usc/t12/s4102] by such owner shall not be effective for purposes of this subchapter, and the owner may, in order to receive incentives under this subchapter, file a new notice of intent under such section.
+        If the Secretary determines a plan of action to prepay a mortgage or terminate an insurance contract fails to meet the requirements of subsection (a), the Secretary shall disapprove the plan, the notice of intent filed under [section 4102 of this title][/us/usc/t12/s4102] by such owner shall not be effective for purposes of this subchapter, and the owner may, in order to receive incentives under this subchapter, file a new notice of intent under such section.
 
 ([Pub. L. 100–242, title II, § 218][/us/pl/100/242/s218], as added [Pub. L. 101–625, title VI, § 601(a)][/us/pl/101/625/s601/a], Nov. 28, 1990, [104 Stat. 4256][/us/stat/104/4256]; amended [Pub. L. 102–550, title III, § 305][/us/pl/102/550/s305], Oct. 28, 1992, [106 Stat. 3763][/us/stat/106/3763].)
 

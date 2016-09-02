@@ -21,7 +21,7 @@
 
     (b) __Civil action__ 
 
-        If the Attorney General determines that a cause of action referred to in [section 4201 of this title][/us/usc/t12/s4201] based on the declaration should be referred to private counsel pursuant to subchapter III of this chapter, the declarant, after consultation with the Attorney General, shall have the right to select counsel to prosecute the action, and the declarant and the declarant’s counsel shall act in accordance with subchapter III of this chapter.
+        If the Attorney General determines that a cause of action referred to in [section 4201 of this title][/us/usc/t12/s4201] based on the declaration should be referred to private counsel pursuant to subchapter III, the declarant, after consultation with the Attorney General, shall have the right to select counsel to prosecute the action, and the declarant and the declarant’s counsel shall act in accordance with subchapter III.
 
     (c) __Criminal conviction__ 
 
@@ -59,7 +59,7 @@
 
                 (ii) In calculating an award under clause (i), the Attorney General may consider the size of the overall recovery and the usefulness of the information provided by the declarant.
 
-            (B) When a declarant has received an award under subsection (c) of this section, the Attorney General may subtract the amount of that reward from any recovery under this subsection.
+            (B) When a declarant has received an award under subsection (c), the Attorney General may subtract the amount of that reward from any recovery under this subsection.
 
         (2)
 

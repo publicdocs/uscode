@@ -37,11 +37,11 @@
 
         (4) __Federal cost limit analysis__ 
 
-            A statement of whether the aggregate preservation rents exceed the Federal cost limits and a direction to the owner to file a plan of action under [section 4107 of this title][/us/usc/t12/s4107] or submit a second notice of intent under subsection (d) of this section, whichever is applicable.
+            A statement of whether the aggregate preservation rents exceed the Federal cost limits and a direction to the owner to file a plan of action under [section 4107 of this title][/us/usc/t12/s4107] or submit a second notice of intent under subsection (d), whichever is applicable.
 
     (c) __Availability to tenants__ 
 
-        The Secretary shall make any information provided to the owner under subsections (a) and (b) of this section available to the tenants of the housing, together with other information relating to the rights and opportunities of the tenants.
+        The Secretary shall make any information provided to the owner under subsections (a) and (b) available to the tenants of the housing, together with other information relating to the rights and opportunities of the tenants.
 
     (d) __Second notice of intent__ 
 

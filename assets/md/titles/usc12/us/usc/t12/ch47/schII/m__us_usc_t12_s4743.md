@@ -39,7 +39,7 @@
 
         A State that is not a participating State, but that has its own capital access program providing portfolio insurance for business loans (based on a separate loss reserve fund for each financial institution), may apply at any time to the Fund to be approved to be a participating State. The Fund shall approve such State to be a participating State, and to be eligible for reimbursements by the Fund pursuant to [section 4747 of this title][/us/usc/t12/s4747], if the State—
 
-            (A) satisfies the requirements of subsections (a) and (b) of this section; and
+            (A) satisfies the requirements of subsections (a) and (b); and
 
             (B) certifies that each affected financial institution has satisfied the requirements of [section 4744 of this title][/us/usc/t12/s4744].
 
@@ -63,7 +63,7 @@
 
     (e) __Amendments to agreements__ 
 
-        If a State that has been approved to be a participating State wishes to amend its form of participation agreement and continue to be a participating State, such State shall submit such amendment for review by the Fund in accordance with subsection (b)(4) of this section. Any such amendment shall become effective only after it has been approved by the Fund.
+        If a State that has been approved to be a participating State wishes to amend its form of participation agreement and continue to be a participating State, such State shall submit such amendment for review by the Fund in accordance with subsection (b)(4). Any such amendment shall become effective only after it has been approved by the Fund.
 
 ([Pub. L. 103–325, title II, § 253][/us/pl/103/325/s253], Sept. 23, 1994, [108 Stat. 2205][/us/stat/108/2205].)
 

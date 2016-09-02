@@ -31,7 +31,7 @@
 
     (c) __Delay of public disclosure under exceptional circumstances__ 
 
-        If the Director makes a determination in writing that the public disclosure of any final order pursuant to subsection (a) of this section would seriously threaten the financial health or security of the regulated entity, the Director may delay the public disclosure of such order for a reasonable time.
+        If the Director makes a determination in writing that the public disclosure of any final order pursuant to subsection (a) would seriously threaten the financial health or security of the regulated entity, the Director may delay the public disclosure of such order for a reasonable time.
 
     (d) __Documents filed under seal in public enforcement hearings__ 
 
@@ -39,7 +39,7 @@
 
     (e) __Retention of documents__ 
 
-        The Director shall keep and maintain a record, for not less than 6 years, of all documents described in subsection (a) of this section and all enforcement agreements and other supervisory actions and supporting documents issued with respect to or in connection with any enforcement proceeding initiated by the Director under this subchapter or any other law.
+        The Director shall keep and maintain a record, for not less than 6 years, of all documents described in subsection (a) and all enforcement agreements and other supervisory actions and supporting documents issued with respect to or in connection with any enforcement proceeding initiated by the Director under this subchapter or any other law.
 
     (f) __Disclosures to Congress__ 
 

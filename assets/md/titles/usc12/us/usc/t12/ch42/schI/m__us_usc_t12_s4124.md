@@ -21,7 +21,7 @@
 
     (b) __Grants__ 
 
-        Subject to approval in appropriation Acts, not more than $50,000,000 of the amounts made available under subsection (a) of this section for fiscal year 1993, and not more than $50,000,000 of the amounts made available under subsection (a) of this section for fiscal year 1994, shall be available for grants under [section 4111(d)(2) of this title][/us/usc/t12/s4111/d/2].
+        Subject to approval in appropriation Acts, not more than $50,000,000 of the amounts made available under subsection (a) for fiscal year 1993, and not more than $50,000,000 of the amounts made available under subsection (a) for fiscal year 1994, shall be available for grants under [section 4111(d)(2) of this title][/us/usc/t12/s4111/d/2].
 
 ([Pub. L. 100–242, title II, § 234][/us/pl/100/242/s234], as added [Pub. L. 101–625, title VI, § 601(a)][/us/pl/101/625/s601/a], Nov. 28, 1990, [104 Stat. 4274][/us/stat/104/4274]; amended [Pub. L. 102–550, title III, § 301][/us/pl/102/550/s301], Oct. 28, 1992, [106 Stat. 3762][/us/stat/106/3762].)
 

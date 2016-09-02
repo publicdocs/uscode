@@ -21,11 +21,11 @@
 
     (b) __Terms and conditions__ 
 
-        Each contract under subsection (a) of this section shall include the provisions described in [section 4244 of this title][/us/usc/t12/s4244] and such other terms and conditions as the Attorney General considers necessary and appropriate to protect the interests of the United States.
+        Each contract under subsection (a) shall include the provisions described in [section 4244 of this title][/us/usc/t12/s4244] and such other terms and conditions as the Attorney General considers necessary and appropriate to protect the interests of the United States.
 
     (c) __Limitation of fee__ 
 
-        The amount of the contingency fee payable for legal services furnished under a contract described in subsection (a) of this section shall not exceed the contingency fee that counsel engaged in the private practice of law in the jurisdiction wherein the legal services are furnished typically charge clients for furnishing the same or comparable legal services.
+        The amount of the contingency fee payable for legal services furnished under a contract described in subsection (a) shall not exceed the contingency fee that counsel engaged in the private practice of law in the jurisdiction wherein the legal services are furnished typically charge clients for furnishing the same or comparable legal services.
 
     (d) __Contingent fees__ 
 

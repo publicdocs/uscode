@@ -49,7 +49,7 @@
 
     (e) __Notice of interest payment policy__ 
 
-        If a depository institution described in [section 4005(b) of this title][/us/usc/t12/s4005/b] begins the accrual of interest or dividends at a later date than the date described in [section 4005(a) of this title][/us/usc/t12/s4005/a] with respect to all funds, including cash, deposited in an interest-bearing account at such depository institution, any notice required to be provided under subsections (a) and (c) of this section shall contain a written description of the time at which such depository institution begins to accrue interest or dividends on such funds.
+        If a depository institution described in [section 4005(b) of this title][/us/usc/t12/s4005/b] begins the accrual of interest or dividends at a later date than the date described in [section 4005(a) of this title][/us/usc/t12/s4005/a] with respect to all funds, including cash, deposited in an interest-bearing account at such depository institution, any notice required to be provided under subsections (a) and (c) shall contain a written description of the time at which such depository institution begins to accrue interest or dividends on such funds.
 
     (f) __Model disclosure forms__ 
 

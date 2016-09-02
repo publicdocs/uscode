@@ -21,11 +21,11 @@
 
     (b) __Allocation__ 
 
-        30 percent of the assistance made available under this section shall be used for resident capacity grants in accordance with subsection (d) of this section. The remainder shall be used for predevelopment grants in connection with specific projects in accordance with subsection (e) of this section.
+        30 percent of the assistance made available under this section shall be used for resident capacity grants in accordance with subsection (d). The remainder shall be used for predevelopment grants in connection with specific projects in accordance with subsection (e).
 
     (c) __Limitation on grant amounts__ 
 
-        A resident capacity grant under subsection (d) of this section may not exceed $30,000 per project and a grant under subsection (e) of this section for predevelopment costs may not exceed $200,000 per project, exclusive of any fees paid to a participating intermediary by the Secretary for administering the program.
+        A resident capacity grant under subsection (d) may not exceed $30,000 per project and a grant under subsection (e) for predevelopment costs may not exceed $200,000 per project, exclusive of any fees paid to a participating intermediary by the Secretary for administering the program.
 
     (d) __Resident capacity grants__ 
 
@@ -53,11 +53,11 @@
 
     (f) __Grant applications__ 
 
-        Grant applications for assistance under subsections (d) and (e) of this section shall be received monthly on a rolling basis and approved or rejected on at least a quarterly basis by intermediaries selected under [section 4145(b) of this title][/us/usc/t12/s4145/b].
+        Grant applications for assistance under subsections (d) and (e) shall be received monthly on a rolling basis and approved or rejected on at least a quarterly basis by intermediaries selected under [section 4145(b) of this title][/us/usc/t12/s4145/b].
 
     (g) __Appeal__ 
 
-        If an application for assistance under subsections  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subsection”. </sup></sup>  (d) or (e) of this section is denied, the applicant shall have the right to appeal the denial to the Secretary and receive a binding determination within 30 days of the appeal.
+        If an application for assistance under subsections  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subsection”. </sup></sup>  (d) or (e) is denied, the applicant shall have the right to appeal the denial to the Secretary and receive a binding determination within 30 days of the appeal.
 
 ([Pub. L. 100–242, title II, § 253][/us/pl/100/242/s253], as added [Pub. L. 102–550, title III, § 312][/us/pl/102/550/s312], Oct. 28, 1992, [106 Stat. 3766][/us/stat/106/3766].)
 

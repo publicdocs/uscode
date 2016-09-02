@@ -33,7 +33,7 @@
 
     (b) __Specific actions__ 
 
-    In addition to any other actions taken by the Director (including actions under subsection (a) of this section), the Director shall carry out this section by taking, at any time, 1 or more of the following actions with respect to a regulated entity that is classified as significantly undercapitalized:
+    In addition to any other actions taken by the Director (including actions under subsection (a)), the Director shall carry out this section by taking, at any time, 1 or more of the following actions with respect to a regulated entity that is classified as significantly undercapitalized:
 
         (1) __Limitation on increase in obligations__ 
 

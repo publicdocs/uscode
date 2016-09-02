@@ -31,7 +31,7 @@
 
     (b) __Itemization of loan data__ 
 
-    Any item of information relating to mortgage loans required to be maintained under subsection (a) of this section shall be further itemized in order to disclose for each such item—
+    Any item of information relating to mortgage loans required to be maintained under subsection (a) shall be further itemized in order to disclose for each such item—
 
         (1) the number and dollar amount of mortgage loans which are insured under title II of the National Housing Act \[[12 U.S.C. 1707][/us/usc/t12/s1707] et seq.\] or under title V of the Housing Act of 1949 \[[42 U.S.C. 1471][/us/usc/t42/s1471] et seq.\] or which are guaranteed under chapter 37 of title 38;
 
@@ -79,15 +79,15 @@
 
     (c) __Period of maintenance__ 
 
-        Any information required to be compiled and made available under this section, other than loan application register information under subsection (j) of this section, shall be maintained and made available for a period of five years after the close of the first year during which such information is required to be maintained and made available.
+        Any information required to be compiled and made available under this section, other than loan application register information under subsection (j), shall be maintained and made available for a period of five years after the close of the first year during which such information is required to be maintained and made available.
 
     (d) __Duration of disclosure requirements__ 
 
-        Notwithstanding the provisions of subsection (a)(1) of this section, data required to be disclosed under this section for 1980 and thereafter shall be disclosed for each calendar year. Any depository institution which is required to make disclosures under this section but which has been making disclosures on some basis other than a calendar year basis shall make available a separate disclosure statement containing data for any period prior to calendar year 1980 which is not covered by the last full year report prior to the 1980 calendar year report.
+        Notwithstanding the provisions of subsection (a)(1), data required to be disclosed under this section for 1980 and thereafter shall be disclosed for each calendar year. Any depository institution which is required to make disclosures under this section but which has been making disclosures on some basis other than a calendar year basis shall make available a separate disclosure statement containing data for any period prior to calendar year 1980 which is not covered by the last full year report prior to the 1980 calendar year report.
 
     (e) __Format for disclosures__ 
 
-        Subject to subsection (h) of this section, the Bureau shall prescribe a standard format for the disclosures required under this section.
+        Subject to subsection (h), the Bureau shall prescribe a standard format for the disclosures required under this section.
 
     (f) __Data disclosure system; operation, etc.__ 
 
@@ -95,7 +95,7 @@
 
     (g) __Exceptions__ 
 
-    The requirements of subsections (a) and (b) of this section shall not apply with respect to mortgage loans that are—
+    The requirements of subsections (a) and (b) shall not apply with respect to mortgage loans that are—
 
         (1) made (or for which completed applications are received) by any mortgage banking subsidiary of a bank holding company or savings and loan holding company or by any savings and loan service corporation that originates or purchases mortgage loans; and
 
@@ -145,13 +145,13 @@
 
     (i) __Exemption from certain disclosure requirements__ 
 
-        The requirements of subsections (b)(4), (b)(5), and (b)(6) of this section shall not apply with respect to any depository institution described in section 2802(2)(A) 1 of this title which has total assets, as of the most recent full fiscal year of such institution, of $30,000,000 or less.
+        The requirements of subsections (b)(4), (b)(5), and (b)(6) shall not apply with respect to any depository institution described in section 2802(2)(A) 1 of this title which has total assets, as of the most recent full fiscal year of such institution, of $30,000,000 or less.
 
     (j) __Loan application register information__ 
 
         (1) __In general__ 
 
-            In addition to the information required to be disclosed under subsections (a) and (b) of this section, any depository institution which is required to make disclosures under this section shall make available to the public, upon request, loan application register information (as defined by the Bureau by regulation) in the form required under regulations prescribed by the Bureau.
+            In addition to the information required to be disclosed under subsections (a) and (b), any depository institution which is required to make disclosures under this section shall make available to the public, upon request, loan application register information (as defined by the Bureau by regulation) in the form required under regulations prescribed by the Bureau.
 
         (2) __Format of disclosure__ 
 
@@ -189,7 +189,7 @@
 
         (6) __Retention of information__ 
 
-            Notwithstanding subsection (c) of this section, the loan application register information described in paragraph (1) for any year shall be maintained and made available, upon request, for 3 years after the close of the 1st year during which such information is required to be maintained and made available.
+            Notwithstanding subsection (c), the loan application register information described in paragraph (1) for any year shall be maintained and made available, upon request, for 3 years after the close of the 1st year during which such information is required to be maintained and made available.
 
         (7) __Minimizing compliance costs__ 
 
@@ -223,7 +223,7 @@
 
             (A) __6- and 9-month maximum periods__ 
 
-            Except as provided in subsections (j)(5) and (k)(1) of this section and regulations prescribed by the Bureau and subject to subparagraph (B), any information required to be disclosed for any year beginning after December 31, 1992, under—
+            Except as provided in subsections (j)(5) and (k)(1) and regulations prescribed by the Bureau and subject to subparagraph (B), any information required to be disclosed for any year beginning after December 31, 1992, under—
 
                 (i) this section shall be made available to the public before September 1 of the succeeding year; and
 
@@ -239,7 +239,7 @@
 
         (3) __Improved procedure__ 
 
-            The Federal Financial Institutions Examination Council shall make such changes in the system established pursuant to subsection (f) of this section as may be necessary to carry out the requirements of this subsection.
+            The Federal Financial Institutions Examination Council shall make such changes in the system established pursuant to subsection (f) as may be necessary to carry out the requirements of this subsection.
 
     (m) __Opportunity to reduce compliance burden__ 
 
@@ -247,11 +247,11 @@
 
             (A) __Satisfaction of public availability requirements__ 
 
-                A depository institution shall be deemed to have satisfied the public availability requirements of subsection (a) of this section if the institution compiles the information required under that subsection at the home office of the institution and provides notice at the branch locations specified in subsection (a) of this section that such information is available from the home office of the institution upon written request.
+                A depository institution shall be deemed to have satisfied the public availability requirements of subsection (a) if the institution compiles the information required under that subsection at the home office of the institution and provides notice at the branch locations specified in subsection (a) that such information is available from the home office of the institution upon written request.
 
             (B) __Provision of information upon request__ 
 
-                Not later than 15 days after the receipt of a written request for any information required to be compiled under subsection (a) of this section, the home office of the depository institution receiving the request shall provide the information pertinent to the location of the branch in question to the person requesting the information.
+                Not later than 15 days after the receipt of a written request for any information required to be compiled under subsection (a), the home office of the depository institution receiving the request shall provide the information pertinent to the location of the branch in question to the person requesting the information.
 
         (2) __Form of information__ 
 
@@ -307,7 +307,7 @@
 
     1996—Subsec. (m). [Pub. L. 104–208][/us/pl/104/208] added subsec. (m).
 
-    1992—Subsec. (c). [Pub. L. 102–550, § 932(b)][/us/pl/102/550/s932/b], inserted “, other than loan application register information under subsection (j) of this section,” after “under this section”.
+    1992—Subsec. (c). [Pub. L. 102–550, § 932(b)][/us/pl/102/550/s932/b], inserted “, other than loan application register information under subsection (j),” after “under this section”.
 
     Subsecs. (j) to (l). [Pub. L. 102–550, § 932(a)][/us/pl/102/550/s932/a], added subsecs. (j) to (l).
 
@@ -323,7 +323,7 @@
 
     Subsec. (b)(4). [Pub. L. 101–73, § 1211(a)][/us/pl/101/73/s1211/a], added par. (4).
 
-    Subsec. (e). [Pub. L. 101–73, § 1211(i)][/us/pl/101/73/s1211/i], substituted “Subject to subsection (h) of this section, the Board” for “The Board”.
+    Subsec. (e). [Pub. L. 101–73, § 1211(i)][/us/pl/101/73/s1211/i], substituted “Subject to subsection (h), the Board” for “The Board”.
 
     Subsec. (g)(1). [Pub. L. 101–73, § 1211(c)(2)(B)][/us/pl/101/73/s1211/c/2/B], inserted “(or for which completed applications are received)” after “made”.
 

@@ -21,7 +21,7 @@
 
     (b) __Right of possession__ 
 
-        A purchaser at a foreclosure sale held pursuant to this chapter shall be entitled to possession upon passage of title under subsection (a) of this section to the mortgaged property, subject to any interest or interests not barred under [section 3765 of this title][/us/usc/t12/s3765]. Any person remaining in possession of the mortgaged property after the passage of title shall be deemed a tenant at sufferance subject to eviction under local law.
+        A purchaser at a foreclosure sale held pursuant to this chapter shall be entitled to possession upon passage of title under subsection (a) to the mortgaged property, subject to any interest or interests not barred under [section 3765 of this title][/us/usc/t12/s3765]. Any person remaining in possession of the mortgaged property after the passage of title shall be deemed a tenant at sufferance subject to eviction under local law.
 
     (c) __Death of purchaser__ 
 

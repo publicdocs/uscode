@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        If a participating State withdraws funds from a reserve fund pursuant to terms of the participation agreement permitted by subsection (d) or (r) of [section 4745 of this title][/us/usc/t12/s4745], such participating State shall, not later than 15 calendar days after such withdrawal, submit to the Fund an amount computed by multiplying the amount withdrawn by the appropriate factor, as determined under subsection (b) of this section.
+        If a participating State withdraws funds from a reserve fund pursuant to terms of the participation agreement permitted by subsection (d) or (r) of [section 4745 of this title][/us/usc/t12/s4745], such participating State shall, not later than 15 calendar days after such withdrawal, submit to the Fund an amount computed by multiplying the amount withdrawn by the appropriate factor, as determined under subsection (b).
 
     (b) __Factor__ 
 

@@ -17,21 +17,21 @@
 
     (a) __Notification__ 
 
-        (1) If, pursuant to [section 4226(d)(1)(B) of this title][/us/usc/t12/s4226/d/1/B], the Attorney General notifies a declarant that the declarant’s allegations have not yet been addressed, the declarant may notify the Attorney General to award a contract pursuant to subchapter III of this chapter to pursue the case.
+        (1) If, pursuant to [section 4226(d)(1)(B) of this title][/us/usc/t12/s4226/d/1/B], the Attorney General notifies a declarant that the declarant’s allegations have not yet been addressed, the declarant may notify the Attorney General to award a contract pursuant to subchapter III to pursue the case.
 
         (2) A declarant’s notification under paragraph (1) shall be filed with the Attorney General not later than 30 days after the date of service of notice under [section 4226(d)(1)(B) of this title][/us/usc/t12/s4226/d/1/B], and the Attorney General shall respond to the notification not later than 30 days after receipt.
 
     (b) __Contents of response__ 
 
-    In response to a notification under subsection (a)(1) of this section, the Attorney General shall—
+    In response to a notification under subsection (a)(1), the Attorney General shall—
 
-        (1) grant a contract pursuant to subchapter III of this chapter; or
+        (1) grant a contract pursuant to subchapter III; or
 
         (2) proceed with an action.
 
     (c) __Grant of contract__ 
 
-        If the Attorney General decides to grant a contract, the declarant, after consultation with the Attorney General, shall have the right to select counsel to prosecute an action, and the declarant and the declarant’s counsel shall act in accordance with subchapter III of this chapter.
+        If the Attorney General decides to grant a contract, the declarant, after consultation with the Attorney General, shall have the right to select counsel to prosecute an action, and the declarant and the declarant’s counsel shall act in accordance with subchapter III.
 
 ([Pub. L. 101–647, title XXV, § 2582][/us/pl/101/647/s2582], Nov. 29, 1990, [104 Stat. 4903][/us/stat/104/4903].)
 

@@ -55,7 +55,7 @@
 
         If the Board determines that—
 
-            (A) any depository institution which is not a depository institution described in subsection (a) of this section, or
+            (A) any depository institution which is not a depository institution described in subsection (a), or
 
             (B) any other person subject to the authority of the Board under this chapter, including any person subject to the authority of the Board under section 4004(d)(2) or 4008(c) of this title,
 

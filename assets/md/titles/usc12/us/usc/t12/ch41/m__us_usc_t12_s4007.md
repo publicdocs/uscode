@@ -25,7 +25,7 @@
 
     (b) __Override of certain State laws__ 
 
-        Except as provided in subsection (a) of this section, this chapter and regulations prescribed under this chapter shall supersede any provision of the law of any State, including the Uniform Commercial Code as in effect in such State, which is inconsistent with this chapter or such regulations.
+        Except as provided in subsection (a), this chapter and regulations prescribed under this chapter shall supersede any provision of the law of any State, including the Uniform Commercial Code as in effect in such State, which is inconsistent with this chapter or such regulations.
 
 ([Pub. L. 100–86, title VI, § 608][/us/pl/100/86/s608], Aug. 10, 1987, [101 Stat. 647][/us/stat/101/647].)
 

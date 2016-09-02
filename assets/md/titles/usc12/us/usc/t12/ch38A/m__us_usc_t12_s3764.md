@@ -33,7 +33,7 @@
 
     (b) __Effect of statements__ 
 
-    The items set forth in subsection (a) of this section shall—
+    The items set forth in subsection (a) shall—
 
         (1) be prima facie evidence of the truth of such facts in any Federal or State court; and
 

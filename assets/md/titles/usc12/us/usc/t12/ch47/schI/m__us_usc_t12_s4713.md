@@ -29,7 +29,7 @@
 
         (2) __Applicability of Bank Enterprise Act of 1991__ 
 
-        Subject to subsection (b) of this section and the consultation requirement of paragraph (1)—
+        Subject to subsection (b) and the consultation requirement of paragraph (1)—
 
             (A) section 233 of the Bank Enterprise Act of 1991 \[[12 U.S.C. 1834a][/us/usc/t12/s1834a]\] shall be applicable to the Administrator, for purposes of this section, in the same manner and to the same extent that such section is applicable to the Community Enterprise Assessment Credit Board;
 

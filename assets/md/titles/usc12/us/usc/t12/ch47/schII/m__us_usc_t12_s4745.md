@@ -25,7 +25,7 @@
 
         (1) receiving all required premium charges to be paid by the borrower and participating financial institution and contributions by the participating State; and
 
-        (2) disbursing funds, either to cover losses sustained by the participating financial institution in connection with loans made under the Program, or as contemplated by subsections (d) and (r) of this section.
+        (2) disbursing funds, either to cover losses sustained by the participating financial institution in connection with loans made under the Program, or as contemplated by subsections (d) and (r).
 
     (c) __Investment authority__ 
 
@@ -67,7 +67,7 @@
 
         (2) __Enrollment by State__ 
 
-            Upon receipt by the participating State of the filing submitted in accordance with paragraph (1), the participating State shall promptly enroll the loan and make a matching contribution to the reserve fund in accordance with subsection (j) of this section, unless the information submitted indicates that the participating financial institution has not complied with the participation agreement in enrolling the loan.
+            Upon receipt by the participating State of the filing submitted in accordance with paragraph (1), the participating State shall promptly enroll the loan and make a matching contribution to the reserve fund in accordance with subsection (j), unless the information submitted indicates that the participating financial institution has not complied with the participation agreement in enrolling the loan.
 
     (g) __Coverage amount__ 
 
@@ -87,7 +87,7 @@
 
         (1) __Actions prohibited__ 
 
-        Except as provided in subsection (h) of this section and paragraph (2) of this subsection, the participating State may not—
+        Except as provided in subsection (h) and paragraph (2) of this subsection, the participating State may not—
 
             (A) impose any restrictions or requirements, relating to the interest rate, fees, collateral, or other business terms and conditions of the loan; or
 
@@ -123,7 +123,7 @@
 
         (1) __In general__ 
 
-            Except as provided in subsection (n) of this section and paragraph (2) of this subsection, upon receipt of a claim filed in accordance with this section and the participation agreement, the participating State shall promptly pay to the participating financial institution, from funds in the reserve fund, the full amount of the claim as submitted.
+            Except as provided in subsection (n) and paragraph (2) of this subsection, upon receipt of a claim filed in accordance with this section and the participation agreement, the participating State shall promptly pay to the participating financial institution, from funds in the reserve fund, the full amount of the claim as submitted.
 
         (2) __Insufficient reserve funds__ 
 
@@ -197,7 +197,7 @@
 
         (1) __Special treatment of premium charges__ 
 
-        Notwithstanding subsection (b) or (d) of this section, the participation agreement, if explicitly authorized by a statute enacted by the State before September 23, 1994, may allow a participating financial institution to treat the premium charges paid by the participating financial institution and the borrower into the reserve fund, and interest or income earned on funds in the reserve fund that are deemed to be attributable to such premium charges, as assets of the participating financial institution for accounting purposes, subject to withdrawal by the participating financial institution only—
+        Notwithstanding subsection (b) or (d), the participation agreement, if explicitly authorized by a statute enacted by the State before September 23, 1994, may allow a participating financial institution to treat the premium charges paid by the participating financial institution and the borrower into the reserve fund, and interest or income earned on funds in the reserve fund that are deemed to be attributable to such premium charges, as assets of the participating financial institution for accounting purposes, subject to withdrawal by the participating financial institution only—
 
             (A) for the payment of claims approved by the participating State in accordance with this section; and
 

@@ -53,7 +53,7 @@
 
         (1) __Authority__ 
 
-            In lieu of benefits under subsections (b), (c), and (d) of this section, and subject to the availability of appropriated amounts, each family described in paragraph (2) shall be offered enhanced voucher assistance under [section 1437f(t) of title 42][/us/usc/t42/s1437f/t].
+            In lieu of benefits under subsections (b), (c), and (d), and subject to the availability of appropriated amounts, each family described in paragraph (2) shall be offered enhanced voucher assistance under [section 1437f(t) of title 42][/us/usc/t42/s1437f/t].
 
         (2) __Eligible families__ 
 

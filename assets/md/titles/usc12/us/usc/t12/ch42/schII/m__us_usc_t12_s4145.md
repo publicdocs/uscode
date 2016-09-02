@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        The Secretary shall approve and disburse assistance under [section 4143 of this title][/us/usc/t12/s4143] through eligible intermediaries selected by the Secretary under subsection (b) of this section. If the Secretary does not receive an acceptable proposal from an intermediary offering to administer assistance under this section in a given State, the Secretary shall administer the program in such State directly.
+        The Secretary shall approve and disburse assistance under [section 4143 of this title][/us/usc/t12/s4143] through eligible intermediaries selected by the Secretary under subsection (b). If the Secretary does not receive an acceptable proposal from an intermediary offering to administer assistance under this section in a given State, the Secretary shall administer the program in such State directly.
 
     (b) __Selection of eligible intermediaries__ 
 
@@ -53,7 +53,7 @@
 
     (c) __Conflicts of interest__ 
 
-    Eligible intermediaries selected under subsection (b) of this section to disburse assistance under [section 4143 of this title][/us/usc/t12/s4143] shall certify that they will serve only as delegated program administrators, charged with the responsibility for reviewing and approving grant applications on behalf of the Secretary. Selected intermediaries shall—
+    Eligible intermediaries selected under subsection (b) to disburse assistance under [section 4143 of this title][/us/usc/t12/s4143] shall certify that they will serve only as delegated program administrators, charged with the responsibility for reviewing and approving grant applications on behalf of the Secretary. Selected intermediaries shall—
 
         (1) establish appropriate procedures for grant administration and fiscal management, pursuant to standards established by the Secretary; and
 

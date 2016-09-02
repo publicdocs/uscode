@@ -21,7 +21,7 @@
 
     (b) __Report__ 
 
-        Not later than March 1, 2001, each Federal banking agency shall submit to the Congress a report that describes how the agency has complied with subsection (a) of this section.
+        Not later than March 1, 2001, each Federal banking agency shall submit to the Congress a report that describes how the agency has complied with subsection (a).
 
     (c) __Definition__ 
 

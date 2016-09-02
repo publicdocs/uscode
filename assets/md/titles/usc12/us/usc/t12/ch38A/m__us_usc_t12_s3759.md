@@ -47,7 +47,7 @@
 
     (b) __Opportunity of Secretary to dispute withdrawal__ 
 
-        Before withdrawing the security property from foreclosure under subparagraph (B) or (C) of subsection (a)(1) of this section, the foreclosure commissioner shall afford the Secretary a reasonable opportunity to demonstrate why the security property should not be so withdrawn.
+        Before withdrawing the security property from foreclosure under subparagraph (B) or (C) of subsection (a)(1), the foreclosure commissioner shall afford the Secretary a reasonable opportunity to demonstrate why the security property should not be so withdrawn.
 
     (c) __Effect of cancellation__ 
 

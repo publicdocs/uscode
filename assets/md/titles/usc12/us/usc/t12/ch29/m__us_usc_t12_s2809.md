@@ -21,11 +21,11 @@
 
     (b) __Staff and data processing resources__ 
 
-        The Bureau shall provide staff and data processing resources to the Council to enable it to carry out the provisions of subsection (a) of this section.
+        The Bureau shall provide staff and data processing resources to the Council to enable it to carry out the provisions of subsection (a).
 
     (c) __Availability to public__ 
 
-        The data and tables required pursuant to subsection (a) of this section shall be made available to the public by no later than December 31 of the year following the calendar year on which the data is based.
+        The data and tables required pursuant to subsection (a) shall be made available to the public by no later than December 31 of the year following the calendar year on which the data is based.
 
 ([Pub. L. 94–200, title III, § 310][/us/pl/94/200/s310], as added [Pub. L. 96–399, title III, § 340(c)][/us/pl/96/399/s340/c], Oct. 8, 1980, [94 Stat. 1658][/us/stat/94/1658]; amended [Pub. L. 98–181, title I][/us/pl/98/181] \[title VII, § 701(a)\], Nov. 30, 1983, [97 Stat. 1266][/us/stat/97/1266]; [Pub. L. 111–203, title X, § 1094(1)][/us/pl/111/203/s1094/1], July 21, 2010, [124 Stat. 2097][/us/stat/124/2097].)
 

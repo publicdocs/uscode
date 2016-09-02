@@ -21,7 +21,7 @@
 
     (b) __Review process__ 
 
-    In establishing the independent appellate process under subsection (a) of this section, each agency shall ensure that—
+    In establishing the independent appellate process under subsection (a), each agency shall ensure that—
 
         (1) any appeal of a material supervisory determination by an insured depository institution or insured credit union is heard and decided expeditiously; and
 

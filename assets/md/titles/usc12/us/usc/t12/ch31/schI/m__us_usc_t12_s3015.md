@@ -45,7 +45,7 @@
 
     (e) __Credit unions eligible for technical assistance from Office of Self-Help Development and Technical Assistance__ 
 
-        Notwithstanding any other provision of this section, a credit union serving predominantly low-income members (as defined by the Administrator of the National Credit Union Administration) may receive technical assistance under subchapter II of this chapter.
+        Notwithstanding any other provision of this section, a credit union serving predominantly low-income members (as defined by the Administrator of the National Credit Union Administration) may receive technical assistance under subchapter II.
 
 ([Pub. L. 95–351, title I, § 105][/us/pl/95/351/s105], Aug. 20, 1978, [92 Stat. 506][/us/stat/92/506]; [Pub. L. 97–35, title III, § 394(e)(1)][/us/pl/97/35/s394/e/1], (f), Aug. 13, 1981, [95 Stat. 436][/us/stat/95/436], 437.)
 

@@ -25,7 +25,7 @@
 
     (b) __Penalties__ 
 
-        A financial institution that violates subsection (a)(1) of this section shall be subject to civil penalties under [section 1818(i)(2) of this title][/us/usc/t12/s1818/i/2] or [section 1786(k)(2) of this title][/us/usc/t12/s1786/k/2], as appropriate.
+        A financial institution that violates subsection (a)(1) shall be subject to civil penalties under [section 1818(i)(2) of this title][/us/usc/t12/s1818/i/2] or [section 1786(k)(2) of this title][/us/usc/t12/s1786/k/2], as appropriate.
 
     (c) __Proceeding__ 
 
