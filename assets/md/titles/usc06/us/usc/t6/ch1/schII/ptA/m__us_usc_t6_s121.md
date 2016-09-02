@@ -277,6 +277,56 @@
 
     \[[Pub. L. 113–254, § 4(b)][/us/pl/113/254/s4/b], Dec. 18, 2014, [128 Stat. 2919][/us/stat/128/2919], provided that the repeal of [section 550 of Pub. L. 109–295][/us/pl/109/295/s550], formerly set out above, is effective as of the effective date of [Pub. L. 113–254][/us/pl/113/254], which is the date that is 30 days after Dec. 18, 2014. See [section 4(a) of Pub. L. 113–254][/us/pl/113/254/s4/a], set out as an Effective and Termination Dates note under [section 621 of this title][/us/usc/t6/s621].\]
 
+ __Enhanced Grid Security__ 
+
+[Pub. L. 114–94, div. F, § 61003(c)][/us/pl/114/94/s61003/c], Dec. 4, 2015, [129 Stat. 1778][/us/stat/129/1778], provided that:
+
+>     “(1)  __Definitions__  __.—__ 
+
+>     In this subsection:
+
+>         “(A)  __Critical electric infrastructure; critical electric infrastructure information__  __.—__ 
+
+>         The terms ‘critical electric infrastructure’ and ‘critical electric infrastructure information’ have the meanings given those terms in section 215A of the Federal Power Act \[[16 U.S.C. 824][/us/usc/t16/s824]o–1\].
+
+>         “(B)  __Sector-specific agency__  __.—__ 
+
+>         The term ‘Sector-Specific Agency’ has the meaning given that term in the Presidential Policy Directive entitled ‘Critical Infrastructure Security and Resilience’, numbered 21, and dated February 12, 2013.
+
+>     “(2) __Sector-specific agency for cybersecurity for the energy sector.—__ 
+
+>         “(A)  __In general__  __.—__ 
+
+>         The Department of Energy shall be the lead Sector-Specific Agency for cybersecurity for the energy sector.
+
+>         “(B)  __Duties__  __.—__ 
+
+>         As head of the designated Sector-Specific Agency for cybersecurity, the duties of the Secretary of Energy shall include—
+
+>             “(i) coordinating with the Department of Homeland Security and other relevant Federal departments and agencies;
+
+>             “(ii)
+
+>              collaborating with—
+
+>                 “(I) critical electric infrastructure owners and operators; and
+
+>                 “(II)
+
+>                  as appropriate—
+
+>                          “(aa) independent regulatory agencies; and
+
+>                          “(bb) State, local, tribal, and territorial entities;
+
+>                          “(cc) serving as a day-to-day Federal interface for the dynamic prioritization and coordination of sector-specific activities;
+
+>                          “(dd) carrying out incident management responsibilities consistent with applicable law (including regulations) and other appropriate policies or directives;
+
+>                          “(ee) providing, supporting, or facilitating technical assistance and consultations for the energy sector to identify vulnerabilities and help mitigate incidents, as appropriate; and
+
+>                          “(ff) supporting the reporting requirements of the Department of Homeland Security under applicable law by providing, on an annual basis, sector-specific critical electric infrastructure information.”
+
  __Cybersecurity Collaboration Between the Department of Defense and the Department of Homeland Security__ 
 
 [Pub. L. 112–81, div. A, title X, § 1090][/us/pl/112/81/s1090], Dec. 31, 2011, [125 Stat. 1603][/us/stat/125/1603], provided that:
@@ -923,6 +973,9 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/pl/113/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F254
 [/us/pl/113/254/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F254%2Fs4%2Fa
 [/us/usc/t6/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs621
+[/us/pl/114/94/s61003/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs61003%2Fc
+[/us/stat/129/1778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1778
+[/us/usc/t16/s824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824
 [/us/pl/112/81/s1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1090
 [/us/stat/125/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1603
 [/us/pl/111/259/s336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs336
