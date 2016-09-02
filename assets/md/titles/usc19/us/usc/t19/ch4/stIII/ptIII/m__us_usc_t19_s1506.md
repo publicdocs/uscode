@@ -15,7 +15,7 @@
 
 ## § 1506. Allowance for abandonment and damage
 
-Allowance shall be made in the estimation and liquidation of duties under regulations prescribed by the Secretary of the Treasury in the following cases:
+    Allowance shall be made in the estimation and liquidation of duties under regulations prescribed by the Secretary of the Treasury in the following cases:
 
     (1) __Abandonment within thirty days__ 
 

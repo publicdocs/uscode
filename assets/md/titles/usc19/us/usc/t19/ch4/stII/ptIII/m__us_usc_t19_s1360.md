@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch4/stII/ptIII/m__us_usc_t19_s1357 to 1359.md) | [Next](./../../../../../..//us/usc/t19/ch4/stII/ptIII/m__us_usc_t19_s1361.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1360)
+[Previous](./../../../../../..//us/usc/t19/ch4/stII/ptIII/m__us_usc_t19_s1356l.md) | [Next](./../../../../../..//us/usc/t19/ch4/stII/ptIII/m__us_usc_t19_s1361.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1360)
 
 ## § 1360. Investigation before trade negotiations
 
@@ -49,7 +49,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch4/stII/ptIII/m__us_usc_t19_s1357 to 1359.md) | [Next](./../../../../../..//us/usc/t19/ch4/stII/ptIII/m__us_usc_t19_s1361.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1360)
+[Previous](./../../../../../..//us/usc/t19/ch4/stII/ptIII/m__us_usc_t19_s1356l.md) | [Next](./../../../../../..//us/usc/t19/ch4/stII/ptIII/m__us_usc_t19_s1361.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1360)
 
 ----------
 ----------

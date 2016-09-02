@@ -15,7 +15,7 @@
 
 ## § 3301. Definitions
 
-For purposes of this Act:
+    For purposes of this Act:
 
     (1) __Agreement__ 
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2051.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2051" data-uslm-ref="/us/usc/t19/s2051">2051.</a>  </td>
 
     <td> Implementation of the Agreement; executive designation and duty of Federal agencies.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2052.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2052" data-uslm-ref="/us/usc/t19/s2052">2052.</a>  </td>
 
     <td> Assistance from other Federal agencies; facilities and personnel.  </td>
 

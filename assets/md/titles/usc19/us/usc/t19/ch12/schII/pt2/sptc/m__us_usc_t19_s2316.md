@@ -15,19 +15,19 @@
 
 ## § 2316. Penalties
 
-Any person who—
+    Any person who—
 
     (1) makes a false statement of a material fact knowing it to be false, or knowingly fails to disclose a material fact, for the purpose of obtaining or increasing for that person or for any other person any payment authorized to be furnished under this part or pursuant to an agreement under [section 2311 of this title][/us/usc/t19/s2311], or
 
     (2) makes a false statement of a material fact knowing it to be false, or knowingly fails to disclose a material fact, when providing information to the Secretary during an investigation of a petition under [section 2271 of this title][/us/usc/t19/s2271],
 
-        shall be imprisoned for not more than one year, or fined under title 18, or both.
+    shall be imprisoned for not more than one year, or fined under title 18, or both.
 
 ([Pub. L. 93–618, title II, § 244][/us/pl/93/618/s244], Jan. 3, 1975, [88 Stat. 2026][/us/stat/88/2026]; [Pub. L. 111–5, div. B, title I, § 1801(d)][/us/pl/111/5/s1801/d], Feb. 17, 2009, [123 Stat. 369][/us/stat/123/369]; [Pub. L. 112–40, title II, § 201(b)][/us/pl/112/40/s201/b], (c), Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403].)
 
  __Reversion to Provisions in Effect on__  __February 13, 2011__ 
 
-For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to [section 233(b) of Pub. L. 112–40][/us/pl/112/40/s233/b], see Codification and Effective and Termination Dates of 2011 Revival notes below.
+    For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to [section 233(b) of Pub. L. 112–40][/us/pl/112/40/s233/b], see Codification and Effective and Termination Dates of 2011 Revival notes below.
 
  __Codification__ 
 

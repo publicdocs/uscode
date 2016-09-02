@@ -15,7 +15,7 @@
 
 ## § 2032. Annual report to Congress
 
-The President shall submit to the Congress an annual report on the implementation of this chapter. Such report shall include information regarding new negotiations, reductions or eliminations of duties, reciprocal concessions obtained, and other information relating to activities under this chapter. Such report shall also include information providing an evaluation of the Agreement and this chapter in relation to the total national interest, and specifically shall include, to the extent practicable, information with respect to—
+    The President shall submit to the Congress an annual report on the implementation of this chapter. Such report shall include information regarding new negotiations, reductions or eliminations of duties, reciprocal concessions obtained, and other information relating to activities under this chapter. Such report shall also include information providing an evaluation of the Agreement and this chapter in relation to the total national interest, and specifically shall include, to the extent practicable, information with respect to—
 
     (1) the production of motor vehicles and motor vehicle parts in the United States and Canada.
 

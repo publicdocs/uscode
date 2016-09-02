@@ -15,7 +15,7 @@
 
 ## § 4001. Purposes
 
-The purposes of this chapter are—
+    The purposes of this chapter are—
 
     (1) to approve and implement the Free Trade Agreement between the United States, Costa Rica, the Dominican Republic, El Salvador, Guatemala, Honduras, and Nicaragua entered into under the authority of [section 3803(b) of this title][/us/usc/t19/s3803/b];
 
@@ -29,7 +29,7 @@ The purposes of this chapter are—
 
  __Termination of Section__ 
 
-For termination of section by [section 107(d) of Pub. L. 109–53][/us/pl/109/53/s107/d], see Effective and Termination Dates note below.
+    For termination of section by [section 107(d) of Pub. L. 109–53][/us/pl/109/53/s107/d], see Effective and Termination Dates note below.
 
  __References in Text__ 
 

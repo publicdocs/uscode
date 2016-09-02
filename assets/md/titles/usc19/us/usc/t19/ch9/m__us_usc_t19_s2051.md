@@ -15,7 +15,7 @@
 
 ## § 2051. Implementation of the Agreement; executive designation and duty of Federal agencies
 
-The President of the United States is authorized to designate a Federal agency or agencies which shall be responsible for carrying out the provisions of the Agreement for Facilitating the International Circulation of Visual and Auditory Materials of an Educational, Scientific, and Cultural Character and a related protocol of signature, opened for signature at Lake Success on July 15, 1949 (hereinafter in this chapter referred to as the “Agreement”). It shall be the duty of the Federal agency or agencies so designated to take appropriate measures for the carrying out of the provisions of the Agreement including the issuance of regulations. In carrying out this section, such Federal agency or agencies may not consider visual or auditory material to fail to qualify as being of international educational character—
+    The President of the United States is authorized to designate a Federal agency or agencies which shall be responsible for carrying out the provisions of the Agreement for Facilitating the International Circulation of Visual and Auditory Materials of an Educational, Scientific, and Cultural Character and a related protocol of signature, opened for signature at Lake Success on July 15, 1949 (hereinafter in this chapter referred to as the “Agreement”). It shall be the duty of the Federal agency or agencies so designated to take appropriate measures for the carrying out of the provisions of the Agreement including the issuance of regulations. In carrying out this section, such Federal agency or agencies may not consider visual or auditory material to fail to qualify as being of international educational character—
 
     (1) because it advocates a particular position or viewpoint, whether or not it presents or acknowledges opposing viewpoints;
 
@@ -27,7 +27,7 @@ The President of the United States is authorized to designate a Federal agency o
 
     (5) because in the opinion of the agency the material is propaganda.
 
-        Such Federal agency or agencies may not label as propaganda any material that receives a certificate of international educational character under this section and the Agreement.
+    Such Federal agency or agencies may not label as propaganda any material that receives a certificate of international educational character under this section and the Agreement.
 
 ([Pub. L. 89–634, § 1][/us/pl/89/634/s1], Oct. 8, 1966, [80 Stat. 879][/us/stat/80/879]; [Pub. L. 102–138, title II, § 207][/us/pl/102/138/s207], Oct. 28, 1991, [105 Stat. 693][/us/stat/105/693].)
 

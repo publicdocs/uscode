@@ -15,7 +15,7 @@
 
 ## § 2481. Definitions
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (1) The term “duty” includes the rate and form of any import duty, including but not limited to tariff-rate quotas.
 

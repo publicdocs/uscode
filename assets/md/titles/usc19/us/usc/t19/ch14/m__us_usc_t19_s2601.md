@@ -15,7 +15,7 @@
 
 ## § 2601. Definitions
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (1) The term “agreement” includes any amendment to, or extension of, any agreement under this chapter that enters into force with respect to the United States.
 

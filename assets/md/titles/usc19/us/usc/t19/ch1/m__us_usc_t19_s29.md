@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s26 to 28.md) | [Next](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s30.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs29)
+[Previous](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s6e.md) | [Next](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s30.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs29)
 
 ## § 29. Repealed. [Aug. 26, 1935, ch. 689, § 2][/us/act/1935-08-26/ch689/s2], [49 Stat. 864][/us/stat/49/864]
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s26 to 28.md) | [Next](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s30.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs29)
+[Previous](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s6e.md) | [Next](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s30.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs29)
 
 ----------
 ----------

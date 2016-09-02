@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptV/m__us_usc_t19_s1595.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptV/m__us_usc_t19_s1596 to 1598.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1595a)
+[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptV/m__us_usc_t19_s1595.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptV/m__us_usc_t19_s1599.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1595a)
 
 ## § 1595a. Forfeitures and other penalties
 
@@ -103,9 +103,17 @@
 
     For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].
 
+§§ 1596 to 1598. __Repealed.__  __[__  __June 25, 1948, ch. 645, § 21__  __][/us/act/1948-06-25/ch645/s21]__  __,__  __[__  __62 Stat. 862__  __][/us/stat/62/862]__  __, eff.__  __Sept. 1, 1948__ 
+
+    Section 1596, [act June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 596, [46 Stat. 752][/us/stat/46/752], related to buildings on boundary. See [section 547 of Title 18][/us/usc/t18/s547], Crimes and Criminal Procedure.
+
+    Section 1597, [act June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 597, [46 Stat. 752][/us/stat/46/752], related to fraudulent treatment of goods in warehouses. See [section 548 of Title 18][/us/usc/t18/s548].
+
+    Section 1598, acts [June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 598, [46 Stat. 752][/us/stat/46/752]; [June 25, 1938, ch. 679, § 26][/us/act/1938-06-25/ch679/s26], [52 Stat. 1089][/us/stat/52/1089], related to offenses concerning seals and unlawful removal of goods from custom custody. See [section 549 of Title 18][/us/usc/t18/s549].
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptV/m__us_usc_t19_s1595.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptV/m__us_usc_t19_s1596 to 1598.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1595a)
+[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptV/m__us_usc_t19_s1595.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptV/m__us_usc_t19_s1599.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1595a)
 
 ----------
 ----------
@@ -152,5 +160,18 @@
 [/us/pl/104/132/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs607
 [/us/usc/t18/s841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs841
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
+[/us/act/1948-06-25/ch645/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645%2Fs21
+[/us/stat/62/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F862
+[/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
+[/us/stat/46/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F752
+[/us/usc/t18/s547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs547
+[/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
+[/us/stat/46/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F752
+[/us/usc/t18/s548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs548
+[/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
+[/us/stat/46/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F752
+[/us/act/1938-06-25/ch679/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch679%2Fs26
+[/us/stat/52/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1089
+[/us/usc/t18/s549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs549
 
 

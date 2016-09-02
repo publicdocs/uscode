@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptIII/m__us_usc_t19_s1517 to 1519.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptIII/m__us_usc_t19_s1521.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1520)
+[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptIII/m__us_usc_t19_s1516a.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptIII/m__us_usc_t19_s1521.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1520)
 
 ## § 1520. Refunds and errors
 
@@ -55,19 +55,19 @@
 
  __Amendment of Section__ 
 
-For termination of amendment by [section 107(c) of Pub. L. 112–43][/us/pl/112/43/s107/c], see Effective and Termination Dates of 2011 Amendment note below.
+    For termination of amendment by [section 107(c) of Pub. L. 112–43][/us/pl/112/43/s107/c], see Effective and Termination Dates of 2011 Amendment note below.
 
-For termination of amendment by [section 107(c) of Pub. L. 112–42][/us/pl/112/42/s107/c], see Effective and Termination Dates of 2011 Amendment note below.
+    For termination of amendment by [section 107(c) of Pub. L. 112–42][/us/pl/112/42/s107/c], see Effective and Termination Dates of 2011 Amendment note below.
 
-For termination of amendment by [section 107(c) of Pub. L. 112–41][/us/pl/112/41/s107/c], see Effective and Termination Dates of 2011 Amendment note below.
+    For termination of amendment by [section 107(c) of Pub. L. 112–41][/us/pl/112/41/s107/c], see Effective and Termination Dates of 2011 Amendment note below.
 
-For termination of amendment by [section 107(c) of Pub. L. 110–138][/us/pl/110/138/s107/c], see Effective and Termination Dates of 2007 Amendment note below.
+    For termination of amendment by [section 107(c) of Pub. L. 110–138][/us/pl/110/138/s107/c], see Effective and Termination Dates of 2007 Amendment note below.
 
-For termination of amendment by [section 107(c) of Pub. L. 109–283][/us/pl/109/283/s107/c], see Effective and Termination Dates of 2006 Amendment note below.
+    For termination of amendment by [section 107(c) of Pub. L. 109–283][/us/pl/109/283/s107/c], see Effective and Termination Dates of 2006 Amendment note below.
 
-For termination of amendment by [section 107(d) of Pub. L. 109–53][/us/pl/109/53/s107/d], see Effective and Termination Dates of 2005 Amendment note below.
+    For termination of amendment by [section 107(d) of Pub. L. 109–53][/us/pl/109/53/s107/d], see Effective and Termination Dates of 2005 Amendment note below.
 
-For termination of amendment by [section 107(c) of Pub. L. 108–77][/us/pl/108/77/s107/c], see Effective and Termination Dates of 2003 Amendment note below.
+    For termination of amendment by [section 107(c) of Pub. L. 108–77][/us/pl/108/77/s107/c], see Effective and Termination Dates of 2003 Amendment note below.
 
  __References in Text__ 
 
@@ -227,7 +227,7 @@ For termination of amendment by [section 107(c) of Pub. L. 108–77][/us/pl/108/
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptIII/m__us_usc_t19_s1517 to 1519.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptIII/m__us_usc_t19_s1521.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1520)
+[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptIII/m__us_usc_t19_s1516a.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptIII/m__us_usc_t19_s1521.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1520)
 
 ----------
 ----------

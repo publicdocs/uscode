@@ -43,7 +43,7 @@ This was a provision of the sundry civil appropriation act for the fiscal year 1
 
     “It is hereby ordered and communicated that the following plan shall be the organization of the customs service for the said fiscal year 1914, and unless otherwise provided by Congress the permanent organization of the customs service:
 
- __“I. Customs Districts__ 
+“I. Customs Districts
 
     “In lieu of all customs-collection districts, ports, and subports of entry and ports of delivery now or heretofore existing there shall be 49 customs-collection districts with district headquarters and port of entry as follows:” \[The customs-collection districts, ports, and subports of entry and ports of delivery enumerated in the President’s message to Congress have been changed since the date of the message and the districts and their boundaries and ports of entry are subject to further changes under [section 2 of this title][/us/usc/t19/s2].\]
 

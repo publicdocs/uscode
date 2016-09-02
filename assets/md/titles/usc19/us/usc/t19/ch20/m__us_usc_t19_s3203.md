@@ -267,13 +267,13 @@
 
                       procedures and requirements similar in all material respects to the relevant procedures and requirements under chapter 5 of the NAFTA.
 
-                    (II) __Country described__ 
+            (II) __Country described__ 
 
-                    A country is described in this subclause if it is an ATPDEA beneficiary country—
+            A country is described in this subclause if it is an ATPDEA beneficiary country—
 
-                        (aa) from which the article is exported; or
+                (aa) from which the article is exported; or
 
-                        (bb) in which materials used in the production of the article originate or in which the article or such materials undergo production that contributes to a claim that the article is eligible for preferential treatment under paragraph (1), (3), or (4).
+                (bb) in which materials used in the production of the article originate or in which the article or such materials undergo production that contributes to a claim that the article is eligible for preferential treatment under paragraph (1), (3), or (4).
 
             (B) __Certificate of Origin__ 
 

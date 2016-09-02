@@ -15,7 +15,7 @@
 
 ## § 4002. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) __Agreement__ 
 
@@ -53,7 +53,7 @@ In this chapter:
 
  __Termination of Section__ 
 
-For termination of section by [section 107(d) of Pub. L. 109–53][/us/pl/109/53/s107/d], see Effective and Termination Dates note below.
+    For termination of section by [section 107(d) of Pub. L. 109–53][/us/pl/109/53/s107/d], see Effective and Termination Dates note below.
 
  __References in Text__ 
 

@@ -17,7 +17,7 @@
 
  __Termination of Part__ 
 
-For termination of this part effective 12 years after Dec. 11, 2001, see [section 2451b(c) of this title][/us/usc/t19/s2451b/c].
+    For termination of this part effective 12 years after Dec. 11, 2001, see [section 2451b(c) of this title][/us/usc/t19/s2451b/c].
 
 ----------
 

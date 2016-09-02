@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3101" data-uslm-ref="/us/usc/t19/s3101">3101.</a>  </td>
 
     <td> Findings and purposes.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3102" data-uslm-ref="/us/usc/t19/s3102">3102.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3103" data-uslm-ref="/us/usc/t19/s3103">3103.</a>  </td>
 
     <td> Investigation of foreign telecommunications trade barriers.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3104" data-uslm-ref="/us/usc/t19/s3104">3104.</a>  </td>
 
     <td> Negotiations in response to investigation.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3105" data-uslm-ref="/us/usc/t19/s3105">3105.</a>  </td>
 
     <td> Actions to be taken if no agreement obtained.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3106" data-uslm-ref="/us/usc/t19/s3106">3106.</a>  </td>
 
     <td> Review of trade agreement implementation by Trade Representative.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3107" data-uslm-ref="/us/usc/t19/s3107">3107.</a>  </td>
 
     <td> Compensation authority.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 3108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3108" data-uslm-ref="/us/usc/t19/s3108">3108.</a>  </td>
 
     <td> Consultations.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 3109.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3109" data-uslm-ref="/us/usc/t19/s3109">3109.</a>  </td>
 
     <td> Submission of data; action to ensure compliance.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 3110.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3110" data-uslm-ref="/us/usc/t19/s3110">3110.</a>  </td>
 
     <td> Study on telecommunications competitiveness in United States.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 3111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3111" data-uslm-ref="/us/usc/t19/s3111">3111.</a>  </td>
 
     <td> International obligations.  </td>
 

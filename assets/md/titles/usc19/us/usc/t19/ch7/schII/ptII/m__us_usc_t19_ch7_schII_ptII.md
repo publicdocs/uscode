@@ -11,16 +11,32 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch7/schII/ptI/m__us_usc_t19_s1823.md) | [Next](./../../../../../..//us/usc/t19/ch7/schII/ptII/m__us_usc_t19_s1831 to 1833.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch7%2FschII%2FptII)
+[Previous](./../../../../../..//us/usc/t19/ch7/schII/ptI/m__us_usc_t19_s1823.md) | [Next](./../../../../../..//us/usc/t19/ch7/schII/ptIII/m__us_usc_t19_ch7_schII_ptIII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch7%2FschII%2FptII)
 
 #### Part II—European Economic Community
 
+§§ 1831 to 1833. __Repealed.__  __[__  __Pub. L. 93–618, title VI, § 602(d)__  __][/us/pl/93/618/s602/d]__  __,__  __Jan. 3, 1975__  __,__  __[__  __88 Stat. 2072__  __][/us/stat/88/2072]__ 
+
+    Section 1831, [Pub. L. 87–794, title II, § 211][/us/pl/87/794/s211], Oct. 11, 1962, [76 Stat. 873][/us/stat/76/873], made provision for trade agreements with the European Economic Community.
+
+    Section 1832, [Pub. L. 87–794, title II, § 212][/us/pl/87/794/s212], Oct. 11, 1962, [76 Stat. 874][/us/stat/76/874], made special provision for trade agreements covering agricultural commodities.
+
+    Section 1833, [Pub. L. 87–794, title II, § 213][/us/pl/87/794/s213], Oct. 11, 1962, [76 Stat. 874][/us/stat/76/874], made special provision for trade agreements covering tropical agricultural and forestry commodities.
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch7/schII/ptI/m__us_usc_t19_s1823.md) | [Next](./../../../../../..//us/usc/t19/ch7/schII/ptII/m__us_usc_t19_s1831 to 1833.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch7%2FschII%2FptII)
+[Previous](./../../../../../..//us/usc/t19/ch7/schII/ptI/m__us_usc_t19_s1823.md) | [Next](./../../../../../..//us/usc/t19/ch7/schII/ptIII/m__us_usc_t19_ch7_schII_ptIII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch7%2FschII%2FptII)
 
 ----------
 ----------
 
+[/us/pl/93/618/s602/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs602%2Fd
+[/us/stat/88/2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2072
+[/us/pl/87/794/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs211
+[/us/stat/76/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F873
+[/us/pl/87/794/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs212
+[/us/stat/76/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F874
+[/us/pl/87/794/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs213
+[/us/stat/76/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F874
 
 

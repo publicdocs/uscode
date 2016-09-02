@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch12/schII/pt4/m__us_usc_t19_s2371a to 2371f.md) | [Next](./../../../../../..//us/usc/t19/ch12/schII/pt4/m__us_usc_t19_s2372a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2372)
+[Previous](./../../../../../..//us/usc/t19/ch12/schII/pt4/m__us_usc_t19_s2371.md) | [Next](./../../../../../..//us/usc/t19/ch12/schII/pt4/m__us_usc_t19_s2372a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2372)
 
 ## § 2372. Authorization of appropriations
 
@@ -57,7 +57,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch12/schII/pt4/m__us_usc_t19_s2371a to 2371f.md) | [Next](./../../../../../..//us/usc/t19/ch12/schII/pt4/m__us_usc_t19_s2372a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2372)
+[Previous](./../../../../../..//us/usc/t19/ch12/schII/pt4/m__us_usc_t19_s2371.md) | [Next](./../../../../../..//us/usc/t19/ch12/schII/pt4/m__us_usc_t19_s2372a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2372)
 
 ----------
 ----------

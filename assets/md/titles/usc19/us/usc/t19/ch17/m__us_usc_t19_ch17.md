@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2901" data-uslm-ref="/us/usc/t19/s2901">2901.</a>  </td>
 
     <td> Overall and principal trade negotiating objectives of the United States.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2902" data-uslm-ref="/us/usc/t19/s2902">2902.</a>  </td>
 
     <td> Trade agreement negotiating authority.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2903" data-uslm-ref="/us/usc/t19/s2903">2903.</a>  </td>
 
     <td> Implementation of trade agreements.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2904.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2904" data-uslm-ref="/us/usc/t19/s2904">2904.</a>  </td>
 
     <td> Termination and reservation authority; reciprocal nondiscriminatory treatment.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2905.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2905" data-uslm-ref="/us/usc/t19/s2905">2905.</a>  </td>
 
     <td> Accession of state trading regimes to General Agreement on Tariffs and Trade or WTO.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2906.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2906" data-uslm-ref="/us/usc/t19/s2906">2906.</a>  </td>
 
     <td> Definitions.  </td>
 

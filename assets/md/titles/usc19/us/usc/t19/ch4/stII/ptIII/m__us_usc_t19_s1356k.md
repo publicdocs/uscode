@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch4/stII/ptIII/m__us_usc_t19_s1356a to 1356j.md) | [Next](./../../../../../..//us/usc/t19/ch4/stII/ptIII/m__us_usc_t19_s1356l.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1356k)
+[Previous](./../../../../../..//us/usc/t19/ch4/stII/ptIII/m__us_usc_t19_s1354.md) | [Next](./../../../../../..//us/usc/t19/ch4/stII/ptIII/m__us_usc_t19_s1356l.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1356k)
 
 ## § 1356k. Importation of coffee under International Coffee Agreement, 1983; Presidential powers and duties
 
-On and after the entry into force of the International Coffee Agreement, 1983, and before October 1, 1989, the President is authorized, in order to carry out and enforce the provisions of that agreement—
+    On and after the entry into force of the International Coffee Agreement, 1983, and before October 1, 1989, the President is authorized, in order to carry out and enforce the provisions of that agreement—
 
     (1) to regulate the entry of coffee for consumption, or withdrawal of coffee from warehouse for consumption, or any other form of entry or withdrawal of coffee such as for transportation or exportation, including whenever quotas are in effect pursuant to the agreement, (A) the limitation of entry, or withdrawal from warehouse, of coffee imported from countries which are not members of the International Coffee Organization, and (B) the prohibition of entry of any shipment from any member of the International Coffee Organization of coffee which is not accompanied either by a valid certificate of origin, a valid certificate of reexport, a valid certificate of reshipment, or a valid certificate of transit, issued by a qualified agency in such form as required under the agreement;
 
@@ -59,7 +59,7 @@ On and after the entry into force of the International Coffee Agreement, 1983, a
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch4/stII/ptIII/m__us_usc_t19_s1356a to 1356j.md) | [Next](./../../../../../..//us/usc/t19/ch4/stII/ptIII/m__us_usc_t19_s1356l.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1356k)
+[Previous](./../../../../../..//us/usc/t19/ch4/stII/ptIII/m__us_usc_t19_s1354.md) | [Next](./../../../../../..//us/usc/t19/ch4/stII/ptIII/m__us_usc_t19_s1356l.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1356k)
 
 ----------
 ----------

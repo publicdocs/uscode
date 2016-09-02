@@ -15,7 +15,7 @@
 
 ## § 2461. Authority to extend preferences
 
-The President may provide duty-free treatment for any eligible article from any beneficiary developing country in accordance with the provisions of this subchapter. In taking any such action, the President shall have due regard for—
+    The President may provide duty-free treatment for any eligible article from any beneficiary developing country in accordance with the provisions of this subchapter. In taking any such action, the President shall have due regard for—
 
     (1) the effect such action will have on furthering the economic development of developing countries through the expansion of their exports;
 

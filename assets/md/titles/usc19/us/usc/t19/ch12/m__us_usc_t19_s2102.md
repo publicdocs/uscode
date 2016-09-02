@@ -15,7 +15,7 @@
 
 ## § 2102. Congressional statement of purpose
 
-The purposes of this chapter are, through trade agreements affording mutual benefits—
+    The purposes of this chapter are, through trade agreements affording mutual benefits—
 
     (1) to foster the economic growth of and full employment in the United States and to strengthen economic relations between the United States and foreign countries through open and nondiscriminatory world trade;
 

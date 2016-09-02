@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2071.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2071" data-uslm-ref="/us/usc/t19/s2071">2071.</a>  </td>
 
     <td> Establishment of Service; Commissioner; appointment.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2072.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2072" data-uslm-ref="/us/usc/t19/s2072">2072.</a>  </td>
 
     <td> Officers and employees.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2073.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2073" data-uslm-ref="/us/usc/t19/s2073">2073.</a>  </td>
 
     <td> Transfer of personnel, etc., to Service.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2074.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2074" data-uslm-ref="/us/usc/t19/s2074">2074.</a>  </td>
 
     <td> Establishment of revolving fund.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2075.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2075" data-uslm-ref="/us/usc/t19/s2075">2075.</a>  </td>
 
     <td> Appropriations authorization.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2076.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2076" data-uslm-ref="/us/usc/t19/s2076">2076.</a>  </td>
 
     <td> Advances in foreign countries.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2077.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2077" data-uslm-ref="/us/usc/t19/s2077">2077.</a>  </td>
 
     <td> Advances for enforcement of customs provisions.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2078.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2078" data-uslm-ref="/us/usc/t19/s2078">2078.</a>  </td>
 
     <td> Certification of reason for advance.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2079.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2079" data-uslm-ref="/us/usc/t19/s2079">2079.</a>  </td>
 
     <td> Payments in foreign countries; claims for reimbursement.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2080.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2080" data-uslm-ref="/us/usc/t19/s2080">2080.</a>  </td>
 
     <td> Advances from available appropriations; rules and regulations.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2081.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2081" data-uslm-ref="/us/usc/t19/s2081">2081.</a>  </td>
 
     <td> Undercover investigative operations of Customs Service.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 2082.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2082" data-uslm-ref="/us/usc/t19/s2082">2082.</a>  </td>
 
     <td> Customs Service administration.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 2083.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2083" data-uslm-ref="/us/usc/t19/s2083">2083.</a>  </td>
 
     <td> Annual national trade and customs law violation estimates and enforcement strategy.  </td>
 

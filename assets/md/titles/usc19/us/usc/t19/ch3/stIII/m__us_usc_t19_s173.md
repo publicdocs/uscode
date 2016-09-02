@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s172.md) | [Next](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s174 to 180.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs173)
+[Previous](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s172.md) | [Next](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s181.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs173)
 
 ## § 173. Omitted
 
@@ -19,9 +19,17 @@
 
  __Unfair Methods of Competition and Importation Unlawful__ 
 
+§§ 174 to 180. __Repealed.__  __[__  __June 17, 1930, ch. 497__  __][/us/act/1930-06-17/ch497]__  __, title IV, § 651(a)(1),__  __[__  __46 Stat. 762__  __][/us/stat/46/762]__  __, eff.__  __June 18, 1930__ 
+
+    Sections, [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title III, § 316(a)–(g), [42 Stat. 943][/us/stat/42/943], 944, related to unfair acts tending to destroy or injure domestic industries, investigations by Tariff Commission, appeals, and forbidding entry of articles pending completion of investigations.
+
+    Provisions of Tariff Act of 1930 corresponding to section 174, see [section 1337(a) of this title][/us/usc/t19/s1337/a]; section 175, see section 1337(b); section 176, see section 1337(c); section 177, see section 1337(d); section 178, see section 1337(e); section 179, see section 1337(f); section 180, see section 1337(g).
+
+ __Imports From Countries Making Discriminations__ 
+
 ----------
 
-[Previous](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s172.md) | [Next](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s174 to 180.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs173)
+[Previous](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s172.md) | [Next](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s181.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs173)
 
 ----------
 ----------
@@ -30,5 +38,10 @@
 [/us/stat/42/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F18
 [/us/pl/96/39/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs106%2Fa
 [/us/stat/93/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F193
+[/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
+[/us/stat/46/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F762
+[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/stat/42/943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F943
+[/us/usc/t19/s1337/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1337%2Fa
 
 

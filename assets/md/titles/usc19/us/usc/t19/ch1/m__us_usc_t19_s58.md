@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s53 to 57.md) | [Next](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s58a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs58)
+[Previous](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s52.md) | [Next](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s58a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs58)
 
 ## § 58. Repealed. [Pub. L. 95–410, title II, § 214(a)][/us/pl/95/410/s214/a], Oct. 3, 1978, [92 Stat. 904][/us/stat/92/904]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s53 to 57.md) | [Next](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s58a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs58)
+[Previous](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s52.md) | [Next](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s58a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs58)
 
 ----------
 ----------

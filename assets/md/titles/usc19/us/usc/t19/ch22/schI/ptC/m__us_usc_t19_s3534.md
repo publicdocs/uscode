@@ -15,7 +15,7 @@
 
 ## § 3534. Annual report on WTO
 
-Not later than March 1 of each year beginning in 1996, the Trade Representative shall submit to the Congress a report describing, for the preceding fiscal year of the WTO—
+    Not later than March 1 of each year beginning in 1996, the Trade Representative shall submit to the Congress a report describing, for the preceding fiscal year of the WTO—
 
     (1) the major activities and work programs of the WTO, including the functions and activities of the committees established under article IV of the WTO Agreement, and the expenditures made by the WTO in connection with those activities and programs;
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch4/stII/ptIII/m__us_usc_t19_s1362 to 1365.md) | [Next](./../../../../../..//us/usc/t19/ch4/stII/ptIII/m__us_usc_t19_s1367.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1366)
+[Previous](./../../../../../..//us/usc/t19/ch4/stII/ptIII/m__us_usc_t19_s1361.md) | [Next](./../../../../../..//us/usc/t19/ch4/stII/ptIII/m__us_usc_t19_s1367.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1366)
 
 ## § 1366. General Agreement on Tariff and Trade un­affected
 
@@ -39,7 +39,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch4/stII/ptIII/m__us_usc_t19_s1362 to 1365.md) | [Next](./../../../../../..//us/usc/t19/ch4/stII/ptIII/m__us_usc_t19_s1367.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1366)
+[Previous](./../../../../../..//us/usc/t19/ch4/stII/ptIII/m__us_usc_t19_s1361.md) | [Next](./../../../../../..//us/usc/t19/ch4/stII/ptIII/m__us_usc_t19_s1367.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1366)
 
 ----------
 ----------

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3801.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3801" data-uslm-ref="/us/usc/t19/s3801">3801.</a>  </td>
 
     <td> Short title and findings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3802.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3802" data-uslm-ref="/us/usc/t19/s3802">3802.</a>  </td>
 
     <td> Trade negotiating objectives.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3803.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3803" data-uslm-ref="/us/usc/t19/s3803">3803.</a>  </td>
 
     <td> Trade agreements authority.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3804.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3804" data-uslm-ref="/us/usc/t19/s3804">3804.</a>  </td>
 
     <td> Consultations and assessment.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3805.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3805" data-uslm-ref="/us/usc/t19/s3805">3805.</a>  </td>
 
     <td> Implementation of trade agreements.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3806.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3806" data-uslm-ref="/us/usc/t19/s3806">3806.</a>  </td>
 
     <td> Treatment of certain trade agreements for which negotiations have already begun.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3807.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3807" data-uslm-ref="/us/usc/t19/s3807">3807.</a>  </td>
 
     <td> Congressional Oversight Group.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 3808.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3808" data-uslm-ref="/us/usc/t19/s3808">3808.</a>  </td>
 
     <td> Additional implementation and enforcement requirements.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 3809.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3809" data-uslm-ref="/us/usc/t19/s3809">3809.</a>  </td>
 
     <td> Committee staff.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 3810.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3810" data-uslm-ref="/us/usc/t19/s3810">3810.</a>  </td>
 
     <td> Application of certain provisions.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 3811.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3811" data-uslm-ref="/us/usc/t19/s3811">3811.</a>  </td>
 
     <td> Report on impact of trade promotion authority.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 3812.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3812" data-uslm-ref="/us/usc/t19/s3812">3812.</a>  </td>
 
     <td> Interests of small business.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 3813.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3813" data-uslm-ref="/us/usc/t19/s3813">3813.</a>  </td>
 
     <td> Definitions.  </td>
 

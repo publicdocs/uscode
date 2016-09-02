@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s193 to 195.md) | [Next](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s196a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs196)
+[Previous](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s181.md) | [Next](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s196a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs196)
 
 ## § 196. Repealed. [June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 651(a)(1), [46 Stat. 762][/us/stat/46/762], eff. June 18, 1930
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s193 to 195.md) | [Next](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s196a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs196)
+[Previous](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s181.md) | [Next](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s196a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs196)
 
 ----------
 ----------

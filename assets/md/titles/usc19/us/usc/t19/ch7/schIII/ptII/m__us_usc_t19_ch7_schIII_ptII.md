@@ -11,16 +11,46 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch7/schIII/ptI/m__us_usc_t19_s1901, 1902.md) | [Next](./../../../../../..//us/usc/t19/ch7/schIII/ptII/m__us_usc_t19_s1911 to 1915.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch7%2FschIII%2FptII)
+[Previous](./../../../../../..//us/usc/t19/ch7/schIII/ptI/m__us_usc_t19_ch7_schIII_ptI.md) | [Next](./../../../../../..//us/usc/t19/ch7/schIII/ptII/m__us_usc_t19_s1916.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch7%2FschIII%2FptII)
 
 #### Part II—Adjustment Assistance to Firms
 
+§§ 1911 to 1915. __Repealed.__  __[__  __Pub. L. 93–618, title VI, § 602(e)__  __][/us/pl/93/618/s602/e]__  __,__  __Jan. 3, 1975__  __,__  __[__  __88 Stat. 2072__  __][/us/stat/88/2072]__ 
+
+    Section 1911, [Pub. L. 87–794, title III, § 311][/us/pl/87/794/s311], Oct. 11, 1962, [76 Stat. 886][/us/stat/76/886], provided for certification of proposals for adjustment assistance to firms. See section 2341 et seq. of this title.
+
+    Section 1912, [Pub. L. 87–794, title III, § 312][/us/pl/87/794/s312], Oct. 11, 1962, [76 Stat. 886][/us/stat/76/886], provided for use of existing agencies in carrying out certified adjustment proposals. See section 2341 et seq. of this title.
+
+    Section 1913, [Pub. L. 87–794, title III, § 313][/us/pl/87/794/s313], Oct. 11, 1962, [76 Stat. 887][/us/stat/76/887], provided for giving of technical assistance to firms. See [section 2343 of this title][/us/usc/t19/s2343].
+
+    Section 1914, [Pub. L. 87–794, title III, § 314][/us/pl/87/794/s314], Oct. 11, 1962, [76 Stat. 887][/us/stat/76/887], provided for giving of financial assistance to firms.
+
+    Section 1915, [Pub. L. 87–794, title III, § 315][/us/pl/87/794/s315], Oct. 11, 1962, [76 Stat. 887][/us/stat/76/887], set out conditions for giving of financial assistance.
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective on 90th day following Jan. 3, 1975, see note set out under [section 1901 of this title][/us/usc/t19/s1901].
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch7/schIII/ptI/m__us_usc_t19_s1901, 1902.md) | [Next](./../../../../../..//us/usc/t19/ch7/schIII/ptII/m__us_usc_t19_s1911 to 1915.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch7%2FschIII%2FptII)
+[Previous](./../../../../../..//us/usc/t19/ch7/schIII/ptI/m__us_usc_t19_ch7_schIII_ptI.md) | [Next](./../../../../../..//us/usc/t19/ch7/schIII/ptII/m__us_usc_t19_s1916.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch7%2FschIII%2FptII)
 
 ----------
 ----------
 
+[/us/pl/93/618/s602/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs602%2Fe
+[/us/stat/88/2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2072
+[/us/pl/87/794/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs311
+[/us/stat/76/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F886
+[/us/pl/87/794/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs312
+[/us/stat/76/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F886
+[/us/pl/87/794/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs313
+[/us/stat/76/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F887
+[/us/usc/t19/s2343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2343
+[/us/pl/87/794/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs314
+[/us/stat/76/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F887
+[/us/pl/87/794/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs315
+[/us/stat/76/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F887
+[/us/usc/t19/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1901
 
 

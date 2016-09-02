@@ -15,7 +15,7 @@
 
 ## § 2295a. Limitations on administrative expenses and employment and case management services
 
-Of the funds made available to a State to carry out sections 2295 through 2298 of this title for a fiscal year, the State shall use—
+    Of the funds made available to a State to carry out sections 2295 through 2298 of this title for a fiscal year, the State shall use—
 
     (1)
 
@@ -33,7 +33,7 @@ Of the funds made available to a State to carry out sections 2295 through 2298 o
 
  __Termination of Section__ 
 
-For termination of section beginning on Jan. 1, 2014, with certain exceptions and subject to [section 233(b) of Pub. L. 112–40][/us/pl/112/40/s233/b], see Codification and Effective and Termination Dates notes below.
+    For termination of section beginning on Jan. 1, 2014, with certain exceptions and subject to [section 233(b) of Pub. L. 112–40][/us/pl/112/40/s233/b], see Codification and Effective and Termination Dates notes below.
 
  __Codification__ 
 

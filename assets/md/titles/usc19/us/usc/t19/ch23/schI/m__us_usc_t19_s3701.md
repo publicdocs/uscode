@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t19/ch23/schI/m__us_usc_t19_ch23_schI.md) | [Next](./../../../../..//us/usc/t19/ch23/schI/m__us_usc_t19_s3702.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3701)
+[Previous](./../../../../..//us/usc/t19/ch23/schI/m__us_usc_t19_ch23_schI.md) | [Next](./../../../../..//us/usc/t19/ch23/schI/m__us_usc_t19_s8.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3701)
 
 ## § 3701. Findings
 
-Congress finds that—
+    Congress finds that—
 
     (1) it is in the mutual interest of the United States and the countries of sub-Saharan Africa to promote stable and sustainable economic growth and development in sub-Saharan Africa;
 
@@ -173,145 +173,9 @@ Congress finds that—
 
 >     \[Amended sections 2466a, 2466b, and 3721 of this title.\]
 
-> “SEC. 8. __ENTRIES OF CERTAIN APPAREL ARTICLES PURSUANT TO THE AFRICAN GROWTH AND OPPORTUNITY ACT.__ 
-
->     “(a) __In General.—__ 
-
->     Notwithstanding section 514 of the Tariff Act of 1930 ([19 U.S.C. 1514][/us/usc/t19/s1514]) or any other provision of law, the Secretary of the Treasury shall liquidate or reliquidate as free of duty and free of any quantitative restrictions, limitations, or consultation levels entries of articles described in subsection (d) made on or after October 1, 2000, and before the date of the enactment of this Act \[July 13, 2004\].
-
->     “(b) __Requests.—__ 
-
->     Liquidation or reliquidation may be made under subsection (a) with respect to an entry described in subsection (d) only if a request therefor is filed with the Secretary of the Treasury within 90 days after the date of the enactment of this Act and the request contains sufficient information to enable the Secretary to locate the entry or reconstruct the entry if it cannot be located.
-
->     “(c) __Payment of Amounts Owed.—__ 
-
->     Any amounts owed by the United States pursuant to the liquidation or reliquidation of any entry under subsection (a) shall be paid not later than 180 days after the date of such liquidation or reliquidation.
-
->     “(d) __Entries.—__ 
-
->     The entries referred to in subsection (a) are entries of apparel articles that meet the requirements of section 112 of the African Growth and Opportunity Act \[[19 U.S.C. 3721][/us/usc/t19/s3721]\], as amended by section 3108 of the Trade Act of 2002 \[[Pub. L. 107–210][/us/pl/107/210]\] and this Act.
-
-> “SEC. 9. __DEVELOPMENT STUDY AND CAPACITY BUILDING.__ 
-
->     “(a) __Reports.—__ 
-
->     The President shall, by not later than 1 year after the date of the enactment of this Act \[July 13, 2004\], conduct a study on each eligible sub-Saharan African country, that—
-
->         “(1) identifies sectors of the economy of that country with the greatest potential for growth, including through export sales;
-
->         “(2) identifies barriers, both domestically and internationally, that are impeding growth in such sectors; and
-
->         “(3) makes recommendations on how the United States Government and the private sector can provide technical assistance to that country to assist in dismantling such barriers and in promoting investment in such sectors.
-
->     “(b) __Dissemination of Information.—__ 
-
->     The President shall disseminate information in each study conducted under subsection (a) to the appropriate United States agencies for the purpose of implementing recommendations on the provision of technical assistance and in identifying opportunities for United States investors, businesses, and farmers.
-
-> “SEC. 10. __ACTIVITIES IN SUPPORT OF INFRASTRUCTURE TO SUPPORT INCREASING TRADE CAPACITY AND ECOTOURISM.__ 
-
->     “(a) __Findings.—__ 
-
->     The Congress finds the following:
-
->         “(1)
-
->          Ecotourism, which consists of—
-
->             “(A) responsible and sustainable travel and visitation to relatively undisturbed natural areas in order to enjoy and appreciate nature (and any accompanying cultural features, both past and present) and animals, including species that are rare or endangered,
-
->             “(B) promotion of conservation and provision for beneficial involvement of local populations, and
-
->             “(C) visitation designed to have low negative impact upon the environment,
-
->             is expected to expand 30 percent globally over the next decade.
-
->         “(2) Ecotourism will increase trade capacity by sustaining otherwise unsustainable infrastructure, such as road, port, water, energy, and telecommunication development.
-
->         “(3) According to the United States Department of State and the United Nations Environment Programme, sustainable tourism, such as ecotourism, can be an important part of the economic development of a region, especially a region with natural and cultural protected areas.
-
->         “(4) Sub-Saharan Africa enjoys an international comparative advantage in ecotourism because it features extensive protected areas that host a variety of ecosystems and traditional cultures that are major attractions for nature-oriented tourism.
-
->         “(5) National parks and reserves in sub-Saharan Africa should be considered a basis for regional development, involving communities living within and adjacent to them and, given their strong international recognition, provide an advantage in ecotourism marketing and promotion.
-
->         “(6) Desert areas in sub-Saharan Africa represent complex ecotourism attractions, showcasing natural, geological, and archaeological features, and nomad and other cultures and traditions.
-
->         “(7) Many natural zones in sub-Saharan Africa cross the political borders of several countries; therefore, transboundary cooperation is fundamental for all types of ecotourism development.
-
->         “(8) The commercial viability of ecotourism is enhanced when small and medium enterprises, particularly microenterprises, successfully engage with the tourism industry in sub-Saharan Africa.
-
->         “(9) Adequate capacity building is an essential component of ecotourism development if local communities are to be real stakeholders that can sustain an equitable approach to ecotourism management.
-
->         “(10) Ecotourism needs to generate local community benefits by utilizing sub-Saharan Africa’s natural heritage, parks, wildlife reserves, and other protected areas that can play a significant role in encouraging local economic development by sourcing food and other locally produced resources.
-
->     “(b) __Action by the President.—__ 
-
->     The President shall develop and implement policies to—
-
->         “(1) encourage the development of infrastructure projects that will help to increase trade capacity and a sustainable ecotourism industry in eligible sub-Saharan African countries;
-
->         “(2) encourage and facilitate transboundary cooperation among sub-Saharan African countries in order to facilitate trade;
-
->         “(3) encourage the provision of technical assistance to eligible sub-Saharan African countries to establish and sustain adequate trade capacity development; and
-
->         “(4) encourage micro-, small-, and medium-sized enterprises in eligible sub-Saharan African countries to participate in the ecotourism industry.
-
-> “SEC. 11. __ACTIVITIES IN SUPPORT OF TRANSPORTATION, ENERGY, AGRICULTURE, AND TELECOMMUNICATIONS INFRASTRUCTURE.__ 
-
->     “(a) __Findings.—__ 
-
->     The Congress finds the following:
-
->         “(1) In order to increase exports from, and trade among, eligible sub-Saharan African countries, transportation systems in those countries must be improved to increase transport efficiencies and lower transport costs.
-
->         “(2) Vibrant economic growth requires a developed telecommunication and energy infrastructure.
-
->         “(3) Sub-Saharan Africa is rich in exportable agricultural goods, but development of this industry remains stymied because of an underdeveloped infrastructure.
-
->     “(b) __Action by the President.—__ 
-
->     In order to enhance trade with Africa and to bring the benefits of trade to African countries, the President shall develop and implement policies to encourage investment in eligible sub-Saharan African countries, particularly with respect to the following:
-
->         “(1) Infrastructure projects that support, in particular, development of land transport road and railroad networks and ports, and the continued upgrading and liberalization of the energy and telecommunications sectors.
-
->         “(2) The establishment and expansion of modern information and communication technologies and practices to improve the ability of citizens to research and disseminate information relating to, among other things, the economy, education, trade, health, agriculture, the environment, and the media.
-
->         “(3) Agriculture, particularly in processing and capacity enhancement.
-
-> “SEC. 12. __FACILITATION OF TRANSPORTATION.__ 
-
-> “In order to facilitate and increase trade flows between eligible sub-Saharan African countries and the United States, the President shall foster improved port-to-port and airport-to-airport relationships. These relationships should facilitate—
-
->     “(1) increased coordination between customs services at ports and airports in the United States and such countries in order to reduce time in transit;
-
->     “(2) interaction between customs and technical staff from ports and airports in the United States and such countries in order to increase efficiency and safety procedures and protocols relating to trade;
-
->     “(3) coordination between chambers of commerce, freight forwarders, customs brokers, and others involved in consolidating and moving freight; and
-
->     “(4) trade through air service between airports in the United States and such countries by increasing frequency and capacity.
-
-> “SEC. 13. __AGRICULTURAL TECHNICAL ASSISTANCE.__ 
-
->     “(a) __Identification of Countries.—__ 
-
->     The President shall identify not fewer than 10 eligible sub-Saharan African countries as having the greatest potential to increase marketable exports of agricultural products to the United States and the greatest need for technical assistance, particularly with respect to pest risk assessments and complying with sanitary and phytosanitary rules of the United States.
-
->     “(b) __Personnel.—__ 
-
->     The President shall assign at least 20 full-time personnel for the purpose of providing assistance to the countries identified under subsection (a) to ensure that exports of agricultural products from those countries meet the requirements of United States law.
-
-> “SEC. 14. __TRADE ADVISORY COMMITTEE ON AFRICA.__ 
-
->     “The President shall convene the trade advisory committee on Africa established by Executive Order 11846 of March 27, 1975 \[[19 U.S.C. 2111][/us/usc/t19/s2111] note\], under section 135(c) of the Trade Act of 1974 \[[19 U.S.C. 2155(c)][/us/usc/t19/s2155/c]\], in order to facilitate the goals and objectives of the African Growth and Opportunity Act \[[19 U.S.C. 3701][/us/usc/t19/s3701] et seq.\] and this Act, and to maintain ongoing discussions with African trade and agriculture ministries and private sector organizations on issues of mutual concern, including regional and international trade concerns and World Trade Organization issues.”
-
-\[[Pub. L. 108–429, title II, § 2004(j)(2)][/us/pl/108/429/s2004/j/2], Dec. 3, 2004, [118 Stat. 2595][/us/stat/118/2595], provided that:
-
-    \[“(A) In general.—The amendment made by paragraph (1) \[amending [Pub. L. 108–274][/us/pl/108/274], set out above\] shall take effect as if included in the enactment of section 8 of the AGOA Acceleration Act of 2004 \[[Pub. L. 108–274][/us/pl/108/274]\].
-
-    \[“(B) Requests for retroactive application.—Section 8(b) of the AGOA Acceleration Act of 2004 shall be applied with respect to the amendment made by paragraph (1) by substituting ‘90 days after the date of the enactment of the Miscellaneous Trade and Technical Corrections Act of 2004 \[Dec. 3, 2004\]’ for ‘90 days after the date of the enactment of this Act’.”\]
-
 ----------
 
-[Previous](./../../../../..//us/usc/t19/ch23/schI/m__us_usc_t19_ch23_schI.md) | [Next](./../../../../..//us/usc/t19/ch23/schI/m__us_usc_t19_s3702.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3701)
+[Previous](./../../../../..//us/usc/t19/ch23/schI/m__us_usc_t19_ch23_schI.md) | [Next](./../../../../..//us/usc/t19/ch23/schI/m__us_usc_t19_s8.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3701)
 
 ----------
 ----------
@@ -340,15 +204,5 @@ Congress finds that—
 [/us/usc/t19/s3511/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3511%2Fd
 [/us/usc/t19/s3721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3721
 [/us/usc/t19/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3701
-[/us/usc/t19/s1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1514
-[/us/usc/t19/s3721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3721
-[/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
-[/us/usc/t19/s2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2111
-[/us/usc/t19/s2155/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2155%2Fc
-[/us/usc/t19/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3701
-[/us/pl/108/429/s2004/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2004%2Fj%2F2
-[/us/stat/118/2595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2595
-[/us/pl/108/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F274
-[/us/pl/108/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F274
 
 

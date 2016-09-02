@@ -15,13 +15,13 @@
 
 ## § 3107. Compensation authority
 
-If—
+    If—
 
     (1) the President has taken action under [section 3105(a) of this title][/us/usc/t19/s3105/a] with respect to any foreign country, and
 
     (2) such action is found to be inconsistent with the international obligations of the United States, including the WTO Agreement and the multilateral trade agreements (as such terms are defined in paragraphs (9) and (4), respectively, of [section 3501 of this title][/us/usc/t19/s3501]),
 
-        the President may enter into trade agreements with such foreign country for the purpose of granting new concessions as compensation for such action in order to maintain the general level of reciprocal and mutually advantageous concessions.
+    the President may enter into trade agreements with such foreign country for the purpose of granting new concessions as compensation for such action in order to maintain the general level of reciprocal and mutually advantageous concessions.
 
 ([Pub. L. 100–418, title I, § 1378][/us/pl/100/418/s1378], Aug. 23, 1988, [102 Stat. 1222][/us/stat/102/1222]; [Pub. L. 103–465, title VI, § 621(a)(6)][/us/pl/103/465/s621/a/6], Dec. 8, 1994, [108 Stat. 4993][/us/stat/108/4993].)
 

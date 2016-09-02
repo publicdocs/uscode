@@ -15,7 +15,7 @@
 
 ## § 1683. Definitions
 
-In this subtitle:
+    In this subtitle:
 
     (1) __Appropriate congressional committees__ 
 

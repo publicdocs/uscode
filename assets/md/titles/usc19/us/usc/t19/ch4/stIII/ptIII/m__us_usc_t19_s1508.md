@@ -309,19 +309,19 @@
 
  __Amendment of Section__ 
 
-For termination of amendment by [section 107(c) of Pub. L. 112–43][/us/pl/112/43/s107/c], see Effective and Termination Dates of 2011 Amendment note below.
+    For termination of amendment by [section 107(c) of Pub. L. 112–43][/us/pl/112/43/s107/c], see Effective and Termination Dates of 2011 Amendment note below.
 
-For termination of amendment by [section 107(c) of Pub. L. 112–42][/us/pl/112/42/s107/c], see Effective and Termination Dates of 2011 Amendment note below.
+    For termination of amendment by [section 107(c) of Pub. L. 112–42][/us/pl/112/42/s107/c], see Effective and Termination Dates of 2011 Amendment note below.
 
-For termination of amendment by [section 107(c) of Pub. L. 112–41][/us/pl/112/41/s107/c], see Effective and Termination Dates of 2011 Amendment note below.
+    For termination of amendment by [section 107(c) of Pub. L. 112–41][/us/pl/112/41/s107/c], see Effective and Termination Dates of 2011 Amendment note below.
 
-For termination of amendment by [section 107(c) of Pub. L. 110–138][/us/pl/110/138/s107/c], see Effective and Termination Dates of 2007 Amendment note below.
+    For termination of amendment by [section 107(c) of Pub. L. 110–138][/us/pl/110/138/s107/c], see Effective and Termination Dates of 2007 Amendment note below.
 
-For termination of amendment by [section 107(d) of Pub. L. 109–53][/us/pl/109/53/s107/d], see Effective and Termination Dates of 2005 Amendment note below.
+    For termination of amendment by [section 107(d) of Pub. L. 109–53][/us/pl/109/53/s107/d], see Effective and Termination Dates of 2005 Amendment note below.
 
-For termination of amendment by [section 107(c) of Pub. L. 108–77][/us/pl/108/77/s107/c], see Effective and Termination Dates of 2003 Amendment note below.
+    For termination of amendment by [section 107(c) of Pub. L. 108–77][/us/pl/108/77/s107/c], see Effective and Termination Dates of 2003 Amendment note below.
 
-For termination of amendment by [section 501(c) of Pub. L. 100–449][/us/pl/100/449/s501/c], see Effective and Termination Dates of 1988 Amendment note below.
+    For termination of amendment by [section 501(c) of Pub. L. 100–449][/us/pl/100/449/s501/c], see Effective and Termination Dates of 1988 Amendment note below.
 
  __Prior Provisions__ 
 

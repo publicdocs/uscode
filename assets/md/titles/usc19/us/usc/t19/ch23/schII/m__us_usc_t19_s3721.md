@@ -385,7 +385,7 @@
 
 >     “(B) with respect to which there would have been no duty if the amendment made by this subsection applied to such entry or withdrawal,
 
->         shall be liquidated or reliquidated as if such amendment applied to such entry or withdrawal.”
+>     shall be liquidated or reliquidated as if such amendment applied to such entry or withdrawal.”
 
  __Transfer of Functions__ 
 
@@ -405,7 +405,7 @@
 
 >     “(2) by equal increments in each succeeding 1-year period provided for in such clause, so that for the 1-year period beginning October 1, 2007, the applicable percentage is increased by 3.5 percent,
 
->         except that such increase shall not apply with respect to articles eligible under subparagraph (B) of section 112(b)(3) of that Act.”
+>     except that such increase shall not apply with respect to articles eligible under subparagraph (B) of section 112(b)(3) of that Act.”
 
  __Proc. No. 7350. To Implement the African Growth and Opportunity Act and To Designate Eritrea as a Beneficiary Developing Country for Purposes of the Generalized System of Preferences__ 
 

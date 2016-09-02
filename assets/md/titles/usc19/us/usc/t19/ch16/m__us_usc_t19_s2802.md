@@ -15,7 +15,7 @@
 
 ## § 2802. Definitions
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (1) The term “Committees” means the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
 

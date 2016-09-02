@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs4001" data-uslm-ref="/us/usc/t19/s4001">4001.</a>  </td>
 
     <td> Purposes.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4002.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs4002" data-uslm-ref="/us/usc/t19/s4002">4002.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—APPROVAL OF, AND GENERAL PROVISIONS RELATING TO, THE AGREEMENT  <
 
   <tr>
 
-    <td> 4011.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs4011" data-uslm-ref="/us/usc/t19/s4011">4011.</a>  </td>
 
     <td> Approval and entry into force of the Agreement.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—APPROVAL OF, AND GENERAL PROVISIONS RELATING TO, THE AGREEMENT  <
 
   <tr>
 
-    <td> 4012.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs4012" data-uslm-ref="/us/usc/t19/s4012">4012.</a>  </td>
 
     <td> Relationship of the Agreement to United States and State law.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—APPROVAL OF, AND GENERAL PROVISIONS RELATING TO, THE AGREEMENT  <
 
   <tr>
 
-    <td> 4013.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs4013" data-uslm-ref="/us/usc/t19/s4013">4013.</a>  </td>
 
     <td> Implementing actions in anticipation of entry into force and initial regulations.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—APPROVAL OF, AND GENERAL PROVISIONS RELATING TO, THE AGREEMENT  <
 
   <tr>
 
-    <td> 4014.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs4014" data-uslm-ref="/us/usc/t19/s4014">4014.</a>  </td>
 
     <td> Consultation and layover provisions for, and effective date of, proclaimed actions.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—APPROVAL OF, AND GENERAL PROVISIONS RELATING TO, THE AGREEMENT  <
 
   <tr>
 
-    <td> 4015.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs4015" data-uslm-ref="/us/usc/t19/s4015">4015.</a>  </td>
 
     <td> Administration of dispute settlement proceedings.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—APPROVAL OF, AND GENERAL PROVISIONS RELATING TO, THE AGREEMENT  <
 
   <tr>
 
-    <td> 4016.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs4016" data-uslm-ref="/us/usc/t19/s4016">4016.</a>  </td>
 
     <td> Arbitration of claims.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—CUSTOMS PROVISIONS  </td>
 
   <tr>
 
-    <td> 4031.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs4031" data-uslm-ref="/us/usc/t19/s4031">4031.</a>  </td>
 
     <td> Tariff modifications.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—CUSTOMS PROVISIONS  </td>
 
   <tr>
 
-    <td> 4032.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs4032" data-uslm-ref="/us/usc/t19/s4032">4032.</a>  </td>
 
     <td> Additional duties on certain agricultural goods.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—CUSTOMS PROVISIONS  </td>
 
   <tr>
 
-    <td> 4033.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs4033" data-uslm-ref="/us/usc/t19/s4033">4033.</a>  </td>
 
     <td> Rules of origin.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—CUSTOMS PROVISIONS  </td>
 
   <tr>
 
-    <td> 4034.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs4034" data-uslm-ref="/us/usc/t19/s4034">4034.</a>  </td>
 
     <td> Retroactive application for certain liquidations and reliquidations of textile or apparel goods.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—CUSTOMS PROVISIONS  </td>
 
   <tr>
 
-    <td> 4035.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs4035" data-uslm-ref="/us/usc/t19/s4035">4035.</a>  </td>
 
     <td> Enforcement relating to trade in textile or apparel goods.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—CUSTOMS PROVISIONS  </td>
 
   <tr>
 
-    <td> 4036.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs4036" data-uslm-ref="/us/usc/t19/s4036">4036.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER III—RELIEF FROM IMPORTS  </td>
 
   <tr>
 
-    <td> 4051.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs4051" data-uslm-ref="/us/usc/t19/s4051">4051.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -177,7 +177,7 @@ Part A—Relief From Imports Benefiting From the Agreement  </td>
 
   <tr>
 
-    <td> 4061.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs4061" data-uslm-ref="/us/usc/t19/s4061">4061.</a>  </td>
 
     <td> Commencing of action for relief.  </td>
 
@@ -185,7 +185,7 @@ Part A—Relief From Imports Benefiting From the Agreement  </td>
 
   <tr>
 
-    <td> 4062.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs4062" data-uslm-ref="/us/usc/t19/s4062">4062.</a>  </td>
 
     <td> Commission action on petition.  </td>
 
@@ -193,7 +193,7 @@ Part A—Relief From Imports Benefiting From the Agreement  </td>
 
   <tr>
 
-    <td> 4063.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs4063" data-uslm-ref="/us/usc/t19/s4063">4063.</a>  </td>
 
     <td> Provision of relief.  </td>
 
@@ -201,7 +201,7 @@ Part A—Relief From Imports Benefiting From the Agreement  </td>
 
   <tr>
 
-    <td> 4064.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs4064" data-uslm-ref="/us/usc/t19/s4064">4064.</a>  </td>
 
     <td> Termination of relief authority.  </td>
 
@@ -209,7 +209,7 @@ Part A—Relief From Imports Benefiting From the Agreement  </td>
 
   <tr>
 
-    <td> 4065.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs4065" data-uslm-ref="/us/usc/t19/s4065">4065.</a>  </td>
 
     <td> Compensation authority.  </td>
 
@@ -225,7 +225,7 @@ Part B—Textile and Apparel Safeguard Measures  </td>
 
   <tr>
 
-    <td> 4081.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs4081" data-uslm-ref="/us/usc/t19/s4081">4081.</a>  </td>
 
     <td> Commencement of action for relief.  </td>
 
@@ -233,7 +233,7 @@ Part B—Textile and Apparel Safeguard Measures  </td>
 
   <tr>
 
-    <td> 4082.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs4082" data-uslm-ref="/us/usc/t19/s4082">4082.</a>  </td>
 
     <td> Determination and provision of relief.  </td>
 
@@ -241,7 +241,7 @@ Part B—Textile and Apparel Safeguard Measures  </td>
 
   <tr>
 
-    <td> 4083.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs4083" data-uslm-ref="/us/usc/t19/s4083">4083.</a>  </td>
 
     <td> Period of relief.  </td>
 
@@ -249,7 +249,7 @@ Part B—Textile and Apparel Safeguard Measures  </td>
 
   <tr>
 
-    <td> 4084.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs4084" data-uslm-ref="/us/usc/t19/s4084">4084.</a>  </td>
 
     <td> Articles exempt from relief.  </td>
 
@@ -257,7 +257,7 @@ Part B—Textile and Apparel Safeguard Measures  </td>
 
   <tr>
 
-    <td> 4085.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs4085" data-uslm-ref="/us/usc/t19/s4085">4085.</a>  </td>
 
     <td> Rate after termination of import relief.  </td>
 
@@ -265,7 +265,7 @@ Part B—Textile and Apparel Safeguard Measures  </td>
 
   <tr>
 
-    <td> 4086.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs4086" data-uslm-ref="/us/usc/t19/s4086">4086.</a>  </td>
 
     <td> Termination of relief authority.  </td>
 
@@ -273,7 +273,7 @@ Part B—Textile and Apparel Safeguard Measures  </td>
 
   <tr>
 
-    <td> 4087.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs4087" data-uslm-ref="/us/usc/t19/s4087">4087.</a>  </td>
 
     <td> Compensation authority.  </td>
 
@@ -281,7 +281,7 @@ Part B—Textile and Apparel Safeguard Measures  </td>
 
   <tr>
 
-    <td> 4088.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs4088" data-uslm-ref="/us/usc/t19/s4088">4088.</a>  </td>
 
     <td> Confidential business information.  </td>
 
@@ -297,7 +297,7 @@ Part C—Cases Under Title II of the Trade Act of 1974  </td>
 
   <tr>
 
-    <td> 4101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs4101" data-uslm-ref="/us/usc/t19/s4101">4101.</a>  </td>
 
     <td> Findings and action on goods of CAFTA–DR countries.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER IV—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 4111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs4111" data-uslm-ref="/us/usc/t19/s4111">4111.</a>  </td>
 
     <td> Periodic reports and meetings on labor obligations and labor capacity-building provisions.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER IV—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 4112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs4112" data-uslm-ref="/us/usc/t19/s4112">4112.</a>  </td>
 
     <td> Earned import allowance program.  </td>
 
@@ -331,7 +331,7 @@ SUBCHAPTER IV—MISCELLANEOUS  </td>
 
  __Termination of Chapter__ 
 
-For termination of chapter by [section 107(d) of Pub. L. 109–53][/us/pl/109/53/s107/d], see Effective and Termination Dates note set out under [section 4001 of this title][/us/usc/t19/s4001].
+    For termination of chapter by [section 107(d) of Pub. L. 109–53][/us/pl/109/53/s107/d], see Effective and Termination Dates note set out under [section 4001 of this title][/us/usc/t19/s4001].
 
 ----------
 

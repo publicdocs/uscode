@@ -173,7 +173,7 @@
 
  __Reversion to Provisions in Effect on__  __February 13, 2011__ 
 
-For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to [section 233(b) of Pub. L. 112–40][/us/pl/112/40/s233/b], see Codification and Effective and Termination Dates of 2011 Revival notes below.
+    For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to [section 233(b) of Pub. L. 112–40][/us/pl/112/40/s233/b], see Codification and Effective and Termination Dates of 2011 Revival notes below.
 
  __Codification__ 
 
@@ -325,7 +325,7 @@ For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 20
 
 >     “(ii) would not have been made if the amendments made by subparagraph (A) \[amending this section\] had not been enacted into law,
 
->         shall apply to any worker whose most recent total or partial separation from the firm, or appropriate subdivision of the firm, described in section 222(a) of such Act \[[19 U.S.C. 2272(a)][/us/usc/t19/s2272/a]\] occurs after September 30, 1985.”
+>     shall apply to any worker whose most recent total or partial separation from the firm, or appropriate subdivision of the firm, described in section 222(a) of such Act \[[19 U.S.C. 2272(a)][/us/usc/t19/s2272/a]\] occurs after September 30, 1985.”
 
 ----------
 

@@ -15,7 +15,7 @@
 
 ## § 1484a. Articles returned from space not to be construed as importation
 
-The return of articles from space shall not be considered an importation, and an entry of such articles shall not be required, if:
+    The return of articles from space shall not be considered an importation, and an entry of such articles shall not be required, if:
 
     (1)
 
@@ -31,7 +31,7 @@ The return of articles from space shall not be considered an importation, and an
 
     (3) such articles were returned to the customs territory directly from space aboard such spacecraft or aboard another spacecraft which meets the requirements of paragraph (1)(A) through (C) of this section;
 
-        without regard to whether such articles have been advanced in value or improved in condition by any process of manufacture or other means while in space.
+    without regard to whether such articles have been advanced in value or improved in condition by any process of manufacture or other means while in space.
 
 ([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 484a, as added [Pub. L. 98–573, title II, § 209(a)][/us/pl/98/573/s209/a], Oct. 30, 1984, [98 Stat. 2976][/us/stat/98/2976].)
 

@@ -15,7 +15,7 @@
 
 ## § 1551. Designation as carrier of bonded merchandise
 
-Under such regulations and subject to such terms and conditions as the Secretary of the Treasury shall prescribe—
+    Under such regulations and subject to such terms and conditions as the Secretary of the Treasury shall prescribe—
 
     (1) any common carrier of merchandise owning or operating a railroad, steamship, or other transportation line or route for the transportation of merchandise in the United States,
 
@@ -23,7 +23,7 @@ Under such regulations and subject to such terms and conditions as the Secretary
 
     (3) any freight forwarder authorized to operate as such by any agency of the United States,
 
-        upon application, may, in the discretion of the Secretary, be designated as a carrier of bonded merchandise for the final release of which from customs custody a permit has not been issued. A private carrier, upon application, may, in the discretion of the Secretary, be designated under the preceding sentence as a carrier of bonded merchandise, subject to such regulations and, in the case of each applicant, to such special terms and conditions as the Secretary may prescribe to safeguard the revenues of the United States with respect to the transportation of bonded merchandise by such applicant.
+    upon application, may, in the discretion of the Secretary, be designated as a carrier of bonded merchandise for the final release of which from customs custody a permit has not been issued. A private carrier, upon application, may, in the discretion of the Secretary, be designated under the preceding sentence as a carrier of bonded merchandise, subject to such regulations and, in the case of each applicant, to such special terms and conditions as the Secretary may prescribe to safeguard the revenues of the United States with respect to the transportation of bonded merchandise by such applicant.
 
 ([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 551, [46 Stat. 742][/us/stat/46/742]; [Dec. 28, 1945, ch. 605][/us/act/1945-12-28/ch605], [59 Stat. 667][/us/stat/59/667]; [Pub. L. 87–598][/us/pl/87/598], Aug. 24, 1962, [76 Stat. 400][/us/stat/76/400]; [Pub. L. 87–854][/us/pl/87/854], Oct. 23, 1962, [76 Stat. 1130][/us/stat/76/1130]; [Pub. L. 90–240, § 3][/us/pl/90/240/s3], Jan. 2, 1968, [81 Stat. 776][/us/stat/81/776].)
 

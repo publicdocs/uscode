@@ -195,13 +195,17 @@
 
 >                 “(i) __Appointments.—__ 
 
->                 Persons who are appointed under subparagraph (A) shall be persons who—         “(I) have expertise in economics, international trade, manufacturing, labor, environment, business, or have other pertinent qualifications or experience; and
+>                 Persons who are appointed under subparagraph (A) shall be persons who—
+
+>                          “(I) have expertise in economics, international trade, manufacturing, labor, environment, business, or have other pertinent qualifications or experience; and
 
 >                          “(II) are not officers or employees of the United States.
 
 >                 “(ii) __Other considerations.—__ 
 
->                 In appointing Commission members, every effort shall be made to ensure that the members—         “(I) are representative of a broad cross-section of economic and trade perspectives within the United States; and
+>                 In appointing Commission members, every effort shall be made to ensure that the members—
+
+>                          “(I) are representative of a broad cross-section of economic and trade perspectives within the United States; and
 
 >                          “(II) provide fresh insights to analyzing the causes and consequences of United States merchandise trade and current account deficits.
 
@@ -255,7 +259,11 @@
 
 >              The causes and consequences of the merchandise trade and current account deficits and specific bilateral trade deficits, including—
 
->                 “(i) identification and quantification of—         “(I) the macroeconomic factors and bilateral trade barriers that may contribute to the United States merchandise trade and current account deficits;
+>                 “(i)
+
+>                  identification and quantification of—
+
+>                          “(I) the macroeconomic factors and bilateral trade barriers that may contribute to the United States merchandise trade and current account deficits;
 
 >                          “(II) any impact of the merchandise trade and current account deficits on the domestic economy, industrial base, manufacturing capacity, technology, number and quality of jobs, productivity, wages, and the United States standard of living;
 

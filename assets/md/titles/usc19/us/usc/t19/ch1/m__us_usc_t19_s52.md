@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s50, 51.md) | [Next](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s53 to 57.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs52)
+[Previous](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s49.md) | [Next](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s58.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs52)
 
 ## § 52. Payment of compensation and expenses
 
@@ -33,9 +33,21 @@
 
     Act Mar. 3, 1927, abolished the offices of Director and Assistant Director of Customs.
 
+§§ 53 to 57. __Repealed.__  __[__  __Aug. 2, 1956, ch. 887, § 4(a)(16)__  __][/us/act/1956-08-02/ch887/s4/a/16]__  __–(20),__  __[__  __70 Stat. 947__  __][/us/stat/70/947]__ 
+
+    Section 53, R.S. § 2687, provided for apportionment of compensation according to time served. See, generally, sections 5504 and 6101 of Title 5, Government Organization and Employees.
+
+    Section 54, R.S. § 2646, related to books to be furnished to collectors and other officers.
+
+    Section 55, R.S. § 2647; acts [Aug. 24, 1912, ch. 355][/us/act/1912-08-24/ch355], [37 Stat. 434][/us/stat/37/434]; [June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 523, [46 Stat. 740][/us/stat/46/740], provided that collectors of customs, and comptrollers and surveyors performing functions of collectors, should render quarterly accounts to Secretary of the Treasury of fines collected, moneys received as rents, etc.
+
+    Section 56, R.S. § 2944, related to additional hours of service at public stores in New York.
+
+    Section 57, R.S. § 2648; [act Aug. 24, 1912, ch. 355, § 1][/us/act/1912-08-24/ch355/s1], [37 Stat. 434][/us/stat/37/434], related to sale of blanks by collectors and surveyors.
+
 ----------
 
-[Previous](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s50, 51.md) | [Next](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s53 to 57.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs52)
+[Previous](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s49.md) | [Next](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s58.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs52)
 
 ----------
 ----------
@@ -57,5 +69,13 @@
 [/us/usc/t19/s51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs51
 [/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
 [/us/stat/80/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F645
+[/us/act/1956-08-02/ch887/s4/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-02%2Fch887%2Fs4%2Fa%2F16
+[/us/stat/70/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F947
+[/us/act/1912-08-24/ch355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-24%2Fch355
+[/us/stat/37/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F434
+[/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
+[/us/stat/46/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F740
+[/us/act/1912-08-24/ch355/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-24%2Fch355%2Fs1
+[/us/stat/37/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F434
 
 

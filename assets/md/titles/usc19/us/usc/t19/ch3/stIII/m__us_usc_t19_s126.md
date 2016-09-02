@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s124, 125.md) | [Next](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s127.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs126)
+[Previous](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s123a.md) | [Next](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s127.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs126)
 
 ## § 126. Imports from Canal Zone
 
@@ -27,7 +27,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s124, 125.md) | [Next](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s127.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs126)
+[Previous](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s123a.md) | [Next](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s127.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs126)
 
 ----------
 ----------

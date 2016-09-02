@@ -15,7 +15,7 @@
 
 ## § 1589a. Enforcement authority of customs officers
 
-Subject to the direction of the Secretary of the Treasury, an officer of the customs may—
+    Subject to the direction of the Secretary of the Treasury, an officer of the customs may—
 
     (1) carry a firearm;
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t19/ch8/schIII/m__us_usc_t19_s2022, 2023.md) | [Next](./../../../../..//us/usc/t19/ch8/schIV/m__us_usc_t19_ch8_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2024)
+[Previous](./../../../../..//us/usc/t19/ch8/schIII/m__us_usc_t19_s2021.md) | [Next](./../../../../..//us/usc/t19/ch8/schIV/m__us_usc_t19_ch8_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2024)
 
 ## § 2024. Authorization of appropriations
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t19/ch8/schIII/m__us_usc_t19_s2022, 2023.md) | [Next](./../../../../..//us/usc/t19/ch8/schIV/m__us_usc_t19_ch8_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2024)
+[Previous](./../../../../..//us/usc/t19/ch8/schIII/m__us_usc_t19_s2021.md) | [Next](./../../../../..//us/usc/t19/ch8/schIV/m__us_usc_t19_ch8_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2024)
 
 ----------
 ----------

@@ -27,7 +27,7 @@
 
  __Amendment of Section__ 
 
-For termination of amendment by [section 501(c) of Pub. L. 100–449][/us/pl/100/449/s501/c], see Effective and Termination Dates of 1988 Amendment note below.
+    For termination of amendment by [section 501(c) of Pub. L. 100–449][/us/pl/100/449/s501/c], see Effective and Termination Dates of 1988 Amendment note below.
 
  __Prior Provisions__ 
 

@@ -15,7 +15,7 @@
 
 ## § 3531. Definitions
 
-For purposes of this part:
+    For purposes of this part:
 
     (1) __Administering authority__ 
 

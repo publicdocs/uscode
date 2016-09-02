@@ -33,7 +33,7 @@ SUBCHAPTER I—TRADE POLICY FOR SUB-SAHARAN AFRICA  </td>
 
   <tr>
 
-    <td> 3701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3701" data-uslm-ref="/us/usc/t19/s3701">3701.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—TRADE POLICY FOR SUB-SAHARAN AFRICA  </td>
 
   <tr>
 
-    <td> 3702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3702" data-uslm-ref="/us/usc/t19/s3702">3702.</a>  </td>
 
     <td> Statement of policy.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—TRADE POLICY FOR SUB-SAHARAN AFRICA  </td>
 
   <tr>
 
-    <td> 3703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3703" data-uslm-ref="/us/usc/t19/s3703">3703.</a>  </td>
 
     <td> Eligibility requirements.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—TRADE POLICY FOR SUB-SAHARAN AFRICA  </td>
 
   <tr>
 
-    <td> 3704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3704" data-uslm-ref="/us/usc/t19/s3704">3704.</a>  </td>
 
     <td> United States-Sub-Saharan Africa Trade and Economic Cooperation Forum.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—TRADE POLICY FOR SUB-SAHARAN AFRICA  </td>
 
   <tr>
 
-    <td> 3705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3705" data-uslm-ref="/us/usc/t19/s3705">3705.</a>  </td>
 
     <td> Reporting requirement.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—TRADE POLICY FOR SUB-SAHARAN AFRICA  </td>
 
   <tr>
 
-    <td> 3706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3706" data-uslm-ref="/us/usc/t19/s3706">3706.</a>  </td>
 
     <td> Sub-Saharan Africa defined.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—TRADE BENEFITS  </td>
 
   <tr>
 
-    <td> 3721.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3721" data-uslm-ref="/us/usc/t19/s3721">3721.</a>  </td>
 
     <td> Treatment of certain textiles and apparel.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—TRADE BENEFITS  </td>
 
   <tr>
 
-    <td> 3722.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3722" data-uslm-ref="/us/usc/t19/s3722">3722.</a>  </td>
 
     <td> Protections against transshipment.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—TRADE BENEFITS  </td>
 
   <tr>
 
-    <td> 3723.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3723" data-uslm-ref="/us/usc/t19/s3723">3723.</a>  </td>
 
     <td> Free trade agreements with sub-Saharan African countries.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—TRADE BENEFITS  </td>
 
   <tr>
 
-    <td> 3724.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3724" data-uslm-ref="/us/usc/t19/s3724">3724.</a>  </td>
 
     <td> Assistant United States Trade Representative for African Affairs.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER III—ECONOMIC DEVELOPMENT RELATED ISSUES  </td>
 
   <tr>
 
-    <td> 3731.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3731" data-uslm-ref="/us/usc/t19/s3731">3731.</a>  </td>
 
     <td> Sense of the Congress regarding comprehensive debt relief for the world’s poorest countries.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER III—ECONOMIC DEVELOPMENT RELATED ISSUES  </td>
 
   <tr>
 
-    <td> 3732.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3732" data-uslm-ref="/us/usc/t19/s3732">3732.</a>  </td>
 
     <td> Executive branch initiatives.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER III—ECONOMIC DEVELOPMENT RELATED ISSUES  </td>
 
   <tr>
 
-    <td> 3733.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3733" data-uslm-ref="/us/usc/t19/s3733">3733.</a>  </td>
 
     <td> Overseas Private Investment Corporation initiatives.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER III—ECONOMIC DEVELOPMENT RELATED ISSUES  </td>
 
   <tr>
 
-    <td> 3734.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3734" data-uslm-ref="/us/usc/t19/s3734">3734.</a>  </td>
 
     <td> Export-Import Bank initiatives.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER III—ECONOMIC DEVELOPMENT RELATED ISSUES  </td>
 
   <tr>
 
-    <td> 3735.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3735" data-uslm-ref="/us/usc/t19/s3735">3735.</a>  </td>
 
     <td> Expansion of the United States and Foreign Commercial Service in sub-Saharan Africa.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER III—ECONOMIC DEVELOPMENT RELATED ISSUES  </td>
 
   <tr>
 
-    <td> 3736.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3736" data-uslm-ref="/us/usc/t19/s3736">3736.</a>  </td>
 
     <td> Donation of air traffic control equipment to eligible sub-Saharan African countries.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER III—ECONOMIC DEVELOPMENT RELATED ISSUES  </td>
 
   <tr>
 
-    <td> 3737.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3737" data-uslm-ref="/us/usc/t19/s3737">3737.</a>  </td>
 
     <td> Additional authorities and increased flexibility to provide assistance under the Development Fund for Africa.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER III—ECONOMIC DEVELOPMENT RELATED ISSUES  </td>
 
   <tr>
 
-    <td> 3738.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3738" data-uslm-ref="/us/usc/t19/s3738">3738.</a>  </td>
 
     <td> Assistance from United States private sector to prevent and reduce HIV/AIDS in sub-Saharan Africa.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER III—ECONOMIC DEVELOPMENT RELATED ISSUES  </td>
 
   <tr>
 
-    <td> 3739.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3739" data-uslm-ref="/us/usc/t19/s3739">3739.</a>  </td>
 
     <td> Sense of the Congress relating to HIV/AIDS crisis in sub-Saharan Africa.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER III—ECONOMIC DEVELOPMENT RELATED ISSUES  </td>
 
   <tr>
 
-    <td> 3740.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3740" data-uslm-ref="/us/usc/t19/s3740">3740.</a>  </td>
 
     <td> Study on improving African agricultural practices.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER III—ECONOMIC DEVELOPMENT RELATED ISSUES  </td>
 
   <tr>
 
-    <td> 3741.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3741" data-uslm-ref="/us/usc/t19/s3741">3741.</a>  </td>
 
     <td> Sense of the Congress regarding efforts to combat desertification in Africa and other countries.  </td>
 

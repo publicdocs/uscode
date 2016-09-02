@@ -11,16 +11,37 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t19/ch7/schIII/ptIII/sptb/m__us_usc_t19_s1951, 1952.md) | [Next](./../../../../../../..//us/usc/t19/ch7/schIII/ptIII/sptc/m__us_usc_t19_s1961 to 1963.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch7%2FschIII%2FptIII%2Fsptc)
+[Previous](./../../../../../../..//us/usc/t19/ch7/schIII/ptIII/sptb/m__us_usc_t19_ch7_schIII_ptIII_sptb.md) | [Next](./../../../../../../..//us/usc/t19/ch7/schIII/ptIII/sptd/m__us_usc_t19_ch7_schIII_ptIII_sptd.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch7%2FschIII%2FptIII%2Fsptc)
 
 ##### subpart c—relocation allowances
 
+§§ 1961 to 1963. __Repealed.__  __[__  __Pub. L. 93–618, title VI, § 602(e)__  __][/us/pl/93/618/s602/e]__  __,__  __Jan. 3, 1975__  __,__  __[__  __88 Stat. 2072__  __][/us/stat/88/2072]__ 
+
+    Section 1961, [Pub. L. 87–794, title III, § 328][/us/pl/87/794/s328], Oct. 11, 1962, [76 Stat. 895][/us/stat/76/895], provided for application for a relocation allowance. See sections 2297 and 2298 of this title.
+
+    Section 1962, [Pub. L. 87–794, title III, § 329][/us/pl/87/794/s329], Oct. 11, 1962, [76 Stat. 895][/us/stat/76/895], set out qualifying requirements for training. See sections 2297 and 2298 of this title.
+
+    Section 1963, [Pub. L. 87–794, title III, § 330][/us/pl/87/794/s330], Oct. 11, 1962, [76 Stat. 896][/us/stat/76/896], defined “relocation allowance”. See sections 2297 and 2298 of this title.
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective on 90th day following Jan. 3, 1975, see note set out under [section 1901 of this title][/us/usc/t19/s1901].
+
 ----------
 
-[Previous](./../../../../../../..//us/usc/t19/ch7/schIII/ptIII/sptb/m__us_usc_t19_s1951, 1952.md) | [Next](./../../../../../../..//us/usc/t19/ch7/schIII/ptIII/sptc/m__us_usc_t19_s1961 to 1963.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch7%2FschIII%2FptIII%2Fsptc)
+[Previous](./../../../../../../..//us/usc/t19/ch7/schIII/ptIII/sptb/m__us_usc_t19_ch7_schIII_ptIII_sptb.md) | [Next](./../../../../../../..//us/usc/t19/ch7/schIII/ptIII/sptd/m__us_usc_t19_ch7_schIII_ptIII_sptd.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch7%2FschIII%2FptIII%2Fsptc)
 
 ----------
 ----------
 
+[/us/pl/93/618/s602/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs602%2Fe
+[/us/stat/88/2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2072
+[/us/pl/87/794/s328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs328
+[/us/stat/76/895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F895
+[/us/pl/87/794/s329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs329
+[/us/stat/76/895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F895
+[/us/pl/87/794/s330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs330
+[/us/stat/76/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F896
+[/us/usc/t19/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1901
 
 

@@ -15,13 +15,13 @@
 
 ## § 1677–2. Calculation of countervailable subsidies on certain processed agricultural products
 
-In the case of an agricultural product processed from a raw agricultural product in which—
+    In the case of an agricultural product processed from a raw agricultural product in which—
 
     (1) the demand for the prior stage product is substantially dependent on the demand for the latter stage product, and
 
     (2) the processing operation adds only limited value to the raw commodity,
 
-        countervailable subsidies found to be provided to either producers or processors of the product shall be deemed to be provided with respect to the manufacture, production, or exportation of the processed product.
+    countervailable subsidies found to be provided to either producers or processors of the product shall be deemed to be provided with respect to the manufacture, production, or exportation of the processed product.
 
 ([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 771B, as added [Pub. L. 100–418, title I, § 1313(a)][/us/pl/100/418/s1313/a], Aug. 23, 1988, [102 Stat. 1185][/us/stat/102/1185]; amended [Pub. L. 100–647, title IX, § 9001(a)(4)][/us/pl/100/647/s9001/a/4], Nov. 10, 1988, [102 Stat. 3806][/us/stat/102/3806]; [Pub. L. 103–465, title II, § 270(b)(1)(D)][/us/pl/103/465/s270/b/1/D], (2), Dec. 8, 1994, [108 Stat. 4917][/us/stat/108/4917].)
 

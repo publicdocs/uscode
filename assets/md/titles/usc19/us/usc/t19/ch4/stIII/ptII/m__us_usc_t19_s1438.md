@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptII/m__us_usc_t19_s1437.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptII/m__us_usc_t19_s1439, 1440.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1438)
+[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptII/m__us_usc_t19_s1437.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptII/m__us_usc_t19_s1441.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1438)
 
 ## § 1438. Unlawful return of foreign vessel’s papers
 
@@ -37,9 +37,15 @@
 
     For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].
 
+§§ 1439, 1440. __Repealed.__  __[__  __Pub. L. 103–182, title VI, § 690(b)(4)__  __][/us/pl/103/182/s690/b/4]__  __, (5),__  __Dec. 8, 1993__  __,__  __[__  __107 Stat. 2223__  __][/us/stat/107/2223]__ 
+
+    Section 1439, acts [June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 439, [46 Stat. 712][/us/stat/46/712]; [Aug. 8, 1953, ch. 397, § 2(b)][/us/act/1953-08-08/ch397/s2/b], [67 Stat. 507][/us/stat/67/507], required master of a vessel from a foreign port or place, immediately upon arrival, to mail or deliver to designated employee a copy of manifest and any corrections thereto.
+
+    Section 1440, acts [June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 440, [46 Stat. 712][/us/stat/46/712]; [Aug. 8, 1953, ch. 397, § 2(c)][/us/act/1953-08-08/ch397/s2/c], [67 Stat. 508][/us/stat/67/508], required master of a vessel to make post entry of any baggage or merchandise not included on manifest and to mail or deliver such entry to designated employee.
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptII/m__us_usc_t19_s1437.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptII/m__us_usc_t19_s1439, 1440.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1438)
+[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptII/m__us_usc_t19_s1437.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptII/m__us_usc_t19_s1441.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1438)
 
 ----------
 ----------
@@ -59,5 +65,15 @@
 [/us/pl/91/271/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs203
 [/us/usc/t19/s1500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1500
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
+[/us/pl/103/182/s690/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs690%2Fb%2F4
+[/us/stat/107/2223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2223
+[/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
+[/us/stat/46/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F712
+[/us/act/1953-08-08/ch397/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-08%2Fch397%2Fs2%2Fb
+[/us/stat/67/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F507
+[/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
+[/us/stat/46/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F712
+[/us/act/1953-08-08/ch397/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-08%2Fch397%2Fs2%2Fc
+[/us/stat/67/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F508
 
 

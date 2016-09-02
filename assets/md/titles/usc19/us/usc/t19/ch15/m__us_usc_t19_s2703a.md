@@ -133,159 +133,159 @@
 
                       of all apparel articles of that producer or entity controlling production that are wholly assembled, or are knit-to-shape, in Haiti and are entered during the initial applicable 1-year period.
 
-                    (II) __Other 1-year periods__ 
+            (II) __Other 1-year periods__ 
 
-                    In any 1-year period after the initial applicable 1-year period, the requirements under clause (i) relating to applicable percentage may also be met for articles of a producer or an entity controlling production that enter during the 1-year period by aggregating—
+            In any 1-year period after the initial applicable 1-year period, the requirements under clause (i) relating to applicable percentage may also be met for articles of a producer or an entity controlling production that enter during the 1-year period by aggregating—
 
-                        (aa) the cost or value of materials under subclause (I) of clause (i), and
+                (aa) the cost or value of materials under subclause (I) of clause (i), and
 
-                        (bb) the direct costs of processing operations under subclause (II) of clause (i),
+                (bb) the direct costs of processing operations under subclause (II) of clause (i),
 
-                      of all apparel articles of that producer or entity controlling production that are wholly assembled, or are knit-to-shape, in Haiti and are entered during the preceding 1-year period.
+              of all apparel articles of that producer or entity controlling production that are wholly assembled, or are knit-to-shape, in Haiti and are entered during the preceding 1-year period.
 
-                    (III) __Deductions__ 
+            (III) __Deductions__ 
 
-                    In calculating cost or value under subclause (I)(aa) or (II)(aa), there shall be deducted the cost or value of—
+            In calculating cost or value under subclause (I)(aa) or (II)(aa), there shall be deducted the cost or value of—
 
-                        (aa) any foreign materials that are used in the production of the apparel articles in Haiti; and
+                (aa) any foreign materials that are used in the production of the apparel articles in Haiti; and
 
-                        (bb) any foreign materials that are used in the production of the materials described in subclause (I)(aa) or (II)(aa) (as the case may be).
+                (bb) any foreign materials that are used in the production of the materials described in subclause (I)(aa) or (II)(aa) (as the case may be).
 
-                    (IV) __Inclusion in calculation of other articles receiving preferential treatment__ 
+            (IV) __Inclusion in calculation of other articles receiving preferential treatment__ 
 
-                        Entries of apparel articles that receive preferential treatment under any provision of law other than this subparagraph or are subject to the “General” column 1 rate of duty under the HTS are not included in the annual aggregation under subclause (I) or (II) unless the producer or entity controlling production elects, at the time the annual aggregation calculation is made, to include such entries in such aggregation.
+                Entries of apparel articles that receive preferential treatment under any provision of law other than this subparagraph or are subject to the “General” column 1 rate of duty under the HTS are not included in the annual aggregation under subclause (I) or (II) unless the producer or entity controlling production elects, at the time the annual aggregation calculation is made, to include such entries in such aggregation.
 
-                (v) __Definitions__ 
+    (v) __Definitions__ 
 
-                In this paragraph:
+    In this paragraph:
 
-                    (I) __Applicable percentage__ 
+        (I) __Applicable percentage__ 
 
-                    The term “applicable percentage” means—
+        The term “applicable percentage” means—
 
-                        (aa) 50 percent or more during the initial applicable 1-year period and the succeeding 8 1-year periods;
+            (aa) 50 percent or more during the initial applicable 1-year period and the succeeding 8 1-year periods;
 
-                        (bb) 55 percent or more during the 1-year period beginning on December 20, 2015, and the 1-year period beginning on December 20, 2016; and
+            (bb) 55 percent or more during the 1-year period beginning on December 20, 2015, and the 1-year period beginning on December 20, 2016; and
 
-                        (cc) 60 percent or more during the 1-year period beginning on December 20, 2017.
+            (cc) 60 percent or more during the 1-year period beginning on December 20, 2017.
 
-                    (II) __Foreign material__ 
+        (II) __Foreign material__ 
 
-                        The term “foreign material” means a material produced in a country other than Haiti or any country described in clause (iii).
+            The term “foreign material” means a material produced in a country other than Haiti or any country described in clause (iii).
 
-                (vi) __Development of procedure to ensure compliance__ 
+        (vi) __Development of procedure to ensure compliance__ 
 
-                    (I) __In general__ 
+            (I) __In general__ 
 
-                        U.S. Customs and Border Protection of the Department of Homeland Security shall develop and implement methods and procedures to ensure ongoing compliance with the requirements set forth in clauses (i) and (iv).
+                U.S. Customs and Border Protection of the Department of Homeland Security shall develop and implement methods and procedures to ensure ongoing compliance with the requirements set forth in clauses (i) and (iv).
 
-                    (II) __Noncompliance__ 
+            (II) __Noncompliance__ 
 
-                    If U.S. Customs and Border Protection finds that a producer or an entity controlling production has not satisfied such requirements in the initial applicable 1-year period or any 1-year period thereafter, either for individual entries entered pursuant to clause (i) or for entries entered in aggregate pursuant to clause (iv), then apparel articles described in clause (i) of that producer or entity shall be ineligible for preferential treatment under paragraph (1) during any succeeding 1-year period until—
+            If U.S. Customs and Border Protection finds that a producer or an entity controlling production has not satisfied such requirements in the initial applicable 1-year period or any 1-year period thereafter, either for individual entries entered pursuant to clause (i) or for entries entered in aggregate pursuant to clause (iv), then apparel articles described in clause (i) of that producer or entity shall be ineligible for preferential treatment under paragraph (1) during any succeeding 1-year period until—
 
-                        (aa) the cost or value of materials under subclause (I) of clause (i), plus
+                (aa) the cost or value of materials under subclause (I) of clause (i), plus
 
-                        (bb) the direct costs of processing operations under subclause (II) of clause (i),
+                (bb) the direct costs of processing operations under subclause (II) of clause (i),
 
-                      of that producer or entity controlling production, is not less than the applicable percentage under clause (v)(I), plus 10 percent, of the aggregate declared customs value of all apparel articles of that producer or entity controlling production that are wholly assembled, or are knit-to-shape, in Haiti and are entered during the preceding 1-year period.
+              of that producer or entity controlling production, is not less than the applicable percentage under clause (v)(I), plus 10 percent, of the aggregate declared customs value of all apparel articles of that producer or entity controlling production that are wholly assembled, or are knit-to-shape, in Haiti and are entered during the preceding 1-year period.
 
-                    (III) __Retroactive application of duty-free treatment__ 
+            (III) __Retroactive application of duty-free treatment__ 
 
-                    If—
+            If—
 
-                        (aa) a producer or an entity controlling production is ineligible for preferential treatment under subparagraph (A) in the initial applicable 1-year period or any 1-year period thereafter because that producer or entity controlling production did not satisfy the requirements of clause (i) or (iv), and
+                (aa) a producer or an entity controlling production is ineligible for preferential treatment under subparagraph (A) in the initial applicable 1-year period or any 1-year period thereafter because that producer or entity controlling production did not satisfy the requirements of clause (i) or (iv), and
 
-                        (bb) that producer or entity controlling production satisfies the requirements of subclause (II) of this clause in that 1-year period,
+                (bb) that producer or entity controlling production satisfies the requirements of subclause (II) of this clause in that 1-year period,
 
-                      then, notwithstanding [section 1514 of this title][/us/usc/t19/s1514] or any other provision of law, upon proper request filed with U.S. Customs and Border Protection before the 90th day after U.S. Customs and Border Protection determines that item (bb) applies, the entry of any articles—
+              then, notwithstanding [section 1514 of this title][/us/usc/t19/s1514] or any other provision of law, upon proper request filed with U.S. Customs and Border Protection before the 90th day after U.S. Customs and Border Protection determines that item (bb) applies, the entry of any articles—
 
-                    (AA) that was made during that 1-year period, and
+            (AA) that was made during that 1-year period, and
 
-                    (BB) with respect to which there would have been preferential treatment under subparagraph (A) if the producer or entity controlling production had satisfied the requirements in clause (i) or (iv) (as the case may be),
+            (BB) with respect to which there would have been preferential treatment under subparagraph (A) if the producer or entity controlling production had satisfied the requirements in clause (i) or (iv) (as the case may be),
 
-                      shall be liquidated or reliquidated as though such preferential treatment under subparagraph (A) applied to such entry.
+              shall be liquidated or reliquidated as though such preferential treatment under subparagraph (A) applied to such entry.
 
-                (vii) __Fabrics not available in commercial quantities__ 
+        (vii) __Fabrics not available in commercial quantities__ 
 
-                    (I) __In general__ 
+            (I) __In general__ 
 
-                    For purposes of determining the applicable percentage under clause (i) or (iv), there may be included in that percentage—
+            For purposes of determining the applicable percentage under clause (i) or (iv), there may be included in that percentage—
 
-                        (aa) the cost of fabrics or yarns to the extent that apparel articles of such fabrics or yarns would be eligible for preferential treatment, without regard to the source of the fabrics or yarns, under Annex 401 of the NAFTA; and
+                (aa) the cost of fabrics or yarns to the extent that apparel articles of such fabrics or yarns would be eligible for preferential treatment, without regard to the source of the fabrics or yarns, under Annex 401 of the NAFTA; and
 
-                        (bb)
+                (bb)
 
-                         the cost of fabrics or yarns that are designated as not being available in commercial quantities for purposes of—
+                 the cost of fabrics or yarns that are designated as not being available in commercial quantities for purposes of—
 
-                            (AA) [section 2703(b)(2)(A)(v) of this title][/us/usc/t19/s2703/b/2/A/v],
+                    (AA) [section 2703(b)(2)(A)(v) of this title][/us/usc/t19/s2703/b/2/A/v],
 
-                            (BB) [section 3721(b)(5) of this title][/us/usc/t19/s3721/b/5],
+                    (BB) [section 3721(b)(5) of this title][/us/usc/t19/s3721/b/5],
 
-                            (CC) section 3203(b)(3)(B)(i)(III) or (ii) of this title, or
+                    (CC) section 3203(b)(3)(B)(i)(III) or (ii) of this title, or
 
-                            (DD) any other provision, relating to determining whether a textile or apparel article is an originating good eligible for preferential treatment, of a law that implements a free trade agreement that enters into force with respect to the United States,
+                    (DD) any other provision, relating to determining whether a textile or apparel article is an originating good eligible for preferential treatment, of a law that implements a free trade agreement that enters into force with respect to the United States,
 
-                      without regard to the source of the fabrics or yarns.
+              without regard to the source of the fabrics or yarns.
 
-                    (II) __Removal of designation of fabrics or yarns not available in commercial quantities__ 
+            (II) __Removal of designation of fabrics or yarns not available in commercial quantities__ 
 
-                    If the President determines that—
+            If the President determines that—
 
-                        (aa) any fabric or yarn described in subclause (I)(aa) was determined to be eligible for preferential treatment, or
+                (aa) any fabric or yarn described in subclause (I)(aa) was determined to be eligible for preferential treatment, or
 
-                        (bb) any fabric or yarn described in subclause (I)(bb) was designated as not being available in commercial quantities,
+                (bb) any fabric or yarn described in subclause (I)(bb) was designated as not being available in commercial quantities,
 
-                      on the basis of fraud, the President is authorized to remove the eligibility or designation (as the case may be) of that fabric or yarn with respect to articles entered after such removal.
+              on the basis of fraud, the President is authorized to remove the eligibility or designation (as the case may be) of that fabric or yarn with respect to articles entered after such removal.
 
-            (C) __Quantitative limitations__ 
+        (C) __Quantitative limitations__ 
 
-                The preferential treatment described in subparagraph (A) shall be extended, during each of the 1-year periods set forth in the following table, to not more than the corresponding percentage of the aggregate square meter equivalents of all apparel articles imported into the United States in the most recent 12-month period for which data are available:
+            The preferential treatment described in subparagraph (A) shall be extended, during each of the 1-year periods set forth in the following table, to not more than the corresponding percentage of the aggregate square meter equivalents of all apparel articles imported into the United States in the most recent 12-month period for which data are available:
 
 <table>
 
-                  <tr>
+              <tr>
 
-                    <td> 
+                <td> 
 
-                During:  </td>
+            During:  </td>
 
-                    <td> 
+                <td> 
 
-                the corresponding percentage is:  </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                the initial applicable 1-year period  </td>
-
-                    <td> 
-
-                1 percent.  </td>
+            the corresponding percentage is:  </td>
 
   </tr>
 
-                  <tr>
+              <tr>
 
-                    <td> 
+                <td> 
 
-                each of the succeeding 11 1-year periods  </td>
+            the initial applicable 1-year period  </td>
 
-                    <td> 
+                <td> 
 
-                1.25 percent.  </td>
+            1 percent.  </td>
 
   </tr>
 
-                </table>
+              <tr>
 
-                No preferential treatment shall be provided under subparagraph (A) after December 19, 2018.
+                <td> 
 
-            (D) __Other preferential treatment not affected by quantitative limitations__ 
+            each of the succeeding 11 1-year periods  </td>
 
-                Any apparel article that qualifies for preferential treatment under paragraph (2), (3), (4), or (5) or any other provision of this chapter shall not be subject to, or included in the calculation of, the quantitative limitations under subparagraph (C).
+                <td> 
+
+            1.25 percent.  </td>
+
+  </tr>
+
+            </table>
+
+            No preferential treatment shall be provided under subparagraph (A) after December 19, 2018.
+
+        (D) __Other preferential treatment not affected by quantitative limitations__ 
+
+            Any apparel article that qualifies for preferential treatment under paragraph (2), (3), (4), or (5) or any other provision of this chapter shall not be subject to, or included in the calculation of, the quantitative limitations under subparagraph (C).
 
         (2) __Special rule for woven articles and certain knit articles__ 
 

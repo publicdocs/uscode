@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s199.md) | [Next](./../../../../..//us/usc/t19/ch3/stIV/null/pt1/m__us_usc_t19_ch3_stIV_null_pt1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch3%2FstIV)
+[Previous](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s199.md) | [Next](./../../../../..//us/usc/t19/ch3/stIV/pt1/m__us_usc_t19_ch3_stIV_pt1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch3%2FstIV)
 
 ### SUBTITLE IV—CUSTOMS ADMINISTRATION
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s199.md) | [Next](./../../../../..//us/usc/t19/ch3/stIV/null/pt1/m__us_usc_t19_ch3_stIV_null_pt1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch3%2FstIV)
+[Previous](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s199.md) | [Next](./../../../../..//us/usc/t19/ch3/stIV/pt1/m__us_usc_t19_ch3_stIV_pt1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fch3%2FstIV)
 
 ----------
 ----------

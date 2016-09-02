@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t19/ch2/m__us_usc_t19_s96 to 98.md) | [Next](./../../../..//us/usc/t19/ch2/m__us_usc_t19_s100.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs99)
+[Previous](./../../../..//us/usc/t19/ch2/m__us_usc_t19_s95.md) | [Next](./../../../..//us/usc/t19/ch2/m__us_usc_t19_s100.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs99)
 
 ## § 99. Repealed. [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 643][/us/stat/80/643]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t19/ch2/m__us_usc_t19_s96 to 98.md) | [Next](./../../../..//us/usc/t19/ch2/m__us_usc_t19_s100.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs99)
+[Previous](./../../../..//us/usc/t19/ch2/m__us_usc_t19_s95.md) | [Next](./../../../..//us/usc/t19/ch2/m__us_usc_t19_s100.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs99)
 
 ----------
 ----------

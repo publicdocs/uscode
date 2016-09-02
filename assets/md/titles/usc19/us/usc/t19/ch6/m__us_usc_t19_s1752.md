@@ -15,13 +15,13 @@
 
 ## § 1752. Entry of articles for fairs
 
-Any article imported or brought into the United States—
+    Any article imported or brought into the United States—
 
     (1) which is in continuous customs custody, covered by a customs exhibition bond, or in a foreign trade zone, and
 
     (2) on which no duty or internal-revenue tax has been paid,
 
-        may, without payment of any duty or internal-revenue tax, be entered under bond under this section for the purpose of exhibition at a fair, or for use in constructing, installing, or maintaining foreign exhibits at a fair.
+    may, without payment of any duty or internal-revenue tax, be entered under bond under this section for the purpose of exhibition at a fair, or for use in constructing, installing, or maintaining foreign exhibits at a fair.
 
 ([Pub. L. 86–14, § 3][/us/pl/86/14/s3], Apr. 22, 1959, [73 Stat. 18][/us/stat/73/18].)
 

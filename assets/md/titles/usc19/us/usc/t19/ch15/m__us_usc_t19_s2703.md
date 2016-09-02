@@ -297,13 +297,13 @@
 
                       procedures and requirements similar in all material respects to the relevant procedures and requirements under chapter 5 of the NAFTA.
 
-                    (II) __Country described__ 
+            (II) __Country described__ 
 
-                    A country is described in this subclause if it is a CBTPA beneficiary country—
+            A country is described in this subclause if it is a CBTPA beneficiary country—
 
-                        (aa) from which the article is exported; or
+                (aa) from which the article is exported; or
 
-                        (bb) in which materials used in the production of the article originate or in which the article or such materials undergo production that contributes to a claim that the article is eligible for preferential treatment under paragraph (2) or (3).
+                (bb) in which materials used in the production of the article originate or in which the article or such materials undergo production that contributes to a claim that the article is eligible for preferential treatment under paragraph (2) or (3).
 
             (B) __Certificate of origin__ 
 
@@ -573,7 +573,7 @@
 
  __Amendment of Section__ 
 
-For termination of amendment by [section 107(d) of Pub. L. 109–53][/us/pl/109/53/s107/d], see Effective and Termination Dates of 2005 Amendment note below.
+    For termination of amendment by [section 107(d) of Pub. L. 109–53][/us/pl/109/53/s107/d], see Effective and Termination Dates of 2005 Amendment note below.
 
  __References in Text__ 
 
@@ -779,7 +779,7 @@ For termination of amendment by [section 107(d) of Pub. L. 109–53][/us/pl/109/
 
 >     “(2) September 1, 2002,
 
->         whichever occurs first.”
+>     whichever occurs first.”
 
  __Effective Date of 1994 Amendment__ 
 
@@ -905,15 +905,27 @@ For termination of amendment by [section 107(d) of Pub. L. 109–53][/us/pl/109/
 
 >              an azeotropic distillation facility—
 
->                 “(i) at least 50 percent of the total value of the equipment and components of which were—         “(I) produced in the United States, and
+>                 “(i)
+
+>                  at least 50 percent of the total value of the equipment and components of which were—
+
+>                          “(I) produced in the United States, and
 
 >                          “(II) owned by a corporation at least 50 percent of the total value of the outstanding shares of stock of which were owned by a United States person (or persons) on or before January 1, 1986, and
 
->                 “(ii) substantially all of the equipment and components of which were, on or before January 1, 1986—         “(I) located in the United States under the possession or control of such corporation,
+>                 “(ii)
+
+>                  substantially all of the equipment and components of which were, on or before January 1, 1986—
+
+>                          “(I) located in the United States under the possession or control of such corporation,
 
 >                          “(II) ready for shipment to, and installation in, a beneficiary country or an insular possession of the United States, and
 
->                 “(iii) which—         “(I) has on the date of enactment of this Act \[Oct. 22, 1986\], or
+>                 “(iii)
+
+>                  which—
+
+>                          “(I) has on the date of enactment of this Act \[Oct. 22, 1986\], or
 
 >                          “(II) will have at the time such facility is placed in service (based on estimates made before the date of enactment of this Act),
 

@@ -59,7 +59,9 @@
 
 [Pub. L. 96–39, title V, § 503][/us/pl/96/39/s503], July 26, 1979, [93 Stat. 251][/us/stat/93/251], provided that:
 
->     “(a) __In General.—The aggregate reduction in the rate of duty applicable to items described in this subsection in effect on any day pursuant to a trade agreement entered into under section 101 of the Trade Act of 1974 \[__  __[__  __19 U.S.C. 2111__  __][/us/usc/t19/s2111]__  __\] before__  __January 3, 1980__  __, may exceed the limitation in section 109(a) of such Act (__  __[__  __19 U.S.C. 2119__  __][/us/usc/t19/s2119]__  __):__ 
+>     “(a) __In General.—__ 
+
+>     The aggregate reduction in the rate of duty applicable to items described in this subsection in effect on any day pursuant to a trade agreement entered into under section 101 of the Trade Act of 1974 \[[19 U.S.C. 2111][/us/usc/t19/s2111]\] before January 3, 1980, may exceed the limitation in section 109(a) of such Act ([19 U.S.C. 2119][/us/usc/t19/s2119]):
 
 >         “(1) Items amended under section 223(d) of this Act \[items 402.00 to 413.51 of the Tariff Schedules\] to the extent that they apply to articles which the President determines were not imported into the United States before January 1, 1978, and were not produced in the United States before May 1, 1978.
 
@@ -77,7 +79,9 @@
 
 >         “(6) Items for which the President determines the effective date of the first reduction will be after June 30, 1980, and before January 1, 1981, to the extent necessary to permit the second reduction to take effect on January 1, 1981.
 
->     “(b) __Opportunity for Comment.—Before making any determination under subsection (a)(1) and (2), the President shall provide interested parties an opportunity to comment and shall publish his final determinations in the Federal Register before__  __July 1, 1980__  __.”__ 
+>     “(b) __Opportunity for Comment.—__ 
+
+>     Before making any determination under subsection (a)(1) and (2), the President shall provide interested parties an opportunity to comment and shall publish his final determinations in the Federal Register before July 1, 1980.”
 
 ----------
 

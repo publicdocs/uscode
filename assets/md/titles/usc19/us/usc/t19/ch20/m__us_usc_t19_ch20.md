@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3201" data-uslm-ref="/us/usc/t19/s3201">3201.</a>  </td>
 
     <td> Authority to grant duty-free treatment.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3202.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3202" data-uslm-ref="/us/usc/t19/s3202">3202.</a>  </td>
 
     <td> Beneficiary country.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3203.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3203" data-uslm-ref="/us/usc/t19/s3203">3203.</a>  </td>
 
     <td> Eligible articles.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3204.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3204" data-uslm-ref="/us/usc/t19/s3204">3204.</a>  </td>
 
     <td> International Trade Commission reports on impact of this chapter.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3205.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3205" data-uslm-ref="/us/usc/t19/s3205">3205.</a>  </td>
 
     <td> Impact study by Secretary of Labor.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3206.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3206" data-uslm-ref="/us/usc/t19/s3206">3206.</a>  </td>
 
     <td> Termination of preferential treatment.  </td>
 

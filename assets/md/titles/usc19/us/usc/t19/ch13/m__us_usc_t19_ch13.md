@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2501" data-uslm-ref="/us/usc/t19/s2501">2501.</a>  </td>
 
     <td> Short title.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2502" data-uslm-ref="/us/usc/t19/s2502">2502.</a>  </td>
 
     <td> Congressional statement of purposes.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2503" data-uslm-ref="/us/usc/t19/s2503">2503.</a>  </td>
 
     <td> Approval of trade agreements.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2504" data-uslm-ref="/us/usc/t19/s2504">2504.</a>  </td>
 
     <td> Relationship of trade agreements to United States law.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—GOVERNMENT PROCUREMENT  </td>
 
   <tr>
 
-    <td> 2511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2511" data-uslm-ref="/us/usc/t19/s2511">2511.</a>  </td>
 
     <td> General authority to modify discriminatory purchasing requirements.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—GOVERNMENT PROCUREMENT  </td>
 
   <tr>
 
-    <td> 2512.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2512" data-uslm-ref="/us/usc/t19/s2512">2512.</a>  </td>
 
     <td> Authority to encourage reciprocal competitive procurement practices.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—GOVERNMENT PROCUREMENT  </td>
 
   <tr>
 
-    <td> 2513.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2513" data-uslm-ref="/us/usc/t19/s2513">2513.</a>  </td>
 
     <td> Waiver of discriminatory purchasing requirements with respect to purchases of civil aircraft.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—GOVERNMENT PROCUREMENT  </td>
 
   <tr>
 
-    <td> 2514.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2514" data-uslm-ref="/us/usc/t19/s2514">2514.</a>  </td>
 
     <td> Expansion of the coverage of the Agreement.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—GOVERNMENT PROCUREMENT  </td>
 
   <tr>
 
-    <td> 2515.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2515" data-uslm-ref="/us/usc/t19/s2515">2515.</a>  </td>
 
     <td> Monitoring and enforcement.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—GOVERNMENT PROCUREMENT  </td>
 
   <tr>
 
-    <td> 2516.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2516" data-uslm-ref="/us/usc/t19/s2516">2516.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—GOVERNMENT PROCUREMENT  </td>
 
   <tr>
 
-    <td> 2517.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2517" data-uslm-ref="/us/usc/t19/s2517">2517.</a>  </td>
 
     <td> Availability of information to Members of Congress designated as official advisers.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER I—GOVERNMENT PROCUREMENT  </td>
 
   <tr>
 
-    <td> 2518.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2518" data-uslm-ref="/us/usc/t19/s2518">2518.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -145,7 +145,7 @@ Part A—Obligations of the United States  </td>
 
   <tr>
 
-    <td> 2531.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2531" data-uslm-ref="/us/usc/t19/s2531">2531.</a>  </td>
 
     <td> Certain standards-related activities.  </td>
 
@@ -153,7 +153,7 @@ Part A—Obligations of the United States  </td>
 
   <tr>
 
-    <td> 2532.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2532" data-uslm-ref="/us/usc/t19/s2532">2532.</a>  </td>
 
     <td> Federal standards-related activities.  </td>
 
@@ -161,7 +161,7 @@ Part A—Obligations of the United States  </td>
 
   <tr>
 
-    <td> 2533.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2533" data-uslm-ref="/us/usc/t19/s2533">2533.</a>  </td>
 
     <td> State and private standards-related activities.  </td>
 
@@ -177,7 +177,7 @@ Part B—Functions of Federal Agencies  </td>
 
   <tr>
 
-    <td> 2541.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2541" data-uslm-ref="/us/usc/t19/s2541">2541.</a>  </td>
 
     <td> Functions of Trade Representative.  </td>
 
@@ -185,7 +185,7 @@ Part B—Functions of Federal Agencies  </td>
 
   <tr>
 
-    <td> 2542.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2542" data-uslm-ref="/us/usc/t19/s2542">2542.</a>  </td>
 
     <td> Establishment and operation of technical offices.  </td>
 
@@ -193,7 +193,7 @@ Part B—Functions of Federal Agencies  </td>
 
   <tr>
 
-    <td> 2543.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2543" data-uslm-ref="/us/usc/t19/s2543">2543.</a>  </td>
 
     <td> Representation of United States interests before international standards organizations.  </td>
 
@@ -201,7 +201,7 @@ Part B—Functions of Federal Agencies  </td>
 
   <tr>
 
-    <td> 2544.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2544" data-uslm-ref="/us/usc/t19/s2544">2544.</a>  </td>
 
     <td> Standards information center.  </td>
 
@@ -209,7 +209,7 @@ Part B—Functions of Federal Agencies  </td>
 
   <tr>
 
-    <td> 2545.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2545" data-uslm-ref="/us/usc/t19/s2545">2545.</a>  </td>
 
     <td> Contracts and grants.  </td>
 
@@ -217,7 +217,7 @@ Part B—Functions of Federal Agencies  </td>
 
   <tr>
 
-    <td> 2546.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2546" data-uslm-ref="/us/usc/t19/s2546">2546.</a>  </td>
 
     <td> Technical assistance.  </td>
 
@@ -225,7 +225,7 @@ Part B—Functions of Federal Agencies  </td>
 
   <tr>
 
-    <td> 2547.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2547" data-uslm-ref="/us/usc/t19/s2547">2547.</a>  </td>
 
     <td> Consultations with representatives of domestic interests.  </td>
 
@@ -249,7 +249,7 @@ subpart 1—representations alleging united states violations of obligations  </
 
   <tr>
 
-    <td> 2551.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2551" data-uslm-ref="/us/usc/t19/s2551">2551.</a>  </td>
 
     <td> Right of action.  </td>
 
@@ -257,7 +257,7 @@ subpart 1—representations alleging united states violations of obligations  </
 
   <tr>
 
-    <td> 2552.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2552" data-uslm-ref="/us/usc/t19/s2552">2552.</a>  </td>
 
     <td> Representations.  </td>
 
@@ -265,7 +265,7 @@ subpart 1—representations alleging united states violations of obligations  </
 
   <tr>
 
-    <td> 2553.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2553" data-uslm-ref="/us/usc/t19/s2553">2553.</a>  </td>
 
     <td> Action after receipt of representations.  </td>
 
@@ -273,7 +273,7 @@ subpart 1—representations alleging united states violations of obligations  </
 
   <tr>
 
-    <td> 2554.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2554" data-uslm-ref="/us/usc/t19/s2554">2554.</a>  </td>
 
     <td> Procedure after finding by international forum.  </td>
 
@@ -289,7 +289,7 @@ subpart 2—other proceedings regarding certain standards-related activities  </
 
   <tr>
 
-    <td> 2561.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2561" data-uslm-ref="/us/usc/t19/s2561">2561.</a>  </td>
 
     <td> Findings of reciprocity required in administrative proceedings.  </td>
 
@@ -297,7 +297,7 @@ subpart 2—other proceedings regarding certain standards-related activities  </
 
   <tr>
 
-    <td> 2562.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2562" data-uslm-ref="/us/usc/t19/s2562">2562.</a>  </td>
 
     <td> Consideration of standards-related activities by an international forum.  </td>
 
@@ -313,7 +313,7 @@ Part D—Definitions and Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 2571.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2571" data-uslm-ref="/us/usc/t19/s2571">2571.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -321,7 +321,7 @@ Part D—Definitions and Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 2572.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2572" data-uslm-ref="/us/usc/t19/s2572">2572.</a>  </td>
 
     <td> Exemptions.  </td>
 
@@ -329,7 +329,7 @@ Part D—Definitions and Miscellaneous Provisions  </td>
 
   <tr>
 
-    <td> 2573.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2573" data-uslm-ref="/us/usc/t19/s2573">2573.</a>  </td>
 
     <td> Reports to Congress on operation of agreement.  </td>
 
@@ -353,7 +353,7 @@ subpart 1—sanitary and phytosanitary measures  </td>
 
   <tr>
 
-    <td> 2575.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2575" data-uslm-ref="/us/usc/t19/s2575">2575.</a>  </td>
 
     <td> General.  </td>
 
@@ -361,7 +361,7 @@ subpart 1—sanitary and phytosanitary measures  </td>
 
   <tr>
 
-    <td> 2575a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2575a" data-uslm-ref="/us/usc/t19/s2575a">2575a.</a>  </td>
 
     <td> Inquiry point.  </td>
 
@@ -369,7 +369,7 @@ subpart 1—sanitary and phytosanitary measures  </td>
 
   <tr>
 
-    <td> 2575b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2575b" data-uslm-ref="/us/usc/t19/s2575b">2575b.</a>  </td>
 
     <td> Subpart definitions.  </td>
 
@@ -385,7 +385,7 @@ subpart 2—standards-related measures  </td>
 
   <tr>
 
-    <td> 2576.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2576" data-uslm-ref="/us/usc/t19/s2576">2576.</a>  </td>
 
     <td> General.  </td>
 
@@ -393,7 +393,7 @@ subpart 2—standards-related measures  </td>
 
   <tr>
 
-    <td> 2576a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2576a" data-uslm-ref="/us/usc/t19/s2576a">2576a.</a>  </td>
 
     <td> Inquiry point.  </td>
 
@@ -401,7 +401,7 @@ subpart 2—standards-related measures  </td>
 
   <tr>
 
-    <td> 2576b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2576b" data-uslm-ref="/us/usc/t19/s2576b">2576b.</a>  </td>
 
     <td> Subpart definitions.  </td>
 
@@ -417,7 +417,7 @@ subpart 3—part definitions  </td>
 
   <tr>
 
-    <td> 2577.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2577" data-uslm-ref="/us/usc/t19/s2577">2577.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -433,7 +433,7 @@ Part F—International Standard-Setting Activities  </td>
 
   <tr>
 
-    <td> 2578.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2578" data-uslm-ref="/us/usc/t19/s2578">2578.</a>  </td>
 
     <td> Notice of United States participation in international standard-setting activities.  </td>
 
@@ -441,7 +441,7 @@ Part F—International Standard-Setting Activities  </td>
 
   <tr>
 
-    <td> 2578a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2578a" data-uslm-ref="/us/usc/t19/s2578a">2578a.</a>  </td>
 
     <td> Equivalence determinations.  </td>
 
@@ -449,7 +449,7 @@ Part F—International Standard-Setting Activities  </td>
 
   <tr>
 
-    <td> 2578b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2578b" data-uslm-ref="/us/usc/t19/s2578b">2578b.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -465,7 +465,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 2581.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2581" data-uslm-ref="/us/usc/t19/s2581">2581.</a>  </td>
 
     <td> Auction of import licenses.  </td>
 
@@ -473,7 +473,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 2582.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2582" data-uslm-ref="/us/usc/t19/s2582">2582.</a>  </td>
 
     <td> Repealed.  </td>
 

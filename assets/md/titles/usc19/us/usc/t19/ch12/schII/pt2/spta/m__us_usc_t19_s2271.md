@@ -45,7 +45,7 @@
 
  __Reversion to Provisions in Effect on__  __February 13, 2011__ 
 
-For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to [section 233(b) of Pub. L. 112–40][/us/pl/112/40/s233/b], see Codification and Effective and Termination Dates of 2011 Revival notes below.
+    For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to [section 233(b) of Pub. L. 112–40][/us/pl/112/40/s233/b], see Codification and Effective and Termination Dates of 2011 Revival notes below.
 
  __References in Text__ 
 
@@ -171,7 +171,7 @@ For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 20
 
 >     “(a) __Trade Adjustment Assistance for Workers.—__ 
 
->         “(1) __Petitions filed on or after february 13, 2011, and before date of enactment.—__ 
+>         “(1) __Petitions filed on or after__  __february 13, 2011__  __, and before date of enactment.—__ 
 
 >             “(A) __Certifications of workers not certified before date of enactment.—__ 
 
@@ -181,7 +181,9 @@ For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 20
 
 >                 “(ii) __Reconsideration of denials of certifications.—__ 
 
->                 If, before the date of the enactment of this Act, the Secretary made a determination not to certify a group of workers as eligible to apply for adjustment assistance under section 222 of the Trade Act of 1974 pursuant to a petition described in clause (iii), the Secretary shall—         “(I) reconsider that determination; and
+>                 If, before the date of the enactment of this Act, the Secretary made a determination not to certify a group of workers as eligible to apply for adjustment assistance under section 222 of the Trade Act of 1974 pursuant to a petition described in clause (iii), the Secretary shall—
+
+>                          “(I) reconsider that determination; and
 
 >                          “(II) if the group of workers meets the requirements of section 222 of the Trade Act of 1974, as in effect on such date of enactment, certify the group of workers as eligible to apply for adjustment assistance.
 
@@ -197,15 +199,23 @@ For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 20
 
 >                 “(ii) __Election for workers receiving benefits on the 60th day after enactment.—__ 
 
->                      “(I) In general.—A worker certified as eligible to apply for adjustment assistance under section 222 of the Trade Act of 1974 \[[19 U.S.C. 2272][/us/usc/t19/s2272]\] pursuant to a petition described in subparagraph (A)(iii) who is receiving benefits under chapter 2 of title II of the Trade Act of 1974 as of the date that is 60 days after the date of the enactment of this Act \[Oct. 21, 2011\] may, not later than the date that is 150 days after such date of enactment, make a one-time election to receive benefits pursuant to—
+>                          “(I) __In general.—__ 
 
->                     “(aa) the provisions of chapter 2 of title II of the Trade Act of 1974, as in effect on such date of enactment; or
+>                     A worker certified as eligible to apply for adjustment assistance under section 222 of the Trade Act of 1974 \[[19 U.S.C. 2272][/us/usc/t19/s2272]\] pursuant to a petition described in subparagraph (A)(iii) who is receiving benefits under chapter 2 of title II of the Trade Act of 1974 as of the date that is 60 days after the date of the enactment of this Act \[Oct. 21, 2011\] may, not later than the date that is 150 days after such date of enactment, make a one-time election to receive benefits pursuant to—
 
->                     “(bb) the provisions of chapter 2 of title II of the Trade Act of 1974, as in effect on February 13, 2011.         “(II) Effect of failure to make election.—A worker described in subclause (I) who does not make the election described in that subclause on or before the date that is 150 days after the date of the enactment of this Act shall be eligible to receive benefits only under the provisions of chapter 2 of title II of the Trade Act of 1974, as in effect on February 13, 2011.
+>                         “(aa) the provisions of chapter 2 of title II of the Trade Act of 1974, as in effect on such date of enactment; or
 
->                              “(III) Computation of maximum benefits.—Benefits received by a worker described in subclause (I) under chapter 2 of title II of the Trade Act of 1974, as in effect on February 13, 2011, before the worker makes the election described in that subclause shall be included in any determination of the maximum benefits for which the worker is eligible under the provisions of chapter 2 of title II of the Trade Act of 1974, as in effect on the date of the enactment of this Act \[Oct. 21, 2011\], or as in effect on February 13, 2011, whichever is applicable after the election of the worker under subclause (I).
+>                         “(bb) the provisions of chapter 2 of title II of the Trade Act of 1974, as in effect on February 13, 2011.
 
->         “(2) __Petitions filed before february 13, 2011.—__ 
+>                          “(II) __Effect of failure to make election.—__ 
+
+>                     A worker described in subclause (I) who does not make the election described in that subclause on or before the date that is 150 days after the date of the enactment of this Act shall be eligible to receive benefits only under the provisions of chapter 2 of title II of the Trade Act of 1974, as in effect on February 13, 2011.
+
+>                          “(III) __Computation of maximum benefits.—__ 
+
+>                     Benefits received by a worker described in subclause (I) under chapter 2 of title II of the Trade Act of 1974, as in effect on February 13, 2011, before the worker makes the election described in that subclause shall be included in any determination of the maximum benefits for which the worker is eligible under the provisions of chapter 2 of title II of the Trade Act of 1974, as in effect on the date of the enactment of this Act \[Oct. 21, 2011\], or as in effect on February 13, 2011, whichever is applicable after the election of the worker under subclause (I).
+
+>         “(2) __Petitions filed before__  __february 13, 2011__  __.—__ 
 
 >         A worker certified as eligible to apply for adjustment assistance pursuant to a petition filed under section 221 of the Trade Act of 1974 \[[19 U.S.C. 2271][/us/usc/t19/s2271]\]—
 
@@ -237,7 +247,7 @@ For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 20
 
 >             A petition described in this subparagraph is a petition for a certification of eligibility filed by a firm or its representative under section 251 of the Trade Act of 1974 \[[19 U.S.C. 2341][/us/usc/t19/s2341]\] on or after February 13, 2011, and before the date of the enactment of this Act \[Oct. 21, 2011\].
 
->         “(2) __Certification of firms that did not submit petitions between february 13, 2011, and date of enactment.—__ 
+>         “(2) __Certification of firms that did not submit petitions between__  __february 13, 2011__  __, and date of enactment.—__ 
 
 >             “(A) __In general.—__ 
 
@@ -261,7 +271,7 @@ For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 20
 
 >     “(2) is otherwise eligible for adjustment assistance under chapter 2 or 6, as the case may be,
 
->         the increase in imports of articles like or directly competitive with the agricultural commodity produced by such producer may be based on imports of wild-caught seafood, farm-raised seafood, or both.”
+>     the increase in imports of articles like or directly competitive with the agricultural commodity produced by such producer may be based on imports of wild-caught seafood, farm-raised seafood, or both.”
 
  __Declaration of Policy; Sense of Congress__ 
 

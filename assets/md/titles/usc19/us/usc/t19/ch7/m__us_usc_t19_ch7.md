@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1801.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1801" data-uslm-ref="/us/usc/t19/s1801">1801.</a>  </td>
 
     <td> Statement of purposes.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1802 to 1805.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1802" data-uslm-ref="/us/usc/t19/s1802">1802</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1805" data-uslm-ref="/us/usc/t19/s1805">1805.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1806.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1806" data-uslm-ref="/us/usc/t19/s1806">1806.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -73,7 +73,7 @@ Part I—General Authority  </td>
 
   <tr>
 
-    <td> 1821.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1821" data-uslm-ref="/us/usc/t19/s1821">1821.</a>  </td>
 
     <td> Basic authority for trade agreements.  </td>
 
@@ -81,7 +81,7 @@ Part I—General Authority  </td>
 
   <tr>
 
-    <td> 1822.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1822" data-uslm-ref="/us/usc/t19/s1822">1822.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -89,7 +89,7 @@ Part I—General Authority  </td>
 
   <tr>
 
-    <td> 1823.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1823" data-uslm-ref="/us/usc/t19/s1823">1823.</a>  </td>
 
     <td> Waiver of limitation on decrease in duty and negotiation and staging requirements for dicyandiamide and limestone.  </td>
 
@@ -105,7 +105,9 @@ Part II—European Economic Community  </td>
 
   <tr>
 
-    <td> 1831 to 1833. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1831" data-uslm-ref="/us/usc/t19/s1831">1831</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1833" data-uslm-ref="/us/usc/t19/s1833">1833.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -119,7 +121,9 @@ Part III—Requirements Concerning Negotiations  </td>
 
   <tr>
 
-    <td> 1841 to 1846. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1841" data-uslm-ref="/us/usc/t19/s1841">1841</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1846" data-uslm-ref="/us/usc/t19/s1846">1846.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -133,7 +137,7 @@ Part IV—National Security  </td>
 
   <tr>
 
-    <td> 1861.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1861" data-uslm-ref="/us/usc/t19/s1861">1861.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -141,7 +145,7 @@ Part IV—National Security  </td>
 
   <tr>
 
-    <td> 1862.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1862" data-uslm-ref="/us/usc/t19/s1862">1862.</a>  </td>
 
     <td> Safeguarding national security.  </td>
 
@@ -149,7 +153,7 @@ Part IV—National Security  </td>
 
   <tr>
 
-    <td> 1863.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1863" data-uslm-ref="/us/usc/t19/s1863">1863.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -157,7 +161,7 @@ Part IV—National Security  </td>
 
   <tr>
 
-    <td> 1864.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1864" data-uslm-ref="/us/usc/t19/s1864">1864.</a>  </td>
 
     <td> Import sanctions for export violations.  </td>
 
@@ -173,7 +177,7 @@ Part V—Administrative Provisions  </td>
 
   <tr>
 
-    <td> 1871.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1871" data-uslm-ref="/us/usc/t19/s1871">1871.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -181,7 +185,7 @@ Part V—Administrative Provisions  </td>
 
   <tr>
 
-    <td> 1872.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1872" data-uslm-ref="/us/usc/t19/s1872">1872.</a>  </td>
 
     <td> Interagency trade organization.  </td>
 
@@ -189,7 +193,7 @@ Part V—Administrative Provisions  </td>
 
   <tr>
 
-    <td> 1873.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1873" data-uslm-ref="/us/usc/t19/s1873">1873.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -205,7 +209,7 @@ Part VI—General Provisions  </td>
 
   <tr>
 
-    <td> 1881.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1881" data-uslm-ref="/us/usc/t19/s1881">1881.</a>  </td>
 
     <td> Normal trade relations.  </td>
 
@@ -213,7 +217,7 @@ Part VI—General Provisions  </td>
 
   <tr>
 
-    <td> 1882 to 1884.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1882" data-uslm-ref="/us/usc/t19/s1882">1882</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1884" data-uslm-ref="/us/usc/t19/s1884">1884.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -221,7 +225,7 @@ Part VI—General Provisions  </td>
 
   <tr>
 
-    <td> 1885.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1885" data-uslm-ref="/us/usc/t19/s1885">1885.</a>  </td>
 
     <td> Termination of proclamations.  </td>
 
@@ -229,7 +233,7 @@ Part VI—General Provisions  </td>
 
   <tr>
 
-    <td> 1886.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1886" data-uslm-ref="/us/usc/t19/s1886">1886.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -237,7 +241,7 @@ Part VI—General Provisions  </td>
 
   <tr>
 
-    <td> 1887.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1887" data-uslm-ref="/us/usc/t19/s1887">1887.</a>  </td>
 
     <td> Limitation on imports under <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft7%2Fs624" data-uslm-ref="/us/usc/t7/s624">section 624 of title 7</a>.  </td>
 
@@ -245,7 +249,7 @@ Part VI—General Provisions  </td>
 
   <tr>
 
-    <td> 1888.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1888" data-uslm-ref="/us/usc/t19/s1888">1888.</a>  </td>
 
     <td> References in other laws.  </td>
 
@@ -269,7 +273,9 @@ Part I—Eligibility for Assistance  </td>
 
   <tr>
 
-    <td> 1901, 1902. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1901" data-uslm-ref="/us/usc/t19/s1901">1901</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1902" data-uslm-ref="/us/usc/t19/s1902">1902.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -283,7 +289,7 @@ Part II—Adjustment Assistance to Firms  </td>
 
   <tr>
 
-    <td> 1911 to 1915.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1911" data-uslm-ref="/us/usc/t19/s1911">1911</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1915" data-uslm-ref="/us/usc/t19/s1915">1915.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -291,7 +297,7 @@ Part II—Adjustment Assistance to Firms  </td>
 
   <tr>
 
-    <td> 1916.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1916" data-uslm-ref="/us/usc/t19/s1916">1916.</a>  </td>
 
     <td> Administration of financial assistance; recording of mortgages.  </td>
 
@@ -299,7 +305,7 @@ Part II—Adjustment Assistance to Firms  </td>
 
   <tr>
 
-    <td> 1917.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1917" data-uslm-ref="/us/usc/t19/s1917">1917.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -307,7 +313,7 @@ Part II—Adjustment Assistance to Firms  </td>
 
   <tr>
 
-    <td> 1918.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1918" data-uslm-ref="/us/usc/t19/s1918">1918.</a>  </td>
 
     <td> Protective provisions.  </td>
 
@@ -315,7 +321,7 @@ Part II—Adjustment Assistance to Firms  </td>
 
   <tr>
 
-    <td> 1919.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1919" data-uslm-ref="/us/usc/t19/s1919">1919.</a>  </td>
 
     <td> Penalties.  </td>
 
@@ -323,7 +329,7 @@ Part II—Adjustment Assistance to Firms  </td>
 
   <tr>
 
-    <td> 1920.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1920" data-uslm-ref="/us/usc/t19/s1920">1920.</a>  </td>
 
     <td> Suits by and against Secretary of Commerce.  </td>
 
@@ -339,7 +345,7 @@ Part III—Adjustment Assistance to Workers  </td>
 
   <tr>
 
-    <td> 1931.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1931" data-uslm-ref="/us/usc/t19/s1931">1931.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -355,7 +361,9 @@ subpart a—trade readjustment allowances  </td>
 
   <tr>
 
-    <td> 1941 to 1944. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1941" data-uslm-ref="/us/usc/t19/s1941">1941</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1944" data-uslm-ref="/us/usc/t19/s1944">1944.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -369,7 +377,9 @@ subpart b—training  </td>
 
   <tr>
 
-    <td> 1951, 1952. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1951" data-uslm-ref="/us/usc/t19/s1951">1951</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1952" data-uslm-ref="/us/usc/t19/s1952">1952.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -383,7 +393,9 @@ subpart c—relocation allowances  </td>
 
   <tr>
 
-    <td> 1961 to 1963. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1961" data-uslm-ref="/us/usc/t19/s1961">1961</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1963" data-uslm-ref="/us/usc/t19/s1963">1963.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -397,7 +409,9 @@ subpart d—general provisions  </td>
 
   <tr>
 
-    <td> 1971 to 1978. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1971" data-uslm-ref="/us/usc/t19/s1971">1971</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1978" data-uslm-ref="/us/usc/t19/s1978">1978.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -411,7 +425,7 @@ Part IV—Tariff Adjustment  </td>
 
   <tr>
 
-    <td> 1981.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1981" data-uslm-ref="/us/usc/t19/s1981">1981.</a>  </td>
 
     <td> General authority.  </td>
 
@@ -419,7 +433,7 @@ Part IV—Tariff Adjustment  </td>
 
   <tr>
 
-    <td> 1982.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1982" data-uslm-ref="/us/usc/t19/s1982">1982.</a>  </td>
 
     <td> Marketing agreements.  </td>
 
@@ -435,7 +449,7 @@ Part V—Advisory Board  </td>
 
   <tr>
 
-    <td> 1991.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1991" data-uslm-ref="/us/usc/t19/s1991">1991.</a>  </td>
 
     <td> Repealed.  </td>
 

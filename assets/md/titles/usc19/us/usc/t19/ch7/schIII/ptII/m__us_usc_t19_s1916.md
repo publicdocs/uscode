@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch7/schIII/ptII/m__us_usc_t19_s1911 to 1915.md) | [Next](./../../../../../..//us/usc/t19/ch7/schIII/ptII/m__us_usc_t19_s1917.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1916)
+[Previous](./../../../../../..//us/usc/t19/ch7/schIII/ptII/m__us_usc_t19_ch7_schIII_ptII.md) | [Next](./../../../../../..//us/usc/t19/ch7/schIII/ptII/m__us_usc_t19_s1917.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1916)
 
 ## § 1916. Administration of financial assistance; recording of mortgages
 
@@ -41,7 +41,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch7/schIII/ptII/m__us_usc_t19_s1911 to 1915.md) | [Next](./../../../../../..//us/usc/t19/ch7/schIII/ptII/m__us_usc_t19_s1917.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1916)
+[Previous](./../../../../../..//us/usc/t19/ch7/schIII/ptII/m__us_usc_t19_ch7_schIII_ptII.md) | [Next](./../../../../../..//us/usc/t19/ch7/schIII/ptII/m__us_usc_t19_s1917.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1916)
 
 ----------
 ----------

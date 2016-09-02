@@ -15,7 +15,7 @@
 
 ## § 4036. Regulations
 
-The Secretary of the Treasury shall prescribe such regulations as may be necessary to carry out—
+    The Secretary of the Treasury shall prescribe such regulations as may be necessary to carry out—
 
     (1) subsections (a) through (n) of [section 4033 of this title][/us/usc/t19/s4033];
 
@@ -27,7 +27,7 @@ The Secretary of the Treasury shall prescribe such regulations as may be necessa
 
  __Termination of Section__ 
 
-For termination of section by [section 107(d) of Pub. L. 109–53][/us/pl/109/53/s107/d], see Effective and Termination Dates note below.
+    For termination of section by [section 107(d) of Pub. L. 109–53][/us/pl/109/53/s107/d], see Effective and Termination Dates note below.
 
  __References in Text__ 
 

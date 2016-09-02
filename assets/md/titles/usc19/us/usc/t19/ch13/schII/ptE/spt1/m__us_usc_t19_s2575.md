@@ -15,7 +15,7 @@
 
 ## § 2575. General
 
-Nothing in this subpart may be construed—
+    Nothing in this subpart may be construed—
 
     (1) to prohibit a Federal agency or State agency from engaging in activity related to sanitary or phytosanitary measures to protect human, animal, or plant life or health; or
 

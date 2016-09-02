@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2701" data-uslm-ref="/us/usc/t19/s2701">2701.</a>  </td>
 
     <td> Authority to grant duty-free treatment.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2702" data-uslm-ref="/us/usc/t19/s2702">2702.</a>  </td>
 
     <td> Beneficiary country.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2703" data-uslm-ref="/us/usc/t19/s2703">2703.</a>  </td>
 
     <td> Eligible articles.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2703a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2703a" data-uslm-ref="/us/usc/t19/s2703a">2703a.</a>  </td>
 
     <td> Special rules for Haiti.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2704" data-uslm-ref="/us/usc/t19/s2704">2704.</a>  </td>
 
     <td> International Trade Commission reports on impact of Caribbean Basin Economic Recovery Program.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2705" data-uslm-ref="/us/usc/t19/s2705">2705.</a>  </td>
 
     <td> Impact study by Secretary of Labor.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2706" data-uslm-ref="/us/usc/t19/s2706">2706.</a>  </td>
 
     <td> Effective date.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2707" data-uslm-ref="/us/usc/t19/s2707">2707.</a>  </td>
 
     <td> Center for the Study of Western Hemispheric Trade.  </td>
 

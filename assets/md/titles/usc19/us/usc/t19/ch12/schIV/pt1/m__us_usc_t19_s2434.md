@@ -51,77 +51,87 @@
 
 [Pub. L. 112–208][/us/pl/112/208], titles I, II, Dec. 14, 2012, [126 Stat. 1497][/us/stat/126/1497], 1498, provided that:
 
- __“TITLE I—PERMANENT NORMAL TRADE RELATIONS FOR THE RUSSIAN FEDERATION__ 
+> “TITLE I— __PERMANENT NORMAL TRADE RELATIONS FOR THE RUSSIAN FEDERATION__ 
 
-    “SEC. 101. FINDINGS.
+> “SEC. 101. __FINDINGS.__ 
 
-    “Congress finds the following:
+> “Congress finds the following:
 
-    “(1) The Russian Federation allows its citizens the right and opportunity to emigrate, free of any heavy tax on emigration or on the visas or other documents required for emigration and free of any tax, levy, fine, fee, or other charge on any citizens as a consequence of the desire of those citizens to emigrate to the country of their choice.
+>     “(1) The Russian Federation allows its citizens the right and opportunity to emigrate, free of any heavy tax on emigration or on the visas or other documents required for emigration and free of any tax, levy, fine, fee, or other charge on any citizens as a consequence of the desire of those citizens to emigrate to the country of their choice.
 
-    “(2) The Russian Federation has been found to be in full compliance with the freedom of emigration requirements under title IV of the Trade Act of 1974 ([19 U.S.C. 2431][/us/usc/t19/s2431] et seq.) since 1994.
+>     “(2) The Russian Federation has been found to be in full compliance with the freedom of emigration requirements under title IV of the Trade Act of 1974 ([19 U.S.C. 2431][/us/usc/t19/s2431] et seq.) since 1994.
 
-    “(3) The Russian Federation has received normal trade relations treatment since concluding a bilateral trade agreement with the United States that entered into force in 1992.
+>     “(3) The Russian Federation has received normal trade relations treatment since concluding a bilateral trade agreement with the United States that entered into force in 1992.
 
-    “(4) On December 16, 2011, the Ministerial Conference of the World Trade Organization invited the Russian Federation to accede to the World Trade Organization.
+>     “(4) On December 16, 2011, the Ministerial Conference of the World Trade Organization invited the Russian Federation to accede to the World Trade Organization.
 
-    “SEC. 102. TERMINATION OF APPLICATION OF TITLE IV OF THE TRADE ACT OF 1974 TO PRODUCTS OF THE RUSSIAN FEDERATION.
+> “SEC. 102. __TERMINATION OF APPLICATION OF TITLE IV OF THE TRADE ACT OF 1974 TO PRODUCTS OF THE RUSSIAN FEDERATION.__ 
 
-    “(a) Presidential Determinations and Extension of Nondiscriminatory Treatment.—Notwithstanding any provision of title IV of the Trade Act of 1974 ([19 U.S.C. 2431][/us/usc/t19/s2431] et seq.), the President may—
+>     “(a) __Presidential Determinations and Extension of Nondiscriminatory Treatment.—__ 
 
-    “(1) determine that such title should no longer apply to the Russian Federation; and
+>     Notwithstanding any provision of title IV of the Trade Act of 1974 ([19 U.S.C. 2431][/us/usc/t19/s2431] et seq.), the President may—
 
-    “(2) after making a determination under paragraph (1) with respect to the Russian Federation, proclaim the extension of nondiscriminatory treatment (normal trade relations treatment) to the products of the Russian Federation.
+>         “(1) determine that such title should no longer apply to the Russian Federation; and
 
-    “(b) Effective Date of Nondiscriminatory Treatment.—The extension of nondiscriminatory treatment to the products of the Russian Federation pursuant to subsection (a) shall be effective not sooner than the effective date of the accession of the Russian Federation to the World Trade Organization \[Aug. 22, 2012\].
+>         “(2) after making a determination under paragraph (1) with respect to the Russian Federation, proclaim the extension of nondiscriminatory treatment (normal trade relations treatment) to the products of the Russian Federation.
 
-    “(c) Termination of Applicability of Title IV.—On and after the effective date under subsection (b) of the extension of nondiscriminatory treatment to the products of the Russian Federation, title IV of the Trade Act of 1974 ([19 U.S.C. 2431][/us/usc/t19/s2431] et seq.) shall cease to apply to the Russian Federation.
+>     “(b) __Effective Date of Nondiscriminatory Treatment.—__ 
 
- __“TITLE II—TRADE ENFORCEMENT MEASURES RELATING TO THE RUSSIAN FEDERATION__ 
+>     The extension of nondiscriminatory treatment to the products of the Russian Federation pursuant to subsection (a) shall be effective not sooner than the effective date of the accession of the Russian Federation to the World Trade Organization \[Aug. 22, 2012\].
 
-    “SEC. 201. REPORTS ON IMPLEMENTATION BY THE RUSSIAN FEDERATION OF OBLIGATIONS AS A MEMBER OF THE WORLD TRADE ORGANIZATION AND ENFORCEMENT ACTIONS BY THE UNITED STATES TRADE REPRESENTATIVE.
+>     “(c) __Termination of Applicability of Title IV.—__ 
 
-    “(a) Reports on Implementation.—
+>     On and after the effective date under subsection (b) of the extension of nondiscriminatory treatment to the products of the Russian Federation, title IV of the Trade Act of 1974 ([19 U.S.C. 2431][/us/usc/t19/s2431] et seq.) shall cease to apply to the Russian Federation.
 
-    “(1) In general.—Not later than one year after the effective date under section 102(b) of the extension of nondiscriminatory treatment to the products of the Russian Federation, and annually thereafter, the United States Trade Representative shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report assessing the following:
+> “TITLE II— __TRADE ENFORCEMENT MEASURES RELATING TO THE RUSSIAN FEDERATION__ 
 
-“(A) The extent to which the Russian Federation is implementing the WTO Agreement (as defined in section 2 of the Uruguay Round Agreements Act ([19 U.S.C. 3501][/us/usc/t19/s3501])) and the following agreements annexed to that Agreement:
+> “SEC. 201. __REPORTS ON IMPLEMENTATION BY THE RUSSIAN FEDERATION OF OBLIGATIONS AS A MEMBER OF THE WORLD TRADE ORGANIZATION AND ENFORCEMENT ACTIONS BY THE UNITED STATES TRADE REPRESENTATIVE.__ 
 
->     “(i) The Agreement on the Application of Sanitary and Phytosanitary Measures (referred to in section 101(d)(3) of the Uruguay Round Agreements Act ([19 U.S.C. 3511(d)(3)][/us/usc/t19/s3511/d/3])).
+>     “(a) __Reports on Implementation.—__ 
 
->     “(ii) The Agreement on Trade-Related Aspects of Intellectual Property Rights (referred to in section 101(d)(15) of the Uruguay Round Agreements Act ([19 U.S.C. 3511(d)(15)][/us/usc/t19/s3511/d/15])).
+>         “(1) __In general.—__ 
 
->     “(B)
+>         Not later than one year after the effective date under section 102(b) of the extension of nondiscriminatory treatment to the products of the Russian Federation, and annually thereafter, the United States Trade Representative shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report assessing the following:
 
->      The progress made by the Russian Federation in acceding to, and the extent to which the Russian Federation is implementing, the following:
+>             “(A)
 
->         “(i) The Ministerial Declaration on Trade in Information Technology Products of the World Trade Organization, agreed to at Singapore December 13, 1996 (commonly referred to as the ‘Information Technology Agreement’) (or a successor agreement).
+>              The extent to which the Russian Federation is implementing the WTO Agreement (as defined in section 2 of the Uruguay Round Agreements Act ([19 U.S.C. 3501][/us/usc/t19/s3501])) and the following agreements annexed to that Agreement:
 
->         “(ii) The Agreement on Government Procurement (referred to in section 101(d)(17) of the Uruguay Round Agreements Act ([19 U.S.C. 3511(d)(17)][/us/usc/t19/s3511/d/17])).
+>                 “(i) The Agreement on the Application of Sanitary and Phytosanitary Measures (referred to in section 101(d)(3) of the Uruguay Round Agreements Act ([19 U.S.C. 3511(d)(3)][/us/usc/t19/s3511/d/3])).
 
->     “(2) __Plan for action by trade representative.—__ 
+>                 “(ii) The Agreement on Trade-Related Aspects of Intellectual Property Rights (referred to in section 101(d)(15) of the Uruguay Round Agreements Act ([19 U.S.C. 3511(d)(15)][/us/usc/t19/s3511/d/15])).
 
->         “(A) __In general.—__ 
+>             “(B)
 
->         If, in preparing a report required by paragraph (1), the Trade Representative believes that the Russian Federation is not fully implementing an agreement specified in subparagraph (A) or (B) of that paragraph or that the Russian Federation is not making adequate progress in acceding to an agreement specified in subparagraph (B) of that paragraph, the Trade Representative shall, except as provided in subparagraph (B) of this paragraph, include in the report a description of the actions the Trade Representative plans to take to encourage the Russian Federation to improve its implementation of the agreement or increase its progress in acceding to the agreement, as the case may be.
+>              The progress made by the Russian Federation in acceding to, and the extent to which the Russian Federation is implementing, the following:
 
->         “(B) __Classified information.—__ 
+>                 “(i) The Ministerial Declaration on Trade in Information Technology Products of the World Trade Organization, agreed to at Singapore December 13, 1996 (commonly referred to as the ‘Information Technology Agreement’) (or a successor agreement).
 
->         If any information regarding a planned action referred to in subparagraph (A) is classifiable under Executive Order No. 13526 (75 Fed. Reg. 707; relating to classified national security information) \[[50 U.S.C. 3161][/us/usc/t50/s3161] note\] or a subsequent Executive order, the Trade Representative shall report that information to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives by—
+>                 “(ii) The Agreement on Government Procurement (referred to in section 101(d)(17) of the Uruguay Round Agreements Act ([19 U.S.C. 3511(d)(17)][/us/usc/t19/s3511/d/17])).
 
->             “(i) including the information in a classified annex to the report required by paragraph (1); or
+>         “(2) __Plan for action by trade representative.—__ 
 
->             “(ii) consulting with the Committee on Finance and the Committee on Ways and Means with respect to the information instead of including the information in the report or a classified annex to the report.
+>             “(A) __In general.—__ 
 
->     “(3) __Public comments.—__ 
+>             If, in preparing a report required by paragraph (1), the Trade Representative believes that the Russian Federation is not fully implementing an agreement specified in subparagraph (A) or (B) of that paragraph or that the Russian Federation is not making adequate progress in acceding to an agreement specified in subparagraph (B) of that paragraph, the Trade Representative shall, except as provided in subparagraph (B) of this paragraph, include in the report a description of the actions the Trade Representative plans to take to encourage the Russian Federation to improve its implementation of the agreement or increase its progress in acceding to the agreement, as the case may be.
 
->         “(A) __In general.—__ 
+>             “(B) __Classified information.—__ 
 
->         In developing the report required by paragraph (1), the Trade Representative shall provide an opportunity for the public to comment, including by holding a public hearing.
+>             If any information regarding a planned action referred to in subparagraph (A) is classifiable under Executive Order No. 13526 (75 Fed. Reg. 707; relating to classified national security information) \[[50 U.S.C. 3161][/us/usc/t50/s3161] note\] or a subsequent Executive order, the Trade Representative shall report that information to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives by—
 
->         “(B) __Publication in federal register.—__ 
+>                 “(i) including the information in a classified annex to the report required by paragraph (1); or
 
->         The Trade Representative shall publish notice of the opportunity to comment and hearing required by subparagraph (A) in the Federal Register.
+>                 “(ii) consulting with the Committee on Finance and the Committee on Ways and Means with respect to the information instead of including the information in the report or a classified annex to the report.
+
+>         “(3) __Public comments.—__ 
+
+>             “(A) __In general.—__ 
+
+>             In developing the report required by paragraph (1), the Trade Representative shall provide an opportunity for the public to comment, including by holding a public hearing.
+
+>             “(B) __Publication in federal register.—__ 
+
+>             The Trade Representative shall publish notice of the opportunity to comment and hearing required by subparagraph (A) in the Federal Register.
 
 >     “(b) __Report on Enforcement Actions Taken by Trade Representative.—__ 
 

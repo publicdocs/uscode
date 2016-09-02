@@ -15,7 +15,7 @@
 
 ## § 1500. Appraisement, classification, and liquidation procedure
 
-The Customs Service shall, under rules and regulations prescribed by the Secretary—
+    The Customs Service shall, under rules and regulations prescribed by the Secretary—
 
     (a) fix the final appraisement of merchandise by ascertaining or estimating the value thereof, under [section 1401a of this title][/us/usc/t19/s1401a], by all reasonable ways and means in his power, any statement of cost or costs of production in any invoice, affidavit, declaration, other document to the contrary notwithstanding;
 

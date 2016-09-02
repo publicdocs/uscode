@@ -15,7 +15,7 @@
 
 ## § 2572. Exemptions
 
-This subchapter does not apply to—
+    This subchapter does not apply to—
 
     (1) any standards activity engaged in by any Federal agency or State agency for the use (including, but not limited to, use with respect to research and development, production, or consumption) of that agency or the use of another such agency; or
 

@@ -15,7 +15,7 @@
 
 ## § 4084. Articles exempt from relief
 
-The President may not provide import relief under this part with respect to any article if—
+    The President may not provide import relief under this part with respect to any article if—
 
     (1) import relief previously has been provided under this part with respect to that article; or
 
@@ -31,7 +31,7 @@ The President may not provide import relief under this part with respect to any 
 
  __Termination of Section__ 
 
-For termination of section by [section 107(d) of Pub. L. 109–53][/us/pl/109/53/s107/d], see Effective and Termination Dates note below.
+    For termination of section by [section 107(d) of Pub. L. 109–53][/us/pl/109/53/s107/d], see Effective and Termination Dates note below.
 
  __References in Text__ 
 

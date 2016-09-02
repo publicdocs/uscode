@@ -15,7 +15,7 @@
 
 ## § 2295. Employment and case management services
 
-The Secretary shall make available, directly or through agreements with States under [section 2311 of this title][/us/usc/t19/s2311], to adversely affected workers and adversely affected incumbent workers covered by a certification under subpart A of this part the following employment and case management services:
+    The Secretary shall make available, directly or through agreements with States under [section 2311 of this title][/us/usc/t19/s2311], to adversely affected workers and adversely affected incumbent workers covered by a certification under subpart A of this part the following employment and case management services:
 
     (1)
 
@@ -53,7 +53,7 @@ The Secretary shall make available, directly or through agreements with States u
 
  __Reversion to Provisions in Effect on__  __February 13, 2011__ 
 
-For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to [section 233(b) of Pub. L. 112–40][/us/pl/112/40/s233/b], see Codification and Effective and Termination Dates of 2011 Revival notes below.
+    For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to [section 233(b) of Pub. L. 112–40][/us/pl/112/40/s233/b], see Codification and Effective and Termination Dates of 2011 Revival notes below.
 
  __References in Text__ 
 

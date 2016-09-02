@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptV/m__us_usc_t19_s1601, 1601a.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptV/m__us_usc_t19_s1603.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1602)
+[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptV/m__us_usc_t19_s1600.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptV/m__us_usc_t19_s1603.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1602)
 
 ## § 1602. Seizure; report to customs officer
 
@@ -41,7 +41,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptV/m__us_usc_t19_s1601, 1601a.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptV/m__us_usc_t19_s1603.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1602)
+[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptV/m__us_usc_t19_s1600.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptV/m__us_usc_t19_s1603.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1602)
 
 ----------
 ----------

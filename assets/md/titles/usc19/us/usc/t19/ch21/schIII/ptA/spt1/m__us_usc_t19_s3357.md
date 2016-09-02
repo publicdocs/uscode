@@ -15,7 +15,7 @@
 
 ## § 3357. Submission of petitions
 
-A petition for import relief may be submitted to the International Trade Commission under—
+    A petition for import relief may be submitted to the International Trade Commission under—
 
     (1) this subpart;
 

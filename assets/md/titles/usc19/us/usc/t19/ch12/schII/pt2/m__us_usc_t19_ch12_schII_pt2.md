@@ -49,7 +49,11 @@
 
 >                 “(i) in paragraph (2), by substituting ‘104-week period’ for ‘104-week period’ and all that follows through ‘130-week period)’; and
 
->                 “(ii) in paragraph (3)—         “(I) in the matter preceding subparagraph (A), by substituting ‘65’ for ‘52’; and
+>                 “(ii)
+
+>                  in paragraph (3)—
+
+>                          “(I) in the matter preceding subparagraph (A), by substituting ‘65’ for ‘52’; and
 
 >                          “(II) by substituting ‘78-week period’ for ‘52-week period’ each place it appears; and
 

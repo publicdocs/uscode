@@ -15,7 +15,7 @@
 
 ## § 2485. Voluntary limitations on exports of steel to United States
 
-No person shall be liable for damages, penalties, or other sanctions under the Federal Trade Commission Act \[[15 U.S.C. 41][/us/usc/t15/s41] et seq.\] or the Antitrust Acts (as defined in section 4 of the Federal Trade Commission Act \[[15 U.S.C. 44][/us/usc/t15/s44]\]), or under any similar State law, on account of his negotiating, entering into, participating in, or implementing an arrangement providing for the voluntary limitation on exports of steel and steel products to the United States, or any modification or renewal of such an arrangement, if such arrangement or such modification or renewal—
+    No person shall be liable for damages, penalties, or other sanctions under the Federal Trade Commission Act \[[15 U.S.C. 41][/us/usc/t15/s41] et seq.\] or the Antitrust Acts (as defined in section 4 of the Federal Trade Commission Act \[[15 U.S.C. 44][/us/usc/t15/s44]\]), or under any similar State law, on account of his negotiating, entering into, participating in, or implementing an arrangement providing for the voluntary limitation on exports of steel and steel products to the United States, or any modification or renewal of such an arrangement, if such arrangement or such modification or renewal—
 
     (1) was undertaken prior to January 3, 1975, at the request of the Secretary of State or his delegate, and
 

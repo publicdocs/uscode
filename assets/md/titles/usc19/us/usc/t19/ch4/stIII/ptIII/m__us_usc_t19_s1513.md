@@ -15,7 +15,7 @@
 
 ## § 1513. Customs officer’s immunity
 
-No customs officer shall be liable in any way to any person for or on account of—
+    No customs officer shall be liable in any way to any person for or on account of—
 
     (1) any ruling or decision regarding the appraisement or the classification of any imported merchandise or regarding the duties, fees, and taxes charged thereon,
 

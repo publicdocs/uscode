@@ -15,7 +15,7 @@
 
 ## § 2071. Establishment of Service; Commissioner; appointment
 
-There shall be in the Department of the Treasury a service to be known as the United States Customs Service, and a Commissioner of Customs. The Commissioner of Customs, who shall be appointed by the President by and with the advice and consent of the Senate, shall—
+    There shall be in the Department of the Treasury a service to be known as the United States Customs Service, and a Commissioner of Customs. The Commissioner of Customs, who shall be appointed by the President by and with the advice and consent of the Senate, shall—
 
     (1) be at the head of the United States Customs Service;
 

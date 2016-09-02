@@ -15,7 +15,7 @@
 
 ## § 3581. Objectives in intellectual property
 
-It is the objective of the United States—
+    It is the objective of the United States—
 
     (1) to accelerate the implementation of the Agreement on Trade-Related Aspects of Intellectual Property Rights referred to in [section 3511(d)(15) of this title][/us/usc/t19/s3511/d/15],
 

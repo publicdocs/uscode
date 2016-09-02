@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3301" data-uslm-ref="/us/usc/t19/s3301">3301.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—APPROVAL OF, AND GENERAL PROVISIONS RELATING TO, NORTH AMERICAN F
 
   <tr>
 
-    <td> 3311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3311" data-uslm-ref="/us/usc/t19/s3311">3311.</a>  </td>
 
     <td> Approval and entry into force of North American Free Trade Agreement.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—APPROVAL OF, AND GENERAL PROVISIONS RELATING TO, NORTH AMERICAN F
 
   <tr>
 
-    <td> 3312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3312" data-uslm-ref="/us/usc/t19/s3312">3312.</a>  </td>
 
     <td> Relationship of Agreement to United States and State law.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—APPROVAL OF, AND GENERAL PROVISIONS RELATING TO, NORTH AMERICAN F
 
   <tr>
 
-    <td> 3313.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3313" data-uslm-ref="/us/usc/t19/s3313">3313.</a>  </td>
 
     <td> Consultation and layover requirements for, and effective date of, proclaimed actions.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—APPROVAL OF, AND GENERAL PROVISIONS RELATING TO, NORTH AMERICAN F
 
   <tr>
 
-    <td> 3314.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3314" data-uslm-ref="/us/usc/t19/s3314">3314.</a>  </td>
 
     <td> Implementing actions in anticipation of entry into force and initial regulations.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—APPROVAL OF, AND GENERAL PROVISIONS RELATING TO, NORTH AMERICAN F
 
   <tr>
 
-    <td> 3315.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3315" data-uslm-ref="/us/usc/t19/s3315">3315.</a>  </td>
 
     <td> United States Section of NAFTA Secretariat.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—APPROVAL OF, AND GENERAL PROVISIONS RELATING TO, NORTH AMERICAN F
 
   <tr>
 
-    <td> 3316.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3316" data-uslm-ref="/us/usc/t19/s3316">3316.</a>  </td>
 
     <td> Appointments to chapter 20 panel proceedings.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—APPROVAL OF, AND GENERAL PROVISIONS RELATING TO, NORTH AMERICAN F
 
   <tr>
 
-    <td> 3317.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3317" data-uslm-ref="/us/usc/t19/s3317">3317.</a>  </td>
 
     <td> Congressional intent regarding future accessions.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—CUSTOMS PROVISIONS  </td>
 
   <tr>
 
-    <td> 3331.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3331" data-uslm-ref="/us/usc/t19/s3331">3331.</a>  </td>
 
     <td> Tariff modifications.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—CUSTOMS PROVISIONS  </td>
 
   <tr>
 
-    <td> 3332.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3332" data-uslm-ref="/us/usc/t19/s3332">3332.</a>  </td>
 
     <td> Rules of origin.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—CUSTOMS PROVISIONS  </td>
 
   <tr>
 
-    <td> 3333.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3333" data-uslm-ref="/us/usc/t19/s3333">3333.</a>  </td>
 
     <td> Drawback.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—CUSTOMS PROVISIONS  </td>
 
   <tr>
 
-    <td> 3334.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3334" data-uslm-ref="/us/usc/t19/s3334">3334.</a>  </td>
 
     <td> Prohibition on drawback for television picture tubes.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—CUSTOMS PROVISIONS  </td>
 
   <tr>
 
-    <td> 3335.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3335" data-uslm-ref="/us/usc/t19/s3335">3335.</a>  </td>
 
     <td> Monitoring of television and picture tube imports.  </td>
 
@@ -169,7 +169,7 @@ subpart 1—relief from imports benefiting from agreement  </td>
 
   <tr>
 
-    <td> 3351.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3351" data-uslm-ref="/us/usc/t19/s3351">3351.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -177,7 +177,7 @@ subpart 1—relief from imports benefiting from agreement  </td>
 
   <tr>
 
-    <td> 3352.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3352" data-uslm-ref="/us/usc/t19/s3352">3352.</a>  </td>
 
     <td> Commencing of action for relief.  </td>
 
@@ -185,7 +185,7 @@ subpart 1—relief from imports benefiting from agreement  </td>
 
   <tr>
 
-    <td> 3353.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3353" data-uslm-ref="/us/usc/t19/s3353">3353.</a>  </td>
 
     <td> International Trade Commission action on petition.  </td>
 
@@ -193,7 +193,7 @@ subpart 1—relief from imports benefiting from agreement  </td>
 
   <tr>
 
-    <td> 3354.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3354" data-uslm-ref="/us/usc/t19/s3354">3354.</a>  </td>
 
     <td> Provision of relief.  </td>
 
@@ -201,7 +201,7 @@ subpart 1—relief from imports benefiting from agreement  </td>
 
   <tr>
 
-    <td> 3355.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3355" data-uslm-ref="/us/usc/t19/s3355">3355.</a>  </td>
 
     <td> Termination of relief authority.  </td>
 
@@ -209,7 +209,7 @@ subpart 1—relief from imports benefiting from agreement  </td>
 
   <tr>
 
-    <td> 3356.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3356" data-uslm-ref="/us/usc/t19/s3356">3356.</a>  </td>
 
     <td> Compensation authority.  </td>
 
@@ -217,7 +217,7 @@ subpart 1—relief from imports benefiting from agreement  </td>
 
   <tr>
 
-    <td> 3357.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3357" data-uslm-ref="/us/usc/t19/s3357">3357.</a>  </td>
 
     <td> Submission of petitions.  </td>
 
@@ -225,7 +225,7 @@ subpart 1—relief from imports benefiting from agreement  </td>
 
   <tr>
 
-    <td> 3358.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3358" data-uslm-ref="/us/usc/t19/s3358">3358.</a>  </td>
 
     <td> Price-based snapback for frozen concentrated orange juice.  </td>
 
@@ -241,7 +241,7 @@ subpart 2—relief from imports from all countries  </td>
 
   <tr>
 
-    <td> 3371.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3371" data-uslm-ref="/us/usc/t19/s3371">3371.</a>  </td>
 
     <td> NAFTA article impact in import relief cases under Trade Act of 1974.  </td>
 
@@ -249,7 +249,7 @@ subpart 2—relief from imports from all countries  </td>
 
   <tr>
 
-    <td> 3372.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3372" data-uslm-ref="/us/usc/t19/s3372">3372.</a>  </td>
 
     <td> Presidential action regarding NAFTA imports.  </td>
 
@@ -265,7 +265,7 @@ subpart 3—general provisions  </td>
 
   <tr>
 
-    <td> 3381.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3381" data-uslm-ref="/us/usc/t19/s3381">3381.</a>  </td>
 
     <td> Monitoring.  </td>
 
@@ -273,7 +273,7 @@ subpart 3—general provisions  </td>
 
   <tr>
 
-    <td> 3382.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3382" data-uslm-ref="/us/usc/t19/s3382">3382.</a>  </td>
 
     <td> Procedures concerning conduct of International Trade Commission Investigations.  </td>
 
@@ -289,7 +289,7 @@ Part B—Agriculture  </td>
 
   <tr>
 
-    <td> 3391.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3391" data-uslm-ref="/us/usc/t19/s3391">3391.</a>  </td>
 
     <td> Agriculture.  </td>
 
@@ -305,7 +305,7 @@ Part C—Temporary Entry of Business Persons  </td>
 
   <tr>
 
-    <td> 3401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3401" data-uslm-ref="/us/usc/t19/s3401">3401.</a>  </td>
 
     <td> Nonimmigrant traders and investors.  </td>
 
@@ -329,7 +329,7 @@ subpart 1—standards and measures  </td>
 
   <tr>
 
-    <td> 3411.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3411" data-uslm-ref="/us/usc/t19/s3411">3411.</a>  </td>
 
     <td> Transportation.  </td>
 
@@ -345,7 +345,7 @@ subpart 2—agricultural standards  </td>
 
   <tr>
 
-    <td> 3421.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3421" data-uslm-ref="/us/usc/t19/s3421">3421.</a>  </td>
 
     <td> Agricultural standards.  </td>
 
@@ -369,7 +369,7 @@ Part A—Organizational, Administrative, and Procedural Provisions Regarding Imp
 
   <tr>
 
-    <td> 3431.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3431" data-uslm-ref="/us/usc/t19/s3431">3431.</a>  </td>
 
     <td> References in part.  </td>
 
@@ -377,7 +377,7 @@ Part A—Organizational, Administrative, and Procedural Provisions Regarding Imp
 
   <tr>
 
-    <td> 3432.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3432" data-uslm-ref="/us/usc/t19/s3432">3432.</a>  </td>
 
     <td> Organizational and administrative provisions.  </td>
 
@@ -385,7 +385,7 @@ Part A—Organizational, Administrative, and Procedural Provisions Regarding Imp
 
   <tr>
 
-    <td> 3433.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3433" data-uslm-ref="/us/usc/t19/s3433">3433.</a>  </td>
 
     <td> Testimony and production of papers in extraordinary challenges.  </td>
 
@@ -393,7 +393,7 @@ Part A—Organizational, Administrative, and Procedural Provisions Regarding Imp
 
   <tr>
 
-    <td> 3434.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3434" data-uslm-ref="/us/usc/t19/s3434">3434.</a>  </td>
 
     <td> Requests for review of determinations by competent investigating authorities of NAFTA countries.  </td>
 
@@ -401,7 +401,7 @@ Part A—Organizational, Administrative, and Procedural Provisions Regarding Imp
 
   <tr>
 
-    <td> 3435.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3435" data-uslm-ref="/us/usc/t19/s3435">3435.</a>  </td>
 
     <td> Rules of procedure for panels and committees.  </td>
 
@@ -409,7 +409,7 @@ Part A—Organizational, Administrative, and Procedural Provisions Regarding Imp
 
   <tr>
 
-    <td> 3436.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3436" data-uslm-ref="/us/usc/t19/s3436">3436.</a>  </td>
 
     <td> Subsidy negotiations.  </td>
 
@@ -417,7 +417,7 @@ Part A—Organizational, Administrative, and Procedural Provisions Regarding Imp
 
   <tr>
 
-    <td> 3437.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3437" data-uslm-ref="/us/usc/t19/s3437">3437.</a>  </td>
 
     <td> Identification of industries facing subsidized imports.  </td>
 
@@ -425,7 +425,7 @@ Part A—Organizational, Administrative, and Procedural Provisions Regarding Imp
 
   <tr>
 
-    <td> 3438.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3438" data-uslm-ref="/us/usc/t19/s3438">3438.</a>  </td>
 
     <td> Treatment of amendments to antidumping and countervailing duty law.  </td>
 
@@ -441,7 +441,7 @@ Part B—General Provisions  </td>
 
   <tr>
 
-    <td> 3451.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3451" data-uslm-ref="/us/usc/t19/s3451">3451.</a>  </td>
 
     <td> Effect of termination of NAFTA country status.  </td>
 
@@ -465,7 +465,7 @@ Part A—Provisions Relating to Performance Under Agreement  </td>
 
   <tr>
 
-    <td> 3461.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3461" data-uslm-ref="/us/usc/t19/s3461">3461.</a>  </td>
 
     <td> Discriminatory taxes.  </td>
 
@@ -473,7 +473,7 @@ Part A—Provisions Relating to Performance Under Agreement  </td>
 
   <tr>
 
-    <td> 3462.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3462" data-uslm-ref="/us/usc/t19/s3462">3462.</a>  </td>
 
     <td> Review of operation and effects of Agreement.  </td>
 
@@ -481,7 +481,7 @@ Part A—Provisions Relating to Performance Under Agreement  </td>
 
   <tr>
 
-    <td> 3463.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3463" data-uslm-ref="/us/usc/t19/s3463">3463.</a>  </td>
 
     <td> Report on impact of NAFTA on motor vehicle exports to Mexico.  </td>
 
@@ -497,7 +497,7 @@ Part B—Implementation of NAFTA Supplemental Agreements  </td>
 
   <tr>
 
-    <td> 3471.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3471" data-uslm-ref="/us/usc/t19/s3471">3471.</a>  </td>
 
     <td> Agreement on Labor Cooperation.  </td>
 
@@ -505,7 +505,7 @@ Part B—Implementation of NAFTA Supplemental Agreements  </td>
 
   <tr>
 
-    <td> 3472.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3472" data-uslm-ref="/us/usc/t19/s3472">3472.</a>  </td>
 
     <td> Agreement on Environmental Cooperation.  </td>
 
@@ -513,7 +513,7 @@ Part B—Implementation of NAFTA Supplemental Agreements  </td>
 
   <tr>
 
-    <td> 3473.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs3473" data-uslm-ref="/us/usc/t19/s3473">3473.</a>  </td>
 
     <td> Agreement on Border Environment Cooperation Commission.  </td>
 

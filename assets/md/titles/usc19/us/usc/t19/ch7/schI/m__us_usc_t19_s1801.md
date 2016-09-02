@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t19/ch7/schI/m__us_usc_t19_ch7_schI.md) | [Next](./../../../../..//us/usc/t19/ch7/schI/m__us_usc_t19_s1802 to 1805.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1801)
+[Previous](./../../../../..//us/usc/t19/ch7/schI/m__us_usc_t19_ch7_schI.md) | [Next](./../../../../..//us/usc/t19/ch7/schI/m__us_usc_t19_s1806.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1801)
 
 ## § 1801. Statement of purposes
 
-The purposes of this chapter are, through trade agreements affording mutual trade benefits—
+    The purposes of this chapter are, through trade agreements affording mutual trade benefits—
 
     (1) to stimulate the economic growth of the United States and maintain and enlarge foreign markets for the products of United States agriculture, industry, mining, and commerce;
 
@@ -47,9 +47,19 @@ The purposes of this chapter are, through trade agreements affording mutual trad
 
     Ex. Ord. No. 11075, Jan. 15, 1963, 28 F.R. 473, as amended by Ex. Ord. No. 11106, Apr. 18, 1963, 28 F.R. 3911; Ex. Ord. No. 11113, June 15, 1963, 28 F.R. 6183, which related to the administration of the trade agreements program, was revoked by Ex. Ord. No. 11846, Mar. 27, 1975, 40 F.R. 14291, set out under [section 2111 of this title][/us/usc/t19/s2111].
 
+§§ 1802 to 1805. __Repealed.__  __[__  __Pub. L. 93–618, title VI, § 602(d)__  __][/us/pl/93/618/s602/d]__  __,__  __Jan. 3, 1975__  __,__  __[__  __88 Stat. 2072__  __][/us/stat/88/2072]__ 
+
+    Section 1802, [Pub. L. 87–794, title IV, § 401][/us/pl/87/794/s401], Oct. 11, 1962, [76 Stat. 902][/us/stat/76/902], enumerated activities to be performed by heads of agencies in performing functions under Trade Expansion Act of 1962.
+
+    Section 1803, [Pub. L. 87–794, title IV, § 402][/us/pl/87/794/s402], Oct. 11, 1962, [76 Stat. 902][/us/stat/76/902], required an annual Presidential report to Congress on trade agreement program and on tariff adjustment and other adjustment assistance. See [section 2213 of this title][/us/usc/t19/s2213].
+
+    Section 1804, [Pub. L. 87–794, title IV, § 403][/us/pl/87/794/s403], Oct. 11, 1962, [76 Stat. 902][/us/stat/76/902], covered operations of United States Tariff Commission \[now the United States International Trade Commission\]. See [section 2231 of this title][/us/usc/t19/s2231].
+
+    Section 1805, [Pub. L. 87–794, title IV, § 404][/us/pl/87/794/s404], Oct. 11, 1962, [76 Stat. 902][/us/stat/76/902], provided for separability of provisions of Trade Expansion Act of 1962. See [section 605 of Pub. L. 93–618][/us/pl/93/618/s605], set out as a note under [section 2101 of this title][/us/usc/t19/s2101], for provisions covering separability of various parts of Trade Act of 1974.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t19/ch7/schI/m__us_usc_t19_ch7_schI.md) | [Next](./../../../../..//us/usc/t19/ch7/schI/m__us_usc_t19_s1802 to 1805.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1801)
+[Previous](./../../../../..//us/usc/t19/ch7/schI/m__us_usc_t19_ch7_schI.md) | [Next](./../../../../..//us/usc/t19/ch7/schI/m__us_usc_t19_s1806.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1801)
 
 ----------
 ----------
@@ -67,5 +77,19 @@ The purposes of this chapter are, through trade agreements affording mutual trad
 [/us/usc/t19/s2171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2171
 [/us/usc/t50/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2401
 [/us/usc/t19/s2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2111
+[/us/pl/93/618/s602/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs602%2Fd
+[/us/stat/88/2072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2072
+[/us/pl/87/794/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs401
+[/us/stat/76/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F902
+[/us/pl/87/794/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs402
+[/us/stat/76/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F902
+[/us/usc/t19/s2213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2213
+[/us/pl/87/794/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs403
+[/us/stat/76/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F902
+[/us/usc/t19/s2231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2231
+[/us/pl/87/794/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F794%2Fs404
+[/us/stat/76/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F902
+[/us/pl/93/618/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs605
+[/us/usc/t19/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2101
 
 

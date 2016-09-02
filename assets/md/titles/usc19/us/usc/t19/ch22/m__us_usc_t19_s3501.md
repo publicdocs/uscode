@@ -15,7 +15,7 @@
 
 ## § 3501. Definitions
 
-For purposes of this Act:
+    For purposes of this Act:
 
     (1) __GATT 1947; GATT 1994__ 
 

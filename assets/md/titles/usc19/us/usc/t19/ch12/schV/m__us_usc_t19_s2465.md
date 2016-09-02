@@ -169,19 +169,17 @@
 
 >         shall be liquidated or reliquidated as free of duty, and the Secretary of the Treasury shall refund any duty paid with respect to such entry.
 
->         “(2) __Requests.—__ 
+>     “(2) __Requests.—__ 
 
->         Liquidation or reliquidation may be made under paragraph (1) with respect to an entry only if a request therefor is filed with the Customs Service, within 180 days after the date of the enactment of this Act, that contains sufficient information to enable the Customs Service—
+>     Liquidation or reliquidation may be made under paragraph (1) with respect to an entry only if a request therefor is filed with the Customs Service, within 180 days after the date of the enactment of this Act, that contains sufficient information to enable the Customs Service—
 
->     “(A) to locate the entry; or
+>         “(A) to locate the entry; or
 
->     “(B)
+>         “(B) to reconstruct the entry if it cannot be located.
 
->      to reconstruct the entry if it cannot be located.
+>     “(3) __Definition.—__ 
 
->         “(3) __Definition.—__ 
-
->         As used in this subsection, the term ‘entry’ includes a withdrawal from warehouse for consumption.”
+>     As used in this subsection, the term ‘entry’ includes a withdrawal from warehouse for consumption.”
 
     \[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].\]
 

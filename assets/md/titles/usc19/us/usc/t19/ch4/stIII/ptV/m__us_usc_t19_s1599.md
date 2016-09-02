@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptV/m__us_usc_t19_s1596 to 1598.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptV/m__us_usc_t19_s1600.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1599)
+[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptV/m__us_usc_t19_s1595a.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptV/m__us_usc_t19_s1600.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1599)
 
 ## § 1599. Officers not to be interested in vessels or cargo
 
@@ -29,7 +29,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptV/m__us_usc_t19_s1596 to 1598.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptV/m__us_usc_t19_s1600.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1599)
+[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptV/m__us_usc_t19_s1595a.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptV/m__us_usc_t19_s1600.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1599)
 
 ----------
 ----------

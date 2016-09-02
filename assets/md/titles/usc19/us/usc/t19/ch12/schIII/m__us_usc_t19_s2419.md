@@ -15,7 +15,7 @@
 
 ## § 2419. Administration
 
-The Trade Representative shall—
+    The Trade Representative shall—
 
     (1) issue regulations concerning the filing of petitions and the conduct of investigations and hearings under this subchapter,
 

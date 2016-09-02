@@ -15,7 +15,7 @@
 
 ## § 2805. Required consultations
 
-The Trade Representative shall consult with the Committees and with representatives of the wine and grape products industries in the United States—
+    The Trade Representative shall consult with the Committees and with representatives of the wine and grape products industries in the United States—
 
     (1) before identifying tariff barriers and nontariff barriers to (or other distortions of) trade in United States wine and designating major wine trading countries under [section 2803 of this title][/us/usc/t19/s2803];
 

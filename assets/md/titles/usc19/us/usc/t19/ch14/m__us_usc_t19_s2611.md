@@ -15,7 +15,7 @@
 
 ## § 2611. Certain material and articles exempt from this chapter
 
-The provisions of this chapter shall not apply to—
+    The provisions of this chapter shall not apply to—
 
     (1) any archaeological or ethnological material or any article of cultural property which is imported into the United States for temporary exhibition or display if such material or article is immune from seizure under judicial process pursuant to [section 2459 of title 22][/us/usc/t22/s2459]; or
 

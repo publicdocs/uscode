@@ -15,7 +15,7 @@
 
 ## § 2095. Definitions
 
-For the purposes of this chapter—
+    For the purposes of this chapter—
 
     (1) The term “Secretary” means the Secretary of the Treasury.
 

@@ -15,7 +15,7 @@
 
 ## § 2576a. Inquiry point
 
-The standards information center maintained under [section 2544 of this title][/us/usc/t19/s2544] shall, in addition to the functions specified therein, make available to the public relevant documents, at such reasonable fees as the Secretary of Commerce may prescribe, and information regarding—
+    The standards information center maintained under [section 2544 of this title][/us/usc/t19/s2544] shall, in addition to the functions specified therein, make available to the public relevant documents, at such reasonable fees as the Secretary of Commerce may prescribe, and information regarding—
 
     (1) the membership and participation of the Federal Government, State governments, and relevant nongovernmental bodies in the United States in international and regional standardizing bodies and conformity assessment systems, and in bilateral and multilateral arrangements regarding standards-related measures, and the provisions of those systems and arrangements;
 

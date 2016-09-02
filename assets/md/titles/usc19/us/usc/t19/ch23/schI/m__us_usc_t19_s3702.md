@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t19/ch23/schI/m__us_usc_t19_s3701.md) | [Next](./../../../../..//us/usc/t19/ch23/schI/m__us_usc_t19_s3703.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3702)
+[Previous](./../../../../..//us/usc/t19/ch23/schI/m__us_usc_t19_s14.md) | [Next](./../../../../..//us/usc/t19/ch23/schI/m__us_usc_t19_s3703.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3702)
 
 ## § 3702. Statement of policy
 
-Congress supports—
+    Congress supports—
 
     (1) encouraging increased trade and investment between the United States and sub-Saharan Africa;
 
@@ -39,7 +39,7 @@ Congress supports—
 
 ----------
 
-[Previous](./../../../../..//us/usc/t19/ch23/schI/m__us_usc_t19_s3701.md) | [Next](./../../../../..//us/usc/t19/ch23/schI/m__us_usc_t19_s3703.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3702)
+[Previous](./../../../../..//us/usc/t19/ch23/schI/m__us_usc_t19_s14.md) | [Next](./../../../../..//us/usc/t19/ch23/schI/m__us_usc_t19_s3703.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3702)
 
 ----------
 ----------

@@ -39,97 +39,7 @@
 
     In designating countries as “beneficiary countries” under this chapter the President shall consider only the following countries and territories or successor political entities:
 
-<table>
-
-      <tr>
-
-        <td>  Anguilla  </td>
-
-        <td> Saint Lucia  </td>
-
-  </tr>
-
-      <tr>
-
-        <td>  Antigua and Barbuda  </td>
-
-        <td> Saint Vincent and the  </td>
-
-  </tr>
-
-      <tr>
-
-        <td>  Bahamas, The  </td>
-
-        <td>  Grenadines  </td>
-
-  </tr>
-
-      <tr>
-
-        <td>  Barbados  </td>
-
-        <td> Suriname  </td>
-
-  </tr>
-
-      <tr>
-
-        <td>  Belize  </td>
-
-        <td> Trinidad and Tobago  </td>
-
-  </tr>
-
-      <tr>
-
-        <td>  Dominica  </td>
-
-        <td> Cayman Islands  </td>
-
-  </tr>
-
-      <tr>
-
-        <td>  Grenada  </td>
-
-        <td> Montserrat  </td>
-
-  </tr>
-
-      <tr>
-
-        <td>  Guyana  </td>
-
-        <td> Netherlands Antilles  </td>
-
-  </tr>
-
-      <tr>
-
-        <td>  Haiti  </td>
-
-        <td> Saint Christopher-Nevis  </td>
-
-  </tr>
-
-      <tr>
-
-        <td>  Jamaica  </td>
-
-        <td> Turks and Caicos Islands  </td>
-
-  </tr>
-
-      <tr>
-
-        <td>  Virgin Islands, British  </td>
-
-  </tr>
-
-    </table>
-
-    In addition, the President shall not designate any country a beneficiary country under this chapter—
+        In addition, the President shall not designate any country a beneficiary country under this chapter—
 
         (1) if such country is a Communist country;
 
@@ -265,9 +175,9 @@
 
  __Amendment of Section__ 
 
-For termination of amendment by [section 107(c) of Pub. L. 112–43][/us/pl/112/43/s107/c], see Effective and Termination Dates of 2011 Amendment note below.
+    For termination of amendment by [section 107(c) of Pub. L. 112–43][/us/pl/112/43/s107/c], see Effective and Termination Dates of 2011 Amendment note below.
 
-For termination of amendment by [section 107(d) of Pub. L. 109–53][/us/pl/109/53/s107/d], see Effective and Termination Dates of 2005 Amendment note below.
+    For termination of amendment by [section 107(d) of Pub. L. 109–53][/us/pl/109/53/s107/d], see Effective and Termination Dates of 2005 Amendment note below.
 
  __References in Text__ 
 

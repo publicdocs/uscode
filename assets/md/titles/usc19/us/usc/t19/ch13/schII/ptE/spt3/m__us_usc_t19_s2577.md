@@ -15,7 +15,7 @@
 
 ## § 2577. Definitions
 
-Notwithstanding [section 2571 of this title][/us/usc/t19/s2571], for purposes of this part—
+    Notwithstanding [section 2571 of this title][/us/usc/t19/s2571], for purposes of this part—
 
     (1) __NAFTA__ 
 

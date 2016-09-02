@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch12/schII/pt4/m__us_usc_t19_ch12_schII_pt4.md) | [Next](./../../../../../..//us/usc/t19/ch12/schII/pt4/m__us_usc_t19_s2371a to 2371f.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2371)
+[Previous](./../../../../../..//us/usc/t19/ch12/schII/pt4/m__us_usc_t19_ch12_schII_pt4.md) | [Next](./../../../../../..//us/usc/t19/ch12/schII/pt4/m__us_usc_t19_s2372.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2371)
 
 ## § 2371. Community College and Career Training Grant Program
 
@@ -211,9 +211,23 @@
 
 > “The purpose of the amendments made by this part \[part III (§§ 1871–1873) of subtitle I of title I of div. B of [Pub. L. 111–5][/us/pl/111/5], enacting this part and amending [section 2395 of this title][/us/usc/t19/s2395] and [section 1581 of Title 28][/us/usc/t28/s1581], Judiciary and Judicial Procedure\] is to assist communities impacted by trade with economic adjustment through the coordination of Federal, State, and local resources, the creation of community-based development strategies, and the development and provision of programs that meet the training needs of workers covered by certifications under section 223 \[probably means [section 223 of Pub. L. 93–618][/us/pl/93/618/s223], which is classified to [section 2273 of this title][/us/usc/t19/s2273]\].”
 
+§§ 2371a to 2371f. __Repealed.__  __[__  __Pub. L. 112–40, title II, § 222(a)(1)__  __][/us/pl/112/40/s222/a/1]__  __,__  __Oct. 21, 2011__  __,__  __[__  __125 Stat. 411__  __][/us/stat/125/411]__ 
+
+    Section 2371a, [Pub. L. 93–618, title II, § 272][/us/pl/93/618/s272], as added [Pub. L. 111–5, div. B, title I, § 1872(a)][/us/pl/111/5/s1872/a], Feb. 17, 2009, [123 Stat. 401][/us/stat/123/401], and [Pub. L. 112–40, title II, § 201(b)][/us/pl/112/40/s201/b], (c), Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403], related to establishment of trade adjustment assistance for communities program.
+
+    Section 2371b, [Pub. L. 93–618, title II, § 273][/us/pl/93/618/s273], as added [Pub. L. 111–5, div. B, title I, § 1872(a)][/us/pl/111/5/s1872/a], Feb. 17, 2009, [123 Stat. 401][/us/stat/123/401], and [Pub. L. 112–40, title II, § 201(b)][/us/pl/112/40/s201/b], (c), Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403], related to eligibility for assistance and required notifications.
+
+    Section 2371c, [Pub. L. 93–618, title II, § 274][/us/pl/93/618/s274], as added [Pub. L. 111–5, div. B, title I, § 1872(a)][/us/pl/111/5/s1872/a], Feb. 17, 2009, [123 Stat. 403][/us/stat/123/403], and [Pub. L. 112–40, title II, § 201(b)][/us/pl/112/40/s201/b], (c), Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403], related to technical assistance to eligible communities.
+
+    Section 2371d, [Pub. L. 93–618, title II, § 275][/us/pl/93/618/s275], as added [Pub. L. 111–5, div. B, title I, § 1872(a)][/us/pl/111/5/s1872/a], Feb. 17, 2009, [123 Stat. 403][/us/stat/123/403]; amended [Pub. L. 111–344, title I, § 101(c)(5)][/us/pl/111/344/s101/c/5], Dec. 29, 2010, [124 Stat. 3613][/us/stat/124/3613]; as added [Pub. L. 112–40, title II, § 201(b)][/us/pl/112/40/s201/b], (c), Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403], related to grants for eligible communities.
+
+    Section 2371e, [Pub. L. 93–618, title II, § 276][/us/pl/93/618/s276], as added [Pub. L. 111–5, div. B, title I, § 1872(a)][/us/pl/111/5/s1872/a], Feb. 17, 2009, [123 Stat. 404][/us/stat/123/404]; amended [Pub. L. 111–344, title I, § 101(c)(6)][/us/pl/111/344/s101/c/6], Dec. 29, 2010, [124 Stat. 3613][/us/stat/124/3613]; as added [Pub. L. 112–40, title II, § 201(b)][/us/pl/112/40/s201/b], (c), Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403], related to strategic plans.
+
+    Section 2371f, [Pub. L. 93–618, title II, § 277][/us/pl/93/618/s277], as added [Pub. L. 111–5, div. B, title I, § 1872(a)][/us/pl/111/5/s1872/a], Feb. 17, 2009, [123 Stat. 405][/us/stat/123/405]; amended [Pub. L. 111–344, title I, § 101(c)(7)][/us/pl/111/344/s101/c/7], Dec. 29, 2010, [124 Stat. 3613][/us/stat/124/3613]; as added [Pub. L. 112–40, title II, § 201(b)][/us/pl/112/40/s201/b], (c), Oct. 21, 2011, [125 Stat. 403][/us/stat/125/403], provided for regulations, personnel, and appropriations to carry out former subpart A.
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch12/schII/pt4/m__us_usc_t19_ch12_schII_pt4.md) | [Next](./../../../../../..//us/usc/t19/ch12/schII/pt4/m__us_usc_t19_s2371a to 2371f.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2371)
+[Previous](./../../../../../..//us/usc/t19/ch12/schII/pt4/m__us_usc_t19_ch12_schII_pt4.md) | [Next](./../../../../../..//us/usc/t19/ch12/schII/pt4/m__us_usc_t19_s2372.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2371)
 
 ----------
 ----------
@@ -290,5 +304,43 @@
 [/us/usc/t28/s1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1581
 [/us/pl/93/618/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs223
 [/us/usc/t19/s2273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2273
+[/us/pl/112/40/s222/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs222%2Fa%2F1
+[/us/stat/125/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F411
+[/us/pl/93/618/s272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs272
+[/us/pl/111/5/s1872/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1872%2Fa
+[/us/stat/123/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F401
+[/us/pl/112/40/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs201%2Fb
+[/us/stat/125/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F403
+[/us/pl/93/618/s273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs273
+[/us/pl/111/5/s1872/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1872%2Fa
+[/us/stat/123/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F401
+[/us/pl/112/40/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs201%2Fb
+[/us/stat/125/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F403
+[/us/pl/93/618/s274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs274
+[/us/pl/111/5/s1872/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1872%2Fa
+[/us/stat/123/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F403
+[/us/pl/112/40/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs201%2Fb
+[/us/stat/125/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F403
+[/us/pl/93/618/s275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs275
+[/us/pl/111/5/s1872/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1872%2Fa
+[/us/stat/123/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F403
+[/us/pl/111/344/s101/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F344%2Fs101%2Fc%2F5
+[/us/stat/124/3613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3613
+[/us/pl/112/40/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs201%2Fb
+[/us/stat/125/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F403
+[/us/pl/93/618/s276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs276
+[/us/pl/111/5/s1872/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1872%2Fa
+[/us/stat/123/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F404
+[/us/pl/111/344/s101/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F344%2Fs101%2Fc%2F6
+[/us/stat/124/3613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3613
+[/us/pl/112/40/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs201%2Fb
+[/us/stat/125/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F403
+[/us/pl/93/618/s277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs277
+[/us/pl/111/5/s1872/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1872%2Fa
+[/us/stat/123/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F405
+[/us/pl/111/344/s101/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F344%2Fs101%2Fc%2F7
+[/us/stat/124/3613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3613
+[/us/pl/112/40/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs201%2Fb
+[/us/stat/125/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F403
 
 

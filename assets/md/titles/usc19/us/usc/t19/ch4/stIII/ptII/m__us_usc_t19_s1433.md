@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptII/m__us_usc_t19_s1432, 1432a.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptII/m__us_usc_t19_s1434.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1433)
+[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptII/m__us_usc_t19_s1431a.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptII/m__us_usc_t19_s1434.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1433)
 
 ## § 1433. Report of arrival of vessels, vehicles, and aircraft
 
@@ -107,7 +107,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptII/m__us_usc_t19_s1432, 1432a.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptII/m__us_usc_t19_s1434.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1433)
+[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptII/m__us_usc_t19_s1431a.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptII/m__us_usc_t19_s1434.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1433)
 
 ----------
 ----------

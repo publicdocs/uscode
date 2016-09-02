@@ -15,7 +15,7 @@
 
 ## § 3438. Treatment of amendments to antidumping and countervailing duty law
 
-Any amendment enacted after the Agreement enters into force with respect to the United States that is made to—
+    Any amendment enacted after the Agreement enters into force with respect to the United States that is made to—
 
     (1) section 303  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  or title VII of the Tariff Act of 1930 \[[19 U.S.C. 1671][/us/usc/t19/s1671] et seq.\], or any successor statute, or
 
@@ -27,7 +27,7 @@ Any amendment enacted after the Agreement enters into force with respect to the 
 
         (B) indicates the standard of review to be applied,
 
-        shall apply to goods from a NAFTA country only to the extent specified in the amendment.
+    shall apply to goods from a NAFTA country only to the extent specified in the amendment.
 
 ([Pub. L. 103–182, title IV, § 408][/us/pl/103/182/s408], Dec. 8, 1993, [107 Stat. 2140][/us/stat/107/2140].)
 

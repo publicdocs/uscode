@@ -1139,7 +1139,7 @@
 
 >     “(2) with respect to which there would have been no duty if the amendment made by subsection (a) \[adding subsec. (g) of this section\] applied to such entry or withdrawal;
 
->         shall, notwithstanding the provisions of section 514 of the Tariff Act of 1930 \[[section 1514 of this title][/us/usc/t19/s1514]\] or any other provision of law, be liquidated or reliquidated as though such entry or withdrawal had been made on the date of the enactment of this Act.”
+>     shall, notwithstanding the provisions of section 514 of the Tariff Act of 1930 \[[section 1514 of this title][/us/usc/t19/s1514]\] or any other provision of law, be liquidated or reliquidated as though such entry or withdrawal had been made on the date of the enactment of this Act.”
 
  __Entries Made in Connection With Arrivals of Vessels On or After__  __January 5, 1971__  __; Entries in Connection With the Arrival of Shrimp Vessels After__  __January 1, 1969__  __, and Before__  __January 5, 1971__ 
 

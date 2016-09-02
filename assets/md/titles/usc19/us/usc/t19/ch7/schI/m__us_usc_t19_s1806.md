@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t19/ch7/schI/m__us_usc_t19_s1802 to 1805.md) | [Next](./../../../../..//us/usc/t19/ch7/schII/m__us_usc_t19_ch7_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1806)
+[Previous](./../../../../..//us/usc/t19/ch7/schI/m__us_usc_t19_s1801.md) | [Next](./../../../../..//us/usc/t19/ch7/schII/m__us_usc_t19_ch7_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1806)
 
 ## § 1806. Definitions
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (1) Repealed. [Pub. L. 93–618, title VI, § 602(d)][/us/pl/93/618/s602/d], Jan. 3, 1975, [88 Stat. 2072][/us/stat/88/2072].
 
@@ -37,7 +37,7 @@ For purposes of this chapter—
 
 ----------
 
-[Previous](./../../../../..//us/usc/t19/ch7/schI/m__us_usc_t19_s1802 to 1805.md) | [Next](./../../../../..//us/usc/t19/ch7/schII/m__us_usc_t19_ch7_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1806)
+[Previous](./../../../../..//us/usc/t19/ch7/schI/m__us_usc_t19_s1801.md) | [Next](./../../../../..//us/usc/t19/ch7/schII/m__us_usc_t19_ch7_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1806)
 
 ----------
 ----------

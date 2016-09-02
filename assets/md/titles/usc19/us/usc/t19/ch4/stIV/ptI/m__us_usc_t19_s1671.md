@@ -267,7 +267,7 @@
 
 >     “(2) the Agreement on Implementation of Article VI of the General Agreement on Tariffs and Trade (relating to antidumping measures),
 
->         approved by the Congress under section 2(a) of this Act \[[section 2503(a) of this title][/us/usc/t19/s2503/a]\] have entered into force with respect to the United States as of that date.”
+>     approved by the Congress under section 2(a) of this Act \[[section 2503(a) of this title][/us/usc/t19/s2503/a]\] have entered into force with respect to the United States as of that date.”
 
     \[These agreements entered into force with respect to the United States on Dec. 17, 1979.\]
 
@@ -283,19 +283,25 @@
 
 [Pub. L. 96–39, title I, § 102][/us/pl/96/39/s102], July 26, 1979, [93 Stat. 189][/us/stat/93/189], provided that:
 
->     “(a) __Pending Investigations of Bounties or Grants.—If, on the effective date of the application of title VII of the Tariff Act of 1930 \[see Effective Date note set out above\] to imports from a country, there is an investigation in progress under section 303 of that Act \[__  __[__  __section 1303 of this title__  __][/us/usc/t19/s1303]__  __\] as to whether a bounty or grant is being paid or bestowed on imports from such country, then:__ 
+>     “(a) __Pending Investigations of Bounties or Grants.—__ 
+
+>     If, on the effective date of the application of title VII of the Tariff Act of 1930 \[see Effective Date note set out above\] to imports from a country, there is an investigation in progress under section 303 of that Act \[[section 1303 of this title][/us/usc/t19/s1303]\] as to whether a bounty or grant is being paid or bestowed on imports from such country, then:
 
 >         “(1) If the Secretary of the Treasury has not yet made a preliminary determination under section 303 of that Act \[[section 1303 of this title][/us/usc/t19/s1303]\] as to whether a bounty or grant is being paid or bestowed, he shall terminate the investigation under section 303 \[[section 1303 of this title][/us/usc/t19/s1303]\] and the matter previously under investigation shall be subject to this title \[this subtitle\] as if the affirmative determination called for in section 702 of that Act \[[section 1671a of this title][/us/usc/t19/s1671a]\] were made with respect to that matter on the effective date of the application of title VII of that Act \[this subtitle\] to such country.
 
 >         “(2) If the Secretary has made a preliminary determination under such section 303 \[[section 1303 of this title][/us/usc/t19/s1303]\], but not a final determination, as to whether a bounty or grant is being paid or bestowed, he shall terminate the investigation under such section 303 \[[section 1303 of this title][/us/usc/t19/s1303]\] and the matter previously under investigation shall be subject to the provisions of title VII of that Act \[this subtitle\] as if the preliminary determination under section 303 \[[section 1303 of this title][/us/usc/t19/s1303]\] were a preliminary determination under section 703 of that title \[[section 1671b of this title][/us/usc/t19/s1671b]\] made on the effective date of the application of that title \[this subtitle\] to such country.
 
->     “(b) __Pending Investigations of Less-Than-Fair-Value Sales.—If, on the effective date of title VII of the Tariff Act of 1930 \[see Effective Date note set out above\], there is an investigation in progress under the Antidumping Act, 1921 \[sections 160 to 171 of this title\], as to whether imports from a country are being, or are likely to be, sold in the United States or elsewhere at less than fair value, then:__ 
+>     “(b) __Pending Investigations of Less-Than-Fair-Value Sales.—__ 
+
+>     If, on the effective date of title VII of the Tariff Act of 1930 \[see Effective Date note set out above\], there is an investigation in progress under the Antidumping Act, 1921 \[sections 160 to 171 of this title\], as to whether imports from a country are being, or are likely to be, sold in the United States or elsewhere at less than fair value, then:
 
 >         “(1) If the Secretary has not yet made a preliminary determination under the Antidumping Act, 1921 \[sections 160 to 171 of this title\], as to the question of less-than-fair-value sales, he shall terminate the investigation and the United States International Trade Commission shall terminate any investigation under section 201(c)(2) of the Antidumping Act, 1921 \[[section 160(c)(2) of this title][/us/usc/t19/s160/c/2]\], and the matter previously under investigation shall be subject to the provisions of title VII of the Tariff Act of 1930 \[this subtitle\] as if the affirmative determination called for in section 732 \[[section 1673a of this title][/us/usc/t19/s1673a]\] were made with respect to such matter on the effective date of title VII of the Tariff Act of 1930.
 
 >         “(2) If the Secretary has made under the Antidumping Act, 1921 \[sections 160 to 171 of this title\], a preliminary determination, but not a final determination, that imports from such country are being or are likely to be sold in the United States or elsewhere at less than fair value, the investigation shall be terminated and the matter previously under investigation shall be subject to the provisions of title VII of the Tariff Act of 1930 \[this subtitle\] as if the preliminary determination under the Antidumping Act, 1921 \[sections 160 to 171 of this title\], were a preliminary determination under section 733 of that title \[[section 1673b of this title][/us/usc/t19/s1673b]\] made on the effective date of title VII of the Tariff Act of 1930 \[see Effective Date note set out above\].
 
->     “(c) __Pending Investigations of Injury.—If, on the effective date of the application of title VII of the Tariff Act of 1930 \[see Effective Date note set out above\] to imports from a country, the United States International Trade Commission is conducting an investigation under section 303 of the Tariff Act of 1930 \[__  __[__  __section 1303 of this title__  __][/us/usc/t19/s1303]__  __\] or section 201(a) of the Antidumping Act, 1921 \[__  __[__  __section 160(a) of this title__  __][/us/usc/t19/s160/a]__  __\], as to whether an industry in the United States is being, or is likely to be injured, or is prevented from being established, it shall terminate any such investigation and initiate an investigation, under subtitle A or B of title VII of the Tariff Act of 1930 \[part I or II of this subtitle\], which shall be completed within 75 days, and—__ 
+>     “(c) __Pending Investigations of Injury.—__ 
+
+>     If, on the effective date of the application of title VII of the Tariff Act of 1930 \[see Effective Date note set out above\] to imports from a country, the United States International Trade Commission is conducting an investigation under section 303 of the Tariff Act of 1930 \[[section 1303 of this title][/us/usc/t19/s1303]\] or section 201(a) of the Antidumping Act, 1921 \[[section 160(a) of this title][/us/usc/t19/s160/a]\], as to whether an industry in the United States is being, or is likely to be injured, or is prevented from being established, it shall terminate any such investigation and initiate an investigation, under subtitle A or B of title VII of the Tariff Act of 1930 \[part I or II of this subtitle\], which shall be completed within 75 days, and—
 
 >         “(1) treat any final determination of the Secretary of the Treasury under section 303 \[[section 1303 of this title][/us/usc/t19/s1303]\] as a final determination under section 705(a) of the Tariff Act of 1930 \[[section 1671d(a) of this title][/us/usc/t19/s1671d/a]\] and consider the net amount of the bounty or grant estimated or determined under section 303 \[[section 1303 of this title][/us/usc/t19/s1303]\] as the net subsidy amount under subtitle A of that title \[part I of this subtitle\]; and
 
@@ -307,7 +313,9 @@
 
 >     “(a) __Waived Countervailing Duty Orders.—__ 
 
->         “(1) __Notification of commission.—The administering authority shall notify the United States International Trade Commission by__  __January 7, 1980__  __, of any countervailing duty order in effect on__  __January 1, 1980__  __—__ 
+>         “(1) __Notification of commission.—__ 
+
+>         The administering authority shall notify the United States International Trade Commission by January 7, 1980, of any countervailing duty order in effect on January 1, 1980—
 
 >             “(A)
 
@@ -349,7 +357,9 @@
 
 >     “(b) __Other Countervailing Duty Orders.—__ 
 
->         “(1) __Review by commission upon request.—In the case of a countervailing duty order issued under section 303 of the Tariff Act of 1930 (__  __[__  __19 U.S.C. 1303__  __][/us/usc/t19/s1303]__  __)—__ 
+>         “(1) __Review by commission upon request.—__ 
+
+>         In the case of a countervailing duty order issued under section 303 of the Tariff Act of 1930 ([19 U.S.C. 1303][/us/usc/t19/s1303])—
 
 >             “(A) which is not a countervailing duty order to which subsection (a) applies,
 
@@ -375,7 +385,9 @@
 
 >             by reason of imports of the merchandise covered by the countervailing duty order if the order were to be revoked. A negative determination by the Commission under this paragraph shall not be based, in whole or in part, on any export taxes, duties, or other charges levied on the export of merchandise to the United States specifically intended to offset the subsidy received.
 
->         “(3) __Suspension of liquidation; investigation time limits.—Whenever the Commission receives a request under paragraph (1), it shall promptly notify the administering authority and the administering authority shall suspend liquidation of entries of the affected merchandise made on or after the date of receipt of the Commission’s notification, or in the case of butter from Australia, entries of merchandise subject to the assessment of countervailing duties under Treasury Decision 42937, as amended, and collect estimated countervailing duties pending the determination of the Commission. The Commission shall issue its determination in any investigation under this subsection not later than 3 years after the date of commencement of such investigation.__ 
+>         “(3) __Suspension of liquidation; investigation time limits.—__ 
+
+>         Whenever the Commission receives a request under paragraph (1), it shall promptly notify the administering authority and the administering authority shall suspend liquidation of entries of the affected merchandise made on or after the date of receipt of the Commission’s notification, or in the case of butter from Australia, entries of merchandise subject to the assessment of countervailing duties under Treasury Decision 42937, as amended, and collect estimated countervailing duties pending the determination of the Commission. The Commission shall issue its determination in any investigation under this subsection not later than 3 years after the date of commencement of such investigation.
 
 >         “(4) __Effect of determination.—__ 
 
@@ -387,7 +399,9 @@
 
 >             Upon being notified of a negative determination under paragraph (2) by the Commission, the administering authority shall revoke the countervailing duty order then in effect, publish notice thereof in the Federal Register, and refund, without payment of interest, any estimated countervailing duties collected during the period of suspension of liquidation.
 
->     “(c) __All Outstanding Countervailing Duty Orders.—Subject to the provisions of subsections (a) and (b), any countervailing duty order issued under section 303 of the Tariff Act of 1930 \[__  __[__  __section 1303 of this title__  __][/us/usc/t19/s1303]__  __\] which is—__ 
+>     “(c) __All Outstanding Countervailing Duty Orders.—__ 
+
+>     Subject to the provisions of subsections (a) and (b), any countervailing duty order issued under section 303 of the Tariff Act of 1930 \[[section 1303 of this title][/us/usc/t19/s1303]\] which is—
 
 >         “(1) in effect on the effective date of title VII of the Tariff Act of 1930 \[see Effective Date note set out above\] (as added by section 101 of this Act), or
 
@@ -395,9 +409,13 @@
 
 >         shall remain in effect after that date and shall be subject to review under section 751 of the Tariff Act of 1930 \[[section 1675 of this title][/us/usc/t19/s1675]\].
 
->     “(d) __Publication of Notice of Determinations.—Whenever the Commission makes a determination under subsection (a) or (b), it shall publish notice of that determination in the Federal Register and notify the administering authority of its determination.__ 
+>     “(d) __Publication of Notice of Determinations.—__ 
 
->     “(e) __Definitions.—Whenever any term which is defined in section 771 of the Tariff Act of 1930 \[__  __[__  __section 1677 of this title__  __][/us/usc/t19/s1677]__  __\] is used in this section, it has the same meaning as when it is used in title VII of that Act \[this subtitle\].”__ 
+>     Whenever the Commission makes a determination under subsection (a) or (b), it shall publish notice of that determination in the Federal Register and notify the administering authority of its determination.
+
+>     “(e) __Definitions.—__ 
+
+>     Whenever any term which is defined in section 771 of the Tariff Act of 1930 \[[section 1677 of this title][/us/usc/t19/s1677]\] is used in this section, it has the same meaning as when it is used in title VII of that Act \[this subtitle\].”
 
 ----------
 

@@ -15,7 +15,7 @@
 
 ## § 3001. Purposes
 
-The purposes of this chapter are—
+    The purposes of this chapter are—
 
     (1) to approve the International Convention on the Harmonized Commodity Description and Coding System;
 

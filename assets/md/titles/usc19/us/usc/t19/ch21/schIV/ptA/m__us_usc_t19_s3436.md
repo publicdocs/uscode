@@ -15,7 +15,7 @@
 
 ## § 3436. Subsidy negotiations
 
-In the case of any trade agreement which may be entered into by the President with a NAFTA country, the negotiating objectives of the United States with respect to subsidies shall include—
+    In the case of any trade agreement which may be entered into by the President with a NAFTA country, the negotiating objectives of the United States with respect to subsidies shall include—
 
     (1)
 

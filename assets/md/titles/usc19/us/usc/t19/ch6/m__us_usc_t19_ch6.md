@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1751.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1751" data-uslm-ref="/us/usc/t19/s1751">1751.</a>  </td>
 
     <td> Designation of fairs.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1752.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1752" data-uslm-ref="/us/usc/t19/s1752">1752.</a>  </td>
 
     <td> Entry of articles for fairs.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1753.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1753" data-uslm-ref="/us/usc/t19/s1753">1753.</a>  </td>
 
     <td> Disposition of articles entered for fairs.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1754.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1754" data-uslm-ref="/us/usc/t19/s1754">1754.</a>  </td>
 
     <td> Marking, packaging, and labeling requirements.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1755.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1755" data-uslm-ref="/us/usc/t19/s1755">1755.</a>  </td>
 
     <td> Responsibilities of fair operator.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1756.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs1756" data-uslm-ref="/us/usc/t19/s1756">1756.</a>  </td>
 
     <td> Regulations.  </td>
 

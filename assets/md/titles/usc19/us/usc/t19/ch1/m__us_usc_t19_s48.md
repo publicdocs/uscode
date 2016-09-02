@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s46, 47.md) | [Next](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s49.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs48)
+[Previous](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s41.md) | [Next](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s49.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs48)
 
 ## § 48. Repealed. [Aug. 2, 1946, ch. 744, § 2][/us/act/1946-08-02/ch744/s2], [60 Stat. 807][/us/stat/60/807], eff. Nov. 1, 1946
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s46, 47.md) | [Next](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s49.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs48)
+[Previous](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s41.md) | [Next](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s49.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs48)
 
 ----------
 ----------

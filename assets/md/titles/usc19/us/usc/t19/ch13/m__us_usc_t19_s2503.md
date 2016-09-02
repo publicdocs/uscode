@@ -105,7 +105,9 @@
 
 [Pub. L. 96–490, § 1][/us/pl/96/490/s1], Dec. 2, 1980, [94 Stat. 2556][/us/stat/94/2556], provided that:
 
->     “(a) __Approval of Protocol.—In accordance with the provisions of sections 102 and 151 of the Trade Act of 1974 (__  __[__  __19 U.S.C. 2112__  __][/us/usc/t19/s2112]__  __and 2191), the Congress approves—__ 
+>     “(a) __Approval of Protocol.—__ 
+
+>     In accordance with the provisions of sections 102 and 151 of the Trade Act of 1974 ([19 U.S.C. 2112][/us/usc/t19/s2112] and 2191), the Congress approves—
 
 >         “(1) the trade agreement entitled ‘Protocol to the Agreement on Implementation of Article VII of the General Agreement on Tariffs and Trade’ (hereinafter in this Act \[amending [section 1401a of this title][/us/usc/t19/s1401a] and enacting provision set out as a note under [section 1401a of this title][/us/usc/t19/s1401a]\] referred to as the ‘Protocol’) submitted to the Congress on August 1, 1980; and
 
@@ -113,15 +115,21 @@
 
 >     “(b) __Acceptance of Protocol by the President.—__ 
 
->         “(1) __In general.—Subject to paragraph (2), the President may accept the Protocol for the United States.__ 
+>         “(1) __In general.—__ 
+
+>         Subject to paragraph (2), the President may accept the Protocol for the United States.
 
 >         “(2) __Limitation on acceptance of protocol.—__ 
 
 >         Paragraph (3) of section 2(b) of the Trade Agreements Act of 1979 ([19 U.S.C. 2503(b)(3)][/us/usc/t19/s2503/b/3]) (relating to the limitation on acceptance of trade agreements concerning major industrial countries) applies to the Protocol and for such purpose the Protocol shall be treated as a trade agreement that is referred to in such paragraph (3).
 
->     “(c) __Application of Protocol.—Paragraph (2) of section 2(b) of such Act of 1979 (__  __[__  __19 U.S.C. 2503(b)(2)__  __][/us/usc/t19/s2503/b/2]__  __) (relating to the application of agreements between the United States and other countries) applies to the Protocol and for such purpose the Protocol shall be treated as a trade agreement that is accepted by the President under paragraph (1) of such section 2(b).__ 
+>     “(c) __Application of Protocol.—__ 
 
->     “(d) __Relationship of Protocol to United States Law.—Subsections (a), (b), (c), and (f) of section 3 of such Act of 1979 (__  __[__  __19 U.S.C. 2504(a)__  __][/us/usc/t19/s2504/a]__  __, (b), (c), and (f) \[__  __[__  __19 U.S.C. 2504(a)__  __][/us/usc/t19/s2504/a]__  __, (b), (c), and (d)\]) (relating to the priority of domestic law in case of conflict, implementing regulations, statutory changes to implement agreement amendments, and disclaimer regarding the creation of any private right of action or remedy) apply to the Protocol and for such purpose the Protocol shall be treated as a trade agreement approved by the Congress under section 2(a) of such Act of 1979,__  __[__  __19 U.S.C. 2503(a)__  __][/us/usc/t19/s2503/a]__  __.”__ 
+>     Paragraph (2) of section 2(b) of such Act of 1979 ([19 U.S.C. 2503(b)(2)][/us/usc/t19/s2503/b/2]) (relating to the application of agreements between the United States and other countries) applies to the Protocol and for such purpose the Protocol shall be treated as a trade agreement that is accepted by the President under paragraph (1) of such section 2(b).
+
+>     “(d) __Relationship of Protocol to United States Law.—__ 
+
+>     Subsections (a), (b), (c), and (f) of section 3 of such Act of 1979 ([19 U.S.C. 2504(a)][/us/usc/t19/s2504/a], (b), (c), and (f) \[[19 U.S.C. 2504(a)][/us/usc/t19/s2504/a], (b), (c), and (d)\]) (relating to the priority of domestic law in case of conflict, implementing regulations, statutory changes to implement agreement amendments, and disclaimer regarding the creation of any private right of action or remedy) apply to the Protocol and for such purpose the Protocol shall be treated as a trade agreement approved by the Congress under section 2(a) of such Act of 1979, [19 U.S.C. 2503(a)][/us/usc/t19/s2503/a].”
 
     \[The Protocol was accepted for the United States on Dec. 30, 1980.\]
 

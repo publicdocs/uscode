@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptII/m__us_usc_t19_s1439, 1440.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptII/m__us_usc_t19_s1442.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1441)
+[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptII/m__us_usc_t19_s1438.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptII/m__us_usc_t19_s1442.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1441)
 
 ## § 1441. Exceptions to vessel entry and clearance requirements
 
-The following vessels shall not be required to make entry under [section 1434 of this title][/us/usc/t19/s1434] or to obtain clearance under [section 60105 of title 46][/us/usc/t46/s60105]:
+    The following vessels shall not be required to make entry under [section 1434 of this title][/us/usc/t19/s1434] or to obtain clearance under [section 60105 of title 46][/us/usc/t46/s60105]:
 
     (1) Vessels of war and public vessels employed for the conveyance of letters and dispatches and not permitted by the laws of the nations to which they belong to be employed in the transportation of passengers or merchandise in trade.
 
@@ -107,7 +107,7 @@ The following vessels shall not be required to make entry under [section 1434 of
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptII/m__us_usc_t19_s1439, 1440.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptII/m__us_usc_t19_s1442.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1441)
+[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptII/m__us_usc_t19_s1438.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptII/m__us_usc_t19_s1442.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1441)
 
 ----------
 ----------

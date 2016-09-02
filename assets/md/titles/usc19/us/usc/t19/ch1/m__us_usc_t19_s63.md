@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s61, 62.md) | [Next](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s64.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs63)
+[Previous](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s60.md) | [Next](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s64.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs63)
 
 ## § 63. Repealed. [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 636][/us/stat/80/636]
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s61, 62.md) | [Next](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s64.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs63)
+[Previous](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s60.md) | [Next](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s64.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs63)
 
 ----------
 ----------

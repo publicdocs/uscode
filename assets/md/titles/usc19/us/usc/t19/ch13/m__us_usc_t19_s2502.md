@@ -15,7 +15,7 @@
 
 ## § 2502. Congressional statement of purposes
 
-The purposes of this Act are—
+    The purposes of this Act are—
 
     (1) to approve and implement the trade agreements negotiated under the Trade Act of 1974 \[[19 U.S.C. 2101][/us/usc/t19/s2101] et seq.\];
 

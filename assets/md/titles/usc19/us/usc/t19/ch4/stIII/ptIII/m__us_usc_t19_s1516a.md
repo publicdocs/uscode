@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptIII/m__us_usc_t19_s1516.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptIII/m__us_usc_t19_s1517 to 1519.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1516a)
+[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptIII/m__us_usc_t19_s1516.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptIII/m__us_usc_t19_s1520.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1516a)
 
 ## § 1516a. Judicial review in countervailing duty and antidumping duty proceedings
 
@@ -479,7 +479,7 @@
 
  __Amendment of Section__ 
 
-For termination of amendment by [section 501(c) of Pub. L. 100–449][/us/pl/100/449/s501/c], see Effective and Termination Dates of 1988 Amendment note below.
+    For termination of amendment by [section 501(c) of Pub. L. 100–449][/us/pl/100/449/s501/c], see Effective and Termination Dates of 1988 Amendment note below.
 
  __References in Text__ 
 
@@ -661,7 +661,9 @@ For termination of amendment by [section 501(c) of Pub. L. 100–449][/us/pl/100
 
 >     “(b) __Transitional Rules.—__ 
 
->         “(1) __Certain protests, petitions, actions, etc.—The amendments made by this title \[enacting this section and amending sections 1514, 1515, and 1516 of this title and sections 1541, 1582, 2632, 2633, and 2637 of Title 28, Judiciary and Judicial Procedure\] shall not apply with respect to—__ 
+>         “(1) __Certain protests, petitions, actions, etc.—__ 
+
+>         The amendments made by this title \[enacting this section and amending sections 1514, 1515, and 1516 of this title and sections 1541, 1582, 2632, 2633, and 2637 of Title 28, Judiciary and Judicial Procedure\] shall not apply with respect to—
 
 >             “(A) any protest, petition, or notice of desire to contest filed before the effective date \[Jan. 1, 1980\] under section 514, 516(a), or 516(d), respectively, of the Tariff Act of 1930 \[section 1514, 1516(a), or 1516(d) of this title\];
 
@@ -669,11 +671,17 @@ For termination of amendment by [section 501(c) of Pub. L. 100–449][/us/pl/100
 
 >             “(C) any civil action commenced after the effective date \[Jan. 1, 1980\] under such section 2632 if the protest, petition, or notice of desire to contest (under section 514, 516(a), or 516(d), respectively, of the Tariff Act of 1930) on which such action is based was filed before such effective date.
 
->         “(2) __Law to be applied for purposes of such actions.—Notwithstanding the repeal of the Antidumping Act, 1921 \[sections 160 to 171 of this title\], by section 106(a) of this Act, and the amendment of section 303 of the Tariff Act of 1930 \[__  __[__  __section 1303 of this title__  __][/us/usc/t19/s1303]__  __\] by section 103 of this Act, the law in effect on the date of any finding or determination contested in a civil action described in subparagraph (A), (B), or (C) of paragraph (1) shall be applied for purposes of that action.__ 
+>         “(2) __Law to be applied for purposes of such actions.—__ 
 
->         “(3) __Certain countervailing and antidumping duty assessments.—The amendments made by this title \[enacting this section and amending sections 1514, 1515, and 1516 of this title and sections 1541, 1582, 2632, 2633, and 2637 of Title 28, Judiciary and Judicial Procedure\] shall apply with respect to the review of the assessment of, or failure to assess, any countervailing duty or antidumping duty on entries subject to a countervailing duty order or antidumping finding if the assessment is made after the effective date. If no assessment of such duty had been made before the effective date that could serve the party seeking review as the basis of a review of the underlying determination, made by the Secretary of the Treasury or the International Trade Commission before the effective date, on which such order, finding, or lack thereof is based, then the underlying determination shall be subject to review in accordance with the law in effect on the day before the effective date.__ 
+>         Notwithstanding the repeal of the Antidumping Act, 1921 \[sections 160 to 171 of this title\], by section 106(a) of this Act, and the amendment of section 303 of the Tariff Act of 1930 \[[section 1303 of this title][/us/usc/t19/s1303]\] by section 103 of this Act, the law in effect on the date of any finding or determination contested in a civil action described in subparagraph (A), (B), or (C) of paragraph (1) shall be applied for purposes of that action.
 
->         “(4) __Certain countervailing and antidumping duty determinations.—With respect to any preliminary determination or final determination of the Secretary of the Treasury under section 303 of the Tariff Act of 1930 \[__  __[__  __section 1303 of this title__  __][/us/usc/t19/s1303]__  __\] or the Antidumping Act, 1921 \[sections 160 to 171 of this title\], which is treated under section 102 of this Act \[set out as a note under__  __[__  __section 1671 of this title__  __][/us/usc/t19/s1671]__  __\] as if made under section 703(b), 705(a), 733(b), or 735(a) of the Tariff Act of 1930 \[section 1671b(b), 1671d(a), 1673b(b), or 1673d(a) of this title\] (as added by title I of this Act) such determinations shall be subject to judicial review in the same manner and to the same extent as if made on the day before the effective date.”__ 
+>         “(3) __Certain countervailing and antidumping duty assessments.—__ 
+
+>         The amendments made by this title \[enacting this section and amending sections 1514, 1515, and 1516 of this title and sections 1541, 1582, 2632, 2633, and 2637 of Title 28, Judiciary and Judicial Procedure\] shall apply with respect to the review of the assessment of, or failure to assess, any countervailing duty or antidumping duty on entries subject to a countervailing duty order or antidumping finding if the assessment is made after the effective date. If no assessment of such duty had been made before the effective date that could serve the party seeking review as the basis of a review of the underlying determination, made by the Secretary of the Treasury or the International Trade Commission before the effective date, on which such order, finding, or lack thereof is based, then the underlying determination shall be subject to review in accordance with the law in effect on the day before the effective date.
+
+>         “(4) __Certain countervailing and antidumping duty determinations.—__ 
+
+>         With respect to any preliminary determination or final determination of the Secretary of the Treasury under section 303 of the Tariff Act of 1930 \[[section 1303 of this title][/us/usc/t19/s1303]\] or the Antidumping Act, 1921 \[sections 160 to 171 of this title\], which is treated under section 102 of this Act \[set out as a note under [section 1671 of this title][/us/usc/t19/s1671]\] as if made under section 703(b), 705(a), 733(b), or 735(a) of the Tariff Act of 1930 \[section 1671b(b), 1671d(a), 1673b(b), or 1673d(a) of this title\] (as added by title I of this Act) such determinations shall be subject to judicial review in the same manner and to the same extent as if made on the day before the effective date.”
 
  __Transfer of Functions__ 
 
@@ -693,9 +701,17 @@ For termination of amendment by [section 501(c) of Pub. L. 100–449][/us/pl/100
 
     For provision that in the event that subsec. (g)(7)(B) of this section takes effect, the President accepts, as a whole, all decisions of binational panels and extraordinary challenge committees, see section 3 of Ex. Ord. No. 12662, Dec. 31, 1988, 54 F.R. 785, set out as a note under [section 2112 of this title][/us/usc/t19/s2112].
 
+§§ 1517 to 1519. __Repealed.__  __[__  __June 25, 1948, ch. 646, § 39__  __][/us/act/1948-06-25/ch646/s39]__  __,__  __[__  __62 Stat. 992__  __][/us/stat/62/992]__  __, eff.__  __Sept. 1, 1948__ 
+
+    Section 1517, [act June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 517, [46 Stat. 737][/us/stat/46/737], related to frivolous protest or appeal. See [section 2641 of Title 28][/us/usc/t28/s2641], Judiciary and Judicial Procedure.
+
+    Section 1518, acts [June 10, 1890, ch. 407, § 12][/us/act/1890-06-10/ch407/s12], [26 Stat. 136][/us/stat/26/136]; [May 27, 1908, ch. 205, § 3][/us/act/1908-05-27/ch205/s3], [35 Stat. 406][/us/stat/35/406]; [Aug. 5, 1909, ch. 6, § 28][/us/act/1909-08-05/ch6/s28], [36 Stat. 98][/us/stat/36/98]; [May 28, 1926, ch. 411, § 1][/us/act/1926-05-28/ch411/s1], [44 Stat. 669][/us/stat/44/669]; [June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 518, [46 Stat. 737][/us/stat/46/737], related to the judges of the United States Customs Court: their appointment, salary, retirement, vacancies, and powers; the control of the fiscal affairs and of the clerical force of the court; and the division of the court. See sections 251 to 254, 456, 1581, 2071, 2639, and 2640 of Title 28, Judiciary and Judicial Procedure. Last sentence of section, relating to the transfer of unexpended appropriations for salaries to be available for expenditures for the same purposes, was omitted as executed.
+
+    Section 1519, [act June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 519, [46 Stat. 739][/us/stat/46/739], related to publication of Customs Court’s decisions. See [section 255 of Title 28][/us/usc/t28/s255], Judiciary and Judicial Procedure.
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptIII/m__us_usc_t19_s1516.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptIII/m__us_usc_t19_s1517 to 1519.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1516a)
+[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptIII/m__us_usc_t19_s1516.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptIII/m__us_usc_t19_s1520.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1516a)
 
 ----------
 ----------
@@ -850,5 +866,23 @@ For termination of amendment by [section 501(c) of Pub. L. 100–449][/us/pl/100
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
 [/us/usc/t19/s3311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3311
 [/us/usc/t19/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2112
+[/us/act/1948-06-25/ch646/s39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs39
+[/us/stat/62/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F992
+[/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
+[/us/stat/46/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F737
+[/us/usc/t28/s2641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2641
+[/us/act/1890-06-10/ch407/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-06-10%2Fch407%2Fs12
+[/us/stat/26/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F136
+[/us/act/1908-05-27/ch205/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1908-05-27%2Fch205%2Fs3
+[/us/stat/35/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F406
+[/us/act/1909-08-05/ch6/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1909-08-05%2Fch6%2Fs28
+[/us/stat/36/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F98
+[/us/act/1926-05-28/ch411/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-28%2Fch411%2Fs1
+[/us/stat/44/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F669
+[/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
+[/us/stat/46/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F737
+[/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
+[/us/stat/46/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F739
+[/us/usc/t28/s255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs255
 
 

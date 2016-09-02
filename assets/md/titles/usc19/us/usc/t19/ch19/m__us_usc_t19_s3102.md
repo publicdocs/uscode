@@ -15,7 +15,7 @@
 
 ## § 3102. Definitions
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (1) The term “Trade Representative” means the United States Trade Representative.
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s36, 37.md) | [Next](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s39.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs38)
+[Previous](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s30a.md) | [Next](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s39.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs38)
 
 ## § 38. Repealed. [June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 651(a)(1), [46 Stat. 762][/us/stat/46/762], eff. June 18, 1930
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s36, 37.md) | [Next](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s39.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs38)
+[Previous](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s30a.md) | [Next](./../../../..//us/usc/t19/ch1/m__us_usc_t19_s39.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs38)
 
 ----------
 ----------

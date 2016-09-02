@@ -321,21 +321,21 @@
 
  __Amendment of Section__ 
 
-For termination of amendment by [section 107(c) of Pub. L. 112–43][/us/pl/112/43/s107/c], see Effective and Termination Dates of 2011 Amendment note below.
+    For termination of amendment by [section 107(c) of Pub. L. 112–43][/us/pl/112/43/s107/c], see Effective and Termination Dates of 2011 Amendment note below.
 
-For termination of amendment by [section 107(c) of Pub. L. 112–42][/us/pl/112/42/s107/c], see Effective and Termination Dates of 2011 Amendment note below.
+    For termination of amendment by [section 107(c) of Pub. L. 112–42][/us/pl/112/42/s107/c], see Effective and Termination Dates of 2011 Amendment note below.
 
-For termination of amendment by [section 107(c) of Pub. L. 112–41][/us/pl/112/41/s107/c], see Effective and Termination Dates of 2011 Amendment note below.
+    For termination of amendment by [section 107(c) of Pub. L. 112–41][/us/pl/112/41/s107/c], see Effective and Termination Dates of 2011 Amendment note below.
 
-For termination of amendment by [section 107(c) of Pub. L. 110–138][/us/pl/110/138/s107/c], see Effective and Termination Dates of 2007 Amendment note below.
+    For termination of amendment by [section 107(c) of Pub. L. 110–138][/us/pl/110/138/s107/c], see Effective and Termination Dates of 2007 Amendment note below.
 
-For termination of amendment by [section 107(d) of Pub. L. 109–53][/us/pl/109/53/s107/d], see Effective and Termination Dates of 2005 Amendment note below.
+    For termination of amendment by [section 107(d) of Pub. L. 109–53][/us/pl/109/53/s107/d], see Effective and Termination Dates of 2005 Amendment note below.
 
-For termination of amendment by [section 106(c) of Pub. L. 108–286][/us/pl/108/286/s106/c], see Effective and Termination Dates of 2004 Amendment note below.
+    For termination of amendment by [section 106(c) of Pub. L. 108–286][/us/pl/108/286/s106/c], see Effective and Termination Dates of 2004 Amendment note below.
 
-For termination of amendment by [section 107(c) of Pub. L. 108–78][/us/pl/108/78/s107/c], see Effective and Termination Dates of 2003 Amendments note below.
+    For termination of amendment by [section 107(c) of Pub. L. 108–78][/us/pl/108/78/s107/c], see Effective and Termination Dates of 2003 Amendments note below.
 
-For termination of amendment by [section 107(c) of Pub. L. 108–77][/us/pl/108/77/s107/c], see Effective and Termination Dates of 2003 Amendments note below.
+    For termination of amendment by [section 107(c) of Pub. L. 108–77][/us/pl/108/77/s107/c], see Effective and Termination Dates of 2003 Amendments note below.
 
  __References in Text__ 
 

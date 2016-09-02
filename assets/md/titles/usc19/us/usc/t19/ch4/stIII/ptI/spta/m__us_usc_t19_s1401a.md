@@ -309,11 +309,9 @@
 
             Such term does not include merchandise that incorporates or reflects any engineering, development, artwork, design work, or plan or sketch that—
 
-            (I)
+            (I) was supplied free or at reduced cost by the buyer of the merchandise for use in connection with the production or the sale for export to the United States of the merchandise; and
 
-             was supplied free or at reduced cost by the buyer of the merchandise for use in connection with the production or the sale for export to the United States of the merchandise; and
-
-                (II) is not an assist because undertaken within the United States.
+            (II) is not an assist because undertaken within the United States.
 
         (3) The term “packing costs” means the cost of all containers and coverings of whatever nature and of packing, whether for labor or materials, used in placing merchandise in condition, packed ready for shipment to the United States.
 
@@ -341,11 +339,9 @@
 
             Such term does not include merchandise that incorporates or reflects any engineering, development, artwork, design work, or plan or sketch that—
 
-            (I)
+            (I) was supplied free or at reduced cost by the buyer of the merchandise for use in connection with the production or the sale for export to the United States of the merchandise; and
 
-             was supplied free or at reduced cost by the buyer of the merchandise for use in connection with the production or the sale for export to the United States of the merchandise; and
-
-                (II) is not an assist because undertaken within the United States.
+            (II) is not an assist because undertaken within the United States.
 
         (5)
 

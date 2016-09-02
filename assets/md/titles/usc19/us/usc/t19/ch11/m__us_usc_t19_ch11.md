@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2091.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2091" data-uslm-ref="/us/usc/t19/s2091">2091.</a>  </td>
 
     <td> List of stone carvings and wall art; promulgation and revision; criteria for classification.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2092.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2092" data-uslm-ref="/us/usc/t19/s2092">2092.</a>  </td>
 
     <td> Export certification requirement.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2093.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2093" data-uslm-ref="/us/usc/t19/s2093">2093.</a>  </td>
 
     <td> Forfeiture of unlawful imports.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2094.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2094" data-uslm-ref="/us/usc/t19/s2094">2094.</a>  </td>
 
     <td> Rules and regulations.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2095.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft19%2Fs2095" data-uslm-ref="/us/usc/t19/s2095">2095.</a>  </td>
 
     <td> Definitions.  </td>
 

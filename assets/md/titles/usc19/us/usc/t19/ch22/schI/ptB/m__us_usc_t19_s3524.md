@@ -15,7 +15,7 @@
 
 ## § 3524. Consultation and layover requirements for, and effective date of, proclaimed actions
 
-If a provision of this Act provides that the implementation of an action by the President by proclamation is subject to the consultation and layover requirements of this section, such action may be proclaimed only if—
+    If a provision of this Act provides that the implementation of an action by the President by proclamation is subject to the consultation and layover requirements of this section, such action may be proclaimed only if—
 
     (1)
 

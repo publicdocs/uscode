@@ -27,7 +27,7 @@
 
  __Renumbering of Section__ 
 
-For termination of renumbering of section, beginning on Jan. 1, 2014, see Codification and Effective and Termination Dates of 2011 Revival notes below.
+    For termination of renumbering of section, beginning on Jan. 1, 2014, see Codification and Effective and Termination Dates of 2011 Revival notes below.
 
  __Codification__ 
 

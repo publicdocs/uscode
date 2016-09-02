@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s144.md) | [Next](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s145 to 147.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs144a)
+[Previous](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s144.md) | [Next](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s151.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs144a)
 
 ## § 144a. Entry under bond of exhibits of arts, sciences, and industries, and products of soil, mine, and sea
 
@@ -23,9 +23,23 @@
 
     Presidential determination of cultural significance of objects and exhibition or display thereof in the national interest, see [section 2459 of Title 22][/us/usc/t22/s2459], Foreign Relations and Intercourse.
 
+§§ 145 to 147. __Repealed.__  __[__  __June 17, 1930, ch. 497__  __][/us/act/1930-06-17/ch497]__  __, title IV, § 651(a)(1),__  __[__  __46 Stat. 762__  __][/us/stat/46/762]__  __, eff.__  __June 18, 1930__ 
+
+    Section 145, acts [June 26, 1884, ch. 121, § 16][/us/act/1884-06-26/ch121/s16], [23 Stat. 57][/us/stat/23/57]; [June 19, 1886, ch. 421, § 15][/us/act/1886-06-19/ch421/s15], [24 Stat. 82][/us/stat/24/82]; [July 24, 1897, ch. 11, § 14][/us/act/1897-07-24/ch11/s14], [30 Stat. 207][/us/stat/30/207], related to supplies for vessels in foreign trade or trade between Atlantic and Pacific. See [section 1309 of this title][/us/usc/t19/s1309].
+
+    Section 146, [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title III, § 309, [42 Stat. 938][/us/stat/42/938], related to supplies to war vessels free of duty. See [section 1309 of this title][/us/usc/t19/s1309].
+
+    Section 147, [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title III, § 310, [42 Stat. 938][/us/stat/42/938], related to admission free of duty of merchandise of sunken and abandoned vessels. See [section 1310 of this title][/us/usc/t19/s1310].
+
+ __Bonded Warehouses__ 
+
+§§ 148 to 150. __Repealed.__  __[__  __June 17, 1930, ch. 497__  __][/us/act/1930-06-17/ch497]__  __, title IV, § 651(a)(1),__  __[__  __46 Stat. 762__  __][/us/stat/46/762]__  __, eff.__  __June 18, 1930__ 
+
+    Sections, [act Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356], title III, §§ 311, 312, [42 Stat. 938–940][/us/stat/42/938-940], related to bonded manufacturing and smelting warehouses and enforcement provisions. Provisions of Tariff Act of 1930 corresponding to section 148, see [section 1311 of this title][/us/usc/t19/s1311]; section 149, see section 1312; section 150, see section 1312.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s144.md) | [Next](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s145 to 147.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs144a)
+[Previous](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s144.md) | [Next](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s151.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs144a)
 
 ----------
 ----------
@@ -33,5 +47,25 @@
 [/us/act/1932-07-19/ch511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-19%2Fch511
 [/us/stat/47/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F705
 [/us/usc/t22/s2459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2459
+[/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
+[/us/stat/46/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F762
+[/us/act/1884-06-26/ch121/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1884-06-26%2Fch121%2Fs16
+[/us/stat/23/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F23%2F57
+[/us/act/1886-06-19/ch421/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1886-06-19%2Fch421%2Fs15
+[/us/stat/24/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F82
+[/us/act/1897-07-24/ch11/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1897-07-24%2Fch11%2Fs14
+[/us/stat/30/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F207
+[/us/usc/t19/s1309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1309
+[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/stat/42/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F938
+[/us/usc/t19/s1309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1309
+[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/stat/42/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F938
+[/us/usc/t19/s1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1310
+[/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
+[/us/stat/46/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F762
+[/us/act/1922-09-21/ch356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356
+[/us/stat/42/938-940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F938-940
+[/us/usc/t19/s1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1311
 
 

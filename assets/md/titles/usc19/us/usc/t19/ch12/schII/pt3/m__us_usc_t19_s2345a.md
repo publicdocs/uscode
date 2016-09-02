@@ -83,7 +83,7 @@
 
  __Termination of Section__ 
 
-For termination of section beginning on Jan. 1, 2014, with certain exceptions and subject to [section 233(b) of Pub. L. 112–40][/us/pl/112/40/s233/b], see Termination Date note below.
+    For termination of section beginning on Jan. 1, 2014, with certain exceptions and subject to [section 233(b) of Pub. L. 112–40][/us/pl/112/40/s233/b], see Termination Date note below.
 
  __Termination Date__ 
 

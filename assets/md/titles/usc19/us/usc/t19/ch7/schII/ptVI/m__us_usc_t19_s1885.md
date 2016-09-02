@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch7/schII/ptVI/m__us_usc_t19_s1882 to 1884.md) | [Next](./../../../../../..//us/usc/t19/ch7/schII/ptVI/m__us_usc_t19_s1886.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1885)
+[Previous](./../../../../../..//us/usc/t19/ch7/schII/ptVI/m__us_usc_t19_s1881.md) | [Next](./../../../../../..//us/usc/t19/ch7/schII/ptVI/m__us_usc_t19_s1886.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1885)
 
 ## § 1885. Termination of proclamations
 
@@ -27,7 +27,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch7/schII/ptVI/m__us_usc_t19_s1882 to 1884.md) | [Next](./../../../../../..//us/usc/t19/ch7/schII/ptVI/m__us_usc_t19_s1886.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1885)
+[Previous](./../../../../../..//us/usc/t19/ch7/schII/ptVI/m__us_usc_t19_s1881.md) | [Next](./../../../../../..//us/usc/t19/ch7/schII/ptVI/m__us_usc_t19_s1886.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1885)
 
 ----------
 ----------

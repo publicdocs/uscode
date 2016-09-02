@@ -15,7 +15,7 @@
 
 ## § 2394. Firms relocating in foreign countries
 
-Before moving productive facilities from the United States to a foreign country, every firm should—
+    Before moving productive facilities from the United States to a foreign country, every firm should—
 
     (1) provide notice of the move to its employees who are likely to be totally or partially separated as a result of the move at least 60 days before the date of such move, and
 

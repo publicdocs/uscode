@@ -15,7 +15,7 @@
 
 ## § 1673. Imposition of antidumping duties
 
-If—
+    If—
 
     (1) the administering authority determines that a class or kind of foreign merchandise is being, or is likely to be, sold in the United States at less than its fair value, and
 
@@ -35,7 +35,7 @@ If—
 
         by reason of imports of that merchandise or by reason of sales (or the likelihood of sales) of that merchandise for importation,
 
-        then there shall be imposed upon such merchandise an antidumping duty, in addition to any other duty imposed, in an amount equal to the amount by which the normal value exceeds the export price (or the constructed export price) for the merchandise. For purposes of this section and [section 1673d(b)(1) of this title][/us/usc/t19/s1673d/b/1], a reference to the sale of foreign merchandise includes the entering into of any leasing arrangement regarding the merchandise that is equivalent to the sale of the merchandise.
+    then there shall be imposed upon such merchandise an antidumping duty, in addition to any other duty imposed, in an amount equal to the amount by which the normal value exceeds the export price (or the constructed export price) for the merchandise. For purposes of this section and [section 1673d(b)(1) of this title][/us/usc/t19/s1673d/b/1], a reference to the sale of foreign merchandise includes the entering into of any leasing arrangement regarding the merchandise that is equivalent to the sale of the merchandise.
 
 ([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title VII, § 731, as added [Pub. L. 96–39, title I, § 101][/us/pl/96/39/s101], July 26, 1979, [93 Stat. 162][/us/stat/93/162]; amended [Pub. L. 98–573, title VI, § 602(b)][/us/pl/98/573/s602/b], Oct. 30, 1984, [98 Stat. 3024][/us/stat/98/3024]; [Pub. L. 103–465, title II, § 233(a)(1)(A)][/us/pl/103/465/s233/a/1/A], (2)(A)(i), Dec. 8, 1994, [108 Stat. 4898][/us/stat/108/4898].)
 

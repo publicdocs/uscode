@@ -15,7 +15,7 @@
 
 ## § 3724. Assistant United States Trade Representative for African Affairs
 
-It is the sense of the Congress that—
+    It is the sense of the Congress that—
 
     (1) the position of Assistant United States Trade Representative for African Affairs is integral to the United States commitment to increasing United States-sub-Saharan African trade and investment;
 

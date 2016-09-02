@@ -15,7 +15,7 @@
 
 ## § 1681. Definitions
 
-In this subtitle:
+    In this subtitle:
 
     (1) __Secretary__ 
 

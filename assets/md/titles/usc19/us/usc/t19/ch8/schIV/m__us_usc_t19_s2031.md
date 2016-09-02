@@ -15,7 +15,7 @@
 
 ## § 2031. Authorities; delegation of functions; rules and regulations
 
-The head of any agency performing functions authorized by this chapter may—
+    The head of any agency performing functions authorized by this chapter may—
 
     (1) authorize the head of any other agency to perform any of such functions; and
 

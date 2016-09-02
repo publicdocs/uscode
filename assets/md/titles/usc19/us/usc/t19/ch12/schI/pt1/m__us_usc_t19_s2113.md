@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch12/schI/pt1/m__us_usc_t19_s2112.md) | [Next](./../../../../../..//us/usc/t19/ch12/schI/pt1/m__us_usc_t19_s2114.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2113)
+[Previous](./../../../../../..//us/usc/t19/ch12/schI/pt1/m__us_usc_t19_s9.md) | [Next](./../../../../../..//us/usc/t19/ch12/schI/pt1/m__us_usc_t19_s2114.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2113)
 
 ## § 2113. Overall negotiating objective
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch12/schI/pt1/m__us_usc_t19_s2112.md) | [Next](./../../../../../..//us/usc/t19/ch12/schI/pt1/m__us_usc_t19_s2114.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2113)
+[Previous](./../../../../../..//us/usc/t19/ch12/schI/pt1/m__us_usc_t19_s9.md) | [Next](./../../../../../..//us/usc/t19/ch12/schI/pt1/m__us_usc_t19_s2114.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2113)
 
 ----------
 ----------

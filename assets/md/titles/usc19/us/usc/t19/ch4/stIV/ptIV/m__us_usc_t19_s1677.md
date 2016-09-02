@@ -15,7 +15,7 @@
 
 ## § 1677. Definitions; special rules
 
-For purposes of this subtitle—
+    For purposes of this subtitle—
 
     (1) __Administering authority__ 
 
@@ -203,7 +203,7 @@ For purposes of this subtitle—
 
         For purposes of this paragraph and paragraph (5B), any reference to an enterprise or industry is a reference to a foreign enterprise or foreign industry and includes a group of such enterprises or industries.
 
-    (5B) Categories of noncountervailable subsidies
+        (5B) Categories of noncountervailable subsidies
 
         (A) __In general__ 
 
@@ -855,7 +855,7 @@ For purposes of this subtitle—
 
  __Amendment of Section__ 
 
-For termination of amendment by [section 501(c) of Pub. L. 100–449][/us/pl/100/449/s501/c], see Effective and Termination Dates of 1988 Amendment note below.
+    For termination of amendment by [section 501(c) of Pub. L. 100–449][/us/pl/100/449/s501/c], see Effective and Termination Dates of 1988 Amendment note below.
 
  __References in Text__ 
 

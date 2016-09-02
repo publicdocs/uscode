@@ -15,7 +15,7 @@
 
 ## § 2906. Definitions
 
-For purposes of this chapter:
+    For purposes of this chapter:
 
     (1) The term “distortion” includes, but is not limited to, a subsidy.
 

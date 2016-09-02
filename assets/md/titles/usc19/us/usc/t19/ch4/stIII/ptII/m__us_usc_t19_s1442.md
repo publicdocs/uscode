@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptII/m__us_usc_t19_s1441.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptII/m__us_usc_t19_s1443 to 1445.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1442)
+[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptII/m__us_usc_t19_s1441.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptII/m__us_usc_t19_s1446.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1442)
 
 ## § 1442. Residue cargo
 
@@ -27,9 +27,17 @@
 
     Special provisions concerning Astoria and Portland were contained in R.S. §§ 2588 and 2590, prior to repeal by [section 642 of the act of Sept. 21, 1922, ch. 356][/us/act/1922-09-21/ch356/s642].
 
+§§ 1443 to 1445. __Repealed.__  __[__  __Pub. L. 103–182, title VI, § 690(b)(6)__  __][/us/pl/103/182/s690/b/6]__  __,__  __Dec. 8, 1993__  __,__  __[__  __107 Stat. 2223__  __][/us/stat/107/2223]__ 
+
+    Section 1443, acts [June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 443, [46 Stat. 713][/us/stat/46/713]; June 2, 1970, [Pub. L. 91–271, title III, § 301(b)][/us/pl/91/271/s301/b], [84 Stat. 287][/us/stat/84/287], related to manifests and permits for merchandise arriving for delivery in different districts or ports of entry.
+
+    Section 1444, acts [June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 444, [46 Stat. 713][/us/stat/46/713]; June 2, 1970, [Pub. L. 91–271, title III, § 301(b)][/us/pl/91/271/s301/b], [84 Stat. 287][/us/stat/84/287], required master to report his arrival at another port to a customs officer within twenty-four hours and to produce copies of permit and manifest.
+
+    Section 1445, acts [June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 445, [46 Stat. 713][/us/stat/46/713]; June 2, 1970, [Pub. L. 91–271, title III, § 301(b)][/us/pl/91/271/s301/b], [84 Stat. 287][/us/stat/84/287], set forth penalties for failure of master to obtain or produce permit or manifest.
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptII/m__us_usc_t19_s1441.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptII/m__us_usc_t19_s1443 to 1445.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1442)
+[Previous](./../../../../../..//us/usc/t19/ch4/stIII/ptII/m__us_usc_t19_s1441.md) | [Next](./../../../../../..//us/usc/t19/ch4/stIII/ptII/m__us_usc_t19_s1446.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1442)
 
 ----------
 ----------
@@ -42,5 +50,19 @@
 [/us/stat/42/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F952
 [/us/usc/t19/s1623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1623
 [/us/act/1922-09-21/ch356/s642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch356%2Fs642
+[/us/pl/103/182/s690/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs690%2Fb%2F6
+[/us/stat/107/2223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2223
+[/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
+[/us/stat/46/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F713
+[/us/pl/91/271/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs301%2Fb
+[/us/stat/84/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F287
+[/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
+[/us/stat/46/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F713
+[/us/pl/91/271/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs301%2Fb
+[/us/stat/84/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F287
+[/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
+[/us/stat/46/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F713
+[/us/pl/91/271/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F271%2Fs301%2Fb
+[/us/stat/84/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F287
 
 

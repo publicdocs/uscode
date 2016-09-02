@@ -15,7 +15,7 @@
 
 ## § 1709. Definitions
 
-When used in this Act:
+    When used in this Act:
 
     (a) The term “United States”, when used in a geographical sense, includes all Territories and possessions of the United States, except the Virgin Islands, the Canal Zone, American Samoa, Wake Island, Midway Islands, Kingman Reef, Johnston Island, and the island of Guam.
 

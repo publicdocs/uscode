@@ -55,7 +55,7 @@
 
  __Termination of Section and Repeal__ 
 
-For termination of section and termination of repeal of former section 2344 beginning on Jan. 1, 2014, with certain exceptions and subject to [section 233(b) of Pub. L. 112–40][/us/pl/112/40/s233/b], see Codification, Prior Provisions, and Effective and Termination Dates notes below.
+    For termination of section and termination of repeal of former section 2344 beginning on Jan. 1, 2014, with certain exceptions and subject to [section 233(b) of Pub. L. 112–40][/us/pl/112/40/s233/b], see Codification, Prior Provisions, and Effective and Termination Dates notes below.
 
  __References in Text__ 
 

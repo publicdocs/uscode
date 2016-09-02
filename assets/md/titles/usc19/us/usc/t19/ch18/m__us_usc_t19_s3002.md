@@ -15,7 +15,7 @@
 
 ## § 3002. Definitions
 
-As used in this chapter:
+    As used in this chapter:
 
     (1) The term “Commission” means the United States International Trade Commission.
 

@@ -15,7 +15,7 @@
 
 ## § 3910. Kimberley Process Implementation Coordinating Committee
 
-The President shall establish a Kimberley Process Implementation Coordinating Committee to coordinate the implementation of this chapter. The Committee shall be composed of the following individuals or their designees:
+    The President shall establish a Kimberley Process Implementation Coordinating Committee to coordinate the implementation of this chapter. The Committee shall be composed of the following individuals or their designees:
 
     (1) The Secretary of the Treasury and the Secretary of State, who shall be co-chairpersons.
 

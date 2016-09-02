@@ -81,13 +81,13 @@
 
                 In the case of a country described in subparagraph (C)(i), the provisions of subparagraph (C) shall not apply after the date that is 8 years after the date the WTO Agreement enters into force.
 
-                (ii) __Special rule for subparagraph__ 
+                (ii) __Special rule for subparagraph (C)(ii) countries.—__ 
+
+                In the case of a country described in subparagraph (C)(ii), the provisions of subparagraph (C) shall not apply after the earlier of—
 
                     (I) the date that is 8 years after the date the WTO Agreement enters into force, or
 
                     (II) the date on which the Trade Representative notifies the administering authority that such country is providing an export subsidy.
-
-            (C)(ii) countries.—In the case of a country described in subparagraph (C)(ii), the provisions of subparagraph (C) shall not apply after the earlier of—
 
         (5) __Notification of article 8 violation.—__ 
 

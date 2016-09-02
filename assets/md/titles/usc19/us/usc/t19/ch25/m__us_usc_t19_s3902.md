@@ -15,7 +15,7 @@
 
 ## § 3902. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) __Appropriate congressional committees__ 
 

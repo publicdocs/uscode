@@ -19,7 +19,7 @@
 
  __Termination of Repeal__ 
 
-For termination of repeal of section beginning on Jan. 1, 2014, with certain exceptions and subject to [section 233(b) of Pub. L. 112–40][/us/pl/112/40/s233/b], see Effective and Termination Dates of Repeal notes below.
+    For termination of repeal of section beginning on Jan. 1, 2014, with certain exceptions and subject to [section 233(b) of Pub. L. 112–40][/us/pl/112/40/s233/b], see Effective and Termination Dates of Repeal notes below.
 
  __Effective and Termination Dates of Repeal__ 
 

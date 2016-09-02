@@ -15,13 +15,13 @@
 
 ## § 1565. Cartage
 
-The cartage of merchandise entered for warehouse shall be done by—
+    The cartage of merchandise entered for warehouse shall be done by—
 
     (1) cartmen appointed and licensed by the Customs Service; or
 
     (2) carriers designated under [section 1551 of this title][/us/usc/t19/s1551] to carry bonded merchandise;
 
-        who shall give bond, in a penal sum to be fixed by the Customs Service, for the protection of the Government against any loss of, or damage to, the merchandise while being so carted. The cartage of merchandise designated for examination at the appraiser’s stores and of merchandise taken into custody by the customs officer as unclaimed shall be performed by such persons as may be designated, under contract or otherwise, by the Secretary of the Treasury, and under such regulations for the protection of the owners thereof and of the revenue as the Secretary of the Treasury shall prescribe.
+    who shall give bond, in a penal sum to be fixed by the Customs Service, for the protection of the Government against any loss of, or damage to, the merchandise while being so carted. The cartage of merchandise designated for examination at the appraiser’s stores and of merchandise taken into custody by the customs officer as unclaimed shall be performed by such persons as may be designated, under contract or otherwise, by the Secretary of the Treasury, and under such regulations for the protection of the owners thereof and of the revenue as the Secretary of the Treasury shall prescribe.
 
 ([June 17, 1930, ch. 497][/us/act/1930-06-17/ch497], title IV, § 565, [46 Stat. 747][/us/stat/46/747]; [Pub. L. 91–271, title III, § 301(x)][/us/pl/91/271/s301/x], June 2, 1970, [84 Stat. 290][/us/stat/84/290]; [Pub. L. 103–182, title VI, § 666][/us/pl/103/182/s666], Dec. 8, 1993, [107 Stat. 2215][/us/stat/107/2215].)
 

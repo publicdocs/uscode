@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t19/ch8/schIII/m__us_usc_t19_ch8_schIII.md) | [Next](./../../../../..//us/usc/t19/ch8/schIII/m__us_usc_t19_s2022, 2023.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2021)
+[Previous](./../../../../..//us/usc/t19/ch8/schIII/m__us_usc_t19_ch8_schIII.md) | [Next](./../../../../..//us/usc/t19/ch8/schIII/m__us_usc_t19_s2024.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2021)
 
 ## § 2021. General authority
 
@@ -31,9 +31,17 @@
 
     The words “subject to [section 2022 of this title][/us/usc/t19/s2022]” omitted in view of the omission of [section 2022 of this title][/us/usc/t19/s2022], which provided special authority after Oct. 21, 1965, and before July 1, 1968, for filing of petitions for determination by the President of eligibility to apply for adjustment assistance.
 
+§§ 2022, 2023. __Omitted__ 
+
+ __Codification__ 
+
+    Section 2022, [Pub. L. 89–283, title III, § 302][/us/pl/89/283/s302], Oct. 21, 1965, [79 Stat. 1018][/us/stat/79/1018]; [Pub. L. 95–598, title III, § 316][/us/pl/95/598/s316], Nov. 6, 1978, [92 Stat. 2678][/us/stat/92/2678], set forth procedures for Presidential certification of petitions filed by firms or group of workers for determination of eligibility to apply for adjustment assistance after the 90th day after Oct. 21, 1965, and before July 1, 1968. See [section 2021 of this title][/us/usc/t19/s2021] for general authority for filing of petition.
+
+    Section 2023, [Pub. L. 89–283, title III, § 303][/us/pl/89/283/s303], Oct. 21, 1965, [79 Stat. 1021][/us/stat/79/1021], required the President, at the time he transmits an agreement under [section 2012(d)(1) of this title][/us/usc/t19/s2012/d/1], to recommend legislation concerning adjustment assistance to firms and workers in light of the anticipated economic impact of the reduction of duties provided for by such agreement.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t19/ch8/schIII/m__us_usc_t19_ch8_schIII.md) | [Next](./../../../../..//us/usc/t19/ch8/schIII/m__us_usc_t19_s2022, 2023.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2021)
+[Previous](./../../../../..//us/usc/t19/ch8/schIII/m__us_usc_t19_ch8_schIII.md) | [Next](./../../../../..//us/usc/t19/ch8/schIII/m__us_usc_t19_s2024.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2021)
 
 ----------
 ----------
@@ -51,5 +59,13 @@
 [/us/usc/t19/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2012
 [/us/usc/t19/s2022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2022
 [/us/usc/t19/s2022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2022
+[/us/pl/89/283/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F283%2Fs302
+[/us/stat/79/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1018
+[/us/pl/95/598/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs316
+[/us/stat/92/2678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2678
+[/us/usc/t19/s2021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2021
+[/us/pl/89/283/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F283%2Fs303
+[/us/stat/79/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1021
+[/us/usc/t19/s2012/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2012%2Fd%2F1
 
 

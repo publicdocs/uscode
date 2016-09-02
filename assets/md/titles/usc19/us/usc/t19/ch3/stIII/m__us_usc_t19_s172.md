@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s160 to 171.md) | [Next](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s173.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs172)
+[Previous](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s153.md) | [Next](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s173.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs172)
 
 ## § 172. Omitted
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s160 to 171.md) | [Next](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s173.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs172)
+[Previous](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s153.md) | [Next](./../../../../..//us/usc/t19/ch3/stIII/m__us_usc_t19_s173.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs172)
 
 ----------
 ----------
