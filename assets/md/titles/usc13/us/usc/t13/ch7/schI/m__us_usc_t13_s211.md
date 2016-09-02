@@ -15,13 +15,13 @@
 
 ## § 211. Receiving or securing compensation for appointment of employees
 
-Whoever—
+    Whoever—
 
     (1) receives or secures to himself any fee, reward, or compensation as a consideration for the appointment of any person as supervisor, enumerator, clerk, or other officer or employee of the Department of Commerce or bureau or agency thereof, referred to in subchapter II of chapter 1 of this title; or
 
     (2) in any way receives or secures to himself any part of the compensation paid to any person so appointed—
 
-        shall be fined not more than $3,000 or imprisoned not more than five years, or both.
+    shall be fined not more than $3,000 or imprisoned not more than five years, or both.
 
 ([Aug. 31, 1954, ch. 1158][/us/act/1954-08-31/ch1158], [68 Stat. 1022][/us/stat/68/1022].)
 

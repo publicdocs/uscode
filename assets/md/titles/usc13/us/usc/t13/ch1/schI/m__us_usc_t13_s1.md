@@ -15,7 +15,7 @@
 
 ## § 1. Definitions
 
-As used in this title, unless the context requires another meaning or unless it is otherwise provided—
+    As used in this title, unless the context requires another meaning or unless it is otherwise provided—
 
     (1) “Bureau” means the Bureau of the Census;
 

@@ -33,7 +33,7 @@ SUBCHAPTER I—COTTON  </td>
 
   <tr>
 
-    <td> 41.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs41" data-uslm-ref="/us/usc/t13/s41">41.</a>  </td>
 
     <td> Collection and publication.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—COTTON  </td>
 
   <tr>
 
-    <td> 42.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs42" data-uslm-ref="/us/usc/t13/s42">42.</a>  </td>
 
     <td> Contents of reports; number of bales of linter; distribution; publication by Department of Agriculture.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—COTTON  </td>
 
   <tr>
 
-    <td> 43.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs43" data-uslm-ref="/us/usc/t13/s43">43.</a>  </td>
 
     <td> Records and reports of cotton ginners.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—COTTON  </td>
 
   <tr>
 
-    <td> 44.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs44" data-uslm-ref="/us/usc/t13/s44">44.</a>  </td>
 
     <td> Foreign cotton statistics.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—COTTON  </td>
 
   <tr>
 
-    <td> 45.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs45" data-uslm-ref="/us/usc/t13/s45">45.</a>  </td>
 
     <td> Simultaneous publication of cotton reports.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—OILSEEDS, NUTS, AND KERNELS; FATS, OILS, AND GREASES  </td>
 
   <tr>
 
-    <td> 61.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs61" data-uslm-ref="/us/usc/t13/s61">61.</a>  </td>
 
     <td> Collection and publication.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—OILSEEDS, NUTS, AND KERNELS; FATS, OILS, AND GREASES  </td>
 
   <tr>
 
-    <td> 62.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs62" data-uslm-ref="/us/usc/t13/s62">62.</a>  </td>
 
     <td> Additional statistics.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—OILSEEDS, NUTS, AND KERNELS; FATS, OILS, AND GREASES  </td>
 
   <tr>
 
-    <td> 63.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs63" data-uslm-ref="/us/usc/t13/s63">63.</a>  </td>
 
     <td> Duplicate collection of statistics prohibited; access to available statistics.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER III—APPAREL AND TEXTILES  </td>
 
   <tr>
 
-    <td> 81.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs81" data-uslm-ref="/us/usc/t13/s81">81.</a>  </td>
 
     <td> Statistics on apparel and textile industries.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER IV—QUARTERLY FINANCIAL STATISTICS  </td>
 
   <tr>
 
-    <td> 91.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs91" data-uslm-ref="/us/usc/t13/s91">91.</a>  </td>
 
     <td> Collection and publication.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER V—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs101" data-uslm-ref="/us/usc/t13/s101">101.</a>  </td>
 
     <td> Defective, dependent, and delinquent classes; crime.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER V—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs102" data-uslm-ref="/us/usc/t13/s102">102.</a>  </td>
 
     <td> Religion.  </td>
 
@@ -161,15 +161,21 @@ SUBCHAPTER V—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs103" data-uslm-ref="/us/usc/t13/s103">103.</a>  </td>
 
     <td> Designation of reports.  </td>
 
   </tr>
 
-</table>
+  <tr>
 
- __Amendments__ 
+    <td> 
+
+Amendments  </td>
+
+  </tr>
+
+</table>
 
     1986—[Pub. L. 99–467, § 1(b)][/us/pl/99/467/s1/b], Oct. 14, 1986, [100 Stat. 1192][/us/stat/100/1192], redesignated items for subchapters III and IV as subchapters IV and V, respectively, and added items for subchapter III and section 81.
 

@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs1" data-uslm-ref="/us/usc/t13/s1">1.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs2" data-uslm-ref="/us/usc/t13/s2">2.</a>  </td>
 
     <td> Bureau of the Census.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs3" data-uslm-ref="/us/usc/t13/s3">3.</a>  </td>
 
     <td> Seal.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs4" data-uslm-ref="/us/usc/t13/s4">4.</a>  </td>
 
     <td> Functions of Secretary; regulations; delegation.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs5" data-uslm-ref="/us/usc/t13/s5">5.</a>  </td>
 
     <td> Questionnaires; number, form, and scope of inquiries.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 6.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs6" data-uslm-ref="/us/usc/t13/s6">6.</a>  </td>
 
     <td> Information from other Federal departments and agencies; acquisition of reports from other governmental and private sources.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 7.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs7" data-uslm-ref="/us/usc/t13/s7">7.</a>  </td>
 
     <td> Printing; requisitions upon Public Printer; publication of bulletins and reports.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 8.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs8" data-uslm-ref="/us/usc/t13/s8">8.</a>  </td>
 
     <td> Authenticated transcripts or copies of certain returns; other data; restriction on use; disposition of fees received.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 9.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs9" data-uslm-ref="/us/usc/t13/s9">9.</a>  </td>
 
     <td> Information as confidential; exception.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 10. <sup>[1]</sup>  <sup><sup> 1 Section repealed by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F86%2F682" data-uslm-ref="/us/pl/86/682">Pub. L. 86–682</a> without corresponding amendment of chapter analysis. </sup></sup>   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs10" data-uslm-ref="/us/usc/t13/s10">10.</a> <sup>[1]</sup>  <sup><sup> 1 Section repealed by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F86%2F682" data-uslm-ref="/us/pl/86/682">Pub. L. 86–682</a> without corresponding amendment of chapter analysis. </sup></sup>   </td>
 
     <td> Mail matter.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 11.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs11" data-uslm-ref="/us/usc/t13/s11">11.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 12.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs12" data-uslm-ref="/us/usc/t13/s12">12.</a>  </td>
 
     <td> Mechanical and electronic development.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 13.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs13" data-uslm-ref="/us/usc/t13/s13">13.</a>  </td>
 
     <td> Procurement of professional services.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> [14.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs14" data-uslm-ref="/us/usc/t13/s14">14.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 15.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs15" data-uslm-ref="/us/usc/t13/s15">15.</a>  </td>
 
     <td> Leases for 1980 decennial census.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 16.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs16" data-uslm-ref="/us/usc/t13/s16">16.</a>  </td>
 
     <td> Address information reviewed by local governments. <sup>[2]</sup>  <sup><sup> 2 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—OFFICERS AND EMPLOYEES  </td>
 
   <tr>
 
-    <td> 21.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs21" data-uslm-ref="/us/usc/t13/s21">21.</a>  </td>
 
     <td> Director of the Census; duties.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER II—OFFICERS AND EMPLOYEES  </td>
 
   <tr>
 
-    <td> 22.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs22" data-uslm-ref="/us/usc/t13/s22">22.</a>  </td>
 
     <td> Qualifications of permanent personnel.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER II—OFFICERS AND EMPLOYEES  </td>
 
   <tr>
 
-    <td> 23.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs23" data-uslm-ref="/us/usc/t13/s23">23.</a>  </td>
 
     <td> Additional officers and employees.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER II—OFFICERS AND EMPLOYEES  </td>
 
   <tr>
 
-    <td> 24.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs24" data-uslm-ref="/us/usc/t13/s24">24.</a>  </td>
 
     <td> Special agents, supervisors, supervisors’ clerks, enumerators, and interpreters; compensation; details. <sup>[3]</sup>  <sup><sup> 3 Section catchline amended by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F86%2F769" data-uslm-ref="/us/pl/86/769">Pub. L. 86–769</a> without corresponding amendment of chapter analysis. </sup></sup>   </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER II—OFFICERS AND EMPLOYEES  </td>
 
   <tr>
 
-    <td> 25.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs25" data-uslm-ref="/us/usc/t13/s25">25.</a>  </td>
 
     <td> Duties of supervisors, enumerators, and other employees.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER II—OFFICERS AND EMPLOYEES  </td>
 
   <tr>
 
-    <td> 26.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs26" data-uslm-ref="/us/usc/t13/s26">26.</a>  </td>
 
     <td> Transportation by contract.  </td>
 

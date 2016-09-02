@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs401" data-uslm-ref="/us/usc/t13/s401">401.</a>  </td>
 
     <td> Exchange of census information with Bureau of Economic Analysis.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 402.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs402" data-uslm-ref="/us/usc/t13/s402">402.</a>  </td>
 
     <td> Providing business data to Designated Statistical Agencies.  </td>
 

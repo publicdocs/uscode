@@ -33,7 +33,7 @@ SUBCHAPTER I—MANUFACTURES, MINERAL INDUSTRIES, AND OTHER BUSINESSES  </td>
 
   <tr>
 
-    <td> 131.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs131" data-uslm-ref="/us/usc/t13/s131">131.</a>  </td>
 
     <td> Collection and publication; five-year periods.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—MANUFACTURES, MINERAL INDUSTRIES, AND OTHER BUSINESSES  </td>
 
   <tr>
 
-    <td> 132.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs132" data-uslm-ref="/us/usc/t13/s132">132.</a>  </td>
 
     <td> Controlling law; effect on other agencies.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER II—POPULATION, HOUSING, AND UNEMPLOYMENT  </td>
 
   <tr>
 
-    <td> 141.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs141" data-uslm-ref="/us/usc/t13/s141">141.</a>  </td>
 
     <td> Population and other census information.  </td>
 
@@ -65,7 +65,9 @@ SUBCHAPTER II—POPULATION, HOUSING, AND UNEMPLOYMENT  </td>
 
   <tr>
 
-    <td> [142 to 146. Repealed.]  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs142" data-uslm-ref="/us/usc/t13/s142">142</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs146" data-uslm-ref="/us/usc/t13/s146">146.</a>  </td>
+
+    <td> Repealed.]  </td>
 
   </tr>
 
@@ -79,7 +81,7 @@ SUBCHAPTER III—GOVERNMENTS  </td>
 
   <tr>
 
-    <td> 161.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs161" data-uslm-ref="/us/usc/t13/s161">161.</a>  </td>
 
     <td> Quinquennial censuses; inclusion of certain data.  </td>
 
@@ -87,7 +89,7 @@ SUBCHAPTER III—GOVERNMENTS  </td>
 
   <tr>
 
-    <td> [162.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs162" data-uslm-ref="/us/usc/t13/s162">162.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -95,7 +97,7 @@ SUBCHAPTER III—GOVERNMENTS  </td>
 
   <tr>
 
-    <td> 163.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs163" data-uslm-ref="/us/usc/t13/s163">163.</a>  </td>
 
     <td> Authority of other agencies. <sup>[1]</sup>  <sup><sup> 1 Item 163 editorially inserted because section 163 is still in existence. Item 163 was eliminated in the general amendment of analysis by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F85%2F207%2Fs7" data-uslm-ref="/us/pl/85/207/s7">Pub. L. 85–207, § 7</a>, Aug. 28, 1957, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fstat%2F71%2F482" data-uslm-ref="/us/stat/71/482">71 Stat. 482</a>. </sup></sup>   </td>
 
@@ -111,7 +113,7 @@ SUBCHAPTER IV—INTERIM CURRENT DATA  </td>
 
   <tr>
 
-    <td> 181.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs181" data-uslm-ref="/us/usc/t13/s181">181.</a>  </td>
 
     <td> Population.  </td>
 
@@ -119,7 +121,7 @@ SUBCHAPTER IV—INTERIM CURRENT DATA  </td>
 
   <tr>
 
-    <td> 182.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs182" data-uslm-ref="/us/usc/t13/s182">182.</a>  </td>
 
     <td> Surveys.  </td>
 
@@ -127,7 +129,7 @@ SUBCHAPTER IV—INTERIM CURRENT DATA  </td>
 
   <tr>
 
-    <td> 183.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs183" data-uslm-ref="/us/usc/t13/s183">183.</a>  </td>
 
     <td> Use of most recent population data.  </td>
 
@@ -135,7 +137,7 @@ SUBCHAPTER IV—INTERIM CURRENT DATA  </td>
 
   <tr>
 
-    <td> 184.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs184" data-uslm-ref="/us/usc/t13/s184">184.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -151,7 +153,7 @@ SUBCHAPTER V—GEOGRAPHIC SCOPE, PRELIMINARY AND SUPPLEMENTAL STATISTICS, AND US
 
   <tr>
 
-    <td> 191.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs191" data-uslm-ref="/us/usc/t13/s191">191.</a>  </td>
 
     <td> Geographic scope of censuses.  </td>
 
@@ -159,7 +161,7 @@ SUBCHAPTER V—GEOGRAPHIC SCOPE, PRELIMINARY AND SUPPLEMENTAL STATISTICS, AND US
 
   <tr>
 
-    <td> 193.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs193" data-uslm-ref="/us/usc/t13/s193">193.</a>  </td>
 
     <td> Preliminary and supplemental statistics.  </td>
 
@@ -167,7 +169,7 @@ SUBCHAPTER V—GEOGRAPHIC SCOPE, PRELIMINARY AND SUPPLEMENTAL STATISTICS, AND US
 
   <tr>
 
-    <td> 195.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs195" data-uslm-ref="/us/usc/t13/s195">195.</a>  </td>
 
     <td> Use of sampling.  </td>
 
@@ -175,7 +177,7 @@ SUBCHAPTER V—GEOGRAPHIC SCOPE, PRELIMINARY AND SUPPLEMENTAL STATISTICS, AND US
 
   <tr>
 
-    <td> 196.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs196" data-uslm-ref="/us/usc/t13/s196">196.</a>  </td>
 
     <td> Special censuses.  </td>
 

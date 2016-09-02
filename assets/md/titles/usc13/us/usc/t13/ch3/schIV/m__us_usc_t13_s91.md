@@ -69,7 +69,7 @@
 
  __Termination of Section__ 
 
-For termination of section by [section 4(b) of Pub. L. 97–454][/us/pl/97/454/s4/b], see Effective and Termination Date note below.
+    For termination of section by [section 4(b) of Pub. L. 97–454][/us/pl/97/454/s4/b], see Effective and Termination Date note below.
 
  __References in Text__ 
 

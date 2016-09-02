@@ -15,7 +15,7 @@
 
 ## § 41. Collection and publication
 
-The Secretary shall collect and publish statistics concerning the—
+    The Secretary shall collect and publish statistics concerning the—
 
     (1) amount of cotton ginned;
 

@@ -13,11 +13,11 @@
 
 ~~Previous~~ | [Next](./../../..//us/usc/t13/ch1/m__us_usc_t13_ch1.md) | [Root of Title](./../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13)
 
-# 
-
-Title 13—CENSUS
+# Title 13—CENSUS
 
 This title was enacted by [act Aug. 31, 1954, ch. 1158][/us/act/1954-08-31/ch1158], [68 Stat. 1012][/us/stat/68/1012]
+
+Current through 113–44
 
 <table>
 
@@ -33,61 +33,61 @@ This title was enacted by [act Aug. 31, 1954, ch. 1158][/us/act/1954-08-31/ch115
 
   <tr>
 
-    <td> 1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fch1" data-uslm-ref="/us/usc/t13/ch1">1.</a>  </td>
 
     <td> Administration  </td>
 
-    <td> 1  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs1" data-uslm-ref="/us/usc/t13/s1">1</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fch3" data-uslm-ref="/us/usc/t13/ch3">3.</a>  </td>
 
     <td> Collection and Publication of Statistics  </td>
 
-    <td> 41  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs41" data-uslm-ref="/us/usc/t13/s41">41</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fch5" data-uslm-ref="/us/usc/t13/ch5">5.</a>  </td>
 
     <td> Censuses  </td>
 
-    <td> 131  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs131" data-uslm-ref="/us/usc/t13/s131">131</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 7.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fch7" data-uslm-ref="/us/usc/t13/ch7">7.</a>  </td>
 
     <td> Offenses and Penalties  </td>
 
-    <td> 211  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs211" data-uslm-ref="/us/usc/t13/s211">211</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 9.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fch9" data-uslm-ref="/us/usc/t13/ch9">9.</a>  </td>
 
     <td> Collection and Publication of Foreign Trade Statistics  <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to chapter heading. </sup></sup>   </td>
 
-    <td> 301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs301" data-uslm-ref="/us/usc/t13/s301">301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 10.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fch10" data-uslm-ref="/us/usc/t13/ch10">10.</a>  </td>
 
     <td> Exchange of census  <sup>[2]</sup>  <sup><sup> 2 So in original. Probably should be capitalized. </sup></sup>  information  <sup>[2]</sup>   </td>
 
-    <td> 401  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft13%2Fs401" data-uslm-ref="/us/usc/t13/s401">401</a>  </td>
 
   </tr>
 

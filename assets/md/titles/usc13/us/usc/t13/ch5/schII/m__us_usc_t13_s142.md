@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t13/ch5/schII/m__us_usc_t13_s141.md) | [Next](./../../../../..//us/usc/t13/ch5/schII/m__us_usc_t13_s143 to 146.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs142)
+[Previous](./../../../../..//us/usc/t13/ch5/schII/m__us_usc_t13_s141.md) | [Next](./../../../../..//us/usc/t13/ch5/schIII/m__us_usc_t13_ch5_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs142)
 
 ## \[§ 142. Repealed. [Pub. L. 105–113, § 3(a)][/us/pl/105/113/s3/a], Nov. 21, 1997, [111 Stat. 2275][/us/stat/111/2275]\]
 
@@ -27,9 +27,21 @@
 
 > “That, notwithstanding any other provision of law, the Secretary of Agriculture shall conduct the 1997 Census of Agriculture, to the extent practicable, pursuant to the provisions of title 13, United States Code.”
 
+\[§§ 143 to 146. __Repealed.__  __[__  __Pub. L. 85–207, § 11__  __][/us/pl/85/207/s11]__  __,__  __Aug. 28, 1957__  __,__  __[__  __71 Stat. 483__  __][/us/stat/71/483]__  __\]__ 
+
+Sections, [act Aug. 31, 1954, ch. 1158][/us/act/1954-08-31/ch1158], [68 Stat. 1020][/us/stat/68/1020], related to the following subject matter:
+
+    Section 143, decennial census period; completion of reports upon inquiries. See [section 141 of this title][/us/usc/t13/s141].
+
+    Section 144, restriction on inquiries. See sections 141(a) and 142 of this title.
+
+    Section 145, commencement of inquiries as to population, agriculture, and housing; time for completion. See sections 141(a) and 142(a) of this title.
+
+    Section 146, mid-decade censuses of agriculture; exclusion of certain areas; preliminary statistics. See sections 142(a), 191, and 193 of this title.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t13/ch5/schII/m__us_usc_t13_s141.md) | [Next](./../../../../..//us/usc/t13/ch5/schII/m__us_usc_t13_s143 to 146.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs142)
+[Previous](./../../../../..//us/usc/t13/ch5/schII/m__us_usc_t13_s141.md) | [Next](./../../../../..//us/usc/t13/ch5/schIII/m__us_usc_t13_ch5_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs142)
 
 ----------
 ----------
@@ -48,5 +60,10 @@
 [/us/usc/t7/s1991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1991
 [/us/pl/105/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F86
 [/us/stat/111/2083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2083
+[/us/pl/85/207/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F207%2Fs11
+[/us/stat/71/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F483
+[/us/act/1954-08-31/ch1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1158
+[/us/stat/68/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1020
+[/us/usc/t13/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs141
 
 
