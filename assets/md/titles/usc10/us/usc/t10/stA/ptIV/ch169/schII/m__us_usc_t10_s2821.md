@@ -47,11 +47,13 @@
 
  __Repair and Maintenance of Family Housing Units__ 
 
-[Pub. L. 113–235, div. I, title I, § 121][/us/pl/113/235/s121], Dec. 16, 2014, [128 Stat. 2550][/us/stat/128/2550], provided that: 
+[Pub. L. 114–113, div. J, title I, § 119][/us/pl/114/113/s119], Dec. 18, 2015, [129 Stat. 2681][/us/stat/129/2681], provided that: 
 
 > “Notwithstanding any other provision of law, funds made available in this title \[see Tables for classification\] for operation and maintenance of family housing shall be the exclusive source of funds for repair and maintenance of all family housing units, including general or flag officer quarters: Provided, That not more than $35,000 per unit may be spent annually for the maintenance and repair of any general or flag officer quarters without 30 days prior notification, or 14 days for a notification provided in an electronic medium pursuant to sections 480 and 2883 of title 10, United States Code, to the Committees on Appropriations of both Houses of Congress, except that an after-the-fact notification shall be submitted if the limitation is exceeded solely due to costs associated with environmental remediation that could not be reasonably anticipated at the time of the budget submission: Provided further, That the Under Secretary of Defense (Comptroller) is to report annually to the Committees on Appropriations of both Houses of Congress all operation and maintenance expenditures for each individual general or flag officer quarters for the prior fiscal year.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+    [Pub. L. 113–235, div. I, title I, § 121][/us/pl/113/235/s121], Dec. 16, 2014, [128 Stat. 2550][/us/stat/128/2550].
 
     [Pub. L. 113–76, div. J, title I, § 121][/us/pl/113/76/s121], Jan. 17, 2014, [128 Stat. 445][/us/stat/128/445].
 
@@ -109,6 +111,8 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/99/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F167
 [/us/pl/97/214/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214%2Fs12%2Fa
 [/us/usc/t10/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2801
+[/us/pl/114/113/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs119
+[/us/stat/129/2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2681
 [/us/pl/113/235/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs121
 [/us/stat/128/2550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2550
 [/us/pl/113/76/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs121

@@ -357,6 +357,8 @@
 
 Similar provisions were contained in the following appropriation acts:
 
+    [Pub. L. 114–113, div. C, title VIII, § 8010][/us/pl/114/113/s8010], Dec. 18, 2015, [129 Stat. 2352][/us/stat/129/2352].
+
     [Pub. L. 113–235, div. C, title VIII, § 8010][/us/pl/113/235/s8010], Dec. 16, 2014, [128 Stat. 2253][/us/stat/128/2253].
 
     [Pub. L. 113–76, div. C, title VIII, § 8010][/us/pl/113/76/s8010], Jan. 17, 2014, [128 Stat. 105][/us/stat/128/105].
@@ -406,6 +408,8 @@ Similar provisions were contained in the following appropriation acts:
     [Pub. L. 101–511, title VIII, § 8014][/us/pl/101/511/s8014], Nov. 5, 1990, [104 Stat. 1877][/us/stat/104/1877].
 
     [Pub. L. 101–165, title IX, § 9021][/us/pl/101/165/s9021], Nov. 21, 1989, [103 Stat. 1133][/us/stat/103/1133].
+
+    [Pub. L. 114–113, div. C, title VIII, § 8010][/us/pl/114/113/s8010], Dec. 18, 2015, [129 Stat. 2352][/us/stat/129/2352].
 
 ----------
 
@@ -501,6 +505,8 @@ Similar provisions were contained in the following appropriation acts:
 [/us/pl/105/56/s8008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F56%2Fs8008
 [/us/stat/111/1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1221
 [/us/stat/111/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1211
+[/us/pl/114/113/s8010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs8010
+[/us/stat/129/2352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2352
 [/us/pl/113/235/s8010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs8010
 [/us/stat/128/2253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2253
 [/us/pl/113/76/s8010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs8010
@@ -553,5 +559,7 @@ Similar provisions were contained in the following appropriation acts:
 [/us/stat/104/1877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1877
 [/us/pl/101/165/s9021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F165%2Fs9021
 [/us/stat/103/1133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1133
+[/us/pl/114/113/s8010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs8010
+[/us/stat/129/2352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2352
 
 

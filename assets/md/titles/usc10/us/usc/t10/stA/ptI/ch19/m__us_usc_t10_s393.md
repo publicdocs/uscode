@@ -113,7 +113,9 @@
 
 (Added and amended [Pub. L. 114–92, div. A, title XVI, § 1641(a)][/us/pl/114/92/s1641/a], Nov. 25, 2015, [129 Stat. 1114][/us/stat/129/1114].)
 
- __CodificationSection, as added and amended by__  __[__  __Pub. L. 114–92__  __][/us/pl/114/92]__  __, is based on__  __[__  __Pub. L. 112–239, div. A, title IX, § 941__  __][/us/pl/112/239/s941]__  __,__  __Jan. 2, 2013__  __,__  __[__  __126 Stat. 1889__  __][/us/stat/126/1889]__  __, which was formerly set out as a note under__  __[__  __section 2224 of this title__  __][/us/usc/t10/s2224]__  __before being transferred to this chapter and renumbered as this section.__ 
+ __Codification__ 
+
+    Section, as added and amended by [Pub. L. 114–92][/us/pl/114/92], is based on [Pub. L. 112–239, div. A, title IX, § 941][/us/pl/112/239/s941], Jan. 2, 2013, [126 Stat. 1889][/us/stat/126/1889], which was formerly set out as a note under [section 2224 of this title][/us/usc/t10/s2224] before being transferred to this chapter and renumbered as this section.
 
  __Amendments__ 
 

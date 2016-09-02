@@ -173,9 +173,9 @@
 
             (C) An assessment of the organization and capabilities of the Department of Defense for development planning and developmental test and evaluation with respect to such programs.
 
-            (D) a  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  separate section that covers the activities of the Department of Defense Test Resource Management Center (established under [section 196 of this title][/us/usc/t10/s196]) during the preceding year; and  <sup>\[2\]</sup>  <sup><sup> 2 So in original. The “; and” probably should be a period. </sup></sup> 
+            (D) a 1 separate section that covers the activities of the Department of Defense Test Resource Management Center (established under [section 196 of this title][/us/usc/t10/s196]) during the preceding year; and  <sup>\[2\]</sup>  <sup><sup> 2 So in original. The “; and” probably should be a period. </sup></sup> 
 
-            (E) a 1 separate section that addresses the adequacy of the resources available to the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation and to the lead developmental test and evaluation organizations of the military departments to carry out the responsibilities prescribed by this section.
+            (E) a  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  separate section that addresses the adequacy of the resources available to the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation and to the lead developmental test and evaluation organizations of the military departments to carry out the responsibilities prescribed by this section.
 
             (F) Any comments on such report that the Secretary of Defense considers appropriate.
 

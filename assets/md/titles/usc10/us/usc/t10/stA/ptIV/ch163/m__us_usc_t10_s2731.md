@@ -67,19 +67,21 @@ Source (Statutes at Large)  </td>
 
  __Congressional Defense Committees Defined__ 
 
-[Pub. L. 113–235, div. C, title VIII, § 8026][/us/pl/113/235/s8026], Dec. 16, 2014, [128 Stat. 2258][/us/stat/128/2258], provided that: 
+[Pub. L. 114–113, div. C, title VIII, § 8026][/us/pl/114/113/s8026], Dec. 18, 2015, [129 Stat. 2356][/us/stat/129/2356], provided that: 
 
-> “For the purposes of this Act \[div. C of [Pub. L. 113–235][/us/pl/113/235], see Tables for classification\], the term ‘congressional defense committees’ means the Armed Services Committee of the House of Representatives, the Armed Services Committee of the Senate, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives.”
+> “For the purposes of this Act \[div. C of [Pub. L. 114–113][/us/pl/114/113], see Tables for classification\], the term ‘congressional defense committees’ means the Armed Services Committee of the House of Representatives, the Armed Services Committee of the Senate, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives.”
 
-    Similar provisions were contained in the following prior appropriation act:
+Similar provisions were contained in the following prior appropriation acts:
+
+    [Pub. L. 113–235, div. C, title VIII, § 8026][/us/pl/113/235/s8026], Dec. 16, 2014, [128 Stat. 2258][/us/stat/128/2258].
 
     [Pub. L. 113–76, div. C, title VIII, § 8025][/us/pl/113/76/s8025], Jan. 17, 2014, [128 Stat. 109][/us/stat/128/109].
 
  __Ex Gratia Payments__ 
 
-[Pub. L. 113–235, div. C, title VIII, § 8121][/us/pl/113/235/s8121], Dec. 16, 2014, [128 Stat. 2281][/us/stat/128/2281], provided that:
+[Pub. L. 114–113, div. C, title VIII, § 8111][/us/pl/114/113/s8111], Dec. 18, 2015, [129 Stat. 2377][/us/stat/129/2377], provided that:
 
->     “(a) Of the funds appropriated in this Act \[div. C of [Pub. L. 113–235][/us/pl/113/235], see Tables for classification\] for the Department of Defense, amounts may be made available, under such regulations as the Secretary may prescribe, to local military commanders appointed by the Secretary of Defense, or by an officer or employee designated by the Secretary, to provide at their discretion ex gratia payments in amounts consistent with subsection (d) of this section for damage, personal injury, or death that is incident to combat operations of the Armed Forces in a foreign country.
+>     “(a) Of the funds appropriated in this Act \[div. C of [Pub. L. 114–113][/us/pl/114/113], see Tables for classification\] for the Department of Defense, amounts may be made available, under such regulations as the Secretary of Defense may prescribe, to local military commanders appointed by the Secretary, or by an officer or employee designated by the Secretary, to provide at their discretion ex gratia payments in amounts consistent with subsection (d) of this section for damage, personal injury, or death that is incident to combat operations of the Armed Forces in a foreign country.
 
 >     “(b)
 
@@ -109,13 +111,11 @@ Source (Statutes at Large)  </td>
 
 >     “(g)  __Report__  __.—__ 
 
->     The Secretary of Defense shall report to the congressional defense committees \[Committees on Armed Services and Subcommittees on Defense of the Committees on Appropriations of the Senate and the House of Representatives\] on an annual basis the efficacy of the ex gratia payment program including the number of types of cases considered, amounts offered, the response from ex gratia payment recipients, and any recommended modifications to the program.
+>     The Secretary of Defense shall report to the congressional defense committees \[Committees on Armed Services and Subcommittees on Defense of the Committees on Appropriations of the Senate and the House of Representatives\] on an annual basis the efficacy of the ex gratia payment program including the number of types of cases considered, amounts offered, the response from ex gratia payment recipients, and any recommended modifications to the program.”
 
->     “(h)  __Limitation__  __.—__ 
+Similar provisions were contained in the following prior appropriation acts:
 
->     Nothing in this section shall be deemed to provide any new authority to the Secretary of Defense.”
-
-    Similar provisions were contained in the following prior appropriation act:
+    [Pub. L. 113–235, div. C, title VIII, § 8121][/us/pl/113/235/s8121], Dec. 16, 2014, [128 Stat. 2281][/us/stat/128/2281].
 
     [Pub. L. 113–76, div. C, title VIII, § 8127][/us/pl/113/76/s8127], Jan. 17, 2014, [128 Stat. 134][/us/stat/128/134].
 
@@ -142,14 +142,18 @@ Source (Statutes at Large)  </td>
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F152
+[/us/pl/114/113/s8026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs8026
+[/us/stat/129/2356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2356
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/113/235/s8026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs8026
 [/us/stat/128/2258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2258
-[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/113/76/s8025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs8025
 [/us/stat/128/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F109
+[/us/pl/114/113/s8111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs8111
+[/us/stat/129/2377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2377
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/113/235/s8121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs8121
 [/us/stat/128/2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2281
-[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/113/76/s8127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs8127
 [/us/stat/128/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F134
 [/us/pl/105/85/s1013/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1013%2Fb

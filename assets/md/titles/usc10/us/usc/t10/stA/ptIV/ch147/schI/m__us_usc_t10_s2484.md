@@ -253,9 +253,13 @@
 
 >     In this section, the term ‘defense retail systems’ has the meaning given that term in [section 2487(b)(2) of title 10][/us/usc/t10/s2487/b/2], United States Code.”
 
-[Pub. L. 113–235, div. C, title VIII, § 8073][/us/pl/113/235/s8073], Dec. 16, 2014, [128 Stat. 2271][/us/stat/128/2271], provided that: 
+[Pub. L. 114–113, div. C, title VIII, § 8033][/us/pl/114/113/s8033], Dec. 18, 2015, [129 Stat. 2358][/us/stat/129/2358], provided that: 
 
 > “The Secretary of Defense shall issue regulations to prohibit the sale of any tobacco or tobacco-related products in military resale outlets in the United States, its territories and possessions at a price below the most competitive price in the local community: Provided, That such regulations shall direct that the prices of tobacco or tobacco-related products in overseas military retail outlets shall be within the range of prices established for military retail system stores located in the United States.”
+
+    Similar provisions were contained in the following appropriation act:
+
+    [Pub. L. 113–235, div. C, title VIII, § 8073][/us/pl/113/235/s8073], Dec. 16, 2014, [128 Stat. 2271][/us/stat/128/2271].
 
  __Test Program of Sale of Certain Items in Commissary Stores__ 
 
@@ -355,6 +359,8 @@
 [/us/pl/113/291/s633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs633
 [/us/stat/128/3405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3405
 [/us/usc/t10/s2487/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2487%2Fb%2F2
+[/us/pl/114/113/s8033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs8033
+[/us/stat/129/2358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2358
 [/us/pl/113/235/s8073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs8073
 [/us/stat/128/2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2271
 [/us/pl/108/375/s651/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs651%2Fg

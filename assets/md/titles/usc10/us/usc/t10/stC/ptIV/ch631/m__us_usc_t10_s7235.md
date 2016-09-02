@@ -19,7 +19,7 @@
 
     The Secretary of the Navy shall establish areas, to be known as “Southern Sea Otter Military Readiness Areas”, for national defense purposes. Such areas shall include each of the following:
 
-        (1) The area that includes Naval Base Ventura County, San Nicolas Island, and Begg Rock and the adjacent and surrounding waters within the following coordinates:    N. Latitude/W. Longitude
+        (1) The area that includes Naval Base Ventura County, San Nicolas Island, and Begg Rock and the adjacent and surrounding waters within the following coordinates:    N. Latitude/W. Longitude′
 
             33°27.8′/119°34.3′
 

@@ -761,6 +761,18 @@ In subsection (a), the words “The Secretary of Defense is hereby directed that
 
 > “The amendments made by this section \[amending this section and [section 2305 of this title][/us/usc/t10/s2305]\] do not supersede or affect the provisions of section 8(a) of the Small Business Act ([15 U.S.C. 637(a)][/us/usc/t15/s637/a]).”
 
+ __Contracts for Studies, Analysis, or Consulting Services Entered Into Without Competition on the Basis of an Unsolicited Proposal__ 
+
+[Pub. L. 114–113, div. C, title VIII, § 8039][/us/pl/114/113/s8039], Dec. 18, 2015, [129 Stat. 2359][/us/stat/129/2359], provided that:
+
+>     “None of the funds appropriated by this Act \[div. C of [Pub. L. 114–113][/us/pl/114/113], see Tables for classification\] and hereafter shall be available for a contract for studies, analysis, or consulting services entered into without competition on the basis of an unsolicited proposal unless the head of the activity responsible for the procurement determines—
+
+>     “(1) as a result of thorough technical evaluation, only one source is found fully qualified to perform the proposed work;
+
+>     “(2) the purpose of the contract is to explore an unsolicited proposal which offers significant scientific or technological promise, represents the product of original thinking, and was submitted in confidence by one source; or
+
+>     “(3) the purpose of the contract is to take advantage of unique and significant industrial accomplishment by a specific concern, or to insure that a new product or idea of a specific concern is given financial support: Provided, That this limitation shall not apply to contracts in an amount of less than $25,000, contracts related to improvements of equipment that is in development or production, or contracts as to which a civilian official of the Department of Defense, who has been confirmed by the Senate, determines that the award of such contract is in the interest of the national defense.”
+
  __Mitigating Potential Unfair Competitive Advantage of Technical Advisors to Acquisition Programs__ 
 
 [Pub. L. 114–92, div. A, title VIII, § 895][/us/pl/114/92/s895], Nov. 25, 2015, [129 Stat. 954][/us/stat/129/954], provided that: 
@@ -2298,6 +2310,9 @@ In subsection (a), the words “The Secretary of Defense is hereby directed that
 [/us/stat/98/1192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1192
 [/us/usc/t10/s2305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2305
 [/us/usc/t15/s637/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fa
+[/us/pl/114/113/s8039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs8039
+[/us/stat/129/2359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2359
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/114/92/s895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs895
 [/us/stat/129/954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F954
 [/us/pl/114/92/s898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs898

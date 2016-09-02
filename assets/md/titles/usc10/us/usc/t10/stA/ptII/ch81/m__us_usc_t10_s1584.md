@@ -89,11 +89,13 @@ July 16, 1952, ch. 882, § 2, 66 Stat. 725.  </td>
 
  __Citizenship Requirement Not Applicable__ 
 
-[Pub. L. 113–235, div. C, title VIII, § 8002][/us/pl/113/235/s8002], Dec. 16, 2014, [128 Stat. 2251][/us/stat/128/2251], provided that: 
+[Pub. L. 114–113, div. C, title VIII, § 8002][/us/pl/114/113/s8002], Dec. 18, 2015, [129 Stat. 2349][/us/stat/129/2349], provided that: 
 
-> “During the current fiscal year, provisions of law prohibiting the payment of compensation to, or employment of, any person not a citizen of the United States shall not apply to personnel of the Department of Defense: Provided, That salary increases granted to direct and indirect hire foreign national employees of the Department of Defense funded by this Act \[div. C of [Pub. L. 113–235][/us/pl/113/235], see Tables for classification\] shall not be at a rate in excess of the percentage increase authorized by law for civilian employees of the Department of Defense whose pay is computed under the provisions of [section 5332 of title 5][/us/usc/t5/s5332], United States Code, or at a rate in excess of the percentage increase provided by the appropriate host nation to its own employees, whichever is higher: Provided further, That this section shall not apply to Department of Defense foreign service national employees serving at United States diplomatic missions whose pay is set by the Department of State under the Foreign Service Act of 1980 \[[22 U.S.C. 3901][/us/usc/t22/s3901] et seq.\]: Provided further, That the limitations of this provision shall not apply to foreign national employees of the Department of Defense in the Republic of Turkey.”
+> “During the current fiscal year, provisions of law prohibiting the payment of compensation to, or employment of, any person not a citizen of the United States shall not apply to personnel of the Department of Defense: Provided, That salary increases granted to direct and indirect hire foreign national employees of the Department of Defense funded by this Act \[div. C of [Pub. L. 114–113][/us/pl/114/113], see Tables for classification\] shall not be at a rate in excess of the percentage increase authorized by law for civilian employees of the Department of Defense whose pay is computed under the provisions of [section 5332 of title 5][/us/usc/t5/s5332], United States Code, or at a rate in excess of the percentage increase provided by the appropriate host nation to its own employees, whichever is higher: Provided further, That this section shall not apply to Department of Defense foreign service national employees serving at United States diplomatic missions whose pay is set by the Department of State under the Foreign Service Act of 1980 \[[22 U.S.C. 3901][/us/usc/t22/s3901] et seq.\]: Provided further, That the limitations of this provision shall not apply to foreign national employees of the Department of Defense in the Republic of Turkey.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+    [Pub. L. 113–235, div. C, title VIII, § 8002][/us/pl/113/235/s8002], Dec. 16, 2014, [128 Stat. 2251][/us/stat/128/2251].
 
     [Pub. L. 113–76, div. C, title VIII, § 8002][/us/pl/113/76/s8002], Jan. 17, 2014, [128 Stat. 103][/us/stat/128/103].
 
@@ -266,11 +268,13 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/101/510/s1482/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1482%2Fb
 [/us/pl/101/510/s1482/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1482%2Fd
 [/us/usc/t10/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs119
-[/us/pl/113/235/s8002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs8002
-[/us/stat/128/2251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2251
-[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/114/113/s8002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs8002
+[/us/stat/129/2349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2349
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
+[/us/pl/113/235/s8002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs8002
+[/us/stat/128/2251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2251
 [/us/pl/113/76/s8002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs8002
 [/us/stat/128/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F103
 [/us/pl/113/6/s8002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2Fs8002
