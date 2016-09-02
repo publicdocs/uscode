@@ -13,11 +13,11 @@
 
 ~~Previous~~ | [Next](./../../..//us/usc/t9/ch1/m__us_usc_t9_ch1.md) | [Root of Title](./../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft9)
 
-# 
-
-Title 9—ARBITRATION
+# Title 9—ARBITRATION
 
 This title was enacted by [act July 30, 1947, ch. 392, § 1][/us/act/1947-07-30/ch392/s1], [61 Stat. 669][/us/stat/61/669]
+
+Current through 113–44
 
 <table>
 
@@ -33,31 +33,31 @@ This title was enacted by [act July 30, 1947, ch. 392, § 1][/us/act/1947-07-3
 
   <tr>
 
-    <td> 1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft9%2Fch1" data-uslm-ref="/us/usc/t9/ch1">1.</a>  </td>
 
     <td> General provisions  </td>
 
-    <td> 1  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft9%2Fs1" data-uslm-ref="/us/usc/t9/s1">1</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft9%2Fch2" data-uslm-ref="/us/usc/t9/ch2">2.</a>  </td>
 
     <td> Convention on the Recognition and Enforcement of Foreign Arbitral Awards  </td>
 
-    <td> 201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft9%2Fs201" data-uslm-ref="/us/usc/t9/s201">201</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft9%2Fch3" data-uslm-ref="/us/usc/t9/ch3">3.</a>  </td>
 
     <td> Inter-American Convention on International Commercial Arbitration  </td>
 
-    <td> 301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft9%2Fs301" data-uslm-ref="/us/usc/t9/s301">301</a>  </td>
 
   </tr>
 
