@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch36/schI/m__us_usc_t50_s1812.md) | [Next](./../../../../..//us/usc/t50/ch36/schII/m__us_usc_t50_s1821.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch36%2FschII)
+[Previous](./../../../../..//us/usc/t50/ch36/schI/m__us_usc_t50_s1813.md) | [Next](./../../../../..//us/usc/t50/ch36/schII/m__us_usc_t50_s1821.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch36%2FschII)
 
 ### SUBCHAPTER II—PHYSICAL SEARCHES
 
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch36/schI/m__us_usc_t50_s1812.md) | [Next](./../../../../..//us/usc/t50/ch36/schII/m__us_usc_t50_s1821.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch36%2FschII)
+[Previous](./../../../../..//us/usc/t50/ch36/schI/m__us_usc_t50_s1813.md) | [Next](./../../../../..//us/usc/t50/ch36/schII/m__us_usc_t50_s1821.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fch36%2FschII)
 
 ----------
 ----------

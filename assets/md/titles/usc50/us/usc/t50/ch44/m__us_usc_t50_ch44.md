@@ -281,6 +281,14 @@ SUBCHAPTER I—COORDINATION FOR NATIONAL SECURITY  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3043a" data-uslm-ref="/us/usc/t50/s3043a">3043a.</a>  </td>
+
+    <td> National intelligence strategy.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3044" data-uslm-ref="/us/usc/t50/s3044">3044.</a>  </td>
 
     <td> Software licensing.  </td>
@@ -436,6 +444,14 @@ SUBCHAPTER II—MISCELLANEOUS PROVISIONS  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3073" data-uslm-ref="/us/usc/t50/s3073">3073.</a>  </td>
 
     <td> Advisory committees; appointment; compensation of part-time personnel; applicability of other laws.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3073a" data-uslm-ref="/us/usc/t50/s3073a">3073a.</a>  </td>
+
+    <td> Reporting of certain employment activities by former intelligence officers and employees.  </td>
 
   </tr>
 
@@ -636,6 +652,14 @@ SUBCHAPTER III—ACCOUNTABILITY FOR INTELLIGENCE ACTIVITIES  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3109" data-uslm-ref="/us/usc/t50/s3109">3109.</a>  </td>
 
     <td> Significant interpretations of law concerning intelligence activities.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs3110" data-uslm-ref="/us/usc/t50/s3110">3110.</a>  </td>
+
+    <td> Annual report on violations of law or executive order.  </td>
 
   </tr>
 

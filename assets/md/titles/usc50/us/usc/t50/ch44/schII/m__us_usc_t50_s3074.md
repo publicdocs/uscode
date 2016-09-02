@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch44/schII/m__us_usc_t50_s3073.md) | [Next](./../../../../..//us/usc/t50/ch44/schII/m__us_usc_t50_s3075.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3074)
+[Previous](./../../../../..//us/usc/t50/ch44/schII/m__us_usc_t50_s3073a.md) | [Next](./../../../../..//us/usc/t50/ch44/schII/m__us_usc_t50_s3075.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3074)
 
 ## § 3074. Authorization of appropriations
 
@@ -33,7 +33,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch44/schII/m__us_usc_t50_s3073.md) | [Next](./../../../../..//us/usc/t50/ch44/schII/m__us_usc_t50_s3075.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3074)
+[Previous](./../../../../..//us/usc/t50/ch44/schII/m__us_usc_t50_s3073a.md) | [Next](./../../../../..//us/usc/t50/ch44/schII/m__us_usc_t50_s3075.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3074)
 
 ----------
 ----------

@@ -47,9 +47,11 @@
 
         (10) A justification for the requested personnel and core contract personnel levels.
 
-        (11) The best estimate of the number of intelligence collectors and analysts employed or contracted by each element of the intelligence community.
+        (11) The best estimate of the number of intelligence collectors and analysts employed by each element of the intelligence community.
 
-        (12)
+        (12) The best estimate of the number of intelligence collectors and analysts contracted by each element of the intelligence community and a description of the functions performed by such contractors.
+
+        (13)
 
          A statement by the Director of National Intelligence that, based on current and projected funding, the element concerned will have sufficient—
 
@@ -59,11 +61,17 @@
 
             (C) funding to support the administrative and operational activities of the requested personnel levels.
 
-([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, § 506B, as added [Pub. L. 111–259, title III, § 305(a)][/us/pl/111/259/s305/a], Oct. 7, 2010, [124 Stat. 2659][/us/stat/124/2659].)
+([July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title V, § 506B, as added [Pub. L. 111–259, title III, § 305(a)][/us/pl/111/259/s305/a], Oct. 7, 2010, [124 Stat. 2659][/us/stat/124/2659]; amended [Pub. L. 113–293, title III, § 327][/us/pl/113/293/s327], Dec. 19, 2014, [128 Stat. 4006][/us/stat/128/4006].)
 
  __Codification__ 
 
     Section was formerly classified to [section 415a–4 of this title][/us/usc/t50/s415a–4] prior to editorial reclassification and renumbering as this section.
+
+ __Amendments__ 
+
+    2014—Subsec. (c)(11). [Pub. L. 113–293, § 327(1)][/us/pl/113/293/s327/1], struck out “or contracted” after “employed”.
+
+    Subsec. (c)(12), (13). [Pub. L. 113–293, § 327(2)][/us/pl/113/293/s327/2], (3), added par. (12) and redesignated former par. (12) as (13).
 
  __Implementation__ 
 
@@ -84,7 +92,11 @@
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/pl/111/259/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs305%2Fa
 [/us/stat/124/2659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2659
+[/us/pl/113/293/s327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293%2Fs327
+[/us/stat/128/4006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4006
 [/us/usc/t50/s415a–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs415a%E2%80%934
+[/us/pl/113/293/s327/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293%2Fs327%2F1
+[/us/pl/113/293/s327/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293%2Fs327%2F2
 [/us/pl/111/259/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs305%2Fb
 [/us/stat/124/2661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2661
 [/us/usc/t50/s3098/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3098%2Fb

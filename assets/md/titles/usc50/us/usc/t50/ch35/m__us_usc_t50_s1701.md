@@ -1011,7 +1011,7 @@
 
  __Burmese Freedom and Democracy__ 
 
-[Pub. L. 112–192][/us/pl/112/192], Oct. 5, 2012, [126 Stat. 1441][/us/stat/126/1441], provided that:
+[Pub. L. 112–192][/us/pl/112/192], Oct. 5, 2012, [126 Stat. 1441][/us/stat/126/1441], as amended by [Pub. L. 113–235, div. J, title VII, § 7043(b)(8)(A)][/us/pl/113/235/s7043/b/8/A], Dec. 16, 2014, [128 Stat. 2648][/us/stat/128/2648], provided that:
 
 > “SECTION 1. __INTERNATIONAL FINANCIAL INSTITUTIONS.__ 
 
@@ -1031,7 +1031,13 @@
 
 >     “(2) The term ‘assistance’ means any loan or financial or technical assistance, or any other use of funds.
 
->     “(3) The term ‘international financial institution’ shall have the same meaning as contained in section 7029(d) of division I of [Public Law 112–74][/us/pl/112/74] \[[125 Stat. 1209][/us/stat/125/1209]\].”
+>     “(3) The term ‘international financial institution’ shall have the same meaning as contained in section 7029(d) of division I of [Public Law 112–74][/us/pl/112/74] \[[125 Stat. 1209][/us/stat/125/1209]\] and shall also include the Multilateral Investment Guarantee Agency.”
+
+\[[Pub. L. 113–235, div. J, title VII, § 7043(b)(8)(B)][/us/pl/113/235/s7043/b/8/B], Dec. 16, 2014, [128 Stat. 2648][/us/stat/128/2648], provided that: 
+
+> “The amendment made in subparagraph (A) \[amending [section 3(3) of Pub. L. 112–192][/us/pl/112/192/s3/3], set out above, by inserting ‘and shall also include the Multilateral Investment Guarantee Agency’ after ‘[Public Law 112–74][/us/pl/112/74]’\] shall only take effect if the Secretary of State certifies and reports to the Committees on Appropriations by September 30, 2015 that the Government of Burma has implemented reforms, in consultation with Burma’s political opposition and ethnic groups, providing for free and fair presidential and parliamentary elections.”
+
+\]
 
     \[Functions of President under [section 1 of Pub. L. 112–192][/us/pl/112/192/s1], set out above, delegated to Secretary of State by Memorandum of President of the United States, Oct. 10, 2012, 77 F.R. 65455.\]
 
@@ -5892,8 +5898,14 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 [/us/usc/t22/s2780/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2780%2Fd
 [/us/pl/112/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F192
 [/us/stat/126/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1441
+[/us/pl/113/235/s7043/b/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs7043%2Fb%2F8%2FA
+[/us/stat/128/2648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2648
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/stat/125/1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1209
+[/us/pl/113/235/s7043/b/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs7043%2Fb%2F8%2FB
+[/us/stat/128/2648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2648
+[/us/pl/112/192/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F192%2Fs3%2F3
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/pl/112/192/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F192%2Fs1
 [/us/pl/110/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F286
 [/us/stat/122/2632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2632

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t50/ch42/schVIII/ptB/m__us_usc_t50_s2791a.md) | [Next](./../../../../../..//us/usc/t50/ch42/schVIII/ptB/m__us_usc_t50_s2793.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2792)
+[Previous](./../../../../../..//us/usc/t50/ch42/schVIII/ptB/m__us_usc_t50_s2791b.md) | [Next](./../../../../../..//us/usc/t50/ch42/schVIII/ptB/m__us_usc_t50_s2793.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2792)
 
 ## § 2792. Limitations on use of funds for laboratory directed research and development purposes
 
@@ -51,7 +51,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t50/ch42/schVIII/ptB/m__us_usc_t50_s2791a.md) | [Next](./../../../../../..//us/usc/t50/ch42/schVIII/ptB/m__us_usc_t50_s2793.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2792)
+[Previous](./../../../../../..//us/usc/t50/ch42/schVIII/ptB/m__us_usc_t50_s2791b.md) | [Next](./../../../../../..//us/usc/t50/ch42/schVIII/ptB/m__us_usc_t50_s2793.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2792)
 
 ----------
 ----------

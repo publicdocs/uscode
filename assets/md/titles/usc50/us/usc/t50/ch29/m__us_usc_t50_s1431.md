@@ -149,7 +149,7 @@ Under such regulations, which shall be uniform to the extent practicable, as may
 
     Tennessee Valley Authority.
 
-    Government Printing Office.
+    Government Printing Office \[now Government Publishing Office\].
 
     Department of Homeland Security.
 

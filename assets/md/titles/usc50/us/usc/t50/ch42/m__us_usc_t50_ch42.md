@@ -137,6 +137,14 @@ Part A—Stockpile Stewardship and Weapons Production  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2523c" data-uslm-ref="/us/usc/t50/s2523c">2523c.</a>  </td>
+
+    <td> Major warhead refurbishment program.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2524" data-uslm-ref="/us/usc/t50/s2524">2524.</a>  </td>
 
     <td> Stockpile management program.  </td>
@@ -1196,6 +1204,14 @@ Part B—Research and Development  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2791a" data-uslm-ref="/us/usc/t50/s2791a">2791a.</a>  </td>
 
     <td> Laboratory-directed research and development.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft50%2Fs2791b" data-uslm-ref="/us/usc/t50/s2791b">2791b.</a>  </td>
+
+    <td> Charges to individual program, project, or activity.  </td>
 
   </tr>
 

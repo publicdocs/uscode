@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch36/schI/m__us_usc_t50_s1811.md) | [Next](./../../../../..//us/usc/t50/ch36/schII/m__us_usc_t50_ch36_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1812)
+[Previous](./../../../../..//us/usc/t50/ch36/schI/m__us_usc_t50_s1811.md) | [Next](./../../../../..//us/usc/t50/ch36/schI/m__us_usc_t50_s1813.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1812)
 
 ## § 1812. Statement of exclusive means by which electronic surveillance and interception of certain communications may be conducted
 
@@ -31,7 +31,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch36/schI/m__us_usc_t50_s1811.md) | [Next](./../../../../..//us/usc/t50/ch36/schII/m__us_usc_t50_ch36_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1812)
+[Previous](./../../../../..//us/usc/t50/ch36/schI/m__us_usc_t50_s1811.md) | [Next](./../../../../..//us/usc/t50/ch36/schI/m__us_usc_t50_s1813.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1812)
 
 ----------
 ----------

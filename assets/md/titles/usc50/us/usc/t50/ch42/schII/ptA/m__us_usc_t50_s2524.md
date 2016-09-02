@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t50/ch42/schII/ptA/m__us_usc_t50_s2523b.md) | [Next](./../../../../../..//us/usc/t50/ch42/schII/ptA/m__us_usc_t50_s2524a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2524)
+[Previous](./../../../../../..//us/usc/t50/ch42/schII/ptA/m__us_usc_t50_s2523c.md) | [Next](./../../../../../..//us/usc/t50/ch42/schII/ptA/m__us_usc_t50_s2524a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2524)
 
 ## § 2524. Stockpile management program
 
@@ -75,7 +75,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t50/ch42/schII/ptA/m__us_usc_t50_s2523b.md) | [Next](./../../../../../..//us/usc/t50/ch42/schII/ptA/m__us_usc_t50_s2524a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2524)
+[Previous](./../../../../../..//us/usc/t50/ch42/schII/ptA/m__us_usc_t50_s2523c.md) | [Next](./../../../../../..//us/usc/t50/ch42/schII/ptA/m__us_usc_t50_s2524a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2524)
 
 ----------
 ----------

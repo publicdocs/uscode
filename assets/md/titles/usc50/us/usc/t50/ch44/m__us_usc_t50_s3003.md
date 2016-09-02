@@ -151,7 +151,23 @@
 
     Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see [section 2651a of Title 22][/us/usc/t22/s2651a], Foreign Relations and Intercourse, and [section 161(d) of Pub. L. 103–236][/us/pl/103/236/s161/d], set out as a note under [section 2651a of Title 22][/us/usc/t22/s2651a].
 
- __Definitions__ 
+ __Definitions Applicable to Specific Acts__ 
+
+[Pub. L. 113–293, § 2][/us/pl/113/293/s2], Dec. 19, 2014, [128 Stat. 3991][/us/stat/128/3991], provided that: 
+
+> “In this Act \[see Tables for classification\]:
+
+>     “(1)  __Congressional intelligence committees__  __.—__ 
+
+>     The term ‘congressional intelligence committees’ means—
+
+>         “(A) the Select Committee on Intelligence of the Senate; and
+
+>         “(B) the Permanent Select Committee on Intelligence of the House of Representatives.
+
+>     “(2)  __Intelligence community__  __.—__ 
+
+>     The term ‘intelligence community’ has the meaning given that term in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 3003(4)][/us/usc/t50/s3003/4]).”
 
 [Pub. L. 113–126, § 2][/us/pl/113/126/s2], July 7, 2014, [128 Stat. 1391][/us/stat/128/1391], provided that: 
 
@@ -269,6 +285,9 @@
 [/us/usc/t22/s2651a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651a
 [/us/pl/103/236/s161/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F236%2Fs161%2Fd
 [/us/usc/t22/s2651a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2651a
+[/us/pl/113/293/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293%2Fs2
+[/us/stat/128/3991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3991
+[/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4
 [/us/pl/113/126/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs2
 [/us/stat/128/1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1391
 [/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4

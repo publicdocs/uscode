@@ -103,11 +103,11 @@
 
         (7)
 
-         not later than 180 days after July 7, 2014—
+         not later than 180 days after July 7, 2014, and consistent with subsection (j)—
 
-            (A) developing policies and procedures that permit, to the extent practicable, individuals to appeal a determination to suspend or revoke a security clearance or access to classified information and to retain their government employment status while such challenge is pending; and
+            (A) developing policies and procedures that permit, to the extent practicable, individuals alleging reprisal for having made a protected disclosure (provided the individual does not disclose classified information or other information contrary to law) to appeal any action affecting an employee’s access to classified information and to retain their government employment status while such challenge is pending; and
 
-            (B) developing and implementing uniform and consistent policies and procedures to ensure proper protections during the process for denying, suspending, or revoking a security clearance or access to classified information, including the ability to appeal such a denial, suspension, or revocation, except that there shall be no appeal of an agency’s suspension of a security clearance or access determination for purposes of conducting an investigation, if that suspension lasts no longer than 1 year or the head of the agency or a designee of the head of the agency certifies that a longer suspension is needed before a final decision on denial or revocation to prevent imminent harm to the national security.
+            (B) developing and implementing uniform and consistent policies and procedures to ensure proper protections during the process for denying, suspending, or revoking a security clearance or access to classified information following a protected disclosure, including the ability to appeal such a denial, suspension, or revocation, except that there shall be no appeal of an agency’s suspension of a security clearance or access determination for purposes of conducting an investigation, if that suspension lasts no longer than 1 year or the head of the agency or a designee of the head of the agency certifies that a longer suspension is needed before a final decision on denial or revocation to prevent imminent harm to the national security.
 
     (c) __Performance of security clearance investigations__ 
 
@@ -329,7 +329,7 @@
 
             Nothing in this section shall be construed to permit, authorize, or require a private cause of action to challenge the merits of a security clearance determination.
 
-([Pub. L. 108–458, title III, § 3001][/us/pl/108/458/s3001], Dec. 17, 2004, [118 Stat. 3705][/us/stat/118/3705]; [Pub. L. 113–126, title VI, § 602(a)(1)][/us/pl/113/126/s602/a/1], (b), (c), July 7, 2014, [128 Stat. 1416][/us/stat/128/1416], 1417, 1419.)
+([Pub. L. 108–458, title III, § 3001][/us/pl/108/458/s3001], Dec. 17, 2004, [118 Stat. 3705][/us/stat/118/3705]; [Pub. L. 113–126, title VI, § 602(a)(1)][/us/pl/113/126/s602/a/1], (b), (c), July 7, 2014, [128 Stat. 1416][/us/stat/128/1416], 1417, 1419; [Pub. L. 113–293, title III, § 310][/us/pl/113/293/s310], Dec. 19, 2014, [128 Stat. 3999][/us/stat/128/3999].)
 
  __References in Text__ 
 
@@ -351,7 +351,13 @@
 
     Subsec. (b). [Pub. L. 113–126, § 602(a)(1)(A)][/us/pl/113/126/s602/a/1/A], substituted “Except as otherwise provided, not” for “Not” in introductory provisions.
 
-    Subsec. (b)(7). [Pub. L. 113–126, § 602(a)(1)(B)][/us/pl/113/126/s602/a/1/B]–(D), added par. (7).
+    Subsec. (b)(7). [Pub. L. 113–293, § 310(1)][/us/pl/113/293/s310/1], inserted “, and consistent with subsection (j)” after “2014” in introductory provisions.
+
+    [Pub. L. 113–126, § 602(a)(1)(B)][/us/pl/113/126/s602/a/1/B]–(D), added par. (7).
+
+    Subsec. (b)(7)(A). [Pub. L. 113–293, § 310(2)][/us/pl/113/293/s310/2], substituted “alleging reprisal for having made a protected disclosure (provided the individual does not disclose classified information or other information contrary to law) to appeal any action affecting an employee’s access to classified information” for “to appeal a determination to suspend or revoke a security clearance or access to classified information”.
+
+    Subsec. (b)(7)(B). [Pub. L. 113–293, § 310(3)][/us/pl/113/293/s310/3], substituted “information following a protected disclosure,” for “information,”.
 
     Subsec. (j). [Pub. L. 113–126, § 602(b)][/us/pl/113/126/s602/b], added subsec. (j).
 
@@ -359,7 +365,7 @@
 
     Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
- __Rule of Construction__ 
+ __Construction__ 
 
 [Pub. L. 113–126, title VI, § 602(e)][/us/pl/113/126/s602/e], July 7, 2014, [128 Stat. 1419][/us/stat/128/1419], provided that: 
 
@@ -409,13 +415,18 @@
 [/us/stat/118/3705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3705
 [/us/pl/113/126/s602/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs602%2Fa%2F1
 [/us/stat/128/1416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1416
+[/us/pl/113/293/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293%2Fs310
+[/us/stat/128/3999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3999
 [/us/usc/t50/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3161
 [/us/usc/t50/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3161
 [/us/pl/95/452/s8H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs8H
 [/us/usc/t50/s435b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs435b
 [/us/pl/113/126/s602/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs602%2Fc
 [/us/pl/113/126/s602/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs602%2Fa%2F1%2FA
+[/us/pl/113/293/s310/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293%2Fs310%2F1
 [/us/pl/113/126/s602/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs602%2Fa%2F1%2FB
+[/us/pl/113/293/s310/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293%2Fs310%2F2
+[/us/pl/113/293/s310/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F293%2Fs310%2F3
 [/us/pl/113/126/s602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs602%2Fb
 [/us/pl/113/126/s602/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs602%2Fe
 [/us/stat/128/1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1419

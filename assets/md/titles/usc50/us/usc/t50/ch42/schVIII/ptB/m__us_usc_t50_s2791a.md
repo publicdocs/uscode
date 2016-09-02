@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t50/ch42/schVIII/ptB/m__us_usc_t50_s2791.md) | [Next](./../../../../../..//us/usc/t50/ch42/schVIII/ptB/m__us_usc_t50_s2792.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2791a)
+[Previous](./../../../../../..//us/usc/t50/ch42/schVIII/ptB/m__us_usc_t50_s2791.md) | [Next](./../../../../../..//us/usc/t50/ch42/schVIII/ptB/m__us_usc_t50_s2791b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2791a)
 
 ## § 2791a. Laboratory-directed research and development
 
@@ -45,7 +45,7 @@ Provisions similar to those in this section were contained in the following appr
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t50/ch42/schVIII/ptB/m__us_usc_t50_s2791.md) | [Next](./../../../../../..//us/usc/t50/ch42/schVIII/ptB/m__us_usc_t50_s2792.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2791a)
+[Previous](./../../../../../..//us/usc/t50/ch42/schVIII/ptB/m__us_usc_t50_s2791.md) | [Next](./../../../../../..//us/usc/t50/ch42/schVIII/ptB/m__us_usc_t50_s2791b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2791a)
 
 ----------
 ----------

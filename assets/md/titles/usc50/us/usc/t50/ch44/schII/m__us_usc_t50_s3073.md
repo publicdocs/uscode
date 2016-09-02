@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch44/schII/m__us_usc_t50_s3072a.md) | [Next](./../../../../..//us/usc/t50/ch44/schII/m__us_usc_t50_s3074.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3073)
+[Previous](./../../../../..//us/usc/t50/ch44/schII/m__us_usc_t50_s3072a.md) | [Next](./../../../../..//us/usc/t50/ch44/schII/m__us_usc_t50_s3073a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3073)
 
 ## § 3073. Advisory committees; appointment; compensation of part-time personnel; applicability of other laws
 
@@ -75,7 +75,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch44/schII/m__us_usc_t50_s3072a.md) | [Next](./../../../../..//us/usc/t50/ch44/schII/m__us_usc_t50_s3074.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3073)
+[Previous](./../../../../..//us/usc/t50/ch44/schII/m__us_usc_t50_s3072a.md) | [Next](./../../../../..//us/usc/t50/ch44/schII/m__us_usc_t50_s3073a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3073)
 
 ----------
 ----------
