@@ -17,11 +17,11 @@
 
     (a)  __Affiliated Organizations__  __.—__ 
 
-    The corporation may sell, at fair market value, caliber .22 rimfire and caliber .30 surplus rifles, air rifles, caliber .22 and .30 ammunition, repair parts, and other supplies to organizations affiliated with the corporation that provide training in the use of firearms.
+    The corporation may sell, at fair market value, surplus caliber .22 rimfire rifles, caliber .30 surplus rifles, and caliber .45 M1911/M1911A1 surplus pistols, air rifles, caliber .22 and .30 ammunition, repair parts, and other supplies to organizations affiliated with the corporation that provide training in the use of firearms.
 
     (b)  __Gun Club Members__  __.—__ 
 
-        (1) The corporation may sell, at fair market value, caliber .22 rimfire and caliber .30 surplus rifles, ammunition, repair parts and other supplies necessary for target practice to a citizen of the United States who is over 18 years of age and who is a member of a gun club affiliated with the corporation.
+        (1) The corporation may sell, at fair market value, surplus caliber .22 rimfire rifles, caliber .30 surplus rifles, and caliber .45 M1911/M1911A1 surplus pistols, ammunition, repair parts and other supplies necessary for target practice to a citizen of the United States who is legally of age and who is a member of a gun club affiliated with the corporation.
 
         (2) Except as provided in [section 40733 of this title][/us/usc/t36/s40733], sales under this subsection are subject to applicable United States, State, and local law. In addition to any other requirement, the corporation shall establish procedures to obtain a criminal records check of the individual with United States Government and State law enforcement agencies.
 
@@ -37,7 +37,7 @@
 
             (B) a violation of [section 922 of title 18][/us/usc/t18/s922].
 
-([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1340][/us/stat/112/1340].)
+([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1340][/us/stat/112/1340]; [Pub. L. 114–92, div. A, title X, § 1087(a)(2)(C)][/us/pl/114/92/s1087/a/2/C], Nov. 25, 2015, [129 Stat. 1013][/us/stat/129/1013].)
 
 <table>
 
@@ -159,6 +159,12 @@ Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1614(b), (c), (e)(1), 110 Stat
 
     In subsection (c)(2), the words “any item” are substituted for “rifles, ammunition, or any other item available for sale to individuals under the Civilian Marksmanship Program” to eliminate unnecessary words.
 
+ __Amendments__ 
+
+    2015—Subsec. (a). [Pub. L. 114–92, § 1087(a)(2)(C)(i)][/us/pl/114/92/s1087/a/2/C/i], substituted “surplus caliber .22 rimfire rifles, caliber .30 surplus rifles, and caliber .45 M1911/M1911A1 surplus pistols” for “caliber .22 rimfire and caliber .30 surplus rifles”.
+
+    Subsec. (b)(1). [Pub. L. 114–92][/us/pl/114/92] substituted “surplus caliber .22 rimfire rifles, caliber .30 surplus rifles, and caliber .45 M1911/M1911A1 surplus pistols” for “caliber .22 rimfire and caliber .30 surplus rifles” and “is legally of age” for “is over 18 years of age”.
+
 ----------
 
 [Previous](./../../../../../../..//us/usc/t36/stII/ptB/ch407/schII/m__us_usc_t36_s40731.md) | [Next](./../../../../../../..//us/usc/t36/stII/ptB/ch407/schII/m__us_usc_t36_s40733.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs40732)
@@ -170,5 +176,9 @@ Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1614(b), (c), (e)(1), 110 Stat
 [/us/usc/t18/s922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs922
 [/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1340
+[/us/pl/114/92/s1087/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1087%2Fa%2F2%2FC
+[/us/stat/129/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1013
+[/us/pl/114/92/s1087/a/2/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1087%2Fa%2F2%2FC%2Fi
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 
 

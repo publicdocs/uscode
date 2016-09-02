@@ -15,9 +15,15 @@
 
 ## § 40733. Applicability of other law
 
-    Section 922(a)(1)–(3) and (5) of title 18 does not apply to the shipment, transportation, receipt, transfer, sale, issuance, loan, or delivery by the corporation, of an item that the corporation is authorized to issue, loan, sell, or receive under this chapter.
+    (a)  __In General__  __.—__ 
 
-([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1341][/us/stat/112/1341].)
+    Except as provided in subsection (b), section 922(a)(1)–(3) and (5) of title 18 does not apply to the shipment, transportation, receipt, transfer, sale, issuance, loan, or delivery by the corporation, of an item that the corporation is authorized to issue, loan, sell, or receive under this chapter.
+
+    (b)  __Exception__  __.—__ 
+
+    With respect to firearms other than caliber .22 rimfire and caliber .30 rifles, the corporation shall obtain a license as a dealer in firearms and abide by all requirements imposed on persons licensed under chapter 44 of title 18, including maintaining acquisition and disposition records, and conducting background checks.
+
+([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1341][/us/stat/112/1341]; [Pub. L. 114–92, div. A, title X, § 1087(a)(2)(D)][/us/pl/114/92/s1087/a/2/D], Nov. 25, 2015, [129 Stat. 1013][/us/stat/129/1013].)
 
 <table>
 
@@ -65,6 +71,10 @@ Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1614(e)(2), 110 Stat. 518.  </
 
 </table>
 
+ __Amendments__ 
+
+    2015—[Pub. L. 114–92][/us/pl/114/92] designated existing provisions as subsec. (a), inserted heading, substituted “Except as provided in subsection (b), section” for “Section”, and added subsec. (b).
+
  __CHAPTERS 409 THROUGH 499—RESERVED__ 
 
  __Amendments__ 
@@ -80,6 +90,9 @@ Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1614(e)(2), 110 Stat. 518.  </
 
 [/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1341
+[/us/pl/114/92/s1087/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1087%2Fa%2F2%2FD
+[/us/stat/129/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1013
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/237/s3/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F237%2Fs3%2Fb%2F3
 [/us/stat/128/2836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2836
 
