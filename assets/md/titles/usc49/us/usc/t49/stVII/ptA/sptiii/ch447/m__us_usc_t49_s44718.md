@@ -165,7 +165,7 @@ Aug. 23, 1958, Pub. L. 85–726, § 1101, 72 Stat. 797; restated Dec. 30, 1987
 
  __Study of Effects of New Construction of Obstructions on Military Installations and Operations__ 
 
-[Pub. L. 111–383, div. A, title III, § 358][/us/pl/111/383/s358], Jan. 7, 2011, [124 Stat. 4198][/us/stat/124/4198], as amended by [Pub. L. 112–81, div. A, title III, § 331][/us/pl/112/81/s331], Dec. 31, 2011, [125 Stat. 1369][/us/stat/125/1369]; [Pub. L. 112–239, div. A, title X, § 1076(b)(1)][/us/pl/112/239/s1076/b/1], Jan. 2, 2013, [126 Stat. 1949][/us/stat/126/1949], provided that:
+[Pub. L. 111–383, div. A, title III, § 358][/us/pl/111/383/s358], Jan. 7, 2011, [124 Stat. 4198][/us/stat/124/4198], as amended by [Pub. L. 112–81, div. A, title III, § 331][/us/pl/112/81/s331], Dec. 31, 2011, [125 Stat. 1369][/us/stat/125/1369]; [Pub. L. 112–239, div. A, title X, § 1076(b)(1)][/us/pl/112/239/s1076/b/1], Jan. 2, 2013, [126 Stat. 1949][/us/stat/126/1949]; [Pub. L. 114–92, div. A, title III, § 314][/us/pl/114/92/s314], Nov. 25, 2015, [129 Stat. 790][/us/stat/129/790], provided that:
 
 >     “(a)  __Objective__  __.—__ 
 
@@ -201,9 +201,9 @@ Aug. 23, 1958, Pub. L. 85–726, § 1101, 72 Stat. 797; restated Dec. 30, 1987
 
 >         “(2) develop, in coordination with other departments and agencies of the Federal Government, an integrated review process to ensure timely notification and consideration of projects filed with the Secretary of Transportation pursuant to [section 44718 of title 49][/us/usc/t49/s44718], United States Code, that may have an adverse impact on military operations and readiness;
 
->         “(3) establish procedures for the Department of Defense for the coordinated consideration of and response to a request for a review received from State and local officials or the developer of a renewable energy development or other energy project, including guidance to personnel at each military installation in the United States on how to initiate such procedures and ensure a coordinated Department response while seeking to fulfill the objective under subsection (a); and
+>         “(3) establish procedures for the Department of Defense for the coordinated consideration of and response to a request for a review received from a State government, an Indian tribal government, a local government, a landowner, or the developer of an energy project, including guidance to personnel at each military installation in the United States on how to initiate such procedures and ensure a coordinated Department response while seeking to fulfill the objective under subsection (a); and
 
->         “(4) develop procedures for conducting early outreach to parties carrying out projects filed with the Secretary of Transportation pursuant to [section 44718 of title 49][/us/usc/t49/s44718], United States Code, that could have an adverse impact on military operations and readiness, and to the general public, to clearly communicate notice on actions being taken by the Department of Defense under this section and to receive comments from such parties and the general public on such actions.
+>         “(4) develop procedures for conducting early outreach to parties carrying out projects filed with the Secretary of Transportation pursuant to [section 44718 of title 49][/us/usc/t49/s44718], United States Code, that could have an adverse impact on military operations and readiness and to clearly communicate to such parties actions being taken by the Department of Defense under this section.
 
 >     “(d) __Comprehensive Review.—__ 
 
@@ -217,7 +217,7 @@ Aug. 23, 1958, Pub. L. 85–726, § 1101, 72 Stat. 797; restated Dec. 30, 1987
 
 >             “(A) assess of the magnitude of interference posed by projects filed with the Secretary of Transportation pursuant to [section 44718 of title 49][/us/usc/t49/s44718], United States Code;
 
->             “(B) identify geographic areas selected as proposed locations for projects filed, or which may be filed in the future, with the Secretary of Transportation pursuant to [section 44718 of title 49][/us/usc/t49/s44718], United States Code, where such projects could have an adverse impact on military operations and readiness and categorize the risk of adverse impact in such areas as high, medium, or low for the purpose of informing early outreach efforts under subsection (c)(4) and preliminary assessments under subsection (e); and
+>             “(B) identify geographic areas selected as proposed locations for projects filed, or which may be filed in the future, with the Secretary of Transportation pursuant to [section 44718 of title 49][/us/usc/t49/s44718], United States Code, where such projects could have an adverse impact on military operations and readiness and categorize the risk of adverse impact in such areas for the purpose of informing early outreach efforts under subsection (c)(4) and preliminary assessments under subsection (e); and
 
 >             “(C)
 
@@ -297,7 +297,11 @@ Aug. 23, 1958, Pub. L. 85–726, § 1101, 72 Stat. 797; restated Dec. 30, 1987
 
 >     Nothing in this section shall be construed to affect or limit the application of, or any obligation to comply with, any environmental law, including the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.).
 
->     “(j)  __Definitions__  __.—__ 
+>     “(j)  __Applicability of Section__  __.—__ 
+
+>     This section does not apply to a non-energy project.
+
+>     “(k)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -305,7 +309,13 @@ Aug. 23, 1958, Pub. L. 85–726, § 1101, 72 Stat. 797; restated Dec. 30, 1987
 
 >         “(2) The term ‘military installation’ has the meaning given that term in [section 2801(c)(4) of title 10][/us/usc/t10/s2801/c/4], United States Code.
 
->         “(3) The term ‘military readiness’ includes any training or operation that could be related to combat readiness, including testing and evaluation activities.”
+>         “(3) The term ‘military readiness’ includes any training or operation that could be related to combat readiness, including testing and evaluation activities.
+
+>         “(4) The term ‘energy project’ means a project that provides for the generation or transmission of electrical energy.
+
+>         “(5) The term ‘non-energy project’ means a project that is not an energy project.
+
+>         “(6) The term ‘landowner’ means a person or other legal entity that owns a fee interest in real property on which a proposed energy project is planned to be located.”
 
  __Landfills Interfering With Air Commerce__ 
 
@@ -356,6 +366,8 @@ Aug. 23, 1958, Pub. L. 85–726, § 1101, 72 Stat. 797; restated Dec. 30, 1987
 [/us/stat/125/1369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1369
 [/us/pl/112/239/s1076/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fb%2F1
 [/us/stat/126/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1949
+[/us/pl/114/92/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs314
+[/us/stat/129/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F790
 [/us/usc/t49/s44718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44718
 [/us/usc/t49/s44718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44718
 [/us/usc/t49/s44718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44718

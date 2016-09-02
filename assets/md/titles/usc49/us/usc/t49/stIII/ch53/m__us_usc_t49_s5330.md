@@ -57,6 +57,10 @@
 
 ([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 831][/us/stat/108/831]; [Pub. L. 109–59, title III][/us/pl/109/59], §§ 3002(b)(4), 3029(a), Aug. 10, 2005, [119 Stat. 1545][/us/stat/119/1545], 1625.)
 
+ __Repeal of Section__ 
+
+    [Pub. L. 112–141, div. B, § 20030(e)][/us/pl/112/141/s20030/e], July 6, 2012, [126 Stat. 731][/us/stat/126/731], provided that, effective 3 years after the effective date of the final rules issued by the Secretary of Transportation under [section 5329(e) of this title][/us/usc/t49/s5329/e], this section is repealed.
+
 <table>
 
   <tr>
@@ -176,10 +180,6 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 28; added Dec. 18, 1991, Pub.
     In subsection (e)(1), the words “under subsection (a) of this section from apportionment for use in any State in a fiscal year” are omitted as surplus.
 
     In subsection (e)(2) and (3), the words “from apportionment” and “for apportionment for use in a State” are omitted as surplus.
-
- __Repeal of Section__ 
-
-    [Pub. L. 112–141, div. B, § 20030(e)][/us/pl/112/141/s20030/e], July 6, 2012, [126 Stat. 731][/us/stat/126/731], provided that, effective 3 years after the effective date of the final rules issued by the Secretary of Transportation under [section 5329(e) of this title][/us/usc/t49/s5329/e], this section is repealed.
 
  __Amendments__ 
 
