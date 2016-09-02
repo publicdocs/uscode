@@ -75,7 +75,7 @@
 
 [Pub. L. 92–226, title IV, § 407(a)][/us/pl/92/226/s407/a], Feb. 7, 1972, [86 Stat. 35][/us/stat/86/35], provided that: 
 
-> “It is the purpose of this section \[amending sections 1476, 2680, and 2684 of this title\] to enable the Congress generally, and the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives in particular, to carry out the purposes and intent of the Legislative Reorganization Act of 1946 and 1970 \[see Short Title notes set out under [section 72a of Title 2][/us/usc/t2/s72a], The Congress\], with respect to—
+> “It is the purpose of this section \[amending sections 1476, 2680, and 2684 of this title\] to enable the Congress generally, and the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives in particular, to carry out the purposes and intent of the Legislative Reorganization Act of 1946 and 1970 \[see Short Title notes set out under [section 4301 of Title 2][/us/usc/t2/s4301], The Congress\], with respect to—
 
 >     “(1) the analysis, appraisal, and evaluation of the application, administration, and execution of the laws relating to the Department of State and the United States Information Agency and of matters relating to the foreign relations of the United States; and
 
@@ -118,6 +118,6 @@
 [/us/stat/96/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F299
 [/us/pl/92/226/s407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226%2Fs407%2Fa
 [/us/stat/86/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F35
-[/us/usc/t2/s72a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72a
+[/us/usc/t2/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4301
 
 

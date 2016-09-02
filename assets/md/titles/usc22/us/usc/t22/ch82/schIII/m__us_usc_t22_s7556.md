@@ -43,6 +43,28 @@
 
     Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2012, and not as part of the Afghanistan Freedom Support Act of 2002 which comprises this chapter.
 
+ __Completion of Accelerated Transition of Security Responsibility From United States Armed Forces to the Afghan National Security Forces__ 
+
+[Pub. L. 113–66, div. A, title XII, § 1222][/us/pl/113/66/s1222], Dec. 26, 2013, [127 Stat. 917][/us/stat/127/917], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     It is the policy of the United States, in coordination with the Government of Afghanistan, North Atlantic Treaty Organization (NATO) member countries, and other allies in Afghanistan, that—
+
+>         “(1) the accelerated transition of security responsibility from United States Armed Forces to the Afghan National Security Forces and the associated draw down of United States Armed Forces from Afghanistan shall be completed by not later than December 31, 2014;
+
+>         “(2) the United States shall support an Afghan-led and Afghan-owned peace negotiation process leading to a political settlement of the conflict in Afghanistan, with the goal of establishing a secure and independent Afghanistan and promoting regional security and stability; and
+
+>         “(3) any political settlement resulting from such peace negotiations must result in insurgent groups breaking ties with al Qaeda, renouncing violence, and accepting the Afghanistan constitution, including its protections for women and minorities.
+
+>     “(b)  __Sense of Congress__  __.—__ 
+
+>     It is the sense of Congress that, before making a public announcement regarding a decision on a United States military presence in Afghanistan after December 31, 2014, the President should consult with Congress regarding the size, mission, and estimated duration of such a presence.
+
+>     “(c)  __Rule of Construction__  __.—__ 
+
+>     Nothing in this section shall be construed so as to limit or prohibit any authority of the President to modify the military strategy, tactics, and operations of United States Armed Forces as such Armed Forces draw down from Afghanistan.”
+
 ----------
 
 [Previous](./../../../../..//us/usc/t22/ch82/schIII/m__us_usc_t22_s7555.md) | [Next](./../../../../..//us/usc/t22/ch83/m__us_usc_t22_ch83.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7556)
@@ -56,5 +78,7 @@
 [/us/stat/125/1635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1635
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/stat/122/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F385
+[/us/pl/113/66/s1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1222
+[/us/stat/127/917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F917
 
 

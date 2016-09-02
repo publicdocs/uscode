@@ -497,6 +497,224 @@
 
     Any reference in this chapter to the agency primarily responsible for administering this subchapter, or to the Administrator of such agency, deemed reference to the United States Agency for International Development or to the Administrator of that agency, as appropriate, see section 1–200(a) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title][/us/usc/t22/s2381].
 
+ __United States Security and Assistance Strategies in Africa__ 
+
+[Pub. L. 113–66, div. A, title XII, § 1206][/us/pl/113/66/s1206], Dec. 26, 2013, [127 Stat. 899][/us/stat/127/899], provided that:
+
+>     “(a) __Strategic Framework for Counterterrorism Assistance and Cooperation in the Sahel and the Maghreb Regions.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The Secretary of Defense shall, in coordination with the Secretary of State, develop a strategic framework for United States counterterrorism assistance and cooperation in the Sahel and Maghreb regions of Africa, including for programs conducted under the Trans-Sahara Counter Terrorism Partnership, Operation Enduring Freedom–Trans Sahara, and related security assistance authorities.
+
+>         “(2)  __Elements__  __.—__ 
+
+>         The strategic framework required by paragraph (1) shall include the following:
+
+>             “(A) An evaluation of the threat of terrorist organizations operating in the Sahel and Maghreb regions to the national security of the United States.
+
+>             “(B) An identification on a regional basis of the primary objectives, priorities, and desired end-states of United States counterterrorism assistance and cooperation programs in the region, and of the resources required to achieve such objectives, priorities, and end-states.
+
+>             “(C) A methodology for assessing the effectiveness of United States counterterrorism assistance and cooperation programs in the region in making progress towards the objectives and desired end-states identified pursuant to subparagraph (B), including an identification of key benchmarks of such progress.
+
+>             “(D) Criteria for bilateral and multilateral partnerships in the region.
+
+>             “(E) Plans for enhancing coordination among United States and international agencies for planning and implementation of United States counterterrorism assistance and cooperation programs for the region on a regional basis, rather than a country-by-country basis, in order to improve coordination among United States regional and bilateral counterterrorism assistance and cooperation programs in the region.
+
+>         “(3)  __Report__  __.—__ 
+
+>         Not later than 180 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Secretary of Defense and the Secretary of State shall jointly submit to the appropriate committees of Congress a report that includes the following:
+
+>             “(A) A comprehensive description of the strategic framework required by paragraph (1).
+
+>             “(B) A description of lessons learned regarding the organization and implementation of United States counterterrorism assistance and cooperation programs for the Sahel and Maghreb regions of Africa, including an evaluation of the performance and commitment of regional partners in the Sahel and Maghreb regions, including Mali in particular, in 2012 and 2013.
+
+>     “(b) __Strategy to Support Consolidation of Security and Governance Gains in Somalia.—__ 
+
+>         “(1)  __Requirement for strategy__  __.—__ 
+
+>         Not later than 180 days after the date of the enactment of this Act \[Dec. 26, 2013\], the President shall submit to the appropriate committees of Congress a strategy to guide future United States policy and programs in Somalia to counter armed threats and support regional security, and in support of Somali and international efforts to foster economic growth and opportunity, counter armed threats to stability, and develop credible, transparent, and representative government systems and institutions.
+
+>         “(2)  __Content of strategy__  __.—__ 
+
+>         The strategy required under paragraph (1) should include the following elements:
+
+>             “(A) An interagency framework to plan, coordinate and review diplomatic, military, intelligence, development, and humanitarian elements of the United States policy regarding Somalia.
+
+>             “(B)
+
+>              Plans and benchmarks for strengthening efforts, as appropriate, of the Government of Somalia, the African Union, and regional governments to stabilize the security situation within Somalia and further degrade al-Shabaab’s capabilities, in order to enable the eventual transfer of security operations to Somali security forces capable of—
+
+>                 “(i) maintaining and expanding security and stability within Somalia;
+
+>                 “(ii) confronting transnational security threats; and
+
+>                 “(iii) preventing human rights abuses.
+
+>             “(C) A plan to support the development and professionalization of credible, civilian led, Somali security forces that are representative of the population, including the infrastructure and procedures required to ensure chain of custody and the safe storage of military equipment and an assessment of the benefits and risks of the provision of weaponry to the Somali security forces by the United States.
+
+>             “(D) A description of United States national security objectives addressed through military-to-military cooperation activities with Somali security forces.
+
+>             “(E) A description of security risks to any United States personnel conducting security cooperation activities within Somalia and plans to assist the Somali security forces in preventing infiltration and insider attacks, including through the application of lessons learned in United States military training efforts in Afghanistan.
+
+>             “(F) A description of United States tools for monitoring and responding to violations of the United Nations Security Council arms embargo, charcoal ban, and other international agreements affecting the stability of Somalia.
+
+>             “(G) A description of mechanisms for coordinating United States military and non-military assistance with other international donors, regional governments, and relevant multilateral organizations.
+
+>             “(H) A plan to support the consolidation of political gains at the national level, while also encouraging and supporting complementary processes at the local and regional levels and encouraging improved collaboration among Somali national and regional administrations.
+
+>             “(I) Any plans to increase United States diplomatic engagement with Somalia, including through the future establishment of an embassy or other diplomatic posts in Mogadishu.
+
+>             “(J) Any other element the President determines appropriate.
+
+>         “(3)  __Reports__  __.—__ 
+
+>         Not later than 180 days after the date of the submission of the strategy required under paragraph (1), and annually thereafter for three years, the President shall submit to the appropriate committees of Congress an update on implementation of the strategy and progress made in Somalia and associated benchmarks for security, stability, development, and governance.
+
+>         “(4)  __Form__  __.—__ 
+
+>         The strategy required under paragraph (1) and the reports required under paragraph (3) shall be submitted in unclassified form, but may include a classified annex.
+
+>     “(c)  __Intelligence Assessment and Report on Al-Shabaab__  __.—__ 
+
+>     Not later than 90 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Director of National Intelligence shall submit to the appropriate committees of Congress a classified intelligence assessment of the terrorist organization known as al-Shabaab. Such assessment shall include the following:
+
+>         “(1) A description of organizational structure, operational objectives, and funding sources for al-Shabaab.
+
+>         “(2) An assessment of the extent to which al-Shabaab threatens security and stability within Somalia and surrounding countries.
+
+>         “(3) An assessment of the extent to which al-Shabaab threatens the security of United States citizens or the national security or interests of the United States.
+
+>         “(4) The description of the relationship between al-Shabaab and al-Qaeda and al-Qaeda affiliates.
+
+>         “(5) An assessment of the capacity of the Government of Somalia to counter the threat posed by al-Shabaab.
+
+>         “(6) An assessment of the capacity of regional countries and organizations, including the African Union, to counter the threat posed by al-Shabaab.
+
+>     “(d)  __Designation of Government Official for Africa Export Policy__  __.—__ 
+
+>     Not later than 60 days after the date of the enactment of this Act \[Dec. 26, 2013\], and for the following three years, the President shall designate an existing senior United States Government official with existing interagency authority for export policy for Africa to coordinate among various United States Government agencies existing export strategies with the goal of significantly increasing United States exports to Africa in real dollar value.
+
+>     “(e)  __Appropriate Committees of Congress Defined__  __.—__ 
+
+>     In this section, the term ‘appropriate committees of Congress’ means—
+
+>         “(1) the Committee on Armed Services, the Committee on Foreign Relations, the Committee on Appropriations, and the Select Committee on Intelligence of the Senate; and
+
+>         “(2) the Committee on Armed Services, the Committee on Foreign Affairs, the Committee on Appropriations, and the Permanent Select Committee on Intelligence of the House of Representatives.”
+
+ __Assistance to the Government of Jordan for Border Security Operations__ 
+
+[Pub. L. 113–66, div. A, title XII, § 1207][/us/pl/113/66/s1207], Dec. 26, 2013, [127 Stat. 902][/us/stat/127/902], provided that:
+
+>     “(a) __Authority To Provide Assistance.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The Secretary of Defense may, with the concurrence of the Secretary of State, provide assistance on a reimbursement basis to the Government of Jordan for purposes of supporting and maintaining efforts of the armed forces of Jordan to increase security and sustain increased security along the border between Jordan and Syria.
+
+>         “(2)  __Frequency__  __.—__ 
+
+>         Assistance under this subsection may be provided on a quarterly basis.
+
+>         “(3)  __Certification__  __.—__ 
+
+>         Assistance may be provided under this subsection only if the Secretary of Defense certifies to the specified congressional committees that the Government of Jordan is continuing to support and maintain efforts of the armed forces of Jordan to increase security or sustain increased security along the border between Jordan and Syria.
+
+>     “(b)  __Funds Available for Assistance__  __.—__ 
+
+>     Amounts authorized to be appropriated for fiscal year 2014 by title XV \[[127 Stat. 935][/us/stat/127/935]\] and available for reimbursement of certain coalition nations for support provided to United States military operations pursuant to section 1233 of the National Defense Authorization Act for Fiscal Year 2008 ([Public Law 110–181][/us/pl/110/181]) \[[122 Stat. 393][/us/stat/122/393]\] as specified in the funding table in section 4302 \[[127 Stat. 1137][/us/stat/127/1137]\] may be used to provide assistance under the authority in subsection (a).
+
+>     “(c) __Limitations.—__ 
+
+>         “(1)  __Limitation on amount__  __.—__ 
+
+>         The total amount of assistance provided under the authority in subsection (a) may not exceed $150,000,000.
+
+>         “(2)  __Prohibition on contractual obligations__  __.—__ 
+
+>         The Secretary of Defense may not enter into any contractual obligation to provide assistance under the authority in subsection (a).
+
+>     “(d)  __Notice Before Exercise__  __.—__ 
+
+>     Not later than 15 days before providing assistance under the authority in subsection (a), the Secretary of Defense shall submit to the specified congressional committees a report setting forth a full description of the assistance to be provided, including the amount of assistance to be provided, and the timeline for the provision of such assistance.
+
+>     “(e)  __Specified Congressional Committees__  __.—__ 
+
+>     In this section, the term ‘specified congressional committees’ means—
+
+>         “(1) the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]; and
+
+>         “(2) the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
+
+>     “(f)  __Expiration of Authority__  __.—__ 
+
+>     No assistance may be provided under the authority in subsection (a) after December 31, 2015.”
+
+ __Support of Foreign Forces Participating in Operations To Disarm the Lord’s Resistance Army__ 
+
+[Pub. L. 113–66, div. A, title XII, § 1208(a)][/us/pl/113/66/s1208/a]–(f), Dec. 26, 2013, [127 Stat. 903][/us/stat/127/903], 904, provided that:
+
+>     “(a)  __Authority__  __.—__ 
+
+>     Pursuant to the policy established by the Lord’s Resistance Army Disarmament and Northern Uganda Recovery Act of 2009 ([Public Law 111–172][/us/pl/111/172]; [124 Stat. 1209][/us/stat/124/1209]) \[set out below\], the Secretary of Defense may, with the concurrence of Secretary of State, provide logistic support, supplies, and services, and intelligence support, to foreign forces participating in operations to mitigate and eliminate the threat posed by the Lord’s Resistance Army as follows:
+
+>         “(1) The national military forces of Uganda.
+
+>         “(2) The national military forces of any other country determined by the Secretary of Defense to be participating in such operations.
+
+>     “(b) __Funding.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Of the amount authorized to be appropriated for a fiscal year for the Department of Defense for operation and maintenance, not more than $50,000,000 may be used in such fiscal year to provide support under subsection (a).
+
+>         “(2)  __Availability of funds across fiscal years__  __.—__ 
+
+>         Amounts available under this subsection for a fiscal year for support under the authority in subsection (a) may be used for support under that authority that begins in such fiscal year but ends in the next fiscal year.
+
+>     “(c) __Limitations.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The Secretary of Defense may not use the authority in subsection (a) to provide any type of support that is otherwise prohibited by any provision of law.
+
+>         “(2)  __Availability of funds for fiscal year 2014__  __.—__ 
+
+>         Of the amount available under subsection (b) for fiscal year 2014, not more than $37,500,000 may be obligated or expended to provide support under subsection (a) until the Secretary submits to the appropriate committees of Congress a report on Operation Observant Compass, including the specific goals of the campaign to counter the Lord’s Resistance Army, the precise metrics used to measure progress in the campaign, and the actions that will be taken to transition the campaign if it is determined that it is no longer necessary for the United States to support the mission of the campaign.
+
+>     “(d)  __Notice to Congress on Support To Be Provided__  __.—__ 
+
+>     Not less than 15 days before the date on which funds are obligated to provide support under subsection (a), the Secretary of Defense shall submit to the appropriate committees of Congress a notice setting forth the following:
+
+>         “(1) The type of support to be provided.
+
+>         “(2) The national military forces to be supported.
+
+>         “(3) The objectives of such support.
+
+>         “(4) The estimated cost of such support.
+
+>         “(5) The intended duration of such support.
+
+>     “(e)  __Definitions__  __.—__ 
+
+>     In this section:
+
+>         “(1)
+
+>          The term ‘appropriate committees of Congress’ means—
+
+>             “(A) the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate; and
+
+>             “(B) the Committee on Armed Services, the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives.
+
+>         “(2) The term ‘logistic support, supplies, and services’ has the meaning given that term in [section 2350(1) of title 10][/us/usc/t10/s2350/1], United States Code.
+
+>     “(f)  __Expiration__  __.—__ 
+
+>     The authority provided under this section may not be exercised after September 30, 2017.”
+
  __Reports on Responsibility Within Department of State and the United States Agency for International Development for Contract Support for Overseas Contingency Operations__ 
 
 [Pub. L. 112–239, div. A, title VIII, § 850][/us/pl/112/239/s850], Jan. 2, 2013, [126 Stat. 1854][/us/stat/126/1854], provided that:
@@ -547,7 +765,7 @@
 
  __Global Security Contingency Fund__ 
 
-[Pub. L. 112–81, div. A, title XII, § 1207][/us/pl/112/81/s1207], Dec. 31, 2011, [125 Stat. 1625][/us/stat/125/1625], provided that:
+[Pub. L. 112–81, div. A, title XII, § 1207][/us/pl/112/81/s1207], Dec. 31, 2011, [125 Stat. 1625][/us/stat/125/1625], as amended by [Pub. L. 113–66, div. A, title XII, § 1202][/us/pl/113/66/s1202], Dec. 26, 2013, [127 Stat. 893][/us/stat/127/893], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -555,13 +773,13 @@
 
 >     “(b)  __Authority__  __.—__ 
 
->     Notwithstanding any other provision of law (other than the provisions of section 620A of the Foreign Assistance Act of 1961 ([22 U.S.C. 2371][/us/usc/t22/s2371]) and the section 620J of such Act relating to limitations on assistance to security forces ([22 U.S.C. 2378d][/us/usc/t22/s2378d])), amounts in the Fund shall be available to either the Secretary of State or the Secretary of Defense to provide assistance to countries designated by the Secretary of State, with the concurrence of the Secretary of Defense, for purposes of this section, as follows:
+>     Notwithstanding any other provision of law (other than the provisions of section 620A of the Foreign Assistance Act of 1961 ([22 U.S.C. 2371][/us/usc/t22/s2371]) and the section 620J of such Act relating to limitations on assistance to security forces ([22 U.S.C. 2378d][/us/usc/t22/s2378d])), amounts in the Fund shall be available to either the Secretary of State or the Secretary of Defense to provide assistance to countries or regions designated by the Secretary of State, with the concurrence of the Secretary of Defense, for purposes of this section, as follows:
 
 >         “(1)
 
->          To enhance the capabilities of a country’s national military forces, and other national security forces that conduct border and maritime security, internal defense, and counterterrorism operations, as well as the government agencies responsible for such forces, to—
+>          To enhance the capabilities of a country’s national military forces, or other national security forces that conduct border and maritime security, internal defense, and counterterrorism operations, as well as the government agencies responsible for such forces, to—
 
->             “(A) conduct border and maritime security, internal defense, and counterterrorism operations; and
+>             “(A) conduct border and maritime security, internal defense, or counterterrorism operations; or
 
 >             “(B) participate in or support military, stability, or peace support operations consistent with United States foreign policy and national security interests.
 
@@ -633,111 +851,33 @@
 
 >     The head of an agency of the United States Government may detail personnel to the Department of State to carry out the purposes of this section, with or without reimbursement for all or part of the costs of salaries and other expenses associated with such personnel.
 
->     “(l) __Notices to Congress.—__ 
+>     “(l)  __Notices to Congress__  __.—__ 
 
->         “(1)  __In general__  __.—__ 
+>     Not less than 30 days before initiating an activity under a program of assistance under subsection (b), the Secretary of State and the Secretary of Defense shall jointly submit to the specified congressional committees a notification that includes the following:
 
->         Not less than 15 days before initiating an activity under a program of assistance under subsection (b), the Secretary of State, with the concurrence of the Secretary of Defense, shall submit to the specified congressional committees a notification that includes the following:
+>         “(1) A notification of the intent to transfer funds into the Fund under subsection (f) or any other authority, including the original source of the funds.
 
->             “(A) A detailed justification for the program.
+>         “(2) A detailed justification for the total anticipated program for each country, including total anticipated costs and the specific activities contained therein.
 
->             “(B) The budget, execution plan and timeline, and anticipated completion date for the activity.
+>         “(3) The budget, execution plan and timeline, and anticipated completion date for the activity.
 
->             “(C) A list of other security-related assistance or justice sector and stabilization assistance that the United States is currently providing the country concerned and that is related to or supported by the activity.
+>         “(4) A list of other security-related assistance or justice sector and stabilization assistance that the United States is currently providing the country concerned and that is related to or supported by the activity.
 
->             “(D) Such other information relating to the program or activity as the Secretary of State or Secretary of Defense considers appropriate.
+>         “(5) Such other information relating to the program or activity as the Secretary of State or Secretary of Defense considers appropriate.
 
->         “(2)  __Exercise of transfer authority__  __.—__ 
+>     “(m)  __Guidance and Processes for Exercise of Authority__  __.—__ 
 
->         No transfer of funds into the Fund under subsection (f) or any other authority may occur until 15 days after the specified congressional committees are notified of the transfer.
+>     Not later than 15 days after the date on which guidance and processes for implementation of the authority in subsection (b) have been issued, the Secretary of State and the Secretary of Defense shall jointly submit a report to the specified congressional committees on such guidance and processes. The Secretary of State and Secretary of Defense shall jointly submit additional reports not later than 15 days after the date on which any future modifications to the guidance and processes for implementation of the authority in subsection (b) are issued.
 
->         “(3)  __Guidance and processes for exercise of authority__  __.—__ 
+>     “(n)  __Annual Reports__  __.—__ 
 
->         The Secretary of State, with the concurrence of the Secretary of Defense, shall notify the specified congressional committees 15 days after the date on which all necessary guidance has been issued and processes for implementation of the authority in subsection (b) are established and fully operational.
-
->     “(m)  __Annual Reports__  __.—__ 
-
->     Not later than October 30, 2012, and annually thereafter until the expiration of the authority in subsection (b) pursuant to subsection (q), the Secretary of State and the Secretary of Defense jointly shall submit to the specified congressional committees a report on the following:
+>     Not later than October 30 each year until the expiration of the authority in subsection (b) pursuant to subsection (p), the Secretary of State and the Secretary of Defense jointly shall submit to the specified congressional committees a report on the following:
 
 >         “(1) The obligation of funds from, and transfer of funds into, the Fund during the preceding fiscal year.
 
 >         “(2) The status of programs and activities authorized under this section during the preceding fiscal year.
 
->     “(n) __Transitional Authorities.—__ 
-
->         “(1)  __In general__  __.—__ 
-
->         The Secretary of Defense may, with the concurrence of the Secretary of State, provide the types of assistance described in subsection (c), and assistance for minor military construction, during fiscal year 2012 as follows:
-
->             “(A) To enhance the capacity of the national military forces, security agencies serving a similar defense function, and border security forces of Djibouti, Ethiopia, and Kenya to conduct counterterrorism operations against al-Qaeda, al-Qaeda affiliates, and al Shabaab.
-
->             “(B) To enhance the capacity of national military forces participating in the African Union Mission in Somalia to conduct counterterrorism operations described in subparagraph (A).
-
->             “(C) To enhance the ability of the Yemen Ministry of Interior Counter Terrorism Forces to conduct counter-terrorism operations against al-Qaeda in the Arabian Peninsula and its affiliates.
-
->         “(2) __Limitations.—__ 
-
->             “(A)  __Assistance otherwise prohibited by law__  __.—__ 
-
->             The Secretary of Defense may not use the authority in this subsection to provide any type of assistance that is otherwise prohibited by any provision of law.
-
->             “(B)  __Eligible countries__  __.—__ 
-
->             The Secretary of Defense may not use the authority in this subsection to provide a type of assistance to a foreign country that is otherwise prohibited from receiving such type of assistance under any other provision of law.
-
->             “(C)  __Yemen__  __.—__ 
-
->             The authority specified in paragraph (1)(C), and the authority to provide assistance pursuant to section 1206 of the National Defense Authorization Act for Fiscal Year 2006 ([Public Law 109–163][/us/pl/109/163]; [119 Stat. 2456][/us/stat/119/2456] \[3456\]), may not be used for Yemen until 30 days after the date on which the Secretary of Defense and the Secretary of State jointly certify in writing to the specified congressional committees that the use of such authority is important to the national security interests of the United States. The certification shall include the following:
-
->                 “(i) The reasons for the certification.
-
->                 “(ii) A justification for the provision of assistance.
-
->                 “(iii) An acknowledgment by the Secretary of Defense and the Secretary of State that they have received assurance from the Government of Yemen that any assistance so provided will be utilized in manner consistent with subsection (c)(2).
-
->         “(3)  __Notice to congress__  __.—__ 
-
->         Not less than 15 days before funds are obligated to provide assistance under this subsection, the Secretary of Defense shall submit to the specified congressional committees a notice setting forth the following:
-
->             “(A) The type of assistance to be provided.
-
->             “(B) The national military forces to be supported.
-
->             “(C) The objectives of such assistance.
-
->             “(D) The estimated cost of such assistance.
-
->             “(E) The intended duration of such assistance.
-
->         “(4) __Termination.—__ 
-
->             “(A)  __In general__  __.—__ 
-
->             Assistance authorized by this subsection may be provided until the earlier of—
-
->                 “(i) the date on which the Secretary of State determines that all necessary guidance has been issued and processes for implementation of the authority in subsection (b) are established and fully operational; or
-
->                 “(ii) September 30, 2012.
-
->             “(B)  __Completion of ongoing activities after termination__  __.—__ 
-
->             An assistance activity authorized by this subsection that begins before the date of termination provided in subparagraph (A) may be completed after that date, but only using funds available before that date.
-
->     “(o) __Funding.—__ 
-
->         “(1)  __Fiscal year 2012__  __.—__ 
-
->         The total amount available to the Department of Defense and the Department of State to provide assistance under this section during fiscal year 2012 may not exceed $350,000,000, of which—
-
->             “(A) $75,000,000 may be used for assistance authorized by subparagraphs (A) and (B) of subsection (n)(1); and
-
->             “(B) $75,000,000 may be used for assistance authorized by subparagraph (C) of subsection (n)(1).
-
->         “(2)  __Fiscal years 2013 and after__  __.—__ 
-
->         The total amount available to the Department of Defense and the Department of State to provide assistance under this section during a fiscal year after fiscal year 2012 may not exceed $300,000,000.
-
->     “(p)  __Specified Congressional Committees__  __.—__ 
+>     “(o)  __Specified Congressional Committees__  __.—__ 
 
 >     In this section, the term ‘specified congressional committees’ means—
 
@@ -745,81 +885,13 @@
 
 >         “(2) the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate.
 
->     “(q)  __Expiration__  __.—__ 
+>     “(p)  __Expiration__  __.—__ 
 
 >     The authority under this section may not be exercised after September 30, 2015. An activity under a program authorized by subsection (b) commenced before that date may be completed after that date, but only using funds available for fiscal years 2012 through 2015.”
 
  __Lord’s Resistance Army Disarmament and Northern Uganda Recovery__ 
 
-[Pub. L. 112–81, div. A, title XII, § 1206][/us/pl/112/81/s1206], Dec. 31, 2011, [125 Stat. 1624][/us/stat/125/1624], provided that:
-
->     “(a)  __Authority__  __.—__ 
-
->     Pursuant to the policy established by the Lord’s Resistance Army Disarmament and Northern Uganda Recovery Act of 2009 ([Public Law 111–172][/us/pl/111/172]; [124 Stat. 1209][/us/stat/124/1209] \[set out below\]), the Secretary of Defense may, with the concurrence of Secretary of State, provide logistic support, supplies, and services for foreign forces participating in operations to mitigate and eliminate the threat posed by the Lord’s Resistance Army as follows:
-
->         “(1) The national military forces of Uganda.
-
->         “(2) The national military forces of any other country determined by the Secretary of Defense, with the concurrence of the Secretary of State, to be participating in such operations.
-
->     “(b)  __Participation of United States Personnel__  __.—__ 
-
->     No United States Armed Forces personnel, United States civilian employees, or United States civilian contractor personnel may participate in combat operations in connection with the provision of support under subsection (a), except for the purpose of acting in self-defense or of rescuing any United States citizen (including any member of the United States Armed Forces, any United States civilian employee, or any United States civilian contractor).
-
->     “(c) __Funding.—__ 
-
->         “(1)  __In general__  __.—__ 
-
->         Of the amount authorized to be appropriated for the Department of Defense for each of fiscal years 2012 and 2013 for operation and maintenance, not more than $35,000,000 may be utilized in each such fiscal year to provide support under subsection (a).
-
->         “(2)  __Availability of funds across fiscal years__  __.—__ 
-
->         Amounts available under this subsection for a fiscal year for support under the authority in subsection (a) may be used for support under that authority that begins in such fiscal year but ends in the next fiscal year.
-
->     “(d) __Limitations.—__ 
-
->         “(1)  __In general__  __.—__ 
-
->         The Secretary of Defense may not use the authority in subsection (a) to provide any type of support that is otherwise prohibited by any provision of law.
-
->         “(2)  __Eligible countries__  __.—__ 
-
->         The Secretary of Defense may not use the authority in subsection (a) to provide support to any foreign country that is otherwise prohibited from receiving such type of support under any other provision of law.
-
->     “(e)  __Notice to Congress on Eligible Countries__  __.—__ 
-
->     The Secretary of Defense may not provide support under subsection (a) for the national military forces of a country determined to be eligible for such support under that subsection until the Secretary notifies the appropriate committees of Congress of the eligibility of the country for such support.
-
->     “(f)  __Notice to Congress on Support to Be Provided__  __.—__ 
-
->     Not less than 15 days before the date on which funds are obligated to provide support under subsection (a), the Secretary of Defense shall submit to the appropriate committees of Congress a notice setting forth the following:
-
->         “(1) The type of support to be provided.
-
->         “(2) The national military forces to be supported.
-
->         “(3) The objectives of such support.
-
->         “(4) The estimated cost of such support.
-
->         “(5) The intended duration of such support.
-
->     “(g)  __Definitions__  __.—__ 
-
->     In this section:
-
->         “(1)
-
->          The term ‘appropriate committees of Congress’ means—
-
->             “(A) the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate; and
-
->             “(B) the Committee on Armed Services, the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives.
-
->         “(2) The term ‘logistic support, supplies, and services’ has the meaning given that term in [section 2350(1) of title 10][/us/usc/t10/s2350/1], United States Code.
-
->     “(h)  __Expiration__  __.—__ 
-
->     The authority provided under this section may not be exercised after September 30, 2013.”
+    [Pub. L. 112–81, div. A, title XII, § 1206][/us/pl/112/81/s1206], Dec. 31, 2011, [125 Stat. 1624][/us/stat/125/1624], which related to logistic support, supplies, and services for foreign forces in operations against the Lord’s Resistance Army, was repealed by [Pub. L. 113–66, div. A, title XII, § 1208(g)][/us/pl/113/66/s1208/g], Dec. 26, 2013, [127 Stat. 904][/us/stat/127/904].
 
 [Pub. L. 111–172][/us/pl/111/172], May 24, 2010, [124 Stat. 1209][/us/stat/124/1209], provided that:
 
@@ -2968,22 +3040,34 @@ Sec. 2. National Action Plan. A National Action Plan shall be created pursuant t
 [/us/usc/t22/s1922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1922
 [/us/usc/t22/s1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1783
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
+[/us/pl/113/66/s1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1206
+[/us/stat/127/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F899
+[/us/pl/113/66/s1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1207
+[/us/stat/127/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F902
+[/us/stat/127/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F935
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/stat/122/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F393
+[/us/stat/127/1137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1137
+[/us/pl/113/66/s1208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1208%2Fa
+[/us/stat/127/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F903
+[/us/pl/111/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F172
+[/us/stat/124/1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1209
+[/us/usc/t10/s2350/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2350%2F1
 [/us/pl/112/239/s850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs850
 [/us/stat/126/1854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1854
 [/us/pl/112/81/s1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1207
 [/us/stat/125/1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1625
+[/us/pl/113/66/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1202
+[/us/stat/127/893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F893
 [/us/usc/t22/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2371
 [/us/usc/t22/s2378d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2378d
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/stat/125/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1554
 [/us/usc/t22/s2395/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2395%2Fd
-[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
-[/us/stat/119/2456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2456
 [/us/pl/112/81/s1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1206
 [/us/stat/125/1624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1624
-[/us/pl/111/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F172
-[/us/stat/124/1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1209
-[/us/usc/t10/s2350/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2350%2F1
+[/us/pl/113/66/s1208/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1208%2Fg
+[/us/stat/127/904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F904
 [/us/pl/111/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F172
 [/us/stat/124/1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1209
 [/us/usc/t8/s1182/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fa%2F3

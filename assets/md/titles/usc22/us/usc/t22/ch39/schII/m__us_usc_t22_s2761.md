@@ -81,9 +81,9 @@
 
             (A)
 
-             The President may waive the charges for administrative services that would otherwise be required by paragraph (1)(A) in connection with any sale to the Maintenance and Supply Agency of the North Atlantic Treaty Organization in support of—
+             The President may waive the charges for administrative services that would otherwise be required by paragraph (1)(A) in connection with any sale to the North Atlantic Treaty Organization (NATO) Support Organization and its executive agencies in support of—
 
-                (i) a weapon system partnership agreement; or
+                (i) a support partnership agreement; or
 
                 (ii) a NATO/SHAPE project.
 
@@ -95,11 +95,11 @@
 
                 (i)
 
-                 the term “weapon system partnership agreement” means an agreement between two or more member countries of the Maintenance and Supply Agency of the North Atlantic Treaty Organization that—
+                 the term “weapon system partnership agreement” means an agreement between two or more member countries of the North Atlantic Treaty Organization (NATO) Support Organization and its executive agencies that—
 
                     (I) is entered into pursuant to the terms of the charter of that organization; and
 
-                    (II) is for the common logistic support of a specific weapon system common to the participating countries; and
+                    (II) is for the common logistic support of activities common to the participating countries; and
 
                 (ii) the term “NATO/SHAPE project” means a common-funded project supported by allocated credits from North Atlantic Treaty Organization bodies or by host nations with NATO Infrastructure funds.
 
@@ -223,7 +223,7 @@
 
             The authority of the President to accept the return of a defense article as provided in paragraph (1) shall not be subject to chapter 137 of title 10 or any other provision of law relating to the conclusion of contracts.
 
-([Pub. L. 90–629][/us/pl/90/629], ch. 2, § 21, Oct. 22, 1968, [82 Stat. 1323][/us/stat/82/1323]; [Pub. L. 94–329, title II][/us/pl/94/329], §§ 205, 206, June 30, 1976, [90 Stat. 736][/us/stat/90/736], 738; [Pub. L. 95–384, § 16][/us/pl/95/384/s16], Sept. 26, 1978, [92 Stat. 740][/us/stat/92/740]; [Pub. L. 96–92, § 12][/us/pl/96/92/s12], Oct. 29, 1979, [93 Stat. 705][/us/stat/93/705]; [Pub. L. 96–533, title I][/us/pl/96/533], §§ 102, 103, 105(b)(1), 115(b)(2), Dec. 16, 1980, [94 Stat. 3132][/us/stat/94/3132], 3134, 3140; [Pub. L. 97–113, title I][/us/pl/97/113], §§ 103, 104, Dec. 29, 1981, [95 Stat. 1521][/us/stat/95/1521]; [Pub. L. 97–392, § 3][/us/pl/97/392/s3], Dec. 29, 1982, [96 Stat. 1963][/us/stat/96/1963]; [Pub. L. 98–473, title I, § 101(1)][/us/pl/98/473/s101/1] \[title III, § 301\], Oct. 12, 1984, [98 Stat. 1884][/us/stat/98/1884], 1895; [Pub. L. 99–83, title I][/us/pl/99/83], §§ 107(a), 108–111, Aug. 8, 1985, [99 Stat. 196][/us/stat/99/196], 197; [Pub. L. 100–202, § 101(e)][/us/pl/100/202/s101/e] \[title V, § 580\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–181; [Pub. L. 100–456, div. A, title X, § 1002][/us/pl/100/456/s1002], Sept. 29, 1988, [102 Stat. 2037][/us/stat/102/2037]; [Pub. L. 101–165, title IX, § 9104(c)][/us/pl/101/165/s9104/c], Nov. 21, 1989, [103 Stat. 1152][/us/stat/103/1152]; [Pub. L. 102–25, title VII, § 705(d)(1)][/us/pl/102/25/s705/d/1], Apr. 6, 1991, [105 Stat. 120][/us/stat/105/120]; [Pub. L. 102–484, div. A, title I, § 114][/us/pl/102/484/s114], Oct. 23, 1992, [106 Stat. 2333][/us/stat/106/2333]; [Pub. L. 103–236, title VII, § 731(d)][/us/pl/103/236/s731/d], Apr. 30, 1994, [108 Stat. 503][/us/stat/108/503]; [Pub. L. 104–106, div. A, title I, § 112][/us/pl/104/106/s112], div. D, title XLIII, § 4303(a), Feb. 10, 1996, [110 Stat. 206][/us/stat/110/206], 658; [Pub. L. 104–164, title I][/us/pl/104/164], §§ 104(b)(1), 112(c)(2), 147(a)(3)(A), (b), 152(a), (b), July 21, 1996, [110 Stat. 1426][/us/stat/110/1426], 1428, 1435, 1438, 1439; [Pub. L. 104–201, div. B, title XXVIII, § 2802(d)(2)][/us/pl/104/201/s2802/d/2], Sept. 23, 1996, [110 Stat. 2787][/us/stat/110/2787]; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XII, § 1222\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–498; [Pub. L. 109–102, title V, § 534][/us/pl/109/102/s534](l)(1), (2), Nov. 14, 2005, [119 Stat. 2211][/us/stat/119/2211]; [Pub. L. 110–429, title II, § 203(b)(1)][/us/pl/110/429/s203/b/1], (3), (4), Oct. 15, 2008, [122 Stat. 4845][/us/stat/122/4845]; [Pub. L. 111–266, title III, § 301(1)][/us/pl/111/266/s301/1], Oct. 8, 2010, [124 Stat. 2804][/us/stat/124/2804].)
+([Pub. L. 90–629][/us/pl/90/629], ch. 2, § 21, Oct. 22, 1968, [82 Stat. 1323][/us/stat/82/1323]; [Pub. L. 94–329, title II][/us/pl/94/329], §§ 205, 206, June 30, 1976, [90 Stat. 736][/us/stat/90/736], 738; [Pub. L. 95–384, § 16][/us/pl/95/384/s16], Sept. 26, 1978, [92 Stat. 740][/us/stat/92/740]; [Pub. L. 96–92, § 12][/us/pl/96/92/s12], Oct. 29, 1979, [93 Stat. 705][/us/stat/93/705]; [Pub. L. 96–533, title I][/us/pl/96/533], §§ 102, 103, 105(b)(1), 115(b)(2), Dec. 16, 1980, [94 Stat. 3132][/us/stat/94/3132], 3134, 3140; [Pub. L. 97–113, title I][/us/pl/97/113], §§ 103, 104, Dec. 29, 1981, [95 Stat. 1521][/us/stat/95/1521]; [Pub. L. 97–392, § 3][/us/pl/97/392/s3], Dec. 29, 1982, [96 Stat. 1963][/us/stat/96/1963]; [Pub. L. 98–473, title I, § 101(1)][/us/pl/98/473/s101/1] \[title III, § 301\], Oct. 12, 1984, [98 Stat. 1884][/us/stat/98/1884], 1895; [Pub. L. 99–83, title I][/us/pl/99/83], §§ 107(a), 108–111, Aug. 8, 1985, [99 Stat. 196][/us/stat/99/196], 197; [Pub. L. 100–202, § 101(e)][/us/pl/100/202/s101/e] \[title V, § 580\], Dec. 22, 1987, [101 Stat. 1329–131][/us/stat/101/1329-131], 1329–181; [Pub. L. 100–456, div. A, title X, § 1002][/us/pl/100/456/s1002], Sept. 29, 1988, [102 Stat. 2037][/us/stat/102/2037]; [Pub. L. 101–165, title IX, § 9104(c)][/us/pl/101/165/s9104/c], Nov. 21, 1989, [103 Stat. 1152][/us/stat/103/1152]; [Pub. L. 102–25, title VII, § 705(d)(1)][/us/pl/102/25/s705/d/1], Apr. 6, 1991, [105 Stat. 120][/us/stat/105/120]; [Pub. L. 102–484, div. A, title I, § 114][/us/pl/102/484/s114], Oct. 23, 1992, [106 Stat. 2333][/us/stat/106/2333]; [Pub. L. 103–236, title VII, § 731(d)][/us/pl/103/236/s731/d], Apr. 30, 1994, [108 Stat. 503][/us/stat/108/503]; [Pub. L. 104–106, div. A, title I, § 112][/us/pl/104/106/s112], div. D, title XLIII, § 4303(a), Feb. 10, 1996, [110 Stat. 206][/us/stat/110/206], 658; [Pub. L. 104–164, title I][/us/pl/104/164], §§ 104(b)(1), 112(c)(2), 147(a)(3)(A), (b), 152(a), (b), July 21, 1996, [110 Stat. 1426][/us/stat/110/1426], 1428, 1435, 1438, 1439; [Pub. L. 104–201, div. B, title XXVIII, § 2802(d)(2)][/us/pl/104/201/s2802/d/2], Sept. 23, 1996, [110 Stat. 2787][/us/stat/110/2787]; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XII, § 1222\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–498; [Pub. L. 109–102, title V, § 534][/us/pl/109/102/s534](l)(1), (2), Nov. 14, 2005, [119 Stat. 2211][/us/stat/119/2211]; [Pub. L. 110–429, title II, § 203(b)(1)][/us/pl/110/429/s203/b/1], (3), (4), Oct. 15, 2008, [122 Stat. 4845][/us/stat/122/4845]; [Pub. L. 111–266, title III, § 301(1)][/us/pl/111/266/s301/1], Oct. 8, 2010, [124 Stat. 2804][/us/stat/124/2804]; [Pub. L. 113–66, div. A, title XII, § 1250(b)][/us/pl/113/66/s1250/b], Dec. 26, 2013, [127 Stat. 926][/us/stat/127/926].)
 
  __References in Text__ 
 
@@ -238,6 +238,14 @@
     Amendment by [Pub. L. 98–473][/us/pl/98/473] is based on section 102 of S. 2346, Ninety-eighth Congress, as introduced in the Senate Feb. 27, 1984, which was enacted into permanent law by [Pub. L. 98–473][/us/pl/98/473].
 
  __Amendments__ 
+
+    2013—Subsec. (e)(3)(A). [Pub. L. 113–66, § 1250(b)(1)][/us/pl/113/66/s1250/b/1], substituted “North Atlantic Treaty Organization (NATO) Support Organization and its executive agencies” for “Maintenance and Supply Agency of the North Atlantic Treaty Organization” in introductory provisions.
+
+    Subsec. (e)(3)(A)(i). [Pub. L. 113–66, § 1250(b)(2)][/us/pl/113/66/s1250/b/2], substituted “support partnership agreement” for “weapon system partnership agreement”.
+
+    Subsec. (e)(3)(C)(i). [Pub. L. 113–66, § 1250(b)(1)][/us/pl/113/66/s1250/b/1], substituted “North Atlantic Treaty Organization (NATO) Support Organization and its executive agencies” for “Maintenance and Supply Agency of the North Atlantic Treaty Organization” in introductory provisions.
+
+    Subsec. (e)(3)(C)(i)(II). [Pub. L. 113–66, § 1250(b)(3)][/us/pl/113/66/s1250/b/3], substituted “activities” for “a specific weapon system”.
 
     2010—Subsec. (e)(2)(A). [Pub. L. 111–266][/us/pl/111/266] inserted “Israel,” before “or New Zealand”.
 
@@ -452,6 +460,8 @@
 [/us/stat/122/4845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4845
 [/us/pl/111/266/s301/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F266%2Fs301%2F1
 [/us/stat/124/2804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2804
+[/us/pl/113/66/s1250/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1250%2Fb
+[/us/stat/127/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F926
 [/us/pl/90/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F629
 [/us/stat/82/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1321
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
@@ -462,6 +472,10 @@
 [/us/pl/94/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F106
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/113/66/s1250/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1250%2Fb%2F1
+[/us/pl/113/66/s1250/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1250%2Fb%2F2
+[/us/pl/113/66/s1250/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1250%2Fb%2F1
+[/us/pl/113/66/s1250/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1250%2Fb%2F3
 [/us/pl/111/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F266
 [/us/pl/110/429/s203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F429%2Fs203%2Fb%2F1
 [/us/pl/110/429/s203/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F429%2Fs203%2Fb%2F3

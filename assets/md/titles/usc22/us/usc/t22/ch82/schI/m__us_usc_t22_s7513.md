@@ -297,7 +297,7 @@
 
  __Authority To Establish a Program To Develop and Carry Out Infrastructure Projects in Afghanistan__ 
 
-[Pub. L. 111–383, div. A, title XII, § 1217][/us/pl/111/383/s1217], Jan. 7, 2011, [124 Stat. 4393][/us/stat/124/4393], as amended by [Pub. L. 112–81, div. A, title XII, § 1217][/us/pl/112/81/s1217], Dec. 31, 2011, [125 Stat. 1632][/us/stat/125/1632]; [Pub. L. 112–239, div. A, title XII, § 1219][/us/pl/112/239/s1219], Jan. 2, 2013, [126 Stat. 1991][/us/stat/126/1991], provided that:
+[Pub. L. 111–383, div. A, title XII, § 1217][/us/pl/111/383/s1217], Jan. 7, 2011, [124 Stat. 4393][/us/stat/124/4393], as amended by [Pub. L. 112–81, div. A, title XII, § 1217][/us/pl/112/81/s1217], Dec. 31, 2011, [125 Stat. 1632][/us/stat/125/1632]; [Pub. L. 112–239, div. A, title XII, § 1219][/us/pl/112/239/s1219], Jan. 2, 2013, [126 Stat. 1991][/us/stat/126/1991]; [Pub. L. 113–66, div. A, title XII, § 1215(a)][/us/pl/113/66/s1215/a], Dec. 26, 2013, [127 Stat. 907][/us/stat/127/907], provided that:
 
 >     “(a)  __Authority__  __.—__ 
 
@@ -345,15 +345,19 @@
 
 >             “(B) Up to $350,000,000 made available to the Department of Defense for operation and maintenance for fiscal year 2013.
 
+>             “(C) Up to $250,000,000 made available to the Department of Defense for operation and maintenance for fiscal year 2014.
+
 >         “(2)  __Limitation__  __.—__ 
 
->         The Secretary of Defense may use not more than 50 percent of the amount specified in paragraph (1) for a fiscal year after fiscal year 2011 to carry out the program authorized under subsection (a) until the Secretary of Defense, in consultation with the Secretary of State, submits to the appropriate congressional committees a plan for the allocation and use of funds under the program for such fiscal year, including for each project to be initiated during such fiscal year the following:
+>         The Secretary of Defense may use not more than 50 percent of the amount specified in paragraph (1) for a fiscal year after fiscal year 2011 to carry out the program authorized under subsection (a) until the Secretary of Defense, in consultation with the Secretary of State, submits to the appropriate congressional committees a plan for the allocation and use of funds under the program for such fiscal year, including for each project, or phase of a project, to be initiated during such fiscal year the following:
 
 >             “(A) An estimate of the financial and other requirements necessary to sustain such project on an annual basis after the completion of such project.
 
 >             “(B) An assessment whether the Government of Afghanistan is committed to and has the capacity to maintain and use such project after its completion.
 
->             “(C) A description of any arrangements for the sustainment of such project following its completion if the Government of Afghanistan lacks the capacity (in either financial or human resources) to maintain such project.
+>             “(C) An assessment of the capability of the Afghan National Security Forces (ANSF) to provide security for such project after January 1, 2015, including an estimate of the ANSF force levels, if any, required to secure such project. Such assessment should include the estimated costs of providing security and whether or not the Government of Afghanistan is committed to providing such security.
+
+>             “(D) A description of any arrangements for the sustainment of such project following its completion if the Government of Afghanistan lacks the capacity (in either financial or human resources) to maintain such project.
 
 >         “(3)  __Availability__  __.—__ 
 
@@ -364,6 +368,8 @@
 >             “(B) In the case of funds for fiscal year 2012, until September 30, 2013.
 
 >             “(C) In the case of funds for fiscal year 2013, until September 30, 2014.
+
+>             “(D) In the case of funds for fiscal year 2014, until September 30, 2015.
 
 >     “(g)  __Congressional Notification__  __.—__ 
 
@@ -404,6 +410,12 @@
 >         “(1) the Committee on Armed Services, the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives; and
 
 >         “(2) the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate.”
+
+\[[Pub. L. 113–66, div. A, title XII, § 1215(b)][/us/pl/113/66/s1215/b], Dec. 26, 2013, [127 Stat. 908][/us/stat/127/908], provided that: 
+
+> “The amendments made by this section \[amending [section 1217 of Pub. L. 111–383][/us/pl/111/383/s1217], set out above\] shall take effect on October 1, 2013.”
+
+\]
 
  __Performance Monitoring System for United States-Led Provincial Reconstruction Teams in Afghanistan__ 
 
@@ -526,8 +538,13 @@
 [/us/stat/125/1632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1632
 [/us/pl/112/239/s1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1219
 [/us/stat/126/1991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1991
+[/us/pl/113/66/s1215/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1215%2Fa
+[/us/stat/127/907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F907
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
+[/us/pl/113/66/s1215/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1215%2Fb
+[/us/stat/127/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F908
+[/us/pl/111/383/s1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1217
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4632
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181

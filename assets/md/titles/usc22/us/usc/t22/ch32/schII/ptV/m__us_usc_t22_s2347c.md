@@ -25,15 +25,17 @@
 
     (c) __Post-undergraduate flying training and tactical leadership programs at training locations in Southwest Asia__ 
 
-        (1) The President is authorized to enter into cooperative arrangements providing for the participation of foreign and United States military and civilian defense personnel in post-undergraduate flying training and tactical leadership programs at training locations in Southwest Asia without charge to participating foreign countries, and without charge to funds available to carry out this part (notwithstanding [section 2392(d) of this title][/us/usc/t22/s2392/d]). Such training must satisfy common requirements with the United States for post-undergraduate flying and tactical leadership training.
+        (1) The President is authorized to enter into cooperative arrangements providing for the participation of foreign and United States military and civilian defense personnel in post-undergraduate flying training and tactical leadership programs and integrated air and missile defense programs at training locations in Southwest Asia without charge to participating foreign countries, and without charge to funds available to carry out this part (notwithstanding [section 2392(d) of this title][/us/usc/t22/s2392/d]). Such training must satisfy common requirements with the United States for post-undergraduate flying and tactical leadership training and integrated air and missile defense training.
 
         (2) Cooperative arrangements under this subsection shall require an equitable contribution of support and services from each participating country. The President may waive the requirement for an equitable contribution of a participating foreign country if he determines that to do so is important to the national security interests of the United States.
 
         (3) Costs incurred by the United States shall be charged to the current applicable appropriations accounts or funds of the participating United States Government agencies.
 
-([Pub. L. 87–195][/us/pl/87/195], pt. II, § 544, as added [Pub. L. 99–83, title I, § 126][/us/pl/99/83/s126], Aug. 8, 1985, [99 Stat. 205][/us/stat/99/205]; amended [Pub. L. 104–164, title I, § 112(b)][/us/pl/104/164/s112/b], July 21, 1996, [110 Stat. 1427][/us/stat/110/1427]; [Pub. L. 107–228, div. B, title XII, § 1213][/us/pl/107/228/s1213], Sept. 30, 2002, [116 Stat. 1429][/us/stat/116/1429].)
+([Pub. L. 87–195][/us/pl/87/195], pt. II, § 544, as added [Pub. L. 99–83, title I, § 126][/us/pl/99/83/s126], Aug. 8, 1985, [99 Stat. 205][/us/stat/99/205]; amended [Pub. L. 104–164, title I, § 112(b)][/us/pl/104/164/s112/b], July 21, 1996, [110 Stat. 1427][/us/stat/110/1427]; [Pub. L. 107–228, div. B, title XII, § 1213][/us/pl/107/228/s1213], Sept. 30, 2002, [116 Stat. 1429][/us/stat/116/1429]; [Pub. L. 113–66, div. A, title XII, § 1233][/us/pl/113/66/s1233], Dec. 26, 2013, [127 Stat. 920][/us/stat/127/920].)
 
  __Amendments__ 
+
+    2013—Subsec. (c)(1). [Pub. L. 113–66][/us/pl/113/66] inserted “and integrated air and missile defense programs” after “tactical leadership programs” and “and integrated air and missile defense training” after “tactical leadership training”.
 
     2002—Subsec. (c). [Pub. L. 107–228][/us/pl/107/228] added subsec. (c).
 
@@ -76,6 +78,9 @@
 [/us/stat/110/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1427
 [/us/pl/107/228/s1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1213
 [/us/stat/116/1429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1429
+[/us/pl/113/66/s1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1233
+[/us/stat/127/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F920
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 [/us/pl/104/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F164
 [/us/pl/99/83/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F83%2Fs1301

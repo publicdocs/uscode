@@ -25,6 +25,10 @@
 
  __Rule of Construction__ 
 
+[Pub. L. 113–66, div. A, title XII, § 1252][/us/pl/113/66/s1252], Dec. 26, 2013, [127 Stat. 926][/us/stat/127/926], provided that: 
+
+> “Nothing in this Act \[see Tables for classification\] shall be construed as authorizing the use of force against Syria or Iran.”
+
 [Pub. L. 112–239, div. A, title XII, § 1234][/us/pl/112/239/s1234], Jan. 2, 2013, [126 Stat. 2004][/us/stat/126/2004], provided that: 
 
 > “Nothing in this Act \[see Tables for classification\] shall be construed as authorizing the use of force against Iran.”
@@ -41,6 +45,8 @@
 [/us/pl/112/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158
 [/us/stat/126/1214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1214
 [/us/usc/t22/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8701
+[/us/pl/113/66/s1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1252
+[/us/stat/127/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F926
 [/us/pl/112/239/s1234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1234
 [/us/stat/126/2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2004
 

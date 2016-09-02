@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-    Not later than April 15 of each year, the President shall submit to the Speaker of the House of Representatives and to the chairman of the Committee on Foreign Relations of the Senate a report prepared by the Secretary of State with the concurrence of the Director of Central Intelligence and in consultation with the Secretary of Defense, the Secretary of Energy, and the Chairman of the Joint Chiefs of Staff on the status of United States policy and actions with respect to arms control, nonproliferation, and disarmament. Such report shall include—
+    Not later than April 15 of each year, the President shall submit to the appropriate congressional committees a report prepared by the Secretary of State with the concurrence of the Director of Central Intelligence and in consultation with the Secretary of Defense, the Secretary of Energy, and the Chairman of the Joint Chiefs of Staff on the status of United States policy and actions with respect to arms control, nonproliferation, and disarmament. Such report shall include—
 
         (1) a detailed statement concerning the arms control, nonproliferation, and disarmament objectives of the executive branch of Government for the forthcoming year;
 
@@ -53,19 +53,41 @@
 
     (c) __Reporting consecutive noncompliance__ 
 
-        If the President in consecutive reports submitted to the Congress under this section reports that any designated nation is not in full compliance with its binding nonproliferation commitments to the United States, then the President shall include in the second such report an assessment of what actions are necessary to compensate for such violations.
+        If the President in consecutive reports submitted to the appropriate congressional committees under this section reports that any designated nation is not in full compliance with its binding nonproliferation commitments to the United States, then the President shall include in the second such report an assessment of what actions are necessary to compensate for such violations.
 
     (d) __Additional requirement__ 
 
         Each report required by this section shall include a discussion of each significant issue described in subsection (a)(6) of this section that was contained in a previous report issued under this section during 1995, or after December 31, 1995, until the question or concern has been resolved and such resolution has been reported in detail to the appropriate committees of Congress (as defined in section 1102(1) of the Arms Control, Non-Proliferation, and Security Assistance Act of 1999).
 
-([Pub. L. 87–297, title IV, § 403][/us/pl/87/297/s403], formerly § 51, as added and amended [Pub. L. 103–236, title VII, § 717(a)(3)][/us/pl/103/236/s717/a/3], title VIII, § 828(a), Apr. 30, 1994, [108 Stat. 498][/us/stat/108/498], 520; renumbered § 403 and amended, [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XII, § 1223(15), (21), Oct. 21, 1998, [112 Stat. 2681–771][/us/stat/112/2681-771], 2681–772; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XI, § 1113\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–487; [Pub. L. 107–228, div. B, title XI, § 1103][/us/pl/107/228/s1103], Sept. 30, 2002, [116 Stat. 1426][/us/stat/116/1426].)
+    (e) __Congressional briefing__ 
+
+        Not later than May 15 of each year, the President shall provide to the appropriate congressional committees a briefing on the most-recent report required by this section.
+
+    (f) __Appropriate congressional committees defined__ 
+
+    In this section, the term “appropriate congressional committees” means—
+
+        (1) the Committee on Foreign Relations, the Committee on Armed Services, and the Select Committee on Intelligence of the Senate; and
+
+        (2) the Committee on Foreign Affairs, the Committee on Armed Services, and the Permanent Select Committee on Intelligence of the House of Representatives.
+
+([Pub. L. 87–297, title IV, § 403][/us/pl/87/297/s403], formerly § 51, as added and amended [Pub. L. 103–236, title VII, § 717(a)(3)][/us/pl/103/236/s717/a/3], title VIII, § 828(a), Apr. 30, 1994, [108 Stat. 498][/us/stat/108/498], 520; renumbered § 403 and amended, [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XII, § 1223(15), (21), Oct. 21, 1998, [112 Stat. 2681–771][/us/stat/112/2681-771], 2681–772; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XI, § 1113\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–487; [Pub. L. 107–228, div. B, title XI, § 1103][/us/pl/107/228/s1103], Sept. 30, 2002, [116 Stat. 1426][/us/stat/116/1426]; [Pub. L. 113–66, div. A, title XII, § 1247][/us/pl/113/66/s1247], Dec. 26, 2013, [127 Stat. 924][/us/stat/127/924].)
 
  __References in Text__ 
 
     Section 1102(1) of the Arms Control, Non-Proliferation, and Security Assistance Act of 1999, referred to in subsec. (d), is section 1000(a)(7) \[div. B, title XI, § 1102(1)\] of [Pub. L. 106–113][/us/pl/106/113], which is set out as a note under [section 2652c of this title][/us/usc/t22/s2652c].
 
  __Amendments__ 
+
+    2013—Subsec. (a). [Pub. L. 113–66, § 1247(a)(1)][/us/pl/113/66/s1247/a/1], substituted “the appropriate congressional committees” for “the Speaker of the House of Representatives and to the chairman of the Committee on Foreign Relations of the Senate” in introductory provisions.
+
+    Subsec. (c). [Pub. L. 113–66, § 1247(a)(2)][/us/pl/113/66/s1247/a/2], substituted “appropriate congressional committees” for “Congress”.
+
+    Subsec. (e). [Pub. L. 113–66, § 1247(b)(2)][/us/pl/113/66/s1247/b/2], added subsec. (e). Former subsec. (e) redesignated (f).
+
+    [Pub. L. 113–66, § 1247(a)(3)][/us/pl/113/66/s1247/a/3], added subsec. (e).
+
+    Subsec. (f). [Pub. L. 113–66, § 1247(b)(1)][/us/pl/113/66/s1247/b/1], redesignated subsec. (e) as (f).
 
     2002—Subsec. (a). [Pub. L. 107–228][/us/pl/107/228] substituted “April 15” for “January 31” in introductory provisions.
 
@@ -148,8 +170,15 @@
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/107/228/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1103
 [/us/stat/116/1426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1426
+[/us/pl/113/66/s1247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1247
+[/us/stat/127/924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F924
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/usc/t22/s2652c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2652c
+[/us/pl/113/66/s1247/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1247%2Fa%2F1
+[/us/pl/113/66/s1247/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1247%2Fa%2F2
+[/us/pl/113/66/s1247/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1247%2Fb%2F2
+[/us/pl/113/66/s1247/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1247%2Fa%2F3
+[/us/pl/113/66/s1247/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1247%2Fb%2F1
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 [/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
 [/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7

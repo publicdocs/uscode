@@ -53,6 +53,18 @@
 
     2002—Subsec. (d). [Pub. L. 107–314, § 1306(c)][/us/pl/107/314/s1306/c], formerly § 1306(e), as renumbered by [Pub. L. 109–163][/us/pl/109/163], in introductory provisions, substituted “any fiscal year” for “any year” and “such fiscal year” for “that year”.
 
+ __Congressional Notification__ 
+
+[Pub. L. 113–66, div. A, title XII, § 1246(c)(3)][/us/pl/113/66/s1246/c/3], Dec. 26, 2013, [127 Stat. 924][/us/stat/127/924], provided that: 
+
+> “If the Secretary of Defense intends to provide the Russian Federation with any sensitive missile defense information that the Secretary determines will not compromise United States national security, the Secretary shall notify the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] of the Secretary’s intent to provide such information not less than 7 days prior to the provision of such information, including an explanation of the reasons for providing the information and the reasons why providing the information will not compromise United States national security.”
+
+ __Briefing__ 
+
+[Pub. L. 113–66, div. A, title XII, § 1251(b)][/us/pl/113/66/s1251/b], Dec. 26, 2013, [127 Stat. 926][/us/stat/127/926], provided that: 
+
+> “Prior to signing an executive agreement with the Russian Federation relating to ballistic missile defense, the President, or the President’s designee, shall brief the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] and the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives on the objectives and contents of the executive agreement.”
+
  __Sharing of Classified United States Ballistic Missile Defense Information With the Russian Federation__ 
 
 [Pub. L. 112–81, div. A, title XII, § 1244][/us/pl/112/81/s1244], Dec. 31, 2011, [125 Stat. 1646][/us/stat/125/1646], provided that:
@@ -93,7 +105,7 @@
 
  __Utilization of Contributions to the Cooperative Threat Reduction Program__ 
 
-[Pub. L. 111–84, div. A, title XIII, § 1303][/us/pl/111/84/s1303], Oct. 28, 2009, [123 Stat. 2557][/us/stat/123/2557], provided that:
+[Pub. L. 111–84, div. A, title XIII, § 1303][/us/pl/111/84/s1303], Oct. 28, 2009, [123 Stat. 2557][/us/stat/123/2557], as amended by [Pub. L. 113–66, div. A, title XIII, § 1303][/us/pl/113/66/s1303], Dec. 26, 2013, [127 Stat. 931][/us/stat/127/931], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -137,7 +149,7 @@
 
 >     “(g)  __Termination__  __.—__ 
 
->     The authority provided under this section shall terminate on December 31, 2015.
+>     The authority provided under this section shall terminate on December 31, 2018.
 
 >     “(h)  __Appropriate Congressional Committees Defined__  __.—__ 
 
@@ -1068,10 +1080,16 @@ Similar provisions were contained in the following prior authorization acts:
 [/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 [/us/pl/107/314/s1306/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1306%2Fc
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/113/66/s1246/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1246%2Fc%2F3
+[/us/stat/127/924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F924
+[/us/pl/113/66/s1251/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1251%2Fb
+[/us/stat/127/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F926
 [/us/pl/112/81/s1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1244
 [/us/stat/125/1646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1646
 [/us/pl/111/84/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1303
 [/us/stat/123/2557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2557
+[/us/pl/113/66/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1303
+[/us/stat/127/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F931
 [/us/usc/t31/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302
 [/us/pl/111/84/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1303
 [/us/pl/111/84/s1301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1301%2Fa
