@@ -119,6 +119,12 @@
 
     A prior section 200 was renumbered [section 199 of this title][/us/usc/t14/s199].
 
+ __Applicability of Sexual Assault Prevention and Response and Related Military Justice Enhancements to Coast Guard Academy__ 
+
+[Pub. L. 113–291, div. A, title V, § 552(b)][/us/pl/113/291/s552/b], Dec. 19, 2014, [128 Stat. 3377][/us/stat/128/3377], provided that: 
+
+> “The Secretary of the Department in which the Coast Guard is operating shall ensure that the provisions of title XVII of the National Defense Authorization Act for Fiscal Year 2014 ([Public Law 113–66][/us/pl/113/66]; [127 Stat. 950][/us/stat/127/950]) \[see Tables for classification\], including amendments made by that title, and the provisions of subtitle D \[§[§ 531–547 of title V of div. A of Pub. L. 113–291][/us/pl/113/291/s531–547]; see Tables for classification\], including amendments made by such subtitle, apply to the Coast Guard Academy.”
+
 ----------
 
 [Previous](./../../../../..//us/usc/t14/ptI/ch9/m__us_usc_t14_s199.md) | [Next](./../../../../..//us/usc/t14/ptI/ch11/m__us_usc_t14_ptI_ch11.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs200)
@@ -129,5 +135,10 @@
 [/us/pl/112/213/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F213%2Fs205%2Fa
 [/us/stat/126/1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1543
 [/us/usc/t14/s199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs199
+[/us/pl/113/291/s552/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs552%2Fb
+[/us/stat/128/3377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3377
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/stat/127/950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F950
+[/us/pl/113/291/s531–547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs531%E2%80%93547
 
 

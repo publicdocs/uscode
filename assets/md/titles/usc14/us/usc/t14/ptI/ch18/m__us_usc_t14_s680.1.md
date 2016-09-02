@@ -13,7 +13,7 @@
 
 [Previous](./../../../../..//us/usc/t14/ptI/ch18/m__us_usc_t14_ptI_ch18.md) | [Next](./../../../../..//us/usc/t14/ptI/ch18/m__us_usc_t14_s681.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs680.1)
 
-## § 680. <sup>\[1\]</sup>  <sup><sup> 1 Another section 680 has been enacted in chapter 17 of this title. </sup></sup> Definitions
+## § 680. <sup>\[1\]</sup>  <sup><sup> 1 Another section 680 has been enacted in chapter 17 of this title. </sup></sup>  Definitions
 
     In this chapter:
 
