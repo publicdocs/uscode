@@ -39,7 +39,7 @@
 
     (c) __Notice to covered tribes__ 
 
-        In an action brought under this section, not later than 30 days after the service of a summons and complaint on the Secretary that raises a claim identified in subsection (a) the Secretary shall send a copy of that summons and complaint, together with any responsive pleading, to each covered Indian tribe by certified mail with return receipt requested.
+        In an action brought under this section, not later than 30 days after the service of a summons and complaint on the Secretary that raises a claim identified in subsection (a), the Secretary shall send a copy of that summons and complaint, together with any responsive pleading, to each covered Indian tribe by certified mail with return receipt requested.
 
     (d) __Statute of limitations__ 
 

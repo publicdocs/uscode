@@ -33,7 +33,7 @@
 
             (D) an annual submission to the Secretary of the number of students served and a brief description of programs offered under the grant; and
 
-            (E) a program evaluation conducted by an impartial evaluation review team, to be based on the standards established for purposes of subsection (c)(1)(A)(ii). <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be subsection “(c)(1)(B)(ii)”. </sup></sup> 
+            (E) a program evaluation conducted by an impartial evaluation review team, to be based on the standards established for purposes of subsection (c)(1)(A)(ii). <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be subsection “(c)(1)(B)(ii).” </sup></sup> 
 
         (2) __Evaluation review teams__ 
 

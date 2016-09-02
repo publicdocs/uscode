@@ -71,6 +71,12 @@
 
     This chapter, referred to in subsec. (b), was in the original “this title”, meaning title IV of [Pub. L. 101–630][/us/pl/101/630], Nov. 28, 1990, [104 Stat. 4544][/us/stat/104/4544], known as the Indian Child Protection and Family Violence Prevention Act, which is classified principally to this chapter. For complete classification of title IV to the Code, see Short Title note below and Tables.
 
+ __Short Title of 2016 Amendment__ 
+
+[Pub. L. 114–165][/us/pl/114/165], § 1, June 3, 2016, [130 Stat. 415][/us/stat/130/415], provided that: 
+
+> “This Act \[amending [section 3207 of this title][/us/usc/t25/s3207]\] may be cited as the ‘Native American Children’s Safety Act’.”
+
  __Short Title__ 
 
 [Pub. L. 101–630, title IV][/us/pl/101/630/tIV], § 401, Nov. 28, 1990, [104 Stat. 4544][/us/stat/104/4544], provided that: 
@@ -88,6 +94,9 @@
 [/us/stat/104/4544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4544
 [/us/pl/101/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630
 [/us/stat/104/4544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4544
+[/us/pl/114/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F165
+[/us/stat/130/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F415
+[/us/usc/t25/s3207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3207
 [/us/pl/101/630/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F630%2FtIV
 [/us/stat/104/4544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4544
 [/us/usc/t18/s1169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1169

@@ -31,7 +31,7 @@
 
         (1)
 
-         The Secretary shall call and hold an election as required by subsection (a)n—
+         The Secretary shall call and hold an election as required by subsection (a)—
 
             (A) within one hundred and eighty days after the receipt of a tribal request for an election to ratify a proposed constitution and bylaws, or to revoke such constitution and bylaws; or
 

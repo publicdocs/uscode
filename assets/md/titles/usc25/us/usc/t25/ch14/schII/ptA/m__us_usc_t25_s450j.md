@@ -51,7 +51,7 @@
 
                     (IV) Division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
-                    (V) [Section 13 of the Act of Oct. 3, 1944][/us/act/1944-10-03/s13] ([58 Stat. 770][/us/stat/58/770]; chapter 479) \[[40 U.S.C. 545][/us/usc/t40/s545] note\].
+                    (V) [Section 13 of the Act of Oct. 3, 1944][/us/act/1944-10-03/s13] ([58 Stat. 770][/us/stat/58/770]; chapter 479).
 
                     (VI) Chapters 21, 25, 27, 29, and 31 of title 44.
 
@@ -231,6 +231,8 @@
 
     [Section 9(c) of the Act of Aug. 2, 1946][/us/act/1946-08-02/s9/c], referred to in subsec. (a)(3)(C)(ii)(III), was section 9(c) of [act Aug. 2, 1946, ch. 744][/us/act/1946-08-02/ch744], [60 Stat. 809][/us/stat/60/809], which amended section 5 of former Title 41, Public Contracts, and was repealed by [Pub. L. 111–350][/us/pl/111/350], § 7(b), Jan. 4, 2011, [124 Stat. 3855][/us/stat/124/3855], which Act enacted Title 41, Public Contracts.
 
+    [Section 13 of the Act of Oct. 3, 1944][/us/act/1944-10-03/s13] ([58 Stat. 770][/us/stat/58/770]; chapter 479), referred to in subsec. (a)(3)(C)(ii)(V), is [act Oct. 3, 1944, ch. 479][/us/act/1944-10-03/ch479], § 13, [58 Stat. 770][/us/stat/58/770], which is set out as a note under [section 545 of Title 40][/us/usc/t40/s545], Public Buildings, Property, and Works.
+
     The Small Business Act, referred to in subsec. (a)(3)(C)(ii)(X), is [Pub. L. 85–536][/us/pl/85/536], § 2(1 et seq.), July 18, 1958, [72 Stat. 384][/us/stat/72/384], which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 631 of Title 15][/us/usc/t15/s631] and Tables.
 
     Executive Order Nos. 12138, 11246, 11701 and 11758, referred to in subsec. (a)(3)(C)(ii)(XI), are Ex. Ord. No. 12138, May 18, 1979, 44 F.R. 29637, which is set out as a note under [section 631 of Title 15][/us/usc/t15/s631], Commerce and Trade, Ex. Ord. No. 11246, Sept. 24, 1965, 30 F.R. 12319, which is set out as a note under [section 2000e of Title 42][/us/usc/t42/s2000e], The Public Health and Welfare, Ex. Ord. No. 11701, Jan. 24, 1973, 38 F.R. 2675, which is set out as a note under [section 4212 of Title 38][/us/usc/t38/s4212], Veterans’ Benefits, and Ex. Ord. No. 11758, Jan. 15, 1974, 39 F.R. 2075, which is set out as a note under [section 701 of Title 29][/us/usc/t29/s701], Labor.
@@ -329,7 +331,6 @@
 [/us/stat/60/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F809
 [/us/act/1944-10-03/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-10-03%2Fs13
 [/us/stat/58/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F770
-[/us/usc/t40/s545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs545
 [/us/usc/t40/s3145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3145
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
 [/us/usc/t25/s450f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450f
@@ -367,6 +368,11 @@
 [/us/stat/60/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F809
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3855
+[/us/act/1944-10-03/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-10-03%2Fs13
+[/us/stat/58/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F770
+[/us/act/1944-10-03/ch479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-10-03%2Fch479
+[/us/stat/58/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F770
+[/us/usc/t40/s545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs545
 [/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
 [/us/stat/72/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F384
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
