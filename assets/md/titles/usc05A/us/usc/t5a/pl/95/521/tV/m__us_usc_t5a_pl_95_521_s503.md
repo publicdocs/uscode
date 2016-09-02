@@ -47,9 +47,9 @@
 
  __Effective Date of 1991 Amendment__ 
 
-[Section 6(f)(1) of Pub. L. 102–90][/us/pl/102/90/s6/f/1] provided that: 
+[Pub. L. 102–90, title I, § 6(f)(1)][/us/pl/102/90/s6/f/1], Aug. 14, 1991, [105 Stat. 451][/us/stat/105/451], provided that: 
 
-> “Except for the provisions of subsection (e)(1) \[[105 Stat. 451][/us/stat/105/451]\], the provisions of this section \[amending this section and [section 505 of Pub. L. 95–521][/us/pl/95/521/s505], set out in this Appendix, repealing sections 31–1 and 441i of Title 2, The Congress, enacting provisions set out as a note under [section 5318 of this title][/us/usc/t5/s5318], and repealing provisions set out as notes under sections 31 and 358 of Title 2\] shall take effect on the date of the enactment of this Act \[Aug. 14, 1991\].”
+> “Except for the provisions of subsection (e)(1) \[[105 Stat. 451][/us/stat/105/451]\], the provisions of this section \[amending this section and [section 505 of Pub. L. 95–521][/us/pl/95/521/s505], set out in this Appendix, repealing sections 31–1 and 441i of Title 2, The Congress, enacting provisions set out as a note under [section 5318 of this title][/us/usc/t5/s5318], and repealing provisions set out as notes under sections 358 and 4501 of Title 2\] shall take effect on the date of the enactment of this Act \[Aug. 14, 1991\].”
 
  __Effective Date__ 
 
@@ -75,6 +75,7 @@
 [/us/pl/102/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90
 [/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
 [/us/pl/102/90/s6/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90%2Fs6%2Ff%2F1
+[/us/stat/105/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F451
 [/us/stat/105/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F451
 [/us/pl/95/521/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs505
 [/us/usc/t5/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5318

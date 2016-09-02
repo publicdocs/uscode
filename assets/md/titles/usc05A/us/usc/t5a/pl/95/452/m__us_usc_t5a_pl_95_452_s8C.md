@@ -15,11 +15,11 @@
 
 ##### § 8C. Special provisions concerning the Federal Deposit Insurance Corporation
 
-    (a) __Delegation.—__ 
+    (a)  __Delegation__  __.—__ 
 
     The Chairperson of the Federal Deposit Insurance Corporation may delegate the authority specified in the second sentence of section 3(a) to the Vice Chairperson of the Board of Directors of the Federal Deposit Insurance Corporation, but may not delegate such authority to any other officer or employee of the Corporation.
 
-    (b) __Personnel.—__ 
+    (b)  __Personnel__  __.—__ 
 
     Notwithstanding paragraphs (7) and (8) of section 6(a), the Inspector General of the Federal Deposit Insurance Corporation may select, appoint, and employ such officers and employees as may be necessary for carrying out the functions, powers, and duties of the Office of Inspector General and to obtain the temporary or intermittent services of experts or consultants or an organization of experts or consultants, subject to the applicable laws and regulations that govern such selections, appointments, and employment, and the obtaining of such services, within the Federal Deposit Insurance Corporation.
 

@@ -475,7 +475,7 @@
 
  __Effective Date of 1991 Amendment__ 
 
-    Amendment by [Pub. L. 102–90][/us/pl/102/90] effective Jan. 1, 1993, see [section 314(g)(2) of Pub. L. 102–90][/us/pl/102/90/s314/g/2], as amended, set out as a note under [section 31–2 of Title 2][/us/usc/t2/s31–2], The Congress.
+    Amendment by [Pub. L. 102–90][/us/pl/102/90] effective Jan. 1, 1993, see [section 314(g)(2) of Pub. L. 102–90][/us/pl/102/90/s314/g/2], as amended, set out as a note under [section 4725 of Title 2][/us/usc/t2/s4725], The Congress.
 
  __Effective Date of 1989 Amendment__ 
 
@@ -575,7 +575,7 @@
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
 [/us/pl/102/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90
 [/us/pl/102/90/s314/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90%2Fs314%2Fg%2F2
-[/us/usc/t2/s31–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs31%E2%80%932
+[/us/usc/t2/s4725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4725
 [/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
 [/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
 [/us/pl/101/194/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs204

@@ -271,11 +271,11 @@
 
 >     “(a) __Required Annex on Significant Audit Findings.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Each Inspector General appointed under the Inspector General Act of 1978 \[[Pub. L. 95–452][/us/pl/95/452], set out in this Appendix\] shall submit, as part of the semiannual report submitted to Congress pursuant to section 5 of such Act, an annex on final, completed contract audit reports issued to the contracting activity containing significant audit findings issued during the period covered by the semiannual report concerned.
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         Such annex shall include—
 
@@ -285,27 +285,27 @@
 
 >             “(C) for each audit report, the specific amounts of costs identified as unsupported, questioned, or disallowed.
 
->         “(3) __Information exempt from public disclosure.—__ 
+>         “(3)  __Information exempt from public disclosure__  __.—__ 
 
 >             (A) Nothing in this subsection shall be construed to require the release of information to the public that is exempt from public disclosure under [section 552(b) of title 5][/us/usc/t5/s552/b], United States Code.
 
 >             “(B) For each element required by paragraph (2), the Inspector General concerned shall note each instance where information has been redacted in accordance with the requirements of [section 552(b) of title 5][/us/usc/t5/s552/b], United States Code, and submit an unredacted annex to the committees listed in subsection (d)(2) within 7 days after the issuance of the semiannual report.
 
->     “(b) __Defense Contract Audit Agency Included.—__ 
+>     “(b)  __Defense Contract Audit Agency Included__  __.—__ 
 
 >     For purposes of subsection (a), audits of the Defense Contract Audit Agency shall be included in the annex provided by the Inspector General of the Department of Defense if they include significant audit findings.
 
->     “(c) __Exception.—__ 
+>     “(c)  __Exception__  __.—__ 
 
 >     Subsection (a) shall not apply to an Inspector General if no audits described in such subsection were issued during the covered period.
 
 >     “(d) __Submission of Individual Audits.—__ 
 
->         “(1) __Requirement.—__ 
+>         “(1)  __Requirement__  __.—__ 
 
 >         The head of each Federal department or agency shall provide, within 14 days after a request in writing by the chairman or ranking member of any committee listed in paragraph (2), a full and unredacted copy of any audit described in subsection (a). Such copy shall include an identification of information in the audit exempt from public disclosure under [section 552(b) of title 5][/us/usc/t5/s552/b], United States Code.
 
->         “(2) __Committees.—__ 
+>         “(2)  __Committees__  __.—__ 
 
 >         The committees listed in this paragraph are the following:
 
@@ -319,15 +319,15 @@
 
 >             “(E) The Committees of primary jurisdiction over the agency or department to which the request is made.
 
->     “(e) __Classified Information.—__ 
+>     “(e)  __Classified Information__  __.—__ 
 
 >     Nothing in this section shall be interpreted to require the handling of classified information or information relating to intelligence sources and methods in a manner inconsistent with any law, regulation, executive order, or rule of the House of Representatives or of the Senate relating to the handling or protection of such information.
 
->     “(f) __Definitions.—__ 
+>     “(f)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Significant audit findings.—__ 
+>         “(1)  __Significant audit findings__  __.—__ 
 
 >         The term ‘significant audit findings’ includes—
 
@@ -335,7 +335,7 @@
 
 >             “(B) other findings that the Inspector General of the agency or department concerned determines to be significant.
 
->         “(2) __Contract.—__ 
+>         “(2)  __Contract__  __.—__ 
 
 >         The term ‘contract’ includes a contract, an order placed under a task or delivery order contract, or a subcontract.”
 
@@ -343,13 +343,13 @@
 
 [Pub. L. 103–355, title VI, § 6009][/us/pl/103/355/s6009], Oct. 13, 1994, [108 Stat. 3367][/us/stat/108/3367], as amended by [Pub. L. 104–106, div. A, title VIII, § 810][/us/pl/104/106/s810], Feb. 10, 1996, [110 Stat. 394][/us/stat/110/394], provided that:
 
->     “(a) __Management Decisions.—__ 
+>     “(a)  __Management Decisions__  __.—__ 
 
 >         (1) The head of a Federal agency shall make management decisions on all findings and recommendations set forth in an audit report of the inspector general of the agency within a maximum of six months after the issuance of the report.
 
 >         “(2) The head of a Federal agency shall make management decisions on all findings and recommendations set forth in an audit report of any auditor from outside the Federal Government within a maximum of six months after the date on which the head of the agency receives the report.
 
->     “(b) __Completion of Final Action.—__ 
+>     “(b)  __Completion of Final Action__  __.—__ 
 
 >     The head of a Federal agency shall complete final action on each management decision required with regard to a recommendation in an inspector general’s report under subsection (a)(1) within 12 months after the date of the inspector general’s report. If the head of the agency fails to complete final action with regard to a management decision within the 12-month period, the inspector general concerned shall identify the matter in each of the inspector general’s semiannual reports pursuant to section 5(a)(3) of the Inspector General Act of 1978 (5 U.S.C. App.) until final action on the management decision is completed.”
 

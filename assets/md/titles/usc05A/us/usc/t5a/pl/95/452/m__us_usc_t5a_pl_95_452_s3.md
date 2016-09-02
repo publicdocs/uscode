@@ -45,7 +45,7 @@
 
          For the purposes of this section, the requirement of the designation of a Whistleblower Protection Ombudsman under paragraph (1)(C) shall not apply to—
 
-            (A) any agency that is an element of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 401a(4)][/us/usc/t50/s401a/4])\[[50 U.S.C. 3003(4)][/us/usc/t50/s3003/4]\]); or
+            (A) any agency that is an element of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 401a(4)][/us/usc/t50/s401a/4]) \[[50 U.S.C. 3003(4)][/us/usc/t50/s3003/4]\]); or
 
             (B) as determined by the President, any executive agency or unit thereof the principal function of which is the conduct of foreign intelligence or counter intelligence activities.
 
@@ -83,11 +83,11 @@
 
 [Pub. L. 112–199, title I, § 117(c)][/us/pl/112/199/s117/c], Nov. 27, 2012, [126 Stat. 1475][/us/stat/126/1475], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and [section 8D of Pub. L. 95–452][/us/pl/95/452/s8D], set out in this Appendix\] shall cease to have effect on the date that is 5 years after the date of enactment of this Act \[Nov. 27, 2012\].
 
->     “(2) __Return to prior authority.—__ 
+>     “(2)  __Return to prior authority__  __.—__ 
 
 >     Upon the date described in paragraph (1), section 3(d) and section 8D(j) of the Inspector General Act of 1978 (5 U.S.C. App.) shall read as such sections read on the day before the date of enactment of this Act.”
 
@@ -103,11 +103,11 @@
 
 [Pub. L. 110–409, § 4(a)(3)][/us/pl/110/409/s4/a/3], Oct. 14, 2008, [122 Stat. 4303][/us/stat/122/4303], as amended by [Pub. L. 111–259, title IV, § 405(b)][/us/pl/111/259/s405/b], Oct. 7, 2010, [124 Stat. 2719][/us/stat/124/2719], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     Notwithstanding any other provision of law, the annual rate of basic pay of the Inspector General of the Intelligence Community, the Inspector General of the Central Intelligence Agency, the Special Inspector General for Iraq Reconstruction, and the Special Inspector General for Afghanistan Reconstruction shall be that of an Inspector General as defined under section 12(3) of the Inspector General Act of 1978 (5 U.S.C. App.) (as amended by section 7(a) of this Act).
 
->     “(B) __Prohibition of cash bonus or awards.—__ 
+>     “(B)  __Prohibition of cash bonus or awards__  __.—__ 
 
 >     Section 3(f) of the Inspector General Act of 1978 (5 U.S.C. App.) (as amended by section 5 of this Act) shall apply to the Inspectors General described under subparagraph (A).”
 
@@ -115,31 +115,31 @@
 
 >     “(b) __Inspectors General of Designated Federal Entities.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Notwithstanding any other provision of law, the Inspector General of each designated Federal entity (as those terms are defined under section 8G of the Inspector General Act of 1978 (5 U.S.C. App.)) shall, for pay and all other purposes, be classified at a grade, level, or rank designation, as the case may be, at or above those of a majority of the senior level executives of that designated Federal entity (such as a General Counsel, Chief Information Officer, Chief Financial Officer, Chief Human Capital Officer, or Chief Acquisition Officer). The pay of an Inspector General of a designated Federal entity (as those terms are defined under section 8G of the Inspector General Act of 1978 (5 U.S.C. App.)) shall be not less than the average total compensation (including bonuses) of the senior level executives of that designated Federal entity calculated on an annual basis.
 
 >         “(2) __Limitation on adjustment.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             In the case of an Inspector General of a designated Federal entity whose pay is adjusted under paragraph (1), the total increase in pay in any fiscal year resulting from that adjustment may not exceed 25 percent of the average total compensation (including bonuses) of the Inspector General of that entity for the preceding 3 fiscal years.
 
->             “(B) __Sunset of limitation.—__ 
+>             “(B)  __Sunset of limitation__  __.—__ 
 
 >             The limitation under subparagraph (A) shall not apply to any adjustment made in fiscal year 2013 or each fiscal year thereafter.
 
 >     “(c) __Savings Provision for Newly Appointed Inspectors General.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The provisions of [section 3392 of title 5][/us/usc/t5/s3392], United States Code, other than the terms ‘performance awards’ and ‘awarding of ranks’ in subsection (c)(1) of such section, shall apply to career appointees of the Senior Executive Service who are appointed to the position of Inspector General.
 
->         “(2) __Nonreduction in pay.—__ 
+>         “(2)  __Nonreduction in pay__  __.—__ 
 
 >         Notwithstanding any other provision of law, career Federal employees serving on an appointment made pursuant to statutory authority found other than in [section 3392 of title 5][/us/usc/t5/s3392], United States Code, shall not suffer a reduction in pay, not including any bonus or performance award, as a result of being appointed to the position of Inspector General.
 
->     “(d) __Savings Provision.—__ 
+>     “(d)  __Savings Provision__  __.—__ 
 
 >     Nothing in this section \[amending this section, [section 5315 of Title 5][/us/usc/t5/s5315], Government Organization and Employees, and [section 12651e of Title 42][/us/usc/t42/s12651e], The Public Health and Welfare, and enacting provisions set out as a note under this section\] shall have the effect of reducing the rate of pay of any individual serving on the date of enactment of this section \[Oct. 14, 2008\] as an Inspector General of—
 
@@ -155,7 +155,7 @@
 
 [Pub. L. 105–277, div. C, title I, § 101][/us/pl/105/277/s101], Oct. 21, 1998, [112 Stat. 2681–584][/us/stat/112/2681-584], as amended by [Pub. L. 106–113, div. B, § 1000(a)(5)][/us/pl/106/113/s1000/a/5] \[title II, § 239(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–302, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding any other provision of law, the President may appoint an acting Treasury Inspector General for Tax Administration to serve during the period—
 
@@ -169,7 +169,7 @@
 
 >             “(B) the date on which the first Treasury Inspector General for Tax Administration takes office (other than pursuant to this section).
 
->     “(b) __Duties Before__  __January 18, 1999__  __.—__ 
+>     “(b)  __Duties Before January__  __18, 1999.—__ 
 
 >     The acting Treasury Inspector General for Tax Administration appointed under subsection (a) shall, before January 18, 1999, take only such actions as are necessary to begin operation of the Office of Treasury Inspector General for Tax Administration, including—
 
@@ -181,21 +181,21 @@
 
 >         “(4) providing guidance and input for the fiscal year 2000 budget process for the Office.
 
->     “(c) __Actions Not To Limit Authority of IG.—__ 
+>     “(c)  __Actions Not To Limit Authority of IG__  __.—__ 
 
 >     None of the actions taken by an individual appointed under subsection (a) shall affect the future authority of any Treasury Inspector General for Tax Administration not appointed under subsection (a).
 
 >     “(d) __Limitations.—__ 
 
->         “(1) __Nomination.—__ 
+>         “(1)  __Nomination__  __.—__ 
 
 >         No individual appointed under subsection (a) may serve on or after January 19, 1999, unless on or before such date the President has submitted to the Senate his nomination of an individual to serve as the first Treasury Inspector General for Tax Administration.
 
->         “(2) __Treasury inspector general may not serve.—__ 
+>         “(2)  __Treasury inspector general may not serve__  __.—__ 
 
 >         No individual appointed under subsection (a) may serve during any period such individual is serving as the Inspector General of the Treasury of the United States or the acting Inspector General of the Treasury of the United States.
 
->         “(3) __Employment restrictions.—__ 
+>         “(3)  __Employment restrictions__  __.—__ 
 
 >         The provisions of section 8D(j) of the Inspector General Act of 1978 (5 U.S.C. App.) shall not apply to any individual appointed under subsection (a).”
 
@@ -209,7 +209,7 @@
 
 [Pub. L. 103–204, § 23(c)][/us/pl/103/204/s23/c], Dec. 17, 1993, [107 Stat. 2408][/us/stat/107/2408], provided that:
 
->     “(1) __Current service.—__ 
+>     “(1)  __Current service__  __.—__ 
 
 >     Except as otherwise provided by law, the individual serving as the Inspector General of the Federal Deposit Insurance Corporation before the date of enactment of this Act \[Dec. 17, 1993\] may continue to serve in such position until the earlier of—
 
@@ -217,7 +217,7 @@
 
 >         “(B) the date which is 6 months after the date of enactment of this Act.
 
->     “(2) __Definition.—__ 
+>     “(2)  __Definition__  __.—__ 
 
 >     For purposes of paragraph (1), the term ‘successor’ may include the individual holding the position of Inspector General of the Federal Deposit Insurance Corporation on or after the date of enactment of this Act.”
 

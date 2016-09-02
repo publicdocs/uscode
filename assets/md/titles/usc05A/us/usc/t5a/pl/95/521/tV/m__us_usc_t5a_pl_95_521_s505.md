@@ -39,7 +39,7 @@
 
  __Effective Date of 1991 Amendment__ 
 
-    Amendment by [section 314(b) of Pub. L. 102–90][/us/pl/102/90/s314/b] effective Jan. 1, 1992, see [section 314(g)(1) of Pub. L. 102–90][/us/pl/102/90/s314/g/1], as amended, set out as a note under [section 31–2 of Title 2][/us/usc/t2/s31–2], The Congress.
+    Amendment by [section 314(b) of Pub. L. 102–90][/us/pl/102/90/s314/b] effective Jan. 1, 1992, see [section 314(g)(1) of Pub. L. 102–90][/us/pl/102/90/s314/g/1], as amended, set out as a note under [section 4725 of Title 2][/us/usc/t2/s4725], The Congress.
 
  __Effective Date__ 
 
@@ -9536,7 +9536,7 @@ Jimmy Carter.
 [/us/pl/102/90/s314/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90%2Fs314%2Fb
 [/us/pl/102/90/s314/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90%2Fs314%2Fb
 [/us/pl/102/90/s314/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90%2Fs314%2Fg%2F1
-[/us/usc/t2/s31–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs31%E2%80%932
+[/us/usc/t2/s4725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4725
 [/us/pl/101/194/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs703
 [/us/usc/t5/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5318
 [/us/pl/101/194/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs603

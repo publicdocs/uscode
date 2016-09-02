@@ -21,15 +21,21 @@
 
             (A) An employee of the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Reconnaissance Office, or the National Security Agency, or of a contractor of any of those Agencies, who intends to report to Congress a complaint or information with respect to an urgent concern may report the complaint or information to the Inspector General of the Department of Defense (or designee).
 
-            (B) An employee of the Federal Bureau of Investigation, or of a contractor of the Bureau, who intends to report to Congress a complaint or information with respect to an urgent concern may report the complaint or information to the Inspector General of the Department of Justice (or designee).
+            (B) An employee of an element of the intelligence community, an employee assigned or detailed to an element of the intelligence community, or an employee of a contractor to the intelligence community, who intends to report to Congress a complaint or information with respect to an urgent concern may report such complaint or information to the Inspector General of the Intelligence Community.
 
-            (C) Any other employee of, or contractor to, an executive agency, or element or unit thereof, determined by the President under [section 2302(a)(2)(C)(ii) of title 5][/us/usc/t5/s2302/a/2/C/ii], United States Code, to have as its principal function the conduct of foreign intelligence or counterintelligence activities, who intends to report to Congress a complaint or information with respect to an urgent concern may report the complaint or information to the appropriate Inspector General (or designee) under this Act or section 17 of the Central Intelligence Agency Act of 1949 \[[50 U.S.C. 3517][/us/usc/t50/s3517]\].
+            (C) An employee of the Federal Bureau of Investigation, or of a contractor of the Bureau, who intends to report to Congress a complaint or information with respect to an urgent concern may report the complaint or information to the Inspector General of the Department of Justice (or designee).
+
+            (D) Any other employee of, or contractor to, an executive agency, or element or unit thereof, determined by the President under [section 2302(a)(2)(C)(ii) of title 5][/us/usc/t5/s2302/a/2/C/ii], United States Code, to have as its principal function the conduct of foreign intelligence or counterintelligence activities, who intends to report to Congress a complaint or information with respect to an urgent concern may report the complaint or information to the appropriate Inspector General (or designee) under this Act, section 17 of the Central Intelligence Agency Act of 1949 \[[50 U.S.C. 3517][/us/usc/t50/s3517]\], or section 103H(k) of the National Security Act of 1947 ([50 U.S.C. 3033(k)][/us/usc/t50/s3033/k]).
 
         (2) If a designee of an Inspector General under this section receives a complaint or information of an employee with respect to an urgent concern, that designee shall report the complaint or information to the Inspector General within 7 calendar days of receipt.
 
         (3) The Inspectors General of the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Reconnaissance Office, and the National Security Agency shall be designees of the Inspector General of the Department of Defense for purposes of this section.
 
-    (b) Not later than the end of the 14-calendar day period beginning on the date of receipt of an employee complaint or information under subsection (a), the Inspector General shall determine whether the complaint or information appears credible. Upon making such a determination, the Inspector General shall transmit to the head of the establishment notice of that determination, together with the complaint or information.
+    (b)
+
+        (1) Not later than the end of the 14-calendar day period beginning on the date of receipt of an employee complaint or information under subsection (a), the Inspector General shall determine whether the complaint or information appears credible. Upon making such a determination, the Inspector General shall transmit to the head of the establishment notice of that determination, together with the complaint or information.
+
+        (2) If the head of an establishment determines that a complaint or information transmitted under paragraph (1) would create a conflict of interest for the head of the establishment, the head of the establishment shall return the complaint or information to the Inspector General with that determination and the Inspector General shall make the transmission to the Director of National Intelligence and, if the establishment is within the Department of Defense, to the Secretary of Defense. In such a case, the requirements of this section for the head of the establishment apply to each recipient of the Inspector General’s transmission.
 
     (c) Upon receipt of a transmittal from the Inspector General under subsection (b), the head of the establishment shall, within 7 calendar days of such receipt, forward such transmittal to the intelligence committees, together with any comments the head of the establishment considers appropriate.
 
@@ -69,7 +75,9 @@
 
         (3) In this subsection, the term “congressional intelligence committees” shall have the meaning given that term in section 3 of the National Security Act of 1947 ([50 U.S.C. 401a][/us/usc/t50/s401a]) \[[50 U.S.C. 3003][/us/usc/t50/s3003]\].
 
-    (h)
+    (h) An individual who has submitted a complaint or information to an Inspector General under this section may notify any member of the Permanent Select Committee on Intelligence of the House of Representatives or the Select Committee on Intelligence of the Senate, or a staff member of either such Committee, of the fact that such individual has made a submission to that particular Inspector General, and of the date on which such submission was made.
+
+    (i)
 
      In this section:
 
@@ -85,13 +93,21 @@
 
         (2) The term “intelligence committees” means the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
 
-([Pub. L. 95–452, § 8H][/us/pl/95/452/s8H], as added [Pub. L. 105–272, title VII, § 702(b)(1)][/us/pl/105/272/s702/b/1], Oct. 20, 1998, [112 Stat. 2415][/us/stat/112/2415]; amended [Pub. L. 107–108, title III, § 309(b)][/us/pl/107/108/s309/b], Dec. 28, 2001, [115 Stat. 1400][/us/stat/115/1400]; [Pub. L. 107–306, title VIII, § 825][/us/pl/107/306/s825], Nov. 27, 2002, [116 Stat. 2429][/us/stat/116/2429]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 931(b)(2), Oct. 14, 2008, [122 Stat. 4575][/us/stat/122/4575]; [Pub. L. 111–259, title IV, § 431(b)][/us/pl/111/259/s431/b], Oct. 7, 2010, [124 Stat. 2731][/us/stat/124/2731].)
+([Pub. L. 95–452, § 8H][/us/pl/95/452/s8H], as added [Pub. L. 105–272, title VII, § 702(b)(1)][/us/pl/105/272/s702/b/1], Oct. 20, 1998, [112 Stat. 2415][/us/stat/112/2415]; amended [Pub. L. 107–108, title III, § 309(b)][/us/pl/107/108/s309/b], Dec. 28, 2001, [115 Stat. 1400][/us/stat/115/1400]; [Pub. L. 107–306, title VIII, § 825][/us/pl/107/306/s825], Nov. 27, 2002, [116 Stat. 2429][/us/stat/116/2429]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 931(b)(2), Oct. 14, 2008, [122 Stat. 4575][/us/stat/122/4575]; [Pub. L. 111–259, title IV, § 431(b)][/us/pl/111/259/s431/b], Oct. 7, 2010, [124 Stat. 2731][/us/stat/124/2731]; [Pub. L. 113–126, title III, § 310][/us/pl/113/126/s310], title VI, § 603(a), July 7, 2014, [128 Stat. 1398][/us/stat/128/1398], 1420.)
 
  __Prior Provisions__ 
 
     A prior section 8H of the Inspector General Act of 1978 was renumbered section 8J.
 
  __Amendments__ 
+
+    2014—Subsec. (a)(1)(B), (C). [Pub. L. 113–126, § 310(1)][/us/pl/113/126/s310/1], (2), added subpar. (B) and redesignated former subpar. (B) as (C). Former subpar. (C) redesignated (D).
+
+    Subsec. (a)(1)(D). [Pub. L. 113–126, § 310(1)][/us/pl/113/126/s310/1], (3), redesignated subpar. (C) as (D), substituted “Act, section 17” for “Act or section 17”, and inserted “, or section 103H(k) of the National Security Act of 1947 ([50 U.S.C. 3033(k)][/us/usc/t50/s3033/k])” before period at end.
+
+    Subsec. (b). [Pub. L. 113–126, § 603(a)(1)][/us/pl/113/126/s603/a/1], designated existing provisions as par. (1) and added par. (2).
+
+    Subsecs. (h), (i). [Pub. L. 113–126, § 603(a)(2)][/us/pl/113/126/s603/a/2], (3), added subsec. (h) and redesignated former subsec. (h) as (i).
 
     2010—Subsec. (a)(3). [Pub. L. 111–259][/us/pl/111/259] added par. (3).
 
@@ -132,6 +148,7 @@
 
 [/us/usc/t5/s2302/a/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2302%2Fa%2F2%2FC%2Fii
 [/us/usc/t50/s3517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3517
+[/us/usc/t50/s3033/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3033%2Fk
 [/us/usc/t50/s3106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3106
 [/us/usc/t50/s401a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401a
 [/us/usc/t50/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003
@@ -147,6 +164,13 @@
 [/us/stat/122/4575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4575
 [/us/pl/111/259/s431/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs431%2Fb
 [/us/stat/124/2731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2731
+[/us/pl/113/126/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs310
+[/us/stat/128/1398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1398
+[/us/pl/113/126/s310/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs310%2F1
+[/us/pl/113/126/s310/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs310%2F1
+[/us/usc/t50/s3033/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3033%2Fk
+[/us/pl/113/126/s603/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs603%2Fa%2F1
+[/us/pl/113/126/s603/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs603%2Fa%2F2
 [/us/pl/111/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/107/306/s825/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs825%2F1

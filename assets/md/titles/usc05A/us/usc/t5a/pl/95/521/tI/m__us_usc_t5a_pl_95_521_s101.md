@@ -145,7 +145,7 @@
 
 [Pub. L. 101–280, § 11][/us/pl/101/280/s11], May 4, 1990, [104 Stat. 163][/us/stat/104/163], provided that: 
 
-> “Except as otherwise provided in this joint resolution, this Act and the amendments made by this joint resolution \[amending sections 101 to 106, 109 to 111, former section 202, and sections 501 to 503 of [Pub. L. 95–521][/us/pl/95/521], set out in this Appendix, sections 3393, 7351, 7353, and 7701 of this title, sections 31–1, 31–2, and 441i of Title 2, The Congress, sections 1601 and 2397a of Title 10, Armed Forces, sections 202, 203, 205, 207, 208, and 216 of Title 18, Crimes and Criminal Procedure, [section 3945 of Title 22][/us/usc/t22/s3945], Foreign Relations and Intercourse, [section 1043 of Title 26][/us/usc/t26/s1043], Internal Revenue Code, and sections 1353 and 3730 of Title 31, Money and Finance, renumbering [section 1352 of Title 31][/us/usc/t31/s1352] as section 1353, repealing [section 112 of Pub. L. 95–521][/us/pl/95/521/s112], set out in this Appendix, enacting provisions set out as notes under sections 101 and 105 of [Pub. L. 95–521][/us/pl/95/521], set out in this Appendix, [section 2397a of Title 10][/us/usc/t10/s2397a], and [section 1043 of Title 26][/us/usc/t26/s1043], and amending provisions set out as notes under section 207 and 208 of Title 18 and [section 1344 of Title 31][/us/usc/t31/s1344]\] take effect on the date of the enactment of this joint resolution \[May 4, 1990\].”
+> “Except as otherwise provided in this joint resolution, this Act and the amendments made by this joint resolution \[amending sections 101 to 106, 109 to 111, former section 202, and sections 501 to 503 of [Pub. L. 95–521][/us/pl/95/521], set out in this Appendix, sections 3393, 7351, 7353, and 7701 of this title, sections 31–1, 441i, and 4725 of Title 2, The Congress, sections 1601 and 2397a of Title 10, Armed Forces, sections 202, 203, 205, 207, 208, and 216 of Title 18, Crimes and Criminal Procedure, [section 3945 of Title 22][/us/usc/t22/s3945], Foreign Relations and Intercourse, [section 1043 of Title 26][/us/usc/t26/s1043], Internal Revenue Code, and sections 1353 and 3730 of Title 31, Money and Finance, renumbering [section 1352 of Title 31][/us/usc/t31/s1352] as section 1353, repealing [section 112 of Pub. L. 95–521][/us/pl/95/521/s112], set out in this Appendix, enacting provisions set out as notes under sections 101 and 105 of [Pub. L. 95–521][/us/pl/95/521], set out in this Appendix, [section 2397a of Title 10][/us/usc/t10/s2397a], and [section 1043 of Title 26][/us/usc/t26/s1043], and amending provisions set out as notes under section 207 and 208 of Title 18 and [section 1344 of Title 31][/us/usc/t31/s1344]\] take effect on the date of the enactment of this joint resolution \[May 4, 1990\].”
 
  __Effective Date of 1989 Amendment__ 
 
@@ -163,7 +163,7 @@
 
 [Pub. L. 112–105, § 1][/us/pl/112/105/s1], Apr. 4, 2012, [126 Stat. 291][/us/stat/126/291], provided that: 
 
-> “This Act \[enacting [section 4518a of Title 12][/us/usc/t12/s4518a], Banks and Banking, amending sections 102, 103, and 105 of [Pub. L. 95–521][/us/pl/95/521], set out in this Appendix, [section 104e of Title 2][/us/usc/t2/s104e], The Congress, sections 8332 and 8411, of Title 5, Government Organization and Employees, [section 6c of Title 7][/us/usc/t7/s6c], Agriculture, [section 78u–1 of Title 15][/us/usc/t15/s78u–1], Commerce and Trade, and [section 227 of Title 18][/us/usc/t18/s227], Crimes and Criminal Procedure, and enacting provisions set out as notes preceding [section 101 of Pub. L. 95–521][/us/pl/95/521/s101] and under sections 101 to 103 and 105 of [Pub. L. 95–521][/us/pl/95/521], set out in this Appendix, [section 104e of Title 2][/us/usc/t2/s104e], and sections 78j and 78u–1 of Title 15\] may be cited as the ‘Stop Trading on Congressional Knowledge Act of 2012’ or the ‘STOCK Act’.”
+> “This Act \[see Tables for classification\] may be cited as the ‘Stop Trading on Congressional Knowledge Act of 2012’ or the ‘STOCK Act’.”
 
  __Short Title of 2007 Amendment__ 
 
@@ -205,7 +205,7 @@
 
 [Pub. L. 95–521, § 1][/us/pl/95/521/s1], Oct. 26, 1978, [92 Stat. 1824][/us/stat/92/1824], provided: 
 
-> “That this Act \[enacting provisions set out in this Appendix, sections 118a, 288 to 288m of Title 2, The Congress, sections 49, 528, 529, 591 to 598, 1364 of Title 28, Judiciary and Judicial Procedure, amending [section 5316 of Title 5][/us/usc/t5/s5316], Government Organization and Employees, [section 207 of Title 18][/us/usc/t18/s207], Crimes and Criminal Procedure, and sections 3210, 3216, and 3219 of Title 39, Postal Service, and enacting provisions set out as notes under [section 288 of Title 2][/us/usc/t2/s288], [section 207 of Title 18][/us/usc/t18/s207], and [section 591 of Title 28][/us/usc/t28/s591]\] may be cited as the ‘Ethics in Government Act of 1978’.”
+> “That this Act \[see Tables for classification\] may be cited as the ‘Ethics in Government Act of 1978’.”
 
  __Rule of Construction__ 
 
@@ -223,11 +223,11 @@
 
 [Pub. L. 112–105, § 17][/us/pl/112/105/s17], Apr. 4, 2012, [126 Stat. 303][/us/stat/126/303], provided that:
 
->     “(a) __Restriction Extended to Executive and Judicial Branches.—__ 
+>     “(a)  __Restriction Extended to Executive and Judicial Branches__  __.—__ 
 
 >     Notwithstanding any other provision of law, an individual required to file a financial disclosure report under section 101 of the Ethics in Government Act of 1978 (5 U.S.C. App. 101) may not directly negotiate or have any agreement of future employment or compensation unless such individual, within 3 business days after the commencement of such negotiation or agreement of future employment or compensation, files with the individual’s supervising ethics office a statement, signed by such individual, regarding such negotiations or agreement, including the name of the private entity or entities involved in such negotiations or agreement, and the date such negotiations or agreement commenced.
 
->     “(b) __Recusal.—__ 
+>     “(b)  __Recusal__  __.—__ 
 
 >     An individual filing a statement under subsection (a) shall recuse himself or herself whenever there is a conflict of interest, or appearance of a conflict of interest, for such individual with respect to the subject matter of the statement, and shall notify the individual’s supervising ethics office of such recusal. An individual making such recusal shall, upon such recusal, submit to the supervising ethics office the statement under subsection (a) with respect to which the recusal was made.”
 
@@ -235,7 +235,7 @@
 
 [Pub. L. 102–90, title III, § 314(f)][/us/pl/102/90/s314/f], Aug. 14, 1991, [105 Stat. 470][/us/stat/105/470], provided that: 
 
-> “The provisions of this section \[amending sections 102 and 505 of [Pub. L. 95–521][/us/pl/95/521], set out in this Appendix, [section 31–2 of Title 2][/us/usc/t2/s31–2], The Congress, and [section 7701 of Title 26][/us/usc/t26/s7701], Internal Revenue Code, and enacting provisions set out as a note under [section 31–2 of Title 2][/us/usc/t2/s31–2]\] that are applicable to Members, officers, or employees of the legislative branch are enacted by the Congress—
+> “The provisions of this section \[amending sections 102 and 505 of [Pub. L. 95–521][/us/pl/95/521], set out in this Appendix, [section 4725 of Title 2][/us/usc/t2/s4725], The Congress, and [section 7701 of Title 26][/us/usc/t26/s7701], Internal Revenue Code, and enacting provisions set out as a note under [section 4725 of Title 2][/us/usc/t2/s4725]\] that are applicable to Members, officers, or employees of the legislative branch are enacted by the Congress—
 
 >     “(1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such they shall be considered as part of the rules of each House, respectively, or of that House to which they specifically apply, and such rules shall supersede other rules only to the extent that they are inconsistent therewith; and
 
@@ -261,11 +261,11 @@
 
 > “In this Act \[see Short Title of 2012 Amendment note set out above\]:
 
->     “(1) __Member of congress.—__ 
+>     “(1)  __Member of congress__  __.—__ 
 
 >     The term ‘Member of Congress’ means a member of the Senate or House of Representatives, a Delegate to the House of Representatives, and the Resident Commissioner from Puerto Rico.
 
->     “(2) __Employee of congress.—__ 
+>     “(2)  __Employee of congress__  __.—__ 
 
 >     The term ‘employee of Congress’ means—
 
@@ -273,7 +273,7 @@
 
 >         “(B) any other officer or employee of the legislative branch (as defined in section 109(11) of the Ethics in Government Act of 1978 (5 U.S.C. App. 109(11))).
 
->     “(3) __Executive branch employee.—__ 
+>     “(3)  __Executive branch employee__  __.—__ 
 
 >     The term ‘executive branch employee’—
 
@@ -289,15 +289,15 @@
 
 >             “(iii) an employee of the United States Postal Service or the Postal Regulatory Commission.
 
->     “(4) __Judicial officer.—__ 
+>     “(4)  __Judicial officer__  __.—__ 
 
 >     The term ‘judicial officer’ has the meaning given that term under section 109(10) of the Ethics in Government Act of 1978 (U.S.C. App. 109(10)).
 
->     “(5) __Judicial employee.—__ 
+>     “(5)  __Judicial employee__  __.—__ 
 
 >     The term ‘judicial employee’ has the meaning given that term in section 109(8) of the Ethics in Government Act of 1978 (5 U.S.C. App. 109(8)).
 
->     “(6) __Supervising ethics office.—__ 
+>     “(6)  __Supervising ethics office__  __.—__ 
 
 >     The term ‘supervising ethics office’ has the meaning given that term in section 109(18) of the Ethics in Government Act of 1978 (5 U.S.C. App. 109(18)).”
 
@@ -379,15 +379,6 @@
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
 [/us/pl/112/105/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F105%2Fs1
 [/us/stat/126/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F291
-[/us/usc/t12/s4518a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4518a
-[/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
-[/us/usc/t2/s104e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs104e
-[/us/usc/t7/s6c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6c
-[/us/usc/t15/s78u–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78u%E2%80%931
-[/us/usc/t18/s227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs227
-[/us/pl/95/521/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs101
-[/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
-[/us/usc/t2/s104e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs104e
 [/us/pl/110/24/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F24%2Fs1
 [/us/stat/121/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F100
 [/us/pl/95/521/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs105
@@ -410,11 +401,6 @@
 [/us/stat/103/1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1716
 [/us/pl/95/521/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs1
 [/us/stat/92/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1824
-[/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
-[/us/usc/t18/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs207
-[/us/usc/t2/s288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs288
-[/us/usc/t18/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs207
-[/us/usc/t28/s591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs591
 [/us/pl/112/105/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F105%2Fs10
 [/us/stat/126/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F298
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
@@ -423,9 +409,9 @@
 [/us/pl/102/90/s314/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90%2Fs314%2Ff
 [/us/stat/105/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F470
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
-[/us/usc/t2/s31–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs31%E2%80%932
+[/us/usc/t2/s4725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4725
 [/us/usc/t26/s7701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7701
-[/us/usc/t2/s31–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs31%E2%80%932
+[/us/usc/t2/s4725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4725
 [/us/pl/101/194/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs1001
 [/us/pl/101/280/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs1
 [/us/stat/104/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F149
